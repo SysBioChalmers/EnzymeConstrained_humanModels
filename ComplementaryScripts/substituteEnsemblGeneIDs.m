@@ -43,11 +43,7 @@ function [model] = substituteEnsemblGeneIDs(model)
                     grRule = strcat(grRule,{' '});
                 end
             end
-            if isempty(grRule)
-                grRule{1} = '';
-            end 
-            model.grRules{i} = grRule;%char(model.grRules{i});
-           %disp(model.grRules{i})
+            model.grRules{i} = char(grRule);
         end
         disp(strcat('ready with grRule #',string(i)))
     end
