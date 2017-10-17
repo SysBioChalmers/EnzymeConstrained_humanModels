@@ -1,0 +1,107 @@
+ENTRY       8654              CDS       T01001
+NAME        PDE5A, CGB-PDE, CN5A, PDE5
+DEFINITION  (RefSeq) phosphodiesterase 5A
+ORTHOLOGY   K13762  cGMP-specific 3',5'-cyclic phosphodiesterase [EC:3.1.4.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa04022  cGMP-PKG signaling pathway
+DRUG_TARGET Avanafil: D03217
+            Caffeine (DG00974): D00528 D01453 D07603
+            Dasantafil: D03657
+            Dipyridamole: D00302
+            Gisadenafil (DG01258): D09621 D09622
+            Sildenafil (DG00484): D02229 D08514
+            Tadalafil: D02008
+            Udenafil: D10027
+            Vardenafil (DG00487): D03260
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                8654 (PDE5A)
+             Environmental Information Processing
+              Signal transduction
+               04022 cGMP - PKG signaling pathway
+                8654 (PDE5A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.35  3',5'-cyclic-GMP phosphodiesterase
+                 8654 (PDE5A)
+POSITION    4q26
+MOTIF       Pfam: PDEase_I GAF GAF_2 HD
+DBLINKS     NCBI-GeneID: 8654
+            NCBI-ProteinID: NP_001074
+            OMIM: 603310
+            HGNC: 8784
+            Ensembl: ENSG00000138735
+            Vega: OTTHUMG00000132971
+            Pharos: O76074(Tclin)
+            UniProt: O76074
+STRUCTURE   PDB: 1TBF 1XOZ 5JO3 3HC8 1XP0 3HDZ 2H44 2H40 3TGG 3SIE 3TGE
+                 4MD6 3BJC 1T9S 1RKP 3B2R 4I9Z 1T9R 4OEX 4IA0 4G2W 2H42
+                 1UDT 4G2Y 4OEW 3SHZ 2XSS 1UHO 3SHY 3LFV 1UDU 3JWQ 3JWR
+                 3MF0 2CHM
+AASEQ       875
+            MERAGPSFGQQRQQQQPQQQKQQQRDQDSVEAWLDDHWDFTFSYFVRKATREMVNAWFAE
+            RVHTIPVCKEGIRGHTESCSCPLQQSPRADNSAPGTPTRKISASEFDRPLRPIVVKDSEG
+            TVSFLSDSEKKEQMPLTPPRFDHDEGDQCSRLLELVKDISSHLDVTALCHKIFLHIHGLI
+            SADRYSLFLVCEDSSNDKFLISRLFDVAEGSTLEEVSNNCIRLEWNKGIVGHVAALGEPL
+            NIKDAYEDPRFNAEVDQITGYKTQSILCMPIKNHREEVVGVAQAINKKSGNGGTFTEKDE
+            KDFAAYLAFCGIVLHNAQLYETSLLENKRNQVLLDLASLIFEEQQSLEVILKKIAATIIS
+            FMQVQKCTIFIVDEDCSDSFSSVFHMECEELEKSSDTLTREHDANKINYMYAQYVKNTME
+            PLNIPDVSKDKRFPWTTENTGNVNQQCIRSLLCTPIKNGKKNKVIGVCQLVNKMEENTGK
+            VKPFNRNDEQFLEAFVIFCGLGIQNTQMYEAVERAMAKQMVTLEVLSYHASAAEEETREL
+            QSLAAAVVPSAQTLKITDFSFSDFELSDLETALCTIRMFTDLNLVQNFQMKHEVLCRWIL
+            SVKKNYRKNVAYHNWRHAFNTAQCMFAALKAGKIQNKLTDLEILALLIAALSHDLDHRGV
+            NNSYIQRSEHPLAQLYCHSIMEHHHFDQCLMILNSPGNQILSGLSIEEYKTTLKIIKQAI
+            LATDLALYIKRRGEFFELIRKNQFNLEDPHQKELFLAMLMTACDLSAITKPWPIQQRIAE
+            LVATEFFDQGDRERKELNIEPTDLMNREKKNKIPSMQVGFIDAICLQLYEALTHVSEDCF
+            PLLDGCRKNRQKWQALAEQQEKMLINGESGQAKRN
+NTSEQ       2628
+            atggagcgggccggccccagcttcgggcagcagcgacagcagcagcagccccagcagcag
+            aagcagcagcagagggatcaggactcggtcgaagcatggctggacgatcactgggacttt
+            accttctcatactttgttagaaaagccaccagagaaatggtcaatgcatggtttgctgag
+            agagttcacaccatccctgtgtgcaaggaaggtatcagaggccacaccgaatcttgctct
+            tgtcccttgcagcagagtcctcgtgcagataacagtgcccctggaacaccaaccaggaaa
+            atctctgcctctgaatttgaccggcctcttagacccattgttgtcaaggattctgaggga
+            actgtgagcttcctctctgactcagaaaagaaggaacagatgcctctaacccctccaagg
+            tttgatcatgatgaaggggaccagtgctcaagactcttggaattagtgaaggatatttct
+            agtcatttggatgtcacagccttatgtcacaaaattttcttgcatatccatggactgata
+            tctgctgaccgctattccctgttccttgtctgtgaagacagctccaatgacaagtttctt
+            atcagccgcctctttgatgttgctgaaggttcaacactggaagaagtttcaaataactgt
+            atccgcttagaatggaacaaaggcattgtgggacatgtggcagcgcttggtgagcccttg
+            aacatcaaagatgcatatgaggatcctcggttcaatgcagaagttgaccaaattacaggc
+            tacaagacacaaagcattctttgtatgccaattaagaatcatagggaagaggttgttggt
+            gtagcccaggccatcaacaagaaatcaggaaacggtgggacatttactgaaaaagatgaa
+            aaggactttgctgcttatttggcattttgtggtattgttcttcataatgctcagctctat
+            gagacttcactgctggagaacaagagaaatcaggtgctgcttgaccttgctagtttaatt
+            tttgaagaacaacaatcattagaagtaattttgaagaaaatagctgccactattatctct
+            ttcatgcaagtgcagaaatgcaccattttcatagtggatgaagattgctccgattctttt
+            tctagtgtgtttcacatggagtgtgaggaattagaaaaatcatctgatacattaacaagg
+            gaacatgatgcaaacaaaatcaattacatgtatgctcagtatgtcaaaaatactatggaa
+            ccacttaatatcccagatgtcagtaaggataaaagatttccctggacaactgaaaataca
+            ggaaatgtaaaccagcagtgcattagaagtttgctttgtacacctataaaaaatggaaag
+            aagaataaagttataggggtttgccaacttgttaataagatggaggagaatactggcaag
+            gttaagcctttcaaccgaaatgacgaacagtttctggaagcttttgtcatcttttgtggc
+            ttggggatccagaacacgcagatgtatgaagcagtggagagagccatggccaagcaaatg
+            gtcacattggaggttctgtcgtatcatgcttcagcagcagaggaagaaacaagagagcta
+            cagtcgttagcggctgctgtggtgccatctgcccagacccttaaaattactgactttagc
+            ttcagtgactttgagctgtctgatctggaaacagcactgtgtacaattcggatgtttact
+            gacctcaaccttgtgcagaacttccagatgaaacatgaggttctttgcagatggatttta
+            agtgttaagaagaattatcggaagaatgttgcctatcataattggagacatgcctttaat
+            acagctcagtgcatgtttgctgctctaaaagcaggcaaaattcagaacaagctgactgac
+            ctggagatacttgcattgctgattgctgcactaagccacgatttggatcaccgtggtgtg
+            aataactcttacatacagcgaagtgaacatccacttgcccagctttactgccattcaatc
+            atggaacaccatcattttgaccagtgcctgatgattcttaatagtccaggcaatcagatt
+            ctcagtggcctctccattgaagaatataagaccacgttgaaaataatcaagcaagctatt
+            ttagctacagacctagcactgtacattaagaggcgaggagaattttttgaacttataaga
+            aaaaatcaattcaatttggaagatcctcatcaaaaggagttgtttttggcaatgctgatg
+            acagcttgtgatctttctgcaattacaaaaccctggcctattcaacaacggatagcagaa
+            cttgtagcaactgaattttttgatcaaggagacagagagagaaaagaactcaacatagaa
+            cccactgatctaatgaacagggagaagaaaaacaaaatcccaagtatgcaagttgggttc
+            atagatgccatctgcttgcaactgtatgaggccctgacccacgtgtcagaggactgtttc
+            cctttgctagatggctgcagaaagaacaggcagaaatggcaggcccttgcagaacagcag
+            gagaagatgctgattaatggggaaagcggccaggccaagcggaactga
+///

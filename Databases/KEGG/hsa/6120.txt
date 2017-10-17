@@ -1,0 +1,60 @@
+ENTRY       6120              CDS       T01001
+NAME        RPE, RPE2-1
+DEFINITION  (RefSeq) ribulose-5-phosphate-3-epimerase
+ORTHOLOGY   K01783  ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa00040  Pentose and glucuronate interconversions
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                6120 (RPE)
+               01230 Biosynthesis of amino acids
+                6120 (RPE)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                6120 (RPE)
+               00040 Pentose and glucuronate interconversions
+                6120 (RPE)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.1  ribulose-phosphate 3-epimerase
+                 6120 (RPE)
+POSITION    2q34
+MOTIF       Pfam: Ribul_P_3_epim QRPTase_C OMPdecase IGPS His_biosynth
+DBLINKS     NCBI-GeneID: 6120
+            NCBI-ProteinID: NP_954699
+            OMIM: 180480
+            HGNC: 10293
+            Ensembl: ENSG00000197713
+            Vega: OTTHUMG00000154690
+            Pharos: Q96AT9(Tbio)
+            UniProt: Q96AT9
+STRUCTURE   PDB: 3OVP 3OVR 3OVQ 3QC3
+AASEQ       228
+            MASGCKIGPSILNSDLANLGAECLRMLDSGADYLHLDVMDGHFVPNITFGHPVVESLRKQ
+            LGQDPFFDMHMMVSKPEQWVKPMAVAGANQYTFHLEATENPGALIKDIRENGMKVGLAIK
+            PGTSVEYLAPWANQIDMALVMTVEPGFGGQKFMEDMMPKVHWLRTQFPSLDIEVDGGVGP
+            DTVHKCAEAGANMIVSGSAIMRSEDPRSVINLLRNVCSEAAQKRSLDR
+NTSEQ       687
+            atggcgtcgggctgcaagattggcccgtccatcctcaacagcgacctggccaatttaggg
+            gccgagtgcctccggatgctagactctggggccgattatctgcacctggacgtaatggac
+            gggcattttgttcccaacatcacctttggtcaccctgtggtagaaagccttcgaaagcag
+            ctaggccaggaccctttctttgacatgcacatgatggtgtccaagccagaacagtgggta
+            aagccaatggctgtagcaggagccaatcagtacacctttcatctcgaggctactgagaac
+            ccaggggctttgattaaagacattcgggagaatgggatgaaggttggccttgccatcaaa
+            ccaggaacctcagttgagtatttggcaccatgggctaatcagatagatatggccttggtt
+            atgacagtggaaccggggtttggagggcagaaattcatggaagatatgatgccaaaggtt
+            cactggttgaggacccagttcccatctttggatatagaggtcgatggtggagtaggtcct
+            gacactgtccataaatgtgcagaggcaggagctaacatgattgtgtctggcagtgctatt
+            atgaggagtgaagaccccagatctgtgatcaatctattaagaaatgtttgctcagaagct
+            gctcagaaacgttctcttgatcggtga
+///

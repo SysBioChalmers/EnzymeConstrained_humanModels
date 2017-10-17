@@ -1,0 +1,233 @@
+ENTRY       3480              CDS       T01001
+NAME        IGF1R, CD221, IGFIR, IGFR, JTK13
+DEFINITION  (RefSeq) insulin like growth factor 1 receptor
+ORTHOLOGY   K05087  insulin-like growth factor 1 receptor [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04140  Autophagy - animal
+            hsa04144  Endocytosis
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04730  Long-term depression
+            hsa04913  Ovarian steroidogenesis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+DISEASE     H00015  Malignant pleural mesothelioma
+            H00050  Synovial sarcoma
+            H01274  Growth delay due to insulin-like growth factor I resistance
+DRUG_TARGET Mecasermin: D03297
+            Mecasermin rinfabate: D04870
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3480 (IGF1R)
+               04015 Rap1 signaling pathway
+                3480 (IGF1R)
+               04066 HIF-1 signaling pathway
+                3480 (IGF1R)
+               04068 FoxO signaling pathway
+                3480 (IGF1R)
+               04151 PI3K-Akt signaling pathway
+                3480 (IGF1R)
+               04152 AMPK signaling pathway
+                3480 (IGF1R)
+               04150 mTOR signaling pathway
+                3480 (IGF1R)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                3480 (IGF1R)
+               04140 Autophagy - animal
+                3480 (IGF1R)
+              Cell growth and death
+               04114 Oocyte meiosis
+                3480 (IGF1R)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3480 (IGF1R)
+               04520 Adherens junction
+                3480 (IGF1R)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                3480 (IGF1R)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                3480 (IGF1R)
+               04914 Progesterone-mediated oocyte maturation
+                3480 (IGF1R)
+              Nervous system
+               04730 Long-term depression
+                3480 (IGF1R)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                3480 (IGF1R)
+               04213 Longevity regulating pathway - multiple species
+                3480 (IGF1R)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3480 (IGF1R)
+               05202 Transcriptional misregulation in cancers
+                3480 (IGF1R)
+               05205 Proteoglycans in cancer
+                3480 (IGF1R)
+               05214 Glioma
+                3480 (IGF1R)
+               05218 Melanoma
+                3480 (IGF1R)
+               05215 Prostate cancer
+                3480 (IGF1R)
+               05224 Breast cancer
+                3480 (IGF1R)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                3480 (IGF1R)
+               01522 Endocrine resistance
+                3480 (IGF1R)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 3480 (IGF1R)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              InsR family [OT]
+               3480 (IGF1R)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class II (Insulin receptor family)
+               3480 (IGF1R)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class II (Insulin receptor family)
+               3480 (IGF1R)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3480 (IGF1R)
+POSITION    15q26.3
+MOTIF       Pfam: Pkinase_Tyr Recep_L_domain Pkinase Furin-like fn3 Kinase-like DUF4476
+DBLINKS     NCBI-GeneID: 3480
+            NCBI-ProteinID: NP_000866
+            OMIM: 147370
+            HGNC: 5465
+            Ensembl: ENSG00000140443
+            Vega: OTTHUMG00000149851
+            Pharos: P08069(Tclin)
+            UniProt: P08069
+STRUCTURE   PDB: 1P4O 3LW0 5FXS 2OJ9 3I81 4D2R 3O23 1K3A 1JQH 3NW7 3NW5
+                 5HZN 3NW6 5FXQ 3D94 5FXR 2ZM3 1IGR 1M7N 3QQU 3F5P 3LVP
+AASEQ       1367
+            MKSGSGGGSPTSLWGLLFLSAALSLWPTSGEICGPGIDIRNDYQQLKRLENCTVIEGYLH
+            ILLISKAEDYRSYRFPKLTVITEYLLLFRVAGLESLGDLFPNLTVIRGWKLFYNYALVIF
+            EMTNLKDIGLYNLRNITRGAIRIEKNADLCYLSTVDWSLILDAVSNNYIVGNKPPKECGD
+            LCPGTMEEKPMCEKTTINNEYNYRCWTTNRCQKMCPSTCGKRACTENNECCHPECLGSCS
+            APDNDTACVACRHYYYAGVCVPACPPNTYRFEGWRCVDRDFCANILSAESSDSEGFVIHD
+            GECMQECPSGFIRNGSQSMYCIPCEGPCPKVCEEEKKTKTIDSVTSAQMLQGCTIFKGNL
+            LINIRRGNNIASELENFMGLIEVVTGYVKIRHSHALVSLSFLKNLRLILGEEQLEGNYSF
+            YVLDNQNLQQLWDWDHRNLTIKAGKMYFAFNPKLCVSEIYRMEEVTGTKGRQSKGDINTR
+            NNGERASCESDVLHFTSTTTSKNRIIITWHRYRPPDYRDLISFTVYYKEAPFKNVTEYDG
+            QDACGSNSWNMVDVDLPPNKDVEPGILLHGLKPWTQYAVYVKAVTLTMVENDHIRGAKSE
+            ILYIRTNASVPSIPLDVLSASNSSSQLIVKWNPPSLPNGNLSYYIVRWQRQPQDGYLYRH
+            NYCSKDKIPIRKYADGTIDIEEVTENPKTEVCGGEKGPCCACPKTEAEKQAEKEEAEYRK
+            VFENFLHNSIFVPRPERKRRDVMQVANTTMSSRSRNTTAADTYNITDPEELETEYPFFES
+            RVDNKERTVISNLRPFTLYRIDIHSCNHEAEKLGCSASNFVFARTMPAEGADDIPGPVTW
+            EPRPENSIFLKWPEPENPNGLILMYEIKYGSQVEDQRECVSRQEYRKYGGAKLNRLNPGN
+            YTARIQATSLSGNGSWTDPVFFYVQAKTGYENFIHLIIALPVAVLLIVGGLVIMLYVFHR
+            KRNNSRLGNGVLYASVNPEYFSAADVYVPDEWEVAREKITMSRELGQGSFGMVYEGVAKG
+            VVKDEPETRVAIKTVNEAASMRERIEFLNEASVMKEFNCHHVVRLLGVVSQGQPTLVIME
+            LMTRGDLKSYLRSLRPEMENNPVLAPPSLSKMIQMAGEIADGMAYLNANKFVHRDLAARN
+            CMVAEDFTVKIGDFGMTRDIYETDYYRKGGKGLLPVRWMSPESLKDGVFTTYSDVWSFGV
+            VLWEIATLAEQPYQGLSNEQVLRFVMEGGLLDKPDNCPDMLFELMRMCWQYNPKMRPSFL
+            EIISSIKEEMEPGFREVSFYYSEENKLPEPEELDLEPENMESVPLDPSASSSSLPLPDRH
+            SGHKAENGPGPGVLVLRASFDERQPYAHMNGGRKNERALPLPQSSTC
+NTSEQ       4104
+            atgaagtctggctccggaggagggtccccgacctcgctgtgggggctcctgtttctctcc
+            gccgcgctctcgctctggccgacgagtggagaaatctgcgggccaggcatcgacatccgc
+            aacgactatcagcagctgaagcgcctggagaactgcacggtgatcgagggctacctccac
+            atcctgctcatctccaaggccgaggactaccgcagctaccgcttccccaagctcacggtc
+            attaccgagtacttgctgctgttccgagtggctggcctcgagagcctcggagacctcttc
+            cccaacctcacggtcatccgcggctggaaactcttctacaactacgccctggtcatcttc
+            gagatgaccaatctcaaggatattgggctttacaacctgaggaacattactcggggggcc
+            atcaggattgagaaaaatgctgacctctgttacctctccactgtggactggtccctgatc
+            ctggatgcggtgtccaataactacattgtggggaataagcccccaaaggaatgtggggac
+            ctgtgtccagggaccatggaggagaagccgatgtgtgagaagaccaccatcaacaatgag
+            tacaactaccgctgctggaccacaaaccgctgccagaaaatgtgcccaagcacgtgtggg
+            aagcgggcgtgcaccgagaacaatgagtgctgccaccccgagtgcctgggcagctgcagc
+            gcgcctgacaacgacacggcctgtgtagcttgccgccactactactatgccggtgtctgt
+            gtgcctgcctgcccgcccaacacctacaggtttgagggctggcgctgtgtggaccgtgac
+            ttctgcgccaacatcctcagcgccgagagcagcgactccgaggggtttgtgatccacgac
+            ggcgagtgcatgcaggagtgcccctcgggcttcatccgcaacggcagccagagcatgtac
+            tgcatcccttgtgaaggtccttgcccgaaggtctgtgaggaagaaaagaaaacaaagacc
+            attgattctgttacttctgctcagatgctccaaggatgcaccatcttcaagggcaatttg
+            ctcattaacatccgacgggggaataacattgcttcagagctggagaacttcatggggctc
+            atcgaggtggtgacgggctacgtgaagatccgccattctcatgccttggtctccttgtcc
+            ttcctaaaaaaccttcgcctcatcctaggagaggagcagctagaagggaattactccttc
+            tacgtcctcgacaaccagaacttgcagcaactgtgggactgggaccaccgcaacctgacc
+            atcaaagcagggaaaatgtactttgctttcaatcccaaattatgtgtttccgaaatttac
+            cgcatggaggaagtgacggggactaaagggcgccaaagcaaaggggacataaacaccagg
+            aacaacggggagagagcctcctgtgaaagtgacgtcctgcatttcacctccaccaccacg
+            tcgaagaatcgcatcatcataacctggcaccggtaccggccccctgactacagggatctc
+            atcagcttcaccgtttactacaaggaagcaccctttaagaatgtcacagagtatgatggg
+            caggatgcctgcggctccaacagctggaacatggtggacgtggacctcccgcccaacaag
+            gacgtggagcccggcatcttactacatgggctgaagccctggactcagtacgccgtttac
+            gtcaaggctgtgaccctcaccatggtggagaacgaccatatccgtggggccaagagtgag
+            atcttgtacattcgcaccaatgcttcagttccttccattcccttggacgttctttcagca
+            tcgaactcctcttctcagttaatcgtgaagtggaaccctccctctctgcccaacggcaac
+            ctgagttactacattgtgcgctggcagcggcagcctcaggacggctacctttaccggcac
+            aattactgctccaaagacaaaatccccatcaggaagtatgccgacggcaccatcgacatt
+            gaggaggtcacagagaaccccaagactgaggtgtgtggtggggagaaagggccttgctgc
+            gcctgccccaaaactgaagccgagaagcaggccgagaaggaggaggctgaataccgcaaa
+            gtctttgagaatttcctgcacaactccatcttcgtgcccagacctgaaaggaagcggaga
+            gatgtcatgcaagtggccaacaccaccatgtccagccgaagcaggaacaccacggccgca
+            gacacctacaacatcaccgacccggaagagctggagacagagtaccctttctttgagagc
+            agagtggataacaaggagagaactgtcatttctaaccttcggcctttcacattgtaccgc
+            atcgatatccacagctgcaaccacgaggctgagaagctgggctgcagcgcctccaacttc
+            gtctttgcaaggactatgcccgcagaaggagcagatgacattcctgggccagtgacctgg
+            gagccaaggcctgaaaactccatctttttaaagtggccggaacctgagaatcccaatgga
+            ttgattctaatgtatgaaataaaatacggatcacaagttgaggatcagcgagaatgtgtg
+            tccagacaggaatacaggaagtatggaggggccaagctaaaccggctaaacccggggaac
+            tacacagcccggattcaggccacatctctctctgggaatgggtcgtggacagatcctgtg
+            ttcttctatgtccaggccaaaacaggatatgaaaacttcatccatctgatcatcgctctg
+            cccgtcgctgtcctgttgatcgtgggagggttggtgattatgctgtacgtcttccataga
+            aagagaaataacagcaggctggggaatggagtgctgtatgcctctgtgaacccggagtac
+            ttcagcgctgctgatgtgtacgttcctgatgagtgggaggtggctcgggagaagatcacc
+            atgagccgggaacttgggcaggggtcgtttgggatggtctatgaaggagttgccaagggt
+            gtggtgaaagatgaacctgaaaccagagtggccattaaaacagtgaacgaggccgcaagc
+            atgcgtgagaggattgagtttctcaacgaagcttctgtgatgaaggagttcaattgtcac
+            catgtggtgcgattgctgggtgtggtgtcccaaggccagccaacactggtcatcatggaa
+            ctgatgacacggggcgatctcaaaagttatctccggtctctgaggccagaaatggagaat
+            aatccagtcctagcacctccaagcctgagcaagatgattcagatggccggagagattgca
+            gacggcatggcatacctcaacgccaataagttcgtccacagagaccttgctgcccggaat
+            tgcatggtagccgaagatttcacagtcaaaatcggagattttggtatgacgcgagatatc
+            tatgagacagactattaccggaaaggagggaaagggctgctgcccgtgcgctggatgtct
+            cctgagtccctcaaggatggagtcttcaccacttactcggacgtctggtccttcggggtc
+            gtcctctgggagatcgccacactggccgagcagccctaccagggcttgtccaacgagcaa
+            gtccttcgcttcgtcatggagggcggccttctggacaagccagacaactgtcctgacatg
+            ctgtttgaactgatgcgcatgtgctggcagtataaccccaagatgaggccttccttcctg
+            gagatcatcagcagcatcaaagaggagatggagcctggcttccgggaggtctccttctac
+            tacagcgaggagaacaagctgcccgagccggaggagctggacctggagccagagaacatg
+            gagagcgtccccctggacccctcggcctcctcgtcctccctgccactgcccgacagacac
+            tcaggacacaaggccgagaacggccccggccctggggtgctggtcctccgcgccagcttc
+            gacgagagacagccttacgcccacatgaacgggggccgcaagaacgagcgggccttgccg
+            ctgccccagtcttcgacctgctga
+///

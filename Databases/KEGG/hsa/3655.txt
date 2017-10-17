@@ -1,0 +1,161 @@
+ENTRY       3655              CDS       T01001
+NAME        ITGA6, CD49f, ITGA6B, VLA-6
+DEFINITION  (RefSeq) integrin subunit alpha 6
+ORTHOLOGY   K06485  integrin alpha 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04640  Hematopoietic cell lineage
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05145  Toxoplasmosis
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00586  Epidermolysis bullosa, junctional
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3655 (ITGA6)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3655 (ITGA6)
+               04514 Cell adhesion molecules (CAMs)
+                3655 (ITGA6)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3655 (ITGA6)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3655 (ITGA6)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3655 (ITGA6)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3655 (ITGA6)
+               05222 Small cell lung cancer
+                3655 (ITGA6)
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3655 (ITGA6)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3655 (ITGA6)
+               05414 Dilated cardiomyopathy (DCM)
+                3655 (ITGA6)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3655 (ITGA6)
+               05145 Toxoplasmosis
+                3655 (ITGA6)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3655 (ITGA6)
+              Exosomal proteins of breast milk
+               3655 (ITGA6)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             7. Others
+              SDC1; syndecan 1 [KO:K06257]
+               alpha 6 beta 4	Cell adhesion molecules (CAMs)
+                3655 (ITGA6)
+              SDC4; syndecan 4 [KO:K16338]
+                3655 (ITGA6)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3655 (ITGA6)
+POSITION    2q31.1
+MOTIF       Pfam: Integrin_alpha2 FG-GAP VCBS LRR19-TM Integrin_alpha
+DBLINKS     NCBI-GeneID: 3655
+            NCBI-ProteinID: NP_001073286
+            OMIM: 147556
+            HGNC: 6142
+            Ensembl: ENSG00000091409
+            Vega: OTTHUMG00000132277
+            Pharos: P23229(Tbio)
+            UniProt: P23229
+AASEQ       1091
+            MAAAGQLCLLYLSAGLLSRLGAAFNLDTREDNVIRKYGDPGSLFGFSLAMHWQLQPEDKR
+            LLLVGAPRAEALPLQRANRTGGLYSCDITARGPCTRIEFDNDADPTSESKEDQWMGVTVQ
+            SQGPGGKVVTCAHRYEKRQHVNTKQESRDIFGRCYVLSQNLRIEDDMDGGDWSFCDGRLR
+            GHEKFGSCQQGVAATFTKDFHYIVFGAPGTYNWKGIVRVEQKNNTFFDMNIFEDGPYEVG
+            GETEHDESLVPVPANSYLGFSLDSGKGIVSKDEITFVSGAPRANHSGAVVLLKRDMKSAH
+            LLPEHIFDGEGLASSFGYDVAVVDLNKDGWQDIVIGAPQYFDRDGEVGGAVYVYMNQQGR
+            WNNVKPIRLNGTKDSMFGIAVKNIGDINQDGYPDIAVGAPYDDLGKVFIYHGSANGINTK
+            PTQVLKGISPYFGYSIAGNMDLDRNSYPDVAVGSLSDSVTIFRSRPVINIQKTITVTPNR
+            IDLRQKTACGAPSGICLQVKSCFEYTANPAGYNPSISIVGTLEAEKERRKSGLSSRVQFR
+            NQGSEPKYTQELTLKRQKQKVCMEETLWLQDNIRDKLRPIPITASVEIQEPSSRRRVNSL
+            PEVLPILNSDEPKTAHIDVHFLKEGCGDDNVCNSNLKLEYKFCTREGNQDKFSYLPIQKG
+            VPELVLKDQKDIALEITVTNSPSNPRNPTKDGDDAHEAKLIATFPDTLTYSAYRELRAFP
+            EKQLSCVANQNGSQADCELGNPFKRNSNVTFYLVLSTTEVTFDTPDLDINLKLETTSNQD
+            NLAPITAKAKVVIELLLSVSGVAKPSQVYFGGTVVGEQAMKSEDEVGSLIEYEFRVINLG
+            KPLTNLGTATLNIQWPKEISNGKWLLYLVKVESKGLEKVTCEPQKEINSLNLTESHNSRK
+            KREITEKQIDDNRKFSLFAERKYQTLNCSVNVNCVNIRCPLRGLDSKASLILRSRLWNST
+            FLEEYSKLNYLDILMRAFIDVTAAAENIRLPNAGTQVRVTVFPSKTVAQYSGVPWWIILV
+            AILAGILMLALLVFILWKCGFFKRSRYDDSVPRYHAVRIRKEEREIKDEKYIDNLEKKQW
+            ITKWNENESYS
+NTSEQ       3276
+            atggccgccgccgggcagctgtgcttgctctacctgtcggcggggctcctgtcccggctc
+            ggcgcagccttcaacttggacactcgggaggacaacgtgatccggaaatatggagacccc
+            gggagcctcttcggcttctcgctggccatgcactggcaactgcagcccgaggacaagcgg
+            ctgttgctcgtgggggccccgcgggcagaagcgcttccactgcagagagccaacagaacg
+            ggagggctgtacagctgcgacatcaccgcccgggggccatgcacgcggatcgagtttgat
+            aacgatgctgaccccacgtcagaaagcaaggaagatcagtggatgggggtcaccgtccag
+            agccaaggtccagggggcaaggtcgtgacatgtgctcaccgatatgaaaaaaggcagcat
+            gttaatacgaagcaggaatcccgagacatctttgggcggtgttatgtcctgagtcagaat
+            ctcaggattgaagacgatatggatgggggagattggagcttttgtgatgggcgattgaga
+            ggccatgagaaatttggctcttgccagcaaggtgtagcagctacttttactaaagacttt
+            cattacattgtatttggagccccgggtacttataactggaaagggattgttcgtgtagag
+            caaaagaataacactttttttgacatgaacatctttgaagatgggccttatgaagttggt
+            ggagagactgagcatgatgaaagtctcgttcctgttcctgctaacagttacttaggtttt
+            tctttggactcagggaaaggtattgtttctaaagatgagatcacttttgtatctggtgct
+            cccagagccaatcacagtggagccgtggttttgctgaagagagacatgaagtctgcacat
+            ctcctccctgagcacatattcgatggagaaggtctggcctcttcatttggctatgatgtg
+            gcggtggtggacctcaacaaggatgggtggcaagatatagttattggagccccacagtat
+            tttgatagagatggagaagttggaggtgcagtgtatgtctacatgaaccagcaaggcaga
+            tggaataatgtgaagccaattcgtcttaatggaaccaaagattctatgtttggcattgca
+            gtaaaaaatattggagatattaatcaagatggctacccagatattgcagttggagctccg
+            tatgatgacttgggaaaggtttttatctatcatggatctgcaaatggaataaataccaaa
+            ccaacacaggttctcaagggtatatcaccttattttggatattcaattgctggaaacatg
+            gaccttgatcgaaattcctaccctgatgttgctgttggttccctctcagattcagtaact
+            attttcagatcccggcctgtgattaatattcagaaaaccatcacagtaactcctaacaga
+            attgacctccgccagaaaacagcgtgtggggcgcctagtgggatatgcctccaggttaaa
+            tcctgttttgaatatactgctaaccccgctggttataatccttcaatatcaattgtgggc
+            acacttgaagctgaaaaagaaagaagaaaatctgggctatcctcaagagttcagtttcga
+            aaccaaggttctgagcccaaatatactcaagaactaactctgaagaggcagaaacagaaa
+            gtgtgcatggaggaaaccctgtggctacaggataatatcagagataaactgcgtcccatt
+            cccataactgcctcagtggagatccaagagccaagctctcgtaggcgagtgaattcactt
+            ccagaagttcttccaattctgaattcagatgaacccaagacagctcatattgatgttcac
+            ttcttaaaagagggatgtggagacgacaatgtatgtaacagcaaccttaaactagaatat
+            aaattttgcacccgagaaggaaatcaagacaaattttcttatttaccaattcaaaaaggt
+            gtaccagaactagttctaaaagatcagaaggatattgctttagaaataacagtgacaaac
+            agcccttccaacccaaggaatcccacaaaagatggcgatgacgcccatgaggctaaactg
+            attgcaacgtttccagacactttaacctattctgcatatagagaactgagggctttccct
+            gagaaacagttgagttgtgttgccaaccagaatggctcgcaagctgactgtgagctcgga
+            aatccttttaaaagaaattcaaatgtcactttttatttggttttaagtacaactgaagtc
+            acctttgacaccccagatctggatattaatctgaagttagaaacaacaagcaatcaagat
+            aatttggctccaattacagctaaagcaaaagtggttattgaactgcttttatcggtctcg
+            ggagttgctaaaccttcccaggtgtattttggaggtacagttgttggcgagcaagctatg
+            aaatctgaagatgaagtgggaagtttaatagagtatgaattcagggtaataaacttaggt
+            aaacctcttacaaacctcggcacagcaaccttgaacattcagtggccaaaagaaattagc
+            aatgggaaatggttgctttatttggtgaaagtagaatccaaaggattggaaaaggtaact
+            tgtgagccacaaaaggagataaactccctgaacctaacggagtctcacaactcaagaaag
+            aaacgggaaattactgaaaaacagatagatgataacagaaaattttctttatttgctgaa
+            agaaaataccagactcttaactgtagcgtgaacgtgaactgtgtgaacatcagatgcccg
+            ctgcgggggctggacagcaaggcgtctcttattttgcgctcgaggttatggaacagcaca
+            tttctagaggaatattccaaactgaactacttggacattctcatgcgagccttcattgat
+            gtgactgctgctgccgaaaatatcaggctgccaaatgcaggcactcaggttcgagtgact
+            gtgtttccctcaaagactgtagctcagtattcgggagtaccttggtggatcatcctagtg
+            gctattctcgctgggatcttgatgcttgctttattagtgtttatactatggaagtgtgga
+            ttctttaaacgctctaggtacgatgacagtgttccccgataccatgctgtaaggatccgg
+            aaagaagagcgagagatcaaagatgaaaagtatattgataaccttgaaaaaaaacagtgg
+            atcacaaagtggaacgaaaatgaaagctactcatag
+///

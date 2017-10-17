@@ -1,0 +1,80 @@
+ENTRY       11044             CDS       T01001
+NAME        PAPD7, LAK-1, LAK1, POLK, POLS, TRF4, TRF4-1, TRF41, TUTASE5
+DEFINITION  (RefSeq) poly(A) RNA polymerase D7, non-canonical
+ORTHOLOGY   K03514  non-canonical poly(A) RNA polymerase PAPD5/7 [EC:2.7.7.19]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+MODULE      hsa_M00393  TRAMP complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                11044 (PAPD7)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.19  polynucleotide adenylyltransferase
+                 11044 (PAPD7)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA degradation factors
+               3'-5' decay
+                TRAMP complex
+                 11044 (PAPD7)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              tRNA degradation factors
+               TRAMP complex
+                11044 (PAPD7)
+POSITION    5p15.31
+MOTIF       Pfam: NTP_transf_2 PAP_assoc
+DBLINKS     NCBI-GeneID: 11044
+            NCBI-ProteinID: NP_008930
+            OMIM: 605198
+            HGNC: 16705
+            Ensembl: ENSG00000112941
+            Vega: OTTHUMG00000090457
+            Pharos: Q5XG87(Tbio)
+            UniProt: Q5XG87 B7ZLL4
+AASEQ       542
+            MSPCPEEAAMRREVVKRIETVVKDLWPTADVQIFGSFSTGLYLPTSDIDLVVFGKWERPP
+            LQLLEQALRKHNVAEPCSIKVLDKATVPIIKLTDQETEVKVDISFNMETGVRAAEFIKNY
+            MKKYSLLPYLILVLKQFLLQRDLNEVFTGGISSYSLILMAISFLQLHPRIDARRADENLG
+            MLLVEFFELYGRNFNYLKTGIRIKEGGAYIAKEEIMKAMTSGYRPSMLCIEDPLLPGNDV
+            GRSSYGAMQVKQVFDYAYIVLSHAVSPLARSYPNRDAESTLGRIIKVTQEVIDYRRWIKE
+            KWGSKAHPSPGMDSRIKIKERIATCNGEQTQNREPESPYGQRLTLSLSSPQLLSSGSSAS
+            SVSSLSGSDVDSDTPPCTTPSVYQFSLQAPAPLMAGLPTALPMPSGKPQPTTSRTLIMTT
+            NNQTRFTIPPPTLGVAPVPCRQAGVEGTASLKAVHHMSSPAIPSASPNPLSSPHLYHKQH
+            NGMKLSMKGSHGHTQGGGYSSVGSGGVRPPVGNRGHHQYNRTGWRRKKHTHTRDSLPVSL
+            SR
+NTSEQ       1629
+            atgtccccttgtcctgaagaagcagctatgagaagagaggtggtgaaacggatcgaaact
+            gtggtgaaagacctttggccgacggctgatgtacagatatttggcagctttagtacaggt
+            ctttatcttccaactagcgacatagacctggtggtcttcgggaaatgggagcgtcctcct
+            ttacagctgctggagcaagccctgcggaagcacaacgtggctgagccgtgttccatcaaa
+            gtccttgacaaggctacggtaccaataataaagctcacagatcaggagactgaagtgaaa
+            gttgacatcagctttaacatggagacgggcgtccgggcagcggagttcatcaagaattac
+            atgaagaaatattcattgctgccttacttgattttagtattgaaacagttccttctgcag
+            agggacctgaatgaagtttttacaggtggaattagctcatacagcctaattttaatggcc
+            attagctttctacagttgcatccaagaattgatgcccggagagctgatgaaaaccttgga
+            atgcttcttgtagaattttttgaactctatgggagaaattttaattacttgaaaaccggt
+            attagaatcaaagaaggaggtgcctatatcgccaaagaggagatcatgaaagccatgacc
+            agcgggtacagaccgtcgatgctgtgcattgaggaccccctgctgccagggaatgacgtt
+            ggccggagctcctatggcgccatgcaggtgaagcaggtcttcgattatgcctacatagtg
+            ctcagccatgctgtgtcaccgctggccaggtcctatccaaacagagacgccgaaagtact
+            ttaggaagaatcatcaaagtaactcaggaggtgattgactaccggaggtggatcaaagag
+            aagtggggcagcaaagcccacccgtcgccaggcatggacagcaggatcaagatcaaagag
+            cgaatagccacatgcaatggggagcagacgcagaaccgagagcccgagtctccctatggc
+            cagcgcttgactttgtcgctgtccagcccccagctcctgtcttcaggctcctcggcctct
+            tctgtgtcttcactttctgggagtgacgttgattcagacacaccgccctgcacaacgccc
+            agtgtttaccagttcagtctgcaagcgccagctcctctcatggccggcttacccaccgcc
+            ttgccaatgcccagtggcaaacctcagcccaccacttccagaacactgatcatgacaacc
+            aacaatcagaccaggtttactatacctccaccgaccctaggggttgctcctgttccttgc
+            agacaagctggtgtagaaggaactgcgtctttgaaagccgtccaccacatgtcttccccg
+            gccattccctcagcgtcccccaacccgctctcgagccctcatctgtatcataagcagcac
+            aacggcatgaaactgtccatgaagggctctcacggccacacccaaggcggcggctacagc
+            tctgtgggtagcggaggtgtgcggccccctgtgggcaacaggggacaccaccagtataac
+            cgcaccggctggaggaggaaaaaacacacacacacacgggacagtctgcccgtgagcctc
+            agcagataa
+///

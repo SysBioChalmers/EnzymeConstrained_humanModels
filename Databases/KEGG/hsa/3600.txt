@@ -1,0 +1,65 @@
+ENTRY       3600              CDS       T01001
+NAME        IL15, IL-15
+DEFINITION  (RefSeq) interleukin 15
+ORTHOLOGY   K05433  interleukin 15
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04630  Jak-STAT signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05323  Rheumatoid arthritis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3600 (IL15)
+               04668 TNF signaling pathway
+                3600 (IL15)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3600 (IL15)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                3600 (IL15)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                3600 (IL15)
+              Infectious diseases
+               05166 HTLV-I infection
+                3600 (IL15)
+               05168 Herpes simplex infection
+                3600 (IL15)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-2 receptor family
+               3600 (IL15)
+POSITION    4q31.21
+MOTIF       Pfam: IL15
+DBLINKS     NCBI-GeneID: 3600
+            NCBI-ProteinID: NP_000576
+            OMIM: 600554
+            HGNC: 5977
+            Ensembl: ENSG00000164136
+            Vega: OTTHUMG00000133418
+            Pharos: P40933(Tbio)
+            UniProt: P40933
+STRUCTURE   PDB: 2Z3Q 2Z3R 4GS7 2XQB
+AASEQ       162
+            MRISKPHLRSISIQCYLCLLLNSHFLTEAGIHVFILGCFSAGLPKTEANWVNVISDLKKI
+            EDLIQSMHIDATLYTESDVHPSCKVTAMKCFLLELQVISLESGDASIHDTVENLIILANN
+            SLSSNGNVTESGCKECEELEEKNIKEFLQSFVHIVQMFINTS
+NTSEQ       489
+            atgagaatttcgaaaccacatttgagaagtatttccatccagtgctacttgtgtttactt
+            ctaaacagtcattttctaactgaagctggcattcatgtcttcattttgggctgtttcagt
+            gcagggcttcctaaaacagaagccaactgggtgaatgtaataagtgatttgaaaaaaatt
+            gaagatcttattcaatctatgcatattgatgctactttatatacggaaagtgatgttcac
+            cccagttgcaaagtaacagcaatgaagtgctttctcttggagttacaagttatttcactt
+            gagtccggagatgcaagtattcatgatacagtagaaaatctgatcatcctagcaaacaac
+            agtttgtcttctaatgggaatgtaacagaatctggatgcaaagaatgtgaggaactggag
+            gaaaaaaatattaaagaatttttgcagagttttgtacatattgtccaaatgttcatcaac
+            acttcttga
+///

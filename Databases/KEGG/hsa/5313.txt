@@ -1,0 +1,110 @@
+ENTRY       5313              CDS       T01001
+NAME        PKLR, PK1, PKL, PKR, PKRL, RPK
+DEFINITION  (RefSeq) pyruvate kinase, liver and RBC
+ORTHOLOGY   K12406  pyruvate kinase isozymes R/L [EC:2.7.1.40]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00230  Purine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa04910  Insulin signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04950  Maturity onset diabetes of the young
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+DISEASE     H01096  Pyruvate kinase (PK) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                5313 (PKLR)
+               01230 Biosynthesis of amino acids
+                5313 (PKLR)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                5313 (PKLR)
+               00620 Pyruvate metabolism
+                5313 (PKLR)
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5313 (PKLR)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5313 (PKLR)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                5313 (PKLR)
+               04950 Maturity onset diabetes of the young
+                5313 (PKLR)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                5313 (PKLR)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.40  pyruvate kinase
+                 5313 (PKLR)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               5313 (PKLR)
+POSITION    1q22
+MOTIF       Pfam: PK PK_C IMPDH HpcH_HpaI
+DBLINKS     NCBI-GeneID: 5313
+            NCBI-ProteinID: NP_000289
+            OMIM: 609712
+            HGNC: 9020
+            Ensembl: ENSG00000143627
+            Vega: OTTHUMG00000035875
+            Pharos: P30613(Tbio)
+            UniProt: P30613
+STRUCTURE   PDB: 4IP7 4IMA 2VGB 2VGG 2VGF 2VGI
+AASEQ       574
+            MSIQENISSLQLRSWVSKSQRDLAKSILIGAPGGPAGYLRRASVAQLTQELGTAFFQQQQ
+            LPAAMADTFLEHLCLLDIDSEPVAARSTSIIATIGPASRSVERLKEMIKAGMNIARLNFS
+            HGSHEYHAESIANVREAVESFAGSPLSYRPVAIALDTKGPEIRTGILQGGPESEVELVKG
+            SQVLVTVDPAFRTRGNANTVWVDYPNIVRVVPVGGRIYIDDGLISLVVQKIGPEGLVTQV
+            ENGGVLGSRKGVNLPGAQVDLPGLSEQDVRDLRFGVEHGVDIVFASFVRKASDVAAVRAA
+            LGPEGHGIKIISKIENHEGVKRFDEILEVSDGIMVARGDLGIEIPAEKVFLAQKMMIGRC
+            NLAGKPVVCATQMLESMITKPRPTRAETSDVANAVLDGADCIMLSGETAKGNFPVEAVKM
+            QHAIAREAEAAVYHRQLFEELRRAAPLSRDPTEVTAIGAVEAAFKCCAAAIIVLTTTGRS
+            AQLLSRYRPRAAVIAVTRSAQAARQVHLCRGVFPLLYREPPEAIWADDVDRRVQFGIESG
+            KLRGFLRVGDLVIVVTGWRPGSGYTNIMRVLSIS
+NTSEQ       1725
+            atgtcgatccaggagaacatatcatccctgcagcttcggtcatgggtctctaagtcccaa
+            agagacttagcaaagtccatcctgattggggctccaggagggccagcggggtatctgcgg
+            cgggccagtgtggcccaactgacccaggagctgggcactgccttcttccagcagcagcag
+            ctgccagctgctatggcagacaccttcctggaacacctctgcctactggacattgactcc
+            gagcccgtggctgctcgcagtaccagcatcattgccaccatcgggccagcatctcgctcc
+            gtggagcgcctcaaggagatgatcaaggccgggatgaacattgcgcgactcaacttctcc
+            cacggctcccacgagtaccatgctgagtccatcgccaacgtccgggaggcggtggagagc
+            tttgcaggttccccactcagctaccggcccgtggccatcgccctggacaccaagggaccg
+            gagatccgcactgggatcctgcaggggggtccagagtcggaagtggagctggtgaagggc
+            tcccaggtgctggtgactgtggaccccgcgttccggacgcgggggaacgcgaacaccgtg
+            tgggtggactaccccaatattgtccgggtcgtgccggtggggggccgcatctacattgac
+            gacgggctcatctccctagtggtccagaaaatcggcccagagggactggtgacccaagtg
+            gagaacggcggcgtcctgggcagccggaagggcgtgaacttgccaggggcccaggtggac
+            ttgcccgggctgtccgagcaggacgtccgagacctgcgcttcggggtggagcatggggtg
+            gacatcgtctttgcctcctttgtgcggaaagccagcgacgtggctgccgtcagggctgct
+            ctgggtccggaaggacacggcatcaagatcatcagcaaaattgagaaccacgaaggcgtg
+            aagaggtttgatgaaatcctggaggtgagcgacggcatcatggtggcacggggggaccta
+            ggcatcgagatcccagcagagaaggttttcctggctcagaagatgatgattgggcgctgc
+            aacttggcgggcaagcctgttgtctgtgccacacagatgctggagagcatgattaccaag
+            ccccggccaacgagggcagagacaagcgatgtcgccaatgctgtgctggatggggctgac
+            tgcatcatgctgtcaggggagactgccaagggcaacttccctgtggaagcggtgaagatg
+            cagcatgcgattgcccgggaggcagaggccgcagtgtaccaccggcagctgtttgaggag
+            ctacgtcgggcagcgccactaagccgtgatcccactgaggtcaccgccattggtgctgtg
+            gaggctgccttcaagtgctgtgctgctgccatcattgtgctgaccacaactggccgctca
+            gcccagcttctgtctcggtaccgacctcgggcagcagtcattgctgtcacccgctctgcc
+            caggctgcccgccaggtccacttatgccgaggagtcttccccttgctttaccgtgaacct
+            ccagaagccatctgggcagatgatgtagatcgccgggtgcaatttggcattgaaagtgga
+            aagctccgtggcttcctccgtgttggagacctggtgattgtggtgacaggctggcgacct
+            ggctccggctacaccaacatcatgcgggtgctaagcatatcctga
+///

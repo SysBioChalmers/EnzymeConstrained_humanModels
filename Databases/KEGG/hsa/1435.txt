@@ -1,0 +1,96 @@
+ENTRY       1435              CDS       T01001
+NAME        CSF1, CSF-1, MCSF
+DEFINITION  (RefSeq) colony stimulating factor 1
+ORTHOLOGY   K05453  macrophage colony-stimulating factor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04640  Hematopoietic cell lineage
+            hsa04668  TNF signaling pathway
+            hsa05323  Rheumatoid arthritis
+DRUG_TARGET Linifanib: D09635
+            Sunitinib (DG00712): D06402 D08552
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                1435 (CSF1)
+               04015 Rap1 signaling pathway
+                1435 (CSF1)
+               04668 TNF signaling pathway
+                1435 (CSF1)
+               04151 PI3K-Akt signaling pathway
+                1435 (CSF1)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                1435 (CSF1)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                1435 (CSF1)
+              Development
+               04380 Osteoclast differentiation
+                1435 (CSF1)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                1435 (CSF1)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              4-Helix bundle growth factors
+               1435 (CSF1)
+POSITION    1p13.3
+MOTIF       Pfam: CSF-1
+DBLINKS     NCBI-GeneID: 1435
+            NCBI-ProteinID: NP_000748
+            OMIM: 120420
+            HGNC: 2432
+            Ensembl: ENSG00000184371
+            Vega: OTTHUMG00000011646
+            Pharos: P09603(Tbio)
+            UniProt: P09603 A0A024R0A1
+STRUCTURE   PDB: 5LXF 4FA8 1HMC 3UF2 4WRL 3UEZ 4ADF 4WRM
+AASEQ       554
+            MTAPGAAGRCPPTTWLGSLLLLVCLLASRSITEEVSEYCSHMIGSGHLQSLQRLIDSQME
+            TSCQITFEFVDQEQLKDPVCYLKKAFLLVQDIMEDTMRFRDNTPNAIAIVQLQELSLRLK
+            SCFTKDYEEHDKACVRTFYETPLQLLEKVKNVFNETKNLLDKDWNIFSKNCNNSFAECSS
+            QDVVTKPDCNCLYPKAIPSSDPASVSPHQPLAPSMAPVAGLTWEDSEGTEGSSLLPGEQP
+            LHTVDPGSAKQRPPRSTCQSFEPPETPVVKDSTIGGSPQPRPSVGAFNPGMEDILDSAMG
+            TNWVPEEASGEASEIPVPQGTELSPSRPGGGSMQTEPARPSNFLSASSPLPASAKGQQPA
+            DVTGTALPRVGPVRPTGQDWNHTPQKTDHPSALLRDPPEPGSPRISSLRPQGLSNPSTLS
+            AQPQLSRSHSSGSVLPLGELEGRRSTRDRRSPAEPEGGPASEGAARPLPRFNSVPLTDTG
+            HERQSEGSSSPQLQESVFHLLVPSVILVLLAVGGLLFYRWRRRSHQEPQRADSPLEQPEG
+            SPLTQDDRQVELPV
+NTSEQ       1665
+            atgaccgcgccgggcgccgccgggcgctgccctcccacgacatggctgggctccctgctg
+            ttgttggtctgtctcctggcgagcaggagtatcaccgaggaggtgtcggagtactgtagc
+            cacatgattgggagtggacacctgcagtctctgcagcggctgattgacagtcagatggag
+            acctcgtgccaaattacatttgagtttgtagaccaggaacagttgaaagatccagtgtgc
+            taccttaagaaggcatttctcctggtacaagacataatggaggacaccatgcgcttcaga
+            gataacacccccaatgccatcgccattgtgcagctgcaggaactctctttgaggctgaag
+            agctgcttcaccaaggattatgaagagcatgacaaggcctgcgtccgaactttctatgag
+            acacctctccagttgctggagaaggtcaagaatgtctttaatgaaacaaagaatctcctt
+            gacaaggactggaatattttcagcaagaactgcaacaacagctttgctgaatgctccagc
+            caagatgtggtgaccaagcctgattgcaactgcctgtaccccaaagccatccctagcagt
+            gacccggcctctgtctcccctcatcagcccctcgccccctccatggcccctgtggctggc
+            ttgacctgggaggactctgagggaactgagggcagctccctcttgcctggtgagcagccc
+            ctgcacacagtggatccaggcagtgccaagcagcggccacccaggagcacctgccagagc
+            tttgagccgccagagaccccagttgtcaaggacagcaccatcggtggctcaccacagcct
+            cgcccctctgtcggggccttcaaccccgggatggaggatattcttgactctgcaatgggc
+            actaattgggtcccagaagaagcctctggagaggccagtgagattcccgtaccccaaggg
+            acagagctttccccctccaggccaggagggggcagcatgcagacagagcccgccagaccc
+            agcaacttcctctcagcatcttctccactccctgcatcagcaaagggccaacagccggca
+            gatgtaactggtaccgccttgcccagggtgggccccgtgaggcccactggccaggactgg
+            aatcacaccccccagaagacagaccatccatctgccctgctcagagaccccccggagcca
+            ggctctcccaggatctcatcactgcgcccccagggcctcagcaacccctccaccctctct
+            gctcagccacagctttccagaagccactcctcgggcagcgtgctgccccttggggagctg
+            gagggcaggaggagcaccagggatcggaggagccccgcagagccagaaggaggaccagca
+            agtgaaggggcagccaggcccctgccccgttttaactccgttcctttgactgacacaggc
+            catgagaggcagtccgagggatcctccagcccgcagctccaggagtctgtcttccacctg
+            ctggtgcccagtgtcatcctggtcttgctggccgtcggaggcctcttgttctacaggtgg
+            aggcggcggagccatcaagagcctcagagagcggattctcccttggagcaaccagagggc
+            agccccctgactcaggatgacagacaggtggaactgccagtgtag
+///

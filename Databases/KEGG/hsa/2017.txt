@@ -1,0 +1,93 @@
+ENTRY       2017              CDS       T01001
+NAME        CTTN, EMS1
+DEFINITION  (RefSeq) cortactin
+ORTHOLOGY   K06106  cortactin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04530  Tight junction
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                2017 (CTTN)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                2017 (CTTN)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                2017 (CTTN)
+               05131 Shigellosis
+                2017 (CTTN)
+               05100 Bacterial invasion of epithelial cells
+                2017 (CTTN)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Others
+                2017 (CTTN)
+             Others
+              Actin-binding proteins
+               Nucleation-promoting factors (NPFs)
+                2017 (CTTN)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Others
+                 2017 (CTTN)
+POSITION    11q13.3
+MOTIF       Pfam: HS1_rep SH3_9 SH3_1 SH3_2 FadA AMP-binding_C_2 MCU
+DBLINKS     NCBI-GeneID: 2017
+            NCBI-ProteinID: NP_005222
+            OMIM: 164765
+            HGNC: 3338
+            Ensembl: ENSG00000085733
+            Vega: OTTHUMG00000134307
+            Pharos: Q14247(Tbio)
+            UniProt: Q14247 Q53HG7
+STRUCTURE   PDB: 2D1X 1X69
+AASEQ       550
+            MWKASAGHAVSIAQDDAGADDWETDPDFVNDVSEKEQRWGAKTVQGSGHQEHINIHKLRE
+            NVFQEHQTLKEKELETGPKASHGYGGKFGVEQDRMDKSAVGHEYQSKLSKHCSQVDSVRG
+            FGGKFGVQMDRVDQSAVGFEYQGKTEKHASQKDYSSGFGGKYGVQADRVDKSAVGFDYQG
+            KTEKHESQRDYSKGFGGKYGIDKDKVDKSAVGFEYQGKTEKHESQKDYVKGFGGKFGVQT
+            DRQDKCALGWDHQEKLQLHESQKDYKTGFGGKFGVQSERQDSAAVGFDYKEKLAKHESQQ
+            DYSKGFGGKYGVQKDRMDKNASTFEDVTQVSSAYQKTVPVEAVTSKTSNIRANFENLAKE
+            KEQEDRRKAEAERAQRMAKERQEQEEARRKLEEQARAKTQTPPVSPAPQPTEERLPSSPV
+            YEDAASFKAELSYRGPVSGTEPEPVYSMEAADYREASSQQGLAYATEAVYESAEAPGHYP
+            AEDSTYDEYENDLGITAVALYDYQAAGDDEISFDPDDIITNIEMIDDGWWRGVCKGRYGL
+            FPANYVELRQ
+NTSEQ       1653
+            atgtggaaagcttcagcaggccacgctgtgtccatcgcccaggatgacgcgggggccgat
+            gactgggagaccgaccctgattttgtgaatgatgtgagtgagaaggagcaaagatggggt
+            gccaagacggtgcagggctccgggcaccaggagcatatcaacatacacaagctgagggag
+            aatgtctttcaagagcatcagacccttaaggagaaggaacttgaaacaggaccaaaagct
+            tcccatggctatggagggaaatttggtgtggaacaagaccgaatggataagtcagctgtc
+            ggccacgaatatcagtcgaaactttccaagcactgctcgcaggtggactcggtccgtggc
+            ttcggaggcaagtttggtgtccagatggacagagttgatcagtctgctgtaggctttgaa
+            taccaggggaagactgagaagcatgcctcccagaaagactactccagtggttttggcggc
+            aagtatggcgtgcaggccgaccgagtagacaagagcgcggtgggcttcgactaccagggc
+            aagacggagaagcacgagtcacagagagattactccaaaggtttcggcggcaaatacggt
+            atcgacaaggacaaagtggataagagcgccgttggctttgagtatcaaggcaaaacggag
+            aagcacgagtcccagaaagactatgtgaaagggtttggaggaaaatttggtgtgcagaca
+            gacagacaagacaaatgtgcccttggctgggatcaccaggagaaattgcagctgcatgaa
+            tcccaaaaagattataagactggttttggaggcaaattcggtgttcagtcggagaggcag
+            gactccgctgctgtggggtttgattacaaggagaagctggccaagcacgagtcccagcaa
+            gactactccaaaggattcggcgggaagtatggggtgcagaaggatcggatggataagaat
+            gcgtcaacctttgaggatgtcacccaggtgtcctctgcctaccagaagacagtacctgtc
+            gaagctgtgaccagcaaaacaagtaacatcagagctaactttgaaaacctcgctaaggag
+            aaagagcaggaggacaggcggaaggcggaggcggagagagcccagcggatggccaaggag
+            cggcaggagcaggaagaggccaggaggaagctggaggagcaagccagagccaaaacgcaa
+            acgccccctgtgtcgcccgcacctcagccaaccgaggagaggctgccctcgagccccgtc
+            tatgaggatgcggcttccttcaaggcagagctgagctacagaggccctgtgagtgggacg
+            gagccggagcccgtgtacagcatggaggccgctgactaccgagaggccagcagccagcag
+            ggcctggcctatgccacagaggctgtctatgaaagcgcagaggccccgggccactatccc
+            gcagaggacagcacctacgatgagtacgagaacgatctggggatcacagccgtcgccctg
+            tacgactaccaggctgcgggcgatgatgagatctcatttgaccctgatgacatcatcacc
+            aacatcgagatgattgacgacggctggtggcgcggggtgtgcaagggccggtacgggctc
+            ttcccagccaactatgtggagctgcggcagtag
+///

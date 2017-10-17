@@ -1,0 +1,131 @@
+ENTRY       1311              CDS       T01001
+NAME        COMP, EDM1, EPD1, MED, PSACH, THBS5, TSP5
+DEFINITION  (RefSeq) cartilage oligomeric matrix protein
+ORTHOLOGY   K04659  thrombospondin 2/3/4/5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa05144  Malaria
+            hsa05165  Human papillomavirus infection
+DISEASE     H00476  Multiple epiphyseal dysplasia (MED)
+            H00477  Pseudoachondroplasia (PSACH)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                1311 (COMP)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                1311 (COMP)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                1311 (COMP)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                1311 (COMP)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                1311 (COMP)
+               05144 Malaria
+                1311 (COMP)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Opsonins
+                1311 (COMP)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               1311 (COMP)
+              Exosomal proteins of colorectal cancer cells
+               1311 (COMP)
+              Exosomal proteins of bladder cancer cells
+               1311 (COMP)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-3
+                ITGB1; integrin beta 1 [KO:K05719]
+                 1311 (COMP)
+              Beta3 integrins
+               alpha IIb  beta 3
+                ITGB3; integrin beta 3 [KO:K06493]
+                 1311 (COMP)
+               VNR
+                 1311 (COMP)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               1311 (COMP)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Extracellular matrix molecules	(General comment) Storage depot, cell adhesion and motility, ECM/barrier formation
+               1311 (COMP)
+POSITION    19p13.11
+MOTIF       Pfam: TSP_C TSP_3 COMP EGF_CA cEGF EGF_3 EGF_MSP1_1 EGF hEGF
+DBLINKS     NCBI-GeneID: 1311
+            NCBI-ProteinID: NP_000086
+            OMIM: 600310
+            HGNC: 2227
+            Ensembl: ENSG00000105664
+            Vega: OTTHUMG00000169318
+            Pharos: P49747(Tbio)
+            UniProt: P49747
+STRUCTURE   PDB: 3FBY
+AASEQ       757
+            MVPDTACVLLLTLAALGASGQGQSPLGSDLGPQMLRELQETNAALQDVRELLRQQVREIT
+            FLKNTVMECDACGMQQSVRTGLPSVRPLLHCAPGFCFPGVACIQTESGARCGPCPAGFTG
+            NGSHCTDVNECNAHPCFPRVRCINTSPGFRCEACPPGYSGPTHQGVGLAFAKANKQVCTD
+            INECETGQHNCVPNSVCINTRGSFQCGPCQPGFVGDQASGCQRRAQRFCPDGSPSECHEH
+            ADCVLERDGSRSCVCAVGWAGNGILCGRDTDLDGFPDEKLRCPERQCRKDNCVTVPNSGQ
+            EDVDRDGIGDACDPDADGDGVPNEKDNCPLVRNPDQRNTDEDKWGDACDNCRSQKNDDQK
+            DTDQDGRGDACDDDIDGDRIRNQADNCPRVPNSDQKDSDGDGIGDACDNCPQKSNPDQAD
+            VDHDFVGDACDSDQDQDGDGHQDSRDNCPTVPNSAQEDSDHDGQGDACDDDDDNDGVPDS
+            RDNCRLVPNPGQEDADRDGVGDVCQDDFDADKVVDKIDVCPENAEVTLTDFRAFQTVVLD
+            PEGDAQIDPNWVVLNQGREIVQTMNSDPGLAVGYTAFNGVDFEGTFHVNTVTDDDYAGFI
+            FGYQDSSSFYVVMWKQMEQTYWQANPFRAVAEPGIQLKAVKSSTGPGEQLRNALWHTGDT
+            ESQVRLLWKDPRNVGWKDKKSYRWFLQHRPQVGYIRVRFYEGPELVADSNVVLDTTMRGG
+            RLGVFCFSQENIIWANLRYRCNDTIPEDYETHQLRQA
+NTSEQ       2274
+            atggtccccgacaccgcctgcgttcttctgctcaccctggctgccctcggcgcgtccgga
+            cagggccagagcccgttgggctcagacctgggcccgcagatgcttcgggaactgcaggaa
+            accaacgcggcgctgcaggacgtgcgggagctgctgcggcagcaggtcagggagatcacg
+            ttcctgaaaaacacggtgatggagtgtgacgcgtgcgggatgcagcagtcagtacgcacc
+            ggcctacccagcgtgcggcccctgctccactgcgcgcccggcttctgcttccccggcgtg
+            gcctgcatccagacggagagcggcgcgcgctgcggcccctgccccgcgggcttcacgggc
+            aacggctcgcactgcaccgacgtcaacgagtgcaacgcccacccctgcttcccccgagtc
+            cgctgtatcaacaccagcccggggttccgctgcgaggcttgcccgccggggtacagcggc
+            cccacccaccagggcgtggggctggctttcgccaaggccaacaagcaggtttgcacggac
+            atcaacgagtgtgagaccgggcaacataactgcgtccccaactccgtgtgcatcaacacc
+            cggggctccttccagtgcggcccgtgccagcccggcttcgtgggcgaccaggcgtccggc
+            tgccagcggcgcgcacagcgcttctgccccgacggctcgcccagcgagtgccacgagcat
+            gcagactgcgtcctagagcgcgatggctcgcggtcgtgcgtgtgtgccgttggctgggcc
+            ggcaacgggatcctctgtggtcgcgacactgacctagacggcttcccggacgagaagctg
+            cgctgcccggagcgccagtgccgtaaggacaactgcgtgactgtgcccaactcagggcag
+            gaggatgtggaccgcgatggcatcggagacgcctgcgatccggatgccgacggggacggg
+            gtccccaatgaaaaggacaactgcccgctggtgcggaacccagaccagcgcaacacggac
+            gaggacaagtggggcgatgcgtgcgacaactgccggtcccagaagaacgacgaccaaaag
+            gacacagaccaggacggccggggcgatgcgtgcgacgacgacatcgacggcgaccggatc
+            cgcaaccaggccgacaactgccctagggtacccaactcagaccagaaggacagtgatggc
+            gatggtataggggatgcctgtgacaactgtccccagaagagcaacccggatcaggcggat
+            gtggaccacgactttgtgggagatgcttgtgacagcgatcaagaccaggatggagacgga
+            catcaggactctcgggacaactgtcccacggtgcctaacagtgcccaggaggactcagac
+            cacgatggccagggtgatgcctgcgacgacgacgacgacaatgacggagtccctgacagt
+            cgggacaactgccgcctggtgcctaaccccggccaggaggacgcggacagggacggcgtg
+            ggcgacgtgtgccaggacgactttgatgcagacaaggtggtagacaagatcgacgtgtgt
+            ccggagaacgctgaagtcacgctcaccgacttcagggccttccagacagtcgtgctggac
+            ccggagggtgacgcgcagattgaccccaactgggtggtgctcaaccagggaagggagatc
+            gtgcagacaatgaacagcgacccaggcctggctgtgggttacactgccttcaatggcgtg
+            gacttcgagggcacgttccatgtgaacacggtcacggatgacgactatgcgggcttcatc
+            tttggctaccaggacagctccagcttctacgtggtcatgtggaagcagatggagcaaacg
+            tattggcaggcgaaccccttccgtgctgtggccgagcctggcatccaactcaaggctgtg
+            aagtcttccacaggccccggggaacagctgcggaacgctctgtggcatacaggagacaca
+            gagtcccaggtgcggctgctgtggaaggacccgcgaaacgtgggttggaaggacaagaag
+            tcctatcgttggttcctgcagcaccggccccaagtgggctacatcagggtgcgattctat
+            gagggccctgagctggtggccgacagcaacgtggtcttggacacaaccatgcggggtggc
+            cgcctgggggtcttctgcttctcccaggagaacatcatctgggccaacctgcgttaccgc
+            tgcaatgacaccatcccagaggactatgagacccatcagctgcggcaagcctag
+///

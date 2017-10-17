@@ -1,0 +1,94 @@
+ENTRY       6794              CDS       T01001
+NAME        STK11, LKB1, PJS, hLKB1
+DEFINITION  (RefSeq) serine/threonine kinase 11
+ORTHOLOGY   K07298  serine/threonine-protein kinase 11 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04530  Tight junction
+            hsa04920  Adipocytokine signaling pathway
+DISEASE     H00019  Pancreatic cancer
+            H00666  Peutz-Jeghers syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                6794 (STK11)
+               04151 PI3K-Akt signaling pathway
+                6794 (STK11)
+               04152 AMPK signaling pathway
+                6794 (STK11)
+               04150 mTOR signaling pathway
+                6794 (STK11)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                6794 (STK11)
+              Cellular community - eukaryotes
+               04530 Tight junction
+                6794 (STK11)
+             Organismal Systems
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                6794 (STK11)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                6794 (STK11)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 6794 (STK11)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CAMK group
+              CAMKL family
+               6794 (STK11)
+POSITION    19p13.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like APH Kdo
+DBLINKS     NCBI-GeneID: 6794
+            NCBI-ProteinID: NP_000446
+            OMIM: 602216
+            HGNC: 11389
+            Ensembl: ENSG00000118046
+            Vega: OTTHUMG00000180118
+            Pharos: Q15831(Tchem)
+            UniProt: Q15831 A0A0S2Z4D1
+STRUCTURE   PDB: 2WTK
+AASEQ       433
+            MEVVDPQQLGMFTEGELMSVGMDTFIHRIDSTEVIYQPRRKRAKLIGKYLMGDLLGEGSY
+            GKVKEVLDSETLCRRAVKILKKKKLRRIPNGEANVKKEIQLLRRLRHKNVIQLVDVLYNE
+            EKQKMYMVMEYCVCGMQEMLDSVPEKRFPVCQAHGYFCQLIDGLEYLHSQGIVHKDIKPG
+            NLLLTTGGTLKISDLGVAEALHPFAADDTCRTSQGSPAFQPPEIANGLDTFSGFKVDIWS
+            AGVTLYNITTGLYPFEGDNIYKLFENIGKGSYAIPGDCGPPLSDLLKGMLEYEPAKRFSI
+            RQIRQHSWFRKKHPPAEAPVPIPPSPDTKDRWRSMTVVPYLEDLHGADEDEDLFDIEDDI
+            IYTQDFTVPGQVPEEEASHNGQRRGLPKAVCMNGTEAAQLSTKSRAEGRAPNPARKACSA
+            SSKIRRLSACKQQ
+NTSEQ       1302
+            atggaggtggtggacccgcagcagctgggcatgttcacggagggcgagctgatgtcggtg
+            ggtatggacacgttcatccaccgcatcgactccaccgaggtcatctaccagccgcgccgc
+            aagcgggccaagctcatcggcaagtacctgatgggggacctgctgggggaaggctcttac
+            ggcaaggtgaaggaggtgctggactcggagacgctgtgcaggagggccgtcaagatcctc
+            aagaagaagaagttgcgaaggatccccaacggggaggccaacgtgaagaaggaaattcaa
+            ctactgaggaggttacggcacaaaaatgtcatccagctggtggatgtgttatacaacgaa
+            gagaagcagaaaatgtatatggtgatggagtactgcgtgtgtggcatgcaggaaatgctg
+            gacagcgtgccggagaagcgtttcccagtgtgccaggcccacgggtacttctgtcagctg
+            attgacggcctggagtacctgcatagccagggcattgtgcacaaggacatcaagccgggg
+            aacctgctgctcaccaccggtggcaccctcaaaatctccgacctgggcgtggccgaggca
+            ctgcacccgttcgcggcggacgacacctgccggaccagccagggctccccggctttccag
+            ccgcccgagattgccaacggcctggacaccttctccggcttcaaggtggacatctggtcg
+            gctggggtcaccctctacaacatcaccacgggtctgtaccccttcgaaggggacaacatc
+            tacaagttgtttgagaacatcgggaaggggagctacgccatcccgggcgactgtggcccc
+            ccgctctctgacctgctgaaagggatgcttgagtacgaaccggccaagaggttctccatc
+            cggcagatccggcagcacagctggttccggaagaaacatcctccggctgaagcaccagtg
+            cccatcccaccgagcccagacaccaaggaccggtggcgcagcatgactgtggtgccgtac
+            ttggaggacctgcacggcgcggacgaggacgaggacctcttcgacatcgaggatgacatc
+            atctacactcaggacttcacggtgcccggacaggtcccagaagaggaggccagtcacaat
+            ggacagcgccggggcctccccaaggccgtgtgtatgaacggcacagaggcggcgcagctg
+            agcaccaaatccagggcggagggccgggcccccaaccctgcccgcaaggcctgctccgcc
+            agcagcaagatccgccggctgtcggcctgcaagcagcagtga
+///

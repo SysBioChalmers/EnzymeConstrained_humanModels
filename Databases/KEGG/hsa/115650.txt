@@ -1,0 +1,64 @@
+ENTRY       115650            CDS       T01001
+NAME        TNFRSF13C, BAFF-R, BAFFR, BROMIX, CD268, CVID4, prolixin
+DEFINITION  (RefSeq) TNF receptor superfamily member 13C
+ORTHOLOGY   K05151  tumor necrosis factor receptor superfamily member 13C
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05166  HTLV-I infection
+            hsa05340  Primary immunodeficiency
+DISEASE     H00088  Common variable immunodeficiency (CVID)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                115650 (TNFRSF13C)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                115650 (TNFRSF13C)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                115650 (TNFRSF13C)
+             Human Diseases
+              Immune diseases
+               05340 Primary immunodeficiency
+                115650 (TNFRSF13C)
+              Infectious diseases
+               05166 HTLV-I infection
+                115650 (TNFRSF13C)
+            Cytokine receptors [BR:hsa04050]
+             TNF receptor family
+              115650 (TNFRSF13C)
+            CD molecules [BR:hsa04090]
+             Proteins
+              115650 (TNFRSF13C)
+POSITION    22q13.2
+MOTIF       Pfam: BaffR-Tall_bind BatA DUF4079 SKG6 DUF4381 stn_TNFRSF12A
+DBLINKS     NCBI-GeneID: 115650
+            NCBI-ProteinID: NP_443177
+            OMIM: 606269
+            HGNC: 17755
+            Ensembl: ENSG00000159958
+            Vega: OTTHUMG00000151271
+            Pharos: Q96RJ3(Tbio)
+            UniProt: Q96RJ3 Q5H8V1
+STRUCTURE   PDB: 1OQE 2HFG 1OSX
+AASEQ       184
+            MRRGPRSLRGRDAPAPTPCVPAECFDLLVRHCVACGLLRTPRPKPAGASSPAPRTALQPQ
+            ESVGAGAGEAALPLPGLLFGAPALLGLALVLALVLVGLVSWRRRQRRLRGASSAEAPDGD
+            KDAPEPLDKVIILSPGISDATAPAWPPPGEDPGTTPPGHSVPVPATELGSTELVTTKTAG
+            PEQQ
+NTSEQ       555
+            atgaggcgagggccccggagcctgcggggcagggacgcgccagcccccacgccctgcgtc
+            ccggccgagtgcttcgacctgctggtccgccactgcgtggcctgcgggctcctgcgcacg
+            ccgcggccgaaaccggccggggccagcagccctgcgcccaggacggcgctgcagccgcag
+            gagtcggtgggcgcgggggccggcgaggcggcgctgcccctgcccgggctgctctttggc
+            gcccccgcgctgctgggcctggcactggtcctggcgctggtcctggtgggtctggtgagc
+            tggaggcggcgacagcggcggcttcgcggcgcgtcctccgcagaggcccccgacggagac
+            aaggacgccccagagcccctggacaaggtcatcattctgtctccgggaatctctgatgcc
+            acagctcctgcctggcctcctcctggggaagacccaggaaccaccccacctggccacagt
+            gtccctgtgccagccacagagctgggctccactgaactggtgaccaccaagacggccggc
+            cctgagcaacaatag
+///

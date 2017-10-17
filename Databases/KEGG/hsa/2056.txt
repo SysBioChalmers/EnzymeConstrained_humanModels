@@ -1,0 +1,60 @@
+ENTRY       2056              CDS       T01001
+NAME        EPO, EP, MVCD2
+DEFINITION  (RefSeq) erythropoietin
+ORTHOLOGY   K05437  erythropoietin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04066  HIF-1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+DISEASE     H01360  Allergic rhinitis
+            H01457  Diabetic retinopathy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                2056 (EPO)
+               04066 HIF-1 signaling pathway
+                2056 (EPO)
+               04151 PI3K-Akt signaling pathway
+                2056 (EPO)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                2056 (EPO)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                2056 (EPO)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              Single chain family
+               2056 (EPO)
+POSITION    7q22.1
+MOTIF       Pfam: EPO_TPO
+DBLINKS     NCBI-GeneID: 2056
+            NCBI-ProteinID: NP_000790
+            OMIM: 133170
+            HGNC: 3415
+            Ensembl: ENSG00000130427
+            Vega: OTTHUMG00000152121
+            Pharos: P01588(Tbio)
+            UniProt: P01588 G9JKG7
+STRUCTURE   PDB: 1EER 1CN4 1BUY
+AASEQ       193
+            MGVHECPAWLWLLLSLLSLPLGLPVLGAPPRLICDSRVLERYLLEAKEAENITTGCAEHC
+            SLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQL
+            HVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKL
+            KLYTGEACRTGDR
+NTSEQ       582
+            atgggggtgcacgaatgtcctgcctggctgtggcttctcctgtccctgctgtcgctccct
+            ctgggcctcccagtcctgggcgccccaccacgcctcatctgtgacagccgagtcctggag
+            aggtacctcttggaggccaaggaggccgagaatatcacgacgggctgtgctgaacactgc
+            agcttgaatgagaatatcactgtcccagacaccaaagttaatttctatgcctggaagagg
+            atggaggtcgggcagcaggccgtagaagtctggcagggcctggccctgctgtcggaagct
+            gtcctgcggggccaggccctgttggtcaactcttcccagccgtgggagcccctgcagctg
+            catgtggataaagccgtcagtggccttcgcagcctcaccactctgcttcgggctctggga
+            gcccagaaggaagccatctcccctccagatgcggcctcagctgctccactccgaacaatc
+            actgctgacactttccgcaaactcttccgagtctactccaatttcctccggggaaagctg
+            aagctgtacacaggggaggcctgcaggacaggggacagatga
+///

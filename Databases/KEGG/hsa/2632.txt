@@ -1,0 +1,87 @@
+ENTRY       2632              CDS       T01001
+NAME        GBE1, APBD, GBE, GSD4
+DEFINITION  (RefSeq) 1,4-alpha-glucan branching enzyme 1
+ORTHOLOGY   K00700  1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H01760  Hepatic glycogen storage disease
+            H01762  Muscle glycogen storage disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                2632 (GBE1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.18  1,4-alpha-glucan branching enzyme
+                 2632 (GBE1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               2632 (GBE1)
+POSITION    3p12.2
+MOTIF       Pfam: Alpha-amylase_C CBM_48 Alpha-amylase hDGE_amylase
+DBLINKS     NCBI-GeneID: 2632
+            NCBI-ProteinID: NP_000149
+            OMIM: 607839
+            HGNC: 4180
+            Ensembl: ENSG00000114480
+            Vega: OTTHUMG00000158978
+            Pharos: Q04446(Tbio)
+            UniProt: Q04446 Q59ET0
+STRUCTURE   PDB: 4BZY 5CLT 5CLW
+AASEQ       702
+            MAAPMTPAARPEDYEAALNAALADVPELARLLEIDPYLKPYAVDFQRRYKQFSQILKNIG
+            ENEGGIDKFSRGYESFGVHRCADGGLYCKEWAPGAEGVFLTGDFNGWNPFSYPYKKLDYG
+            KWELYIPPKQNKSVLVPHGSKLKVVITSKSGEILYRISPWAKYVVREGDNVNYDWIHWDP
+            EHSYEFKHSRPKKPRSLRIYESHVGISSHEGKVASYKHFTCNVLPRIKGLGYNCIQLMAI
+            MEHAYYASFGYQITSFFAASSRYGTPEELQELVDTAHSMGIIVLLDVVHSHASKNSADGL
+            NMFDGTDSCYFHSGPRGTHDLWDSRLFAYSSWEVLRFLLSNIRWWLEEYRFDGFRFDGVT
+            SMLYHHHGVGQGFSGDYSEYFGLQVDEDALTYLMLANHLVHTLCPDSITIAEDVSGMPAL
+            CSPISQGGGGFDYRLAMAIPDKWIQLLKEFKDEDWNMGDIVYTLTNRRYLEKCIAYAESH
+            DQALVGDKSLAFWLMDAEMYTNMSVLTPFTPVIDRGIQLHKMIRLITHGLGGEGYLNFMG
+            NEFGHPEWLDFPRKGNNESYHYARRQFHLTDDDLLRYKFLNNFDRDMNRLEERYGWLAAP
+            QAYVSEKHEGNKIIAFERAGLLFIFNFHPSKSYTDYRVGTALPGKFKIVLDSDAAEYGGH
+            QRLDHSTDFFSEAFEHNGRPYSLLVYIPSRVALILQNVDLPN
+NTSEQ       2109
+            atggcggctccgatgactcccgcggctcggcccgaggactacgaggcggcgctcaatgcc
+            gccctggctgacgtgcccgaactggccagactcctggagatcgacccgtacttgaagccc
+            tacgccgtggacttccagcgcaggtataagcagtttagccaaattttgaagaacattgga
+            gaaaatgaaggtggtattgataagttttccagaggctatgaatcatttggcgtccacaga
+            tgtgctgatggtggtttatactgcaaagaatgggccccgggagcagaaggagtttttctt
+            actggagattttaatggttggaatccattttcgtacccatacaaaaaactggattatgga
+            aaatgggagctgtatatcccaccaaagcagaataaatctgtactcgtgcctcatggatcc
+            aaattaaaggtagttattactagtaaaagcggagagatcttgtatcgtatttcaccgtgg
+            gcaaagtatgtggttcgtgaaggtgataatgtgaattatgattggatacactgggatcca
+            gaacactcatatgagtttaagcattccagaccaaagaagccacggagtctaagaatttat
+            gaatctcatgtgggaatttcttcccatgaaggaaaagtagcttcttataaacattttaca
+            tgcaatgtactaccaagaatcaaaggccttggatacaactgcattcagttgatggcaatc
+            atggagcatgcttactatgccagctttggttaccaaatcacaagcttctttgcagcttcc
+            agccgttatggaacacctgaagagctacaagaactggtagacacagctcattccatgggt
+            atcatagtcctcttagatgtggtacacagccatgcttcaaaaaattcagcagatggattg
+            aatatgtttgatgggacagattcctgttattttcattctggacctagagggactcatgat
+            ctttgggatagcagattgtttgcctactccagctgggaagttttaagattccttctgtca
+            aacataagatggtggttggaagaatatcgctttgatggatttcgttttgatggtgttacg
+            tccatgctttatcatcaccatggagtgggtcaaggtttctcaggtgattacagtgaatat
+            ttcggactacaagtagatgaagatgccttgacttacctcatgttggcaaatcatttggtt
+            cacacgctgtgtcccgattctataacaatagctgaggatgtatcaggaatgccagctctg
+            tgctctccaatttcccagggagggggtggttttgactatcgactagccatggcaattcca
+            gataagtggattcagctacttaaagagtttaaagatgaagactggaacatgggcgatata
+            gtatacacgctcacaaacaggcgctaccttgaaaagtgcattgcttatgcagagagccat
+            gatcaggcattggttggggataagtcgctggcattttggttgatggatgccgaaatgtat
+            acaaacatgagtgtcctgactccttttactccagttattgatcgtggaatacagcttcat
+            aaaatgattcgactcattacgcatgggcttggtggagaaggctatctcaatttcatgggt
+            aatgaatttgggcatcctgaatggttagacttcccaagaaaaggaaataatgagagttac
+            cattatgccaggcggcagtttcatttaactgacgacgaccttcttcgctacaagttccta
+            aataattttgacagggatatgaatagattggaagaaagatatggttggcttgcagctcca
+            caggcctacgtgagtgaaaaacatgaaggcaataagatcattgcttttgaaagagcaggt
+            cttcttttcattttcaacttccatccaagcaagagctacactgactaccgagttggaaca
+            gcattgccagggaaattcaaaattgtgctagattcagatgcagcggaatatggagggcat
+            cagagactggaccacagcactgactttttttctgaggcttttgaacataatgggcgtccc
+            tattctcttttggtgtacattccaagcagagtggccctcatccttcagaatgtggatctg
+            ccgaattga
+///

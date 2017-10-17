@@ -1,0 +1,71 @@
+ENTRY       2941              CDS       T01001
+NAME        GSTA4, GSTA4-4, GTA4
+DEFINITION  (RefSeq) glutathione S-transferase alpha 4
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2941 (GSTA4)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                2941 (GSTA4)
+               00982 Drug metabolism - cytochrome P450
+                2941 (GSTA4)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                2941 (GSTA4)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                2941 (GSTA4)
+              Drug resistance
+               01524 Platinum drug resistance
+                2941 (GSTA4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 2941 (GSTA4)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               2941 (GSTA4)
+POSITION    6p12.2
+MOTIF       Pfam: GST_N GST_C_3 GST_C GST_C_2 GST_N_3 CbeA_antitoxin
+DBLINKS     NCBI-GeneID: 2941
+            NCBI-ProteinID: NP_001503
+            OMIM: 605450
+            HGNC: 4629
+            Ensembl: ENSG00000170899
+            Vega: OTTHUMG00000014868
+            Pharos: O15217(Tbio)
+            UniProt: O15217 A0A024RD58
+STRUCTURE   PDB: 3IK7 1GUL 1GUM
+AASEQ       222
+            MAARPKLHYPNGRGRMESVRWVLAAAGVEFDEEFLETKEQLYKLQDGNHLLFQQVPMVEI
+            DGMKLVQTRSILHYIADKHNLFGKNLKERTLIDMYVEGTLDLLELLIMHPFLKPDDQQKE
+            VVNMAQKAIIRYFPVFEKILRGHGQSFLVGNQLSLADVILLQTILALEEKIPNILSAFPF
+            LQEYTVKLSNIPTIKRFLEPGSKKKPPPDEIYVRTVYNIFRP
+NTSEQ       669
+            atggcagcaaggcccaagctccactatcccaacggaagaggccggatggagtccgtgaga
+            tgggttttagctgccgccggagtcgagtttgatgaagaatttctggaaacaaaagaacag
+            ttgtacaagttgcaggatggtaaccacctgctgttccaacaagtgcccatggttgaaatt
+            gacgggatgaagttggtacagacccgaagcattctccactacatagcagacaagcacaat
+            ctctttggcaagaacctcaaggagagaaccctgattgacatgtacgtggaggggacactg
+            gatctgctggaactgcttatcatgcatcctttcttaaaaccagatgatcagcaaaaggaa
+            gtggttaacatggcccagaaggctataattagatactttcctgtgtttgaaaagatttta
+            aggggtcacggacaaagctttcttgttggtaatcagctgagccttgcagatgtgatttta
+            ctccaaaccattttagctctagaagagaaaattcctaatatcctgtctgcatttcctttc
+            ctccaggaatacacagtgaaactaagtaatatccctacaattaagagattccttgaacct
+            ggcagcaagaagaagcctccccctgatgaaatttatgtgagaaccgtctacaacatcttt
+            aggccataa
+///

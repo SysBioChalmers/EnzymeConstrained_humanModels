@@ -1,0 +1,81 @@
+ENTRY       81579             CDS       T01001
+NAME        PLA2G12A, GXII, PLA2G12, ROSSY
+DEFINITION  (RefSeq) phospholipase A2 group XIIA
+ORTHOLOGY   K01047  secretory phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04014  Ras signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04972  Pancreatic secretion
+            hsa04975  Fat digestion and absorption
+DRUG_TARGET Orlistat: D04028
+            Varespladib (DG01394): D06283 D08107 D08221
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                81579 (PLA2G12A)
+               00565 Ether lipid metabolism
+                81579 (PLA2G12A)
+               00590 Arachidonic acid metabolism
+                81579 (PLA2G12A)
+               00591 Linoleic acid metabolism
+                81579 (PLA2G12A)
+               00592 alpha-Linolenic acid metabolism
+                81579 (PLA2G12A)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                81579 (PLA2G12A)
+             Organismal Systems
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                81579 (PLA2G12A)
+              Digestive system
+               04972 Pancreatic secretion
+                81579 (PLA2G12A)
+               04975 Fat digestion and absorption
+                81579 (PLA2G12A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 81579 (PLA2G12A)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                81579 (PLA2G12A)
+POSITION    4q25
+MOTIF       Pfam: PLA2G12
+DBLINKS     NCBI-GeneID: 81579
+            NCBI-ProteinID: NP_110448
+            OMIM: 611652
+            HGNC: 18554
+            Ensembl: ENSG00000123739
+            Vega: OTTHUMG00000131915
+            Pharos: Q9BZM1(Tbio)
+            UniProt: Q9BZM1 Q542Y6
+AASEQ       189
+            MALLSRPALTLLLLLMAAVVRCQEQAQTTDWRATLKTIRNGVHKIDTYLNAALDLLGGED
+            GLCQYKCSDGSKPFPRYGYKPSPPNGCGSPLFGVHLNIGIPSLTKCCNQHDRCYETCGKS
+            KNDCDEEFQYCLSKICRDVQKTLGLTQHVQACETTVELLFDSVIHLGCKPYLDSQRAACR
+            CHYEEKTDL
+NTSEQ       570
+            atggccctgctctcgcgccccgcgctcaccctcctgctcctcctcatggccgctgttgtc
+            aggtgccaggagcaggcccagaccaccgactggagagccaccctgaagaccatccggaac
+            ggcgttcataagatagacacgtacctgaacgccgccttggacctcctgggaggcgaggac
+            ggtctctgccagtataaatgcagtgacggatctaagcctttcccacgttatggttataaa
+            ccctccccaccgaatggatgtggctctccactgtttggtgttcatcttaacattggtatc
+            ccttccctgacaaagtgttgcaaccaacacgacaggtgctatgagacctgtggcaaaagc
+            aagaatgactgtgatgaagaattccagtattgcctctccaagatctgccgagatgtacag
+            aaaacactaggactaactcagcatgttcaggcatgtgaaacaacagtggagctcttgttt
+            gacagtgttatacatttaggttgtaaaccatatctggacagccaacgagccgcatgcagg
+            tgtcattatgaagaaaaaactgatctttaa
+///

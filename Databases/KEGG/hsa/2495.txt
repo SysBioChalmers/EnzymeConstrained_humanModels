@@ -1,0 +1,62 @@
+ENTRY       2495              CDS       T01001
+NAME        FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF
+DEFINITION  (RefSeq) ferritin heavy chain 1
+ORTHOLOGY   K00522  ferritin heavy chain [EC:1.16.3.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04216  Ferroptosis
+            hsa04217  Necroptosis
+            hsa04978  Mineral absorption
+DISEASE     H00211  Hemochromatosis (HFE)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                2495 (FTH1)
+               04217 Necroptosis
+                2495 (FTH1)
+             Organismal Systems
+              Digestive system
+               04978 Mineral absorption
+                2495 (FTH1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.16  Oxidizing metal ions
+               1.16.3  With oxygen as acceptor
+                1.16.3.2  bacterial non-heme ferritin
+                 2495 (FTH1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               2495 (FTH1)
+              Exosomal proteins of bladder cancer cells
+               2495 (FTH1)
+POSITION    11q12.3
+MOTIF       Pfam: Ferritin Rubrerythrin IncFII_repA Mad3_BUB1_I_2
+DBLINKS     NCBI-GeneID: 2495
+            NCBI-ProteinID: NP_002023
+            OMIM: 134770
+            HGNC: 3976
+            Ensembl: ENSG00000167996
+            Vega: OTTHUMG00000166217
+            Pharos: P02794(Tbio)
+            UniProt: P02794 A0A024R525
+STRUCTURE   PDB: 4Y08 4OYN 4YKH 3AJO 4ZJK 3AJQ 5JKK 5N27 2CN7 5UP7 5JKL
+                 5JKM 4DYX 3AJP 2FHA 5CMQ 5VTD 5N26 1FHA 5UP8 2Z6M 5GN8
+                 5GOU 3ERZ 5CMR 2IU2 2CN6 2CLU 2CIH 2CHI 2CEI
+AASEQ       183
+            MTTASTSQVRQNYHQDSEAAINRQINLELYASYVYLSMSYYFDRDDVALKNFAKYFLHQS
+            HEEREHAEKLMKLQNQRGGRIFLQDIKKPDCDDWESGLNAMECALHLEKNVNQSLLELHK
+            LATDKNDPHLCDFIETHYLNEQVKAIKELGDHVTNLRKMGAPESGLAEYLFDKHTLGDSD
+            NES
+NTSEQ       552
+            atgacgaccgcgtccacctcgcaggtgcgccagaactaccaccaggactcagaggccgcc
+            atcaaccgccagatcaacctggagctctacgcctcctacgtttacctgtccatgtcttac
+            tactttgaccgcgatgatgtggctttgaagaactttgccaaatactttcttcaccaatct
+            catgaggagagggaacatgctgagaaactgatgaagctgcagaaccaacgaggtggccga
+            atcttccttcaggatatcaagaaaccagactgtgatgactgggagagcgggctgaatgca
+            atggagtgtgcattacatttggaaaaaaatgtgaatcagtcactactggaactgcacaaa
+            ctggccactgacaaaaatgacccccatttgtgtgacttcattgagacacattacctgaat
+            gagcaggtgaaagccatcaaagaattgggtgaccacgtgaccaacttgcgcaagatggga
+            gcgcccgaatctggcttggcggaatatctctttgacaagcacaccctgggagacagtgat
+            aatgaaagctaa
+///

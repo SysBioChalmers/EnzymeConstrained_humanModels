@@ -1,0 +1,55 @@
+ENTRY       51084             CDS       T01001
+NAME        CRYL1, GDH, HEL30, lambda-CRY
+DEFINITION  (RefSeq) crystallin lambda 1
+ORTHOLOGY   K13247  L-gulonate 3-dehydrogenase [EC:1.1.1.45]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                51084 (CRYL1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.45  L-gulonate 3-dehydrogenase
+                 51084 (CRYL1)
+POSITION    13q12.11
+MOTIF       Pfam: 3HCDH_N 3HCDH NAD_binding_2 UDPG_MGDP_dh_N 2-Hacid_dh_C NAD_Gly3P_dh_N Ldh_1_N ApbA AlaDh_PNT_C adh_short Pyr_redox
+DBLINKS     NCBI-GeneID: 51084
+            NCBI-ProteinID: NP_057058
+            OMIM: 609877
+            HGNC: 18246
+            Ensembl: ENSG00000165475
+            Vega: OTTHUMG00000016516
+            Pharos: Q9Y2S2(Tbio)
+            UniProt: Q9Y2S2 V9HWG2
+STRUCTURE   PDB: 3F3S
+AASEQ       319
+            MASSAAGCVVIVGSGVIGRSWAMLFASGGFQVKLYDIEQQQIRNALENIRKEMKLLEQAG
+            SLKGSLSVEEQLSLISGCPNIQEAVEGAMHIQECVPEDLELKKKIFAQLDSIIDDRVILS
+            SSTSCLMPSKLFAGLVHVKQCIVAHPVNPPYYIPLVELVPHPETAPTTVDRTHALMKKIG
+            QCPMRVQKEVAGFVLNRLQYAIISEAWRLVEEGIVSPSDLDLVMSEGLGMRYAFIGPLET
+            MHLNAEGMLSYCDRYSEGIKHVLQTFGPIPEFSRATAEKVNQDMCMKVPDDPEHLAARRQ
+            WRDECLMRLAKLKSQVQPQ
+NTSEQ       960
+            atggcgtcctccgcggccggctgcgtggtgatcgttggcagtggagtcattgggcgaagc
+            tgggccatgctgtttgccagtggaggcttccaggtgaaactctatgacattgagcaacag
+            cagataaggaacgccctggaaaacatcagaaaggagatgaagttgctggagcaggcaggt
+            tctctgaaaggctccctgagtgtggaagagcagctgtcactcatcagtggttgtcccaat
+            atccaagaagcagtagagggtgccatgcacattcaggaatgtgttccagaagatctagaa
+            ctgaagaagaagatttttgctcagttagattccatcattgatgatcgagtgatcttaagc
+            agttccacttcttgtctcatgccttccaagttgtttgctggcttggtccatgtgaagcaa
+            tgcatcgtggctcatcctgtgaatccgccatactacatcccgctggttgagctggtcccc
+            cacccggagacggcccctacgacagtggacagaacccacgccctgatgaagaagattgga
+            cagtgccccatgcgagtccagaaggaggtggccggcttcgttctgaaccgcctgcaatat
+            gcaatcatcagcgaggcctggcggctagtggaggaaggaatcgtgtctcctagtgacctg
+            gaccttgtcatgtcagaagggttgggcatgcggtatgcattcattggacccctggaaacc
+            atgcatctcaatgcagaaggtatgttaagctactgcgacagatacagcgaaggcataaaa
+            catgtcctacagacttttggacccattccagagttttccagggccactgctgagaaggtt
+            aaccaggacatgtgcatgaaggtccctgatgacccggagcacttagctgccaggaggcag
+            tggagggacgagtgcctcatgagactcgccaagttgaagagtcaagtgcagccccagtga
+///

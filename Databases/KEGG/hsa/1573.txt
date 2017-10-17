@@ -1,0 +1,86 @@
+ENTRY       1573              CDS       T01001
+NAME        CYP2J2, CPJ2, CYPIIJ2
+DEFINITION  (RefSeq) cytochrome P450 family 2 subfamily J member 2
+ORTHOLOGY   K07418  cytochrome P450 family 2 subfamily J [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04913  Ovarian steroidogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00590 Arachidonic acid metabolism
+                1573 (CYP2J2)
+               00591 Linoleic acid metabolism
+                1573 (CYP2J2)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                1573 (CYP2J2)
+              Nervous system
+               04726 Serotonergic synapse
+                1573 (CYP2J2)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                1573 (CYP2J2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1573 (CYP2J2)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP2 family
+               1573 (CYP2J2)
+POSITION    1p32.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1573
+            NCBI-ProteinID: NP_000766
+            OMIM: 601258
+            HGNC: 2634
+            Ensembl: ENSG00000134716
+            Vega: OTTHUMG00000008991
+            Pharos: P51589(Tchem)
+            UniProt: P51589
+AASEQ       502
+            MLAAMGSLAAALWAVVHPRTLLLGTVAFLLAADFLKRRRPKNYPPGPWRLPFLGNFFLVD
+            FEQSHLEVQLFVKKYGNLFSLELGDISAVLITGLPLIKEALIHMDQNFGNRPVTPMREHI
+            FKKNGLIMSSGQAWKEQRRFTLTALRNFGLGKKSLEERIQEEAQHLTEAIKEENGQPFDP
+            HFKINNAVSNIICSITFGERFEYQDSWFQQLLKLLDEVTYLEASKTCQLYNVFPWIMKFL
+            PGPHQTLFSNWKKLKLFVSHMIDKHRKDWNPAETRDFIDAYLKEMSKHTGNPTSSFHEEN
+            LICSTLDLFFAGTETTSTTLRWALLYMALYPEIQEKVQAEIDRVIGQGQQPSTAARESMP
+            YTNAVIHEVQRMGNIIPLNVPREVTVDTTLAGYHLPKGTMILTNLTALHRDPTEWATPDT
+            FNPDHFLENGQFKKREAFMPFSIGKRACLGEQLARTELFIFFTSLMQKFTFRPPNNEKLS
+            LKFRMGITISPVSHRLCAVPQV
+NTSEQ       1509
+            atgctcgcggcgatgggctctctggcggctgccctctgggcagtggtccatcctcggact
+            ctcctactgggcactgtcgcctttctgctcgctgctgactttctcaaaagacggcgccca
+            aagaactacccgccggggccctggcgcctgcccttccttggcaacttcttccttgtggac
+            ttcgagcagtcgcacctggaggttcagctgtttgtgaagaaatatgggaacctttttagc
+            ttggagcttggtgacatatctgcagttcttattactggcttgcccttaatcaaagaagcc
+            cttatccacatggaccaaaactttgggaaccgccccgtgacccctatgcgagaacatatc
+            tttaagaaaaatggattgattatgtcaagtggccaggcatggaaggagcaaagaaggttc
+            actctgacagcactaaggaactttggtttaggaaagaagagcttagaggaacgcattcag
+            gaggaggcccaacacctcactgaagcaataaaagaggagaacggacagccttttgaccct
+            catttcaagatcaacaatgcagtttccaatatcatttgctccatcaccttcggagaacgc
+            tttgagtaccaggatagttggtttcagcagctgctgaagttactagatgaagtcacatac
+            ttggaggcttcaaagacatgccagctctacaatgtctttccatggataatgaaattcctg
+            cctggaccccaccaaactctcttcagcaactggaaaaaactgaaattgtttgtttctcat
+            atgattgacaaacacagaaaggattggaatcctgcagaaacaagagactttattgatgct
+            taccttaaagaaatgtcaaagcacacaggcaatcctacttcaagtttccatgaagaaaac
+            ctcatctgcagcaccctggacctcttctttgccggaaccgagacaacttccacaactctg
+            cgatgggctctgctttatatggccctctacccagaaatccaagaaaaagtacaagctgag
+            attgacagagtgattggccaggggcagcagccgagcacagccgcccgggagtccatgccc
+            tacaccaatgctgtcatccatgaggtgcagagaatgggcaacatcatccccctgaacgtt
+            cccagggaagtgacagttgataccactttggctgggtaccacctgcccaagggtaccatg
+            atcctgaccaatttgacggcgctgcacagggaccccacagagtgggccacccctgacaca
+            ttcaatccggaccattttctggagaatggacagtttaagaaaagggaagcctttatgcct
+            ttctcaataggaaagcgggcatgcctcggagaacagttggccaggactgagctgtttatt
+            ttcttcacttcccttatgcaaaaatttaccttcaggcccccaaacaatgagaagctgagc
+            ctgaagtttagaatgggtatcaccatttccccagtcagtcaccgcctctgcgctgttcct
+            caggtgtaa
+///

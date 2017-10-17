@@ -1,0 +1,82 @@
+ENTRY       8732              CDS       T01001
+NAME        RNGTT, CAP1A, HCE, HCE1, hCAP
+DEFINITION  (RefSeq) RNA guanylyltransferase and 5'-phosphatase
+ORTHOLOGY   K13917  mRNA-capping enzyme [EC:2.7.7.50 3.6.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                8732 (RNGTT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.50  mRNA guanylyltransferase
+                 8732 (RNGTT)
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.-  
+                 8732 (RNGTT)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               5' end processing
+                Capping factors
+                 8732 (RNGTT)
+POSITION    6q15
+MOTIF       Pfam: mRNA_cap_enzyme mRNA_cap_C DSPc DNA_ligase_A_M Y_phosphatase Y_phosphatase2
+DBLINKS     NCBI-GeneID: 8732
+            NCBI-ProteinID: NP_003791
+            OMIM: 603512
+            HGNC: 10073
+            Ensembl: ENSG00000111880
+            Vega: OTTHUMG00000015190
+            Pharos: O60942(Tbio)
+            UniProt: O60942 Q7Z3R6
+STRUCTURE   PDB: 3S24 2C46
+AASEQ       597
+            MAHNKIPPRWLNCPRRGQPVAGRFLPLKTMLGPRYDSQVAEENRFHPSMLSNYLKSLKVK
+            MGLLVDLTNTSRFYDRNDIEKEGIKYIKLQCKGHGECPTTENTETFIRLCERFNERNPPE
+            LIGVHCTHGFNRTGFLICAFLVEKMDWSIEAAVATFAQARPPGIYKGDYLKELFRRYGDI
+            EEAPPPPLLPDWCFEDDEDEDEDEDGKKESEPGSSASFGKRRKERLKLGAIFLEGVTVKG
+            VTQVTTQPKLGEVQQKCHQFCGWEGSGFPGAQPVSMDKQNIKLLDLKPYKVSWKADGTRY
+            MMLIDGTNEVFMIDRDNSVFHVSNLEFPFRKDLRMHLSNTLLDGEMIIDRVNGQAVPRYL
+            IYDIIKFNSQPVGDCDFNVRLQCIEREIISPRHEKMKTGLIDKTQEPFSVRNKPFFDICT
+            SRKLLEGNFAKEVSHEMDGLIFQPTGKYKPGRCDDILKWKPPSLNSVDFRLKITRMGGEG
+            LLPQNVGLLYVGGYERPFAQIKVTKELKQYDNKIIECKFENNSWVFMRQRTDKSFPNAYN
+            TAMAVCNSISNPVTKEMLFEFIDRCTAASQGQKRKHHLDPDTELMPPPPPKRPRPLT
+NTSEQ       1794
+            atggctcacaacaagatcccgccgcggtggctgaactgtccccggcgcggccagccggtg
+            gcaggaagattcttacctctgaagacaatgttaggaccaagatatgatagtcaagttgct
+            gaagaaaatcggttccatcccagcatgctctcaaattacctaaagagcctaaaggttaaa
+            atgggcttgttggtggacctgacaaatacttcaaggttctatgaccgaaatgacatagaa
+            aaagaaggaatcaaatatataaaacttcagtgtaaaggacatggtgagtgccctaccact
+            gagaatactgagacctttattcgtctgtgtgagcggtttaatgaaagaaatccacctgaa
+            cttataggtgttcattgtactcatggcttcaatcgcactggtttcctcatatgtgccttt
+            ttggtggagaaaatggattggagtatcgaagcagcagttgctacttttgcccaagccaga
+            ccaccaggaatctacaagggtgattatttgaaggaactttttcgtcggtatggtgacata
+            gaggaagcaccacccccacctctattgccagattggtgttttgaggatgatgaagacgaa
+            gatgaggatgaggatggaaagaaggaatcagaacccgggtcaagtgcttcttttggcaaa
+            aggagaaaagaacggttaaaactgggcgctattttcttggaaggtgttactgttaaaggt
+            gtaactcaagtaacaacacaaccaaagttaggagaggtacagcagaagtgtcatcaattc
+            tgtggctgggaagggtctggattccctggagcacagcctgtttccatggacaagcaaaat
+            attaaacttttagacctgaagccatacaaagtaagctggaaagcagatggtactcggtac
+            atgatgttgattgatggcacaaatgaagtttttatgattgatagagacaattcagtattt
+            catgtttcaaatctggaatttccatttcgtaaagatcttcgtatgcatttatcaaatact
+            ctcttggatggcgagatgattattgacagagtaaatggacaggctgttcctagatatttg
+            atatatgacataattaaattcaattcacagcccgttggagattgtgattttaatgttcgt
+            ctgcagtgtatagaacgagaaattataagtcctcgacacgaaaaaatgaagactgggctc
+            attgacaaaacacaggaaccatttagcgtcagaaataagccgttttttgacatctgtact
+            tcaagaaagctacttgaaggaaattttgccaaagaagtgagccatgaaatggatggactt
+            atttttcagcctactggaaaatacaaacctggtcgatgtgatgatattttgaaatggaag
+            cctcccagtctgaattctgtggattttcgtctaaaaataacaagaatgggaggagaaggg
+            ttacttcctcagaatgttggcctcctgtatgttggaggttatgaaagaccctttgcacaa
+            atcaaggtgacaaaagagctgaaacagtatgacaacaaaattatagaatgcaaatttgag
+            aacaacagctgggtcttcatgagacagagaacagacaaaagttttcctaatgcctacaac
+            actgccatggctgtgtgtaacagcatctcaaaccctgtcaccaaggagatgctgtttgag
+            ttcatcgacagatgtactgcagcttctcaaggacagaagcgaaaacatcatctggaccct
+            gacacggagctcatgccaccaccacctcccaaaagaccacgccctttaacctaa
+///

@@ -1,0 +1,48 @@
+ENTRY       60490             CDS       T01001
+NAME        PPCDC, MDS018, PPC-DC, coaC
+DEFINITION  (RefSeq) phosphopantothenoylcysteine decarboxylase
+ORTHOLOGY   K01598  phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00770  Pantothenate and CoA biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                60490 (PPCDC)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.36  phosphopantothenoylcysteine decarboxylase
+                 60490 (PPCDC)
+POSITION    15q24.2
+MOTIF       Pfam: Flavoprotein
+DBLINKS     NCBI-GeneID: 60490
+            NCBI-ProteinID: NP_068595
+            OMIM: 609854
+            HGNC: 28107
+            Ensembl: ENSG00000138621
+            Vega: OTTHUMG00000142824
+            Pharos: Q96CD2(Tbio)
+            UniProt: Q96CD2
+STRUCTURE   PDB: 1QZU
+AASEQ       204
+            MEPKASCPAAAPLMERKFHVLVGVTGSVAALKLPLLVSKLLDIPGLEVAVVTTERAKHFY
+            SPQDIPVTLYSDADEWEIWKSRSDPVLHIDLRRWADLLLVAPLDANTLGKVASGICDNLL
+            TCVMRAWDRSKPLLFCPAMNTAMWEHPITAQQVDQLKAFGYVEIPCVAKKLVCGDEGLGA
+            MAEVGTIVDKVKEVLFQHSGFQQS
+NTSEQ       615
+            atggaaccaaaggcctcctgtccagctgctgcacccttgatggagagaaaattccatgtt
+            cttgtgggtgtcacggggagtgtcgcagccctgaagttgcctcttctggtgtcaaagctt
+            ttggacattcctgggctggaagtagcagtggtcacaactgagagagccaaacatttctac
+            agcccccaggacattcctgtcaccctctacagcgacgctgatgaatgggagatatggaag
+            agccgctctgacccagttctgcacattgacctgcggaggtgggcagacctcctgctggtg
+            gctcctcttgatgccaacactctggggaaggtggccagtggcatctgtgacaacttgctt
+            acctgcgtcatgcgggcctgggaccgcagcaagcccctgctcttctgcccggccatgaac
+            accgccatgtgggagcacccgatcacagcgcagcaggtagaccagctcaaggcctttggc
+            tatgtcgagatcccctgtgtggccaagaagctggtgtgcggagatgaaggtctcggggcc
+            atggctgaagtggggaccatcgtggacaaagtgaaagaagtcctcttccagcacagtggc
+            ttccagcagagttga
+///

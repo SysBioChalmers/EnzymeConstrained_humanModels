@@ -1,0 +1,73 @@
+ENTRY       1503              CDS       T01001
+NAME        CTPS1, CTPS, GATD5, IMD24
+DEFINITION  (RefSeq) CTP synthase 1
+ORTHOLOGY   K01937  CTP synthase [EC:6.3.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00240 Pyrimidine metabolism
+                1503 (CTPS1)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.2  CTP synthase (glutamine hydrolysing)
+                 1503 (CTPS1)
+POSITION    1p34.2
+MOTIF       Pfam: CTP_synth_N GATase Peptidase_C26 Transket_pyr CbiA
+DBLINKS     NCBI-GeneID: 1503
+            NCBI-ProteinID: NP_001896
+            OMIM: 123860
+            HGNC: 2519
+            Ensembl: ENSG00000171793
+            Vega: OTTHUMG00000005712
+            Pharos: P17812(Tbio)
+            UniProt: P17812
+STRUCTURE   PDB: 5U03 2VO1
+AASEQ       591
+            MKYILVTGGVISGIGKGIIASSVGTILKSCGLHVTSIKIDPYINIDAGTFSPYEHGEVFV
+            LDDGGEVDLDLGNYERFLDIRLTKDNNLTTGKIYQYVINKERKGDYLGKTVQVVPHITDA
+            IQEWVMRQALIPVDEDGLEPQVCVIELGGTVGDIESMPFIEAFRQFQFKVKRENFCNIHV
+            SLVPQPSSTGEQKTKPTQNSVRELRGLGLSPDLVVCRCSNPLDTSVKEKISMFCHVEPEQ
+            VICVHDVSSIYRVPLLLEEQGVVDYFLRRLDLPIERQPRKMLMKWKEMADRYDRLLETCS
+            IALVGKYTKFSDSYASVIKALEHSALAINHKLEIKYIDSADLEPITSQEEPVRYHEAWQK
+            LCSAHGVLVPGGFGVRGTEGKIQAIAWARNQKKPFLGVCLGMQLAVVEFSRNVLGWQDAN
+            STEFDPTTSHPVVVDMPEHNPGQMGGTMRLGKRRTLFQTKNSVMRKLYGDADYLEERHRH
+            RFEVNPVWKKCLEEQGLKFVGQDVEGERMEIVELEDHPFFVGVQYHPEFLSRPIKPSPPY
+            FGLLLASVGRLSHYLQKGCRLSPRDTYSDRSGSSSPDSEITELKFPSINHD
+NTSEQ       1776
+            atgaagtacattctggttactggtggtgttatatcaggaattggaaaaggaatcattgcc
+            agcagtgtgggcacaatactcaagtcatgtggtttacatgtaacttcaatcaaaattgac
+            ccctacattaacattgatgcaggaacattctctccttatgagcatggtgaggtttttgtg
+            ctggatgatggtggggaagtagaccttgacctgggtaactatgagcggttccttgacatc
+            cgcctcaccaaggacaataatctgaccactggaaagatataccagtatgtcattaacaag
+            gaacggaaaggagattacttggggaaaactgtccaagttgtccctcatatcacagatgca
+            atccaggagtgggtgatgagacaggcgttaatacctgtagatgaagatggcctggaacct
+            caagtgtgtgttattgagcttggtggaaccgtgggggacatagaaagcatgccctttatt
+            gaggccttccgtcagttccaattcaaggtcaaaagagagaacttttgtaacatccacgtc
+            agtctagttccccagccaagttcaacaggggaacagaagactaaacctacccagaatagt
+            gttcgggaacttagaggacttgggctttccccagatctggttgtatgcaggtgctcaaat
+            ccacttgacacatcagtgaaggagaaaatatcaatgttctgccatgttgagcctgaacaa
+            gtgatctgtgtccacgatgtctcatccatctaccgagtccccttgttgttagaggagcaa
+            ggggttgtagattattttcttcgaagacttgaccttcctattgagaggcagccaagaaaa
+            atgctgatgaaatggaaagagatggctgacagatatgatcgcttgctggagacctgctct
+            attgcccttgtgggcaaatacacgaagttctcagactcctatgcctctgtcattaaggct
+            ctggagcattctgcactggccatcaaccacaaattggaaatcaagtacatagattctgcg
+            gacttggagcccatcacctcgcaagaagagcccgtgcgctaccacgaagcttggcagaag
+            ctctgtagtgctcatggagtgctggttccaggaggatttggtgttcgaggaacagaagga
+            aaaatccaagcaattgcctgggctcggaatcagaaaaagccttttttgggcgtgtgctta
+            gggatgcagttggcagtggttgaattctcaagaaacgtgctgggatggcaagatgccaat
+            tctacagagtttgaccctacgaccagtcatcccgtggtcgtagacatgccagaacacaac
+            ccagggcagatgggcggaaccatgaggctgggcaagaggagaaccctgttccagaccaag
+            aactcagtcatgaggaaactctatggagacgcagactacttggaagagaggcaccgccac
+            cgatttgaggtgaatccagtctggaaaaagtgtttggaagaacaaggcttgaagtttgtt
+            ggccaagatgttgaaggagagagaatggaaattgtggagttagaagatcatccctttttt
+            gttggggttcagtaccaccctgagttcctgtccaggcctatcaagccctccccaccatac
+            tttggcctcctcctggcctctgtggggcggctctcacattacctccagaaaggctgcagg
+            ctctcacccagggacacctatagtgacaggagtggaagcagctcccctgactctgaaatc
+            accgaactgaagtttccatcaataaatcatgactga
+///

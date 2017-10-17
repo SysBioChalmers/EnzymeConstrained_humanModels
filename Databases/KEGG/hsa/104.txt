@@ -1,0 +1,81 @@
+ENTRY       104               CDS       T01001
+NAME        ADARB1, ADAR2, DRABA2, DRADA2, RED1
+DEFINITION  (RefSeq) adenosine deaminase, RNA specific B1
+ORTHOLOGY   K13194  double stranded RNA-specific editase B [EC:3.5.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.-  Acting on carbon-nitrogen bonds, other than peptide bonds
+                3.5.-.-  
+                 104 (ADARB1)
+            Spliceosome [BR:hsa03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               RNA binding proteins (RBPs)
+                104 (ADARB1)
+POSITION    21q22.3
+MOTIF       Pfam: A_deamin dsrm
+DBLINKS     NCBI-GeneID: 104
+            NCBI-ProteinID: NP_056648
+            OMIM: 601218
+            HGNC: 226
+            Ensembl: ENSG00000197381
+            Vega: OTTHUMG00000090295
+            Pharos: P78563(Tbio)
+            UniProt: P78563
+STRUCTURE   PDB: 1ZY7 5ED1 5ED2 5HP2 5HP3
+AASEQ       741
+            MDIEDEENMSSSSTDVKENRNLDNVSPKDGSTPGPGEGSQLSNGGGGGPGRKRPLEEGSN
+            GHSKYRLKKRRKTPGPVLPKNALMQLNEIKPGLQYTLLSQTGPVHAPLFVMSVEVNGQVF
+            EGSGPTKKKAKLHAAEKALRSFVQFPNASEAHLAMGRTLSVNTDFTSDQADFPDTLFNGF
+            ETPDKAEPPFYVGSNGDDSFSSSGDLSLSASPVPASLAQPPLPVLPPFPPPSGKNPVMIL
+            NELRPGLKYDFLSESGESHAKSFVMSVVVDGQFFEGSGRNKKLAKARAAQSALAAIFNLH
+            LDQTPSRQPIPSEGLQLHLPQVLADAVSRLVLGKFGDLTDNFSSPHARRKVLAGVVMTTG
+            TDVKDAKVISVSTGTKCINGEYMSDRGLALNDCHAEIISRRSLLRFLYTQLELYLNNKDD
+            QKRSIFQKSERGGFRLKENVQFHLYISTSPCGDARIFSPHEPILEGSRSYTQAGVQWCNH
+            GSLQPRPPGLLSDPSTSTFQGAGTTEPADRHPNRKARGQLRTKIESGEGTIPVRSNASIQ
+            TWDGVLQGERLLTMSCSDKIARWNVVGIQGSLLSIFVEPIYFSSIILGSLYHGDHLSRAM
+            YQRISNIEDLPPLYTLNKPLLSGISNAEARQPGKAPNFSVNWTVGDSAIEVINATTGKDE
+            LGRASRLCKHALYCRWMRVHGKVPSHLLRSKITKPNVYHESKLAAKEYQAAKARLFTAFI
+            KAGLGAWVEKPTEQDQFSLTP
+NTSEQ       2226
+            atggatatagaagatgaagaaaacatgagttccagcagcactgatgtgaaggaaaaccgc
+            aatctggacaacgtgtcccccaaggatggcagcacacctgggcctggcgagggctctcag
+            ctctccaatgggggtggtggtggccccggcagaaagcggcccctggaggagggcagcaat
+            ggccactccaagtaccgcctgaagaaaaggaggaaaacaccagggcccgtcctccccaag
+            aacgccctgatgcagctgaatgagatcaagcctggtttgcagtacacactcctgtcccag
+            actgggcccgtgcacgcgcctttgtttgtcatgtctgtggaggtgaatggccaggttttt
+            gagggctctggtcccacaaagaaaaaggcaaaactccatgctgctgagaaggccttgagg
+            tctttcgttcagtttcctaatgcctctgaggcccacctggccatggggaggaccctgtct
+            gtcaacacggacttcacatctgaccaggccgacttccctgacacgctcttcaatggtttt
+            gaaactcctgacaaggcggagcctcccttttacgtgggctccaatggggatgactccttc
+            agttccagcggggacctcagcttgtctgcttccccggtgcctgccagcctagcccagcct
+            cctctccctgtcttaccaccattcccacccccgagtgggaagaatcccgtgatgatcttg
+            aacgaactgcgcccaggactcaagtatgacttcctctccgagagcggggagagccatgcc
+            aagagcttcgtcatgtctgtggtcgtggatggtcagttctttgaaggctcggggagaaac
+            aagaagcttgccaaggcccgggctgcgcagtctgccctggccgccatttttaacttgcac
+            ttggatcagacgccatctcgccagcctattcccagtgagggtcttcagctgcatttaccg
+            caggttttagctgacgctgtctcacgcctggtcctgggtaagtttggtgacctgaccgac
+            aacttctcctcccctcacgctcgcagaaaagtgctggctggagtcgtcatgacaacaggc
+            acagatgttaaagatgccaaggtgataagtgtttctacaggaacaaaatgtattaatggt
+            gaatacatgagtgatcgtggccttgcattaaatgactgccatgcagaaataatatctcgg
+            agatccttgctcagatttctttatacacaacttgagctttacttaaataacaaagatgat
+            caaaaaagatccatctttcagaaatcagagcgaggggggtttaggctgaaggagaatgtc
+            cagtttcatctgtacatcagcacctctccctgtggagatgccagaatcttctcaccacat
+            gagccaatcctggaagggtctcgctcttacacccaggctggagtgcagtggtgcaatcat
+            ggctcactgcagcctcgacctcctgggctcttaagcgatccttccacctcaaccttccaa
+            ggagctgggactacagaaccagcagatagacacccaaatcgtaaagcaagaggacagcta
+            cggaccaaaatagagtctggtgaggggacgattccagtgcgctccaatgcgagcatccaa
+            acgtgggacggggtgctgcaaggggagcggctgctcaccatgtcctgcagtgacaagatt
+            gcacgctggaacgtggtgggcatccagggatccctgctcagcattttcgtggagcccatt
+            tacttctcgagcatcatcctgggcagcctttaccacggggaccacctttccagggccatg
+            taccagcggatctccaacatagaggacctgccacctctctacaccctcaacaagcctttg
+            ctcagtggcatcagcaatgcagaagcacggcagccagggaaggcccccaacttcagtgtc
+            aactggacggtaggcgactccgctattgaggtcatcaacgccacgactgggaaggatgag
+            ctgggccgcgcgtcccgcctgtgtaagcacgcgttgtactgtcgctggatgcgtgtgcac
+            ggcaaggttccctcccacttactacgctccaagattaccaagcccaacgtgtaccatgag
+            tccaagctggcggcaaaggagtaccaggccgccaaggcgcgtctgttcacagccttcatc
+            aaggcggggctgggggcctgggtggagaagcccaccgagcaggaccagttctcactcacg
+            ccctga
+///

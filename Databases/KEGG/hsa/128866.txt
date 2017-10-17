@@ -1,0 +1,60 @@
+ENTRY       128866            CDS       T01001
+NAME        CHMP4B, C20orf178, CHMP4A, CTPP3, CTRCT31, SNF7, SNF7-2, Shax1, VPS32B, Vps32-2, dJ553F4.4
+DEFINITION  (RefSeq) charged multivesicular body protein 4B
+ORTHOLOGY   K12194  charged multivesicular body protein 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04217  Necroptosis
+MODULE      hsa_M00412  ESCRT-III complex
+DISEASE     H01202  Cataract
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                128866 (CHMP4B)
+              Cell growth and death
+               04217 Necroptosis
+                128866 (CHMP4B)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-III complex
+                128866 (CHMP4B)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               128866 (CHMP4B)
+              Exosomal proteins of other body fluids (saliva and urine)
+               128866 (CHMP4B)
+              Exosomal proteins of colorectal cancer cells
+               128866 (CHMP4B)
+POSITION    20q11.22
+MOTIF       Pfam: Snf7 SYF2 WD-3 Exonuc_VII_L
+DBLINKS     NCBI-GeneID: 128866
+            NCBI-ProteinID: NP_789782
+            OMIM: 610897
+            HGNC: 16171
+            Ensembl: ENSG00000101421
+            Vega: OTTHUMG00000032272
+            Pharos: Q9H444(Tbio)
+            UniProt: Q9H444
+STRUCTURE   PDB: 5MK2 4ABM 3UM3
+AASEQ       224
+            MSVFGKLFGAGGGKAGKGGPTPQEAIQRLRDTEEMLSKKQEFLEKKIEQELTAAKKHGTK
+            NKRAALQALKRKKRYEKQLAQIDGTLSTIEFQREALENANTNTEVLKNMGYAAKAMKAAH
+            DNMDIDKVDELMQDIADQQELAEEISTAISKPVGFGEEFDEDELMAELEELEQEELDKNL
+            LEISGPETVPLPNVPSIALPSKPAKKKEEEDDDMKELENWAGSM
+NTSEQ       675
+            atgtcggtgttcgggaagctgttcggggctggagggggtaaggccggcaagggcggcccg
+            accccccaggaggccatccagcggctgcgggacacggaagagatgttaagcaagaaacag
+            gagttcctggagaagaaaatcgagcaggagctgacggccgccaagaagcacggcaccaaa
+            aacaagcgcgcggccctccaggcactgaagcgtaagaagaggtatgagaagcagctggcg
+            cagatcgacggcacattatcaaccatcgagttccagcgggaggccctggagaatgccaac
+            accaacaccgaggtgctcaagaacatgggctatgccgccaaggccatgaaggcggcccat
+            gacaacatggacatcgataaagttgatgagttaatgcaggacattgctgaccagcaagaa
+            cttgcagaggagatttcaacagcaatttcgaaacctgtagggtttggagaagagtttgac
+            gaggatgagctcatggcggaattagaagaactagaacaggaggaactagacaagaatttg
+            ctggaaatcagtggacccgaaacagtccctctaccaaatgttccctctatagccctacca
+            tcaaaacccgccaagaagaaagaagaggaggacgacgacatgaaggaattggagaactgg
+            gctggatccatgtaa
+///

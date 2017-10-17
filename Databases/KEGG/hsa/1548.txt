@@ -1,0 +1,91 @@
+ENTRY       1548              CDS       T01001
+NAME        CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB
+DEFINITION  (RefSeq) cytochrome P450 family 2 subfamily A member 6
+ORTHOLOGY   K17683  cytochrome P450 family 2 subfamily A polypeptide 6 [EC:1.14.13.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00232  Caffeine metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+DISEASE     H01205  Coumarin resistance
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1548 (CYP2A6)
+              Biosynthesis of other secondary metabolites
+               00232 Caffeine metabolism
+                1548 (CYP2A6)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1548 (CYP2A6)
+               00982 Drug metabolism - cytochrome P450
+                1548 (CYP2A6)
+               00983 Drug metabolism - other enzymes
+                1548 (CYP2A6)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1548 (CYP2A6)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.-  
+                 1548 (CYP2A6)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP2 family
+               1548 (CYP2A6)
+POSITION    19q13.2
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1548
+            NCBI-ProteinID: NP_000753
+            OMIM: 122720
+            HGNC: 2610
+            Ensembl: ENSG00000255974
+            Vega: OTTHUMG00000182713
+            Pharos: P11509(Tchem)
+            UniProt: P11509
+STRUCTURE   PDB: 2FDV 2FDU 1Z10 2PG5 2FDY 2FDW 1Z11 3T3Q 3EBS 4EJJ 3T3R
+                 2PG6 4RUI 2PG7
+AASEQ       494
+            MLASGMLLVALLVCLTVMVLMSVWQQRKSKGKLPPGPTPLPFIGNYLQLNTEQMYNSLMK
+            ISERYGPVFTIHLGPRRVVVLCGHDAVREALVDQAEEFSGRGEQATFDWVFKGYGVVFSN
+            GERAKQLRRFSIATLRDFGVGKRGIEERIQEEAGFLIDALRGTGGANIDPTFFLSRTVSN
+            VISSIVFGDRFDYKDKEFLSLLRMMLGIFQFTSTSTGQLYEMFSSVMKHLPGPQQQAFQL
+            LQGLEDFIAKKVEHNQRTLDPNSPRDFIDSFLIRMQEEEKNPNTEFYLKNLVMTTLNLFI
+            GGTETVSTTLRYGFLLLMKHPEVEAKVHEEIDRVIGKNRQPKFEDRAKMPYMEAVIHEIQ
+            RFGDVIPMSLARRVKKDTKFRDFFLPKGTEVYPMLGSVLRDPSFFSNPQDFNPQHFLNEK
+            GQFKKSDAFVPFSIGKRNCFGEGLARMELFLFFTTVMQNFRLKSSQSPKDIDVSPKHVGF
+            ATIPRNYTMSFLPR
+NTSEQ       1485
+            atgctggcctcagggatgcttctggtggccttgctggtctgcctgactgtaatggtcttg
+            atgtctgtttggcagcagaggaagagcaaggggaagctgcctccgggacccaccccattg
+            cccttcattggaaactacctgcagctgaacacagagcagatgtacaactccctcatgaag
+            atcagtgagcgctatggccccgtgttcaccattcacttggggccccggcgggtcgtggtg
+            ctgtgtggacatgatgccgtcagggaggctctggtggaccaggctgaggagttcagcggg
+            cgaggcgagcaagccaccttcgactgggtcttcaaaggctatggcgtggtattcagcaac
+            ggggagcgcgccaagcagctccggcgcttctccatcgccaccctgcgggacttcggggtg
+            ggcaagcgaggcatcgaggagcgcatccaggaggaggcgggcttcctcatcgacgccctc
+            cggggcactggcggcgccaatatcgatcccaccttcttcctgagccgcacagtctccaat
+            gtcatcagctccattgtctttggggaccgctttgactataaggacaaagagttcctgtca
+            ctgttgcgcatgatgctaggaatcttccagttcacgtcaacctccacggggcagctctat
+            gagatgttctcttcggtgatgaaacacctgccaggaccacagcaacaggcctttcagttg
+            ctgcaagggctggaggacttcatagccaagaaggtggagcacaaccagcgcacgctggat
+            cccaattccccacgggacttcattgactcctttctcatccgcatgcaggaggaggagaag
+            aaccccaacacggagttctacttgaaaaacctggtgatgaccacgttgaacctcttcatt
+            gggggcaccgagaccgtcagcaccaccctgcgctatggcttcttgctgctcatgaagcac
+            ccagaggtggaggccaaggtccatgaggagattgacagagtgatcggcaagaaccggcag
+            cccaagtttgaggaccgggccaagatgccctacatggaggcagtgatccacgagatccaa
+            agatttggagacgtgatccccatgagtttggcccgcagagtcaaaaaggacaccaagttt
+            cgggatttcttcctccctaagggcaccgaagtgtaccctatgctgggctctgtgctgaga
+            gaccccagtttcttctccaacccccaggacttcaatccccagcacttcctgaatgagaag
+            gggcagtttaagaagagtgatgcttttgtgcccttttccatcggaaagcggaactgtttc
+            ggagaaggcctggccagaatggagctctttctcttcttcaccaccgtcatgcagaacttc
+            cgcctcaagtcctcccagtcacctaaggacattgacgtgtcccccaaacacgtgggcttt
+            gccacgatcccacgaaactacaccatgagcttcctgccccgctga
+///

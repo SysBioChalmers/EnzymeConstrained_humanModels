@@ -1,0 +1,66 @@
+ENTRY       6634              CDS       T01001
+NAME        SNRPD3, SMD3, Sm-D3
+DEFINITION  (RefSeq) small nuclear ribonucleoprotein D3 polypeptide
+ORTHOLOGY   K11088  small nuclear ribonucleoprotein D3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+            hsa05322  Systemic lupus erythematosus
+MODULE      hsa_M00351  Spliceosome, U1-snRNP
+            hsa_M00352  Spliceosome, U2-snRNP
+            hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+            hsa_M00355  Spliceosome, 35S U5-snRNP
+            hsa_M00398  Sm core complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                6634 (SNRPD3)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                6634 (SNRPD3)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U1 snRNP components
+               Sm proteins
+                6634 (SNRPD3)
+              U2 snRNP components
+                6634 (SNRPD3)
+             Complex B
+              U1 snRNP components
+                6634 (SNRPD3)
+              U4/U6.U5 tri-snRNP components
+                6634 (SNRPD3)
+             Complex C
+              U2 snRNP components
+                6634 (SNRPD3)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                Sm core complex
+                 6634 (SNRPD3)
+POSITION    22q11.23
+MOTIF       Pfam: LSM Kringle
+DBLINKS     NCBI-GeneID: 6634
+            NCBI-ProteinID: NP_001265585
+            OMIM: 601062
+            HGNC: 11160
+            Ensembl: ENSG00000100028
+            Vega: OTTHUMG00000150727
+            Pharos: P62318(Tbio)
+            UniProt: P62318
+STRUCTURE   PDB: 1D3B 4PJO 3PGW 5O9Z 3CW1 5MQF 3JCR
+AASEQ       126
+            MSIGVPIKVLHEAEGHIVTCETNTGEVYRGKLIEAEDNMNCQMSNITVTYRDGRVAQLEQ
+            VYIRGSKIRFLILPDMLKNAPMLKSMKNKNQGSGAGRGKAAILKAQVAARGRGRGMGRGN
+            IFQKRR
+NTSEQ       381
+            atgtctattggtgtgccgattaaagtactgcatgaggccgagggccacattgtgacatgt
+            gagacgaacaccggtgaggtatatcgggggaagctcattgaagcagaggacaacatgaac
+            tgccagatgtccaacatcacagtcacatacagagatggccgagtggcacagctggagcag
+            gtatacatccgtggcagcaaaatccgctttctgattttgcctgacatgctgaagaacgca
+            cccatgttaaagagcatgaaaaataaaaaccaaggctcaggggctggccgaggaaaagct
+            gctattctcaaggcccaagtggccgcaagaggaagaggacgtggaatgggacgtggaaac
+            atctttcaaaagcgaagataa
+///

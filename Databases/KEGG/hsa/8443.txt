@@ -1,0 +1,83 @@
+ENTRY       8443              CDS       T01001
+NAME        GNPAT, DAP-AT, DAPAT, DHAPAT, RCDP2
+DEFINITION  (RefSeq) glyceronephosphate O-acyltransferase
+ORTHOLOGY   K00649  glyceronephosphate O-acyltransferase [EC:2.3.1.42]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa04146  Peroxisome
+DISEASE     H00207  Rhizomelic chondrodysplasia punctata
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                8443 (GNPAT)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                8443 (GNPAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.42  glycerone-phosphate O-acyltransferase
+                 8443 (GNPAT)
+POSITION    1q42.2
+MOTIF       Pfam: Acyltransferase
+DBLINKS     NCBI-GeneID: 8443
+            NCBI-ProteinID: NP_055051
+            OMIM: 602744
+            HGNC: 4416
+            Ensembl: ENSG00000116906
+            Vega: OTTHUMG00000038024
+            Pharos: O15228(Tchem)
+            UniProt: O15228
+AASEQ       680
+            MESSSSSNSYFSVGPTSPSAVVLLYSKELKKWDEFEDILEERRHVSDLKFAMKCYTPLVY
+            KGITPCKPIDIKCSVLNSEEIHYVIKQLSKESLQSVDVLREEVSEILDEMSHKLRLGAIR
+            FCAFTLSKVFKQIFSKVCVNEEGIQKLQRAIQEHPVVLLPSHRSYIDFLMLSFLLYNYDL
+            PVPVIAAGMDFLGMKMVGELLRMSGAFFMRRTFGGNKLYWAVFSEYVKTMLRNGYAPVEF
+            FLEGTRSRSAKTLTPKFGLLNIVMEPFFKREVFDTYLVPISISYDKILEETLYVYELLGV
+            PKPKESTTGLLKARKILSENFGSIHVYFGDPVSLRSLAAGRMSRSSYNLVPRYIPQKQSE
+            DMHAFVTEVAYKMELLQIENMVLSPWTLIVAVLLQNRPSMDFDALVEKTLWLKGLTQAFG
+            GFLIWPDNKPAEEVVPASILLHSNIASLVKDQVILKVDSGDSEVVDGLMLQHITLLMCSA
+            YRNQLLNIFVRPSLVAVALQMTPGFRKEDVYSCFRFLRDVFADEFIFLPGNTLKDFEEGC
+            YLLCKSEAIQVTTKDILVTEKGNTVLEFLVGLFKPFVESYQIICKYLLSEEEDHFSEEQY
+            LAAVRKFTSQLLDQGTSQCYDVLSSDVQKNALAACVRLGVVEKKKINNNCIFNVNEPATT
+            KLEEMLGCKTPIGKPATAKL
+NTSEQ       2043
+            atggagtcttccagttcatctaactcttatttctccgttggcccaaccagtcccagcgct
+            gtcgtgctcctctactcgaaggagctcaaaaagtgggatgagtttgaagatattttagaa
+            gagaggaggcatgtcagtgacttgaaatttgcaatgaaatgctacacacctcttgtctat
+            aagggaattactccatgtaaaccaattgatattaaatgtagtgttctcaattctgaggag
+            attcattatgtcattaaacagctttccaaggaatcccttcaatctgtggatgtcctccga
+            gaggaagtgagtgagatcttagatgaaatgagtcacaaactgcgtcttggagccattcgg
+            ttttgtgccttcaccctgagcaaagtatttaaacaaattttctcgaaggtgtgtgtaaat
+            gaagaaggtattcagaaactacaaagagccatccaggagcatcctgttgttctgctgcct
+            agtcatcgaagttacattgacttcctcatgttgtcttttcttctatacaattatgatttg
+            cctgtgccagttatagcagcaggaatggacttcctgggaatgaaaatggttggtgagctg
+            ctacgaatgtcgggtgcctttttcatgcggcgtacctttggtggcaataaactctactgg
+            gctgtattctctgaatatgtaaaaactatgttacggaatggttatgctcctgttgaattt
+            ttcctcgaagggacaagaagccgctctgccaagacattgactcctaaatttggtcttctg
+            aatattgtgatggagccattttttaaaagagaagtttttgatacctaccttgtcccaatt
+            agtatcagttatgataagatcttggaagaaactctttatgtgtatgagcttctaggggtt
+            cctaaaccaaaagagtctacaactgggttgctgaaagccagaaagattctctctgaaaat
+            tttggaagcatccatgtgtactttggagatcctgtgtcacttcgatctttggcagctggg
+            aggatgagtcggagctcatataacttggttccaagatacattcctcagaaacagtctgag
+            gacatgcatgcctttgtcactgaagttgcctacaaaatggagcttctgcaaattgaaaac
+            atggttttgagcccctggaccctaatagttgctgttctgcttcagaaccggccatccatg
+            gactttgatgctctggtggaaaagactttatggctaaaaggcttaacccaggcatttgga
+            gggtttctcatttggcctgataataaacctgctgaagaagttgtcccggccagcattctt
+            ctgcattccaacattgccagccttgtcaaagaccaggtgattctgaaagtggactccgga
+            gactcggaagtggtcgatgggcttatgctccagcacatcactctcctcatgtgctcagct
+            tataggaaccagctgctcaacatttttgtgcgcccatccttagtagcagtagcattgcag
+            atgacaccagggttcaggaaagaggatgtctacagttgctttcgcttcctacgtgatgtt
+            tttgcagatgagttcatcttccttccaggaaacacactaaaggactttgaagaaggctgt
+            tacctgctttgtaaaagtgaagccatacaagtgactacgaaagacatcctagttacagag
+            aaaggaaatactgtgttagaatttttagtaggactctttaaaccttttgtggaaagctat
+            cagataatttgcaagtaccttttgagtgaagaagaggaccacttcagtgaggaacagtac
+            ttggctgcagtcagaaaattcacaagtcagcttctcgatcaaggtacctctcaatgttat
+            gatgtattatcttctgatgtgcagaaaaacgccttagcagcctgtgtgaggctcggagta
+            gtggagaagaagaagataaataataactgtatatttaatgtgaatgaacctgccacaacc
+            aaattagaagaaatgcttggttgtaagacaccaataggaaaaccagccactgcaaaactt
+            taa
+///

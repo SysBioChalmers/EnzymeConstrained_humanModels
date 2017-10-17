@@ -1,0 +1,90 @@
+ENTRY       10020             CDS       T01001
+NAME        GNE, DMRV, GLCNE, IBM2, NM, Uae1
+DEFINITION  (RefSeq) glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase
+ORTHOLOGY   K12409  bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase [EC:3.2.1.183 2.7.1.60]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00147  Sialuria/ Sialic acid storage disease
+            H00594  Distal myopathy
+            H00596  Nonaka distal myopathy (NM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                10020 (GNE)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.60  N-acylmannosamine kinase
+                 10020 (GNE)
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.183  UDP-N-acetylglucosamine 2-epimerase (hydrolysing)
+                 10020 (GNE)
+POSITION    9p13.3
+MOTIF       Pfam: Epimerase_2 ROK FGGY_N DRTGG Hexokinase_1 BcrAD_BadFG Glucokinase
+DBLINKS     NCBI-GeneID: 10020
+            NCBI-ProteinID: NP_005467
+            OMIM: 603824
+            HGNC: 23657
+            Ensembl: ENSG00000159921
+            Vega: OTTHUMG00000019899
+            Pharos: Q9Y223(Tbio)
+            UniProt: Q9Y223
+STRUCTURE   PDB: 2YHW 2YHY 2YI1 4ZHT 3EO3
+AASEQ       722
+            MEKNGNNRKLRVCVATCNRADYSKLAPIMFGIKTEPEFFELDVVVLGSHLIDDYGNTYRM
+            IEQDDFDINTRLHTIVRGEDEAAMVESVGLALVKLPDVLNRLKPDIMIVHGDRFDALALA
+            TSAALMNIRILHIEGGEVSGTIDDSIRHAITKLAHYHVCCTRSAEQHLISMCEDHDRILL
+            AGCPSYDKLLSAKNKDYMSIIRMWLGDDVKSKDYIVALQHPVTTDIKHSIKMFELTLDAL
+            ISFNKRTLVLFPNIDAGSKEMVRVMRKKGIEHHPNFRAVKHVPFDQFIQLVAHAGCMIGN
+            SSCGVREVGAFGTPVINLGTRQIGRETGENVLHVRDADTQDKILQALHLQFGKQYPCSKI
+            YGDGNAVPRILKFLKSIDLQEPLQKKFCFPPVKENISQDIDHILETLSALAVDLGGTNLR
+            VAIVSMKGEIVKKYTQFNPKTYEERINLILQMCVEAAAEAVKLNCRILGVGISTGGRVNP
+            REGIVLHSTKLIQEWNSVDLRTPLSDTLHLPVWVDNDGNCAALAERKFGQGKGLENFVTL
+            ITGTGIGGGIIHQHELIHGSSFCAAELGHLVVSLDGPDCSCGSHGCIEAYASGMALQREA
+            KKLHDEDLLLVEGMSVPKDEAVGALHLIQAAKLGNAKAQSILRTAGTALGLGVVNILHTM
+            NPSLVILSGVLASHYIHIVKDVIRQQALSSVQDVDVVVSDLVDPALLGAASMVLDYTTRR
+            IY
+NTSEQ       2169
+            atggagaagaatggaaataaccgaaagctgcgggtttgtgttgctacttgtaaccgtgca
+            gattattctaaacttgccccgatcatgtttggcattaaaaccgaacctgagttctttgaa
+            cttgatgttgtggtacttggctctcacctgatagatgactatggaaatacatatcgaatg
+            attgaacaagatgactttgacattaacaccaggctacacacaattgtgaggggagaagat
+            gaggcagccatggtggagtcagtaggcctggccctagtgaagctgccagatgtccttaat
+            cgcctgaagcctgatatcatgattgttcatggagacaggtttgatgccctggctctggcc
+            acatctgctgccttgatgaacatccgaatccttcacattgaaggtggggaagtcagtggg
+            accattgatgactctatcagacatgccataacaaaactggctcattatcatgtgtgctgc
+            acccgcagtgcagagcagcacctgatatccatgtgtgaggaccatgatcgcatccttttg
+            gcaggctgcccttcctatgacaaacttctctcagccaagaacaaagactacatgagcatc
+            attcgcatgtggctaggtgatgatgtaaaatctaaagattacattgttgcactacagcac
+            cctgtgaccactgacattaagcattccataaaaatgtttgaattaacattggatgcactt
+            atctcatttaacaagcggaccctagtcctgtttccaaatattgacgcagggagcaaagag
+            atggttcgagtgatgcggaagaagggcattgagcatcatcccaactttcgtgcagttaaa
+            cacgtcccatttgaccagtttatacagttggttgcccatgctggctgtatgattgggaac
+            agcagctgtggggttcgagaagttggagcttttggaacacctgtgatcaacctgggaaca
+            cgtcagattggaagagaaacaggggagaatgttcttcatgtccgggatgctgacacccaa
+            gacaaaatattgcaagcactgcaccttcagtttggtaaacagtacccttgttcaaagata
+            tatggggatggaaatgctgttccaaggattttgaagtttctcaaatctatcgatcttcaa
+            gagccactgcaaaagaaattctgctttcctcctgtgaaggagaatatctctcaagatatt
+            gaccatattcttgaaactctaagtgccttggccgttgatcttggcgggacgaacctccga
+            gttgcaatagtcagcatgaagggtgaaatagttaagaagtatactcagttcaatcctaaa
+            acctatgaagagaggattaatttaatcctacagatgtgtgtggaagctgcagcagaagct
+            gtaaaactgaactgcagaattttgggagtaggcatttccacaggtggccgtgtaaatcct
+            cgggaaggaattgtgctgcattcaaccaaactgatccaagagtggaactctgtggacctt
+            aggacccccctttctgacactttgcatctccctgtgtgggtagacaatgatggcaactgt
+            gctgccctggcggaaaggaaatttggccaaggaaagggactggaaaactttgttacactt
+            atcacaggcacaggaatcggtggtggaattatccatcagcatgaattgatccacggaagc
+            tccttctgtgctgcagaactgggccaccttgttgtgtctctggatgggcctgattgttcc
+            tgtggaagccatgggtgcattgaagcatacgcctctggaatggccttgcagagggaggca
+            aaaaagctccatgatgaggacctgctcttggtggaagggatgtcagtgccaaaagatgag
+            gctgtgggtgcgctccatctcatccaagctgcgaaacttggcaatgcgaaggcccagagc
+            atcctaagaacagctggaacagctttgggtcttggggttgtgaacatcctccataccatg
+            aatccctcccttgtgatcctctccggagtcctggccagtcactatatccacattgtcaaa
+            gacgtcattcgccagcaggccttgtcctccgtgcaggacgtggatgtggtggtttcggat
+            ttggttgaccccgccctgctgggtgctgccagcatggttctggactacacaacacgcagg
+            atctactag
+///

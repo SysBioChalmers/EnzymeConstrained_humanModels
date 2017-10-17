@@ -1,0 +1,71 @@
+ENTRY       6675              CDS       T01001
+NAME        UAP1, AGX, AGX1, AGX2, SPAG2
+DEFINITION  (RefSeq) UDP-N-acetylglucosamine pyrophosphorylase 1
+ORTHOLOGY   K00972  UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase [EC:2.7.7.23 2.7.7.83]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00361  Nucleotide sugar biosynthesis, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                6675 (UAP1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.23  UDP-N-acetylglucosamine diphosphorylase
+                 6675 (UAP1)
+                2.7.7.83  UDP-N-acetylgalactosamine diphosphorylase
+                 6675 (UAP1)
+POSITION    1q23.3
+MOTIF       Pfam: UDPGP NTP_transf_3
+DBLINKS     NCBI-GeneID: 6675
+            NCBI-ProteinID: NP_001311045
+            OMIM: 602862
+            HGNC: 12457
+            Ensembl: ENSG00000117143
+            Vega: OTTHUMG00000034419
+            Pharos: Q16222(Tbio)
+            UniProt: Q16222
+STRUCTURE   PDB: 1JV1 1JV3 1JVG 1JVD
+AASEQ       522
+            MNINDLKLTLSKAGQEHLLRFWNELEEAQQVELYAELQAMNFEELNFFFQKAIEGFNQSS
+            HQKNVDARMEPVPREVLGSATRDQDQLQAWESEGLFQISQNKVAVLLLAGGQGTRLGVAY
+            PKGMYDVGLPSRKTLFQIQAERILKLQQVAEKYYGNKCIIPWYIMTSGRTMESTKEFFTK
+            HKYFGLKKENVIFFQQGMLPAMSFDGKIILEEKNKVSMAPDGNGGLYRALAAQNIVEDME
+            QRGIWSIHVYCVDNILVKVADPRFIGFCIQKGADCGAKVVEKTNPTEPVGVVCRVDGVYQ
+            VVEYSEISLATAQKRSSDGRLLFNAGNIANHFFTVPFLRDVVNVYEPQLQHHVAQKKIPY
+            VDTQGQLIKPDKPNGIKMEKFVFDIFQFAKKFVVYEVLREDEFSPLKNADSQNGKDNPTT
+            ARHALMSLHHCWVLNAGGHFIDENGSRLPAIPRSATNGKSETITADVNHNLKDANDVPIQ
+            CEISPLISYAGEGLESYVADKEFHAPLIIDENGVHELVKNGI
+NTSEQ       1569
+            atgaacattaatgacctcaaactcacgttgtccaaagctgggcaagagcacctactacgt
+            ttctggaatgagcttgaagaagcccaacaggtagaactttatgcagagctccaggccatg
+            aactttgaggagctgaacttctttttccaaaaggccattgaaggttttaaccagtcttct
+            caccaaaagaatgtggatgcacgaatggaacctgtgcctcgagaggtattaggcagtgct
+            acaagggatcaagatcagctccaggcctgggaaagtgaaggacttttccagatttctcag
+            aataaagtagcagttcttcttctagctggtgggcaggggacaagactcggcgttgcatat
+            cctaaggggatgtatgatgttggtttgccatcccgtaagacactttttcagattcaagca
+            gagcgtatcctgaagctacagcaggttgctgaaaaatattatggcaacaaatgcattatt
+            ccatggtatataatgaccagtggcagaacaatggaatctacaaaggagttcttcaccaag
+            cacaagtactttggtttaaaaaaagagaatgtaatcttttttcagcaaggaatgctcccc
+            gccatgagttttgatgggaaaattattttggaagagaagaacaaagtttctatggctcca
+            gatgggaatggtggtctttatcgggcacttgcagcccagaatattgtggaggatatggag
+            caaagaggcatttggagcattcatgtctattgtgttgacaacatattagtaaaagtggca
+            gacccacggttcattggattttgcattcagaaaggagcagactgtggagcaaaggtggta
+            gagaaaacgaaccctacagaaccagttggagtggtttgccgagtggatggagtttaccag
+            gtggtagaatatagtgagatttccctggcaacagctcaaaaacgaagctcagacggacga
+            ctgctgttcaatgcggggaacattgccaaccatttcttcactgtaccatttctgagagat
+            gttgtcaatgtttatgaacctcagttgcagcaccatgtggctcaaaagaagattccttat
+            gtggatacccaaggacagttaattaagccagacaaacccaatggaataaagatggaaaaa
+            tttgtctttgacatcttccagtttgcaaagaagtttgtggtatatgaagtattgcgagaa
+            gatgagttttccccactaaagaatgctgatagtcagaatgggaaagacaaccctactact
+            gcaaggcatgctttgatgtcccttcatcattgctgggtcctcaatgcagggggccatttc
+            atagatgaaaatggctctcgccttccagcaattccccgcagtgctacaaatgggaagtca
+            gagaccatcacagctgatgtcaatcacaacttgaaggatgccaatgatgtaccaatccaa
+            tgtgaaatctctcctcttatctcctatgctggagaaggattagaaagttatgtggcagat
+            aaagaattccatgcacctctaatcatcgatgagaatggagttcatgagctggtgaaaaat
+            ggtatttga
+///

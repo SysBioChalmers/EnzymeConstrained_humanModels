@@ -1,0 +1,58 @@
+ENTRY       131870            CDS       T01001
+NAME        NUDT16
+DEFINITION  (RefSeq) nudix hydrolase 16
+ORTHOLOGY   K16855  U8 snoRNA-decapping enzyme [EC:3.6.1.62 3.6.1.64]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                131870 (NUDT16)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                131870 (NUDT16)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.62  5'-(N7-methylguanosine 5'-triphospho)-[mRNA] hydrolase
+                 131870 (NUDT16)
+                3.6.1.64  inosine diphosphate phosphatase
+                 131870 (NUDT16)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA degradation factors
+               5'-3' decay
+                5' exonucleases
+                 131870 (NUDT16)
+POSITION    3q22.1
+MOTIF       Pfam: NUDIX
+DBLINKS     NCBI-GeneID: 131870
+            NCBI-ProteinID: NP_689608
+            OMIM: 617381
+            HGNC: 26442
+            Ensembl: ENSG00000198585
+            Vega: OTTHUMG00000159623
+            Pharos: Q96DE0(Tbio)
+            UniProt: Q96DE0
+STRUCTURE   PDB: 2XSQ 3MGM 3COU
+AASEQ       195
+            MAGARRLELGEALALGSGWRHACHALLYAPDPGMLFGRIPLRYAILMQMRFDGRLGFPGG
+            FVDTQDRSLEDGLNRELREELGEAAAAFRVERTDYRSSHVGSGPRVVAHFYAKRLTLEEL
+            LAVEAGATRAKDHGLEVLGLVRVPLYTLRDGVGGLPTFLENSFIGSAREQLLEALQDLGL
+            LQSGSISGLKIPAHH
+NTSEQ       588
+            atggccggagcccgcaggctggagctaggcgaggccctggcgctggggtcgggctggcgt
+            catgcgtgccacgctctcctctacgcgccggaccctgggatgctcttcggccgcatcccg
+            ctgcgctacgccatactgatgcagatgcgcttcgatggacgcctgggcttccccggcgga
+            ttcgtggacacgcaggacagaagcctagaggacgggctgaaccgcgagctgcgcgaggag
+            ctgggcgaagcggctgccgctttccgcgtggagcgcactgactaccgcagctcccacgtc
+            gggtcagggccacgcgttgtggcccacttctatgccaagcgtctgacgctcgaggagctg
+            ttggctgtggaggccggcgcaacacgcgccaaggaccacgggctggaggtgctgggcctg
+            gtgcgagtgcccctgtataccctgcgggatggtgtaggaggcctgcctaccttcctggag
+            aattcctttattggctctgcgcgggagcagttacttgaagctctccaggacttgggactg
+            ctgcagtctggctctatttcaggccttaagattccagctcatcactag
+///

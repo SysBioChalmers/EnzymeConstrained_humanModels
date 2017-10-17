@@ -1,0 +1,73 @@
+ENTRY       2919              CDS       T01001
+NAME        CXCL1, FSP, GRO1, GROa, MGSA, MGSA-a, NAP-3, SCYB1
+DEFINITION  (RefSeq) C-X-C motif chemokine ligand 1
+ORTHOLOGY   K05505  C-X-C motif chemokine 1/2/3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04062  Chemokine signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05132  Salmonella infection
+            hsa05134  Legionellosis
+            hsa05146  Amoebiasis
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05323  Rheumatoid arthritis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                2919 (CXCL1)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                2919 (CXCL1)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                2919 (CXCL1)
+               04657 IL-17 signaling pathway
+                2919 (CXCL1)
+               04062 Chemokine signaling pathway
+                2919 (CXCL1)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                2919 (CXCL1)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                2919 (CXCL1)
+               05132 Salmonella infection
+                2919 (CXCL1)
+               05134 Legionellosis
+                2919 (CXCL1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                2919 (CXCL1)
+               05146 Amoebiasis
+                2919 (CXCL1)
+            Cytokines [BR:hsa04052]
+             Chemokines
+              CXC chemokine family
+               2919 (CXCL1)
+POSITION    4q13.3
+MOTIF       Pfam: IL8
+DBLINKS     NCBI-GeneID: 2919
+            NCBI-ProteinID: NP_001502
+            OMIM: 155730
+            HGNC: 4602
+            Ensembl: ENSG00000163739
+            Vega: OTTHUMG00000160866
+            Pharos: P09341(Tbio)
+            UniProt: P09341
+STRUCTURE   PDB: 1MSG 1MSH 1MGS
+AASEQ       107
+            MARAALSAAPSNPRLLRVALLLLLLVAAGRRAAGASVATELRCQCLQTLQGIHPKNIQSV
+            NVKSPGPHCAQTEVIATLKNGRKACLNPASPIVKKIIEKMLNSDKSN
+NTSEQ       324
+            atggcccgcgctgctctctccgccgcccccagcaatccccggctcctgcgagtggcactg
+            ctgctcctgctcctggtagccgctggccggcgcgcagcaggagcgtccgtggccactgaa
+            ctgcgctgccagtgcttgcagaccctgcagggaattcaccccaagaacatccaaagtgtg
+            aacgtgaagtcccccggaccccactgcgcccaaaccgaagtcatagccacactcaagaat
+            gggcggaaagcttgcctcaatcctgcatcccccatagttaagaaaatcatcgaaaagatg
+            ctgaacagtgacaaatccaactga
+///

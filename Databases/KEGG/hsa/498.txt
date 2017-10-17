@@ -1,0 +1,77 @@
+ENTRY       498               CDS       T01001
+NAME        ATP5A1, ATP5A, ATP5AL2, ATPM, COXPD22, HEL-S-123m, MC5DN4, MOM2, OMR, ORM, hATP1
+DEFINITION  (RefSeq) ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle
+ORTHOLOGY   K02132  F-type H+-transporting ATPase subunit alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00158  F-type ATPase, eukaryotes
+DISEASE     H00891  Combined oxidative phosphorylation deficiency (COXPD)
+            H01369  ATP synthase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                498 (ATP5A1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                498 (ATP5A1)
+               05012 Parkinson's disease
+                498 (ATP5A1)
+               05016 Huntington's disease
+                498 (ATP5A1)
+POSITION    18q21.1
+MOTIF       Pfam: ATP-synt_ab ATP-synt_ab_C ATP-synt_ab_N DUF4142
+DBLINKS     NCBI-GeneID: 498
+            NCBI-ProteinID: NP_001001937
+            OMIM: 164360
+            HGNC: 823
+            Ensembl: ENSG00000152234
+            Vega: OTTHUMG00000132637
+            Pharos: P25705(Tbio)
+            UniProt: P25705 V9HW26
+AASEQ       553
+            MLSVRVAAAVVRALPRRAGLVSRNALGSSFIAARNFHASNTHLQKTGTAEMSSILEERIL
+            GADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFG
+            NDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKTRRRVGLKAPGII
+            PRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGSDEKK
+            KLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYF
+            RDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFG
+            GGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSA
+            AQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMA
+            IEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVVSQHQALLGTIRADGKISEQSDAKL
+            KEIVTNFLAGFEA
+NTSEQ       1662
+            atgctgtccgtgcgcgttgctgcggccgtggtccgcgcccttcctcggcgggccggactg
+            gtctccagaaatgctttgggttcatctttcattgctgcaaggaacttccatgcctctaac
+            actcatcttcaaaagactgggactgctgagatgtcctctattcttgaagagcgtattctt
+            ggagctgatacctctgttgatcttgaagaaactgggcgtgtcttaagtattggtgatggt
+            attgcccgcgtacatgggctgaggaatgttcaagcagaagaaatggtagagttttcttca
+            ggcttaaagggtatgtccttgaacttggaacctgacaatgttggtgttgtcgtgtttgga
+            aatgataaactaattaaggaaggagatatagtgaagaggacaggagccattgtggacgtt
+            ccagttggtgaggagctgttgggtcgtgtagttgatgcccttggtaatgctattgatgga
+            aagggtccaattggttccaagacgcgtaggcgagttggtctgaaagcccccggtatcatt
+            cctcgaatttcagtgcgggaaccaatgcagactggcattaaggctgtggatagcttggtg
+            ccaattggtcgtggtcagcgtgaactgattattggtgaccgacagactgggaaaacctca
+            attgctattgacacaatcattaaccagaaacgtttcaatgatggatctgatgaaaagaag
+            aagctgtactgtatttatgttgctattggtcaaaagagatccactgttgcccagttggtg
+            aagagacttacagatgcagatgccatgaagtacaccattgtggtgtcggctacggcctcg
+            gatgctgccccacttcagtacctggctccttactctggctgttccatgggagagtatttt
+            agagacaatggcaaacatgctttgatcatctatgacgacttatccaaacaggctgttgct
+            taccgtcagatgtctctgttgctccgccgaccccctggtcgtgaggcctatcctggtgat
+            gtgttctacctacactcccggttgctggagagagcagccaaaatgaacgatgcttttggt
+            ggtggctccttgactgctttgccagtcatagaaacacaggctggtgatgtgtctgcttac
+            attccaacaaatgtcatttccatcactgacggacagatcttcttggaaacagaattgttc
+            tacaaaggtatccgccctgcaattaacgttggtctgtctgtatctcgtgtcggatccgct
+            gcccaaaccagggctatgaagcaggtagcaggtaccatgaagctggaattggctcagtat
+            cgtgaggttgctgcttttgcccagttcggttctgacctcgatgctgccactcaacaactt
+            ttgagtcgtggcgtgcgtctaactgagttgctgaagcaaggacagtattctcccatggct
+            attgaagaacaagtggctgttatctatgcgggtgtaaggggatatcttgataaactggag
+            cccagcaagattacaaagtttgagaatgctttcttgtctcatgtcgtcagccagcaccaa
+            gccttgttgggcactatcagggctgatggaaagatctcagaacaatcagatgcaaagctg
+            aaagagattgtaacaaatttcttggctggatttgaagcttaa
+///

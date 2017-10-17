@@ -1,0 +1,105 @@
+ENTRY       3456              CDS       T01001
+NAME        IFNB1, IFB, IFF, IFN-beta, IFNB
+DEFINITION  (RefSeq) interferon beta 1
+ORTHOLOGY   K05415  interferon beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3456 (IFNB1)
+               04151 PI3K-Akt signaling pathway
+                3456 (IFNB1)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3456 (IFNB1)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3456 (IFNB1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                3456 (IFNB1)
+               04621 NOD-like receptor signaling pathway
+                3456 (IFNB1)
+               04622 RIG-I-like receptor signaling pathway
+                3456 (IFNB1)
+               04623 Cytosolic DNA-sensing pathway
+                3456 (IFNB1)
+               04650 Natural killer cell mediated cytotoxicity
+                3456 (IFNB1)
+              Development
+               04380 Osteoclast differentiation
+                3456 (IFNB1)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                3456 (IFNB1)
+               05162 Measles
+                3456 (IFNB1)
+               05164 Influenza A
+                3456 (IFNB1)
+               05161 Hepatitis B
+                3456 (IFNB1)
+               05160 Hepatitis C
+                3456 (IFNB1)
+               05168 Herpes simplex infection
+                3456 (IFNB1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3456 (IFNB1)
+               05165 Human papillomavirus infection
+                3456 (IFNB1)
+               05142 Chagas disease (American trypanosomiasis)
+                3456 (IFNB1)
+            Cytokines [BR:hsa04052]
+             Class II cytokines (interferon/IL-10 family)
+              Type I interferons
+               3456 (IFNB1)
+POSITION    9p21.3
+MOTIF       Pfam: Interferon Sec5
+DBLINKS     NCBI-GeneID: 3456
+            NCBI-ProteinID: NP_002167
+            OMIM: 147640
+            HGNC: 5434
+            Ensembl: ENSG00000171855
+            Vega: OTTHUMG00000019652
+            Pharos: P01574(Tbio)
+            UniProt: P01574
+STRUCTURE   PDB: 1AU1
+AASEQ       187
+            MTNKCLLQIALLLCFSTTALSMSYNLLGFLQRSSNFQCQKLLWQLNGRLEYCLKDRMNFD
+            IPEEIKQLQQFQKEDAALTIYEMLQNIFAIFRQDSSSTGWNETIVENLLANVYHQINHLK
+            TVLEEKLEKEDFTRGKLMSSLHLKRYYGRILHYLKAKEYSHCAWTIVRVEILRNFYFINR
+            LTGYLRN
+NTSEQ       564
+            atgaccaacaagtgtctcctccaaattgctctcctgttgtgcttctccactacagctctt
+            tccatgagctacaacttgcttggattcctacaaagaagcagcaattttcagtgtcagaag
+            ctcctgtggcaattgaatgggaggcttgaatactgcctcaaggacaggatgaactttgac
+            atccctgaggagattaagcagctgcagcagttccagaaggaggacgccgcattgaccatc
+            tatgagatgctccagaacatctttgctattttcagacaagattcatctagcactggctgg
+            aatgagactattgttgagaacctcctggctaatgtctatcatcagataaaccatctgaag
+            acagtcctggaagaaaaactggagaaagaagatttcaccaggggaaaactcatgagcagt
+            ctgcacctgaaaagatattatgggaggattctgcattacctgaaggccaaggagtacagt
+            cactgtgcctggaccatagtcagagtggaaatcctaaggaacttttacttcattaacaga
+            cttacaggttacctccgaaactga
+///

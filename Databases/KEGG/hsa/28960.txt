@@ -1,0 +1,64 @@
+ENTRY       28960             CDS       T01001
+NAME        DCPS, ARS, DCS1, HINT-5, HINT5, HSL1, HSPC015
+DEFINITION  (RefSeq) decapping enzyme, scavenger
+ORTHOLOGY   K12584  m7GpppX diphosphatase [EC:3.6.1.59]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+DISEASE     H01878  Al-Raqad syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                28960 (DCPS)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.59  5'-(N7-methyl 5'-triphosphoguanosine)-[mRNA] diphosphatase
+                 28960 (DCPS)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA degradation factors
+               5'-3' decay
+                Other 5'-3' decay factors
+                 28960 (DCPS)
+               3'-5' decay
+                Other 3'-5' decay factors
+                 28960 (DCPS)
+POSITION    11q24.2
+MOTIF       Pfam: DcpS_C DcpS
+DBLINKS     NCBI-GeneID: 28960
+            NCBI-ProteinID: NP_054745
+            OMIM: 610534
+            HGNC: 29812
+            Ensembl: ENSG00000110063
+            Vega: OTTHUMG00000165829
+            Pharos: Q96C86(Tbio)
+            UniProt: Q96C86
+STRUCTURE   PDB: 3BL9 1ST0 1XML 1ST4 3BL7 1XMM 3BLA 4QDV 4QDE 4QEB
+AASEQ       337
+            MADAAPQLGKRKRELDVEEAHAASTEEKEAGVGNGTCAPVRLPFSGFRLQKVLRESARDK
+            IIFLHGKVNEASGDGDGEDAVVILEKTPFQVEQVAQLLTGSPELQLQFSNDIYSTYHLFP
+            PRQLNDVKTTVVYPATEKHLQKYLRQDLRLIRETGDDYRNITLPHLESQSLSIQWVYNIL
+            DKKAEADRIVFENPDPSDGFVLIPDLKWNQQQLDDLYLIAICHRRGIRSLRDLTPEHLPL
+            LRNILHQGQEAILQRYRMKGDHLRVYLHYLPSYYHLHVHFTALGFEAPGSGVERAHLLAE
+            VIENLECDPRHYQQRTLTFALRADDPLLKLLQEAQQS
+NTSEQ       1014
+            atggcggacgcagctcctcaactaggcaagaggaagcgcgaattggacgtggaggaggcc
+            cacgccgccagcacagaggaaaaggaggcaggagttggaaatggtacctgtgctcctgtc
+            cgcttaccgttctccggcttcagactgcagaaggtgctgagggagtctgcgcgggacaaa
+            atcattttcctacacgggaaggtgaatgaggcctctggggatggggatggagaggatgcc
+            gttgtgatcctggagaagacgccatttcaggtggaacaggtggctcagctcctgacgggc
+            agccctgagctccagttgcagttctccaatgatatctacagcacctatcacttgttccct
+            ccaagacaactgaatgatgtaaagacgaccgtggtttaccctgccacagagaaacacctg
+            cagaagtacctgcgccaggacctccgcctgatccgagagacgggagatgactacaggaat
+            attactttaccccacctggagtcccagagcctcagcatccagtgggtgtataacattctc
+            gacaagaaggctgaagcggaccggattgttttcgagaacccagatccctctgatggtttt
+            gtcctcatccctgacctcaagtggaaccaacagcagctcgatgacttgtacttgatcgcc
+            atctgccatcgccggggcatcagatccctacgcgaccttactccggagcacttgccgctg
+            ctcaggaacatcctccaccaggggcaggaggccatcctgcagcgctaccggatgaaggga
+            gaccatctgcgagtatacctgcactacctgccctcctactaccacctgcatgtgcacttc
+            accgccctgggcttcgaggcccccggctcaggcgtggagcgggcccacctgctggctgag
+            gtgatcgagaacttggagtgtgaccctaggcactaccagcagcgcacgctcaccttcgcc
+            ctcagggctgacgaccccctgctcaagctcttgcaggaggctcagcaaagctga
+///

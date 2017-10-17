@@ -1,0 +1,90 @@
+ENTRY       10600             CDS       T01001
+NAME        USP16, UBP-M, UBPM
+DEFINITION  (RefSeq) ubiquitin specific peptidase 16
+ORTHOLOGY   K11844  ubiquitin carboxyl-terminal hydrolase 16/45 [EC:3.4.19.12]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 10600 (USP16)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C19: ubiquitin-specific protease family
+               10600 (USP16)
+            Ubiquitin system [BR:hsa04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               UBP/USP
+                10600 (USP16)
+POSITION    21q21.3
+MOTIF       Pfam: UCH zf-UBP UCH_1 DapB_C
+DBLINKS     NCBI-GeneID: 10600
+            NCBI-ProteinID: NP_001027582
+            OMIM: 604735
+            HGNC: 12614
+            Ensembl: ENSG00000156256
+            Vega: OTTHUMG00000078802
+            Pharos: Q9Y5T5(Tbio)
+            UniProt: Q9Y5T5
+STRUCTURE   PDB: 2I50
+AASEQ       823
+            MGKKRTKGKTVPIDDSSETLEPVCRHIRKGLEQGNLKKALVNVEWNICQDCKTDNKVKDK
+            AEEETEEKPSVWLCLKCGHQGCGRNSQEQHALKHYLTPRSEPHCLVLSLDNWSVWCYVCD
+            NEVQYCSSNQLGQVVDYVRKQASITTPKPAEKDNGNIELENKKLEKESKNEQEREKKENM
+            AKENPPMNSPCQITVKGLSNLGNTCFFNAVMQNLSQTPVLRELLKEVKMSGTIVKIEPPD
+            LALTEPLEINLEPPGPLTLAMSQFLNEMQETKKGVVTPKELFSQVCKKAVRFKGYQQQDS
+            QELLRYLLDGMRAEEHQRVSKGILKAFGNSTEKLDEELKNKVKDYEKKKSMPSFVDRIFG
+            GELTSMIMCDQCRTVSLVHESFLDLSLPVLDDQSGKKSVNDKNLKKTVEDEDQDSEEEKD
+            NDSYIKERSDIPSGTSKHLQKKAKKQAKKQAKNQRRQQKIQGKVLHLNDICTIDHPEDSE
+            YEAEMSLQGEVNIKSNHISQEGVMHKEYCVNQKDLNGQAKMIESVTDNQKSTEEVDMKNI
+            NMDNDLEVLTSSPTRNLNGAYLTEGSNGEVDISNGFKNLNLNAALHPDEINIEILNDSHT
+            PGTKVYEVVNEDPETAFCTLANREVFNTDECSIQHCLYQFTRNEKLRDANKLLCEVCTRR
+            QCNGPKANIKGERKHVYTNAKKQMLISLAPPVLTLHLKRFQQAGFNLRKVNKHIKFPEIL
+            DLAPFCTLKCKNVAEENTRVLYSLYGVVEHSGTMRSGHYTAYAKARTANSHLSNLVLHGD
+            IPQDFEMESKGQWFHISDTHVQAVPTTKVLNSQAYLLFYERIL
+NTSEQ       2472
+            atgggaaagaaacggacaaagggaaaaactgttccaatcgatgattcctctgaaacttta
+            gaacctgtgtgcagacacattagaaaaggattggaacaaggtaatttgaaaaaggcttta
+            gtgaatgtggaatggaatatctgccaagactgtaagactgacaataaagtgaaagataaa
+            gctgaagaagaaacagaagaaaagccttcagtttggctgtgtcttaaatgtggccatcag
+            ggctgtggcagaaattctcaggagcagcatgccttgaagcactatctgacgccaagatct
+            gaacctcactgtctggttcttagtttggacaactggagtgtatggtgttacgtatgtgat
+            aatgaggtccagtattgtagttcaaaccagttgggtcaagtggttgattatgtcagaaaa
+            caagccagcattacaactccaaagccagcagagaaagataatggaaatattgaacttgaa
+            aataaaaaattagaaaaagagagtaagaatgaacaagagagagaaaagaaggaaaacatg
+            gctaaagagaatcctcccatgaattctccttgccaaataaccgtgaaaggactcagtaat
+            ttgggaaacacatgtttcttcaatgcagttatgcagaacttgtcacaaacaccagtgctt
+            agagaactactaaaagaagtgaaaatgtctggaacaattgtaaaaattgaaccacctgat
+            ttggcattaacagaaccattagaaataaaccttgagcctccaggccctcttactttagcc
+            atgagccagtttcttaatgagatgcaagagaccaaaaagggggttgtgacaccgaaagaa
+            ctcttttctcaggtctgtaaaaaagcagtgcggtttaaaggctatcagcagcaagacagc
+            caggagctgcttcgctacttattggatgggatgagagcagaagaacaccaaagagtgagt
+            aaaggaatacttaaagcatttggtaattctactgaaaagttggatgaagaactaaaaaat
+            aaagttaaagattatgagaagaaaaaatcaatgccaagttttgttgaccgcatctttggt
+            ggtgaactaactagtatgatcatgtgtgatcaatgcagaactgtctccttggttcatgaa
+            tctttccttgatttgtccctcccagttttagatgatcagagtggtaagaaaagtgtaaat
+            gataaaaatctgaaaaagacagtggaggatgaagatcaagatagtgaggaagaaaaagat
+            aacgacagttacataaaagagagaagtgatattccttctggaacaagtaagcacttacag
+            aaaaaagcaaagaaacaagccaaaaagcaagccaagaaccaacgaagacaacaaaaaatt
+            caaggaaaagttcttcatttaaatgatatttgtactattgaccatcctgaagacagtgaa
+            tatgaagctgaaatgtcacttcaaggagaagtaaatattaaatccaaccatatttcacaa
+            gagggtgttatgcataaagaatattgtgtcaaccagaaagatttgaatggccaagcaaaa
+            atgatcgaaagtgtaactgacaatcaaaaatccacagaggaagtagatatgaaaaatatc
+            aacatggataatgatctggaggttttaacatcttctcccactaggaatttaaatggtgcc
+            tacctaacggaagggagcaatggagaagtggacatttccaatggtttcaaaaacctaaat
+            ttgaatgctgctcttcatcctgatgaaataaatatagagattctgaatgatagtcatact
+            cctggaacaaaggtgtatgaggttgtaaatgaagatccagaaactgctttctgtactctt
+            gcaaacagggaagttttcaatactgatgagtgttcaatccaacattgtttatatcagttc
+            acccgtaatgagaaacttcgagatgcgaataaactgctttgtgaagtatgcacacggaga
+            cagtgtaatggaccaaaggcaaatataaaaggtgaaaggaagcatgtttacaccaatgcc
+            aaaaagcagatgctaatttctcttgctcctcctgttcttactcttcatttaaagagattt
+            cagcaggctggttttaacctacgcaaagttaacaaacacataaagtttccggaaatctta
+            gatttggctcctttttgcacccttaaatgtaagaatgttgcagaagaaaatacaagggta
+            ctctattccttatatggagttgttgaacacagtggtactatgaggtcggggcattacact
+            gcctatgccaaggcaagaaccgcaaatagtcatctctctaatcttgttcttcacggtgat
+            attccacaagattttgaaatggaatcaaaagggcagtggtttcacatcagcgacacacat
+            gtgcaagctgtgcctacaactaaagtactaaactcacaagcgtacctcctattttatgag
+            agaatactgtaa
+///

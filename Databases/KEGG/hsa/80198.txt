@@ -1,0 +1,78 @@
+ENTRY       80198             CDS       T01001
+NAME        MUS81, SLX3
+DEFINITION  (RefSeq) MUS81 structure-specific endonuclease subunit
+ORTHOLOGY   K08991  crossover junction endonuclease MUS81 [EC:3.1.22.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+            hsa03460  Fanconi anemia pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                80198 (MUS81)
+               03460 Fanconi anemia pathway
+                80198 (MUS81)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.22  Endodeoxyribonucleases producing 3'-phosphomonoesters
+                3.1.22.-  
+                 80198 (MUS81)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factors
+                 80198 (MUS81)
+POSITION    11q13.1
+MOTIF       Pfam: ERCC4 HHH_8 MutL
+DBLINKS     NCBI-GeneID: 80198
+            NCBI-ProteinID: NP_079404
+            OMIM: 606591
+            HGNC: 29814
+            Ensembl: ENSG00000172732
+            Vega: OTTHUMG00000166633
+            Pharos: Q96NY9(Tbio)
+            UniProt: Q96NY9 Q53ES5
+STRUCTURE   PDB: 4P0P 4P0Q 2ZIX 4P0S 4P0R 2MC3
+AASEQ       551
+            MAAPVRLGRKRPLPACPNPLFVRWLTEWRDEATRSRRRTRFVFQKALRSLRRYPLPLRSG
+            KEAKILQHFGDGLCRMLDERLQRHRTSGGDHAPDSPSGENSPAPQGRLAEVQDSSMPVPA
+            QPKAGGSGSYWPARHSGARVILLVLYREHLNPNGHHFLTKEELLQRCAQKSPRVAPGSAR
+            PWPALRSLLHRNLVLRTHQPARYSLTPEGLELAQKLAESEGLSLLNVGIGPKEPPGEETA
+            VPGAASAELASEAGVQQQPLELRPGEYRVLLCVDIGETRGGGHRPELLRELQRLHVTHTV
+            RKLHVGDFVWVAQETNPRDPANPGELVLDHIVERKRLDDLCSSIIDGRFREQKFRLKRCG
+            LERRVYLVEEHGSVHNLSLPESTLLQAVTNTQVIDGFFVKRTADIKESAAYLALLTRGLQ
+            RLYQGHTLRSRPWGTPGNPESGAMTSPNPLCSLLTFSDFNAGAIKNKAQSVREVFARQLM
+            QVRGVSGEKAAALVDRYSTPASLLAAYDACATPKEQETLLSTIKCGRLQRNLGPALSRTL
+            SQLYCSYGPLT
+NTSEQ       1656
+            atggcggccccggtccgcctgggccggaagcgcccgctgcctgcctgtcccaacccgctc
+            ttcgttcgctggctgaccgagtggcgggacgaggcgacccgcagcaggcgccgcacgcgc
+            ttcgtatttcagaaggcgctgcgttccctccgacggtacccactgccgctgcgcagcggg
+            aaggaagctaagatcctacagcacttcggagacgggctctgccggatgctggacgagcgg
+            ctgcagcggcaccgaacatcgggcggtgaccatgccccggactcaccatctggagagaac
+            agtccagccccgcaggggcgacttgcggaagtccaggactcttccatgccagttcctgcc
+            cagcccaaagcgggaggctctggcagctactggccagctcggcactcaggagcccgagtg
+            atactgctggtgctctaccgggagcacctgaatcctaatggtcaccacttcttaaccaag
+            gaggagctgctgcagaggtgtgctcagaagtcccccagggtagcccctgggagtgctcga
+            ccctggccagccctccgctccctccttcacaggaacctggtcctcaggacacaccagcca
+            gccaggtactcattgaccccagagggcctggagctggcccagaagttggccgagtcagaa
+            ggcctgagcttgctgaatgtgggcatcgggcccaaggagccccctggggaggagacagca
+            gtgccaggagcagcttcagcagagcttgccagtgaagcaggggtccagcagcagccactg
+            gagctgaggcctggagagtacagggtgctgttgtgtgtggacattggcgagacccggggg
+            ggcgggcacaggccggagctgctccgagagctacagcggctgcacgtgacccacacggtg
+            cgcaagctgcacgttggagattttgtgtgggtggcccaggagaccaatcctagagaccca
+            gcaaaccctggggagttggtactggatcacattgtggagcgcaagcgactggatgacctt
+            tgcagcagcatcatcgacggccgcttccgggagcagaagttccggctgaagcgctgtggt
+            ctggagcgccgggtatacctggtggaagagcatggttccgtccacaacctcagccttcct
+            gagagcacactgctgcaggctgtcaccaacactcaggtcattgatggcttttttgtgaag
+            cgcacagcagacattaaggagtcagccgcctacctggccctcttgacgcggggcctgcag
+            agactctaccagggccacaccctacgcagccgcccctggggaacccctgggaaccctgaa
+            tcaggggccatgacctctccaaaccctctctgctcactcctcaccttcagtgacttcaac
+            gcaggagccatcaagaataaggcccagtcggtgcgagaagtgtttgcccggcagctgatg
+            caggtgcgcggagtgagtggggagaaggcagcagccctggtggatcgatacagcacccct
+            gccagcctcctggccgcctatgatgcctgtgccacccccaaggaacaagagacactgctg
+            agcaccattaagtgtgggcgtctacagaggaatctggggcctgctctgagcaggacctta
+            tcccagctctactgcagctacggccccttgacctga
+///

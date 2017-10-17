@@ -1,0 +1,85 @@
+ENTRY       2690              CDS       T01001
+NAME        GHR, GHBP, GHIP
+DEFINITION  (RefSeq) growth hormone receptor
+ORTHOLOGY   K05080  growth hormone receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+DISEASE     H00254  Pituitary Dwarfism (PD)
+DRUG_TARGET Pegvisomant: D05394
+            Somatrem: D05884
+            Somatropin: D02691
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                2690 (GHR)
+               04151 PI3K-Akt signaling pathway
+                2690 (GHR)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2690 (GHR)
+               04060 Cytokine-cytokine receptor interaction
+                2690 (GHR)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              2690 (GHR)
+POSITION    5p13.1-p12
+MOTIF       Pfam: GHBP EpoR_lig-bind fn3
+DBLINKS     NCBI-GeneID: 2690
+            NCBI-ProteinID: NP_000154
+            OMIM: 600946
+            HGNC: 4263
+            Ensembl: ENSG00000112964
+            Vega: OTTHUMG00000094791
+            Pharos: P10912(Tclin)
+            UniProt: P10912
+STRUCTURE   PDB: 1AXI 1HWG 1KF9 1A22 2AEW 3HHR 1HWH
+AASEQ       638
+            MDLWQLLLTLALAGSSDAFSGSEATAAILSRAPWSLQSVNPGLKTNSSKEPKFTKCRSPE
+            RETFSCHWTDEVHHGTKNLGPIQLFYTRRNTQEWTQEWKECPDYVSAGENSCYFNSSFTS
+            IWIPYCIKLTSNGGTVDEKCFSVDEIVQPDPPIALNWTLLNVSLTGIHADIQVRWEAPRN
+            ADIQKGWMVLEYELQYKEVNETKWKMMDPILTTSVPVYSLKVDKEYEVRVRSKQRNSGNY
+            GEFSEVLYVTLPQMSQFTCEEDFYFPWLLIIIFGIFGLTVMLFVFLFSKQQRIKMLILPP
+            VPVPKIKGIDPDLLKEGKLEEVNTILAIHDSYKPEFHSDDSWVEFIELDIDEPDEKTEES
+            DTDRLLSSDHEKSHSNLGVKDGDSGRTSCCEPDILETDFNANDIHEGTSEVAQPQRLKGE
+            ADLLCLDQKNQNNSPYHDACPATQQPSVIQAEKNKPQPLPTEGAESTHQAAHIQLSNPSS
+            LSNIDFYAQVSDITPAGSVVLSPGQKNKAGMSQCDMHPEMVSLCQENFLMDNAYFCEADA
+            KKCIPVAPHIKVESHIQPSLNQEDIYITTESLTTAAGRPGTGEHVPGSEMPVPDYTSIHI
+            VQSPQGLILNATALPLPDKEFLSSCGYVSTDQLNKIMP
+NTSEQ       1917
+            atggatctctggcagctgctgttgaccttggcactggcaggatcaagtgatgctttttct
+            ggaagtgaggccacagcagctatccttagcagagcaccctggagtctgcaaagtgttaat
+            ccaggcctaaagacaaattcttctaaggagcctaaattcaccaagtgccgttcacctgag
+            cgagagactttttcatgccactggacagatgaggttcatcatggtacaaagaacctagga
+            cccatacagctgttctataccagaaggaacactcaagaatggactcaagaatggaaagaa
+            tgccctgattatgtttctgctggggaaaacagctgttactttaattcatcgtttacctcc
+            atctggataccttattgtatcaagctaactagcaatggtggtacagtggatgaaaagtgt
+            ttctctgttgatgaaatagtgcaaccagatccacccattgccctcaactggactttactg
+            aacgtcagtttaactgggattcatgcagatatccaagtgagatgggaagcaccacgcaat
+            gcagatattcagaaaggatggatggttctggagtatgaacttcaatacaaagaagtaaat
+            gaaactaaatggaaaatgatggaccctatattgacaacatcagttccagtgtactcattg
+            aaagtggataaggaatatgaagtgcgtgtgagatccaaacaacgaaactctggaaattat
+            ggcgagttcagtgaggtgctctatgtaacacttcctcagatgagccaatttacatgtgaa
+            gaagatttctactttccatggctcttaattattatctttggaatatttgggctaacagtg
+            atgctatttgtattcttattttctaaacagcaaaggattaaaatgctgattctgccccca
+            gttccagttccaaagattaaaggaatcgatccagatctcctcaaggaaggaaaattagag
+            gaggtgaacacaatcttagccattcatgatagctataaacccgaattccacagtgatgac
+            tcttgggttgaatttattgagctagatattgatgagccagatgaaaagactgaggaatca
+            gacacagacagacttctaagcagtgaccatgagaaatcacatagtaacctaggggtgaag
+            gatggcgactctggacgtaccagctgttgtgaacctgacattctggagactgatttcaat
+            gccaatgacatacatgagggtacctcagaggttgctcagccacagaggttaaaaggggaa
+            gcagatctcttatgccttgaccagaagaatcaaaataactcaccttatcatgatgcttgc
+            cctgctactcagcagcccagtgttatccaagcagagaaaaacaaaccacaaccacttcct
+            actgaaggagctgagtcaactcaccaagctgcccatattcagctaagcaatccaagttca
+            ctgtcaaacatcgacttttatgcccaggtgagcgacattacaccagcaggtagtgtggtc
+            ctttccccgggccaaaagaataaggcagggatgtcccaatgtgacatgcacccggaaatg
+            gtctcactctgccaagaaaacttccttatggacaatgcctacttctgtgaggcagatgcc
+            aaaaagtgcatccctgtggctcctcacatcaaggttgaatcacacatacagccaagctta
+            aaccaagaggacatttacatcaccacagaaagccttaccactgctgctgggaggcctggg
+            acaggagaacatgttccaggttctgagatgcctgtcccagactatacctccattcatata
+            gtacagtccccacagggcctcatactcaatgcgactgccttgcccttgcctgacaaagag
+            tttctctcatcatgtggctatgtgagcacagaccaactgaacaaaatcatgccttag
+///

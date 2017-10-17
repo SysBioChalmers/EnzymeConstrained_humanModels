@@ -1,0 +1,105 @@
+ENTRY       4292              CDS       T01001
+NAME        MLH1, COCA2, FCC2, HNPCC, HNPCC2, hMLH1
+DEFINITION  (RefSeq) mutL homolog 1
+ORTHOLOGY   K08734  DNA mismatch repair protein MLH1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa03430  Mismatch repair
+            hsa03460  Fanconi anemia pathway
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05213  Endometrial cancer
+MODULE      hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+DISEASE     H00020  Colorectal cancer
+            H00026  Endometrial cancer
+            H00027  Ovarian cancer
+            H00876  Mismatch repair deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03430 Mismatch repair
+                4292 (MLH1)
+               03460 Fanconi anemia pathway
+                4292 (MLH1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4292 (MLH1)
+               05210 Colorectal cancer
+                4292 (MLH1)
+               05213 Endometrial cancer
+                4292 (MLH1)
+              Drug resistance
+               01524 Platinum drug resistance
+                4292 (MLH1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               MMR (mismatch exicision repair)
+                MutL homologs
+                 4292 (MLH1)
+POSITION    3p22.2
+MOTIF       Pfam: Mlh1_C DNA_mis_repair HATPase_c_3 HATPase_c
+DBLINKS     NCBI-GeneID: 4292
+            NCBI-ProteinID: NP_000240
+            OMIM: 120436
+            HGNC: 7127
+            Ensembl: ENSG00000076242
+            Vega: OTTHUMG00000130797
+            Pharos: P40692(Tbio)
+            UniProt: P40692
+STRUCTURE   PDB: 3RBN 4P7A
+AASEQ       756
+            MSFVAGVIRRLDETVVNRIAAGEVIQRPANAIKEMIENCLDAKSTSIQVIVKEGGLKLIQ
+            IQDNGTGIRKEDLDIVCERFTTSKLQSFEDLASISTYGFRGEALASISHVAHVTITTKTA
+            DGKCAYRASYSDGKLKAPPKPCAGNQGTQITVEDLFYNIATRRKALKNPSEEYGKILEVV
+            GRYSVHNAGISFSVKKQGETVADVRTLPNASTVDNIRSIFGNAVSRELIEIGCEDKTLAF
+            KMNGYISNANYSVKKCIFLLFINHRLVESTSLRKAIETVYAAYLPKNTHPFLYLSLEISP
+            QNVDVNVHPTKHEVHFLHEESILERVQQHIESKLLGSNSSRMYFTQTLLPGLAGPSGEMV
+            KSTTSLTSSSTSGSSDKVYAHQMVRTDSREQKLDAFLQPLSKPLSSQPQAIVTEDKTDIS
+            SGRARQQDEEMLELPAPAEVAAKNQSLEGDTTKGTSEMSEKRGPTSSNPRKRHREDSDVE
+            MVEDDSRKEMTAACTPRRRIINLTSVLSLQEEINEQGHEVLREMLHNHSFVGCVNPQWAL
+            AQHQTKLYLLNTTKLSEELFYQILIYDFANFGVLRLSEPAPLFDLAMLALDSPESGWTEE
+            DGPKEGLAEYIVEFLKKKAEMLADYFSLEIDEEGNLIGLPLLIDNYVPPLEGLPIFILRL
+            ATEVNWDEEKECFESLSKECAMFYSIRKQYISEESTLSGQQSEVPGSIPNSWKWTVEHIV
+            YKALRSHILPPKHFTEDGNILQLANLPDLYKVFERC
+NTSEQ       2271
+            atgtcgttcgtggcaggggttattcggcggctggacgagacagtggtgaaccgcatcgcg
+            gcgggggaagttatccagcggccagctaatgctatcaaagagatgattgagaactgttta
+            gatgcaaaatccacaagtattcaagtgattgttaaagagggaggcctgaagttgattcag
+            atccaagacaatggcaccgggatcaggaaagaagatctggatattgtatgtgaaaggttc
+            actactagtaaactgcagtcctttgaggatttagccagtatttctacctatggctttcga
+            ggtgaggctttggccagcataagccatgtggctcatgttactattacaacgaaaacagct
+            gatggaaagtgtgcatacagagcaagttactcagatggaaaactgaaagcccctcctaaa
+            ccatgtgctggcaatcaagggacccagatcacggtggaggaccttttttacaacatagcc
+            acgaggagaaaagctttaaaaaatccaagtgaagaatatgggaaaattttggaagttgtt
+            ggcaggtattcagtacacaatgcaggcattagtttctcagttaaaaaacaaggagagaca
+            gtagctgatgttaggacactacccaatgcctcaaccgtggacaatattcgctccatcttt
+            ggaaatgctgttagtcgagaactgatagaaattggatgtgaggataaaaccctagccttc
+            aaaatgaatggttacatatccaatgcaaactactcagtgaagaagtgcatcttcttactc
+            ttcatcaaccatcgtctggtagaatcaacttccttgagaaaagccatagaaacagtgtat
+            gcagcctatttgcccaaaaacacacacccattcctgtacctcagtttagaaatcagtccc
+            cagaatgtggatgttaatgtgcaccccacaaagcatgaagttcacttcctgcacgaggag
+            agcatcctggagcgggtgcagcagcacatcgagagcaagctcctgggctccaattcctcc
+            aggatgtacttcacccagactttgctaccaggacttgctggcccctctggggagatggtt
+            aaatccacaacaagtctgacctcgtcttctacttctggaagtagtgataaggtctatgcc
+            caccagatggttcgtacagattcccgggaacagaagcttgatgcatttctgcagcctctg
+            agcaaacccctgtccagtcagccccaggccattgtcacagaggataagacagatatttct
+            agtggcagggctaggcagcaagatgaggagatgcttgaactcccagcccctgctgaagtg
+            gctgccaaaaatcagagcttggagggggatacaacaaaggggacttcagaaatgtcagag
+            aagagaggacctacttccagcaaccccagaaagagacatcgggaagattctgatgtggaa
+            atggtggaagatgattcccgaaaggaaatgactgcagcttgtaccccccggagaaggatc
+            attaacctcactagtgttttgagtctccaggaagaaattaatgagcagggacatgaggtt
+            ctccgggagatgttgcataaccactccttcgtgggctgtgtgaatcctcagtgggccttg
+            gcacagcatcaaaccaagttataccttctcaacaccaccaagcttagtgaagaactgttc
+            taccagatactcatttatgattttgccaattttggtgttctcaggttatcggagccagca
+            ccgctctttgaccttgccatgcttgccttagatagtccagagagtggctggacagaggaa
+            gatggtcccaaagaaggacttgctgaatacattgttgagtttctgaagaagaaggctgag
+            atgcttgcagactatttctctttggaaattgatgaggaagggaacctgattggattaccc
+            cttctgattgacaactatgtgccccctttggagggactgcctatcttcattcttcgacta
+            gccactgaggtgaattgggacgaagaaaaggaatgttttgaaagcctcagtaaagaatgc
+            gctatgttctattccatccggaagcagtacatatctgaggagtcgaccctctcaggccag
+            cagagtgaagtgcctggctccattccaaactcctggaagtggactgtggaacacattgtc
+            tataaagccttgcgctcacacattctgcctcctaaacatttcacagaagatggaaatatc
+            ctgcagcttgctaacctgcctgatctatacaaagtctttgagaggtgttaa
+///

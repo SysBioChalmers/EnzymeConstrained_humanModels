@@ -1,0 +1,162 @@
+ENTRY       8681              CDS       T01001
+NAME        JMJD7-PLA2G4B, HsT16992, cPLA2-beta
+DEFINITION  (RefSeq) JMJD7-PLA2G4B readthrough
+ORTHOLOGY   K16342  cytosolic phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04217  Necroptosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04370  VEGF signaling pathway
+            hsa04611  Platelet activation
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04724  Glutamatergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04730  Long-term depression
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                8681 (JMJD7-PLA2G4B)
+               00565 Ether lipid metabolism
+                8681 (JMJD7-PLA2G4B)
+               00590 Arachidonic acid metabolism
+                8681 (JMJD7-PLA2G4B)
+               00591 Linoleic acid metabolism
+                8681 (JMJD7-PLA2G4B)
+               00592 alpha-Linolenic acid metabolism
+                8681 (JMJD7-PLA2G4B)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                8681 (JMJD7-PLA2G4B)
+               04010 MAPK signaling pathway
+                8681 (JMJD7-PLA2G4B)
+               04370 VEGF signaling pathway
+                8681 (JMJD7-PLA2G4B)
+               04072 Phospholipase D signaling pathway
+                8681 (JMJD7-PLA2G4B)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                8681 (JMJD7-PLA2G4B)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                8681 (JMJD7-PLA2G4B)
+               04664 Fc epsilon RI signaling pathway
+                8681 (JMJD7-PLA2G4B)
+              Endocrine system
+               04912 GnRH signaling pathway
+                8681 (JMJD7-PLA2G4B)
+               04913 Ovarian Steroidogenesis
+                8681 (JMJD7-PLA2G4B)
+               04921 Oxytocin signaling pathway
+                8681 (JMJD7-PLA2G4B)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                8681 (JMJD7-PLA2G4B)
+              Nervous system
+               04724 Glutamatergic synapse
+                8681 (JMJD7-PLA2G4B)
+               04726 Serotonergic synapse
+                8681 (JMJD7-PLA2G4B)
+               04730 Long-term depression
+                8681 (JMJD7-PLA2G4B)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                8681 (JMJD7-PLA2G4B)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                8681 (JMJD7-PLA2G4B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 8681 (JMJD7-PLA2G4B)
+POSITION    15q15.1
+MOTIF       Pfam: Cupin_8 PLA2_B C2
+DBLINKS     NCBI-GeneID: 8681
+            NCBI-ProteinID: NP_001185517
+            HGNC: 34449
+            Ensembl: ENSG00000168970
+            Vega: OTTHUMG00000044442
+            Pharos: P0C869(Tchem)
+            UniProt: P0C869
+AASEQ       893
+            MAEAALEAVRSELREFPAAARELCVPLAVPYLDKPPTPLHFYRDWVCPNRPCIIRNALQH
+            WPALQKWSLPYFRATVGSTEVSVAVTPDGYADAVRGDRFMMPAERRLPLSFVLDVLEGRA
+            QHPGVLYVQKQCSNLPSELPQLLPDLESHVPWASEALGKMPDAVNFWLGEAAAVTSLHKD
+            HYENLYCVVSGEKHFLFHPPSDRPFIPYELYTPATYQLTEEGTFKVVDEEAMEKAEVSRT
+            CLLTVRVLQAHRLPSKDLVTPSDCYVTLWLPTACSHRLQTRTVKNSSSPVWNQSFHFRIH
+            RQLKNVMELKVFDQDLVTGDDPVLSVLFDAGTLRAGEFRRESFSLSPQGEGRLEVEFRLQ
+            SLADRGEWLVSNGVLVARELSCLHVQLEETGDQKSSEHRVQLVVPGSCEGPQEASVGTGT
+            FRFHCPACWEQELSIRLQDAPEEQLKAPLSALPSGQVVRLVFPTSQEPLMRVELKKEAGL
+            RELAVRLGFGPCAEEQAFLSRRKQVVAAALRQALQLDGDLQEDEIPVVAIMATGGGIRAM
+            TSLYGQLAGLKELGLLDCVSYITGASGSTWALANLYEDPEWSQKDLAGPTELLKTQVTKN
+            KLGVLAPSQLQRYRQELAERARLGYPSCFTNLWALINEALLHDEPHDHKLSDQREALSHG
+            QNPLPIYCALNTKGQSLTTFEFGEWCEFSPYEVGFPKYGAFIPSELFGSEFFMGQLMKRL
+            PESRICFLEGIWSNLYAANLQDSLYWASEPSQFWDRWVRNQANLDKEQVPLLKIEEPPST
+            AGRIAEFFTDLLTWRPLAQATHNFLRGLHFHKDYFQHPHFSTWKATTLDGLPNQLTPSEP
+            HLCLLDVGYLINTSCLPLLQPTRDVDLILSLDYNLHGAFQGSGGHPRRRQLGR
+NTSEQ       2682
+            atggcggaggcggctttggaagccgtgcggagcgagttacgagaattcccggccgctgca
+            agggagctctgcgtgcctcttgctgtgccctacctggacaaacccccaactccgctccac
+            ttctaccgggactgggtctgccccaacaggccgtgcattatccgcaacgctctgcagcac
+            tggccggccctccagaagtggtccctcccctatttcagagccacagtgggctccacagag
+            gtgagtgtggccgtgaccccagatggttacgcggatgccgtgagaggggatcgcttcatg
+            atgccagctgagcgccgcctgcccctgagcttcgtgctggatgtgctggagggccgggcc
+            cagcaccctggagtcctctatgtgcagaagcagtgctccaacctgcccagcgagctgccc
+            cagctgctgcctgatctggaatcccatgtgccctgggcctccgaagccctgggaaagatg
+            cccgatgctgtgaacttctggctgggggaggcggctgcagtgacttctttgcacaaggac
+            cactatgagaacctctactgcgtggtctcaggagagaagcatttcctgttccatccgccc
+            agcgaccggcccttcatcccctatgagctgtacacgccggcaacctaccagctaactgaa
+            gagggcacctttaaggtggtggatgaagaggccatggagaaggcagaggtgtccaggacc
+            tgcctgctcacggttcgtgtcctgcaggcccatcgcctaccctctaaggacctagtgacc
+            ccctctgactgctacgtgactctctggctgcccacggcctgcagccacaggctccagaca
+            cgcacggtcaagaacagcagtagccctgtctggaaccagagctttcacttcaggatccac
+            aggcagctcaagaatgtcatggaactgaaagtctttgaccaggacctggtgaccggagat
+            gaccctgtgttgtcagtactgtttgatgcggggactctgcgggctggggagttccggcgc
+            gagagcttctcactgagccctcagggtgaggggcgcctggaagttgaatttcgcctgcag
+            agtctggctgaccgtggcgagtggctcgtcagcaatggcgttctggtggcccgggagctc
+            tcctgcttgcacgttcaactggaggagacaggagaccagaagtcctcagagcacagagtt
+            cagcttgtggttcctgggtcctgtgagggtccgcaggaggcctctgtgggcactggcacc
+            ttccgcttccactgcccagcctgctgggagcaggagctgagtattcgcctgcaggatgcc
+            cccgaggagcaactaaaggcgccactgagtgccctgccctctggtcaagtggtgaggctt
+            gtcttccccacgtcccaggagcccctgatgagagtggagctgaaaaaagaagcaggactg
+            agggagctggccgtgcgactgggcttcgggccctgtgcagaggagcaggccttcctgagc
+            aggaggaagcaggtggtggccgcggccttgaggcaggccctgcagctggacggagacctg
+            caggaggatgagatcccagtggtagctattatggccactggtggtgggatccgggcaatg
+            acttccctgtatgggcagctggctggcctgaaggagctgggcctcttggattgcgtctcc
+            tacatcaccggggcctcgggctccacctgggccttggccaacctttatgaggacccagag
+            tggtctcagaaggacctggcagggcccactgagttgctgaagacccaggtgaccaagaac
+            aagctgggtgtgctggcccccagccagctgcagcggtaccggcaggagctggccgagcgt
+            gcccgcttgggctacccaagctgcttcaccaacctgtgggccctcatcaacgaggcgctg
+            ctgcatgatgagccccatgatcacaagctctcagatcaacgggaggccctgagtcatggc
+            cagaaccctctgcccatctactgtgccctcaacaccaaagggcagagcctgaccactttt
+            gaatttggggagtggtgcgagttctctccctacgaggtcggcttccccaagtacggggcc
+            ttcatcccctctgagctctttggctccgagttctttatggggcagctgatgaagaggctt
+            cctgagtcccgcatctgcttcttagaaggtatctggagcaacctgtatgcagccaacctc
+            caggacagcttatactgggcctcagagcccagccagttctgggaccgctgggtcaggaac
+            caggccaacctggacaaggagcaggtcccccttctgaagatagaagaaccaccctcaaca
+            gccggcaggatagctgagtttttcaccgatcttctgacgtggcgtccactggcccaggcc
+            acacataatttcctgcgtggcctccatttccacaaagactactttcagcatcctcacttc
+            tccacatggaaagctaccactctggatgggctccccaaccagctgacaccctcggagccc
+            cacctgtgcctgctggatgttggctacctcatcaataccagctgcctgcccctcctgcag
+            cccactcgggacgtggacctcatcctgtcattggactacaacctccacggagccttccag
+            gggtccggcggacacccgaggaggcggcagctggggaggtga
+///

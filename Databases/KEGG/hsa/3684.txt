@@ -1,0 +1,201 @@
+ENTRY       3684              CDS       T01001
+NAME        ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6
+DEFINITION  (RefSeq) integrin subunit alpha M
+ORTHOLOGY   K06461  integrin alpha M
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04145  Phagosome
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04610  Complement and coagulation cascades
+            hsa04640  Hematopoietic cell lineage
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05146  Amoebiasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                3684 (ITGAM)
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3684 (ITGAM)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3684 (ITGAM)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3684 (ITGAM)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3684 (ITGAM)
+               04610 Complement and coagulation cascades
+                3684 (ITGAM)
+               04670 Leukocyte transendothelial migration
+                3684 (ITGAM)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                3684 (ITGAM)
+               05221 Acute myeloid leukemia
+                3684 (ITGAM)
+              Infectious diseases
+               05133 Pertussis
+                3684 (ITGAM)
+               05134 Legionellosis
+                3684 (ITGAM)
+               05150 Staphylococcus aureus infection
+                3684 (ITGAM)
+               05152 Tuberculosis
+                3684 (ITGAM)
+               05146 Amoebiasis
+                3684 (ITGAM)
+               05140 Leishmaniasis
+                3684 (ITGAM)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Integrins (complement receptors)
+                3684 (ITGAM)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3684 (ITGAM)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               ICAM family
+                ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+                 CR3, Mac-1	Cell adhesion molecules (CAMs)
+                  3684 (ITGAM)
+                ICAM2; intercellular adhesion molecule 2 [KO:K06523]
+                  3684 (ITGAM)
+              Neural system
+               N/0 subfamily
+                THY1, CD90; Thy-1 cell surface antigen [KO:K06514]
+                  3684 (ITGAM)
+              Others
+               VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+                CR3, Mac-1	Cell adhesion molecules (CAMs)
+                 3684 (ITGAM)
+               ICAM4; intercellular adhesion molecule 4 [KO:K06581]
+                 3684 (ITGAM)
+               JAM3; junctional adhesional molecule 3 [KO:K06785]
+                 3684 (ITGAM)
+             3. Selectin Family
+              SELE; selectin, endothelial cell [KO:K06494]
+               CR3, Mac-1	Cell adhesion molecules (CAMs)
+                3684 (ITGAM)
+             7. Others
+              TNFSF5, CD40L; tumor necrosis factor (ligand) superfamily, member 5 [KO:K03161]
+                3684 (ITGAM)
+              CD209; CD209 antigen [KO:K06563]
+                3684 (ITGAM)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3684 (ITGAM)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Adhesion molecules of cell surface	(General comment) Cell attachment, inflammation, transition
+               3684 (ITGAM)
+POSITION    16p11.2
+MOTIF       Pfam: Integrin_alpha2 VWA FG-GAP VWA_2 Integrin_alpha VCBS FG-GAP_2
+DBLINKS     NCBI-GeneID: 3684
+            NCBI-ProteinID: NP_000623
+            OMIM: 120980
+            HGNC: 6149
+            Ensembl: ENSG00000169896
+            Vega: OTTHUMG00000176612
+            Pharos: P11215(Tbio)
+            UniProt: P11215
+STRUCTURE   PDB: 1MF7 1NA5 1IDO 4XW2 1JLM 1M1U 1N9Z 3Q3G 1BHO 1BHQ 1IDN
+                 4M76 3QA3 2LKJ 2LKE
+AASEQ       1152
+            MALRVLLLTALTLCHGFNLDTENAMTFQENARGFGQSVVQLQGSRVVVGAPQEIVAANQR
+            GSLYQCDYSTGSCEPIRLQVPVEAVNMSLGLSLAATTSPPQLLACGPTVHQTCSENTYVK
+            GLCFLFGSNLRQQPQKFPEALRGCPQEDSDIAFLIDGSGSIIPHDFRRMKEFVSTVMEQL
+            KKSKTLFSLMQYSEEFRIHFTFKEFQNNPNPRSLVKPITQLLGRTHTATGIRKVVRELFN
+            ITNGARKNAFKILVVITDGEKFGDPLGYEDVIPEADREGVIRYVIGVGDAFRSEKSRQEL
+            NTIASKPPRDHVFQVNNFEALKTIQNQLREKIFAIEGTQTGSSSSFEHEMSQEGFSAAIT
+            SNGPLLSTVGSYDWAGGVFLYTSKEKSTFINMTRVDSDMNDAYLGYAAAIILRNRVQSLV
+            LGAPRYQHIGLVAMFRQNTGMWESNANVKGTQIGAYFGASLCSVDVDSNGSTDLVLIGAP
+            HYYEQTRGGQVSVCPLPRGRARWQCDAVLYGEQGQPWGRFGAALTVLGDVNGDKLTDVAI
+            GAPGEEDNRGAVYLFHGTSGSGISPSHSQRIAGSKLSPRLQYFGQSLSGGQDLTMDGLVD
+            LTVGAQGHVLLLRSQPVLRVKAIMEFNPREVARNVFECNDQVVKGKEAGEVRVCLHVQKS
+            TRDRLREGQIQSVVTYDLALDSGRPHSRAVFNETKNSTRRQTQVLGLTQTCETLKLQLPN
+            CIEDPVSPIVLRLNFSLVGTPLSAFGNLRPVLAEDAQRLFTALFPFEKNCGNDNICQDDL
+            SITFSFMSLDCLVVGGPREFNVTVTVRNDGEDSYRTQVTFFFPLDLSYRKVSTLQNQRSQ
+            RSWRLACESASSTEVSGALKSTSCSINHPIFPENSEVTFNITFDVDSKASLGNKLLLKAN
+            VTSENNMPRTNKTEFQLELPVKYAVYMVVTSHGVSTKYLNFTASENTSRVMQHQYQVSNL
+            GQRSLPISLVFLVPVRLNQTVIWDRPQVTFSENLSSTCHTKERLPSHSDFLAELRKAPVV
+            NCSIAVCQRIQCDIPFFGIQEEFNATLKGNLSFDWYIKTSHNHLLIVSTAEILFNDSVFT
+            LLPGQGAFVRSQTETKVEPFEVPNPLPLIVGSSVGGLLLLALITAALYKLGFFKRQYKDM
+            MSEGGPPGAEPQ
+NTSEQ       3459
+            atggctctcagagtccttctgttaacagccttgaccttatgtcatgggttcaacttggac
+            actgaaaacgcaatgaccttccaagagaacgcaaggggcttcgggcagagcgtggtccag
+            cttcagggatccagggtggtggttggagccccccaggagatagtggctgccaaccaaagg
+            ggcagcctctaccagtgcgactacagcacaggctcatgcgagcccatccgcctgcaggtc
+            cccgtggaggccgtgaacatgtccctgggcctgtccctggcagccaccaccagcccccct
+            cagctgctggcctgtggtcccaccgtgcaccagacttgcagtgagaacacgtatgtgaaa
+            gggctctgcttcctgtttggatccaacctacggcagcagccccagaagttcccagaggcc
+            ctccgagggtgtcctcaagaggatagtgacattgccttcttgattgatggctctggtagc
+            atcatcccacatgactttcggcggatgaaggagtttgtctcaactgtgatggagcaatta
+            aaaaagtccaaaaccttgttctctttgatgcagtactctgaagaattccggattcacttt
+            accttcaaagagttccagaacaaccctaacccaagatcactggtgaagccaataacgcag
+            ctgcttgggcggacacacacggccacgggcatccgcaaagtggtacgagagctgtttaac
+            atcaccaacggagcccgaaagaatgcctttaagatcctagttgtcatcacggatggagaa
+            aagtttggcgatcccttgggatatgaggatgtcatccctgaggcagacagagagggagtc
+            attcgctacgtcattggggtgggagatgccttccgcagtgagaaatcccgccaagagctt
+            aataccatcgcatccaagccgcctcgtgatcacgtgttccaggtgaataactttgaggct
+            ctgaagaccattcagaaccagcttcgggagaagatctttgcgatcgagggtactcagaca
+            ggaagtagcagctcctttgagcatgagatgtctcaggaaggcttcagcgctgccatcacc
+            tctaatggccccttgctgagcactgtggggagctatgactgggctggtggagtctttcta
+            tatacatcaaaggagaaaagcaccttcatcaacatgaccagagtggattcagacatgaat
+            gatgcttacttgggttatgctgccgccatcatcttacggaaccgggtgcaaagcctggtt
+            ctgggggcacctcgatatcagcacatcggcctggtagcgatgttcaggcagaacactggc
+            atgtgggagtccaacgctaatgtcaagggcacccagatcggcgcctacttcggggcctcc
+            ctctgctccgtggacgtggacagcaacggcagcaccgacctggtcctcatcggggccccc
+            cattactacgagcagacccgagggggccaggtgtccgtgtgccccttgcccagggggagg
+            gctcggtggcagtgtgatgctgttctctacggggagcagggccaaccctggggccgcttt
+            ggggcagccctaacagtgctgggggacgtaaatggggacaagctgacggacgtggccatt
+            ggggccccaggagaggaggacaaccggggtgctgtttacctgtttcacggaacctcagga
+            tctggcatcagcccctcccatagccagcggatagcaggctccaagctctctcccaggctc
+            cagtattttggtcagtcactgagtgggggccaggacctcacaatggatggactggtagac
+            ctgactgtaggagcccaggggcacgtgctgctgctcaggtcccagccagtactgagagtc
+            aaggcaatcatggagttcaatcccagggaagtggcaaggaatgtatttgagtgtaatgat
+            caggtggtgaaaggcaaggaagccggagaggtcagagtctgcctccatgtccagaagagc
+            acacgggatcggctaagagaaggacagatccagagtgttgtgacttatgacctggctctg
+            gactccggccgcccacattcccgcgccgtcttcaatgagacaaagaacagcacacgcaga
+            cagacacaggtcttggggctgacccagacttgtgagaccctgaaactacagttgccgaat
+            tgcatcgaggacccagtgagccccattgtgctgcgcctgaacttctctctggtgggaacg
+            ccattgtctgctttcgggaacctccggccagtgctggcggaggatgctcagagactcttc
+            acagccttgtttccctttgagaagaattgtggcaatgacaacatctgccaggatgacctc
+            agcatcaccttcagtttcatgagcctggactgcctcgtggtgggtgggccccgggagttc
+            aacgtgacagtgactgtgagaaatgatggtgaggactcctacaggacacaggtcaccttc
+            ttcttcccgcttgacctgtcctaccggaaggtgtccacgctccagaaccagcgctcacag
+            cgatcctggcgcctggcctgtgagtctgcctcctccaccgaagtgtctggggccttgaag
+            agcaccagctgcagcataaaccaccccatcttcccggaaaactcagaggtcacctttaat
+            atcacgtttgatgtagactctaaggcttcccttggaaacaaactgctcctcaaggccaat
+            gtgaccagtgagaacaacatgcccagaaccaacaaaaccgaattccaactggagctgccg
+            gtgaaatatgctgtctacatggtggtcaccagccatggggtctccactaaatatctcaac
+            ttcacggcctcagagaataccagtcgggtcatgcagcatcaatatcaggtcagcaacctg
+            gggcagaggagcctccccatcagcctggtgttcttggtgcccgtccggctgaaccagact
+            gtcatatgggaccgcccccaggtcaccttctccgagaacctctcgagtacgtgccacacc
+            aaggagcgcttgccctctcactccgactttctggctgagcttcggaaggcccccgtggtg
+            aactgctccatcgctgtctgccagagaatccagtgtgacatcccgttctttggcatccag
+            gaagaattcaatgctaccctcaaaggcaacctctcgtttgactggtacatcaagacctcg
+            cataaccacctcctgatcgtgagcacagctgagatcttgtttaacgattccgtgttcacc
+            ctgctgccgggacagggggcgtttgtgaggtcccagacggagaccaaagtggagccgttc
+            gaggtccccaaccccctgccgctcatcgtgggcagctctgtcgggggactgctgctcctg
+            gccctcatcaccgccgcgctgtacaagctcggcttcttcaagcggcaatacaaggacatg
+            atgagtgaagggggtcccccgggggccgaaccccagtag
+///

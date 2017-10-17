@@ -1,0 +1,65 @@
+ENTRY       4257              CDS       T01001
+NAME        MGST1, GST12, MGST, MGST-I
+DEFINITION  (RefSeq) microsomal glutathione S-transferase 1
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                4257 (MGST1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                4257 (MGST1)
+               00982 Drug metabolism - cytochrome P450
+                4257 (MGST1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                4257 (MGST1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                4257 (MGST1)
+              Drug resistance
+               01524 Platinum drug resistance
+                4257 (MGST1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 4257 (MGST1)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               4257 (MGST1)
+POSITION    12p12.3
+MOTIF       Pfam: MAPEG
+DBLINKS     NCBI-GeneID: 4257
+            NCBI-ProteinID: NP_001247440
+            OMIM: 138330
+            HGNC: 7061
+            Ensembl: ENSG00000008394
+            Vega: OTTHUMG00000168816
+            Pharos: P10620(Tbio)
+            UniProt: P10620 A0A024RAX2
+AASEQ       155
+            MVDLTQVMDDEVFMAFASYATIILSKMMLMSTATAFYRLTRKVFANPEDCVAFGKGENAK
+            KYLRTDDRVERVRRAHLNDLENIIPFLGIGLLYSLSGPDPSTAILHFRLFVGARIYHTIA
+            YLTPLPQPNRALSFFVGYGVTLSMAYRLLKSKLYL
+NTSEQ       468
+            atggttgacctcacccaggtaatggatgatgaagtattcatggcttttgcatcctatgca
+            acaattattctttcaaaaatgatgcttatgagtactgcaactgcattctatagattgaca
+            agaaaggtttttgccaatccagaagactgtgtagcatttggcaaaggagaaaatgccaag
+            aagtatcttcgaacagatgacagagtagaacgtgtacgcagagcccacctgaatgacctt
+            gaaaatattattccatttcttggaattggcctcctgtattccttgagtggtcccgacccc
+            tctacagccatcctgcacttcagactatttgtcggagcacggatctaccacaccattgca
+            tatttgacaccccttccccagccaaatagagctttgagtttttttgttggatatggagtt
+            actctttccatggcttacaggttgctgaaaagtaaattgtacctgtaa
+///

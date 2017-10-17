@@ -1,0 +1,90 @@
+ENTRY       2686              CDS       T01001
+NAME        GGT7, D20S101, GGT4, GGTL3, GGTL5
+DEFINITION  (RefSeq) gamma-glutamyltransferase 7
+ORTHOLOGY   K00681  gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00430  Taurine and hypotaurine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+DRUG_TARGET Acivicin: D02755
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00430 Taurine and hypotaurine metabolism
+                2686 (GGT7)
+               00480 Glutathione metabolism
+                2686 (GGT7)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.2  gamma-glutamyltransferase
+                 2686 (GGT7)
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.13  glutathione hydrolase
+                 2686 (GGT7)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T3: gamma-glutamyltransferase family
+               2686 (GGT7)
+POSITION    20q11.22
+MOTIF       Pfam: G_glu_transpept
+DBLINKS     NCBI-GeneID: 2686
+            NCBI-ProteinID: NP_821158
+            OMIM: 612342
+            HGNC: 4259
+            Ensembl: ENSG00000131067
+            Vega: OTTHUMG00000032314
+            Pharos: Q9UJ14(Tbio)
+            UniProt: Q9UJ14 A0PJJ9
+AASEQ       662
+            MAAENEASQESALGAYSPVDYMSITSFPRLPEDEPAPAAPLRGRKDEDAFLGDPDTDPDS
+            FLKSARLQRLPSSSSEMGSQDGSPLRETRKDPFSAAAAECSCRQDGLTVIVTACLTFATG
+            VTVALVMQIYFGDPQIFQQGAVVTDAARCTSLGIEVLSKQGSSVDAAVAAALCLGIVAPH
+            SSGLGGGGVMLVHDIRRNESHLIDFRESAPGALREETLQRSWETKPGLLVGVPGMVKGLH
+            EAHQLYGRLPWSQVLAFAAAVAQDGFNVTHDLARALAEQLPPNMSERFRETFLPSGRPPL
+            PGSLLHRPDLAEVLDVLGTSGPAAFYAGGNLTLEMVAEAQHAGGVITEEDFSNYSALVEK
+            PVCGVYRGHLVLSPPPPHTGPALISALNILEGFNLTSLVSREQALHWVAETLKIALALAS
+            RLGDPVYDSTITESMDDMLSKVEAAYLRGHINDSQAAPAPLLPVYELDGAPTAAQVLIMG
+            PDDFIVAMVSSLNQPFGSGLITPSGILLNSQMLDFSWPNRTANHSAPSLENSVQPGKRPL
+            SFLLPTVVRPAEGLCGTYLALGANGAARGLSGLTQVLLNVLTLNRNLSDSLARGRLHPDL
+            QSNLLQVDSEFTEEEIEFLEARGHHVEKVDVLSWVHGSRRTNNFIIAVKDPRSPDAAGAT
+            IL
+NTSEQ       1989
+            atggcggcggagaacgaggccagccaggagagcgccctgggcgcctactcgccagtggac
+            tacatgagcatcaccagcttcccgcggctgcccgaggacgagccggcgcccgcggccccg
+            ctgaggggccgcaaggacgaggacgcctttctgggagaccccgacaccgacccggactcc
+            ttcctgaagtctgcacggctgcagcggctgccatcgtcgtcgtcggagatgggcagccaa
+            gacgggtcgccgctacgcgagacgcgcaaagacccgttctccgccgcagcggccgagtgc
+            tcctgccgccaggatgggctcacggtcatcgtcacggcctgtctcaccttcgctaccggt
+            gtcaccgtggcgctggtcatgcagatctacttcggggacccccagatcttccagcagggt
+            gccgtggtgaccgatgctgcccgctgcacttcactgggcatcgaggtgctcagtaaacag
+            ggatcttctgtggacgcagcggtggcagcagccttgtgtttgggtatcgtggctccacac
+            agttctggcctgggcggtgggggcgtgatgctggtacatgacatccgacgaaatgagagc
+            cacctaattgatttccgggagtccgcaccaggggccctcagggaagagaccctgcaaaga
+            tcctgggagaccaagcctgggctcttggtgggggttcccggaatggtgaaggggctacat
+            gaagctcaccagctctatggcaggctgccatggtcccaagtcctggcctttgcagcagct
+            gtggcccaagatggcttcaacgtgactcatgatctagcccgtgccctggctgaacagctg
+            ccacccaacatgtccgagcgcttccgggagacgttcctgccatcgggccgcccgccacta
+            cctggctcgttgctgcatcggcccgacctggctgaggtgctggatgtacttggcacctcc
+            ggcccggctgccttctacgcaggtggcaacctcacactggagatggtggccgaggctcag
+            cacgcagggggtgtcataaccgaagaggacttcagcaattacagcgcccttgtggagaag
+            cctgtgtgtggcgtgtacagaggccacctggttcttagtcccccacctccgcacacgggc
+            cctgccctcatcagtgctctcaacatcctggagggcttcaatctcaccagcctggtatcc
+            cgagaacaggctcttcactgggtggcagagaccctgaagattgcattagccctggccagc
+            agactgggagatcccgtctatgattctaccatcactgagagcatggatgacatgctcagc
+            aaggtggaggccgcctacctccggggccatatcaatgactcccaggcagcccctgcccca
+            ctcctgcctgtctatgaactagacggagctcccacggctgcccaggtgctgatcatggga
+            cctgatgacttcattgtggccatggttagctccctgaaccagccctttggcagcggcctt
+            atcaccccctcggggatcctgctcaacagccagatgctggacttctcctggcccaaccgg
+            acagctaaccactctgcacccagcctggagaattcagtgcagccagggaagcggccactc
+            tctttcctgctgcccacagtggtccgacccgcggaggggctctgtggaacctacctcgct
+            ctgggggccaatggagctgcgcggggcctcagcggcctgacacaggttctgctgaatgtc
+            ctgaccttgaaccggaacctgagtgacagcctggcccgcggccgcctacacccggacctg
+            cagtccaacctcctgcaggtggacagtgagttcacagaggaagagattgagttcctggaa
+            gccaggggtcaccacgtggagaaagtagatgtcttatcctgggtccatggcagccgaagg
+            accaacaacttcatcatcgctgttaaggaccctcggagcccagatgcagctggagccacc
+            atcctgtag
+///

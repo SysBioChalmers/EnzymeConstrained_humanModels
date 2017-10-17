@@ -1,0 +1,48 @@
+ENTRY       51060             CDS       T01001
+NAME        TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19
+DEFINITION  (RefSeq) thioredoxin domain containing 12
+ORTHOLOGY   K05360  protein-disulfide reductase (glutathione) [EC:1.8.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                51060 (TXNDC12)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.4  With a disulfide as acceptor
+                1.8.4.2  protein-disulfide reductase (glutathione)
+                 51060 (TXNDC12)
+            Membrane trafficking [BR:hsa04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               PDI family proteins
+                51060 (TXNDC12)
+POSITION    1p32.3
+MOTIF       Pfam: Thioredoxin_7 Thioredoxin Thioredoxin_2 Thioredox_DsbH Thioredoxin_9 Thioredoxin_8 AhpC-TSA
+DBLINKS     NCBI-GeneID: 51060
+            NCBI-ProteinID: NP_056997
+            OMIM: 609448
+            HGNC: 24626
+            Ensembl: ENSG00000117862
+            Vega: OTTHUMG00000008629
+            Pharos: O95881(Tbio)
+            UniProt: O95881
+STRUCTURE   PDB: 1SEN 2K8V
+AASEQ       172
+            METRPRLGATCLLGFSFLLLVISSDGHNGLGKGFGDHIHWRTLEDGKKEAAASGLPLMVI
+            IHKSWCGACKALKPKFAESTEISELSHNFVMVNLEDEEEPKDEDFSPDGGYIPRILFLDP
+            SGKVHPEIINENGNPSYKYFYVSAEQVVQGMKEAQERLTGDAFRKKHLEDEL
+NTSEQ       519
+            atggagacgcggcctcgtctcggggccacctgtttgctgggcttcagtttcctgctcctc
+            gtcatctcttctgatggacataatgggcttggaaagggttttggagatcatattcattgg
+            aggacactggaagatgggaagaaagaagcagctgccagtggactgcccctgatggtgatt
+            attcataaatcctggtgtggagcttgcaaagctctaaagcccaaatttgcagaatctacg
+            gaaatttcagaactctcccataattttgttatggtaaatcttgaggatgaagaggaaccc
+            aaagatgaagatttcagccctgacgggggttatattccacgaatcctttttctggatccc
+            agtggcaaggtgcatcctgaaatcatcaatgagaatggaaaccccagctacaagtatttt
+            tatgtcagtgccgagcaagttgttcaggggatgaaggaagctcaggaaaggctgacgggt
+            gatgccttcagaaagaaacatcttgaagatgaattgtaa
+///

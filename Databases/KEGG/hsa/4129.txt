@@ -1,0 +1,127 @@
+ENTRY       4129              CDS       T01001
+NAME        MAOB
+DEFINITION  (RefSeq) monoamine oxidase B
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DRUG_TARGET Caroxazone: D03409
+            Etryptamine acetate: D04092
+            Iproclozide: D07338
+            Iproniazide (DG00950): D02579 D08085
+            Isocarboxazid: D02580
+            Isoniazid (DG00642): D00346 D01501 D02002 D09773
+            Ladostigil tartrate: D03239
+            Lazabemide (DG01259): D01097 D04681
+            Milacemide hydrochloride: D05033
+            Mofegiline hydrochloride: D03733
+            Nialamide: D07337
+            Pargyline (DG00264): D02564 D08453
+            Phenelzine (DG00948): D00505 D08349
+            Safinamide (DG01260): D10158 D10191
+            Safrazine hydrochloride: D01888
+            Selegiline (DG00864): D00785 D03731
+            Tranylcypromine (DG00949): D00826 D08625
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                4129 (MAOB)
+               00330 Arginine and proline metabolism
+                4129 (MAOB)
+               00340 Histidine metabolism
+                4129 (MAOB)
+               00350 Tyrosine metabolism
+                4129 (MAOB)
+               00360 Phenylalanine metabolism
+                4129 (MAOB)
+               00380 Tryptophan metabolism
+                4129 (MAOB)
+              Xenobiotics biodegradation and metabolism
+               00982 Drug metabolism - cytochrome P450
+                4129 (MAOB)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                4129 (MAOB)
+               04726 Serotonergic synapse
+                4129 (MAOB)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                4129 (MAOB)
+               05031 Amphetamine addiction
+                4129 (MAOB)
+               05034 Alcoholism
+                4129 (MAOB)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.4  monoamine oxidase
+                 4129 (MAOB)
+POSITION    Xp11.3
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 DAO FAD_oxidored FAD_binding_2 FAD_binding_3 Pyr_redox_2 Thi4 Pyr_redox HI0933_like AlaDh_PNT_C GIDA Pyr_redox_3 IlvN Lycopene_cycl MCRA Trp_halogenase
+DBLINKS     NCBI-GeneID: 4129
+            NCBI-ProteinID: NP_000889
+            OMIM: 309860
+            HGNC: 6834
+            Ensembl: ENSG00000069535
+            Vega: OTTHUMG00000021388
+            Pharos: P27338(Tclin)
+            UniProt: P27338
+STRUCTURE   PDB: 2XFN 1S3E 1S3B 2XFP 4A7A 4CRT 3PO7 2BK5 4A79 2XCG 2C70
+                 1S2Q 2XFO 1S2Y 3ZYX 2XFQ 2XFU 2C64 2VZ2 5MRL 2VRL 2VRM
+                 2V61 2V5Z 2V60 2C72 2C73 2C75 2C76 2C65 2C66 2C67 2BYB
+                 2BK3 2BK4 1OJ9 1OJA 1OJC 1OJD 1GOS
+AASEQ       520
+            MSNKCDVVVVGGGISGMAAAKLLHDSGLNVVVLEARDRVGGRTYTLRNQKVKYVDLGGSY
+            VGPTQNRILRLAKELGLETYKVNEVERLIHHVKGKSYPFRGPFPPVWNPITYLDHNNFWR
+            TMDDMGREIPSDAPWKAPLAEEWDNMTMKELLDKLCWTESAKQLATLFVNLCVTAETHEV
+            SALWFLWYVKQCGGTTRIISTTNGGQERKFVGGSGQVSERIMDLLGDRVKLERPVIYIDQ
+            TRENVLVETLNHEMYEAKYVISAIPPTLGMKIHFNPPLPMMRNQMITRVPLGSVIKCIVY
+            YKEPFWRKKDYCGTMIIDGEEAPVAYTLDDTKPEGNYAAIMGFILAHKARKLARLTKEER
+            LKKLCELYAKVLGSLEALEPVHYEEKNWCEEQYSGGCYTTYFPPGILTQYGRVLRQPVDR
+            IYFAGTETATHWSGYMEGAVEAGERAAREILHAMGKIPEDEIWQSEPESVDVPAQPITTT
+            FLERHLPSVPGLLRLIGLTTIFSATALGFLAHKRGLLVRV
+NTSEQ       1563
+            atgagcaacaaatgcgacgtggtcgtggtggggggcggcatctcaggtatggcagcagcc
+            aaacttctgcatgactctggactgaatgtggttgttctggaagcccgggaccgtgtggga
+            ggcaggacttacactcttaggaaccaaaaggttaaatatgtggaccttggaggatcctat
+            gttggaccaacccagaatcgtatcttgagattagccaaggagctaggattggagacctac
+            aaagtgaatgaggttgagcgtctgatccaccatgtaaagggcaaatcataccccttcagg
+            gggccattcccacctgtatggaatccaattacctacttagatcataacaacttttggagg
+            acaatggatgacatggggcgagagattccgagtgatgccccatggaaggctccccttgca
+            gaagagtgggacaacatgacaatgaaggagctactggacaagctctgctggactgaatct
+            gcaaagcagcttgccactctctttgtgaacctgtgtgtcactgcagagacccatgaggtc
+            tctgctctctggttcctgtggtatgtgaagcagtgtggaggcacaacaagaatcatctcg
+            acaacaaatggaggacaggagaggaaatttgtgggcggatctggtcaagtgagtgagcgg
+            ataatggacctccttggagaccgagtgaagctggagaggcctgtgatctacattgaccag
+            acaagagaaaatgtccttgtggagaccctaaaccatgagatgtatgaggctaaatatgtg
+            attagtgctattcctcctactctgggcatgaagattcacttcaatccccctctgccaatg
+            atgagaaaccagatgatcactcgtgtgcctttgggttcagtcatcaagtgtatagtttat
+            tataaagagcctttctggaggaaaaaggattactgtggaaccatgattattgatggagaa
+            gaagctccagttgcctacacgttggatgataccaaacctgaaggcaactatgctgccata
+            atgggatttatcctggcccacaaagccagaaaactggcacgtcttaccaaagaggaaagg
+            ttgaagaaactttgtgaactctatgccaaggttctgggttccctagaagctctggagcca
+            gtgcattatgaagaaaagaactggtgtgaggagcagtactctgggggctgctacacaact
+            tatttcccccctgggatcctgactcaatatggaagggttctacgccagccagtggacagg
+            atttactttgcaggcaccgagactgccacacactggagcggctacatggagggggctgta
+            gaggccggggagagagcagcccgagagatcctgcatgccatggggaagattccagaggat
+            gaaatctggcagtcagaaccagagtctgtggatgtccctgcacagcccatcaccaccacc
+            tttttggagagacatttgccctccgtgccaggcctgctcaggctgattggattgaccacc
+            atcttttcagcaacggctcttggcttcctggcccacaaaagggggctacttgtgagagtc
+            taa
+///

@@ -1,0 +1,102 @@
+ENTRY       1644              CDS       T01001
+NAME        DDC, AADC
+DEFINITION  (RefSeq) dopa decarboxylase
+ORTHOLOGY   K01593  aromatic-L-amino-acid decarboxylase [EC:4.1.1.28]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+            hsa_M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline
+DISEASE     H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+DRUG_TARGET Benserazide (DG01296): D01653 D03082
+            Carbidopa: D00558
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00340 Histidine metabolism
+                1644 (DDC)
+               00350 Tyrosine metabolism
+                1644 (DDC)
+               00360 Phenylalanine metabolism
+                1644 (DDC)
+               00380 Tryptophan metabolism
+                1644 (DDC)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                1644 (DDC)
+               04726 Serotonergic synapse
+                1644 (DDC)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                1644 (DDC)
+               05031 Amphetamine addiction
+                1644 (DDC)
+               05034 Alcoholism
+                1644 (DDC)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.28  aromatic-L-amino-acid decarboxylase
+                 1644 (DDC)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               1644 (DDC)
+POSITION    7p12.2-p12.1
+MOTIF       Pfam: Pyridoxal_deC Beta_elim_lyase Aminotran_1_2
+DBLINKS     NCBI-GeneID: 1644
+            NCBI-ProteinID: NP_000781
+            OMIM: 107930
+            HGNC: 2719
+            Ensembl: ENSG00000132437
+            Vega: OTTHUMG00000023353
+            Pharos: P20711(Tclin)
+            UniProt: P20711 Q53Y41
+STRUCTURE   PDB: 3RCH 3RBF 3RBL
+AASEQ       480
+            MNASEFRRRGKEMVDYVANYMEGIEGRQVYPDVEPGYLRPLIPAAAPQEPDTFEDIINDV
+            EKIIMPGVTHWHSPYFFAYFPTASSYPAMLADMLCGAIGCIGFSWAASPACTELETVMMD
+            WLGKMLELPKAFLNEKAGEGGGVIQGSASEATLVALLAARTKVIHRLQAASPELTQAAIM
+            EKLVAYSSDQAHSSVERAGLIGGVKLKAIPSDGNFAMRASALQEALERDKAAGLIPFFMV
+            ATLGTTTCCSFDNLLEVGPICNKEDIWLHVDAAYAGSAFICPEFRHLLNGVEFADSFNFN
+            PHKWLLVNFDCSAMWVKKRTDLTGAFRLDPTYLKHSHQDSGLITDYRHWQIPLGRRFRSL
+            KMWFVFRMYGVKGLQAYIRKHVQLSHEFESLVRQDPRFEICVEVILGLVCFRLKGSNKVN
+            EALLQRINSAKKIHLVPCHLRDKFVLRFAICSRTVESAHVQRAWEHIKELAADVLRAERE
+NTSEQ       1443
+            atgaacgcaagtgaattccgaaggagagggaaggagatggtggattacgtggccaactac
+            atggaaggcattgagggacgccaggtctaccctgacgtggagcccgggtacctgcggccg
+            ctgatccctgccgctgcccctcaggagccagacacgtttgaggacatcatcaacgacgtt
+            gagaagataatcatgcctggggtgacgcactggcacagcccctacttcttcgcctacttc
+            cccactgccagctcgtacccggccatgcttgcggacatgctgtgcggggccattggctgc
+            atcggcttctcctgggcggcaagcccagcatgcacagagctggagactgtgatgatggac
+            tggctcgggaagatgctggaactaccaaaggcatttttgaatgagaaagctggagaaggg
+            ggaggagtgatccagggaagtgccagtgaagccaccctggtggccctgctggccgctcgg
+            accaaagtgatccatcggctgcaggcagcgtccccagagctcacacaggccgctatcatg
+            gagaagctggtggcttactcatccgatcaggcacactcctcagtggaaagagctgggtta
+            attggtggagtgaaattaaaagccatcccctcagatggcaacttcgccatgcgtgcgtct
+            gccctgcaggaagccctggagagagacaaagcggctggcctgattcctttctttatggtt
+            gccaccctggggaccacaacatgctgctcctttgacaatctcttagaagtcggtcctatc
+            tgcaacaaggaagacatatggctgcacgttgatgcagcctacgcaggcagtgcattcatc
+            tgccctgagttccggcaccttctgaatggagtggagtttgcagattcattcaactttaat
+            ccccacaaatggctattggtgaattttgactgttctgccatgtgggtgaaaaagagaaca
+            gacttaacgggagcctttagactggaccccacttacctgaagcacagccatcaggattca
+            gggcttatcactgactaccggcattggcagataccactgggcagaagatttcgctctttg
+            aaaatgtggtttgtatttaggatgtatggagtcaaaggactgcaggcttatatccgcaag
+            catgtccagctgtcccatgagtttgagtcactggtgcgccaggatccccgctttgaaatc
+            tgtgtggaagtcattctggggcttgtctgctttcggctaaagggttccaacaaagtgaat
+            gaagctcttctgcaaagaataaacagtgccaaaaaaatccacttggttccatgtcacctc
+            agggacaagtttgtcctgcgctttgccatctgttctcgcacggtggaatctgcccatgtg
+            cagcgggcctgggaacacatcaaagagctggcggccgacgtgctgcgagcagagagggag
+            tag
+///

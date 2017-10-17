@@ -1,0 +1,138 @@
+ENTRY       3127              CDS       T01001
+NAME        HLA-DRB5
+DEFINITION  (RefSeq) major histocompatibility complex, class II, DR beta 5
+ORTHOLOGY   K06752  major histocompatibility complex, class II
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04672  Intestinal immune network for IgA production
+            hsa04940  Type I diabetes mellitus
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3127 (HLA-DRB5)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3127 (HLA-DRB5)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3127 (HLA-DRB5)
+               04612 Antigen processing and presentation
+                3127 (HLA-DRB5)
+               04658 Th1 and Th2 cell differentiation
+                3127 (HLA-DRB5)
+               04659 Th17 cell differentiation
+                3127 (HLA-DRB5)
+               04672 Intestinal immune network for IgA production
+                3127 (HLA-DRB5)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3127 (HLA-DRB5)
+               05322 Systemic lupus erythematosus
+                3127 (HLA-DRB5)
+               05323 Rheumatoid arthritis
+                3127 (HLA-DRB5)
+               05320 Autoimmune thyroid disease
+                3127 (HLA-DRB5)
+               05321 Inflammatiory bowel disease (IBD)
+                3127 (HLA-DRB5)
+               05330 Allograft rejection
+                3127 (HLA-DRB5)
+               05332 Graft-versus-host disease
+                3127 (HLA-DRB5)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3127 (HLA-DRB5)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3127 (HLA-DRB5)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3127 (HLA-DRB5)
+               05152 Tuberculosis
+                3127 (HLA-DRB5)
+               05166 HTLV-I infection
+                3127 (HLA-DRB5)
+               05164 Influenza A
+                3127 (HLA-DRB5)
+               05168 Herpes simplex infection
+                3127 (HLA-DRB5)
+               05169 Epstein-Barr virus infection
+                3127 (HLA-DRB5)
+               05145 Toxoplasmosis
+                3127 (HLA-DRB5)
+               05140 Leishmaniasis
+                3127 (HLA-DRB5)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3127 (HLA-DRB5)
+              Exosomal proteins of epithelial cells
+               3127 (HLA-DRB5)
+              Exosomal proteins of breast milk
+               3127 (HLA-DRB5)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               Others
+                CD4; CD4 antigen [KO:K06454]
+                 3127 (HLA-DRB5)
+                LAG3; lymphocyte-activation gene 3 protein [KO:K06565]
+                 3127 (HLA-DRB5)
+POSITION    6p21.32
+MOTIF       Pfam: MHC_II_beta C1-set Ig_3 ig
+DBLINKS     NCBI-GeneID: 3127
+            NCBI-ProteinID: NP_002116
+            OMIM: 604776
+            HGNC: 4953
+            Ensembl: ENSG00000198502
+            Vega: OTTHUMG00000031027
+            Pharos: Q30154(Tbio)
+            UniProt: Q30154
+STRUCTURE   PDB: 1FV1 1ZGL 1HQR 1H15
+AASEQ       266
+            MVCLKLPGGSYMAKLTVTLMVLSSPLALAGDTRPRFLQQDKYECHFFNGTERVRFLHRDI
+            YNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTV
+            QRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNG
+            DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQSESAQSKMLSGVGGFVLGLL
+            FLGAGLFIYFKNQKGHSGLHPTGLVS
+NTSEQ       801
+            atggtgtgtctgaagctccctggaggttcctacatggcaaagctgacagtgacactgatg
+            gtgctgagctccccactggctttggctggggacacccgaccacgtttcttgcagcaggat
+            aagtatgagtgtcatttcttcaacgggacggagcgggtgcggttcctgcacagagacatc
+            tataaccaagaggaggacttgcgcttcgacagcgacgtgggggagtaccgggcggtgacg
+            gagctggggcggcctgacgctgagtactggaacagccagaaggacttcctggaagacagg
+            cgcgccgcggtggacacctactgcagacacaactacggggttggtgagagcttcacagtg
+            cagcggcgagttgagcctaaggtgactgtgtatcctgcaaggacccagaccctgcagcac
+            cacaacctcctggtctgctctgtgaatggtttctatccaggcagcattgaagtcaggtgg
+            ttccggaacagccaggaagagaaggctggggtggtgtccacaggcctgattcagaatgga
+            gactggaccttccagaccctggtgatgctggaaacagttcctcgaagtggagaggtttac
+            acctgccaagtggagcacccaagcgtgacgagccctctcacagtggaatggagagcacag
+            tctgaatctgcacagagcaagatgctgagtggagtcgggggctttgtgctgggcctgctc
+            ttccttggggccgggctattcatctacttcaagaatcagaaagggcactctggacttcac
+            ccaacaggactcgtgagctga
+///

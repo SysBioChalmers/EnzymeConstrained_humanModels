@@ -1,0 +1,111 @@
+ENTRY       6778              CDS       T01001
+NAME        STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C
+DEFINITION  (RefSeq) signal transducer and activator of transcription 6
+ORTHOLOGY   K11225  signal transducer and activator of transcription 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04217  Necroptosis
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa05161  Hepatitis B
+            hsa05321  Inflammatory bowel disease (IBD)
+MODULE      hsa_M00684  JAK-STAT signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                6778 (STAT6)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                6778 (STAT6)
+             Organismal Systems
+              Immune system
+               04658 Th1 and Th2 cell differentiation
+                6778 (STAT6)
+               04659 Th17 cell differentiation
+                6778 (STAT6)
+             Human Diseases
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                6778 (STAT6)
+              Infectious diseases
+               05161 Hepatitis B
+                6778 (STAT6)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               STAT
+                6778 (STAT6)
+POSITION    12q13.3
+MOTIF       Pfam: STAT6_C STAT_bind STAT_int STAT_alpha SH2
+DBLINKS     NCBI-GeneID: 6778
+            NCBI-ProteinID: NP_001171549
+            OMIM: 601512
+            HGNC: 11368
+            Ensembl: ENSG00000166888
+            Vega: OTTHUMG00000171194
+            Pharos: P42226(Tchem)
+            UniProt: P42226
+STRUCTURE   PDB: 4Y5U 4Y5W 5D39
+AASEQ       847
+            MSLWGLVSKMPPEKVQRLYVDFPQHLRHLLGDWLESQPWEFLVGSDAFCCNLASALLSDT
+            VQHLQASVGEQGEGSTILQHISTLESIYQRDPLKLVATFRQILQGEKKAVMEQFRHLPMP
+            FHWKQEELKFKTGLRRLQHRVGEIHLLREALQKGAEAGQVSLHSLIETPANGTGPSEALA
+            MLLQETTGELEAAKALVLKRIQIWKRQQQLAGNGAPFEESLAPLQERCESLVDIYSQLQQ
+            EVGAAGGELEPKTRASLTGRLDEVLRTLVTSCFLVEKQPPQVLKTQTKFQAGVRFLLGLR
+            FLGAPAKPPLVRADMVTEKQARELSVPQGPGAGAESTGEIINNTVPLENSIPGNCCSALF
+            KNLLLKKIKRCERKGTESVTEEKCAVLFSASFTLGPGKLPIQLQALSLPLVVIVHGNQDN
+            NAKATILWDNAFSEMDRVPFVVAERVPWEKMCETLNLKFMAEVGTNRGLLPEHFLFLAQK
+            IFNDNSLSMEAFQHRSVSWSQFNKEILLGRGFTFWQWFDGVLDLTKRCLRSYWSDRLIIG
+            FISKQYVTSLLLNEPDGTFLLRFSDSEIGGITIAHVIRGQDGSPQIENIQPFSAKDLSIR
+            SLGDRIRDLAQLKNLYPKKPKDEAFRSHYKPEQMGKDGRGYVPATIKMTVERDQPLPTPE
+            LQMPTMVPSYDLGMAPDSSMSMQLGPDMVPQVYPPHSHSIPPYQGLSPEESVNVLSAFQE
+            PHLQMPPSLGQMSLPFDQPHPQGLLPCQPQEHAVSSPDPLLCSDVTMVEDSCLSQPVTAF
+            PQGTWIGEDIFPPLLPPTEQDLTKLLLEGQGESGGGSLGAQPLLQPSHYGQSGISMSHMD
+            LRANPSW
+NTSEQ       2544
+            atgtctctgtggggtctggtctccaagatgcccccagaaaaagtgcagcggctctatgtc
+            gactttccccaacacctgcggcatcttctgggtgactggctggagagccagccctgggag
+            ttcctggtcggctccgacgccttctgctgcaacttggctagtgccctactttcagacact
+            gtccagcaccttcaggcctcggtgggagagcagggggaggggagcaccatcttgcaacac
+            atcagcacccttgagagcatatatcagagggaccccctgaagctggtggccactttcaga
+            caaatacttcaaggagagaaaaaagctgttatggaacagttccgccacttgccaatgcct
+            ttccactggaagcaggaagaactcaagtttaagacaggcttgcggaggctgcagcaccga
+            gtaggggagatccaccttctccgagaagccctgcagaagggggctgaggctggccaagtg
+            tctctgcacagcttgatagaaactcctgctaatgggactgggccaagtgaggccctggcc
+            atgctactgcaggagaccactggagagctagaggcagccaaagccctagtgctgaagagg
+            atccagatttggaaacggcagcagcagctggcagggaatggcgcaccgtttgaggagagc
+            ctggccccactccaggagaggtgtgaaagcctggtggacatttattcccagctacagcag
+            gaggtaggggcggctggtggggagcttgagcccaagacccgggcatcgctgactggccgg
+            ctggatgaagtcctgagaaccctcgtcaccagttgcttcctggtggagaagcagcccccc
+            caggtactgaagactcagaccaagttccaggctggagttcgattcctgttgggcttgagg
+            ttcctgggggccccagccaagcctccgctggtcagggccgacatggtgacagagaagcag
+            gcgcgggagctgagtgtgcctcagggtcctggggctggagcagaaagcactggagaaatc
+            atcaacaacactgtgcccttggagaacagcattcctgggaactgctgctctgccctgttc
+            aagaacctgcttctcaagaagatcaagcggtgtgagcggaagggcactgagtctgtcaca
+            gaggagaagtgcgctgtgctcttctctgccagcttcacacttggccccggcaaactcccc
+            atccagctccaggccctgtctctgcccctggtggtcatcgtccatggcaaccaagacaac
+            aatgccaaagccactatcctgtgggacaatgccttctctgagatggaccgcgtgcccttt
+            gtggtggctgagcgggtgccctgggagaagatgtgtgaaactctgaacctgaagttcatg
+            gctgaggtggggaccaaccgggggctgctcccagagcacttcctcttcctggcccagaag
+            atcttcaatgacaacagcctcagtatggaggccttccagcaccgttctgtgtcctggtcg
+            cagttcaacaaggagatcctgctgggccgtggcttcaccttttggcagtggtttgatggt
+            gtcctggacctcaccaaacgctgtctccggagctactggtctgaccggctgatcattggc
+            ttcatcagcaaacagtacgttactagccttcttctcaatgagcccgacggaacctttctc
+            ctccgcttcagcgactcagagattgggggcatcaccattgcccatgtcatccggggccag
+            gatggctctccacagatagagaacatccagccattctctgccaaagacctgtccattcgc
+            tcactgggggaccgaatccgggatcttgctcagctcaaaaatctctatcccaagaagccc
+            aaggatgaggctttccggagccactacaagcctgaacagatgggtaaggatggcaggggt
+            tatgtcccagctaccatcaagatgaccgtggaaagggaccaaccacttcctaccccagag
+            ctccagatgcctaccatggtgccttcttatgaccttggaatggcccctgattcctccatg
+            agcatgcagcttggcccagatatggtgccccaggtgtacccaccacactctcactccatc
+            cccccgtatcaaggcctctccccagaagaatcagtcaacgtgttgtcagccttccaggag
+            cctcacctgcagatgccccccagcctgggccagatgagcctgccctttgaccagcctcac
+            ccccagggcctgctgccgtgccagcctcaggagcatgctgtgtccagccctgaccccctg
+            ctctgctcagatgtgaccatggtggaagacagctgcctgagccagccagtgacagcgttt
+            cctcagggcacttggattggtgaagacatattccctcctctgctgcctcccactgaacag
+            gacctcactaagcttctcctggaggggcaaggggagtcggggggagggtccttgggggca
+            cagcccctcctgcagccctcccactatgggcaatctgggatctcaatgtcccacatggac
+            ctaagggccaaccccagttggtga
+///

@@ -1,0 +1,55 @@
+ENTRY       84274             CDS       T01001
+NAME        COQ5
+DEFINITION  (RefSeq) coenzyme Q5, methyltransferase
+ORTHOLOGY   K06127  2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.201]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00130 Ubiquinone and other terpenoid-quinone biosynthesis
+                84274 (COQ5)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.201  2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+                 84274 (COQ5)
+POSITION    12q24.31
+MOTIF       Pfam: Ubie_methyltran Methyltransf_11 Methyltransf_25 Methyltransf_31 Methyltransf_12 Methyltransf_23 Methyltransf_8 Methyltransf_20
+DBLINKS     NCBI-GeneID: 84274
+            NCBI-ProteinID: NP_115690
+            OMIM: 616359
+            HGNC: 28722
+            Ensembl: ENSG00000110871
+            Vega: OTTHUMG00000169375
+            Pharos: Q5HYK3(Tbio)
+            UniProt: Q5HYK3
+AASEQ       327
+            MAAPGSCALWSYCGRGWSRAMRGCQLLGLRSSWPGDLLSARLLSQEKRAAETHFGFETVS
+            EEEKGGKVYQVFESVAKKYDVMNDMMSLGIHRVWKDLLLWKMHPLPGTQLLDVAGGTGDI
+            AFRFLNYVQSQHQRKQKRQLRAQQNLSWEEIAKEYQNEEDSLGGSRVVVCDINKEMLKVG
+            KQKALAQGYRAGLAWVLGDAEELPFDDDKFDIYTIAFGIRNVTHIDQALQEAHRVLKPGG
+            RFLCLEFSQVNNPLISRLYDLYSFQVIPVLGEVIAGDWKSYQYLVESIRRFPSQEEFKDM
+            IEDAGFHKVTYESLTSGIVAIHSGFKL
+NTSEQ       984
+            atggcggcccccgggagctgtgctctatggagctattgcggccgtgggtggtcgcgggcg
+            atgcggggctgccagctcctcgggcttcgtagctcttggcccggggacctactaagtgct
+            cggctcttgtcccaagagaagcgggcagcggaaacgcactttgggtttgagactgtgtcg
+            gaagaggagaaggggggcaaagtctatcaggtgtttgaaagtgtggctaagaagtatgat
+            gtgatgaatgatatgatgagtcttggtatccatcgtgtttggaaggatttgctgctctgg
+            aagatgcacccgcttcctgggacccagctgcttgatgttgctggaggcacaggtgacatt
+            gcattccggttccttaattatgttcagtcccagcatcagagaaaacagaagaggcagtta
+            agggcccaacaaaatttatcctgggaagaaattgccaaagagtaccagaatgaagaagat
+            tccttgggcgggtctcgtgtcgtggtgtgtgacatcaacaaggagatgctaaaggttgga
+            aagcagaaagccttggctcaaggatacagagctggacttgcatgggtattaggagatgct
+            gaagaactgccctttgatgatgacaagtttgatatttacaccattgcctttgggatccgg
+            aatgtcacacacattgatcaggcactccaggaagctcatcgggtgctgaaaccaggagga
+            cggtttctctgtctggaatttagccaagtgaacaatcccctcatatccaggctttatgat
+            ctatatagcttccaggtcatccctgtcctgggagaggtcatcgctggagactggaagtcc
+            tatcagtaccttgtagagagtatccgaaggtttccgtctcaggaagagttcaaggacatg
+            atagaagatgcaggctttcacaaggtgacttacgaaagtctaacatcaggcattgtggcc
+            attcattctggcttcaaactttaa
+///

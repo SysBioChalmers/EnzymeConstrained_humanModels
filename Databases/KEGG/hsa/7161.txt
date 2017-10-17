@@ -1,0 +1,90 @@
+ENTRY       7161              CDS       T01001
+NAME        TP73, P73
+DEFINITION  (RefSeq) tumor protein p73
+ORTHOLOGY   K10148  tumor protein p73
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04115  p53 signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa05162  Measles
+DISEASE     H00048  Hepatocellular carcinoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                7161 (TP73)
+             Cellular Processes
+              Cell growth and death
+               04115 p53 signaling pathway
+                7161 (TP73)
+             Organismal Systems
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                7161 (TP73)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                7161 (TP73)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               p53
+                7161 (TP73)
+POSITION    1p36.32
+MOTIF       Pfam: P53 P53_tetramer SAM_2 SAM_1
+DBLINKS     NCBI-GeneID: 7161
+            NCBI-ProteinID: NP_005418
+            OMIM: 601990
+            HGNC: 12003
+            Ensembl: ENSG00000078900
+            Vega: OTTHUMG00000000610
+            Pharos: O15350(Tbio)
+            UniProt: O15350 A0A024R4C3
+STRUCTURE   PDB: 2WQI 2XWC 2WQJ 4A63 2WTT 1DXS 5KBD 3VD0 3VD1 4G82 4GUO
+                 4GUQ 4G83 3VD2 2NB1 2KBY 1COK
+AASEQ       636
+            MAQSTATSPDGGTTFEHLWSSLEPDSTYFDLPQSSRGNNEVVGGTDSSMDVFHLEGMTTS
+            VMAQFNLLSSTMDQMSSRAASASPYTPEHAASVPTHSPYAQPSSTFDTMSPAPVIPSNTD
+            YPGPHHFEVTFQQSSTAKSATWTYSPLLKKLYCQIAKTCPIQIKVSTPPPPGTAIRAMPV
+            YKKAEHVTDVVKRCPNHELGRDFNEGQSAPASHLIRVEGNNLSQYVDDPVTGRQSVVVPY
+            EPPQVGTEFTTILYNFMCNSSCVGGMNRRPILIIITLEMRDGQVLGRRSFEGRICACPGR
+            DRKADEDHYREQQALNESSAKNGAASKRAFKQSPPAVPALGAGVKKRRHGDEDTYYLQVR
+            GRENFEILMKLKESLELMELVPQPLVDSYRQQQQLLQRPSHLQPPSYGPVLSPMNKVHGG
+            MNKLPSVNQLVGQPPPHSSAATPNLGPVGPGMLNNHGHAVPANGEMSSSHSAQSMVSGSH
+            CTPPPPYHADPSLVSFLTGLGCPNCIEYFTSQGLQSIYHLQNLTIEDLGALKIPEQYRMT
+            IWRGLQDLKQGHDYSTAQQLLRSSNAATISIGGSGELQRQRVMEAVHFRVRHTITIPNRG
+            GPGGGPDEWADFGFDLPDCKARKQPIKEEFTEAEIH
+NTSEQ       1911
+            atggcccagtccaccgccacctcccctgatgggggcaccacgtttgagcacctctggagc
+            tctctggaaccagacagcacctacttcgaccttccccagtcaagccgggggaataatgag
+            gtggtgggcggaacggattccagcatggacgtcttccacctggagggcatgactacatct
+            gtcatggcccagttcaatctgctgagcagcaccatggaccagatgagcagccgcgcggcc
+            tcggccagcccctacaccccagagcacgccgccagcgtgcccacccactcgccctacgca
+            caacccagctccaccttcgacaccatgtcgccggcgcctgtcatcccctccaacaccgac
+            taccccggaccccaccactttgaggtcactttccagcagtccagcacggccaagtcagcc
+            acctggacgtactccccgctcttgaagaaactctactgccagatcgccaagacatgcccc
+            atccagatcaaggtgtccaccccgccacccccaggcaccgccatccgggccatgcctgtt
+            tacaagaaagcggagcacgtgaccgacgtcgtgaaacgctgccccaaccacgagctcggg
+            agggacttcaacgaaggacagtctgctccagccagccacctcatccgcgtggaaggcaat
+            aatctctcgcagtatgtggatgaccctgtcaccggcaggcagagcgtcgtggtgccctat
+            gagccaccacaggtggggacggaattcaccaccatcctgtacaacttcatgtgtaacagc
+            agctgtgtagggggcatgaaccggcggcccatcctcatcatcatcaccctggagatgcgg
+            gatgggcaggtgctgggccgccggtcctttgagggccgcatctgcgcctgtcctggccgc
+            gaccgaaaagctgatgaggaccactaccgggagcagcaggccctgaacgagagctccgcc
+            aagaacggggccgccagcaagcgtgccttcaagcagagcccccctgccgtccccgccctt
+            ggtgccggtgtgaagaagcggcggcatggagacgaggacacgtactaccttcaggtgcga
+            ggccgggagaactttgagatcctgatgaagctgaaagagagcctggagctgatggagttg
+            gtgccgcagccactggtggactcctatcggcagcagcagcagctcctacagaggccgagt
+            cacctacagcccccgtcctacgggccggtcctctcgcccatgaacaaggtgcacgggggc
+            atgaacaagctgccctccgtcaaccagctggtgggccagcctcccccgcacagttcggca
+            gctacacccaacctggggcccgtgggccccgggatgctcaacaaccatggccacgcagtg
+            ccagccaacggcgagatgagcagcagccacagcgcccagtccatggtctcggggtcccac
+            tgcactccgccacccccctaccacgccgaccccagcctcgtcagttttttaacaggattg
+            gggtgtccaaactgcatcgagtatttcacctcccaagggttacagagcatttaccacctg
+            cagaacctgaccattgaggacctgggggccctgaagatccccgagcagtaccgcatgacc
+            atctggcggggcctgcaggacctgaagcagggccacgactacagcaccgcgcagcagctg
+            ctccgctctagcaacgcggccaccatctccatcggcggctcaggggaactgcagcgccag
+            cgggtcatggaggccgtgcacttccgcgtgcgccacaccatcaccatccccaaccgcggc
+            ggcccaggcggcggccctgacgagtgggcggacttcggcttcgacctgcccgactgcaag
+            gcccgcaagcagcccatcaaggaggagttcacggaggccgagatccactga
+///

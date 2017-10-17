@@ -1,0 +1,80 @@
+ENTRY       5223              CDS       T01001
+NAME        PGAM1, HEL-S-35, PGAM-B, PGAMA
+DEFINITION  (RefSeq) phosphoglycerate mutase 1
+ORTHOLOGY   K01834  2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa04922  Glucagon signaling pathway
+            hsa05230  Central carbon metabolism in cancer
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                5223 (PGAM1)
+               01230 Biosynthesis of amino acids
+                5223 (PGAM1)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                5223 (PGAM1)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                5223 (PGAM1)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                5223 (PGAM1)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                5223 (PGAM1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.11  phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+                 5223 (PGAM1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of bladder cancer cells
+               5223 (PGAM1)
+              Exosomal proteins of melanoma cells
+               5223 (PGAM1)
+POSITION    10q24.1
+MOTIF       Pfam: His_Phos_1
+DBLINKS     NCBI-GeneID: 5223
+            NCBI-ProteinID: NP_002620
+            OMIM: 172250
+            HGNC: 8888
+            Ensembl: ENSG00000171314
+            Vega: OTTHUMG00000018846
+            Pharos: P18669(Tbio)
+            UniProt: P18669 Q6FHU2
+STRUCTURE   PDB: 4GPZ 4GPI 1YFK 1YJX
+AASEQ       254
+            MAAYKLVLIRHGESAWNLENRFSGWYDADLSPAGHEEAKRGGQALRDAGYEFDICFTSVQ
+            KRAIRTLWTVLDAIDQMWLPVVRTWRLNERHYGGLTGLNKAETAAKHGEAQVKIWRRSYD
+            VPPPPMEPDHPFYSNISKDRRYADLTEDQLPSCESLKDTIARALPFWNEEIVPQIKEGKR
+            VLIAAHGNSLRGIVKHLEGLSEEAIMELNLPTGIPIVYELDKNLKPIKPMQFLGDEETVR
+            KAMEAVAAQGKAKK
+NTSEQ       765
+            atggccgcctacaaactggtgctgatccggcacggcgagagcgcatggaacctggagaac
+            cgcttcagcggctggtacgacgccgacctgagcccggcgggccacgaggaggcgaagcgc
+            ggcgggcaggcgctacgagatgctggctatgagtttgacatctgcttcacctcagtgcag
+            aagagagcgatccggaccctctggacagtgctagatgccattgatcagatgtggctgcca
+            gtggtgaggacttggcgcctcaatgagcggcactatgggggtctaaccggtctcaataaa
+            gcagaaactgctgcaaagcatggtgaggcccaggtgaagatctggaggcgctcctatgat
+            gtcccaccacctccgatggagcccgaccatcctttctacagcaacatcagtaaggatcgc
+            aggtatgcagacctcacagaagatcagctaccctcctgtgagagtctgaaggatactatt
+            gccagagctctgcccttctggaatgaagaaatagttccccagatcaaggaggggaaacgt
+            gtactgattgcagcccatggcaacagcctccggggcattgtcaagcatctggagggtctc
+            tctgaagaggctatcatggagctgaacctgccgactggtattcccattgtctatgaattg
+            gacaagaacttgaagcctatcaagcccatgcagtttctgggggatgaagagacggtgcgc
+            aaagccatggaagctgtggctgcccagggcaaggccaagaagtga
+///

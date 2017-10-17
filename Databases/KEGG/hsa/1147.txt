@@ -1,0 +1,216 @@
+ENTRY       1147              CDS       T01001
+NAME        CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16
+DEFINITION  (RefSeq) conserved helix-loop-helix ubiquitous kinase
+ORTHOLOGY   K04467  inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01523  Antifolate resistance
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05131  Shigellosis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05212  Pancreatic cancer
+            hsa05215  Prostate cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00882  Cocoon syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                1147 (CHUK)
+               04010 MAPK signaling pathway
+                1147 (CHUK)
+               04064 NF-kappa B signaling pathway
+                1147 (CHUK)
+               04668 TNF signaling pathway
+                1147 (CHUK)
+               04068 FoxO signaling pathway
+                1147 (CHUK)
+               04151 PI3K-Akt signaling pathway
+                1147 (CHUK)
+               04150 mTOR signaling pathway
+                1147 (CHUK)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                1147 (CHUK)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                1147 (CHUK)
+               04621 NOD-like receptor signaling pathway
+                1147 (CHUK)
+               04622 RIG-I-like receptor signaling pathway
+                1147 (CHUK)
+               04623 Cytosolic DNA-sensing pathway
+                1147 (CHUK)
+               04660 T cell receptor signaling pathway
+                1147 (CHUK)
+               04658 Th1 and Th2 cell differentiation
+                1147 (CHUK)
+               04659 Th17 cell differentiation
+                1147 (CHUK)
+               04657 IL-17 signaling pathway
+                1147 (CHUK)
+               04662 B cell receptor signaling pathway
+                1147 (CHUK)
+               04062 Chemokine signaling pathway
+                1147 (CHUK)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                1147 (CHUK)
+              Development
+               04380 Osteoclast differentiation
+                1147 (CHUK)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1147 (CHUK)
+               05212 Pancreatic cancer
+                1147 (CHUK)
+               05221 Acute myeloid leukemia
+                1147 (CHUK)
+               05220 Chronic myeloid leukemia
+                1147 (CHUK)
+               05215 Prostate cancer
+                1147 (CHUK)
+               05222 Small cell lung cancer
+                1147 (CHUK)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                1147 (CHUK)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                1147 (CHUK)
+               05131 Shigellosis
+                1147 (CHUK)
+               05166 HTLV-I infection
+                1147 (CHUK)
+               05162 Measles
+                1147 (CHUK)
+               05161 Hepatitis B
+                1147 (CHUK)
+               05160 Hepatitis C
+                1147 (CHUK)
+               05168 Herpes simplex infection
+                1147 (CHUK)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                1147 (CHUK)
+               05169 Epstein-Barr virus infection
+                1147 (CHUK)
+               05165 Human papillomavirus infection
+                1147 (CHUK)
+               05145 Toxoplasmosis
+                1147 (CHUK)
+               05142 Chagas disease (American trypanosomiasis)
+                1147 (CHUK)
+              Drug resistance
+               01523 Antifolate resistance
+                1147 (CHUK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.10  IkappaB kinase
+                 1147 (CHUK)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Other group
+              IKK family [OT]
+               1147 (CHUK)
+POSITION    10q24.31
+MOTIF       Pfam: Pkinase Pkinase_Tyr IKKbetaNEMObind Kdo AviRa
+DBLINKS     NCBI-GeneID: 1147
+            NCBI-ProteinID: NP_001269
+            OMIM: 600664
+            HGNC: 1974
+            Ensembl: ENSG00000213341
+            Vega: OTTHUMG00000018899
+            Pharos: O15111(Tchem)
+            UniProt: O15111
+STRUCTURE   PDB: 5EBZ 5TQY 5TQX 5TQW
+AASEQ       745
+            MERPPGLRPGAGGPWEMRERLGTGGFGNVCLYQHRELDLKIAIKSCRLELSTKNRERWCH
+            EIQIMKKLNHANVVKACDVPEELNILIHDVPLLAMEYCSGGDLRKLLNKPENCCGLKESQ
+            ILSLLSDIGSGIRYLHENKIIHRDLKPENIVLQDVGGKIIHKIIDLGYAKDVDQGSLCTS
+            FVGTLQYLAPELFENKPYTATVDYWSFGTMVFECIAGYRPFLHHLQPFTWHEKIKKKDPK
+            CIFACEEMSGEVRFSSHLPQPNSLCSLVVEPMENWLQLMLNWDPQQRGGPVDLTLKQPRC
+            FVLMDHILNLKIVHILNMTSAKIISFLLPPDESLHSLQSRIERETGINTGSQELLSETGI
+            SLDPRKPASQCVLDGVRGCDSYMVYLFDKSKTVYEGPFASRSLSDCVNYIVQDSKIQLPI
+            IQLRKVWAEAVHYVSGLKEDYSRLFQGQRAAMLSLLRYNANLTKMKNTLISASQQLKAKL
+            EFFHKSIQLDLERYSEQMTYGISSEKMLKAWKEMEEKAIHYAEVGVIGYLEDQIMSLHAE
+            IMELQKSPYGRRQGDLMESLEQRAIDLYKQLKHRPSDHSYSDSTEMVKIIVHTVQSQDRV
+            LKELFGHLSKLLGCKQKIIDLLPKVEVALSNIKEADNTVMFMQGKRQKEIWHLLKIACTQ
+            SSARSLVGSSLEGAVTPQTSAWLPPTSAEHDHSLSCVVTPQDGETSAQMIEENLNCLGHL
+            STIIHEANEEQGNSMMNLDWSWLTE
+NTSEQ       2238
+            atggagcggcccccggggctgcggccgggcgcgggcgggccctgggagatgcgggagcgg
+            ctgggcaccggcggcttcgggaacgtctgtctgtaccagcatcgggaacttgatctcaaa
+            atagcaattaagtcttgtcgcctagagctaagtaccaaaaacagagaacgatggtgccat
+            gaaatccagattatgaagaagttgaaccatgccaatgttgtaaaggcctgtgatgttcct
+            gaagaattgaatattttgattcatgatgtgcctcttctagcaatggaatactgttctgga
+            ggagatctccgaaagctgctcaacaaaccagaaaattgttgtggacttaaagaaagccag
+            atactttctttactaagtgatatagggtctgggattcgatatttgcatgaaaacaaaatt
+            atacatcgagatctaaaacctgaaaacatagttcttcaggatgttggtggaaagataata
+            cataaaataattgatctgggatatgccaaagatgttgatcaaggaagtctgtgtacatct
+            tttgtgggaacactgcagtatctggccccagagctctttgagaataagccttacacagcc
+            actgttgattattggagctttgggaccatggtatttgaatgtattgctggatataggcct
+            tttttgcatcatctgcagccatttacctggcatgagaagattaagaagaaggatccaaag
+            tgtatatttgcatgtgaagagatgtcaggagaagttcggtttagtagccatttacctcaa
+            ccaaatagcctttgtagtttagtagtagaacccatggaaaactggctacagttgatgttg
+            aattgggaccctcagcagagaggaggacctgttgaccttactttgaagcagccaagatgt
+            tttgtattaatggatcacattttgaatttgaagatagtacacatcctaaatatgacttct
+            gcaaagataatttcttttctgttaccacctgatgaaagtcttcattcactacagtctcgt
+            attgagcgtgaaactggaataaatactggttctcaagaacttctttcagagacaggaatt
+            tctctggatcctcggaaaccagcctctcaatgtgttctagatggagttagaggctgtgat
+            agctatatggtttatttgtttgataaaagtaaaactgtatatgaagggccatttgcttcc
+            agaagtttatctgattgtgtaaattatattgtacaggacagcaaaatacagcttccaatt
+            atacagctgcgtaaagtgtgggctgaagcagtgcactatgtgtctggactaaaagaagac
+            tatagcaggctctttcagggacaaagggcagcaatgttaagtcttcttagatataatgct
+            aacttaacaaaaatgaagaacactttgatctcagcatcacaacaactgaaagctaaattg
+            gagttttttcacaaaagcattcagcttgacttggagagatacagcgagcagatgacgtat
+            gggatatcttcagaaaaaatgctaaaagcatggaaagaaatggaagaaaaggccatccac
+            tatgctgaggttggtgtcattggatacctggaggatcagattatgtctttgcatgctgaa
+            atcatggagctacagaagagcccctatggaagacgtcagggagacttgatggaatctctg
+            gaacagcgtgccattgatctatataagcagttaaaacacagaccttcagatcactcctac
+            agtgacagcacagagatggtgaaaatcattgtgcacactgtgcagagtcaggaccgtgtg
+            ctcaaggagctgtttggtcatttgagcaagttgttgggctgtaagcagaagattattgat
+            ctactccctaaggtggaagtggccctcagtaatatcaaagaagctgacaatactgtcatg
+            ttcatgcagggaaaaaggcagaaagaaatatggcatctccttaaaattgcctgtacacag
+            agttctgcccggtcccttgtaggatccagtctagaaggtgcagtaacccctcagacatca
+            gcatggctgcccccgacttcagcagaacatgatcattctctgtcatgtgtggtaactcct
+            caagatggggagacttcagcacaaatgatagaagaaaatttgaactgccttggccattta
+            agcactattattcatgaggcaaatgaggaacagggcaatagtatgatgaatcttgattgg
+            agttggttaacagaatga
+///

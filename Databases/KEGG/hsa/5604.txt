@@ -1,0 +1,303 @@
+ENTRY       5604              CDS       T01001
+NAME        MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1
+DEFINITION  (RefSeq) mitogen-activated protein kinase kinase 1
+ORTHOLOGY   K04368  mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04218  Cellular senescence
+            hsa04270  Vascular smooth muscle contraction
+            hsa04370  VEGF signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04510  Focal adhesion
+            hsa04540  Gap junction
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04668  TNF signaling pathway
+            hsa04720  Long-term potentiation
+            hsa04722  Neurotrophin signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04730  Long-term depression
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04917  Prolactin signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05020  Prion diseases
+            hsa05034  Alcoholism
+            hsa05161  Hepatitis B
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05210  Colorectal cancer
+            hsa05211  Renal cell carcinoma
+            hsa05212  Pancreatic cancer
+            hsa05213  Endometrial cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05216  Thyroid cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05230  Central carbon metabolism in cancer
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00687  MAPK (ERK1/2) signaling
+DISEASE     H00523  Noonan syndrome and related disorders
+            H01512  Langerhans cell histiocytosis
+DRUG_TARGET Binimetinib: D10604
+            Cobimetinib (DG01825): D10405 D10615
+            Pimasertib (DG01410): D10426 D10486
+            Selumetinib (DG01414): D09666 D10024
+            Trametinib (DG00723): D10175 D10176
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5604 (MAP2K1)
+               04015 Rap1 signaling pathway
+                5604 (MAP2K1)
+               04010 MAPK signaling pathway
+                5604 (MAP2K1)
+               04012 ErbB signaling pathway
+                5604 (MAP2K1)
+               04370 VEGF signaling pathway
+                5604 (MAP2K1)
+               04371 Apelin signaling pathway
+                5604 (MAP2K1)
+               04668 TNF signaling pathway
+                5604 (MAP2K1)
+               04066 HIF-1 signaling pathway
+                5604 (MAP2K1)
+               04068 FoxO signaling pathway
+                5604 (MAP2K1)
+               04072 Phospholipase D signaling pathway
+                5604 (MAP2K1)
+               04071 Sphingolipid signaling pathway
+                5604 (MAP2K1)
+               04024 cAMP signaling pathway
+                5604 (MAP2K1)
+               04022 cGMP - PKG signaling pathway
+                5604 (MAP2K1)
+               04151 PI3K-Akt signaling pathway
+                5604 (MAP2K1)
+               04150 mTOR signaling pathway
+                5604 (MAP2K1)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                5604 (MAP2K1)
+              Cell growth and death
+               04114 Oocyte meiosis
+                5604 (MAP2K1)
+               04210 Apoptosis
+                5604 (MAP2K1)
+               04218 Cellular senescence
+                5604 (MAP2K1)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5604 (MAP2K1)
+               04540 Gap junction
+                5604 (MAP2K1)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                5604 (MAP2K1)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5604 (MAP2K1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                5604 (MAP2K1)
+               04650 Natural killer cell mediated cytotoxicity
+                5604 (MAP2K1)
+               04660 T cell receptor signaling pathway
+                5604 (MAP2K1)
+               04662 B cell receptor signaling pathway
+                5604 (MAP2K1)
+               04664 Fc epsilon RI signaling pathway
+                5604 (MAP2K1)
+               04666 Fc gamma R-mediated phagocytosis
+                5604 (MAP2K1)
+               04062 Chemokine signaling pathway
+                5604 (MAP2K1)
+              Endocrine system
+               04910 Insulin signaling pathway
+                5604 (MAP2K1)
+               04912 GnRH signaling pathway
+                5604 (MAP2K1)
+               04915 Estrogen signaling pathway
+                5604 (MAP2K1)
+               04914 Progesterone-mediated oocyte maturation
+                5604 (MAP2K1)
+               04917 Prolactin signaling pathway
+                5604 (MAP2K1)
+               04921 Oxytocin signaling pathway
+                5604 (MAP2K1)
+               04926 Relaxin signaling pathway
+                5604 (MAP2K1)
+               04919 Thyroid hormone signaling pathway
+                5604 (MAP2K1)
+               04916 Melanogenesis
+                5604 (MAP2K1)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                5604 (MAP2K1)
+              Nervous system
+               04725 Cholinergic synapse
+                5604 (MAP2K1)
+               04726 Serotonergic synapse
+                5604 (MAP2K1)
+               04720 Long-term potentiation
+                5604 (MAP2K1)
+               04730 Long-term depression
+                5604 (MAP2K1)
+               04722 Neurotrophin signaling pathway
+                5604 (MAP2K1)
+              Development
+               04380 Osteoclast differentiation
+                5604 (MAP2K1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5604 (MAP2K1)
+               05230 Central carbon metabolism in cancer
+                5604 (MAP2K1)
+               05231 Choline metabolism in cancer
+                5604 (MAP2K1)
+               05206 MicroRNAs in cancer
+                5604 (MAP2K1)
+               05205 Proteoglycans in cancer
+                5604 (MAP2K1)
+               05210 Colorectal cancer
+                5604 (MAP2K1)
+               05212 Pancreatic cancer
+                5604 (MAP2K1)
+               05214 Glioma
+                5604 (MAP2K1)
+               05216 Thyroid cancer
+                5604 (MAP2K1)
+               05221 Acute myeloid leukemia
+                5604 (MAP2K1)
+               05220 Chronic myeloid leukemia
+                5604 (MAP2K1)
+               05218 Melanoma
+                5604 (MAP2K1)
+               05211 Renal cell carcinoma
+                5604 (MAP2K1)
+               05219 Bladder cancer
+                5604 (MAP2K1)
+               05215 Prostate cancer
+                5604 (MAP2K1)
+               05213 Endometrial cancer
+                5604 (MAP2K1)
+               05224 Breast cancer
+                5604 (MAP2K1)
+               05223 Non-small cell lung cancer
+                5604 (MAP2K1)
+              Neurodegenerative diseases
+               05020 Prion diseases
+                5604 (MAP2K1)
+              Substance dependence
+               05034 Alcoholism
+                5604 (MAP2K1)
+              Infectious diseases
+               05164 Influenza A
+                5604 (MAP2K1)
+               05161 Hepatitis B
+                5604 (MAP2K1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5604 (MAP2K1)
+               05165 Human papillomavirus infection
+                5604 (MAP2K1)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                5604 (MAP2K1)
+               01522 Endocrine resistance
+                5604 (MAP2K1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.2  mitogen-activated protein kinase kinase
+                 5604 (MAP2K1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: STE group
+              STE7 family
+               5604 (MAP2K1)
+POSITION    15q22.31
+MOTIF       Pfam: Pkinase Pkinase_Tyr Haspin_kinase Seadorna_VP7 Kinase-like DUF3216 NAD_binding_6
+DBLINKS     NCBI-GeneID: 5604
+            NCBI-ProteinID: NP_002746
+            OMIM: 176872
+            HGNC: 6840
+            Ensembl: ENSG00000169032
+            Vega: OTTHUMG00000133196
+            Pharos: Q02750(Tclin)
+            UniProt: Q02750 A4QPA9
+STRUCTURE   PDB: 3EQC 3EQI 3VVH 3EQH 4AN3 3EQD 3ZLY 3ZLW 3W8Q 3ZLX 4ANB
+                 3SLS 3DV3 3ZM4 5HZE 1S9J 3ZLS 4AN2 3EQG 3E8N 4ARK 3MBL
+                 3EQB 5EYM 4U81 3WIG 3V04 3PP1 3EQF 3DY7 3V01 4U80 4LMN
+                 4AN9 3OS3 3ORN 2P55 4U7Z 4MNE 5BX0
+AASEQ       393
+            MPKKKPTPIQLNPAPDGSAVNGTSSAETNLEALQKKLEELELDEQQRKRLEAFLTQKQKV
+            GELKDDDFEKISELGAGNGGVVFKVSHKPSGLVMARKLIHLEIKPAIRNQIIRELQVLHE
+            CNSPYIVGFYGAFYSDGEISICMEHMDGGSLDQVLKKAGRIPEQILGKVSIAVIKGLTYL
+            REKHKIMHRDVKPSNILVNSRGEIKLCDFGVSGQLIDSMANSFVGTRSYMSPERLQGTHY
+            SVQSDIWSMGLSLVEMAVGRYPIPPPDAKELELMFGCQVEGDAAETPPRPRTPGRPLSSY
+            GMDSRPPMAIFELLDYIVNEPPPKLPSGVFSLEFQDFVNKCLIKNPAERADLKQLMVHAF
+            IKRSDAEEVDFAGWLCSTIGLNQPSTPTHAAGV
+NTSEQ       1182
+            atgcccaagaagaagccgacgcccatccagctgaacccggcccccgacggctctgcagtt
+            aacgggaccagctctgcggagaccaacttggaggccttgcagaagaagctggaggagcta
+            gagcttgatgagcagcagcgaaagcgccttgaggcctttcttacccagaagcagaaggtg
+            ggagaactgaaggatgacgactttgagaagatcagtgagctgggggctggcaatggcggt
+            gtggtgttcaaggtctcccacaagccttctggcctggtcatggccagaaagctaattcat
+            ctggagatcaaacccgcaatccggaaccagatcataagggagctgcaggttctgcatgag
+            tgcaactctccgtacatcgtgggcttctatggtgcgttctacagcgatggcgagatcagt
+            atctgcatggagcacatggatggaggttctctggatcaagtcctgaagaaagctggaaga
+            attcctgaacaaattttaggaaaagttagcattgctgtaataaaaggcctgacatatctg
+            agggagaagcacaagatcatgcacagagatgtcaagccctccaacatcctagtcaactcc
+            cgtggggagatcaagctctgtgactttggggtcagcgggcagctcatcgactccatggcc
+            aactccttcgtgggcacaaggtcctacatgtcgccagaaagactccaggggactcattac
+            tctgtgcagtcagacatctggagcatgggactgtctctggtagagatggcggttgggagg
+            tatcccatccctcctccagatgccaaggagctggagctgatgtttgggtgccaggtggaa
+            ggagatgcggctgagaccccacccaggccaaggacccccgggaggccccttagctcatac
+            ggaatggacagccgacctcccatggcaatttttgagttgttggattacatagtcaacgag
+            cctcctccaaaactgcccagtggagtgttcagtctggaatttcaagattttgtgaataaa
+            tgcttaataaaaaaccccgcagagagagcagatttgaagcaactcatggttcatgctttt
+            atcaagagatctgatgctgaggaagtggattttgcaggttggctctgctccaccatcggc
+            cttaaccagcccagcacaccaacccatgctgctggcgtctaa
+///

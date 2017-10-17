@@ -1,0 +1,133 @@
+ENTRY       3106              CDS       T01001
+NAME        HLA-B, AS, B-4901, HLAB
+DEFINITION  (RefSeq) major histocompatibility complex, class I, B
+ORTHOLOGY   K06751  major histocompatibility complex, class I
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04145  Phagosome
+            hsa04218  Cellular senescence
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04940  Type I diabetes mellitus
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+            hsa05320  Autoimmune thyroid disease
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+DISEASE     H00344  Leprosy
+            H01476  Behcet Disease
+            H01507  Seronegative arthritis (SpA)
+            H01674  Ankylosing spondylitis
+            H01694  Stevens-Johnson syndrome and toxic epidermal necrolysis
+            H01713  Diffuse panbronchiolitis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3106 (HLA-B)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                3106 (HLA-B)
+               04145 Phagosome
+                3106 (HLA-B)
+              Cell growth and death
+               04218 Cellular senescence
+                3106 (HLA-B)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3106 (HLA-B)
+               04612 Antigen processing and presentation
+                3106 (HLA-B)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                3106 (HLA-B)
+              Immune diseases
+               05320 Autoimmune thyroid disease
+                3106 (HLA-B)
+               05330 Allograft rejection
+                3106 (HLA-B)
+               05332 Graft-versus-host disease
+                3106 (HLA-B)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3106 (HLA-B)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3106 (HLA-B)
+              Infectious diseases
+               05166 HTLV-I infection
+                3106 (HLA-B)
+               05168 Herpes simplex infection
+                3106 (HLA-B)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3106 (HLA-B)
+               05169 Epstein-Barr virus infection
+                3106 (HLA-B)
+               05165 Human papillomavirus infection
+                3106 (HLA-B)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               3106 (HLA-B)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               Others
+                CD8A; CD8A antigen, alpha polypeptide [KO:K06458]
+                 3106 (HLA-B)
+                CD8B; CD8B antigen, beta polypeptide 1 [KO:K06459]
+                 3106 (HLA-B)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Antigens
+              3106 (HLA-B)
+POSITION    6p21.33
+MOTIF       Pfam: MHC_I C1-set MHC_I_C C2-set_2 ig
+DBLINKS     NCBI-GeneID: 3106
+            NCBI-ProteinID: NP_005505
+            OMIM: 142830
+            HGNC: 4932
+            Ensembl: ENSG00000234745
+            Vega: OTTHUMG00000031153
+            Pharos: P01889(Tbio)
+            UniProt: P01889 E5FQ95
+STRUCTURE   PDB: 4U1M 3SPV 4U1J 4QRS 4QRT 4U1H 4QRU 3SKO 5EO0 4QRQ 3VCL
+                 4U1S 4U1N 3X13 3SKM 5EO1 1M05 4U1I 1AGD 4U1L 4U1K 1AGC
+                 1AGB 1AGF 1AGE 1MI5 4EN2 3FFC 4QRP 4EMZ 3SJV
+AASEQ       362
+            MLVMAPRTVLLLLSAALALTETWAGSHSMRYFYTSVSRPGRGEPRFISVGYVDDTQFVRF
+            DSDAASPREEPRAPWIEQEGPEYWDRNTQIYKAQAQTDRESLRNLRGYYNQSEAGSHTLQ
+            SMYGCDVGPDGRLLRGHDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQR
+            RAYLEGECVEWLRRYLENGKDKLERADPPKTHVTHHPISDHEATLRCWALGFYPAEITLT
+            WQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWEP
+            SSQSTVPIVGIVAGLAVLAVVVIGAVVAAVMCRRKSSGGKGGSYSQAACSDSAQGSDVSL
+            TA
+NTSEQ       1089
+            atgctggtcatggcgccccgaaccgtcctcctgctgctctcggcggccctggccctgacc
+            gagacctgggccggctcccactccatgaggtatttctacacctccgtgtcccggcccggc
+            cgcggggagccccgcttcatctcagtgggctacgtggacgacacccagttcgtgaggttc
+            gacagcgacgccgcgagtccgagagaggagccgcgggcgccgtggatagagcaggagggg
+            ccggagtattgggaccggaacacacagatctacaaggcccaggcacagactgaccgagag
+            agcctgcggaacctgcgcggctactacaaccagagcgaggccgggtctcacaccctccag
+            agcatgtacggctgcgacgtggggccggacgggcgcctcctccgcgggcatgaccagtac
+            gcctacgacggcaaggattacatcgccctgaacgaggacctgcgctcctggaccgccgcg
+            gacacggcggctcagatcacccagcgcaagtgggaggcggcccgtgaggcggagcagcgg
+            agagcctacctggagggcgagtgcgtggagtggctccgcagatacctggagaacgggaag
+            gacaagctggagcgcgctgaccccccaaagacacacgtgacccaccaccccatctctgac
+            catgaggccaccctgaggtgctgggccctgggtttctaccctgcggagatcacactgacc
+            tggcagcgggatggcgaggaccaaactcaggacactgagcttgtggagaccagaccagca
+            ggagatagaaccttccagaagtgggcagctgtggtggtgccttctggagaagagcagaga
+            tacacatgccatgtacagcatgaggggctgccgaagcccctcaccctgagatgggagccg
+            tcttcccagtccaccgtccccatcgtgggcattgttgctggcctggctgtcctagcagtt
+            gtggtcatcggagctgtggtcgctgctgtgatgtgtaggaggaagagttcaggtggaaaa
+            ggagggagctactctcaggctgcgtgcagcgacagtgcccagggctctgatgtgtctctc
+            acagcttga
+///

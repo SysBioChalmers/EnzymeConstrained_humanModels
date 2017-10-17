@@ -1,0 +1,61 @@
+ENTRY       5831              CDS       T01001
+NAME        PYCR1, ARCL2B, ARCL3B, P5C, P5CR, PIG45, PP222, PRO3, PYCR
+DEFINITION  (RefSeq) pyrroline-5-carboxylate reductase 1
+ORTHOLOGY   K00286  pyrroline-5-carboxylate reductase [EC:1.5.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00015  Proline biosynthesis, glutamate => proline
+DISEASE     H00557  Cutis laxa
+            H00558  Geroderma osteodysplasticum
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                5831 (PYCR1)
+              Amino acid metabolism
+               00330 Arginine and proline metabolism
+                5831 (PYCR1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.1  With NAD+ or NADP+ as acceptor
+                1.5.1.2  pyrroline-5-carboxylate reductase
+                 5831 (PYCR1)
+POSITION    17q25.3
+MOTIF       Pfam: P5CR_dimer F420_oxidored NAD_Gly3P_dh_N Rossmann-like ApbA
+DBLINKS     NCBI-GeneID: 5831
+            NCBI-ProteinID: NP_001269209
+            OMIM: 179035
+            HGNC: 9721
+            Ensembl: ENSG00000183010
+            Vega: OTTHUMG00000178436
+            Pharos: P32322(Tbio)
+            UniProt: P32322 A0A024R8U9
+STRUCTURE   PDB: 5UAV 5UAW 5UAX 5UAU 5UAT 2IZZ 2GR9 2GRA 2GER
+AASEQ       319
+            MSVGFIGAGQLAFALAKGFTAAGVLAAHKIMASSPDMDLATVSALRKMGVKLTPHNKETV
+            QHSDVLFLAVKPHIIPFILDEIGADIEDRHIVVSCAAGVTISSIEKKLSAFRPAPRVIRC
+            MTNTPVVVREGATVYATGTHAQVEDGRLMEQLLSSVGFCTEVEEDLIDAVTGLSGSGPAY
+            AFTALDALADGGVKMGLPRRLAVRLGAQALLGAAKMLLHSEQHPGQLKDNVSSPGGATIH
+            ALHVLESGGFRSLLINAVEASCIRTRELQSMADQEQVSPAAIKKTILDKVKLDSPAGTAL
+            SPSGHTKLLPRSLAPAGKD
+NTSEQ       960
+            atgagcgtgggcttcatcggcgctggccagctggcttttgccctggccaagggcttcaca
+            gcagcaggcgtcttggctgcccacaagataatggctagctccccagacatggacctggcc
+            acagtttctgctctcaggaagatgggggtgaagttgacaccccacaacaaggagacggtg
+            cagcacagtgatgtgctcttcctggctgtgaagccacacatcatccccttcatcctggat
+            gaaataggcgccgacattgaggacagacacattgtggtgtcctgcgcggccggcgtcacc
+            atcagctccattgagaagaagctgtcagcgtttcggccagcccccagggtcatccgctgc
+            atgaccaacactccagtcgtggtgcgggagggggccaccgtgtatgccacaggcacgcac
+            gcccaggtggaggacgggaggctcatggagcagctgctgagcagcgtgggcttctgcacg
+            gaggtggaagaggacctgattgatgccgtcacggggctcagtggcagcggccccgcctac
+            gcattcacagccctggatgccctggctgatgggggtgtgaagatgggacttccaaggcgc
+            ctggcagtccgcctcggggcccaggccctcctgggggctgccaagatgctgctgcactca
+            gaacagcacccaggccagctcaaggacaacgtcagctctcctggtggggccaccatccat
+            gccttgcatgtgctggagagtgggggcttccgctccctgctcatcaacgctgtggaggcc
+            tcctgcatccgcacacgggagctgcagtccatggctgaccaggagcaggtgtcaccagcc
+            gccatcaagaagaccatcctggacaaggtgaagctggactcccctgcagggaccgctctg
+            tcgccttctggccacaccaagctgctcccccgcagcctggccccagcgggcaaggattga
+///

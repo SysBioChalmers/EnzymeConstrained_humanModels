@@ -1,0 +1,68 @@
+ENTRY       7374              CDS       T01001
+NAME        UNG, DGU, HIGM4, HIGM5, UDG, UNG1, UNG15, UNG2
+DEFINITION  (RefSeq) uracil DNA glycosylase
+ORTHOLOGY   K03648  uracil-DNA glycosylase [EC:3.2.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+            hsa05340  Primary immunodeficiency
+DISEASE     H00086  Hyper IgM syndromes, autosomal recessive type
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                7374 (UNG)
+             Human Diseases
+              Immune diseases
+               05340 Primary immunodeficiency
+                7374 (UNG)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.27  uracil-DNA glycosylase
+                 7374 (UNG)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 7374 (UNG)
+             Prokaryotic Type
+                 7374 (UNG)
+POSITION    12q24.11
+MOTIF       Pfam: UDG Toxin_ToxA
+DBLINKS     NCBI-GeneID: 7374
+            NCBI-ProteinID: NP_550433
+            OMIM: 191525
+            HGNC: 12572
+            Ensembl: ENSG00000076248
+            Vega: OTTHUMG00000169247
+            Pharos: P13051(Tbio)
+            UniProt: P13051 E5KTA5
+STRUCTURE   PDB: 3FCI 2HXM 3TKB 1AKZ 3FCK 3FCL 1EMH 3FCF 1Q3F 1SSP 1UGH
+                 1YUO 2OYT 1EMJ 2SSP 5AYR 2OXM 4SKN 5JK7
+AASEQ       313
+            MIGQKTLYSFFSPSPARKRHAPSPEPAVQGTGVAGVPEESGDAAAIPAKKAPAGQEEPGT
+            PPSSPLSAEQLDRIQRNKAAALLRLAARNVPVGFGESWKKHLSGEFGKPYFIKLMGFVAE
+            ERKHYTVYPPPHQVFTWTQMCDIKDVKVVILGQDPYHGPNQAHGLCFSVQRPVPPPPSLE
+            NIYKELSTDIEDFVHPGHGDLSGWAKQGVLLLNAVLTVRAHQANSHKERGWEQFTDAVVS
+            WLNQNSNGLVFLLWGSYAQKKGSAIDRKRHHVLQTAHPSPLSVYRGFFGCRHFSKTNELL
+            QKSGKKPIDWKEL
+NTSEQ       942
+            atgatcggccagaagacgctctactcctttttctcccccagccccgccaggaagcgacac
+            gcccccagccccgagccggccgtccaggggaccggcgtggctggggtgcctgaggaaagc
+            ggagatgcggcggccatcccagccaagaaggccccggctgggcaggaggagcctgggacg
+            ccgccctcctcgccgctgagtgccgagcagttggaccggatccagaggaacaaggccgcg
+            gccctgctcagactcgcggcccgcaacgtgcccgtgggctttggagagagctggaagaag
+            cacctcagcggggagttcgggaaaccgtattttatcaagctaatgggatttgttgcagaa
+            gaaagaaagcattacactgtttatccacccccacaccaagtcttcacctggacccagatg
+            tgtgacataaaagatgtgaaggttgtcatcctgggacaggatccatatcatggacctaat
+            caagctcacgggctctgctttagtgttcaaaggcctgttccgcctccgcccagtttggag
+            aacatttataaagagttgtctacagacatagaggattttgttcatcctggccatggagat
+            ttatctgggtgggccaagcaaggtgttctccttctcaacgctgtcctcacggttcgtgcc
+            catcaagccaactctcataaggagcgaggctgggagcagttcactgatgcagttgtgtcc
+            tggctaaatcagaactcgaatggccttgttttcttgctctggggctcttatgctcagaag
+            aagggcagtgccattgataggaagcggcaccatgtactacagacggctcatccctcccct
+            ttgtcagtgtatagagggttctttggatgtagacacttttcaaagaccaatgagctgctg
+            cagaagtctggcaagaagcccattgactggaaggagctgtga
+///

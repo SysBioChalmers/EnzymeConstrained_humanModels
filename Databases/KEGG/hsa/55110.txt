@@ -1,0 +1,53 @@
+ENTRY       55110             CDS       T01001
+NAME        MAGOHB, MGN2, mago, magoh
+DEFINITION  (RefSeq) mago homolog B, exon junction complex core component
+ORTHOLOGY   K12877  protein mago nashi
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+MODULE      hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                55110 (MAGOHB)
+              Translation
+               03013 RNA transport
+                55110 (MAGOHB)
+               03015 mRNA surveillance pathway
+                55110 (MAGOHB)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 55110 (MAGOHB)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                55110 (MAGOHB)
+POSITION    12p13.2
+MOTIF       Pfam: Mago_nashi
+DBLINKS     NCBI-GeneID: 55110
+            NCBI-ProteinID: NP_060518
+            HGNC: 25504
+            Ensembl: ENSG00000111196
+            Vega: OTTHUMG00000168407
+            Pharos: Q96A72(Tdark)
+            UniProt: Q96A72 A0A023T6R1
+AASEQ       148
+            MAVASDFYLRYYVGHKGKFGHEFLEFEFRPDGKLRYANNSNYKNDVMIRKEAYVHKSVME
+            ELKRIIDDSEITKEDDALWPPPDRVGRQELEIVIGDEHISFTTSKIGSLIDVNQSKDPEG
+            LRVFYYLVQDLKCLVFSLIGLHFKIKPI
+NTSEQ       447
+            atggctgtggctagcgatttctacctgcgctactacgtagggcacaagggcaagtttggg
+            cacgagtttctggagttcgaatttcggccggacggaaagcttagatatgccaacaacagc
+            aattacaaaaatgatgtcatgatcagaaaagaggcttatgtgcacaagagtgtaatggaa
+            gaactgaagagaattattgatgacagtgaaattacaaaagaagatgatgctttgtggcct
+            ccccctgatagggttggccgacaggagcttgaaattgtaattggagatgagcacatatct
+            tttaccacatcaaaaataggttctcttattgatgtaaatcagtcaaaggatcctgaaggc
+            cttcgagtattttactatttggtacaagacttgaaatgtttagttttcagtcttattgga
+            ttacacttcaagattaaaccaatttaa
+///

@@ -1,0 +1,81 @@
+ENTRY       9132              CDS       T01001
+NAME        KCNQ4, DFNA2, DFNA2A, KV7.4
+DEFINITION  (RefSeq) potassium voltage-gated channel subfamily Q member 4
+ORTHOLOGY   K04929  potassium voltage-gated channel KQT-like subfamily member 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04725  Cholinergic synapse
+DISEASE     H00604  Deafness, autosomal dominant
+            H01705  Bilateral sudden sensorineural hearing loss
+DRUG_TARGET Flindokalner: D04192
+            Linopirdine: D04741
+            Retigabine: D09569
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04725 Cholinergic synapse
+                9132 (KCNQ4)
+            Ion channels [BR:hsa04040]
+             Voltage-gated cation channels
+              K+ channel, KCNQ, Kv7.x (KQT-like)
+               9132 (KCNQ4)
+POSITION    1p34.2
+MOTIF       Pfam: KCNQ_channel Ion_trans Ion_trans_2 PKD_channel
+DBLINKS     NCBI-GeneID: 9132
+            NCBI-ProteinID: NP_004691
+            OMIM: 603537
+            HGNC: 6298
+            Ensembl: ENSG00000117013
+            Vega: OTTHUMG00000007730
+            Pharos: P56696(Tclin)
+            UniProt: P56696 B3KQH8
+STRUCTURE   PDB: 2OVC 4GOW
+AASEQ       695
+            MAEAPPRRLGLGPPPGDAPRAELVALTAVQSEQGEAGGGGSPRRLGLLGSPLPPGAPLPG
+            PGSGSGSACGQRSSAAHKRYRRLQNWVYNVLERPRGWAFVYHVFIFLLVFSCLVLSVLST
+            IQEHQELANECLLILEFVMIVVFGLEYIVRVWSAGCCCRYRGWQGRFRFARKPFCVIDFI
+            VFVASVAVIAAGTQGNIFATSALRSMRFLQILRMVRMDRRGGTWKLLGSVVYAHSKELIT
+            AWYIGFLVLIFASFLVYLAEKDANSDFSSYADSLWWGTITLTTIGYGDKTPHTWLGRVLA
+            AGFALLGISFFALPAGILGSGFALKVQEQHRQKHFEKRRMPAANLIQAAWRLYSTDMSRA
+            YLTATWYYYDSILPSFRELALLFEHVQRARNGGLRPLEVRRAPVPDGAPSRYPPVATCHR
+            PGSTSFCPGESSRMGIKDRIRMGSSQRRTGPSKQHLAPPTMPTSPSSEQVGEATSPTKVQ
+            KSWSFNDRTRFRASLRLKPRTSAEDAPSEEVAEEKSYQCELTVDDIMPAVKTVIRSIRIL
+            KFLVAKRKFKETLRPYDVKDVIEQYSAGHLDMLGRIKSLQTRVDQIVGRGPGDRKAREKG
+            DKGPSDAEVVDEISMMGRVVKVEKQVQSIEHKLDLLLGFYSRCLRSGTSASLGAVQVPLF
+            DPDITSDYHSPVDHEDISVSAQTLSISRSVSTNMD
+NTSEQ       2088
+            atggccgaggcccccccgcgccgcctcggcctgggtcccccgcccggggacgccccccgc
+            gcggagctagtggcgctcacggccgtgcagagcgaacagggcgaggcgggcgggggcggc
+            tccccgcgccgcctcggcctcctgggcagccccctgccgccgggcgcgcccctccctggg
+            ccgggctccggctcgggctccgcctgcggccagcgctcctcggccgcgcacaagcgctac
+            cgccgcctgcagaactgggtctacaacgtgctggagcggccccgcggctgggccttcgtc
+            taccacgtcttcatatttttgctggtcttcagctgcctggtgctgtctgtgctgtccact
+            atccaggagcaccaggaacttgccaacgagtgtctcctcatcttggaattcgtgatgatc
+            gtggttttcggcttggagtacatcgtccgggtctggtccgccggatgctgctgccgctac
+            cgaggatggcagggtcgcttccgctttgccagaaagcccttctgtgtcatcgacttcatc
+            gtgttcgtggcctcggtggccgtcatcgccgcgggtacccagggcaacatcttcgccacg
+            tccgcgctgcgcagcatgcgcttcctgcagatcctgcgcatggtgcgcatggaccgccgc
+            ggcggcacctggaagctgctgggctcagtggtctacgcgcatagcaaggagctgatcacc
+            gcctggtacatcgggttcctggtgctcatcttcgcctccttcctggtctacctggctgag
+            aaggacgccaactccgacttctcctcctacgccgactcgctctggtgggggacgattaca
+            ttgacaaccatcggctatggtgacaagacaccgcacacatggctgggcagggtcctggct
+            gctggcttcgccttactgggcatctctttctttgccctgcctgccggcatcctaggctcc
+            ggctttgccctgaaggtccaggagcagcaccggcagaagcacttcgagaagcggaggatg
+            ccggcagccaacctcatccaggctgcctggcgcctgtactccaccgatatgagccgggcc
+            tacctgacagccacctggtactactatgacagtatcctcccatccttcagagagctggcc
+            ctcttgtttgagcacgtgcaacgggcccgcaatgggggcctacggcccctggaggtgcgg
+            cgggcgccggtacccgacggagcaccctcccgttacccgcccgttgccacctgccaccgg
+            ccgggcagcacctccttctgccctggggaaagcagccggatgggcatcaaagaccgcatc
+            cgcatgggcagctcccagcggcggacgggtccttccaagcagcatctggcacctccaaca
+            atgcccacctccccaagcagcgagcaggtgggtgaggccaccagccccaccaaggtgcaa
+            aagagctggagcttcaatgaccgcacccgcttccgggcatctctgagactcaaaccccgc
+            acctctgctgaggatgccccctcagaggaagtagcagaggagaagagctaccagtgtgag
+            ctcacggtggacgacatcatgcctgctgtgaagacagtcatccgctccatcaggattctc
+            aagttcctggtggccaaaaggaaattcaaggagacactgcgaccgtacgacgtgaaggac
+            gtcattgagcagtactcagcaggccacctggacatgctgggccggatcaagagcctgcaa
+            actcgggtggaccaaattgtgggtcgggggcccggggacaggaaggcccgggagaagggc
+            gacaaggggccctccgacgcggaggtggtggatgaaatcagcatgatgggacgcgtggtc
+            aaggtggagaagcaggtgcagtccatcgagcacaagctggacctgctgttgggcttctat
+            tcgcgctgcctgcgctctggcacctcggccagcctgggcgccgtgcaagtgccgctgttc
+            gaccccgacatcacctccgactaccacagccctgtggaccacgaggacatctccgtctcc
+            gcacagacgctcagcatctcccgctcggtcagcaccaacatggactga
+///

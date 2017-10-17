@@ -1,0 +1,96 @@
+ENTRY       3295              CDS       T01001
+NAME        HSD17B4, DBP, MFE-2, MPF-2, PRLTS1, SDR8C1
+DEFINITION  (RefSeq) hydroxysteroid 17-beta dehydrogenase 4
+ORTHOLOGY   K12405  3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2 [EC:1.1.1.35 4.2.1.107 4.2.1.119]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+DISEASE     H00407  Peroxisomal beta-oxidation enzyme deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                3295 (HSD17B4)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                3295 (HSD17B4)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.35  3-hydroxyacyl-CoA dehydrogenase
+                 3295 (HSD17B4)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.107  3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase
+                 3295 (HSD17B4)
+                4.2.1.119  enoyl-CoA hydratase 2
+                 3295 (HSD17B4)
+POSITION    5q23.1
+MOTIF       Pfam: MaoC_dehydratas adh_short adh_short_C2 SCP2 KR MaoC_dehydrat_N Alkyl_sulf_C AbrB-like
+DBLINKS     NCBI-GeneID: 3295
+            NCBI-ProteinID: NP_000405
+            OMIM: 601860
+            HGNC: 5213
+            Ensembl: ENSG00000133835
+            Vega: OTTHUMG00000128899
+            Pharos: P51659(Tbio)
+            UniProt: P51659 A0A0S2Z4J1 B2R659
+STRUCTURE   PDB: 1IKT 1ZBQ 1S9C
+AASEQ       736
+            MGSPLRFDGRVVLVTGAGAGLGRAYALAFAERGALVVVNDLGGDFKGVGKGSLAADKVVE
+            EIRRRGGKAVANYDSVEEGEKVVKTALDAFGRIDVVVNNAGILRDRSFARISDEDWDIIH
+            RVHLRGSFQVTRAAWEHMKKQKYGRIIMTSSASGIYGNFGQANYSAAKLGLLGLANSLAI
+            EGRKSNIHCNTIAPNAGSRMTQTVMPEDLVEALKPEYVAPLVLWLCHESCEENGGLFEVG
+            AGWIGKLRWERTLGAIVRQKNHPMTPEAVKANWKKICDFENASKPQSIQESTGSIIEVLS
+            KIDSEGGVSANHTSRATSTATSGFAGAIGQKLPPFSYAYTELEAIMYALGVGASIKDPKD
+            LKFIYEGSSDFSCLPTFGVIIGQKSMMGGGLAEIPGLSINFAKVLHGEQYLELYKPLPRA
+            GKLKCEAVVADVLDKGSGVVIIMDVYSYSEKELICHNQFSLFLVGSGGFGGKRTSDKVKV
+            AVAIPNRPPDAVLTDTTSLNQAALYRLSGDWNPLHIDPNFASLAGFDKPILHGLCTFGFS
+            ARRVLQQFADNDVSRFKAIKARFAKPVYPGQTLQTEMWKEGNRIHFQTKVQETGDIVISN
+            AYVDLAPTSGTSAKTPSEGGKLQSTFVFEEIGRRLKDIGPEVVKKVNAVFEWHITKGGNI
+            GAKWTIDLKSGSGKVYQGPAKGAADTTIILSDEDFMEVVLGKLDPQKAFFSGRLKARGNI
+            MLSQKLQMILKDYAKL
+NTSEQ       2211
+            atgggctcaccgctgaggttcgacgggcgggtggtactggtcaccggcgcgggggcagga
+            ttgggccgagcctatgccctggcttttgcagaaagaggagcgttagttgttgtgaatgat
+            ttgggaggggacttcaaaggagttggtaaaggctccttagctgctgataaggttgttgaa
+            gaaataagaaggagaggtggaaaagcagtggccaactatgattcagtggaagaaggagag
+            aaggttgtgaagacagccctggatgcttttggaagaatagatgttgtggtcaacaatgct
+            ggaattctgagggatcgttcctttgctaggataagtgatgaagactgggatataatccac
+            agagttcatttgcggggttcattccaagtgacacgggcagcatgggaacacatgaagaaa
+            cagaagtatggaaggattattatgacttcatcagcttcaggaatatatggcaactttggc
+            caggccaattatagtgctgcaaagttgggtcttctgggccttgcaaattctcttgcaatt
+            gaaggcaggaaaagcaacattcattgtaacaccattgctcctaatgcgggatcacggatg
+            actcagacagttatgcctgaagatcttgtggaagccctgaagccagagtatgtggcacct
+            cttgtcctttggctttgtcacgagagttgtgaggagaatggtggcttgtttgaggttgga
+            gcaggatggattggaaaattacgctgggagcggactcttggagctattgtaagacaaaag
+            aatcacccaatgactcctgaggcagtcaaggctaactggaagaagatctgtgactttgag
+            aatgccagcaagcctcagagtatccaagaatcaactggcagtataattgaagttctgagt
+            aaaatagattcagaaggaggagtttcagcaaatcatactagtcgtgcaacgtctacagca
+            acatcaggatttgctggagctattggccagaaactccctccattttcttatgcttatacg
+            gaactggaagctattatgtatgcccttggagtgggagcgtcaatcaaggatccaaaagat
+            ttgaaatttatttatgaaggaagttctgatttctcctgtttgcccaccttcggagttatc
+            ataggtcagaaatctatgatgggtggaggattagcagaaattcctggactttcaatcaac
+            tttgcaaaggttcttcatggagagcagtacttagagttatataaaccacttcccagagca
+            ggaaaattaaaatgtgaagcagttgttgctgatgtcctagataaaggatccggtgtagtg
+            attattatggatgtctattcttattctgagaaggaacttatatgccacaatcagttctct
+            ctctttcttgttggctctggaggctttggtggaaaacggacatcagacaaagtcaaggta
+            gctgtagccatacctaatagacctcctgatgctgtacttacagataccacctctcttaat
+            caggctgctttgtaccgcctcagtggagactggaatcccttacacattgatcctaacttt
+            gctagtctagcaggttttgacaagcccatattacatggattatgtacatttggattttct
+            gccaggcgtgtgttacagcagtttgcagataatgatgtgtcaagattcaaggcaattaag
+            gctcgttttgcaaaaccagtatatccaggacaaactctacaaactgagatgtggaaggaa
+            ggaaacagaattcattttcaaaccaaggtccaagaaactggagacattgtcatttcaaat
+            gcatatgtggatcttgcaccaacatctggtacttcagctaagacaccctctgagggcggg
+            aagcttcagagtacctttgtatttgaggaaataggacgccgcctaaaggatattgggcct
+            gaggtggtgaagaaagtaaatgctgtatttgagtggcatataaccaaaggcggaaatatt
+            ggggctaagtggactattgacctgaaaagtggttctggaaaagtgtaccaaggccctgca
+            aaaggtgctgctgatacaacaatcatactttcagatgaagatttcatggaggtggtcctg
+            ggcaagcttgaccctcagaaggcattctttagtggcaggctgaaggccagagggaacatc
+            atgctgagccagaaacttcagatgattcttaaagactacgccaagctctga
+///

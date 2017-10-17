@@ -1,0 +1,75 @@
+ENTRY       3284              CDS       T01001
+NAME        HSD3B2, HSD3B, HSDB, SDR11E2
+DEFINITION  (RefSeq) hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2
+ORTHOLOGY   K00070  3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase [EC:1.1.1.145 5.3.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04913  Ovarian steroidogenesis
+            hsa04925  Aldosterone synthesis and secretion
+MODULE      hsa_M00107  Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone
+            hsa_M00110  C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone
+DISEASE     H00216  Congenital adrenal hyperplasia (CAH)
+            H00599  46,XX disorders of sex development (Disorders related to androgen excess)
+            H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                3284 (HSD3B2)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                3284 (HSD3B2)
+               04925 Aldosterone synthesis and secretion
+                3284 (HSD3B2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.145  3beta-hydroxy-Delta5-steroid dehydrogenase
+                 3284 (HSD3B2)
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.1  steroid Delta-isomerase
+                 3284 (HSD3B2)
+POSITION    1p12
+MOTIF       Pfam: 3Beta_HSD Epimerase NAD_binding_4 GDP_Man_Dehyd Polysacc_synt_2 NAD_binding_10 RmlD_sub_bind NmrA KR Ldh_1_N
+DBLINKS     NCBI-GeneID: 3284
+            NCBI-ProteinID: NP_000189
+            OMIM: 613890
+            HGNC: 5218
+            Ensembl: ENSG00000203859
+            Vega: OTTHUMG00000012526
+            Pharos: P26439(Tclin)
+            UniProt: P26439 A0A024R0F9
+AASEQ       372
+            MGWSCLVTGAGGLLGQRIVRLLVEEKELKEIRALDKAFRPELREEFSKLQNRTKLTVLEG
+            DILDEPFLKRACQDVSVVIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVFI
+            YTSSIEVAGPNSYKEIIQNGHEEEPLENTWPTPYPYSKKLAEKAVLAANGWNLKNGDTLY
+            TCALRPTYIYGEGGPFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRALR
+            DPKKAPSVRGQFYYISDDTPHQSYDNLNYILSKEFGLRLDSRWSLPLTLMYWIGFLLEVV
+            SFLLSPIYSYQPPFNRHTVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSLV
+            DRHKETLKSKTQ
+NTSEQ       1119
+            atgggctggagctgccttgtgacaggagcaggagggcttctgggtcagaggatcgtccgc
+            ctgttggtggaagagaaggaactgaaggagatcagggccttggacaaggccttcagacca
+            gaattgagagaggaattttctaagctccagaacaggaccaagctgactgtacttgaagga
+            gacattctggatgagccattcctgaaaagagcctgccaggacgtctcggtcgtcatccac
+            accgcctgtatcattgatgtctttggtgtcactcacagagagtccatcatgaatgtcaat
+            gtgaaaggtacccagctactgttggaggcctgtgtccaagccagtgtgccagtcttcatc
+            tacaccagtagcatagaggtagccgggcccaactcctacaaggaaatcatccagaacggc
+            cacgaagaagagcctctggaaaacacatggcccactccatacccgtacagcaaaaagctt
+            gctgagaaggctgtgctggcggctaatgggtggaatctaaaaaatggtgataccttgtac
+            acttgtgcgttaagacccacatatatctatggggaaggaggcccattcctttctgccagt
+            ataaatgaggccctgaacaacaatgggatcctgtcaagtgttggaaagttctctacagtc
+            aacccagtctatgttggcaacgtggcctgggcccacattctggccttgagggctctgcgg
+            gaccccaagaaggccccaagtgtccgaggtcaattctattacatctcagatgacacgcct
+            caccaaagctatgataaccttaattacatcctgagcaaagagtttggcctccgccttgat
+            tccagatggagccttcctttaaccctgatgtactggattggcttcctgctggaagtagtg
+            agcttcctactcagcccaatttactcctatcaaccccccttcaaccgccacacagtcaca
+            ttatcaaatagtgtgttcaccttctcttacaagaaggctcagcgagatctggcgtataag
+            ccactctacagctgggaggaagccaagcagaaaaccgtggagtgggttggttcccttgtg
+            gaccggcacaaggagaccctgaagtccaagactcagtga
+///

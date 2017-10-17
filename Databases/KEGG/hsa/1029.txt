@@ -1,0 +1,108 @@
+ENTRY       1029              CDS       T01001
+NAME        CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16
+DEFINITION  (RefSeq) cyclin dependent kinase inhibitor 2A
+ORTHOLOGY   K06621  cyclin-dependent kinase inhibitor 2A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa01524  Platinum drug resistance
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04218  Cellular senescence
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+            hsa05212  Pancreatic cancer
+            hsa05214  Glioma
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+DISEASE     H00004  Chronic myeloid leukemia (CML)
+            H00008  Burkitt lymphoma
+            H00009  Adult T-cell leukemia
+            H00014  Non-small cell lung cancer
+            H00015  Malignant pleural mesothelioma
+            H00016  Oral cancer
+            H00017  Esophageal cancer
+            H00019  Pancreatic cancer
+            H00022  Bladder cancer
+            H00025  Penile cancer
+            H00036  Osteosarcoma
+            H00038  Malignant melanoma
+            H00040  Squamous cell carcinoma
+            H00042  Glioma
+            H00046  Cholangiocarcinoma
+            H00047  Gallbladder cancer
+            H00048  Hepatocellular carcinoma
+            H00054  Nasopharyngeal cancer
+            H00055  Laryngeal cancer
+            H00409  Type II diabetes mellitus
+            H01463  Mycosis fungoides
+            H01464  Mantle cell lymphoma
+            H01508  Salivary gland cancer
+            H01509  Tonsillar cancer
+            H01513  Retinoblastoma
+            H01556  Meningioma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                1029 (CDKN2A)
+               04115 p53 signaling pathway
+                1029 (CDKN2A)
+               04218 Cellular senescence
+                1029 (CDKN2A)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1029 (CDKN2A)
+               05206 MicroRNAs in cancer
+                1029 (CDKN2A)
+               05203 Viral carcinogenesis
+                1029 (CDKN2A)
+               05212 Pancreatic cancer
+                1029 (CDKN2A)
+               05214 Glioma
+                1029 (CDKN2A)
+               05220 Chronic myeloid leukemia
+                1029 (CDKN2A)
+               05218 Melanoma
+                1029 (CDKN2A)
+               05219 Bladder cancer
+                1029 (CDKN2A)
+               05223 Non-small cell lung cancer
+                1029 (CDKN2A)
+              Infectious diseases
+               05166 HTLV-I infection
+                1029 (CDKN2A)
+              Drug resistance
+               01524 Platinum drug resistance
+                1029 (CDKN2A)
+               01522 Endocrine resistance
+                1029 (CDKN2A)
+POSITION    9p21.3
+MOTIF       Pfam: Ank_5 Ank_4 Ank_2 Ank
+DBLINKS     NCBI-GeneID: 1029
+            NCBI-ProteinID: NP_000068
+            OMIM: 600160
+            HGNC: 1787
+            Ensembl: ENSG00000147889
+            Vega: OTTHUMG00000019686
+            Pharos: P42771(Tbio)
+            UniProt: P42771 K7PML8
+STRUCTURE   PDB: 1BI7 1DC2 1A5E 2A5E
+AASEQ       156
+            MEPAAGSSMEPSADWLATAAARGRVEEVRALLEAGALPNAPNSYGRRPIQVMMMGSARVA
+            ELLLLHGAEPNCADPATLTRPVHDAAREGFLDTLVVLHRAGARLDVRDAWGRLPVDLAEE
+            LGHRDVARYLRAAAGGTRGSNHARIDAAEGPSDIPD
+NTSEQ       471
+            atggagccggcggcggggagcagcatggagccttcggctgactggctggccacggccgcg
+            gcccggggtcgggtagaggaggtgcgggcgctgctggaggcgggggcgctgcccaacgca
+            ccgaatagttacggtcggaggccgatccaggtcatgatgatgggcagcgcccgagtggcg
+            gagctgctgctgctccacggcgcggagcccaactgcgccgaccccgccactctcacccga
+            cccgtgcacgacgctgcccgggagggcttcctggacacgctggtggtgctgcaccgggcc
+            ggggcgcggctggacgtgcgcgatgcctggggccgtctgcccgtggacctggctgaggag
+            ctgggccatcgcgatgtcgcacggtacctgcgcgcggctgcggggggcaccagaggcagt
+            aaccatgcccgcatagatgccgcggaaggtccctcagacatccccgattga
+///

@@ -1,0 +1,99 @@
+ENTRY       64132             CDS       T01001
+NAME        XYLT2, PXYLT2, SOS, XT-II, XT2, xylT-II
+DEFINITION  (RefSeq) xylosyltransferase 2
+ORTHOLOGY   K00771  protein xylosyltransferase [EC:2.4.2.26]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide
+DISEASE     H01496  Spondyloocular syndrome (SOS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+                64132 (XYLT2)
+               00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+                64132 (XYLT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.26  protein xylosyltransferase
+                 64132 (XYLT2)
+            Glycosyltransferases [BR:hsa01003]
+             O-Glycan biosynthesis
+              Glycosaminoglycan
+               64132 (XYLT2)
+POSITION    17q21.33
+MOTIF       Pfam: Xylo_C Branch
+DBLINKS     NCBI-GeneID: 64132
+            NCBI-ProteinID: NP_071450
+            OMIM: 608125
+            HGNC: 15517
+            Ensembl: ENSG00000015532
+            Vega: OTTHUMG00000162057
+            Pharos: Q9H1B5(Tbio)
+            UniProt: Q9H1B5 B4DT06
+AASEQ       865
+            MVASARVQKLVRRYKLAIATALAILLLQGLVVWSFSGLEEDEAGEKGRQRKPRPLDPGEG
+            SKDTDSSAGRRGSTGRRHGRWRGRAESPGVPVAKVVRAVTSRQRASRRVPPAPPPEAPGR
+            QNLSGAAAGEALVGAAGFPPHGDTGSVEGAPQPTDNGFTPKCEIVGKDALSALARASTKQ
+            CQQEIANVVCLHQAGSLMPKAVPRHCQLTGKMSPGIQWDESQAQQPMDGPPVRIAYMLVV
+            HGRAIRQLKRLLKAVYHEQHFFYIHVDKRSDYLHREVVELAQGYDNVRVTPWRMVTIWGG
+            ASLLRMYLRSMRDLLEVPGWAWDFFINLSATDYPTRTNEELVAFLSKNRDKNFLKSHGRD
+            NSRFIKKQGLDRLFHECDSHMWRLGERQIPAGIVVDGGSDWFVLTRSFVEYVVYTDDPLV
+            AQLRQFYTYTLLPAESFFHTVLENSLACETLVDNNLRVTNWNRKLGCKCQYKHIVDWCGC
+            SPNDFKPQDFLRLQQVSRPTFFARKFESTVNQEVLEILDFHLYGSYPPGTPALKAYWENT
+            YDAADGPSGLSDVMLTAYTAFARLSLHHAATAAPPMGTPLCRFEPRGLPSSVHLYFYDDH
+            FQGYLVTQAVQPSAQGPAETLEMWLMPQGSLKLLGRSDQASRLQSLEVGTDWDPKERLFR
+            NFGGLLGPLDEPVAVQRWARGPNLTATVVWIDPTYVVATSYDITVDTETEVTQYKPPLSR
+            PLRPGPWTVRLLQFWEPLGETRFLVLPLTFNRKLPLRKDDASWLHAGPPHNEYMEQSFQG
+            LSSILNLPQPELAEEAAQRHTQLTGPALEAWTDRELSSFWSVAGLCAIGPSPCPSLEPCR
+            LTSWSSLSPDPKSELGPVKADGRLR
+NTSEQ       2598
+            atggtggcgagcgcgcgagtgcagaagctggtgcggcgctacaagctggcgattgccacg
+            gcgctggccatcctgctgctgcagggcctggtagtgtggagcttcagcggcctggaggag
+            gacgaggcgggcgagaaaggaaggcagaggaagccacggccactggaccctggcgagggt
+            tccaaggacacagacagttcagcagggcgacggggcagcacaggcagaaggcatgggcgc
+            tggcggggccgtgctgagagcccaggagtgcccgtggccaaggtggtacgggcagtaacc
+            agccggcagagagccagccggcgggtcccacctgccccacccccggaagccccaggccgc
+            cagaacctgagtggggcagcagctggggaggcgctggtaggggcagctggcttcccacca
+            cacggagatacagggagcgtggagggcgccccccagcccacggacaatggcttcaccccc
+            aagtgcgagatcgtgggcaaggacgcactgtctgcactggcccgggccagcaccaagcag
+            tgccagcaggagatcgccaatgtggtgtgcctgcaccaggctgggagcctcatgcccaag
+            gctgtgccccggcactgtcagctgactgggaagatgagccccggcatccagtgggatgag
+            agccaagcccagcagcccatggatggccccccggtgcgaatcgcctacatgctggtggtt
+            cacggccgcgccatccgccagctgaagcgtctcctcaaggccgtttatcacgagcagcac
+            ttcttttacatccatgtggacaagcgttccgactacctgcaccgggaggtggtggagctg
+            gcccagggctatgataacgtgcgggtgacgccctggcgcatggttaccatctggggcggg
+            gccagcctcctgaggatgtacctgcggagcatgcgggacctgctagaggtgcctggctgg
+            gcctgggacttcttcatcaacctcagtgccactgactatccaaccaggaccaatgaggag
+            ctggtggcattcctatccaagaaccgggacaagaatttcctcaagtcacatggccgggac
+            aactccaggttcatcaagaaacagggcctggaccggctcttccatgagtgcgactcacac
+            atgtggcgcctgggcgagcggcagatcccagcaggcattgtggtggatggcggttctgac
+            tggttcgtgctgacacgcagctttgtggagtatgtggtgtacacagatgacccgcttgtg
+            gcccagctgcgccagttctacacatacacactgctcccagccgagtccttcttccacacg
+            gtgctggagaacagcctggcctgtgagaccctcgtggacaacaacctgcgggtcaccaac
+            tggaaccgcaagctgggctgcaagtgccagtacaagcacattgtggactggtgtggctgc
+            tcccccaacgacttcaagccacaggacttcctccggctgcagcaagtctccagacccacc
+            ttcttcgcccggaagttcgagtcgactgtgaaccaggaggtgctggaaatcctggacttc
+            cacctgtatggcagctacccccccggcacgccagccctcaaggcctactgggagaacacc
+            tacgacgcggctgatggccccagtgggctcagtgatgtcatgctcactgcttacacagcc
+            ttcgcccgcctcagcctgcaccatgccgccactgctgcacccccaatgggcaccccactc
+            tgcaggtttgagcccaggggcttgccgtccagcgtgcacctgtatttctatgacgaccat
+            ttccagggctacctggtgacgcaggcggtgcagccctcagcccaggggccggcagagacg
+            cttgagatgtggctgatgccccaagggtcgctgaagctgttggggcgcagtgaccaggcc
+            agccggctccagagtctggaggttggcactgattgggaccccaaagagcgtcttttccgg
+            aactttggggggttactggggccgctggacgagcctgtggccgtgcagcgctgggcccgg
+            ggccccaacctcacagccacagtggtctggatcgacccaacctatgtggtggccacatct
+            tatgacatcacagtagatacggagactgaggtcacgcaatacaagcccccactgagccgg
+            cccctgcggccagggccctggactgttcgactccttcagttctgggaaccgctgggtgag
+            acccgcttccttgtgctgcccttgaccttcaaccgcaaactacctctcaggaaagatgat
+            gccagctggctgcacgcagggccaccccacaacgagtacatggagcagagtttccagggc
+            ctgagtagcatcctgaacctgcctcagccggagctcgcggaggaggctgcccagcggcac
+            acacagctcacaggccctgcgctcgaggcctggacagacagggaactgagcagcttctgg
+            tccgtggctggactgtgtgccataggcccctctccctgcccctccctggagccctgcaga
+            ctgaccagctggagctctctgtcccccgaccccaaatcagagctggggcctgtcaaagca
+            gacgggcgactcaggtag
+///

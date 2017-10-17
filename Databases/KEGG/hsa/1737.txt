@@ -1,0 +1,88 @@
+ENTRY       1737              CDS       T01001
+NAME        DLAT, DLTA, PDC-E2, PDCE2
+DEFINITION  (RefSeq) dihydrolipoamide S-acetyltransferase
+ORTHOLOGY   K00627  pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00307  Pyruvate oxidation, pyruvate => acetyl-CoA
+DISEASE     H00072  Pyruvate dehydrogenase complex deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                1737 (DLAT)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                1737 (DLAT)
+               00020 Citrate cycle (TCA cycle)
+                1737 (DLAT)
+               00620 Pyruvate metabolism
+                1737 (DLAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.12  dihydrolipoyllysine-residue acetyltransferase
+                 1737 (DLAT)
+POSITION    11q23.1
+MOTIF       Pfam: 2-oxoacid_dh Biotin_lipoyl E3_binding Biotin_lipoyl_2
+DBLINKS     NCBI-GeneID: 1737
+            NCBI-ProteinID: NP_001922
+            OMIM: 608770
+            HGNC: 2896
+            Ensembl: ENSG00000150768
+            Vega: OTTHUMG00000133751
+            Pharos: P10515(Tbio)
+            UniProt: P10515 Q86YI5
+STRUCTURE   PDB: 3CRK 1Y8O 2PNR 2Q8I 1Y8N 3CRL 1Y8P 3B8K 2DNE 1FYC
+AASEQ       647
+            MWRVCARRAQNVAPWAGLEARWTALQEVPGTPRVTSRSGPAPARRNSVTTGYGGVRALCG
+            WTPSSGATPRNRLLLQLLGSPGRRYYSLPPHQKVPLPSLSPTMQAGTIARWEKKEGDKIN
+            EGDLIAEVETDKATVGFESLEECYMAKILVAEGTRDVPIGAIICITVGKPEDIEAFKNYT
+            LDSSAAPTPQAAPAPTPAATASPPTPSAQAPGSSYPPHMQVLLPALSPTMTMGTVQRWEK
+            KVGEKLSEGDLLAEIETDKATIGFEVQEEGYLAKILVPEGTRDVPLGTPLCIIVEKEADI
+            SAFADYRPTEVTDLKPQVPPPTPPPVAAVPPTPQPLAPTPSAPCPATPAGPKGRVFVSPL
+            AKKLAVEKGIDLTQVKGTGPDGRITKKDIDSFVPSKVAPAPAAVVPPTGPGMAPVPTGVF
+            TDIPISNIRRVIAQRLMQSKQTIPHYYLSIDVNMGEVLLVRKELNKILEGRSKISVNDFI
+            IKASALACLKVPEANSSWMDTVIRQNHVVDVSVAVSTPAGLITPIVFNAHIKGVETIAND
+            VVSLATKAREGKLQPHEFQGGTFTISNLGMFGIKNFSAIINPPQACILAIGASEDKLVPA
+            DNEKGFDVASMMSVTLSCDHRVVDGAVGAQWLAEFRKYLEKPITMLL
+NTSEQ       1944
+            atgtggcgcgtctgtgcgcgacgggctcagaatgtagccccatgggcgggactcgaggct
+            cggtggacggccttgcaggaggtacccggaactccacgagtgacctcgcgatctggcccg
+            gctcccgctcgtcgcaacagcgtgactacagggtatggcggggtccgggcactgtgcggc
+            tggacccccagttctggggccacgccgcggaaccgcttactgctgcagcttttggggtcg
+            cccggccgccgctattacagtcttcccccgcatcagaaggttccattgccttctctttcc
+            cccacaatgcaggcaggcaccatagcccgttgggaaaaaaaagagggggacaaaatcaat
+            gaaggtgacctaattgcagaggttgaaactgataaagccactgttggatttgagagcctg
+            gaggagtgttatatggcaaagatacttgttgctgaaggtaccagggatgttcccatcgga
+            gcgatcatctgtatcacagttggcaagcctgaggatattgaggcctttaaaaattataca
+            ctggattcctcagcagcacctaccccacaagcggccccagcaccaacccctgctgccact
+            gcttcgccacctacaccttctgctcaggctcctggtagctcatatccccctcacatgcag
+            gtacttcttcctgccctctctcccaccatgaccatgggcacagttcagagatgggaaaaa
+            aaagtgggtgagaagctaagtgaaggagacttactggcagagatagaaactgacaaagcc
+            actataggttttgaagtacaggaagaaggttatctggcaaaaatcctggtccctgaaggc
+            acaagagatgtccctctaggaaccccactctgtatcattgtagaaaaagaggcagatata
+            tcagcatttgctgactataggccaaccgaagtaacagatttaaaaccacaagtgccacca
+            cctaccccacccccggtggccgctgttcctccaactccccagcctttagctcctacacct
+            tcagcaccctgcccagctactcctgctggaccaaagggaagggtgtttgttagccctctt
+            gcaaagaagttggcagtagagaaagggattgatcttacacaagtaaaagggacaggacca
+            gatggtagaatcaccaagaaggatatcgactcttttgtgcctagtaaagttgctcctgct
+            ccggcagctgttgtgcctcccacaggtcctggaatggcaccagttcctacaggtgtcttc
+            acagatatcccaatcagcaacattcgtcgggttattgcacagcgattaatgcaatcaaag
+            caaaccatacctcattattacctttctatcgatgtaaatatgggagaagttttgttggta
+            cggaaagaacttaataagatattagaagggagaagcaaaatttctgtcaatgacttcatc
+            ataaaagcttcagctttggcatgtttaaaagttcccgaagcaaattcttcttggatggac
+            acagttataagacaaaatcatgttgttgatgtcagtgttgcggtcagtactcctgcagga
+            ctcatcacacctattgtgtttaatgcacatataaaaggagtggaaaccattgctaatgat
+            gttgtttctttagcaaccaaagcaagagagggtaaactacagccacatgaattccagggt
+            ggcacttttacgatctccaatttaggaatgtttggaattaagaatttctctgctattatt
+            aacccacctcaagcatgtattttggcaattggtgcttcagaggataaactggtccctgca
+            gataatgaaaaagggtttgatgtggctagcatgatgtctgttacactcagttgtgatcac
+            cgggtggtggatggagcagttggagcccagtggcttgctgagtttagaaagtaccttgaa
+            aaacctatcactatgttgttgtaa
+///

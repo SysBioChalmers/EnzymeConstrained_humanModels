@@ -1,0 +1,84 @@
+ENTRY       7417              CDS       T01001
+NAME        VDAC2, POR
+DEFINITION  (RefSeq) voltage dependent anion channel 2
+ORTHOLOGY   K15040  voltage-dependent anion channel protein 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04216  Ferroptosis
+            hsa04217  Necroptosis
+            hsa04218  Cellular senescence
+            hsa04621  NOD-like receptor signaling pathway
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+            hsa05166  HTLV-I infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                7417 (VDAC2)
+               04022 cGMP - PKG signaling pathway
+                7417 (VDAC2)
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                7417 (VDAC2)
+               04217 Necroptosis
+                7417 (VDAC2)
+               04218 Cellular senescence
+                7417 (VDAC2)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                7417 (VDAC2)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                7417 (VDAC2)
+               05016 Huntington's disease
+                7417 (VDAC2)
+              Infectious diseases
+               05166 HTLV-I infection
+                7417 (VDAC2)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Porin
+                7417 (VDAC2)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               7417 (VDAC2)
+POSITION    10q22.2
+MOTIF       Pfam: Porin_3
+DBLINKS     NCBI-GeneID: 7417
+            NCBI-ProteinID: NP_001171752
+            OMIM: 193245
+            HGNC: 12672
+            Ensembl: ENSG00000165637
+            Vega: OTTHUMG00000018517
+            Pharos: P45880(Tchem)
+            UniProt: P45880 A0A024QZT0
+AASEQ       294
+            MATHGQTCARPMCIPPSYADLGKAARDIFNKGFGFGLVKLDVKTKSCSGVEFSTSGSSNT
+            DTGKVTGTLETKYKWCEYGLTFTEKWNTDNTLGTEIAIEDQICQGLKLTFDTTFSPNTGK
+            KSGKIKSSYKRECINLGCDVDFDFAGPAIHGSAVFGYEGWLAGYQMTFDSAKSKLTRNNF
+            AVGYRTGDFQLHTNVNDGTEFGGSIYQKVCEDLDTSVNLAWTSGTNCTRFGIAAKYQLDP
+            TASISAKVNNSSLIGVGYTQTLRPGVKLTLSALVDGKSINAGGHKVGLALELEA
+NTSEQ       885
+            atggcgacccacggacagacttgcgcgcgtccaatgtgtattcctccatcatatgctgac
+            cttggcaaagctgccagagatattttcaacaaaggatttggttttgggttggtgaaactg
+            gatgtgaaaacaaagtcttgcagtggcgtggaattttcaacgtccggttcatctaataca
+            gacactggtaaagttactgggaccttggagaccaaatacaagtggtgtgagtatggtctg
+            actttcacagaaaagtggaacactgataacactctgggaacagaaatcgcaattgaagac
+            cagatttgtcaaggtttgaaactgacatttgatactaccttctcaccaaacacaggaaag
+            aaaagtggtaaaatcaagtcttcttacaagagggagtgtataaaccttggttgtgatgtt
+            gactttgattttgctggacctgcaatccatggttcagctgtctttggttatgagggctgg
+            cttgctggctaccagatgacctttgacagtgccaaatcaaagctgacaaggaataacttt
+            gcagtgggctacaggactggggacttccagctacacactaatgtcaatgatgggacagaa
+            tttggaggatcaatttatcagaaagtttgtgaagatcttgacacttcagtaaaccttgct
+            tggacatcaggtaccaactgcactcgttttggcattgcagctaaatatcagttggatccc
+            actgcttccatttctgcaaaagtcaacaactctagcttaattggagtaggctatactcag
+            actctgaggcctggtgtgaagcttacactctctgctctggtagatgggaagagcattaat
+            gctggaggccacaaggttgggctcgccctggagttggaggcttaa
+///

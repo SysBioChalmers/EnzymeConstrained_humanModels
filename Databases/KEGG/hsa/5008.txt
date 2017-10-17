@@ -1,0 +1,54 @@
+ENTRY       5008              CDS       T01001
+NAME        OSM
+DEFINITION  (RefSeq) oncostatin M
+ORTHOLOGY   K05418  oncostatin M
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                5008 (OSM)
+               04151 PI3K-Akt signaling pathway
+                5008 (OSM)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                5008 (OSM)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-6 receptor family
+               5008 (OSM)
+POSITION    22q12.2
+MOTIF       Pfam: LIF_OSM Sugarporin_N
+DBLINKS     NCBI-GeneID: 5008
+            NCBI-ProteinID: NP_065391
+            OMIM: 165095
+            HGNC: 8506
+            Ensembl: ENSG00000099985
+            Vega: OTTHUMG00000150913
+            Pharos: P13725(Tbio)
+            UniProt: P13725
+STRUCTURE   PDB: 1EVS
+AASEQ       252
+            MGVLLTQRTLLSLVLALLFPSMASMAAIGSCSKEYRVLLGQLQKQTDLMQDTSRLLDPYI
+            RIQGLDVPKLREHCRERPGAFPSEETLRGLGRRGFLQTLNATLGCVLHRLADLEQRLPKA
+            QDLERSGLNIEDLEKLQMARPNILGLRNNIYCMAQLLDNSDTAEPTKAGRGASQPPTPTP
+            ASDAFQRKLEGCRFLHGYHRFMHSVGRVFSKWGESPNRSRRHSPHQALRKGVRRTRPSRK
+            GKRLMTRGQLPR
+NTSEQ       759
+            atgggggtactgctcacacagaggacgctgctcagtctggtccttgcactcctgtttcca
+            agcatggcgagcatggcggctataggcagctgctcgaaagagtaccgcgtgctccttggc
+            cagctccagaagcagacagatctcatgcaggacaccagcagactcctggacccctatata
+            cgtatccaaggcctggatgttcctaaactgagagagcactgcagggagcgccccggggcc
+            ttccccagtgaggagaccctgagggggctgggcaggcggggcttcctgcagaccctcaat
+            gccacactgggctgcgtcctgcacagactggccgacttagagcagcgcctccccaaggcc
+            caggatttggagaggtctgggctgaacatcgaggacttggagaagctgcagatggcgagg
+            ccgaacatcctcgggctcaggaacaacatctactgcatggcccagctgctggacaactca
+            gacacggctgagcccacgaaggctggccggggggcctctcagccgcccacccccacccct
+            gcctcggatgcttttcagcgcaagctggagggctgcaggttcctgcatggctaccatcgc
+            ttcatgcactcagtggggcgggtcttcagcaagtggggggagagcccgaaccggagccgg
+            agacacagcccccaccaggccctgaggaagggggtgcgcaggaccagaccctccaggaaa
+            ggcaagagactcatgaccaggggacagctgccccggtag
+///

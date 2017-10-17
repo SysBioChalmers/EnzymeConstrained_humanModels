@@ -1,0 +1,81 @@
+ENTRY       6347              CDS       T01001
+NAME        CCL2, GDCF-2, HC11, HSMCR30, MCAF, MCP-1, MCP1, SCYA2, SMC-CF
+DEFINITION  (RefSeq) C-C motif chemokine ligand 2
+ORTHOLOGY   K14624  C-C motif chemokine 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04062  Chemokine signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05144  Malaria
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+            hsa05323  Rheumatoid arthritis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                6347 (CCL2)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                6347 (CCL2)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                6347 (CCL2)
+               04657 IL-17 signaling pathway
+                6347 (CCL2)
+               04062 Chemokine signaling pathway
+                6347 (CCL2)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                6347 (CCL2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                6347 (CCL2)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                6347 (CCL2)
+              Infectious diseases
+               05164 Influenza A
+                6347 (CCL2)
+               05168 Herpes simplex infection
+                6347 (CCL2)
+               05144 Malaria
+                6347 (CCL2)
+               05142 Chagas disease (American trypanosomiasis)
+                6347 (CCL2)
+            Cytokines [BR:hsa04052]
+             Chemokines
+              CC chemokine family
+               6347 (CCL2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Chemokines	(General comment) Chemokine presentation, transcellular transport, signal transduction
+               6347 (CCL2)
+POSITION    17q12
+MOTIF       Pfam: IL8
+DBLINKS     NCBI-GeneID: 6347
+            NCBI-ProteinID: NP_002973
+            OMIM: 158105
+            HGNC: 10618
+            Ensembl: ENSG00000108691
+            Vega: OTTHUMG00000132887
+            Pharos: P13500(Tchem)
+            UniProt: P13500
+STRUCTURE   PDB: 1DOK 3IFD 4R8I 1DOL 2NZ1 4ZK9 4DN4 1ML0 1DOM 1DON
+AASEQ       99
+            MKVSAALLCLLLIAATFIPQGLAQPDAINAPVTCCYNFTNRKISVQRLASYRRITSSKCP
+            KEAVIFKTIVAKEICADPKQKWVQDSMDHLDKQTQTPKT
+NTSEQ       300
+            atgaaagtctctgccgcccttctgtgcctgctgctcatagcagccaccttcattccccaa
+            gggctcgctcagccagatgcaatcaatgccccagtcacctgctgttataacttcaccaat
+            aggaagatctcagtgcagaggctcgcgagctatagaagaatcaccagcagcaagtgtccc
+            aaagaagctgtgatcttcaagaccattgtggccaaggagatctgtgctgaccccaagcag
+            aagtgggttcaggattccatggaccacctggacaagcaaacccaaactccgaagacttga
+///

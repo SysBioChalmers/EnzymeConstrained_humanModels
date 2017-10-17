@@ -1,0 +1,70 @@
+ENTRY       80854             CDS       T01001
+NAME        SETD7, KMT7, SET7, SET7/9, SET9
+DEFINITION  (RefSeq) SET domain containing lysine methyltransferase 7
+ORTHOLOGY   K11431  histone-lysine N-methyltransferase SETD7 [EC:2.1.1.43]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+            hsa04068  FoxO signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                80854 (SETD7)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                80854 (SETD7)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.43  histone-lysine N-methyltransferase
+                 80854 (SETD7)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                HKMTs (histone lysine methyltransferases)
+                 80854 (SETD7)
+POSITION    4q31.1
+MOTIF       Pfam: MORN SET MORN_2
+DBLINKS     NCBI-GeneID: 80854
+            NCBI-ProteinID: NP_085151
+            OMIM: 606594
+            HGNC: 30412
+            Ensembl: ENSG00000145391
+            Vega: OTTHUMG00000133385
+            Pharos: Q8WTS6(Tchem)
+            UniProt: Q8WTS6
+STRUCTURE   PDB: 2F69 3M58 3CBP 5EG2 3M55 4J7F 3M54 4J8O 3M56 3CBO 3OS5
+                 3CBM 4JDS 4J83 3M57 3M59 1N6A 3M5A 1XQH 1O9S 3M53 4JLG
+                 3VV0 4E47 5AYF 1MT6 1MUF 1N6C 3VUZ 4J7I 1H3I
+AASEQ       366
+            MDSDDEMVEEAVEGHLDDDGLPHGFCTVTYSSTDRFEGNFVHGEKNGRGKFFFFDGSTLE
+            GYYVDDALQGQGVYTYEDGGVLQGTYVDGELNGPAQEYDTDGRLIFKGQYKDNIRHGVCW
+            IYYPDGGSLVGEVNEDGEMTGEKIAYVYPDERTALYGKFIDGEMIEGKLATLMSTEEGRP
+            HFELMPGNSVYHFDKSTSSCISTNALLPDPYESERVYVAESLISSAGEGLFSKVAVGPNT
+            VMSFYNGVRITHQEVDSRDWALNGNTLSLDEETVIDVPEPYNHVSKYCASLGHKANHSFT
+            PNCIYDMFVHPRFGPIKCIRTLRAVEADEELTVAYGYDHSPPGKSGPEAPEWYQVELKAF
+            QATQQK
+NTSEQ       1101
+            atggatagcgacgacgagatggtggaggaggcggtggaagggcacctggacgatgacgga
+            ttaccgcacgggttctgcacagtcacctactcctccacagacagatttgaggggaacttt
+            gttcacggagaaaagaacggacgggggaagttcttcttctttgatggcagcaccctggag
+            gggtattatgtggatgatgccttgcagggccagggagtttacacttacgaagatggggga
+            gttctccagggcacgtatgtagacggagagctgaacggtccagcccaggaatatgacaca
+            gatgggagactgatcttcaaggggcagtataaagataacattcgtcatggagtgtgctgg
+            atatattacccagatggaggaagccttgtaggagaagtaaatgaagatggggagatgact
+            ggagagaagatagcctatgtgtaccctgatgagaggaccgcactttatgggaaatttatt
+            gatggagagatgatagaaggcaaactggctacccttatgtccactgaagaagggaggcct
+            cactttgaactgatgcctggaaattcagtgtaccactttgataagtcgacttcatcttgc
+            atttctaccaatgctcttcttccagatccttatgaatcagaaagggtttatgttgctgaa
+            tctcttatttccagtgctggagaaggacttttttcaaaggtagctgtgggacctaatact
+            gttatgtctttttataatggagttcgaattacacaccaagaggttgacagcagggactgg
+            gcccttaatgggaacaccctctcccttgatgaagaaacggtcattgatgtgcctgagccc
+            tataaccacgtatccaagtactgtgcctccttgggacacaaggcaaatcactccttcact
+            ccaaactgcatctacgatatgtttgtccacccccgttttgggcccatcaaatgcatccgc
+            accctgagagcagtggaggccgatgaagagctcaccgttgcctatggctatgaccacagc
+            ccccccgggaagagtgggcctgaagcccctgagtggtaccaggtggagctgaaggccttc
+            caggccacccagcaaaagtga
+///

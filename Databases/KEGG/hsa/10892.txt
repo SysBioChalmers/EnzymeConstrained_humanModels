@@ -1,0 +1,104 @@
+ENTRY       10892             CDS       T01001
+NAME        MALT1, IMD12, MLT, MLT1, PCASP1
+DEFINITION  (RefSeq) MALT1 paracaspase
+ORTHOLOGY   K07369  mucosa-associated lymphoid tissue lymphoma translocation protein 1 [EC:3.4.22.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa05152  Tuberculosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                10892 (MALT1)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                10892 (MALT1)
+               04662 B cell receptor signaling pathway
+                10892 (MALT1)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                10892 (MALT1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.-  
+                 10892 (MALT1)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C14: caspase family
+               10892 (MALT1)
+POSITION    18q21.32
+MOTIF       Pfam: Ig_3 Ig_2 Peptidase_C14 ig I-set Ig_5 V-set Ig_4
+DBLINKS     NCBI-GeneID: 10892
+            NCBI-ProteinID: NP_006776
+            OMIM: 604860
+            HGNC: 6819
+            Ensembl: ENSG00000172175
+            Vega: OTTHUMG00000132761
+            Pharos: Q9UDY8(Tbio)
+            UniProt: Q9UDY8 A8K5S1
+STRUCTURE   PDB: 3BFO 3UOA 3V55 3UO8 3V4O 4I1P 4I1R 2G7R 3K0W
+AASEQ       824
+            MSLLGDPLQALPPSAAPTGPLLAPPAGATLNRLREPLLRRLSELLDQAPEGRGWRRLAEL
+            AGSRGRLRLSCLDLEQCSLKVLEPEGSPSLCLLKLMGEKGCTVTELSDFLQAMEHTEVLQ
+            LLSPPGIKITVNPESKAVLAGQFVKLCCRATGHPFVQYQWFKMNKEIPNGNTSELIFNAV
+            HVKDAGFYVCRVNNNFTFEFSQWSQLDVCDIPESFQRSVDGVSESKLQICVEPTSQKLMP
+            GSTLVLQCVAVGSPIPHYQWFKNELPLTHETKKLYMVPYVDLEHQGTYWCHVYNDRDSQD
+            SKKVEIIIGRTDEAVECTEDELNNLGHPDNKEQTTDQPLAKDKVALLIGNMNYREHPKLK
+            APLVDVYELTNLLRQLDFKVVSLLDLTEYEMRNAVDEFLLLLDKGVYGLLYYAGHGYENF
+            GNSFMVPVDAPNPYRSENCLCVQNILKLMQEKETGLNVFLLDMCRKRNDYDDTIPILDAL
+            KVTANIVFGYATCQGAEAFEIQHSGLANGIFMKFLKDRLLEDKKITVLLDEVAEDMGKCH
+            LTKGKQALEIRSSLSEKRALTDPIQGTEYSAESLVRNLQWAKAHELPESMCLKFDCGVQI
+            QLGFAAEFSNVMIIYTSIVYKPPEIIMCDAYVTDFPLDLDIDPKDANKGTPEETGSYLVS
+            KDLPKHCLYTRLSSLQKLKEHLVFTVCLSYQYSGLEDTVEDKQEVNVGKPLIAKLDMHRG
+            LGRKTCFQTCLMSNGPYQSSAATSGGAGHYHSLQDPFHGVYHSHPGNPSNVTPADSCHCS
+            RTPDAFISSFAHHASCHFSRSNVPVETTDEIPFSFSDRLRISEK
+NTSEQ       2475
+            atgtcgctgttgggggacccgctacaggccctgccgccctcggccgcccccacggggccg
+            ctgctcgcccctccggccggcgcgaccctcaaccgcctgcgggagccgctgctgcggagg
+            ctcagcgagctcctggatcaggcgcccgagggccggggctggaggagactggcggagctg
+            gcggggagtcgcgggcgcctccgcctcagttgcctagacctggagcagtgttctcttaag
+            gtactggagcctgaaggaagccccagcctgtgtctgctgaagttaatgggtgaaaaaggt
+            tgcacagtcacagaattgagtgatttcctgcaggctatggaacacactgaagttcttcag
+            cttctcagccccccaggaataaagattactgtaaacccagagtcaaaggcagtcttggct
+            ggacagtttgtgaaactgtgttgccgggcaactggacatccttttgttcaatatcagtgg
+            ttcaaaatgaataaagagattccaaatggaaatacatcagagcttatttttaatgcagtg
+            catgtaaaagatgcaggcttttatgtctgtcgagttaataacaatttcacctttgaattc
+            agccagtggtcacagctggatgtttgcgacatcccagagagcttccagagaagtgttgat
+            ggcgtctctgaatccaagttgcaaatctgtgttgaaccaacttcccaaaagctgatgcca
+            ggcagcacattggttttacagtgtgttgctgttggaagccctattcctcactaccagtgg
+            ttcaaaaatgaattaccattaacacatgagaccaaaaagctatacatggtgccttatgtg
+            gatttggaacaccaaggaacctactggtgtcatgtatataatgatcgagacagtcaagat
+            agcaagaaggtagaaatcatcataggaagaacagatgaggcagtggagtgcactgaagat
+            gaattaaataatcttggtcatcctgataataaagagcaaacaactgaccagcctttggcg
+            aaggacaaggttgcccttttgataggaaatatgaattaccgggagcaccccaagctcaaa
+            gctcctttggtggatgtgtacgaattgactaacttactgagacagctggacttcaaagtg
+            gtttcactgttggatcttactgaatatgagatgcgtaatgctgtggatgagtttttactc
+            cttttagacaagggagtatatgggttattatattatgcaggacatggttatgaaaatttt
+            gggaacagcttcatggtccccgttgatgctccaaatccatataggtctgaaaattgtctg
+            tgtgtacaaaatatactgaaattgatgcaagaaaaagaaactggacttaatgtgttctta
+            ttggatatgtgtaggaaaagaaatgactacgatgataccattccaatcttggatgcacta
+            aaagtcaccgccaatattgtgtttggatatgccacgtgtcaaggagcagaagcttttgaa
+            atccagcattctggattggcaaatggaatctttatgaaatttttaaaagacagattatta
+            gaagataagaaaatcactgtgttactggatgaagttgcagaagatatgggtaagtgtcac
+            cttaccaaaggcaaacaggctctagagattcgaagtagtttatctgagaagagagcactt
+            actgatccaatacagggaacagaatattctgctgaatctcttgtgcggaatctacagtgg
+            gccaaggctcatgaacttccagaaagtatgtgtcttaagtttgactgtggtgttcagatt
+            caattaggatttgcagctgagttttccaatgtcatgatcatctatacaagtatagtttac
+            aaaccaccggagataataatgtgtgatgcctacgttactgattttccacttgatctagat
+            attgatccaaaagatgcaaataaaggcacacctgaagaaactggcagctacttggtatca
+            aaggatcttcccaagcattgcctctataccagactcagttcactgcaaaaattaaaggaa
+            catctagtcttcacagtatgtttatcatatcagtactcaggattggaagatactgtagag
+            gacaagcaggaagtgaatgttgggaaacctctcattgctaaattagacatgcatcgaggt
+            ttgggaaggaagacttgctttcaaacttgtcttatgtctaatggtccttaccagagttct
+            gcagccacctcaggaggagcagggcattatcactcattgcaagacccattccatggtgtt
+            taccattcacatcctggtaatccaagtaatgttacaccagcagatagctgtcattgcagc
+            cggactccagatgcatttatttcaagtttcgctcaccatgcttcatgtcattttagtaga
+            agtaatgtgccagtagagacaactgatgaaataccatttagtttctctgacaggctcaga
+            atttctgaaaaatga
+///

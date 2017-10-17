@@ -1,0 +1,81 @@
+ENTRY       5888              CDS       T01001
+NAME        RAD51, BRCC5, FANCR, HRAD51, HsRad51, HsT16930, MRMV2, RAD51A, RECA
+DEFINITION  (RefSeq) RAD51 recombinase
+ORTHOLOGY   K04482  DNA repair protein RAD51
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+            hsa03460  Fanconi anemia pathway
+            hsa05200  Pathways in cancer
+            hsa05212  Pancreatic cancer
+DISEASE     H01287  Congenital mirror movements (CMM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                5888 (RAD51)
+               03460 Fanconi anemia pathway
+                5888 (RAD51)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5888 (RAD51)
+               05212 Pancreatic cancer
+                5888 (RAD51)
+            Membrane trafficking [BR:hsa04131]
+             Protein recycling
+              Rab GTPases and associated proteins
+               Others
+                5888 (RAD51)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               BRCC complex
+                5888 (RAD51)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                BRCA complex
+                 5888 (RAD51)
+                RecA family proteins
+                 5888 (RAD51)
+               FA (Fanconi anemia) pathway
+                Other FA pathway factors
+                 5888 (RAD51)
+POSITION    15q15.1
+MOTIF       Pfam: Rad51 AAA_25 RecA HHH_5 ATPase HhH-GPD HHH
+DBLINKS     NCBI-GeneID: 5888
+            NCBI-ProteinID: NP_002866
+            OMIM: 179617
+            HGNC: 9817
+            Ensembl: ENSG00000051180
+            Vega: OTTHUMG00000130067
+            Pharos: Q06609(Tchem)
+            UniProt: Q06609
+STRUCTURE   PDB: 1N0W 5NP7 5JZC 5H1B 5H1C 1B22
+AASEQ       339
+            MAMQMQLEANADTSVEEESFGPQPISRLEQCGINANDVKKLEEAGFHTVEAVAYAPKKEL
+            INIKGISEAKADKILAEAAKLVPMGFTTATEFHQRRSEIIQITTGSKELDKLLQGGIETG
+            SITEMFGEFRTGKTQICHTLAVTCQLPIDRGGGEGKAMYIDTEGTFRPERLLAVAERYGL
+            SGSDVLDNVAYARAFNTDHQTQLLYQASAMMVESRYALLIVDSATALYRTDYSGRGELSA
+            RQMHLARFLRMLLRLADEFGVAVVITNQVVAQVDGAAMFAADPKKPIGGNIIAHASTTRL
+            YLRKGRGETRICKIYDSPCLPEAEAMFAINADGVGDAKD
+NTSEQ       1020
+            atggcaatgcagatgcagcttgaagcaaatgcagatacttcagtggaagaagaaagcttt
+            ggcccacaacccatttcacggttagagcagtgtggcataaatgccaacgatgtgaagaaa
+            ttggaagaagctggattccatactgtggaggctgttgcctatgcgccaaagaaggagcta
+            ataaatattaagggaattagtgaagccaaagctgataaaattctggctgaggcagctaaa
+            ttagttccaatgggtttcaccactgcaactgaattccaccaaaggcggtcagagatcata
+            cagattactactggctccaaagagcttgacaaactacttcaaggtggaattgagactgga
+            tctatcacagaaatgtttggagaattccgaactgggaagacccagatctgtcatacgcta
+            gctgtcacctgccagcttcccattgaccggggtggaggtgaaggaaaggccatgtacatt
+            gacactgagggtacctttaggccagaacggctgctggcagtggctgagaggtatggtctc
+            tctggcagtgatgtcctggataatgtagcatatgctcgagcgttcaacacagaccaccag
+            acccagctcctttatcaagcatcagccatgatggtagaatctaggtatgcactgcttatt
+            gtagacagtgccaccgccctttacagaacagactactcgggtcgaggtgagctttcagcc
+            aggcagatgcacttggccaggtttctgcggatgcttctgcgactcgctgatgagtttggt
+            gtagcagtggtaatcactaatcaggtggtagctcaagtggatggagcagcgatgtttgct
+            gctgatcccaaaaaacctattggaggaaatatcatcgcccatgcatcaacaaccagattg
+            tatctgaggaaaggaagaggggaaaccagaatctgcaaaatctacgactctccctgtctt
+            cctgaagctgaagctatgttcgccattaatgcagatggagtgggagatgccaaagactga
+///

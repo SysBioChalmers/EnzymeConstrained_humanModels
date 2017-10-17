@@ -1,0 +1,66 @@
+ENTRY       6996              CDS       T01001
+NAME        TDG, hTDG
+DEFINITION  (RefSeq) thymine DNA glycosylase
+ORTHOLOGY   K20813  thymine-DNA glycosylase [EC:3.2.2.29]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                6996 (TDG)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.29  thymine-DNA glycosylase
+                 6996 (TDG)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 6996 (TDG)
+POSITION    12q23.3
+MOTIF       Pfam: UDG Pox_Ag35
+DBLINKS     NCBI-GeneID: 6996
+            NCBI-ProteinID: NP_003202
+            OMIM: 601423
+            HGNC: 11700
+            Ensembl: ENSG00000139372
+            Vega: OTTHUMG00000168418
+            Pharos: Q13569(Tbio)
+            UniProt: Q13569 B4E127
+STRUCTURE   PDB: 4Z47 5HF7 5FF8 5JXY 4Z3A 4XEG 4Z7Z 4Z7B 2D07 1WYW 5T2W
+                 5CYS 4FNC 4JGC 2RBA 3UFJ 3UO7 3UOB
+AASEQ       410
+            MEAENAGSYSLQQAQAFYTFPFQQLMAEAPNMAVVNEQQMPEEVPAPAPAQEPVQEAPKG
+            RKRKPRTTEPKQPVEPKKPVESKKSGKSAKSKEKQEKITDTFKVKRKVDRFNGVSEAELL
+            TKTLPDILTFNLDIVIIGINPGLMAAYKGHHYPGPGNHFWKCLFMSGLSEVQLNHMDDHT
+            LPGKYGIGFTNMVERTTPGSKDLSSKEFREGGRILVQKLQKYQPRIAVFNGKCIYEIFSK
+            EVFGVKVKNLEFGLQPHKIPDTETLCYVMPSSSARCAQFPRAQDKVHYYIKLKDLRDQLK
+            GIERNMDVQEVQYTFDLQLAQEDAKKMAVKEEKYDPGYEAAYGGAYGENPCSSEPCGFSS
+            NGLIESVELRGESAFSGIPNGQWMTQSFTDQIPSFSNHCGTQEQEEESHA
+NTSEQ       1233
+            atggaagcggagaacgcgggcagctattcccttcagcaagctcaagctttttatacgttt
+            ccatttcaacaactgatggctgaagctcctaatatggcagttgtgaatgaacagcaaatg
+            ccagaagaagttccagccccagctcctgctcaggaaccagtgcaagaggctccaaaagga
+            agaaaaagaaaacccagaacaacagaaccaaaacaaccagtggaacccaaaaaacctgtt
+            gagtcaaaaaaatctggcaagtctgcaaaatcaaaagaaaaacaagaaaaaattacagac
+            acatttaaagtaaaaagaaaagtagaccgttttaatggtgtttcagaagctgaacttctg
+            accaagactctccccgatattttgaccttcaatctggacattgtcattattggcataaac
+            ccgggactaatggctgcttacaaagggcatcattaccctggacctggaaaccatttttgg
+            aagtgtttgtttatgtcagggctcagtgaggtccagctgaaccatatggatgatcacact
+            ctaccagggaagtatggtattggatttaccaacatggtggaaaggaccacgcccggcagc
+            aaagatctctccagtaaagaatttcgtgaaggaggacgtattctagtacagaaattacag
+            aaatatcagccacgaatagcagtgtttaatggaaaatgtatttatgaaatttttagtaaa
+            gaagtttttggagtaaaggttaagaacttggaatttgggcttcagccccataagattcca
+            gacacagaaactctctgctatgttatgccatcatccagtgcaagatgtgctcagtttcct
+            cgagcccaagacaaagttcattactacataaaactgaaggacttaagagatcagttgaaa
+            ggcattgaacgaaatatggacgttcaagaggtgcaatatacatttgacctacagcttgcc
+            caagaggatgcaaagaagatggctgttaaggaagaaaaatatgatccaggttatgaggca
+            gcatatggtggtgcttacggagaaaatccatgcagcagtgaaccttgtggcttctcttca
+            aatgggctaattgagagcgtggagttaagaggagaatcagctttcagtggcattcctaat
+            gggcagtggatgacccagtcatttacagaccaaattccttcctttagtaatcactgtgga
+            acacaagaacaggaagaagaaagccatgcttaa
+///

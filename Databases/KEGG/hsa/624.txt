@@ -1,0 +1,96 @@
+ENTRY       624               CDS       T01001
+NAME        BDKRB2, B2R, BK-2, BK2, BKR2, BRB2
+DEFINITION  (RefSeq) bradykinin receptor B2
+ORTHOLOGY   K03916  bradykinin receptor B2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04610  Complement and coagulation cascades
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05200  Pathways in cancer
+DRUG_TARGET Deltibant: D03677
+            Icatibant: D04492
+            Labradimil: D08937
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                624 (BDKRB2)
+               04071 Sphingolipid signaling pathway
+                624 (BDKRB2)
+               04022 cGMP - PKG signaling pathway
+                624 (BDKRB2)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                624 (BDKRB2)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                624 (BDKRB2)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                624 (BDKRB2)
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                624 (BDKRB2)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                624 (BDKRB2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                624 (BDKRB2)
+              Infectious diseases
+               05142 Chagas disease (American trypanosomiasis)
+                624 (BDKRB2)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Cardiovascular peptide
+               Bradykinin
+                624 (BDKRB2)
+POSITION    14q32.2
+MOTIF       Pfam: 7tm_1
+DBLINKS     NCBI-GeneID: 624
+            NCBI-ProteinID: NP_000614
+            OMIM: 113503
+            HGNC: 1030
+            Ensembl: ENSG00000168398
+            Vega: OTTHUMG00000171408
+            Pharos: P30411(Tclin)
+            UniProt: P30411
+AASEQ       391
+            MFSPWKISMFLSVREDSVPTTASFSADMLNVTLQGPTLNGTFAQSKCPQVEWLGWLNTIQ
+            PPFLWVLFVLATLENIFVLSVFCLHKSSCTVAEIYLGNLAAADLILACGLPFWAITISNN
+            FDWLFGETLCRVVNAIISMNLYSSICFLMLVSIDRYLALVKTMSMGRMRGVRWAKLYSLV
+            IWGCTLLLSSPMLVFRTMKEYSDEGHNVTACVISYPSLIWEVFTNMLLNVVGFLLPLSVI
+            TFCTMQIMQVLRNNEMQKFKEIQTERRATVLVLVVLLLFIICWLPFQISTFLDTLHRLGI
+            LSSCQDERIIDVITQIASFMAYSNSCLNPLVYVIVGKRFRKKSWEVYQGVCQKGGCRSEP
+            IQMENSMGTLRTSISVERQIHKLQDWAGSRQ
+NTSEQ       1176
+            atgttctctccctggaagatatcaatgtttctgtctgttcgtgaggactccgtgcccacc
+            acggcctctttcagcgccgacatgctcaatgtcaccttgcaagggcccactcttaacggg
+            acctttgcccagagcaaatgcccccaagtggagtggctgggctggctcaacaccatccag
+            ccccccttcctctgggtgctgttcgtgctggccaccctagagaacatctttgtcctcagc
+            gtcttctgcctgcacaagagcagctgcacggtggcagagatctacctggggaacctggcc
+            gcagcagacctgatcctggcctgcgggctgcccttctgggccatcaccatctccaacaac
+            ttcgactggctctttggggagacgctctgccgcgtggtgaatgccattatctccatgaac
+            ctgtacagcagcatctgtttcctgatgctggtgagcatcgaccgctacctggccctggtg
+            aaaaccatgtccatgggccggatgcgcggcgtgcgctgggccaagctctacagcttggtg
+            atctgggggtgtacgctgctcctgagctcacccatgctggtgttccggaccatgaaggag
+            tacagcgatgagggccacaacgtcaccgcttgtgtcatcagctacccatccctcatctgg
+            gaagtgttcaccaacatgctcctgaatgtcgtgggcttcctgctgcccctgagtgtcatc
+            accttctgcacgatgcagatcatgcaggtgctgcggaacaacgagatgcagaagttcaag
+            gagatccagacagagaggagggccacggtgctagtcctggttgtgctgctgctattcatc
+            atctgctggctgcccttccagatcagcaccttcctggatacgctgcatcgcctcggcatc
+            ctctccagctgccaggacgagcgcatcatcgatgtaatcacacagatcgcctccttcatg
+            gcctacagcaacagctgcctcaacccactggtgtacgtgatcgtgggcaagcgcttccga
+            aagaagtcttgggaggtgtaccagggagtgtgccagaaagggggctgcaggtcagaaccc
+            attcagatggagaactccatgggcacactgcggacctccatctccgtggaacgccagatt
+            cacaaactgcaggactgggcagggagcagacagtga
+///

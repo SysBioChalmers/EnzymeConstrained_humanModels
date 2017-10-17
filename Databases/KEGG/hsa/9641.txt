@@ -1,0 +1,117 @@
+ENTRY       9641              CDS       T01001
+NAME        IKBKE, IKK-E, IKK-i, IKKE, IKKI
+DEFINITION  (RefSeq) inhibitor of nuclear factor kappa B kinase subunit epsilon
+ORTHOLOGY   K07211  inhibitor of nuclear factor kappa-B kinase subunit epsilon [EC:2.7.11.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04657  IL-17 signaling pathway
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                9641 (IKBKE)
+               04621 NOD-like receptor signaling pathway
+                9641 (IKBKE)
+               04622 RIG-I-like receptor signaling pathway
+                9641 (IKBKE)
+               04623 Cytosolic DNA-sensing pathway
+                9641 (IKBKE)
+               04657 IL-17 signaling pathway
+                9641 (IKBKE)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                9641 (IKBKE)
+               05164 Influenza A
+                9641 (IKBKE)
+               05161 Hepatitis B
+                9641 (IKBKE)
+               05160 Hepatitis C
+                9641 (IKBKE)
+               05168 Herpes simplex infection
+                9641 (IKBKE)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                9641 (IKBKE)
+               05165 Human papillomavirus infection
+                9641 (IKBKE)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.10  IkappaB kinase
+                 9641 (IKBKE)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Other group
+              IKK family [OT]
+               9641 (IKBKE)
+POSITION    1q32.1
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like zf-RING_9 RIO1 TPR_MLP1_2
+DBLINKS     NCBI-GeneID: 9641
+            NCBI-ProteinID: NP_054721
+            OMIM: 605048
+            HGNC: 14552
+            Ensembl: ENSG00000263528
+            Vega: OTTHUMG00000184613
+            Pharos: Q14164(Tchem)
+            UniProt: Q14164
+AASEQ       716
+            MQSTANYLWHTDDLLGQGATASVYKARNKKSGELVAVKVFNTTSYLRPREVQVREFEVLR
+            KLNHQNIVKLFAVEETGGSRQKVLVMEYCSSGSLLSVLESPENAFGLPEDEFLVVLRCVV
+            AGMNHLRENGIVHRDIKPGNIMRLVGEEGQSIYKLTDFGAARELDDDEKFVSVYGTEEYL
+            HPDMYERAVLRKPQQKAFGVTVDLWSIGVTLYHAATGSLPFIPFGGPRRNKEIMYRITTE
+            KPAGAIAGAQRRENGPLEWSYTLPITCQLSLGLQSQLVPILANILEVEQAKCWGFDQFFA
+            ETSDILQRVVVHVFSLSQAVLHHIYIHAHNTIAIFQEAVHKQTSVAPRHQEYLFEGHLCV
+            LEPSVSAQHIAHTTASSPLTLFSTAIPKGLAFRDPALDVPKFVPKVDLQADYNTAKGVLG
+            AGYQALRLARALLDGQELMFRGLHWVMEVLQATCRRTLEVARTSLLYLSSSLGTERFSSV
+            AGTPEIQELKAAAELRSRLRTLAEVLSRCSQNITETQESLSSLNRELVKSRDQVHEDRSI
+            QQIQCCLDKMNFIYKQFKKSRMRPGLGYNEEQIHKLDKVNFSHLAKRLLQVFQEECVQKY
+            QASLVTHGKRMRVVHETRNHLRLVGCSVAACNTEAQGVQESLSKLLEELSHQLLQDRAKG
+            AQASPPPIAPYPSPTRKDLLLHMQELCEGMKLLASDLLDNNRIIERLNRVPAPPDV
+NTSEQ       2151
+            atgcagagcacagccaattacctgtggcacacagatgacctgctggggcagggggccact
+            gccagtgtgtacaaggcccgcaacaagaaatccggagagctggttgctgtgaaggtcttc
+            aacactaccagctacctgcggccccgcgaggtgcaggtgagggagtttgaggtcctgcgg
+            aagctgaaccaccagaacattgtcaagctctttgcggtggaggagacgggcggaagccgg
+            cagaaggtactggtgatggagtactgctccagtgggagcctgctgagtgtgctggagagc
+            cctgagaatgcctttgggctgcctgaggatgagttcctggtggtgctgcgctgtgtggtg
+            gccggcatgaaccacctgcgggagaacggcattgtgcatcgcgacatcaagccggggaac
+            atcatgcgcctcgtaggggaggaggggcagagcatctacaagctgacagacttcggcgct
+            gcccgggagctggatgatgatgagaagttcgtctcggtctatgggactgaggagtacctg
+            catcccgacatgtatgagcgggcggtgcttcgaaagccccagcaaaaagcgttcggggtg
+            actgtggatctctggagcattggagtgaccttgtaccatgcagccactggcagcctgccc
+            ttcatcccctttggtgggccacggcggaacaaggagatcatgtaccggatcaccacggag
+            aagccggctggggccattgcaggtgcccagaggcgggagaacgggcccctggagtggagc
+            tacaccctccccatcacctgccagctgtcactggggctgcagagccagctggtgcccatc
+            ctggccaacatcctggaggtggagcaggccaagtgctggggcttcgaccagttctttgcg
+            gagaccagtgacatcctgcagcgagttgtcgtccatgtcttctccctgtcccaggcagtc
+            ctgcaccacatctatatccatgcccacaacacgatagccattttccaggaggccgtgcac
+            aagcagaccagtgtggccccccgacaccaggagtacctctttgagggtcacctctgtgtc
+            ctcgagcccagcgtctcagcacagcacatcgcccacacgacggcaagcagccccctgacc
+            ctcttcagcacagccatccctaaggggctggccttcagggaccctgctctggacgtcccc
+            aagttcgtccccaaagtggacctgcaggcggattacaacactgccaagggcgtgttgggc
+            gccggctaccaggccctgcggctggcacgggccctgctggatgggcaggagctaatgttt
+            cgggggctgcactgggtcatggaggtgctccaggccacatgcagacggactctggaagtg
+            gcaaggacatccctcctctacctcagcagcagcctgggaactgagaggttcagcagcgtg
+            gctggaacgcctgagatccaggaactgaaggcggctgcagaactgaggtccaggctgcgg
+            actctagcggaggtcctctccagatgctcccaaaatatcacggagacccaggagagcctg
+            agcagcctgaaccgggagctggtgaagagccgggatcaggtacatgaggacagaagcatc
+            cagcagattcagtgctgtttggacaagatgaacttcatctacaaacagttcaagaagtct
+            aggatgaggccagggcttggctacaacgaggagcagattcacaagctggataaggtgaat
+            ttcagtcatttagccaaaagactcctgcaggtgttccaggaggagtgcgtgcagaagtat
+            caagcgtccttagtcacacacggcaagaggatgagggtggtgcacgagaccaggaaccac
+            ctgcgcctggttggctgttctgtggctgcctgtaacacagaagcccagggggtccaggag
+            agtctcagcaagctcctggaagagctatctcaccagctccttcaggaccgagcaaagggg
+            gctcaggcctcgccgcctcccatagctccttaccccagccctacacgaaaggacctgctt
+            ctccacatgcaagagctctgcgaggggatgaagctgctggcatctgacctcctggacaac
+            aaccgcatcatcgaacggctaaatagagtcccagcacctcctgatgtctga
+///

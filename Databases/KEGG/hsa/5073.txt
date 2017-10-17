@@ -1,0 +1,81 @@
+ENTRY       5073              CDS       T01001
+NAME        PARN, DAN, DKCB6, PFBMFT4
+DEFINITION  (RefSeq) poly(A)-specific ribonuclease
+ORTHOLOGY   K01148  poly(A)-specific ribonuclease [EC:3.1.13.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+DISEASE     H00507  Dyskeratosis congenita (DC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                5073 (PARN)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.13  Exoribonucleases producing 5'-phosphomonoesters
+                3.1.13.4  poly(A)-specific ribonuclease
+                 5073 (PARN)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA degradation factors
+               3'-5' decay
+                Other 3'-5' decay factors
+                 5073 (PARN)
+POSITION    16p13.12
+MOTIF       Pfam: CAF1 RNA_bind R3H NCBP3 RRM_1 VIT
+DBLINKS     NCBI-GeneID: 5073
+            NCBI-ProteinID: NP_002573
+            OMIM: 604212
+            HGNC: 8609
+            Ensembl: ENSG00000140694
+            Vega: OTTHUMG00000173199
+            Pharos: O95453(Tbio)
+            UniProt: O95453 B3KN69
+STRUCTURE   PDB: 3CTR 2A1R 2A1S
+AASEQ       639
+            MEIIRSNFKSNLHKVYQAIEEADFFAIDGEFSGISDGPSVSALTNGFDTPEERYQKLKKH
+            SMDFLLFQFGLCTFKYDYTDSKYITKSFNFYVFPKPFNRSSPDVKFVCQSSSIDFLASQG
+            FDFNKVFRNGIPYLNQEEERQLREQYDEKRSQANGAGALSYVSPNTSKCPVTIPEDQKKF
+            IDQVVEKIEDLLQSEENKNLDLEPCTGFQRKLIYQTLSWKYPKGIHVETLETEKKERYIV
+            ISKVDEEERKRREQQKHAKEQEELNDAVGFSRVIHAIANSGKLVIGHNMLLDVMHTVHQF
+            YCPLPADLSEFKEMTTCVFPRLLDTKLMASTQPFKDIINNTSLAELEKRLKETPFNPPKV
+            ESAEGFPSYDTASEQLHEAGYDAYITGLCFISMANYLGSFLSPPKIHVSARSKLIEPFFN
+            KLFLMRVMDIPYLNLEGPDLQPKRDHVLHVTFPKEWKTSDLYQLFSAFGNIQISWIDDTS
+            AFVSLSQPEQVKIAVNTSKYAESYRIQTYAEYMGRKQEEKQIKRKWTEDSWKEADSKRLN
+            PQCIPYTLQNHYYRNNSFTAPSTVGKRNLSPSQEEAGLEDGVSGEISDTELEQTDSCAEP
+            LSEGRKKAKKLKRMKKELSPAGSISKNSPATLFEVPDTW
+NTSEQ       1920
+            atggagataatcaggagcaattttaagagtaatcttcacaaagtgtaccaggccatagag
+            gaggccgacttcttcgccatcgatggggagttttcaggaatcagtgatggaccttcagtc
+            tctgcattaacaaatggttttgacactccagaagagaggtatcagaagcttaaaaagcat
+            tccatggactttttgctatttcagtttggcctttgcacttttaagtatgactacacagat
+            tcaaagtatataacgaagtcatttaacttctatgttttcccgaaacccttcaatagatcc
+            tcaccagatgtcaaatttgtttgtcagagctccagcattgactttctagcaagccaggga
+            tttgattttaataaagtttttcgaaatggaattccatatttaaatcaggaagaagaaaga
+            cagttaagagagcagtatgatgaaaaacgttcacaggcgaatggtgcaggagctctgtcc
+            tatgtatctcctaacacttcaaaatgtcctgtcacgattcctgaggatcaaaagaagttt
+            attgaccaagtggtagagaaaatagaggatttattacaaagtgaagaaaacaagaacttg
+            gatttagagccatgtaccgggttccaaagaaaactaatttatcagactttgagctggaag
+            tatccgaaaggcattcatgttgagactttagaaactgaaaagaaggagcgatatatagtt
+            atcagcaaagtagatgaagaagaacgcaaaagaagagagcagcagaaacatgccaaagaa
+            caggaggagctgaatgatgctgtgggattttctagagtcattcacgccattgctaattcg
+            ggaaaacttgttattggacacaatatgctcttggacgtcatgcacacagttcatcagttc
+            tactgccctctgcctgcggacttaagtgagtttaaagagatgacaacatgtgttttcccc
+            agactcttggatactaaattgatggccagcacacaaccttttaaggatatcattaacaac
+            acatcccttgcggaattggaaaagcggttaaaagagacacctttcaaccctcctaaagtt
+            gaaagtgccgaaggttttccaagttatgacacagcctctgaacaactccacgaggcaggc
+            tacgatgcctacatcacagggctgtgcttcatctccatggccaattacctaggttctttt
+            ctcagccctccaaaaattcatgtgtctgccagatcaaaactcattgaacctttttttaac
+            aagttatttcttatgagggtcatggatatcccctatctaaacttggaaggaccagacttg
+            cagcctaaacgtgatcatgttctccatgtgacattccccaaagaatggaaaaccagcgac
+            ctttaccagcttttcagtgcctttggtaacattcagatatcctggattgatgacacatca
+            gcatttgtttcccttagccagcccgagcaagtaaagattgctgtcaataccagcaaatat
+            gcagaaagctatcggatccaaacctatgctgaatatatggggagaaaacaggaagagaag
+            cagatcaaaagaaagtggactgaagatagctggaaggaggctgacagcaaacggttaaac
+            ccccagtgcataccctacaccctgcagaatcactattaccgcaacaatagttttacagct
+            cccagcacagtaggaaagagaaatttgagtcctagtcaagaggaagctggcctggaggac
+            ggagtgtcaggggagatttccgacactgagcttgagcagaccgattcctgtgcagagccc
+            ctctcagagggaaggaaaaaggccaagaaattaaaaagaatgaagaaggagctttctcca
+            gcaggaagcatctcgaagaacagccctgccacactctttgaagttcctgacacatggtaa
+///

@@ -1,0 +1,96 @@
+ENTRY       4353              CDS       T01001
+NAME        MPO
+DEFINITION  (RefSeq) myeloperoxidase
+ORTHOLOGY   K10789  myeloperoxidase [EC:1.11.2.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+DISEASE     H00101  Other phagocyte defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                4353 (MPO)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                4353 (MPO)
+               05221 Acute myeloid leukemia
+                4353 (MPO)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.2  Peroxygenases
+                1.11.2.2  myeloperoxidase
+                 4353 (MPO)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               4353 (MPO)
+POSITION    17q22
+MOTIF       Pfam: An_peroxidase
+DBLINKS     NCBI-GeneID: 4353
+            NCBI-ProteinID: NP_000241
+            OMIM: 606989
+            HGNC: 7218
+            Ensembl: ENSG00000005381
+            Vega: OTTHUMG00000178922
+            Pharos: P05164(Tchem)
+            UniProt: P05164
+STRUCTURE   PDB: 5MFA 5FIW 1D2V 1CXP 1DNU 1DNW 1D7W 1D5L 4C1M 4DL1 1MHL
+                 3ZS0 5UZU 3ZS1 3F9P 4EJX
+AASEQ       745
+            MGVPFFSSLRCMVDLGPCWAGGLTAEMKLLLALAGLLAILATPQPSEGAAPAVLGEVDTS
+            LVLSSMEEAKQLVDKAYKERRESIKQRLRSGSASPMELLSYFKQPVAATRTAVRAADYLH
+            VALDLLERKLRSLWRRPFNVTDVLTPAQLNVLSKSSGCAYQDVGVTCPEQDKYRTITGMC
+            NNRRSPTLGASNRAFVRWLPAEYEDGFSLPYGWTPGVKRNGFPVALARAVSNEIVRFPTD
+            QLTPDQERSLMFMQWGQLLDHDLDFTPEPAARASFVTGVNCETSCVQQPPCFPLKIPPND
+            PRIKNQADCIPFFRSCPACPGSNITIRNQINALTSFVDASMVYGSEEPLARNLRNMSNQL
+            GLLAVNQRFQDNGRALLPFDNLHDDPCLLTNRSARIPCFLAGDTRSSEMPELTSMHTLLL
+            REHNRLATELKSLNPRWDGERLYQEARKIVGAMVQIITYRDYLPLVLGPTAMRKYLPTYR
+            SYNDSVDPRIANVFTNAFRYGHTLIQPFMFRLDNRYQPMEPNPRVPLSRVFFASWRVVLE
+            GGIDPILRGLMATPAKLNRQNQIAVDEIRERLFEQVMRIGLDLPALNMQRSRDHGLPGYN
+            AWRRFCGLPQPETVGQLGTVLRNLKLARKLMEQYGTPNNIDIWMGGVSEPLKRKGRVGPL
+            LACIIGTQFRKLRDGDRFWWENEGVFSMQQRQALAQISLPRIICDNTGITTVSKNNIFMS
+            NSYPRDFVNCSTLPALNLASWREAS
+NTSEQ       2238
+            atgggggttcccttcttctcttctctcagatgcatggtggacttaggaccttgctgggct
+            gggggtctcactgcagagatgaagctgcttctggccctagcagggctcctggccattctg
+            gccacgccccagccctctgaaggtgctgctccagctgtcctgggggaggtggacacctcg
+            ttggtgctgagctccatggaggaggccaagcagctggtggacaaggcctacaaggagcgg
+            cgggaaagcatcaagcagcggcttcgcagcggctcagccagccccatggaactcctatcc
+            tacttcaagcagccggtggcagccaccaggacggcggtgagggccgctgactacctgcac
+            gtggctctagacctgctggagaggaagctgcggtccctgtggcgaaggccattcaatgtc
+            actgatgtgctgacgcccgcccagctgaatgtgttgtccaagtcaagcggctgcgcctac
+            caggacgtgggggtgacttgcccggagcaggacaaataccgcaccatcaccgggatgtgc
+            aacaacagacgcagccccacgctgggggcctccaaccgtgcctttgtgcgctggctgccg
+            gcggagtatgaggacggcttctctcttccctacggctggacgcccggggtcaagcgcaac
+            ggcttcccggtggctctggctcgcgcggtctccaacgagatcgtgcgcttccccactgat
+            cagctgactccggaccaggagcgctcactcatgttcatgcaatggggccagctgttggac
+            cacgacctcgacttcacccctgagccggccgcccgggcctccttcgtcactggcgtcaac
+            tgcgagaccagctgcgttcagcagccgccctgcttcccgctcaagatcccgcccaatgac
+            ccccgcatcaagaaccaagccgactgcatcccgttcttccgctcctgcccggcttgcccc
+            gggagcaacatcaccatccgcaaccagatcaacgcgctcacttccttcgtggacgccagc
+            atggtgtacggcagcgaggagcccctggccaggaacctgcgcaacatgtccaaccagctg
+            gggctgctggccgtcaaccagcgcttccaagacaacggccgggccctgctgccctttgac
+            aacctgcacgatgacccctgtctcctcaccaaccgctcagcgcgcatcccctgcttcctg
+            gcaggggacacccgttccagtgagatgcccgagctcacctccatgcacaccctcttactt
+            cgggagcacaaccggctggccacagagctcaagagcctgaaccctaggtgggatggggag
+            aggctctaccaggaagcccggaagatcgtgggggccatggtccagatcatcacttaccgg
+            gactacctgcccctggtgctggggccaacggccatgaggaagtacctgcccacgtaccgt
+            tcctacaatgactcagtggacccacgcatcgccaacgtcttcaccaatgccttccgctac
+            ggccacaccctcatccaacccttcatgttccgcctggacaatcggtaccagcccatggaa
+            cccaacccccgtgtccccctcagcagggtcttttttgcctcctggagggtcgtgctggaa
+            ggtggcattgaccccatcctccggggcctcatggccacccctgccaagctgaatcgtcag
+            aaccaaattgcagtggatgagatccgggagcgattgtttgagcaggtcatgaggattggg
+            ctggacctgcctgctctgaacatgcagcgcagcagggaccacggcctcccaggatacaat
+            gcctggaggcgcttctgtgggctcccgcagcctgaaactgtgggccagctgggcacggtg
+            ctgaggaacctgaaattggcgaggaaactgatggagcagtatggcacgcccaacaacatc
+            gacatctggatgggcggcgtgtccgagcctctgaagcgcaaaggccgcgtgggcccactc
+            ctcgcctgcatcatcggtacccagttcaggaagctccgggatggtgatcggttttggtgg
+            gagaacgagggtgtgttcagcatgcagcagcgacaggccctggcccagatctcattgccc
+            cggatcatctgcgacaacacaggcatcaccaccgtgtctaagaacaacatcttcatgtcc
+            aactcatatccccgggactttgtcaactgcagtacacttcctgcattgaacctggcttcc
+            tggagggaagcctcctag
+///

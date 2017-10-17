@@ -1,0 +1,80 @@
+ENTRY       279               CDS       T01001
+NAME        AMY2A, AMY2, PA
+DEFINITION  (RefSeq) amylase, alpha 2A (pancreatic)
+ORTHOLOGY   K01176  alpha-amylase [EC:3.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+            hsa04972  Pancreatic secretion
+            hsa04973  Carbohydrate digestion and absorption
+DRUG_TARGET Acarbose: D00216
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                279 (AMY2A)
+             Organismal Systems
+              Digestive system
+               04972 Pancreatic secretion
+                279 (AMY2A)
+               04973 Carbohydrate digestion and absorption
+                279 (AMY2A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.1  alpha-amylase
+                 279 (AMY2A)
+POSITION    1p21.1
+MOTIF       Pfam: Alpha-amylase_C Alpha-amylase DUF3078
+DBLINKS     NCBI-GeneID: 279
+            NCBI-ProteinID: NP_000690
+            OMIM: 104650
+            HGNC: 477
+            Ensembl: ENSG00000243480
+            Vega: OTTHUMG00000011023
+            Pharos: P04746(Tclin)
+            UniProt: P04746 Q53F26
+STRUCTURE   PDB: 4X9Y 4GQR 5EMY 4W93 4GQQ 5E0F 3IJ8 3OLI 3OLE 1HNY 5KEZ
+                 3IJ9 3BAK 3BAX 3BAI 1XCX 1U30 1KBK 1KBB 1U2Y 1U33 2QV4
+                 3BAY 3OLD 3IJ7 3BAW 1XGZ 1XH0 1XCW 1XD0 1KGU 1KGX 2CPU
+                 3CPU 1CPU 1BSI 1XH1 3BAJ 1KGW 1KB3 1XH2 1XD1 5TD4 3OLG
+                 2QMK 1B2Y
+AASEQ       511
+            MKFFLLLFTIGFCWAQYSPNTQQGRTSIVHLFEWRWVDIALECERYLAPKGFGGVQVSPP
+            NENVAIYNPFRPWWERYQPVSYKLCTRSGNEDEFRNMVTRCNNVGVRIYVDAVINHMCGN
+            AVSAGTSSTCGSYFNPGSRDFPAVPYSGWDFNDGKCKTGSGDIENYNDATQVRDCRLTGL
+            LDLALEKDYVRSKIAEYMNHLIDIGVAGFRLDASKHMWPGDIKAILDKLHNLNSNWFPAG
+            SKPFIYQEVIDLGGEPIKSSDYFGNGRVTEFKYGAKLGTVIRKWNGEKMSYLKNWGEGWG
+            FVPSDRALVFVDNHDNQRGHGAGGASILTFWDARLYKMAVGFMLAHPYGFTRVMSSYRWP
+            RQFQNGNDVNDWVGPPNNNGVIKEVTINPDTTCGNDWVCEHRWRQIRNMVIFRNVVDGQP
+            FTNWYDNGSNQVAFGRGNRGFIVFNNDDWSFSLTLQTGLPAGTYCDVISGDKINGNCTGI
+            KIYVSDDGKAHFSISNSAEDPFIAIHAESKL
+NTSEQ       1536
+            atgaagttctttctgttgcttttcaccattgggttctgctgggctcagtattccccaaat
+            acacaacaaggacggacatctattgttcatctgtttgaatggcgatgggttgatattgct
+            cttgaatgtgagcgatatttagctccgaagggatttggaggggttcaggtctctccacca
+            aatgaaaatgttgcaatttacaaccctttcagaccttggtgggaaagataccaaccagtt
+            agctataaattatgcacaagatctggaaatgaagatgaatttagaaacatggtgactaga
+            tgtaacaatgttggggttcgtatttatgtggatgctgtaattaatcatatgtgtggtaac
+            gctgtgagtgcaggaacaagcagtacctgtggaagttacttcaaccctggaagtagggac
+            tttccagcagtcccatattctggatgggatttcaatgatggtaaatgtaaaactggaagt
+            ggagatatcgagaactacaatgatgctactcaggtcagagattgtcgtctgactggtctt
+            cttgatcttgcactggagaaggattacgtgcgttctaagattgccgaatatatgaaccat
+            ctcattgacattggtgttgcagggttcagacttgatgcttccaagcacatgtggcctgga
+            gacataaaggcaattttggacaaactgcataatctaaacagtaactggttccctgcagga
+            agtaaacctttcatttaccaggaggtaattgatctgggtggtgagccaattaaaagcagt
+            gactactttggtaatggccgggtgacagaattcaagtatggtgcaaaactcggcacagtt
+            attcgcaagtggaatggagagaagatgtcttacttaaagaactggggagaaggttggggt
+            ttcgtaccttctgacagagcgcttgtctttgtggataaccatgacaatcaacgaggacat
+            ggggctggaggagcctctattcttaccttctgggatgctaggctgtacaaaatggcagtt
+            ggatttatgcttgctcatccttacggatttacacgagtaatgtcaagctaccgttggcca
+            agacagtttcaaaatggaaacgatgttaatgattgggttgggccaccaaataataatgga
+            gtaattaaagaagttactattaatccagacactacttgtggcaatgactgggtctgtgaa
+            catcgatggcgccaaataaggaacatggttattttccgcaatgtagtggatggccagcct
+            tttacaaattggtatgataatgggagcaaccaagtggcttttgggagaggaaacagagga
+            ttcattgttttcaacaatgatgactggtcattttctttaactttgcaaactggtcttcct
+            gctggcacatactgtgatgtcatttctggagataaaattaatggcaattgcacaggcatt
+            aaaatttacgtttctgatgatggcaaagctcatttttctattagtaactctgctgaagat
+            ccatttattgcaattcatgctgaatctaaattgtaa
+///

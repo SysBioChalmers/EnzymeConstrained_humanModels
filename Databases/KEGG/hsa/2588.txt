@@ -1,0 +1,77 @@
+ENTRY       2588              CDS       T01001
+NAME        GALNS, GALNAC6S, GAS, GalN6S, MPS4A
+DEFINITION  (RefSeq) galactosamine (N-acetyl)-6-sulfatase
+ORTHOLOGY   K01132  N-acetylgalactosamine-6-sulfatase [EC:3.1.6.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00531  Glycosaminoglycan degradation
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+MODULE      hsa_M00077  Chondroitin sulfate degradation
+            hsa_M00079  Keratan sulfate degradation
+DISEASE     H00123  Mucopolysaccharidosis type IV (MPS4)
+            H00421  Mucopolysaccharidosis (MPS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00531 Glycosaminoglycan degradation
+                2588 (GALNS)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                2588 (GALNS)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.6  Sulfuric-ester hydrolases
+                3.1.6.4  N-acetylgalactosamine-6-sulfatase
+                 2588 (GALNS)
+POSITION    16q24.3
+MOTIF       Pfam: Sulfatase Sulfatase_C Phosphodiest DUF229
+DBLINKS     NCBI-GeneID: 2588
+            NCBI-ProteinID: NP_000503
+            OMIM: 612222
+            HGNC: 4122
+            Ensembl: ENSG00000141012
+            Vega: OTTHUMG00000137862
+            Pharos: P34059(Tbio)
+            UniProt: P34059 Q96I49
+STRUCTURE   PDB: 4FDI 4FDJ
+AASEQ       522
+            MAAVVAATRWWQLLLVLSAAGMGASGAPQPPNILLLLMDDMGWGDLGVYGEPSRETPNLD
+            RMAAEGLLFPNFYSANPLCSPSRAALLTGRLPIRNGFYTTNAHARNAYTPQEIVGGIPDS
+            EQLLPELLKKAGYVSKIVGKWHLGHRPQFHPLKHGFDEWFGSPNCHFGPYDNKARPNIPV
+            YRDWEMVGRYYEEFPINLKTGEANLTQIYLQEALDFIKRQARHHPFFLYWAVDATHAPVY
+            ASKPFLGTSQRGRYGDAVREIDDSIGKILELLQDLHVADNTFVFFTSDNGAALISAPEQG
+            GSNGPFLCGKQTTFEGGMREPALAWWPGHVTAGQVSHQLGSIMDLFTTSLALAGLTPPSD
+            RAIDGLNLLPTLLQGRLMDRPIFYYRGDTLMAATLGQHKAHFWTWTNSWENFRQGIDFCP
+            GQNVSGVTTHNLEDHTKLPLIFHLGRDPGERFPLSFASAEYQEALSRITSVVQQHQEALV
+            PAQPQLNVCNWAVMNWAPPGCEKLGKCLTPPESIPKKCLWSH
+NTSEQ       1569
+            atggcggcggttgtcgcggcgacgaggtggtggcagctgttgctggtgctcagcgccgcg
+            gggatgggggcctcgggcgccccgcagccccccaacatcctgctcctgctcatggacgac
+            atgggatggggtgacctcggggtgtatggagagccctccagagagaccccgaatttggac
+            cggatggctgcagaagggctgcttttcccaaacttctattctgccaaccctctgtgctcg
+            ccatcgagggcggcactgctcacaggacggctacccatccgcaatggcttctacaccacc
+            aacgcccatgccagaaacgcctacacaccgcaggagattgtgggcggcatcccagactcg
+            gagcagctcctgccggagcttctgaagaaggccggctacgtcagcaagattgtcggcaag
+            tggcatctgggtcacaggccccagttccaccccctgaagcacggatttgatgagtggttt
+            ggatcccccaactgccactttggaccttatgacaacaaggccaggcccaacatccctgtg
+            tacagggactgggagatggttggcagatattatgaagaatttcctattaatctgaagacg
+            ggggaagccaacctcacccagatctacctgcaggaagccctggacttcattaagagacag
+            gcacggcaccacccctttttcctctactgggctgtcgacgccacgcacgcacccgtctat
+            gcctccaaacccttcttgggcaccagtcagcgagggcggtatggagacgccgtccgggag
+            attgatgacagcattgggaagatactggagctcctccaagacctgcacgtcgcggacaac
+            accttcgtcttcttcacgtcggacaacggcgctgccctcatttccgcccccgaacaaggt
+            ggcagcaacggcccctttctgtgtgggaagcagaccacgtttgaaggagggatgagggag
+            cctgccctcgcatggtggccagggcacgtcactgcaggccaggtgagccaccagctgggc
+            agcatcatggacctcttcaccaccagcctggcccttgcgggcctgacgccgcccagcgac
+            agggccattgatggcctcaacctcctccccaccctcctgcagggccggctgatggacagg
+            cctatcttctattaccgtggcgacacgctgatggcggccaccctcgggcagcacaaggct
+            cacttctggacctggaccaactcctgggagaacttcagacagggcattgatttctgccct
+            gggcagaacgtttcaggggtcacaactcacaatctggaagaccacacgaagctgcccctg
+            atcttccacctgggacgggacccaggggagaggttccccctcagctttgccagcgccgag
+            taccaggaggccctcagcaggatcacctcggtcgtccagcagcaccaggaggccttggtc
+            cccgcgcagccccagctcaacgtgtgcaactgggcggtcatgaactgggcacctccgggc
+            tgtgaaaagttagggaagtgtctgacacctccagaatccattcccaagaagtgcctctgg
+            tcccactag
+///

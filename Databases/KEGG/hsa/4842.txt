@@ -1,0 +1,173 @@
+ENTRY       4842              CDS       T01001
+NAME        NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS
+DEFINITION  (RefSeq) nitric oxide synthase 1
+ORTHOLOGY   K13240  nitric-oxide synthase, brain [EC:1.14.13.39]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+            hsa04020  Calcium signaling pathway
+            hsa04145  Phagosome
+            hsa04371  Apelin signaling pathway
+            hsa04713  Circadian entrainment
+            hsa04730  Long-term depression
+            hsa04926  Relaxin signaling pathway
+            hsa04970  Salivary secretion
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+DRUG_TARGET Pimagedine hydrochloride: D05479
+            Tilarginine acetate: D09018
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00220 Arginine biosynthesis
+                4842 (NOS1)
+               00330 Arginine and proline metabolism
+                4842 (NOS1)
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                4842 (NOS1)
+               04020 Calcium signaling pathway
+                4842 (NOS1)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                4842 (NOS1)
+             Organismal Systems
+              Endocrine system
+               04926 Relaxin signaling pathway
+                4842 (NOS1)
+              Digestive system
+               04970 Salivary secretion
+                4842 (NOS1)
+              Nervous system
+               04730 Long-term depression
+                4842 (NOS1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                4842 (NOS1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4842 (NOS1)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                4842 (NOS1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.39  nitric-oxide synthase (NADPH)
+                 4842 (NOS1)
+POSITION    12q24.22
+MOTIF       Pfam: NO_synthase FAD_binding_1 Flavodoxin_1 NAD_binding_1 PDZ PDZ_2
+DBLINKS     NCBI-GeneID: 4842
+            NCBI-ProteinID: NP_000611
+            OMIM: 163731
+            HGNC: 7872
+            Ensembl: ENSG00000089250
+            Vega: OTTHUMG00000137376
+            Pharos: P29475(Tchem)
+            UniProt: P29475 B3VK56 B4DG68 A0PJJ7
+STRUCTURE   PDB: 5VV0 5UO1 5VV1 5UO2 5UO6 5VUZ 5ADF 5VUV 5ADG 4UH5 4UH6
+                 5VV2 5UO4 5UO5 5VUW 4D1N 5FVV 5UO7 5VV4 5FVO 5VUY 5VV5
+                 5VV3 5UO3 5FVW 5ADI 4UCH 5FVU 5VUX 5FVX 4V3U
+AASEQ       1434
+            MEDHMFGVQQIQPNVISVRLFKRKVGGLGFLVKERVSKPPVIISDLIRGGAAEQSGLIQA
+            GDIILAVNGRPLVDLSYDSALEVLRGIASETHVVLILRGPEGFTTHLETTFTGDGTPKTI
+            RVTQPLGPPTKAVDLSHQPPAGKEQPLAVDGASGPGNGPQHAYDDGQEAGSLPHANGLAP
+            RPPGQDPAKKATRVSLQGRGENNELLKEIEPVLSLLTSGSRGVKGGAPAKAEMKDMGIQV
+            DRDLDGKSHKPLPLGVENDRVFNDLWGKGNVPVVLNNPYSEKEQPPTSGKQSPTKNGSPS
+            KCPRFLKVKNWETEVVLTDTLHLKSTLETGCTEYICMGSIMHPSQHARRPEDVRTKGQLF
+            PLAKEFIDQYYSSIKRFGSKAHMERLEEVNKEIDTTSTYQLKDTELIYGAKHAWRNASRC
+            VGRIQWSKLQVFDARDCTTAHGMFNYICNHVKYATNKGNLRSAITIFPQRTDGKHDFRVW
+            NSQLIRYAGYKQPDGSTLGDPANVQFTEICIQQGWKPPRGRFDVLPLLLQANGNDPELFQ
+            IPPELVLEVPIRHPKFEWFKDLGLKWYGLPAVSNMLLEIGGLEFSACPFSGWYMGTEIGV
+            RDYCDNSRYNILEEVAKKMNLDMRKTSSLWKDQALVEINIAVLYSFQSDKVTIVDHHSAT
+            ESFIKHMENEYRCRGGCPADWVWIVPPMSGSITPVFHQEMLNYRLTPSFEYQPDPWNTHV
+            WKGTNGTPTKRRAIGFKKLAEAVKFSAKLMGQAMAKRVKATILYATETGKSQAYAKTLCE
+            IFKHAFDAKVMSMEEYDIVHLEHETLVLVVTSTFGNGDPPENGEKFGCALMEMRHPNSVQ
+            EERKSYKVRFNSVSSYSDSQKSSGDGPDLRDNFESAGPLANVRFSVFGLGSRAYPHFCAF
+            GHAVDTLLEELGGERILKMREGDELCGQEEAFRTWAKKVFKAACDVFCVGDDVNIEKANN
+            SLISNDRSWKRNKFRLTFVAEAPELTQGLSNVHKKRVSAARLLSRQNLQSPKSSRSTIFV
+            RLHTNGSQELQYQPGDHLGVFPGNHEDLVNALIERLEDAPPVNQMVKVELLEERNTALGV
+            ISNWTDELRLPPCTIFQAFKYYLDITTPPTPLQLQQFASLATSEKEKQRLLVLSKGLQEY
+            EEWKWGKNPTIVEVLEEFPSIQMPATLLLTQLSLLQPRYYSISSSPDMYPDEVHLTVAIV
+            SYRTRDGEGPIHHGVCSSWLNRIQADELVPCFVRGAPSFHLPRNPQVPCILVGPGTGIAP
+            FRSFWQQRQFDIQHKGMNPCPMVLVFGCRQSKIDHIYREETLQAKNKGVFRELYTAYSRE
+            PDKPKKYVQDILQEQLAESVYRALKEQGGHIYVCGDVTMAADVLKAIQRIMTQQGKLSAE
+            DAGVFISRMRDDNRYHEDIFGVTLRTYEVTNRLRSESIAFIEESKKDTDEVFSS
+NTSEQ       4305
+            atggaggatcacatgttcggtgttcagcaaatccagcccaatgtcatttctgttcgtctc
+            ttcaagcgcaaagttgggggcctgggatttctggtgaaggagcgggtcagtaagccgccc
+            gtgatcatctctgacctgattcgtgggggcgccgcagagcagagtggcctcatccaggcc
+            ggagacatcattcttgcggtcaacggccggcccttggtggacctgagctatgacagcgcc
+            ctggaggtactcagaggcattgcctctgagacccacgtggtcctcattctgaggggccct
+            gaaggtttcaccacgcacctggagaccacctttacaggtgatgggacccccaagaccatc
+            cgggtgacacagcccctgggtccccccaccaaagccgtggatctgtcccaccagccaccg
+            gccggcaaagaacagcccctggcagtggatggggcctcgggtcccgggaatgggcctcag
+            catgcctacgatgatgggcaggaggctggctcactcccccatgccaacggcctggccccc
+            aggcccccaggccaggaccccgcgaagaaagcaaccagagtcagcctccaaggcagaggg
+            gagaacaatgaactgctcaaggagatagagcctgtgctgagccttctcaccagtgggagc
+            agaggggtcaagggaggggcacctgccaaggcagagatgaaagatatgggaatccaggtg
+            gacagagatttggacggcaagtcacacaaacctctgcccctcggcgtggagaacgaccga
+            gtcttcaatgacctatgggggaagggcaatgtgcctgtcgtcctcaacaacccatattca
+            gagaaggagcagccccccacctcaggaaaacagtcccccacaaagaatggcagcccctcc
+            aagtgtccacgcttcctcaaggtcaagaactgggagactgaggtggttctcactgacacc
+            ctccaccttaagagcacattggaaacgggatgcactgagtacatctgcatgggctccatc
+            atgcatccttctcagcatgcaaggaggcctgaagacgtccgcacaaaaggacagctcttc
+            cctctcgccaaagagtttattgatcaatactattcatcaattaaaagatttggctccaaa
+            gcccacatggaaaggctggaagaggtgaacaaagagatcgacaccactagcacttaccag
+            ctcaaggacacagagctcatctatggggccaagcacgcctggcggaatgcctcgcgctgt
+            gtgggcaggatccagtggtccaagctgcaggtattcgatgcccgtgactgcaccacggcc
+            cacgggatgttcaactacatctgtaaccatgtcaagtatgccaccaacaaagggaacctc
+            aggtctgccatcaccatattcccccagaggacagacggcaagcacgacttccgagtctgg
+            aactcccagctcatccgctacgctggctacaagcagcctgacggctccaccctgggggac
+            ccagccaatgtgcagttcacagagatatgcatacagcagggctggaaaccgcctagaggc
+            cgcttcgatgtcctgccgctcctgcttcaggccaacggcaatgaccctgagctcttccag
+            attcctccagagctggtgttggaagttcccatcaggcaccccaagtttgagtggttcaag
+            gacctggggctgaagtggtacggcctccccgccgtgtccaacatgctcctagagattggc
+            ggcctggagttcagcgcctgtcccttcagtggctggtacatgggcacagagattggtgtc
+            cgcgactactgtgacaactcccgctacaatatcctggaggaagtggccaagaagatgaac
+            ttagacatgaggaagacgtcctccctgtggaaggaccaggcgctggtggagatcaatatc
+            gcggttctctatagcttccagagtgacaaagtgaccattgttgaccatcactccgccacc
+            gagtccttcattaagcacatggagaatgagtaccgctgccgggggggctgccctgccgac
+            tgggtgtggatcgtgccccccatgtccggaagcatcacccctgtgttccaccaggagatg
+            ctcaactaccggctcaccccctccttcgaataccagcctgatccctggaacacgcatgtc
+            tggaaaggcaccaacgggacccccacaaagcggcgagccattggcttcaagaagctagca
+            gaagctgtcaagttctcggccaagctgatggggcaggctatggccaagagggtgaaagcg
+            accatcctctatgccacagagacaggcaaatcgcaagcttatgccaagaccttgtgtgag
+            atcttcaaacacgcctttgatgccaaggtgatgtccatggaagaatatgacattgtgcac
+            ctggaacatgaaactctggtccttgtggtcaccagcacctttggcaatggagatccccct
+            gagaatggggagaaattcggctgtgctttgatggaaatgaggcaccccaactctgtgcag
+            gaagaaaggaagagctacaaggtccgattcaacagcgtctcctcctactctgactcccaa
+            aaatcatcaggcgatgggcccgacctcagagacaactttgagagtgctggacccctggcc
+            aatgtgaggttctcagtttttggcctcggctcacgagcataccctcacttttgcgccttc
+            ggacacgctgtggacaccctcctggaagaactgggaggggagaggatcctgaagatgagg
+            gaaggggatgagctctgtgggcaggaagaggctttcaggacctgggccaagaaggtcttc
+            aaggcagcctgtgatgtcttctgtgtgggagatgatgtcaacattgaaaaggccaacaat
+            tccctcatcagcaatgatcgcagctggaagagaaacaagttccgcctcacctttgtggcc
+            gaagctccagaactcacacaaggtctatccaatgtccacaaaaagcgagtctcagctgcc
+            cggctccttagccgtcaaaacctccagagccctaaatccagtcggtcaactatcttcgtg
+            cgtctccacaccaacgggagccaggagctgcagtaccagcctggggaccacctgggtgtc
+            ttccctggcaaccacgaggacctcgtgaatgccctgatcgagcggctggaggacgcgccg
+            cctgtcaaccagatggtgaaagtggaactgctggaggagcggaacacggctttaggtgtc
+            atcagtaactggacagacgagctccgcctcccgccctgcaccatcttccaggccttcaag
+            tactacctggacatcaccacgccaccaacgcctctgcagctgcagcagtttgcctcccta
+            gctaccagcgagaaggagaagcagcgtctgctggtcctcagcaagggtttgcaggagtac
+            gaggaatggaaatggggcaagaaccccaccatcgtggaggtgctggaggagttcccatct
+            atccagatgccggccaccctgctcctgacccagctgtccctgctgcagccccgctactat
+            tccatcagctcctccccagacatgtaccctgatgaagtgcacctcactgtggccatcgtt
+            tcctaccgcactcgagatggagaaggaccaattcaccacggcgtatgctcctcctggctc
+            aaccggatacaggctgacgaactggtcccctgtttcgtgagaggagcacccagcttccac
+            ctgccccggaacccccaagtcccctgcatcctcgttggaccaggcaccggcattgcccct
+            ttccgaagcttctggcaacagcggcaatttgatatccaacacaaaggaatgaacccctgc
+            cccatggtcctggtcttcgggtgccggcaatccaagatagatcatatctacagggaagag
+            accctgcaggccaagaacaagggggtcttcagagagctgtacacggcttactcccgggag
+            ccagacaaaccaaagaagtacgtgcaggacatcctgcaggagcagctggcggagtctgtg
+            taccgagccctgaaggagcaagggggccacatatacgtctgtggggacgtcaccatggct
+            gctgatgtcctcaaagccatccagcgcatcatgacccagcaggggaagctctcggcagag
+            gacgccggcgtattcatcagccggatgagggatgacaaccgataccatgaggatattttt
+            ggagtcaccctgcgaacgtacgaagtgaccaaccgccttagatctgagtccattgccttc
+            attgaagagagcaaaaaagacaccgatgaggttttcagctcctaa
+///

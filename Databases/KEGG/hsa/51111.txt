@@ -1,0 +1,97 @@
+ENTRY       51111             CDS       T01001
+NAME        KMT5B, CGI-85, CGI85, SUV420H1
+DEFINITION  (RefSeq) lysine methyltransferase 5B
+ORTHOLOGY   K11429  histone-lysine N-methyltransferase SUV420H [EC:2.1.1.43]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                51111 (KMT5B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.43  histone-lysine N-methyltransferase
+                 51111 (KMT5B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                HKMTs (histone lysine methyltransferases)
+                 51111 (KMT5B)
+POSITION    11q13.2
+MOTIF       Pfam: SET
+DBLINKS     NCBI-GeneID: 51111
+            NCBI-ProteinID: NP_060105
+            OMIM: 610881
+            HGNC: 24283
+            Ensembl: ENSG00000110066
+            Vega: OTTHUMG00000150484
+            Pharos: Q4FZB7(Tbio)
+            UniProt: Q4FZB7
+STRUCTURE   PDB: 3S8P 5CPR 5WBV
+AASEQ       885
+            MKWLGESKNMVVNGRRNGGKLSNDHQQNQSKLQHTGKDTLKAGKNAVERRSNRCNGNSGF
+            EGQSRYVPSSGMSAKELCENDDLATSLVLDPYLGFQTHKMNTSAFPSRSSRHFSKSDSFS
+            HNNPVRFRPIKGRQEELKEVIERFKKDEHLEKAFKCLTSGEWARHYFLNKNKMQEKLFKE
+            HVFIYLRMFATDSGFEILPCNRYSSEQNGAKIVATKEWKRNDKIELLVGCIAELSEIEEN
+            MLLRHGENDFSVMYSTRKNCAQLWLGPAAFINHDCRPNCKFVSTGRDTACVKALRDIEPG
+            EEISCYYGDGFFGENNEFCECYTCERRGTGAFKSRVGLPAPAPVINSKYGLRETDKRLNR
+            LKKLGDSSKNSDSQSVSSNTDADTTQEKNNATSNRKSSVGVKKNSKSRTLTRQSMSRIPA
+            SSNSTSSKLTHINNSRVPKKLKKPAKPLLSKIKLRNHCKRLEQKNASRKLEMGNLVLKEP
+            KVVLYKNLPIKKDKEPEGPAQAAVASGCLTRHAAREHRQNPVRGAHSQGESSPCTYITRR
+            SVRTRTNLKEASDIKLEPNTLNGYKSSVTEPCPDSGEQLQPAPVLQEEELAHETAQKGEA
+            KCHKSDTGMSKKKSRQGKLVKQFAKIEESTPVHDSPGKDDAVPDLMGPHSDQGEHSGTVG
+            VPVSYTDCAPSPVGCSVVTSDSFKTKDSFRTAKSKKKRRITRYDAQLILENNSGIPKLTL
+            RRRHDSSSKTNDQENDGMNSSKISIKLSKDHDNDNNLYVAKLNNGFNSGSGSSSTKLKIQ
+            LKRDEENRGSYTEGLHENGVCCSDPLSLLESRMEVDDYSQYEEESTDDSSSSEGDEEEDD
+            YDDDFEDDFIPLPPAKRLRLIVGKDSIDIDISSRRREDQSLRLNA
+NTSEQ       2658
+            atgaagtggttgggagaatccaagaacatggtggtgaatggcaggagaaatggaggcaag
+            ttgtctaatgaccatcagcagaatcaatcaaaattacagcacacggggaaggacaccctg
+            aaggctggcaaaaatgcagtcgagaggaggtcgaacagatgtaatggtaactcgggattt
+            gaaggacagagtcgctatgtaccatcctctggaatgtccgccaaggaactctgtgaaaat
+            gatgacctagcaaccagtttggttcttgatccctatttaggttttcaaacacacaaaatg
+            aatactagcgcctttccttcgaggagctcaaggcatttttcaaaatctgacagtttttct
+            cacaacaaccctgtgagatttaggcctattaaaggaaggcaggaagaactaaaggaagta
+            attgaacgttttaagaaagatgaacacttggagaaagccttcaaatgtttgacttcaggc
+            gaatgggcacggcactattttctcaacaagaataaaatgcaggagaaattattcaaagaa
+            catgtatttatttatttgcgaatgtttgcaactgacagtggatttgaaatattgccatgt
+            aatagatactcatcagaacaaaatggagccaaaatagttgcaacaaaagagtggaaacga
+            aatgacaaaatagaattactggtgggttgtattgccgaactttcagaaattgaggagaac
+            atgctacttagacatggagaaaacgacttcagtgtcatgtactccacaaggaaaaactgt
+            gctcaactctggctgggtcctgctgcgtttataaaccatgattgcagacctaattgtaag
+            tttgtgtcaactggtcgagatacagcatgtgtgaaggctctaagagacattgaacctgga
+            gaagaaatttcttgttattatggagatgggttctttggagaaaataatgagttctgcgag
+            tgttacacttgcgaaagacggggcactggtgcttttaaatccagagtgggactgcctgcg
+            cctgctcctgttatcaatagcaaatatggactcagagaaacagataaacgtttaaatagg
+            cttaaaaagttaggtgacagcagcaaaaattcagacagtcaatctgtcagctctaacact
+            gatgcagataccactcaggaaaaaaacaatgcaacttctaaccgaaaatcttcagttggc
+            gtaaaaaagaatagcaagagcagaacgttaacgaggcaatctatgtcaagaattccagct
+            tcttccaactctacctcatctaagctaactcatataaataattccagggtaccaaagaaa
+            ctgaagaagcctgcaaagcctttactttcaaagataaaattgagaaatcattgcaagcgg
+            ctggagcaaaagaatgcttcaagaaaactcgaaatgggaaacttagtactgaaagagcct
+            aaagtagttctgtataaaaatttgcccattaaaaaagataaggagccagagggaccagcc
+            caagccgcagttgccagcgggtgcttgactagacacgcggcgagagaacacagacagaat
+            cctgtgagaggtgctcattcgcagggggagagctcgccctgcacctacataactcggcgg
+            tcagtgaggacaagaacaaatctgaaggaggcctctgacatcaagcttgaaccaaatacg
+            ttgaatggctataaaagcagtgtgacggaaccttgccccgacagtggtgaacagctgcag
+            ccagctcctgtgctgcaggaggaagaactggctcatgagactgcacaaaaaggggaggca
+            aagtgtcataagagtgacacaggcatgtccaaaaagaagtcacgacaaggaaaacttgtg
+            aaacagtttgcaaaaatagaggaatctactccagtgcacgattctcctggaaaagacgac
+            gcggtaccagatttgatgggtccccattctgaccagggtgagcacagtggcactgtgggc
+            gtgcctgtgagctacacagactgtgctccttcacccgtcggttgttcagttgtgacatca
+            gatagcttcaaaacaaaagacagctttagaactgcaaaaagtaaaaagaagaggcgaatc
+            acaaggtatgatgcacagttaatcctagaaaataactctgggattcccaaattgactctt
+            cgtaggcgtcatgatagcagcagcaaaacaaatgaccaagagaatgatggaatgaactct
+            tccaaaataagcatcaagttaagcaaagaccatgacaacgataacaatctctatgtagca
+            aagcttaataatggatttaactcaggatcaggcagtagttctacaaaattaaaaatccag
+            ctaaaacgagatgaggaaaatagggggtcttatacagaggggcttcatgaaaatggggtg
+            tgctgcagtgatcctctttctctcttggagtctcgaatggaggtggatgactatagtcag
+            tatgaggaagaaagtacagatgattcctcctcttctgagggcgatgaagaggaggatgac
+            tatgatgatgactttgaagacgattttattcctcttcctccagctaagcgcttgaggtta
+            atagttggaaaagactctatagatattgacatttcttcaaggagaagagaagatcagtct
+            ttaaggcttaatgcctaa
+///

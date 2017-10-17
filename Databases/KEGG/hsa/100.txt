@@ -1,0 +1,65 @@
+ENTRY       100               CDS       T01001
+NAME        ADA
+DEFINITION  (RefSeq) adenosine deaminase
+ORTHOLOGY   K01488  adenosine deaminase [EC:3.5.4.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa01100  Metabolic pathways
+            hsa05340  Primary immunodeficiency
+DISEASE     H00092  T-B-Severe combined immunodeficiencies (SCIDs)
+DRUG_TARGET Pentostatin: D00155
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                100 (ADA)
+             Human Diseases
+              Immune diseases
+               05340 Primary immunodeficiency
+                100 (ADA)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.4  adenosine deaminase
+                 100 (ADA)
+POSITION    20q13.12
+MOTIF       Pfam: A_deaminase
+DBLINKS     NCBI-GeneID: 100
+            NCBI-ProteinID: NP_000013
+            OMIM: 608958
+            HGNC: 186
+            Ensembl: ENSG00000196839
+            Vega: OTTHUMG00000033081
+            Pharos: P00813(Tclin)
+            UniProt: P00813 A0A0S2Z381
+STRUCTURE   PDB: 3IAR
+AASEQ       363
+            MAQTPAFDKPKVELHVHLDGSIKPETILYYGRRRGIALPANTAEGLLNVIGMDKPLTLPD
+            FLAKFDYYMPAIAGCREAIKRIAYEFVEMKAKEGVVYVEVRYSPHLLANSKVEPIPWNQA
+            EGDLTPDEVVALVGQGLQEGERDFGVKARSILCCMRHQPNWSPKVVELCKKYQQQTVVAI
+            DLAGDETIPGSSLLPGHVQAYQEAVKSGIHRTVHAGEVGSAEVVKEAVDILKTERLGHGY
+            HTLEDQALYNRLRQENMHFEICPWSSYLTGAWKPDTEHAVIRLKNDQANYSLNTDDPLIF
+            KSTLDTDYQMTKRDMGFTEEEFKRLNINAAKSSFLPEDEKRELLDLLYKAYGMPPSASAG
+            QNL
+NTSEQ       1092
+            atggcccagacgcccgccttcgacaagcccaaagtagaactgcatgtccacctagacgga
+            tccatcaagcctgaaaccatcttatactatggcaggaggagagggatcgccctcccagct
+            aacacagcagaggggctgctgaacgtcattggcatggacaagccgctcacccttccagac
+            ttcctggccaagtttgactactacatgcctgctatcgcgggctgccgggaggctatcaaa
+            aggatcgcctatgagtttgtagagatgaaggccaaagagggcgtggtgtatgtggaggtg
+            cggtacagtccgcacctgctggccaactccaaagtggagccaatcccctggaaccaggct
+            gaaggggacctcaccccagacgaggtggtggccctagtgggccagggcctgcaggagggg
+            gagcgagacttcggggtcaaggcccggtccatcctgtgctgcatgcgccaccagcccaac
+            tggtcccccaaggtggtggagctgtgtaagaagtaccagcagcagaccgtggtagccatt
+            gacctggctggagatgagaccatcccaggaagcagcctcttgcctggacatgtccaggcc
+            taccaggaggctgtgaagagcggcattcaccgtactgtccacgccggggaggtgggctcg
+            gccgaagtagtaaaagaggctgtggacatactcaagacagagcggctgggacacggctac
+            cacaccctggaagaccaggccctttataacaggctgcggcaggaaaacatgcacttcgag
+            atctgcccctggtccagctacctcactggtgcctggaagccggacacggagcatgcagtc
+            attcggctcaaaaatgaccaggctaactactcgctcaacacagatgacccgctcatcttc
+            aagtccaccctggacactgattaccagatgaccaaacgggacatgggctttactgaagag
+            gagtttaaaaggctgaacatcaatgcggccaaatctagtttcctcccagaagatgaaaag
+            agggagcttctcgacctgctctataaagcctatgggatgccaccttcagcctctgcaggg
+            cagaacctctga
+///

@@ -1,0 +1,64 @@
+ENTRY       5617              CDS       T01001
+NAME        PRL, GHA1
+DEFINITION  (RefSeq) prolactin
+ORTHOLOGY   K05439  prolactin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04917  Prolactin signaling pathway
+DRUG_TARGET Bromocriptine (DG00452): D00780 D03165
+            Cabergoline: D00987
+            Terguride: D01348
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                5617 (PRL)
+               04151 PI3K-Akt signaling pathway
+                5617 (PRL)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                5617 (PRL)
+               04060 Cytokine-cytokine receptor interaction
+                5617 (PRL)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                5617 (PRL)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              Single chain family
+               5617 (PRL)
+POSITION    6p22.3
+MOTIF       Pfam: Hormone_1
+DBLINKS     NCBI-GeneID: 5617
+            NCBI-ProteinID: NP_000939
+            OMIM: 176760
+            HGNC: 9445
+            Ensembl: ENSG00000172179
+            Vega: OTTHUMG00000016111
+            Pharos: P01236(Tbio)
+            UniProt: P01236 Q5THQ0
+STRUCTURE   PDB: 3NCE 3N06 3NCB 3N0P 3MZG 3NCC 3D48 2Q98 3NCF 3NPZ 3EW3
+                 1RW5
+AASEQ       227
+            MNIKGSPWKGSLLLLLVSNLLLCQSVAPLPICPGGAARCQVTLRDLFDRAVVLSHYIHNL
+            SSEMFSEFDKRYTHGRGFITKAINSCHTSSLATPEDKEQAQQMNQKDFLSLIVSILRSWN
+            EPLYHLVTEVRGMQEAPEAILSKAVEIEEQTKRLLEGMELIVSQVHPETKENEIYPVWSG
+            LPSLQMADEESRLSAYYNLLHCLRRDSHKIDNYLKLLKCRIIHNNNC
+NTSEQ       684
+            atgaacatcaaaggatcgccatggaaagggtccctcctgctgctgctggtgtcaaacctg
+            ctcctgtgccagagcgtggcccccttgcccatctgtcccggcggggctgcccgatgccag
+            gtgacccttcgagacctgtttgaccgcgccgtcgtcctgtcccactacatccataacctc
+            tcctcagaaatgttcagcgaattcgataaacggtatacccatggccgggggttcattacc
+            aaggccatcaacagctgccacacttcttcccttgccacccccgaagacaaggagcaagcc
+            caacagatgaatcaaaaagactttctgagcctgatagtcagcatattgcgatcctggaat
+            gagcctctgtatcatctggtcacggaagtacgtggtatgcaagaagccccggaggctatc
+            ctatccaaagctgtagagattgaggagcaaaccaaacggcttctagagggcatggagctg
+            atagtcagccaggttcatcctgaaaccaaagaaaatgagatctaccctgtctggtcggga
+            cttccatccctgcagatggctgatgaagagtctcgcctttctgcttattataacctgctc
+            cactgcctacgcagggattcacataaaatcgacaattatctcaagctcctgaagtgccga
+            atcatccacaacaacaactgctaa
+///

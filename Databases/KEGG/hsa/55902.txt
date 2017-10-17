@@ -1,0 +1,93 @@
+ENTRY       55902             CDS       T01001
+NAME        ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H23.1
+DEFINITION  (RefSeq) acyl-CoA synthetase short chain family member 2
+ORTHOLOGY   K01895  acetyl-CoA synthetase [EC:6.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00620  Pyruvate metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                55902 (ACSS2)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                55902 (ACSS2)
+               00620 Pyruvate metabolism
+                55902 (ACSS2)
+               00640 Propanoate metabolism
+                55902 (ACSS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.1  acetate---CoA ligase
+                 55902 (ACSS2)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Acyl-CoA synthetase
+              Short/medium chain acyl-CoA synthetase
+               55902 (ACSS2)
+POSITION    20q11.22
+MOTIF       Pfam: AMP-binding AMP-binding_C ACAS_N
+DBLINKS     NCBI-GeneID: 55902
+            NCBI-ProteinID: NP_061147
+            OMIM: 605832
+            HGNC: 15814
+            Ensembl: ENSG00000131069
+            Vega: OTTHUMG00000032317
+            Pharos: Q9NR19(Tbio)
+            UniProt: Q9NR19 Q6DKJ3
+AASEQ       701
+            MGLPEERVRSGSGSRGQEEAGAGGRARSWSPPPEVSRSAHVPSLQRYRELHRRSVEEPRE
+            FWGDIAKEFYWKTPCPGPFLRYNFDVTKGKIFIEWMKGATTNICYNVLDRNVHEKKLGDK
+            VAFYWEGNEPGETTQITYHQLLVQVCQFSNVLRKQGIQKGDRVAIYMPMIPELVVAMLAC
+            ARIGALHSIVFAGFSSESLCERILDSSCSLLITTDAFYRGEKLVNLKELADEALQKCQEK
+            GFPVRCCIVVKHLGRAELGMGDSTSQSPPIKRSCPDVQISWNQGIDLWWHELMQEAGDEC
+            EPEWCDAEDPLFILYTSGSTGKPKGVVHTVGGYMLYVATTFKYVFDFHAEDVFWCTADIG
+            WITGHSYVTYGPLANGATSVLFEGIPTYPDVNRLWSIVDKYKVTKFYTAPTAIRLLMKFG
+            DEPVTKHSRASLQVLGTVGEPINPEAWLWYHRVVGAQRCPIVDTFWQTETGGHMLTPLPG
+            ATPMKPGSATFPFFGVAPAILNESGEELEGEAEGYLVFKQPWPGIMRTVYGNHERFETTY
+            FKKFPGYYVTGDGCQRDQDGYYWITGRIDDMLNVSGHLLSTAEVESALVEHEAVAEAAVV
+            GHPHPVKGECLYCFVTLCDGHTFSPKLTEELKKQIREKIGPIATPDYIQNAPGLPKTRSG
+            KIMRRVLRKIAQNDHDLGDMSTVADPSVISHLFSHRCLTIQ
+NTSEQ       2106
+            atggggcttcctgaggagcgggtccggagcggcagcgggagccggggccaggaggaagct
+            ggagccggaggccgggcgcggagttggtctccgccgcccgaggtcagccgctccgcgcac
+            gtcccctcgctgcagcgctaccgcgagctgcaccggcgctccgtggaggagccgcgggaa
+            ttctggggagacattgccaaggaattttactggaagactccatgccctggcccattcctt
+            cggtacaactttgatgtgactaaagggaaaatcttcattgagtggatgaaaggagcaact
+            accaacatctgctacaatgtactggatcgaaatgtccatgagaaaaagcttggagataaa
+            gttgctttttactgggagggcaatgagccaggggagaccactcagatcacataccatcag
+            cttctggtccaagtgtgtcagttcagcaatgttctccgaaaacagggcattcagaagggg
+            gaccgagtggccatctacatgcctatgatcccagagcttgtggtggccatgctggcatgt
+            gcccgcattggggctttgcactccattgtgtttgcaggcttctcttcagagtctctatgt
+            gaacggatcttggattccagctgcagtcttctcatcactacagatgccttctacaggggg
+            gaaaagcttgtgaacctgaaggagctggctgacgaggccctgcagaagtgtcaggagaag
+            ggtttcccagtaagatgctgcattgtggtcaagcacctggggcgggcagagctcggcatg
+            ggtgactccaccagccagtcccccccaattaagaggtcatgcccagatgtgcagatctca
+            tggaaccaagggattgacttgtggtggcatgagctcatgcaagaggcaggggatgagtgt
+            gagcccgagtggtgtgatgccgaggacccactcttcatcctgtacaccagtggctccaca
+            ggcaaacccaagggtgtggttcacacagttgggggctacatgctctatgtagccacaacc
+            ttcaagtatgtgtttgacttccatgcagaggatgtgttctggtgcacggcagacattggt
+            tggatcactggtcattcctacgtcacctatgggccactggccaatggtgccaccagtgtt
+            ttgtttgaggggattcccacatatccggacgtgaaccgcctgtggagcattgtggacaaa
+            tacaaggtgaccaagttctacacagcacccacagccatccgtctgctcatgaagtttgga
+            gatgagcctgtcaccaagcatagccgggcatccttgcaggtgttaggcacagtgggtgaa
+            cccatcaaccctgaggcctggctatggtaccaccgggtggtaggtgcccagcgctgcccc
+            atcgtggacaccttctggcaaacagagacaggtggccacatgttgactccccttcctggt
+            gccacacccatgaaacccggttctgctactttcccattctttggtgtagctcctgcaatc
+            ctgaatgagtccggggaagagttggaaggtgaagctgaaggttatctggtgttcaagcag
+            ccctggccagggatcatgcgcacagtctatgggaaccacgaacgctttgagacaacctac
+            tttaagaagtttcctggatactatgttacaggagatggctgccagcgggaccaggatggc
+            tattactggatcactggcaggattgatgacatgctcaatgtatctggacacctgctgagt
+            acagcagaggtggagtcagcacttgtggaacatgaggctgttgcagaggcagctgtggtg
+            ggccaccctcatcctgtgaagggtgaatgcctctactgctttgtcaccttgtgtgatggc
+            cacaccttcagccccaagctcaccgaggagctcaagaagcagattagagaaaagattggc
+            cccattgccacaccagactacatccagaatgcacctggcttgcctaaaacccgctcaggg
+            aaaatcatgaggcgagtgcttcggaagattgctcagaatgaccatgacctcggggacatg
+            tctactgtggctgacccatctgtcatcagtcacctcttcagccaccgctgcctgaccatc
+            cagtga
+///

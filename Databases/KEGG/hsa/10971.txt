@@ -1,0 +1,78 @@
+ENTRY       10971             CDS       T01001
+NAME        YWHAQ, 14-3-3, 1C5, HS1
+DEFINITION  (RefSeq) tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta
+ORTHOLOGY   K16197  14-3-3 protein beta/theta/zeta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05161  Hepatitis B
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                10971 (YWHAQ)
+               04151 PI3K-Akt signaling pathway
+                10971 (YWHAQ)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                10971 (YWHAQ)
+               04114 Oocyte meiosis
+                10971 (YWHAQ)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                10971 (YWHAQ)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                10971 (YWHAQ)
+               05161 Hepatitis B
+                10971 (YWHAQ)
+               05169 Epstein-Barr virus infection
+                10971 (YWHAQ)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Other check point factors
+                10971 (YWHAQ)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               10971 (YWHAQ)
+POSITION    2p25.1
+MOTIF       Pfam: 14-3-3 FliM
+DBLINKS     NCBI-GeneID: 10971
+            NCBI-ProteinID: NP_006817
+            OMIM: 609009
+            HGNC: 12854
+            Ensembl: ENSG00000134308
+            Vega: OTTHUMG00000013848
+            Pharos: P27348(Tbio)
+            UniProt: P27348
+STRUCTURE   PDB: 5IQP 2BTP
+AASEQ       245
+            MEKTELIQKAKLAEQAERYDDMATCMKAVTEQGAELSNEERNLLSVAYKNVVGGRRSAWR
+            VISSIEQKTDTSDKKLQLIKDYREKVESELRSICTTVLELLDKYLIANATNPESKVFYLK
+            MKGDYFRYLAEVACGDDRKQTIDNSQGAYQEAFDISKKEMQPTHPIRLGLALNFSVFYYE
+            ILNNPELACTLAKTAFDEAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDSAGEECDAA
+            EGAEN
+NTSEQ       738
+            atggagaagactgagctgatccagaaggccaagctggccgagcaggccgagcgctacgac
+            gacatggccacctgcatgaaggcagtgaccgagcagggcgccgagctgtccaacgaggag
+            cgcaacctgctctccgtggcctacaagaacgtggtcgggggccgcaggtccgcctggagg
+            gtcatctctagcatcgagcagaagaccgacacctccgacaagaagttgcagctgattaag
+            gactatcgggagaaagtggagtccgagctgagatccatctgcaccacggtgctggaattg
+            ttggataaatatttaatagccaatgcaactaatccagagagtaaggtcttctatctgaaa
+            atgaagggtgattacttccggtaccttgctgaagttgcgtgtggtgatgatcgaaaacaa
+            acgatagataattcccaaggagcttaccaagaggcatttgatataagcaagaaagagatg
+            caacccacacacccaatccgcctggggcttgctcttaacttttctgtattttactatgag
+            attcttaataacccagagcttgcctgcacgctggctaaaacggcttttgatgaggccatt
+            gctgaacttgatacactgaatgaagactcatacaaagacagcaccctcatcatgcagttg
+            cttagagacaacctaacactttggacatcagacagtgcaggagaagaatgtgatgcggca
+            gaaggggctgaaaactaa
+///

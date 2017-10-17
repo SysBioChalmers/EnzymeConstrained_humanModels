@@ -1,0 +1,84 @@
+ENTRY       2868              CDS       T01001
+NAME        GRK4, GPRK2L, GPRK4, GRK4a, IT11
+DEFINITION  (RefSeq) G protein-coupled receptor kinase 4
+ORTHOLOGY   K08291  G protein-coupled receptor kinase [EC:2.7.11.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04144  Endocytosis
+            hsa05032  Morphine addiction
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                2868 (GRK4)
+             Organismal Systems
+              Immune system
+               04062 Chemokine signaling pathway
+                2868 (GRK4)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                2868 (GRK4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.16  G-protein-coupled receptor kinase
+                 2868 (GRK4)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              GRK family [OT]
+               2868 (GRK4)
+POSITION    4p16.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr RGS Kinase-like
+DBLINKS     NCBI-GeneID: 2868
+            NCBI-ProteinID: NP_892027
+            OMIM: 137026
+            HGNC: 4543
+            Ensembl: ENSG00000125388
+            Vega: OTTHUMG00000159914
+            Pharos: P32298(Tchem)
+            UniProt: P32298
+STRUCTURE   PDB: 4YHJ
+AASEQ       578
+            MELENIVANSLLLKARQGGYGKKSGRSKKWKEILTLPPVSQCSELRHSIEKDYSSLCDKQ
+            PIGRRLFRQFCDTKPTLKRHIEFLDAVAEYEVADDEDRSDCGLSILDRFFNDKLAAPLPE
+            IPPDVVTECRLGLKEENPSKKAFEECTRVAHNYLRGEPFEEYQESSYFSQFLQWKWLERQ
+            PVTKNTFRHYRVLGKGGFGEVCACQVRATGKMYACKKLQKKRIKKRKGEAMALNEKRILE
+            KVQSRFVVSLAYAYETKDALCLVLTIMNGGDLKFHIYNLGNPGFDEQRAVFYAAELCCGL
+            EDLQRERIVYRDLKPENILLDDRGHIRISDLGLATEIPEGQRVRGRVGTVGYMAPEVVNN
+            EKYTFSPDWWGLGCLIYEMIQGHSPFKKYKEKVKWEEVDQRIKNDTEEYSEKFSEDAKSI
+            CRMLLTKNPSKRLGCRGEGAAGVKQHPVFKDINFRRLEANMLEPPFCPDPHAVYCKDVLD
+            IEQFSVVKGIYLDTADEDFYARFATGCVSIPWQNEMIESGCFKDINKSESEEALPLDLDK
+            NIHTPVSRPNRGFFYRLFRRGGCLTMVPSEKEVEPKQC
+NTSEQ       1737
+            atggagctcgagaacatcgtggccaactcgctgctgctgaaagcgcgtcaaggaggatat
+            ggcaaaaaaagtggtcgtagtaaaaaatggaaggagatactgacactgcctcctgtcagc
+            cagtgcagtgagcttagacattccattgaaaaggattatagcagtctttgtgacaagcaa
+            ccgataggaagacgtctcttcaggcagttctgtgataccaaacccactctaaagaggcac
+            attgaattcttggatgcagtggcagaatatgaagttgccgatgatgaggaccgaagtgat
+            tgtggactgtcaatcttagatagattcttcaatgataagttggcagcccctttaccagaa
+            atacctccagatgttgtgacagaatgtagattgggactgaaggaggagaacccttccaaa
+            aaagcctttgaggaatgtactagagttgcccataactacctaagaggggaaccatttgaa
+            gaataccaagaaagctcatatttttctcagtttttacaatggaaatggctggaaaggcaa
+            cccgtaacaaagaacacatttagacattacagagttctaggaaaaggcggatttggagag
+            gtttgcgcctgtcaagtgcgagccacaggaaaaatgtatgcctgcaaaaagctacaaaaa
+            aaaagaataaagaagaggaaaggtgaagctatggctctaaatgagaaaagaattctggag
+            aaagtgcaaagtagattcgtagttagtttagcctacgcttatgaaaccaaagatgccttg
+            tgcttggtgctcaccattatgaatggaggggatttgaagtttcacatttacaacctgggc
+            aatcccggctttgatgagcagagagccgttttctatgctgcagagctgtgttgcggcttg
+            gaagatttacagagggaaagaattgtatacagagacttgaagcctgagaatattctcctt
+            gatgatcgtggacacatccggatttcagacctcggtttggccacagagatcccagaagga
+            cagagggttcgaggaagagttggaacagtcggctacatggcacctgaagttgtcaataat
+            gaaaagtatacgtttagtcccgattggtggggacttggctgtctgatctatgaaatgatt
+            cagggacattctccattcaaaaaatacaaagagaaagtcaaatgggaggaggtcgatcaa
+            agaatcaagaatgataccgaggagtattctgagaagttttcagaggatgccaaatctatc
+            tgcaggatgttactcaccaagaatccaagcaagcggctgggctgcaggggcgagggagcg
+            gctggggtgaagcagcaccccgtgttcaaggacatcaacttcaggaggctggaggcaaac
+            atgctggagccccctttctgtcctgatcctcatgccgtttactgtaaggacgtcctggat
+            atcgagcagttctcggtggtgaaagggatctacctggacaccgcagatgaagacttctat
+            gctcggtttgctaccgggtgtgtctccatcccctggcagaatgagatgatcgaatctggg
+            tgtttcaaagacatcaacaaaagtgaaagtgaggaagctttgccattagatctagacaag
+            aacatacataccccggtttccagaccaaacagaggcttcttctatagactcttcagaaga
+            gggggctgcctgaccatggtccccagtgagaaggaagtggaacccaagcaatgctga
+///

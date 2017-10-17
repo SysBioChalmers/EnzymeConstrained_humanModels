@@ -1,0 +1,95 @@
+ENTRY       8697              CDS       T01001
+NAME        CDC23, ANAPC8, APC8, CUT23
+DEFINITION  (RefSeq) cell division cycle 23
+ORTHOLOGY   K03355  anaphase-promoting complex subunit 8
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                8697 (CDC23)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                8697 (CDC23)
+               04114 Oocyte meiosis
+                8697 (CDC23)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                8697 (CDC23)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                8697 (CDC23)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 8697 (CDC23)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                8697 (CDC23)
+POSITION    5q31.2
+MOTIF       Pfam: ANAPC8 TPR_1 TPR_2 TPR_8 TPR_14 TPR_19 TPR_11 TPR_7 ANAPC3 TPR_16 TPR_17 TPR_12 TPR_9 DUF772 TPR_15
+DBLINKS     NCBI-GeneID: 8697
+            NCBI-ProteinID: NP_004652
+            OMIM: 603462
+            HGNC: 1724
+            Ensembl: ENSG00000094880
+            Vega: OTTHUMG00000129198
+            Pharos: Q9UJX2(Tbio)
+            UniProt: Q9UJX2
+STRUCTURE   PDB: 5G05 4UI9 5LCW 5G04 5A31 5KHU 5KHR 5L9T 5L9U
+AASEQ       597
+            MAASTSMVPVAVTAAVAPVLSINSDFSDLREIKKQLLLIAGLTRERGLLHSSKWSAELAF
+            SLPALPLAELQPPPPITEEDAQDMDAYTLAKAYFDVKEYDRAAHFLHGCNSKKAYFLYMY
+            SRYLSGEKKKDDETVDSLGPLEKGQVKNEALRELRVELSKKHQARELDGFGLYLYGVVLR
+            KLDLVKEAIDVFVEATHVLPLHWGAWLELCNLITDKEMLKFLSLPDTWMKEFFLAHIYTE
+            LQLIEEALQKYQNLIDVGFSKSSYIVSQIAVAYHNIRDIDKALSIFNELRKQDPYRIENM
+            DTFSNLLYVRSMKSELSYLAHNLCEIDKYRVETCCVIGNYYSLRSQHEKAALYFQRALKL
+            NPRYLGAWTLMGHEYMEMKNTSAAIQAYRHAIEVNKRDYRAWYGLGQTYEILKMPFYCLY
+            YYRRAHQLRPNDSRMLVALGECYEKLNQLVEAKKCYWRAYAVGDVEKMALVKLAKLHEQL
+            TESEQAAQCYIKYIQDIYSCGEIVEHLEESTAFRYLAQYYFKCKLWDEASTCAQKCCAFN
+            DTREEGKALLRQILQLRNQGETPTTEVPAPFFLPASLSANNTPTRRVSPLNLSSVTP
+NTSEQ       1794
+            atggctgcgagtacctccatggtcccggtggctgtgacggcggcagtggcgcctgtcctg
+            tccataaacagcgatttctcagatttgcgggaaattaaaaagcaactgctgcttattgcg
+            ggccttacccgggagcggggcctactacacagtagcaaatggtcggcggagttggctttc
+            tctctccctgcattgcctctggccgagctgcaaccgcctccgcctattacagaggaagat
+            gcccaggatatggatgcctataccctggccaaggcctactttgacgttaaagagtatgat
+            cgggcagcacatttcctgcatggctgcaatagcaagaaagcctattttctgtatatgtat
+            tccagatatctgtctggagaaaaaaagaaggacgatgaaacagttgatagcttaggcccc
+            ctggaaaaaggacaagtgaaaaatgaggcgcttagagaattgagagtggagctcagcaaa
+            aaacaccaagctcgagaacttgatggatttggactttatctgtatggtgtggtgcttcga
+            aaactggacttggttaaagaggccattgatgtgtttgtggaagctactcatgttttgccc
+            ttgcattggggagcctggttagaactctgtaacctgatcacagacaaagagatgctgaag
+            ttcctgtctttgccagacacctggatgaaagagttttttctggctcatatatacacagag
+            ttgcagttgatagaggaggccctgcaaaagtatcagaatctcattgatgtgggcttctct
+            aagagctcgtatattgtttcccaaattgcagttgcctatcacaatatcagagatattgac
+            aaagccctctccatttttaatgagctaaggaaacaagacccttacaggattgaaaatatg
+            gacacattctccaaccttctttatgtcaggagcatgaaatcggagttgagttatctggct
+            cataacctctgtgagattgataaatatcgtgtagaaacgtgctgtgtaattggcaattat
+            tacagtttacgttctcagcatgagaaagcagccttatatttccagagagccctgaaatta
+            aatcctcggtatcttggtgcctggacactaatgggacatgagtacatggagatgaagaac
+            acgtctgctgctatccaggcttatagacatgccattgaggtcaacaaacgggactacaga
+            gcttggtatggcctcgggcagacctatgaaatccttaagatgccattttactgcctttat
+            tattatagacgggcccaccagcttcgacccaatgattctcgcatgctggttgctttagga
+            gaatgttacgagaaactcaatcaactagtggaagccaaaaagtgttattggagagcttac
+            gccgtgggagatgtggagaaaatggctctggtgaaactggcaaagcttcatgaacagttg
+            actgagtcagaacaggctgcccagtgttacatcaaatatatccaagatatctattcctgt
+            ggggaaatagtagaacacttggaggaaagcactgcctttcgctatctggcccagtactat
+            tttaagtgcaaactgtgggatgaagcttcaacttgtgcacaaaagtgttgtgcatttaat
+            gatacccgggaagaaggtaaggccttactccggcaaatcctacagcttcggaaccaaggc
+            gagactcctaccaccgaggtgcctgctccctttttcctacctgcttcactctctgctaac
+            aatacccccacacgcagagtttctccactcaacttgtcttctgtcacgccatag
+///

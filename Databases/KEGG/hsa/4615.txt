@@ -1,0 +1,98 @@
+ENTRY       4615              CDS       T01001
+NAME        MYD88, MYD88D
+DEFINITION  (RefSeq) myeloid differentiation primary response 88
+ORTHOLOGY   K04729  myeloid differentiation primary response protein MyD88
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa05132  Salmonella infection
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05143  African trypanosomiasis
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00721  Pyogenic bacterial infections, recurrent, due to MYD88 deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                4615 (MYD88)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                4615 (MYD88)
+               04621 NOD-like receptor signaling pathway
+                4615 (MYD88)
+             Human Diseases
+              Infectious diseases
+               05132 Salmonella infection
+                4615 (MYD88)
+               05133 Pertussis
+                4615 (MYD88)
+               05134 Legionellosis
+                4615 (MYD88)
+               05152 Tuberculosis
+                4615 (MYD88)
+               05162 Measles
+                4615 (MYD88)
+               05164 Influenza A
+                4615 (MYD88)
+               05161 Hepatitis B
+                4615 (MYD88)
+               05168 Herpes simplex infection
+                4615 (MYD88)
+               05144 Malaria
+                4615 (MYD88)
+               05145 Toxoplasmosis
+                4615 (MYD88)
+               05140 Leishmaniasis
+                4615 (MYD88)
+               05142 Chagas disease (American trypanosomiasis)
+                4615 (MYD88)
+               05143 African trypanosomiasis
+                4615 (MYD88)
+POSITION    3p22.2
+MOTIF       Pfam: Death TIR TIR_2
+DBLINKS     NCBI-GeneID: 4615
+            NCBI-ProteinID: NP_002459
+            OMIM: 602170
+            HGNC: 7562
+            Ensembl: ENSG00000172936
+            Vega: OTTHUMG00000131083
+            Pharos: Q99836(Tbio)
+            UniProt: Q99836 A0A0A0MS70
+STRUCTURE   PDB: 4EO7 4DOM 3MOP 2Z5V 2JS7
+AASEQ       309
+            MRPDRAEAPGPPAMAAGGPGAGSAAPVSSTSSLPLAALNMRVRRRLSLFLNVRTQVAADW
+            TALAEEMDFEYLEIRQLETQADPTGRLLDAWQGRPGASVGRLLELLTKLGRDDVLLELGP
+            SIEEDCQKYILKQQQEEAEKPLQVAAVDSSVPRTAELAGITTLDDPLGHMPERFDAFICY
+            CPSDIQFVQEMIRQLEQTNYRLKLCVSDRDVLPGTCVWSIASELIEKRCRRMVVVVSDDY
+            LQSKECDFQTKFALSLSPGAHQKRLIPIKYKAMKKEFPSILRFITVCDYTNPCTKSWFWT
+            RLAKALSLP
+NTSEQ       930
+            atgcgacccgaccgcgctgaggctccaggaccgcccgccatggctgcaggaggtcccggc
+            gcggggtctgcggccccggtctcctccacatcctcccttcccctggctgctctcaacatg
+            cgagtgcggcgccgcctgtctctgttcttgaacgtgcggacacaggtggcggccgactgg
+            accgcgctggcggaggagatggactttgagtacttggagatccggcaactggagacacaa
+            gcggaccccactggcaggctgctggacgcctggcagggacgccctggcgcctctgtaggc
+            cgactgctcgagctgcttaccaagctgggccgcgacgacgtgctgctggagctgggaccc
+            agcattgaggaggattgccaaaagtatatcttgaagcagcagcaggaggaggctgagaag
+            cctttacaggtggccgctgtagacagcagtgtcccacggacagcagagctggcgggcatc
+            accacacttgatgaccccctggggcatatgcctgagcgtttcgatgccttcatctgctat
+            tgccccagcgacatccagtttgtgcaggagatgatccggcaactggaacagacaaactat
+            cgactgaagttgtgtgtgtctgaccgcgatgtcctgcctggcacctgtgtctggtctatt
+            gctagtgagctcatcgaaaagaggtgccgccggatggtggtggttgtctctgatgattac
+            ctgcagagcaaggaatgtgacttccagaccaaatttgcactcagcctctctccaggtgcc
+            catcagaagcgactgatccccatcaagtacaaggcaatgaagaaagagttccccagcatc
+            ctgaggttcatcactgtctgcgactacaccaacccctgcaccaaatcttggttctggact
+            cgccttgccaaggccttgtccctgccctga
+///

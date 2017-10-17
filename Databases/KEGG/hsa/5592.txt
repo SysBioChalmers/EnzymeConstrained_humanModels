@@ -1,0 +1,118 @@
+ENTRY       5592              CDS       T01001
+NAME        PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha
+DEFINITION  (RefSeq) protein kinase, cGMP-dependent, type I
+ORTHOLOGY   K07376  cGMP-dependent protein kinase 1 [EC:2.7.11.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04540  Gap junction
+            hsa04611  Platelet activation
+            hsa04713  Circadian entrainment
+            hsa04730  Long-term depression
+            hsa04740  Olfactory transduction
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04970  Salivary secretion
+MODULE      hsa_M00694  cGMP signaling
+DISEASE     H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04022 cGMP - PKG signaling pathway
+                5592 (PRKG1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                5592 (PRKG1)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                5592 (PRKG1)
+              Endocrine system
+               04923 Regulation of lipolysis in adipocyte
+                5592 (PRKG1)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                5592 (PRKG1)
+              Digestive system
+               04970 Salivary secretion
+                5592 (PRKG1)
+              Nervous system
+               04730 Long-term depression
+                5592 (PRKG1)
+              Sensory system
+               04740 Olfactory transduction
+                5592 (PRKG1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                5592 (PRKG1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.12  cGMP-dependent protein kinase
+                 5592 (PRKG1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              PKG family
+               5592 (PRKG1)
+POSITION    10q11.23-q21.1
+MOTIF       Pfam: Pkinase cNMP_binding Pkinase_Tyr PKcGMP_CC Kinase-like Wtap APH Pkinase_C Atg14 Tnp_22_trimer Med4 OmpH IncA
+DBLINKS     NCBI-GeneID: 5592
+            NCBI-ProteinID: NP_001091982
+            OMIM: 176894
+            HGNC: 9414
+            Ensembl: ENSG00000185532
+            Vega: OTTHUMG00000018248
+            Pharos: Q13976(Tchem)
+            UniProt: Q13976
+STRUCTURE   PDB: 5L0N 4QX5 5JAX 5J48 4KU7 5JD7 4R4M 4KU8 4QXK 4R4L 3OCP
+                 4Z07 3OGJ 3OD0 1ZXA
+AASEQ       671
+            MSELEEDFAKILMLKEERIKELEKRLSEKEEEIQELKRKLHKCQSVLPVPSTHIGPRTTR
+            AQGISAEPQTYRSFHDLRQAFRKFTKSERSKDLIKEAILDNDFMKNLELSQIQEIVDCMY
+            PVEYGKDSCIIKEGDVGSLVYVMEDGKVEVTKEGVKLCTMGPGKVFGELAILYNCTRTAT
+            VKTLVNVKLWAIDRQCFQTIMMRTGLIKHTEYMEFLKSVPTFQSLPEEILSKLADVLEET
+            HYENGEYIIRQGARGDTFFIISKGTVNVTREDSPSEDPVFLRTLGKGDWFGEKALQGEDV
+            RTANVIAAEAVTCLVIDRDSFKHLIGGLDDVSNKAYEDAEAKAKYEAEAAFFANLKLSDF
+            NIIDTLGVGGFGRVELVQLKSEESKTFAMKILKKRHIVDTRQQEHIRSEKQIMQGAHSDF
+            IVRLYRTFKDSKYLYMLMEACLGGELWTILRDRGSFEDSTTRFYTACVVEAFAYLHSKGI
+            IYRDLKPENLILDHRGYAKLVDFGFAKKIGFGKKTWTFCGTPEYVAPEIILNKGHDISAD
+            YWSLGILMYELLTGSPPFSGPDPMKTYNIILRGIDMIEFPKKIAKNAANLIKKLCRDNPS
+            ERLGNLKNGVKDIQKHKWFEGFNWEGLRKGTLTPPIIPSVASPTDTSNFDSFPEDNDEPP
+            PDDNSGWDIDF
+NTSEQ       2016
+            atgagcgagctagaggaagactttgccaagattctcatgctcaaggaggagaggatcaaa
+            gagctggagaagcggctgtcagagaaggaggaagaaattcaggagctgaagaggaaactc
+            cacaaatgccagtcggtgctcccagtgccctcgacccacatcggcccccggaccacccgg
+            gcgcagggcatctcggccgagccgcagacgtacaggtccttccacgacctccgacaggca
+            ttccggaagttcaccaagtccgaaaggtccaaggatcttataaaggaagctatccttgac
+            aatgactttatgaagaacttggagctgtcgcagatccaggagattgtggattgtatgtac
+            ccggtggagtatggcaaggacagttgcatcatcaaagaaggagacgtggggtcactggtg
+            tatgtcatggaagatggtaaggttgaagttacaaaagaaggtgtgaagttgtgtaccatg
+            ggtccaggaaaagtgtttggggaattggctattctttacaactgtacccggacagcgacc
+            gtcaagactcttgtaaatgtaaaactctgggccattgatcgacaatgttttcaaacaata
+            atgatgaggacaggactcatcaagcataccgagtatatggaatttttaaaaagcgttcca
+            acattccagagccttcctgaagagatcctcagcaagcttgctgatgtccttgaagagacc
+            cactatgaaaatggagaatatattatcaggcaaggtgcaagaggggacaccttctttatc
+            atcagcaaaggaacggtaaatgtcactcgtgaagactcaccgagtgaagacccagtcttt
+            cttagaactttaggaaaaggagactggtttggagagaaagccttgcagggggaagatgtg
+            agaacagcaaacgtaattgctgcagaagctgtaacctgccttgtgattgacagagactct
+            tttaaacatttgattggagggctggatgatgtttctaataaagcatatgaagatgcagaa
+            gctaaagcaaaatatgaagctgaagcggctttcttcgccaacctgaagctgtctgatttc
+            aacatcattgatacccttggagttggaggtttcggacgagtagaactggtccagttgaaa
+            agtgaagaatccaaaacgtttgcaatgaagattctcaagaaacgtcacattgtggacaca
+            agacagcaggagcacatccgctcagagaagcagatcatgcagggggctcattccgatttc
+            atagtgagactgtacagaacatttaaggacagcaaatatttgtatatgttgatggaagct
+            tgtctaggtggagagctctggaccattctcagggatagaggttcgtttgaagattctaca
+            accagattttacacagcatgtgtggtagaagcttttgcctatctgcattccaaaggaatc
+            atttacagggacctcaagccagaaaatctcatcctagatcaccgaggttatgccaaactg
+            gttgattttggctttgcaaagaaaataggatttggaaagaaaacatggactttttgtggg
+            actccagagtatgtagccccagagatcatcctgaacaaaggccatgacatttcagccgac
+            tactggtcactgggaatcctaatgtatgaactcctgactggcagcccacctttctcaggc
+            ccagatcctatgaaaacctataacatcatattgagggggattgacatgatagaatttcca
+            aagaagattgccaaaaatgctgctaatttaattaaaaaactatgcagggacaatccatca
+            gaaagattagggaatttgaaaaatggagtaaaagacattcaaaagcacaaatggtttgag
+            ggctttaactgggaaggcttaagaaaaggtaccttgacacctcctataataccaagtgtt
+            gcatcacccacagacacaagtaattttgacagtttccctgaggacaacgatgaaccacca
+            cctgatgacaactcaggatgggatatagacttctaa
+///

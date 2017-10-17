@@ -1,0 +1,99 @@
+ENTRY       2806              CDS       T01001
+NAME        GOT2, KAT4, KATIV, KYAT4, mitAAT
+DEFINITION  (RefSeq) glutamic-oxaloacetic transaminase 2
+ORTHOLOGY   K14455  aspartate aminotransferase, mitochondrial [EC:2.6.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01210  2-Oxocarboxylic acid metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa04975  Fat digestion and absorption
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                2806 (GOT2)
+               01210 2-Oxocarboxylic acid metabolism
+                2806 (GOT2)
+               01230 Biosynthesis of amino acids
+                2806 (GOT2)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2806 (GOT2)
+               00270 Cysteine and methionine metabolism
+                2806 (GOT2)
+               00220 Arginine biosynthesis
+                2806 (GOT2)
+               00330 Arginine and proline metabolism
+                2806 (GOT2)
+               00350 Tyrosine metabolism
+                2806 (GOT2)
+               00360 Phenylalanine metabolism
+                2806 (GOT2)
+               00400 Phenylalanine, tyrosine and tryptophan biosynthesis
+                2806 (GOT2)
+             Organismal Systems
+              Digestive system
+               04975 Fat digestion and absorption
+                2806 (GOT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.1  aspartate transaminase
+                 2806 (GOT2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               2806 (GOT2)
+POSITION    16q21
+MOTIF       Pfam: Aminotran_1_2
+DBLINKS     NCBI-GeneID: 2806
+            NCBI-ProteinID: NP_002071
+            OMIM: 138150
+            HGNC: 4433
+            Ensembl: ENSG00000125166
+            Vega: OTTHUMG00000133769
+            Pharos: P00505(Tbio)
+            UniProt: P00505
+STRUCTURE   PDB: 5AX8
+AASEQ       430
+            MALLHSGRVLPGIAAAFHPGLAAAASARASSWWTHVEMGPPDPILGVTEAFKRDTNSKKM
+            NLGVGAYRDDNGKPYVLPSVRKAEAQIAAKNLDKEYLPIGGLAEFCKASAELALGENSEV
+            LKSGRFVTVQTISGTGALRIGASFLQRFFKFSRDVFLPKPTWGNHTPIFRDAGMQLQGYR
+            YYDPKTCGFDFTGAVEDISKIPEQSVLLLHACAHNPTGVDPRPEQWKEIATVVKKRNLFA
+            FFDMAYQGFASGDGDKDAWAVRHFIEQGINVCLCQSYAKNMGLYGERVGAFTMVCKDADE
+            AKRVESQLKILIRPMYSNPPLNGARIAAAILNTPDLRKQWLQEVKVMADRIIGMRTQLVS
+            NLKKEGSTHNWQHITDQIGMFCFTGLKPEQVERLIKEFSIYMTKDGRISVAGVTSSNVGY
+            LAHAIHQVTK
+NTSEQ       1293
+            atggccctgctgcactccggccgcgtcctccccgggatcgccgccgccttccacccgggc
+            ctcgccgccgcggcctctgccagagccagctcctggtggacccatgtggaaatgggacct
+            ccagatcccattctgggagtcactgaagcctttaagagggacaccaatagcaaaaagatg
+            aatctgggagttggtgcctaccgggatgataatggaaagccttacgttctgcctagcgtc
+            cgcaaggcagaggcccagattgccgcaaaaaatttggacaaggaatacctgcccattggg
+            ggactggctgaattttgcaaggcatctgcagaactagccctgggtgagaacagcgaagtc
+            ttgaagagtggccggtttgtcactgtgcagaccatttctggaactggagccttaaggatc
+            ggagccagttttctgcaaagattttttaagttcagccgagatgtctttctgcccaaacca
+            acctggggaaaccacacacccatcttcagggatgctggcatgcagctacaaggttatcgg
+            tattatgaccccaagacttgcggttttgacttcacaggcgctgtggaggatatttcaaaa
+            ataccagagcagagtgttcttcttctgcatgcctgcgcccacaatcccacgggagtggac
+            ccgcgtccggaacagtggaaggaaatagcaacagtggtgaagaaaaggaatctctttgcg
+            ttctttgacatggcctaccaaggctttgccagtggtgatggtgataaggatgcctgggct
+            gtgcgccacttcatcgaacagggcattaatgtttgcctctgccaatcatatgccaagaac
+            atgggcttatatggtgagcgtgtaggagccttcactatggtctgcaaagatgcggatgaa
+            gccaaaagggtagagtcacagttgaagatcttgatccgtcccatgtattccaaccctccc
+            ctcaatggggcccggattgctgctgccattctgaacaccccagatttgcgaaaacaatgg
+            ctgcaagaagtgaaagtcatggctgaccgcatcattggcatgcggactcaactggtctcc
+            aacctcaagaaggagggttccacccacaattggcaacacatcaccgaccaaattggcatg
+            ttctgtttcacagggctaaagcctgaacaggtggagcggctgatcaaggagttctccatc
+            tacatgacaaaagatggccgcatctctgtggcaggggtcacctccagcaacgtgggctac
+            cttgcccatgccattcaccaggtcaccaagtaa
+///

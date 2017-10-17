@@ -1,0 +1,120 @@
+ENTRY       5880              CDS       T01001
+NAME        RAC2, EN-7, Gx, HSPC022, p21-Rac2
+DEFINITION  (RefSeq) ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)
+ORTHOLOGY   K07860  Ras-related C3 botulinum toxin substrate 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05212  Pancreatic cancer
+            hsa05231  Choline metabolism in cancer
+            hsa05416  Viral myocarditis
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00099  Leukocyte adhesion deficiency (LAD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5880 (RAC2)
+               04015 Rap1 signaling pathway
+                5880 (RAC2)
+               04010 MAPK signaling pathway
+                5880 (RAC2)
+               04310 Wnt signaling pathway
+                5880 (RAC2)
+               04370 VEGF signaling pathway
+                5880 (RAC2)
+               04071 Sphingolipid signaling pathway
+                5880 (RAC2)
+               04024 cAMP signaling pathway
+                5880 (RAC2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5880 (RAC2)
+               04520 Adherens junction
+                5880 (RAC2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5880 (RAC2)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                5880 (RAC2)
+               04662 B cell receptor signaling pathway
+                5880 (RAC2)
+               04664 Fc epsilon RI signaling pathway
+                5880 (RAC2)
+               04666 Fc gamma R-mediated phagocytosis
+                5880 (RAC2)
+               04670 Leukocyte transendothelial migration
+                5880 (RAC2)
+               04062 Chemokine signaling pathway
+                5880 (RAC2)
+              Development
+               04360 Axon guidance
+                5880 (RAC2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5880 (RAC2)
+               05231 Choline metabolism in cancer
+                5880 (RAC2)
+               05210 Colorectal cancer
+                5880 (RAC2)
+               05212 Pancreatic cancer
+                5880 (RAC2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5880 (RAC2)
+               05416 Viral myocarditis
+                5880 (RAC2)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Rho Family
+               Rac/Cdc42 [OT]
+                5880 (RAC2)
+POSITION    22q13.1
+MOTIF       Pfam: Ras Roc Arf
+DBLINKS     NCBI-GeneID: 5880
+            NCBI-ProteinID: NP_002863
+            OMIM: 602049
+            HGNC: 9802
+            Ensembl: ENSG00000128340
+            Vega: OTTHUMG00000150540
+            Pharos: P15153(Tbio)
+            UniProt: P15153 A0A024R1P2 V9H0H7
+STRUCTURE   PDB: 2W2T 2W2V 2W2X 1DS6
+AASEQ       192
+            MQAIKCVVVGDGAVGKTCLLISYTTNAFPGEYIPTVFDNYSANVMVDSKPVNLGLWDTAG
+            QEDYDRLRPLSYPQTDVFLICFSLVSPASYENVRAKWFPEVRHHCPSTPIILVGTKLDLR
+            DDKDTIEKLKEKKLAPITYPQGLALAKEIDSVKYLECSALTQRGLKTVFDEAIRAVLCPQ
+            PTRQQKRACSLL
+NTSEQ       579
+            atgcaggccatcaagtgtgtggtggtgggagatggggccgtgggcaagacctgccttctc
+            atcagctacaccaccaacgcctttcccggagagtacatccccaccgtgtttgacaactat
+            tcagccaatgtgatggtggacagcaagccagtgaacctggggctgtgggacactgctggg
+            caggaggactacgaccgtctccggccgctctcctatccacagacggacgtcttcctcatc
+            tgcttctccctcgtcagcccagcctcttatgagaacgtccgcgccaagtggttcccagaa
+            gtgcggcaccactgccccagcacacccatcatcctggtgggcaccaagctggacctgcgg
+            gacgacaaggacaccatcgagaaactgaaggagaagaagctggctcccatcacctacccg
+            cagggcctggcactggccaaggagattgactcggtgaaatacctggagtgctcagctctc
+            acccagagaggcctgaaaaccgtgttcgacgaggccatccgggccgtgctgtgccctcag
+            cccacgcggcagcagaagcgcgcctgcagcctcctctag
+///

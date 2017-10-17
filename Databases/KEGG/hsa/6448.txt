@@ -1,0 +1,75 @@
+ENTRY       6448              CDS       T01001
+NAME        SGSH, HSS, MPS3A, SFMD
+DEFINITION  (RefSeq) N-sulfoglucosamine sulfohydrolase
+ORTHOLOGY   K01565  N-sulfoglucosamine sulfohydrolase [EC:3.10.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00531  Glycosaminoglycan degradation
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+MODULE      hsa_M00078  Heparan sulfate degradation
+DISEASE     H00130  Mucopolysaccharidosis type III (MPS3)
+            H00421  Mucopolysaccharidosis (MPS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00531 Glycosaminoglycan degradation
+                6448 (SGSH)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                6448 (SGSH)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.10  Acting on sulfur-nitrogen bonds
+               3.10.1  Acting on sulfur-nitrogen bonds (only sub-subclass identified to date)
+                3.10.1.1  N-sulfoglucosamine sulfohydrolase
+                 6448 (SGSH)
+POSITION    17q25.3
+MOTIF       Pfam: Sulfatase DUF4976 Phosphodiest DUF1501 DUF229
+DBLINKS     NCBI-GeneID: 6448
+            NCBI-ProteinID: NP_000190
+            OMIM: 605270
+            HGNC: 10818
+            Ensembl: ENSG00000181523
+            Vega: OTTHUMG00000177569
+            Pharos: P51688(Tbio)
+            UniProt: P51688
+STRUCTURE   PDB: 4MHX 4MIV
+AASEQ       502
+            MSCPVPACCALLLVLGLCRARPRNALLLLADDGGFESGAYNNSAIATPHLDALARRSLLF
+            RNAFTSVSSCSPSRASLLTGLPQHQNGMYGLHQDVHHFNSFDKVRSLPLLLSQAGVRTGI
+            IGKKHVGPETVYPFDFAYTEENGSVLQVGRNITRIKLLVRKFLQTQDDRPFFLYVAFHDP
+            HRCGHSQPQYGTFCEKFGNGESGMGRIPDWTPQAYDPLDVLVPYFVPNTPAARADLAAQY
+            TTVGRMDQGVGLVLQELRDAGVLNDTLVIFTSDNGIPFPSGRTNLYWPGTAEPLLVSSPE
+            HPKRWGQVSEAYVSLLDLTPTILDWFSIPYPSYAIFGSKTIHLTGRSLLPALEAEPLWAT
+            VFGSQSHHEVTMSYPMRSVQHRHFRLVHNLNFKMPFPIDQDFYVSPTFQDLLNRTTAGQP
+            TGWYKDLRHYYYRARWELYDRSRDPHETQNLATDPRFAQLLEMLRDQLAKWQWETHDPWV
+            CAPDGVLEEKLSPQCQPLHNEL
+NTSEQ       1509
+            atgagctgccccgtgcccgcctgctgcgcgctgctgctagtcctggggctctgccgggcg
+            cgtccccggaacgcactgctgctcctcgcggatgacggaggctttgagagtggcgcgtac
+            aacaacagcgccatcgccaccccgcacctggacgccttggcccgccgcagcctcctcttt
+            cgcaatgccttcacctcggtcagcagctgctctcccagccgcgccagcctcctcactggc
+            ctgccccagcatcagaatgggatgtacgggctgcaccaggacgtgcaccacttcaactcc
+            ttcgacaaggtgcggagcctgccgctgctgctcagccaagctggtgtgcgcacaggcatc
+            atcgggaagaagcacgtggggccggagaccgtgtacccgtttgactttgcgtacacggag
+            gagaatggctccgtcctccaggtggggcggaacatcactagaattaagctgctcgtccgg
+            aaattcctgcagactcaggatgaccggcctttcttcctctacgtcgccttccacgacccc
+            caccgctgtgggcactcccagccccagtacggaaccttctgtgagaagtttggcaacgga
+            gagagcggcatgggtcgtatcccagactggaccccccaggcctacgacccactggacgtg
+            ctggtgccttacttcgtccccaacaccccggcagcccgagccgacctggccgctcagtac
+            accaccgtcggccgcatggaccaaggagttggactggtgctccaggagctgcgtgacgcc
+            ggtgtcctgaacgacacactggtgatcttcacgtccgacaacgggatccccttccccagc
+            ggcaggaccaacctgtactggccgggcactgctgaacccttactggtgtcatccccggag
+            cacccaaaacgctggggccaagtcagcgaggcctacgtgagcctcctagacctcacgccc
+            accatcttggattggttctcgatcccgtaccccagctacgccatctttggctcgaagacc
+            atccacctcactggccggtccctcctgccggcgctggaggccgagcccctctgggccacc
+            gtctttggcagccagagccaccacgaggtcaccatgtcctaccccatgcgctccgtgcag
+            caccggcacttccgcctcgtgcacaacctcaacttcaagatgccctttcccatcgaccag
+            gacttctacgtctcacccaccttccaggacctcctgaaccgcaccacagctggtcagccc
+            acgggctggtacaaggacctccgtcattactactaccgggcgcgctgggagctctacgac
+            cggagccgggacccccacgagacccagaacctggccaccgacccgcgctttgctcagctt
+            ctggagatgcttcgggaccagctggccaagtggcagtgggagacccacgacccctgggtg
+            tgcgcccccgacggcgtcctggaggagaagctctctccccagtgccagcccctccacaat
+            gagctgtga
+///

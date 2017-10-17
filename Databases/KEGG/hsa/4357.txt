@@ -1,0 +1,63 @@
+ENTRY       4357              CDS       T01001
+NAME        MPST, MST, TST2, TUM1
+DEFINITION  (RefSeq) mercaptopyruvate sulfurtransferase
+ORTHOLOGY   K01011  thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa00920  Sulfur metabolism
+            hsa01100  Metabolic pathways
+            hsa04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00920 Sulfur metabolism
+                4357 (MPST)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                4357 (MPST)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04122 Sulfur relay system
+                4357 (MPST)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.1  thiosulfate sulfurtransferase
+                 4357 (MPST)
+                2.8.1.2  3-mercaptopyruvate sulfurtransferase
+                 4357 (MPST)
+POSITION    22q12.3
+MOTIF       Pfam: Rhodanese B12D
+DBLINKS     NCBI-GeneID: 4357
+            NCBI-ProteinID: NP_001013454
+            OMIM: 602496
+            HGNC: 7223
+            Ensembl: ENSG00000128309
+            Vega: OTTHUMG00000150543
+            Pharos: P25325(Tbio)
+            UniProt: P25325 A0A140VJX3
+STRUCTURE   PDB: 4JGT 3OLH
+AASEQ       297
+            MASPQLCRALVSAQWVAEALRAPRAGQPLQLLDASWYLPKLGRDARREFEERHIPGAAFF
+            DIDQCSDRTSPYDHMLPGAEHFAEYAGRLGVGAATHVVIYDASDQGLYSAPRVWWMFRAF
+            GHHAVSLLDGGLRHWLRQNLPLSSGKSQPAPAEFRAQLDPAFIKTYEDIKENLESRRFQV
+            VDSRATGRFRGTEPEPRDGIEPGHIPGTVNIPFTDFLSQEGLEKSPEEIRHLFQEKKVDL
+            SKPLVATCGSGVTACHVALGAYLCGKPDVPIYDGSWVEWYMRARPEDVISEGRGKTH
+NTSEQ       894
+            atggcttcgccgcagctctgccgcgcgctggtgtcggcgcaatgggtggcggaggcgctg
+            cgggccccgcgcgctgggcagcctctgcagctgctggacgcctcctggtacctgccgaag
+            ctggggcgcgacgcgcgacgcgagttcgaggagcgccacatcccgggcgccgctttcttc
+            gacatcgaccagtgcagcgaccgcacctcgccctacgaccacatgctgcccggggccgag
+            catttcgcggagtacgcaggccgcctgggcgtgggcgcggccacccacgtcgtgatctac
+            gacgccagcgaccagggcctctactccgccccgcgcgtctggtggatgttccgcgccttc
+            ggccaccacgccgtgtcactgcttgatggcggcctccgccactggctgcgccagaacctc
+            ccgctcagctccggcaagagccaacctgctcccgccgagttccgcgctcagctcgacccc
+            gccttcatcaagacctacgaggacatcaaggagaacctggaatcccggcgcttccaggtg
+            gtggactcccgagccactggcaggttccgcggcaccgagcccgagccccgagacggcatt
+            gaacctggccacatcccaggtaccgtgaacatccccttcacagacttcctgagccaggag
+            gggctggagaagagccctgaggagatccgccatctgttccaggagaagaaagtggacctg
+            tctaagccactggtggccacgtgtggctctggcgtcacagcctgccacgtggcactaggg
+            gcctacctctgcggcaagccagacgtgcccatctacgatggctcctgggtggagtggtac
+            atgcgcgcccggcccgaggatgtcatctcagagggccgggggaagacccactga
+///

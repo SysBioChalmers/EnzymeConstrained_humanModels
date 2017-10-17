@@ -1,0 +1,135 @@
+ENTRY       81                CDS       T01001
+NAME        ACTN4, ACTININ-4, FSGS, FSGS1
+DEFINITION  (RefSeq) actinin alpha 4
+ORTHOLOGY   K05699  actinin alpha 1/4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05146  Amoebiasis
+            hsa05203  Viral carcinogenesis
+            hsa05322  Systemic lupus erythematosus
+DISEASE     H00626  Focal segmental glomerulosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                81 (ACTN4)
+               04520 Adherens junction
+                81 (ACTN4)
+               04530 Tight junction
+                81 (ACTN4)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                81 (ACTN4)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                81 (ACTN4)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                81 (ACTN4)
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                81 (ACTN4)
+              Infectious diseases
+               05146 Amoebiasis
+                81 (ACTN4)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Small GTPases and associated proteins
+               Rab associated proteins
+                81 (ACTN4)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Cross-linking proteins
+                 81 (ACTN4)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               81 (ACTN4)
+              Exosomal proteins of colorectal cancer cells
+               81 (ACTN4)
+              Exosomal proteins of bladder cancer cells
+               81 (ACTN4)
+POSITION    19q13.2
+MOTIF       Pfam: Spectrin CH EFhand_Ca_insen EF-hand_1 EF-hand_6 CAMSAP_CH EF-hand_7 EF-hand_8
+DBLINKS     NCBI-GeneID: 81
+            NCBI-ProteinID: NP_004915
+            OMIM: 604638
+            HGNC: 166
+            Ensembl: ENSG00000130402
+            Vega: OTTHUMG00000137382
+            Pharos: O43707(Tbio)
+            UniProt: O43707 A0A0S2Z3G9
+STRUCTURE   PDB: 1YDI 2R0O 1WLX
+AASEQ       911
+            MVDYHAANQSYQYGPSSAGNGAGGGGSMGDYMAQEDDWDRDLLLDPAWEKQQRKTFTAWC
+            NSHLRKAGTQIENIDEDFRDGLKLMLLLEVISGERLPKPERGKMRVHKINNVNKALDFIA
+            SKGVKLVSIGAEEIVDGNAKMTLGMIWTIILRFAIQDISVEETSAKEGLLLWCQRKTAPY
+            KNVNVQNFHISWKDGLAFNALIHRHRPELIEYDKLRKDDPVTNLNNAFEVAEKYLDIPKM
+            LDAEDIVNTARPDEKAIMTYVSSFYHAFSGAQKAETAANRICKVLAVNQENEHLMEDYEK
+            LASDLLEWIRRTIPWLEDRVPQKTIQEMQQKLEDFRDYRRVHKPPKVQEKCQLEINFNTL
+            QTKLRLSNRPAFMPSEGKMVSDINNGWQHLEQAEKGYEEWLLNEIRRLERLDHLAEKFRQ
+            KASIHEAWTDGKEAMLKHRDYETATLSDIKALIRKHEAFESDLAAHQDRVEQIAAIAQEL
+            NELDYYDSHNVNTRCQKICDQWDALGSLTHSRREALEKTEKQLEAIDQLHLEYAKRAAPF
+            NNWMESAMEDLQDMFIVHTIEEIEGLISAHDQFKSTLPDADREREAILAIHKEAQRIAES
+            NHIKLSGSNPYTTVTPQIINSKWEKVQQLVPKRDHALLEEQSKQQSNEHLRRQFASQANV
+            VGPWIQTKMEEIGRISIEMNGTLEDQLSHLKQYERSIVDYKPNLDLLEQQHQLIQEALIF
+            DNKHTNYTMEHIRVGWEQLLTTIARTINEVENQILTRDAKGISQEQMQEFRASFNHFDKD
+            HGGALGPEEFKACLISLGYDVENDRQGEAEFNRIMSLVDPNHSGLVTFQAFIDFMSRETT
+            DTDTADQVIASFKVLAGDKNFITAEELRRELPPDQAEYCIARMAPYQGPDAVPGALDYKS
+            FSTALYGESDL
+NTSEQ       2736
+            atggtggactaccacgcggcgaaccagtcgtaccagtacggccccagcagcgcgggcaat
+            ggcgctggcggcgggggcagcatgggcgactacatggcccaggaggacgactgggaccgg
+            gacctgctgctggacccggcctgggagaagcagcagcgcaagaccttcacggcatggtgc
+            aactcccacctgcggaaggcaggcacacagatcgagaacattgatgaggacttccgagac
+            gggctcaagctcatgctgctcctggaggtcatatcaggggagcggttacctaagccggag
+            cgggggaagatgagagtgcacaaaatcaacaatgtgaacaaagcgctggactttattgcc
+            agcaaaggcgtcaagctggtctccatcggggcagaagagattgtggacggcaacgcaaag
+            atgaccctgggaatgatctggaccatcatccttaggttcgccatccaggacatctccgtg
+            gaagagacctcggccaaggaagggctccttctctggtgccagagaaagacagccccgtat
+            aagaacgtcaatgtgcagaacttccacatcagctggaaggatggtcttgccttcaatgcc
+            ctgatccaccggcacagaccagagctgattgagtatgacaagctgaggaaggacgaccct
+            gtcaccaacctgaacaatgccttcgaagtggctgagaaatacctcgacatccccaagatg
+            ctggatgcagaggacatcgtgaacacggcccggcccgacgagaaggccataatgacctat
+            gtgtccagcttctaccatgccttttcaggagcgcagaaggctgaaactgccgccaaccgg
+            atctgtaaggtgctggctgtcaaccaagagaacgagcacctgatggaggactacgagaag
+            ctggccagcgacctcctggagtggatccggcgcaccatcccctggctggaggaccgtgtg
+            ccccaaaagactatccaggagatgcagcagaagctggaggacttccgcgactaccggcgt
+            gtgcacaagccgcccaaggtgcaggagaagtgccagctggagatcaacttcaacacgctg
+            cagaccaagctgcgcctcagcaaccggcccgccttcatgccctccgagggcaagatggtc
+            tcggacatcaacaatggctggcagcacttggagcaggctgagaagggctacgaggagtgg
+            ctgctgaatgagatccgcaggctggagcggctcgaccacctggcagagaagttccggcag
+            aaggcctccatccacgaggcctggactgacgggaaggaagccatgctgaagcaccgggac
+            tacgagacggccacactatcggacatcaaagccctcattcgcaagcacgaggccttcgag
+            agcgacctggctgcgcaccaggaccgcgtggagcagatcgccgccattgcccaggagctc
+            aacgagctggattactacgactcccacaatgtcaacacccggtgccagaagatctgtgac
+            cagtgggacgccctcggctctctgacacatagtcgcagggaagccctggagaaaacagag
+            aagcagctggaggccatcgaccagctgcacctggaatacgccaagcgcgcggcccccttc
+            aacaactggatggagagcgccatggaggacctccaggacatgttcatcgtccataccatc
+            gaggagattgagggcctgatctcagcccatgaccagttcaagtccaccctgccggacgcc
+            gatagggagcgcgaggccatcctggccatccacaaggaggcccagaggatcgctgagagc
+            aaccacatcaagctgtcgggcagcaacccctacaccaccgtcaccccgcaaatcatcaac
+            tccaagtgggagaaggtgcagcagctggtgccaaaacgggaccatgccctcctggaggag
+            cagagcaagcagcagtccaacgagcacctgcgccgccagttcgccagccaggccaatgtt
+            gtggggccctggatccagaccaagatggaggagatcgggcgcatctccattgagatgaac
+            gggaccctggaggaccagctgagccacctgaagcagtatgaacgcagcatcgtggactac
+            aagcccaacctggacctgctggagcagcagcaccagctcatccaggaggccctcatcttc
+            gacaacaagcacaccaactataccatggagcacatccgcgtgggctgggagcagctgctc
+            accaccattgcccgcaccatcaacgaggtggagaaccagatcctcacccgcgacgccaag
+            ggcatcagccaggagcagatgcaggagttccgggcgtccttcaaccacttcgacaaggat
+            catggcggggcgctggggcccgaggagttcaaggcctgcctcatcagcctgggctacgac
+            gtggagaacgaccggcagggtgaggccgagttcaaccgcatcatgagcctggtcgacccc
+            aaccatagcggccttgtgaccttccaagccttcatcgacttcatgtcgcgggagaccacc
+            gacacggacacggctgaccaggtcatcgcttccttcaaggtcttagcaggggacaagaac
+            ttcatcacagctgaggagctgcggagagagctgccccccgaccaggccgagtactgcatc
+            gcccgcatggcgccataccagggccctgacgccgtgcccggtgccctcgactacaagtcc
+            ttctccacggccttgtatggcgagagcgacctgtga
+///

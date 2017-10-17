@@ -1,0 +1,105 @@
+ENTRY       1654              CDS       T01001
+NAME        DDX3X, CAP-Rf, DBX, DDX14, DDX3, HLP2, MRX102
+DEFINITION  (RefSeq) DEAD-box helicase 3, X-linked
+ORTHOLOGY   K11594  ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04622  RIG-I-like receptor signaling pathway
+            hsa05161  Hepatitis B
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                1654 (DDX3X)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                1654 (DDX3X)
+              Infectious diseases
+               05161 Hepatitis B
+                1654 (DDX3X)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 1654 (DDX3X)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 1654 (DDX3X)
+               mRNA cycle factors
+                Common to processing body (P body) and stress granule
+                 1654 (DDX3X)
+            Spliceosome [BR:hsa03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               RNA helicase-like proteins
+                1654 (DDX3X)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              RNA silencing
+               RISC (RNA-induced silencing complex)
+                1654 (DDX3X)
+POSITION    Xp11.4
+MOTIF       Pfam: DEAD Helicase_C ResIII UTP25
+DBLINKS     NCBI-GeneID: 1654
+            NCBI-ProteinID: NP_001347
+            OMIM: 300160
+            HGNC: 2745
+            Ensembl: ENSG00000215301
+            Vega: OTTHUMG00000021369
+            Pharos: O00571(Tchem)
+            UniProt: O00571
+STRUCTURE   PDB: 2JGN 2I4I 5E7I 5E7J 5E7M 4PX9 4PXA
+AASEQ       662
+            MSHVAVENALGLDQQFAGLDLNSSDNQSGGSTASKGRYIPPHLRNREATKGFYDKDSSGW
+            SSSKDKDAYSSFGSRSDSRGKSSFFSDRGSGSRGRFDDRGRSDYDGIGSRGDRSGFGKFE
+            RGGNSRWCDKSDEDDWSKPLPPSERLEQELFSGGNTGINFEKYDDIPVEATGNNCPPHIE
+            SFSDVEMGEIIMGNIELTRYTRPTPVQKHAIPIIKEKRDLMACAQTGSGKTAAFLLPILS
+            QIYSDGPGEALRAMKENGRYGRRKQYPISLVLAPTRELAVQIYEEARKFSYRSRVRPCVV
+            YGGADIGQQIRDLERGCHLLVATPGRLVDMMERGKIGLDFCKYLVLDEADRMLDMGFEPQ
+            IRRIVEQDTMPPKGVRHTMMFSATFPKEIQMLARDFLDEYIFLAVGRVGSTSENITQKVV
+            WVEESDKRSFLLDLLNATGKDSLTLVFVETKKGADSLEDFLYHEGYACTSIHGDRSQRDR
+            EEALHQFRSGKSPILVATAVAARGLDISNVKHVINFDLPSDIEEYVHRIGRTGRVGNLGL
+            ATSFFNERNINITKDLLDLLVEAKQEVPSWLENMAYEHHYKGSSRGRSKSSRFSGGFGAR
+            DYRQSSGASSSSFSSSRASSSRSGGGGHGSSRGFGGGGYGGFYNSDGYGGNYNSQGVDWW
+            GN
+NTSEQ       1989
+            atgagtcatgtggcagtggaaaatgcgctcgggctggaccagcagtttgctggcctagac
+            ctgaactcttcagataatcagagtggaggaagtacagccagcaaagggcgctatattcct
+            cctcatttaaggaaccgagaagctactaaaggtttctacgataaagacagttcagggtgg
+            agttctagcaaagataaggatgcgtatagcagttttggatctcgtagtgattcaagaggg
+            aagtctagcttcttcagtgatcgtggaagtggatcaaggggaaggtttgatgatcgtgga
+            cggagtgattacgatggcattggcagccgtggtgacagaagtggctttggcaaatttgaa
+            cgtggtggaaacagtcgctggtgtgacaaatcagatgaagatgattggtcaaaaccactc
+            ccaccaagtgaacgcttggaacaggaactcttttctggaggcaacactgggattaatttt
+            gagaaatacgatgacattccagttgaggcaacaggcaacaactgtcctccacatattgaa
+            agtttcagtgatgttgagatgggagaaattatcatgggaaacattgagcttactcgttat
+            actcgcccaactccagtgcaaaagcatgctattcctattatcaaagagaaaagagacttg
+            atggcttgtgcccaaacagggtctggaaaaactgcagcatttctgttgcccatcttgagt
+            cagatttattcagatggtccaggcgaggctttgagggccatgaaggaaaatggaaggtat
+            gggcgccgcaaacaatacccaatctccttggtattagcaccaacgagagagttggcagta
+            cagatctacgaggaagccagaaaattttcataccgatctagagttcgtccttgcgtggtt
+            tatggtggtgccgatattggtcagcagattcgagacttggaacgtggatgccatttgtta
+            gtagccactccaggacgtctagtggatatgatggaaagaggaaagattggattagacttt
+            tgcaaatacttggtgttagatgaagctgatcggatgttggatatggggtttgagcctcag
+            attcgtagaatagtcgaacaagatactatgcctccaaagggtgtccgccacactatgatg
+            tttagtgctacttttcctaaggaaatacagatgctggctcgtgatttcttagatgaatat
+            atcttcttggctgtaggaagagttggctctacctctgaaaacatcacacagaaagtagtt
+            tgggtggaagaatcagacaaacggtcatttctgcttgacctcctaaatgcaacaggcaag
+            gattcactgaccttagtgtttgtggagaccaaaaagggtgcagattctctggaggatttc
+            ttataccatgaaggatacgcatgtaccagcatccatggagaccgttctcagagggataga
+            gaagaggcccttcaccagttccgctcaggaaaaagcccaattttagtggctacagcagta
+            gcagcaagaggactggacatttcaaatgtgaaacatgttatcaattttgacttgccaagt
+            gatattgaagaatatgtacatcgtattggtcgtacgggacgtgtaggaaaccttggcctg
+            gcaacctcattctttaacgagaggaacataaatattactaaggatttgttggatcttctt
+            gttgaagctaaacaagaagtgccgtcttggttagaaaacatggcttatgaacaccactac
+            aagggtagcagtcgtggacgttctaagagtagcagatttagtggagggtttggtgccaga
+            gactaccgacaaagtagcggtgccagcagttccagcttcagcagcagccgcgcaagcagc
+            agccgcagtggcggaggtggccacggtagcagcagaggatttggtggaggtggctatgga
+            ggcttttacaacagtgatggatatggaggaaattataactcccagggggttgactggtgg
+            ggtaactga
+///

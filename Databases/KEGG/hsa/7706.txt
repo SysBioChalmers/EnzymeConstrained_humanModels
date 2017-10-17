@@ -1,0 +1,89 @@
+ENTRY       7706              CDS       T01001
+NAME        TRIM25, EFP, RNF147, Z147, ZNF147
+DEFINITION  (RefSeq) tripartite motif containing 25
+ORTHOLOGY   K10652  tripartite motif-containing protein 25 [EC:2.3.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa05164  Influenza A
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                7706 (TRIM25)
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                7706 (TRIM25)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                7706 (TRIM25)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 7706 (TRIM25)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               TRIM/RBCC proteins
+                7706 (TRIM25)
+POSITION    17q22
+MOTIF       Pfam: SPRY PRY zf-RING_UBOX zf-C3HC4_4 zf-C3HC4 zf-C3HC4_2 zf-RING_2 zf-C3HC4_3 zf-RING_5 Prok-RING_4 zf-B_box Pox_Rif Exonuc_VII_L IDEAL Fibin
+DBLINKS     NCBI-GeneID: 7706
+            NCBI-ProteinID: NP_005073
+            OMIM: 600453
+            HGNC: 12932
+            Ensembl: ENSG00000121060
+            Vega: OTTHUMG00000178124
+            Pharos: Q14258(Tbio)
+            UniProt: Q14258
+STRUCTURE   PDB: 5FER 5EYA 4LTB 4CFG
+AASEQ       630
+            MAELCPLAEELSCSICLEPFKEPVTTPCGHNFCGSCLNETWAVQGSPYLCPQCRAVYQAR
+            PQLHKNTVLCNVVEQFLQADLAREPPADVWTPPARASAPSPNAQVACDHCLKEAAVKTCL
+            VCMASFCQEHLQPHFDSPAFQDHPLQPPVRDLLRRKCSQHNRLREFFCPEHSECICHICL
+            VEHKTCSPASLSQASADLEATLRHKLTVMYSQINGASRALDDVRNRQQDVRMTANRKVEQ
+            LQQEYTEMKALLDASETTSTRKIKEEEKRVNSKFDTIYQILLKKKSEIQTLKEEIEQSLT
+            KRDEFEFLEKASKLRGISTKPVYIPEVELNHKLIKGIHQSTIDLKNELKQCIGRLQEPTP
+            SSGDPGEHDPASTHKSTRPVKKVSKEEKKSKKPPPVPALPSKLPTFGAPEQLVDLKQAGL
+            EAAAKATSSHPNSTSLKAKVLETFLAKSRPELLEYYIKVILDYNTAHNKVALSECYTVAS
+            VAEMPQNYRPHPQRFTYCSQVLGLHCYKKGIHYWEVELQKNNFCGVGICYGSMNRQGPES
+            RLGRNSASWCVEWFNTKISAWHNNVEKTLPSTKATRVGVLLNCDHGFVIFFAVADKVHLM
+            YKFRVDFTEALYPAFWVFSAGATLSICSPK
+NTSEQ       1893
+            atggcagagctgtgccccctggccgaggagctgtcgtgctccatctgcctggagcccttc
+            aaggagccggtcaccactccgtgcggccacaacttctgcgggtcgtgcctgaatgagacg
+            tgggcagtccagggctcgccatacctgtgcccgcagtgccgcgccgtctaccaggcgcga
+            ccgcagctgcacaagaacacggtgctgtgcaacgtggtggagcagttcctgcaggccgac
+            ctggcccgggagccacccgccgacgtctggacgccgcccgcccgcgcctctgcacccagc
+            ccgaatgcccaggtggcctgcgaccactgcctgaaggaggccgccgtgaagacgtgcttg
+            gtgtgcatggcctccttctgtcaggagcacctgcagccgcacttcgacagccccgccttc
+            caggaccacccgctgcagccgcccgttcgcgacctgttgcgccgcaaatgttcccagcac
+            aatcggctgcgggaatttttctgccccgagcacagcgagtgcatctgccacatctgcctg
+            gtggagcataagacctgctctcccgcgtccctgagccaggccagcgccgacctggaggcc
+            accctgaggcacaaactaactgtcatgtacagtcagatcaacggggcgtcgagagcactg
+            gatgatgtgagaaacaggcagcaggatgtgcggatgactgcaaacagaaaggtggagcag
+            ctacaacaagaatacacggaaatgaaggctctcttggacgcctcagagaccacctcgaca
+            aggaagataaaggaagaggagaagagggtcaacagcaagtttgacaccatttatcagatt
+            ctcctcaagaagaagagtgagatccagaccttgaaggaggagattgaacagagcctgacc
+            aagagggatgagttcgagtttctggagaaagcatcaaaactgcgaggaatctcaacaaag
+            ccagtctacatccccgaggtggaactgaaccacaagctgataaaaggcatccaccagagc
+            accatagacctcaaaaacgagctgaagcagtgcatcgggcggctccaggagcccaccccc
+            agttcaggtgaccctggagagcatgacccagcgtccacacacaaatccacacgccctgtg
+            aagaaggtctccaaagaggaaaagaaatccaagaaacctccccctgtccctgccttaccc
+            agcaagcttcccacgtttggagccccggaacagttagtggatttaaaacaagctggcttg
+            gaggctgcagccaaagccaccagctcacatccgaactcaacatctctcaaggccaaggtg
+            ctggagaccttcctggccaagtccagacctgagctcctggagtattacattaaagtcatc
+            ctggactacaacaccgcccacaacaaagtggctctgtcagagtgctatacagtagcttct
+            gtggctgagatgcctcagaactaccggccgcatccccagaggttcacatactgctctcag
+            gtgctgggcctgcactgctacaagaaggggatccactactgggaggtggagctgcagaag
+            aacaacttctgtggggtaggcatctgctacggaagcatgaaccggcagggcccagaaagc
+            aggctcggccgcaacagcgcctcctggtgcgtggagtggttcaacaccaagatctctgcc
+            tggcacaataacgtggagaaaaccctgccctccaccaaggccacgcgggtgggcgtgctt
+            ctcaactgtgaccacggctttgtcatcttcttcgctgttgccgacaaggtccacctgatg
+            tataagttcagggtggactttactgaggctttgtacccggctttctgggtattttctgct
+            ggtgccacactctccatctgctcccccaagtag
+///

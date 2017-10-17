@@ -1,0 +1,75 @@
+ENTRY       23192             CDS       T01001
+NAME        ATG4B, APG4B, AUTL1
+DEFINITION  (RefSeq) autophagy related 4B cysteine peptidase
+ORTHOLOGY   K08342  cysteine protease ATG4 [EC:3.4.22.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04136  Autophagy - other
+            hsa04140  Autophagy - animal
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                23192 (ATG4B)
+               04136 Autophagy - other eukaryotes
+                23192 (ATG4B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.-  
+                 23192 (ATG4B)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C54: Aut2 peptidase family
+               23192 (ATG4B)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Core machinery Atg proteins
+                23192 (ATG4B)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                23192 (ATG4B)
+POSITION    2q37.3
+MOTIF       Pfam: Peptidase_C54
+DBLINKS     NCBI-GeneID: 23192
+            NCBI-ProteinID: NP_037457
+            OMIM: 611338
+            HGNC: 20790
+            Ensembl: ENSG00000168397
+            Vega: OTTHUMG00000151514
+            Pharos: Q9Y4P1(Tbio)
+            UniProt: Q9Y4P1 B3KVU2
+STRUCTURE   PDB: 2Z0D 2Z0E 2CY7 2D1I 2ZZP
+AASEQ       393
+            MDAATLTYDTLRFAEFEDFPETSEPVWILGRKYSIFTEKDEILSDVASRLWFTYRKNFPA
+            IGGTGPTSDTGWGCMLRCGQMIFAQALVCRHLGRDWRWTQRKRQPDSYFSVLNAFIDRKD
+            SYYSIHQIAQMGVGEGKSIGQWYGPNTVAQVLKKLAVFDTWSSLAVHIAMDNTVVMEEIR
+            RLCRTSVPCAGATAFPADSDRHCNGFPAGAEVTNRPSPWRPLVLLIPLRLGLTDINEAYV
+            ETLKHCFMMPQSLGVIGGKPNSAHYFIGYVGEELIYLDPHTTQPAVEPTDGCFIPDESFH
+            CQHPPCRMSIAELDPSIAVGFFCKTEDDFNDWCQQVKKLSLLGGALPMFELVELQPSHLA
+            CPDVLNLSLDSSDVERLERFFDSEDEDFEILSL
+NTSEQ       1182
+            atggacgcagctactctgacctacgacactctccggtttgctgagtttgaagattttcct
+            gagacctcagagcccgtttggatactgggtagaaaatacagcattttcacagaaaaggac
+            gagatcttgtctgatgtggcatctagactttggtttacatacaggaaaaactttccagcc
+            attggggggacaggccccacctcggacacaggctggggctgcatgctgcggtgtggacag
+            atgatctttgcccaagccctggtgtgccggcacctaggccgagattggaggtggacacaa
+            aggaagaggcagccagacagctacttcagcgtcctcaacgcattcatcgacaggaaggac
+            agttactactccattcaccagatagcgcaaatgggagttggcgaaggcaagtccataggc
+            cagtggtacgggcccaacactgtcgcccaggtcctgaagaagcttgctgtcttcgatacg
+            tggagctccttggcggtccacattgcaatggacaacactgttgtgatggaggaaatcaga
+            aggttgtgcaggaccagcgttccctgtgcaggcgccactgcgtttcctgcagattccgac
+            cggcactgcaacggattccctgccggagctgaggtcaccaacaggccgtcgccatggaga
+            cccctggtacttctcattcccctgcgcctggggctcacggacatcaacgaggcctacgtg
+            gagacgctgaagcactgcttcatgatgccccagtccctgggcgtcatcggagggaagccc
+            aacagcgcccactacttcatcggctacgttggtgaggagctcatctacctggacccccac
+            accacgcagccagccgtggagcccactgatggctgcttcatcccggacgagagcttccac
+            tgccagcacccgccgtgccgcatgagcatcgcggagcttgacccgtccatcgctgtgggg
+            tttttctgtaagactgaagatgacttcaatgattggtgccagcaagtcaaaaagctgtct
+            ctgcttggaggtgccctgcccatgtttgagctggtggagctgcagccttcacatctggcc
+            tgccccgacgtcctgaacctgtccctagattcttctgatgtagagcgactggaaagattc
+            ttcgactcagaagatgaagactttgaaatcctgtccctttga
+///

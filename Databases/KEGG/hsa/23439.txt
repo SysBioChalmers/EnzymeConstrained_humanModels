@@ -1,0 +1,114 @@
+ENTRY       23439             CDS       T01001
+NAME        ATP1B4
+DEFINITION  (RefSeq) ATPase Na+/K+ transporting family member beta 4
+ORTHOLOGY   K01540  sodium/potassium-transporting ATPase subunit beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04911  Insulin secretion
+            hsa04918  Thyroid hormone synthesis
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04960  Aldosterone-regulated sodium reabsorption
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa04964  Proximal tubule bicarbonate reclamation
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04973  Carbohydrate digestion and absorption
+            hsa04974  Protein digestion and absorption
+            hsa04976  Bile secretion
+            hsa04978  Mineral absorption
+DRUG_TARGET Acetyldigitoxin: D06881
+            Acetyldigoxin: D07555
+            Deslanoside: D01240
+            Digitoxin: D00297
+            Digoxin: D00298
+            G-strophanthin: D00112
+            Gitoformate: D07147
+            Lanatoside C: D01972
+            Metildigoxin (DG00191): D02587 D09847
+            Proscillaridin: D01379
+            beta-Acetyldigoxin: D07556
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                23439 (ATP1B4)
+               04022 cGMP - PKG signaling pathway
+                23439 (ATP1B4)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                23439 (ATP1B4)
+               04918 Thyroid hormone synthesis
+                23439 (ATP1B4)
+               04919 Thyroid hormone signaling pathway
+                23439 (ATP1B4)
+              Circulatory system
+               04260 Cardiac muscle contraction
+                23439 (ATP1B4)
+               04261 Adrenergic signaling in cardiomyocytes
+                23439 (ATP1B4)
+              Digestive system
+               04970 Salivary secretion
+                23439 (ATP1B4)
+               04971 Gastric acid secretion
+                23439 (ATP1B4)
+               04972 Pancreatic secretion
+                23439 (ATP1B4)
+               04976 Bile secretion
+                23439 (ATP1B4)
+               04973 Carbohydrate digestion and absorption
+                23439 (ATP1B4)
+               04974 Protein digestion and absorption
+                23439 (ATP1B4)
+               04978 Mineral absorption
+                23439 (ATP1B4)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                23439 (ATP1B4)
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                23439 (ATP1B4)
+               04964 Proximal tubule bicarbonate reclamation
+                23439 (ATP1B4)
+            CD molecules [BR:hsa04090]
+             Proteins
+              23439 (ATP1B4)
+POSITION    Xq24
+MOTIF       Pfam: Na_K-ATPase Gcd10p
+DBLINKS     NCBI-GeneID: 23439
+            NCBI-ProteinID: NP_001135919
+            HGNC: 808
+            Ensembl: ENSG00000101892
+            Vega: OTTHUMG00000022299
+            Pharos: Q9UN42(Tdark)
+            UniProt: Q9UN42
+AASEQ       357
+            MRRQLRSRRAPSFPYSYRYRLDDPDEANQNYLADEEEEAEEEARVTVVPKSEEEEEEEEK
+            EEEEEEEKEEEEGQGQPTGNAWWQKLQIMSEYLWDPERRMFLARTGQSWSLILLIYFFFY
+            ASLAAVITLCMYTLFLTISPYIPTFTERVKPPGVMIRPFAHSLNFNFNVSEPDTWQHYVI
+            SLNGFLQGYNDSLQEEMNVDCPPGQYFIQDGNEDEDKKACQFKRSFLKNCSGLEDPTFGY
+            STGQPCILLKMNRIVGFRPELGDPVKVSCKVQRGDENDIRSISYYPESASFDLRYYPYYG
+            KLTHVNYTSPLVAMHFTDVVKNQAVPVQCQLKGKGVINDVINDRFVGRVIFTLNIET
+NTSEQ       1074
+            atgagaaggcaactccggtccagaagggctccatcctttccttacagttatcgctacaga
+            ctcgatgatccggatgaagcgaaccagaactacttagcagatgaagaggaggaagcagaa
+            gaagaggctcgggtgacggtggtgcccaaatcggaggaggaggaagaagaggaggagaaa
+            gaagaggaggaagaggaggaaaaggaggaggaagagggtcaaggtcagccaacaggcaat
+            gcctggtggcagaaattgcagatcatgagtgaatacctgtgggatccagagagaaggatg
+            tttctggcccgaacaggtcagagttggagcctgatcttactcatttacttcttcttctat
+            gcctccttggctgctgtgatcaccctctgcatgtacacactatttctgaccatcagtccc
+            tatataccaaccttcacggagcgggtaaagcctcctggagttatgatcagacccttcgcc
+            catagccttaacttcaacttcaacgtttctgaacccgacacttggcagcattatgtgatt
+            agcctaaatggctttctccagggttataatgacagtcttcaagaggaaatgaatgtagat
+            tgtcccccggggcagtacttcatccaagatggcaatgaggatgaggacaagaaggcctgc
+            caatttaagcgctccttcctaaagaactgctctggtctggaggacccaacttttggatac
+            tctactggacagccctgcatccttctaaagatgaaccggattgtaggctttcgtcctgag
+            cttggagatcctgtgaaggtttcctgcaaagttcagagaggtgatgaaaatgacatccga
+            tccatcagttactacccagagtcggcttcttttgacctccgctactacccttactacggc
+            aaactgactcacgttaactacacatcccccttggtggcaatgcactttacagacgtggtg
+            aagaaccaagcagtgcctgtgcagtgccaactgaagggcaaaggcgtcataaatgatgtc
+            atcaatgatcgttttgtgggcagggtaatctttaccctgaacatagaaacttaa
+///

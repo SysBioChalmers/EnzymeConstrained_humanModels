@@ -1,0 +1,77 @@
+ENTRY       50848             CDS       T01001
+NAME        F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1
+DEFINITION  (RefSeq) F11 receptor
+ORTHOLOGY   K06089  junctional adhesion molecule 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                50848 (F11R)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                50848 (F11R)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                50848 (F11R)
+             Human Diseases
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                50848 (F11R)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Others
+               F11R, JAM1; junctional adhesion molecule 1 [KO:K06089]
+                50848 (F11R)
+               JAM2; junctional adhesion molecule 2 [KO:K06735]
+                50848 (F11R)
+               JAM3; junctional adhesional molecule 3 [KO:K06785]
+                50848 (F11R)
+             2. Integrin Family
+              Beta2 integrins
+               LFA-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 50848 (F11R)
+            CD molecules [BR:hsa04090]
+             Proteins
+              50848 (F11R)
+POSITION    1q23.3
+MOTIF       Pfam: Ig_3 ig I-set Ig_2 V-set C1-set C2-set_2 Adeno_E3_CR1 V-set_CD47
+DBLINKS     NCBI-GeneID: 50848
+            NCBI-ProteinID: NP_058642
+            OMIM: 605721
+            HGNC: 14685
+            Ensembl: ENSG00000158769
+            Vega: OTTHUMG00000028602
+            Pharos: Q9Y624(Tbio)
+            UniProt: Q9Y624 Q6FIB4
+STRUCTURE   PDB: 1NBQ 4ODB 3EOY
+AASEQ       299
+            MGTKAQVERKLLCLFILAILLCSLALGSVTVHSSEPEVRIPENNPVKLSCAYSGFSSPRV
+            EWKFDQGDTTRLVCYNNKITASYEDRVTFLPTGITFKSVTREDTGTYTCMVSEEGGNSYG
+            EVKVKLIVLVPPSKPTVNIPSSATIGNRAVLTCSEQDGSPPSEYTWFKDGIVMPTNPKST
+            RAFSNSSYVLNPTTGELVFDPLSASDTGEYSCEARNGYGTPMTSNAVRMEAVERNVGVIV
+            AAVLVTLILLGILVFGIWFAYSRGHFDRTKKGTSSKKVIYSQPSARSEGEFKQTSSFLV
+NTSEQ       900
+            atggggacaaaggcgcaagtcgagaggaaactgttgtgcctcttcatattggcgatcctg
+            ttgtgctccctggcattgggcagtgttacagtgcactcttctgaacctgaagtcagaatt
+            cctgagaataatcctgtgaagttgtcctgtgcctactcgggcttttcttctccccgtgtg
+            gagtggaagtttgaccaaggagacaccaccagactcgtttgctataataacaagatcaca
+            gcttcctatgaggaccgggtgaccttcttgccaactggtatcaccttcaagtccgtgaca
+            cgggaagacactgggacatacacttgtatggtctctgaggaaggcggcaacagctatggg
+            gaggtcaaggtcaagctcatcgtgcttgtgcctccatccaagcctacagttaacatcccc
+            tcctctgccaccattgggaaccgggcagtgctgacatgctcagaacaagatggttcccca
+            ccttctgaatacacctggttcaaagatgggatagtgatgcctacgaatcccaaaagcacc
+            cgtgccttcagcaactcttcctatgtcctgaatcccacaacaggagagctggtctttgat
+            cccctgtcagcctctgatactggagaatacagctgtgaggcacggaatgggtatgggaca
+            cccatgacttcaaatgctgtgcgcatggaagctgtggagcggaatgtgggggtcatcgtg
+            gcagccgtccttgtaaccctgattctcctgggaatcttggtttttggcatctggtttgcc
+            tatagccgaggccactttgacagaacaaagaaagggacttcgagtaagaaggtgatttac
+            agccagcctagtgcccgaagtgaaggagaattcaaacagacctcgtcattcctggtgtga
+///

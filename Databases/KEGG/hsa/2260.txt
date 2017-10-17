@@ -1,0 +1,177 @@
+ENTRY       2260              CDS       T01001
+NAME        FGFR1, BFGFR, CD331, CEK, ECCL, FGFBR, FGFR-1, FLG, FLT-2, FLT2, HBGFR, HH2, HRTFDS, KAL2, N-SAM, OGD, bFGF-R-1
+DEFINITION  (RefSeq) fibroblast growth factor receptor 1
+ORTHOLOGY   K04362  fibroblast growth factor receptor 1 [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04520  Adherens junction
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00255  Hypogonadotropic hypogonadism
+            H00443  Osteoglophonic dysplasia (OD)
+            H00458  Craniosynostosis
+            H00516  Isolated orofacial clefts
+            H01207  Trigonocephaly
+            H01756  Pfeiffer syndrome
+            H01850  Hartsfield syndrome
+DRUG_TARGET Brivanib (DG01373): D08878 D09589
+            Dovitinib lactate: D08907
+            Lenvatinib (DG01362): D09919 D09920
+            Nintedanib (DG01374): D10396 D10481
+            Regorafenib (DG00720): D10137 D10138
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2260 (FGFR1)
+               04015 Rap1 signaling pathway
+                2260 (FGFR1)
+               04010 MAPK signaling pathway
+                2260 (FGFR1)
+               04151 PI3K-Akt signaling pathway
+                2260 (FGFR1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                2260 (FGFR1)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                2260 (FGFR1)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2260 (FGFR1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2260 (FGFR1)
+               05230 Central carbon metabolism in cancer
+                2260 (FGFR1)
+               05205 Proteoglycans in cancer
+                2260 (FGFR1)
+               05218 Melanoma
+                2260 (FGFR1)
+               05215 Prostate cancer
+                2260 (FGFR1)
+               05224 Breast cancer
+                2260 (FGFR1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 2260 (FGFR1)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              FGFR family [OT]
+               2260 (FGFR1)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class IV (FGF receptor family)
+               2260 (FGFR1)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class IV (FGF receptor family)
+               2260 (FGFR1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               5/2 subfamily
+                NCAM; neural cell adhesion molecule [KO:K06491]
+                 2260 (FGFR1)
+               6/5 subfamily
+                L1CAM; L1 cell adhesion molecule [KO:K06550]
+                 2260 (FGFR1)
+             5. Cadherin Family
+              Classic Cadherins
+               Vertebrate Type I classic cadherins
+                CDH2; cadherin 2, type 1, N-cadherin [KO:K06736]
+                 2260 (FGFR1)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2260 (FGFR1)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2260 (FGFR1)
+POSITION    8p11.23
+MOTIF       Pfam: Pkinase_Tyr Pkinase I-set Ig_3 ig Ig_2 V-set C2-set_2 Kinase-like DUF1615 DUF4611
+DBLINKS     NCBI-GeneID: 2260
+            NCBI-ProteinID: NP_075598
+            OMIM: 136350
+            HGNC: 3688
+            Ensembl: ENSG00000077782
+            Vega: OTTHUMG00000147366
+            Pharos: P11362(Tclin)
+            UniProt: P11362
+STRUCTURE   PDB: 5EW8 4WUN 5AM6 5AM7 4UWC 4ZSA 1FGK 3RHX 4F64 3C4F 5A4C
+                 4V04 5B7V 4RWL 4NKA 5VND 5UR1 3JS2 4F65 4RWI 5UQ0 4UWY
+                 4UWB 4V01 1AGW 4RWJ 5W59 4NKS 3GQI 2FGI 1FGI 4F63 4V05
+                 4NK9 5FLF 3OJV 5A46 3KY2 3TT0 3GQL 1EVT 1CVS 4RWK 1FQ9
+                 3KXX 2CR3
+AASEQ       822
+            MWSWKCLLFWAVLVTATLCTARPSPTLPEQAQPWGAPVEVESFLVHPGDLLQLRCRLRDD
+            VQSINWLRDGVQLAESNRTRITGEEVEVQDSVPADSGLYACVTSSPSGSDTTYFSVNVSD
+            ALPSSEDDDDDDDSSSEEKETDNTKPNRMPVAPYWTSPEKMEKKLHAVPAAKTVKFKCPS
+            SGTPNPTLRWLKNGKEFKPDHRIGGYKVRYATWSIIMDSVVPSDKGNYTCIVENEYGSIN
+            HTYQLDVVERSPHRPILQAGLPANKTVALGSNVEFMCKVYSDPQPHIQWLKHIEVNGSKI
+            GPDNLPYVQILKTAGVNTTDKEMEVLHLRNVSFEDAGEYTCLAGNSIGLSHHSAWLTVLE
+            ALEERPAVMTSPLYLEIIIYCTGAFLISCMVGSVIVYKMKSGTKKSDFHSQMAVHKLAKS
+            IPLRRQVTVSADSSASMNSGVLLVRPSRLSSSGTPMLAGVSEYELPEDPRWELPRDRLVL
+            GKPLGEGCFGQVVLAEAIGLDKDKPNRVTKVAVKMLKSDATEKDLSDLISEMEMMKMIGK
+            HKNIINLLGACTQDGPLYVIVEYASKGNLREYLQARRPPGLEYCYNPSHNPEEQLSSKDL
+            VSCAYQVARGMEYLASKKCIHRDLAARNVLVTEDNVMKIADFGLARDIHHIDYYKKTTNG
+            RLPVKWMAPEALFDRIYTHQSDVWSFGVLLWEIFTLGGSPYPGVPVEELFKLLKEGHRMD
+            KPSNCTNELYMMMRDCWHAVPSQRPTFKQLVEDLDRIVALTSNQEYLDLSMPLDQYSPSF
+            PDTRSSTCSSGEDSVFSHEPLPEEPCLPRHPAQLANGGLKRR
+NTSEQ       2469
+            atgtggagctggaagtgcctcctcttctgggctgtgctggtcacagccacactctgcacc
+            gctaggccgtccccgaccttgcctgaacaagcccagccctggggagcccctgtggaagtg
+            gagtccttcctggtccaccccggtgacctgctgcagcttcgctgtcggctgcgggacgat
+            gtgcagagcatcaactggctgcgggacggggtgcagctggcggaaagcaaccgcacccgc
+            atcacaggggaggaggtggaggtgcaggactccgtgcccgcagactccggcctctatgct
+            tgcgtaaccagcagcccctcgggcagtgacaccacctacttctccgtcaatgtttcagat
+            gctctcccctcctcggaggatgatgatgatgatgatgactcctcttcagaggagaaagaa
+            acagataacaccaaaccaaaccgtatgcccgtagctccatattggacatccccagaaaag
+            atggaaaagaaattgcatgcagtgccggctgccaagacagtgaagttcaaatgcccttcc
+            agtgggaccccaaaccccacactgcgctggttgaaaaatggcaaagaattcaaacctgac
+            cacagaattggaggctacaaggtccgttatgccacctggagcatcataatggactctgtg
+            gtgccctctgacaagggcaactacacctgcattgtggagaatgagtacggcagcatcaac
+            cacacataccagctggatgtcgtggagcggtcccctcaccggcccatcctgcaagcaggg
+            ttgcccgccaacaaaacagtggccctgggtagcaacgtggagttcatgtgtaaggtgtac
+            agtgacccgcagccgcacatccagtggctaaagcacatcgaggtgaatgggagcaagatt
+            ggcccagacaacctgccttatgtccagatcttgaagactgctggagttaataccaccgac
+            aaagagatggaggtgcttcacttaagaaatgtctcctttgaggacgcaggggagtatacg
+            tgcttggcgggtaactctatcggactctcccatcactctgcatggttgaccgttctggaa
+            gccctggaagagaggccggcagtgatgacctcgcccctgtacctggagatcatcatctat
+            tgcacaggggccttcctcatctcctgcatggtggggtcggtcatcgtctacaagatgaag
+            agtggtaccaagaagagtgacttccacagccagatggctgtgcacaagctggccaagagc
+            atccctctgcgcagacaggtaacagtgtctgctgactccagtgcatccatgaactctggg
+            gttcttctggttcggccatcacggctctcctccagtgggactcccatgctagcaggggtc
+            tctgagtatgagcttcccgaagaccctcgctgggagctgcctcgggacagactggtctta
+            ggcaaacccctgggagagggctgctttgggcaggtggtgttggcagaggctatcgggctg
+            gacaaggacaaacccaaccgtgtgaccaaagtggctgtgaagatgttgaagtcggacgca
+            acagagaaagacttgtcagacctgatctcagaaatggagatgatgaagatgatcgggaag
+            cataagaatatcatcaacctgctgggggcctgcacgcaggatggtcccttgtatgtcatc
+            gtggagtatgcctccaagggcaacctgcgggagtacctgcaggcccggaggcccccaggg
+            ctggaatactgctacaaccccagccacaacccagaggagcagctctcctccaaggacctg
+            gtgtcctgcgcctaccaggtggcccgaggcatggagtatctggcctccaagaagtgcata
+            caccgagacctggcagccaggaatgtcctggtgacagaggacaatgtgatgaagatagca
+            gactttggcctcgcacgggacattcaccacatcgactactataaaaagacaaccaacggc
+            cgactgcctgtgaagtggatggcacccgaggcattatttgaccggatctacacccaccag
+            agtgatgtgtggtctttcggggtgctcctgtgggagatcttcactctgggcggctcccca
+            taccccggtgtgcctgtggaggaacttttcaagctgctgaaggagggtcaccgcatggac
+            aagcccagtaactgcaccaacgagctgtacatgatgatgcgggactgctggcatgcagtg
+            ccctcacagagacccaccttcaagcagctggtggaagacctggaccgcatcgtggccttg
+            acctccaaccaggagtacctggacctgtccatgcccctggaccagtactcccccagcttt
+            cccgacacccggagctctacgtgctcctcaggggaggattccgtcttctctcatgagccg
+            ctgcccgaggagccctgcctgccccgacacccagcccagcttgccaatggcggactcaaa
+            cgccgctga
+///

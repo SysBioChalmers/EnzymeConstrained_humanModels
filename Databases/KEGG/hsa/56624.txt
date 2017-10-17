@@ -1,0 +1,91 @@
+ENTRY       56624             CDS       T01001
+NAME        ASAH2, BCDase, HNAC1, LCDase, N-CDase, NCDase
+DEFINITION  (RefSeq) N-acylsphingosine amidohydrolase 2
+ORTHOLOGY   K12349  neutral ceramidase [EC:3.5.1.23]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04071  Sphingolipid signaling pathway
+MODULE      hsa_M00099  Sphingosine biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                56624 (ASAH2)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                56624 (ASAH2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.23  ceramidase
+                 56624 (ASAH2)
+POSITION    10q11.23
+MOTIF       Pfam: Ceramidase_alk Ceramidse_alk_C Pga1
+DBLINKS     NCBI-GeneID: 56624
+            NCBI-ProteinID: NP_063946
+            OMIM: 611202
+            HGNC: 18860
+            Ensembl: ENSG00000188611
+            Vega: OTTHUMG00000018223
+            Pharos: Q9NR71(Tbio)
+            UniProt: Q9NR71
+STRUCTURE   PDB: 4WGK
+AASEQ       780
+            MAKRTFSNLETFLIFLLVMMSAITVALLSLLFITSGTIENHKDLGGHFFSTTQSPPATQG
+            STAAQRSTATQHSTATQSSTATQTSPVPLTPESPLFQNFSGYHIGVGRADCTGQVADINL
+            MGYGKSGQNAQGILTRLYSRAFIMAEPDGSNRTVFVSIDIGMVSQRLRLEVLNRLQSKYG
+            SLYRRDNVILSGTHTHSGPAGYFQYTVFVIASEGFSNQTFQHMVTGILKSIDIAHTNMKP
+            GKIFINKGNVDGVQINRSPYSYLQNPQSERARYSSNTDKEMIVLKMVDLNGDDLGLISWF
+            AIHPVSMNNSNHLVNSDNVGYASYLLEQEKNKGYLPGQGPFVAAFASSNLGDVSPNILGP
+            RCINTGESCDNANSTCPIGGPSMCIAKGPGQDMFDSTQIIGRAMYQRAKELYASASQEVT
+            GPLASAHQWVDMTDVTVWLNSTHASKTCKPALGYSFAAGTIDGVGGLNFTQGKTEGDPFW
+            DTIRDQILGKPSEEIKECHKPKPILLHTGELSKPHPWHPDIVDVQIITLGSLAITAIPGE
+            FTTMSGRRLREAVQAEFASHGMQNMTVVISGLCNVYTHYITTYEEYQAQRYEAASTIYGP
+            HTLSAYIQLFRNLAKAIATDTVANLSRGPEPPFFKQLIVPLIPSIVDRAPKGRTFGDVLQ
+            PAKPEYRVGEVAEVIFVGANPKNSVQNQTHQTFLTVEKYEATSTSWQIVCNDASWETRFY
+            WHKGLLGLSNATVEWHIPDTAQPGIYRIRYFGHNRKQDILKPAVILSFEGTSPAFEVVTI
+NTSEQ       2343
+            atggccaaacgcaccttctctaacttggagacattcctgattttcctccttgtaatgatg
+            agtgccatcacagtggcccttctcagcctcttgtttatcaccagtgggaccattgaaaac
+            cacaaagatttaggaggccattttttttcaaccacccaaagccctccagccacccagggc
+            tccacagctgcccaacgctccacagccacccagcattccacagccacccagagctccaca
+            gccactcaaacttctccagtgcctttaaccccagagtctcctctatttcagaacttcagt
+            ggctaccatattggtgttggacgagctgactgcacaggacaagtagcagatatcaatttg
+            atgggctatggcaaatccggccagaatgcacagggcatcctcaccaggctatacagtcgt
+            gccttcatcatggcagaacctgatgggtccaatcgaacagtgtttgtcagcatcgacata
+            ggcatggtatcacaaaggctcaggctggaggtcctgaacagactgcagagtaaatatggc
+            tccctgtacagaagagataatgtcatcctgagtggcactcacactcattcaggtcctgca
+            ggatatttccagtataccgtgtttgtaattgccagtgaaggatttagcaatcaaactttt
+            cagcacatggtcactggtatcttgaagagcattgacatagcacacacaaatatgaaacca
+            ggcaaaatcttcatcaataaaggaaatgtggatggtgtgcagatcaacagaagtccgtat
+            tcttaccttcaaaatccgcagtcagagagagcaaggtattcttcaaatacagacaaggaa
+            atgatagttttgaaaatggtagatttgaatggagatgacttgggccttatcagctggttt
+            gccatccacccggtcagcatgaacaacagtaaccatcttgtaaacagtgacaatgtgggc
+            tatgcatcttacctgcttgagcaagagaagaacaaaggatatctacctggacaggggcca
+            tttgtagcagcctttgcttcatcaaacctaggagatgtgtcccccaacattcttggacca
+            cgttgcatcaacacaggagagtcctgtgataacgccaatagcacttgtcccattggtggg
+            cctagcatgtgcattgctaagggacctggacaggatatgtttgacagcacacaaattata
+            ggacgggccatgtatcagagagcaaaggaactctatgcctctgcctcccaggaggtaaca
+            ggaccactggcttcagcacaccagtgggtggatatgacagatgtgactgtctggctcaat
+            tccacacatgcatcaaaaacatgtaaaccagcattgggctacagttttgcagctggcact
+            attgatggagttggaggcctcaattttacacaggggaaaacagaaggggatccattttgg
+            gacaccattcgggaccagatcctgggaaagccatctgaagaaattaaagaatgtcataaa
+            ccaaagcccatccttcttcacaccggagaactatcaaaacctcacccctggcatccagac
+            attgttgatgttcagattattacccttgggtccttggccataactgccatccccggggag
+            tttacgaccatgtctggacgaagacttcgagaggcagttcaagcagaatttgcatctcat
+            gggatgcagaacatgactgttgttatttcaggtctatgcaacgtctatacacattacatt
+            accacttatgaagaataccaggctcagcgatatgaggcagcatcgacaatttatggaccg
+            cacacattatctgcttacattcagctcttcagaaaccttgctaaggctattgctacggac
+            acggtagccaacctgagcagaggtccagaacctccctttttcaaacaattaatagttcca
+            ttaattcctagtattgtggatagagcaccaaaaggcagaactttcggggatgtcctgcag
+            ccagcaaaacctgaatacagagtgggggaagttgctgaagttatatttgtaggtgctaac
+            ccgaagaattcagtacaaaaccagacccatcagaccttcctcactgtggagaaatatgag
+            gctacttcaacatcgtggcagatagtgtgtaatgatgcctcctgggagactcgtttttat
+            tggcacaagggactcctgggtctgagtaatgcaacagtggaatggcatattccagacact
+            gcccagcctggaatctacagaataagatattttggacacaatcggaagcaggacattctg
+            aagcctgctgtcatactttcatttgaaggcacttccccggcttttgaagttgtaactatt
+            tag
+///

@@ -1,0 +1,106 @@
+ENTRY       9134              CDS       T01001
+NAME        CCNE2, CYCE2
+DEFINITION  (RefSeq) cyclin E2
+ORTHOLOGY   K06626  G1/S-specific cyclin-E1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04218  Cellular senescence
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+            hsa05215  Prostate cancer
+            hsa05222  Small cell lung cancer
+MODULE      hsa_M00692  Cell cycle - G1/S transition
+DISEASE     H00018  Gastric cancer
+            H00055  Laryngeal cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                9134 (CCNE2)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                9134 (CCNE2)
+               04114 Oocyte meiosis
+                9134 (CCNE2)
+               04115 p53 signaling pathway
+                9134 (CCNE2)
+               04218 Cellular senescence
+                9134 (CCNE2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                9134 (CCNE2)
+               05206 MicroRNAs in cancer
+                9134 (CCNE2)
+               05203 Viral carcinogenesis
+                9134 (CCNE2)
+               05215 Prostate cancer
+                9134 (CCNE2)
+               05222 Small cell lung cancer
+                9134 (CCNE2)
+              Infectious diseases
+               05162 Measles
+                9134 (CCNE2)
+               05161 Hepatitis B
+                9134 (CCNE2)
+               05165 Human papillomavirus infection
+                9134 (CCNE2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Initiation Factors
+               CDK (cyclin dependent kinase)
+                9134 (CCNE2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Cyclins
+                9134 (CCNE2)
+POSITION    8q22.1
+MOTIF       Pfam: Cyclin_N Cyclin_C
+DBLINKS     NCBI-GeneID: 9134
+            NCBI-ProteinID: NP_477097
+            OMIM: 603775
+            HGNC: 1590
+            Ensembl: ENSG00000175305
+            Vega: OTTHUMG00000164696
+            Pharos: O96020(Tbio)
+            UniProt: O96020 A0A024R9B0
+AASEQ       404
+            MSRRSSRLQAKQQPQPSQTESPQEAQIIQAKKRKTTQDVKKRREEVTKKHQYEIRNCWPP
+            VLSGGISPCIIIETPHKEIGTSDFSRFTNYRFKNLFINPSPLPDLSWGCSKEVWLNMLKK
+            ESRYVHDKHFEVLHSDLEPQMRSILLDWLLEVCEVYTLHRETFYLAQDFFDRFMLTQKDI
+            NKNMLQLIGITSLFIASKLEEIYAPKLQEFAYVTDGACSEEDILRMELIILKALKWELCP
+            VTIISWLNLFLQVDALKDAPKVLLPQYSQETFIQIAQLLDLCILAIDSLEFQYRILTAAA
+            LCHFTSIEVVKKASGLEWDSISECVDWMVPFVNVVKSTSPVKLKTFKKIPMEDRHNIQTH
+            TNYLAMLEEVNYINTFRKGGQLSPVCNGGIMTPPKSTEKPPGKH
+NTSEQ       1215
+            atgtcaagacgaagtagccgtttacaagctaagcagcagccccagcccagccagacggaa
+            tccccccaagaagcccagataatccaggccaagaagaggaaaactacccaggatgtcaaa
+            aaaagaagagaggaggtcaccaagaaacatcagtatgaaattaggaattgttggccacct
+            gtattatctggggggatcagtccttgcattatcattgaaacacctcacaaagaaatagga
+            acaagtgatttctccagatttacaaattacagatttaaaaatctttttattaatccttca
+            cctttgcctgatttaagctggggatgttcaaaagaagtctggctaaacatgttaaaaaag
+            gagagcagatatgttcatgacaaacattttgaagttctgcattctgacttggaaccacag
+            atgaggtccatacttctagactggcttttagaggtatgtgaagtatacacacttcatagg
+            gaaacattttatcttgcacaagacttttttgatagatttatgttgacacaaaaggatata
+            aataaaaatatgcttcaactcattggaattacctcattattcattgcttccaaacttgag
+            gaaatctatgctcctaaactccaagagtttgcttacgtcactgatggtgcttgcagtgaa
+            gaggatatcttaaggatggaactcattatattaaaggctttaaaatgggaactttgtcct
+            gtaacaatcatctcctggctaaatctctttctccaagttgatgctcttaaagatgctcct
+            aaagttcttctacctcagtattctcaggaaacattcattcaaatagctcagcttttagat
+            ctgtgtattctagccattgattcattagagttccagtacagaatactgactgctgctgcc
+            ttgtgccattttacctccattgaagtggttaagaaagcctcaggtttggagtgggacagt
+            atttcagaatgtgtagattggatggtaccttttgtcaatgtagtaaaaagtactagtcca
+            gtgaagctgaagacttttaagaagattcctatggaagacagacataatatccagacacat
+            acaaactatttggctatgctggaggaagtaaattacataaacaccttcagaaaaggggga
+            cagttgtcaccagtgtgcaatggaggcattatgacaccaccgaagagcactgaaaaacca
+            ccaggaaaacactaa
+///

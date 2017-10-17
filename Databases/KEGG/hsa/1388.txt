@@ -1,0 +1,136 @@
+ENTRY       1388              CDS       T01001
+NAME        ATF6B, CREB-RP, CREBL1, G13
+DEFINITION  (RefSeq) activating transcription factor 6 beta
+ORTHOLOGY   K09049  cyclic AMP-dependent transcription factor ATF-6 beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04668  TNF signaling pathway
+            hsa04728  Dopaminergic synapse
+            hsa04911  Insulin secretion
+            hsa04915  Estrogen signaling pathway
+            hsa04918  Thyroid hormone synthesis
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04926  Relaxin signaling pathway
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05161  Hepatitis B
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                1388 (ATF6B)
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                1388 (ATF6B)
+               04022 cGMP - PKG signaling pathway
+                1388 (ATF6B)
+               04151 PI3K-Akt signaling pathway
+                1388 (ATF6B)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                1388 (ATF6B)
+               04915 Estrogen signaling pathway
+                1388 (ATF6B)
+               04926 Relaxin signaling pathway
+                1388 (ATF6B)
+               04918 Thyroid hormone synthesis
+                1388 (ATF6B)
+               04925 Aldosterone synthesis and secretion
+                1388 (ATF6B)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                1388 (ATF6B)
+              Nervous system
+               04728 Dopaminergic synapse
+                1388 (ATF6B)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                1388 (ATF6B)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                1388 (ATF6B)
+              Substance dependence
+               05030 Cocaine addiction
+                1388 (ATF6B)
+               05031 Amphetamine addiction
+                1388 (ATF6B)
+               05034 Alcoholism
+                1388 (ATF6B)
+              Infectious diseases
+               05161 Hepatitis B
+                1388 (ATF6B)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Basic leucine zipper (bZIP)
+               CREB
+                1388 (ATF6B)
+POSITION    6p21.32
+MOTIF       Pfam: bZIP_1 bZIP_2 bZIP_Maf DUF4407 ZapB YabB GIT_CC
+DBLINKS     NCBI-GeneID: 1388
+            NCBI-ProteinID: NP_004372
+            OMIM: 600984
+            HGNC: 2349
+            Ensembl: ENSG00000213676
+            Vega: OTTHUMG00000031296
+            Pharos: Q99941(Tbio)
+            UniProt: Q99941 Q6AZW6
+AASEQ       703
+            MAELMLLSEIADPTRFFTDNLLSPEDWGLQNSTLYSGLDEVAEEQTQLFRCPEQDVPFDG
+            SSLDVGMDVSPSEPPWELLPIFPDLQVKSEPSSPCSSSSLSSESSRLSTEPSSEALGVGE
+            VLHVKTESLAPPLCLLGDDPTSSFETVQINVIPTSDDSSDVQTKIEPVSPCSSVNSEASL
+            LSADSSSQAFIGEEVLEVKTESLSPSGCLLWDVPAPSLGAVQISMGPSLDGSSGKALPTR
+            KPPLQPKPVVLTTVPMPSRAVPPSTTVLLQSLVQPPPVSPVVLIQGAIRVQPEGPAPSLP
+            RPERKSIVPAPMPGNSCPPEVDAKLLKRQQRMIKNRESACQSRRKKKEYLQGLEARLQAV
+            LADNQQLRRENAALRRRLEALLAENSELKLGSGNRKVVCIMVFLLFIAFNFGPVSISEPP
+            SAPISPRMNKGEPQPRRHLLGFSEQEPVQGVEPLQGSSQGPKEPQPSPTDQPSFSNLTAF
+            PGGAKELLLRDLDQLFLSSDCRHFNRTESLRLADELSGWVQRHQRGRRKIPQRAQERQKS
+            QPRKKSPPVKAVPIQPPGPPERDSVGQLQLYRHPDRSQPAFLDAIDRREDTFYVVSFRRD
+            HLLLPAISHNKTSRPKMSLVMPAMAPNETLSGRGAPGDYEEMMQIECEVMDTRVIHIKTS
+            TVPPSLRKQPSPTPGNATGGPLPVSAASQAHQASHQPLYLNHP
+NTSEQ       2112
+            atggcggagctgatgctgctcagcgagattgctgacccgacgcgtttcttcaccgacaac
+            ctgcttagcccggaggactggggtctgcagaacagcaccttgtattctggcctagatgaa
+            gtggccgaggagcagacgcagctcttccgttgcccggagcaggatgtcccgtttgacggc
+            agctccctggacgtggggatggatgtcagcccctctgagcccccatgggaactcctgccg
+            atcttcccagatcttcaggtgaagtctgagccatcttccccctgctcttcctcctccctc
+            agctccgagtcatcgcgtctctccacagagccatccagcgaggctcttggggtaggggag
+            gtgctccatgtgaagacagagtccttggcacccccactgtgtctcctgggagatgaccca
+            acatcctcatttgaaaccgtccagatcaacgttatccccacctctgatgattcctcagat
+            gtccagaccaagatagaacctgtctctccatgttcttccgtcaactctgaggcctccctg
+            ctctcagccgactcctccagccaggcttttataggagaggaggtcctggaagtgaagaca
+            gagtccctgtccccttcaggatgcctcctgtgggatgtcccagccccctcacttggagct
+            gtccagatcagcatgggcccatcccttgatggctcctcaggcaaagccctgcccacccgg
+            aagccgccactgcagcccaaacctgtagtgctaaccactgtcccaatgccatccagagct
+            gtgcctcccagcaccacagtccttctgcagtccctcgtccagccacccccagtgtcccca
+            gttgtcctcatccagggtgctattcgagtccagcctgaagggccggctccctctctacca
+            cggcctgagaggaagagcatcgttcccgctcctatgcctggaaactcctgcccgcctgaa
+            gtggatgcaaagctgctgaagcggcagcagcgaatgatcaagaaccgggagtcagcctgc
+            cagtcccggagaaagaagaaagagtatctgcagggactggaggctcggctgcaagcagta
+            ctggctgacaaccagcagctccgccgagagaatgctgccctccggcggcggctggaggcc
+            ctgctggctgaaaacagcgagctcaagttagggtctggaaacaggaaggtggtctgcatc
+            atggtcttccttctcttcattgccttcaactttggacctgtcagcatcagtgagcctcct
+            tcagctcccatctctcctcggatgaacaagggggagcctcaaccccggagacacttgctg
+            gggttctcagagcaagagccagttcagggagttgaacctctccaggggtcctcccagggc
+            cctaaggagccccagcccagccccacagaccagcccagtttcagcaacctgacagccttc
+            cctgggggcgccaaggagctactactaagagacctagaccagctcttcctctcctctgat
+            tgccggcacttcaaccgcactgagtccctgaggcttgctgacgagttgagtggctgggtc
+            cagcgccaccagagaggccggaggaagatccctcagagggcccaggagagacagaagtct
+            cagccacggaagaagtcacctccagttaaggcagtccccatccaaccccctggaccccca
+            gaaagggattctgtgggccagctgcaactatatcgccacccagaccgttcgcagccagca
+            ttcttggatgcaattgaccgacgggaagacacattttatgttgtctctttccgaagggac
+            cacctgctgctcccagccatcagccacaacaagacctcccggcccaagatgtccctggtg
+            atgcctgccatggcccccaatgagaccctgtcaggccgtggggccccgggggactatgag
+            gagatgatgcagatcgagtgtgaggtcatggacaccagggtgattcacatcaagacctcc
+            acagtgcccccctcgctccgaaaacagccatccccaaccccaggcaatgccacaggtggc
+            cccttgccagtctctgcagccagccaggcccaccaggcctcccaccagcccctctacctc
+            aatcatccctga
+///

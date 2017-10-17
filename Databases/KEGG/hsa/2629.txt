@@ -1,0 +1,83 @@
+ENTRY       2629              CDS       T01001
+NAME        GBA, GBA1, GCB, GLUC
+DEFINITION  (RefSeq) glucosylceramidase beta
+ORTHOLOGY   K01201  glucosylceramidase [EC:3.2.1.45]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00511  Other glycan degradation
+            hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+DISEASE     H00066  Lewy body dementia (LBD)
+            H00126  Gaucher disease
+            H00426  Defects in the degradation of ganglioside
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                2629 (GBA)
+              Glycan biosynthesis and metabolism
+               00511 Other glycan degradation
+                2629 (GBA)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                2629 (GBA)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.45  glucosylceramidase
+                 2629 (GBA)
+POSITION    1q22
+MOTIF       Pfam: Glyco_hydro_30 Glyco_hydro_30C
+DBLINKS     NCBI-GeneID: 2629
+            NCBI-ProteinID: NP_000148
+            OMIM: 606463
+            HGNC: 4177
+            Ensembl: ENSG00000177628
+            Vega: OTTHUMG00000035841
+            Pharos: P04062(Tchem)
+            UniProt: P04062 A0A068F658
+STRUCTURE   PDB: 2NT0 3GXI 2V3F 2V3D 2V3E 2NSX 2VT0 3GXM 2WCG 2NT1 2XWE
+                 3RIL 3GXF 1Y7V 3RIK 3GXD 2F61 2XWD 3KE0 2WKL 3KEH 2J25
+                 1OGS
+AASEQ       536
+            MEFSSPSREECPKPLSRVSIMAGSLTGLLLLQAVSWASGARPCIPKSFGYSSVVCVCNAT
+            YCDSFDPPTFPALGTFSRYESTRSGRRMELSMGPIQANHTGTGLLLTLQPEQKFQKVKGF
+            GGAMTDAAALNILALSPPAQNLLLKSYFSEEGIGYNIIRVPMASCDFSIRTYTYADTPDD
+            FQLHNFSLPEEDTKLKIPLIHRALQLAQRPVSLLASPWTSPTWLKTNGAVNGKGSLKGQP
+            GDIYHQTWARYFVKFLDAYAEHKLQFWAVTAENEPSAGLLSGYPFQCLGFTPEHQRDFIA
+            RDLGPTLANSTHHNVRLLMLDDQRLLLPHWAKVVLTDPEAAKYVHGIAVHWYLDFLAPAK
+            ATLGETHRLFPNTMLFASEACVGSKFWEQSVRLGSWDRGMQYSHSIITNLLYHVVGWTDW
+            NLALNPEGGPNWVRNFVDSPIIVDITKDTFYKQPMFYHLGHFSKFIPEGSQRVGLVASQK
+            NDLDAVALMHPDGSAVVVVLNRSSKDVPLTIKDPAVGFLETISPGYSIHTYLWRRQ
+NTSEQ       1611
+            atggagttttcaagtccttccagagaggaatgtcccaagcctttgagtagggtaagcatc
+            atggctggcagcctcacaggattgcttctacttcaggcagtgtcgtgggcatcaggtgcc
+            cgcccctgcatccctaaaagcttcggctacagctcggtggtgtgtgtctgcaatgccaca
+            tactgtgactcctttgaccccccgacctttcctgcccttggtaccttcagccgctatgag
+            agtacacgcagtgggcgacggatggagctgagtatggggcccatccaggctaatcacacg
+            ggcacaggcctgctactgaccctgcagccagaacagaagttccagaaagtgaagggattt
+            ggaggggccatgacagatgctgctgctctcaacatccttgccctgtcaccccctgcccaa
+            aatttgctacttaaatcgtacttctctgaagaaggaatcggatataacatcatccgggta
+            cccatggccagctgtgacttctccatccgcacctacacctatgcagacacccctgatgat
+            ttccagttgcacaacttcagcctcccagaggaagataccaagctcaagatacccctgatt
+            caccgagccctgcagttggcccagcgtcccgtttcactccttgccagcccctggacatca
+            cccacttggctcaagaccaatggagcggtgaatgggaaggggtcactcaagggacagccc
+            ggagacatctaccaccagacctgggccagatactttgtgaagttcctggatgcctatgct
+            gagcacaagttacagttctgggcagtgacagctgaaaatgagccttctgctgggctgttg
+            agtggataccccttccagtgcctgggcttcacccctgaacatcagcgagacttcattgcc
+            cgtgacctaggtcctaccctcgccaacagtactcaccacaatgtccgcctactcatgctg
+            gatgaccaacgcttgctgctgccccactgggcaaaggtggtactgacagacccagaagca
+            gctaaatatgttcatggcattgctgtacattggtacctggactttctggctccagccaaa
+            gccaccctaggggagacacaccgcctgttccccaacaccatgctctttgcctcagaggcc
+            tgtgtgggctccaagttctgggagcagagtgtgcggctaggctcctgggatcgagggatg
+            cagtacagccacagcatcatcacgaacctcctgtaccatgtggtcggctggaccgactgg
+            aaccttgccctgaaccccgaaggaggacccaattgggtgcgtaactttgtcgacagtccc
+            atcattgtagacatcaccaaggacacgttttacaaacagcccatgttctaccaccttggc
+            cacttcagcaagttcattcctgagggctcccagagagtggggctggttgccagtcagaag
+            aacgacctggacgcagtggcactgatgcatcccgatggctctgctgttgtggtcgtgcta
+            aaccgctcctctaaggatgtgcctcttaccatcaaggatcctgctgtgggcttcctggag
+            acaatctcacctggctactccattcacacctacctgtggcgtcgccagtga
+///

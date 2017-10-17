@@ -1,0 +1,147 @@
+ENTRY       7132              CDS       T01001
+NAME        TNFRSF1A, CD120a, FPF, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR55, TNFR60, p55, p55-R, p60
+DEFINITION  (RefSeq) TNF receptor superfamily member 1A
+ORTHOLOGY   K03158  tumor necrosis factor receptor superfamily member 1A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04668  TNF signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00912  Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)
+            H01490  Multiple sclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                7132 (TNFRSF1A)
+               04064 NF-kappa B signaling pathway
+                7132 (TNFRSF1A)
+               04668 TNF signaling pathway
+                7132 (TNFRSF1A)
+               04071 Sphingolipid signaling pathway
+                7132 (TNFRSF1A)
+               04150 mTOR signaling pathway
+                7132 (TNFRSF1A)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                7132 (TNFRSF1A)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                7132 (TNFRSF1A)
+               04215 Apoptosis - multiple species
+                7132 (TNFRSF1A)
+               04217 Necroptosis
+                7132 (TNFRSF1A)
+             Organismal Systems
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                7132 (TNFRSF1A)
+              Development
+               04380 Osteoclast differentiation
+                7132 (TNFRSF1A)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                7132 (TNFRSF1A)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                7132 (TNFRSF1A)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                7132 (TNFRSF1A)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                7132 (TNFRSF1A)
+               04931 Insulin resistance
+                7132 (TNFRSF1A)
+              Infectious diseases
+               05152 Tuberculosis
+                7132 (TNFRSF1A)
+               05166 HTLV-I infection
+                7132 (TNFRSF1A)
+               05164 Influenza A
+                7132 (TNFRSF1A)
+               05160 Hepatitis C
+                7132 (TNFRSF1A)
+               05168 Herpes simplex infection
+                7132 (TNFRSF1A)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                7132 (TNFRSF1A)
+               05165 Human papillomavirus infection
+                7132 (TNFRSF1A)
+               05145 Toxoplasmosis
+                7132 (TNFRSF1A)
+               05142 Chagas disease (American trypanosomiasis)
+                7132 (TNFRSF1A)
+            Cytokine receptors [BR:hsa04050]
+             TNF receptor family
+              7132 (TNFRSF1A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7132 (TNFRSF1A)
+POSITION    12p13.31
+MOTIF       Pfam: TNFR_c6 Death
+DBLINKS     NCBI-GeneID: 7132
+            NCBI-ProteinID: NP_001056
+            OMIM: 191190
+            HGNC: 11916
+            Ensembl: ENSG00000067182
+            Vega: OTTHUMG00000168267
+            Pharos: P19438(Tchem)
+            UniProt: P19438
+STRUCTURE   PDB: 1EXT 1NCF 1TNR 1FT4 1ICH
+AASEQ       455
+            MGLSTVPDLLLPLVLLELLVGIYPSGVIGLVPHLGDREKRDSVCPQGKYIHPQNNSICCT
+            KCHKGTYLYNDCPGPGQDTDCRECESGSFTASENHLRHCLSCSKCRKEMGQVEISSCTVD
+            RDTVCGCRKNQYRHYWSENLFQCFNCSLCLNGTVHLSCQEKQNTVCTCHAGFFLRENECV
+            SCSNCKKSLECTKLCLPQIENVKGTEDSGTTVLLPLVIFFGLCLLSLLFIGLMYRYQRWK
+            SKLYSIVCGKSTPEKEGELEGTTTKPLAPNPSFSPTPGFTPTLGFSPVPSSTFTSSSTYT
+            PGDCPNFAAPRREVAPPYQGADPILATALASDPIPNPLQKWEDSAHKPQSLDTDDPATLY
+            AVVENVPPLRWKEFVRRLGLSDHEIDRLELQNGRCLREAQYSMLATWRRRTPRREATLEL
+            LGRVLRDMDLLGCLEDIEEALCGPAALPPAPSLLR
+NTSEQ       1368
+            atgggcctctccaccgtgcctgacctgctgctgccactggtgctcctggagctgttggtg
+            ggaatatacccctcaggggttattggactggtccctcacctaggggacagggagaagaga
+            gatagtgtgtgtccccaaggaaaatatatccaccctcaaaataattcgatttgctgtacc
+            aagtgccacaaaggaacctacttgtacaatgactgtccaggcccggggcaggatacggac
+            tgcagggagtgtgagagcggctccttcaccgcttcagaaaaccacctcagacactgcctc
+            agctgctccaaatgccgaaaggaaatgggtcaggtggagatctcttcttgcacagtggac
+            cgggacaccgtgtgtggctgcaggaagaaccagtaccggcattattggagtgaaaacctt
+            ttccagtgcttcaattgcagcctctgcctcaatgggaccgtgcacctctcctgccaggag
+            aaacagaacaccgtgtgcacctgccatgcaggtttctttctaagagaaaacgagtgtgtc
+            tcctgtagtaactgtaagaaaagcctggagtgcacgaagttgtgcctaccccagattgag
+            aatgttaagggcactgaggactcaggcaccacagtgctgttgcccctggtcattttcttt
+            ggtctttgccttttatccctcctcttcattggtttaatgtatcgctaccaacggtggaag
+            tccaagctctactccattgtttgtgggaaatcgacacctgaaaaagagggggagcttgaa
+            ggaactactactaagcccctggccccaaacccaagcttcagtcccactccaggcttcacc
+            cccaccctgggcttcagtcccgtgcccagttccaccttcacctccagctccacctatacc
+            cccggtgactgtcccaactttgcggctccccgcagagaggtggcaccaccctatcagggg
+            gctgaccccatccttgcgacagccctcgcctccgaccccatccccaacccccttcagaag
+            tgggaggacagcgcccacaagccacagagcctagacactgatgaccccgcgacgctgtac
+            gccgtggtggagaacgtgcccccgttgcgctggaaggaattcgtgcggcgcctagggctg
+            agcgaccacgagatcgatcggctggagctgcagaacgggcgctgcctgcgcgaggcgcaa
+            tacagcatgctggcgacctggaggcggcgcacgccgcggcgcgaggccacgctggagctg
+            ctgggacgcgtgctccgcgacatggacctgctgggctgcctggaggacatcgaggaggcg
+            ctttgcggccccgccgccctcccgcccgcgcccagtcttctcagatga
+///

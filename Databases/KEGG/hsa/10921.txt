@@ -1,0 +1,57 @@
+ENTRY       10921             CDS       T01001
+NAME        RNPS1, E5.1
+DEFINITION  (RefSeq) RNA binding protein with serine rich domain 1
+ORTHOLOGY   K14325  RNA-binding protein with serine-rich domain 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+MODULE      hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                10921 (RNPS1)
+               03015 mRNA surveillance pathway
+                10921 (RNPS1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 10921 (RNPS1)
+POSITION    16p13.3
+MOTIF       Pfam: RRM_1 Limkain-b1 RRM_7 RRM_5 RRM_3 Nup35_RRM_2 Macoilin RRM_occluded LAP1C
+DBLINKS     NCBI-GeneID: 10921
+            NCBI-ProteinID: NP_001273554
+            OMIM: 606447
+            HGNC: 10080
+            Ensembl: ENSG00000205937
+            Vega: OTTHUMG00000128828
+            Pharos: Q15287(Tbio)
+            UniProt: Q15287 D3DU92
+STRUCTURE   PDB: 4A8X
+AASEQ       305
+            MDLSGVKKKSLLGVKENNKKSSTRAPSPTKRKDRSDEKSKDRSKDKGATKESSEKDRGRD
+            KTRKRRSASSGSSSTRSRSSSTSSSGSSTSTGSSSGSSSSSASSRSGSSSTSRSSSSSSS
+            SGSPSPSRRRHDNRRRSRSKSKPPKRDEKERKRRSPSPKPTKVHIGRLTRNVTKDHIMEI
+            FSTYGKIKMIDMPVERMHPHLSKGYAYVEFENPDEAEKALKHMDGGQIDGQEITATAVLA
+            PWPRPPPRRFSPPRRMLPPPPMWRRSPPRMRRRSRSPRRRSPVRRRSRSPGRRRHRSRSS
+            SNSSR
+NTSEQ       918
+            atggatttatcaggagtgaaaaagaagagcttgctaggagtcaaagaaaataataaaaag
+            tccagcactagggctccttcacctaccaaacgcaaagaccgctcagatgagaagtccaag
+            gatcgctcaaaagataaaggggccaccaaggagtcgagtgagaaggatcgcggccgggac
+            aaaacccgaaagaggcgcagcgcttccagtggtagcagcagtaccaggtctcggtccagc
+            tcgacttccagctcaggctccagcaccagcactggctcaagcagtggctccagctcttcc
+            tcagcatccagccgctcaggaagctccagcacctcccgcagctccagctctagcagctct
+            tctggctctccaagtccttctcggcgcagacacgacaacaggaggcgctcccgctccaaa
+            tccaaaccacctaaaagagatgaaaaggagaggaaaaggcggagcccatctcctaagccc
+            accaaagtgcacattgggagactcacccggaatgtgacaaaggatcacatcatggagata
+            ttttccacctatgggaaaattaaaatgattgacatgcccgtggaaaggatgcatccccat
+            ctgtccaaaggctatgcgtacgtagagtttgagaatccagatgaagccgagaaggcgctg
+            aagcacatggatggaggacaaattgatggccaggagatcactgccaccgccgtgctggcc
+            ccctggcctaggccaccccccaggagattcagccctcccaggagaatgttgccaccaccg
+            cctatgtggcgcaggtctcccccacggatgaggagaaggtcccgctccccgaggcgcagg
+            tcccccgtgcgccggagatcacggtccccgggccgccgccgccacaggagccgctccagc
+            tccaactcctcccgataa
+///

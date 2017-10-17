@@ -1,0 +1,106 @@
+ENTRY       9564              CDS       T01001
+NAME        BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas
+DEFINITION  (RefSeq) BCAR1, Cas family scaffolding protein
+ORTHOLOGY   K05726  breast cancer anti-estrogen resistance 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04510  Focal adhesion
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                9564 (BCAR1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                9564 (BCAR1)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                9564 (BCAR1)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                9564 (BCAR1)
+               04062 Chemokine signaling pathway
+                9564 (BCAR1)
+             Human Diseases
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                9564 (BCAR1)
+POSITION    16q23.1
+MOTIF       Pfam: DUF3513 Serine_rich SH3_1 SH3_9 SH3_2 Vinculin
+DBLINKS     NCBI-GeneID: 9564
+            NCBI-ProteinID: NP_001164189
+            OMIM: 602941
+            HGNC: 971
+            Ensembl: ENSG00000050820
+            Vega: OTTHUMG00000137604
+            Pharos: P56945(Tbio)
+            UniProt: P56945
+STRUCTURE   PDB: 1WYX 3T6G
+AASEQ       870
+            MSVPNVLAKALYDNVAESPDELSFRKGDIMTVLEQDTQGLDGWWLCSLHGRQGIVPGNRL
+            KILVGMYDKKPAGPGPGPPATPAQPQPGLHAPAPPASQYTPMLPNTYQPQPDSVYLVPTP
+            SKAQQGLYQVPGPSPQFQSPPAKQTSTFSKQTPHHPFPSPATDLYQVPPGPGGPAQDIYQ
+            VPPSAGMGHDIYQVPPSMDTRSWEGTKPPAKVVVPTRVGQGYVYEAAQPEQDEYDIPRHL
+            LAPGPQDIYDVPPVRGLLPSQYGQEVYDTPPMAVKGPNGRDPLLEVYDVPPSVEKGLPPS
+            NHHAVYDVPPSVSKDVPDGPLLREETYDVPPAFAKAKPFDPARTPLVLAAPPPDSPPAED
+            VYDVPPPAPDLYDVPPGLRRPGPGTLYDVPRERVLPPEVADGGVVDSGVYAVPPPAEREA
+            PAEGKRLSASSTGSTRSSQSASSLEVAGPGREPLELEVAVEALARLQQGVSATVAHLLDL
+            AGSAGATGSWRSPSEPQEPLVQDLQAAVAAVQSAVHELLEFARSAVGNAAHTSDRALHAK
+            LSRQLQKMEDVHQTLVAHGQALDAGRGGSGATLEDLDRLVACSRAVPEDAKQLASFLHGN
+            ASLLFRRTKATAPGPEGGGTLHPNPTDKTSSIQSRPLPSPPKFTSQDSPDGQYENSEGGW
+            MEDYDYVHLQGKEEFEKTQKELLEKGSITRQGKSQLELQQLKQFERLEQEVSRPIDHDLA
+            NWTPAQPLAPGRTGGLGPSDRQLLLFYLEQCEANLTTLTNAVDAFFTAVATNQPPKIFVA
+            HSKFVILSAHKLVFIGDTLSRQAKAADVRSQVTHYSNLLCDLLRGIVATTKAAALQYPSP
+            SAAQDMVERVKELGHSTQQFRRVLGQLAAA
+NTSEQ       2613
+            atgtccgtgcctaacgtgctggccaaagcgctctatgacaatgtggccgagtccccggat
+            gagctctccttccgcaagggtgacatcatgacggtgctggagcaggacacgcagggcctg
+            gacggctggtggctctgctcgctgcatgggcgccagggcatcgtgcctgggaaccgcctc
+            aagatcttggtgggcatgtatgataagaagccagcagggcctggccccggccctcccgcc
+            accccggcccagcctcagcctggcctccatgccccagcgcctccggcctcccagtacacg
+            cccatgctccccaacacctaccagccccagccagacagcgtctacctggtgcccactccc
+            agcaaggctcagcaaggcctctaccaagtcccgggtcccagccctcagttccagtctccc
+            ccagccaagcagacatccaccttctcgaagcagacaccccatcacccgtttcccagcccg
+            gccacagacctgtaccaggtgcccccagggcctggaggccctgcccaggatatttaccag
+            gtgccaccttctgccgggatggggcatgacatctaccaggtccccccgtccatggacaca
+            cgcagctgggagggcacgaagcccccggcaaaggtggtggtgcccacccgcgtggggcag
+            ggctatgtatacgaggccgcccagccggagcaggacgagtacgacatcccgcgacacctg
+            ctggccccggggccacaggacatctatgatgtgcccccggttcgggggctgcttcccagc
+            cagtatggccaggaggtgtatgacacaccccccatggctgtcaagggtcccaatggccga
+            gacccgttgctggaggtgtatgacgtgccccccagtgtggagaagggcctgccaccgtcc
+            aaccaccacgcagtctacgacgttcctccatcggtgagcaaggatgtgcccgatggccca
+            ctgctgcgtgaggagacctacgatgtgccccccgccttcgccaaggccaagccctttgac
+            ccggcccgcaccccactggtactggctgcgccccctccagactccccgccggccgaggac
+            gtgtatgacgtgccgcccccggctcctgacctctacgacgtgccccctggcttgcggcgg
+            cctggcccgggcaccctgtacgatgtgccccgtgaacgggtgcttcctcctgaggtggct
+            gatggtggcgtggtcgacagtggtgtgtatgcggtgcctcccccagctgaacgtgaagcc
+            ccggcagagggcaagcgcctgtcggcctccagcaccggcagcacacgcagcagccagtct
+            gcgtcctccttggaggtggcagggccgggccgggaacccctggagctggaagttgctgtg
+            gaggccctggcacggctgcagcagggtgtgagcgccaccgttgcccaccttctggacctg
+            gcaggcagcgccggtgcgactgggagctggcgtagcccctctgagccacaggagccgctg
+            gtgcaggacctgcaggctgctgtggccgctgtccagagtgccgtccacgagctgttggag
+            tttgcccgcagcgcggtgggcaatgctgcccacacatctgaccgtgccctgcatgccaag
+            cttagccggcagctgcagaagatggaggacgtgcaccagacgctggtggcacatggtcag
+            gccctcgacgctggccggggaggctctggagccacccttgaggacctggaccggctggtg
+            gcctgctcgcgggctgtgcccgaggacgccaagcagctggcctccttcctgcacggcaat
+            gcctcactgctcttcagacggaccaaggccactgccccggggcctgaggggggtggcacc
+            ctgcaccccaaccccactgacaagaccagcagcatccagtcacgacccctgccctcaccc
+            cctaagttcacctcccaggactcgccagatgggcagtacgagaacagcgaggggggctgg
+            atggaggactatgactacgtccacctacaggggaaggaggagtttgagaagacccagaag
+            gagctgctggaaaagggcagcatcacgcggcagggcaagagccagctggagttgcagcag
+            ctgaagcagtttgaacgactggaacaggaggtgtcacggcccatagaccacgacctggcc
+            aactggacgccagcccaacccctggccccggggcgaacaggcggcctggggccctcggac
+            cggcagctgctgctcttctacctggagcagtgtgaggccaacctgaccacactgaccaac
+            gccgtggacgccttctttaccgccgtggccaccaaccagccgcccaagatctttgtggcg
+            cacagcaagttcgtcatcctcagcgcccacaagctggtgttcatcggggacacactgtca
+            cggcaggccaaggctgctgacgtgcgcagccaggtgacccactacagcaacctgctgtgc
+            gacctcctgcgcggcatcgtggccaccaccaaggccgctgccttgcagtacccatcgcct
+            tccgcggcccaggacatggtggagagggtcaaggagctgggccacagcacccagcagttc
+            cgccgcgtcctaggccagctggcagccgcctga
+///

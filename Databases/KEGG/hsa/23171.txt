@@ -1,0 +1,56 @@
+ENTRY       23171             CDS       T01001
+NAME        GPD1L, GPD1-L
+DEFINITION  (RefSeq) glycerol-3-phosphate dehydrogenase 1 like
+ORTHOLOGY   K00006  glycerol-3-phosphate dehydrogenase (NAD+) [EC:1.1.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+DISEASE     H00728  Brugada syndrome (BRS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                23171 (GPD1L)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.8  glycerol-3-phosphate dehydrogenase (NAD+)
+                 23171 (GPD1L)
+POSITION    3p22.3
+MOTIF       Pfam: NAD_Gly3P_dh_N NAD_Gly3P_dh_C F420_oxidored
+DBLINKS     NCBI-GeneID: 23171
+            NCBI-ProteinID: NP_055956
+            OMIM: 611778
+            HGNC: 28956
+            Ensembl: ENSG00000152642
+            Vega: OTTHUMG00000155846
+            Pharos: Q8N335(Tbio)
+            UniProt: Q8N335
+STRUCTURE   PDB: 2PLA
+AASEQ       351
+            MAAAPLKVCIVGSGNWGSAVAKIIGNNVKKLQKFASTVKMWVFEETVNGRKLTDIINNDH
+            ENVKYLPGHKLPENVVAMSNLSEAVQDADLLVFVIPHQFIHRICDEITGRVPKKALGITL
+            IKGIDEGPEGLKLISDIIREKMGIDISVLMGANIANEVAAEKFCETTIGSKVMENGLLFK
+            ELLQTPNFRITVVDDADTVELCGALKNIVAVGAGFCDGLRCGDNTKAAVIRLGLMEMIAF
+            ARIFCKGQVSTATFLESCGVADLITTCYGGRNRRVAEAFARTGKTIEELEKEMLNGQKLQ
+            GPQTSAEVYRILKQKGLLDKFPLFTAVYQICYESRPVQEMLSCLQSHPEHT
+NTSEQ       1056
+            atggcagcggcgcccctgaaagtgtgcatcgtgggctcggggaactggggttcagctgtt
+            gcaaaaataattggtaataatgtcaagaaacttcagaaatttgcctccacagtcaagatg
+            tgggtctttgaagaaacagtgaatggcagaaaactgacagacatcataaataatgaccat
+            gaaaatgtaaaatatcttcctggacacaagctgccagaaaatgtggttgccatgtcaaat
+            cttagcgaggctgtgcaggatgcagacctgctggtgtttgtcattccccaccagttcatt
+            cacagaatctgtgatgagatcactgggagagtgcccaagaaagcgctgggaatcaccctc
+            atcaagggcatagacgagggccccgaggggctgaagctcatttctgacatcatccgtgag
+            aagatgggtattgacatcagtgtgctgatgggagccaacattgccaatgaggtggctgca
+            gagaagttctgtgagaccaccatcggcagcaaagtaatggagaacggccttctcttcaaa
+            gaacttctgcagactccaaattttcgaattaccgtggttgatgatgcagacactgttgaa
+            ctctgtggtgcgcttaagaacatcgtagctgtgggagctgggttctgcgacggcctccgc
+            tgtggagacaacaccaaagcggccgtcatccgcctgggactcatggaaatgattgctttt
+            gccaggatcttctgcaaaggccaagtgtctacagccaccttcctagagagctgcggggtg
+            gccgacctgatcaccacctgttacggagggcggaaccgcagggtggccgaggccttcgcc
+            agaactgggaagaccattgaagagttggagaaggagatgctgaatgggcaaaagctccaa
+            ggaccgcagacttctgctgaagtgtaccgcatcctcaaacagaagggactactggacaag
+            tttccattgtttactgcagtgtatcagatctgctacgaaagcagaccagttcaagagatg
+            ttgtcttgtcttcagagccatccagagcatacataa
+///

@@ -1,0 +1,59 @@
+ENTRY       29107             CDS       T01001
+NAME        NXT1, MTR2, P15
+DEFINITION  (RefSeq) nuclear transport factor 2 like export factor 1
+ORTHOLOGY   K14285  NTF2-related export protein 1/2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa05164  Influenza A
+MODULE      hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                29107 (NXT1)
+               03015 mRNA surveillance pathway
+                29107 (NXT1)
+               03008 Ribosome biogenesis in eukaryotes
+                29107 (NXT1)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                29107 (NXT1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 29107 (NXT1)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                29107 (NXT1)
+POSITION    20p11.21
+MOTIF       Pfam: NTF2
+DBLINKS     NCBI-GeneID: 29107
+            NCBI-ProteinID: NP_037380
+            OMIM: 605811
+            HGNC: 15913
+            Ensembl: ENSG00000132661
+            Vega: OTTHUMG00000032059
+            Pharos: Q9UKK6(Tbio)
+            UniProt: Q9UKK6
+STRUCTURE   PDB: 1JKG 1JN5 4WYK
+AASEQ       140
+            MASVDFKTYVDQACRAAEEFVNVYYTTMDKRRRLLSRLYMGTATLVWNGNAVSGQESLSE
+            FFEMLPSSEFQISVVDCQPVHDEATPSQTTVLVVICGSVKFEGNKQRDFNQNFILTAQAS
+            PSNTVWKIASDCFRFQDWAS
+NTSEQ       423
+            atggcatctgtggatttcaagacctatgtggatcaggcctgcagagctgctgaggagttt
+            gtcaatgtctactacaccaccatggataagcggcggcgtttgctgtcccgcctgtacatg
+            ggcacagccaccctggtctggaatggcaatgctgtttcaggacaagaatccttgagtgag
+            ttttttgaaatgttgccttccagcgagttccaaatcagcgtggtagactgccagcctgtt
+            catgatgaagccacaccaagccagaccacggtccttgttgtcatctgtggatcagtgaag
+            tttgaggggaacaaacaacgggacttcaaccagaacttcatcctgaccgcccaggcctca
+            cccagcaacacagtgtggaagatcgcaagtgactgcttccgcttccaggactgggccagc
+            tag
+///

@@ -1,0 +1,124 @@
+ENTRY       23586             CDS       T01001
+NAME        DDX58, RIG-I, RIGI, RLR-1, SGMRT2
+DEFINITION  (RefSeq) DExD/H-box helicase 58
+ORTHOLOGY   K12646  ATP-dependent RNA helicase DDX58 [EC:3.6.3.14]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+DISEASE     H01571  Singleton-Merten syndrome (SMS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                23586 (DDX58)
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                23586 (DDX58)
+               04623 Cytosolic DNA-sensing pathway
+                23586 (DDX58)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                23586 (DDX58)
+               05164 Influenza A
+                23586 (DDX58)
+               05161 Hepatitis B
+                23586 (DDX58)
+               05160 Hepatitis C
+                23586 (DDX58)
+               05168 Herpes simplex infection
+                23586 (DDX58)
+               05169 Epstein-Barr virus infection
+                23586 (DDX58)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.14  H+-transporting two-sector ATPase
+                 23586 (DDX58)
+POSITION    9p21.1
+MOTIF       Pfam: CARD_2 RIG-I_C-RD DEAD ResIII Helicase_C AAA_22 AAA_25 Syntaxin_2 ATP-synt_ab
+DBLINKS     NCBI-GeneID: 23586
+            NCBI-ProteinID: NP_055129
+            OMIM: 609631
+            HGNC: 19102
+            Ensembl: ENSG00000107201
+            Vega: OTTHUMG00000019746
+            Pharos: O95786(Tbio)
+            UniProt: O95786
+STRUCTURE   PDB: 3LRR 3OG8 3ZD7 2YKG 3NCU 4BPB 5F9F 3LRN 5E3H 2QFD 4ON9
+                 3ZD6 4AY2 2QFB 5F9H 5F98 4P4H 4NQK 2LWD 2LWE 2RMJ
+AASEQ       925
+            MTTEQRRSLQAFQDYIRKTLDPTYILSYMAPWFREEEVQYIQAEKNNKGPMEAATLFLKF
+            LLELQEEGWFRGFLDALDHAGYSGLYEAIESWDFKKIEKLEEYRLLLKRLQPEFKTRIIP
+            TDIISDLSECLINQECEEILQICSTKGMMAGAEKLVECLLRSDKENWPKTLKLALEKERN
+            KFSELWIVEKGIKDVETEDLEDKMETSDIQIFYQEDPECQNLSENSCPPSEVSDTNLYSP
+            FKPRNYQLELALPAMKGKNTIICAPTGCGKTFVSLLICEHHLKKFPQGQKGKVVFFANQI
+            PVYEQQKSVFSKYFERHGYRVTGISGATAENVPVEQIVENNDIIILTPQILVNNLKKGTI
+            PSLSIFTLMIFDECHNTSKQHPYNMIMFNYLDQKLGGSSGPLPQVIGLTASVGVGDAKNT
+            DEALDYICKLCASLDASVIATVKHNLEELEQVVYKPQKFFRKVESRISDKFKYIIAQLMR
+            DTESLAKRICKDLENLSQIQNREFGTQKYEQWIVTVQKACMVFQMPDKDEESRICKALFL
+            YTSHLRKYNDALIISEHARMKDALDYLKDFFSNVRAAGFDEIEQDLTQRFEEKLQELESV
+            SRDPSNENPKLEDLCFILQEEYHLNPETITILFVKTRALVDALKNWIEGNPKLSFLKPGI
+            LTGRGKTNQNTGMTLPAQKCILDAFKASGDHNILIATSVADEGIDIAQCNLVILYEYVGN
+            VIKMIQTRGRGRARGSKCFLLTSNAGVIEKEQINMYKEKMMNDSILRLQTWDEAVFREKI
+            LHIQTHEKFIRDSQEKPKPVPDKENKKLLCRKCKALACYTADVRVIEECHYTVLGDAFKE
+            CFVSRPHPKPKQFSSFEKRAKIFCARQNCSHDWGIHVKYKTFEIPVIKIESFVVEDIATG
+            VQTLYSKWKDFHFEKIPFDPAEMSK
+NTSEQ       2778
+            atgaccaccgagcagcgacgcagcctgcaagccttccaggattatatccggaagaccctg
+            gaccctacctacatcctgagctacatggccccctggtttagggaggaagaggtgcagtat
+            attcaggctgagaaaaacaacaagggcccaatggaggctgccacactttttctcaagttc
+            ctgttggagctccaggaggaaggctggttccgtggctttttggatgccctagaccatgca
+            ggttattctggactttatgaagccattgaaagttgggatttcaaaaaaattgaaaagttg
+            gaggagtatagattacttttaaaacgtttacaaccagaatttaaaaccagaattatccca
+            accgatatcatttctgatctgtctgaatgtttaattaatcaggaatgtgaagaaattcta
+            cagatttgctctactaaggggatgatggcaggtgcagagaaattggtggaatgccttctc
+            agatcagacaaggaaaactggcccaaaactttgaaacttgctttggagaaagaaaggaac
+            aagttcagtgaactgtggattgtagagaaaggtataaaagatgttgaaacagaagatctt
+            gaggataagatggaaacttctgacatacagattttctaccaagaagatccagaatgccag
+            aatcttagtgagaattcatgtccaccttcagaagtgtctgatacaaacttgtacagccca
+            tttaaaccaagaaattaccaattagagcttgctttgcctgctatgaaaggaaaaaacaca
+            ataatatgtgctcctacaggttgtggaaaaacctttgtttcactgcttatatgtgaacat
+            catcttaaaaaattcccacaaggacaaaaggggaaagttgtcttttttgcgaatcagatc
+            ccagtgtatgaacagcagaaatctgtattctcaaaatactttgaaagacatgggtataga
+            gttacaggcatttctggagcaacagctgagaatgtcccagtggaacagattgttgagaac
+            aatgacatcatcattttaactccacagattcttgtgaacaaccttaaaaagggaacgatt
+            ccatcactatccatctttactttgatgatatttgatgaatgccacaacactagtaaacaa
+            cacccgtacaatatgatcatgtttaattatctagatcagaaacttggaggatcttcaggc
+            ccactgccccaggtcattgggctgactgcctcggttggtgttggggatgccaaaaacaca
+            gatgaagccttggattatatctgcaagctgtgtgcttctcttgatgcgtcagtgatagca
+            acagtcaaacacaatctggaggaactggagcaagttgtttataagccccagaagtttttc
+            aggaaagtggaatcacggattagcgacaaatttaaatacatcatagctcagctgatgagg
+            gacacagagagtctggcaaagagaatctgcaaagacctcgaaaacttatctcaaattcaa
+            aatagggaatttggaacacagaaatatgaacaatggattgttacagttcagaaagcatgc
+            atggtgttccagatgccagacaaagatgaagagagcaggatttgtaaagccctgttttta
+            tacacttcacatttgcggaaatataatgatgccctcattatcagtgagcatgcacgaatg
+            aaagatgctctggattacttgaaagacttcttcagcaatgtccgagcagcaggattcgat
+            gagattgagcaagatcttactcagagatttgaagaaaagctgcaggaactagaaagtgtt
+            tccagggatcccagcaatgagaatcctaaacttgaagacctctgcttcatcttacaagaa
+            gagtaccacttaaacccagagacaataacaattctctttgtgaaaaccagagcacttgtg
+            gacgctttaaaaaattggattgaaggaaatcctaaactcagttttctaaaacctggcata
+            ttgactggacgtggcaaaacaaatcagaacacaggaatgaccctcccggcacagaagtgt
+            atattggatgcattcaaagccagtggagatcacaatattctgattgccacctcagttgct
+            gatgaaggcattgacattgcacagtgcaatcttgtcatcctttatgagtatgtgggcaat
+            gtcatcaaaatgatccaaaccagaggcagaggaagagcaagaggtagcaagtgcttcctt
+            ctgactagtaatgctggtgtaattgaaaaagaacaaataaacatgtacaaagaaaaaatg
+            atgaatgactctattttacgccttcagacatgggacgaagcagtatttagggaaaagatt
+            ctgcatatacagactcatgaaaaattcatcagagatagtcaagaaaaaccaaaacctgta
+            cctgataaggaaaataaaaaactgctctgcagaaagtgcaaagccttggcatgttacaca
+            gctgacgtaagagtgatagaggaatgccattacactgtgcttggagatgcttttaaggaa
+            tgctttgtgagtagaccacatcccaagccaaagcagttttcaagttttgaaaaaagagca
+            aagatattctgtgcccgacagaactgcagccatgactggggaatccatgtgaagtacaag
+            acatttgagattccagttataaaaattgaaagttttgtggtggaggatattgcaactgga
+            gttcagacactgtactcgaagtggaaggactttcattttgagaagataccatttgatcca
+            gcagaaatgtccaaatga
+///

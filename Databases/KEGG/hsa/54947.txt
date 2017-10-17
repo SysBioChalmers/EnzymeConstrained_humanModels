@@ -1,0 +1,78 @@
+ENTRY       54947             CDS       T01001
+NAME        LPCAT2, AGPAT11, AYTL1, LysoPAFAT
+DEFINITION  (RefSeq) lysophosphatidylcholine acyltransferase 2
+ORTHOLOGY   K13510  lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase [EC:2.3.1.23 2.3.1.67]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                54947 (LPCAT2)
+               00565 Ether lipid metabolism
+                54947 (LPCAT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.23  1-acylglycerophosphocholine O-acyltransferase
+                 54947 (LPCAT2)
+                2.3.1.67  1-alkylglycerophosphocholine O-acetyltransferase
+                 54947 (LPCAT2)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Phospholipid acyltransferase
+              LPAAT/LPLAT
+               54947 (LPCAT2)
+POSITION    16q12.2
+MOTIF       Pfam: EF-hand_1 EF-hand_6 EF-hand_7 Acyltransferase EF-hand_5 EF-hand_8 EF-hand_4 IF2_N
+DBLINKS     NCBI-GeneID: 54947
+            NCBI-ProteinID: NP_060309
+            OMIM: 612040
+            HGNC: 26032
+            Ensembl: ENSG00000087253
+            Vega: OTTHUMG00000133238
+            Pharos: Q7L5N7(Tbio)
+            UniProt: Q7L5N7
+AASEQ       544
+            MSRCAQAAEVAATVPGAGVGNVGLRPPMVPRQASFFPPPVPNPFVQQTQIGSARRVQIVL
+            LGIILLPIRVLLVALILLLAWPFAAISTVCCPEKLTHPITGWRRKITQTALKFLGRAMFF
+            SMGFIVAVKGKIASPLEAPVFVAAPHSTFFDGIACVVAGLPSMVSRNENAQVPLIGRLLR
+            AVQPVLVSRVDPDSRKNTINEIIKRTTSGGEWPQILVFPEGTCTNRSCLITFKPGAFIPG
+            VPVQPVLLRYPNKLDTVTWTWQGYTFIQLCMLTFCQLFTKVEVEFMPVQVPNDEEKNDPV
+            LFANKVRNLMAEALGIPVTDHTYEDCRLMISAGQLTLPMEAGLVEFTKISRKLKLDWDGV
+            RKHLDEYASIASSSKGGRIGIEEFAKYLKLPVSDVLRQLFALFDRNHDGSIDFREYVIGL
+            AVLCNPSNTEEIIQVAFKLFDVDEDGYITEEEFSTILQASLGVPDLDVSGLFKEIAQGDS
+            ISYEEFKSFALKHPEYAKIFTTYLDLQTCHVFSLPKEVQTTPSTASNKVSPEKHEESTSD
+            KKDD
+NTSEQ       1635
+            atgagccggtgcgcccaggcggcggaagtggcggccacagtgccaggtgccggcgtcggg
+            aacgtggggctgcggccgcccatggtgccccgtcaggcgtccttcttcccgccgccggtg
+            ccgaaccccttcgtgcagcagacgcagatcggctccgcgaggcgggtccagattgtcctt
+            cttgggattatcttgcttccaattcgtgtcttattggttgcgttaattttattacttgca
+            tggccatttgctgcaatttcaacagtatgctgtcctgaaaagctgacccacccaataact
+            ggttggaggaggaaaattactcaaacagctttgaaatttctgggtcgtgctatgttcttt
+            tcaatgggatttatagttgctgtaaaaggaaagattgcaagtcctttggaagcaccagtt
+            tttgttgctgcccctcattcaacattctttgatggaattgcctgtgttgtagctgggtta
+            ccttctatggtatctcgaaatgagaatgcacaagtccctctgattggcagactgttacgg
+            gctgtgcaaccagttttggtgtcccgtgtagatccggattcccgaaaaaacacaataaat
+            gaaataataaagcgaacaacatcaggaggagaatggccccagatactagttttcccagaa
+            ggtacttgtactaatcgttcctgtttgattacttttaaaccaggagccttcattccagga
+            gttccagtgcagccagtcctcctcagatacccaaacaagctggatactgtgacctggaca
+            tggcaaggatatacattcattcagctttgtatgcttactttctgccagctcttcacaaag
+            gtagaagttgagtttatgccagttcaagtaccaaatgatgaagaaaaaaatgatcctgtc
+            ctttttgccaataaagtccggaatttaatggcagaagctctgggaataccagtaacagat
+            catacctatgaagactgcagattgatgatttcagcaggacagctaacattgcctatggaa
+            gctgggctggtggaatttactaaaattagccgaaaattgaaattagattgggatggtgtt
+            cgtaagcatttggatgaatatgcatctattgcgagttcctcaaaaggaggaagaattgga
+            attgaagaattcgccaagtatttaaagttgcctgtttcagatgtcttgagacaacttttt
+            gcactctttgacaggaaccatgatggcagcattgacttccgagagtatgtgattggcctg
+            gctgtcttgtgcaacccttccaacacagaggagatcatccaggtggcatttaagctgttt
+            gacgttgatgaggatggctacataacggaggaagagttctccaccattctacaggcttcc
+            cttggagtgcctgaccttgatgtttctggtctcttcaaggaaatagcccaaggggactca
+            atttcctatgaggaatttaaaagttttgccttaaagcatccagaatatgctaagatattt
+            acaacatacctagacctccagacgtgccatgtgttttcattaccaaaagaagtccagaca
+            accccctccaccgccagtaataaagtcagccctgaaaagcatgaagagagtacctcagac
+            aaaaaagatgactga
+///

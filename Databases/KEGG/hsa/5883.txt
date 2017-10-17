@@ -1,0 +1,63 @@
+ENTRY       5883              CDS       T01001
+NAME        RAD9A, RAD9
+DEFINITION  (RefSeq) RAD9 checkpoint clamp component A
+ORTHOLOGY   K10994  cell cycle checkpoint control protein RAD9A [EC:3.1.11.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04218  Cellular senescence
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                5883 (RAD9A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.2  exodeoxyribonuclease III
+                 5883 (RAD9A)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Rad9-Hus1-Rad1 complex
+                5883 (RAD9A)
+POSITION    11q13.2
+MOTIF       Pfam: Rad9
+DBLINKS     NCBI-GeneID: 5883
+            NCBI-ProteinID: NP_004575
+            OMIM: 603761
+            HGNC: 9827
+            Ensembl: ENSG00000172613
+            Vega: OTTHUMG00000167670
+            Pharos: Q99638(Tbio)
+            UniProt: Q99638
+STRUCTURE   PDB: 3A1J 3G65 3GGR
+AASEQ       391
+            MKCLVTGGNVKVLGKAVHSLSRIGDELYLEPLEDGLSLRTVNSSRSAYACFLFAPLFFQQ
+            YQAATPGQDLLRCKILMKSFLSVFRSLAMLEKTVEKCCISLNGRSSRLVVQLHCKFGVRK
+            THNLSFQDCESLQAVFDPASCPHMLRAPARVLGEAVLPFSPALAEVTLGIGRGRRVILRS
+            YHEEEADSTAKAMVTEMCLGEEDFQQLQAQEGVAITFCLKEFRGLLSFAESANLNLSIHF
+            DAPGRPAIFTIKDSLLDGHFVLATLSDTDSHSQDLGSPERHQPVPQLQAHSTPHPDDFAN
+            DDIDSYMIAMETTIGNEGSRVLPSISLSPGPQPPKSPGPHSEEEDEAEPSTVPGTPPPKK
+            FRSLFFGSILAPVRSPQGPSPVLAEDSEGEG
+NTSEQ       1176
+            atgaagtgcctggtcacgggcggcaacgtgaaggtgctcggcaaggccgtccactccctg
+            tcccgcatcggggacgagctctacctggaacccttggaggacgggctctccctccggacg
+            gtgaactcctcccgctctgcctatgcctgctttctctttgccccgctcttcttccagcaa
+            taccaggcagccacccctggtcaggacctgctgcgctgtaagatcctgatgaagtctttc
+            ctgtctgtcttccgctcactggcgatgctggagaagacggtggaaaaatgctgcatctcc
+            ctgaatggccggagcagccgcctggtggtccagctgcattgcaagttcggggtgcggaag
+            actcacaacctgtccttccaggactgtgagtccctgcaggccgtcttcgacccagcctcg
+            tgcccccacatgctccgcgccccagcacgggttctgggggaggctgttctgcccttctct
+            cctgcactggctgaagtgacgctgggcattggccgtggccgcagggtcatcctgcgcagc
+            taccacgaggaggaggcagacagcactgccaaagccatggtgactgagatgtgccttgga
+            gaggaggatttccagcagctgcaggcccaggaaggggtggccatcactttctgcctcaag
+            gaattccgggggctcctgagctttgcagagtcagcaaacttgaatcttagcattcatttt
+            gatgctccaggcaggcccgccatcttcaccatcaaggactctttgctggacggccacttt
+            gtcttggccacactctcagacaccgactcgcactcccaggacctgggctccccagagcgt
+            caccagccagtgcctcagctccaggctcacagcacaccccacccggacgactttgccaat
+            gacgacattgactcttacatgatcgccatggaaaccactataggcaatgagggctcgcgg
+            gtgctgccctccatttccctttcacctggcccccagccccccaagagccccggtccccac
+            tccgaggaggaagatgaggctgagcccagtacagtgcctgggactcccccacccaagaag
+            ttccgctcactgttcttcggctccatcctggcccctgtacgctccccccagggccccagc
+            cctgtgctggcggaagacagtgagggtgaaggctga
+///

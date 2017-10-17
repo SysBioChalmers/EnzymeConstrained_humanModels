@@ -1,0 +1,145 @@
+ENTRY       4775              CDS       T01001
+NAME        NFATC3, NFAT4, NFATX
+DEFINITION  (RefSeq) nuclear factor of activated T-cells 3
+ORTHOLOGY   K17333  nuclear factor of activated T-cells, cytoplasmic 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                4775 (NFATC3)
+               04310 Wnt signaling pathway
+                4775 (NFATC3)
+               04022 cGMP - PKG signaling pathway
+                4775 (NFATC3)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                4775 (NFATC3)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                4775 (NFATC3)
+               04658 Th1 and Th2 cell differentiation
+                4775 (NFATC3)
+               04659 Th17 cell differentiation
+                4775 (NFATC3)
+               04662 B cell receptor signaling pathway
+                4775 (NFATC3)
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                4775 (NFATC3)
+              Development
+               04360 Axon guidance
+                4775 (NFATC3)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                4775 (NFATC3)
+               05161 Hepatitis B
+                4775 (NFATC3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                4775 (NFATC3)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               RHR (Rel homology region) NF-AT
+                4775 (NFATC3)
+POSITION    16q22.1
+MOTIF       Pfam: RHD_dimer RHD_DNA_bind TIG
+DBLINKS     NCBI-GeneID: 4775
+            NCBI-ProteinID: NP_775188
+            OMIM: 602698
+            HGNC: 7777
+            Ensembl: ENSG00000072736
+            Vega: OTTHUMG00000137555
+            Pharos: Q12968(Tbio)
+            UniProt: Q12968 B5B2S1
+AASEQ       1075
+            MTTANCGAHDELDFKLVFGEDGAPAPPPPGSRPADLEPDDCASIYIFNVDPPPSTLTTPL
+            CLPHHGLPSHSSVLSPSFQLQSHKNYEGTCEIPESKYSPLGGPKPFECPSIQITSISPNC
+            HQELDAHEDDLQINDPEREFLERPSRDHLYLPLEPSYRESSLSPSPASSISSRSWFSDAS
+            SCESLSHIYDDVDSELNEAAARFTLGSPLTSPGGSPGGCPGEETWHQQYGLGHSLSPRQS
+            PCHSPRSSVTDENWLSPRPASGPSSRPTSPCGKRRHSSAEVCYAGSLSPHHSPVPSPGHS
+            PRGSVTEDTWLNASVHGGSGLGPAVFPFQYCVETDIPLKTRKTSEDQAAILPGKLELCSD
+            DQGSLSPARETSIDDGLGSQYPLKKDSCGDQFLSVPSPFTWSKPKPGHTPIFRTSSLPPL
+            DWPLPAHFGQCELKIEVQPKTHHRAHYETEGSRGAVKASTGGHPVVKLLGYNEKPINLQM
+            FIGTADDRYLRPHAFYQVHRITGKTVATASQEIIIASTKVLEIPLLPENNMSASIDCAGI
+            LKLRNSDIELRKGETDIGRKNTRVRLVFRVHIPQPSGKVLSLQIASIPVECSQRSAQELP
+            HIEKYSINSCSVNGGHEMVVTGSNFLPESKIIFLEKGQDGRPQWEVEGKIIREKCQGAHI
+            VLEVPPYHNPAVTAAVQVHFYLCNGKRKKSQSQRFTYTPVLMKQEHREEIDLSSVPSLPV
+            PHPAQTQRPSSDSGCSHDSVLSGQRSLICSIPQTYASMVTSSHLPQLQCRDESVSKEQHM
+            IPSPIVHQPFQVTPTPPVGSSYQPMQTNVVYNGPTCLPINAASSQEFDSVLFQQDATLSG
+            LVNLGCQPLSSIPFHSSNSGSTGHLLAHTPHSVHTLPHLQSMGYHCSNTGQRSLSSPVAD
+            QITGQPSSQLQPITYGPSHSGSATTASPAASHPLASSPLSGPPSPQLQPMPYQSPSSGTA
+            SSPSPATRMHSGQHSTQAQSTGQGGLSAPSSLICHSLCDPASFPPDGATVSIKPEPEDRE
+            PNFATIGLQDITLDDVNEIIGRDMSQISVSQGAGVSRQAPLPSPESLDLGRSDGL
+NTSEQ       3228
+            atgactactgcaaactgtggcgcccacgacgagctcgacttcaaactcgtctttggcgag
+            gacggggcgccggcgccgccgcccccgggctcgcggcctgcagatcttgagccagatgat
+            tgtgcatccatttacatctttaatgtagatccacctccatctactttaaccacaccactt
+            tgcttaccacatcatggattaccgtctcactcttctgttttgtcaccatcgtttcagctc
+            caaagtcacaaaaactatgaaggaacttgtgagattcctgaatctaaatatagcccatta
+            ggtggtcccaaaccctttgagtgcccaagtattcaaattacatctatctctcctaactgt
+            catcaagaattagatgcacatgaagatgacctacagataaatgacccagaacgggaattt
+            ttggaaaggccttctagagatcatctctatcttcctcttgagccatcctaccgggagtct
+            tctcttagtcctagtcctgccagcagcatctcttctaggagttggttctctgatgcatct
+            tcttgtgaatcgctttcacatatttatgatgatgtggactcagagttgaatgaagctgca
+            gcccgatttacccttggatcccctctgacttctcctggtggctctccagggggctgccct
+            ggagaagaaacttggcatcaacagtatggacttggacactcattatcacccaggcaatct
+            ccttgccactctcctagatccagtgtcactgatgagaattggctgagccccaggccagcc
+            tcaggaccctcatcaaggcccacatccccctgtgggaaacggaggcactccagtgctgaa
+            gtttgttatgctgggtccctttcaccccatcactcacctgttccttcacctggtcactcc
+            cccaggggaagtgtgacagaagatacgtggctcaatgcttctgtccatggtgggtcaggc
+            cttggccctgcagtttttccatttcagtactgtgtagagactgacatccctctcaaaaca
+            aggaaaacttctgaagatcaagctgccatactaccaggaaaattagagctgtgttcagat
+            gaccaagggagtttatcaccagcccgggagacttcaatagatgatggccttggatctcag
+            tatcctttaaagaaagattcatgtggtgatcagtttctttcagttccttcaccctttacc
+            tggagcaaaccaaagcctggccacacccctatatttcgcacatcttcattacctccacta
+            gactggcctttaccagctcattttggacaatgtgaactgaaaatagaagtgcaacctaaa
+            actcatcatcgagcccattatgaaactgaaggtagccgaggggcagtaaaagcatctact
+            gggggacatcctgttgtgaagctcctgggctataacgaaaagccaataaatctacaaatg
+            tttattgggacagcagatgatcgatatttacgacctcatgcattttaccaggtgcatcga
+            atcactgggaagacagtcgctactgcaagccaagagataataattgccagtacaaaagtt
+            ctggaaattccacttcttcctgaaaataatatgtcagccagtattgattgtgcaggtatt
+            ttgaaactccgcaattcagatatagaacttcgaaaaggagaaactgatattggcagaaag
+            aatactagagtacgacttgtgtttcgtgtacacatcccacagcccagtggaaaagtcctt
+            tctctgcagatagcctctatacccgttgagtgctcccagcggtctgctcaagaacttcct
+            catattgagaagtacagtatcaacagttgttctgtaaatggaggtcatgaaatggttgtg
+            actggatctaattttcttccagaatccaaaatcatttttcttgaaaaaggacaagatgga
+            cgacctcagtgggaggtagaagggaagataatcagggaaaaatgtcaaggggctcacatt
+            gtccttgaagttcctccatatcataacccagcagttacagctgcagtgcaggtgcacttt
+            tatctttgcaatggcaagaggaaaaaaagccagtctcaacgttttacttatacaccagtt
+            ttgatgaagcaagaacacagagaagagattgatttgtcttcagttccatctttgcctgtg
+            cctcatcctgctcagacccagaggccttcctctgattcagggtgttcacatgacagtgta
+            ctgtcaggacagagaagtttgatttgctccatcccacaaacatatgcatccatggtgacc
+            tcatcccatctgccacagttgcagtgtagagatgagagtgttagtaaagaacagcatatg
+            attccttctccaattgtacaccagccttttcaagtcacaccaacacctcctgtggggtct
+            tcctatcagcctatgcaaactaatgttgtgtacaatggaccaacttgtcttcctattaat
+            gctgcctctagtcaagaatttgattcagttttgtttcagcaggatgcaactctttctggt
+            ttagtgaatcttggctgtcaaccactgtcatccataccatttcattcttcaaattcaggc
+            tcaacaggacatctcttagcccatacacctcattctgtgcataccctgcctcatctgcaa
+            tcaatgggatatcattgttcaaatacaggacaaagatctctttcttctccagtggctgac
+            cagattacaggtcagccttcgtctcagttacaacctattacatatggtccttcacattca
+            gggtctgctacaacagcttccccagcagcttctcatcccttggctagttcaccgctttct
+            gggccaccatctcctcagcttcagcctatgccttaccaatctcctagctcaggaactgcc
+            tcatcaccgtctccagccaccagaatgcattctggacagcactcaactcaagcacaaagt
+            acgggccaggggggtctttctgcaccttcatccttaatatgtcacagtttgtgtgatcca
+            gcgtcatttccacctgatggggcaactgtgagcattaaacctgaaccagaagatcgagag
+            cctaactttgcaaccattggtctgcaggacatcactttagatgatgtgaacgagataatt
+            gggagagacatgtcccagatttctgtttcccaaggagcaggggtgagcaggcaggctccc
+            ctcccgagtcctgagtccctggatttaggaagatctgatgggctctaa
+///

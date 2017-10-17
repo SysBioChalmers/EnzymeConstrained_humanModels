@@ -1,0 +1,177 @@
+ENTRY       810               CDS       T01001
+NAME        CALML3, CLP
+DEFINITION  (RefSeq) calmodulin like 3
+ORTHOLOGY   K02183  calmodulin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04114  Oocyte meiosis
+            hsa04218  Cellular senescence
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04371  Apelin signaling pathway
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04722  Neurotrophin signaling pathway
+            hsa04728  Dopaminergic synapse
+            hsa04740  Olfactory transduction
+            hsa04744  Phototransduction
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04924  Renin secretion
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa05010  Alzheimer's disease
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05133  Pertussis
+            hsa05152  Tuberculosis
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05214  Glioma
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                810 (CALML3)
+               04015 Rap1 signaling pathway
+                810 (CALML3)
+               04371 Apelin signaling pathway
+                810 (CALML3)
+               04020 Calcium signaling pathway
+                810 (CALML3)
+               04070 Phosphatidylinositol signaling system
+                810 (CALML3)
+               04024 cAMP signaling pathway
+                810 (CALML3)
+               04022 cGMP - PKG signaling pathway
+                810 (CALML3)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                810 (CALML3)
+               04218 Cellular senescence
+                810 (CALML3)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                810 (CALML3)
+               04922 Glucagon signaling pathway
+                810 (CALML3)
+               04912 GnRH signaling pathway
+                810 (CALML3)
+               04915 Estrogen signaling pathway
+                810 (CALML3)
+               04921 Oxytocin signaling pathway
+                810 (CALML3)
+               04916 Melanogenesis
+                810 (CALML3)
+               04924 Renin secretion
+                810 (CALML3)
+               04925 Aldosterone synthesis and secretion
+                810 (CALML3)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                810 (CALML3)
+               04270 Vascular smooth muscle contraction
+                810 (CALML3)
+              Digestive system
+               04970 Salivary secretion
+                810 (CALML3)
+               04971 Gastric acid secretion
+                810 (CALML3)
+              Nervous system
+               04728 Dopaminergic synapse
+                810 (CALML3)
+               04720 Long-term potentiation
+                810 (CALML3)
+               04722 Neurotrophin signaling pathway
+                810 (CALML3)
+              Sensory system
+               04744 Phototransduction
+                810 (CALML3)
+               04740 Olfactory transduction
+                810 (CALML3)
+               04750 Inflammatory mediator regulation of TRP channels
+                810 (CALML3)
+              Environmental adaptation
+               04713 Circadian entrainment
+                810 (CALML3)
+             Human Diseases
+              Cancers
+               05214 Glioma
+                810 (CALML3)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                810 (CALML3)
+              Substance dependence
+               05031 Amphetamine addiction
+                810 (CALML3)
+               05034 Alcoholism
+                810 (CALML3)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                810 (CALML3)
+              Infectious diseases
+               05133 Pertussis
+                810 (CALML3)
+               05152 Tuberculosis
+                810 (CALML3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                810 (CALML3)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Calcineurin (PPP3/ PP2B)
+                Regulatory subunits
+                 810 (CALML3)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Small GTPases and associated proteins
+               Rab associated proteins
+                810 (CALML3)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Centriole replication proteins
+                 810 (CALML3)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of colorectal cancer cells
+               810 (CALML3)
+POSITION    10p15.1
+MOTIF       Pfam: EF-hand_1 EF-hand_7 EF-hand_8 EF-hand_6 EF-hand_5 EF-hand_9 EF-hand_4 SPARC_Ca_bdg UPF0154 EFhand_Ca_insen TerB EF-hand_11 Caleosin dCache_2 GPHH DUF1103 SurA_N_2 Spore_III_AB Fe_hyd_lg_C SurA_N_3 sCache_2
+DBLINKS     NCBI-GeneID: 810
+            NCBI-ProteinID: NP_005176
+            OMIM: 114184
+            HGNC: 1452
+            Ensembl: ENSG00000178363
+            Vega: OTTHUMG00000017597
+            Pharos: P27482(Tbio)
+            UniProt: P27482
+STRUCTURE   PDB: 1GGZ
+AASEQ       149
+            MADQLTEEQVTEFKEAFSLFDKDGDGCITTRELGTVMRSLGQNPTEAELRDMMSEIDRDG
+            NGTVDFPEFLGMMARKMKDTDNEEEIREAFRVFDKDGNGFVSAAELRHVMTRLGEKLSDE
+            EVDEMIRAADTDGDGQVNYEEFVRVLVSK
+NTSEQ       450
+            atggccgaccagctgactgaggagcaggtcacagaattcaaggaggccttctccctgttt
+            gacaaggatggggacggctgcatcaccacccgcgagctgggcacggtcatgcggtccctg
+            ggccagaaccccacggaggccgagctgcgggacatgatgagtgagatcgaccgggacggc
+            aacggcaccgtggacttccccgagttcctgggcatgatggccaggaagatgaaggacacg
+            gacaacgaggaggagatccgcgaggccttccgcgtgttcgacaaggacggcaacggcttc
+            gtcagcgccgccgagctgcgacacgtcatgacccggctgggggagaagctgagtgacgag
+            gaggtggacgagatgatccgggccgcggacacggacggagacggacaggtgaactacgag
+            gagtttgtccgtgtgctggtgtccaagtga
+///

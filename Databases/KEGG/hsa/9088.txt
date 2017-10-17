@@ -1,0 +1,83 @@
+ENTRY       9088              CDS       T01001
+NAME        PKMYT1, MYT1, PPP1R126
+DEFINITION  (RefSeq) protein kinase, membrane associated tyrosine/threonine 1
+ORTHOLOGY   K06633  membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04914  Progesterone-mediated oocyte maturation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                9088 (PKMYT1)
+               04114 Oocyte meiosis
+                9088 (PKMYT1)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                9088 (PKMYT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 9088 (PKMYT1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Other group
+              WEE family
+               9088 (PKMYT1)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 9088 (PKMYT1)
+POSITION    16p13.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like
+DBLINKS     NCBI-GeneID: 9088
+            NCBI-ProteinID: NP_004194
+            OMIM: 602474
+            HGNC: 29650
+            Ensembl: ENSG00000127564
+            Vega: OTTHUMG00000128975
+            Pharos: Q99640(Tchem)
+            UniProt: Q99640 Q0IJ49
+STRUCTURE   PDB: 5VCZ 5VCY 5VD1 3P1A 5VD3 5VCV 5VD0 5VCW 5VCX
+AASEQ       499
+            MLERPPALAMPMPTEGTPPPLSGTPIPVPAYFRHAEPGFSLKRPRGLSRSLPPPPPAKGS
+            IPISRLFPPRTPGWHQLQPRRVSFRGEASETLQSPGYDPSRPESFFQQSFQRLSRLGHGS
+            YGEVFKVRSKEDGRLYAVKRSMSPFRGPKDRARKLAEVGSHEKVGQHPCCVRLEQAWEEG
+            GILYLQTELCGPSLQQHCEAWGASLPEAQVWGYLRDTLLALAHLHSQGLVHLDVKPANIF
+            LGPRGRCKLGDFGLLVELGTAGAGEVQEGDPRYMAPELLQGSYGTAADVFSLGLTILEVA
+            CNMELPHGGEGWQQLRQGYLPPEFTAGLSSELRSVLVMMLEPDPKLRATAEALLALPVLR
+            QPRAWGVLWCMAAEALSRGWALWQALLALLCWLWHGLAHPASWLQPLGPPATPPGSPPCS
+            LLLDSSLSSNWDDDSLGPSLSPEAVLARTVGSTSTPRSRCTPRDALDLSDINSEPPRGSF
+            PSFEPRNLLSLFEDTLDPT
+NTSEQ       1500
+            atgctagaacggcctcctgcactggccatgcccatgcccacggagggcaccccgccacct
+            ctgagtggcacccccatcccagtcccagcctacttccgccacgcagaacctggattctcc
+            ctcaagaggcccagggggctcagccggagcctcccacctccgccccctgccaagggcagc
+            attcccatcagccgcctcttccctcctcggaccccaggctggcaccagctgcagccccgg
+            cgggtgtcattccggggcgaggcctcagagactctgcagagccctgggtatgacccaagc
+            cggccagagtccttcttccagcagagcttccagaggctcagccgcctgggccatggctcc
+            tacggagaggtcttcaaggtgcgctccaaggaggacggccggctctatgcggtaaagcgt
+            tccatgtcaccattccggggccccaaggaccgggcccgcaagttggccgaggtgggcagc
+            cacgagaaggtggggcagcacccatgctgcgtgcggctggagcaggcctgggaggagggc
+            ggcatcctgtacctgcagacggagctgtgcgggcccagcctgcagcaacactgtgaggcc
+            tggggtgccagcctgcctgaggcccaggtctggggctacctgcgggacacgctgcttgcc
+            ctggcccatctgcacagccagggcctggtgcaccttgatgtcaagcctgccaacatcttc
+            ctggggccccggggccgctgcaagctgggtgacttcggactgctggtggagctgggtaca
+            gcaggagctggtgaggtccaggagggagacccccgctacatggcccccgagctgctgcag
+            ggctcctatgggacagcagcggatgtgttcagtctgggcctcaccatcctggaagtggca
+            tgcaacatggagctgccccacggtggggagggctggcagcagctgcgccagggctacctg
+            ccccctgagttcactgccggtctgtcttccgagctgcgttctgtccttgtcatgatgctg
+            gagccagaccccaagctgcgggccacggccgaggccctgctggcactgcctgtgttgagg
+            cagccgcgggcctggggtgtgctgtggtgcatggcagcggaggccctgagccgagggtgg
+            gccctgtggcaggccctgcttgccctgctctgctggctctggcatgggctggctcaccct
+            gccagctggctacagcccctgggcccgccagccaccccgcctggctcaccaccctgcagt
+            ttgctcctggacagcagcctctccagcaactgggatgacgacagcctagggccttcactc
+            tcccctgaggctgtcctggcccggactgtggggagcacctccaccccccggagcaggtgc
+            acacccagggatgccctggacctaagtgacatcaactcagagcctcctcggggctccttc
+            ccctcctttgagcctcggaacctcctcagcctgtttgaggacaccctagacccaacctga
+///

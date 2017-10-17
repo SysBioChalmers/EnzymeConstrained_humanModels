@@ -1,0 +1,87 @@
+ENTRY       3985              CDS       T01001
+NAME        LIMK2
+DEFINITION  (RefSeq) LIM domain kinase 2
+ORTHOLOGY   K05744  LIM domain kinase 2 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04360  Axon guidance
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3985 (LIMK2)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                3985 (LIMK2)
+              Development
+               04360 Axon guidance
+                3985 (LIMK2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 3985 (LIMK2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              LISK family [OT]
+               3985 (LIMK2)
+POSITION    22q12.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase LIM PDZ Kdo APH PDZ_2
+DBLINKS     NCBI-GeneID: 3985
+            NCBI-ProteinID: NP_005560
+            OMIM: 601988
+            HGNC: 6614
+            Ensembl: ENSG00000182541
+            Vega: OTTHUMG00000151251
+            Pharos: P53671(Tchem)
+            UniProt: P53671 A0A024R1H6
+STRUCTURE   PDB: 5NXD 4TPT 1X6A
+AASEQ       638
+            MSALAGEDVWRCPGCGDHIAPSQIWYRTVNETWHGSCFRCSECQDSLTNWYYEKDGKLYC
+            PKDYWGKFGEFCHGCSLLMTGPFMVAGEFKYHPECFACMSCKVIIEDGDAYALVQHATLY
+            CGKCHNEVVLAPMFERLSTESVQEQLPYSVTLISMPATTEGRRGFSVSVESACSNYATTV
+            QVKEVNRMHISPNNRNAIHPGDRILEINGTPVRTLRVEEVEDAISQTSQTLQLLIEHDPV
+            SQRLDQLRLEARLAPHMQNAGHPHALSTLDTKENLEGTLRRRSLRRSNSISKSPGPSSPK
+            EPLLFSRDISRSESLRCSSSYSQQIFRPCDLIHGEVLGKGFFGQAIKVTHKATGKVMVMK
+            ELIRCDEETQKTFLTEVKVMRSLDHPNVLKFIGVLYKDKKLNLLTEYIEGGTLKDFLRSM
+            DPFPWQQKVRFAKGIASGMAYLHSMCIIHRDLNSHNCLIKLDKTVVVADFGLSRLIVEER
+            KRAPMEKATTKKRTLRKNDRKKRYTVVGNPYWMAPEMLNGKSYDETVDIFSFGIVLCEII
+            GQVYADPDCLPRTLDFGLNVKLFWEKFVPTDCPPAFFPLAAICCRLEPESRPAFSKLEDS
+            FEALSLYLGELGIPLPAELEELDHTVSMQYGLTRDSPP
+NTSEQ       1917
+            atgtccgcgctggcgggtgaagatgtctggaggtgtccaggctgtggggaccacattgct
+            ccaagccagatatggtacaggactgtcaacgaaacctggcacggctcttgcttccggtgt
+            tcagaatgccaggattccctcaccaactggtactatgagaaggatgggaagctctactgc
+            cccaaggactactgggggaagtttggggagttctgtcatgggtgctccctgctgatgaca
+            gggccttttatggtggctggggagttcaagtaccacccagagtgctttgcctgtatgagc
+            tgcaaggtgatcattgaggatggggatgcatatgcactggtgcagcatgccaccctctac
+            tgtgggaagtgccacaatgaggtggtgctggcacccatgtttgagagactctccacagag
+            tctgttcaggagcagctgccctactctgtcacgctcatctccatgccggccaccactgaa
+            ggcaggcggggcttctccgtgtccgtggagagtgcctgctccaactacgccaccactgtg
+            caagtgaaagaggtcaaccggatgcacatcagtcccaacaatcgaaacgccatccaccct
+            ggggaccgcatcctggagatcaatgggacccccgtccgcacacttcgagtggaggaggtg
+            gaggatgcaattagccagacgagccagacacttcagctgttgattgaacatgaccccgtc
+            tcccaacgcctggaccagctgcggctggaggcccggctcgctcctcacatgcagaatgcc
+            ggacacccccacgccctcagcaccctggacaccaaggagaatctggaggggacactgagg
+            agacgttccctaaggcgcagtaacagtatctccaagtcccctggccccagctccccaaag
+            gagcccctgctgttcagccgtgacatcagccgctcagaatcccttcgttgttccagcagc
+            tattcacagcagatcttccggccctgtgacctaatccatggggaggtcctggggaagggc
+            ttctttgggcaggctatcaaggtgacacacaaagccacgggcaaagtgatggtcatgaaa
+            gagttaattcgatgtgatgaggagacccagaaaacttttctgactgaggtgaaagtgatg
+            cgcagcctggaccaccccaatgtgctcaagttcattggtgtgctgtacaaggataagaag
+            ctgaacctcctgacagagtacattgaggggggcacactgaaggactttctgcgcagtatg
+            gatccgttcccctggcagcagaaggtcaggtttgccaaaggaatcgcctccggaatggcc
+            tatttgcactctatgtgcatcatccaccgggatctgaactcgcacaactgcctcatcaag
+            ttggacaagactgtggtggtggcagactttgggctgtcacggctcatagtggaagagagg
+            aaaagggcccccatggagaaggccaccaccaagaaacgcaccttgcgcaagaacgaccgc
+            aagaagcgctacacggtggtgggaaacccctactggatggcccctgagatgctgaacgga
+            aagagctatgatgagacggtggatatcttctcctttgggatcgttctctgtgagatcatt
+            gggcaggtgtatgcagatcctgactgccttccccgaacactggactttggcctcaacgtg
+            aagcttttctgggagaagtttgttcccacagattgtcccccggccttcttcccgctggcc
+            gccatctgctgcagactggagcctgagagcagaccagcattctcgaaattggaggactcc
+            tttgaggccctctccctgtacctgggggagctgggcatcccgctgcctgcagagctggag
+            gagttggaccacactgtgagcatgcagtacggcctgacccgggactcacctccctag
+///

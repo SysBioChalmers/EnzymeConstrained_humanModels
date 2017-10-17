@@ -1,0 +1,203 @@
+ENTRY       3690              CDS       T01001
+NAME        ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT
+DEFINITION  (RefSeq) integrin subunit beta 3
+ORTHOLOGY   K06493  integrin beta 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04611  Platelet activation
+            hsa04640  Hematopoietic cell lineage
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04919  Thyroid hormone signaling pathway
+            hsa05165  Human papillomavirus infection
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00083  Allograft rejection
+            H00226  Glanzmann thrombasthenia
+            H01740  Macrothrombocytopenia
+DRUG_TARGET Abciximab: D02778
+            Cilengitide: D03497
+            Elarofiban: D03971
+            Eptifibatide: D06888
+            Fluciclatide F 18: D09903
+            Lamifiban (DG01420): D04659 D04660
+            Lotrafiban hydrochloride: D04785
+            Maraciclatide: D09929
+            Orbofiban acetate: D05267
+            Roxifiban acetate: D05772
+            Sibrafiban: D05834
+            Tirofiban (DG00159): D01029 D08607
+            Xemilofiban hydrochloride: D06335
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                3690 (ITGB3)
+               04151 PI3K-Akt signaling pathway
+                3690 (ITGB3)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3690 (ITGB3)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3690 (ITGB3)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3690 (ITGB3)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3690 (ITGB3)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3690 (ITGB3)
+               04611 Platelet activation
+                3690 (ITGB3)
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                3690 (ITGB3)
+              Development
+               04380 Osteoclast differentiation
+                3690 (ITGB3)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                3690 (ITGB3)
+               05205 Proteoglycans in cancer
+                3690 (ITGB3)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3690 (ITGB3)
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3690 (ITGB3)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3690 (ITGB3)
+               05414 Dilated cardiomyopathy (DCM)
+                3690 (ITGB3)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3690 (ITGB3)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Integrins (complement receptors)
+                3690 (ITGB3)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3690 (ITGB3)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               6/5 subfamily
+                L1CAM; L1 cell adhesion molecule [KO:K06550]
+                 VNR	Cell adhesion molecules (CAMs)
+                  3690 (ITGB3)
+               N/0 subfamily
+                THY1, CD90; Thy-1 cell surface antigen [KO:K06514]
+                  3690 (ITGB3)
+              Others
+               PECAM1, CD31; platelet/endothelial cell adhesion molecule [KO:K06471]
+                VNR	Cell adhesion molecules (CAMs)
+                 3690 (ITGB3)
+               ICAM4; intercellular adhesion molecule 4 [KO:K06581]
+                 3690 (ITGB3)
+                alpha IIb beta 3	Cell adhesion molecules (CAMs)
+                 3690 (ITGB3)
+             5. Cadherin Family
+              Classic Cadherins
+               Vertebrate Type II classic cadherins
+                CDH6; cadherin 6, type 2, K-cadherin [KO:K06798]
+                 alpha IIb  beta 3	Cell adhesion molecules (CAMs)
+                  3690 (ITGB3)
+             7. Others
+              TNFSF5, CD40L; tumor necrosis factor (ligand) superfamily, member 5 [KO:K03161]
+               alpha IIb beta 3	Cell adhesion molecules (CAMs)
+                3690 (ITGB3)
+              SDC1; syndecan 1 [KO:K06257]
+               VNR	Cell adhesion molecules (CAMs)
+                3690 (ITGB3)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3690 (ITGB3)
+POSITION    17q21.32
+MOTIF       Pfam: Integrin_beta Integrin_b_cyt Integrin_B_tail PSI_integrin EGF_2
+DBLINKS     NCBI-GeneID: 3690
+            NCBI-ProteinID: NP_000203
+            OMIM: 173470
+            HGNC: 6156
+            Ensembl: ENSG00000259207 ENSG00000259753
+            Vega: OTTHUMG00000171956 OTTHUMG00000171957
+            Pharos: P05106(Tclin)
+            UniProt: P05106
+STRUCTURE   PDB: 3T3P 3NIG 3NID 3ZE2 3NIF 2VDR 3ZDX 3ZDY 2VDO 3FCS 2VDQ
+                 4Z7N 3T3M 5HDB 4Z7Q 3ZDZ 2VDL 2VDK 2VDP 4Z7O 4G1M 3IJE
+                 3FCU 2VDM 2VDN 1TYE 3ZE0 3ZE1 4G1E 4MMZ 2VC2 1U8C 1JV2
+                 4MMY 1L5G 1M1X 4MMX 4O02 4CAK 2MTP 2LJD 2LJE 2LJF 2KV9
+                 2KNC 2K9J 2RMZ 2RN0 1S4X 1M8O
+AASEQ       788
+            MRARPRPRPLWATVLALGALAGVGVGGPNICTTRGVSSCQQCLAVSPMCAWCSDEALPLG
+            SPRCDLKENLLKDNCAPESIEFPVSEARVLEDRPLSDKGSGDSSQVTQVSPQRIALRLRP
+            DDSKNFSIQVRQVEDYPVDIYYLMDLSYSMKDDLWSIQNLGTKLATQMRKLTSNLRIGFG
+            AFVDKPVSPYMYISPPEALENPCYDMKTTCLPMFGYKHVLTLTDQVTRFNEEVKKQSVSR
+            NRDAPEGGFDAIMQATVCDEKIGWRNDASHLLVFTTDAKTHIALDGRLAGIVQPNDGQCH
+            VGSDNHYSASTTMDYPSLGLMTEKLSQKNINLIFAVTENVVNLYQNYSELIPGTTVGVLS
+            MDSSNVLQLIVDAYGKIRSKVELEVRDLPEELSLSFNATCLNNEVIPGLKSCMGLKIGDT
+            VSFSIEAKVRGCPQEKEKSFTIKPVGFKDSLIVQVTFDCDCACQAQAEPNSHRCNNGNGT
+            FECGVCRCGPGWLGSQCECSEEDYRPSQQDECSPREGQPVCSQRGECLCGQCVCHSSDFG
+            KITGKYCECDDFSCVRYKGEMCSGHGQCSCGDCLCDSDWTGYYCNCTTRTDTCMSSNGLL
+            CSGRGKCECGSCVCIQPGSYGDTCEKCPTCPDACTFKKECVECKKFDRGALHDENTCNRY
+            CRDEIESVKELKDTGKDAVNCTYKNEDDCVVRFQYYEDSSGKSILYVVEEPECPKGPDIL
+            VVLLSVMGAILLIGLAALLIWKLLITIHDRKEFAKFEEERARAKWDTANNPLYKEATSTF
+            TNITYRGT
+NTSEQ       2367
+            atgcgagcgcggccgcggccccggccgctctgggcgactgtgctggcgctgggggcgctg
+            gcgggcgttggcgtaggagggcccaacatctgtaccacgcgaggtgtgagctcctgccag
+            cagtgcctggctgtgagccccatgtgtgcctggtgctctgatgaggccctgcctctgggc
+            tcacctcgctgtgacctgaaggagaatctgctgaaggataactgtgccccagaatccatc
+            gagttcccagtgagtgaggcccgagtactagaggacaggcccctcagcgacaagggctct
+            ggagacagctcccaggtcactcaagtcagtccccagaggattgcactccggctccggcca
+            gatgattcgaagaatttctccatccaagtgcggcaggtggaggattaccctgtggacatc
+            tactacttgatggacctgtcttactccatgaaggatgatctgtggagcatccagaacctg
+            ggtaccaagctggccacccagatgcgaaagctcaccagtaacctgcggattggcttcggg
+            gcatttgtggacaagcctgtgtcaccatacatgtatatctccccaccagaggccctcgaa
+            aacccctgctatgatatgaagaccacctgcttgcccatgtttggctacaaacacgtgctg
+            acgctaactgaccaggtgacccgcttcaatgaggaagtgaagaagcagagtgtgtcacgg
+            aaccgagatgccccagagggtggctttgatgccatcatgcaggctacagtctgtgatgaa
+            aagattggctggaggaatgatgcatcccacttgctggtgtttaccactgatgccaagact
+            catatagcattggacggaaggctggcaggcattgtccagcctaatgacgggcagtgtcat
+            gttggtagtgacaatcattactctgcctccactaccatggattatccctctttggggctg
+            atgactgagaagctatcccagaaaaacatcaatttgatctttgcagtgactgaaaatgta
+            gtcaatctctatcagaactatagtgagctcatcccagggaccacagttggggttctgtcc
+            atggattccagcaatgtcctccagctcattgttgatgcttatgggaaaatccgttctaaa
+            gtagagctggaagtgcgtgacctccctgaagagttgtctctatccttcaatgccacctgc
+            ctcaacaatgaggtcatccctggcctcaagtcttgtatgggactcaagattggagacacg
+            gtgagcttcagcattgaggccaaggtgcgaggctgtccccaggagaaggagaagtccttt
+            accataaagcccgtgggcttcaaggacagcctgatcgtccaggtcacctttgattgtgac
+            tgtgcctgccaggcccaagctgaacctaatagccatcgctgcaacaatggcaatgggacc
+            tttgagtgtggggtatgccgttgtgggcctggctggctgggatcccagtgtgagtgctca
+            gaggaggactatcgcccttcccagcaggacgaatgcagcccccgggagggtcagcccgtc
+            tgcagccagcggggcgagtgcctctgtggtcaatgtgtctgccacagcagtgactttggc
+            aagatcacgggcaagtactgcgagtgtgacgacttctcctgtgtccgctacaagggggag
+            atgtgctcaggccatggccagtgcagctgtggggactgcctgtgtgactccgactggacc
+            ggctactactgcaactgtaccacgcgtactgacacctgcatgtccagcaatgggctgctg
+            tgcagcggccgcggcaagtgtgaatgtggcagctgtgtctgtatccagccgggctcctat
+            ggggacacctgtgagaagtgccccacctgcccagatgcctgcacctttaagaaagaatgt
+            gtggagtgtaagaagtttgaccggggagccctacatgacgaaaatacctgcaaccgttac
+            tgccgtgacgagattgagtcagtgaaagagcttaaggacactggcaaggatgcagtgaat
+            tgtacctataagaatgaggatgactgtgtcgtcagattccagtactatgaagattctagt
+            ggaaagtccatcctgtatgtggtagaagagccagagtgtcccaagggccctgacatcctg
+            gtggtcctgctctcagtgatgggggccattctgctcattggccttgccgccctgctcatc
+            tggaaactcctcatcaccatccacgaccgaaaagaattcgctaaatttgaggaagaacgc
+            gccagagcaaaatgggacacagccaacaacccactgtataaagaggccacgtctaccttc
+            accaatatcacgtaccggggcacttaa
+///

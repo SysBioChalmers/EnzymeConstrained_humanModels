@@ -1,0 +1,81 @@
+ENTRY       7045              CDS       T01001
+NAME        TGFBI, BIGH3, CDB1, CDG2, CDGG1, CSD, CSD1, CSD2, CSD3, EBMD, LCD1
+DEFINITION  (RefSeq) transforming growth factor beta induced
+ORTHOLOGY   K19519  transforming growth factor-beta-induced protein
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00951  Reis-Bucklers corneal dystrophy (RBCD)
+            H00952  Thiel-Behnke dystrophies (TBCD)
+            H00955  Granular corneal dystrophies (GCD)
+            H00956  Lattice corneal dystrophies (LCD)
+            H01221  Epithelial basement membrane corneal dystrophy (EBMD)
+BRITE       Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta2 integrins
+               CR3, Mac-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 7045 (TGFBI)
+              Beta5 integrins
+               alpha V beta 5
+                ITGB5; integrin beta 5 [KO:K06588]
+                 7045 (TGFBI)
+POSITION    5q31.1
+MOTIF       Pfam: Fasciclin
+DBLINKS     NCBI-GeneID: 7045
+            NCBI-ProteinID: NP_000349
+            OMIM: 601692
+            HGNC: 11771
+            Ensembl: ENSG00000120708
+            Vega: OTTHUMG00000163213
+            Pharos: Q15582(Tbio)
+            UniProt: Q15582 A0A0S2Z4Q2
+STRUCTURE   PDB: 5NV6 2LTB 2LTC 2VXP 1X3B
+AASEQ       683
+            MALFVRLLALALALALGPAATLAGPAKSPYQLVLQHSRLRGRQHGPNVCAVQKVIGTNRK
+            YFTNCKQWYQRKICGKSTVISYECCPGYEKVPGEKGCPAALPLSNLYETLGVVGSTTTQL
+            YTDRTEKLRPEMEGPGSFTIFAPSNEAWASLPAEVLDSLVSNVNIELLNALRYHMVGRRV
+            LTDELKHGMTLTSMYQNSNIQIHHYPNGIVTVNCARLLKADHHATNGVVHLIDKVISTIT
+            NNIQQIIEIEDTFETLRAAVAASGLNTMLEGNGQYTLLAPTNEAFEKIPSETLNRILGDP
+            EALRDLLNNHILKSAMCAEAIVAGLSVETLEGTTLEVGCSGDMLTINGKAIISNKDILAT
+            NGVIHYIDELLIPDSAKTLFELAAESDVSTAIDLFRQAGLGNHLSGSERLTLLAPLNSVF
+            KDGTPPIDAHTRNLLRNHIIKDQLASKYLYHGQTLETLGGKKLRVFVYRNSLCIENSCIA
+            AHDKRGRYGTLFTMDRVLTPPMGTVMDVLKGDNRFSMLVAAIQSAGLTETLNREGVYTVF
+            APTNEAFRALPPRERSRLLGDAKELANILKYHIGDEILVSGGIGALVRLKSLQGDKLEVS
+            LKNNVVSVNKEPVAEPDIMATNGVVHVITNVLQPPANRPQERGDELADSALEIFKQASAF
+            SRASQRSVRLAPVYQKLLERMKH
+NTSEQ       2052
+            atggcgctcttcgtgcggctgctggctctcgccctggctctggccctgggccccgccgcg
+            accctggcgggtcccgccaagtcgccctaccagctggtgctgcagcacagcaggctccgg
+            ggccgccagcacggccccaacgtgtgtgctgtgcagaaggttattggcactaataggaag
+            tacttcaccaactgcaagcagtggtaccaaaggaaaatctgtggcaaatcaacagtcatc
+            agctacgagtgctgtcctggatatgaaaaggtccctggggagaagggctgtccagcagcc
+            ctaccactctcaaacctttacgagaccctgggagtcgttggatccaccaccactcagctg
+            tacacggaccgcacggagaagctgaggcctgagatggaggggcccggcagcttcaccatc
+            ttcgcccctagcaacgaggcctgggcctccttgccagctgaagtgctggactccctggtc
+            agcaatgtcaacattgagctgctcaatgccctccgctaccatatggtgggcaggcgagtc
+            ctgactgatgagctgaaacacggcatgaccctcacctctatgtaccagaattccaacatc
+            cagatccaccactatcctaatgggattgtaactgtgaactgtgcccggctgctgaaagcc
+            gaccaccatgcaaccaacggggtggtgcacctcatcgataaggtcatctccaccatcacc
+            aacaacatccagcagatcattgagatcgaggacacctttgagacccttcgggctgctgtg
+            gctgcatcagggctcaacacgatgcttgaaggtaacggccagtacacgcttttggccccg
+            accaatgaggccttcgagaagatccctagtgagactttgaaccgtatcctgggcgaccca
+            gaagccctgagagacctgctgaacaaccacatcttgaagtcagctatgtgtgctgaagcc
+            atcgttgcggggctgtctgtagagaccctggagggcacgacactggaggtgggctgcagc
+            ggggacatgctcactatcaacgggaaggcgatcatctccaataaagacatcctagccacc
+            aacggggtgatccactacattgatgagctactcatcccagactcagccaagacactattt
+            gaattggctgcagagtctgatgtgtccacagccattgaccttttcagacaagccggcctc
+            ggcaatcatctctctggaagtgagcggttgaccctcctggctcccctgaattctgtattc
+            aaagatggaacccctccaattgatgcccatacaaggaatttgcttcggaaccacataatt
+            aaagaccagctggcctctaagtatctgtaccatggacagaccctggaaactctgggcggc
+            aaaaaactgagagtttttgtttatcgtaatagcctctgcattgagaacagctgcatcgcg
+            gcccacgacaagagggggaggtacgggaccctgttcacgatggaccgggtgctgaccccc
+            ccaatggggactgtcatggatgtcctgaagggagacaatcgctttagcatgctggtagct
+            gccatccagtctgcaggactgacggagaccctcaaccgggaaggagtctacacagtcttt
+            gctcccacaaatgaagccttccgagccctgccaccaagagaacggagcagactcttggga
+            gatgccaaggaacttgccaacatcctgaaataccacattggtgatgaaatcctggttagc
+            ggaggcatcggggccctggtgcggctaaagtctctccaaggtgacaagctggaagtcagc
+            ttgaaaaacaatgtggtgagtgtcaacaaggagcctgttgccgagcctgacatcatggcc
+            acaaatggcgtggtccatgtcatcaccaatgttctgcagcctccagccaacagacctcag
+            gaaagaggggatgaacttgcagactctgcgcttgagatcttcaaacaagcatcagcgttt
+            tccagggcttcccagaggtctgtgcgactagcccctgtctatcaaaagttattagagagg
+            atgaagcattag
+///

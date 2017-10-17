@@ -1,0 +1,83 @@
+ENTRY       2950              CDS       T01001
+NAME        GSTP1, DFN7, FAEES3, GST3, GSTP, HEL-S-22, PI
+DEFINITION  (RefSeq) glutathione S-transferase pi 1
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05200  Pathways in cancer
+            hsa05204  Chemical carcinogenesis
+            hsa05215  Prostate cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00024  Prostate cancer
+DRUG_TARGET Ezatiostat hydrochloride: D08917
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2950 (GSTP1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                2950 (GSTP1)
+               00982 Drug metabolism - cytochrome P450
+                2950 (GSTP1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2950 (GSTP1)
+               05204 Chemical carcinogenesis
+                2950 (GSTP1)
+               05215 Prostate cancer
+                2950 (GSTP1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                2950 (GSTP1)
+              Drug resistance
+               01524 Platinum drug resistance
+                2950 (GSTP1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 2950 (GSTP1)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               2950 (GSTP1)
+POSITION    11q13.2
+MOTIF       Pfam: GST_C_3 GST_C GST_N GST_C_2
+DBLINKS     NCBI-GeneID: 2950
+            NCBI-ProteinID: NP_000843
+            OMIM: 134660
+            HGNC: 4638
+            Ensembl: ENSG00000084207
+            Vega: OTTHUMG00000137430
+            Pharos: P09211(Tchem)
+            UniProt: P09211 V9HWE9
+STRUCTURE   PDB: 5J41 2A2R 5DAL 3GUS 3CSH 3DGQ 2A2S 5DJL 3KMN 3IE3 3HKR
+                 1AQW 1PGT 3N9J 1LBK 5DJM 3CSI 3CSJ 22GS 19GS 17GS 18GS
+                 16GS 13GS 8GSS 6GSS 2PGT 2GSS 3GSS 1AQV 5JCW 3HJO 5GSS
+                 9GSS 5DDL 5L6X 1KBN 1AQX 5DCG 1PX7 1MD3 3KM6 3HJM 1ZGN
+                 1PX6 1MD4 1EOG 4PGT 12GS 5DAK 3PGT 10GS 7GSS 3DD3 11GS
+                 20GS 1EOH 4GSS 3KMO 14GS 1GSS 2J9H
+AASEQ       210
+            MPPYTVVYFPVRGRCAALRMLLADQGQSWKEEVVTVETWQEGSLKASCLYGQLPKFQDGD
+            LTLYQSNTILRHLGRTLGLYGKDQQEAALVDMVNDGVEDLRCKYISLIYTNYEAGKDDYV
+            KALPGQLKPFETLLSQNQGGKTFIVGDQISFADYNLLDLLLIHEVLAPGCLDAFPLLSAY
+            VGRLSARPKLKAFLASPEYVNLPINGNGKQ
+NTSEQ       633
+            atgccgccctacaccgtggtctatttcccagttcgaggccgctgcgcggccctgcgcatg
+            ctgctggcagatcagggccagagctggaaggaggaggtggtgaccgtggagacgtggcag
+            gagggctcactcaaagcctcctgcctatacgggcagctccccaagttccaggacggagac
+            ctcaccctgtaccagtccaataccatcctgcgtcacctgggccgcacccttgggctctat
+            gggaaggaccagcaggaggcagccctggtggacatggtgaatgacggcgtggaggacctc
+            cgctgcaaatacatctccctcatctacaccaactatgaggcgggcaaggatgactatgtg
+            aaggcactgcccgggcaactgaagccttttgagaccctgctgtcccagaaccagggaggc
+            aagaccttcattgtgggagaccagatctccttcgctgactacaacctgctggacttgctg
+            ctgatccatgaggtcctagcccctggctgcctggatgcgttccccctgctctcagcatat
+            gtggggcgcctcagtgcccggcccaagctcaaggccttcctggcctcccctgagtacgtg
+            aacctccccatcaatggcaacgggaaacagtga
+///

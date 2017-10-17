@@ -1,0 +1,78 @@
+ENTRY       56652             CDS       T01001
+NAME        TWNK, ATXN8, C10orf2, IOSCA, MTDPS7, PEO, PEO1, PEOA3, PRLTS5, SANDO, SCA8, TWINL
+DEFINITION  (RefSeq) twinkle mtDNA helicase
+ORTHOLOGY   K17680  twinkle protein [EC:3.6.4.12]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00469  Mitochondrial DNA depletion syndrome (MDS)
+            H01118  Progressive external ophthalmoplegia (PEO)
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 56652 (TWNK)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA replication factors
+               Mitochondrial DNA maintenance factors
+                56652 (TWNK)
+POSITION    10q24.31
+MOTIF       Pfam: AAA_25 DnaB_C ATPase AAA_22 AAA_16 T2SSE AAA_29 AAA_23 IstB_IS21 AAA_19 AAA ABC_tran AAA_33 cobW PhoH RsgA_GTPase NTPase_1
+DBLINKS     NCBI-GeneID: 56652
+            NCBI-ProteinID: NP_068602
+            OMIM: 606075
+            HGNC: 1160
+            Ensembl: ENSG00000107815
+            Vega: OTTHUMG00000018917
+            Pharos: Q96RR1(Tbio)
+            UniProt: Q96RR1 Q9H6V3 E5KSY5
+AASEQ       684
+            MWVLLRSGYPLRILLPLRGEWMGRRGLPRNLAPGPPRRRYRKETLQALDMPVLPVTATEI
+            RQYLRGHGIPFQDGHSCLRALSPFAESSQLKGQTGVTTSFSLFIDKTTGHFLCMTSLAEG
+            SWEDFQASVEGRGDGAREGFLLSKAPEFEDSEEVRRIWNRAIPLWELPDQEEVQLADTMF
+            GLTKVTDDTLKRFSVRYLRPARSLVFPWFSPGGSGLRGLKLLEAKCQGDGVSYEETTIPR
+            PSAYHNLFGLPLISRRDAEVVLTSRELDSLALNQSTGLPTLTLPRGTTCLPPALLPYLEQ
+            FRRIVFWLGDDLRSWEAAKLFARKLNPKRCFLVRPGDQQPRPLEALNGGFNLSRILRTAL
+            PAWHKSIVSFRQLREEVLGELSNVEQAAGLRWSRFPDLNRILKGHRKGELTVFTGPTGSG
+            KTTFISEYALDLCSQGVNTLWGSFEISNVRLARVMLTQFAEGRLEDQLDKYDHWADRFED
+            LPLYFMTFHGQQSIRTVIDTMQHAVYVYDICHVIIDNLQFMMGHEQLSTDRIAAQDYIIG
+            VFRKFATDNNCHVTLVIHPRKEDDDKELQTASIFGSAKASQEADNVLILQDRKLVTGPGK
+            RYLQVSKNRFDGDVGVFPLEFNKNSLTFSIPPKNKARLKKIKDDTGPVAKKPSSGKKGAT
+            TQNSEICSGQAPTPDQPDTSKRSK
+NTSEQ       2055
+            atgtgggtcctcctccgaagtgggtaccccctccgtatcttgttacccctgcgtggggag
+            tggatgggtcggaggggcctgccccgaaacttggccccaggccctcctcgcagacgttac
+            aggaaggagactctccaagccttggatatgccagtgttgcctgtaactgcaactgaaatc
+            cgccagtatttgcgggggcatgggatccccttccaggatggtcacagttgcctgcgggca
+            ctgagcccctttgcagagtcttcacagctcaaaggccagactggtgttaccacttccttc
+            agcctcttcattgacaagaccacaggccactttctctgcatgaccagcctagcagaaggg
+            agctgggaagacttccaggccagcgtggaggggcgaggggatggggccagggaggggttt
+            ctgcttagcaaggcaccagaatttgaggacagcgaggaggtccggaggatctggaaccga
+            gcaatacctctctgggagctgcctgatcaggaggaggttcagctggctgatacaatgttt
+            ggccttaccaaggttacagatgacacactcaagcgtttcagtgtgcgatatctgcgacct
+            gctcgcagtcttgtcttcccttggttctcccctgggggctcaggattacgaggcctgaag
+            ctcctagaggctaaatgccagggggatggagtgagctacgaggaaaccactattccccga
+            cccagcgcctaccacaatctgtttggattaccactgattagtcgtcgagatgctgaggtg
+            gtactgacgagtcgtgagcttgacagcctggccttgaaccagtccacggggctgcctacc
+            cttactctaccccgaggaacgacctgcttaccccctgccttactcccttacctggaacag
+            ttccggcggattgtattctggttgggggatgaccttcggtcctgggaagccgccaagttg
+            tttgcacgaaaactgaaccccaaacgatgcttcttggtgcgaccaggagaccagcaaccc
+            cgtcccctggaggccctgaacggaggcttcaatctttctcgtattcttcgtaccgccctg
+            cctgcctggcacaagtccatcgtatctttccggcagcttcgggaggaggtgctaggagaa
+            ctgtcaaatgtggagcaagcagctggcctccgctggagccgctttccagacctcaatcgt
+            atcttgaagggacatcgaaagggcgagctgacggtcttcacagggccaacaggcagtgga
+            aagacgacattcatcagtgagtatgccctggatttgtgttcccagggggtgaacacactg
+            tggggtagcttcgagatcagcaatgtgagactagcccgggtcatgctgacacagtttgcc
+            gaggggcggctggaagatcaactggacaaatatgatcactgggctgaccgctttgaggac
+            ctgcccctctatttcatgactttccatggacagcaaagcatcaggactgtaatagataca
+            atgcaacatgcagtctacgtctatgacatttgtcatgtgatcatcgacaacctgcagttc
+            atgatgggtcacgagcagctgtccacagacaggatcgcagctcaagactacatcatcggg
+            gtctttcggaagtttgcaacagacaataactgccatgtgacactggtcattcacccccgg
+            aaagaggatgatgacaaggaactgcagacagcgtccatttttggctcagccaaagcaagc
+            caggaagcagacaatgttctgatcctgcaggacaggaagctggtaaccgggccagggaaa
+            cggtatctgcaggtgtccaagaaccgctttgatggagatgtaggtgtcttcccgcttgag
+            ttcaacaagaactccctcaccttctccattccaccaaagaacaaggcccggctcaagaag
+            atcaaggatgacactggaccagtggccaaaaagccctcttctggcaaaaagggggctacg
+            acacagaactctgagatttgctcaggccaggcccccactcccgaccagccagacacctcc
+            aagcgttcaaagtga
+///

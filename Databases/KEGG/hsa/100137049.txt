@@ -1,0 +1,159 @@
+ENTRY       100137049         CDS       T01001
+NAME        PLA2G4B, HsT16992, cPLA2-beta
+DEFINITION  (RefSeq) phospholipase A2 group IVB
+ORTHOLOGY   K16342  cytosolic phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04217  Necroptosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04370  VEGF signaling pathway
+            hsa04611  Platelet activation
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04724  Glutamatergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04730  Long-term depression
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                100137049 (PLA2G4B)
+               00565 Ether lipid metabolism
+                100137049 (PLA2G4B)
+               00590 Arachidonic acid metabolism
+                100137049 (PLA2G4B)
+               00591 Linoleic acid metabolism
+                100137049 (PLA2G4B)
+               00592 alpha-Linolenic acid metabolism
+                100137049 (PLA2G4B)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                100137049 (PLA2G4B)
+               04010 MAPK signaling pathway
+                100137049 (PLA2G4B)
+               04370 VEGF signaling pathway
+                100137049 (PLA2G4B)
+               04072 Phospholipase D signaling pathway
+                100137049 (PLA2G4B)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                100137049 (PLA2G4B)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                100137049 (PLA2G4B)
+               04664 Fc epsilon RI signaling pathway
+                100137049 (PLA2G4B)
+               04666 Fc gamma R-mediated phagocytosis
+                100137049 (PLA2G4B)
+              Endocrine system
+               04912 GnRH signaling pathway
+                100137049 (PLA2G4B)
+               04913 Ovarian Steroidogenesis
+                100137049 (PLA2G4B)
+               04921 Oxytocin signaling pathway
+                100137049 (PLA2G4B)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                100137049 (PLA2G4B)
+              Nervous system
+               04724 Glutamatergic synapse
+                100137049 (PLA2G4B)
+               04726 Serotonergic synapse
+                100137049 (PLA2G4B)
+               04730 Long-term depression
+                100137049 (PLA2G4B)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                100137049 (PLA2G4B)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                100137049 (PLA2G4B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 100137049 (PLA2G4B)
+POSITION    15q15.1
+MOTIF       Pfam: PLA2_B C2
+DBLINKS     NCBI-GeneID: 100137049
+            NCBI-ProteinID: NP_001108105
+            OMIM: 606088
+            HGNC: 9036
+            Ensembl: ENSG00000243708
+            Vega: OTTHUMG00000156809
+            UniProt: P0C869
+AASEQ       781
+            MAVAEVSRTCLLTVRVLQAHRLPSKDLVTPSDCYVTLWLPTACSHRLQTRTVKNSSSPVW
+            NQSFHFRIHRQLKNVMELKVFDQDLVTGDDPVLSVLFDAGTLRAGEFRRESFSLSPQGEG
+            RLEVEFRLQSLADRGEWLVSNGVLVARELSCLHVQLEETGDQKSSEHRVQLVVPGSCEGP
+            QEASVGTGTFRFHCPACWEQELSIRLQDAPEEQLKAPLSALPSGQVVRLVFPTSQEPLMR
+            VELKKEAGLRELAVRLGFGPCAEEQAFLSRRKQVVAAALRQALQLDGDLQEDEIPVVAIM
+            ATGGGIRAMTSLYGQLAGLKELGLLDCVSYITGASGSTWALANLYEDPEWSQKDLAGPTE
+            LLKTQVTKNKLGVLAPSQLQRYRQELAERARLGYPSCFTNLWALINEALLHDEPHDHKLS
+            DQREALSHGQNPLPIYCALNTKGQSLTTFEFGEWCEFSPYEVGFPKYGAFIPSELFGSEF
+            FMGQLMKRLPESRICFLEGIWSNLYAANLQDSLYWASEPSQFWDRWVRNQANLDKEQVPL
+            LKIEEPPSTAGRIAEFFTDLLTWRPLAQATHNFLRGLHFHKDYFQHPHFSTWKATTLDGL
+            PNQLTPSEPHLCLLDVGYLINTSCLPLLQPTRDVDLILSLDYNLHGAFQQLQLLGRFCQE
+            QGIPFPPISPSPEEQLQPRECHTFSDPTCPGAPAVLHFPLVSDSFREYSAPGVRRTPEEA
+            AAGEVNLSSSDSPYHYTKVTYSQEDVDKLLHLTHYNVCNNQEQLLEALRQAVQRRRQRRP
+            H
+NTSEQ       2346
+            atggctgtggcagaggtgtccaggacctgcctgctcacggttcgtgtcctgcaggcccat
+            cgcctaccctctaaggacctagtgaccccctctgactgctacgtgactctctggctgccc
+            acggcctgcagccacaggctccagacacgcacggtcaagaacagcagtagccctgtctgg
+            aaccagagctttcacttcaggatccacaggcagctcaagaatgtcatggaactgaaagtc
+            tttgaccaggacctggtgaccggagatgaccctgtgttgtcagtactgtttgatgcgggg
+            actctgcgggctggggagttccggcgcgagagcttctcactgagccctcagggtgagggg
+            cgcctggaagttgaatttcgcctgcagagtctggctgaccgtggcgagtggctcgtcagc
+            aatggcgttctggtggcccgggagctctcctgcttgcacgttcaactggaggagacagga
+            gaccagaagtcctcagagcacagagttcagcttgtggttcctgggtcctgtgagggtccg
+            caggaggcctctgtgggcactggcaccttccgcttccactgcccagcctgctgggagcag
+            gagctgagtattcgcctgcaggatgcccccgaggagcaactaaaggcgccactgagtgcc
+            ctgccctctggtcaagtggtgaggcttgtcttccccacgtcccaggagcccctgatgaga
+            gtggagctgaaaaaagaagcaggactgagggagctggccgtgcgactgggcttcgggccc
+            tgtgcagaggagcaggccttcctgagcaggaggaagcaggtggtggccgcggccttgagg
+            caggccctgcagctggacggagacctgcaggaggatgagatcccagtggtagctattatg
+            gccactggtggtgggatccgggcaatgacttccctgtatgggcagctggctggcctgaag
+            gagctgggcctcttggattgcgtctcctacatcaccggggcctcgggctccacctgggcc
+            ttggccaacctttatgaggacccagagtggtctcagaaggacctggcagggcccactgag
+            ttgctgaagacccaggtgaccaagaacaagctgggtgtgctggcccccagccagctgcag
+            cggtaccggcaggagctggccgagcgtgcccgcttgggctacccaagctgcttcaccaac
+            ctgtgggccctcatcaacgaggcgctgctgcatgatgagccccatgatcacaagctctca
+            gatcaacgggaggccctgagtcatggccagaaccctctgcccatctactgtgccctcaac
+            accaaagggcagagcctgaccacttttgaatttggggagtggtgcgagttctctccctac
+            gaggtcggcttccccaagtacggggccttcatcccctctgagctctttggctccgagttc
+            tttatggggcagctgatgaagaggcttcctgagtcccgcatctgcttcttagaaggtatc
+            tggagcaacctgtatgcagccaacctccaggacagcttatactgggcctcagagcccagc
+            cagttctgggaccgctgggtcaggaaccaggccaacctggacaaggagcaggtccccctt
+            ctgaagatagaagaaccaccctcaacagccggcaggatagctgagtttttcaccgatctt
+            ctgacgtggcgtccactggcccaggccacacataatttcctgcgtggcctccatttccac
+            aaagactactttcagcatcctcacttctccacatggaaagctaccactctggatgggctc
+            cccaaccagctgacaccctcggagccccacctgtgcctgctggatgttggctacctcatc
+            aataccagctgcctgcccctcctgcagcccactcgggacgtggacctcatcctgtcattg
+            gactacaacctccacggagccttccagcagttgcagctcctgggccggttctgccaggag
+            caggggatcccgttcccacccatctcgcccagccccgaagagcagctccagcctcgggag
+            tgccacaccttctccgaccccacctgccccggagcccctgcggtgctgcactttcctctg
+            gtcagcgactccttccgggagtactcggcccctggggtccggcggacacccgaggaggcg
+            gcagctggggaggtgaacctgtcttcatcggactctccctaccactacacgaaggtgacc
+            tacagccaggaggacgtggacaagctgctgcacctgacacattacaatgtctgcaacaac
+            caggagcagctgctggaggctctgcgccaggcagtgcagcggaggcggcagcgcaggccc
+            cactga
+///

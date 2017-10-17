@@ -1,0 +1,72 @@
+ENTRY       8555              CDS       T01001
+NAME        CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B
+DEFINITION  (RefSeq) cell division cycle 14B
+ORTHOLOGY   K06639  cell division cycle 14 [EC:3.1.3.16 3.1.3.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                8555 (CDC14B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 8555 (CDC14B)
+                3.1.3.48  protein-tyrosine-phosphatase
+                 8555 (CDC14B)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class I PTPs (Dual specificity phosphatases)
+               CDC14
+                8555 (CDC14B)
+POSITION    9q22.32-q22.33
+MOTIF       Pfam: DSPn DSPc PTPlike_phytase Y_phosphatase Y_phosphatase3 CDKN3
+DBLINKS     NCBI-GeneID: 8555
+            NCBI-ProteinID: NP_201588
+            OMIM: 603505
+            HGNC: 1719
+            Ensembl: ENSG00000081377
+            Vega: OTTHUMG00000020300
+            Pharos: O60729(Tbio)
+            UniProt: O60729
+STRUCTURE   PDB: 1OHE 1OHC 1OHD
+AASEQ       498
+            MKRKSERRSSWAAAPPCSRRCSSTSPGVKKIRSSTQQDPRRRDPQDDVYLDITDRLCFAI
+            LYSRPKSASNVHYFSIDNELEYENFYADFGPLNLAMVYRYCCKINKKLKSITMLRKKIVH
+            FTGSDQRKQANAAFLVGCYMVIYLGRTPEEAYRILIFGETSYIPFRDAAYGSCNFYITLL
+            DCFHAVKKAMQYGFLNFNSFNLDEYEHYEKAENGDLNWIIPDRFIAFCGPHSRARLESGY
+            HQHSPETYIQYFKNHNVTTIIRLNKRMYDAKRFTDAGFDHHDLFFADGSTPTDAIVKEFL
+            DICENAEGAIAVHCKAGLGRTGTLIACYIMKHYRMTAAETIAWVRICRPGSVIGPQQQFL
+            VMKQTNLWLEGDYFRQKLKGQENGQHRAAFSKLLSGVDDISINGVENQDQQEPEPYSDDD
+            EINGVTQGDRLRALKSRRQSKTNAIPLTVILQSSVQSCKTSEPNISGSAGITKRTTRSAS
+            RKSSVKSLSISRTKTVLR
+NTSEQ       1497
+            atgaagcggaaaagcgagcggcggtcgagctgggccgccgcgcccccctgctcgcggcgc
+            tgctcgtcgacctcgccgggtgtgaagaagatccgcagctccacgcagcaagacccgcgc
+            cgccgggacccccaggacgacgtgtacctggacatcaccgatcgcctttgttttgccatt
+            ctctacagcagaccaaagagtgcatcaaatgtacattatttcagcatagataatgaactt
+            gaatatgagaacttctacgcagattttggaccactcaatctggcaatggtttacagatat
+            tgttgcaagatcaataagaaattaaagtccattacaatgttaaggaagaaaattgttcat
+            tttactggctctgatcagagaaaacaagcaaatgctgccttccttgttggatgctacatg
+            gttatatatttggggagaaccccagaagaagcatatagaatattaatctttggagagaca
+            tcctatattcctttcagagatgctgcctatggaagttgcaatttctacattacacttctt
+            gactgttttcatgcagtaaagaaggcaatgcagtatggcttccttaatttcaactcattt
+            aaccttgatgaatatgaacactatgaaaaagcagaaaatggagatttaaattggataata
+            ccagaccgatttattgccttctgtggacctcattcaagagccagacttgaaagtggttac
+            caccaacattctcctgagacttatattcaatattttaagaatcacaatgttactaccatt
+            attcgtctgaataaaaggatgtatgatgccaaacgctttacggatgctggcttcgatcac
+            catgatcttttctttgcggatggcagcacccctactgatgccattgtcaaagaattccta
+            gatatctgtgaaaatgctgagggtgccattgcagtacattgcaaagctggccttggtcgc
+            acgggcactctgatagcctgctacatcatgaagcattacaggatgacagcagccgagacc
+            attgcgtgggtcaggatctgcagacctggctcggtgattgggcctcagcagcagtttttg
+            gtgatgaagcaaaccaacctctggctggaaggggactattttcgtcagaagttaaagggg
+            caggagaatggacaacacagagcagccttctccaaacttctctctggcgttgatgacatt
+            tccataaatggggtcgagaatcaagatcagcaagaacccgaaccgtacagtgatgatgac
+            gaaatcaatggagtgacacaaggtgatagacttcgggccttgaaaagcagaagacaatcc
+            aaaacaaacgctattcctctcacagtaattcttcaatccagtgttcagagctgtaaaaca
+            tctgaacctaacatttctggcagtgcaggcattactaaaagaaccaccagatctgcttca
+            aggaaaagcagtgttaaaagtctctccatttcaaggactaaaacagtcttgcgttaa
+///

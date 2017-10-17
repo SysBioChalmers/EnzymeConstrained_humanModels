@@ -1,0 +1,105 @@
+ENTRY       9632              CDS       T01001
+NAME        SEC24C
+DEFINITION  (RefSeq) SEC24 homolog C, COPII coat complex component
+ORTHOLOGY   K14007  protein transport protein SEC24
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04141  Protein processing in endoplasmic reticulum
+MODULE      hsa_M00404  COPII complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                9632 (SEC24C)
+            Membrane trafficking [BR:hsa04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               Coat protein complex II (COP-II)
+                9632 (SEC24C)
+POSITION    10q22.2
+MOTIF       Pfam: Sec23_trunk Sec23_helical Sec23_BS zf-Sec23_Sec24 Gelsolin
+DBLINKS     NCBI-GeneID: 9632
+            NCBI-ProteinID: NP_004913
+            OMIM: 607185
+            HGNC: 10705
+            Ensembl: ENSG00000176986
+            Vega: OTTHUMG00000018476
+            Pharos: P53992(Tbio)
+            UniProt: P53992 A0A024QZM6
+STRUCTURE   PDB: 3EH2
+AASEQ       1094
+            MNVNQSVPPVPPFGQPQPIYPGYHQSSYGGQSGSTAPAIPYGAYNGPVPGYQQTPPQGMS
+            RAPPSSGAPPASTAQAPCGQAAYGQFGQGDVQNGPSSTVQMQRLPGSQPFGSPLAPVGNQ
+            PPVLQPYGPPPTSAQVATQLSGMQISGAVAPAPPSSGLGFGPPTSLASASGSFPNSGLYG
+            SYPQGQAPPLSQAQGHPGIQTPQRSAPSQASSFTPPASGGPRLPSMTGPLLPGQSFGGPS
+            VSQPNHVSSPPQALPPGTQMTGPLGPLPPMHSPQQPGYQPQQNGSFGPARGPQSNYGGPY
+            PAAPTFGSQPGPPQPLPPKRLDPDAIPSPIQVIEDDRNNRGTEPFVTGVRGQVPPLVTTN
+            FLVKDQGNASPRYIRCTSYNIPCTSDMAKQAQVPLAAVIKPLARLPPEEASPYVVDHGES
+            GPLRCNRCKAYMCPFMQFIEGGRRFQCCFCSCINDVPPQYFQHLDHTGKRVDAYDRPELS
+            LGSYEFLATVDYCKNNKFPSPPAFIFMIDVSYNAIRTGLVRLLCEELKSLLDFLPREGGA
+            EESAIRVGFVTYNKVLHFYNVKSSLAQPQMMVVSDVADMFVPLLDGFLVNVNESRAVITS
+            LLDQIPEMFADTRETETVFVPVIQAGMEALKAAECAGKLFLFHTSLPIAEAPGKLKNRDD
+            RKLINTDKEKTLFQPQTGAYQTLAKECVAQGCCVDLFLFPNQYVDVATLSVVPQLTGGSV
+            YKYASFQVENDQERFLSDLRRDVQKVVGFDAVMRVRTSTGIRAVDFFGAFYMSNTTDVEL
+            AGLDGDKTVTVEFKHDDRLNEESGALLQCALLYTSCAGQRRLRIHNLALNCCTQLADLYR
+            NCETDTLINYMAKFAYRGVLNSPVKAVRDTLITQCAQILACYRKNCASPSSAGQLILPEC
+            MKLLPVYLNCVLKSDVLQPGAEVTTDDRAYVRQLVTSMDVTETNVFFYPRLLPLTKSPVE
+            STTEPPAVRASEERLSNGDIYLLENGLNLFLWVGASVQQGVVQSLFSVSSFSQITSGLSV
+            LPVLDNPLSKKVRGLIDSLRAQRSRYMKLTVVKQEDKMEMLFKHFLVEDKSLSGGASYVD
+            FLCHMHKEIRQLLS
+NTSEQ       3285
+            atgaacgtcaaccagtcagttccacctgtgccaccatttgggcagccccagcccatctac
+            ccagggtatcatcagtccagctatggtgggcaatcagggtccacagcccccgccattccc
+            tatggagcctacaatggcccagtaccaggctatcagcaaacacctccccaaggtatgtca
+            agagccccaccttcctcgggggcacctccagcctcaacagcacaggctccttgtggccag
+            gctgcatatggccagtttggccaaggagatgtacagaatgggccaagctccactgttcag
+            atgcaaaggctgcctgggtctcagccatttgggtccccattggcccctgtgggcaaccag
+            ccacctgtgcttcagccctatggccctcccccgacaagtgcacaggtggctacgcagctg
+            tctggaatgcagatcagcggtgctgtggccccagcccctccttcttcagggctgggcttt
+            ggcccaccaacatcgctggcttcagcctcaggaagtttccctaactctggtctgtatggc
+            tcctatcctcagggccaggctcctccccttagccaggcccaaggtcatcctgggatccag
+            actccccagcgatctgccccatcacaggcctccagcttcacacccccagcttcagggggt
+            cctcggctgccttcgatgactggtccactcctgcctggacagagttttggagggccctca
+            gtgagccagcccaaccatgtgtcttcacctcctcaagctctgccccctggcacccagatg
+            actgggcccctgggaccactgccacctatgcactccccgcagcagccaggctatcagccc
+            caacaaaatggttccttcggaccagcccggggccctcagtctaattatggaggcccctac
+            ccagcagcacccacctttggcagtcagcctgggcctcctcagccactgcctcctaagcgc
+            ctggaccctgatgccatcccaagccctattcaggtcattgaagatgacaggaacaaccgg
+            ggtacagagccatttgttactggagtacggggccaggtgccacccttagtcactaccaac
+            ttcctggtgaaagaccaagggaatgcaagtccccgatacatccgatgtacatcctataat
+            atcccttgcacatctgacatggctaagcaggctcaggtgcccctggcagcagtcatcaaa
+            ccgctggcaaggctgcccccagaggaggcttcaccgtatgttgtggaccatggggaatct
+            ggccctttgcgctgcaaccgctgcaaagcatacatgtgtcccttcatgcagttcattgaa
+            ggagggaggcgtttccagtgctgtttttgcagctgtatcaatgatgttcccccccagtat
+            tttcagcacctggatcataccggcaaacgtgtggatgcttatgaccgccctgagctatcc
+            ctgggctcttatgaattcttggccactgtagattactgcaagaacaataagttccccagc
+            cctcctgcctttatcttcatgattgacgtctcctacaatgccatcaggactggtcttgtt
+            aggctcctctgtgaggagctcaagtcactgttagactttctacctagggagggtggggca
+            gaagagtcagcaatccgcgttggctttgtcacctacaataaggtgctccacttctataat
+            gtgaagagctcattggcccagccacagatgatggttgtgtctgatgtggctgacatgttt
+            gtgccactgctggatggcttcctggtcaacgtcaatgagtctcgggcagttatcaccagc
+            ttattggatcagattccagaaatgtttgcagacacaagggaaacagagacagtatttgta
+            ccagttatccaggctggaatggaggctctgaaggctgctgagtgtgcagggaagctcttt
+            ctattccatacatccctgcccattgcagaggccccagggaaactgaagaacagagatgac
+            aggaagctgatcaatacagacaaggagaagactctgttccagcctcagacaggtgcctat
+            cagaccctggccaaagagtgtgtggcccaaggctgctgtgtagatctctttctcttccct
+            aaccagtatgtggatgtggccacactctctgttgtgccccagctcactggtggctctgtc
+            tacaaatatgcttcctttcaggtggagaacgaccaggagcggttcctgagtgacctgcgt
+            cgtgatgtccagaaggttgttggctttgatgctgtgatgcgggtccggacaagcactggt
+            atccgtgctgtagatttctttggagctttctacatgagcaacacgacagatgtggagctg
+            gctgggctagatggggacaaaacagtgactgtggagttcaagcatgacgatcggctcaat
+            gaagagagcggagctctcctgcagtgtgccctgctttacaccagctgtgcagggcagcgt
+            cggctccgcatccataatctggccctgaactgctgcacccagctggctgatctatatcga
+            aactgtgagactgacacgctcatcaactacatggccaagtttgcatatcggggagtcctg
+            aatagccctgtgaaggctgttcgtgacacgctcatcacccagtgtgcccagatcctggcc
+            tgttacagaaagaactgtgctagcccctcctctgcaggacagttgatccttcctgagtgc
+            atgaagctactcccagtttacctgaactgtgtgttgaagagtgatgtcctgcagcctgga
+            gctgaagtcactactgatgaccgtgcctatgtccgacagctagttacctccatggatgtg
+            actgagaccaatgtcttcttctaccctcggctcttacctttgacaaagtctcccgttgag
+            agtactaccgaaccaccagcagttcgagcctctgaagagcgtctaagcaatggggatata
+            tatttactggagaatgggctcaacctcttcctctgggtgggagcaagcgtccaacagggt
+            gttgtccagagccttttcagcgtctcctccttcagtcagatcaccagtggtttgagtgtt
+            ctgccagttctggataatccactgtccaagaaggttcgaggcctcattgatagcttacgg
+            gcacagagatcccggtacatgaagcttaccgtggtgaaacaggaagacaagatggagatg
+            ctgttcaagcacttcctggtggaagacaagagtctgagtgggggagcatcttatgtggac
+            tttctctgtcatatgcacaaggagattcggcagctactgagctaa
+///

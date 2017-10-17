@@ -1,0 +1,108 @@
+ENTRY       1742              CDS       T01001
+NAME        DLG4, PSD95, SAP-90, SAP90
+DEFINITION  (RefSeq) discs large MAGUK scaffold protein 4
+ORTHOLOGY   K11828  discs large protein 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04390  Hippo signaling pathway
+            hsa04724  Glutamatergic synapse
+            hsa05016  Huntington's disease
+            hsa05030  Cocaine addiction
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                1742 (DLG4)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                1742 (DLG4)
+             Human Diseases
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                1742 (DLG4)
+              Substance dependence
+               05030 Cocaine addiction
+                1742 (DLG4)
+            Membrane trafficking [BR:hsa04131]
+             SNARE
+              SNARE associated proteins
+               Others
+                1742 (DLG4)
+             Endocytosis
+              Clathrin-mediated endocytosis
+               LDLR adaptor proteins
+                1742 (DLG4)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               1/1 subfamily
+                LRFN1, SALM2; leucine-rich repeat and fibronectin type-III domain-containing protein 1 [KO:K16354]
+                 1742 (DLG4)
+                LRFN2, SALM1; leucine-rich repeat and fibronectin type-III domain-containing protein 2 [KO:K16355]
+                 1742 (DLG4)
+                LRFN4, SALM3; leucine-rich repeat and fibronectin type-III domain-containing protein 4 [KO:K16357]
+                 1742 (DLG4)
+POSITION    17p13.1
+MOTIF       Pfam: Guanylate_kin PDZ PDZ_assoc PDZ_2 MAGUK_N_PEST SH3_1 SH3_2 SH3_9
+DBLINKS     NCBI-GeneID: 1742
+            NCBI-ProteinID: NP_001308004
+            OMIM: 602887
+            HGNC: 2903
+            Ensembl: ENSG00000132535
+            Vega: OTTHUMG00000134327
+            Pharos: P78352(Tchem)
+            UniProt: P78352
+STRUCTURE   PDB: 3I4W 3K82 3ZRT 2MES 1KEF
+AASEQ       724
+            MDCLCIVTTKKYRYQDEDTPPLEHSPAHLPNQANSPPVIVNTDTLEAPGYELQVNGTEGE
+            MEYEEITLERGNSGLGFSIAGGTDNPHIGDDPSIFITKIIPGGAAAQDGRLRVNDSILFV
+            NEVDVREVTHSAAVEALKEAGSIVRLYVMRRKPPAEKVMEIKLIKGPKGLGFSIAGGVGN
+            QHIPGDNSIYVTKIIEGGAAHKDGRLQIGDKILAVNSVGLEDVMHEDAVAALKNTYDVVY
+            LKVAKPSNAYLSDSYAPPDITTSYSQHLDNEISHSSYLGTDYPTAMTPTSPRRYSPVAKD
+            LLGEEDIPREPRRIVIHRGSTGLGFNIVGGEDGEGIFISFILAGGPADLSGELRKGDQIL
+            SVNGVDLRNASHEQAAIALKNAGQTVTIIAQYKPEEYSRFEAKIHDLREQLMNSSLGSGT
+            ASLRSNPKRGFYIRALFDYDKTKDCGFLSQALSFRFGDVLHVIDASDEEWWQARRVHSDS
+            ETDDIGFIPSKRRVERREWSRLKAKDWGSSSGSQGREDSVLSYETVTQMEVHYARPIIIL
+            GPTKDRANDDLLSEFPDKFGSCVPHTTRPKREYEIDGRDYHFVSSREKMEKDIQAHKFIE
+            AGQYNSHLYGTSVQSVREVAEQGKHCILDVSANAVRRLQAAHLHPIAIFIRPRSLENVLE
+            INKRITEEQARKAFDRATKLEQEFTECFSAIVEGDSFEEIYHKVKRVIEDLSGPYIWVPA
+            RERL
+NTSEQ       2175
+            atggactgtctctgtatagtgacaaccaagaaataccgctaccaagatgaagacacgccc
+            cctctggagcacagcccggcccacctccccaaccaggccaattctcccccagtgattgtc
+            aacacagataccctagaagccccaggatatgagttgcaggtgaacgggaccgagggggag
+            atggaatacgaggaaatcacattggaaaggggtaactcaggtctgggcttcagcatcgca
+            ggtggcactgacaacccacacatcggtgacgacccatccattttcatcaccaagatcatt
+            cctggtggggctgcggcccaggatggccgcctcagggtcaacgacagcatcctgtttgta
+            aatgaagtggacgtgcgcgaggtgacccactcagcggcggtggaagccctcaaagaggca
+            ggctccatcgttcgcctctatgtcatgcgccggaagcccccggctgagaaggtcatggag
+            atcaagctcatcaaggggcctaaaggtcttggcttcagcatcgcagggggcgtagggaac
+            cagcacatcccaggagataatagcatctatgtaacaaagatcatcgaagggggtgctgcc
+            cacaaggatgggaggttgcagattggagacaagatcctggcggtcaacagtgtggggcta
+            gaggacgtcatgcatgaagatgctgtggcagccctgaagaacacgtatgatgttgtctac
+            ctaaaggtggccaagcccagcaatgcctacctgagtgacagctatgctcccccagacatc
+            acaacctcttattcccagcacctggacaatgagatcagtcacagcagctacctgggcacc
+            gactaccccacagccatgacccccacttcccctcggcgctactctccagtggccaaggac
+            ctgctcggggaggaagacattccccgagaaccgaggcgaattgtgatccaccggggctcc
+            acgggcctgggcttcaacatcgtgggtggcgaggacggtgaaggcatcttcatctccttt
+            atcctggccgggggccctgcagacctcagtggggagctgcggaagggggaccagatcctg
+            tcggtcaacggtgtggacctccgaaatgccagccatgagcaggctgccattgccctgaag
+            aatgcgggtcagacggtcacgatcatcgctcagtataaaccagaagagtacagccgattc
+            gaggccaagatccacgaccttcgggaacagctcatgaacagcagcctgggctcagggact
+            gcgtccctgcggagcaaccccaaaaggggtttctacatcagggccctgtttgattacgac
+            aagaccaaggactgcggcttcctgagccaggccctgagcttccgctttggggatgtgctg
+            catgtcatcgatgctagtgatgaggagtggtggcaggcacggcgggtccactctgacagt
+            gagaccgacgacattgggttcatccccagcaaacggcgggttgagcgacgagagtggtca
+            aggttaaaggccaaggactggggctccagctctggatcgcagggtcgagaagactcggtt
+            ctgagctacgagacagtgacgcagatggaagtgcactatgctcgccccatcatcatcctt
+            gggcccaccaaggaccgcgccaacgatgatcttctctccgagttccccgacaagtttgga
+            tcctgtgttccccatacgacacggcccaagcgggagtatgagatagatggccgggattac
+            cactttgtgtcgtcccgggagaaaatggagaaggacattcaggcgcacaagttcattgag
+            gccggccagtacaacagccacctctatgggaccagcgtccagtccgtgcgagaggtggca
+            gagcaggggaagcactgcatcctcgatgtctcggccaatgccgtgcggcggctgcaggcg
+            gcccacctgcaccccatcgccatcttcatccgcccccgctccctggagaatgtgctagag
+            attaacaagcggatcacagaggagcaagcccgcaaagccttcgacagagccaccaagctg
+            gagcaggagttcacagagtgcttctcagccatcgtggagggtgacagctttgaggagatc
+            taccacaaggtgaagcgtgtcatcgaggacctctcaggcccctacatctgggttccagcc
+            cgagagagactctga
+///

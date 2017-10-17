@@ -1,0 +1,78 @@
+ENTRY       26279             CDS       T01001
+NAME        PLA2G2D, PLA2IID, SPLASH, sPLA2-IID, sPLA2S
+DEFINITION  (RefSeq) phospholipase A2 group IID
+ORTHOLOGY   K01047  secretory phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04014  Ras signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04972  Pancreatic secretion
+            hsa04975  Fat digestion and absorption
+DRUG_TARGET Orlistat: D04028
+            Varespladib (DG01394): D06283 D08107 D08221
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                26279 (PLA2G2D)
+               00565 Ether lipid metabolism
+                26279 (PLA2G2D)
+               00590 Arachidonic acid metabolism
+                26279 (PLA2G2D)
+               00591 Linoleic acid metabolism
+                26279 (PLA2G2D)
+               00592 alpha-Linolenic acid metabolism
+                26279 (PLA2G2D)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                26279 (PLA2G2D)
+             Organismal Systems
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                26279 (PLA2G2D)
+              Digestive system
+               04972 Pancreatic secretion
+                26279 (PLA2G2D)
+               04975 Fat digestion and absorption
+                26279 (PLA2G2D)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 26279 (PLA2G2D)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                26279 (PLA2G2D)
+POSITION    1p36.12
+MOTIF       Pfam: Phospholip_A2_1 Parvo_coat_N DUF5460
+DBLINKS     NCBI-GeneID: 26279
+            NCBI-ProteinID: NP_036532
+            OMIM: 605630
+            HGNC: 9033
+            Ensembl: ENSG00000117215
+            Vega: OTTHUMG00000002701
+            Pharos: Q9UNK4(Tchem)
+            UniProt: Q9UNK4
+AASEQ       145
+            MELALLCGLVVMAGVIPIQGGILNLNKMVKQVTGKMPILSYWPYGCHCGLGGRGQPKDAT
+            DWCCQTHDCCYDHLKTQGCSIYKDYYRYNFSQGNIHCSDKGSWCEQQLCACDKEVAFCLK
+            RNLDTYQKRLRFYWRPHCRGQTPGC
+NTSEQ       438
+            atggaacttgcactgctgtgtgggctggtggtgatggctggtgtgattccaatccagggc
+            gggatcctgaacctgaacaagatggtcaagcaagtgactgggaaaatgcccatcctctcc
+            tactggccctacggctgtcactgcggactaggtggcagaggccaacccaaagatgccacg
+            gactggtgctgccagacccatgactgctgctatgaccacctgaagacccaggggtgcagc
+            atctacaaggactattacagatacaacttttcccaggggaacatccactgctctgacaag
+            ggaagctggtgtgagcagcagctgtgtgcctgtgacaaggaggtggccttctgcctgaag
+            cgcaacctggacacctaccagaagcgactgcgtttctactggcggccccactgccggggg
+            cagacccctgggtgctag
+///

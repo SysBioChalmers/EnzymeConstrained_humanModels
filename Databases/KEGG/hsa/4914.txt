@@ -1,0 +1,132 @@
+ENTRY       4914              CDS       T01001
+NAME        NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA
+DEFINITION  (RefSeq) neurotrophic receptor tyrosine kinase 1
+ORTHOLOGY   K03176  neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04210  Apoptosis
+            hsa04722  Neurotrophin signaling pathway
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05216  Thyroid cancer
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00032  Thyroid cancer
+            H00043  Neuroblastoma
+            H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+            H01836  Congenital pain insensitivity with anhidrosis
+DRUG_TARGET Lestaurtinib: D04696
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                4914 (NTRK1)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                4914 (NTRK1)
+             Organismal Systems
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                4914 (NTRK1)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                4914 (NTRK1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4914 (NTRK1)
+               05230 Central carbon metabolism in cancer
+                4914 (NTRK1)
+               05202 Transcriptional misregulation in cancers
+                4914 (NTRK1)
+               05216 Thyroid cancer
+                4914 (NTRK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 4914 (NTRK1)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Trk family [OT]
+               4914 (NTRK1)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class VII (TRK receptor family)
+               4914 (NTRK1)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class VII (TRK receptor family)
+               4914 (NTRK1)
+POSITION    1q23.1
+MOTIF       Pfam: Pkinase_Tyr Pkinase TPKR_C2 I-set LRR_8 Ig_3 Ig_2 LRR_4
+DBLINKS     NCBI-GeneID: 4914
+            NCBI-ProteinID: NP_002520
+            OMIM: 191315
+            HGNC: 8031
+            Ensembl: ENSG00000198400
+            Vega: OTTHUMG00000041304
+            Pharos: P04629(Tchem)
+            UniProt: P04629
+STRUCTURE   PDB: 5JFW 5JFV 5JFX 4PMP 5KMI 4PMM 5KML 4YNE 5KMJ 5JFS 5H3Q
+                 4YPS 4PMT 5KMM 5KMN 1WWW 5KMK 4F0I 5I8A 4GT5 1WWA 5KMO
+                 4AOJ 4PMS 2IFG 2N90 4CRP 1HE7
+AASEQ       796
+            MLRGGRRGQLGWHSWAAGPGSLLAWLILASAGAAPCPDACCPHGSSGLRCTRDGALDSLH
+            HLPGAENLTELYIENQQHLQHLELRDLRGLGELRNLTIVKSGLRFVAPDAFHFTPRLSRL
+            NLSFNALESLSWKTVQGLSLQELVLSGNPLHCSCALRWLQRWEEEGLGGVPEQKLQCHGQ
+            GPLAHMPNASCGVPTLKVQVPNASVDVGDDVLLRCQVEGRGLEQAGWILTELEQSATVMK
+            SGGLPSLGLTLANVTSDLNRKNVTCWAENDVGRAEVSVQVNVSFPASVQLHTAVEMHHWC
+            IPFSVDGQPAPSLRWLFNGSVLNETSFIFTEFLEPAANETVRHGCLRLNQPTHVNNGNYT
+            LLAANPFGQASASIMAAFMDNPFEFNPEDPIPVSFSPVDTNSTSGDPVEKKDETPFGVSV
+            AVGLAVFACLFLSTLLLVLNKCGRRNKFGINRPAVLAPEDGLAMSLHFMTLGGSSLSPTE
+            GKGSGLQGHIIENPQYFSDACVHHIKRRDIVLKWELGEGAFGKVFLAECHNLLPEQDKML
+            VAVKALKEASESARQDFQREAELLTMLQHQHIVRFFGVCTEGRPLLMVFEYMRHGDLNRF
+            LRSHGPDAKLLAGGEDVAPGPLGLGQLLAVASQVAAGMVYLAGLHFVHRDLATRNCLVGQ
+            GLVVKIGDFGMSRDIYSTDYYRVGGRTMLPIRWMPPESILYRKFTTESDVWSFGVVLWEI
+            FTYGKQPWYQLSNTEAIDCITQGRELERPRACPPEVYAIMRGCWQREPQQRHSIKDVHAR
+            LQALAQAPPVYLDVLG
+NTSEQ       2391
+            atgctgcgaggcggacggcgcgggcagcttggctggcacagctgggctgcggggccgggc
+            agcctgctggcttggctgatactggcatctgcgggcgccgcaccctgccccgatgcctgc
+            tgcccccacggctcctcgggactgcgatgcacccgggatggggccctggatagcctccac
+            cacctgcccggcgcagagaacctgactgagctctacatcgagaaccagcagcatctgcag
+            catctggagctccgtgatctgaggggcctgggggagctgagaaacctcaccatcgtgaag
+            agtggtctccgtttcgtggcgccagatgccttccatttcactcctcggctcagtcgcctg
+            aatctctccttcaacgctctggagtctctctcctggaaaactgtgcagggcctctcctta
+            caggaactggtcctgtcggggaaccctctgcactgttcttgtgccctgcgctggctacag
+            cgctgggaggaggagggactgggcggagtgcctgaacagaagctgcagtgtcatgggcaa
+            gggcccctggcccacatgcccaatgccagctgtggtgtgcccacgctgaaggtccaggtg
+            cccaatgcctcggtggatgtgggggacgacgtgctgctgcggtgccaggtggaggggcgg
+            ggcctggagcaggccggctggatcctcacagagctggagcagtcagccacggtgatgaaa
+            tctgggggtctgccatccctggggctgaccctggccaatgtcaccagtgacctcaacagg
+            aagaacgtgacgtgctgggcagagaacgatgtgggccgggcagaggtctctgttcaggtc
+            aacgtctccttcccggccagtgtgcagctgcacacggcggtggagatgcaccactggtgc
+            atccccttctctgtggatgggcagccggcaccgtctctgcgctggctcttcaatggctcc
+            gtgctcaatgagaccagcttcatcttcactgagttcctggagccggcagccaatgagacc
+            gtgcggcacgggtgtctgcgcctcaaccagcccacccacgtcaacaacggcaactacacg
+            ctgctggctgccaaccccttcggccaggcctccgcctccatcatggctgccttcatggac
+            aaccctttcgagttcaaccccgaggaccccatccctgtctccttctcgccggtggacact
+            aacagcacatctggagacccggtggagaagaaggacgaaacaccttttggggtctcggtg
+            gctgtgggcctggccgtctttgcctgcctcttcctttctacgctgctccttgtgctcaac
+            aaatgtggacggagaaacaagtttgggatcaaccgcccggctgtgctggctccagaggat
+            gggctggccatgtccctgcatttcatgacattgggtggcagctccctgtcccccaccgag
+            ggcaaaggctctgggctccaaggccacatcatcgagaacccacaatacttcagtgatgcc
+            tgtgttcaccacatcaagcgccgggacatcgtgctcaagtgggagctgggggagggcgcc
+            tttgggaaggtcttccttgctgagtgccacaacctcctgcctgagcaggacaagatgctg
+            gtggctgtcaaggcactgaaggaggcgtccgagagtgctcggcaggacttccagcgtgag
+            gctgagctgctcaccatgctgcagcaccagcacatcgtgcgcttcttcggcgtctgcacc
+            gagggccgccccctgctcatggtctttgagtatatgcggcacggggacctcaaccgcttc
+            ctccgatcccatggacctgatgccaagctgctggctggtggggaggatgtggctccaggc
+            cccctgggtctggggcagctgctggccgtggctagccaggtcgctgcggggatggtgtac
+            ctggcgggtctgcattttgtgcaccgggacctggccacacgcaactgtctagtgggccag
+            ggactggtggtcaagattggtgattttggcatgagcagggatatctacagcaccgactat
+            taccgtgtgggaggccgcaccatgctgcccattcgctggatgccgcccgagagcatcctg
+            taccgtaagttcaccaccgagagcgacgtgtggagcttcggcgtggtgctctgggagatc
+            ttcacctacggcaagcagccctggtaccagctctccaacacggaggcaatcgactgcatc
+            acgcagggacgtgagttggagcggccacgtgcctgcccaccagaggtctacgccatcatg
+            cggggctgctggcagcgggagccccagcaacgccacagcatcaaggatgtgcacgcccgg
+            ctgcaagccctggcccaggcacctcctgtctacctggatgtcctgggctag
+///

@@ -1,0 +1,138 @@
+ENTRY       6546              CDS       T01001
+NAME        SLC8A1, NCX1
+DEFINITION  (RefSeq) solute carrier family 8 member A1
+ORTHOLOGY   K05849  solute carrier family 8 (sodium/calcium exchanger)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04371  Apelin signaling pathway
+            hsa04740  Olfactory transduction
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa04974  Protein digestion and absorption
+            hsa04978  Mineral absorption
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                6546 (SLC8A1)
+               04020 Calcium signaling pathway
+                6546 (SLC8A1)
+               04022 cGMP - PKG signaling pathway
+                6546 (SLC8A1)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                6546 (SLC8A1)
+               04261 Adrenergic signaling in cardiomyocytes
+                6546 (SLC8A1)
+              Digestive system
+               04974 Protein digestion and absorption
+                6546 (SLC8A1)
+               04978 Mineral absorption
+                6546 (SLC8A1)
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                6546 (SLC8A1)
+              Sensory system
+               04740 Olfactory transduction
+                6546 (SLC8A1)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                6546 (SLC8A1)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                6546 (SLC8A1)
+               05414 Dilated cardiomyopathy (DCM)
+                6546 (SLC8A1)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC8: Na+/Ca2+ exchanger
+               6546 (SLC8A1)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Others
+               6546 (SLC8A1)
+POSITION    2p22.1
+MOTIF       Pfam: Calx-beta Na_Ca_ex Na_Ca_ex_C DnaG_DnaB_bind
+DBLINKS     NCBI-GeneID: 6546
+            NCBI-ProteinID: NP_066920
+            OMIM: 182305
+            HGNC: 11068
+            Ensembl: ENSG00000183023
+            Vega: OTTHUMG00000102183
+            Pharos: P32418(Tbio)
+            UniProt: P32418
+AASEQ       973
+            MYNMRRLSLSPTFSMGFHLLVTVSLLFSHVDHVIAETEMEGEGNETGECTGSYYCKKGVI
+            LPIWEPQDPSFGDKIARATVYFVAMVYMFLGVSIIADRFMSSIEVITSQEKEITIKKPNG
+            ETTKTTVRIWNETVSNLTLMALGSSAPEILLSVIEVCGHNFTAGDLGPSTIVGSAAFNMF
+            IIIALCVYVVPDGETRKIKHLRVFFVTAAWSIFAYTWLYIILSVISPGVVEVWEGLLTFF
+            FFPICVVFAWVADRRLLFYKYVYKRYRAGKQRGMIIEHEGDRPSSKTEIEMDGKVVNSHV
+            ENFLDGALVLEVDERDQDDEEARREMARILKELKQKHPDKEIEQLIELANYQVLSQQQKS
+            RAFYRIQATRLMTGAGNILKRHAADQARKAVSMHEVNTEVTENDPVSKIFFEQGTYQCLE
+            NCGTVALTIIRRGGDLTNTVFVDFRTEDGTANAGSDYEFTEGTVVFKPGDTQKEIRVGII
+            DDDIFEEDENFLVHLSNVKVSSEASEDGILEANHVSTLACLGSPSTATVTIFDDDHAGIF
+            TFEEPVTHVSESIGIMEVKVLRTSGARGNVIVPYKTIEGTARGGGEDFEDTCGELEFQND
+            EIVKTISVKVIDDEEYEKNKTFFLEIGEPRLVEMSEKKALLLNELGGFTITGKYLFGQPV
+            FRKVHAREHPILSTVITIADEYDDKQPLTSKEEEERRIAEMGRPILGEHTKLEVIIEESY
+            EFKSTVDKLIKKTNLALVVGTNSWREQFIEAITVSAGEDDDDDECGEEKLPSCFDYVMHF
+            LTVFWKVLFAFVPPTEYWNGWACFIVSILMIGLLTAFIGDLASHFGCTIGLKDSVTAVVF
+            VALGTSVPDTFASKVAATQDQYADASIGNVTGSNAVNVFLGIGVAWSIAAIYHAANGEQF
+            KVSPGTLAFSVTLFTIFAFINVGVLLYRRRPEIGGELGGPRTAKLLTSCLFVLLWLLYIF
+            FSSLEAYCHIKGF
+NTSEQ       2922
+            atgtacaacatgcggcgattaagtctttcacccaccttttcaatgggatttcatctgtta
+            gttactgtgagtctcttattttcccatgtggaccatgtaattgctgagacagaaatggaa
+            ggagaaggaaatgaaactggtgaatgtactggatcatattactgtaagaaaggggtgatt
+            ttgcccatttgggaaccccaagacccttcttttggggacaaaattgctagagctactgtg
+            tattttgtggccatggtctacatgtttcttggagtctctatcatagctgatcggttcatg
+            tcctctatagaagtcatcacatctcaagaaaaagaaataaccataaagaaacccaatgga
+            gagaccaccaagacaactgtgaggatctggaatgaaacagtttctaacctgaccttgatg
+            gccctgggatcttctgctcctgagattctcctttcagtaattgaagtgtgtggccataac
+            ttcactgcaggagacctcggtcctagcaccatcgtgggaagtgctgcattcaatatgttc
+            atcattattgcactctgtgtttatgtggtgcctgacggagagacaaggaagattaagcat
+            ttgcgtgtcttctttgtgacagcagcctggagcatctttgcctacacctggctttacatt
+            attttgtctgtcatatctcctggtgttgtggaggtctgggaaggtttgcttactttcttc
+            ttctttcccatctgtgttgtgttcgcttgggtagcggataggagacttctgttttacaag
+            tatgtctacaagaggtatcgagctggcaagcagagggggatgattattgaacatgaagga
+            gacaggccatcttctaagactgaaattgaaatggacgggaaagtggtcaattctcatgtt
+            gaaaatttcttagatggtgctctggttctggaggtggatgagagggaccaagatgatgaa
+            gaagctaggcgagaaatggctaggattctgaaggaacttaagcagaagcatccagataaa
+            gaaatagagcaattaatagaattagctaactaccaagtcctaagtcagcagcaaaaaagt
+            agagcattttatcgcattcaagctactcgcctcatgactggagctggcaacattttaaag
+            aggcatgcagctgaccaagcaaggaaggctgtcagcatgcacgaggtcaacactgaagtg
+            actgaaaatgaccctgttagtaagatcttctttgaacaagggacatatcagtgtctggag
+            aactgtggtactgtggcccttaccattatccgcagaggtggtgatttgactaacactgtg
+            tttgttgacttcagaacagaggatggcacagcaaatgctgggtctgattatgaatttact
+            gaaggaactgtggtgtttaagcctggtgatacccagaaggaaatcagagtgggtatcata
+            gatgatgatatctttgaggaggatgaaaatttccttgtgcatctcagcaatgtcaaagta
+            tcttctgaagcttcagaagatggcatactggaagccaatcatgtttctacacttgcttgc
+            ctcggatctccctccactgccactgtaactatttttgatgatgaccacgcaggcattttt
+            acttttgaggaacctgtgactcatgtgagtgagagcattggcatcatggaggtgaaagta
+            ttgagaacatctggagctcgaggaaatgttatcgttccatataaaaccatcgaagggact
+            gccagaggtggaggggaggattttgaggacacttgtggagagctcgaattccagaatgat
+            gaaattgtcaaaacaatatcagtcaaggtaattgatgatgaggagtatgagaaaaacaag
+            accttcttccttgagattggagagccccgcctggtggagatgagtgagaagaaagccctg
+            ttattgaatgagcttggtggcttcacaataacaggaaaatacctgtttggccaacctgtc
+            ttcaggaaggttcatgctagagaacatccgattctctctactgtaatcaccattgcagac
+            gaatatgatgacaagcagccactgaccagcaaagaggaagaggagaggcgcattgcagaa
+            atggggcgccccatcctgggagagcacaccaagttggaagtgatcattgaagaatcctat
+            gaattcaagagtactgtggacaaactcattaagaagacaaacctggcccttgtggttggg
+            actaacagctggagagaacagttcattgaagctatcactgtcagtgctggggaagatgat
+            gacgacgatgaatgtggggaagagaagctgccctcctgtttcgattacgtgatgcacttt
+            ctgactgtgttctggaaggtcctgtttgccttcgtcccccctactgaatactggaatggc
+            tgggcgtgtttcattgtctccatcctcatgattggcctactgacagctttcattggagac
+            ctggcttcccactttggctgcaccattggcctgaaagattctgtgactgcagtcgtgttc
+            gtcgcacttggaacatcagtgccagacacatttgccagcaaagtggcagccacccaggac
+            cagtatgcagacgcctccataggtaacgtcacgggcagcaacgcggtgaatgtcttcctg
+            ggaatcggtgtggcctggtccatcgctgccatctaccacgcagccaatggggaacagttc
+            aaagtgtcccctggcacactagctttctctgtcactctcttcaccatttttgctttcatc
+            aatgtgggggtgctgctgtatcggcggaggccagaaatcggaggtgagctgggtgggccc
+            cggactgccaagctcctcacatcctgcctctttgtgctcctatggctcttgtacattttc
+            ttctcctccctggaggcctactgccacataaaaggcttctaa
+///

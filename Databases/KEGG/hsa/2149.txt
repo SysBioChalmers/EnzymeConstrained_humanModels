@@ -1,0 +1,96 @@
+ENTRY       2149              CDS       T01001
+NAME        F2R, CF2R, HTR, PAR-1, PAR1, TR
+DEFINITION  (RefSeq) coagulation factor II thrombin receptor
+ORTHOLOGY   K03914  coagulation factor II (thrombin) receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04611  Platelet activation
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+DRUG_TARGET Atopaxar (DG01348): D09866 D09867
+            Vorapaxar: D09765 D09766
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                2149 (F2R)
+               04020 Calcium signaling pathway
+                2149 (F2R)
+               04072 Phospholipase D signaling pathway
+                2149 (F2R)
+               04024 cAMP signaling pathway
+                2149 (F2R)
+               04151 PI3K-Akt signaling pathway
+                2149 (F2R)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2149 (F2R)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2149 (F2R)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                2149 (F2R)
+               04611 Platelet activation
+                2149 (F2R)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2149 (F2R)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Complement peptide
+               Thrombin
+                2149 (F2R)
+POSITION    5q13.3
+MOTIF       Pfam: 7tm_1 DUF4064
+DBLINKS     NCBI-GeneID: 2149
+            NCBI-ProteinID: NP_001983
+            OMIM: 187930
+            HGNC: 3537
+            Ensembl: ENSG00000181104
+            Vega: OTTHUMG00000131299
+            Pharos: P25116(Tclin)
+            UniProt: P25116 A0A024RAP7
+STRUCTURE   PDB: 3LU9 3HKI 3HKJ 1NRP 1NRN 1NRO
+AASEQ       425
+            MGPRRLLLVAACFSLCGPLLSARTRARRPESKATNATLDPRSFLLRNPNDKYEPFWEDEE
+            KNESGLTEYRLVSINKSSPLQKQLPAFISEDASGYLTSSWLTLFVPSVYTGVFVVSLPLN
+            IMAIVVFILKMKVKKPAVVYMLHLATADVLFVSVLPFKISYYFSGSDWQFGSELCRFVTA
+            AFYCNMYASILLMTVISIDRFLAVVYPMQSLSWRTLGRASFTCLAIWALAIAGVVPLLLK
+            EQTIQVPGLNITTCHDVLNETLLEGYYAYYFSAFSAVFFFVPLIISTVCYVSIIRCLSSS
+            AVANRSKKSRALFLSAAVFCIFIICFGPTNVLLIAHYSFLSHTSTTEAAYFAYLLCVCVS
+            SISCCIDPLIYYYASSECQRYVYSILCCKESSDPSSYNSSGQLMASKMDTCSSNLNNSIY
+            KKLLT
+NTSEQ       1278
+            atggggccgcggcggctgctgctggtggccgcctgcttcagtctgtgcggcccgctgttg
+            tctgcccgcacccgggcccgcaggccagaatcaaaagcaacaaatgccaccttagatccc
+            cggtcatttcttctcaggaaccccaatgataaatatgaaccattttgggaggatgaggag
+            aaaaatgaaagtgggttaactgaatacagattagtctccatcaataaaagcagtcctctt
+            caaaaacaacttcctgcattcatctcagaagatgcctccggatatttgaccagctcctgg
+            ctgacactctttgtcccatctgtgtacaccggagtgtttgtagtcagcctcccactaaac
+            atcatggccatcgttgtgttcatcctgaaaatgaaggtcaagaagccggcggtggtgtac
+            atgctgcacctggccacggcagatgtgctgtttgtgtctgtgctcccctttaagatcagc
+            tattacttttccggcagtgattggcagtttgggtctgaattgtgtcgcttcgtcactgca
+            gcattttactgtaacatgtacgcctctatcttgctcatgacagtcataagcattgaccgg
+            tttctggctgtggtgtatcccatgcagtccctctcctggcgtactctgggaagggcttcc
+            ttcacttgtctggccatctgggctttggccatcgcaggggtagtgcctctgctcctcaag
+            gagcaaaccatccaggtgcccgggctcaacatcactacctgtcatgatgtgctcaatgaa
+            accctgctcgaaggctactatgcctactacttctcagccttctctgctgtcttctttttt
+            gtgccgctgatcatttccacggtctgttatgtgtctatcattcgatgtcttagctcttcc
+            gcagttgccaaccgcagcaagaagtcccgggctttgttcctgtcagctgctgttttctgc
+            atcttcatcatttgcttcggacccacaaacgtcctcctgattgcgcattactcattcctt
+            tctcacacttccaccacagaggctgcctactttgcctacctcctctgtgtctgtgtcagc
+            agcataagctgctgcatcgaccccctaatttactattacgcttcctctgagtgccagagg
+            tacgtctacagtatcttatgctgcaaagaaagttccgatcccagcagttataacagcagt
+            gggcagttgatggcaagtaaaatggatacctgctctagtaacctgaataacagcatatac
+            aaaaagctgttaacttag
+///

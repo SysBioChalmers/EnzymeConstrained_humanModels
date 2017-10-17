@@ -1,0 +1,231 @@
+ENTRY       3643              CDS       T01001
+NAME        INSR, CD220, HHF5
+DEFINITION  (RefSeq) insulin receptor
+ORTHOLOGY   K04527  insulin receptor [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04520  Adherens junction
+            hsa04910  Insulin signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04960  Aldosterone-regulated sodium reabsorption
+MODULE      hsa_M00676  PI3K-Akt signaling
+DISEASE     H00719  Leprechaunism
+            H00942  Rabson-Mendenhall syndrome
+            H01228  Insulin-resistant diabetes mellitus with acanthosis nigricans (IRAN)
+            H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+DRUG_TARGET Insulin: D00085
+            Insulin (human): D03230
+            Insulin (pork): D04548
+            Insulin I 125: D04544
+            Insulin I 131: D04545
+            Insulin aspart: D04475
+            Insulin degludec: D09727
+            Insulin detemir: D04539
+            Insulin glargine: D03250
+            Insulin glulisine: D04540
+            Insulin human zinc: D04542
+            Insulin human zinc, extended: D04543
+            Insulin human, isophane: D04541
+            Insulin injection, biphasic isophane: D08080
+            Insulin lispro: D04477
+            Insulin peglispro: D10473
+            Insulin zinc: D04551
+            Insulin zinc, extended: D04549
+            Insulin zinc, prompt: D04550
+            Insulin, dalanated: D04546
+            Insulin, isophane: D04547
+            Proinsulin human: D05622
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3643 (INSR)
+               04015 Rap1 signaling pathway
+                3643 (INSR)
+               04066 HIF-1 signaling pathway
+                3643 (INSR)
+               04068 FoxO signaling pathway
+                3643 (INSR)
+               04072 Phospholipase D signaling pathway
+                3643 (INSR)
+               04022 cGMP - PKG signaling pathway
+                3643 (INSR)
+               04151 PI3K-Akt signaling pathway
+                3643 (INSR)
+               04152 AMPK signaling pathway
+                3643 (INSR)
+               04150 mTOR signaling pathway
+                3643 (INSR)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                3643 (INSR)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                3643 (INSR)
+               04923 Regulation of lipolysis in adipocyte
+                3643 (INSR)
+               04913 Ovarian Steroidogenesis
+                3643 (INSR)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                3643 (INSR)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                3643 (INSR)
+               04213 Longevity regulating pathway - multiple species
+                3643 (INSR)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                3643 (INSR)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                3643 (INSR)
+               04931 Insulin resistance
+                3643 (INSR)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 3643 (INSR)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              InsR family [OT]
+               3643 (INSR)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class II (Insulin receptor family)
+               3643 (INSR)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class II (Insulin receptor family)
+               3643 (INSR)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3643 (INSR)
+POSITION    19p13.2
+MOTIF       Pfam: Pkinase_Tyr Recep_L_domain Pkinase Furin-like fn3 Kinase-like B2 DUF4476
+DBLINKS     NCBI-GeneID: 3643
+            NCBI-ProteinID: NP_000199
+            OMIM: 147670
+            HGNC: 6091
+            Ensembl: ENSG00000171105
+            Vega: OTTHUMG00000181992
+            Pharos: P06213(Tclin)
+            UniProt: P06213
+STRUCTURE   PDB: 3BU3 5HHW 4IBM 1P14 1IR3 3BU6 3EKK 3BU5 1IRK 3EKN 5E1S
+                 4XLV 2B4S 2HR7 1I44 3ETA 1RQQ 1GAG 4XSS 4XST 2AUH 2Z8C
+                 5J3H 4ZXB 4OGA 3W11 3W12 3W13 5KQV 2MFR
+AASEQ       1382
+            MATGGRRGAAAAPLLVAVAALLLGAAGHLYPGEVCPGMDIRNNLTRLHELENCSVIEGHL
+            QILLMFKTRPEDFRDLSFPKLIMITDYLLLFRVYGLESLKDLFPNLTVIRGSRLFFNYAL
+            VIFEMVHLKELGLYNLMNITRGSVRIEKNNELCYLATIDWSRILDSVEDNYIVLNKDDNE
+            ECGDICPGTAKGKTNCPATVINGQFVERCWTHSHCQKVCPTICKSHGCTAEGLCCHSECL
+            GNCSQPDDPTKCVACRNFYLDGRCVETCPPPYYHFQDWRCVNFSFCQDLHHKCKNSRRQG
+            CHQYVIHNNKCIPECPSGYTMNSSNLLCTPCLGPCPKVCHLLEGEKTIDSVTSAQELRGC
+            TVINGSLIINIRGGNNLAAELEANLGLIEEISGYLKIRRSYALVSLSFFRKLRLIRGETL
+            EIGNYSFYALDNQNLRQLWDWSKHNLTITQGKLFFHYNPKLCLSEIHKMEEVSGTKGRQE
+            RNDIALKTNGDQASCENELLKFSYIRTSFDKILLRWEPYWPPDFRDLLGFMLFYKEAPYQ
+            NVTEFDGQDACGSNSWTVVDIDPPLRSNDPKSQNHPGWLMRGLKPWTQYAIFVKTLVTFS
+            DERRTYGAKSDIIYVQTDATNPSVPLDPISVSNSSSQIILKWKPPSDPNGNITHYLVFWE
+            RQAEDSELFELDYCLKGLKLPSRTWSPPFESEDSQKHNQSEYEDSAGECCSCPKTDSQIL
+            KELEESSFRKTFEDYLHNVVFVPRKTSSGTGAEDPRPSRKRRSLGDVGNVTVAVPTVAAF
+            PNTSSTSVPTSPEEHRPFEKVVNKESLVISGLRHFTGYRIELQACNQDTPEERCSVAAYV
+            SARTMPEAKADDIVGPVTHEIFENNVVHLMWQEPKEPNGLIVLYEVSYRRYGDEELHLCV
+            SRKHFALERGCRLRGLSPGNYSVRIRATSLAGNGSWTEPTYFYVTDYLDVPSNIAKIIIG
+            PLIFVFLFSVVIGSIYLFLRKRQPDGPLGPLYASSNPEYLSASDVFPCSVYVPDEWEVSR
+            EKITLLRELGQGSFGMVYEGNARDIIKGEAETRVAVKTVNESASLRERIEFLNEASVMKG
+            FTCHHVVRLLGVVSKGQPTLVVMELMAHGDLKSYLRSLRPEAENNPGRPPPTLQEMIQMA
+            AEIADGMAYLNAKKFVHRDLAARNCMVAHDFTVKIGDFGMTRDIYETDYYRKGGKGLLPV
+            RWMAPESLKDGVFTTSSDMWSFGVVLWEITSLAEQPYQGLSNEQVLKFVMDGGYLDQPDN
+            CPERVTDLMRMCWQFNPKMRPTFLEIVNLLKDDLHPSFPEVSFFHSEENKAPESEELEME
+            FEDMENVPLDRSSHCQREEAGGRDGGSSLGFKRSYEEHIPYTHMNGGKKNGRILTLPRSN
+            PS
+NTSEQ       4149
+            atggccaccgggggccggcggggggcggcggccgcgccgctgctggtggcggtggccgcg
+            ctgctactgggcgccgcgggccacctgtaccccggagaggtgtgtcccggcatggatatc
+            cggaacaacctcactaggttgcatgagctggagaattgctctgtcatcgaaggacacttg
+            cagatactcttgatgttcaaaacgaggcccgaagatttccgagacctcagtttccccaaa
+            ctcatcatgatcactgattacttgctgctcttccgggtctatgggctcgagagcctgaag
+            gacctgttccccaacctcacggtcatccggggatcacgactgttctttaactacgcgctg
+            gtcatcttcgagatggttcacctcaaggaactcggcctctacaacctgatgaacatcacc
+            cggggttctgtccgcatcgagaagaacaatgagctctgttacttggccactatcgactgg
+            tcccgtatcctggattccgtggaggataattacatcgtgttgaacaaagatgacaacgag
+            gagtgtggagacatctgtccgggtaccgcgaagggcaagaccaactgccccgccaccgtc
+            atcaacgggcagtttgtcgaacgatgttggactcatagtcactgccagaaagtttgcccg
+            accatctgtaagtcacacggctgcaccgccgaaggcctctgttgccacagcgagtgcctg
+            ggcaactgttctcagcccgacgaccccaccaagtgcgtggcctgccgcaacttctacctg
+            gacggcaggtgtgtggagacctgcccgcccccgtactaccacttccaggactggcgctgt
+            gtgaacttcagcttctgccaggacctgcaccacaaatgcaagaactcgcggaggcagggc
+            tgccaccagtacgtcattcacaacaacaagtgcatccctgagtgtccctccgggtacacg
+            atgaattccagcaacttgctgtgcaccccatgcctgggtccctgtcccaaggtgtgccac
+            ctcctagaaggcgagaagaccatcgactcggtgacgtctgcccaggagctccgaggatgc
+            accgtcatcaacgggagtctgatcatcaacattcgaggaggcaacaatctggcagctgag
+            ctagaagccaacctcggcctcattgaagaaatttcagggtatctaaaaatccgccgatcc
+            tacgctctggtgtcactttccttcttccggaagttacgtctgattcgaggagagaccttg
+            gaaattgggaactactccttctatgccttggacaaccagaacctaaggcagctctgggac
+            tggagcaaacacaacctcaccatcactcaggggaaactcttcttccactataaccccaaa
+            ctctgcttgtcagaaatccacaagatggaagaagtttcaggaaccaaggggcgccaggag
+            agaaacgacattgccctgaagaccaatggggaccaggcatcctgtgaaaatgagttactt
+            aaattttcttacattcggacatcttttgacaagatcttgctgagatgggagccgtactgg
+            ccccccgacttccgagacctcttggggttcatgctgttctacaaagaggccccttatcag
+            aatgtgacggagttcgacgggcaggatgcgtgtggttccaacagttggacggtggtagac
+            attgacccacccctgaggtccaacgaccccaaatcacagaaccacccagggtggctgatg
+            cggggtctcaagccctggacccagtatgccatctttgtgaagaccctggtcaccttttcg
+            gatgaacgccggacctatggggccaagagtgacatcatttatgtccagacagatgccacc
+            aacccctctgtgcccctggatccaatctcagtgtctaactcatcatcccagattattctg
+            aagtggaaaccaccctccgaccccaatggcaacatcacccactacctggttttctgggag
+            aggcaggcggaagacagtgagctgttcgagctggattattgcctcaaagggctgaagctg
+            ccctcgaggacctggtctccaccattcgagtctgaagattctcagaagcacaaccagagt
+            gagtatgaggattcggccggcgaatgctgctcctgtccaaagacagactctcagatcctg
+            aaggagctggaggagtcctcgtttaggaagacgtttgaggattacctgcacaacgtggtt
+            ttcgtccccagaaaaacctcttcaggcactggtgccgaggaccctaggccatctcggaaa
+            cgcaggtcccttggcgatgttgggaatgtgacggtggccgtgcccacggtggcagctttc
+            cccaacacttcctcgaccagcgtgcccacgagtccggaggagcacaggccttttgagaag
+            gtggtgaacaaggagtcgctggtcatctccggcttgcgacacttcacgggctatcgcatc
+            gagctgcaggcttgcaaccaggacacccctgaggaacggtgcagtgtggcagcctacgtc
+            agtgcgaggaccatgcctgaagccaaggctgatgacattgttggccctgtgacgcatgaa
+            atctttgagaacaacgtcgtccacttgatgtggcaggagccgaaggagcccaatggtctg
+            atcgtgctgtatgaagtgagttatcggcgatatggtgatgaggagctgcatctctgcgtc
+            tcccgcaagcacttcgctctggaacggggctgcaggctgcgtgggctgtcaccggggaac
+            tacagcgtgcgaatccgggccacctcccttgcgggcaacggctcttggacggaacccacc
+            tatttctacgtgacagactatttagacgtcccgtcaaatattgcaaaaattatcatcggc
+            cccctcatctttgtctttctcttcagtgttgtgattggaagtatttatctattcctgaga
+            aagaggcagccagatgggccgctgggaccgctttacgcttcttcaaaccctgagtatctc
+            agtgccagtgatgtgtttccatgctctgtgtacgtgccggacgagtgggaggtgtctcga
+            gagaagatcaccctccttcgagagctggggcagggctccttcggcatggtgtatgagggc
+            aatgccagggacatcatcaagggtgaggcagagacccgcgtggcggtgaagacggtcaac
+            gagtcagccagtctccgagagcggattgagttcctcaatgaggcctcggtcatgaagggc
+            ttcacctgccatcacgtggtgcgcctcctgggagtggtgtccaagggccagcccacgctg
+            gtggtgatggagctgatggctcacggagacctgaagagctacctccgttctctgcggcca
+            gaggctgagaataatcctggccgccctccccctacccttcaagagatgattcagatggcg
+            gcagagattgctgacgggatggcctacctgaacgccaagaagtttgtgcatcgggacctg
+            gcagcgagaaactgcatggtcgcccatgattttactgtcaaaattggagactttggaatg
+            accagagacatctatgaaacggattactaccggaaagggggcaagggtctgctccctgta
+            cggtggatggcaccggagtccctgaaggatggggtcttcaccacttcttctgacatgtgg
+            tcctttggcgtggtcctttgggaaatcaccagcttggcagaacagccttaccaaggcctg
+            tctaatgaacaggtgttgaaatttgtcatggatggagggtatctggatcaacccgacaac
+            tgtccagagagagtcactgacctcatgcgcatgtgctggcaattcaaccccaagatgagg
+            ccaaccttcctggagattgtcaacctgctcaaggacgacctgcaccccagctttccagag
+            gtgtcgttcttccacagcgaggagaacaaggctcccgagagtgaggagctggagatggag
+            tttgaggacatggagaatgtgcccctggaccgttcctcgcactgtcagagggaggaggcg
+            gggggccgggatggagggtcctcgctgggtttcaagcggagctacgaggaacacatccct
+            tacacacacatgaacggaggcaagaaaaacgggcggattctgaccttgcctcggtccaat
+            ccttcctaa
+///

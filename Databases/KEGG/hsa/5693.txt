@@ -1,0 +1,66 @@
+ENTRY       5693              CDS       T01001
+NAME        PSMB5, LMPX, MB1, X
+DEFINITION  (RefSeq) proteasome subunit beta 5
+ORTHOLOGY   K02737  20S proteasome subunit beta 5 [EC:3.4.25.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+MODULE      hsa_M00340  Proteasome, 20S core particle
+DRUG_TARGET Bortezomib: D03150
+            Carfilzomib: D08880
+            Delanzomib: D10110
+            Ixazomib (DG01269): D10130 D10131
+            Oprozomib: D10318
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5693 (PSMB5)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.25  Threonine endopeptidases
+                3.4.25.1  proteasome endopeptidase complex
+                 5693 (PSMB5)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T1: proteasome family
+               5693 (PSMB5)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Core particles (20S proteasome)
+               beta type subunits
+                5693 (PSMB5)
+POSITION    14q11.2
+MOTIF       Pfam: Proteasome DUF3991
+DBLINKS     NCBI-GeneID: 5693
+            NCBI-ProteinID: NP_002788
+            OMIM: 600306
+            HGNC: 9542
+            Ensembl: ENSG00000100804
+            Vega: OTTHUMG00000028713
+            Pharos: P28074(Tclin)
+            UniProt: P28074
+STRUCTURE   PDB: 5LE5 5LEY 5LF4 5LF1 5LF7 5LF6 5LF3 5LEZ 5LEX 5LF0 4R3O
+                 4R67 5A0Q 5M32 5T0G 5GJQ 5T0H 5LN3 5T0I 5T0J
+AASEQ       263
+            MALASVLERPLPVNQRGFFGLGGRADLLDLGPGSLSDGLSLAAPGWGVPEEPGIEMLHGT
+            TTLAFKFRHGVIVAADSRATAGAYIASQTVKKVIEINPYLLGTMAGGAADCSFWERLLAR
+            QCRIYELRNKERISVAAASKLLANMVYQYKGMGLSMGTMICGWDKRGPGLYYVDSEGNRI
+            SGATFSVGSGSVYAYGVMDRGYSYDLEVEQAYDLARRAIYQATYRDAYSGGAVNLYHVRE
+            DGWIRVSSDNVADLHEKYSGSTP
+NTSEQ       792
+            atggcgcttgccagcgtgttggagagaccgctaccggtgaaccagcgcgggtttttcgga
+            cttgggggtcgtgcagatctgctggatctaggtccagggagtctcagtgatggtctgagc
+            ctggccgcgccaggctggggtgtcccagaagagccaggaatcgaaatgcttcatggaaca
+            accaccctggccttcaagttccgccatggagtcatagttgcagctgactccagggctaca
+            gcgggtgcttacattgcctcccagacggtgaagaaggtgatagagatcaacccatacctg
+            ctaggcaccatggctgggggcgcagcggattgcagcttctgggaacggctgttggctcgg
+            caatgtcgaatctatgagcttcgaaataaggaacgcatctctgtagcagctgcctccaaa
+            ctgcttgccaacatggtgtatcagtacaaaggcatggggctgtccatgggcaccatgatc
+            tgtggctgggataagagaggccctggcctctactacgtggacagtgaagggaaccggatt
+            tcaggggccaccttctctgtaggttctggctctgtgtatgcatatggggtcatggatcgg
+            ggctattcctatgacctggaagtggagcaggcctatgatctggcccgtcgagccatctac
+            caagccacctacagagatgcctactcaggaggtgcagtcaacctctaccacgtgcgggag
+            gatggctggatccgagtctccagtgacaatgtggctgatctacatgagaagtatagtggc
+            tctaccccctga
+///

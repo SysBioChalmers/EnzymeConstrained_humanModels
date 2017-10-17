@@ -1,0 +1,80 @@
+ENTRY       9533              CDS       T01001
+NAME        POLR1C, AC40, HLD11, RPA39, RPA40, RPA5, RPAC1, RPC40, TCS3
+DEFINITION  (RefSeq) RNA polymerase I subunit C
+ORTHOLOGY   K03027  DNA-directed RNA polymerases I and III subunit RPAC1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+            hsa_M00182  RNA polymerase I, eukaryotes
+DISEASE     H00610  Treacher Collins syndrome
+            H00679  Hypomyelinating leukodystrophy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                9533 (POLR1C)
+               00240 Pyrimidine metabolism
+                9533 (POLR1C)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                9533 (POLR1C)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                9533 (POLR1C)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                9533 (POLR1C)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Core subunits
+                 9533 (POLR1C)
+              RNA polymerase I system
+               RNA polymerase I
+                 9533 (POLR1C)
+POSITION    6p21.1
+MOTIF       Pfam: RNA_pol_A_bac RNA_pol_L
+DBLINKS     NCBI-GeneID: 9533
+            NCBI-ProteinID: NP_976035
+            OMIM: 610060
+            HGNC: 20194
+            Ensembl: ENSG00000171453
+            Vega: OTTHUMG00000014739
+            Pharos: O15160(Tbio)
+            UniProt: O15160
+AASEQ       346
+            MAASQAVEEMRSRVVLGEFGVRNVHTTDFPGNYSGYDDAWDQDRFEKNFRVDVVHMDENS
+            LEFDMVGIDAAIANAFRRILLAEVPTMAVEKVLVYNNTSIVQDEILAHRLGLIPIHADPR
+            LFEYRNQGDEEGTEIDTLQFRLQVRCTRNPHAAKDSSDPNELYVNHKVYTRHMTWIPLGN
+            QADLFPEGTIRPVHDDILIAQLRPGQEIDLLMHCVKGIGKDHAKFSPVATASYRLLPDIT
+            LLEPVEGEAAEELSRCFSPGVIEVQEVQGKKVARVANPRLDTFSREIFRNEKLKKVVRLA
+            RVRDHYIFSVESTGVLPPDVLVSEAIKVLMGKCRRFLDELDAVQMD
+NTSEQ       1041
+            atggcggcttctcaggcggtggaggaaatgcggagccgcgtggttctgggggagtttggg
+            gttcgcaatgtccatactactgactttcccggtaactattccggttatgatgatgcctgg
+            gaccaggaccgcttcgagaagaatttccgtgtggatgtagtacacatggatgaaaactca
+            ctggagtttgacatggtgggaattgacgcagccattgccaatgcttttcgacgaattctg
+            ctagctgaggtgccaactatggctgtggagaaggtcctggtgtacaataatacatccatt
+            gttcaggatgagattcttgctcaccgtctggggctcattcccattcatgctgatccccgt
+            ctttttgagtatcggaaccaaggagatgaagaaggcacagagatagatactctacagttt
+            cgtctccaggtcagatgcactcggaacccccatgctgctaaagattcctctgaccccaac
+            gaactgtacgtgaaccacaaagtgtataccaggcatatgacatggatccccctggggaac
+            caggctgatctctttccagagggcactatccgaccagtgcatgatgatatcctcatcgct
+            cagctgcggcctggccaagaaattgacctgctcatgcactgtgtcaagggcattggcaaa
+            gatcatgccaagttttcaccagtggcaacagccagttacaggctcctgccagacatcacc
+            ctgcttgagcccgtggaaggggaggcagctgaggagttgagcaggtgcttctcacctggt
+            gttattgaggtgcaggaagtccaaggtaaaaaggtggccagagttgccaacccccggctg
+            gataccttcagcagagaaatcttccggaatgagaagctaaagaaggttgtgaggcttgcc
+            cgggttcgagatcattatatcttctctgttgagtcaacgggggtgttgccaccagatgtg
+            ctggtgagtgaagccatcaaagtactgatggggaagtgccggcgcttcttggatgaacta
+            gatgcggttcagatggactga
+///

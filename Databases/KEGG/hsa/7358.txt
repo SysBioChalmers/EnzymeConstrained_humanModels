@@ -1,0 +1,75 @@
+ENTRY       7358              CDS       T01001
+NAME        UGDH, GDH, UDP-GlcDH, UDPGDH, UGD
+DEFINITION  (RefSeq) UDP-glucose 6-dehydrogenase
+ORTHOLOGY   K00012  UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+            hsa_M00361  Nucleotide sugar biosynthesis, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                7358 (UGDH)
+               00053 Ascorbate and aldarate metabolism
+                7358 (UGDH)
+               00520 Amino sugar and nucleotide sugar metabolism
+                7358 (UGDH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.22  UDP-glucose 6-dehydrogenase
+                 7358 (UGDH)
+POSITION    4p14
+MOTIF       Pfam: UDPG_MGDP_dh_N UDPG_MGDP_dh_C UDPG_MGDP_dh 3HCDH_N Sacchrp_dh_NADP
+DBLINKS     NCBI-GeneID: 7358
+            NCBI-ProteinID: NP_003350
+            OMIM: 603370
+            HGNC: 12525
+            Ensembl: ENSG00000109814
+            Vega: OTTHUMG00000099371
+            Pharos: O60701(Tbio)
+            UniProt: O60701
+STRUCTURE   PDB: 5VR8 2Q3E 5TJH 4EDF 2QG4 3TF5 3KHU 3ITK 3PTZ 5W4X 4QEJ
+                 4RJT 3TDK 3PRJ
+AASEQ       494
+            MFEIKKICCIGAGYVGGPTCSVIAHMCPEIRVTVVDVNESRINAWNSPTLPIYEPGLKEV
+            VESCRGKNLFFSTNIDDAIKEADLVFISVNTPTKTYGMGKGRAADLKYIEACARRIVQNS
+            NGYKIVTEKSTVPVRAAESIRRIFDANTKPNLNLQVLSNPEFLAEGTAIKDLKNPDRVLI
+            GGDETPEGQRAVQALCAVYEHWVPREKILTTNTWSSELSKLAANAFLAQRISSINSISAL
+            CEATGADVEEVATAIGMDQRIGNKFLKASVGFGGSCFQKDVLNLVYLCEALNLPEVARYW
+            QQVIDMNDYQRRRFASRIIDSLFNTVTDKKIAILGFAFKKDTGDTRESSSIYISKYLMDE
+            GAHLHIYDPKVPREQIVVDLSHPGVSEDDQVSRLVTISKDPYEACDGAHAVVICTEWDMF
+            KELDYERIHKKMLKPAFIFDGRRVLDGLHNELQTIGFQIETIGKKVSSKRIPYAPSGEIP
+            KFSLQDPPNKKPKV
+NTSEQ       1485
+            atgtttgaaattaagaagatctgttgcatcggtgcaggctatgttggaggacccacatgt
+            agtgtcattgctcatatgtgtcctgaaatcagggtaacggttgttgatgtcaatgaatca
+            agaatcaatgcgtggaattctcctacacttcctatttatgagccaggactaaaagaagtg
+            gtagaatcctgtcgaggaaaaaatctttttttttctaccaatattgatgatgccatcaaa
+            gaagctgatcttgtatttatttctgtgaatactccaacaaaaacctatggaatggggaaa
+            ggccgggcagcagatctgaagtatattgaagcttgtgctagacgcattgtgcaaaactca
+            aatgggtacaaaattgtgactgagaaaagcacagttccagtgcgggcagcagaaagtatc
+            cgtcgcatatttgatgcaaacacaaaacccaacttgaatttacaggtgctgtccaaccct
+            gagtttctggcagagggaacagccatcaaggacctaaagaacccagacagagtactgatt
+            ggaggggatgaaactccagagggccagagagctgtgcaggccctgtgtgctgtatatgag
+            cactgggttcccagagaaaagatcctcaccactaatacttggtcttcagagctttccaaa
+            ctggcagcaaatgcttttcttgcccagagaataagcagcattaactccataagtgctctg
+            tgtgaagcaacaggagctgatgtagaagaggtagcaacagcgattggaatggaccagaga
+            attggaaacaagtttctaaaagccagtgttgggtttggtgggagctgtttccaaaaggat
+            gttctgaatttggtttatctctgtgaggctctgaatttgccagaagtagctcgttattgg
+            cagcaggtcatagacatgaatgactaccagaggaggaggtttgcttcccggatcatagat
+            agtctgtttaatacagtaactgataagaagatagctattttgggatttgcattcaaaaag
+            gacactggtgatacaagagaatcttctagtatatatattagcaaatatttgatggatgaa
+            ggtgcacatctacatatatatgatccaaaagtacctagggaacaaatagttgtggatctt
+            tctcatccaggtgtttcagaggatgaccaagtgtcccggctcgtgaccatttccaaggat
+            ccatatgaagcatgtgatggtgcccatgctgttgttatttgcactgagtgggacatgttt
+            aaggaattggattatgaacgcattcataaaaaaatgctaaagccagcctttatcttcgat
+            ggacggcgtgtcctggatgggctccacaatgaactacaaaccattggcttccagattgaa
+            acaattggcaaaaaggtgtcttcaaagagaattccatatgctccttctggtgaaattccg
+            aagtttagtcttcaagatccacctaacaagaaacctaaagtgtag
+///

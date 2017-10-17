@@ -1,0 +1,75 @@
+ENTRY       4758              CDS       T01001
+NAME        NEU1, NANH, NEU, SIAL1
+DEFINITION  (RefSeq) neuraminidase 1
+ORTHOLOGY   K01186  sialidase-1 [EC:3.2.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00511  Other glycan degradation
+            hsa00600  Sphingolipid metabolism
+            hsa04142  Lysosome
+DISEASE     H00142  Sialidosis
+            H00276  Galactosialidosis
+            H00422  Glycoproteinoses
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                4758 (NEU1)
+              Glycan biosynthesis and metabolism
+               00511 Other glycan degradation
+                4758 (NEU1)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                4758 (NEU1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.18  exo-alpha-sialidase
+                 4758 (NEU1)
+            Bacterial toxins [BR:hsa02042]
+             Toxins that damage the extracellular matrix
+              Hyaluronidases/Collagenases
+               4758 (NEU1)
+POSITION    6p21.33
+MOTIF       Pfam: BNR_2 BNR_3
+DBLINKS     NCBI-GeneID: 4758
+            NCBI-ProteinID: NP_000425
+            OMIM: 608272
+            HGNC: 7758
+            Ensembl: ENSG00000204386
+            Vega: OTTHUMG00000031284
+            Pharos: Q99519(Tbio)
+            UniProt: Q99519 Q5JQI0
+AASEQ       415
+            MTGERPSTALPDRRWGPRILGFWGGCRVWVFAAIFLLLSLAASWSKAENDFGLVQPLVTM
+            EQLLWVSGRQIGSVDTFRIPLITATPRGTLLAFAEARKMSSSDEGAKFIALRRSMDQGST
+            WSPTAFIVNDGDVPDGLNLGAVVSDVETGVVFLFYSLCAHKAGCQVASTMLVWSKDDGVS
+            WSTPRNLSLDIGTEVFAPGPGSGIQKQREPRKGRLIVCGHGTLERDGVFCLLSDDHGASW
+            RYGSGVSGIPYGQPKQENDFNPDECQPYELPDGSVVINARNQNNYHCHCRIVLRSYDACD
+            TLRPRDVTFDPELVDPVVAAGAVVTSSGIVFFSNPAHPEFRVNLTLRWSFSNGTSWRKET
+            VQLWPGPSGYSSLATLEGSMDGEEQAPQLYVLYEKGRNHYTESISVAKISVYGTL
+NTSEQ       1248
+            atgactggggagcgacccagcacggcgctcccggacagacgctgggggccgcggattctg
+            ggcttctggggaggctgtagggtttgggtgtttgccgcgatcttcctgctgctgtctctg
+            gcagcctcctggtccaaggctgagaacgacttcggtctggtgcagccgctggtgaccatg
+            gagcaactgctgtgggtgagcgggagacagatcggctcagtggacaccttccgcatcccg
+            ctcatcacagccactccgcggggcactcttctcgcctttgctgaggcgaggaaaatgtcc
+            tcatccgatgagggggccaagttcatcgccctgcggaggtccatggaccagggcagcaca
+            tggtctcctacagcgttcattgtcaatgatggggatgtccccgatgggctgaaccttggg
+            gcagtagtgagcgatgttgagacaggagtagtatttcttttctactccctttgtgctcac
+            aaggccggctgccaggtggcctctaccatgttggtatggagcaaggatgatggtgtttcc
+            tggagcacaccccggaatctctccctggatattggcactgaagtgtttgcccctggaccg
+            ggctctggtattcagaaacagcgggagccacggaagggccgcctcatcgtgtgtggccat
+            gggacgctggagcgggacggagtcttctgtctcctcagcgatgatcatggtgcctcctgg
+            cgctacggaagtggggtcagcggcatcccctacggtcagcccaagcaggaaaatgatttc
+            aatcctgatgaatgccagccctatgagctcccagatggctcagtcgtcatcaatgcccga
+            aaccagaacaactaccactgccactgccgaattgtcctccgcagctatgatgcctgtgat
+            acactaaggccccgtgatgtgaccttcgaccctgagctcgtggaccctgtggtagctgca
+            ggagctgtagtcaccagctccggcattgtcttcttctccaacccagcacatccagagttc
+            cgagtgaacctgaccctgcgatggagcttcagcaatggtacctcatggcggaaagagaca
+            gtccagctatggccaggccccagtggctattcatccctggcaaccctggagggcagcatg
+            gatggagaggagcaggccccccagctctacgtcctgtatgagaaaggccggaaccactac
+            acagagagcatctccgtggccaaaatcagtgtctatgggacactctga
+///

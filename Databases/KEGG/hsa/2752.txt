@@ -1,0 +1,92 @@
+ENTRY       2752              CDS       T01001
+NAME        GLUL, GLNS, GS, PIG43, PIG59
+DEFINITION  (RefSeq) glutamate-ammonia ligase
+ORTHOLOGY   K01915  glutamine synthetase [EC:6.3.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00910  Nitrogen metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+            hsa04217  Necroptosis
+            hsa04724  Glutamatergic synapse
+            hsa04727  GABAergic synapse
+DISEASE     H00923  Congenital systemic glutamine deficiency (CSGD)
+            H01400  Secondary hyperammonemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                2752 (GLUL)
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                2752 (GLUL)
+              Energy metabolism
+               00910 Nitrogen metabolism
+                2752 (GLUL)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2752 (GLUL)
+               00220 Arginine biosynthesis
+                2752 (GLUL)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                2752 (GLUL)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2752 (GLUL)
+               04727 GABAergic synapse
+                2752 (GLUL)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.1  Acid-D-ammonia (or amine) ligases (amide synthases)
+                6.3.1.2  glutamine synthetase
+                 2752 (GLUL)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               2752 (GLUL)
+POSITION    1q25.3
+MOTIF       Pfam: Gln-synt_C Gln-synt_N
+DBLINKS     NCBI-GeneID: 2752
+            NCBI-ProteinID: NP_001028216
+            OMIM: 138290
+            HGNC: 4341
+            Ensembl: ENSG00000135821
+            Vega: OTTHUMG00000037407
+            Pharos: P15104(Tchem)
+            UniProt: P15104 A8YXX4
+STRUCTURE   PDB: 2OJW 2QC8
+AASEQ       373
+            MTTSASSHLNKGIKQVYMSLPQGEKVQAMYIWIDGTGEGLRCKTRTLDSEPKCVEELPEW
+            NFDGSSTLQSEGSNSDMYLVPAAMFRDPFRKDPNKLVLCEVFKYNRRPAETNLRHTCKRI
+            MDMVSNQHPWFGMEQEYTLMGTDGHPFGWPSNGFPGPQGPYYCGVGADRAYGRDIVEAHY
+            RACLYAGVKIAGTNAEVMPAQWEFQIGPCEGISMGDHLWVARFILHRVCEDFGVIATFDP
+            KPIPGNWNGAGCHTNFSTKAMREENGLKYIEEAIEKLSKRHQYHIRAYDPKGGLDNARRL
+            TGFHETSNINDFSAGVANRSASIRIPRTVGQEKKGYFEDRRPSANCDPFSVTEALIRTCL
+            LNETGDEPFQYKN
+NTSEQ       1122
+            atgaccacctcagcaagttcccacttaaataaaggcatcaagcaggtgtacatgtccctg
+            cctcagggtgagaaagtccaggccatgtatatctggatcgatggtactggagaaggactg
+            cgctgcaagacccggaccctggacagtgagcccaagtgtgtggaagagttgcctgagtgg
+            aatttcgatggctctagtactttacagtctgagggttccaacagtgacatgtatctcgtg
+            cctgctgccatgtttcgggaccccttccgtaaggaccctaacaagctggtgttatgtgaa
+            gttttcaagtacaatcgaaggcctgcagagaccaatttgaggcacacctgtaaacggata
+            atggacatggtgagcaaccagcacccctggtttggcatggagcaggagtataccctcatg
+            gggacagatgggcacccctttggttggccttccaacggcttcccagggccccagggtcca
+            tattactgtggtgtgggagcagacagagcctatggcagggacatcgtggaggcccattac
+            cgggcctgcttgtatgctggagtcaagattgcggggactaatgccgaggtcatgcctgcc
+            cagtgggaatttcagattggaccttgtgaaggaatcagcatgggagatcatctctgggtg
+            gcccgtttcatcttgcatcgtgtgtgtgaagactttggagtgatagcaacctttgatcct
+            aagcccattcctgggaactggaatggtgcaggctgccataccaacttcagcaccaaggcc
+            atgcgggaggagaatggtctgaagtacatcgaggaggccattgagaaactaagcaagcgg
+            caccagtaccacatccgtgcctatgatcccaagggaggcctggacaatgcccgacgtcta
+            actggattccatgaaacctccaacatcaacgacttttctgctggtgtagccaatcgtagc
+            gccagcatacgcattccccggactgttggccaggagaagaagggttactttgaagatcgt
+            cgcccctctgccaactgcgaccccttttcggtgacagaagccctcatccgcacgtgtctt
+            ctcaatgaaaccggcgatgagcccttccagtacaaaaattaa
+///

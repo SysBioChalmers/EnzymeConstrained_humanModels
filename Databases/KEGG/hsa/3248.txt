@@ -1,0 +1,56 @@
+ENTRY       3248              CDS       T01001
+NAME        HPGD, 15-PGDH, PGDH, PGDH1, PHOAR1, SDR36C1
+DEFINITION  (RefSeq) hydroxyprostaglandin dehydrogenase 15-(NAD)
+ORTHOLOGY   K00069  15-hydroxyprostaglandin dehydrogenase (NAD) [EC:1.1.1.141]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05202  Transcriptional misregulation in cancer
+DISEASE     H00457  Primary hypertrophic osteoarthropathy (PHO)
+            H01246  Isolated congenital nail clubbing (ICNC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                3248 (HPGD)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.141  15-hydroxyprostaglandin dehydrogenase (NAD+)
+                 3248 (HPGD)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               3248 (HPGD)
+POSITION    4q34.1
+MOTIF       Pfam: adh_short adh_short_C2 KR Epimerase GDP_Man_Dehyd Lectin_leg-like 3Beta_HSD Polysacc_synt_2
+DBLINKS     NCBI-GeneID: 3248
+            NCBI-ProteinID: NP_000851
+            OMIM: 601688
+            HGNC: 5154
+            Ensembl: ENSG00000164120
+            Vega: OTTHUMG00000160772
+            Pharos: P15428(Tchem)
+            UniProt: P15428
+STRUCTURE   PDB: 2GDZ
+AASEQ       266
+            MHVNGKVALVTGAAQGIGRAFAEALLLKGAKVALVDWNLEAGVQCKAALDEQFEPQKTLF
+            IQCDVADQQQLRDTFRKVVDHFGRLDILVNNAGVNNEKNWEKTLQINLVSVISGTYLGLD
+            YMSKQNGGEGGIIINMSSLAGLMPVAQQPVYCASKHGIVGFTRSAALAANLMNSGVRLNA
+            ICPGFVNTAILESIEKEENMGQYIEYKDHIKDMIKYYGILDPPLIANGLITLIEDDALNG
+            AIMKITTSKGIHFQDYDTTPFQAKTQ
+NTSEQ       801
+            atgcacgtgaacggcaaagtggcgctggtgaccggcgcggctcagggcataggcagagcc
+            tttgcagaggcgctgctgcttaagggcgccaaggtagcgctggtggattggaatcttgaa
+            gcaggtgtacagtgtaaagctgccctggatgagcagtttgaacctcagaagactctgttc
+            atccagtgcgatgtggctgaccagcaacaactgagagacacttttagaaaagttgtagac
+            cactttggaagactggacattttggtcaataatgctggagtgaataatgagaaaaactgg
+            gaaaaaactctgcaaattaatttggtttctgttatcagtggaacctatcttggtttggat
+            tacatgagtaagcaaaatggaggtgaaggcggcatcattatcaatatgtcatctttagca
+            ggactcatgcccgttgcacagcagccggtttattgtgcttcaaagcatggcatagttgga
+            ttcacacgctcagcagcgttggctgctaatcttatgaacagtggtgtgagactgaatgcc
+            atttgtccaggctttgttaacacagccatccttgaatcaattgaaaaagaagaaaacatg
+            ggacaatatatagaatataaggatcatatcaaggatatgattaaatactatggaattttg
+            gacccaccattgattgccaatggattgataacactcattgaagatgatgctttaaatggt
+            gctattatgaagatcacaacttctaagggaattcattttcaagactatgatacaactcca
+            tttcaagcaaaaacccaatga
+///

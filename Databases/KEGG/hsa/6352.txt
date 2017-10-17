@@ -1,0 +1,83 @@
+ENTRY       6352              CDS       T01001
+NAME        CCL5, D17S136E, RANTES, SCYA5, SIS-delta, SISd, TCP228, eoCP
+DEFINITION  (RefSeq) C-C motif chemokine ligand 5
+ORTHOLOGY   K12499  C-C motif chemokine 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04062  Chemokine signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04668  TNF signaling pathway
+            hsa05020  Prion diseases
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+            hsa05323  Rheumatoid arthritis
+DISEASE     H01358  Atopic dermatitis
+            H01360  Allergic rhinitis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                6352 (CCL5)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                6352 (CCL5)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                6352 (CCL5)
+               04621 NOD-like receptor signaling pathway
+                6352 (CCL5)
+               04623 Cytosolic DNA-sensing pathway
+                6352 (CCL5)
+               04062 Chemokine signaling pathway
+                6352 (CCL5)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                6352 (CCL5)
+              Neurodegenerative diseases
+               05020 Prion diseases
+                6352 (CCL5)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                6352 (CCL5)
+               05164 Influenza A
+                6352 (CCL5)
+               05168 Herpes simplex infection
+                6352 (CCL5)
+               05142 Chagas disease (American trypanosomiasis)
+                6352 (CCL5)
+            Cytokines [BR:hsa04052]
+             Chemokines
+              CC chemokine family
+               6352 (CCL5)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Chemokines	(General comment) Chemokine presentation, transcellular transport, signal transduction
+               6352 (CCL5)
+POSITION    17q12
+MOTIF       Pfam: IL8
+DBLINKS     NCBI-GeneID: 6352
+            NCBI-ProteinID: NP_002976
+            OMIM: 187011
+            HGNC: 10632
+            Ensembl: ENSG00000271503
+            Vega: OTTHUMG00000188396
+            Pharos: P13501(Tchem)
+            UniProt: P13501 D0EI67
+STRUCTURE   PDB: 5COY 1EQT 1U4P 1U4L 1U4M 5UIW 1U4R 5L2U 5DNF 5CMD 2L9H
+                 1HRJ 1RTN 1RTO
+AASEQ       91
+            MKVSAAALAVILIATALCAPASASPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNP
+            AVVFVTRKNRQVCANPEKKWVREYINSLEMS
+NTSEQ       276
+            atgaaggtctccgcggcagccctcgctgtcatcctcattgctactgccctctgcgctcct
+            gcatctgcctccccatattcctcggacaccacaccctgctgctttgcctacattgcccgc
+            ccactgccccgtgcccacatcaaggagtatttctacaccagtggcaagtgctccaaccca
+            gcagtcgtctttgtcacccgaaagaaccgccaagtgtgtgccaacccagagaagaaatgg
+            gttcgggagtacatcaactctttggagatgagctag
+///

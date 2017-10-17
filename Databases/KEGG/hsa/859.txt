@@ -1,0 +1,60 @@
+ENTRY       859               CDS       T01001
+NAME        CAV3, LGMD1C, LQT9, VIP-21, VIP21
+DEFINITION  (RefSeq) caveolin 3
+ORTHOLOGY   K12959  caveolin 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04510  Focal adhesion
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05205  Proteoglycans in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00567  Caveolinopathies
+            H00593  Limb-girdle muscular dystrophy (LGMD)
+            H00720  Long QT syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                859 (CAV3)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                859 (CAV3)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                859 (CAV3)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                859 (CAV3)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                859 (CAV3)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Lipid raft mediated endocytosis
+               Caveolin-mediated endocytosis
+                859 (CAV3)
+POSITION    3p25.3
+MOTIF       Pfam: Caveolin
+DBLINKS     NCBI-GeneID: 859
+            NCBI-ProteinID: NP_001225
+            OMIM: 601253
+            HGNC: 1529
+            Ensembl: ENSG00000182533
+            Vega: OTTHUMG00000090519
+            Pharos: P56539(Tbio)
+            UniProt: P56539 A0A024R2D8
+AASEQ       151
+            MMAEEHTDLEAQIVKDIHCKEIDLVNRDPKNINEDIVKVDFEDVIAEPVGTYSFDGVWKV
+            SYTTFTVSKYWCYRLLSTLLGVPLALLWGFLFACISFCHIWAVVPCIKSYLIEIQCISHI
+            YSLCIRTFCNPLFAALGQVCSSIKVVLRKEV
+NTSEQ       456
+            atgatggcagaagagcacacagatctcgaggcccagatcgtcaaggatatccactgcaag
+            gagattgacctggtgaaccgagaccccaagaacattaacgaggacatagtcaaggtggat
+            tttgaagacgtgatcgcagagcctgtgggcacctacagctttgacggcgtgtggaaggtg
+            agctacaccaccttcactgtctccaagtactggtgctaccgtctgttgtccacgctgctg
+            ggcgtcccactggccctgctctggggcttcctgttcgcctgcatctccttctgccacatc
+            tgggcggtggtgccatgcattaagagctacctgatcgagatccagtgcatcagccacatc
+            tactcactctgcatccgcaccttctgcaacccactcttcgcggccctgggccaggtctgc
+            agcagcatcaaggtggtgctgcggaaggaggtctaa
+///

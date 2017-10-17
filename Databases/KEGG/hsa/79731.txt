@@ -1,0 +1,75 @@
+ENTRY       79731             CDS       T01001
+NAME        NARS2, DFNB94, SLM5, asnRS
+DEFINITION  (RefSeq) asparaginyl-tRNA synthetase 2, mitochondrial (putative)
+ORTHOLOGY   K01893  asparaginyl-tRNA synthetase [EC:6.1.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+DISEASE     H00891  Combined oxidative phosphorylation deficiency (COXPD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                79731 (NARS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.22  asparagine---tRNA ligase
+                 79731 (NARS2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               79731 (NARS2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                79731 (NARS2)
+             Prokaryotic Type
+                79731 (NARS2)
+POSITION    11q14.1
+MOTIF       Pfam: tRNA-synt_2 tRNA_anti-codon tRNA-synt_2d tRNA-synt_2b
+DBLINKS     NCBI-GeneID: 79731
+            NCBI-ProteinID: NP_078954
+            OMIM: 612803
+            HGNC: 26274
+            Ensembl: ENSG00000137513
+            Vega: OTTHUMG00000166702
+            Pharos: Q96I59(Tbio)
+            UniProt: Q96I59
+AASEQ       477
+            MLGVRCLLRSVRFCSSAPFPKHKPSAKLSVRDALGAQNASGERIKIQGWIRSVRSQKEVL
+            FLHVNDGSSLESLQVVADSGLDSRELNFGSSVEVQGQLIKSPSKRQNVELKAEKIKVIGN
+            CDAKDFPIKYKERHPLEYLRQYPHFRCRTNVLGSILRIRSEATAAIHSFFKDSGFVHIHT
+            PIITSNDSEGAGELFQLEPSGKLKVPEENFFNVPAFLTVSGQLHLEVMSGAFTQVFTFGP
+            TFRAENSQSRRHLAEFYMIEAEISFVDSLQDLMQVIEELFKATTMMVLSKCPEDVELCHK
+            FIAPGQKDRLEHMLKNNFLIISYTEAVEILKQASQNFTFTPEWGADLRTEHEKYLVKHCG
+            NIPVFVINYPLTLKPFYMRDNEDGPQHTVAAVDLLVPGVGELFGGGLREERYHFLEERLA
+            RSGLTEVYQWYLDLRRFGSVPHGGFGMGFERYLQCILGVDNIKDVIPFPRFPHSCLL
+NTSEQ       1434
+            atgctgggggtccgctgcctgctgcggtccgtgcgcttctgttcctccgcccccttcccc
+            aagcacaaaccttcagccaaactgagcgtgcgggacgctctcggggctcagaacgcgagt
+            ggggagcgcattaagatccagggatggattcgttctgtccgatcccagaaggaagtcttg
+            ttcctgcatgtaaatgatgggtcatctttggaaagccttcaggttgttgcagattcaggc
+            cttgacagtagagaattaaattttgggagttctgtggaagtacaagggcagctgataaaa
+            agtccatccaaaaggcaaaatgtggaactgaaggcagaaaaaattaaagttattggaaat
+            tgtgatgccaaggatttccccatcaaatataaagagaggcatcctctggagtatctgcga
+            caatatcctcactttaggtgtaggactaacgttctgggttctatattgaggattcgcagt
+            gaagcgacagctgctattcattctttctttaaggacagtggctttgtacatattcatact
+            ccaataatcacatccaatgactctgagggagctggagaactttttcaacttgaaccttca
+            ggcaaacttaaggtacctgaggagaatttcttcaatgttcctgctttcttaactgtctca
+            ggacaacttcatctagaagtgatgtcaggagcttttactcaagtgtttacctttggtccg
+            accttccgagctgaaaattctcagagccggaggcacctggcagagttttatatgatagaa
+            gcagagatttcttttgttgacagccttcaagatcttatgcaggttatagaggaactgttc
+            aaggctacaacaatgatggttctctcaaaatgtcctgaagatgttgaactctgtcacaaa
+            ttcatagcacctggccaaaaggacagattagaacatatgctaaaaaacaactttttaatc
+            atttcttatactgaagcagtggagatcttaaagcaagcatcccagaacttcacctttacc
+            ccagagtggggtgctgacctacggactgaacatgaaaagtacctggtgaagcactgtggc
+            aacatacctgtcttcgttattaattatccattaacactcaagcctttctacatgagggat
+            aatgaagatggccctcagcacacggttgctgctgttgatcttctggttcctggagttggg
+            gaactctttggaggaggcctcagagaagaacgataccatttcttagaggagcgcttagcc
+            agatcgggacttacagaagtctaccaatggtatctggaccttcgtcgatttggatctgtg
+            ccacatggaggttttgggatgggatttgaacgctacctgcagtgcatcttgggtgttgac
+            aatatcaaagatgttatccctttcccaaggtttcctcattcatgccttttatag
+///

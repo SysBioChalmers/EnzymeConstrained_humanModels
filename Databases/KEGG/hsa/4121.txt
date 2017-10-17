@@ -1,0 +1,86 @@
+ENTRY       4121              CDS       T01001
+NAME        MAN1A1, HUMM3, HUMM9, MAN9
+DEFINITION  (RefSeq) mannosidase alpha class 1A member 1
+ORTHOLOGY   K01230  mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04141  Protein processing in endoplasmic reticulum
+MODULE      hsa_M00073  N-glycan precursor trimming
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                4121 (MAN1A1)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                4121 (MAN1A1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.113  mannosyl-oligosaccharide 1,2-alpha-mannosidase
+                 4121 (MAN1A1)
+            Membrane trafficking [BR:hsa04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               ER-Golgi intermediate compartment (ERGIC) proteins
+                4121 (MAN1A1)
+POSITION    6q22.31
+MOTIF       Pfam: Glyco_hydro_47 AIM5 Glyco_hydro_88 DnaB_bind SPT_ssu-like
+DBLINKS     NCBI-GeneID: 4121
+            NCBI-ProteinID: NP_005898
+            OMIM: 604344
+            HGNC: 6821
+            Ensembl: ENSG00000111885
+            Vega: OTTHUMG00000015472
+            Pharos: P33908(Tbio)
+            UniProt: P33908
+AASEQ       653
+            MPVGGLLPLFSSPAGGVLGGGLGGGGGRKGSGPAALRLTEKFVLLLVFSAFITLCFGAIF
+            FLPDSSKLLSGVLFHSSPALQPAADHKPGPGARAEDAAEGRARRREEGAPGDPEAALEDN
+            LARIRENHERALREAKETLQKLPEEIQRDILLEKKKVAQDQLRDKAPFRGLPPVDFVPPI
+            GVESREPADAAIREKRAKIKEMMKHAWNNYKGYAWGLNELKPISKGGHSSSLFGNIKGAT
+            IVDALDTLFIMEMKHEFEEAKSWVEENLDFNVNAEISVFEVNIRFVGGLLSAYYLSGEEI
+            FRKKAVELGVKLLPAFHTPSGIPWALLNMKSGIGRNWPWASGGSSILAEFGTLHLEFMHL
+            SHLSGNPIFAEKVMNIRTVLNKLEKPQGLYPNYLNPSSGQWGQHHVSVGGLGDSFYEYLL
+            KAWLMSDKTDLEAKKMYFDAVQAIETHLIRKSSSGLTYIAEWKGGLLEHKMGHLTCFAGG
+            MFALGADAAPEGMAQHYLELGAEIARTCHESYNRTFMKLGPEAFRFDGGVEAIATRQNEK
+            YYILRPEVMETYMYMWRLTHDPKYRKWAWEAVEALENHCRVNGGYSGLRDVYLLHESYDD
+            VQQSFFLAETLKYLYLIFSDDDLLPLEHWIFNSEAHLLPILPKDKKEVEIREE
+NTSEQ       1962
+            atgcccgtggggggcctgttgccgctcttcagcagccccgcgggcggcgtcctgggcggg
+            gggctcggcggcggcggtggcaggaaggggtcgggccccgccgccctccgcctgacggag
+            aagttcgtgctgctgctggtattcagcgccttcatcacgctctgcttcggggcgatcttc
+            ttcctgccagactcctccaagctgctcagcggggtcctgttccactccagccccgccttg
+            cagccggccgccgaccacaagcccgggcccggggcgcgcgccgaggacgcggccgagggg
+            cgagcccggcgccgcgaggagggggcacccggggacccggaggccgccctggaggacaac
+            ttggccaggatccgcgaaaaccacgagcgggctctcagggaagccaaggagaccctgcag
+            aagctgcccgaggagatccaaagagacatcctactggagaagaagaaggtggcccaggac
+            cagctgcgtgacaaggcgccgttcagaggcctgcccccggtggacttcgtgcccccaatc
+            ggggtggagagccgggagcccgccgacgccgccatccgcgagaaaagggcaaagatcaaa
+            gagatgatgaaacatgcttggaataattataaaggttatgcctggggattaaatgaactc
+            aaacctatatcaaaaggaggccattcaagcagtttgtttggtaacatcaaaggagcaact
+            atagtagatgccctggatacactttttattatggaaatgaaacatgaatttgaagaagca
+            aaatcatgggttgaagaaaatttagattttaatgtgaatgctgaaatttctgtctttgaa
+            gtaaatatacgctttgttggtggactactctcagcctactatctgtctggagaagagatt
+            tttcgaaagaaagcagtggaacttggggtaaaattgctacctgcatttcatactccctct
+            ggaataccttgggcattgctgaatatgaaaagtggtattggaaggaactggccctgggcc
+            tctggaggcagcagtattctggcagaatttggaaccctgcatttggagtttatgcacttg
+            agccacttatcaggaaaccccatctttgctgaaaaggtaatgaatattcgaacagtactg
+            aacaaactggaaaaaccacaaggcctttatcctaactatctgaatcccagtagtggacag
+            tggggtcaacatcatgtatcagttggaggacttggagacagcttctatgagtatttgctg
+            aaggcctggttaatgtctgacaagacagatctggaagctaagaagatgtattttgatgct
+            gttcaggctatcgagactcatttgatccgcaagtctagcagcggactaacttatatcgca
+            gagtggaaagggggcctcctggagcacaagatgggccacctgacctgcttcgcggggggc
+            atgttcgcactcggggctgatgcagctcccgaaggcatggcccaacactaccttgaactc
+            ggggctgaaattgcccgtacttgtcatgaatcatataatcgaacatttatgaaactggga
+            ccagaagctttcagatttgatggtggtgttgaagccatcgctacaagacaaaatgaaaaa
+            tactacatcttacggccagaagttatggagacttacatgtatatgtggagactgactcat
+            gatccaaagtacaggaaatgggcctgggaagccgtagaggccttggaaaaccattgcaga
+            gtgaatggaggctattcaggcctaagggatgtttaccttcttcatgagagttatgatgat
+            gtgcagcagagtttcttcctggcagagacattgaaatatttgtacctaatattttctgac
+            gacgatcttcttccactggagcattggatcttcaatagcgaggcacatcttctccctatc
+            ctccctaaagataaaaaggaagttgaaatcagagaggaataa
+///

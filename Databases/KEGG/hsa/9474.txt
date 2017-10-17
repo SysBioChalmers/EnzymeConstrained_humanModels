@@ -1,0 +1,84 @@
+ENTRY       9474              CDS       T01001
+NAME        ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5
+DEFINITION  (RefSeq) autophagy related 5
+ORTHOLOGY   K08339  autophagy-related protein 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04136  Autophagy - other
+            hsa04137  Mitophagy - animal
+            hsa04140  Autophagy - animal
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04216  Ferroptosis
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa05131  Shigellosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                9474 (ATG5)
+               04136 Autophagy - other eukaryotes
+                9474 (ATG5)
+               04137 Mitophagy - animal
+                9474 (ATG5)
+              Cell growth and death
+               04216 Ferroptosis
+                9474 (ATG5)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                9474 (ATG5)
+               04622 RIG-I-like receptor signaling pathway
+                9474 (ATG5)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                9474 (ATG5)
+               04213 Longevity regulating pathway - multiple species
+                9474 (ATG5)
+             Human Diseases
+              Infectious diseases
+               05131 Shigellosis
+                9474 (ATG5)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Core machinery Atg proteins
+                9474 (ATG5)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                9474 (ATG5)
+POSITION    6q21
+MOTIF       Pfam: APG5
+DBLINKS     NCBI-GeneID: 9474
+            NCBI-ProteinID: NP_001273035
+            OMIM: 604261
+            HGNC: 589
+            Ensembl: ENSG00000057663
+            Vega: OTTHUMG00000016193
+            Pharos: Q9H1Y0(Tbio)
+            UniProt: Q9H1Y0 A9UGY9 Q7Z3H3
+STRUCTURE   PDB: 4TQ1 4NAW 4TQ0 4GDK 4GDL 5D7G
+AASEQ       275
+            MTDDKDVLRDVWFGRIPTCFTLYQDEITEREAEPYYLLLPRVSYLTLVTDKVKKHFQKVM
+            RQEDISEIWFEYEGTPLKWHYPIGLLFDLLASSSALPWNITVHFKSFPEKDLLHCPSKDA
+            IEAHFMSCMKEADALKHKSQVINEMQKKDHKQLWMGLQNDRFDQFWAINRKLMEYPAEEN
+            GFRYIPFRIYQTTTERPFIQKLFRPVAADGQLHTLGDLLKEVCPSAIDPEDGEKKNQVMI
+            HGIEPMLETPLQWLSEHLSYPDNFLHISIIPQPTD
+NTSEQ       828
+            atgacagatgacaaagatgtgcttcgagatgtgtggtttggacgaattccaacttgtttc
+            acgctatatcaggatgagataactgaaagggaagcagaaccatactatttgcttttgcca
+            agagtaagttatttgacgttggtaactgacaaagtgaaaaagcactttcagaaggttatg
+            agacaagaagacattagtgagatatggtttgaatatgaaggcacaccactgaaatggcat
+            tatccaattggtttgctatttgatcttcttgcatcaagttcagctcttccttggaacatc
+            acagtacattttaagagttttccagaaaaagaccttctgcactgtccatctaaggatgca
+            attgaagctcattttatgtcatgtatgaaagaagctgatgctttaaaacataaaagtcaa
+            gtaatcaatgaaatgcagaaaaaagatcacaagcaactctggatgggattgcaaaatgac
+            agatttgaccagttttgggccatcaatcggaaactcatggaatatcctgcagaagaaaat
+            ggatttcgttatatcccctttagaatatatcagacaacgactgaaagacctttcattcag
+            aagctgtttcgtcctgtggctgcagatggacagttgcacacactaggagatctcctcaaa
+            gaagtttgtccttctgctattgatcctgaagatggggaaaaaaagaatcaagtgatgatt
+            catggaattgagccaatgttggaaacacctctgcagtggctgagtgaacatctgagctac
+            ccggataattttcttcatattagtatcatcccacagccaacagattga
+///

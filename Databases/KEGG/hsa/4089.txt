@@ -1,0 +1,124 @@
+ENTRY       4089              CDS       T01001
+NAME        SMAD4, DPC4, JIP, MADH4, MYHRS
+DEFINITION  (RefSeq) SMAD family member 4
+ORTHOLOGY   K04501  mothers against decapentaplegic homolog 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04520  Adherens junction
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04659  Th17 cell differentiation
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05212  Pancreatic cancer
+            hsa05220  Chronic myeloid leukemia
+MODULE      hsa_M00679  BMP signaling
+            hsa_M00680  TGF-beta signaling
+            hsa_M00681  Activin signaling
+DISEASE     H00019  Pancreatic cancer
+            H00020  Colorectal cancer
+            H00533  Hereditary hemorrhagic telangiectasia (HHT)
+            H01023  Juvenile polyposis syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                4089 (SMAD4)
+               04350 TGF-beta signaling pathway
+                4089 (SMAD4)
+               04390 Hippo signaling pathway
+                4089 (SMAD4)
+               04371 Apelin signaling pathway
+                4089 (SMAD4)
+               04068 FoxO signaling pathway
+                4089 (SMAD4)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                4089 (SMAD4)
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                4089 (SMAD4)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                4089 (SMAD4)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                4089 (SMAD4)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4089 (SMAD4)
+               05210 Colorectal cancer
+                4089 (SMAD4)
+               05212 Pancreatic cancer
+                4089 (SMAD4)
+               05220 Chronic myeloid leukemia
+                4089 (SMAD4)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                4089 (SMAD4)
+              Infectious diseases
+               05166 HTLV-I infection
+                4089 (SMAD4)
+               05161 Hepatitis B
+                4089 (SMAD4)
+POSITION    18q21.2
+MOTIF       Pfam: MH2 MH1 IRF-3
+DBLINKS     NCBI-GeneID: 4089
+            NCBI-ProteinID: NP_005350
+            OMIM: 600993
+            HGNC: 6770
+            Ensembl: ENSG00000141646
+            Vega: OTTHUMG00000132696
+            Pharos: Q13485(Tbio)
+            UniProt: Q13485 A0A024R274
+STRUCTURE   PDB: 1YGS 5C4V 1U7F 1DD1 1U7V 1MR1 1G88
+AASEQ       552
+            MDNMSITNTPTSNDACLSIVHSLMCHRQGGESETFAKRAIESLVKKLKEKKDELDSLITA
+            ITTNGAHPSKCVTIQRTLDGRLQVAGRKGFPHVIYARLWRWPDLHKNELKHVKYCQYAFD
+            LKCDSVCVNPYHYERVVSPGIDLSGLTLQSNAPSSMMVKDEYVHDFEGQPSLSTEGHSIQ
+            TIQHPPSNRASTETYSTPALLAPSESNATSTANFPNIPVASTSQPASILGGSHSEGLLQI
+            ASGPQPGQQQNGFTGQPATYHHNSTTTWTGSRTAPYTPNLPHHQNGHLQHHPPMPPHPGH
+            YWPVHNELAFQPPISNHPAPEYWCSIAYFEMDVQVGETFKVPSSCPIVTVDGYVDPSGGD
+            RFCLGQLSNVHRTEAIERARLHIGKGVQLECKGEGDVWVRCLSDHAVFVQSYYLDREAGR
+            APGDAVHKIYPSAYIKVFDLRQCHRQMQQQAATAQAAAAAQAAAVAGNIPGPGSVGGIAP
+            AISLSAAAGIGVDDLRRLCILRMSFVKGWGPDYPRQSIKETPCWIEIHLHRALQLLDEVL
+            HTMPIADPQPLD
+NTSEQ       1659
+            atggacaatatgtctattacgaatacaccaacaagtaatgatgcctgtctgagcattgtg
+            catagtttgatgtgccatagacaaggtggagagagtgaaacatttgcaaaaagagcaatt
+            gaaagtttggtaaagaagctgaaggagaaaaaagatgaattggattctttaataacagct
+            ataactacaaatggagctcatcctagtaaatgtgttaccatacagagaacattggatggg
+            aggcttcaggtggctggtcggaaaggatttcctcatgtgatctatgcccgtctctggagg
+            tggcctgatcttcacaaaaatgaactaaaacatgttaaatattgtcagtatgcgtttgac
+            ttaaaatgtgatagtgtctgtgtgaatccatatcactacgaacgagttgtatcacctgga
+            attgatctctcaggattaacactgcagagtaatgctccatcaagtatgatggtgaaggat
+            gaatatgtgcatgactttgagggacagccatcgttgtccactgaaggacattcaattcaa
+            accatccagcatccaccaagtaatcgtgcatcgacagagacatacagcaccccagctctg
+            ttagccccatctgagtctaatgctaccagcactgccaactttcccaacattcctgtggct
+            tccacaagtcagcctgccagtatactggggggcagccatagtgaaggactgttgcagata
+            gcatcagggcctcagccaggacagcagcagaatggatttactggtcagccagctacttac
+            catcataacagcactaccacctggactggaagtaggactgcaccatacacacctaatttg
+            cctcaccaccaaaacggccatcttcagcaccacccgcctatgccgccccatcccggacat
+            tactggcctgttcacaatgagcttgcattccagcctcccatttccaatcatcctgctcct
+            gagtattggtgttccattgcttactttgaaatggatgttcaggtaggagagacatttaag
+            gttccttcaagctgccctattgttactgttgatggatacgtggacccttctggaggagat
+            cgcttttgtttgggtcaactctccaatgtccacaggacagaagccattgagagagcaagg
+            ttgcacataggcaaaggtgtgcagttggaatgtaaaggtgaaggtgatgtttgggtcagg
+            tgccttagtgaccacgcggtctttgtacagagttactacttagacagagaagctgggcgt
+            gcacctggagatgctgttcataagatctacccaagtgcatatataaaggtctttgatttg
+            cgtcagtgtcatcgacagatgcagcagcaggcggctactgcacaagctgcagcagctgcc
+            caggcagcagccgtggcaggaaacatccctggcccaggatcagtaggtggaatagctcca
+            gctatcagtctgtcagctgctgctggaattggtgttgatgaccttcgtcgcttatgcata
+            ctcaggatgagttttgtgaaaggctggggaccggattacccaagacagagcatcaaagaa
+            acaccttgctggattgaaattcacttacaccgggccctccagctcctagacgaagtactt
+            cataccatgccgattgcagacccacaacctttagactga
+///

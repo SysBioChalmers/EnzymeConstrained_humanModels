@@ -1,0 +1,79 @@
+ENTRY       10498             CDS       T01001
+NAME        CARM1, PRMT4
+DEFINITION  (RefSeq) coactivator associated arginine methyltransferase 1
+ORTHOLOGY   K05931  type I protein arginine methyltransferase [EC:2.1.1.319]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Drug resistance
+               01522 Endocrine resistance
+                10498 (CARM1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.319  type I protein arginine methyltransferase
+                 10498 (CARM1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                PRMTs (protein arginine metyltransferases)
+                 10498 (CARM1)
+POSITION    19p13.2
+MOTIF       Pfam: CARM1 PrmA Methyltransf_25 MTS Methyltransf_9 Methyltransf_11 PRMT5 Methyltransf_31 Methyltransf_23 Methyltransf_18 Methyltransf_12 CMAS TehB Met_10 CBP_GIL Cons_hypoth95 Methyltransf_32 PRMT5_C Methyltransf_24 DREV
+DBLINKS     NCBI-GeneID: 10498
+            NCBI-ProteinID: NP_954592
+            OMIM: 603934
+            HGNC: 23393
+            Ensembl: ENSG00000142453
+            Vega: OTTHUMG00000180699
+            Pharos: Q86X55(Tchem)
+            UniProt: Q86X55
+STRUCTURE   PDB: 5U4X 5DX1 5DX8 5DXJ 4IKP 5DX0 5DXA 2Y1W 5DWQ 2Y1X
+AASEQ       608
+            MAAAAAAVGPGAGGAGSAVPGGAGPCATVSVFPGARLLTIGDANGEIQRHAEQQALRLEV
+            RAGPDSAGIALYSHEDVCVFKCSVSRETECSRVGKQSFIITLGCNSVLIQFATPNDFCSF
+            YNILKTCRGHTLERSVFSERTEESSAVQYFQFYGYLSQQQNMMQDYVRTGTYQRAILQNH
+            TDFKDKIVLDVGCGSGILSFFAAQAGARKIYAVEASTMAQHAEVLVKSNNLTDRIVVIPG
+            KVEEVSLPEQVDIIISEPMGYMLFNERMLESYLHAKKYLKPSGNMFPTIGDVHLAPFTDE
+            QLYMEQFTKANFWYQPSFHGVDLSALRGAAVDEYFRQPVVDTFDIRILMAKSVKYTVNFL
+            EAKEGDLHRIEIPFKFHMLHSGLVHGLAFWFDVAFIGSIMTVWLSTAPTEPLTHWYQVRC
+            LFQSPLFAKAGDTLSGTCLLIANKRQSYDISIVAQVDQTGSKSSNLLDLKNPFFRYTGTT
+            PSPPPGSHYTSPSENMWNTGSTYNLSSGMAVAGMPTAYDLSSVIASGSSVGHNNLIPLAN
+            TGIVNHTHSRMGSIMSTGIVQGSSGAQGSGGGSTSAHYAVNSQFTMGGPAISMASPMSIP
+            TNTMHYGS
+NTSEQ       1827
+            atggcagcggcggcggcggcggtggggccgggcgcgggcggcgcggggtcggcggtcccg
+            ggcggcgcggggccctgcgctaccgtgtcggtgttccccggcgcccgcctcctcaccatc
+            ggcgacgcgaacggcgagatccagcggcacgcggagcagcaggcgctgcgcctcgaggtg
+            cgcgccggcccggactcggcgggcatcgccctctacagccatgaagatgtgtgtgtcttt
+            aagtgctcagtgtcccgagagacagagtgcagccgtgtgggcaagcagtccttcatcatc
+            accctgggctgcaacagcgtcctcatccagttcgccacacccaacgatttctgttccttc
+            tacaacatcctgaaaacctgccggggccacaccctggagcggtctgtgttcagcgagcgg
+            acggaggagtcttctgccgtgcagtacttccagttttatggctacctgtcccagcagcag
+            aacatgatgcaggactacgtgcggacaggcacctaccagcgcgccatcctgcaaaaccac
+            accgacttcaaggacaagatcgttcttgatgttggctgtggctctgggatcctgtcgttt
+            tttgccgcccaagctggagcacggaaaatctacgcggtggaggccagcaccatggcccag
+            cacgctgaggtcttggtgaagagtaacaacctgacggaccgcatcgtggtcatcccgggc
+            aaggtggaggaggtgtcactccccgagcaggtggacatcatcatctcggagcccatgggc
+            tacatgctcttcaacgagcgcatgctggagagctacctccacgccaagaagtacctgaag
+            cccagcggaaacatgtttcctaccattggtgacgtccaccttgcacccttcacggatgaa
+            cagctctacatggagcagttcaccaaggccaacttctggtaccagccatctttccatgga
+            gtggacctgtcggccctccgaggtgccgcggtggatgagtatttccggcagcctgtggtg
+            gacacatttgacatccggatcctgatggccaagtctgtcaagtacacggtgaacttctta
+            gaagccaaagaaggagatttgcacaggatagaaatcccattcaaattccacatgctgcat
+            tcagggctggtccacggcctggctttctggtttgacgttgctttcatcggctccataatg
+            accgtgtggctgtccacagccccgacagagcccctgacccactggtaccaggtgcggtgc
+            ctgttccagtcaccactgttcgccaaggcaggggacacgctctcagggacatgtctgctt
+            attgccaacaaaagacagagctacgacatcagtattgtggcccaggtggaccagaccggc
+            tccaagtccagtaacctcctggatctgaaaaaccccttctttagatacacgggcacaacg
+            ccctcacccccacccggctcccactacacatctccctcggaaaacatgtggaacacgggc
+            agcacctacaacctcagcagcgggatggccgtggcagggatgccgaccgcctatgacttg
+            agcagtgttattgccagtggctccagcgtgggccacaacaacctgattcctttagccaac
+            acggggattgtcaatcacacccactcccggatgggctccataatgagcacggggattgtc
+            caagggtcctccggcgcccagggcagtggtggtggcagcacgagtgcccactatgcagtc
+            aacagccagttcaccatgggcggccccgccatctccatggcgtcgcccatgtccatcccg
+            accaacaccatgcactacgggagctag
+///

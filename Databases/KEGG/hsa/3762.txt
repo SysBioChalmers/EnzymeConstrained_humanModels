@@ -1,0 +1,83 @@
+ENTRY       3762              CDS       T01001
+NAME        KCNJ5, CIR, GIRK4, KATP1, KIR3.4, LQT13
+DEFINITION  (RefSeq) potassium voltage-gated channel subfamily J member 5
+ORTHOLOGY   K04999  potassium inwardly-rectifying channel subfamily J member 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04713  Circadian entrainment
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04915  Estrogen signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa05032  Morphine addiction
+DISEASE     H00720  Long QT syndrome
+            H01603  Primary aldosteronism
+DRUG_TARGET Amiodarone (DG00204): D00636 D02910
+            Bepridil (DG00333): D00631 D07520
+            Dronedarone (DG00207): D02537 D03914
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04915 Estrogen signaling pathway
+                3762 (KCNJ5)
+               04921 Oxytocin signaling pathway
+                3762 (KCNJ5)
+              Nervous system
+               04728 Dopaminergic synapse
+                3762 (KCNJ5)
+               04726 Serotonergic synapse
+                3762 (KCNJ5)
+               04723 Retrograde endocannabinoid signaling
+                3762 (KCNJ5)
+              Environmental adaptation
+               04713 Circadian entrainment
+                3762 (KCNJ5)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                3762 (KCNJ5)
+            Ion channels [BR:hsa04040]
+             Related to voltage-gated cation channels
+              Inward rectifier channel (Kir)
+               3762 (KCNJ5)
+POSITION    11q24.3
+MOTIF       Pfam: IRK Ion_trans_2
+DBLINKS     NCBI-GeneID: 3762
+            NCBI-ProteinID: NP_000881
+            OMIM: 600734
+            HGNC: 6266
+            Ensembl: ENSG00000120457
+            Vega: OTTHUMG00000165795
+            Pharos: P48544(Tbio)
+            UniProt: P48544
+AASEQ       419
+            MAGDSRNAMNQDMEIGVTPWDPKKIPKQARDYVPIATDRTRLLAEGKKPRQRYMEKSGKC
+            NVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTVTWLFFGFIWWLIAYIRGDLDH
+            VGDQEWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIILLLVQAILGSIVNA
+            FMVGCMFVKISQPKKRAETLMFSNNAVISMRDEKLCLMFRVGDLRNSHIVEASIRAKLIK
+            SRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIISHEINQKSPFWEMSQAQLHQEEFE
+            VVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTP
+            SCCAKELAEMKREGRLLQYLPSPPLLGGCAEAGLDAEAEQNEEDEPKGLGGSREARGSV
+NTSEQ       1260
+            atggctggcgattctaggaatgccatgaaccaggacatggagattggagtcactccctgg
+            gaccccaagaagattccaaaacaggcccgcgattatgtccccattgccacagaccgtacg
+            cgcctgctggccgagggcaagaagccacgccagcgctacatggagaagagtggcaagtgc
+            aacgtgcaccacggcaacgtccaggagacctaccggtacctgagtgacctcttcaccacc
+            ctggtggacctcaagtggcgcttcaacttgctcgtcttcaccatggtttacactgtcacc
+            tggctgttcttcggcttcatttggtggctcattgcttatatccggggtgacctggaccat
+            gttggcgaccaagagtggattccttgtgttgaaaacctcagtggcttcgtgtccgctttc
+            ctgttctccattgagaccgaaacaaccattgggtatggcttccgagtcatcacagagaag
+            tgtccagaggggattatactcctcttggtccaggccatcctgggctccatcgtcaatgcc
+            ttcatggtggggtgcatgtttgtcaagatcagccagcccaagaagagagcggagaccctc
+            atgttttccaacaacgcagtcatctccatgcgggacgagaagctgtgcctcatgttccgg
+            gtgggcgacctccgcaactcccacatcgtggaggcctccatccgggccaagctcatcaag
+            tcccggcagaccaaagagggggagttcatccccctgaaccagacagacatcaacgtgggc
+            tttgacacgggcgacgaccgcctcttccttgtgtctcctctgatcatctcccatgagatc
+            aaccagaagagccctttctgggagatgtctcaggctcagctgcatcaggaagagtttgaa
+            gttgtggtcattctagaagggatggtggaagccacaggcatgacctgccaagcccggagc
+            tcctacatggatacagaggtgctctggggccaccgattcacaccagtcctcaccttggaa
+            aagggcttctatgaggtggactacaacaccttccatgatacctatgagaccaacacaccc
+            agctgctgtgccaaggagctggcagaaatgaagagggaaggccggctcctccagtacctc
+            cccagccccccactgctggggggctgtgctgaggcagggctggatgcagaggctgagcag
+            aatgaagaagatgagcccaaggggctgggtgggtccagggaggccaggggctcggtgtga
+///

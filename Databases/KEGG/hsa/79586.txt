@@ -1,0 +1,90 @@
+ENTRY       79586             CDS       T01001
+NAME        CHPF, CHSY2, CSS2
+DEFINITION  (RefSeq) chondroitin polymerizing factor
+ORTHOLOGY   K00747  chondroitin polymerizing factor [EC:2.4.1.175 2.4.1.226]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00058  Glycosaminoglycan biosynthesis, chondroitin sulfate backbone
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+                79586 (CHPF)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.175  glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase
+                 79586 (CHPF)
+                2.4.1.226  N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase
+                 79586 (CHPF)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              O-Glycan
+               79586 (CHPF)
+POSITION    2q35
+MOTIF       Pfam: CHGN Fringe
+DBLINKS     NCBI-GeneID: 79586
+            NCBI-ProteinID: NP_078812
+            OMIM: 610405
+            HGNC: 24291
+            Ensembl: ENSG00000123989
+            Vega: OTTHUMG00000058929
+            Pharos: Q8IZ52(Tbio)
+            UniProt: Q8IZ52
+AASEQ       775
+            MRASLLLSVLRPAGPVAVGISLGFTLSLLSVTWVEEPCGPGPPQPGDSELPPRGNTNAAR
+            RPNSVQPGAEREKPGAGEGAGENWEPRVLPYHPAQPGQAAKKAVRTRYISTELGIRQRLL
+            VAVLTSQTTLPTLGVAVNRTLGHRLERVVFLTGARGRRAPPGMAVVTLGEERPIGHLHLA
+            LRHLLEQHGDDFDWFFLVPDTTYTEAHGLARLTGHLSLASAAHLYLGRPQDFIGGEPTPG
+            RYCHGGFGVLLSRMLLQQLRPHLEGCRNDIVSARPDEWLGRCILDATGVGCTGDHEGVHY
+            SHLELSPGEPVQEGDPHFRSALTAHPVRDPVHMYQLHKAFARAELERTYQEIQELQWEIQ
+            NTSHLAVDGDRAAAWPVGIPAPSRPASRFEVLRWDYFTEQHAFSCADGSPRCPLRGADRA
+            DVADVLGTALEELNRRYHPALRLQKQQLVNGYRRFDPARGMEYTLDLQLEALTPQGGRRP
+            LTRRVQLLRPLSRVEILPVPYVTEASRLTVLLPLAAAERDLAPGFLEAFATAALEPGDAA
+            AALTLLLLYEPRQAQRVAHADVFAPVKAHVAELERRFPGARVPWLSVQTAAPSPLRLMDL
+            LSKKHPLDTLFLLAGPDTVLTPDFLNRCRMHAISGWQAFFPMHFQAFHPAVAPPQGPGPP
+            ELGRDTGRFDRQAASEACFYNSDYVAARGRLAAASEQEEELLESLDVYELFLHFSSLHVL
+            RAVEPALLQRYRAQTCSARLSEDLYHRCLQSVLEGLGSRTQLAMLLFEQEQGNST
+NTSEQ       2328
+            atgcgggcatcgctgctgctgtcggtgctgcggcccgcagggcccgtggccgtgggcatc
+            tccctgggcttcaccctgagcctgctcagcgtcacctgggtggaggagccgtgcggccca
+            ggcccgccccaacctggagactctgagctgccgccgcgcggcaacaccaacgcggcgcgc
+            cggcccaactcggtgcagcccggagcggagcgcgagaagcccggggccggcgaaggcgcc
+            ggggagaattgggagccgcgcgtcttgccctaccaccctgcacagcccggccaggccgcc
+            aaaaaggccgtcaggacccgctacatcagcacggagctgggcatcaggcagaggctgctg
+            gtggcggtgctgacctctcagaccacgctgcccacgctgggcgtggccgtgaaccgcacg
+            ctggggcaccggctggagcgtgtggtgttcctgacgggcgcacggggccgccgggcccca
+            cctggcatggcagtggtgacgctaggcgaggagcgacccattggacacctgcacctggcg
+            ctgcgccacctgctggagcagcacggcgacgactttgactggttcttcctggtgcctgac
+            accacctacaccgaggcgcacggcctggcacgcctaactggccacctcagcctggcctcc
+            gccgcccacctgtacctgggccggccccaggacttcatcggcggagagcccacccccggc
+            cgctactgccacggaggctttggggtgctgctgtcgcgcatgctgctgcaacaactgcgc
+            ccccacctggaaggctgccgcaacgacatcgtcagtgcgcgccctgacgagtggctgggt
+            cgctgcattctcgatgccaccggggtgggctgcactggtgaccacgagggggtgcactat
+            agccatctggagctgagccctggggagccagtgcaggagggggaccctcatttccgaagt
+            gccctgacagcccaccctgtgcgtgaccctgtgcacatgtaccagctgcacaaagctttc
+            gcccgagctgaactggaacgcacgtaccaggagatccaggagttacagtgggagatccag
+            aataccagccatctggccgttgatggggaccgggcagctgcttggcccgtgggtattcca
+            gcaccatcccgcccggcctcccgctttgaggtgctgcgctgggactacttcacggagcag
+            cacgctttctcctgcgccgatggctcaccccgctgcccactgcgtggggctgaccgggct
+            gatgtggccgatgttctggggacagctctagaggagctgaaccgccgctaccacccggcc
+            ttgcggctccagaagcagcagctggtgaatggctaccgacgctttgatccggcccggggt
+            atggaatacacgctggacttgcagctggaggcactgaccccccagggaggccgccggccc
+            ctcactcgccgagtgcagctgctccggccgctgagccgcgtggagatcttgcctgtgccc
+            tatgtcactgaggcctcacgtctcactgtgctgctgcctctagctgcggctgagcgtgac
+            ctggcccctggcttcttggaggcctttgccactgcagcactggagcctggtgatgctgcg
+            gcagccctgaccctgctgctactgtatgagccgcgccaggcccagcgcgtggcccatgca
+            gatgtcttcgcacctgtcaaggcccacgtggcagagctggagcggcgtttccccggtgcc
+            cgggtgccatggctcagtgtgcagacagccgcaccctcaccactgcgcctcatggatcta
+            ctctccaagaagcacccgctggacacactgttcctgctggccgggccagacacggtgctc
+            acgcctgacttcctgaaccgctgccgcatgcatgccatctccggctggcaggccttcttt
+            cccatgcatttccaagccttccacccagctgtggccccaccacaagggcctgggccccca
+            gagctgggccgtgacactggccgctttgatcgccaggcagccagcgaggcctgcttctac
+            aactccgactacgtggcagcccgtgggcgcctggcggcagcctcagaacaagaagaggag
+            ctgctggagagcctggatgtgtacgagctgttcctccacttctccagtctgcatgtgctg
+            cgggcggtggagccggcgctgctgcagcgctaccgggcccagacgtgcagcgcgaggctc
+            agtgaggacctgtaccaccgctgcctccagagcgtgcttgagggcctcggctcccgaacc
+            cagctggccatgctactctttgaacaggagcagggcaacagcacctga
+///

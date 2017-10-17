@@ -1,0 +1,80 @@
+ENTRY       5915              CDS       T01001
+NAME        RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2
+DEFINITION  (RefSeq) retinoic acid receptor beta
+ORTHOLOGY   K08528  retinoic acid receptor beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+DISEASE     H00013  Small cell lung cancer
+            H00014  Non-small cell lung cancer
+DRUG_TARGET Acitretin: D02754
+            Alitretinoin: D02815
+            Etretinate: D00316
+            Fenretinide: D04162
+            Isotretinoin (DG00434): D00348 D04636
+            Retinol (vit A) (DG00123): D00164 D01621 D06543 D08477
+            Tazarotene: D01132
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5915 (RARB)
+               05222 Small cell lung cancer
+                5915 (RARB)
+               05223 Non-small cell lung cancer
+                5915 (RARB)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 thyroid hormone-like
+                5915 (RARB)
+            Nuclear receptors [BR:hsa03310]
+             1. Thyroid hormone like
+              1B. Retinoic acid receptor (RAR)
+               5915 (RARB)
+POSITION    3p24.2
+MOTIF       Pfam: zf-C4 Hormone_recep
+DBLINKS     NCBI-GeneID: 5915
+            NCBI-ProteinID: NP_001277145
+            OMIM: 180220
+            HGNC: 9865
+            Ensembl: ENSG00000077092
+            Vega: OTTHUMG00000130480
+            Pharos: P10826(Tclin)
+            UniProt: P10826
+STRUCTURE   PDB: 4JYI 4DM6 1XAP 4DM8 4JYG 4JYH 1HRA
+AASEQ       455
+            MTTSGHACPVPAVNGHMTHYPATPYPLLFPPVIGGLSLPPLHGLHGHPPPSGCSTPSPAT
+            IETQSTSSEELVPSPPSPLPPPRVYKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNM
+            IYTCHRDKNCVINKVTRNRCQYCRLQKCFEVGMSKESVRNDRNKKKKETSKQECTESYEM
+            TAELDDLTEKIRKAHQETFPSLCQLGKYTTNSSADHRVRLDLGLWDKFSELATKCIIKIV
+            EFAKRLPGFTGLTIADQITLLKAACLDILILRICTRYTPEQDTMTFSDGLTLNRTQMHNA
+            GFGPLTDLVFTFANQLLPLEMDDTETGLLSAICLICGDRQDLEEPTKVDKLQEPLLEALK
+            IYIRKRRPSKPHMFPKILMKITDLRSISAKGAERVITLKMEIPGSMPPLIQEMLENSEGH
+            EPLTPSSSGNTAEHSPSISPSSVENSGVSQSPLVQ
+NTSEQ       1368
+            atgaccaccagcggccacgcatgtccggtcccagcagtgaacggacacatgactcactat
+            ccagccacaccctacccgttactctttccacctgtcatcggaggactttccctgcctccc
+            ctccatggccttcatggacatccgcctccgagtggatgcagcaccccgtcgccggcaaca
+            attgaaacacagagcaccagctctgaggaactcgtcccaagccccccatctccacttcct
+            ccccctcgagtgtacaaaccctgcttcgtctgccaggacaaatcatcagggtaccactat
+            ggggtcagcgcctgtgagggatgtaagggctttttccgcagaagtattcagaagaatatg
+            atttacacttgtcaccgagataagaactgtgttattaataaagtcaccaggaatcgatgc
+            caatactgtcgactccagaagtgctttgaagtgggaatgtccaaagaatctgtcaggaat
+            gacaggaacaagaaaaagaaggagacttcgaagcaagaatgcacagagagctatgaaatg
+            acagctgagttggacgatctcacagagaagatccgaaaagctcaccaggaaactttccct
+            tcactctgccagctgggtaaatacaccacgaattccagtgctgaccatcgagtccgactg
+            gacctgggcctctgggacaaattcagtgaactggccaccaagtgcattattaagatcgtg
+            gagtttgctaaacgtctgcctggtttcactggcttgaccatcgcagaccaaattaccctg
+            ctgaaggccgcctgcctggacatcctgattcttagaatttgcaccaggtataccccagaa
+            caagacaccatgactttctcagacggccttaccctaaatcgaactcagatgcacaatgct
+            ggatttggtcctctgactgaccttgtgttcacctttgccaaccagctcctgcctttggaa
+            atggatgacacagaaacaggccttctcagtgccatctgcttaatctgtggagaccgccag
+            gaccttgaggaaccgacaaaagtagataagctacaagaaccattgctggaagcactaaaa
+            atttatatcagaaaaagacgacccagcaagcctcacatgtttccaaagatcttaatgaaa
+            atcacagatctccgtagcatcagtgctaaaggtgcagagcgtgtaattaccttgaaaatg
+            gaaattcctggatcaatgccacctctcattcaagaaatgctggagaattctgaaggacat
+            gaacccttgaccccaagttcaagtgggaacacagcagagcacagtcctagcatctcaccc
+            agctcagtggaaaacagtggggtcagtcagtcaccactcgtgcaataa
+///

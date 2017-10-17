@@ -1,0 +1,153 @@
+ENTRY       367               CDS       T01001
+NAME        AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM
+DEFINITION  (RefSeq) androgen receptor
+ORTHOLOGY   K08557  androgen receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04114  Oocyte meiosis
+            hsa05200  Pathways in cancer
+            hsa05215  Prostate cancer
+DISEASE     H00024  Prostate cancer
+            H00062  Spinal and bulbar muscular atrophy (SBMA)
+            H00455  Spinal muscular atrophy (SMA)
+            H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+            H00609  46,XY disorders of sex development (Other)
+DRUG_TARGET Androstanolone: D07456
+            Benorterone: D03079
+            Bicalutamide: D00961
+            Bolasterone: D03144
+            Boldenone (DG01275): D03145 D07536
+            Clometherone: D03551
+            Cyproterone (DG00475): D01368 D07766
+            Danazol: D00289
+            Delmadinone: D07783
+            Delmadinone acetate: D03675
+            Enobosarm: D10221
+            Enzalutamide: D10218
+            Ethylestrenol: D01414
+            Fluoxymesterone: D00327
+            Flutamide: D00586
+            Mesterolone: D04947
+            Metandienone: D00389
+            Metenolone (DG00140): D01301 D01375 D08193
+            Methandriol (DG01276): D08196 D08197
+            Methyltestosterone: D00408
+            Mibolerone: D05025
+            Nandrolone (DG00142): D00955 D00956 D01476 D01737 D05116 D08250 D08251
+            Nilutamide: D00965
+            Nisterime acetate: D05174
+            Norethandrolone: D07127
+            Oxabolone cipionate: D01149
+            Oxandrolone: D00462
+            Oxendolone: D01329
+            Oxymetholone: D00490
+            Prasterone (DG00141): D01616 D08409
+            Quinbolone: D05674
+            Silandrone: D05837
+            Stanozolol: D00444
+            Testosterone (DG00460): D00075 D00957 D00958 D00959 D06085 D06086 D06087 D08573 D08574
+            Topterone: D06191
+            Zanoterone: D06357
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                367 (AR)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                367 (AR)
+               05215 Prostate cancer
+                367 (AR)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 estrogen-like
+                367 (AR)
+            Nuclear receptors [BR:hsa03310]
+             3. Estrogen like
+              3C. 3-Ketosteroid receptor
+               367 (AR)
+POSITION    Xq12
+MOTIF       Pfam: Androgen_recep Hormone_recep zf-C4 U3_snoRNA_assoc Presenilin
+DBLINKS     NCBI-GeneID: 367
+            NCBI-ProteinID: NP_000035
+            OMIM: 313700
+            HGNC: 644
+            Ensembl: ENSG00000169083
+            Vega: OTTHUMG00000021740
+            Pharos: P10275(Tclin)
+            UniProt: P10275 Q9NUA2
+STRUCTURE   PDB: 4OHA 5V8Q 2AX6 3L3X 2AM9 3B66 2PNU 2AX9 1T65 3V49 3RLL
+                 2AX8 2AMB 2PIT 4OEZ 3B65 3B5R 2Q7K 2PIP 2OZ7 2AXA 1Z95
+                 1XOW 4OEY 2Q7I 2AO6 3RLJ 3B67 3B68 2Q7J 2AX7 2AMA 2Q7L
+                 3V4A 2PIV 1GS4 4OKW 4OJB 4OH5 3L3Z 2PIO 5CJ6 1T63 4OK1
+                 4QL8 4OKX 2PIR 2HVC 4OFU 4OEA 2PIU 5JJM 2YHD 1XQ3 4OFR
+                 2YLP 1T5Z 2YLQ 2PIQ 2PIX 4K7A 2PKL 4OKT 4HLW 2YLO 4OIL
+                 2PIW 2Z4J 5T8J 1XJ7 5T8E 4OED 4OLM 4OKB 4OGH 4OIU 4OJ9
+                 4OH6 1E3G
+AASEQ       920
+            MEVQLGLGRVYPRPPSKTYRGAFQNLFQSVREVIQNPGPRHPEAASAAPPGASLLLLQQQ
+            QQQQQQQQQQQQQQQQQQQQETSPRQQQQQQGEDGSPQAHRRGPTGYLVLDEEQQPSQPQ
+            SALECHPERGCVPEPGAAVAASKGLPQQLPAPPDEDDSAAPSTLSLLGPTFPGLSSCSAD
+            LKDILSEASTMQLLQQQQQEAVSEGSSSGRAREASGAPTSSKDNYLGGTSTISDNAKELC
+            KAVSVSMGLGVEALEHLSPGEQLRGDCMYAPLLGVPPAVRPTPCAPLAECKGSLLDDSAG
+            KSTEDTAEYSPFKGGYTKGLEGESLGCSGSAAAGSSGTLELPSTLSLYKSGALDEAAAYQ
+            SRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAWAAAAAQCRYGDLASLHGAGAA
+            GPGSGSPSAAASSSWHTLFTAEEGQLYGPCGGGGGGGGGGGGGGGGGGGGGGGEAGAVAP
+            YGYTRPPQGLAGQESDFTAPDVWYPGGMVSRVPYPSPTCVKSEMGPWMDSYSGPYGDMRL
+            ETARDHVLPIDYYFPPQKTCLICGDEASGCHYGALTCGSCKVFFKRAAEGKQKYLCASRN
+            DCTIDKFRRKNCPSCRLRKCYEAGMTLGARKLKKLGNLKLQEEGEASSTTSPTEETTQKL
+            TVSHIEGYECQPIFLNVLEAIEPGVVCAGHDNNQPDSFAALLSSLNELGERQLVHVVKWA
+            KALPGFRNLHVDDQMAVIQYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLVFNEYRMHKSR
+            MYSQCVRMRHLSQEFGWLQITPQEFLCMKALLLFSIIPVDGLKNQKFFDELRMNYIKELD
+            RIIACKRKNPTSCSRRFYQLTKLLDSVQPIARELHQFTFDLLIKSHMVSVDFPEMMAEII
+            SVQVPKILSGKVKPIYFHTQ
+NTSEQ       2763
+            atggaagtgcagttagggctgggaagggtctaccctcggccgccgtccaagacctaccga
+            ggagctttccagaatctgttccagagcgtgcgcgaagtgatccagaacccgggccccagg
+            cacccagaggccgcgagcgcagcacctcccggcgccagtttgctgctgctgcagcagcag
+            cagcagcagcagcagcagcagcagcagcagcagcagcagcagcagcagcagcagcagcaa
+            gagactagccccaggcagcagcagcagcagcagggtgaggatggttctccccaagcccat
+            cgtagaggccccacaggctacctggtcctggatgaggaacagcaaccttcacagccgcag
+            tcggccctggagtgccaccccgagagaggttgcgtcccagagcctggagccgccgtggcc
+            gccagcaaggggctgccgcagcagctgccagcacctccggacgaggatgactcagctgcc
+            ccatccacgttgtccctgctgggccccactttccccggcttaagcagctgctccgctgac
+            cttaaagacatcctgagcgaggccagcaccatgcaactccttcagcaacagcagcaggaa
+            gcagtatccgaaggcagcagcagcgggagagcgagggaggcctcgggggctcccacttcc
+            tccaaggacaattacttagggggcacttcgaccatttctgacaacgccaaggagttgtgt
+            aaggcagtgtcggtgtccatgggcctgggtgtggaggcgttggagcatctgagtccaggg
+            gaacagcttcggggggattgcatgtacgccccacttttgggagttccacccgctgtgcgt
+            cccactccttgtgccccattggccgaatgcaaaggttctctgctagacgacagcgcaggc
+            aagagcactgaagatactgctgagtattcccctttcaagggaggttacaccaaagggcta
+            gaaggcgagagcctaggctgctctggcagcgctgcagcagggagctccgggacacttgaa
+            ctgccgtctaccctgtctctctacaagtccggagcactggacgaggcagctgcgtaccag
+            agtcgcgactactacaactttccactggctctggccggaccgccgccccctccgccgcct
+            ccccatccccacgctcgcatcaagctggagaacccgctggactacggcagcgcctgggcg
+            gctgcggcggcgcagtgccgctatggggacctggcgagcctgcatggcgcgggtgcagcg
+            ggacccggttctgggtcaccctcagccgccgcttcctcatcctggcacactctcttcaca
+            gccgaagaaggccagttgtatggaccgtgtggtggtggtgggggtggtggcggcggcggc
+            ggcggcggcggcggcggcggcggcggcggcggcggcggcgaggcgggagctgtagccccc
+            tacggctacactcggccccctcaggggctggcgggccaggaaagcgacttcaccgcacct
+            gatgtgtggtaccctggcggcatggtgagcagagtgccctatcccagtcccacttgtgtc
+            aaaagcgaaatgggcccctggatggatagctactccggaccttacggggacatgcgtttg
+            gagactgccagggaccatgttttgcccattgactattactttccaccccagaagacctgc
+            ctgatctgtggagatgaagcttctgggtgtcactatggagctctcacatgtggaagctgc
+            aaggtcttcttcaaaagagccgctgaagggaaacagaagtacctgtgcgccagcagaaat
+            gattgcactattgataaattccgaaggaaaaattgtccatcttgtcgtcttcggaaatgt
+            tatgaagcagggatgactctgggagcccggaagctgaagaaacttggtaatctgaaacta
+            caggaggaaggagaggcttccagcaccaccagccccactgaggagacaacccagaagctg
+            acagtgtcacacattgaaggctatgaatgtcagcccatctttctgaatgtcctggaagcc
+            attgagccaggtgtagtgtgtgctggacacgacaacaaccagcccgactcctttgcagcc
+            ttgctctctagcctcaatgaactgggagagagacagcttgtacacgtggtcaagtgggcc
+            aaggccttgcctggcttccgcaacttacacgtggacgaccagatggctgtcattcagtac
+            tcctggatggggctcatggtgtttgccatgggctggcgatccttcaccaatgtcaactcc
+            aggatgctctacttcgcccctgatctggttttcaatgagtaccgcatgcacaagtcccgg
+            atgtacagccagtgtgtccgaatgaggcacctctctcaagagtttggatggctccaaatc
+            accccccaggaattcctgtgcatgaaagcactgctactcttcagcattattccagtggat
+            gggctgaaaaatcaaaaattctttgatgaacttcgaatgaactacatcaaggaactcgat
+            cgtatcattgcatgcaaaagaaaaaatcccacatcctgctcaagacgcttctaccagctc
+            accaagctcctggactccgtgcagcctattgcgagagagctgcatcagttcacttttgac
+            ctgctaatcaagtcacacatggtgagcgtggactttccggaaatgatggcagagatcatc
+            tctgtgcaagtgcccaagatcctttctgggaaagtcaagcccatctatttccacacccag
+            tga
+///

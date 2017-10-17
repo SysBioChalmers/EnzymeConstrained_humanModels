@@ -1,0 +1,107 @@
+ENTRY       898               CDS       T01001
+NAME        CCNE1, CCNE, pCCNE1
+DEFINITION  (RefSeq) cyclin E1
+ORTHOLOGY   K06626  G1/S-specific cyclin-E1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04218  Cellular senescence
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+            hsa05215  Prostate cancer
+            hsa05222  Small cell lung cancer
+MODULE      hsa_M00692  Cell cycle - G1/S transition
+DISEASE     H00018  Gastric cancer
+            H00055  Laryngeal cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                898 (CCNE1)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                898 (CCNE1)
+               04114 Oocyte meiosis
+                898 (CCNE1)
+               04115 p53 signaling pathway
+                898 (CCNE1)
+               04218 Cellular senescence
+                898 (CCNE1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                898 (CCNE1)
+               05206 MicroRNAs in cancer
+                898 (CCNE1)
+               05203 Viral carcinogenesis
+                898 (CCNE1)
+               05215 Prostate cancer
+                898 (CCNE1)
+               05222 Small cell lung cancer
+                898 (CCNE1)
+              Infectious diseases
+               05162 Measles
+                898 (CCNE1)
+               05161 Hepatitis B
+                898 (CCNE1)
+               05165 Human papillomavirus infection
+                898 (CCNE1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Initiation Factors
+               CDK (cyclin dependent kinase)
+                898 (CCNE1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Cyclins
+                898 (CCNE1)
+POSITION    19q12
+MOTIF       Pfam: Cyclin_N Cyclin_C
+DBLINKS     NCBI-GeneID: 898
+            NCBI-ProteinID: NP_001229
+            OMIM: 123837
+            HGNC: 1589
+            Ensembl: ENSG00000105173
+            Vega: OTTHUMG00000177626
+            Pharos: P24864(Tchem)
+            UniProt: P24864
+STRUCTURE   PDB: 1W98 5L2W
+AASEQ       410
+            MPRERRERDAKERDTMKEDGGAEFSARSRKRKANVTVFLQDPDEEMAKIDRTARDQCGSQ
+            PWDNNAVCADPCSLIPTPDKEDDDRVYPNSTCKPRIIAPSRGSPLPVLSWANREEVWKIM
+            LNKEKTYLRDQHFLEQHPLLQPKMRAILLDWLMEVCEVYKLHRETFYLAQDFFDRYMATQ
+            ENVVKTLLQLIGISSLFIAAKLEEIYPPKLHQFAYVTDGACSGDEILTMELMIMKALKWR
+            LSPLTIVSWLNVYMQVAYLNDLHEVLLPQYPQQIFIQIAELLDLCVLDVDCLEFPYGILA
+            ASALYHFSSSELMQKVSGYQWCDIENCVKWMVPFAMVIRETGSSKLKHFRGVADEDAHNI
+            QTHRDSLDLLDKARAKKAMLSEQNRASPLPSGLLTPPQSGKKQSSGPEMA
+NTSEQ       1233
+            atgccgagggagcgcagggagcgggatgcgaaggagcgggacaccatgaaggaggacggc
+            ggcgcggagttctcggctcgctccaggaagaggaaggcaaacgtgaccgtttttttgcag
+            gatccagatgaagaaatggccaaaatcgacaggacggcgagggaccagtgtgggagccag
+            ccttgggacaataatgcagtctgtgcagacccctgctccctgatccccacacctgacaaa
+            gaagatgatgaccgggtttacccaaactcaacgtgcaagcctcggattattgcaccatcc
+            agaggctccccgctgcctgtactgagctgggcaaatagagaggaagtctggaaaatcatg
+            ttaaacaaggaaaagacatacttaagggatcagcactttcttgagcaacaccctcttctg
+            cagccaaaaatgcgagcaattcttctggattggttaatggaggtgtgtgaagtctataaa
+            cttcacagggagaccttttacttggcacaagatttctttgaccggtatatggcgacacaa
+            gaaaatgttgtaaaaactcttttacagcttattgggatttcatctttatttattgcagcc
+            aaacttgaggaaatctatcctccaaagttgcaccagtttgcgtatgtgacagatggagct
+            tgttcaggagatgaaattctcaccatggaattaatgattatgaaggcccttaagtggcgt
+            ttaagtcccctgactattgtgtcctggctgaatgtatacatgcaggttgcatatctaaat
+            gacttacatgaagtgctactgccgcagtatccccagcaaatctttatacagattgcagag
+            ctgttggatctctgtgtcctggatgttgactgccttgaatttccttatggtatacttgct
+            gcttcggccttgtatcatttctcgtcatctgaattgatgcaaaaggtttcagggtatcag
+            tggtgcgacatagagaactgtgtcaagtggatggttccatttgccatggttataagggag
+            acggggagctcaaaactgaagcacttcaggggcgtcgctgatgaagatgcacacaacata
+            cagacccacagagacagcttggatttgctggacaaagcccgagcaaagaaagccatgttg
+            tctgaacaaaatagggcttctcctctccccagtgggctcctcaccccgccacagagcggt
+            aagaagcagagcagcgggccggaaatggcgtga
+///

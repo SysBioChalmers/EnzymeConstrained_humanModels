@@ -1,0 +1,68 @@
+ENTRY       159               CDS       T01001
+NAME        ADSS, ADEH, ADSS_2
+DEFINITION  (RefSeq) adenylosuccinate synthase
+ORTHOLOGY   K01939  adenylosuccinate synthase [EC:6.3.4.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                159 (ADSS)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                159 (ADSS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.4  adenylosuccinate synthase
+                 159 (ADSS)
+POSITION    1q44
+MOTIF       Pfam: Adenylsucc_synt Spore_YpjB
+DBLINKS     NCBI-GeneID: 159
+            NCBI-ProteinID: NP_001117
+            OMIM: 103060
+            HGNC: 292
+            Ensembl: ENSG00000035687
+            Vega: OTTHUMG00000040102
+            Pharos: P30520(Tchem)
+            UniProt: P30520 A0A024R5Q7
+STRUCTURE   PDB: 2V40
+AASEQ       456
+            MAFAETYPAASSLPNGDCGRPRARPGGNRVTVVLGAQWGDEGKGKVVDLLAQDADIVCRC
+            QGGNNAGHTVVVDSVEYDFHLLPSGIINPNVTAFIGNGVVIHLPGLFEEAEKNVQKGKGL
+            EGWEKRLIISDRAHIVFDFHQAADGIQEQQRQEQAGKNLGTTKKGIGPVYSSKAARSGLR
+            MCDLVSDFDGFSERFKVLANQYKSIYPTLEIDIEGELQKLKGYMEKIKPMVRDGVYFLYE
+            ALHGPPKKILVEGANAALLDIDFGTYPFVTSSNCTVGGVCTGLGMPPQNVGEVYGVVKAY
+            TTRVGIGAFPTEQDNEIGELLQTRGREFGVTTGRKRRCGWLDLVLLKYAHMINGFTALAL
+            TKLDILDMFTEIKVGVAYKLDGEIIPHIPANQEVLNKVEVQYKTLPGWNTDISNARAFKE
+            LPVNAQNYVRFIEDELQIPVKWIGVGKSRESMIQLF
+NTSEQ       1371
+            atggcgttcgccgagacctacccggcggcatcctccctgcccaacggcgattgcggccgc
+            cccagggcgcggcccggaggaaaccgggtgacggtggtgctcggtgcgcagtggggcgac
+            gaaggcaaagggaaggtggtggacctgctggcgcaggacgccgacatcgtgtgccgctgc
+            cagggaggaaataatgctggccatacagttgttgtggattctgtggaatatgattttcat
+            ctcttacccagtggaataattaatccaaatgtcactgcattcattggaaatggtgtggta
+            attcatctacctggattgtttgaagaagcagagaaaaatgttcaaaaaggaaaaggacta
+            gaaggctgggaaaaaaggcttattatatctgacagagctcatattgtatttgattttcat
+            caagcagctgatggtatccaggaacaacagagacaagaacaagcaggaaaaaatttgggt
+            acaacaaaaaagggcattggcccagtttattcgtccaaagctgctcggagtggactcagg
+            atgtgcgaccttgtttctgactttgatggcttctctgagaggtttaaagttctagctaac
+            caatacaaatctatataccccactttggaaatagacattgaaggtgaattacaaaaactc
+            aagggttatatggaaaagattaaaccaatggtgagagatggagtttattttctatatgag
+            gccctacatggaccaccaaagaaaatcttggtagaaggtgcaaatgcagcactattagat
+            attgattttgggacttacccttttgtaacctcttcaaattgtactgttggaggtgtttgt
+            actggtttgggtatgccacctcaaaatgttggagaagtgtatggagttgtgaaagcttat
+            acaactagagttggtattggtgcctttcctacagagcaagacaatgaaattggagaatta
+            ttacaaacaaggggtagagagtttggtgtaactactggaaggaaaagaagatgtggctgg
+            ttggacctcgttttgctcaaatatgctcatatgatcaatggatttactgcgttggcactt
+            accaagttggatattttggacatgtttacggaaatcaaagttggagttgcttacaagtta
+            gatggtgaaatcatacctcatatcccagcaaaccaagaagtcttaaataaagttgaagtt
+            caatataagactctcccaggatggaacacagacatatcaaatgcaagggcgtttaaagaa
+            ctacctgttaatgcacaaaactatgttcgatttattgaagatgagcttcaaattccagtt
+            aagtggattggtgttggtaaatccagagaatctatgattcaactcttttaa
+///

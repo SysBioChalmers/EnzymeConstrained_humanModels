@@ -1,0 +1,73 @@
+ENTRY       54583             CDS       T01001
+NAME        EGLN1, C1orf12, ECYT3, HALAH, HIF-PH2, HIFPH2, HPH-2, HPH2, PHD2, SM20, ZMYND6
+DEFINITION  (RefSeq) egl-9 family hypoxia inducible factor 1
+ORTHOLOGY   K09592  hypoxia-inducible factor prolyl hydroxylase [EC:1.14.11.29]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04066  HIF-1 signaling pathway
+            hsa05200  Pathways in cancer
+            hsa05211  Renal cell carcinoma
+DISEASE     H00236  Congenital polycythemia
+DRUG_TARGET Roxadustat: D10593
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                54583 (EGLN1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                54583 (EGLN1)
+               05211 Renal cell carcinoma
+                54583 (EGLN1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.29  hypoxia-inducible factor-proline dioxygenase
+                 54583 (EGLN1)
+POSITION    1q42.2
+MOTIF       Pfam: 2OG-FeII_Oxy_3 zf-MYND 2OG-FeII_Oxy_4 zf-Mss51
+DBLINKS     NCBI-GeneID: 54583
+            NCBI-ProteinID: NP_071334
+            OMIM: 606425
+            HGNC: 1232
+            Ensembl: ENSG00000135766
+            Vega: OTTHUMG00000038027
+            Pharos: Q9GZT9(Tchem)
+            UniProt: Q9GZT9 R4SCQ0
+STRUCTURE   PDB: 4BQY 2HBT 5LB6 5LBB 3OUI 2G19 4UWD 5LBE 4BQW 4BQX 5L9R
+                 5LBC 5L9V 2HBU 5LBF 5LAT 5L9B 2Y33 3HQR 2Y34 5LAS 4JZR
+                 5V18 4KBZ 2G1M 3OUJ 3HQU 3OUH 5LA9 5A3U
+AASEQ       426
+            MANDSGGPGGPSPSERDRQYCELCGKMENLLRCSRCRSSFYCCKEHQRQDWKKHKLVCQG
+            SEGALGHGVGPHQHSGPAPPAAVPPPRAGAREPRKAAARRDNASGDAAKGKVKAKPPADP
+            AAAASPCRAAAGGQGSAVAAEAEPGKEEPPARSSLFQEKANLYPPSNTPGDALSPGGGLR
+            PNGQTKPLPALKLALEYIVPCMNKHGICVVDDFLGKETGQQIGDEVRALHDTGKFTDGQL
+            VSQKSDSSKDIRGDKITWIEGKEPGCETIGLLMSSMDDLIRHCNGKLGSYKINGRTKAMV
+            ACYPGNGTGYVRHVDNPNGDGRCVTCIYYLNKDWDAKVSGGILRIFPEGKAQFADIEPKF
+            DRLLFFWSDRRNPHEVQPAYATRYAITVWYFDADERARAKVKYLTGEKGVRVELNKPSDS
+            VGKDVF
+NTSEQ       1281
+            atggccaatgacagcggcgggcccggcgggccgagcccgagcgagcgagaccggcagtac
+            tgcgagctgtgcgggaagatggagaacctgctgcgctgcagccgctgccgcagctccttc
+            tactgctgcaaggagcaccagcgtcaggactggaagaagcacaagctcgtgtgccagggc
+            agcgagggcgccctcggccacggagtgggcccacaccagcattccggccccgcgccgccg
+            gctgcagtgccgccgcccagggccggggcccgggagcccaggaaggcagcggcgcgccgg
+            gacaacgcctccggggacgcggccaagggaaaagtaaaggccaagcccccggccgaccca
+            gcggcggccgcgtcgccgtgtcgtgcggccgccggcggccagggctcggcggtggctgcc
+            gaagccgagcccggcaaggaggagccgccggcccgctcatcgctgttccaggagaaggcg
+            aacctgtaccccccaagcaacacgcccggggatgcgctgagccccggcggcggcctgcgg
+            cccaacgggcagacgaagcccctgccggcgctgaagctggcgctcgagtacatcgtgccg
+            tgcatgaacaagcacggcatctgtgtggtggacgacttcctcggcaaggagaccggacag
+            cagatcggcgacgaggtgcgcgccctgcacgacaccgggaagttcacggacgggcagctg
+            gtcagccagaagagtgactcgtccaaggacatccgaggcgataagatcacctggatcgag
+            ggcaaggagcccggctgcgaaaccattgggctgctcatgagcagcatggacgacctgata
+            cgccactgtaacgggaagctgggcagctacaaaatcaatggccggacgaaagccatggtt
+            gcttgttatccgggcaatggaacgggttatgtacgtcatgttgataatccaaatggagat
+            ggaagatgtgtgacatgtatatattatcttaataaagactgggatgccaaggtaagtgga
+            ggtatacttcgaatttttccagaaggcaaagcccagtttgctgacattgaacccaaattt
+            gatagactgctgtttttctggtctgaccgtcgcaaccctcatgaagtacaaccagcatat
+            gctacaaggtacgcaataactgtttggtattttgatgcagatgagagagcacgagctaaa
+            gtaaaatatctaacaggtgaaaaaggtgtgagggttgaactcaataaaccttcagattcg
+            gtcggtaaagacgtcttctag
+///

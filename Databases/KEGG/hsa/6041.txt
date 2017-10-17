@@ -1,0 +1,91 @@
+ENTRY       6041              CDS       T01001
+NAME        RNASEL, PRCA1, RNS4
+DEFINITION  (RefSeq) ribonuclease L
+ORTHOLOGY   K01165  ribonuclease L
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04621  NOD-like receptor signaling pathway
+            hsa05160  Hepatitis C
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                6041 (RNASEL)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                6041 (RNASEL)
+               05160 Hepatitis C
+                6041 (RNASEL)
+               05168 Herpes simplex infection
+                6041 (RNASEL)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Other group
+              Other families
+               6041 (RNASEL)
+POSITION    1q25.3
+MOTIF       Pfam: Ank_2 Ank_4 Ank_5 Ank_3 Ank Ribonuc_2-5A Pkinase Pkinase_Tyr Kdo RIO1 Choline_kinase
+DBLINKS     NCBI-GeneID: 6041
+            NCBI-ProteinID: NP_066956
+            OMIM: 180435
+            HGNC: 10050
+            Ensembl: ENSG00000135828
+            Vega: OTTHUMG00000035213
+            Pharos: Q05823(Tchem)
+            UniProt: Q05823
+STRUCTURE   PDB: 1WDY 4OAV 4G8K 4OAU 4G8L
+AASEQ       741
+            MESRDHNNPQEGPTSSSGRRAAVEDNHLLIKAVQNEDVDLVQQLLEGGANVNFQEEEGGW
+            TPLHNAVQMSREDIVELLLRHGADPVLRKKNGATPFILAAIAGSVKLLKLFLSKGADVNE
+            CDFYGFTAFMEAAVYGKVKALKFLYKRGANVNLRRKTKEDQERLRKGGATALMDAAEKGH
+            VEVLKILLDEMGADVNACDNMGRNALIHALLSSDDSDVEAITHLLLDHGADVNVRGERGK
+            TPLILAVEKKHLGLVQRLLEQEHIEINDTDSDGKTALLLAVELKLKKIAELLCKRGASTD
+            CGDLVMTARRNYDHSLVKVLLSHGAKEDFHPPAEDWKPQSSHWGAALKDLHRIYRPMIGK
+            LKFFIDEKYKIADTSEGGIYLGFYEKQEVAVKTFCEGSPRAQREVSCLQSSRENSHLVTF
+            YGSESHRGHLFVCVTLCEQTLEACLDVHRGEDVENEEDEFARNVLSSIFKAVQELHLSCG
+            YTHQDLQPQNILIDSKKAAHLADFDKSIKWAGDPQEVKRDLEDLGRLVLYVVKKGSISFE
+            DLKAQSNEEVVQLSPDEETKDLIHRLFHPGEHVRDCLSDLLGHPFFWTWESRYRTLRNVG
+            NESDIKTRKSESEILRLLQPGPSEHSKSFDKWTTKINECVMKKMNKFYEKRGNFYQNTVG
+            DLLKFIRNLGEHIDEEKHKKMKLKIGDPSLYFQKTFPDLVIYVYTKLQNTEYRKHFPQTH
+            SPNKPQCDGAGGASGLASPGC
+NTSEQ       2226
+            atggagagcagggatcataacaacccccaggagggacccacgtcctccagcggtagaagg
+            gctgcagtggaagacaatcacttgctgattaaagctgttcaaaacgaagatgttgacctg
+            gtccagcaattgctggaaggtggagccaatgttaatttccaggaagaggaagggggctgg
+            acacctctgcataacgcagtacaaatgagcagggaggacattgtggaacttctgcttcgt
+            catggtgctgaccctgttctgaggaagaagaatggggccacgccttttatcctcgcagcg
+            attgcggggagcgtgaagctgctgaaacttttcctttctaaaggagcagatgtcaatgag
+            tgtgatttttatggcttcacagccttcatggaagccgctgtgtatggtaaggtcaaagcc
+            ctaaaattcctttataagagaggagcaaatgtgaatttgaggcgaaagacaaaggaggat
+            caagagcggctgaggaaaggaggggccacagctctcatggacgctgctgaaaaaggacac
+            gtagaggtcttgaagattctccttgatgagatgggggcagatgtaaacgcctgtgacaat
+            atgggcagaaatgccttgatccatgctctcctgagctctgacgatagtgatgtggaggct
+            attacgcatctgctgctggaccatggggctgatgtcaatgtgaggggagaaagagggaag
+            actcccctgatcctggcagtggagaagaagcacttgggtttggtgcagaggcttctggag
+            caagagcacatagagattaatgacacagacagtgatggcaaaacagcactgctgcttgct
+            gttgaactcaaactgaagaaaatcgccgagttgctgtgcaaacgtggagccagtacagat
+            tgtggggatcttgttatgacagcgaggcggaattatgaccattcccttgtgaaggttctt
+            ctctctcatggagccaaagaagattttcaccctcctgctgaagactggaagcctcagagc
+            tcacactggggggcagccctgaaggatctccacagaatataccgccctatgattggcaaa
+            ctcaagttctttattgatgaaaaatacaaaattgctgatacttcagaaggaggcatctac
+            ctggggttctatgagaagcaagaagtagctgtgaagacgttctgtgagggcagcccacgt
+            gcacagcgggaagtctcttgtctgcaaagcagccgagagaacagtcacttggtgacattc
+            tatgggagtgagagccacaggggccacttgtttgtgtgtgtcaccctctgtgagcagact
+            ctggaagcgtgtttggatgtgcacagaggggaagatgtggaaaatgaggaagatgaattt
+            gcccgaaatgtcctgtcatctatatttaaggctgttcaagaactacacttgtcctgtgga
+            tacacccaccaggatctgcaaccacaaaacatcttaatagattctaagaaagctgctcac
+            ctggcagattttgataagagcatcaagtgggctggagatccacaggaagtcaagagagat
+            ctagaggaccttggacggctggtcctctatgtggtaaagaagggaagcatctcatttgag
+            gatctgaaagctcaaagtaatgaagaggtggttcaactttctccagatgaggaaactaag
+            gacctcattcatcgtctcttccatcctggggaacatgtgagggactgtctgagtgacctg
+            ctgggtcatcccttcttttggacttgggagagccgctataggacgcttcggaatgtggga
+            aatgaatccgacatcaaaacacgaaaatctgaaagtgagatcctcagactactgcaacct
+            gggccttctgaacattccaaaagttttgacaagtggacgactaagattaatgaatgtgtt
+            atgaaaaaaatgaataagttttatgaaaaaagaggcaatttctaccagaacactgtgggt
+            gatctgctaaagttcatccggaatttgggagaacacattgatgaagaaaagcataaaaag
+            atgaaattaaaaattggagacccttccctgtattttcagaagacatttccagatctggtg
+            atctatgtctacacaaaactacagaacacagaatatagaaagcatttcccccaaacccac
+            agtccaaacaagcctcagtgtgatggagctggtggggccagtgggttggccagccctggg
+            tgctga
+///

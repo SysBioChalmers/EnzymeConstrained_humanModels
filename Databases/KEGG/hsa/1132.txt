@@ -1,0 +1,172 @@
+ENTRY       1132              CDS       T01001
+NAME        CHRM4, HM4, M4R
+DEFINITION  (RefSeq) cholinergic receptor muscarinic 4
+ORTHOLOGY   K04132  muscarinic acetylcholine receptor M4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04725  Cholinergic synapse
+            hsa04810  Regulation of actin cytoskeleton
+DRUG_TARGET Acetylcholine (DG01133): D00999
+            Aclatonium (DG01291): D01955
+            Aclidinium bromide: D08837
+            Anisotropine methylbromide: D00232
+            Atropine (DG00052): D00113 D02069
+            Atropine oxide (DG01243): D03011 D07477
+            Batefenterol (DG01627): D10545 D10546
+            Benapryzine hydrochloride: D03076
+            Benzatropine (DG00859): D00778 D07511
+            Benzetimide (DG01301): D03087 D07513
+            Benzilone: D03088
+            Bethanechol (DG00991): D01000
+            Bevonium: D01532
+            Biperiden (DG00852): D00779 D02246 D02247
+            Butropium bromide: D01491
+            Butylscopolamine: D01451
+            Carbachol: D00524
+            Carpronium (DG01289): D01175 D09752
+            Chlorpromazine (DG00867): D00270 D00789 D03274 D04034 D09819
+            Choline alfoscerate: D07349
+            Cimetropium bromide: D07099
+            Clidinium bromide: D00716
+            Cyclopentolate (DG01141): D01002 D07759
+            Darotropium bromide: D09402
+            Dexetimide (DG00856): D03711 D07804
+            Diethazine (DG01921): D02603 D07823
+            Diphemanil: D06878
+            Diphenylpiperidinomethyldioxolan iodide: D01600
+            Diponium bromide: D01463
+            Elantrine: D03970
+            Elucaine: D03979
+            Etomidoline: D01359
+            Etybenzatropine: D04087
+            Eucatropine hydrochloride: D04116
+            Fenpiverinium: D07070
+            Fentonium: D07951
+            Fesoterodine (DG00483): D07226 D08923
+            Flutropium bromide: D02417
+            Heteronium bromide: D04434
+            Hexocyclium (DG00039): D01003
+            Homatropine (DG01142): D01004 D02070
+            Hyoscyamine (DG00053): D00147 D00719 D01648 D04479
+            Ipratropium bromide: D02212
+            Isopropamide (DG00038): D01005
+            Mazaticol (DG00857): D03264 D08157
+            Mepenzolate (DG00040): D00720
+            Methacholine (DG01290): D04970
+            Methantheline (DG00036): D00721
+            Methscopolamine bromide: D00715
+            Methylatropine (DG01242): D01077 D03814
+            Methylbenactyzium bromide: D01315
+            Methylscopolamine: D01976
+            Metixene (DG00853): D01871 D08209
+            Metoquizine: D05012
+            Milameline hydrochloride: D05035
+            Orphenadrine (DG01252): D08305
+            Orphenadrine (chloride): D02599
+            Orphenadrine (citrate): D00774
+            Oxapium iodide: D01815
+            Oxitropium bromide: D01946
+            Oxybutynin (DG00478): D00465 D00722
+            Parapenzolate bromide: D05360
+            Pentapiperium methylsulfate: D05418
+            Penthienate: D07081
+            Phencarbamide: D05452
+            Phenglutarimide: D07301
+            Pilocarpine (DG00992): D00525 D02200 D05478 D08376
+            Pipenzolate: D07084
+            Piperidolate (DG00034): D01165 D08382
+            Pipethanate (DG01255): D01521 D08384
+            Pipethanate ethobromide: D01987
+            Pirenzepine (DG00026): D01297 D05276 D08389
+            Piroheptine (DG01272): D01231 D08395
+            Poldine: D05535
+            Pridinol (DG00774): D02064 D08418 D08419
+            Prifinium bromide: D01377
+            Procyclidine (DG00854): D00782 D08425
+            Profenamine (DG00855): D01118 D03276 D08426
+            Propantheline (DG00035): D00481
+            Propenzolate hydrochloride: D05628
+            Propiverine (DG00479): D01007 D08441
+            Sabcomeline hydrochloride: D05779
+            Scopolamine (DG00065): D00138 D02071
+            Tazomeline citrate: D06015
+            Tematropium methylsulfate: D06061
+            Temiverine hydrochloride hydrate: D01926
+            Tiemonium (DG01254): D08595
+            Tiemonium iodide: D01201
+            Timepidium bromide (DG00041): D02535
+            Tofenacin hydrochloride: D06175
+            Toquizine: D06192
+            Triampyzine sulfate: D06217
+            Tridihexethyl (DG00037): D00723
+            Trihexyphenidyl (DG00851): D00787 D08638
+            Trimebutine (DG00031): D01500 D08639
+            Tropatepine (DG00858): D07303 D08653
+            Tropicamide: D00397
+            Trospium: D01103
+            Umeclidinium (DG01253): D10180
+            Umeclidinium bromide: D10181
+            Valethamate: D01538
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1132 (CHRM4)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                1132 (CHRM4)
+             Organismal Systems
+              Nervous system
+               04725 Cholinergic synapse
+                1132 (CHRM4)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Acetylcholine (muscarinic) [OT]
+                1132 (CHRM4)
+POSITION    11p11.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4
+DBLINKS     NCBI-GeneID: 1132
+            NCBI-ProteinID: NP_000732
+            OMIM: 118495
+            HGNC: 1953
+            Ensembl: ENSG00000180720
+            Vega: OTTHUMG00000154371
+            Pharos: P08173(Tclin)
+            UniProt: P08173
+AASEQ       479
+            MANFTPVNGSSGNQSVRLVTSSSHNRYETVEMVFIATVTGSLSLVTVVGNILVMLSIKVN
+            RQLQTVNNYFLFSLACADLIIGAFSMNLYTVYIIKGYWPLGAVVCDLWLALDYVVSNASV
+            MNLLIISFDRYFCVTKPLTYPARRTTKMAGLMIAAAWVLSFVLWAPAILFWQFVVGKRTV
+            PDNQCFIQFLSNPAVTFGTAIAAFYLPVVIMTVLYIHISLASRSRVHKHRPEGPKEKKAK
+            TLAFLKSPLMKQSVKKPPPGEAAREELRNGKLEEAPPPALPPPPRPVADKDTSNESSSGS
+            ATQNTKERPATELSTTEATTPAMPAPPLQPRALNPASRWSKIQIVTKQTGNECVTAIEIV
+            PATPAGMRPAANVARKFASIARNQVRKKRQMAARERKVTRTIFAILLAFILTWTPYNVMV
+            LVNTFCQSCIPDTVWSIGYWLCYVNSTINPACYALCNATFKKTFRHLLLCQYRNIGTAR
+NTSEQ       1440
+            atggccaacttcacacctgtcaatggcagctcgggcaatcagtccgtgcgcctggtcacg
+            tcatcatcccacaatcgctatgagacggtggaaatggtcttcattgccacagtgacaggc
+            tccctgagcctggtgactgtcgtgggcaacatcctggtgatgctgtccatcaaggtcaac
+            aggcagctgcagacagtcaacaactacttcctcttcagcctggcgtgtgctgatctcatc
+            ataggcgccttctccatgaacctctacaccgtgtacatcatcaagggctactggcccctg
+            ggcgccgtggtctgcgacctgtggctggccctggactacgtggtgagcaacgcctccgtc
+            atgaaccttctcatcatcagctttgaccgctacttctgcgtcaccaagcctctcacctac
+            cctgcccggcgcaccaccaagatggcaggcctcatgattgctgctgcctgggtactgtcc
+            ttcgtgctctgggcgcctgccatcttgttctggcagtttgtggtgggtaagcggacggtg
+            cccgacaaccagtgcttcatccagttcctgtccaacccagcagtgacctttggcacagcc
+            attgctgccttctacctgcctgtggtcatcatgacggtgctgtacatccacatctccctg
+            gccagtcgcagccgagtccacaagcaccggcccgagggcccgaaggagaagaaagccaag
+            acgctggccttcctcaagagcccactaatgaagcagagcgtcaagaagcccccgcccggg
+            gaggccgcccgggaggagctgcgcaatggcaagctggaggaggcccccccgccagcgctg
+            ccaccgccaccgcgccccgtggctgataaggacacttccaatgagtccagctcaggcagt
+            gccacccagaacaccaaggaacgcccagccacagagctgtccaccacagaggccaccacg
+            cccgccatgcccgcccctcccctgcagccgcgggccctcaacccagcctccagatggtcc
+            aagatccagattgtgacgaagcagacaggcaatgagtgtgtgacagccattgagattgtg
+            cctgccacgccggctggcatgcgccctgcggccaacgtggcccgcaagttcgccagcatc
+            gctcgcaaccaggtgcgcaagaagcggcagatggcggcccgggagcgcaaagtgacacga
+            acgatctttgccattctgctagccttcatcctcacctggacgccctacaacgtcatggtc
+            ctggtgaacaccttctgccagagctgcatccctgacacggtgtggtccattggctactgg
+            ctctgctacgtcaacagcaccatcaaccctgcctgctatgctctgtgcaacgccaccttt
+            aaaaagaccttccggcacctgctgctgtgccagtatcggaacatcggcactgccaggtag
+///

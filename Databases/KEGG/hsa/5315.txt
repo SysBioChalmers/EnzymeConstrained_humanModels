@@ -1,0 +1,113 @@
+ENTRY       5315              CDS       T01001
+NAME        PKM, CTHBP, HEL-S-30, OIP3, PK3, PKM2, TCB, THBP1
+DEFINITION  (RefSeq) pyruvate kinase, muscle
+ORTHOLOGY   K00873  pyruvate kinase [EC:2.7.1.40]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00230  Purine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa04922  Glucagon signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa05165  Human papillomavirus infection
+            hsa05203  Viral carcinogenesis
+            hsa05230  Central carbon metabolism in cancer
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                5315 (PKM)
+               01230 Biosynthesis of amino acids
+                5315 (PKM)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                5315 (PKM)
+               00620 Pyruvate metabolism
+                5315 (PKM)
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5315 (PKM)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                5315 (PKM)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                5315 (PKM)
+               05203 Viral carcinogenesis
+                5315 (PKM)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                5315 (PKM)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                5315 (PKM)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.40  pyruvate kinase
+                 5315 (PKM)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               5315 (PKM)
+POSITION    15q23
+MOTIF       Pfam: PK PK_C HpcH_HpaI IMPDH
+DBLINKS     NCBI-GeneID: 5315
+            NCBI-ProteinID: NP_002645
+            OMIM: 179050
+            HGNC: 9021
+            Ensembl: ENSG00000067225
+            Vega: OTTHUMG00000172709
+            Pharos: P14618(Tchem)
+            UniProt: P14618 V9HWB8
+STRUCTURE   PDB: 3GR4 3GQY 3ME3 3H6O 3G2G 3BJF 5X1V 3U2Z 1ZJH 4QG8 4QGC
+                 4B2D 4G1N 4JPG 4QG9 4YJ5 3BJT 4FXF 4RPP 3SRH 1T5A 3SRF
+                 4WJ8 4FXJ 3SRD 5X1W 4QG6
+AASEQ       531
+            MSKPHSEAGTAFIQTQQLHAAMADTFLEHMCRLDIDSPPITARNTGIICTIGPASRSVET
+            LKEMIKSGMNVARLNFSHGTHEYHAETIKNVRTATESFASDPILYRPVAVALDTKGPEIR
+            TGLIKGSGTAEVELKKGATLKITLDNAYMEKCDENILWLDYKNICKVVEVGSKIYVDDGL
+            ISLQVKQKGADFLVTEVENGGSLGSKKGVNLPGAAVDLPAVSEKDIQDLKFGVEQDVDMV
+            FASFIRKASDVHEVRKVLGEKGKNIKIISKIENHEGVRRFDEILEASDGIMVARGDLGIE
+            IPAEKVFLAQKMMIGRCNRAGKPVICATQMLESMIKKPRPTRAEGSDVANAVLDGADCIM
+            LSGETAKGDYPLEAVRMQHLIAREAEAAIYHLQLFEELRRLAPITSDPTEATAVGAVEAS
+            FKCCSGAIIVLTKSGRSAHQVARYRPRAPIIAVTRNPQTARQAHLYRGIFPVLCKDPVQE
+            AWAEDVDLRVNFAMNVGKARGFFKKGDVVIVLTGWRPGSGFTNTMRVVPVP
+NTSEQ       1596
+            atgtcgaagccccatagtgaagccgggactgccttcattcagacccagcagctgcacgca
+            gccatggctgacacattcctggagcacatgtgccgcctggacattgattcaccacccatc
+            acagcccggaacactggcatcatctgtaccattggcccagcttcccgatcagtggagacg
+            ttgaaggagatgattaagtctggaatgaatgtggctcgtctgaacttctctcatggaact
+            catgagtaccatgcggagaccatcaagaatgtgcgcacagccacggaaagctttgcttct
+            gaccccatcctctaccggcccgttgctgtggctctagacactaaaggacctgagatccga
+            actgggctcatcaagggcagcggcactgcagaggtggagctgaagaagggagccactctc
+            aaaatcacgctggataacgcctacatggaaaagtgtgacgagaacatcctgtggctggac
+            tacaagaacatctgcaaggtggtggaagtgggcagcaagatctacgtggatgatgggctt
+            atttctctccaggtgaagcagaaaggtgccgacttcctggtgacggaggtggaaaatggt
+            ggctccttgggcagcaagaagggtgtgaaccttcctggggctgctgtggacttgcctgct
+            gtgtcggagaaggacatccaggatctgaagtttggggtcgagcaggatgttgatatggtg
+            tttgcgtcattcatccgcaaggcatctgatgtccatgaagttaggaaggtcctgggagag
+            aagggaaagaacatcaagattatcagcaaaatcgagaatcatgagggggttcggaggttt
+            gatgaaatcctggaggccagtgatgggatcatggtggctcgtggtgatctaggcattgag
+            attcctgcagagaaggtcttccttgctcagaagatgatgattggacggtgcaaccgagct
+            gggaagcctgtcatctgtgctactcagatgctggagagcatgatcaagaagccccgcccc
+            actcgggctgaaggcagtgatgtggccaatgcagtcctggatggagccgactgcatcatg
+            ctgtctggagaaacagccaaaggggactatcctctggaggctgtgcgcatgcagcacctg
+            attgcccgtgaggcagaggctgccatctaccacttgcaattatttgaggaactccgccgc
+            ctggcgcccattaccagcgaccccacagaagccaccgccgtgggtgccgtggaggcctcc
+            ttcaagtgctgcagtggggccataatcgtcctcaccaagtctggcaggtctgctcaccag
+            gtggccagataccgcccacgtgcccccatcattgctgtgacccggaatccccagacagct
+            cgtcaggcccacctgtaccgtggcatcttccctgtgctgtgcaaggacccagtccaggag
+            gcctgggctgaggacgtggacctccgggtgaactttgccatgaatgttggcaaggcccga
+            ggcttcttcaagaagggagatgtggtcattgtgctgaccggatggcgccctggctccggc
+            ttcaccaacaccatgcgtgttgttcctgtgccgtga
+///

@@ -1,0 +1,91 @@
+ENTRY       5583              CDS       T01001
+NAME        PRKCH, PKC-L, PKCL, PRKCL, nPKC-eta
+DEFINITION  (RefSeq) protein kinase C eta
+ORTHOLOGY   K18051  novel protein kinase C eta type [EC:2.7.11.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04270  Vascular smooth muscle contraction
+            hsa04750  Inflammatory mediator regulation of TRP channels
+DRUG_TARGET Sotrastaurin (DG01406): D09671 D09718
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                5583 (PRKCH)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5583 (PRKCH)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.13  protein kinase C
+                 5583 (PRKCH)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              PKC family [OT]
+               5583 (PRKCH)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               5583 (PRKCH)
+POSITION    14q23.1
+MOTIF       Pfam: Pkinase Pkinase_Tyr C1_1 C2 Pkinase_C Kinase-like C1_2 FTA2 Haspin_kinase APH Kdo
+DBLINKS     NCBI-GeneID: 5583
+            NCBI-ProteinID: NP_006246
+            OMIM: 605437
+            HGNC: 9403
+            Ensembl: ENSG00000027075
+            Vega: OTTHUMG00000152341
+            Pharos: P24723(Tchem)
+            UniProt: P24723
+STRUCTURE   PDB: 2FK9 3TXO
+AASEQ       683
+            MSSGTMKFNGYLRVRIGEAVGLQPTRWSLRHSLFKKGHQLLDPYLTVSVDQVRVGQTSTK
+            QKTNKPTYNEEFCANVTDGGHLELAVFHETPLGYDHFVANCTLQFQELLRTTGASDTFEG
+            WVDLEPEGKVFVVITLTGSFTEATLQRDRIFKHFTRKRQRAMRRRVHQINGHKFMATYLR
+            QPTYCSHCREFIWGVFGKQGYQCQVCTCVVHKRCHHLIVTACTCQNNINKVDSKIAEQRF
+            GINIPHKFSIHNYKVPTFCDHCGSLLWGIMRQGLQCKICKMNVHIRCQANVAPNCGVNAV
+            ELAKTLAGMGLQPGNISPTSKLVSRSTLRRQGKESSKEGNGIGVNSSNRLGIDNFEFIRV
+            LGKGSFGKVMLARVKETGDLYAVKVLKKDVILQDDDVECTMTEKRILSLARNHPFLTQLF
+            CCFQTPDRLFFVMEFVNGGDLMFHIQKSRRFDEARARFYAAEIISALMFLHDKGIIYRDL
+            KLDNVLLDHEGHCKLADFGMCKEGICNGVTTATFCGTPDYIAPEILQEMLYGPAVDWWAM
+            GVLLYEMLCGHAPFEAENEDDLFEAILNDEVVYPTWLHEDATGILKSFMTKNPTMRLGSL
+            TQGGEHAILRHPFFKEIDWAQLNHRQIEPPFRPRIKSREDVSNFDPDFIKEEPVLTPIDE
+            GHLPMINQDEFRNFSYVSPELQP
+NTSEQ       2052
+            atgtcgtctggcaccatgaagttcaatggctatttgagggtccgcatcggtgaggcagtg
+            gggctgcagcccacccgctggtccctgcgccactcgctcttcaagaagggccaccagctg
+            ctggacccctatctgacggtgagcgtggaccaggtgcgcgtgggccagaccagcaccaag
+            cagaagaccaacaaacccacgtacaacgaggagttttgcgctaacgtcaccgacggcggc
+            cacctcgagttggccgtcttccacgagacgcccctgggctacgaccacttcgtggccaac
+            tgcaccctgcagttccaggagctgctgcgcacgaccggcgcctcggacaccttcgagggt
+            tgggtggatctcgagccagaggggaaagtatttgtggtaataacccttaccgggagtttc
+            actgaagctactctccagagagaccggatcttcaaacattttaccaggaagcgccaaagg
+            gctatgcgaaggcgagtccaccagatcaatggacacaagttcatggccacgtatctgagg
+            cagcccacctactgctctcactgcagggagtttatctggggagtgtttgggaaacagggt
+            tatcagtgccaagtgtgcacctgtgtcgtccataaacgctgccatcatctaattgttaca
+            gcctgtacttgccaaaacaatattaacaaagtggattcaaagattgcagaacagaggttc
+            gggatcaacatcccacacaagttcagcatccacaactacaaagtgccaacattctgcgat
+            cactgtggctcactgctctggggaataatgcgacaaggacttcagtgtaaaatatgtaaa
+            atgaatgtgcatattcgatgtcaagcgaacgtggcccctaactgtggggtaaatgcggtg
+            gaacttgccaagaccctggcagggatgggtctccaacccggaaatatttctccaacctcg
+            aaactcgtttccagatcgaccctaagacgacagggaaaggagagcagcaaagaaggaaat
+            gggattggggttaattcttccaaccgacttggtatcgacaactttgagttcatccgagtg
+            ttggggaaggggagttttgggaaggtgatgcttgcaagagtaaaagaaacaggagacctc
+            tatgctgtgaaggtgctgaagaaggacgtgattctgcaggatgatgatgtggaatgcacc
+            atgaccgagaaaaggatcctgtctctggcccgcaatcaccccttcctcactcagttgttc
+            tgctgctttcagacccccgatcgtctgttttttgtgatggagtttgtgaatgggggtgac
+            ttgatgttccacattcagaagtctcgtcgttttgatgaagcacgagctcgcttctatgct
+            gcagaaatcatttcggctctcatgttcctccatgataaaggaatcatctatagagatctg
+            aaactggacaatgtcctgttggaccacgagggtcactgtaaactggcagacttcggaatg
+            tgcaaggaggggatttgcaatggtgtcaccacggccacattctgtggcacgccagactat
+            atcgctccagagatcctccaggaaatgctgtacgggcctgcagtagactggtgggcaatg
+            ggcgtgttgctctatgagatgctctgtggtcacgcgccttttgaggcagagaacgaagat
+            gacctctttgaggccatactgaatgatgaggtggtctaccctacctggctccatgaagat
+            gccacagggatcctaaaatctttcatgaccaagaaccccaccatgcgcttgggcagcctg
+            actcagggaggcgagcacgccatcttgagacatcctttttttaaggaaatcgactgggcc
+            cagctgaaccatcgccaaatagaaccgcctttcagacccagaatcaaatcccgagaagat
+            gtcagtaattttgaccctgacttcataaaggaagagccagttttaactccaattgatgag
+            ggacatcttccaatgattaaccaggatgagtttagaaacttttcctatgtgtctccagaa
+            ttgcaaccatag
+///

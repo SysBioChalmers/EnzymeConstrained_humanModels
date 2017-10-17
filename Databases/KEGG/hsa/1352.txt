@@ -1,0 +1,78 @@
+ENTRY       1352              CDS       T01001
+NAME        COX10
+DEFINITION  (RefSeq) COX10, heme A:farnesyltransferase cytochrome c oxidase assembly factor
+ORTHOLOGY   K02257  protoheme IX farnesyltransferase [EC:2.5.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00154  Cytochrome c oxidase
+DISEASE     H01354  Leigh syndrome
+            H01368  Cytochrome c oxidase (COX) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                1352 (COX10)
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                1352 (COX10)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.-  
+                 1352 (COX10)
+            Prenyltransferases [BR:hsa01006]
+             Compound prenylation
+              Protoheme farnesyltransferase
+               1352 (COX10)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitochondrial respiratory chain complex assembly factors
+               Complex-IV assembly factors
+                1352 (COX10)
+POSITION    17p12
+MOTIF       Pfam: UbiA
+DBLINKS     NCBI-GeneID: 1352
+            NCBI-ProteinID: NP_001294
+            OMIM: 602125
+            HGNC: 2260
+            Ensembl: ENSG00000006695
+            Vega: OTTHUMG00000058814
+            Pharos: Q12887(Tbio)
+            UniProt: Q12887
+AASEQ       443
+            MAASPHTLSSRLLTGCVGGSVWYLERRTIQDSPHKFLHLLRNVNKQWITFQHFSFLKRMY
+            VTQLNRSHNQQVRPKPEPVASPFLEKTSSGQAKAEIYEMRPLSPPSLSLSRKPNEKELIE
+            LEPDSVIEDSIDVGKETKEEKRWKEMKLQVYDLPGILARLSKIKLTALVVSTTAAGFALA
+            PGPFDWPCFLLTSVGTGLASCAANSINQFFEVPFDSNMNRTKNRPLVRGQISPLLAVSFA
+            TCCAVPGVAILTLGVNPLTGALGLFNIFLYTCCYTPLKRISIANTWVGAVVGAIPPVMGW
+            TAATGSLDAGAFLLGGILYSWQFPHFNALSWGLREDYSRGGYCMMSVTHPGLCRRVALRH
+            CLALLVLSAAAPVLDITTWTFPIMALPINAYISYLGFRFYVDADRRSSRRLFFCSLWHLP
+            LLLLLMLTCKRPSGGGDAGPPPS
+NTSEQ       1332
+            atggccgcatctccgcacactctctcctcacgcctcctgacaggttgcgtaggaggctct
+            gtctggtatcttgaaagaagaactatacaggactcccctcacaagttcttacatcttctc
+            aggaatgtcaataagcagtggattacatttcagcactttagcttcctcaaacgcatgtat
+            gtcacacagctgaacagaagccacaaccagcaagtaagacccaagccagaaccagtagca
+            tctcctttccttgaaaaaacatcttcaggtcaagccaaagcagaaatatatgagatgaga
+            cctctctcaccgcccagcctatctttgtccagaaagccaaatgaaaaggaattgatagaa
+            ctagagccagactcagtaattgaagactcaatagatgtagggaaagagacaaaagaggaa
+            aagcggtggaaagagatgaagctgcaagtgtatgatttgccaggaattttggctcgacta
+            tccaaaatcaaactcacagctctggttgtaagtaccactgcagctggatttgcattggct
+            ccgggcccttttgactggccctgtttcctgcttacttctgttgggacaggccttgcatcc
+            tgtgctgccaactccatcaatcagttttttgaggtgccatttgactcaaacatgaatagg
+            acaaagaacagaccgctggttcgtggacagatcagcccattgctagctgtgtcctttgcc
+            acttgttgtgctgttccgggagttgccattctgaccttgggggtgaatccactcacagga
+            gccctggggctcttcaacattttcctgtatacctgctgctacacaccactgaaaaggatc
+            agcattgccaacacatgggtcggagctgtggttggggccatcccgcctgtcatgggctgg
+            acagcggccacgggcagcctcgatgctggcgcatttctcctgggaggaatcctctactcc
+            tggcagtttcctcatttcaacgccctgagctggggcctccgtgaagactactcccggggc
+            ggctactgcatgatgtcggtcacccacccgggcctgtgccggcgcgtggcgctgcgccac
+            tgcctggccctgctcgtgctgtccgcagcagcccctgtgctggacatcaccacatggacc
+            ttccccatcatggcccttcccatcaatgcgtacatctcctacctcggcttccgcttctac
+            gtggacgcagaccgcaggagctcgcggagactgttcttctgcagcctgtggcacctgccg
+            ctgctgctgctgctcatgctcacctgcaagcggccgagcggaggcggggacgcagggccc
+            cctcccagctga
+///

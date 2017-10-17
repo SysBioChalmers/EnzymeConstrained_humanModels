@@ -1,0 +1,93 @@
+ENTRY       7471              CDS       T01001
+NAME        WNT1, BMND16, INT1, OI15
+DEFINITION  (RefSeq) Wnt family member 1
+ORTHOLOGY   K03209  wingless-type MMTV integration site family, member 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+DISEASE     H01593  Osteoporosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                7471 (WNT1)
+               04390 Hippo signaling pathway
+                7471 (WNT1)
+               04150 mTOR signaling pathway
+                7471 (WNT1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                7471 (WNT1)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                7471 (WNT1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                7471 (WNT1)
+               05205 Proteoglycans in cancer
+                7471 (WNT1)
+               05217 Basal cell carcinoma
+                7471 (WNT1)
+               05224 Breast cancer
+                7471 (WNT1)
+              Infectious diseases
+               05166 HTLV-I infection
+                7471 (WNT1)
+               05165 Human papillomavirus infection
+                7471 (WNT1)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Morphogens	(General comment) Effective diffusion, tissue differentiation, development
+               7471 (WNT1)
+POSITION    12q13.12
+MOTIF       Pfam: wnt
+DBLINKS     NCBI-GeneID: 7471
+            NCBI-ProteinID: NP_005421
+            OMIM: 164820
+            HGNC: 12774
+            Ensembl: ENSG00000125084
+            Vega: OTTHUMG00000170403
+            Pharos: P04628(Tbio)
+            UniProt: P04628
+AASEQ       370
+            MGLWALLPGWVSATLLLALAALPAALAANSSGRWWGIVNVASSTNLLTDSKSLQLVLEPS
+            LQLLSRKQRRLIRQNPGILHSVSGGLQSAVRECKWQFRNRRWNCPTAPGPHLFGKIVNRG
+            CRETAFIFAITSAGVTHSVARSCSEGSIESCTCDYRRRGPGGPDWHWGGCSDNIDFGRLF
+            GREFVDSGEKGRDLRFLMNLHNNEAGRTTVFSEMRQECKCHGMSGSCTVRTCWMRLPTLR
+            AVGDVLRDRFDGASRVLYGNRGSNRASRAELLRLEPEDPAHKPPSPHDLVYFEKSPNFCT
+            YSGRLGTAGTAGRACNSSSPALDGCELLCCGRGHRTRTQRVTERCNCTFHWCCHVSCRNC
+            THTRVLHECL
+NTSEQ       1113
+            atggggctctgggcgctgttgcctggctgggtttctgctacgctgctgctggcgctggcc
+            gctctgcccgcagccctggctgccaacagcagtggccgatggtggggtattgtgaacgta
+            gcctcctccacgaacctgcttacagactccaagagtctgcaactggtactcgagcccagt
+            ctgcagctgttgagccgcaaacagcggcgtctgatacgccaaaatccggggatcctgcac
+            agcgtgagtggggggctgcagagtgccgtgcgcgagtgcaagtggcagttccggaatcgc
+            cgctggaactgtcccactgctccagggccccacctcttcggcaagatcgtcaaccgaggc
+            tgtcgagaaacggcgtttatcttcgctatcacctccgccggggtcacccattcggtggcg
+            cgctcctgctcagaaggttccatcgaatcctgcacgtgtgactaccggcggcgcggcccc
+            gggggccccgactggcactgggggggctgcagcgacaacattgacttcggccgcctcttc
+            ggccgggagttcgtggactccggggagaaggggcgggacctgcgcttcctcatgaacctt
+            cacaacaacgaggcaggccgtacgaccgtattctccgagatgcgccaggagtgcaagtgc
+            cacgggatgtccggctcatgcacggtgcgcacgtgctggatgcggctgcccacgctgcgc
+            gccgtgggcgatgtgctgcgcgaccgcttcgacggcgcctcgcgcgtcctgtacggcaac
+            cgcggcagcaaccgcgcttcgcgggcggagctgctgcgcctggagccggaagacccggcc
+            cacaaaccgccctccccccacgacctcgtctacttcgagaaatcgcccaacttctgcacg
+            tacagcggacgcctgggcacagcaggcacggcagggcgcgcctgtaacagctcgtcgccc
+            gcgctggacggctgcgagctgctctgctgcggcaggggccaccgcacgcgcacgcagcgc
+            gtcaccgagcgctgcaactgcaccttccactggtgctgccacgtcagctgccgcaactgc
+            acgcacacgcgcgtactgcacgagtgtctgtga
+///

@@ -1,0 +1,76 @@
+ENTRY       6446              CDS       T01001
+NAME        SGK1, SGK
+DEFINITION  (RefSeq) serum/glucocorticoid regulated kinase 1
+ORTHOLOGY   K13302  serum/glucocorticoid-regulated kinase 1 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04960  Aldosterone-regulated sodium reabsorption
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                6446 (SGK1)
+               04151 PI3K-Akt signaling pathway
+                6446 (SGK1)
+               04150 mTOR signaling pathway
+                6446 (SGK1)
+             Organismal Systems
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                6446 (SGK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 6446 (SGK1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              SGK family [OT]
+               6446 (SGK1)
+POSITION    6q23.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like Pkinase_C FTA2 Kdo Haspin_kinase PX APH Pacs-1
+DBLINKS     NCBI-GeneID: 6446
+            NCBI-ProteinID: NP_005618
+            OMIM: 602958
+            HGNC: 10810
+            Ensembl: ENSG00000118515
+            Vega: OTTHUMG00000015613
+            Pharos: O00141(Tchem)
+            UniProt: O00141
+STRUCTURE   PDB: 2R5T 3HDM 3HDN
+AASEQ       431
+            MTVKTEAAKGTLTYSRMRGMVAILIAFMKQRRMGLNDFIQKIANNSYACKHPEVQSILKI
+            SQPQEPELMNANPSPPPSPSQQINLGPSSNPHAKPSDFHFLKVIGKGSFGKVLLARHKAE
+            EVFYAVKVLQKKAILKKKEEKHIMSERNVLLKNVKHPFLVGLHFSFQTADKLYFVLDYIN
+            GGELFYHLQRERCFLEPRARFYAAEIASALGYLHSLNIVYRDLKPENILLDSQGHIVLTD
+            FGLCKENIEHNSTTSTFCGTPEYLAPEVLHKQPYDRTVDWWCLGAVLYEMLYGLPPFYSR
+            NTAEMYDNILNKPLQLKPNITNSARHLLEGLLQKDRTKRLGAKDDFMEIKSHVFFSLINW
+            DDLINKKITPPFNPNVSGPNDLRHFDPEFTEEPVPNSIGKSPDSVLVTASVKEAAEAFLG
+            FSYAPPTDSFL
+NTSEQ       1296
+            atgacggtgaaaactgaggctgctaagggcaccctcacttactccaggatgaggggcatg
+            gtggcaattctcatcgctttcatgaagcagaggaggatgggtctgaacgactttattcag
+            aagattgccaataactcctatgcatgcaaacaccctgaagttcagtccatcttgaagatc
+            tcccaacctcaggagcctgagcttatgaatgccaacccttctcctccaccaagtccttct
+            cagcaaatcaaccttggcccgtcgtccaatcctcatgctaaaccatctgactttcacttc
+            ttgaaagtgatcggaaagggcagttttggaaaggttcttctagcaagacacaaggcagaa
+            gaagtgttctatgcagtcaaagttttacagaagaaagcaatcctgaaaaagaaagaggag
+            aagcatattatgtcggagcggaatgttctgttgaagaatgtgaagcaccctttcctggtg
+            ggccttcacttctctttccagactgctgacaaattgtactttgtcctagactacattaat
+            ggtggagagttgttctaccatctccagagggaacgctgcttcctggaaccacgggctcgt
+            ttctatgctgctgaaatagccagtgccttgggctacctgcattcactgaacatcgtttat
+            agagacttaaaaccagagaatattttgctagattcacagggacacattgtccttactgac
+            ttcggactctgcaaggagaacattgaacacaacagcacaacatccaccttctgtggcacg
+            ccggagtatctcgcacctgaggtgcttcataagcagccttatgacaggactgtggactgg
+            tggtgcctgggagctgtcttgtatgagatgctgtatggcctgccgcctttttatagccga
+            aacacagctgaaatgtacgacaacattctgaacaagcctctccagctgaaaccaaatatt
+            acaaattccgcaagacacctcctggagggcctcctgcagaaggacaggacaaagcggctc
+            ggggccaaggatgacttcatggagattaagagtcatgtcttcttctccttaattaactgg
+            gatgatctcattaataagaagattactcccccttttaacccaaatgtgagtgggcccaac
+            gacctacggcactttgaccccgagtttaccgaagagcctgtccccaactccattggcaag
+            tcccctgacagcgtcctcgtcacagccagcgtcaaggaagctgccgaggctttcctaggc
+            ttttcctatgcgcctcccacggactctttcctctga
+///

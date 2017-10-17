@@ -1,0 +1,83 @@
+ENTRY       1453              CDS       T01001
+NAME        CSNK1D, ASPS, CKIdelta, FASPS2, HCKID
+DEFINITION  (RefSeq) casein kinase 1 delta
+ORTHOLOGY   K08959  casein kinase 1, delta [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04340  Hedgehog signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04540  Gap junction
+            hsa04710  Circadian rhythm
+DISEASE     H00688  Familial advanced sleep phase syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04340 Hedgehog signaling pathway
+                1453 (CSNK1D)
+               04390 Hippo signaling pathway
+                1453 (CSNK1D)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                1453 (CSNK1D)
+             Organismal Systems
+              Environmental adaptation
+               04710 Circadian rhythm
+                1453 (CSNK1D)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 1453 (CSNK1D)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CK1 group
+              CK1 family [OT]
+               1453 (CSNK1D)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Kinases and associated factors
+                1453 (CSNK1D)
+POSITION    17q25.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr APH Pox_ser-thr_kin Kdo
+DBLINKS     NCBI-GeneID: 1453
+            NCBI-ProteinID: NP_001884
+            OMIM: 600864
+            HGNC: 2452
+            Ensembl: ENSG00000141551
+            Vega: OTTHUMG00000178601
+            Pharos: P48730(Tchem)
+            UniProt: P48730
+STRUCTURE   PDB: 4TWC 4HGT 5IH4 3UZP 4KB8 4KBA 4KBC 5W4W 3UYT 4HNF 4KBK
+                 5MQV 5IH5 5IH6 3UYS 4TW9 4TN6
+AASEQ       415
+            MELRVGNRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQ
+            GGVGIPTIRWCGAEGDYNVMVMELLGPSLEDLFNFCSRKFSLKTVLLLADQMISRIEYIH
+            SKNFIHRDVKPDNFLMGLGKKGNLVYIIDFGLAKKYRDARTHQHIPYRENKNLTGTARYA
+            SINTHLGIEQSRRDDLESLGYVLMYFNLGSLPWQGLKAATKRQKYERISEKKMSTPIEVL
+            CKGYPSEFATYLNFCRSLRFDDKPDYSYLRQLFRNLFHRQGFSYDYVFDWNMLKFGASRA
+            ADDAERERRDREERLRHSRNPATRGLPSTASGRLRGTQEVAPPTPLTPTSHTANTSPRPV
+            SGMERERKVSMRLHRGAPVNISSSDLTGRQDTSRMSTSQIPGRVASSGLQSVVHR
+NTSEQ       1248
+            atggagctgagagtcgggaacaggtaccggctgggccggaagatcggcagcggctccttc
+            ggagacatctatctcggtacggacattgctgcaggagaagaggttgccatcaagcttgaa
+            tgtgtcaaaaccaaacaccctcagctccacattgagagcaaaatctacaagatgatgcag
+            ggaggagtgggcatccccaccatcagatggtgcggggcagagggggactacaacgtcatg
+            gtgatggagctgctggggccaagcctggaggacctcttcaacttctgctccaggaaattc
+            agcctcaaaaccgtcctgctgcttgctgaccaaatgatcagtcgcatcgaatacattcat
+            tcaaagaacttcatccaccgggatgtgaagccagacaacttcctcatgggcctggggaag
+            aagggcaacctggtgtacatcatcgacttcgggctggccaagaagtaccgggatgcacgc
+            acccaccagcacatcccctatcgtgagaacaagaacctcacggggacggcgcggtacgcc
+            tccatcaacacgcaccttggaattgaacaatcccgaagagatgacttggagtctctgggc
+            tacgtgctaatgtacttcaacctgggctctctcccctggcaggggctgaaggctgccacc
+            aagagacagaaatacgaaaggattagcgagaagaaaatgtccacccccatcgaagtgttg
+            tgtaaaggctacccttccgaatttgccacatacctgaatttctgccgttccttgcgtttt
+            gacgacaagcctgactactcgtacctgcggcagcttttccggaatctgttccatcgccag
+            ggcttctcctatgactacgtgttcgactggaacatgctcaaatttggtgccagccgggcc
+            gccgatgacgccgagcgggagcgcagggaccgagaggagcggctgagacactcgcggaac
+            ccggctacccgcggcctcccttccacagcctccggccgcctgcgggggacgcaggaagtg
+            gctccccccacacccctcacccctacctcacacacggctaacacctccccccggcccgtc
+            tccggcatggagagagagcggaaagtgagtatgcggctgcaccgcggggcccccgtcaac
+            atctcctcgtccgacctcacaggccgacaagatacctctcgcatgtccacctcacagatt
+            cctggtcgggtggcttccagtggtcttcagtctgtcgtgcaccgatga
+///

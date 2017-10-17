@@ -1,0 +1,95 @@
+ENTRY       5145              CDS       T01001
+NAME        PDE6A, CGPR-A, PDEA, RP43
+DEFINITION  (RefSeq) phosphodiesterase 6A
+ORTHOLOGY   K08718  rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha [EC:3.1.4.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa04744  Phototransduction
+DISEASE     H00527  Retinitis pigmentosa (RP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5145 (PDE6A)
+             Organismal Systems
+              Sensory system
+               04744 Phototransduction
+                5145 (PDE6A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.35  3',5'-cyclic-GMP phosphodiesterase
+                 5145 (PDE6A)
+POSITION    5q32
+MOTIF       Pfam: PDEase_I GAF GAF_3 SpoVT_C
+DBLINKS     NCBI-GeneID: 5145
+            NCBI-ProteinID: NP_000431
+            OMIM: 180071
+            HGNC: 8785
+            Ensembl: ENSG00000132915
+            Vega: OTTHUMG00000130047
+            Pharos: P16499(Tclin)
+            UniProt: P16499
+AASEQ       860
+            MGEVTAEEVEKFLDSNIGFAKQYYNLHYRAKLISDLLGAKEAAVDFSNYHSPSSMEESEI
+            IFDLLRDFQENLQTEKCIFNVMKKLCFLLQADRMSLFMYRTRNGIAELATRLFNVHKDAV
+            LEDCLVMPDQEIVFPLDMGIVGHVAHSKKIANVPNTEEDEHFCDFVDILTEYKTKNILAS
+            PIMNGKDVVAIIMAVNKVDGSHFTKRDEEILLKYLNFANLIMKVYHLSYLHNCETRRGQI
+            LLWSGSKVFEELTDIERQFHKALYTVRAFLNCDRYSVGLLDMTKQKEFFDVWPVLMGEVP
+            PYSGPRTPDGREINFYKVIDYILHGKEDIKVIPNPPPDHWALVSGLPAYVAQNGLICNIM
+            NAPAEDFFAFQKEPLDESGWMIKNVLSMPIVNKKEEIVGVATFYNRKDGKPFDEMDETLM
+            ESLTQFLGWSVLNPDTYESMNKLENRKDIFQDIVKYHVKCDNEEIQKILKTREVYGKEPW
+            ECEEEELAEILQAELPDADKYEINKFHFSDLPLTELELVKCGIQMYYELKVVDKFHIPQE
+            ALVRFMYSLSKGYRKITYHNWRHGFNVGQTMFSLLVTGKLKRYFTDLEALAMVTAAFCHD
+            IDHRGTNNLYQMKSQNPLAKLHGSSILERHHLEFGKTLLRDESLNIFQNLNRRQHEHAIH
+            MMDIAIIATDLALYFKKRTMFQKIVDQSKTYESEQEWTQYMMLEQTRKEIVMAMMMTACD
+            LSAITKPWEVQSQVALLVAAEFWEQGDLERTVLQQNPIPMMDRNKADELPKLQVGFIDFV
+            CTFVYKEFSRFHEEITPMLDGITNNRKEWKALADEYDAKMKVQEEKKQKQQSAKSAAAGN
+            QPGGNPSPGGATTSKSCCIQ
+NTSEQ       2583
+            atgggcgaggtgacagcagaggaggtggagaagttcctggactcgaatattggctttgcc
+            aaacagtactacaacctccactaccgggccaagctcatctccgacctccttggggccaag
+            gaggctgccgtggacttcagcaactaccactccccgagcagcatggaggagagcgaaatc
+            atctttgatctcctgcgggactttcaggagaatttacagacagagaaatgcatcttcaat
+            gtcatgaagaagctgtgcttcctcctgcaggcagaccgcatgagcctgttcatgtaccgg
+            acccgcaatggcatcgcagagctggccaccaggcttttcaatgtccacaaggatgctgtc
+            ctcgaggactgcctggtgatgcccgaccaagagatcgtcttccctttggacatgggcatc
+            gtgggccatgtcgcacactctaagaagattgctaacgtccccaacacagaggaggatgag
+            catttctgtgactttgtggacatcctcacagagtacaagaccaagaacatcttggcttcc
+            cccataatgaatgggaaggatgtggtggccataatcatggctgtgaataaagtggatgga
+            tcccacttcaccaagagagatgaagagattcttctcaagtacctcaattttgcaaatcta
+            atcatgaaggtgtaccacctgagttacctgcacaactgtgaaactcgacgtggccagata
+            ctgctgtggtctgggagcaaagtctttgaagaacttacggacatcgaacgacagttccac
+            aaagccctgtacacagtccgtgctttcctcaactgtgacagatactctgtgggtctctta
+            gacatgaccaagcagaaggaattttttgatgtgtggccggttctgatgggtgaagttcca
+            ccttactctggtcccaggactccggatggaagagaaattaacttttacaaggtcattgac
+            tacatcctgcatggcaaagaggacatcaaagtcatcccgaatccacctcctgaccattgg
+            gctttagtaagcggtctcccagcttatgttgcccagaatggcctgatttgcaacatcatg
+            aatgcgcctgcggaggacttttttgcatttcagaaagaacctctggatgagtctggatgg
+            atgattaaaaatgtgctttcaatgccgattgtgaacaagaaggaagaaattgttggagtg
+            gccacattttacaatcgtaaagatgggaagccctttgatgaaatggatgagacgctcatg
+            gagtctttgactcaatttctgggctggtctgtcttaaatcctgacacctatgagtcaatg
+            aataaacttgaaaataggaaggatattttccaggacatagtaaaatatcatgtgaagtgt
+            gacaatgaagaaattcagaaaatcttgaaaaccagagaggtgtatgggaaggagccatgg
+            gagtgtgaggaagaggagctggctgagatcctgcaagcggagctgccagatgcagataaa
+            tacgaaattaataaatttcacttcagtgacttacccctaacagaactggagctggtaaaa
+            tgtggaatacagatgtattatgagctcaaagtggtggataaatttcacattccacaagag
+            gccctggtgcggttcatgtactccctgagtaagggctaccgcaagatcacctaccacaac
+            tggcggcacggcttcaacgtggggcagaccatgttctccctgctggtgacgggaaagctg
+            aagcgctacttcacggacctagaggccttggccatggtcactgctgctttctgccatgac
+            attgaccacagaggcaccaataacctctaccagatgaaatcccagaacccactggccaag
+            ctccatgggtcctctatcttggaaagacaccacttggagtttggcaaaacactgctcaga
+            gacgagagcctgaatatctttcaaaacctcaatcgtcgacagcatgagcatgccatccac
+            atgatggacattgcaatcattgccacagacctcgccctgtatttcaagaagaggacgatg
+            ttccaaaagatcgtggatcagtctaagacatatgagagtgaacaggagtggacacagtac
+            atgatgctggagcagacacggaaggaaatcgttatggccatgatgatgaccgcctgtgat
+            ctctcagccatcaccaaaccctgggaggtgcagagccaggtagctctgctggtggctgct
+            gaattctgggaacaaggtgacctggagcgcacggtgctgcaacagaatcccattcccatg
+            atggacagaaacaaagcagatgaactccctaagcttcaagtcggcttcattgactttgtt
+            tgcaccttcgtctacaaggaattctcccgtttccacgaggagatcaccccaatgttggac
+            gggatcaccaacaatcgcaaggagtggaaggcgcttgctgatgagtacgatgccaagatg
+            aaggtgcaggaggagaagaagcagaaacagcagtcggccaagtcagcagccgcaggaaat
+            cagccggggggaaaccccagcccagggggtgcaactacatccaagtcctgctgcatccag
+            taa
+///

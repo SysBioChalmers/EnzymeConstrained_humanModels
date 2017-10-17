@@ -1,0 +1,98 @@
+ENTRY       1544              CDS       T01001
+NAME        CYP1A2, CP12, CYPIA2, P3-450, P450(PA)
+DEFINITION  (RefSeq) cytochrome P450 family 1 subfamily A member 2
+ORTHOLOGY   K07409  cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00232  Caffeine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1544 (CYP1A2)
+               00591 Linoleic acid metabolism
+                1544 (CYP1A2)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                1544 (CYP1A2)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1544 (CYP1A2)
+              Biosynthesis of other secondary metabolites
+               00232 Caffeine metabolism
+                1544 (CYP1A2)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1544 (CYP1A2)
+               00982 Drug metabolism - cytochrome P450
+                1544 (CYP1A2)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1544 (CYP1A2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1544 (CYP1A2)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP1 family
+               1544 (CYP1A2)
+POSITION    15q24.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1544
+            NCBI-ProteinID: NP_000752
+            OMIM: 124060
+            HGNC: 2596
+            Ensembl: ENSG00000140505
+            Vega: OTTHUMG00000172901
+            Pharos: P05177(Tchem)
+            UniProt: P05177
+STRUCTURE   PDB: 2HI4
+AASEQ       516
+            MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+            PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+            QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+            AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+            ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+            LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+            DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+            WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+            FSVPPGVKVDLTPIYGLTMKHARCEHVQARLRFSIN
+NTSEQ       1551
+            atggcattgtcccagtctgttcccttctcggccacagagcttctcctggcctctgccatc
+            ttctgcctggtattctgggtgctcaagggtttgaggcctcgggtccccaaaggcctgaaa
+            agtccaccagagccatggggctggcccttgctcgggcatgtgctgaccctggggaagaac
+            ccgcacctggcactgtcaaggatgagccagcgctacggggacgtcctgcagatccgcatt
+            ggctccacgcccgtgctggtgctgagccgcctggacaccatccggcaggccctggtgcgg
+            cagggcgacgatttcaagggccggcctgacctctacacctccaccctcatcactgatggc
+            cagagcttgaccttcagcacagactctggaccggtgtgggctgcccgccggcgcctggcc
+            cagaatgccctcaacaccttctccatcgcctctgacccagcttcctcatcctcctgctac
+            ctggaggagcatgtgagcaaggaggctaaggccctgatcagcaggttgcaggagctgatg
+            gcagggcctgggcacttcgacccttacaatcaggtggtggtgtcagtggccaacgtcatt
+            ggtgccatgtgcttcggacagcacttccctgagagtagcgatgagatgctcagcctcgtg
+            aagaacactcatgagttcgtggagactgcctcctccgggaaccccctggacttcttcccc
+            atccttcgctacctgcctaaccctgccctgcagaggttcaaggccttcaaccagaggttc
+            ctgtggttcctgcagaaaacagtccaggagcactatcaggactttgacaagaacagtgtc
+            cgggacatcacgggtgccctgttcaagcacagcaagaaggggcctagagccagcggcaac
+            ctcatcccacaggagaagattgtcaaccttgtcaatgacatctttggagcaggatttgac
+            acagtcaccacagccatctcctggagcctcatgtaccttgtgaccaagcctgagatacag
+            aggaagatccagaaggagctggacactgtgattggcagggagcggcggccccggctctct
+            gacagaccccagctgccctacttggaggccttcatcctggagaccttccgacactcctcc
+            ttcttgcccttcaccatcccccacagcacaacaagggacacaacgctgaatggcttctac
+            atccccaagaaatgctgtgtcttcgtaaaccagtggcaggtcaaccatgacccagagctg
+            tgggaggacccctctgagttccggcctgagcggttcctcaccgccgatggcactgccatt
+            aacaagcccttgagtgagaagatgatgctgtttggcatgggcaagcgccggtgtatcggg
+            gaagtcctggccaagtgggagatcttcctcttcctggccatcctgctacagcaactggag
+            ttcagcgtgccgccgggcgtgaaagtcgacctgacccccatctacgggctgaccatgaag
+            cacgcccgctgtgaacatgtccaggcgcggctgcgcttctccatcaattga
+///

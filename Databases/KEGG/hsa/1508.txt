@@ -1,0 +1,90 @@
+ENTRY       1508              CDS       T01001
+NAME        CTSB, APPS, CPSB
+DEFINITION  (RefSeq) cathepsin B
+ORTHOLOGY   K01363  cathepsin B [EC:3.4.22.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04140  Autophagy - animal
+            hsa04142  Lysosome
+            hsa04210  Apoptosis
+            hsa04612  Antigen processing and presentation
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04924  Renin secretion
+DISEASE     H00932  Tropical calcific pancreatitis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                1508 (CTSB)
+               04140 Autophagy - animal
+                1508 (CTSB)
+              Cell growth and death
+               04210 Apoptosis
+                1508 (CTSB)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                1508 (CTSB)
+               04612 Antigen processing and presentation
+                1508 (CTSB)
+              Endocrine system
+               04924 Renin secretion
+                1508 (CTSB)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.1  cathepsin B
+                 1508 (CTSB)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C1: papain family
+               1508 (CTSB)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Intramolecular chaperones
+              Papain family
+               1508 (CTSB)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of microglial cells
+               1508 (CTSB)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Others
+               1508 (CTSB)
+POSITION    8p23.1
+MOTIF       Pfam: Peptidase_C1 Propeptide_C1 Peptidase_C1_2
+DBLINKS     NCBI-GeneID: 1508
+            NCBI-ProteinID: NP_001899
+            OMIM: 116810
+            HGNC: 2527
+            Ensembl: ENSG00000164733
+            Vega: OTTHUMG00000090799
+            Pharos: P07858(Tchem)
+            UniProt: P07858 A0A024R374
+STRUCTURE   PDB: 3CBJ 1GMY 1CSB 1HUC 3AI8 2IPP 3PBH 3K9M 3CBK 1PBH 2PBH
+AASEQ       339
+            MWQLWASLCCLLVLANARSRPSFHPLSDELVNYVNKRNTTWQAGHNFYNVDMSYLKRLCG
+            TFLGGPKPPQRVMFTEDLKLPASFDAREQWPQCPTIKEIRDQGSCGSCWAFGAVEAISDR
+            ICIHTNAHVSVEVSAEDLLTCCGSMCGDGCNGGYPAEAWNFWTRKGLVSGGLYESHVGCR
+            PYSIPPCEHHVNGSRPPCTGEGDTPKCSKICEPGYSPTYKQDKHYGYNSYSVSNSEKDIM
+            AEIYKNGPVEGAFSVYSDFLLYKSGVYQHVTGEMMGGHAIRILGWGVENGTPYWLVANSW
+            NTDWGDNGFFKILRGQDHCGIESEVVAGIPRTDQYWEKI
+NTSEQ       1020
+            atgtggcagctctgggcctccctctgctgcctgctggtgttggccaatgcccggagcagg
+            ccctctttccatcccctgtcggatgagctggtcaactatgtcaacaaacggaataccacg
+            tggcaggccgggcacaacttctacaacgtggacatgagctacttgaagaggctatgtggt
+            accttcctgggtgggcccaagccaccccagagagttatgtttaccgaggacctgaagctg
+            cctgcaagcttcgatgcacgggaacaatggccacagtgtcccaccatcaaagagatcaga
+            gaccagggctcctgtggctcctgctgggccttcggggctgtggaagccatctctgaccgg
+            atctgcatccacaccaatgcgcacgtcagcgtggaggtgtcggcggaggacctgctcaca
+            tgctgtggcagcatgtgtggggacggctgtaatggtggctatcctgctgaagcttggaac
+            ttctggacaagaaaaggcctggtttctggtggcctctatgaatcccatgtagggtgcaga
+            ccgtactccatccctccctgtgagcaccacgtcaacggctcccggcccccatgcacgggg
+            gagggagatacccccaagtgtagcaagatctgtgagcctggctacagcccgacctacaaa
+            caggacaagcactacggatacaattcctacagcgtctccaatagcgagaaggacatcatg
+            gccgagatctacaaaaacggccccgtggagggagctttctctgtgtattcggacttcctg
+            ctctacaagtcaggagtgtaccaacacgtcaccggagagatgatgggtggccatgccatc
+            cgcatcctgggctggggagtggagaatggcacaccctactggctggttgccaactcctgg
+            aacactgactggggtgacaatggcttctttaaaatactcagaggacaggatcactgtgga
+            atcgaatcagaagtggtggctggaattccacgcaccgatcagtactgggaaaagatctaa
+///

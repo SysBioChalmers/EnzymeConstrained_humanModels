@@ -1,0 +1,216 @@
+ENTRY       2778              CDS       T01001
+NAME        GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI
+DEFINITION  (RefSeq) GNAS complex locus
+ORTHOLOGY   K04632  guanine nucleotide-binding protein G(s) subunit alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04540  Gap junction
+            hsa04611  Platelet activation
+            hsa04713  Circadian entrainment
+            hsa04724  Glutamatergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04730  Long-term depression
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04911  Insulin secretion
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04918  Thyroid hormone synthesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04924  Renin secretion
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04926  Relaxin signaling pathway
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa04962  Vasopressin-regulated water reabsorption
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04976  Bile secretion
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05032  Morphine addiction
+            hsa05034  Alcoholism
+            hsa05110  Vibrio cholerae infection
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05146  Amoebiasis
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05414  Dilated cardiomyopathy (DCM)
+MODULE      hsa_M00695  cAMP signaling
+DISEASE     H00244  Pseudohypoparathyroidism
+            H00441  Progressive osseous heteroplasia (POH)
+            H00501  Fibrous dysplasia, polyostotic
+            H01431  Cushing's syndrome
+            H01483  Acromegaly
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                2778 (GNAS)
+               04020 Calcium signaling pathway
+                2778 (GNAS)
+               04072 Phospholipase D signaling pathway
+                2778 (GNAS)
+               04024 cAMP signaling pathway
+                2778 (GNAS)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                2778 (GNAS)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                2778 (GNAS)
+              Endocrine system
+               04911 Insulin secretion
+                2778 (GNAS)
+               04922 Glucagon signaling pathway
+                2778 (GNAS)
+               04923 Regulation of lipolysis in adipocyte
+                2778 (GNAS)
+               04912 GnRH signaling pathway
+                2778 (GNAS)
+               04913 Ovarian Steroidogenesis
+                2778 (GNAS)
+               04915 Estrogen signaling pathway
+                2778 (GNAS)
+               04921 Oxytocin signaling pathway
+                2778 (GNAS)
+               04926 Relaxin signaling pathway
+                2778 (GNAS)
+               04918 Thyroid hormone synthesis
+                2778 (GNAS)
+               04916 Melanogenesis
+                2778 (GNAS)
+               04924 Renin secretion
+                2778 (GNAS)
+               04925 Aldosterone synthesis and secretion
+                2778 (GNAS)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                2778 (GNAS)
+               04270 Vascular smooth muscle contraction
+                2778 (GNAS)
+              Digestive system
+               04970 Salivary secretion
+                2778 (GNAS)
+               04971 Gastric acid secretion
+                2778 (GNAS)
+               04972 Pancreatic secretion
+                2778 (GNAS)
+               04976 Bile secretion
+                2778 (GNAS)
+              Excretory system
+               04962 Vasopressin-regulated water reabsorption
+                2778 (GNAS)
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                2778 (GNAS)
+              Nervous system
+               04724 Glutamatergic synapse
+                2778 (GNAS)
+               04728 Dopaminergic synapse
+                2778 (GNAS)
+               04726 Serotonergic synapse
+                2778 (GNAS)
+               04730 Long-term depression
+                2778 (GNAS)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                2778 (GNAS)
+              Environmental adaptation
+               04713 Circadian entrainment
+                2778 (GNAS)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2778 (GNAS)
+              Substance dependence
+               05030 Cocaine addiction
+                2778 (GNAS)
+               05031 Amphetamine addiction
+                2778 (GNAS)
+               05032 Morphine addiction
+                2778 (GNAS)
+               05034 Alcoholism
+                2778 (GNAS)
+              Cardiovascular diseases
+               05414 Dilated cardiomyopathy (DCM)
+                2778 (GNAS)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                2778 (GNAS)
+               05165 Human papillomavirus infection
+                2778 (GNAS)
+               05146 Amoebiasis
+                2778 (GNAS)
+               05142 Chagas disease (American trypanosomiasis)
+                2778 (GNAS)
+              Drug resistance
+               01522 Endocrine resistance
+                2778 (GNAS)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               2778 (GNAS)
+              Exosomal proteins of other body fluids (saliva and urine)
+               2778 (GNAS)
+              Exosomal proteins of colorectal cancer cells
+               2778 (GNAS)
+              Exosomal proteins of bladder cancer cells
+               2778 (GNAS)
+            GTP-binding proteins [BR:hsa04031]
+             Heterotrimeric G-proteins
+              Alpha Subunits
+               Alpha type 2 (Gs)
+                2778 (GNAS)
+POSITION    20q13.32
+MOTIF       Pfam: G-alpha Arf Gtr1_RagA Roc GTP_EFTU AAA_29
+DBLINKS     NCBI-GeneID: 2778
+            NCBI-ProteinID: NP_000507
+            OMIM: 139320
+            HGNC: 4392
+            Ensembl: ENSG00000087460
+            Vega: OTTHUMG00000033069
+            Pharos: O95467(Tbio) P63092(Tbio)
+            UniProt: P63092 O95467 A0A0S2Z3H8
+STRUCTURE   PDB: 5G53 5VAI 5UZ7
+AASEQ       394
+            MGCLGNSKTEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLGAGESGKSTIVKQM
+            RILHVNGFNGEGGEEDPQAARSNSDGEKATKVQDIKNNLKEAIETIVAAMSNLVPPVELA
+            NPENQFRVDYILSVMNVPDFDFPPEFYEHAKALWEDEGVRACYERSNEYQLIDCAQYFLD
+            KIDVIKQADYVPSDQDLLRCRVLTSGIFETKFQVDKVNFHMFDVGGQRDERRKWIQCFND
+            VTAIIFVVASSSYNMVIREDNQTNRLQEALNLFKSIWNNRWLRTISVILFLNKQDLLAEK
+            VLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYCY
+            PHFTCAVDTENIRRVFNDCRDIIQRMHLRQYELL
+NTSEQ       1185
+            atgggctgcctcgggaacagtaagaccgaggaccagcgcaacgaggagaaggcgcagcgt
+            gaggccaacaaaaagatcgagaagcagctgcagaaggacaagcaggtctaccgggccacg
+            caccgcctgctgctgctgggtgctggagaatctggtaaaagcaccattgtgaagcagatg
+            aggatcctgcatgttaatgggtttaatggagagggcggcgaagaggacccgcaggctgca
+            aggagcaacagcgatggtgagaaggcaaccaaagtgcaggacatcaaaaacaacctgaaa
+            gaggcgattgaaaccattgtggccgccatgagcaacctggtgccccccgtggagctggcc
+            aaccccgagaaccagttcagagtggactacatcctgagtgtgatgaacgtgcctgacttt
+            gacttccctcccgaattctatgagcatgccaaggctctgtgggaggatgaaggagtgcgt
+            gcctgctacgaacgctccaacgagtaccagctgattgactgtgcccagtacttcctggac
+            aagatcgacgtgatcaagcaggctgactatgtgccgagcgatcaggacctgcttcgctgc
+            cgtgtcctgacttctggaatctttgagaccaagttccaggtggacaaagtcaacttccac
+            atgtttgacgtgggtggccagcgcgatgaacgccgcaagtggatccagtgcttcaacgat
+            gtgactgccatcatcttcgtggtggccagcagcagctacaacatggtcatccgggaggac
+            aaccagaccaaccgcctgcaggaggctctgaacctcttcaagagcatctggaacaacaga
+            tggctgcgcaccatctctgtgatcctgttcctcaacaagcaagatctgctcgctgagaaa
+            gtccttgctgggaaatcgaagattgaggactactttccagaatttgctcgctacactact
+            cctgaggatgctactcccgagcccggagaggacccacgcgtgacccgggccaagtacttc
+            attcgagatgagtttctgaggatcagcactgccagtggagatgggcgtcactactgctac
+            cctcatttcacctgcgctgtggacactgagaacatccgccgtgtgttcaacgactgccgt
+            gacatcattcagcgcatgcaccttcgtcagtacgagctgctctaa
+///

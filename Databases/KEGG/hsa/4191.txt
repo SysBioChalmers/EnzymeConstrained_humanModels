@@ -1,0 +1,72 @@
+ENTRY       4191              CDS       T01001
+NAME        MDH2, EIEE51, M-MDH, MDH, MGC:3559, MOR1
+DEFINITION  (RefSeq) malate dehydrogenase 2
+ORTHOLOGY   K00026  malate dehydrogenase [EC:1.1.1.37]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00270  Cysteine and methionine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+DISEASE     H00606  Early infantile epileptic encephalopathy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                4191 (MDH2)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                4191 (MDH2)
+               00620 Pyruvate metabolism
+                4191 (MDH2)
+               00630 Glyoxylate and dicarboxylate metabolism
+                4191 (MDH2)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                4191 (MDH2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.37  malate dehydrogenase
+                 4191 (MDH2)
+POSITION    7q11.23
+MOTIF       Pfam: Ldh_1_C Ldh_1_N Semialdhyde_dh NAD_binding_10 3Beta_HSD THF_DHG_CYH_C DapB_N
+DBLINKS     NCBI-GeneID: 4191
+            NCBI-ProteinID: NP_005909
+            OMIM: 154100
+            HGNC: 6971
+            Ensembl: ENSG00000146701
+            Vega: OTTHUMG00000023827
+            Pharos: P40926(Tchem)
+            UniProt: P40926 A0A024R4K3 B3KTM1
+STRUCTURE   PDB: 4WLE 2DFD 4WLU 4WLF 4WLN 4WLV 4WLO
+AASEQ       338
+            MLSALARPASAALRRSFSTSAQNNAKVAVLGASGGIGQPLSLLLKNSPLVSRLTLYDIAH
+            TPGVAADLSHIETKAAVKGYLGPEQLPDCLKGCDVVVIPAGVPRKPGMTRDDLFNTNATI
+            VATLTAACAQHCPEAMICVIANPVNSTIPITAEVFKKHGVYNPNKIFGVTTLDIVRANTF
+            VAELKGLDPARVNVPVIGGHAGKTIIPLISQCTPKVDFPQDQLTALTGRIQEAGTEVVKA
+            KAGAGSATLSMAYAGARFVFSLVDAMNGKEGVVECSFVKSQETECTYFSTPLLLGKKGIE
+            KNLGIGKVSSFEEKMISDAIPELKASIKKGEDFVKTLK
+NTSEQ       1017
+            atgctctccgccctcgcccggcctgccagcgctgctctccgccgcagcttcagcacctcg
+            gcccagaacaatgctaaagtagctgtgctaggggcctctggaggcatcgggcagccactt
+            tcacttctcctgaagaacagccccttggtgagccgcctgaccctctatgatatcgcgcac
+            acacccggagtggccgcagatctgagccacatcgagaccaaagccgctgtgaaaggctac
+            ctcggacctgaacagctgcctgactgcctgaaaggttgtgatgtggtagttattccggct
+            ggagtccccagaaagccaggcatgacccgggacgacctgttcaacaccaatgccacgatt
+            gtggccaccctgaccgctgcctgtgcccagcactgcccggaagccatgatctgcgtcatt
+            gccaatccggttaattccaccatccccatcacagcagaagttttcaagaagcatggagtg
+            tacaaccccaacaaaatcttcggcgtgacgaccctggacatcgtcagagccaacaccttt
+            gttgcagagctgaagggtttggatccagctcgagtcaacgtccctgtcattggtggccat
+            gctgggaagaccatcatccccctgatctctcagtgcacccccaaggtggactttccccag
+            gaccagctgacagcactcactgggcggatccaggaggccggcacggaggtggtcaaggct
+            aaagccggagcaggctctgccaccctctccatggcgtatgccggcgcccgctttgtcttc
+            tcccttgtggatgcaatgaatggaaaggaaggtgttgtggaatgttccttcgttaagtca
+            caggaaacggaatgtacctacttctccacaccgctgctgcttgggaaaaagggcatcgag
+            aagaacctgggcatcggcaaagtctcctcttttgaggagaagatgatctcggatgccatc
+            cccgagctgaaggcctccatcaagaagggggaagatttcgtgaagaccctgaagtga
+///

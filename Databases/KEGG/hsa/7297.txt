@@ -1,0 +1,165 @@
+ENTRY       7297              CDS       T01001
+NAME        TYK2, IMD35, JTK1
+DEFINITION  (RefSeq) tyrosine kinase 2
+ORTHOLOGY   K11219  non-receptor tyrosine-protein kinase TYK2 [EC:2.7.10.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa05145  Toxoplasmosis
+            hsa05160  Hepatitis C
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00684  JAK-STAT signaling
+DISEASE     H00107  Other well-defined immunodeficiency syndromes
+DRUG_TARGET Tofacitinib (DG00742): D09783 D09970
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                7297 (TYK2)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                7297 (TYK2)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                7297 (TYK2)
+               04658 Th1 and Th2 cell differentiation
+                7297 (TYK2)
+               04659 Th17 cell differentiation
+                7297 (TYK2)
+              Development
+               04380 Osteoclast differentiation
+                7297 (TYK2)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                7297 (TYK2)
+               05164 Influenza A
+                7297 (TYK2)
+               05160 Hepatitis C
+                7297 (TYK2)
+               05168 Herpes simplex infection
+                7297 (TYK2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                7297 (TYK2)
+               05169 Epstein-Barr virus infection
+                7297 (TYK2)
+               05165 Human papillomavirus infection
+                7297 (TYK2)
+               05145 Toxoplasmosis
+                7297 (TYK2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.2  non-specific protein-tyrosine kinase
+                 7297 (TYK2)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              JAK family [OT]
+               7297 (TYK2)
+POSITION    19p13.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase Kdo Kinase-like APH
+DBLINKS     NCBI-GeneID: 7297
+            NCBI-ProteinID: NP_003322
+            OMIM: 176941
+            HGNC: 12440
+            Ensembl: ENSG00000105397
+            Vega: OTTHUMG00000166373
+            Pharos: P29597(Tclin)
+            UniProt: P29597 A0A024R7E4
+STRUCTURE   PDB: 3LXP 4WOV 5C03 5TKD 4PO6 4GIH 3NZ0 4GVJ 5C01 3ZON 4PY1
+                 4GFO 4GII 4GJ2 4GJ3 3NYX 3LXN 5F1Z 4OLI 5F20
+AASEQ       1187
+            MPLRHWGMARGSKPVGDGAQPMAAMGGLKVLLHWAGPGGGEPWVTFSESSLTAEEVCIHI
+            AHKVGITPPCFNLFALFDAQAQVWLPPNHILEIPRDASLMLYFRIRFYFRNWHGMNPREP
+            AVYRCGPPGTEASSDQTAQGMQLLDPASFEYLFEQGKHEFVNDVASLWELSTEEEIHHFK
+            NESLGMAFLHLCHLALRHGIPLEEVAKKTSFKDCIPRSFRRHIRQHSALTRLRLRNVFRR
+            FLRDFQPGRLSQQMVMVKYLATLERLAPRFGTERVPVCHLRLLAQAEGEPCYIRDSGVAP
+            TDPGPESAAGPPTHEVLVTGTGGIQWWPVEEEVNKEEGSSGSSGRNPQASLFGKKAKAHK
+            AVGQPADRPREPLWAYFCDFRDITHVVLKEHCVSIHRQDNKCLELSLPSRAAALSFVSLV
+            DGYFRLTADSSHYLCHEVAPPRLVMSIRDGIHGPLLEPFVQAKLRPEDGLYLIHWSTSHP
+            YRLILTVAQRSQAPDGMQSLRLRKFPIEQQDGAFVLEGWGRSFPSVRELGAALQGCLLRA
+            GDDCFSLRRCCLPQPGETSNLIIMRGARASPRTLNLSQLSFHRVDQKEITQLSHLGQGTR
+            TNVYEGRLRVEGSGDPEEGKMDDEDPLVPGRDRGQELRVVLKVLDPSHHDIALAFYETAS
+            LMSQVSHTHLAFVHGVCVRGPENIMVTEYVEHGPLDVWLRRERGHVPMAWKMVVAQQLAS
+            ALSYLENKNLVHGNVCGRNILLARLGLAEGTSPFIKLSDPGVGLGALSREERVERIPWLA
+            PECLPGGANSLSTAMDKWGFGATLLEICFDGEAPLQSRSPSEKEHFYQRQHRLPEPSCPQ
+            LATLTSQCLTYEPTQRPSFRTILRDLTRLQPHNLADVLTVNPDSPASDPTVFHKRYLKKI
+            RDLGEGHFGKVSLYCYDPTNDGTGEMVAVKALKADCGPQHRSGWKQEIDILRTLYHEHII
+            KYKGCCEDQGEKSLQLVMEYVPLGSLRDYLPRHSIGLAQLLLFAQQICEGMAYLHAQHYI
+            HRDLAARNVLLDNDRLVKIGDFGLAKAVPEGHEYYRVREDGDSPVFWYAPECLKEYKFYY
+            ASDVWSFGVTLYELLTHCDSSQSPPTKFLELIGIAQGQMTVLRLTELLERGERLPRPDKC
+            PCEVYHLMKNCWETEASFRPTFENLIPILKTVHEKYQGQAPSVFSVC
+NTSEQ       3564
+            atgcctctgcgccactgggggatggccaggggcagtaagcccgttggggatggagcccag
+            cccatggctgccatgggaggcctgaaggtgcttctgcactgggctggtccaggcggcggg
+            gagccctgggtcactttcagtgagtcatcgctgacagctgaggaagtctgcatccacatt
+            gcacataaagttggtatcactcctccttgcttcaatctctttgccctcttcgatgctcag
+            gcccaagtctggttgcccccaaaccacatcctagagatccccagagatgcaagcctgatg
+            ctatatttccgcataaggttttatttccggaactggcatggcatgaatcctcgggaaccg
+            gctgtgtaccgttgtgggcccccaggaaccgaggcatcctcagatcagacagcacagggg
+            atgcaactcctggacccagcctcatttgagtacctctttgagcagggcaagcatgagttt
+            gtgaatgacgtggcatcactgtgggagctgtcgaccgaggaggagatccaccactttaag
+            aatgagagcctgggcatggcctttctgcacctctgtcacctcgctctccgccatggcatc
+            cccctggaggaggtggccaagaagaccagcttcaaggactgcatcccgcgctccttccgc
+            cggcatatccggcagcacagcgccctgacccggctgcgccttcggaacgtcttccgcagg
+            ttcctgcgggacttccagccgggccgactctcccagcagatggtcatggtcaaataccta
+            gccacactcgagcggctggcaccccgcttcggcacagagcgtgtgcccgtgtgccacctg
+            aggctgctggcccaggccgagggggagccctgctacatccgggacagtggggtggcccct
+            acagaccctggccctgagtctgctgctgggcccccaacccacgaggtgctggtgacaggc
+            actggtggcatccagtggtggccagtagaggaggaggtgaacaaggaggagggttctagt
+            ggcagcagtggcaggaacccccaagccagcctgtttgggaagaaggccaaggctcacaag
+            gcagtcggccagccggcagacaggccgcgggagccactgtgggcctacttctgtgacttc
+            cgggacatcacccacgtggtgctgaaagagcactgtgtcagcatccaccggcaggacaac
+            aagtgcctggagctgagcttgccttcccgggctgcggcgctgtccttcgtgtcgctggtg
+            gacggctatttccgcctgacggccgactccagccactacctgtgccacgaggtggctccc
+            ccacggctggtgatgagcatccgggatgggatccacggacccctgctggagccatttgtg
+            caggccaagctgcggcccgaggacggcctgtacctcattcactggagcaccagccacccc
+            taccgcctgatcctcacagtggcccagcgtagccaggcaccagacggcatgcagagcttg
+            cggctccgaaagttccccattgagcagcaggacggggccttcgtgctggagggctggggc
+            cggtccttccccagcgttcgggaacttggggctgccttgcagggctgcttgctgagggcc
+            ggggatgactgcttctctctgcgtcgctgttgcctgccccaaccaggagaaacctccaat
+            ctcatcatcatgcggggggctcgggccagccccaggacactcaacctcagccagctcagc
+            ttccaccgggttgaccagaaggagatcacccagctgtcccacttgggccagggcacaagg
+            accaacgtgtatgagggccgcctgcgagtggagggcagcggggaccctgaggagggcaag
+            atggatgacgaggaccccctcgtgcctggcagggaccgtgggcaggagctacgagtggtg
+            ctcaaagtgctggaccctagtcaccatgacatcgccctggccttctacgagacagccagc
+            ctcatgagccaggtctcccacacgcacctggccttcgtgcatggcgtctgtgtgcgcggc
+            cctgaaaatatcatggtgacagagtacgtggagcacggacccctggatgtgtggctgcgg
+            agggagcggggccatgtgcccatggcttggaagatggtggtggcccagcagctggccagc
+            gccctcagctacctggagaacaagaacctggttcatggtaatgtgtgtggccggaacatc
+            ctgctggcccggctggggttggcagagggcaccagccccttcatcaagctgagtgatcct
+            ggcgtgggcctgggcgccctctccagggaggagcgggtggagaggatcccctggctggcc
+            cccgaatgcctaccaggtggggccaacagcctaagcaccgccatggacaagtgggggttt
+            ggcgccaccctcctggagatctgctttgacggagaggcccctctgcagagccgcagtccc
+            tccgagaaggagcatttctaccagaggcagcaccggctgcccgagccctcctgcccacag
+            ctggccacactcaccagccagtgtctgacctatgagccaacccagaggccatcattccgc
+            accatcctgcgtgacctcacccggctgcagccccacaatcttgctgacgtcttgactgtg
+            aacccggactcaccggcgtcggaccctacggttttccacaagcgctatttgaaaaagatc
+            cgagatctgggcgagggtcacttcggcaaggtcagcttgtactgctacgatccgaccaac
+            gacggcactggcgagatggtggcggtgaaagccctcaaggcagactgcggcccccagcac
+            cgctcgggctggaagcaggagattgacattctgcgcacgctctaccacgagcacatcatc
+            aagtacaagggctgctgcgaggaccaaggcgagaagtcgctgcagctggtcatggagtac
+            gtgcccctgggcagcctccgagactacctgccccggcacagcatcgggctggcccagctg
+            ctgctcttcgcccagcagatctgcgagggcatggcctatctgcacgcgcagcactacatc
+            caccgagacctagccgcgcgcaacgtgctgctggacaacgacaggctggtcaagatcggg
+            gactttggcctagccaaggccgtgcccgaaggccacgagtactaccgcgtgcgcgaggat
+            ggggacagccccgtgttctggtatgccccagagtgcctgaaggagtataagttctactat
+            gcgtcagatgtctggtccttcggggtgaccctgtatgagctgctgacgcactgtgactcc
+            agccagagcccccccacgaaattccttgagctcataggcattgctcagggtcagatgaca
+            gttctgagactcactgagttgctggaacgaggggagaggctgccacggcccgacaaatgt
+            ccctgtgaggtctatcatctcatgaagaactgctgggagacagaggcgtcctttcgccca
+            accttcgagaacctcatacccattctgaagacagtccatgagaagtaccaaggccaggcc
+            ccttcagtgttcagcgtgtgctga
+///

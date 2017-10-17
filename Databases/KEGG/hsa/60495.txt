@@ -1,0 +1,82 @@
+ENTRY       60495             CDS       T01001
+NAME        HPSE2, HPA2, HPR2, UFS, UFS1
+DEFINITION  (RefSeq) heparanase 2 (inactive)
+ORTHOLOGY   K07965  heparanase 2 [EC:3.2.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00531  Glycosaminoglycan degradation
+            hsa01100  Metabolic pathways
+            hsa05205  Proteoglycans in cancer
+MODULE      hsa_M00078  Heparan sulfate degradation
+DISEASE     H00753  Urofacial syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00531 Glycosaminoglycan degradation
+                60495 (HPSE2)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                60495 (HPSE2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.-  
+                 60495 (HPSE2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Enzymes	(General comment) Variety
+               60495 (HPSE2)
+POSITION    10q24.2
+MOTIF       Pfam: Glyco_hydro_79n
+DBLINKS     NCBI-GeneID: 60495
+            NCBI-ProteinID: NP_068600
+            OMIM: 613469
+            HGNC: 18374
+            Ensembl: ENSG00000172987
+            Vega: OTTHUMG00000018880
+            Pharos: Q8WWQ2(Tbio)
+            UniProt: Q8WWQ2 Q2M1H9
+AASEQ       592
+            MRVLCAFPEAMPSSNSRPPACLAPGALYLALLLHLSLSSQAGDRRPLPVDRAAGLKEKTL
+            ILLDVSTKNPVRTVNENFLSLQLDPSIIHDGWLDFLSSKRLVTLARGLSPAFLRFGGKRT
+            DFLQFQNLRNPAKSRGGPGPDYYLKNYEDDIVRSDVALDKQKGCKIAQHPDVMLELQREK
+            AAQMHLVLLKEQFSNTYSNLILTARSLDKLYNFADCSGLHLIFALNALRRNPNNSWNSSS
+            ALSLLKYSASKKYNISWELGNEPNNYRTMHGRAVNGSQLGKDYIQLKSLLQPIRIYSRAS
+            LYGPNIGRPRKNVIALLDGFMKVAGSTVDAVTWQHCYIDGRVVKVMDFLKTRLLDTLSDQ
+            IRKIQKVVNTYTPGKKIWLEGVVTTSAGGTNNLSDSYAAGFLWLNTLGMLANQGIDVVIR
+            HSFFDHGYNHLVDQNFNPLPDYWLSLLYKRLIGPKVLAVHVAGLQRKPRPGRVIRDKLRI
+            YAHCTNHHNHNYVRGSITLFIINLHRSRKKIKLAGTLRDKLVHQYLLQPYGQEGLKSKSV
+            QLNGQPLVMVDDGTLPELKPRPLRAGRTLVIPPVTMGFYVVKNVNALACRYR
+NTSEQ       1779
+            atgagggtgctttgtgccttccctgaagccatgccctccagcaactcccgcccccccgcg
+            tgcctagccccgggggctctctacttggctctgttgctccatctctccctttcctcccag
+            gctggagacaggagacccttgcctgtagacagagctgcaggtttgaaggaaaagaccctg
+            attctacttgatgtgagcaccaagaacccagtcaggacagtcaatgagaacttcctctct
+            ctgcagctggatccgtccatcattcatgatggctggctcgatttcctaagctccaagcgc
+            ttggtgaccctggcccggggactttcgcccgcctttctgcgcttcgggggcaaaaggacc
+            gacttcctgcagttccagaacctgaggaacccggcgaaaagccgcgggggcccgggcccg
+            gattactatctcaaaaactatgaggatgacattgttcgaagtgatgttgccttagataaa
+            cagaaaggctgcaagattgcccagcaccctgatgttatgctggagctccaaagggagaag
+            gcagctcagatgcatctggttcttctaaaggagcaattctccaatacttacagtaatctc
+            atattaacagccaggtctctagacaaactttataactttgctgattgctctggactccac
+            ctgatatttgctctaaatgcactgcgtcgtaatcccaataactcctggaacagttctagt
+            gccctgagtctgttgaagtacagcgccagcaaaaagtacaacatttcttgggaactgggt
+            aatgagccaaataactatcggaccatgcatggccgggcagtaaatggcagccagttggga
+            aaggattacatccagctgaagagcctgttgcagcccatccggatttattccagagccagc
+            ttatatggccctaatattgggcggccgaggaagaatgtcatcgccctcctagatggattc
+            atgaaggtggcaggaagtacagtagatgcagttacctggcaacattgctacattgatggc
+            cgggtggtcaaggtgatggacttcctgaaaactcgcctgttagacacactctctgaccag
+            attaggaaaattcagaaagtggttaatacatacactccaggaaagaagatttggcttgaa
+            ggtgtggtgaccacctcagctggaggcacaaacaatctatccgattcctatgctgcagga
+            ttcttatggttgaacactttaggaatgctggccaatcagggcattgatgtcgtgatacgg
+            cactcattttttgaccatggatacaatcacctcgtggaccagaattttaacccattacca
+            gactactggctctctctcctctacaagcgcctgatcggccccaaagtcttggctgtgcat
+            gtggctgggctccagcggaagccacggcctggccgagtgatccgggacaaactaaggatt
+            tatgctcactgcacaaaccaccacaaccacaactacgttcgtgggtccattacacttttt
+            atcatcaacttgcatcgatcaagaaagaaaatcaagctggctgggactctcagagacaag
+            ctggttcaccagtacctgctgcagccctatgggcaggagggcctaaagtccaagtcagtg
+            caactgaatggccagcccttagtgatggtggacgacgggaccctcccagaattgaagccc
+            cgcccccttcgggccggccggacattggtcatccctccagtcaccatgggcttttatgtg
+            gtcaagaatgtcaatgctttggcctgccgctaccgataa
+///

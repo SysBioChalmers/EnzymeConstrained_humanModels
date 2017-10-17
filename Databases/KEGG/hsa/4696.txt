@@ -1,0 +1,54 @@
+ENTRY       4696              CDS       T01001
+NAME        NDUFA3, B9, CI-B9
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit A3
+ORTHOLOGY   K03947  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00146  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4696 (NDUFA3)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4696 (NDUFA3)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4696 (NDUFA3)
+               05012 Parkinson's disease
+                4696 (NDUFA3)
+               05016 Huntington's disease
+                4696 (NDUFA3)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4696 (NDUFA3)
+POSITION    19q13.42
+MOTIF       Pfam: NADHdh_A3
+DBLINKS     NCBI-GeneID: 4696
+            NCBI-ProteinID: NP_004533
+            OMIM: 603832
+            HGNC: 7686
+            Ensembl: ENSG00000170906
+            Vega: OTTHUMG00000064972
+            Pharos: O95167(Tclin)
+            UniProt: O95167 Q6FGG4
+STRUCTURE   PDB: 5XTC 5XTD
+AASEQ       84
+            MAARVGAFLKNAWDKEPVLVVSFVVGGLAVILPPLSPYFKYSVMINKATPYNYPVPVRDD
+            GNMPDVPSHPQDPQGPSLEWLKKL
+NTSEQ       255
+            atggctgcgagagtcggcgccttcctcaagaatgcctgggacaaggagccagtgctggtc
+            gtgtccttcgtcgtcgggggcctcgctgtaattctgcccccattgagcccctacttcaag
+            tactccgtcatgatcaacaaggccacgccctacaactacccagtgcccgtccgtgatgat
+            gggaacatgcccgacgtgcccagccacccccaggaccctcagggccccagcctggagtgg
+            ctgaagaaactgtga
+///

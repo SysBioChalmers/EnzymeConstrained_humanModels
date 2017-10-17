@@ -1,0 +1,55 @@
+ENTRY       9554              CDS       T01001
+NAME        SEC22B, ERS-24, SEC22L1
+DEFINITION  (RefSeq) SEC22 homolog B, vesicle trafficking protein (gene/pseudogene)
+ORTHOLOGY   K08517  vesicle transport protein SEC22
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04130  SNARE interactions in vesicular transport
+            hsa04145  Phagosome
+            hsa05134  Legionellosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                9554 (SEC22B)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                9554 (SEC22B)
+             Human Diseases
+              Infectious diseases
+               05134 Legionellosis
+                9554 (SEC22B)
+            Membrane trafficking [BR:hsa04131]
+             SNARE
+              VAMP, Ykt6, Sec22 (R)
+               Sec22
+                9554 (SEC22B)
+POSITION    1p12
+MOTIF       Pfam: Longin Synaptobrevin IMD Sec20
+DBLINKS     NCBI-GeneID: 9554
+            NCBI-ProteinID: NP_004883
+            OMIM: 604029
+            HGNC: 10700
+            Ensembl: ENSG00000265808
+            Vega: OTTHUMG00000185008
+            Pharos: O75396(Tdark)
+            UniProt: O75396
+STRUCTURE   PDB: 2NUT 3EGD 2NUP 3EGX
+AASEQ       215
+            MVLLTMIARVADGLPLAASMQEDEQSGRDLQQYQSQAKQLFRKLNEQSPTRCTLEAGAMT
+            FHYIIEQGVCYLVLCEAAFPKKLAFAYLEDLHSEFDEQHGKKVPTVSRPYSFIEFDTFIQ
+            KTKKLYIDSRARRNLGSINTELQDVQRIMVANIEEVLQRGEALSALDSKANNLSSLSKKY
+            RQDAKYLNMRSTYAKLAAVAVFFIMLIVYVRFWWL
+NTSEQ       648
+            atggtgttgctaacaatgatcgcccgagtggcggacgggctcccgctggccgcctcgatg
+            caggaggacgaacagtctggccgggaccttcaacaatatcagagtcaggctaagcaactc
+            tttcgaaagttgaatgaacagtcccctaccagatgtaccttggaagcaggagccatgact
+            tttcactacattattgagcagggggtgtgttatttggttttatgtgaagctgccttccct
+            aagaagttggcttttgcctacctagaagatttgcactcagaatttgatgaacagcatgga
+            aagaaggtgcccactgtgtcccgaccctattcctttattgaatttgatactttcattcag
+            aaaaccaagaagctctacattgacagtcgtgctcgaagaaatctaggctccatcaacact
+            gaattgcaagatgtgcagaggatcatggtggccaatattgaagaagtgttacaacgagga
+            gaagcactctcagcattggattcaaaggctaacaatttgtccagtctgtccaagaaatac
+            cgccaggatgcgaagtacttgaacatgcgttccacttatgccaaacttgcagcagtagct
+            gtatttttcatcatgttaatagtgtatgtccgattctggtggctgtga
+///

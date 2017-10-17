@@ -1,0 +1,93 @@
+ENTRY       995               CDS       T01001
+NAME        CDC25C, CDC25, PPP1R60
+DEFINITION  (RefSeq) cell division cycle 25C
+ORTHOLOGY   K05867  M-phase inducer phosphatase 3 [EC:3.1.3.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05206  MicroRNAs in cancer
+MODULE      hsa_M00691  DNA damage-induced cell cycle checkpoints
+            hsa_M00693  Cell cycle - G2/M transition
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                995 (CDC25C)
+               04114 Oocyte meiosis
+                995 (CDC25C)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                995 (CDC25C)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                995 (CDC25C)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.48  protein-tyrosine-phosphatase
+                 995 (CDC25C)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 995 (CDC25C)
+             Protein Tyrosine phosphatases (PTPs)
+              Class III PTPs
+               CDC25s
+                995 (CDC25C)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Other check point factors
+                995 (CDC25C)
+POSITION    5q31.2
+MOTIF       Pfam: Rhodanese M-inducer_phosp
+DBLINKS     NCBI-GeneID: 995
+            NCBI-ProteinID: NP_001274511
+            OMIM: 157680
+            HGNC: 1727
+            Ensembl: ENSG00000158402
+            Vega: OTTHUMG00000129203
+            Pharos: P30307(Tchem)
+            UniProt: P30307
+STRUCTURE   PDB: 5JIT 5JIV 3OP3
+AASEQ       473
+            MSTELFSSTREEGSSGSGPSFRSNQRKMLNLLLERDTSFTVCPDVPRTPVGKFLGDSANL
+            SILSGGTPKRCLDLSNLSSGEITATQLTTSADLDETGHLDSSGLQEVHLAGMNHDQHLMK
+            CSPAQLLCSTPNGLDRGHRKRDAMCSSSANKENDNGNLVDSEMKYLGSPITTVPKLDKNP
+            NLGEDQAEEISDELMEFSLKDQEAKVSRSGLYRSPSMPENLNRPRLKQVEKFKDNTIPDK
+            VKKKYFSGQGKLRKGLCLKKTVSLCDITITQMLEEDSNQGHLIGDFSKVCALPTVSGKHQ
+            DLKYVNPETVAALLSGKFQGLIEKFYVIDCRYPYEYLGGHIQGALNLYSQEELFNFFLKK
+            PIVPLDTQKRIIIVFHCEFSSERGPRMCRCLREEDRSLNQYPALYYPELYILKGGYRDFF
+            PEYMELCEPQSYCPMHHQDHKTELLRCRSQSKVQEGERQLREQIALLVKDMSP
+NTSEQ       1422
+            atgtctacggaactcttctcatccacaagagaggaaggaagctctggctcaggacccagt
+            tttaggtctaatcaaaggaaaatgttaaacctgctcctggagagagacacttcctttacc
+            gtctgtccagatgtccctagaactccagtgggcaaatttcttggtgattctgcaaaccta
+            agcattttgtctggaggaaccccaaaacgttgcctcgatctttcgaatcttagcagtggg
+            gagataactgccactcagcttaccacttctgcagaccttgatgaaactggtcacctggat
+            tcttcaggacttcaggaagtgcatttagctgggatgaatcatgaccagcacctaatgaaa
+            tgtagcccagcacagcttctttgtagcactccgaatggtttggaccgtggccatagaaag
+            agagatgcaatgtgtagttcatctgcaaataaagaaaatgacaatggaaacttggtggac
+            agtgaaatgaaatatttgggcagtcccattactactgttccaaaattggataaaaatcca
+            aacctaggagaagaccaggcagaagagatttcagatgaattaatggagttttccctgaaa
+            gatcaagaagcaaaggtgagcagaagtggcctatatcgctccccgtcgatgccagagaac
+            ttgaacaggccaagactgaagcaggtggaaaaattcaaggacaacacaataccagataaa
+            gttaaaaaaaagtatttttctggccaaggaaagctcaggaagggcttatgtttaaagaag
+            acagtctctctgtgtgacattactatcactcagatgctggaggaagattctaaccagggg
+            cacctgattggtgatttttccaaggtatgtgcgctgccaaccgtgtcagggaaacaccaa
+            gatctgaagtatgtcaacccagaaacagtggctgccttactgtcggggaagttccagggt
+            ctgattgagaagttttatgtcattgattgtcgctatccatatgagtatctgggaggacac
+            atccagggagccttaaacttatatagtcaggaagaactgtttaacttctttctgaagaag
+            cccatcgtccctttggacacccagaagagaataatcatcgtgttccactgtgaattctcc
+            tcagagaggggcccccgaatgtgccgctgtctgcgtgaagaggacaggtctctgaaccag
+            tatcctgcattgtactacccagagctatatatccttaaaggcggctacagagacttcttt
+            ccagaatatatggaactgtgtgaaccacagagctactgccctatgcatcatcaggaccac
+            aagactgagttgctgaggtgtcgaagccagagcaaagtgcaggaaggggagcggcagctg
+            cgggagcagattgcccttctggtgaaggacatgagcccatga
+///

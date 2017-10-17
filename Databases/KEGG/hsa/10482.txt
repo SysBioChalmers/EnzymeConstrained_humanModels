@@ -1,0 +1,95 @@
+ENTRY       10482             CDS       T01001
+NAME        NXF1, MEX67, TAP
+DEFINITION  (RefSeq) nuclear RNA export factor 1
+ORTHOLOGY   K14284  nuclear RNA export factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                10482 (NXF1)
+               03015 mRNA surveillance pathway
+                10482 (NXF1)
+               03008 Ribosome biogenesis in eukaryotes
+                10482 (NXF1)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                10482 (NXF1)
+               05168 Herpes simplex infection
+                10482 (NXF1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 10482 (NXF1)
+               mRNA cycle factors
+                Stress granule specific factors
+                 10482 (NXF1)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                10482 (NXF1)
+POSITION    11q12.3
+MOTIF       Pfam: Tap-RNA_bind NTF2 TAP_C LRR_4 LRR_8 LRR_9
+DBLINKS     NCBI-GeneID: 10482
+            NCBI-ProteinID: NP_006353
+            OMIM: 602647
+            HGNC: 8071
+            Ensembl: ENSG00000162231
+            Vega: OTTHUMG00000167612
+            Pharos: Q9UBU9(Tbio)
+            UniProt: Q9UBU9
+STRUCTURE   PDB: 1JKG 3RW6 1JN5 1FO1 3RW7 1FT8 4WYK 1KOO 1KOH 1OAI 1GO5
+AASEQ       619
+            MADEGKSYSEHDDERVNFPQRKKKGRGPFRWKYGEGNRRSGRGGSGIRSSRLEEDDGDVA
+            MSDAQDGPRVRYNPYTTRPNRRGDTWHDRDRIHVTVRRDRAPPERGGAGTSQDGTSKNWF
+            KITIPYGRKYDKAWLLSMIQSKCSVPFTPIEFHYENTRAQFFVEDASTASALKAVNYKIL
+            DRENRRISIIINSSAPPHTILNELKPEQVEQLKLIMSKRYDGSQQALDLKGLRSDPDLVA
+            QNIDVVLNRRSCMAATLRIIEENIPELLSLNLSNNRLYRLDDMSSIVQKAPNLKILNLSG
+            NELKSERELDKIKGLKLEELWLDGNSLCDTFRDQSTYISAIRERFPKLLRLDGHELPPPI
+            AFDVEAPTTLPPCKGSYFGTENLKSLVLHFLQQYYAIYDSGDRQGLLDAYHDGACCSLSI
+            PFIPQNPARSSLAEYFKDSRNVKKLKDPTLRFRLLKHTRLNVVAFLNELPKTQHDVNSFV
+            VDISAQTSTLLCFSVNGVFKEVDGKSRDSLRAFTRTFIAVPASNSGLCIVNDELFVRNAS
+            SEEIQRAFAMPAPTPSSSPVPTLSPEQQEMLQAFSTQSGMNLEWSQKCLQDNNWDYTRSA
+            QAFTHLKAKGEIPEVAFMK
+NTSEQ       1860
+            atggcggacgaggggaagtcgtacagcgaacacgatgatgaacgcgttaatttccctcaa
+            agaaagaagaaaggccggggtcccttccggtggaaatatggtgaaggaaaccgtaggtct
+            ggaagaggcggttctggtattcggtcttcccgccttgaggaagatgatggagatgtggca
+            atgagtgatgcccaggatggtccccgagtacgatacaacccctataccacccgacctaac
+            cgtcggggtgatacttggcatgatcgagatcgcattcatgttactgtgcggagagacaga
+            gctcctccagagagaggaggggctggcaccagccaggatgggacctcaaagaactggttc
+            aagattacaattccttatggcagaaagtatgacaaggcatggctcctgagcatgattcag
+            agcaagtgcagtgtgcccttcacccctattgagtttcactatgagaatacacgggcccag
+            ttcttcgttgaagacgccagtactgcctctgcattgaaggctgtcaactataagattttg
+            gatcgggagaaccgaaggatatctatcatcatcaactcttctgctccaccccacactata
+            ctgaatgaactgaagccagaacaagtagaacagctaaagctgatcatgagcaaacgatac
+            gatggctcccaacaagcccttgacctcaaaggcctccgttcagacccagatttggtggcc
+            cagaacattgacgttgtcctgaatcgcagaagctgtatggcagctaccctgaggatcatt
+            gaagagaacatccctgagctattgtccttgaacttgagcaacaacaggctgtacaggctg
+            gatgacatgtctagcattgttcagaaggcacccaacctgaagatcctaaacctttctgga
+            aatgaattgaagtctgagcgggaattggacaagataaaggggctgaagctagaagagctc
+            tggctcgatggaaactccctgtgtgacaccttccgagaccagtccacctacatcagcgcc
+            attcgcgaacgatttcccaagttactacgcctggatggccatgagctacccccaccaatt
+            gcctttgatgttgaagcccccacgacgttaccgccctgcaagggaagctattttggaaca
+            gaaaacttgaagagtctggtcttgcacttcctgcaacagtactatgcaatttacgactct
+            ggagaccgacaagggctcctggatgcctaccatgatggggcctgctgttccctgagcatt
+            cctttcattcctcagaaccctgcccgaagcagcttagccgagtatttcaaggatagcaga
+            aatgtgaagaagcttaaagaccctaccttgcggttccggctgctgaagcacacgcgtctc
+            aacgttgttgccttcctcaatgagttgcccaaaacccagcacgacgtcaattccttcgtg
+            gtagacataagcgcccagacaagcacattgctgtgtttttctgtcaatggagtcttcaag
+            gaagtggacggaaagtcccgggattctttgcgagccttcacccggacattcattgctgtt
+            cctgctagcaattcagggctatgtattgtaaatgatgagctatttgtgcggaatgccagt
+            tctgaagagatccaaagagccttcgctatgcctgcacccacgccttcctccagcccggtg
+            cccaccctctctccagagcagcaggaaatgttgcaagcattctctacccagtctggcatg
+            aacctcgagtggtcccagaagtgccttcaggacaacaactgggactacaccagatctgcc
+            caggccttcactcatctcaaggccaagggcgagatcccagaagtggcattcatgaagtga
+///

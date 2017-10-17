@@ -1,0 +1,54 @@
+ENTRY       64802             CDS       T01001
+NAME        NMNAT1, LCA9, NMNAT, PNAT1
+DEFINITION  (RefSeq) nicotinamide nucleotide adenylyltransferase 1
+ORTHOLOGY   K06210  nicotinamide mononucleotide adenylyltransferase [EC:2.7.7.1 2.7.7.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00760  Nicotinate and nicotinamide metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00837  Leber congenital amaurosis (LCR)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                64802 (NMNAT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.1  nicotinamide-nucleotide adenylyltransferase
+                 64802 (NMNAT1)
+                2.7.7.18  nicotinate-nucleotide adenylyltransferase
+                 64802 (NMNAT1)
+POSITION    1p36.22
+MOTIF       Pfam: CTP_transf_like DDHD
+DBLINKS     NCBI-GeneID: 64802
+            NCBI-ProteinID: NP_001284707
+            OMIM: 608700
+            HGNC: 17877
+            Ensembl: ENSG00000173614
+            Vega: OTTHUMG00000001799
+            Pharos: Q9HAN9(Tbio)
+            UniProt: Q9HAN9 A0A024R4E1
+STRUCTURE   PDB: 1KQN 1KR2 1KQO 1KKU 1GZU
+AASEQ       279
+            MENSEKTEVVLLACGSFNPITNMHLRLFELAKDYMNGTGRYTVVKGIISPVGDAYKKKGL
+            IPAYHRVIMAELATKNSKWVEVDTWESLQKEWKETLKVLRHHQEKLEASDCDHQQNSPTL
+            ERPGRKRKWTETQDSSQKKSLEPKTKAVPKVKLLCGADLLESFAVPNLWKSEDITQIVAN
+            YGLICVTRAGNDAQKFIYESDVLWKHRSNIHVVNEWIANDISSTKIRRALRRGQSIRYLV
+            PDLVQEYIEKHNLYSSESEDRNAGVILAPLQRNTAEAKT
+NTSEQ       840
+            atggaaaattccgagaagactgaagtggttctccttgcttgtggttcattcaatcccatc
+            accaacatgcacctcaggttgtttgagctggccaaggactacatgaatggaacaggaagg
+            tacacagttgtcaaaggcatcatctctcctgttggtgatgcctacaagaagaaaggactc
+            attcctgcctatcaccgggtcatcatggcagaacttgctaccaagaattctaaatgggtg
+            gaagttgatacatgggaaagtcttcagaaggagtggaaagagactctgaaggtgctaaga
+            caccatcaagagaaattggaggctagtgactgtgatcaccagcagaactcacctactcta
+            gaaaggcctggaaggaagaggaagtggactgaaacacaagattctagtcaaaagaaatcc
+            ctagagccaaaaacaaaagctgtgccaaaggtcaagctgctgtgtggggcagatttattg
+            gagtcctttgctgttcccaatttgtggaagagtgaagacatcacccaaatcgtggccaac
+            tatgggctcatatgtgttactcgggctggaaatgatgctcagaagtttatctatgaatcg
+            gatgtgctgtggaaacaccggagcaacattcacgtggtgaatgaatggatcgctaatgac
+            atctcatccacaaaaatccggagagccctcagaaggggccagagcattcgctacttggta
+            ccagatcttgtccaagaatacattgaaaagcataatttgtacagctctgagagtgaagac
+            aggaatgctggggtcatcctggcccctttgcagagaaacactgcagaagctaagacatag
+///

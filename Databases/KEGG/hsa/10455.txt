@@ -1,0 +1,63 @@
+ENTRY       10455             CDS       T01001
+NAME        ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A10.3
+DEFINITION  (RefSeq) enoyl-CoA delta isomerase 2
+ORTHOLOGY   K13239  peroxisomal 3,2-trans-enoyl-CoA isomerase [EC:5.3.3.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00071 Fatty acid degradation
+                10455 (ECI2)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                10455 (ECI2)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.8  dodecenoyl-CoA isomerase
+                 10455 (ECI2)
+POSITION    6p25.2
+MOTIF       Pfam: ECH_1 ACBP ECH_2
+DBLINKS     NCBI-GeneID: 10455
+            NCBI-ProteinID: NP_996667
+            OMIM: 608024
+            HGNC: 14601
+            Ensembl: ENSG00000198721
+            Vega: OTTHUMG00000014158
+            Pharos: O75521(Tbio)
+            UniProt: O75521
+STRUCTURE   PDB: 4U19 2F6Q 4U18 4U1A 2CQU
+AASEQ       394
+            MAMAYLAWRLARRSCPSSLQVTSFPVVQLHMNRTAMRASQKDFENSMNQVKLLKKDPGNE
+            VKLKLYALYKQATEGPCNMPKPGVFDLINKAKWDAWNALGSLPKEAARQNYVDLVSSLSP
+            SLESSSQVEPGTDRKSTGFETLVVTSEDGITKIMFNRPKKKNAINTEMYHEIMRALKAAS
+            KDDSIITVLTGNGDYYSSGNDLTNFTDIPPGGVEEKAKNNAVLLREFVGCFIDFPKPLIA
+            VVNGPAVGISVTLLGLFDAVYASDRATFHTPFSHLGQSPEGCSSYTFPKIMSPAKATEML
+            IFGKKLTAGEACAQGLVTEVFPDSTFQKEVWTRLKAFAKLPPNALRISKEVIRKREREKL
+            HAVNAEECNVLQGRWLSDECTNAVVNFLSRKSKL
+NTSEQ       1185
+            atggcgatggcgtacttggcttggagactggcgcggcgttcgtgtccgagttctctgcag
+            gtcactagtttcccggtagttcagctgcacatgaatagaacagcaatgagagccagtcag
+            aaggactttgaaaattcaatgaatcaagtgaaactcttgaaaaaggatccaggaaacgaa
+            gtgaagctaaaactctacgcgctatataagcaggccactgaaggaccttgtaacatgccc
+            aaaccaggtgtatttgacttgatcaacaaggccaaatgggacgcatggaatgcccttggc
+            agcctgcccaaggaagctgccaggcagaactatgtggatttggtgtccagtttgagtcct
+            tcattggaatcctctagtcaggtggagcctggaacagacaggaaatcaactgggtttgaa
+            actctggtggtgacctccgaagatggcatcacaaagatcatgttcaaccggcccaaaaag
+            aaaaatgccataaacactgagatgtatcatgaaattatgcgtgcacttaaagctgccagc
+            aaggatgactcaatcatcactgttttaacaggaaatggtgactattacagtagtgggaat
+            gatctgactaacttcactgatattccccctggtggagtagaggagaaagctaaaaataat
+            gccgttttactgagggaatttgtgggctgttttatagattttcctaagcctctgattgca
+            gtggtcaatggtccagctgtgggcatctccgtcaccctccttgggctattcgatgccgtg
+            tatgcatctgacagggcaacatttcatacaccatttagtcacctaggccaaagtccggaa
+            ggatgctcctcttacacttttccgaagataatgagcccagccaaggcaacagagatgctt
+            atttttggaaagaagttaacagcgggagaggcatgtgctcaaggacttgttactgaagtt
+            ttccctgatagcacttttcagaaagaagtctggaccaggctgaaggcatttgcaaagctt
+            cccccaaatgccttgagaatttcaaaagaggtaatcaggaaaagagagagagaaaaacta
+            cacgctgttaatgctgaagaatgcaatgtccttcagggaagatggctatcagatgaatgc
+            acaaatgctgtggtgaacttcttatccagaaaatcaaaactgtga
+///

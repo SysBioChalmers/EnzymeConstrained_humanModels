@@ -1,0 +1,137 @@
+ENTRY       3356              CDS       T01001
+NAME        HTR2A, 5-HT2A, HTR2
+DEFINITION  (RefSeq) 5-hydroxytryptamine receptor 2A
+ORTHOLOGY   K04157  5-hydroxytryptamine receptor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04540  Gap junction
+            hsa04726  Serotonergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+DISEASE     H01450  Obsessive-compulsive disorder (OCD)
+            H01646  Major depressive disorder
+            H01649  Schizophrenia
+DRUG_TARGET Adatanserin hydrochloride: D02767
+            Altanserin tartrate: D02836
+            Amesergide: D02893
+            Aripiprazole (DG00906): D01164 D10355 D10364 D10516
+            Asenapine: D02995
+            Atiprosin maleate: D03005
+            Blonanserin: D01176
+            Brexpiprazole: D10309
+            Chlorpromazine (DG00867): D00270 D00789 D03274 D04034 D09819
+            Cinanserin hydrochloride: D03506
+            Cinitapride (DG01520): D07700 D07701
+            Clozapine: D00283
+            Dimetotiazine (DG00843): D01902 D07854
+            Eplivanserin: D10006
+            Fananserin: D02656
+            Flibanserin: D02577
+            Glemanserin: D04320
+            Iloperidone: D02666
+            Ketanserin (DG00265): D02363 D08099
+            Levomepromazine (DG00868): D00403 D01520 D02248
+            Loxapine (DG00897): D02340
+            Lubazodone hydrochloride: D04788
+            Lurasidone: D04820
+            Metergoline: D07218
+            Methysergide (DG00835): D00681 D02357
+            Metrenperone: D05015
+            Mianserin (DG00951): D01358 D08216
+            Mirtazapine: D00563
+            Mosapramine (DG00905): D01548 D08235
+            Nefazodone (DG00953): D00819 D08257
+            Nelotanserin: D09645
+            Olanzapine (DG00898): D00454 D06623
+            Opipramol (DG00930): D01477 D08297
+            Paliperidone (DG00907): D05339 D05340
+            Pelanserin hydrochloride: D05395
+            Perospirone hydrochloride hydrate: D02372
+            Pimavanserin: D08969
+            Pipamperone (DG00889): D01482 D02622
+            Pizotifen (DG00842): D05523 D08397
+            Pruvanserin (DG01278): D06632 D06633
+            Quetiapine (DG00899): D00458 D08456
+            Risperidone: D00426
+            Ritanserin: D05738
+            Sarpogrelate (DG01333): D01624 D08508
+            Sertindole: D00561
+            Setiptiline (DG01231): D02034 D08511
+            Setoperone: D02686
+            Spiperone: D01051
+            Temanogrel (DG01334): D09976 D09977
+            Trazodone (DG00952): D00820 D08626
+            Tropanserin hydrochloride: D06253
+            Xylamidine tosylate: D06343
+            Zicronapine (DG01539): D10329 D10495
+            Ziprasidone (DG00892): D01939 D02100 D08687
+            Zotepine: D01321
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                3356 (HTR2A)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3356 (HTR2A)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                3356 (HTR2A)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                3356 (HTR2A)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                3356 (HTR2A)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Serotonin [OT]
+                3356 (HTR2A)
+POSITION    13q14.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 3356
+            NCBI-ProteinID: NP_000612
+            OMIM: 182135
+            HGNC: 5293
+            Ensembl: ENSG00000102468
+            Vega: OTTHUMG00000016881
+            Pharos: P28223(Tclin)
+            UniProt: P28223
+AASEQ       471
+            MDILCEENTSLSSTTNSLMQLNDDTRLYSNDFNSGEANTSDAFNWTVDSENRTNLSCEGC
+            LSPSCLSLLHLQEKNWSALLTAVVIILTIAGNILVIMAVSLEKKLQNATNYFLMSLAIAD
+            MLLGFLVMPVSMLTILYGYRWPLPSKLCAVWIYLDVLFSTASIMHLCAISLDRYVAIQNP
+            IHHSRFNSRTKAFLKIIAVWTISVGISMPIPVFGLQDDSKVFKEGSCLLADDNFVLIGSF
+            VSFFIPLTIMVITYFLTIKSLQKEATLCVSDLGTRAKLASFSFLPQSSLSSEKLFQRSIH
+            REPGSYTGRRTMQSISNEQKACKVLGIVFFLFVVMWCPFFITNIMAVICKESCNEDVIGA
+            LLNVFVWIGYLSSAVNPLVYTLFNKTYRSAFSRYIQCQYKENKKPLQLILVNTIPALAYK
+            SSQLQMGQKKNSKQDAKTTDNDCSMVALGKQHSEEASKDNSDGVNEKVSCV
+NTSEQ       1416
+            atggatattctttgtgaagaaaatacttctttgagctcaactacgaactccctaatgcaa
+            ttaaatgatgacaccaggctctacagtaatgactttaactccggagaagctaacacttct
+            gatgcatttaactggacagtcgactctgaaaatcgaaccaacctttcctgtgaagggtgc
+            ctctcaccgtcgtgtctctccttacttcatctccaggaaaaaaactggtctgctttactg
+            acagccgtagtgattattctaactattgctggaaacatactcgtcatcatggcagtgtcc
+            ctagagaaaaagctgcagaatgccaccaactatttcctgatgtcacttgccatagctgat
+            atgctgctgggtttccttgtcatgcccgtgtccatgttaaccatcctgtatgggtaccgg
+            tggcctctgccgagcaagctttgtgcagtctggatttacctggacgtgctcttctccacg
+            gcctccatcatgcacctctgcgccatctcgctggaccgctacgtcgccatccagaatccc
+            atccaccacagccgcttcaactccagaactaaggcatttctgaaaatcattgctgtttgg
+            accatatcagtaggtatatccatgccaataccagtctttgggctacaggacgattcgaag
+            gtctttaaggaggggagttgcttactcgccgatgataactttgtcctgatcggctctttt
+            gtgtcatttttcattcccttaaccatcatggtgatcacctactttctaactatcaagtca
+            ctccagaaagaagctactttgtgtgtaagtgatcttggcacacgggccaaattagcttct
+            ttcagcttcctccctcagagttctttgtcttcagaaaagctcttccagcggtcgatccat
+            agggagccagggtcctacacaggcaggaggactatgcagtccatcagcaatgagcaaaag
+            gcatgcaaggtgctgggcatcgtcttcttcctgtttgtggtgatgtggtgccctttcttc
+            atcacaaacatcatggccgtcatctgcaaagagtcctgcaatgaggatgtcattggggcc
+            ctgctcaatgtgtttgtttggatcggttatctctcttcagcagtcaacccactagtctac
+            acactgttcaacaagacctataggtcagccttttcacggtatattcagtgtcagtacaag
+            gaaaacaaaaaaccattgcagttaattttagtgaacacaataccggctttggcctacaag
+            tctagccaacttcaaatgggacaaaaaaagaattcaaagcaagatgccaagacaacagat
+            aatgactgctcaatggttgctctaggaaagcagcattctgaagaggcttctaaagacaat
+            agcgacggagtgaatgaaaaggtgagctgtgtgtga
+///

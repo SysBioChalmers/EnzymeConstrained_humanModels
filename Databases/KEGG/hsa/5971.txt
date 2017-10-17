@@ -1,0 +1,84 @@
+ENTRY       5971              CDS       T01001
+NAME        RELB, I-REL, IREL, REL-B
+DEFINITION  (RefSeq) RELB proto-oncogene, NF-kB subunit
+ORTHOLOGY   K09253  transcription factor RelB
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa05166  HTLV-I infection
+            hsa05169  Epstein-Barr virus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                5971 (RELB)
+               04064 NF-kappa B signaling pathway
+                5971 (RELB)
+             Organismal Systems
+              Development
+               04380 Osteoclast differentiation
+                5971 (RELB)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                5971 (RELB)
+               05169 Epstein-Barr virus infection
+                5971 (RELB)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               RHR (Rel homology region) Rel/Ankyrin
+                5971 (RELB)
+POSITION    19q13.32
+MOTIF       Pfam: RelB_transactiv RHD_DNA_bind RelB_leu_zip RHD_dimer
+DBLINKS     NCBI-GeneID: 5971
+            NCBI-ProteinID: NP_006500
+            OMIM: 604758
+            HGNC: 9956
+            Ensembl: ENSG00000104856
+            Vega: OTTHUMG00000162116
+            Pharos: Q01201(Tbio)
+            UniProt: Q01201
+AASEQ       579
+            MLRSGPASGPSVPTGRAMPSRRVARPPAAPELGALGSPDLSSLSLAVSRSTDELEIIDEY
+            IKENGFGLDGGQPGPGEGLPRLVSRGAASLSTVTLGPVAPPATPPPWGCPLGRLVSPAPG
+            PGPQPHLVITEQPKQRGMRFRYECEGRSAGSILGESSTEASKTLPAIELRDCGGLREVEV
+            TACLVWKDWPHRVHPHSLVGKDCTDGICRVRLRPHVSPRHSFNNLGIQCVRKKEIEAAIE
+            RKIQLGIDPYNAGSLKNHQEVDMNVVRICFQASYRDQQGQMRRMDPVLSEPVYDKKSTNT
+            SELRICRINKESGPCTGGEELYLLCDKVQKEDISVVFSRASWEGRADFSQADVHRQIAIV
+            FKTPPYEDLEIVEPVTVNVFLQRLTDGVCSEPLPFTYLPRDHDSYGVDKKRKRGMPDVLG
+            ELNSSDPHGIESKRRKKKPAILDHFLPNHGSGPFLPPSALLPDPDFFSGTVSLPGLEPPG
+            GPDLLDDGFAYDPTAPTLFTMLDLLPPAPPHASAVVCSGGAGAVVGETPGPEPLTLDSYQ
+            APGPGDGGTASLVGSNMFPNHYREAAFGGGLLSPGPEAT
+NTSEQ       1740
+            atgcttcggtctgggccagcctctgggccgtccgtccccactggccgggccatgccgagt
+            cgccgcgtcgccagaccgccggctgcgccggagctgggggccttagggtcccccgacctc
+            tcctcactctcgctcgccgtttccaggagcacagatgaattggagatcatcgacgagtac
+            atcaaggagaacggcttcggcctggacgggggacagccgggcccgggcgaggggctgcca
+            cgcctggtgtctcgcggggctgcgtccctgagcacggtcaccctgggccctgtggcgccc
+            ccagccacgccgccgccttggggctgccccctgggccgactagtgtccccagcgccgggc
+            ccgggcccgcagccgcacctggtcatcacggagcagcccaagcagcgcggcatgcgcttc
+            cgctacgagtgcgagggccgctcggccggcagcatccttggggagagcagcaccgaggcc
+            agcaagacgctgcccgccatcgagctccgggattgtggagggctgcgggaggtggaggtg
+            actgcctgcctggtgtggaaggactggcctcaccgagtccacccccacagcctcgtgggg
+            aaagactgcaccgacggcatctgcagggtgcggctccggcctcacgtcagcccccggcac
+            agttttaacaacctgggcatccagtgtgtgaggaagaaggagattgaggctgccattgag
+            cggaagattcaactgggcattgacccctacaacgctgggtccctgaagaaccatcaggaa
+            gtagacatgaatgtggtgaggatctgcttccaggcctcatatcgggaccagcagggacag
+            atgcgccggatggatcctgtgctttccgagcccgtctatgacaagaaatccacaaacaca
+            tcagagctgcggatttgccgaattaacaaggaaagcgggccgtgcaccggtggcgaggag
+            ctctacttgctctgcgacaaggtgcagaaagaggacatatcagtggtgttcagcagggcc
+            tcctgggaaggtcgggctgacttctcccaggccgacgtgcaccgccagattgccattgtg
+            ttcaagacgccgccctacgaggacctggagattgtcgagcccgtgacagtcaacgtcttc
+            ctgcagcggctcaccgatggggtctgcagcgagccattgcctttcacgtacctgcctcgc
+            gaccatgacagctacggcgtggacaagaagcggaaacgggggatgcccgacgtccttggg
+            gagctgaacagctctgacccccatggcatcgagagcaaacggcggaagaaaaagccggcc
+            atcctggaccacttcctgcccaaccacggctcaggcccgttcctcccgccgtcagccctg
+            ctgccagaccctgacttcttctctggcaccgtgtccctgcccggcctggagccccctggc
+            gggcctgacctcctggacgatggctttgcctacgaccctacggcccccacactcttcacc
+            atgctggacctgctgcccccggcaccgccacacgctagcgctgttgtgtgcagcggaggt
+            gccggggccgtggttggggagacccccggccctgaaccactgacactggactcgtaccag
+            gccccgggccccggggatggaggcaccgccagccttgtgggcagcaacatgttccccaat
+            cattaccgcgaggcggcctttgggggcggcctcctatccccggggcctgaagccacgtag
+///

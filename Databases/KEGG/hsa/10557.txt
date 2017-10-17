@@ -1,0 +1,69 @@
+ENTRY       10557             CDS       T01001
+NAME        RPP38
+DEFINITION  (RefSeq) ribonuclease P/MRP subunit p38
+ORTHOLOGY   K14523  ribonucleases P/MRP protein subunit RPP38 [EC:3.1.26.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                10557 (RPP38)
+               03008 Ribosome biogenesis in eukaryotes
+                10557 (RPP38)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.5  ribonuclease P
+                 10557 (RPP38)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               RNases
+                RNase MRP
+                 10557 (RPP38)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              5'processing factors
+               Ribonucrease P
+                10557 (RPP38)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               RNase MRP
+                10557 (RPP38)
+POSITION    10p13
+MOTIF       Pfam: Ribosomal_L7Ae PELOTA_1
+DBLINKS     NCBI-GeneID: 10557
+            NCBI-ProteinID: NP_001091059
+            OMIM: 606116
+            HGNC: 30329
+            Ensembl: ENSG00000152464
+            Vega: OTTHUMG00000017728
+            Pharos: P78345(Tbio)
+            UniProt: P78345
+AASEQ       283
+            MAAAPQAPGRGSLRKTRPLVVKTSLNNPYIIRWSALESEDMHFILQTLEDRLKAIGLQKI
+            EDKKKKNKTPFLKKESREKCSIAVDISENLKEKKTDAKQQVSGWTPAHVRKQLAIGVNEV
+            TRALERRELLLVLVCKSVKPAMITSHLIQLSLSRSVPACQVPRLSERIAPVIGLKCVLAL
+            AFKKNTTDFVDEVRAIIPRVPSLSVPWLQDRIEDSGENLETEPLESQDRELLDTSFEDLS
+            KPKRKLADGRQASVTLQPLKIKKLIPNPNKIRKPPKSKKATPK
+NTSEQ       852
+            atggctgcagctcctcaagcaccggggcggggatctctccgtaagacgagacctctggtt
+            gtgaagacgtcgttgaacaacccatacatcatccgctggagcgctctggagagcgaggat
+            atgcacttcatcctacagacgcttgaggacaggcttaaagctattggacttcagaagatt
+            gaagataagaagaaaaagaacaaaacaccttttctgaaaaaagaaagcagagagaaatgc
+            agcattgctgttgatattagtgagaatctgaaggagaagaaaacagatgctaagcagcaa
+            gtgtcagggtggacgcctgcacacgtcaggaagcagcttgccattggcgttaacgaagtt
+            accagagccctggaaaggagggaactgctgttagttctggtgtgtaaatcagtcaagcct
+            gccatgatcacctcacacttgattcagttaagcctaagcagaagtgtccctgcctgtcag
+            gtcccccggctcagtgagagaatcgcccccgtcattggcttaaaatgtgttctagccttg
+            gcgttcaaaaagaacaccactgactttgtggacgaagtaagagccatcatccccagagtc
+            cccagtttaagtgtaccatggcttcaagacagaattgaagattctggggaaaatttagag
+            actgaacctctggaaagccaagacagagagcttttggacacttcatttgaagatctgtca
+            aaacctaagagaaagcttgctgacggtcggcaggcttctgtaacattacaaccccttaaa
+            ataaagaaactgattccaaaccctaataagataaggaaaccacccaaaagtaaaaaagct
+            actccaaagtaa
+///

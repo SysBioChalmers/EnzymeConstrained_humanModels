@@ -1,0 +1,101 @@
+ENTRY       5584              CDS       T01001
+NAME        PRKCI, DXS1179E, PKCI, nPKC-iota
+DEFINITION  (RefSeq) protein kinase C iota
+ORTHOLOGY   K06069  atypical protein kinase C iota type [EC:2.7.11.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04144  Endocytosis
+            hsa04390  Hippo signaling pathway
+            hsa04530  Tight junction
+            hsa04611  Platelet activation
+            hsa04910  Insulin signaling pathway
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                5584 (PRKCI)
+               04390 Hippo signaling pathway
+                5584 (PRKCI)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                5584 (PRKCI)
+              Cellular community - eukaryotes
+               04530 Tight junction
+                5584 (PRKCI)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                5584 (PRKCI)
+              Endocrine system
+               04910 Insulin signaling pathway
+                5584 (PRKCI)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                5584 (PRKCI)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.13  protein kinase C
+                 5584 (PRKCI)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              PKC family [OT]
+               5584 (PRKCI)
+POSITION    3q26.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr C1_1 PB1 Pkinase_C Kinase-like Haspin_kinase Kdo C1_2 APH FTA2
+DBLINKS     NCBI-GeneID: 5584
+            NCBI-ProteinID: NP_002731
+            OMIM: 600539
+            HGNC: 9404
+            Ensembl: ENSG00000163558
+            Vega: OTTHUMG00000150214
+            Pharos: P41743(Tbio)
+            UniProt: P41743
+STRUCTURE   PDB: 1WMH 5LI9 5LI1 3A8X 3A8W 3ZH8 1ZRZ 5LIH 1VD2
+AASEQ       596
+            MPTQRDSSTMSHTVAGGGSGDHSHQVRVKAYYRGDIMITHFEPSISFEGLCNEVRDMCSF
+            DNEQLFTMKWIDEEGDPCTVSSQLELEEAFRLYELNKDSELLIHVFPCVPERPGMPCPGE
+            DKSIYRRGARRWRKLYCANGHTFQAKRFNRRAHCAICTDRIWGLGRQGYKCINCKLLVHK
+            KCHKLVTIECGRHSLPQEPVMPMDQSSMHSDHAQTVIPYNPSSHESLDQVGEEKEAMNTR
+            ESGKASSSLGLQDFDLLRVIGRGSYAKVLLVRLKKTDRIYAMKVVKKELVNDDEDIDWVQ
+            TEKHVFEQASNHPFLVGLHSCFQTESRLFFVIEYVNGGDLMFHMQRQRKLPEEHARFYSA
+            EISLALNYLHERGIIYRDLKLDNVLLDSEGHIKLTDYGMCKEGLRPGDTTSTFCGTPNYI
+            APEILRGEDYGFSVDWWALGVLMFEMMAGRSPFDIVGSSDNPDQNTEDYLFQVILEKQIR
+            IPRSLSVKAASVLKSFLNKDPKERLGCHPQTGFADIQGHPFFRNVDWDMMEQKQVVPPFK
+            PNISGEFGLDNFDSQFTNEPVQLTPDDDDIVRKIDQSEFEGFEYINPLLMSAEECV
+NTSEQ       1791
+            atgccgacccagagggacagcagcaccatgtcccacacggtcgcaggcggcggcagcggg
+            gaccattcccaccaggtccgggtgaaagcctactaccgcggggatatcatgataacacat
+            tttgaaccttccatctcctttgagggcctttgcaatgaggttcgagacatgtgttctttt
+            gacaacgaacagctcttcaccatgaaatggatagatgaggaaggagacccgtgtacagta
+            tcatctcagttggagttagaagaagcctttagactttatgagctaaacaaggattctgaa
+            ctcttgattcatgtgttcccttgtgtaccagaacgtcctgggatgccttgtccaggagaa
+            gataaatccatctaccgtagaggtgcacgccgctggagaaagctttattgtgccaatggc
+            cacactttccaagccaagcgtttcaacaggcgtgctcactgtgccatctgcacagaccga
+            atatggggacttggacgccaaggatataagtgcatcaactgcaaactcttggttcataag
+            aagtgccataaactcgtcacaattgaatgtgggcggcattctttgccacaggaaccagtg
+            atgcccatggatcagtcatccatgcattctgaccatgcacagacagtaattccatataat
+            ccttcaagtcatgagagtttggatcaagttggtgaagaaaaagaggcaatgaacaccagg
+            gaaagtggcaaagcttcatccagtctaggtcttcaggattttgatttgctccgggtaata
+            ggaagaggaagttatgccaaagtactgttggttcgattaaaaaaaacagatcgtatttat
+            gcaatgaaagttgtgaaaaaagagcttgttaatgatgatgaggatattgattgggtacag
+            acagagaagcatgtgtttgagcaggcatccaatcatcctttccttgttgggctgcattct
+            tgctttcagacagaaagcagattgttctttgttatagagtatgtaaatggaggagaccta
+            atgtttcatatgcagcgacaaagaaaacttcctgaagaacatgccagattttactctgca
+            gaaatcagtctagcattaaattatcttcatgagcgagggataatttatagagatttgaaa
+            ctggacaatgtattactggactctgaaggccacattaaactcactgactacggcatgtgt
+            aaggaaggattacggccaggagatacaaccagcactttctgtggtactcctaattacatt
+            gctcctgaaattttaagaggagaagattatggtttcagtgttgactggtgggctcttgga
+            gtgctcatgtttgagatgatggcaggaaggtctccatttgatattgttgggagctccgat
+            aaccctgaccagaacacagaggattatctcttccaagttattttggaaaaacaaattcgc
+            ataccacgttctctgtctgtaaaagctgcaagtgttctgaagagttttcttaataaggac
+            cctaaggaacgattgggttgtcatcctcaaacaggatttgctgatattcagggacacccg
+            ttcttccgaaatgttgattgggatatgatggagcaaaaacaggtggtacctccctttaaa
+            ccaaatatttctggggaatttggtttggacaactttgattctcagtttactaatgaacct
+            gtccagctcactccagatgacgatgacattgtgaggaagattgatcagtctgaatttgaa
+            ggttttgagtatatcaatcctcttttgatgtctgcagaagaatgtgtctga
+///

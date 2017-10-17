@@ -1,0 +1,81 @@
+ENTRY       91801             CDS       T01001
+NAME        ALKBH8, ABH8, TRM9, TRMT9
+DEFINITION  (RefSeq) alkB homolog 8, tRNA methyltransferase
+ORTHOLOGY   K10770  alkylated DNA repair protein alkB homolog 8 [EC:1.14.11.- 2.1.1.229]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.-  
+                 91801 (ALKBH8)
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.229  tRNA (carboxymethyluridine34-5-O)-methyltransferase
+                 91801 (ALKBH8)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              tRNA modification factors
+               Methyltransferases
+                91801 (ALKBH8)
+POSITION    11q22.3
+MOTIF       Pfam: 2OG-FeII_Oxy_2 Methyltransf_11 DUF1891 Methyltransf_25 Methyltransf_23 Methyltransf_31 Methyltransf_12 Methyltransf_8 RRM_1 Ubie_methyltran 2OG-FeII_Oxy MetW
+DBLINKS     NCBI-GeneID: 91801
+            NCBI-ProteinID: NP_620130
+            OMIM: 613306
+            HGNC: 25189
+            Ensembl: ENSG00000137760
+            Vega: OTTHUMG00000157008
+            Pharos: Q96BT7(Tbio)
+            UniProt: Q96BT7
+STRUCTURE   PDB: 3THT 3THP 2CQ2
+AASEQ       664
+            MDSNHQSNYKLSKTEKKFLRKQIKAKHTLLRHEGIETVSYATQSLVVANGGLGNGVSRNQ
+            LLPVLEKCGLVDALLMPPNKPYSFARYRTTEESKRAYVTLNGKEVVDDLGQKITLYLNFV
+            EKVQWKELRPQALPPGLMVVEEIISSEEEKMLLESVDWTEDTDNQNSQKSLKHRRVKHFG
+            YEFHYENNNVDKDKPLSGGLPDICESFLEKWLRKGYIKHKPDQMTINQYEPGQGIPAHID
+            THSAFEDEIVSLSLGSEIVMDFKHPDGIAVPVMLPRRSLLVMTGESRYLWTHGITCRKFD
+            TVQASESLKSGIITSDVGDLTLSKRGLRTSFTFRKVRQTPCNCSYPLVCDSQRKETPPSF
+            PESDKEASRLEQEYVHQVYEEIAGHFSSTRHTPWPHIVEFLKALPSGSIVADIGCGNGKY
+            LGINKELYMIGCDRSQNLVDICRERQFQAFVCDALAVPVRSGSCDACISIAVIHHFATAE
+            RRVAALQEIVRLLRPGGKALIYVWAMEQEYNKQKSKYLRGNRNSQGKKEEMNSDTSVQRS
+            LVEQMRDMGSRDSASSVPRINDSQEGGCNSRQVSNSKLPVHVNRTSFYSQDVLVPWHLKG
+            NPDKGKPVEPFGPIGSQDPSPVFHRYYHVFREGELEGACRTVSDVRILQSYYDQGNWCVI
+            LQKA
+NTSEQ       1995
+            atggacagcaaccatcaaagtaattacaaactcagtaaaactgagaagaagttcttaagg
+            aaacagattaaagccaagcatactttgctgagacatgaaggcattgagacagtatcctat
+            gccactcagagcctggttgttgccaatggtggtttgggtaatggtgtgagtcggaaccag
+            ctgctcccggttttagagaaatgtggactggtggatgctctcttaatgccacctaacaag
+            ccgtactcatttgcaagatacagaactacagaagaatctaagagagcctatgttaccctc
+            aatggaaaagaagtagtggatgatttaggacaaaagatcactctgtatttgaattttgtg
+            gaaaaagtgcagtggaaggagttgaggcctcaagccttaccaccaggactcatggtagta
+            gaagaaataatttcttctgaggaggagaaaatgcttttggaaagtgttgattggacagaa
+            gatacagacaatcaaaactctcaaaaatccttaaaacacagaagagtaaagcattttggt
+            tatgagttccactatgagaacaacaatgtagataaagataagccattatctgggggtctt
+            cctgacatttgtgaaagctttttggagaaatggttgaggaaaggttacattaaacataaa
+            cctgatcaaatgaccataaatcagtatgaacctgggcaaggaattcccgctcatattgat
+            acacattccgcttttgaggatgagatcgtttctctcagtttggggtcagagattgtcatg
+            gattttaagcacccagatggcattgcagtgccagttatgttgcctcgtcggagtttgctg
+            gtgatgacaggagaatctagatacctttggacccatggaatcacgtgcagaaaatttgat
+            actgttcaagcatctgagagtcttaaaagtggaattatcaccagtgatgttggagactta
+            actttaagcaagaggggactacgaacatcatttacatttaggaaagtgaggcaaacacct
+            tgtaactgtagttacccgttggtctgtgatagccagaggaaagagactcccccctcattt
+            ccagagagtgataaagaagcctcacggctggagcaagagtacgtccatcaggtttatgaa
+            gagattgctgggcacttcagcagcacaagacataccccttggccgcacattgtggagttt
+            ttgaaggctttgccaagtggttcaatagtggctgatattggatgtggtaatggaaagtat
+            cttggcatcaataaggagttatatatgattggttgtgatcgtagccaaaaccttgtggac
+            atttgtagagagaggcaatttcaggcttttgtctgtgatgcattggcagtaccagtccgc
+            agtgggtcttgtgatgcctgcatctccattgctgttattcatcattttgcaacagcagag
+            cgtagagtggcagctctccaagaaattgttcgactcctgagaccaggtgggaaggcactc
+            atttatgtctgggcaatggaacaagaatataataagcagaagtccaagtatcttagagga
+            aacagaaatagccaaggaaagaaagaggagatgaacagtgatacctcagtgcagaggtca
+            cttgtggagcaaatgcgtgacatgggcagtcgagactcggcatcttctgtcccccgcatt
+            aatgactctcaggaaggaggatgtaattcaaggcaagtttctaattccaagctgcctgtt
+            catgttaacaggacttctttttattctcaagatgtactggttccctggcaccttaaggga
+            aatcctgataaaggcaaacctgttgagccatttggtcccataggatcccaggacccaagt
+            cctgtgtttcatcgttactaccatgtgttccgtgagggagaactggaaggtgcctgcagg
+            actgtgagtgatgtcagaattctgcaaagctactacgatcaaggaaactggtgtgtgatt
+            cttcaaaaggcctga
+///

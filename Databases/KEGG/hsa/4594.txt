@@ -1,0 +1,97 @@
+ENTRY       4594              CDS       T01001
+NAME        MUT, MCM
+DEFINITION  (RefSeq) methylmalonyl-CoA mutase
+ORTHOLOGY   K01847  methylmalonyl-CoA mutase [EC:5.4.99.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00741  Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA
+DISEASE     H00174  Methylmalonic aciduria (MMA)
+            H01400  Secondary hyperammonemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                4594 (MUT)
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                4594 (MUT)
+               00640 Propanoate metabolism
+                4594 (MUT)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                4594 (MUT)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.2  methylmalonyl-CoA mutase
+                 4594 (MUT)
+POSITION    6p12.3
+MOTIF       Pfam: MM_CoA_mutase B12-binding
+DBLINKS     NCBI-GeneID: 4594
+            NCBI-ProteinID: NP_000246
+            OMIM: 609058
+            HGNC: 7526
+            Ensembl: ENSG00000146085
+            Vega: OTTHUMG00000014814
+            Pharos: P22033(Tbio)
+            UniProt: P22033 A0A024RD82 B2R6K1
+STRUCTURE   PDB: 2XIJ 2XIQ 3BIC
+AASEQ       750
+            MLRAKNQLFLLSPHYLRQVKESSGSRLIQQRLLHQQQPLHPEWAALAKKQLKGKNPEDLI
+            WHTPEGISIKPLYSKRDTMDLPEELPGVKPFTRGPYPTMYTFRPWTIRQYAGFSTVEESN
+            KFYKDNIKAGQQGLSVAFDLATHRGYDSDNPRVRGDVGMAGVAIDTVEDTKILFDGIPLE
+            KMSVSMTMNGAVIPVLANFIVTGEEQGVPKEKLTGTIQNDILKEFMVRNTYIFPPEPSMK
+            IIADIFEYTAKHMPKFNSISISGYHMQEAGADAILELAYTLADGLEYSRTGLQAGLTIDE
+            FAPRLSFFWGIGMNFYMEIAKMRAGRRLWAHLIEKMFQPKNSKSLLLRAHCQTSGWSLTE
+            QDPYNNIVRTAIEAMAAVFGGTQSLHTNSFDEALGLPTVKSARIARNTQIIIQEESGIPK
+            VADPWGGSYMMECLTNDVYDAALKLINEIEEMGGMAKAVAEGIPKLRIEECAARRQARID
+            SGSEVIVGVNKYQLEKEDAVEVLAIDNTSVRNRQIEKLKKIKSSRDQALAERCLAALTEC
+            AASGDGNILALAVDASRARCTVGEITDALKKVFGEHKANDRMVSGAYRQEFGESKEITSA
+            IKRVHKFMEREGRRPRLLVAKMGQDGHDRGAKVIATGFADLGFDVDIGPLFQTPREVAQQ
+            AVDADVHAVGISTLAAGHKTLVPELIKELNSLGRPDILVMCGGVIPPQDYEFLFEVGVSN
+            VFGPGTRIPKAAVQVLDDIEKCLEKKQQSV
+NTSEQ       2253
+            atgttaagagctaagaatcagctttttttactttcacctcattacctgaggcaggtaaaa
+            gaatcatcaggctccaggctcatacagcaacgacttctacaccagcaacagccccttcac
+            ccagaatgggctgccctggctaaaaagcagctgaaaggcaaaaacccagaagacctaata
+            tggcacaccccggaagggatctctataaaacccttgtattccaagagagatactatggac
+            ttacctgaagaacttccaggagtgaagccattcacacgtggaccatatcctaccatgtat
+            acctttaggccctggaccatccgccagtatgctggttttagtactgtggaagaaagcaat
+            aagttctataaggacaacattaaggctggtcagcagggattatcagttgcctttgatctg
+            gcgacacatcgtggctatgattcagacaaccctcgagttcgtggtgatgttggaatggct
+            ggagttgctattgacactgtggaagataccaaaattctttttgatggaattcctttagaa
+            aaaatgtcagtttccatgactatgaatggagcagttattccagttcttgcaaattttata
+            gtaactggagaagaacaaggtgtacctaaagagaagcttactggtaccatccaaaatgat
+            atactaaaggaatttatggttcgaaatacatacatttttcctccagaaccatccatgaaa
+            attattgctgacatatttgaatatacagcaaagcacatgccaaaatttaattcaatttca
+            attagtggataccatatgcaggaagcaggggctgatgccattctggagctggcctatact
+            ttagcagatggattggagtactctagaactggactccaggctggcctgacaattgatgaa
+            tttgcaccaaggttgtctttcttctggggaattggaatgaatttctatatggaaatagca
+            aagatgagagctggtagaagactctgggctcacttaatagagaaaatgtttcagcctaaa
+            aactcaaaatctcttcttctaagagcacactgtcagacatctggatggtcacttactgag
+            caggatccctacaataatattgtccgtactgcaatagaagcaatggcagcagtatttgga
+            gggactcagtctttgcacacaaattcttttgatgaagctttgggtttgccaactgtgaaa
+            agtgctcgaattgccaggaacacacaaatcatcattcaagaagaatctgggattcccaaa
+            gtggctgatccttggggaggttcttacatgatggaatgtctcacaaatgatgtttatgat
+            gctgctttaaagctcattaatgaaattgaagaaatgggtggaatggccaaagctgtagct
+            gagggaatacctaaacttcgaattgaagaatgtgctgcccgaagacaagctagaatagat
+            tctggttctgaagtaattgttggagtaaataagtaccagttggaaaaagaagacgctgta
+            gaagttctggcaattgataatacttcagtgcgaaacaggcagattgaaaaacttaagaag
+            atcaaatccagcagggatcaagctttggctgaacgttgtcttgctgcactaaccgaatgt
+            gctgctagcggagatggaaatatcctggctcttgcagtggatgcatctcgggcaagatgt
+            acagtgggagaaatcacagatgccctgaaaaaggtatttggtgaacataaagcgaatgat
+            cgaatggtgagtggagcatatcgccaggaatttggagaaagtaaagagataacatctgct
+            atcaagagggttcataaattcatggaacgtgaaggtcgcagacctcgtcttcttgtagca
+            aaaatgggacaagatggccatgacagaggagcaaaagttattgctacaggatttgctgat
+            cttggttttgatgtggacataggccctcttttccagactcctcgtgaagtggcccagcag
+            gctgtggatgcggatgtgcatgctgtgggcataagcaccctcgctgctggtcataaaacc
+            ctagttcctgaactcatcaaagaacttaactcccttggacggccagatattcttgtcatg
+            tgtggaggggtgataccacctcaggattatgaatttctgtttgaagttggtgtttccaat
+            gtatttggtcctgggactcgaattccaaaggctgccgttcaggtgcttgatgatattgag
+            aagtgtttggaaaagaagcagcaatctgtataa
+///

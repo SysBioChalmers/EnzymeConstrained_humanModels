@@ -1,0 +1,98 @@
+ENTRY       2246              CDS       T01001
+NAME        FGF1, AFGF, ECGF, ECGF-beta, ECGFA, ECGFB, FGF-1, FGF-alpha, FGFA, GLIO703, HBGF-1, HBGF1
+DEFINITION  (RefSeq) fibroblast growth factor 1
+ORTHOLOGY   K18496  fibroblast growth factor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2246 (FGF1)
+               04015 Rap1 signaling pathway
+                2246 (FGF1)
+               04010 MAPK signaling pathway
+                2246 (FGF1)
+               04390 Hippo signaling pathway
+                2246 (FGF1)
+               04151 PI3K-Akt signaling pathway
+                2246 (FGF1)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2246 (FGF1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2246 (FGF1)
+               05218 Melanoma
+                2246 (FGF1)
+               05224 Breast cancer
+                2246 (FGF1)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               2246 (FGF1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 2246 (FGF1)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 2246 (FGF1)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 2246 (FGF1)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 2246 (FGF1)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               2246 (FGF1)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               2246 (FGF1)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2246 (FGF1)
+POSITION    5q31.3
+MOTIF       Pfam: FGF Fascin
+DBLINKS     NCBI-GeneID: 2246
+            NCBI-ProteinID: NP_000791
+            OMIM: 131220
+            HGNC: 3665
+            Ensembl: ENSG00000113578
+            Vega: OTTHUMG00000059703
+            Pharos: P05230(Tchem)
+            UniProt: P05230
+STRUCTURE   PDB: 1RG8 4QC4 4QBV 4QAL 3BB2 4QBC 4Q9G 3BAO 3B9U 3O3Q 3BAU
+                 3BA7 2HW9 2HWM 1P63 3BAV 3BAH 2HWA 1JQZ 2Q9X 2HZ9 1M16
+                 1JY0 1JT7 1JTC 3BA5 3BAG 1JT4 4Q9P 4Q91 3CQA 3BAQ 3BA4
+                 1Q04 3CRG 2AQZ 1JT5 3FJ9 3FJD 3FJF 3FJH 3FJJ 1Z2V 3FJA
+                 3FGM 1NZK 1JT3 4YOL 3K1X 4XKI 3FJ8 3FJB 3FJC 3BAD 1PZZ
+                 1HKN 1K5U 2AFG 4QO3 1Q03 3OJM 3FJE 3CRI 1YTO 1K5V 3FJK
+                 3CRH 3OJ2 3JUT 3HOM 3UD9 3UD8 1DJS 3UDA 2NTD 3FJI 3OJV
+                 3CU1 1Z4S 3UD7 1EVT 1E0O 2AXM 1AXM 1RY7 4J23 2KI6 2KI4
+                 2RQ9 2K8R 2K4A 2K43 2ERM 1DZC 1DZD 1RML
+AASEQ       155
+            MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQ
+            LSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEK
+            NWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+NTSEQ       468
+            atggctgaaggggaaatcaccaccttcacagccctgaccgagaagtttaatctgcctcca
+            gggaattacaagaagcccaaactcctctactgtagcaacgggggccacttcctgaggatc
+            cttccggatggcacagtggatgggacaagggacaggagcgaccagcacattcagctgcag
+            ctcagtgcggaaagcgtgggggaggtgtatataaagagtaccgagactggccagtacttg
+            gccatggacaccgacgggcttttatacggctcacagacaccaaatgaggaatgtttgttc
+            ctggaaaggctggaggagaaccattacaacacctatatatccaagaagcatgcagagaag
+            aattggtttgttggcctcaagaagaatgggagctgcaaacgcggtcctcggactcactat
+            ggccagaaagcaatcttgtttctccccctgccagtctcttctgattaa
+///

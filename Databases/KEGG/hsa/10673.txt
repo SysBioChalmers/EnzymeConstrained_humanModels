@@ -1,0 +1,68 @@
+ENTRY       10673             CDS       T01001
+NAME        TNFSF13B, BAFF, BLYS, CD257, DTL, TALL-1, TALL1, THANK, TNFSF20, TNLG7A, ZTNF4
+DEFINITION  (RefSeq) TNF superfamily member 13b
+ORTHOLOGY   K05476  tumor necrosis factor ligand superfamily member 13B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05323  Rheumatoid arthritis
+DRUG_TARGET Atacicept: D09704
+            Belimumab: D03068
+            Briobacept: D08877
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                10673 (TNFSF13B)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                10673 (TNFSF13B)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                10673 (TNFSF13B)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                10673 (TNFSF13B)
+            Cytokines [BR:hsa04052]
+             TNF family
+              10673 (TNFSF13B)
+            CD molecules [BR:hsa04090]
+             Proteins
+              10673 (TNFSF13B)
+POSITION    13q33.3
+MOTIF       Pfam: TNF
+DBLINKS     NCBI-GeneID: 10673
+            NCBI-ProteinID: NP_006564
+            OMIM: 603969
+            HGNC: 11929
+            Ensembl: ENSG00000102524
+            Vega: OTTHUMG00000017329
+            Pharos: Q9Y275(Tclin)
+            UniProt: Q9Y275 A0A0U5J7Q1
+STRUCTURE   PDB: 1KXG 4ZCH 1OQE 1OQD 1KD7 3V56 1OSG 1JH5
+AASEQ       285
+            MDDSTEREQSRLTSCLKKREEMKLKECVSILPRKESPSVRSSKDGKLLAATLLLALLSCC
+            LTVVSFYQVAALQGDLASLRAELQGHHAEKLPAGAGAPKAGLEEAPAVTAGLKIFEPPAP
+            GEGNSSQNSRNKRAVQGPEETVTQDCLQLIADSETPTIQKGSYTFVPWLLSFKRGSALEE
+            KENKILVKETGYFFIYGQVLYTDKTYAMGHLIQRKKVHVFGDELSLVTLFRCIQNMPETL
+            PNNSCYSAGIAKLEEGDELQLAIPRENAQISLDGDVTFFGALKLL
+NTSEQ       858
+            atggatgactccacagaaagggagcagtcacgccttacttcttgccttaagaaaagagaa
+            gaaatgaaactgaaggagtgtgtttccatcctcccacggaaggaaagcccctctgtccga
+            tcctccaaagacggaaagctgctggctgcaaccttgctgctggcactgctgtcttgctgc
+            ctcacggtggtgtctttctaccaggtggccgccctgcaaggggacctggccagcctccgg
+            gcagagctgcagggccaccacgcggagaagctgccagcaggagcaggagcccccaaggcc
+            ggcctggaggaagctccagctgtcaccgcgggactgaaaatctttgaaccaccagctcca
+            ggagaaggcaactccagtcagaacagcagaaataagcgtgccgttcagggtccagaagaa
+            acagtcactcaagactgcttgcaactgattgcagacagtgaaacaccaactatacaaaaa
+            ggatcttacacatttgttccatggcttctcagctttaaaaggggaagtgccctagaagaa
+            aaagagaataaaatattggtcaaagaaactggttacttttttatatatggtcaggtttta
+            tatactgataagacctacgccatgggacatctaattcagaggaagaaggtccatgtcttt
+            ggggatgaattgagtctggtgactttgtttcgatgtattcaaaatatgcctgaaacacta
+            cccaataattcctgctattcagctggcattgcaaaactggaagaaggagatgaactccaa
+            cttgcaataccaagagaaaatgcacaaatatcactggatggagatgtcacattttttggt
+            gcattgaaactgctgtga
+///

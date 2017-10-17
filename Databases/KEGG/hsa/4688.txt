@@ -1,0 +1,89 @@
+ENTRY       4688              CDS       T01001
+NAME        NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX
+DEFINITION  (RefSeq) neutrophil cytosolic factor 2
+ORTHOLOGY   K08010  neutrophil cytosolic factor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04670  Leukocyte transendothelial migration
+            hsa05140  Leishmaniasis
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00098  Chronic granulomatous disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                4688 (NCF2)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                4688 (NCF2)
+              Development
+               04380 Osteoclast differentiation
+                4688 (NCF2)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                4688 (NCF2)
+              Infectious diseases
+               05140 Leishmaniasis
+                4688 (NCF2)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               NADPH oxidase complex
+                4688 (NCF2)
+             Others
+              NADPH oxidases (Nox) and associated proteins
+               Nox associated proteins
+                4688 (NCF2)
+POSITION    1q25.3
+MOTIF       Pfam: SH3_1 SH3_9 SH3_2 TPR_2 TPR_1 TPR_8 PB1 TPR_12 TPR_16 TPR_17 TPR_9 TPR_11
+DBLINKS     NCBI-GeneID: 4688
+            NCBI-ProteinID: NP_000424
+            OMIM: 608515
+            HGNC: 7661
+            Ensembl: ENSG00000116701
+            Vega: OTTHUMG00000035329
+            Pharos: P19878(Tbio)
+            UniProt: P19878 A0A0S2Z457
+STRUCTURE   PDB: 1WM5 2DMO 1OEY 1K4U 1HH8 1E96
+AASEQ       526
+            MSLVEAISLWNEGVLAADKKDWKGALDAFSAVQDPHSRICFNIGCMYTILKNMTEAEKAF
+            TRSINRDKHLAVAYFQRGMLYYQTEKYDLAIKDLKEALIQLRGNQLIDYKILGLQFKLFA
+            CEVLYNIAFMYAKKEEWKKAEEQLALATSMKSEPRHSKIDKAMECVWKQKLYEPVVIPVG
+            KLFRPNERQVAQLAKKDYLGKATVVASVVDQDSFSGFAPLQPQAAEPPPRPKTPEIFRAL
+            EGEAHRVLFGFVPETKEELQVMPGNIVFVLKKGNDNWATVMFNGQKGLVPCNYLEPVELR
+            IHPQQQPQEESSPQSDIPAPPSSKAPGRPQLSPGQKQKEEPKEVKLSVPMPYTLKVHYKY
+            TVVMKTQPGLPYSQVRDMVSKKLELRLEHTKLSYRPRDSNELVPLSEDSMKDAWGQVKNY
+            CLTLWCENTVGDQGFPDEPKESEKADANNQTTEPQLKKGSQVEALFSYEATQPEDLEFQE
+            GDIILVLSKVNEEWLEGECKGKVGIFPKVFVEDCATTDLESTRREV
+NTSEQ       1581
+            atgtccctggtggaggccatcagcctctggaatgaaggggtgctggcagcggacaagaag
+            gactggaagggagccctggatgccttcagtgccgtccaggacccccactcccggatttgc
+            ttcaacattggctgcatgtacactatcctgaagaacatgactgaagcagagaaggccttt
+            accagaagcattaaccgagacaagcacttggcagtggcttacttccaacgagggatgctc
+            tactaccagacagagaaatatgatttggctatcaaagaccttaaagaagccttgattcag
+            cttcgagggaaccagctgatagactataagatcctggggctccagttcaagctgtttgcc
+            tgtgaggtgttatataacattgctttcatgtatgccaagaaggaggaatggaaaaaagct
+            gaagaacagttagcattggccacgagcatgaagtctgagcccagacattccaaaatcgac
+            aaggcgatggagtgtgtctggaagcagaagctatatgagccagtggtgatccctgtgggc
+            aagctgtttcgaccaaatgagagacaagtggctcagctggccaagaaggattacctaggc
+            aaggcgacggtcgtggcatctgtggtggatcaagacagtttctctgggtttgcccctctg
+            caaccacaggcagctgagcctccacccagaccgaaaaccccagagatcttcagggctctg
+            gaaggggaggctcaccgtgtgctatttgggtttgtgcctgagacaaaagaagagctccag
+            gtcatgccagggaacattgtctttgtcttgaagaagggcaatgataactgggccacggtc
+            atgttcaacgggcagaaggggcttgttccctgcaactaccttgaaccagttgagctgcgg
+            atccaccctcagcagcagccccaggaggaaagctctccgcagtccgacatcccagctcct
+            cctagttccaaagcccctggaagaccccagctgtcaccaggccagaaacaaaaagaagag
+            cctaaggaagtgaagctcagtgttcccatgccctacacactcaaggtgcactacaagtac
+            acggtagtcatgaagactcagcccgggctcccctacagccaggtccgggacatggtgtct
+            aagaaactggagctccggctggaacacactaagctgagctatcggcctcgggacagcaat
+            gagctggtgcccctttcagaagacagcatgaaggatgcctggggccaggtgaaaaactac
+            tgcctgactctgtggtgtgagaacacagtgggtgaccaaggctttccagatgaacccaag
+            gaaagtgaaaaagctgatgctaataaccagacaacagaacctcagcttaagaaaggcagc
+            caagtggaggcactcttcagttatgaggctacccaaccagaggacctggagtttcaggaa
+            ggggatataatcctggtgttatcaaaggtgaatgaagaatggctggaaggggagtgcaaa
+            gggaaggtgggcattttccccaaagtttttgttgaagactgcgcaactacagatttggaa
+            agcactcggagagaagtctag
+///

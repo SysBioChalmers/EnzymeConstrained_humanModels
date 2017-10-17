@@ -1,0 +1,57 @@
+ENTRY       1633              CDS       T01001
+NAME        DCK
+DEFINITION  (RefSeq) deoxycytidine kinase
+ORTHOLOGY   K00893  deoxycitidine kinase [EC:2.7.1.74]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                1633 (DCK)
+               00240 Pyrimidine metabolism
+                1633 (DCK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.74  deoxycytidine kinase
+                 1633 (DCK)
+POSITION    4q13.3
+MOTIF       Pfam: dNK AAA_18 Thymidylate_kin AAA_33 AAA_28 AAA_17 CoaE
+DBLINKS     NCBI-GeneID: 1633
+            NCBI-ProteinID: NP_000779
+            OMIM: 125450
+            HGNC: 2704
+            Ensembl: ENSG00000156136
+            Vega: OTTHUMG00000129908
+            Pharos: P27707(Tchem)
+            UniProt: P27707 F5CTF3
+STRUCTURE   PDB: 1P5Z 2NO7 2ZI5 2ZI6 2ZIA 2NOA 2NO0 4Q1E 4JLK 4Q1A 3QEO
+                 2NO6 2NO1 4L5B 3KFX 1P60 2ZI7 4Q18 4Q1C 4Q1D 4JLJ 3QEN
+                 3IPX 4Q19 4KCG 4Q1F 3MJR 2ZI4 4Q1B 4JLN 2NO9 4JLM 1P61
+                 2ZI3 3HP1 3QEJ 2ZI9 3IPY 2A7Q 2A2Z 2A30 2QRN 2QRO
+AASEQ       260
+            MATPPKRSCPSFSASSEGTRIKKISIEGNIAAGKSTFVNILKQLCEDWEVVPEPVARWCN
+            VQSTQDEFEELTMSQKNGGNVLQMMYEKPERWSFTFQTYACLSRIRAQLASLNGKLKDAE
+            KPVLFFERSVYSDRYIFASNLYESECMNETEWTIYQDWHDWMNNQFGQSLELDGIIYLQA
+            TPETCLHRIYLRGRNEEQGIPLEYLEKLHYKHESWLLHRTLKTNFDYLQEVPILTLDVNE
+            DFKDKYESLVEKVKEFLSTL
+NTSEQ       783
+            atggccaccccgcccaagagaagctgcccgtctttctcagccagctctgaggggacccgc
+            atcaagaaaatctccatcgaagggaacatcgctgcagggaagtcaacatttgtgaatatc
+            cttaaacaattgtgtgaagattgggaagtggttcctgaacctgttgccagatggtgcaat
+            gttcaaagtactcaagatgaatttgaggaacttacaatgtctcagaaaaatggtgggaat
+            gttcttcagatgatgtatgagaaacctgaacgatggtcttttaccttccaaacatatgcc
+            tgtctcagtcgaataagagctcagcttgcctctctgaatggcaagctcaaagatgcagag
+            aaacctgtattattttttgaacgatctgtgtatagtgacaggtatatttttgcatctaat
+            ttgtatgaatctgaatgcatgaatgagacagagtggacaatttatcaagactggcatgac
+            tggatgaataaccaatttggccaaagccttgaattggatggaatcatttatcttcaagcc
+            actccagagacatgcttacatagaatatatttacggggaagaaatgaagagcaaggcatt
+            cctcttgaatatttagagaagcttcattataaacatgaaagctggctcctgcataggaca
+            ctgaaaaccaacttcgattatcttcaagaggtgcctatcttaacactggatgttaatgaa
+            gactttaaagacaaatatgaaagtctggttgaaaaggtcaaagagtttttgagtactttg
+            tga
+///

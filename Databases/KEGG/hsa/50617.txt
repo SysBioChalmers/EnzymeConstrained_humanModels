@@ -1,0 +1,123 @@
+ENTRY       50617             CDS       T01001
+NAME        ATP6V0A4, A4, ATP6N1B, ATP6N2, RDRTA2, RTA1C, RTADR, STV1, VPH1, VPP2
+DEFINITION  (RefSeq) ATPase H+ transporting V0 subunit a4
+ORTHOLOGY   K02154  V-type H+-transporting ATPase subunit a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+            hsa04145  Phagosome
+            hsa04721  Synaptic vesicle cycle
+            hsa04966  Collecting duct acid secretion
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05152  Tuberculosis
+            hsa05165  Human papillomavirus infection
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00160  V-type ATPase, eukaryotes
+DISEASE     H00428  Distal renal tubular acidosis (RTA type 1)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                50617 (ATP6V0A4)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                50617 (ATP6V0A4)
+               04142 Lysosome
+                50617 (ATP6V0A4)
+             Organismal Systems
+              Excretory system
+               04966 Collecting duct acid secretion
+                50617 (ATP6V0A4)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                50617 (ATP6V0A4)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                50617 (ATP6V0A4)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                50617 (ATP6V0A4)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                50617 (ATP6V0A4)
+               05152 Tuberculosis
+                50617 (ATP6V0A4)
+               05165 Human papillomavirus infection
+                50617 (ATP6V0A4)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               50617 (ATP6V0A4)
+POSITION    7q34
+MOTIF       Pfam: V_ATPase_I Bacillus_HBL
+DBLINKS     NCBI-GeneID: 50617
+            NCBI-ProteinID: NP_065683
+            OMIM: 605239
+            HGNC: 866
+            Ensembl: ENSG00000105929
+            Vega: OTTHUMG00000157122
+            Pharos: Q9HBG4(Tbio)
+            UniProt: Q9HBG4 A0A024R791
+AASEQ       840
+            MVSVFRSEEMCLSQLFLQVEAAYCCVAELGELGLVQFKDLNMNVNSFQRKFVNEVRRCES
+            LERILRFLEDEMQNEIVVQLLEKSPLTPLPREMITLETVLEKLEGELQEANQNQQALKQS
+            FLELTELKYLLKKTQDFFETETNLADDFFTEDTSGLLELKAVPAYMTGKLGFIAGVINRE
+            RMASFERLLWRICRGNVYLKFSEMDAPLEDPVTKEEIQKNIFIIFYQGEQLRQKIKKICD
+            GFRATVYPCPEPAVERREMLESVNVRLEDLITVITQTESHRQRLLQEAAANWHSWLIKVQ
+            KMKAVYHILNMCNIDVTQQCVIAEIWFPVADATRIKRALEQGMELSGSSMAPIMTTVQSK
+            TAPPTFNRTNKFTAGFQNIVDAYGVGSYREINPAPYTIITFPFLFAVMFGDCGHGTVMLL
+            AALWMILNERRLLSQKTDNEIWNTFFHGRYLILLMGIFSIYTGLIYNDCFSKSLNIFGSS
+            WSVQPMFRNGTWNTHVMEESLYLQLDPAIPGVYFGNPYPFGIDPIWNLASNKLTFLNSYK
+            MKMSVILGIVQMVFGVILSLFNHIYFRRTLNIILQFIPEMIFILCLFGYLVFMIIFKWCC
+            FDVHVSQHAPSILIHFINMFLFNYSDSSNAPLYKHQQEVQSFFVVMALISVPWMLLIKPF
+            ILRASHRKSQLQASRIQEDATENIEGDSSSPSSRSGQRTSADTHGALDDHGEEFNFGDVF
+            VHQAIHTIEYCLGCISNTASYLRLWALSLAHAQLSEVLWTMVMNSGLQTRGWGGIVGVFI
+            IFAVFAVLTVAILLIMEGLSAFLHALRLHWVEFQNKFYVGDGYKFSPFSFKHILDGTAEE
+NTSEQ       2523
+            atggtgtctgtgtttcgaagcgaggagatgtgtttgtcacaactgtttctccaggtggaa
+            gctgcatattgctgtgtggctgagctcggagagctcggattggttcagttcaaagattta
+            aatatgaatgtgaacagctttcaaaggaaatttgtgaatgaagtcagaaggtgtgaatca
+            ctggagagaatcctccgttttctggaagacgagatgcaaaatgagattgtagttcagttg
+            ctcgagaaaagcccactgaccccgctcccacgggaaatgattaccctggagactgttcta
+            gaaaaactggaaggagagttacaggaagccaaccagaaccagcaggccttgaaacaaagc
+            ttcctagaactgacagaactgaaatacctcctgaagaaaacccaagacttctttgagacg
+            gaaaccaatttagctgatgatttctttactgaggacacttctggcctcctggagttgaaa
+            gcagtgcctgcatatatgaccggaaagttggggttcatagccggtgtgatcaacagggag
+            aggatggcttcctttgagcggttactgtggcgaatctgccgaggaaacgtgtacttgaag
+            ttcagtgagatggacgcccctctggaggatcctgtgacgaaagaagaaattcagaagaac
+            atattcatcatattttaccaaggagagcagctcaggcagaaaatcaagaagatctgtgat
+            gggtttcgagccactgtctacccttgcccagagcctgcggtggagcgcagagagatgttg
+            gagagcgtcaatgtgaggctggaagatttaatcaccgtcataacacaaacagagtctcac
+            cgccagcgcctgctgcaggaagccgctgccaactggcactcctggctcatcaaggtgcag
+            aagatgaaagctgtctaccacatcctgaacatgtgcaacatcgacgtcacccagcagtgt
+            gtcatcgccgagatctggttcccggtggcagatgccacacgtatcaagagggcactggag
+            caaggcatggaactaagtggctcctccatggcccccatcatgaccacagtgcaatctaaa
+            acagcccctcccacatttaacaggaccaataaattcacagctggcttccagaatattgtt
+            gatgcctatggtgtcggcagctaccgggagataaacccagccccctacaccatcatcact
+            ttccccttcctgttcgctgtgatgtttggagactgtggtcatggaaccgtgatgctcctg
+            gctgcactttggatgattctgaatgagagacgcttgctctcccagaagacagacaatgag
+            atttggaacaccttcttccacgggcgctatctgatcctacttatgggcatcttctccatc
+            tacacgggtttgatctacaatgactgcttctccaagtccttgaacatctttggctcttct
+            tggagtgtccaacccatgttcagaaacggcacatggaatactcatgtaatggaggaaagt
+            ctatatctgcagctggacccagccataccaggagtgtattttggaaatccatacccgttt
+            gggattgatccgatttggaacttggcttcaaacaaactcacatttctgaactcgtataaa
+            atgaagatgtcggtgatcctgggaattgtccagatggttttcggtgtcatcctcagcctt
+            ttcaatcacatatacttcagaagaactctcaacatcattctgcaatttatccctgagatg
+            atttttatcctgtgtctgtttggatacctggttttcatgatcattttcaaatggtgctgc
+            tttgacgtccatgtatctcagcacgcccccagcatcctcatccacttcatcaacatgttt
+            ctgtttaactacagtgactcttccaacgcacccctctacaaacatcagcaagaagtccaa
+            agtttctttgtggttatggctttgatttctgtgccgtggatgcttctgattaagccgttt
+            attcttagagccagtcatcggaaatcccagctgcaggcatccaggatccaagaagatgcc
+            actgagaacattgaaggtgatagctccagcccttctagccgttctggccagaggacttct
+            gcagatacccacggggctctggacgaccatggagaagagttcaactttggagacgtcttt
+            gtccaccaagccatccacaccatcgagtactgcctgggctgcatttcaaacacagcctcc
+            tacctgcggctctgggccctcagcctggctcatgcacaactgtctgaagtgctctggact
+            atggtgatgaacagcggccttcagacgcgaggctggggaggaatcgtcggggtttttatt
+            atttttgccgtatttgctgtcctgacagtagccatccttctgatcatggagggcctctct
+            gctttcctgcacgccctgcgactgcactgggttgagttccagaacaagttctatgtcggg
+            gatggttacaagttttctccattctcctttaaacacatcctggatggcacagccgaggag
+            tag
+///

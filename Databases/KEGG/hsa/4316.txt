@@ -1,0 +1,55 @@
+ENTRY       4316              CDS       T01001
+NAME        MMP7, MMP-7, MPSL1, PUMP-1
+DEFINITION  (RefSeq) matrix metallopeptidase 7
+ORTHOLOGY   K01397  matrix metalloproteinase-7 (matrilysin, uterine) [EC:3.4.24.23]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04310  Wnt signaling pathway
+DRUG_TARGET Marimastat: D03795
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                4316 (MMP7)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.23  matrilysin
+                 4316 (MMP7)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M10
+               4316 (MMP7)
+POSITION    11q22.2
+MOTIF       Pfam: Peptidase_M10 PG_binding_1 Metallopep Peptidase_M54 Peptidase_M66 Reprolysin_5 Peptidase_M57 Reprolysin_3
+DBLINKS     NCBI-GeneID: 4316
+            NCBI-ProteinID: NP_002414
+            OMIM: 178990
+            HGNC: 7174
+            Ensembl: ENSG00000137673
+            Vega: OTTHUMG00000048193
+            Pharos: P09237(Tclin)
+            UniProt: P09237
+STRUCTURE   PDB: 2Y6D 2Y6C 1MMQ 1MMP 1MMR 5UE2 5UE5 2MZH 2MZI 2MZE 2DDY
+AASEQ       267
+            MRLTVLCAVCLLPGSLALPLPQEAGGMSELQWEQAQDYLKRFYLYDSETKNANSLEAKLK
+            EMQKFFGLPITGMLNSRVIEIMQKPRCGVPDVAEYSLFPNSPKWTSKVVTYRIVSYTRDL
+            PHITVDRLVSKALNMWGKEIPLHFRKVVWGTADIMIGFARGAHGDSYPFDGPGNTLAHAF
+            APGTGLGGDAHFDEDERWTDGSSLGINFLYAATHELGHSLGMGHSSDPNAVMYPTYGNGD
+            PQNFKLSQDDIKGIQKLYGKRSNSRKK
+NTSEQ       804
+            atgcgactcaccgtgctgtgtgctgtgtgcctgctgcctggcagcctggccctgccgctg
+            cctcaggaggcgggaggcatgagtgagctacagtgggaacaggctcaggactatctcaag
+            agattttatctctatgactcagaaacaaaaaatgccaacagtttagaagccaaactcaag
+            gagatgcaaaaattctttggcctacctataactggaatgttaaactcccgcgtcatagaa
+            ataatgcagaagcccagatgtggagtgccagatgttgcagaatactcactatttccaaat
+            agcccaaaatggacttccaaagtggtcacctacaggatcgtatcatatactcgagactta
+            ccgcatattacagtggatcgattagtgtcaaaggctttaaacatgtggggcaaagagatc
+            cccctgcatttcaggaaagttgtatggggaactgctgacatcatgattggctttgcgcga
+            ggagctcatggggactcctacccatttgatgggccaggaaacacgctggctcatgccttt
+            gcgcctgggacaggtctcggaggagatgctcacttcgatgaggatgaacgctggacggat
+            ggtagcagtctagggattaacttcctgtatgctgcaactcatgaacttggccattctttg
+            ggtatgggacattcctctgatcctaatgcagtgatgtatccaacctatggaaatggagat
+            ccccaaaattttaaactttcccaggatgatattaaaggcattcagaaactatatggaaag
+            agaagtaattcaagaaagaaatag
+///

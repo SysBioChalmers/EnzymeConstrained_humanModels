@@ -1,0 +1,73 @@
+ENTRY       590               CDS       T01001
+NAME        BCHE, CHE1, CHE2, E1
+DEFINITION  (RefSeq) butyrylcholinesterase
+ORTHOLOGY   K01050  cholinesterase [EC:3.1.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+DRUG_TARGET Fluostigmine: D00043
+            Itopride: D02729 D08094
+            Rivastigmine (DG00984): D02558 D03822
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.8  cholinesterase
+                 590 (BCHE)
+POSITION    3q26.1
+MOTIF       Pfam: COesterase AChE_tetra Abhydrolase_3
+DBLINKS     NCBI-GeneID: 590
+            NCBI-ProteinID: NP_000046
+            OMIM: 177400
+            HGNC: 983
+            Ensembl: ENSG00000114200
+            Vega: OTTHUMG00000158131
+            Pharos: P06276(Tclin)
+            UniProt: P06276
+STRUCTURE   PDB: 2WSL 1P0I 4BDS 2XQF 2XMB 2WIJ 2WIK 3DJY 1XLW 2WIG 1XLU
+                 2WIF 1XLV 2XQG 2XMD 2WID 1P0P 3DKK 4B0O 1P0M 4AXB 2XQJ
+                 2XQK 2XMC 1P0Q 5DYW 4B0P 4AQD 2Y1K 5LKR 5DYT 2XQI 5DYY
+                 4XII 4TPK 4BBZ 2XMG 2J4C 5K5E 2PM8 3O9M 2WIL
+AASEQ       602
+            MHSKVTIICIRFLFWFLLLCMLIGKSHTEDDIIIATKNGKVRGMNLTVFGGTVTAFLGIP
+            YAQPPLGRLRFKKPQSLTKWSDIWNATKYANSCCQNIDQSFPGFHGSEMWNPNTDLSEDC
+            LYLNVWIPAPKPKNATVLIWIYGGGFQTGTSSLHVYDGKFLARVERVIVVSMNYRVGALG
+            FLALPGNPEAPGNMGLFDQQLALQWVQKNIAAFGGNPKSVTLFGESAGAASVSLHLLSPG
+            SHSLFTRAILQSGSFNAPWAVTSLYEARNRTLNLAKLTGCSRENETEIIKCLRNKDPQEI
+            LLNEAFVVPYGTPLSVNFGPTVDGDFLTDMPDILLELGQFKKTQILVGVNKDEGTAFLVY
+            GAPGFSKDNNSIITRKEFQEGLKIFFPGVSEFGKESILFHYTDWVDDQRPENYREALGDV
+            VGDYNFICPALEFTKKFSEWGNNAFFYYFEHRSSKLPWPEWMGVMHGYEIEFVFGLPLER
+            RDNYTKAEEILSRSIVKRWANFAKYGNPNETQNNSTSWPVFKSTEQKYLTLNTESTRIMT
+            KLRAQQCRFWTSFFPKVLEMTGNIDEAEWEWKAGFHRWNNYMMDWKNQFNDYTSKKESCV
+            GL
+NTSEQ       1809
+            atgcatagcaaagtcacaatcatatgcatcagatttctcttttggtttcttttgctctgc
+            atgcttattgggaagtcacatactgaagatgacatcataattgcaacaaagaatggaaaa
+            gtcagagggatgaacttgacagtttttggtggcacggtaacagcctttcttggaattccc
+            tatgcacagccacctcttggtagacttcgattcaaaaagccacagtctctgaccaagtgg
+            tctgatatttggaatgccacaaaatatgcaaattcttgctgtcagaacatagatcaaagt
+            tttccaggcttccatggatcagagatgtggaacccaaacactgacctcagtgaagactgt
+            ttatatctaaatgtatggattccagcacctaaaccaaaaaatgccactgtattgatatgg
+            atttatggtggtggttttcaaactggaacatcatctttacatgtttatgatggcaagttt
+            ctggctcgggttgaaagagttattgtagtgtcaatgaactatagggtgggtgccctagga
+            ttcttagctttgccaggaaatcctgaggctccagggaacatgggtttatttgatcaacag
+            ttggctcttcagtgggttcaaaaaaatatagcagcctttggtggaaatcctaaaagtgta
+            actctctttggagaaagtgcaggagcagcttcagttagcctgcatttgctttctcctgga
+            agccattcattgttcaccagagccattctgcaaagtggatcctttaatgctccttgggcg
+            gtaacatctctttatgaagctaggaacagaacgttgaacttagctaaattgactggttgc
+            tctagagagaatgagactgaaataatcaagtgtcttagaaataaagatccccaagaaatt
+            cttctgaatgaagcatttgttgtcccctatgggactcctttgtcagtaaactttggtccg
+            accgtggatggtgattttctcactgacatgccagacatattacttgaacttggacaattt
+            aaaaaaacccagattttggtgggtgttaataaagatgaagggacagcttttttagtctat
+            ggtgctcctggcttcagcaaagataacaatagtatcataactagaaaagaatttcaggaa
+            ggtttaaaaatattttttccaggagtgagtgagtttggaaaggaatccatcctttttcat
+            tacacagactgggtagatgatcagagacctgaaaactaccgtgaggccttgggtgatgtt
+            gttggggattataatttcatatgccctgccttggagttcaccaagaagttctcagaatgg
+            ggaaataatgcctttttctactattttgaacaccgatcctccaaacttccgtggccagaa
+            tggatgggagtgatgcatggctatgaaattgaatttgtctttggtttacctctggaaaga
+            agagataattacacaaaagccgaggaaattttgagtagatccatagtgaaacggtgggca
+            aattttgcaaaatatgggaatccaaatgagactcagaacaatagcacaagctggcctgtc
+            ttcaaaagcactgaacaaaaatatctaaccttgaatacagagtcaacaagaataatgacg
+            aaactacgtgctcaacaatgtcgattctggacatcattttttccaaaagtcttggaaatg
+            acaggaaatattgatgaagcagaatgggagtggaaagcaggattccatcgctggaacaat
+            tacatgatggactggaaaaatcaatttaacgattacactagcaagaaagaaagttgtgtg
+            ggtctctaa
+///

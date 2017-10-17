@@ -1,0 +1,92 @@
+ENTRY       4478              CDS       T01001
+NAME        MSN, HEL70, IMD50
+DEFINITION  (RefSeq) moesin
+ORTHOLOGY   K05763  moesin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05162  Measles
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                4478 (MSN)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                4478 (MSN)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                4478 (MSN)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                4478 (MSN)
+              Infectious diseases
+               05162 Measles
+                4478 (MSN)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Gelsolin / villin
+                 4478 (MSN)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               4478 (MSN)
+POSITION    Xq12
+MOTIF       Pfam: ERM FERM_C FERM_M FERM_N
+DBLINKS     NCBI-GeneID: 4478
+            NCBI-ProteinID: NP_002435
+            OMIM: 309845
+            HGNC: 7373
+            Ensembl: ENSG00000147065
+            Vega: OTTHUMG00000021723
+            Pharos: P26038(Tbio)
+            UniProt: P26038 V9HWC0
+STRUCTURE   PDB: 1EF1 1SGH 1E5W
+AASEQ       577
+            MPKTISVRVTTMDAELEFAIQPNTTGKQLFDQVVKTIGLREVWFFGLQYQDTKGFSTWLK
+            LNKKVTAQDVRKESPLLFKFRAKFYPEDVSEELIQDITQRLFFLQVKEGILNDDIYCPPE
+            TAVLLASYAVQSKYGDFNKEVHKSGYLAGDKLLPQRVLEQHKLNKDQWEERIQVWHEEHR
+            GMLREDAVLEYLKIAQDLEMYGVNYFSIKNKKGSELWLGVDALGLNIYEQNDRLTPKIGF
+            PWSEIRNISFNDKKFVIKPIDKKAPDFVFYAPRLRINKRILALCMGNHELYMRRRKPDTI
+            EVQQMKAQAREEKHQKQMERAMLENEKKKREMAEKEKEKIEREKEELMERLKQIEEQTKK
+            AQQELEEQTRRALELEQERKRAQSEAEKLAKERQEAEEAKEALLQASRDQKKTQEQLALE
+            MAELTARISQLEMARQKKESEAVEWQQKAQMVQEDLEKTRAELKTAMSTPHVAEPAENEQ
+            DEQDENGAEASADLRADAMAKDRSEEERTTEAEKNERVQKHLKALTSELANARDESKKTA
+            NDMIHAENMRLGRDKYKTLRQIRQGNTKQRIDEFESM
+NTSEQ       1734
+            atgcccaaaacgatcagtgtgcgtgtgaccaccatggatgcagagctggagtttgccatc
+            cagcccaacaccaccgggaagcagctatttgaccaggtggtgaaaactattggcttgagg
+            gaagtttggttctttggtctgcagtaccaggacactaaaggtttctccacctggctgaaa
+            ctcaataagaaggtgactgcccaggatgtgcggaaggaaagccccctgctctttaagttc
+            cgtgccaagttctaccctgaggatgtgtccgaggaattgattcaggacatcactcagcgc
+            ctgttctttctgcaagtgaaagagggcattctcaatgatgatatttactgcccgcctgag
+            accgctgtgctgctggcctcgtatgctgtccagtctaagtatggcgacttcaataaggaa
+            gtgcataagtctggctacctggccggagacaagttgctcccgcagagagtcctggaacag
+            cacaaactcaacaaggaccagtgggaggagcggatccaggtgtggcatgaggaacaccgt
+            ggcatgctcagggaggatgctgtcctggaatatctgaagattgctcaagatctggagatg
+            tatggtgtgaactacttcagcatcaagaacaagaaaggctcagagctgtggctgggggtg
+            gatgccctgggtctcaacatctatgagcagaatgacagactaactcccaagataggcttc
+            ccctggagtgaaatcaggaacatctctttcaatgataagaaatttgtcatcaagcccatt
+            gacaaaaaagccccggacttcgtcttctatgctccccggctgcggattaacaagcggatc
+            ttggccttgtgcatggggaaccatgaactatacatgcgccgtcgcaagcctgataccatt
+            gaggtgcagcagatgaaggcacaggcccgggaggagaagcaccagaagcagatggagcgt
+            gctatgctggaaaatgagaagaagaagcgtgaaatggcagagaaggagaaagagaagatt
+            gaacgggagaaggaggagctgatggagaggctgaagcagatcgaggaacagactaagaag
+            gctcagcaagaactggaagaacagacccgtagggctctggaacttgagcaggaacggaag
+            cgtgcccagagcgaggctgaaaagctggccaaggagcgtcaagaagctgaagaggccaag
+            gaggccttgctgcaggcctcccgggaccagaaaaagactcaggaacagctggccttggaa
+            atggcagagctgacagctcgaatctcccagctggagatggcccgacagaagaaggagagt
+            gaggctgtggagtggcagcagaaggcccagatggtacaggaagacttggagaagacccgt
+            gctgagctgaagactgccatgagtacacctcatgtggcagagcctgctgagaatgagcag
+            gatgagcaggatgagaatggggcagaggctagtgctgacctacgggctgatgctatggcc
+            aaggaccgcagtgaggaggaacgtaccactgaggcagagaagaatgagcgtgtgcagaag
+            cacctgaaggccctcacttcggagctggccaatgccagagatgagtccaagaagactgcc
+            aatgacatgatccatgctgagaacatgcgactgggccgagacaaatacaagaccctgcgc
+            cagatccggcagggcaacaccaagcagcgcattgacgaatttgagtctatgtaa
+///

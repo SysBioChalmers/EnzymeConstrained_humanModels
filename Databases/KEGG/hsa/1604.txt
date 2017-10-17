@@ -1,0 +1,76 @@
+ENTRY       1604              CDS       T01001
+NAME        CD55, CR, CROM, DAF, TC
+DEFINITION  (RefSeq) CD55 molecule (Cromer blood group)
+ORTHOLOGY   K04006  decay accelerating factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+            hsa04640  Hematopoietic cell lineage
+            hsa05416  Viral myocarditis
+DISEASE     H00106  Complement regulatory protein defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                1604 (CD55)
+               04610 Complement and coagulation cascades
+                1604 (CD55)
+             Human Diseases
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                1604 (CD55)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               1604 (CD55)
+              Exosomal proteins of other body fluids (saliva and urine)
+               1604 (CD55)
+              Exosomal proteins of colorectal cancer cells
+               1604 (CD55)
+            CD molecules [BR:hsa04090]
+             Proteins
+              1604 (CD55)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Antigens
+              1604 (CD55)
+POSITION    1q32.2
+MOTIF       Pfam: Sushi Podoplanin
+DBLINKS     NCBI-GeneID: 1604
+            NCBI-ProteinID: NP_000565
+            OMIM: 125240
+            HGNC: 2665
+            Ensembl: ENSG00000196352
+            Vega: OTTHUMG00000036255
+            Pharos: P08174(Tbio)
+            UniProt: P08174
+STRUCTURE   PDB: 5FOA 3IYP 3J24 2QZD 2QZF 2QZH 2C8I 1UPN 1M11 1UOT 1OK9
+                 1OJV 1OJW 1OJY 1OK1 1OK2 1OK3 1NWV 1H2P 1H2Q 1H03 1H04
+AASEQ       381
+            MTVARPSVPAALPLLGELPRLLLLVLLCLPAVWGDCGLPPDVPNAQPALEGRTSFPEDTV
+            ITYKCEESFVKIPGEKDSVICLKGSQWSDIEEFCNRSCEVPTRLNSASLKQPYITQNYFP
+            VGTVVEYECRPGYRREPSLSPKLTCLQNLKWSTAVEFCKKKSCPNPGEIRNGQIDVPGGI
+            LFGATISFSCNTGYKLFGSTSSFCLISGSSVQWSDPLPECREIYCPAPPQIDNGIIQGER
+            DHYGYRQSVTYACNKGFTMIGEHSIYCTVNNDEGEWSGPPPECRGKSLTSKVPPTVQKPT
+            TVNVPTTEVSPTSQKTTTKTTTPNAQATRSTPVSRTTKHFHETTPNKGSGTTSGTTRLLS
+            GHTCFTLTGLLGTLVTMGLLT
+NTSEQ       1146
+            atgaccgtcgcgcggccgagcgtgcccgcggcgctgcccctcctcggggagctgccccgg
+            ctgctgctgctggtgctgttgtgcctgccggccgtgtggggtgactgtggccttccccca
+            gatgtacctaatgcccagccagctttggaaggccgtacaagttttcccgaggatactgta
+            ataacgtacaaatgtgaagaaagctttgtgaaaattcctggcgagaaggactcagtgatc
+            tgccttaagggcagtcaatggtcagatattgaagagttctgcaatcgtagctgcgaggtg
+            ccaacaaggctaaattctgcatccctcaaacagccttatatcactcagaattattttcca
+            gtcggtactgttgtggaatatgagtgccgtccaggttacagaagagaaccttctctatca
+            ccaaaactaacttgccttcagaatttaaaatggtccacagcagtcgaattttgtaaaaag
+            aaatcatgccctaatccgggagaaatacgaaatggtcagattgatgtaccaggtggcata
+            ttatttggtgcaaccatctccttctcatgtaacacagggtacaaattatttggctcgact
+            tctagtttttgtcttatttcaggcagctctgtccagtggagtgacccgttgccagagtgc
+            agagaaatttattgtccagcaccaccacaaattgacaatggaataattcaaggggaacgt
+            gaccattatggatatagacagtctgtaacgtatgcatgtaataaaggattcaccatgatt
+            ggagagcactctatttattgtactgtgaataatgatgaaggagagtggagtggcccacca
+            cctgaatgcagaggaaaatctctaacttccaaggtcccaccaacagttcagaaacctacc
+            acagtaaatgttccaactacagaagtctcaccaacttctcagaaaaccaccacaaaaacc
+            accacaccaaatgctcaagcaacacggagtacacctgtttccaggacaaccaagcatttt
+            catgaaacaaccccaaataaaggaagtggaaccacttcaggtactacccgtcttctatct
+            gggcacacgtgtttcacgttgacaggtttgcttgggacgctagtaaccatgggcttgctg
+            acttag
+///

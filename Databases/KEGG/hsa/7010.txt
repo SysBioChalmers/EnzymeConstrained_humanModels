@@ -1,0 +1,140 @@
+ENTRY       7010              CDS       T01001
+NAME        TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1
+DEFINITION  (RefSeq) TEK receptor tyrosine kinase
+ORTHOLOGY   K05121  endothelial-specific receptor tyrosine kinase [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa05323  Rheumatoid arthritis
+DISEASE     H00531  Venous malformations
+DRUG_TARGET Rebastinib (DG01368): D10334 D10399
+            Regorafenib (DG00720): D10137 D10138
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                7010 (TEK)
+               04015 Rap1 signaling pathway
+                7010 (TEK)
+               04066 HIF-1 signaling pathway
+                7010 (TEK)
+               04151 PI3K-Akt signaling pathway
+                7010 (TEK)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                7010 (TEK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 7010 (TEK)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Tie family
+               7010 (TEK)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class XI (TIE receptor family)
+               7010 (TEK)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class XI (TIE receptor family)
+               7010 (TEK)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7010 (TEK)
+POSITION    9p21.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase Ig_Tie2_1 fn3 Pur_ac_phosph_N EGF_2 fn3_2 APH hEGF DUF2369 Haspin_kinase DUF4702
+DBLINKS     NCBI-GeneID: 7010
+            NCBI-ProteinID: NP_000450
+            OMIM: 600221
+            HGNC: 11724
+            Ensembl: ENSG00000120156
+            Vega: OTTHUMG00000019712
+            Pharos: Q02763(Tclin)
+            UniProt: Q02763 Q59HG2
+STRUCTURE   PDB: 2OO8 1FVR 3L8P 5UTK 4X3J 2P4I 5MYB 2OSC 5MYA 2GY5 2WQB
+                 2GY7 4K0V
+AASEQ       1124
+            MDSLASLVLCGVSLLLSGTVEGAMDLILINSLPLVSDAETSLTCIASGWRPHEPITIGRD
+            FEALMNQHQDPLEVTQDVTREWAKKVVWKREKASKINGAYFCEGRVRGEAIRIRTMKMRQ
+            QASFLPATLTMTVDKGDNVNISFKKVLIKEEDAVIYKNGSFIHSVPRHEVPDILEVHLPH
+            AQPQDAGVYSARYIGGNLFTSAFTRLIVRRCEAQKWGPECNHLCTACMNNGVCHEDTGEC
+            ICPPGFMGRTCEKACELHTFGRTCKERCSGQEGCKSYVFCLPDPYGCSCATGWKGLQCNE
+            ACHPGFYGPDCKLRCSCNNGEMCDRFQGCLCSPGWQGLQCEREGIPRMTPKIVDLPDHIE
+            VNSGKFNPICKASGWPLPTNEEMTLVKPDGTVLHPKDFNHTDHFSVAIFTIHRILPPDSG
+            VWVCSVNTVAGMVEKPFNISVKVLPKPLNAPNVIDTGHNFAVINISSEPYFGDGPIKSKK
+            LLYKPVNHYEAWQHIQVTNEIVTLNYLEPRTEYELCVQLVRRGEGGEGHPGPVRRFTTAS
+            IGLPPPRGLNLLPKSQTTLNLTWQPIFPSSEDDFYVEVERRSVQKSDQQNIKVPGNLTSV
+            LLNNLHPREQYVVRARVNTKAQGEWSEDLTAWTLSDILPPQPENIKISNITHSSAVISWT
+            ILDGYSISSITIRYKVQGKNEDQHVDVKIKNATITQYQLKGLEPETAYQVDIFAENNIGS
+            SNPAFSHELVTLPESQAPADLGGGKMLLIAILGSAGMTCLTVLLAFLIILQLKRANVQRR
+            MAQAFQNVREEPAVQFNSGTLALNRKVKNNPDPTIYPVLDWNDIKFQDVIGEGNFGQVLK
+            ARIKKDGLRMDAAIKRMKEYASKDDHRDFAGELEVLCKLGHHPNIINLLGACEHRGYLYL
+            AIEYAPHGNLLDFLRKSRVLETDPAFAIANSTASTLSSQQLLHFAADVARGMDYLSQKQF
+            IHRDLAARNILVGENYVAKIADFGLSRGQEVYVKKTMGRLPVRWMAIESLNYSVYTTNSD
+            VWSYGVLLWEIVSLGGTPYCGMTCAELYEKLPQGYRLEKPLNCDDEVYDLMRQCWREKPY
+            ERPSFAQILVSLNRMLEERKTYVNTTLYEKFTYAGIDCSAEEAA
+NTSEQ       3375
+            atggactctttagccagcttagttctctgtggagtcagcttgctcctttctggaactgtg
+            gaaggtgccatggacttgatcttgatcaattccctacctcttgtatctgatgctgaaaca
+            tctctcacctgcattgcctctgggtggcgcccccatgagcccatcaccataggaagggac
+            tttgaagccttaatgaaccagcaccaggatccgctggaagttactcaagatgtgaccaga
+            gaatgggctaaaaaagttgtttggaagagagaaaaggctagtaagatcaatggtgcttat
+            ttctgtgaagggcgagttcgaggagaggcaatcaggatacgaaccatgaagatgcgtcaa
+            caagcttccttcctaccagctactttaactatgactgtggacaagggagataacgtgaac
+            atatctttcaaaaaggtattgattaaagaagaagatgcagtgatttacaaaaatggttcc
+            ttcatccattcagtgccccggcatgaagtacctgatattctagaagtacacctgcctcat
+            gctcagccccaggatgctggagtgtactcggccaggtatataggaggaaacctcttcacc
+            tcggccttcaccaggctgatagtccggagatgtgaagcccagaagtggggacctgaatgc
+            aaccatctctgtactgcttgtatgaacaatggtgtctgccatgaagatactggagaatgc
+            atttgccctcctgggtttatgggaaggacgtgtgagaaggcttgtgaactgcacacgttt
+            ggcagaacttgtaaagaaaggtgcagtggacaagagggatgcaagtcttatgtgttctgt
+            ctccctgacccctatgggtgttcctgtgccacaggctggaagggtctgcagtgcaatgaa
+            gcatgccaccctggtttttacgggccagattgtaagcttaggtgcagctgcaacaatggg
+            gagatgtgtgatcgcttccaaggatgtctctgctctccaggatggcaggggctccagtgt
+            gagagagaaggcataccgaggatgaccccaaagatagtggatttgccagatcatatagaa
+            gtaaacagtggtaaatttaatcccatttgcaaagcttctggctggccgctacctactaat
+            gaagaaatgaccctggtgaagccggatgggacagtgctccatccaaaagactttaaccat
+            acggatcatttctcagtagccatattcaccatccaccggatcctcccccctgactcagga
+            gtttgggtctgcagtgtgaacacagtggctgggatggtggaaaagcccttcaacatttct
+            gttaaagttcttccaaagcccctgaatgccccaaacgtgattgacactggacataacttt
+            gctgtcatcaacatcagctctgagccttactttggggatggaccaatcaaatccaagaag
+            cttctatacaaacccgttaatcactatgaggcttggcaacatattcaagtgacaaatgag
+            attgttacactcaactatttggaacctcggacagaatatgaactctgtgtgcaactggtc
+            cgtcgtggagagggtggggaagggcatcctggacctgtgagacgcttcacaacagcttct
+            atcggactccctcctccaagaggtctaaatctcctgcctaaaagtcagaccactctaaat
+            ttgacctggcaaccaatatttccaagctcggaagatgacttttatgttgaagtggagaga
+            aggtctgtgcaaaaaagtgatcagcagaatattaaagttccaggcaacttgacttcggtg
+            ctacttaacaacttacatcccagggagcagtacgtggtccgagctagagtcaacaccaag
+            gcccagggggaatggagtgaagatctcactgcttggacccttagtgacattcttcctcct
+            caaccagaaaacatcaagatttccaacattacacactcctcagctgtgatttcttggaca
+            atattggatggctattctatttcttctattactatccgttacaaggttcaaggcaagaat
+            gaagaccagcacgttgatgtgaagataaagaatgccaccatcactcagtatcagctcaag
+            ggcctagagcctgaaacagcataccaggtggacatttttgcagagaacaacatagggtca
+            agcaacccagccttttctcatgaactggtgaccctcccagaatctcaagcaccagcggac
+            ctcggaggggggaagatgctgcttatagccatccttggctctgctggaatgacctgcctg
+            actgtgctgttggcctttctgatcatattgcaattgaagagggcaaatgtgcaaaggaga
+            atggcccaagccttccaaaacgtgagggaagaaccagctgtgcagttcaactcagggact
+            ctggccctaaacaggaaggtcaaaaacaacccagatcctacaatttatccagtgcttgac
+            tggaatgacatcaaatttcaagatgtgattggggagggcaattttggccaagttcttaag
+            gcgcgcatcaagaaggatgggttacggatggatgctgccatcaaaagaatgaaagaatat
+            gcctccaaagatgatcacagggactttgcaggagaactggaagttctttgtaaacttgga
+            caccatccaaacatcatcaatctcttaggagcatgtgaacatcgaggctacttgtacctg
+            gccattgagtacgcgccccatggaaaccttctggacttccttcgcaagagccgtgtgctg
+            gagacggacccagcatttgccattgccaatagcaccgcgtccacactgtcctcccagcag
+            ctccttcacttcgctgccgacgtggcccggggcatggactacttgagccaaaaacagttt
+            atccacagggatctggctgccagaaacattttagttggtgaaaactatgtggcaaaaata
+            gcagattttggattgtcccgaggtcaagaggtgtatgtgaaaaagacaatgggaaggctc
+            ccagtgcgctggatggccatcgagtcactgaattacagtgtgtacacaaccaacagtgat
+            gtatggtcctatggtgtgttactatgggagattgttagcttaggaggcacaccctactgc
+            gggatgacttgtgcagaactctacgagaagctgccccagggctacagactggagaagccc
+            ctgaactgtgatgatgaggtgtatgatctaatgagacaatgctggcgggagaagccttat
+            gagaggccatcatttgcccagatattggtgtccttaaacagaatgttagaggagcgaaag
+            acctacgtgaataccacgctttatgagaagtttacttatgcaggaattgactgttctgct
+            gaagaagcggcctag
+///

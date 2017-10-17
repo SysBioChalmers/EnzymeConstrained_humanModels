@@ -1,0 +1,112 @@
+ENTRY       6868              CDS       T01001
+NAME        ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE
+DEFINITION  (RefSeq) ADAM metallopeptidase domain 17
+ORTHOLOGY   K06059  disintegrin and metalloproteinase domain-containing protein 17 [EC:3.4.24.86]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04330  Notch signaling pathway
+            hsa05010  Alzheimer's disease
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+MODULE      hsa_M00682  Notch signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04330 Notch signaling pathway
+                6868 (ADAM17)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                6868 (ADAM17)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                6868 (ADAM17)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.86  ADAM 17 endopeptidase
+                 6868 (ADAM17)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M12: astacin/adamalysin family
+               6868 (ADAM17)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-5
+                ITGB1; integrin beta 1 [KO:K05719]
+                 6868 (ADAM17)
+            CD molecules [BR:hsa04090]
+             Proteins
+              6868 (ADAM17)
+POSITION    2p25.1
+MOTIF       Pfam: Reprolysin_5 Reprolysin_2 ADAM17_MPD Disintegrin Reprolysin_3 Reprolysin Pep_M12B_propep Reprolysin_4
+DBLINKS     NCBI-GeneID: 6868
+            NCBI-ProteinID: NP_003174
+            OMIM: 603639
+            HGNC: 195
+            Ensembl: ENSG00000151694
+            Vega: OTTHUMG00000090425
+            Pharos: P78536(Tchem)
+            UniProt: P78536 B2RNB2
+STRUCTURE   PDB: 2DDF 3L0V 3KMC 3EWJ 3LE9 3KME 3O64 3LGP 3EDZ 3E8R 2I47
+                 3L0T 3LEA 3B92 2OI0 1BKC 2FV9 3G42 2FV5 1ZXC 3CKI 2A8H
+                 2M2F
+AASEQ       824
+            MRQSLLFLTSVVPFVLAPRPPDDPGFGPHQRLEKLDSLLSDYDILSLSNIQQHSVRKRDL
+            QTSTHVETLLTFSALKRHFKLYLTSSTERFSQNFKVVVVDGKNESEYTVKWQDFFTGHVV
+            GEPDSRVLAHIRDDDVIIRINTDGAEYNIEPLWRFVNDTKDKRMLVYKSEDIKNVSRLQS
+            PKVCGYLKVDNEELLPKGLVDREPPEELVHRVKRRADPDPMKNTCKLLVVADHRFYRYMG
+            RGEESTTTNYLIELIDRVDDIYRNTSWDNAGFKGYGIQIEQIRILKSPQEVKPGEKHYNM
+            AKSYPNEEKDAWDVKMLLEQFSFDIAEEASKVCLAHLFTYQDFDMGTLGLAYVGSPRANS
+            HGGVCPKAYYSPVGKKNIYLNSGLTSTKNYGKTILTKEADLVTTHELGHNFGAEHDPDGL
+            AECAPNEDQGGKYVMYPIAVSGDHENNKMFSNCSKQSIYKTIESKAQECFQERSNKVCGN
+            SRVDEGEECDPGIMYLNNDTCCNSDCTLKEGVQCSDRNSPCCKNCQFETAQKKCQEAINA
+            TCKGVSYCTGNSSECPPPGNAEDDTVCLDLGKCKDGKCIPFCEREQQLESCACNETDNSC
+            KVCCRDLSGRCVPYVDAEQKNLFLRKGKPCTVGFCDMNGKCEKRVQDVIERFWDFIDQLS
+            INTFGKFLADNIVGSVLVFSLIFWIPFSILVHCVDKKLDKQYESLSLFHPSNVEMLSSMD
+            SASVRIIKPFPAPQTPGRLQPAPVIPSAPAAPKLDHQRMDTIQEDPSTDSHMDEDGFEKD
+            PFPNSSTAAKSFEDLTDHPVTRSEKAASFKLQRQNRVDSKETEC
+NTSEQ       2475
+            atgaggcagtctctcctattcctgaccagcgtggttcctttcgtgctggcgccgcgacct
+            ccggatgacccgggcttcggcccccaccagagactcgagaagcttgattctttgctctca
+            gactacgatattctctctttatctaatatccagcagcattcggtaagaaaaagagatcta
+            cagacttcaacacatgtagaaacactactaactttttcagctttgaaaaggcattttaaa
+            ttatacctgacatcaagtactgaacgtttttcacaaaatttcaaggtcgtggtggtggat
+            ggtaaaaacgaaagcgagtacactgtaaaatggcaggacttcttcactggacacgtggtt
+            ggtgagcctgactctagggttctagcccacataagagatgatgatgttataatcagaatc
+            aacacagatggggccgaatataacatagagccactttggagatttgttaatgataccaaa
+            gacaaaagaatgttagtttataaatctgaagatatcaagaatgtttcacgtttgcagtct
+            ccaaaagtgtgtggttatttaaaagtggataatgaagagttgctcccaaaagggttagta
+            gacagagaaccacctgaagagcttgttcatcgagtgaaaagaagagctgacccagatccc
+            atgaagaacacgtgtaaattattggtggtagcagatcatcgcttctacagatacatgggc
+            agaggggaagagagtacaactacaaattacttaatagagctaattgacagagttgatgac
+            atctatcggaacacttcatgggataatgcaggttttaaaggctatggaatacagatagag
+            cagattcgcattctcaagtctccacaagaggtaaaacctggtgaaaagcactacaacatg
+            gcaaaaagttacccaaatgaagaaaaggatgcttgggatgtgaagatgttgctagagcaa
+            tttagctttgatatagctgaggaagcatctaaagtttgcttggcacaccttttcacatac
+            caagattttgatatgggaactcttggattagcttatgttggctctcccagagcaaacagc
+            catggaggtgtttgtccaaaggcttattatagcccagttgggaagaaaaatatctatttg
+            aatagtggtttgacgagcacaaagaattatggtaaaaccatccttacaaaggaagctgac
+            ctggttacaactcatgaattgggacataattttggagcagaacatgatccggatggtcta
+            gcagaatgtgccccgaatgaggaccagggagggaaatatgtcatgtatcccatagctgtg
+            agtggcgatcacgagaacaataagatgttttcaaactgcagtaaacaatcaatctataag
+            accattgaaagtaaggcccaggagtgttttcaagaacgcagcaataaagtttgtgggaac
+            tcgagggtggatgaaggagaagagtgtgatcctggcatcatgtatctgaacaacgacacc
+            tgctgcaacagcgactgcacgttgaaggaaggtgtccagtgcagtgacaggaacagtcct
+            tgctgtaaaaactgtcagtttgagactgcccagaagaagtgccaggaggcgattaatgct
+            acttgcaaaggcgtgtcctactgcacaggtaatagcagtgagtgcccgcctccaggaaat
+            gctgaagatgacactgtttgcttggatcttggcaagtgtaaggatgggaaatgcatccct
+            ttctgcgagagggaacagcagctggagtcctgtgcatgtaatgaaactgacaactcctgc
+            aaggtgtgctgcagggacctttctggccgctgtgtgccctatgtcgatgctgaacaaaag
+            aacttatttttgaggaaaggaaagccctgtacagtaggattttgtgacatgaatggcaaa
+            tgtgagaaacgagtacaggatgtaattgaacgattttgggatttcattgaccagctgagc
+            atcaatacttttggaaagtttttagcagacaacatcgttgggtctgtcctggttttctcc
+            ttgatattttggattcctttcagcattcttgtccattgtgtggataagaaattggataaa
+            cagtatgaatctctgtctctgtttcaccccagtaacgtcgaaatgctgagcagcatggat
+            tctgcatcggttcgcattatcaaaccctttcctgcgccccagactccaggccgcctgcag
+            cctgcccctgtgatcccttcggcgccagcagctccaaaactggaccaccagagaatggac
+            accatccaggaagaccccagcacagactcacatatggacgaggatgggtttgagaaggac
+            cccttcccaaatagcagcacagctgccaagtcatttgaggatctcacggaccatccggtc
+            accagaagtgaaaaggctgcctcctttaaactgcagcgtcagaatcgtgttgacagcaaa
+            gaaacagagtgctaa
+///

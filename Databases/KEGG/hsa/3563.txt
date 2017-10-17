@@ -1,0 +1,78 @@
+ENTRY       3563              CDS       T01001
+NAME        IL3RA, CD123, IL3R, IL3RAY, IL3RX, IL3RY, hIL-3Ra
+DEFINITION  (RefSeq) interleukin 3 receptor subunit alpha
+ORTHOLOGY   K04737  interleukin 3 receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+DRUG_TARGET Daniplestim: D03645
+            Leridistim: D04695
+            Milodistim: D05036
+            Muplestim: D05090
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3563 (IL3RA)
+               04151 PI3K-Akt signaling pathway
+                3563 (IL3RA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3563 (IL3RA)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                3563 (IL3RA)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3563 (IL3RA)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              3563 (IL3RA)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3563 (IL3RA)
+POSITION    Xp22.33 and Yp11.2
+MOTIF       Pfam: IL6Ra-bind EpoR_lig-bind Tissue_fac DUF4812 Y_Y_Y
+DBLINKS     NCBI-GeneID: 3563
+            NCBI-ProteinID: NP_002174
+            OMIM: 308385 430000
+            HGNC: 6012
+            Ensembl: ENSG00000185291
+            Vega: OTTHUMG00000021059
+            Pharos: P26951(Tbio)
+            UniProt: P26951
+STRUCTURE   PDB: 4JZJ
+AASEQ       378
+            MVLLWLTLLLIALPCLLQTKEDPNPPITNLRMKAKAQQLTWDLNRNVTDIECVKDADYSM
+            PAVNNSYCQFGAISLCEVTNYTVRVANPPFSTWILFPENSGKPWAGAENLTCWIHDVDFL
+            SCSWAVGPGAPADVQYDLYLNVANRRQQYECLHYKTDAQGTRIGCRFDDISRLSSGSQSS
+            HILVRGRSAAFGIPCTDKFVVFSQIEILTPPNMTAKCNKTHSFMHWKMRSHFNRKFRYEL
+            QIQKRMQPVITEQVRDRTSFQLLNPGTYTVQIRARERVYEFLSAWSTPQRFECDQEEGAN
+            TRAWRTSLLIALGTLLALVCVFVICRRYLVMQRLFPRIPHMKDPIGDSFQNDKLVVWEAG
+            KAGLEECLVTEVQVVQKT
+NTSEQ       1137
+            atggtcctcctttggctcacgctgctcctgatcgccctgccctgtctcctgcaaacgaag
+            gaagatccaaacccaccaatcacgaacctaaggatgaaagcaaaggctcagcagttgacc
+            tgggaccttaacagaaatgtgaccgatatcgagtgtgttaaagacgccgactattctatg
+            ccggcagtgaacaatagctattgccagtttggagcaatttccttatgtgaagtgaccaac
+            tacaccgtccgagtggccaacccaccattctccacgtggatcctcttccctgagaacagt
+            gggaagccttgggcaggtgcggagaatctgacctgctggattcatgacgtggatttcttg
+            agctgcagctgggcggtaggcccgggggcccccgcggacgtccagtacgacctgtacttg
+            aacgttgccaacaggcgtcaacagtacgagtgtcttcactacaaaacggatgctcaggga
+            acacgtatcgggtgtcgtttcgatgacatctctcgactctccagcggttctcaaagttcc
+            cacatcctggtgcggggcaggagcgcagccttcggtatcccctgcacagataagtttgtc
+            gtcttttcacagattgagatattaactccacccaacatgactgcaaagtgtaataagaca
+            cattcctttatgcactggaaaatgagaagtcatttcaatcgcaaatttcgctatgagctt
+            cagatacaaaagagaatgcagcctgtaatcacagaacaggtcagagacagaacctccttc
+            cagctactcaatcctggaacgtacacagtacaaataagagcccgggaaagagtgtatgaa
+            ttcttgagcgcctggagcaccccccagcgcttcgagtgcgaccaggaggagggcgcaaac
+            acacgtgcctggcggacgtcgctgctgatcgcgctggggacgctgctggccctggtctgt
+            gtcttcgtgatctgcagaaggtatctggtgatgcagagactctttccccgcatccctcac
+            atgaaagaccccatcggtgacagcttccaaaacgacaagctggtggtctgggaggcgggc
+            aaagccggcctggaggagtgtctggtgactgaagtacaggtcgtgcagaaaacttga
+///

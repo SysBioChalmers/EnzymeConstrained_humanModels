@@ -1,0 +1,93 @@
+ENTRY       10533             CDS       T01001
+NAME        ATG7, APG7-LIKE, APG7L, GSA7
+DEFINITION  (RefSeq) autophagy related 7
+ORTHOLOGY   K08337  ubiquitin-like modifier-activating enzyme ATG7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04136  Autophagy - other
+            hsa04140  Autophagy - animal
+            hsa04216  Ferroptosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                10533 (ATG7)
+               04136 Autophagy - other eukaryotes
+                10533 (ATG7)
+              Cell growth and death
+               04216 Ferroptosis
+                10533 (ATG7)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Core machinery Atg proteins
+                10533 (ATG7)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin-activating enzymes (E1)
+              UBL-activating enzymes
+               10533 (ATG7)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                10533 (ATG7)
+POSITION    3p25.3
+MOTIF       Pfam: ATG7_N ThiF Shikimate_DH
+DBLINKS     NCBI-GeneID: 10533
+            NCBI-ProteinID: NP_006386
+            OMIM: 608760
+            HGNC: 16935
+            Ensembl: ENSG00000197548
+            Vega: OTTHUMG00000129740
+            Pharos: O95352(Tbio)
+            UniProt: O95352 B3KQM6
+AASEQ       703
+            MAAATGDPGLSKLQFAPFSSALDVGFWHELTQKKLNEYRLDEAPKDIKGYYYNGDSAGLP
+            ARLTLEFSAFDMSAPTPARCCPAIGTLYNTNTLESFKTADKKLLLEQAANEIWESIKSGT
+            ALENPVLLNKFLLLTFADLKKYHFYYWFCYPALCLPESLPLIQGPVGLDQRFSLKQIEAL
+            ECAYDNLCQTEGVTALPYFLIKYDENMVLVSLLKHYSDFFQGQRTKITIGVYDPCNLAQY
+            PGWPLRNFLVLAAHRWSSSFQSVEVVCFRDRTMQGARDVAHSIIFEVKLPEMAFSPDCPK
+            AVGWEKNQKGGMGPRMVNLSECMDPKRLAESSVDLNLKLMCWRLVPTLDLDKVVSVKCLL
+            LGAGTLGCNVARTLMGWGVRHITFVDNAKISYSNPVRQPLYEFEDCLGGGKPKALAAADR
+            LQKIFPGVNARGFNMSIPMPGHPVNFSSVTLEQARRDVEQLEQLIESHDVVFLLMDTRES
+            RWLPAVIAASKRKLVINAALGFDTFVVMRHGLKKPKQQGAGDLCPNHPVASADLLGSSLF
+            ANIPGYKLGCYFCNDVVAPGDSTRDRTLDQQCTVSRPGLAVIAGALAVELMVSVLQHPEG
+            GYAIASSSDDRMNEPPTSLGLVPHQIRGFLSRFDNVLPVSLAFDKCTACSSKVLDQYERE
+            GFNFLAKVFNSSHSFLEDLTGLTLLHQETQAAEIWDMSDDETI
+NTSEQ       2112
+            atggcggcagctacgggggatcctggactctctaaactgcagtttgccccttttagtagt
+            gccttggatgttgggttttggcatgagttgacccagaagaagctgaacgagtatcggctg
+            gatgaagctcccaaggacattaagggttattactacaatggtgactctgctgggctgcca
+            gctcgcttaacattggagttcagtgcttttgacatgagtgctcccaccccagcccgttgc
+            tgcccagctattggaacactgtataacaccaacacactcgagtctttcaagactgcagat
+            aagaagctccttttggaacaagcagcaaatgagatatgggaatccataaaatcaggcact
+            gctcttgaaaaccctgtactcctcaacaagttcctcctcttgacatttgcagatctaaag
+            aagtaccacttctactattggttttgctatcctgccctctgtcttccagagagtttacct
+            ctcattcaggggccagtgggtttggatcaaaggttttcactaaaacagattgaagcacta
+            gagtgtgcatatgataatctttgtcaaacagaaggagtcacagctcttccttacttctta
+            atcaagtatgatgagaacatggtgctggtttccttgcttaaacactacagtgatttcttc
+            caaggtcaaaggacgaagataacaattggtgtatatgatccctgtaacttagcccagtac
+            cctggatggcctttgaggaattttttggtcctagcagcccacagatggagtagcagtttc
+            cagtctgttgaagttgtttgcttccgtgaccgtaccatgcagggggcgagagacgttgcc
+            cacagcatcatcttcgaagtgaagcttccagaaatggcatttagcccagattgtcctaaa
+            gcagttggatgggaaaagaaccagaaaggaggcatgggaccaaggatggtgaacctcagt
+            gaatgtatggaccctaaaaggttagctgagtcatcagtggatctaaatctcaaactgatg
+            tgttggagattggttcctactttagacttggacaaggttgtgtctgtcaaatgtctgctg
+            cttggagccggcaccttgggttgcaatgtagctaggacgttgatgggttggggcgtgaga
+            cacatcacatttgtggacaatgccaagatctcctactccaatcctgtgaggcagcctctc
+            tatgagtttgaagattgcctagggggtggtaagcccaaggctctggcagcagcggaccgg
+            ctccagaaaatattccccggtgtgaatgccagaggattcaacatgagcatacctatgcct
+            gggcatccagtgaacttctccagtgtcactctggagcaagcccgcagagatgtggagcaa
+            ctggagcagctcatcgaaagccatgatgtcgtcttcctattgatggacaccagggagagc
+            cggtggcttcctgccgtcattgctgcaagcaagagaaagctggtcatcaatgctgctttg
+            ggatttgacacatttgttgtcatgagacatggtctgaagaaaccaaagcagcaaggagct
+            ggggacttgtgtccaaaccaccctgtggcatctgctgacctcctgggctcatcgcttttt
+            gccaacatccctggttacaagcttggctgctacttctgcaatgatgtggtggccccagga
+            gattcaaccagagaccggaccttggaccagcagtgcactgtgagtcgtccaggactggcc
+            gtgattgcaggagccctggccgtggaattgatggtatctgttttgcagcatccagaaggg
+            ggctatgccattgccagcagcagtgacgatcggatgaatgagcctccaacctctcttggg
+            cttgtgcctcaccagatccggggatttctttcacggtttgataatgtccttcccgtcagc
+            ctggcatttgacaaatgtacagcttgttcttccaaagttcttgatcaatatgaacgagaa
+            ggatttaacttcctagccaaggtgtttaattcttcacattccttcttagaagacttgact
+            ggtcttacattgctgcatcaagaaacccaagctgctgagatctgggacatgagcgatgat
+            gagaccatctga
+///

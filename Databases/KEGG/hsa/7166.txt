@@ -1,0 +1,73 @@
+ENTRY       7166              CDS       T01001
+NAME        TPH1, TPRH, TRPH, TPH
+DEFINITION  (RefSeq) tryptophan hydroxylase 1
+ORTHOLOGY   K00502  tryptophan 5-monooxygenase [EC:1.14.16.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                7166 (TPH1)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                7166 (TPH1)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                7166 (TPH1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.16  With reduced pteridine as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.16.4  tryptophan 5-monooxygenase
+                 7166 (TPH1)
+POSITION    11p15.1
+MOTIF       Pfam: Biopterin_H ACT ACT_4
+DBLINKS     NCBI-GeneID: 7166
+            NCBI-ProteinID: NP_004170
+            OMIM: 191060
+            HGNC: 12008
+            Ensembl: ENSG00000129167
+            Vega: OTTHUMG00000166421
+            Pharos: P17752(Tchem)
+            UniProt: P17752
+STRUCTURE   PDB: 5TPG 1MLW 3HF6 3HF8 5L01 5J6D 3HFB
+AASEQ       444
+            MIEDNKENKDHSLERGRASLIFSLKNEVGGLIKALKIFQEKHVNLLHIESRKSKRRNSEF
+            EIFVDCDINREQLNDIFHLLKSHTNVLSVNLPDNFTLKEDGMETVPWFPKKISDLDHCAN
+            RVLMYGSELDADHPGFKDNVYRKRRKYFADLAMNYKHGDPIPKVEFTEEEIKTWGTVFQE
+            LNKLYPTHACREYLKNLPLLSKYCGYREDNIPQLEDVSNFLKERTGFSIRPVAGYLSPRD
+            FLSGLAFRVFHCTQYVRHSSDPFYTPEPDTCHELLGHVPLLAEPSFAQFSQEIGLASLGA
+            SEEAVQKLATCYFFTVEFGLCKQDGQLRVFGAGLLSSISELKHALSGHAKVKPFDPKITC
+            KQECLITTFQDVYFVSESFEDAKEKMREFTKTIKRPFGVKYNPYTRSIQILKDTKSITSA
+            MNELQHDLDVVSDALAKVSRKPSI
+NTSEQ       1335
+            atgattgaagacaataaggagaacaaagaccattccttagaaaggggaagagcaagtctc
+            attttttccttaaagaatgaagttggaggacttataaaagccctgaaaatctttcaggag
+            aagcatgtgaatctgttacatatcgagtcccgaaaatcaaaaagaagaaactcagaattt
+            gagatttttgttgactgtgacatcaacagagaacaattgaatgatatttttcatctgctg
+            aagtctcataccaatgttctctctgtgaatctaccagataattttactttgaaggaagat
+            ggtatggaaactgttccttggtttccaaagaagatttctgacctggaccattgtgccaac
+            agagttctgatgtatggatctgaactagatgcagaccatcctggcttcaaagacaatgtc
+            taccgtaaacgtcgaaagtattttgcggacttggctatgaactataaacatggagacccc
+            attccaaaggttgaattcactgaagaggagattaagacctggggaaccgtattccaagag
+            ctcaacaaactctacccaacccatgcttgcagagagtatctcaaaaacttacctttgctt
+            tctaaatattgtggatatcgggaggataatatcccacaattggaagatgtctccaacttt
+            ttaaaagagcgtacaggtttttccatccgtcctgtggctggttacttatcaccaagagat
+            ttcttatcaggtttagcctttcgagtttttcactgcactcaatatgtgagacacagttca
+            gatcccttctataccccagagccagatacctgccatgaactcttaggtcatgtcccgctt
+            ttggctgaacctagttttgcccaattctcccaagaaattggcttggcttctcttggcgct
+            tcagaggaggctgttcaaaaactggcaacgtgctactttttcactgtggagtttggtcta
+            tgtaaacaagatggacagctaagagtctttggtgctggcttactttcttctatcagtgaa
+            ctcaaacatgcactttctggacatgccaaagtaaagccctttgatcccaagattacctgc
+            aaacaggaatgtcttatcacaacttttcaagatgtctactttgtatctgaaagttttgaa
+            gatgcaaaggagaagatgagagaatttaccaaaacaattaagcgtccatttggagtgaag
+            tataatccatatacacggagtattcagatcctgaaagacaccaagagcataaccagtgcc
+            atgaatgagctgcagcatgatctcgatgttgtcagtgatgcccttgctaaggtcagcagg
+            aagccgagtatctaa
+///

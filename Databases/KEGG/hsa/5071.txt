@@ -1,0 +1,89 @@
+ENTRY       5071              CDS       T01001
+NAME        PRKN, AR-JP, LPRS2, PARK2, PDJ
+DEFINITION  (RefSeq) parkin RBR E3 ubiquitin protein ligase
+ORTHOLOGY   K04556  parkin [EC:2.3.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04120  Ubiquitin mediated proteolysis
+            hsa04137  Mitophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa05012  Parkinson's disease
+DISEASE     H00057  Parkinson's disease (PD)
+            H00344  Leprosy
+            H01600  Parkinsonian syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                5071 (PRKN)
+               04120 Ubiquitin mediated proteolysis
+                5071 (PRKN)
+             Cellular Processes
+              Transport and catabolism
+               04137 Mitophagy - animal
+                5071 (PRKN)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                5071 (PRKN)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 5071 (PRKN)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               RBR proteins
+                5071 (PRKN)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Parkin-dependent mechanism factors
+                5071 (PRKN)
+POSITION    6q26
+MOTIF       Pfam: ubiquitin IBR Rad60-SLD Rad60-SLD_2 DUF2407
+DBLINKS     NCBI-GeneID: 5071
+            NCBI-ProteinID: NP_004553
+            OMIM: 602544
+            HGNC: 8607
+            Ensembl: ENSG00000185345
+            Vega: OTTHUMG00000015970
+            Pharos: O60260(Tbio)
+            UniProt: O60260 X5DR79
+STRUCTURE   PDB: 4I1F 5C1Z 4I1H 4BM9 5C9V 5C23 5N38 5N2W 5TR5 2JMO 1IYF
+AASEQ       465
+            MIVFVRFNSSHGFPVEVDSDTSIFQLKEVVAKRQGVPADQLRVIFAGKELRNDWTVQNCD
+            LDQQSIVHIVQRPWRKGQEMNATGGDDPRNAAGGCEREPQSLTRVDLSSSVLPGDSVGLA
+            VILHTDSRKDSPPAGSPAGRSIYNSFYVYCKGPCQRVQPGKLRVQCSTCRQATLTLTQGP
+            SCWDDVLIPNRMSGECQSPHCPGTSAEFFFKCGAHPTSDKETSVALHLIATNSRNITCIT
+            CTDVRSPVLVFQCNSRHVICLDCFHLYCVTRLNDRQFVHDPQLGYSLPCVAGCPNSLIKE
+            LHHFRILGEEQYNRYQQYGAEECVLQMGGVLCPRPGCGAGLLPEPDQRKVTCEGGNGLGC
+            GFAFCRECKEAYHEGECSAVFEASGTTTQAYRVDERAAEQARWEAASKETIKKTTKPCPR
+            CHVPVEKNGGCMHMKCPQPQCRLEWCWNCGCEWNRVCMGDHWFDV
+NTSEQ       1398
+            atgatagtgtttgtcaggttcaactccagccatggtttcccagtggaggtcgattctgac
+            accagcatcttccagctcaaggaggtggttgctaagcgacagggggttccggctgaccag
+            ttgcgtgtgattttcgcagggaaggagctgaggaatgactggactgtgcagaattgtgac
+            ctggatcagcagagcattgttcacattgtgcagagaccgtggagaaaaggtcaagaaatg
+            aatgcaactggaggcgacgaccccagaaacgcggcgggaggctgtgagcgggagccccag
+            agcttgactcgggtggacctcagcagctcagtcctcccaggagactctgtggggctggct
+            gtcattctgcacactgacagcaggaaggactcaccaccagctggaagtccagcaggtaga
+            tcaatctacaacagcttttatgtgtattgcaaaggcccctgtcaaagagtgcagccggga
+            aaactcagggtacagtgcagcacctgcaggcaggcaacgctcaccttgacccagggtcca
+            tcttgctgggatgatgttttaattccaaaccggatgagtggtgaatgccaatccccacac
+            tgccctgggactagtgcagaatttttctttaaatgtggagcacaccccacctctgacaag
+            gaaacatcagtagctttgcacctgatcgcaacaaatagtcggaacatcacttgcattacg
+            tgcacagacgtcaggagccccgtcctggttttccagtgcaactcccgccacgtgatttgc
+            ttagactgtttccacttatactgtgtgacaagactcaatgatcggcagtttgttcacgac
+            cctcaacttggctactccctgccttgtgtggctggctgtcccaactccttgattaaagag
+            ctccatcacttcaggattctgggagaagagcagtacaaccggtaccagcagtatggtgca
+            gaggagtgtgtcctgcagatggggggcgtgttatgcccccgccctggctgtggagcgggg
+            ctgctgccggagcctgaccagaggaaagtcacctgcgaagggggcaatggcctgggctgt
+            gggtttgccttctgccgggaatgtaaagaagcgtaccatgaaggggagtgcagtgccgta
+            tttgaagcctcaggaacaactactcaggcctacagagtcgatgaaagagccgccgagcag
+            gctcgttgggaagcagcctccaaagaaaccatcaagaaaaccaccaagccctgtccccgc
+            tgccatgtaccagtggaaaaaaatggaggctgcatgcacatgaagtgtccgcagccccag
+            tgcaggctcgagtggtgctggaactgtggctgcgagtggaaccgcgtctgcatgggggac
+            cactggttcgacgtgtag
+///

@@ -1,0 +1,163 @@
+ENTRY       255189            CDS       T01001
+NAME        PLA2G4F, PLA2G4FZ
+DEFINITION  (RefSeq) phospholipase A2 group IVF
+ORTHOLOGY   K16342  cytosolic phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04217  Necroptosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04370  VEGF signaling pathway
+            hsa04611  Platelet activation
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04724  Glutamatergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04730  Long-term depression
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                255189 (PLA2G4F)
+               00565 Ether lipid metabolism
+                255189 (PLA2G4F)
+               00590 Arachidonic acid metabolism
+                255189 (PLA2G4F)
+               00591 Linoleic acid metabolism
+                255189 (PLA2G4F)
+               00592 alpha-Linolenic acid metabolism
+                255189 (PLA2G4F)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                255189 (PLA2G4F)
+               04010 MAPK signaling pathway
+                255189 (PLA2G4F)
+               04370 VEGF signaling pathway
+                255189 (PLA2G4F)
+               04072 Phospholipase D signaling pathway
+                255189 (PLA2G4F)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                255189 (PLA2G4F)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                255189 (PLA2G4F)
+               04664 Fc epsilon RI signaling pathway
+                255189 (PLA2G4F)
+               04666 Fc gamma R-mediated phagocytosis
+                255189 (PLA2G4F)
+              Endocrine system
+               04912 GnRH signaling pathway
+                255189 (PLA2G4F)
+               04913 Ovarian Steroidogenesis
+                255189 (PLA2G4F)
+               04921 Oxytocin signaling pathway
+                255189 (PLA2G4F)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                255189 (PLA2G4F)
+              Nervous system
+               04724 Glutamatergic synapse
+                255189 (PLA2G4F)
+               04726 Serotonergic synapse
+                255189 (PLA2G4F)
+               04730 Long-term depression
+                255189 (PLA2G4F)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                255189 (PLA2G4F)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                255189 (PLA2G4F)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 255189 (PLA2G4F)
+POSITION    15q15.1
+MOTIF       Pfam: PLA2_B C2
+DBLINKS     NCBI-GeneID: 255189
+            NCBI-ProteinID: NP_998765
+            HGNC: 27396
+            Ensembl: ENSG00000168907
+            Vega: OTTHUMG00000172782
+            Pharos: Q68DD2(Tdark)
+            UniProt: Q68DD2 A5PKZ7
+AASEQ       849
+            MLWALWPRWLADKMLPLLGAVLLQKREKRGPLWRHWRRETYPYYDLQVKVLRATNIRGTD
+            LLSKADCYVQLWLPTASPSPAQTRIVANCSDPEWNETFHYQIHGAVKNVLELTLYDKDIL
+            GSDQLSLLLFDLRSLKCGQPHKHTFPLNHQDSQELQVEFVLEKSQVPASEVITNGVLVAH
+            PCLRIQGTLRGDGTAPREEYGSRQLQLAVPGAYEKPQLLPLQPPTEPGLPPTFTFHVNPV
+            LSSRLHVELMELLAAVQSGPSAELEAQTSKLGEGGILLSSLPLGQEEQCSVALGEGQEVA
+            LSMKVEMSSGDLDLRLGFDLSDGEQEFLDRRKQVVSKALQQVLGLSEALDSGQVPVVAVL
+            GSGGGTRAMSSLYGSLAGLQELGLLDTVTYLSGVSGSTWCISTLYRDPAWSQVALQGPIE
+            RAQVHVCSSKMGALSTERLQYYTQELGVRERSGHSVSLIDLWGLLVEYLLYQEENPAKLS
+            DQQEAVRQGQNPYPIYTSVNVRTNLSGEDFAEWCEFTPYEVGFPKYGAYVPTELFGSELF
+            MGRLLQLQPEPRICYLQGMWGSAFATSLDEIFLKTAGSGLSFLEWYRGSVNITDDCQKPQ
+            LHNPSRLRTRLLTPQGPFSQAVLDIFTSRFTSAQSFNFTRGLCLHKDYVAGREFVAWKDT
+            HPDAFPNQLTPMRDCLYLVDGGFAINSPFPLALLPQRAVDLILSFDYSLEAPFEVLKMTE
+            KYCLDRGIPFPSIEVGPEDMEEARECYLFAKAEDPRSPIVLHFPLVNRTFRTHLAPGVER
+            QTAEEKAFGDFVINRPDTPYGMMNFTYEPQDFYRLVALSRYNVLNNVETLKCALQLALDR
+            HQARERAGA
+NTSEQ       2550
+            atgctttgggcactctggccaaggtggctggcagacaagatgctgcccctcctgggggca
+            gtgctgcttcagaagagagagaagaggggccctctgtggaggcactggcggcgggaaacc
+            tacccatactatgacctccaggtgaaggtgctgagggccacaaacatccggggcacagac
+            ctgctgtccaaagccgactgctatgtgcaactgtggctgcccacggcgtccccaagccct
+            gcccagactaggatagtggccaactgcagtgaccccgagtggaatgagaccttccactac
+            cagatccatggtgctgtgaagaacgtcctggagctcaccctctatgacaaggacatcctg
+            ggcagcgaccagctctctctgctcctgtttgacctgagaagcctcaagtgtggccaacct
+            cacaaacacaccttcccactcaaccaccaggattcacaagagctgcaggtggaatttgtt
+            ctggagaagagccaggtgcctgcatctgaagtcatcaccaacggggttctggtggctcac
+            ccctgtctgagaatccagggcacgctccggggagatgggacagccccacgggaagagtac
+            ggctctaggcagctccagctggcagtgcctggagcctacgagaagccacagctcttgccc
+            ctgcagcctcccacagagccaggcctcccacccacctttaccttccacgtgaacccagtg
+            ctgagctccaggctacacgtggagctgatggagctgctggcagctgtgcagagtggcccc
+            agcgcagagttggaggctcagaccagcaagctgggcgaggggggcatcctgctctcctct
+            ctgcccctaggccaggaggaacagtgttctgtggccctgggggagggccaggaggtggct
+            ctgagcatgaaggtggaaatgagctccggggacctagacctacgccttggctttgacctc
+            tctgacggggagcaggagtttctggacaggaggaagcaggtcgtgtccaaggccctgcag
+            caagtgctgggattgagtgaggctctggacagtggccaggtgcctgtagtggctgtgttg
+            ggttccgggggtggaacccgagccatgtcttctctgtacggcagcctggcagggttgcag
+            gagctcggccttctagacactgtgacctacctgagtggggtctctgggtctacctggtgc
+            atctccacactctacagggacccagcctggtcccaggtggccttgcagggccccattgag
+            cgtgcccaggttcacgtctgcagcagtaagatgggagctttgtccacggagcggctacag
+            tactacactcaggaactgggggtccgggagcgcagtggccacagcgtgtccctcatcgac
+            ctctggggcctccttgttgagtatctcctgtaccaggaggagaaccctgccaagctgtct
+            gaccaacaggaggcggtccgccagggtcagaacccttaccccatttacaccagtgtcaac
+            gtccgcaccaacttgagtggggaagattttgcagagtggtgcgagttcacgccctatgag
+            gttggcttccccaagtacggggcttatgttcccaccgagctcttcggctcagaactcttc
+            atgggacgattgctgcagctccagcctgaaccccggatctgttacctgcaaggtatgtgg
+            ggcagcgcctttgccaccagcctggatgagatcttcctaaagaccgccggctcgggcctc
+            agcttcctggagtggtacagaggcagtgtgaatatcacagacgactgccagaagcctcag
+            ctgcacaacccctcgaggctgcgaacgaggctcctcaccccacaggggcccttctcccag
+            gctgtgctggacatattcacctcccgcttcacttccgcccagagctttaacttcacccgg
+            ggtctctgcttgcacaaggactatgtggctggcagggagttcgtggcctggaaagacaca
+            cacccggacgccttccccaaccagctcacccccatgcgggactgcctgtacctggtggac
+            ggaggctttgccatcaactctccgttcccactggctctgctgcctcagagagcagtggac
+            ctcattctgtcctttgactattccttggaagccccttttgaggtcttgaagatgacagag
+            aagtactgcctggaccgaggaatccccttccctagcatcgaggtgggccctgaggacatg
+            gaggaggcccgtgagtgctatctgtttgccaaggctgaggacccccgctcccccattgtg
+            ctgcacttccccctggttaaccgtaccttccgcacacacctggccccaggtgtggagcga
+            caaacagctgaggagaaggcctttggggactttgtcatcaacaggccagacaccccctat
+            ggcatgatgaacttcacctatgagccccaggacttttatcggctggtggccctcagtcga
+            tacaacgtcctgaacaacgtggagaccttgaagtgcgccctccagctggctctggaccgg
+            caccaggctcgggagagggcaggggcctga
+///

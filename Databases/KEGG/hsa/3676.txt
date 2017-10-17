@@ -1,0 +1,173 @@
+ENTRY       3676              CDS       T01001
+NAME        ITGA4, CD49D, IA4
+DEFINITION  (RefSeq) integrin subunit alpha 4
+ORTHOLOGY   K06483  integrin alpha 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04640  Hematopoietic cell lineage
+            hsa04670  Leukocyte transendothelial migration
+            hsa04672  Intestinal immune network for IgA production
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05140  Leishmaniasis
+            hsa05165  Human papillomavirus infection
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DRUG_TARGET Firategrast: D06590
+            Natalizumab: D06886
+            Valategrast hydrochloride: D10028 D10028
+            Vedolizumab: D08083
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3676 (ITGA4)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3676 (ITGA4)
+               04514 Cell adhesion molecules (CAMs)
+                3676 (ITGA4)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3676 (ITGA4)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3676 (ITGA4)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3676 (ITGA4)
+               04670 Leukocyte transendothelial migration
+                3676 (ITGA4)
+               04672 Intestinal immune network for IgA production
+                3676 (ITGA4)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3676 (ITGA4)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3676 (ITGA4)
+               05414 Dilated cardiomyopathy (DCM)
+                3676 (ITGA4)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3676 (ITGA4)
+               05140 Leishmaniasis
+                3676 (ITGA4)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3676 (ITGA4)
+              Exosomal proteins of other cancer cells
+               3676 (ITGA4)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               6/5 subfamily
+                NRCAM; neuronal cell adhesion molecule [KO:K06756]
+                 VLA-4	Cell adhesion molecules (CAMs)
+                  3676 (ITGA4)
+              Others
+               VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+                VLA-4	Cell adhesion molecules (CAMs)
+                 3676 (ITGA4)
+                alpha 4 beta7	Cell adhesion molecules (CAMs)
+                 3676 (ITGA4)
+               MADCAM1; mucosal vascular addressin cell adhesion molecule 1 [KO:K06779]
+                 3676 (ITGA4)
+               LU; Lutheran blood group glycoprotein [KO:K06578]
+                VLA-4	Cell adhesion molecules (CAMs)
+                 3676 (ITGA4)
+               JAM2; junctional adhesion molecule 2 [KO:K06735]
+                 3676 (ITGA4)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3676 (ITGA4)
+POSITION    2q31.3
+MOTIF       Pfam: Integrin_alpha2 FG-GAP VCBS Integrin_alpha
+DBLINKS     NCBI-GeneID: 3676
+            NCBI-ProteinID: NP_000876
+            OMIM: 192975
+            HGNC: 6140
+            Ensembl: ENSG00000115232
+            Vega: OTTHUMG00000154212
+            Pharos: P13612(Tclin)
+            UniProt: P13612
+STRUCTURE   PDB: 4HKC 3V4V 3V4P
+AASEQ       1032
+            MAWEARREPGPRRAAVRETVMLLLCLGVPTGRPYNVDTESALLYQGPHNTLFGYSVVLHS
+            HGANRWLLVGAPTANWLANASVINPGAIYRCRIGKNPGQTCEQLQLGSPNGEPCGKTCLE
+            ERDNQWLGVTLSRQPGENGSIVTCGHRWKNIFYIKNENKLPTGGCYGVPPDLRTELSKRI
+            APCYQDYVKKFGENFASCQAGISSFYTKDLIVMGAPGSSYWTGSLFVYNITTNKYKAFLD
+            KQNQVKFGSYLGYSVGAGHFRSQHTTEVVGGAPQHEQIGKAYIFSIDEKELNILHEMKGK
+            KLGSYFGASVCAVDLNADGFSDLLVGAPMQSTIREEGRVFVYINSGSGAVMNAMETNLVG
+            SDKYAARFGESIVNLGDIDNDGFEDVAIGAPQEDDLQGAIYIYNGRADGISSTFSQRIEG
+            LQISKSLSMFGQSISGQIDADNNGYVDVAVGAFRSDSAVLLRTRPVVIVDASLSHPESVN
+            RTKFDCVENGWPSVCIDLTLCFSYKGKEVPGYIVLFYNMSLDVNRKAESPPRFYFSSNGT
+            SDVITGSIQVSSREANCRTHQAFMRKDVRDILTPIQIEAAYHLGPHVISKRSTEEFPPLQ
+            PILQQKKEKDIMKKTINFARFCAHENCSADLQVSAKIGFLKPHENKTYLAVGSMKTLMLN
+            VSLFNAGDDAYETTLHVKLPVGLYFIKILELEEKQINCEVTDNSGVVQLDCSIGYIYVDH
+            LSRIDISFLLDVSSLSRAEEDLSITVHATCENEEEMDNLKHSRVTVAIPLKYEVKLTVHG
+            FVNPTSFVYGSNDENEPETCMVEKMNLTFHVINTGNSMAPNVSVEIMVPNSFSPQTDKLF
+            NILDVQTTTGECHFENYQRVCALEQQKSAMQTLKGIVRFLSKTDKRLLYCIKADPHCLNF
+            LCNFGKMESGKEASVHIQLEGRPSILEMDETSALKFEIRATGFPEPNPRVIELNKDENVA
+            HVLLEGLHHQRPKRYFTIVIISSSLLLGLIVLLLISYVMWKAGFFKRQYKSILQEENRRD
+            SWSYINSKSNDD
+NTSEQ       3099
+            atggcttgggaagcgaggcgcgaacccggcccccgaagggccgccgtccgggagacggtg
+            atgctgttgctgtgcctgggggtcccgaccggccgcccctacaacgtggacactgagagc
+            gcgctgctttaccagggcccccacaacacgctgttcggctactcggtcgtgctgcacagc
+            cacggggcgaaccgatggctcctagtgggtgcgcccactgccaactggctcgccaacgct
+            tcagtgatcaatcccggggcgatttacagatgcaggatcggaaagaatcccggccagacg
+            tgcgaacagctccagctgggtagccctaatggagaaccttgtggaaagacttgtttggaa
+            gagagagacaatcagtggttgggggtcacactttccagacagccaggagaaaatggatcc
+            atcgtgacttgtgggcatagatggaaaaatatattttacataaagaatgaaaataagctc
+            cccactggtggttgctatggagtgccccctgatttacgaacagaactgagtaaaagaata
+            gctccgtgttatcaagattatgtgaaaaaatttggagaaaattttgcatcatgtcaagct
+            ggaatatccagtttttacacaaaggatttaattgtgatgggggccccaggatcatcttac
+            tggactggctctctttttgtctacaatataactacaaataaatacaaggcttttttagac
+            aaacaaaatcaagtaaaatttggaagttatttaggatattcagtcggagctggtcatttt
+            cggagccagcatactaccgaagtagtcggaggagctcctcaacatgagcagattggtaag
+            gcatatatattcagcattgatgaaaaagaactaaatatcttacatgaaatgaaaggtaaa
+            aagcttggatcgtactttggagcttctgtctgtgctgtggacctcaatgcagatggcttc
+            tcagatctgctcgtgggagcacccatgcagagcaccatcagagaggaaggaagagtgttt
+            gtgtacatcaactctggctcgggagcagtaatgaatgcaatggaaacaaacctcgttgga
+            agtgacaaatatgctgcaagatttggggaatctatagttaatcttggcgacattgacaat
+            gatggctttgaagatgttgctatcggagctccacaagaagatgacttgcaaggtgctatt
+            tatatttacaatggccgtgcagatgggatctcgtcaaccttctcacagagaattgaagga
+            cttcagatcagcaaatcgttaagtatgtttggacagtctatatcaggacaaattgatgca
+            gataataatggctatgtagatgtagcagttggtgcttttcggtctgattctgctgtcttg
+            ctaaggacaagacctgtagtaattgttgacgcttctttaagccaccctgagtcagtaaat
+            agaacgaaatttgactgtgttgaaaatggatggccttctgtgtgcatagatctaacactt
+            tgtttctcatataagggcaaggaagttccaggttacattgttttgttttataacatgagt
+            ttggatgtgaacagaaaggcagagtctccaccaagattctatttctcttctaatggaact
+            tctgacgtgattacaggaagcatacaggtgtccagcagagaagctaactgtagaacacat
+            caagcatttatgcggaaagatgtgcgggacatcctcaccccaattcagattgaagctgct
+            taccaccttggtcctcatgtcatcagtaaacgaagtacagaggaattcccaccacttcag
+            ccaattcttcagcagaagaaagaaaaagacataatgaaaaaaacaataaactttgcaagg
+            ttttgtgcccatgaaaattgttctgctgatttacaggtttctgcaaagattgggtttttg
+            aagccccatgaaaataaaacatatcttgctgttgggagtatgaagacattgatgttgaat
+            gtgtccttgtttaatgctggagatgatgcatatgaaacgactctacatgtcaaactaccc
+            gtgggtctttatttcattaagattttagagctggaagagaagcaaataaactgtgaagtc
+            acagataactctggcgtggtacaacttgactgcagtattggctatatatatgtagatcat
+            ctctcaaggatagatattagctttctcctggatgtgagctcactcagcagagcggaagag
+            gacctcagtatcacagtgcatgctacctgtgaaaatgaagaggaaatggacaatctaaag
+            cacagcagagtgactgtagcaatacctttaaaatatgaggttaagctgactgttcatggg
+            tttgtaaacccaacttcatttgtgtatggatcaaatgatgaaaatgagcctgaaacgtgc
+            atggtggagaaaatgaacttaactttccatgttatcaacactggcaatagtatggctccc
+            aatgttagtgtggaaataatggtaccaaattcttttagcccccaaactgataagctgttc
+            aacattttggatgtccagactactactggagaatgccactttgaaaattatcaaagagtg
+            tgtgcattagagcagcaaaagagtgcaatgcagaccttgaaaggcatagtccggttcttg
+            tccaagactgataagaggctattgtactgcataaaagctgatccacattgtttaaatttc
+            ttgtgtaattttgggaaaatggaaagtggaaaagaagccagtgttcatatccaactggaa
+            ggccggccatccattttagaaatggatgagacttcagcactcaagtttgaaataagagca
+            acaggttttccagagccaaatccaagagtaattgaactaaacaaggatgagaatgttgcg
+            catgttctactggaaggactacatcatcaaagacccaaacgttatttcaccatagtgatt
+            atttcaagtagcttgctacttggacttattgtacttctgttgatctcatatgttatgtgg
+            aaggctggcttctttaaaagacaatacaaatctatcctacaagaagaaaacagaagagac
+            agttggagttatatcaacagtaaaagcaatgatgattaa
+///

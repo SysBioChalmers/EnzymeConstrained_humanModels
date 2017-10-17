@@ -1,0 +1,92 @@
+ENTRY       1571              CDS       T01001
+NAME        CYP2E1, CPE1, CYP2E, P450-J, P450C2E
+DEFINITION  (RefSeq) cytochrome P450 family 2 subfamily E member 1
+ORTHOLOGY   K07415  cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1571 (CYP2E1)
+               00590 Arachidonic acid metabolism
+                1571 (CYP2E1)
+               00591 Linoleic acid metabolism
+                1571 (CYP2E1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1571 (CYP2E1)
+               00982 Drug metabolism - cytochrome P450
+                1571 (CYP2E1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1571 (CYP2E1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                1571 (CYP2E1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.-  
+                 1571 (CYP2E1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP2 family
+               1571 (CYP2E1)
+POSITION    10q26.3
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1571
+            NCBI-ProteinID: NP_000764
+            OMIM: 124040
+            HGNC: 2631
+            Ensembl: ENSG00000130649
+            Vega: OTTHUMG00000019322
+            Pharos: P05181(Tbio)
+            UniProt: P05181
+STRUCTURE   PDB: 3E6I 3T3Z 3E4E 3GPH 3KOH 3LC4
+AASEQ       493
+            MSALGVTVALLVWAAFLLLVSMWRQVHSSWNLPPGPFPLPIIGNLFQLELKNIPKSFTRL
+            AQRFGPVFTLYVGSQRMVVMHGYKAVKEALLDYKDEFSGRGDLPAFHAHRDRGIIFNNGP
+            TWKDIRRFSLTTLRNYGMGKQGNESRIQREAHFLLEALRKTQGQPFDPTFLIGCAPCNVI
+            ADILFRKHFDYNDEKFLRLMYLFNENFHLLSTPWLQLYNNFPSFLHYLPGSHRKVIKNVA
+            EVKEYVSERVKEHHQSLDPNCPRDLTDCLLVEMEKEKHSAERLYTMDGITVTVADLFFAG
+            TETTSTTLRYGLLILMKYPEIEEKLHEEIDRVIGPSRIPAIKDRQEMPYMDAVVHEIQRF
+            ITLVPSNLPHEATRDTIFRGYLIPKGTVVVPTLDSVLYDNQEFPDPEKFKPEHFLNENGK
+            FKYSDYFKPFSTGKRVCAGEGLARMELFLLLCAILQHFNLKPLVDPKDIDLSPIHIGFGC
+            IPPRYKLCVIPRS
+NTSEQ       1482
+            atgtctgccctcggagtcaccgtggccctgctggtgtgggcggccttcctcctgctggtg
+            tccatgtggaggcaggtgcacagcagctggaatctgcccccaggccctttcccgcttccc
+            atcatcgggaacctcttccagttggaattgaagaatattcccaagtccttcacccggttg
+            gcccagcgcttcgggccggtgttcacgctgtacgtgggctcgcagcgcatggtggtgatg
+            cacggctacaaggcggtgaaggaagcgctgctggactacaaggacgagttctcgggcaga
+            ggcgacctccccgcgttccatgcgcacagggacaggggaatcatttttaataatggacct
+            acctggaaggacatccggcggttttccctgaccaccctccggaactatgggatggggaaa
+            cagggcaatgagagccggatccagagggaggcccacttcctgctggaagcactcaggaag
+            acccaaggccagcctttcgaccccaccttcctcatcggctgcgcgccctgcaacgtcata
+            gccgacatcctcttccgcaagcattttgactacaatgatgagaagtttctaaggctgatg
+            tatttgtttaatgagaacttccacctactcagcactccctggctccagctttacaataat
+            tttcccagctttctacactacttgcctggaagccacagaaaagtcataaaaaatgtggct
+            gaagtaaaagagtatgtgtctgaaagggtgaaggagcaccatcaatctctggaccccaac
+            tgtccccgggacctcaccgactgcctgctcgtggaaatggagaaggaaaagcacagtgca
+            gagcgcttgtacacaatggacggtatcaccgtgactgtggccgacctgttctttgcgggg
+            acagagaccaccagcacaactctgagatatgggctcctgattctcatgaaataccctgag
+            atcgaagagaagctccatgaagaaattgacagggtgattgggccaagccgaatccctgcc
+            atcaaggataggcaagagatgccctacatggatgctgtggtgcatgagattcagcggttc
+            atcaccctcgtgccctccaacctgccccatgaagcaacccgagacaccattttcagagga
+            tacctcatccccaagggcacagtcgtagtgccaactctggactctgttttgtatgacaac
+            caagaatttcctgatccagaaaagtttaagccagaacacttcctgaatgaaaatggaaag
+            ttcaagtacagtgactatttcaagccattttccacaggaaaacgagtgtgtgctggagaa
+            ggcctggctcgcatggagttgtttcttttgttgtgtgccattttgcagcattttaatttg
+            aagcctctcgttgacccaaaggatatcgacctcagccctatacatattgggtttggctgt
+            atcccaccacgttacaaactctgtgtcattccccgctcatga
+///

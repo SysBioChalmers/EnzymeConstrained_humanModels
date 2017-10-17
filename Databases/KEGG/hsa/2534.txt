@@ -1,0 +1,141 @@
+ENTRY       2534              CDS       T01001
+NAME        FYN, SLK, SYN, p59-FYN
+DEFINITION  (RefSeq) FYN proto-oncogene, Src family tyrosine kinase
+ORTHOLOGY   K05703  tyrosine-protein kinase Fyn [EC:2.7.10.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04360  Axon guidance
+            hsa04380  Osteoclast differentiation
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04611  Platelet activation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa05020  Prion diseases
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05162  Measles
+            hsa05416  Viral myocarditis
+DRUG_TARGET Dasatinib (DG00714): D03658 D06414
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                2534 (FYN)
+               04071 Sphingolipid signaling pathway
+                2534 (FYN)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                2534 (FYN)
+               04520 Adherens junction
+                2534 (FYN)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                2534 (FYN)
+               04650 Natural killer cell mediated cytotoxicity
+                2534 (FYN)
+               04660 T cell receptor signaling pathway
+                2534 (FYN)
+               04664 Fc epsilon RI signaling pathway
+                2534 (FYN)
+              Nervous system
+               04725 Cholinergic synapse
+                2534 (FYN)
+              Development
+               04360 Axon guidance
+                2534 (FYN)
+               04380 Osteoclast differentiation
+                2534 (FYN)
+             Human Diseases
+              Neurodegenerative diseases
+               05020 Prion diseases
+                2534 (FYN)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                2534 (FYN)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                2534 (FYN)
+               05162 Measles
+                2534 (FYN)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.2  non-specific protein-tyrosine kinase
+                 2534 (FYN)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Src family
+               2534 (FYN)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                2534 (FYN)
+             Endocytosis
+              Lipid raft mediated endocytosis
+               Flotillin-dependent endocytosis
+                2534 (FYN)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               CD2 family
+                CD48, BCM1; CD48 antigen [KO:K06479]
+                 2534 (FYN)
+POSITION    6q21
+MOTIF       Pfam: Pkinase_Tyr Pkinase SH2 SH3_1 SH3_9 SH3_2 Haspin_kinase SH3_3
+DBLINKS     NCBI-GeneID: 2534
+            NCBI-ProteinID: NP_002028
+            OMIM: 137025
+            HGNC: 4037
+            Ensembl: ENSG00000010810
+            Vega: OTTHUMG00000016305
+            Pharos: P06241(Tclin)
+            UniProt: P06241
+STRUCTURE   PDB: 4U1P 3UA7 4EIK 3H0H 3UA6 1SHF 4U17 4ZNX 3H0I 1FYN 1M27
+                 1EFN 4D8D 1G83 3H0F 2DQ7 1AVZ 2MRJ 2MRK 2MQI 1ZBJ 1A0N
+                 1AZG 1AOT 1AOU 1NYF 1NYG
+AASEQ       537
+            MGCVQCKDKEATKLTEERDGSLNQSSGYRYGTDPTPQHYPSFGVTSIPNYNNFHAAGGQG
+            LTVFGGVNSSSHTGTLRTRGGTGVTLFVALYDYEARTEDDLSFHKGEKFQILNSSEGDWW
+            EARSLTTGETGYIPSNYVAPVDSIQAEEWYFGKLGRKDAERQLLSFGNPRGTFLIRESET
+            TKGAYSLSIRDWDDMKGDHVKHYKIRKLDNGGYYITTRAQFETLQQLVQHYSERAAGLCC
+            RLVVPCHKGMPRLTDLSVKTKDVWEIPRESLQLIKRLGNGQFGEVWMGTWNGNTKVAIKT
+            LKPGTMSPESFLEEAQIMKKLKHDKLVQLYAVVSEEPIYIVTEYMNKGSLLDFLKDGEGR
+            ALKLPNLVDMAAQVAAGMAYIERMNYIHRDLRSANILVGNGLICKIADFGLARLIEDNEY
+            TARQGAKFPIKWTAPEAALYGRFTIKSDVWSFGILLTELVTKGRVPYPGMNNREVLEQVE
+            RGYRMPCPQDCPISLHELMIHCWKKDPEERPTFEYLQSFLEDYFTATEPQYQPGENL
+NTSEQ       1614
+            atgggctgtgtgcaatgtaaggataaagaagcaacaaaactgacggaggagagggacggc
+            agcctgaaccagagctctgggtaccgctatggcacagaccccacccctcagcactacccc
+            agcttcggtgtgacctccatccccaactacaacaacttccacgcagccgggggccaagga
+            ctcaccgtctttggaggtgtgaactcttcgtctcatacggggaccttgcgtacgagagga
+            ggaacaggagtgacactctttgtggccctttatgactatgaagcacggacagaagatgac
+            ctgagttttcacaaaggagaaaaatttcaaatattgaacagctcggaaggagattggtgg
+            gaagcccgctccttgacaactggagagacaggttacattcccagcaattatgtggctcca
+            gttgactctatccaggcagaagagtggtactttggaaaacttggccgaaaagatgctgag
+            cgacagctattgtcctttggaaacccaagaggtacctttcttatccgcgagagtgaaacc
+            accaaaggtgcctattcactttctatccgtgattgggatgatatgaaaggagaccatgtc
+            aaacattataaaattcgcaaacttgacaatggtggatactacattaccacccgggcccag
+            tttgaaacacttcagcagcttgtacaacattactcagagagagctgcaggtctctgctgc
+            cgcctagtagttccctgtcacaaagggatgccaaggcttaccgatctgtctgtcaaaacc
+            aaagatgtctgggaaatccctcgagaatccctgcagttgatcaagagactgggaaatggg
+            cagtttggggaagtatggatgggtacctggaatggaaacacaaaagtagccataaagact
+            cttaaaccaggcacaatgtcccccgaatcattccttgaggaagcgcagatcatgaagaag
+            ctgaagcacgacaagctggtccagctctatgcagtggtgtctgaggagcccatctacatc
+            gtcaccgagtatatgaacaaaggaagtttactggatttcttaaaagatggagaaggaaga
+            gctctgaaattaccaaatcttgtggacatggcagcacaggtggctgcaggaatggcttac
+            atcgagcgcatgaattatatccatagagatctgcgatcagcaaacattctagtggggaat
+            ggactcatatgcaagattgctgacttcggattggcccgattgatagaagacaatgagtac
+            acagcaagacaaggtgcaaagttccccatcaagtggacggcccccgaggcagccctgtac
+            gggaggttcacaatcaagtctgacgtgtggtcttttggaatcttactcacagagctggtc
+            accaaaggaagagtgccatacccaggcatgaacaaccgggaggtgctggagcaggtggag
+            cgaggctacaggatgccctgcccgcaggactgccccatctctctgcatgagctcatgatc
+            cactgctggaaaaaggaccctgaagaacgccccacttttgagtacttgcagagcttcctg
+            gaagactactttaccgcgacagagccccagtaccaacctggtgaaaacctgtaa
+///

@@ -1,0 +1,90 @@
+ENTRY       150094            CDS       T01001
+NAME        SIK1, MSK, SIK, SIK-1, SNF1LK
+DEFINITION  (RefSeq) salt inducible kinase 1
+ORTHOLOGY   K19008  serine/threonine-protein kinase SIK1 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04922  Glucagon signaling pathway
+DISEASE     H00606  Early infantile epileptic encephalopathy
+            H01819  Early myoclonic encephalopathy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                150094 (SIK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 150094 (SIK1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CAMK group
+              CAMKL family
+               150094 (SIK1)
+POSITION    21q22.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like Haspin_kinase Kdo
+DBLINKS     NCBI-GeneID: 150094
+            NCBI-ProteinID: NP_775490
+            OMIM: 605705
+            HGNC: 11142
+            Ensembl: ENSG00000142178
+            Vega: OTTHUMG00000086874
+            Pharos: P57059(Tchem)
+            UniProt: P57059
+AASEQ       783
+            MVIMSEFSADPAGQGQGQQKPLRVGFYDIERTLGKGNFAVVKLARHRVTKTQVAIKIIDK
+            TRLDSSNLEKIYREVQLMKLLNHPHIIKLYQVMETKDMLYIVTEFAKNGEMFDYLTSNGH
+            LSENEARKKFWQILSAVEYCHDHHIVHRDLKTENLLLDGNMDIKLADFGFGNFYKSGEPL
+            STWCGSPPYAAPEVFEGKEYEGPQLDIWSLGVVLYVLVCGSLPFDGPNLPTLRQRVLEGR
+            FRIPFFMSQDCESLIRRMLVVDPARRITIAQIRQHRWMRAEPCLPGPACPAFSAHSYTSN
+            LGDYDEQALGIMQTLGVDRQRTVESLQNSSYNHFAAIYYLLLERLKEYRNAQCARPGPAR
+            QPRPRSSDLSGLEVPQEGLSTDPFRPALLCPQPQTLVQSVLQAEMDCELQSSLQWPLFFP
+            VDASCSGVFRPRPVSPSSLLDTAISEEARQGPGLEEEQDTQESLPSSTGRRHTLAEVSTR
+            LSPLTAPCIVVSPSTTASPAEGTSSDSCLTFSASKSPAGLSGTPATQGLLGACSPVRLAS
+            PFLGSQSATPVLQAQGGLGGAVLLPVSFQEGRRASDTSLTQGLKAFRQQLRKTTRTKGFL
+            GLNKIKGLARQVCQAPASRASRGGLSPFHAPAQSPGLHGGAAGSREGWSLLEEVLEQQRL
+            LQLQHHPAAAPGCSQAPQPAPAPFVIAPCDGPGAAPLPSTLLTSGLPLLPPPLLQTGASP
+            VASAAQLLDTHLHIGTGPTALPAVPPPRLARLAPGCEPLGLLQGDCEMEDLMPCSLGTFV
+            LVQ
+NTSEQ       2352
+            atggttatcatgtcggagttcagcgcggaccccgcgggccagggtcagggccagcagaag
+            cccctccgggtgggtttttacgacatcgagcggaccctgggcaaaggcaacttcgcggtg
+            gtgaagctggcgcggcatcgagtcaccaaaacgcaggttgcaataaaaataattgataaa
+            acacgattagattcaagcaatttggagaaaatctatcgtgaggttcagctgatgaagctt
+            ctgaaccatccacacatcataaagctttaccaggttatggaaacaaaggacatgctttac
+            atcgtcactgaatttgctaaaaatggagaaatgtttgattatttgacttccaacgggcac
+            ctgagtgagaacgaggcgcggaagaagttctggcaaatcctgtcggccgtggagtactgt
+            cacgaccatcacatcgtccaccgggacctcaagaccgagaacctcctgctggatggcaac
+            atggacatcaagctggcagattttggatttgggaatttctacaagtcaggagagcctctg
+            tccacgtggtgtgggagccccccgtatgccgccccggaagtctttgaggggaaggagtat
+            gaaggcccccagctggacatctggagcctgggcgtggtgctgtacgtcctggtctgcggt
+            tctctccccttcgatgggcctaacctgccgacgctgagacagcgggtgctggagggccgc
+            ttccgcatccccttcttcatgtctcaagactgtgagagcctgatccgccgcatgctggtg
+            gtggaccccgccaggcgcatcaccatcgcccagatccggcagcaccggtggatgcgggct
+            gagccctgcttgccgggacccgcctgccccgccttctccgcacacagctacacctccaac
+            ctgggcgactacgatgagcaggcgctgggtatcatgcagaccctgggcgtggaccggcag
+            aggacggtggagtcactgcaaaacagcagctataaccactttgctgccatttattacctc
+            ctccttgagcggctcaaggagtatcggaatgcccagtgcgcccgccccgggcctgccagg
+            cagccgcggcctcggagctcggacctcagtggtttggaggtgcctcaggaaggtctttcc
+            accgaccctttccgacctgccttgctgtgcccgcagccgcagaccttggtgcagtccgtc
+            ctccaggccgagatggactgtgagctccagagctcgctgcagtggcccttgttcttcccg
+            gtggatgccagctgcagcggagtgttccggccccggcccgtgtccccaagcagcctgctg
+            gacacagccatcagtgaggaggccaggcaggggccgggcctagaggaggagcaggacacg
+            caggagtccctgcccagcagcacgggccggaggcacaccctggccgaggtctccacccgc
+            ctctccccactcaccgcgccatgtatagtcgtctccccctccaccacggcaagtcctgca
+            gagggaaccagctctgacagttgtctgaccttctctgcgagcaaaagccccgcggggctc
+            agtggcaccccggccactcaggggctgctgggcgcctgctccccggtcaggctggcctcg
+            cccttcctggggtcgcagtccgccaccccagtgctgcaggctcaggggggcttgggagga
+            gctgttctgctccctgtcagcttccaggagggacggcgggcgtcggacacctcactgact
+            caagggctgaaggcctttcggcagcagctgaggaagaccacgcggaccaaagggtttctg
+            ggactgaacaaaatcaaggggctggctcgccaggtgtgccaggcccccgccagccgggcc
+            agcaggggcggcctgagccccttccacgcccctgcacagagcccaggcctgcacggcggc
+            gcagccggcagccgggagggctggagcctgctggaggaggtgctagagcagcagaggctg
+            ctccagttacagcaccacccggccgctgcacccggctgctcccaggccccccagccggcc
+            cctgccccgtttgtgatcgccccctgtgatggccctggggctgccccgctccccagcacc
+            ctcctcacgtcggggctcccgctgctgccgcccccactcctgcagaccggcgcgtccccg
+            gtggcctcagcggcgcagctcctggacacacacctgcacattggcaccggccccaccgcc
+            ctccccgctgtgcccccaccacgcctggccaggctggccccaggttgtgagcccctgggg
+            ctgctgcagggggactgtgagatggaggacctgatgccctgctccctaggcacgtttgtc
+            ctggtgcagtga
+///

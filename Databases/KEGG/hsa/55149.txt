@@ -1,0 +1,71 @@
+ENTRY       55149             CDS       T01001
+NAME        MTPAP, PAPD1, SPAX4
+DEFINITION  (RefSeq) mitochondrial poly(A) polymerase
+ORTHOLOGY   K18060  poly(A) RNA polymerase, mitochondrial [EC:2.7.7.19]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H01351  Spastic ataxia (SPAX)
+BRITE       Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.19  polynucleotide adenylyltransferase
+                 55149 (MTPAP)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                55149 (MTPAP)
+POSITION    10p11.23
+MOTIF       Pfam: PAP_assoc tRNA_NucTransf2 Nrap_D2
+DBLINKS     NCBI-GeneID: 55149
+            NCBI-ProteinID: NP_060579
+            OMIM: 613669
+            HGNC: 25532
+            Ensembl: ENSG00000107951
+            Vega: OTTHUMG00000017895
+            Pharos: Q9NVV4(Tbio)
+            UniProt: Q9NVV4
+STRUCTURE   PDB: 3PQ1
+AASEQ       582
+            MAVPGVGLLTRLNLCARRRTRVQRPIVRLLSCPGTVAKDLRRDEQPSGSVETGFEDKIPK
+            RRFSEMQNERREQAQRTVLIHCPEKISENKFLKYLSQFGPINNHFFYESFGLYAVVEFCQ
+            KESIGSLQNGTHTPSTAMETAIPFRSRFFNLKLKNQTSERSRVRSSNQLPRSNKQLFELL
+            CYAESIDDQLNTLLKEFQLTEENTKLRYLTCSLIEDMAAAYFPDCIVRPFGSSVNTFGKL
+            GCDLDMFLDLDETRNLSAHKISGNFLMEFQVKNVPSERIATQKILSVLGECLDHFGPGCV
+            GVQKILNARCPLVRFSHQASGFQCDLTTNNRIALTSSELLYIYGALDSRVRALVFSVRCW
+            ARAHSLTSSIPGAWITNFSLTMMVIFFLQRRSPPILPTLDSLKTLADAEDKCVIEGNNCT
+            FVRDLSRIKPSQNTETLELLLKEFFEYFGNFAFDKNSINIRQGREQNKPDSSPLYIQNPF
+            ETSLNISKNVSQSQLQKFVDLARESAWILQQEDTDRPSISSNRPWGLVSLLLPSAPNRKS
+            FTKKKSNKFAIETVKNLLESLKGNRTENFTKTSGKRTISTQT
+NTSEQ       1749
+            atggcggttcccggcgtggggctcttgacccgtttgaacctgtgtgcccggagaagaact
+            cgagtccagcggcctatcgtcaggcttttgagttgcccaggaactgtggccaaagacctt
+            aggagagacgagcagccttcagggagcgtggagacaggctttgaagacaagattcccaaa
+            aggagattctctgagatgcaaaatgaaagacgagaacaggcacagcggactgttttaata
+            cattgcccagagaaaatcagtgaaaacaagtttcttaaatatttatcccaatttggacct
+            attaataatcatttcttctatgaaagctttggtctctatgctgtcgtagaattttgccaa
+            aaggaaagcataggttcactgcagaatgggactcatactccaagcacggccatggagact
+            gcaattccattcagatcacgtttcttcaatctgaagttgaaaaaccagacttctgaacgg
+            tcacgcgtacggtcaagtaatcagttgccacgttcaaacaagcagctttttgaattactt
+            tgttatgcagaaagtatagacgatcagctgaacactctcttgaaggagttccagctaaca
+            gaggagaacactaagctccgatatctcacctgttctcttattgaagacatggccgccgcg
+            tattttccagactgcatagtcagaccctttggctcctcagtcaacacttttgggaagtta
+            ggatgtgatttggacatgtttttggatctagatgaaaccagaaacctcagcgctcacaag
+            atctcaggaaattttctgatggaatttcaagtgaaaaatgttccttcagaaagaattgca
+            actcagaagatcctgtctgtgttaggagagtgccttgaccactttggccctggctgtgtg
+            ggtgtgcaaaaaatattaaatgcccggtgtccgctcgtgaggttctcacaccaggcctcc
+            ggatttcagtgtgatttgactacgaacaataggattgccttgacaagttccgaactcctt
+            tatatatatggtgccctagactcaagagtgagagccttggtgttcagtgtacggtgctgg
+            gctcgagcacattcactaacaagtagtattcctggtgcatggattacaaatttctccctt
+            acaatgatggtcatcttttttctccagagaagatcaccccctattcttccaacactagat
+            tccttaaaaaccctagcagatgcagaagataaatgtgtaatagaaggcaacaactgcaca
+            tttgttcgtgacttgagtagaattaaaccttcacagaacacagaaacattagaattacta
+            ctgaaggaattttttgagtattttggcaattttgctttcgataaaaattccataaatatt
+            cgacagggaagggagcaaaacaaacctgattcttctcctctgtacattcagaatccattt
+            gaaacttctctcaacataagcaaaaatgtaagtcaaagccagctgcaaaaatttgtagat
+            ttggcccgagaaagtgcctggattttacaacaggaagatacagatcgaccttccatatca
+            agtaatcggccctgggggctggtatccctattgctaccatctgctccaaacagaaagtcc
+            tttaccaagaagaaaagcaataagtttgcaattgaaacagtcaaaaacttgctagaatct
+            ttaaaaggtaacagaacagaaaatttcacaaaaaccagtgggaagagaacaattagtact
+            cagacatga
+///

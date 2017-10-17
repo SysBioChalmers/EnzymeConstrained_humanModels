@@ -1,0 +1,114 @@
+ENTRY       8737              CDS       T01001
+NAME        RIPK1, RIP, RIP-1, RIP1
+DEFINITION  (RefSeq) receptor interacting serine/threonine kinase 1
+ORTHOLOGY   K02861  receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04210  Apoptosis
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04668  TNF signaling pathway
+            hsa05160  Hepatitis C
+            hsa05169  Epstein-Barr virus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                8737 (RIPK1)
+               04668 TNF signaling pathway
+                8737 (RIPK1)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                8737 (RIPK1)
+               04217 Necroptosis
+                8737 (RIPK1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                8737 (RIPK1)
+               04621 NOD-like receptor signaling pathway
+                8737 (RIPK1)
+               04622 RIG-I-like receptor signaling pathway
+                8737 (RIPK1)
+               04623 Cytosolic DNA-sensing pathway
+                8737 (RIPK1)
+             Human Diseases
+              Infectious diseases
+               05160 Hepatitis C
+                8737 (RIPK1)
+               05169 Epstein-Barr virus infection
+                8737 (RIPK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 8737 (RIPK1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              RIPK family [OT]
+               8737 (RIPK1)
+POSITION    6p25.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase Death RHIM Kinase-like RIO1 Kdo
+DBLINKS     NCBI-GeneID: 8737
+            NCBI-ProteinID: NP_003795
+            OMIM: 603453
+            HGNC: 10019
+            Ensembl: ENSG00000137275
+            Vega: OTTHUMG00000014134
+            Pharos: Q13546(Tchem)
+            UniProt: Q13546 A0A024QZU0
+STRUCTURE   PDB: 4ITJ 5HX6 4ITH 5TX5 4NEU 4ITI
+AASEQ       671
+            MQPDMSLNVIKMKSSDFLESAELDSGGFGKVSLCFHRTQGLMIMKTVYKGPNCIEHNEAL
+            LEEAKMMNRLRHSRVVKLLGVIIEEGKYSLVMEYMEKGNLMHVLKAEMSTPLSVKGRIIL
+            EIIEGMCYLHGKGVIHKDLKPENILVDNDFHIKIADLGLASFKMWSKLNNEEHNELREVD
+            GTAKKNGGTLYYMAPEHLNDVNAKPTEKSDVYSFAVVLWAIFANKEPYENAICEQQLIMC
+            IKSGNRPDVDDITEYCPREIISLMKLCWEANPEARPTFPGIEEKFRPFYLSQLEESVEED
+            VKSLKKEYSNENAVVKRMQSLQLDCVAVPSSRSNSATEQPGSLHSSQGLGMGPVEESWFA
+            PSLEHPQEENEPSLQSKLQDEANYHLYGSRMDRQTKQQPRQNVAYNREEERRRRVSHDPF
+            AQQRPYENFQNTEGKGTAYSSAASHGNAVHQPSGLTSQPQVLYQNNGLYSSHGFGTRPLD
+            PGTAGPRVWYRPIPSHMPSLHNIPVPETNYLGNTPTMPFSSLPPTDESIKYTIYNSTGIQ
+            IGAYNYMEIGGTSSSLLDSTNTNFKEEPAAKYQAIFDNTTSLTDKHLDPIRENLGKHWKN
+            CARKLGFTQSQIDEIDHDYERDGLKEKVYQMLQKWVMREGIKGATVGKLAQALHQCSRID
+            LLSSLIYVSQN
+NTSEQ       2016
+            atgcaaccagacatgtccttgaatgtcattaagatgaaatccagtgacttcctggagagt
+            gcagaactggacagcggaggctttgggaaggtgtctctgtgtttccacagaacccaggga
+            ctcatgatcatgaaaacagtgtacaaggggcccaactgcattgagcacaacgaggccctc
+            ttggaggaggcgaagatgatgaacagactgagacacagccgggtggtgaagctcctgggc
+            gtcatcatagaggaagggaagtactccctggtgatggagtacatggagaagggcaacctg
+            atgcacgtgctgaaagccgagatgagtactccgctttctgtaaaaggaaggataattttg
+            gaaatcattgaaggaatgtgctacttacatggaaaaggcgtgatacacaaggacctgaag
+            cctgaaaatatccttgttgataatgacttccacattaagatcgcagacctcggccttgcc
+            tcctttaagatgtggagcaaactgaataatgaagagcacaatgagctgagggaagtggac
+            ggcaccgctaagaagaatggcggcaccctctactacatggcgcccgagcacctgaatgac
+            gtcaacgcaaagcccacagagaagtcggatgtgtacagctttgctgtagtactctgggcg
+            atatttgcaaataaggagccatatgaaaatgctatctgtgagcagcagttgataatgtgc
+            ataaaatctgggaacaggccagatgtggatgacatcactgagtactgcccaagagaaatt
+            atcagtctcatgaagctctgctgggaagcgaatccggaagctcggccgacatttcctggc
+            attgaagaaaaatttaggcctttttatttaagtcaattagaagaaagtgtagaagaggac
+            gtgaagagtttaaagaaagagtattcaaacgaaaatgcagttgtgaagagaatgcagtct
+            cttcaacttgattgtgtggcagtaccttcaagccggtcaaattcagccacagaacagcct
+            ggttcactgcacagttcccagggacttgggatgggtcctgtggaggagtcctggtttgct
+            ccttccctggagcacccacaagaagagaatgagcccagcctgcagagtaaactccaagac
+            gaagccaactaccatctttatggcagccgcatggacaggcagacgaaacagcagcccaga
+            cagaatgtggcttacaacagagaggaggaaaggagacgcagggtctcccatgaccctttt
+            gcacagcaaagaccttacgagaattttcagaatacagagggaaaaggcactgcttattcc
+            agtgcagccagtcatggtaatgcagtgcaccagccctcagggctcaccagccaacctcaa
+            gtactgtatcagaacaatggattatatagctcacatggctttggaacaagaccactggat
+            ccaggaacagcaggtcccagagtttggtacaggccaattccaagtcatatgcctagtctg
+            cataatatcccagtgcctgagaccaactatctaggaaatacacccaccatgccattcagc
+            tccttgccaccaacagatgaatctataaaatataccatatacaatagtactggcattcag
+            attggagcctacaattatatggagattggtgggacgagttcatcactactagacagcaca
+            aatacgaacttcaaagaagagccagctgctaagtaccaagctatctttgataataccact
+            agtctgacggataaacacctggacccaatcagggaaaatctgggaaagcactggaaaaac
+            tgtgcccgtaaactgggcttcacacagtctcagattgatgaaattgaccatgactatgag
+            cgagatggactgaaagaaaaggtttaccagatgctccaaaagtgggtgatgagggaaggc
+            ataaagggagccacggtggggaagctggcccaggcgctccaccagtgttccaggatcgac
+            cttctgagcagcttgatttacgtcagccagaactaa
+///

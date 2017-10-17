@@ -1,0 +1,196 @@
+ENTRY       2932              CDS       T01001
+NAME        GSK3B
+DEFINITION  (RefSeq) glycogen synthase kinase 3 beta
+ORTHOLOGY   K03083  glycogen synthase kinase 3 beta [EC:2.7.11.26]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04012  ErbB signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04110  Cell cycle
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04360  Axon guidance
+            hsa04390  Hippo signaling pathway
+            hsa04510  Focal adhesion
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04657  IL-17 signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04728  Dopaminergic synapse
+            hsa04910  Insulin signaling pathway
+            hsa04916  Melanogenesis
+            hsa04917  Prolactin signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05160  Hepatitis C
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05213  Endometrial cancer
+            hsa05215  Prostate cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                2932 (GSK3B)
+               04310 Wnt signaling pathway
+                2932 (GSK3B)
+               04340 Hedgehog signaling pathway
+                2932 (GSK3B)
+               04390 Hippo signaling pathway
+                2932 (GSK3B)
+               04151 PI3K-Akt signaling pathway
+                2932 (GSK3B)
+               04150 mTOR signaling pathway
+                2932 (GSK3B)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                2932 (GSK3B)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                2932 (GSK3B)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                2932 (GSK3B)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                2932 (GSK3B)
+               04657 IL-17 signaling pathway
+                2932 (GSK3B)
+               04662 B cell receptor signaling pathway
+                2932 (GSK3B)
+               04062 Chemokine signaling pathway
+                2932 (GSK3B)
+              Endocrine system
+               04910 Insulin signaling pathway
+                2932 (GSK3B)
+               04917 Prolactin signaling pathway
+                2932 (GSK3B)
+               04919 Thyroid hormone signaling pathway
+                2932 (GSK3B)
+               04916 Melanogenesis
+                2932 (GSK3B)
+              Nervous system
+               04728 Dopaminergic synapse
+                2932 (GSK3B)
+               04722 Neurotrophin signaling pathway
+                2932 (GSK3B)
+              Development
+               04360 Axon guidance
+                2932 (GSK3B)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2932 (GSK3B)
+               05210 Colorectal cancer
+                2932 (GSK3B)
+               05217 Basal cell carcinoma
+                2932 (GSK3B)
+               05215 Prostate cancer
+                2932 (GSK3B)
+               05213 Endometrial cancer
+                2932 (GSK3B)
+               05224 Breast cancer
+                2932 (GSK3B)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                2932 (GSK3B)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                2932 (GSK3B)
+               04931 Insulin resistance
+                2932 (GSK3B)
+              Infectious diseases
+               05166 HTLV-I infection
+                2932 (GSK3B)
+               05162 Measles
+                2932 (GSK3B)
+               05164 Influenza A
+                2932 (GSK3B)
+               05160 Hepatitis C
+                2932 (GSK3B)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                2932 (GSK3B)
+               05169 Epstein-Barr virus infection
+                2932 (GSK3B)
+               05165 Human papillomavirus infection
+                2932 (GSK3B)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                2932 (GSK3B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.26  tau-protein kinase
+                 2932 (GSK3B)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CMGC group
+              GSK family [OT]
+               2932 (GSK3B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Kinases and associated factors
+                2932 (GSK3B)
+POSITION    3q13.33
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like APH Kdo ABC1
+DBLINKS     NCBI-GeneID: 2932
+            NCBI-ProteinID: NP_001139628
+            OMIM: 605004
+            HGNC: 4617
+            Ensembl: ENSG00000082701
+            Vega: OTTHUMG00000133765
+            Pharos: P49841(Tclin)
+            UniProt: P49841 Q6FI27
+STRUCTURE   PDB: 1J1B 1Q5K 4AFJ 4PTE 4NM3 1Q41 1J1C 5K5N 3DU8 1Q3D 4ACC
+                 3SAY 1R0E 4NM5 4NM7 3I4B 1Q3W 4J71 2JLD 4PTG 3ZRK 3GB2
+                 3F7Z 1PYX 1O9U 5HLP 3ZRL 3ZRM 4NM0 5F94 5F95 4DIT 4ACD
+                 4ACG 4ACH 3F88 3ZDI 4J1R 3SD0 3Q3B 1I09 4PTC 4B7T 1Q4L
+                 2OW3 1UV5 3L1S 3PUP 5HLN 4IQ6 3M1S 2O5K 1GNG 1H8F
+AASEQ       420
+            MSGRPRTTSFAESCKPVQQPSAFGSMKVSRDKDGSKVTTVVATPGQGPDRPQEVSYTDTK
+            VIGNGSFGVVYQAKLCDSGELVAIKKVLQDKRFKNRELQIMRKLDHCNIVRLRYFFYSSG
+            EKKDEVYLNLVLDYVPETVYRVARHYSRAKQTLPVIYVKLYMYQLFRSLAYIHSFGICHR
+            DIKPQNLLLDPDTAVLKLCDFGSAKQLVRGEPNVSYICSRYYRAPELIFGATDYTSSIDV
+            WSAGCVLAELLLGQPIFPGDSGVDQLVEIIKVLGTPTREQIREMNPNYTEFKFPQIKAHP
+            WTKVFRPRTPPEAIALCSRLLEYTPTARLTPLEACAHSFFDELRDPNVKLPNGRDTPALF
+            NFTTQELSSNPPLATILIPPHARIQAAASTPTNATAASDANTGDRGQTNNAASASASNST
+NTSEQ       1263
+            atgtcagggcggcccagaaccacctcctttgcggagagctgcaagccggtgcagcagcct
+            tcagcttttggcagcatgaaagttagcagagacaaggacggcagcaaggtgacaacagtg
+            gtggcaactcctgggcagggtccagacaggccacaagaagtcagctatacagacactaaa
+            gtgattggaaatggatcatttggtgtggtatatcaagccaaactttgtgattcaggagaa
+            ctggtcgccatcaagaaagtattgcaggacaagagatttaagaatcgagagctccagatc
+            atgagaaagctagatcactgtaacatagtccgattgcgttatttcttctactccagtggt
+            gagaagaaagatgaggtctatcttaatctggtgctggactatgttccggaaacagtatac
+            agagttgccagacactatagtcgagccaaacagacgctccctgtgatttatgtcaagttg
+            tatatgtatcagctgttccgaagtttagcctatatccattcctttggaatctgccatcgg
+            gatattaaaccgcagaacctcttgttggatcctgatactgctgtattaaaactctgtgac
+            tttggaagtgcaaagcagctggtccgaggagaacccaatgtttcgtatatctgttctcgg
+            tactatagggcaccagagttgatctttggagccactgattatacctctagtatagatgta
+            tggtctgctggctgtgtgttggctgagctgttactaggacaaccaatatttccaggggat
+            agtggtgtggatcagttggtagaaataatcaaggtcctgggaactccaacaagggagcaa
+            atcagagaaatgaacccaaactacacagaatttaaattccctcaaattaaggcacatcct
+            tggactaaggtcttccgaccccgaactccaccggaggcaattgcactgtgtagccgtctg
+            ctggagtatacaccaactgcccgactaacaccactggaagcttgtgcacattcatttttt
+            gatgaattacgggacccaaatgtcaaactaccaaatgggcgagacacacctgcactcttc
+            aacttcaccactcaagaactgtcaagtaatccacctctggctaccatccttattcctcct
+            catgctcggattcaagcagctgcttcaacccccacaaatgccacagcagcgtcagatgct
+            aatactggagaccgtggacagaccaataatgctgcttctgcatcagcttccaactccacc
+            tga
+///

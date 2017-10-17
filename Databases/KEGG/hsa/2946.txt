@@ -1,0 +1,70 @@
+ENTRY       2946              CDS       T01001
+NAME        GSTM2, GST4, GSTM, GSTM2-2, GTHMUS
+DEFINITION  (RefSeq) glutathione S-transferase mu 2
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2946 (GSTM2)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                2946 (GSTM2)
+               00982 Drug metabolism - cytochrome P450
+                2946 (GSTM2)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                2946 (GSTM2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                2946 (GSTM2)
+              Drug resistance
+               01524 Platinum drug resistance
+                2946 (GSTM2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 2946 (GSTM2)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               2946 (GSTM2)
+POSITION    1p13.3
+MOTIF       Pfam: GST_N GST_C GST_C_3 GST_C_6 GST_C_2 GST_N_3 DUF4414 GST_N_2 Bromo_TP
+DBLINKS     NCBI-GeneID: 2946
+            NCBI-ProteinID: NP_000839
+            OMIM: 138380
+            HGNC: 4634
+            Ensembl: ENSG00000213366
+            Vega: OTTHUMG00000011638
+            Pharos: P28161(Tchem)
+            UniProt: P28161 Q0D2I8
+STRUCTURE   PDB: 2C4J 1XW5 1HNA 1YKC 3GUR 2AB6 2GTU 3GTU 1HNC 1HNB
+AASEQ       218
+            MPMTLGYWNIRGLAHSIRLLLEYTDSSYEEKKYTMGDAPDYDRSQWLNEKFKLGLDFPNL
+            PYLIDGTHKITQSNAILRYIARKHNLCGESEKEQIREDILENQFMDSRMQLAKLCYDPDF
+            EKLKPEYLQALPEMLKLYSQFLGKQPWFLGDKITFVDFIAYDVLERNQVFEPSCLDAFPN
+            LKDFISRFEGLEKISAYMKSSRFLPRPVFTKMAVWGNK
+NTSEQ       657
+            atgcccatgacactggggtactggaacatccgcgggctggcccattccatccgcctgctc
+            ctggaatacacagactcaagctacgaggaaaagaagtacacgatgggggacgctcctgat
+            tatgacagaagccagtggctgaatgaaaaattcaagctgggcctggactttcccaatctg
+            ccctacttgattgatgggactcacaagatcacccagagcaacgccatcctgcggtacatt
+            gcccgcaagcacaacctgtgcggggaatcagaaaaggagcagattcgcgaagacattttg
+            gagaaccagtttatggacagccgtatgcagctggccaaactctgctatgacccagatttt
+            gagaaactgaaaccagaatacctgcaggcactccctgaaatgctgaagctctactcacag
+            tttctggggaagcagccatggtttcttggggacaagatcacctttgtggatttcatcgct
+            tatgatgtccttgagagaaaccaagtatttgagcccagctgcctggatgccttcccaaac
+            ctgaaggacttcatctcccgatttgagggcttggagaagatctctgcctacatgaagtcc
+            agccgcttcctcccaagacctgtgttcacaaagatggctgtctggggcaacaagtag
+///

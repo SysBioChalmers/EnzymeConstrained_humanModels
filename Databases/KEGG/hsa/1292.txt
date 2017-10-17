@@ -1,0 +1,133 @@
+ENTRY       1292              CDS       T01001
+NAME        COL6A2, BTHLM1, PP3610, UCMD1
+DEFINITION  (RefSeq) collagen type VI alpha 2 chain
+ORTHOLOGY   K06238  collagen, type VI, alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04974  Protein digestion and absorption
+            hsa05165  Human papillomavirus infection
+DISEASE     H00590  Congenital muscular dystrophies (CMD/MDC)
+            H01338  Myosclerosis
+            H01340  Bethlem myopathy
+            H01341  Collagen VI myopathy
+            H01778  Ullrich disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                1292 (COL6A2)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                1292 (COL6A2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                1292 (COL6A2)
+             Organismal Systems
+              Digestive system
+               04974 Protein digestion and absorption
+                1292 (COL6A2)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                1292 (COL6A2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               1292 (COL6A2)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               alpha 10 beta 1
+                ITGB1; integrin beta 1 [KO:K05719]
+                 1292 (COL6A2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Extracellular matrix molecules	(General comment) Storage depot, cell adhesion and motility, ECM/barrier formation
+               1292 (COL6A2)
+             Hyaluronan
+              Extracellular matrix or blood plasma proteins
+               1292 (COL6A2)
+POSITION    21q22.3
+MOTIF       Pfam: VWA Collagen VWA_2 VWA_3 ParE-like_toxin
+DBLINKS     NCBI-GeneID: 1292
+            NCBI-ProteinID: NP_001840
+            OMIM: 120240
+            HGNC: 2212
+            Ensembl: ENSG00000142173
+            Vega: OTTHUMG00000090489
+            Pharos: P12110(Tbio)
+            UniProt: P12110
+AASEQ       1019
+            MLQGTCSVLLLWGILGAIQAQQQEVISPDTTERNNNCPEKTDCPIHVYFVLDTSESVTMQ
+            SPTDILLFHMKQFVPQFISQLQNEFYLDQVALSWRYGGLHFSDQVEVFSPPGSDRASFIK
+            NLQGISSFRRGTFTDCALANMTEQIRQDRSKGTVHFAVVITDGHVTGSPCGGIKLQAERA
+            REEGIRLFAVAPNQNLKEQGLRDIASTPHELYRNDYATMLPDSTEIDQDTINRIIKVMKH
+            EAYGECYKVSCLEIPGPSGPKGYRGQKGAKGNMGEPGEPGQKGRQGDPGIEGPIGFPGPK
+            GVPGFKGEKGEFGADGRKGAPGLAGKNGTDGQKGKLGRIGPPGCKGDPGNRGPDGYPGEA
+            GSPGERGDQGGKGDPGRPGRRGPPGEIGAKGSKGYQGNSGAPGSPGVKGAKGGPGPRGPK
+            GEPGRRGDPGTKGSPGSDGPKGEKGDPGPEGPRGLAGEVGNKGAKGDRGLPGPRGPQGAL
+            GEPGKQGSRGDPGDAGPRGDSGQPGPKGDPGRPGFSYPGPRGAPGEKGEPGPRGPEGGRG
+            DFGLKGEPGRKGEKGEPADPGPPGEPGPRGPRGVPGPEGEPGPPGDPGLTECDVMTYVRE
+            TCGCCDCEKRCGALDVVFVIDSSESIGYTNFTLEKNFVINVVNRLGAIAKDPKSETGTRV
+            GVVQYSHEGTFEAIQLDDERIDSLSSFKEAVKNLEWIAGGTWTPSALKFAYDRLIKESRR
+            QKTRVFAVVITDGRHDPRDDDLNLRALCDRDVTVTAIGIGDMFHEKHESENLYSIACDKP
+            QQVRNMTLFSDLVAEKFIDDMEDVLCPDPQIVCPDLPCQTELSVAQCTQRPVDIVFLLDG
+            SERLGEQNFHKARRFVEQVARRLTLARRDDDPLNARVALLQFGGPGEQQVAFPLSHNLTA
+            IHEALETTQYLNSFSHVGAGVVHAINAIVRSPRGGARRHAELSFVFLTDGVTGNDSLHES
+            AHSMRKQNVVPTVLALGSDVDMDVLTTLSLGDRAAVFHEKDYDSLAQPGFFDRFIRWIC
+NTSEQ       3060
+            atgctccagggcacctgctccgtgctcctgctctggggaatcctgggggccatccaggcc
+            cagcagcaggaggtcatctcgccggacactaccgagagaaacaacaactgcccagagaag
+            accgactgccccatccacgtgtacttcgtgctggacacctcggagagcgtcaccatgcag
+            tcccccacggacatcctgctcttccacatgaagcagttcgtgccgcagttcatcagccag
+            ctgcagaacgagttctacctggaccaggtggcgctgagctggcgctacggcggcctgcac
+            ttctctgaccaggtggaggtgttcagcccaccgggcagcgaccgggcctccttcatcaag
+            aacctgcagggcatcagctccttccgccgcggcaccttcaccgactgcgcgctggccaac
+            atgacggagcagatccggcaggaccgcagcaagggcaccgtccacttcgccgtggtcatc
+            accgacggccacgtcaccggcagcccctgcgggggcatcaagctgcaggccgagcgggcc
+            cgcgaggagggcatccggctcttcgccgtggcccccaaccagaacctgaaggagcagggc
+            ctgcgggacatcgccagcacgccgcacgagctctaccgcaacgactacgccaccatgctg
+            cccgactccaccgagatcgaccaggacaccatcaaccgcatcatcaaggtcatgaaacac
+            gaagcctacggagagtgctacaaggtgagctgcctggaaatccctgggccctctggcccc
+            aagggctaccgtggacagaagggtgccaagggcaacatgggtgagccgggagagcctggc
+            cagaagggaagacagggagacccgggcatcgaaggccccattggattcccaggacccaag
+            ggcgttcctggcttcaaaggagagaagggtgaatttggagccgacggtcgcaagggggcc
+            cctggcctggctggcaagaacgggaccgatggacagaagggcaagctggggcgcatcgga
+            cctcctggctgcaagggagaccctggaaaccggggccccgacggttacccgggggaagca
+            gggagtccaggggagcgaggagaccaaggcggcaagggggaccctggccgcccaggacgc
+            agagggcccccgggagaaatcggggccaagggaagcaaggggtatcaaggcaacagtgga
+            gccccaggaagtcctggtgtgaaaggagccaagggcgggcctgggccccgcggacccaaa
+            ggcgagccggggcgcaggggagaccccggcaccaagggcagcccaggcagcgatggcccc
+            aagggggagaagggggaccctggccctgaggggccccgcggcctggctggagaggttggc
+            aacaaaggagccaagggagaccgaggcttgcctggacccagaggcccccagggagctctt
+            ggggagcccggaaagcagggatctcggggagaccccggtgatgcaggaccccgtggagac
+            tcaggacagccaggccccaagggagaccccggcaggcctggattcagctacccaggaccc
+            cgaggagcacccggagaaaaaggcgagcccggcccacgcggccccgagggaggccgaggc
+            gactttggcttgaaaggagaacctgggaggaaaggagagaaaggagagcctgcggatcct
+            ggtccccctggtgagccaggccctcgggggccaagaggagtcccaggacccgagggtgag
+            cccggcccccctggagaccccggtctcacggagtgtgacgtcatgacctacgtgagggag
+            acctgcgggtgctgcgactgtgagaagcgctgtggcgccctggacgtggtcttcgtcatc
+            gacagctccgagagcattgggtacaccaacttcacactggagaagaacttcgtcatcaac
+            gtggtcaacaggctgggtgccatcgctaaggaccccaagtccgagacagggacgcgtgtg
+            ggcgtggtgcagtacagccacgagggcacctttgaggccatccagctggacgacgaacgt
+            atcgactccctgtcgagcttcaaggaggctgtcaagaacctcgagtggattgcgggcggc
+            acctggacaccctcagccctcaagtttgcctacgaccgcctcatcaaggagagccggcgc
+            cagaagacacgtgtgtttgcggtggtcatcacggacgggcgccacgaccctcgggacgat
+            gacctcaacttgcgggcgctgtgcgaccgcgacgtcacagtgacggccatcggcatcggg
+            gacatgttccacgagaagcacgagagtgaaaacctctactccatcgcctgcgacaagcca
+            cagcaggtgcgcaacatgacgctgttctccgacctggtcgctgagaagttcatcgatgac
+            atggaggacgtcctctgcccggaccctcagatcgtgtgcccagaccttccctgccaaaca
+            gagctgtccgtggcacagtgcacgcagcggcccgtggacatcgtcttcctgctggacggc
+            tccgagcggctgggtgagcagaacttccacaaggcccggcgcttcgtggagcaggtggcg
+            cggcggctgacgctggcccggagggacgacgaccctctcaacgcacgcgtggcgctgctg
+            cagtttggtggccccggcgagcagcaggtggccttcccgctgagccacaacctcacggcc
+            atccacgaggcgctggagaccacacaatacctgaactccttctcgcacgtgggcgcaggc
+            gtggtgcacgccatcaatgccatcgtgcgcagcccgcgtggcggggcccggaggcacgca
+            gagctgtccttcgtgttcctcacggacggcgtcacgggcaacgacagtctgcacgagtcg
+            gcgcactccatgcgcaagcagaacgtggtacccaccgtgctggccttgggcagcgacgtg
+            gacatggacgtgctcaccacgctcagcctgggtgaccgcgccgccgtgttccacgagaag
+            gactatgacagcctggcgcaacccggcttcttcgaccgcttcatccgctggatctgctag
+///

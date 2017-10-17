@@ -1,0 +1,94 @@
+ENTRY       55157             CDS       T01001
+NAME        DARS2, ASPRS, LBSL, MT-ASPRS
+DEFINITION  (RefSeq) aspartyl-tRNA synthetase 2, mitochondrial
+ORTHOLOGY   K01876  aspartyl-tRNA synthetase [EC:6.1.1.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+DISEASE     H00871  Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation (LBSL)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                55157 (DARS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.12  aspartate---tRNA ligase
+                 55157 (DARS2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               55157 (DARS2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                55157 (DARS2)
+             Prokaryotic Type
+               Other AARSs
+                55157 (DARS2)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                55157 (DARS2)
+POSITION    1q25.1
+MOTIF       Pfam: tRNA-synt_2 GAD tRNA_anti-codon
+DBLINKS     NCBI-GeneID: 55157
+            NCBI-ProteinID: NP_060592
+            OMIM: 610956
+            HGNC: 25538
+            Ensembl: ENSG00000117593
+            Vega: OTTHUMG00000034803
+            Pharos: Q6PI48(Tbio)
+            UniProt: Q6PI48 A0A024R8Z9 Q9H9J7
+STRUCTURE   PDB: 4AH6
+AASEQ       645
+            MYFPSWLSQLYRGLSRPIRRTTQPIWGSLYRSLLQSSQRRIPEFSSFVVRTNTCGELRSS
+            HLGQEVTLCGWIQYRRQNTFLVLRDFDGLVQVIIPQDESAASVKKILCEAPVESVVQVSG
+            TVISRPAGQENPKMPTGEIEIKVKTAELLNACKKLPFEIKNFVKKTEALRLQYRYLDLRS
+            FQMQYNLRLRSQMVMKMREYLCNLHGFVDIETPTLFKRTPGGAKEFLVPSREPGKFYSLP
+            QSPQQFKQLLMVGGLDRYFQVARCYRDEGSRPDRQPEFTQIDIEMSFVDQTGIQSLIEGL
+            LQYSWPNDKDPVVVPFPTMTFAEVLATYGTDKPDTRFGMKIIDISDVFRNTEIGFLQDAL
+            SKPHGTVKAICIPEGAKYLKRKDIESIRNFAADHFNQEILPVFLNANRNWNSPVANFIME
+            SQRLELIRLMETQEEDVVLLTAGEHNKACSLLGKLRLECADLLETRGVVLRDPTLFSFLW
+            VVDFPLFLPKEENPRELESAHHPFTAPHPSDIHLLYTEPKKARSQHYDLVLNGNEIGGGS
+            IRIHNAELQRYILATLLKEDVKMLSHLLQALDYGAPPHGGIALGLDRLICLVTGSPSIRD
+            VIAFPKSFRGHDLMSNTPDSVPPEELKPYHIRVSKPTDSKAERAH
+NTSEQ       1938
+            atgtacttcccttcttggttaagtcagctgtacaggggtttatccagacccatcagaagg
+            accacccaaccgatctggggttctctctacagaagtctgttgcagagttcacagaggaga
+            attccagaattcagtagctttgttgtccggaccaacacatgtggagagttgcgttcgtct
+            cacttaggccaagaagtcaccttgtgtggatggattcagtaccgaaggcaaaacacattc
+            ttggtcctaagagatttcgatgggcttgttcaagttatcattccccaggatgagtcggca
+            gcctctgtgaagaagattttatgtgaagcccctgtggaatctgtggtgcaagtgtctggt
+            acagtcatttcccgtcctgcaggacaagagaatccaaaaatgccaacaggtgagattgaa
+            atcaaagttaaaacagctgagcttctgaatgcctgcaagaagctgccctttgaaattaag
+            aacttcgtgaagaaaacagaggctcttcggttgcagtatcgctacttagacttgcgtagt
+            ttccaaatgcagtataacctgcgactgaggtcccagatggtcatgaaaatgcgggaatat
+            ctctgtaatctgcatgggtttgtggatatagaaacccccacattgtttaagaggacccca
+            gggggtgccaaagagtttttagtaccatccagggaacctggaaagttttattctctccct
+            cagagtcctcaacagtttaagcaacttctgatggttggcggtttagacagatattttcag
+            gttgcccgatgttatcgagatgaaggttcaagaccagacagacagcctgagtttactcag
+            attgacatagagatgtcatttgtagaccagactgggatccagagtttaattgagggtttg
+            ctccagtattcctggcccaatgacaaagatcctgtggttgttccttttcctactatgact
+            tttgctgaggtgctggccacctatggaactgataaacctgacactcgctttggaatgaag
+            attatagatatcagtgatgtgtttagaaacacagagattggatttcttcaagatgcactt
+            agtaagccccatggaactgtgaaagccatatgtatccctgaaggagcaaaatacttaaaa
+            aggaaagacattgaatccattagaaactttgcagctgaccattttaatcaggaaatctta
+            cctgtattccttaacgccaatagaaactggaattctccagttgctaatttcataatggag
+            tcacaaagactggaattaatcagactaatggagacccaagaggaagatgtggtcctacta
+            actgctggagagcacaataaagcatgctctttgttaggaaaattacgactggaatgtgct
+            gaccttctagaaacaagaggagtggtgctccgtgaccccactctgttctctttcctttgg
+            gtggtagatttcccactcttcctgcccaaggaggaaaatcccagagagctggaatcggcc
+            caccacccatttactgctccccaccccagtgacatacatctcctgtacactgagcccaaa
+            aaggcccgtagccaacactatgacttggttttaaatggcaatgaaataggaggtggttca
+            attcgaattcacaatgcagagctgcagcgttatatcctggcaaccttactaaaggaggat
+            gtgaaaatgctctcccatctgctccaggctttagattatggggcaccccctcatggagga
+            attgccttagggttagacagactgatatgccttgtcactggatctccaagcatcagagat
+            gtcatagccttcccaaagtccttccggggacatgacctcatgagcaataccccagattct
+            gtccctcctgaggaactgaagccctatcatatccgagtctccaagccaacagactccaaa
+            gcagaaagagctcattga
+///

@@ -1,0 +1,66 @@
+ENTRY       4598              CDS       T01001
+NAME        MVK, LRBP, MK, MVLK, POROK3
+DEFINITION  (RefSeq) mevalonate kinase
+ORTHOLOGY   K00869  mevalonate kinase [EC:2.7.1.36]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+DISEASE     H00206  Mevalonate kinase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                4598 (MVK)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                4598 (MVK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.36  mevalonate kinase
+                 4598 (MVK)
+POSITION    12q24.11
+MOTIF       Pfam: GHMP_kinases_N GHMP_kinases_C GalKase_gal_bdg
+DBLINKS     NCBI-GeneID: 4598
+            NCBI-ProteinID: NP_000422
+            OMIM: 251170
+            HGNC: 7530
+            Ensembl: ENSG00000110921
+            Vega: OTTHUMG00000169256
+            Pharos: Q03426(Tbio)
+            UniProt: Q03426 B2RDU6
+STRUCTURE   PDB: 2R3V
+AASEQ       396
+            MLSEVLLVSAPGKVILHGEHAVVHGKVALAVSLNLRTFLRLQPHSNGKVDLSLPNIGIKR
+            AWDVARLQSLDTSFLEQGDVTTPTSEQVEKLKEVAGLPDDCAVTERLAVLAFLYLYLSIC
+            RKQRALPSLDIVVWSELPPGAGLGSSAAYSVCLAAALLTVCEEIPNPLKDGDCVNRWTKE
+            DLELINKWAFQGERMIHGNPSGVDNAVSTWGGALRYHQGKISSLKRSPALQILLTNTKVP
+            RNTRALVAGVRNRLLKFPEIVAPLLTSIDAISLECERVLGEMGEAPAPEQYLVLEELIDM
+            NQHHLNALGVGHASLDQLCQVTRARGLHSKLTGAGGGGCGITLLKPGLEQPEVEATKQAL
+            TSCGFDCLETSIGAPGVSIHSATSLDSRVQQALDGL
+NTSEQ       1191
+            atgttgtcagaagtcctactggtgtctgctccggggaaagtcatccttcatggagaacat
+            gccgtggtacatggcaaggtagcactggctgtatccttgaacttgagaacattcctccgg
+            cttcaaccccacagcaatgggaaagtggacctcagcttacccaacattggtatcaagcgg
+            gcctgggatgtggccaggcttcagtcactggacacaagctttctggagcaaggtgatgtc
+            acaacacccacctcagagcaagtggagaagctaaaggaggttgcaggcttgcctgacgac
+            tgtgctgtcaccgagcgcctggctgtgctggcctttctttacttatacctgtccatctgc
+            cggaagcagagggccctgccgagcctggatatcgtagtgtggtcggagctgccccccggg
+            gcgggcttgggctccagcgccgcctactcggtgtgtctggcagcagccctcctgactgtg
+            tgcgaggagatcccaaacccgctgaaggacggggattgcgtcaacaggtggaccaaggag
+            gatttggagctaattaacaagtgggccttccaaggggagagaatgattcacgggaacccc
+            tccggagtggacaatgctgtcagcacctggggaggagccctccgataccatcaagggaag
+            atttcatccttaaagaggtcgccagctctccagatcctgctgaccaacaccaaagtccct
+            cgcaataccagggcccttgtggctggcgtcagaaacaggctgctcaagttcccagagatc
+            gtggcccccctcctgacctcaatagatgccatctccctggagtgtgagcgcgtgctggga
+            gagatgggggaagccccagccccggagcagtacctcgtgctggaagagctcattgacatg
+            aaccagcaccatctgaatgccctcggcgtgggccacgcctctctggaccagctctgccag
+            gtgaccagggcccgcggacttcacagcaagctgactggcgcaggcggtggtggctgtggc
+            atcacactcctcaagccagggctggagcagccagaagtggaggccacgaagcaggccctg
+            accagctgtggctttgactgcttggaaaccagcatcggtgcccccggcgtctccatccac
+            tcagccacctccctggacagccgagtccagcaagccctggatggcctctga
+///

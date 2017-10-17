@@ -1,0 +1,89 @@
+ENTRY       3939              CDS       T01001
+NAME        LDHA, GSD11, HEL-S-133P, LDHM, PIG19
+DEFINITION  (RefSeq) lactate dehydrogenase A
+ORTHOLOGY   K00016  L-lactate dehydrogenase [EC:1.1.1.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00270  Cysteine and methionine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa04066  HIF-1 signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H01762  Muscle glycogen storage disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                3939 (LDHA)
+               00620 Pyruvate metabolism
+                3939 (LDHA)
+               00640 Propanoate metabolism
+                3939 (LDHA)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                3939 (LDHA)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                3939 (LDHA)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                3939 (LDHA)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                3939 (LDHA)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.27  L-lactate dehydrogenase
+                 3939 (LDHA)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of epithelial cells
+               3939 (LDHA)
+              Exosomal proteins of breast milk
+               3939 (LDHA)
+POSITION    11p15.1
+MOTIF       Pfam: Ldh_1_N Ldh_1_C Glyco_hydro_4 Pyr_redox_2 Glyco_hydro_4C
+DBLINKS     NCBI-GeneID: 3939
+            NCBI-ProteinID: NP_005557
+            OMIM: 150000
+            HGNC: 6535
+            Ensembl: ENSG00000134333
+            Vega: OTTHUMG00000167721
+            Pharos: P00338(Tchem)
+            UniProt: P00338 V9HWB9
+STRUCTURE   PDB: 4JNK 4RLS 4QO8 5IXS 4M49 4OKN 4L4R 4R68 4QO7 4ZVV 1I10
+                 4AJP 4OJN 4L4S 5IXY 4QSM 4R69 4QT0
+AASEQ       332
+            MATLKDQLIYNLLKEEQTPQNKITVVGVGAVGMACAISILMKDLADELALVDVIEDKLKG
+            EMMDLQHGSLFLRTPKIVSGKDYNVTANSKLVIITAGARQQEGESRLNLVQRNVNIFKFI
+            IPNVVKYSPNCKLLIVSNPVDILTYVAWKISGFPKNRVIGSGCNLDSARFRYLMGERLGV
+            HPLSCHGWVLGEHGDSSVPVWSGMNVAGVSLKTLHPDLGTDKDKEQWKEVHKQVVESAYE
+            VIKLKGYTSWAIGLSVADLAESIMKNLRRVHPVSTMIKGLYGIKDDVFLSVPCILGQNGI
+            SDLVKVTLTSEEEARLKKSADTLWGIQKELQF
+NTSEQ       999
+            atggcaactctaaaggatcagctgatttataatcttctaaaggaagaacagaccccccag
+            aataagattacagttgttggggttggtgctgttggcatggcctgtgccatcagtatctta
+            atgaaggacttggcagatgaacttgctcttgttgatgtcatcgaagacaaattgaaggga
+            gagatgatggatctccaacatggcagccttttccttagaacaccaaagattgtctctggc
+            aaagactataatgtaactgcaaactccaagctggtcattatcacggctggggcacgtcag
+            caagagggagaaagccgtcttaatttggtccagcgtaacgtgaacatctttaaattcatc
+            attcctaatgttgtaaaatacagcccgaactgcaagttgcttattgtttcaaatccagtg
+            gatatcttgacctacgtggcttggaagataagtggttttcccaaaaaccgtgttattgga
+            agcggttgcaatctggattcagcccgattccgttacctaatgggggaaaggctgggagtt
+            cacccattaagctgtcatgggtgggtccttggggaacatggagattccagtgtgcctgta
+            tggagtggaatgaatgttgctggtgtctctctgaagactctgcacccagatttagggact
+            gataaagataaggaacagtggaaagaggttcacaagcaggtggttgagagtgcttatgag
+            gtgatcaaactcaaaggctacacatcctgggctattggactctctgtagcagatttggca
+            gagagtataatgaagaatcttaggcgggtgcacccagtttccaccatgattaagggtctt
+            tacggaataaaggatgatgtcttccttagtgttccttgcattttgggacagaatggaatc
+            tcagaccttgtgaaggtgactctgacttctgaggaagaggcccgtttgaagaagagtgca
+            gatacactttgggggatccaaaaggagctgcaattttaa
+///

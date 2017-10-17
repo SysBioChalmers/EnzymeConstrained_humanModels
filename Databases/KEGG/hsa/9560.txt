@@ -1,0 +1,55 @@
+ENTRY       9560              CDS       T01001
+NAME        CCL4L2, AT744.2, CCL4L, SCYA4L, SCYQ4L2
+DEFINITION  (RefSeq) C-C motif chemokine ligand 4 like 2
+ORTHOLOGY   K12964  C-C motif chemokine 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05132  Salmonella infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                9560 (CCL4L2)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                9560 (CCL4L2)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                9560 (CCL4L2)
+               04623 Cytosolic DNA-sensing pathway
+                9560 (CCL4L2)
+               04062 Chemokine signaling pathway
+                9560 (CCL4L2)
+             Human Diseases
+              Infectious diseases
+               05132 Salmonella infection
+                9560 (CCL4L2)
+            Cytokines [BR:hsa04052]
+             Chemokines
+              CC chemokine family
+               9560 (CCL4L2)
+POSITION    17q12
+MOTIF       Pfam: IL8
+DBLINKS     NCBI-GeneID: 9560
+            NCBI-ProteinID: NP_001278401
+            OMIM: 610757
+            HGNC: 24066
+            Ensembl: ENSG00000276070
+            Vega: OTTHUMG00000188420
+            Pharos: Q8NHW4(Tdark)
+            UniProt: Q8NHW4
+AASEQ       96
+            MKLCVTVLSLLVLVAAFCSLALSAPMGSDPPTACCFSYTARKLPRNFVVDYYETSSLCSQ
+            PAVVAAPGRIPSTRAAPHGPWSGRGRCLPQARDKAR
+NTSEQ       291
+            atgaagctctgcgtgactgtcctgtctctcctcgtgctagtagctgccttctgctctcta
+            gcactctcagcaccaatgggctcagaccctcccaccgcctgctgcttttcttacaccgcg
+            aggaagcttcctcgcaactttgtggtagattactatgagaccagcagcctctgctcccag
+            ccagctgtggttgctgctccgggaaggatcccatccaccagagctgccccacatggacca
+            tggtcaggcagaggaagatgcctaccacaggcaagggataaagccagatga
+///

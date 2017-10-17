@@ -1,0 +1,76 @@
+ENTRY       4803              CDS       T01001
+NAME        NGF, Beta-NGF, HSAN5, NGFB
+DEFINITION  (RefSeq) nerve growth factor
+ORTHOLOGY   K02582  nerve growth factor, beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04722  Neurotrophin signaling pathway
+            hsa04750  Inflammatory mediator regulation of TRP channels
+DISEASE     H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                4803 (NGF)
+               04015 Rap1 signaling pathway
+                4803 (NGF)
+               04010 MAPK signaling pathway
+                4803 (NGF)
+               04151 PI3K-Akt signaling pathway
+                4803 (NGF)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                4803 (NGF)
+             Organismal Systems
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                4803 (NGF)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                4803 (NGF)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Intramolecular chaperones
+              Others
+               4803 (NGF)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Cysteine-knot growth factors
+               Subclass II
+                4803 (NGF)
+POSITION    1p13.2
+MOTIF       Pfam: NGF Spaetzle
+DBLINKS     NCBI-GeneID: 4803
+            NCBI-ProteinID: NP_002497
+            OMIM: 162030
+            HGNC: 7808
+            Ensembl: ENSG00000134259
+            Vega: OTTHUMG00000011880
+            Pharos: P01138(Tchem)
+            UniProt: P01138
+STRUCTURE   PDB: 1WWW 1SG1 4ZBN 4EDW 4EDX 5JZ7 2IFG
+AASEQ       241
+            MSMLFYTLITAFLIGIQAEPHSESNVPAGHTIPQAHWTKLQHSLDTALRRARSAPAAAIA
+            ARVAGQTRNITVDPRLFKKRRLRSPRVLFSTQPPREAADTQDLDFEVGGAAPFNRTHRSK
+            RSSSHPIFHRGEFSVCDSVSVWVGDKTTATDIKGKEVMVLGEVNINNSVFKQYFFETKCR
+            DPNPVDSGCRGIDSKHWNSYCTTTHTFVKALTMDGKQAAWRFIRIDTACVCVLSRKAVRR
+            A
+NTSEQ       726
+            atgtccatgttgttctacactctgatcacagcttttctgatcggcatacaggcggaacca
+            cactcagagagcaatgtccctgcaggacacaccatcccccaagcccactggactaaactt
+            cagcattcccttgacactgcccttcgcagagcccgcagcgccccggcagcggcgatagct
+            gcacgcgtggcggggcagacccgcaacattactgtggaccccaggctgtttaaaaagcgg
+            cgactccgttcaccccgtgtgctgtttagcacccagcctccccgtgaagctgcagacact
+            caggatctggacttcgaggtcggtggtgctgcccccttcaacaggactcacaggagcaag
+            cggtcatcatcccatcccatcttccacaggggcgaattctcggtgtgtgacagtgtcagc
+            gtgtgggttggggataagaccaccgccacagacatcaagggcaaggaggtgatggtgttg
+            ggagaggtgaacattaacaacagtgtattcaaacagtacttttttgagaccaagtgccgg
+            gacccaaatcccgttgacagcgggtgccggggcattgactcaaagcactggaactcatat
+            tgtaccacgactcacacctttgtcaaggcgctgaccatggatggcaagcaggctgcctgg
+            cggtttatccggatagatacggcctgtgtgtgtgtgctcagcaggaaggctgtgagaaga
+            gcctga
+///

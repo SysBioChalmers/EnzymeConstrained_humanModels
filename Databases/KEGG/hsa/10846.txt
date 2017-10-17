@@ -1,0 +1,110 @@
+ENTRY       10846             CDS       T01001
+NAME        PDE10A, ADSD2, HSPDE10A, IOLOD, LINC00473, PDE10A19
+DEFINITION  (RefSeq) phosphodiesterase 10A
+ORTHOLOGY   K18438  cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10 [EC:3.1.4.17 3.1.4.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa05032  Morphine addiction
+DISEASE     H01570  Autosomal dominant striatal degeneration (ADSD)
+DRUG_TARGET Aminophylline (DG01062): D00227 D05429
+            Bucladesine (DG00230): D01238 D07546
+            Choline theophyllinate: D02017
+            Diprophylline: D00691
+            Flavoxate (DG00477): D00718 D07961
+            Moxaverine (DG00045): D07089 D08238
+            Papaverine (DG00043): D02218 D07425 D07439
+            Propentofylline: D01630
+            Proxyphylline: D01771
+            Theophylline (DG01061): D00371 D01712 D06103 D06104
+            Tibenelast sodium: D06132
+            Trapidil: D01220
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                10846 (PDE10A)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                10846 (PDE10A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.17  3',5'-cyclic-nucleotide phosphodiesterase
+                 10846 (PDE10A)
+                3.1.4.35  3',5'-cyclic-GMP phosphodiesterase
+                 10846 (PDE10A)
+POSITION    6q27
+MOTIF       Pfam: PDEase_I GAF GAF_2 GAF_3 SpoVT_C HD H_kinase_N DUF4748
+DBLINKS     NCBI-GeneID: 10846
+            NCBI-ProteinID: NP_006652
+            OMIM: 610652
+            HGNC: 8772
+            Ensembl: ENSG00000112541
+            Vega: OTTHUMG00000015986
+            Pharos: Q9Y233(Tclin)
+            UniProt: Q9Y233 A0A1B1UZR0
+STRUCTURE   PDB: 2OUR 2OUS 4LM4 4LM3 2OUU 4LLK 4LM2 5C28 4LLJ 2OUN 2OUP
+                 2OUV 4MRZ 4LM1 4MSA 4LKQ 4LM0 5C1W 4LLP 4LLX 5AXQ 4MS0
+                 3SN7 5UWF 4AJF 3SNI 2OUQ 2OUY 5AXP 4MRW 5DH5 5C2A 3WYM
+                 4HEU 4HF4 4FCD 5EDH 4XY2 5C29 4DDL 4P0N 5C2H 5C2E 4FCB
+                 2ZMF 4DFF 3UUO 5EDE 5EDI 5DH4 4AEL 4P1R 3WI2 3UI7 5EDG
+                 4MSH 4MSN 4AJD 4AJG 4YQH 5B4L 4AJM 3SNL 2Y0J 4MSC 5I2R
+                 4ZO5 4YS7 3WYK 4PHW 4MVH 4BBX 3WS8 4MUW 4TPP 3WYL 5K9R
+                 4TPM 2WEY 4MSE 5B4K 3WS9 4WN1
+AASEQ       779
+            MRIEERKSQHLTGLTDEKVKAYLSLHPQVLDEFVSESVSAETVEKWLKRKNNKSEDESAP
+            KEVSRYQDTNMQGVVYELNSYIEQRLDTGGDNQLLLYELSSIIKIATKADGFALYFLGEC
+            NNSLCIFTPPGIKEGKPRLIPAGPITQGTTVSAYVAKSRKTLLVEDILGDERFPRGTGLE
+            SGTRIQSVLCLPIVTAIGDLIGILELYRHWGKEAFCLSHQEVATANLAWASVAIHQVQVC
+            RGLAKQTELNDFLLDVSKTYFDNIVAIDSLLEHIMIYAKNLVNADRCALFQVDHKNKELY
+            SDLFDIGEEKEGKPVFKKTKEIRFSIEKGIAGQVARTGEVLNIPDAYADPRFNREVDLYT
+            GYTTRNILCMPIVSRGSVIGVVQMVNKISGSAFSKTDENNFKMFAVFCALALHCANMYHR
+            IRHSECIYRVTMEKLSYHSICTSEEWQGLMQFTLPVRLCKEIELFHFDIGPFENMWPGIF
+            VYMVHRSCGTSCFELEKLCRFIMSVKKNYRRVPYHNWKHAVTVAHCMYAILQNNHTLFTD
+            LERKGLLIACLCHDLDHRGFSNSYLQKFDHPLAALYSTSTMEQHHFSQTVSILQLEGHNI
+            FSTLSSSEYEQVLEIIRKAIIATDLALYFGNRKQLEEMYQTGSLNLNNQSHRDRVIGLMM
+            TACDLCSVTKLWPVTKLTANDIYAEFWAEGDEMKKLGIQPIPMMDRDKKDEVPQGQLGFY
+            NAVAIPCYTTLTQILPPTEPLLKACRDNLSQWEKVIRGEETATWISSPSVAQKAAASED
+NTSEQ       2340
+            atgaggatagaagagaggaaatcccaacatttaacaggtttgacagatgaaaaagtgaag
+            gcatatctttctcttcacccccaggtattagatgaatttgtatctgaaagtgttagtgca
+            gagacagtagagaaatggctgaagaggaagaacaacaaatcagaagatgaatcagctcct
+            aaggaagtcagcaggtaccaagatacgaatatgcagggagttgtatatgaactaaacagc
+            tatatagaacaacggttggacacaggaggagacaaccagctactcctctatgaactgagc
+            agcatcattaaaatagccacaaaagccgatggatttgcactgtatttccttggagagtgc
+            aataatagcctgtgtatattcacgccacctgggataaaggaaggaaaaccccgcctcatc
+            cctgctgggcccatcactcagggcaccaccgtctctgcttatgtggccaagtccaggaaa
+            acactgctagtagaagacatccttggagatgaacgatttccaagaggtactggactggaa
+            tcagggactcgtatccagtctgttctttgcttaccaattgtcactgcaattggtgacttg
+            attggtattctcgagctgtatcggcactggggcaaagaagccttctgtcttagtcaccag
+            gaggttgcaacagcaaatcttgcctgggcttcagtagcaatacatcaggtgcaggtatgc
+            agaggccttgccaaacagacagaattgaatgacttcctactcgacgtatcaaaaacatat
+            tttgataacatagttgcaatagattctctacttgaacacataatgatatatgcaaaaaac
+            ctggtgaatgccgatcgttgtgcgcttttccaggtggaccataagaacaaggagttatat
+            tcagacctttttgatattggagaggaaaaggaaggaaaacctgtcttcaagaagaccaaa
+            gagataagattttcaattgagaaaggaattgctggccaagtagcaagaacaggggaagtc
+            ctgaacattccagatgcctatgcagacccacgctttaacagagaagtagacttgtacaca
+            ggctacaccacgcggaacatcctgtgcatgcccatcgtcagccgaggcagcgtgataggt
+            gtggtgcagatggtcaacaaaatcagtggcagtgccttctctaaaacagatgaaaacaac
+            ttcaaaatgtttgccgtcttttgtgctttagccttacactgtgctaatatgtatcataga
+            attcgccactcagagtgcatttaccgggtaacgatggaaaagctgtcctaccatagcatt
+            tgtacttcagaagagtggcaaggtctcatgcaattcacccttcccgtgcgtctctgcaaa
+            gaaattgaattattccactttgacattggtccttttgaaaacatgtggcctggaattttt
+            gtctacatggttcatcggtcctgtgggacatcctgctttgagcttgaaaagttgtgtcgt
+            tttattatgtctgtgaagaagaactatcggcgggttccttatcacaactggaagcatgcg
+            gtcactgtagcacactgcatgtatgccatacttcagaacaatcacacgcttttcacagac
+            cttgagcgcaaaggactgctgattgcgtgtctgtgtcatgacctggaccacaggggcttc
+            agtaacagctacctgcagaagttcgaccaccctctggccgctctctactccacttccacc
+            atggagcagcaccacttctcccagactgtgtccatcctccagttggaagggcacaatatc
+            ttctccactctgagctccagtgaatatgagcaggtgcttgagatcatccgcaaagccatc
+            attgccacagaccttgctttatactttggaaacaggaagcagttggaagagatgtaccag
+            accggatcactaaaccttaataatcaatcacatagagaccgtgtaattggtttgatgatg
+            actgcctgtgacctttgttctgtgacaaaactgtggcccgttacaaaattgacggcaaat
+            gatatatatgcagaattctgggctgagggtgatgaaatgaagaaattgggaatacagcct
+            attcctatgatggacagagacaagaaggatgaagtcccccaaggccagcttgggttctac
+            aatgccgtggccattccctgctatacaacccttacccagatcctccctcccacggagcct
+            cttctgaaagcatgcagggataatctcagtcagtgggagaaggtgattcgaggggaggag
+            actgcaacctggatttcatccccatccgtggctcagaaggcagctgcatctgaagattga
+///

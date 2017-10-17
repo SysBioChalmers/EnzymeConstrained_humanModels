@@ -1,0 +1,141 @@
+ENTRY       867               CDS       T01001
+NAME        CBL, C-CBL, CBL2, FRA11B, NSLL, RNF55
+DEFINITION  (RefSeq) Cbl proto-oncogene
+ORTHOLOGY   K04707  E3 ubiquitin-protein ligase CBL [EC:2.3.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04012  ErbB signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04144  Endocytosis
+            hsa04660  T cell receptor signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05220  Chronic myeloid leukemia
+DISEASE     H00523  Noonan syndrome and related disorders
+            H01738  Noonan syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                867 (CBL)
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                867 (CBL)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                867 (CBL)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                867 (CBL)
+              Endocrine system
+               04910 Insulin signaling pathway
+                867 (CBL)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                867 (CBL)
+               05205 Proteoglycans in cancer
+                867 (CBL)
+               05220 Chronic myeloid leukemia
+                867 (CBL)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                867 (CBL)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 867 (CBL)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Ubiquitin E3 ligases
+                867 (CBL)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               CBL proteins
+                867 (CBL)
+POSITION    11q23.3
+MOTIF       Pfam: Cbl_N Cbl_N3 Cbl_N2 Prok-RING_4 zf-C3HC4_3 zf-C3HC4 zf-RING_2 UBA zf-C3HC4_2 zf-RING_UBOX zf-RING_5 zf-rbx1 zf-C3HC4_4 zf-RING_4
+DBLINKS     NCBI-GeneID: 867
+            NCBI-ProteinID: NP_005179
+            OMIM: 165360
+            HGNC: 1541
+            Ensembl: ENSG00000110395
+            Vega: OTTHUMG00000166170
+            Pharos: P22681(Tbio)
+            UniProt: P22681
+STRUCTURE   PDB: 3BUX 3BUW 5HKY 5HKZ 5HKX 3PLF 2Y1N 3BUM 3BUN 1YVH 3OB2
+                 2OO9 2CBL 5HL0 3OB1 1B47 4A49 5HKW 3BUO 2Y1M 4A4C 4A4B
+                 5J3X 1FBV 4GPL 2K4D 2JUJ
+AASEQ       906
+            MAGNVKKSSGAGGGSGSGGSGSGGLIGLMKDAFQPHHHHHHHLSPHPPGTVDKKMVEKCW
+            KLMDKVVRLCQNPKLALKNSPPYILDLLPDTYQHLRTILSRYEGKMETLGENEYFRVFME
+            NLMKKTKQTISLFKEGKERMYEENSQPRRNLTKLSLIFSHMLAELKGIFPSGLFQGDTFR
+            ITKADAAEFWRKAFGEKTIVPWKSFRQALHEVHPISSGLEAMALKSTIDLTCNDYISVFE
+            FDIFTRLFQPWSSLLRNWNSLAVTHPGYMAFLTYDEVKARLQKFIHKPGSYIFRLSCTRL
+            GQWAIGYVTADGNILQTIPHNKPLFQALIDGFREGFYLFPDGRNQNPDLTGLCEPTPQDH
+            IKVTQEQYELYCEMGSTFQLCKICAENDKDVKIEPCGHLMCTSCLTSWQESEGQGCPFCR
+            CEIKGTEPIVVDPFDPRGSGSLLRQGAEGAPSPNYDDDDDERADDTLFMMKELAGAKVER
+            PPSPFSMAPQASLPPVPPRLDLLPQRVCVPSSASALGTASKAASGSLHKDKPLPVPPTLR
+            DLPPPPPPDRPYSVGAESRPQRRPLPCTPGDCPSRDKLPPVPSSRLGDSWLPRPIPKVPV
+            SAPSSSDPWTGRELTNRHSLPFSLPSQMEPRPDVPRLGSTFSLDTSMSMNSSPLVGPECD
+            HPKIKPSSSANAIYSLAARPLPVPKLPPGEQCEGEEDTEYMTPSSRPLRPLDTSQSSRAC
+            DCDQQIDSCTYEAMYNIQSQAPSITESSTFGEGNLAAAHANTGPEESENEDDGYDVPKPP
+            VPAVLARRTLSDISNASSSFGWLSLDGDPTTNVTEGSQVPERPPKPFPRRINSERKAGSC
+            QQGSGPAASAATASPQLSSEIENLMSQGYSYQDIQKALVIAQNNIEMAKNILREFVSISS
+            PAHVAT
+NTSEQ       2721
+            atggccggcaacgtgaagaagagctctggggccgggggcggcagcggctccgggggctcg
+            ggttcgggtggcctgattgggctcatgaaggacgccttccagccgcaccaccaccaccac
+            caccacctcagcccccacccgccggggacggtggacaagaagatggtggagaagtgctgg
+            aagctcatggacaaggtggtgcggttgtgtcagaacccaaagctggcgctaaagaatagc
+            ccaccttatatcttagacctgctaccagatacctaccagcatctccgtactatcttgtca
+            agatatgaggggaagatggagacacttggagaaaatgagtattttagggtgtttatggag
+            aatttgatgaagaaaactaagcaaaccataagcctcttcaaggagggaaaagaaagaatg
+            tatgaggagaattctcagcctaggcgaaacctaaccaaactgtccctcatcttcagccac
+            atgctggcagaactaaaaggaatctttccaagtggactctttcagggagacacatttcgg
+            attactaaagcagatgctgcggaattttggagaaaagcttttggggaaaagacaatagtc
+            ccttggaagagctttcgacaggctctacatgaagtgcatcccatcagttctgggctggag
+            gccatggctctgaaatccactattgatctgacctgcaatgattatatttcggtttttgaa
+            tttgacatctttacccgactctttcagccctggtcctctttgctcaggaattggaacagc
+            cttgctgtaactcatcctggctacatggcttttttgacgtatgacgaagtgaaagctcgg
+            ctccagaaattcattcacaaacctggcagttatatcttccggctgagctgtactcgtctg
+            ggtcagtgggctattgggtatgttactgctgatgggaacattctccagacaatccctcac
+            aataaacctctcttccaagcactgattgatggcttcagggaaggcttctatttgtttcct
+            gatggacgaaatcagaatcctgatctgactggcttatgtgaaccaactccccaagaccat
+            atcaaagtgacccaggaacaatatgaattatactgtgagatgggctccacattccaacta
+            tgtaaaatatgtgctgaaaatgataaggatgtaaagattgagccctgtggacacctcatg
+            tgcacatcctgtcttacatcctggcaggaatcagaaggtcagggctgtcctttctgccga
+            tgtgaaattaaaggtactgaacccatcgtggtagatccgtttgatcctagagggagtggc
+            agcctgttgaggcaaggagcagagggagctccctccccaaattatgatgatgatgatgat
+            gaacgagctgatgatactctcttcatgatgaaggaattggctggtgccaaggtggaacgg
+            ccgccttctccattctccatggccccacaagcttcccttcccccggtgccaccacgactt
+            gaccttctgccgcagcgagtatgtgttccctcaagtgcttctgctcttggaactgcttct
+            aaggctgcttctggctcccttcataaagacaaaccattgccagtacctcccacacttcga
+            gatcttccaccaccaccgcctccagaccggccatattctgttggagcagaatcccgacct
+            caaagacgccccttgccttgtacaccaggcgactgtccctccagagacaaactgccccct
+            gtcccctctagccgccttggagactcatggctgccccggccaatccccaaagtaccagta
+            tctgccccaagttccagtgatccctggacaggaagagaattaaccaaccggcactcactt
+            ccattttcattgccctcacaaatggagcccagaccagatgtgcctaggctcggaagcacg
+            ttcagtctggatacctccatgagtatgaatagcagcccattagtaggtccagagtgtgac
+            caccccaaaatcaaaccttcctcatctgccaatgccatttattctctggctgccagacct
+            cttcctgtgccaaaactgccacctggggagcaatgtgagggtgaagaggacacagagtac
+            atgactccctcttccaggcctctacggcctttggatacatcccagagttcacgagcatgt
+            gattgcgaccagcagattgatagctgtacgtatgaagcaatgtataatattcagtcccag
+            gcgccatctatcaccgagagcagcacctttggtgaagggaatttggccgcagcccatgcc
+            aacactggtcccgaggagtcagaaaatgaggatgatgggtatgatgtcccaaagccacct
+            gtgccggccgtgctggcccgccgaactctctcagatatctctaatgccagctcctccttt
+            ggctggttgtctctggatggtgatcctacaacaaatgtcactgaaggttcccaagttccc
+            gagaggcctccaaaaccattcccgcggagaatcaactctgaacggaaagctggcagctgt
+            cagcaaggtagtggtcctgccgcctctgctgccaccgcctcacctcagctctccagtgag
+            atcgagaacctcatgagtcaggggtactcctaccaggacatccagaaagctttggtcatt
+            gcccagaacaacatcgagatggccaaaaacatcctccgggaatttgtttccatttcttct
+            cctgcccatgtagctacctag
+///

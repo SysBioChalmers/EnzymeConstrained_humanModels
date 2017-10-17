@@ -1,0 +1,174 @@
+ENTRY       478               CDS       T01001
+NAME        ATP1A3, AHC2, ATP1A1, CAPOS, DYT12, RDP
+DEFINITION  (RefSeq) ATPase Na+/K+ transporting subunit alpha 3
+ORTHOLOGY   K01539  sodium/potassium-transporting ATPase subunit alpha [EC:3.6.3.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04911  Insulin secretion
+            hsa04918  Thyroid hormone synthesis
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04960  Aldosterone-regulated sodium reabsorption
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa04964  Proximal tubule bicarbonate reclamation
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04973  Carbohydrate digestion and absorption
+            hsa04974  Protein digestion and absorption
+            hsa04976  Bile secretion
+            hsa04978  Mineral absorption
+DISEASE     H00831  Primary dystonia
+DRUG_TARGET Acetyldigitoxin: D06881
+            Acetyldigoxin: D07555
+            Bepridil (DG00333): D00631 D07520
+            Deslanoside: D01240
+            Digitoxin: D00297
+            Digoxin: D00298
+            G-strophanthin: D00112
+            Gitoformate: D07147
+            Lanatoside C: D01972
+            Metildigoxin (DG00191): D02587 D09847
+            Proscillaridin: D01379
+            beta-Acetyldigoxin: D07556
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                478 (ATP1A3)
+               04022 cGMP - PKG signaling pathway
+                478 (ATP1A3)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                478 (ATP1A3)
+               04918 Thyroid hormone synthesis
+                478 (ATP1A3)
+               04919 Thyroid hormone signaling pathway
+                478 (ATP1A3)
+              Circulatory system
+               04260 Cardiac muscle contraction
+                478 (ATP1A3)
+               04261 Adrenergic signaling in cardiomyocytes
+                478 (ATP1A3)
+              Digestive system
+               04970 Salivary secretion
+                478 (ATP1A3)
+               04971 Gastric acid secretion
+                478 (ATP1A3)
+               04972 Pancreatic secretion
+                478 (ATP1A3)
+               04976 Bile secretion
+                478 (ATP1A3)
+               04973 Carbohydrate digestion and absorption
+                478 (ATP1A3)
+               04974 Protein digestion and absorption
+                478 (ATP1A3)
+               04978 Mineral absorption
+                478 (ATP1A3)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                478 (ATP1A3)
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                478 (ATP1A3)
+               04964 Proximal tubule bicarbonate reclamation
+                478 (ATP1A3)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.9  Na+/K+-exchanging ATPase
+                 478 (ATP1A3)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               478 (ATP1A3)
+              Exosomal proteins of other body fluids (saliva and urine)
+               478 (ATP1A3)
+              Exosomal proteins of colorectal cancer cells
+               478 (ATP1A3)
+              Exosomal proteins of bladder cancer cells
+               478 (ATP1A3)
+POSITION    19q13.2
+MOTIF       Pfam: E1-E2_ATPase Cation_ATPase_C Cation_ATPase Hydrolase Cation_ATPase_N Hydrolase_3
+DBLINKS     NCBI-GeneID: 478
+            NCBI-ProteinID: NP_689509
+            OMIM: 182350
+            HGNC: 801
+            Ensembl: ENSG00000105409
+            Vega: OTTHUMG00000137384
+            Pharos: P13637(Tclin)
+            UniProt: P13637 Q53ES0
+AASEQ       1013
+            MGDKKDDKDSPKKNKGKERRDLDDLKKEVAMTEHKMSVEEVCRKYNTDCVQGLTHSKAQE
+            ILARDGPNALTPPPTTPEWVKFCRQLFGGFSILLWIGAILCFLAYGIQAGTEDDPSGDNL
+            YLGIVLAAVVIITGCFSYYQEAKSSKIMESFKNMVPQQALVIREGEKMQVNAEEVVVGDL
+            VEIKGGDRVPADLRIISAHGCKVDNSSLTGESEPQTRSPDCTHDNPLETRNITFFSTNCV
+            EGTARGVVVATGDRTVMGRIATLASGLEVGKTPIAIEIEHFIQLITGVAVFLGVSFFILS
+            LILGYTWLEAVIFLIGIIVANVPEGLLATVTVCLTLTAKRMARKNCLVKNLEAVETLGST
+            STICSDKTGTLTQNRMTVAHMWFDNQIHEADTTEDQSGTSFDKSSHTWVALSHIAGLCNR
+            AVFKGGQDNIPVLKRDVAGDASESALLKCIELSSGSVKLMRERNKKVAEIPFNSTNKYQL
+            SIHETEDPNDNRYLLVMKGAPERILDRCSTILLQGKEQPLDEEMKEAFQNAYLELGGLGE
+            RVLGFCHYYLPEEQFPKGFAFDCDDVNFTTDNLCFVGLMSMIDPPRAAVPDAVGKCRSAG
+            IKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVIHGTDL
+            KDFTSEQIDEILQNHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPALKKADI
+            GVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSIAYTLTSNIPEITPF
+            LLFIMANIPLPLGTITILCIDLGTDMVPAISLAYEAAESDIMKRQPRNPRTDKLVNERLI
+            SMAYGQIGMIQALGGFFSYFVILAENGFLPGNLVGIRLNWDDRTVNDLEDSYGQQWTYEQ
+            RKVVEFTCHTAFFVSIVVVQWADLIICKTRRNSVFQQGMKNKILIFGLFEETALAAFLSY
+            CPGMDVALRMYPLKPSWWFCAFPYSFLIFVYDEIRKLILRRNPGGWVEKETYY
+NTSEQ       3042
+            atgggggacaagaaagatgacaaggactcacccaagaagaacaagggcaaggagcgccgg
+            gacctggatgacctcaagaaggaggtggctatgacagagcacaagatgtcagtggaagag
+            gtctgccggaaatacaacacagactgtgtgcagggtttgacccacagcaaagcccaggag
+            atcctggcccgggatgggcctaacgcactcacgccaccgcctaccaccccagagtgggtc
+            aagttttgccggcagctcttcgggggcttctccatcctgctgtggatcggggctatcctc
+            tgcttcctggcctacggtatccaggcgggcaccgaggacgacccctctggtgacaacctg
+            tacctgggcatcgtgctggcggccgtggtgatcatcactggctgcttctcctactaccag
+            gaggccaagagctccaagatcatggagtccttcaagaacatggtgccccagcaagccctg
+            gtgatccgggaaggtgagaagatgcaggtgaacgctgaggaggtggtggtcggggacctg
+            gtggagatcaagggtggagaccgagtgccagctgacctgcggatcatctcagcccacggc
+            tgcaaggtggacaactcctccctgactggcgaatccgagccccagactcgctctcccgac
+            tgcactcacgacaaccccttggagactcggaacatcaccttcttttccaccaactgtgtg
+            gaaggcacggctcggggcgtggtggtggccacgggcgaccgcactgtcatgggccgtatc
+            gccaccctggcatcagggctggaggtgggcaagacgcccatcgccatcgagattgagcac
+            ttcatccagctcatcaccggcgtggctgtcttcctgggtgtctccttcttcatcctctcc
+            ctcattctcggatacacctggcttgaggctgtcatcttcctcatcggcatcatcgtggcc
+            aatgtcccagagggtctgctggccactgtcactgtgtgtctgacgctgaccgccaagcgc
+            atggcccggaagaactgcctggtgaagaacctggaggctgtagaaaccctgggctccacg
+            tccaccatctgctcagataagacagggaccctcactcagaaccgcatgacagtcgcccac
+            atgtggtttgacaaccagatccacgaggctgacaccactgaggaccagtcagggacctca
+            tttgacaagagttcgcacacctgggtggccctgtctcacatcgctgggctctgcaatcgc
+            gctgtcttcaagggtggtcaggacaacatccctgtgctcaagagggatgtggctggggat
+            gcgtctgagtctgccctgctcaagtgcatcgagctgtcctctggctccgtgaagctgatg
+            cgtgaacgcaacaagaaagtggctgagattcccttcaattccaccaacaaataccagctc
+            tccatccatgagaccgaggaccccaacgacaaccgatacctgctggtgatgaagggtgcc
+            cccgagcgcatcctggaccgctgctccaccatcctgctacagggcaaggagcagcctctg
+            gacgaggaaatgaaggaggccttccagaatgcctaccttgagctcggtggcctgggcgag
+            cgcgtgcttggtttctgccattattacctgcccgaggagcagttccccaagggctttgcc
+            ttcgactgtgatgacgtgaacttcaccacggacaacctctgctttgtgggcctcatgtcc
+            atgatcgacccaccccgggcagccgtccctgacgcggtgggcaagtgtcgcagcgcaggc
+            atcaaggtcatcatggtcaccggcgatcaccccatcacggccaaggccattgccaagggt
+            gtgggcatcatctctgagggcaacgagactgtggaggacatcgccgcccggctcaacatt
+            cccgtcagccaggttaacccccgggatgccaaggcctgcgtgatccacggcaccgacctc
+            aaggacttcacctccgagcaaatcgacgagatcctgcagaatcacaccgagatcgtcttc
+            gcccgcacatccccccagcagaagctcatcattgtggagggctgtcagagacagggtgca
+            attgtggctgtgaccggggatggtgtgaacgactcccccgctctgaagaaggccgacatt
+            ggggtggccatgggcatcgctggctctgacgtctccaagcaggcagctgacatgatcctg
+            ctggacgacaactttgcctccatcgtcacaggggtggaggagggccgcctgatcttcgac
+            aacctaaagaagtccattgcctacaccctgaccagcaatatcccggagatcacgcccttc
+            ctgctgttcatcatggccaacatcccgctgcccctgggcaccatcaccatcctctgcatc
+            gatctgggcactgacatggtccctgccatctcactggcgtacgaggctgccgaaagcgac
+            atcatgaagagacagcccaggaacccgcggacggacaaattggtcaatgagagactcatc
+            agcatggcctacgggcagattggaatgatccaggctctcggtggcttcttctcttacttt
+            gtgatcctggcagaaaatggcttcttgcccggcaacctggtgggcatccggctgaactgg
+            gatgaccgcaccgtcaatgacctggaagacagttacgggcagcagtggacatacgagcag
+            aggaaggtggtggagttcacctgccacacggccttctttgtgagcatcgttgtcgtccag
+            tgggccgatctgatcatctgcaagacccggaggaactcggtcttccagcagggcatgaag
+            aacaagatcctgatcttcgggctgtttgaggagacggccctggctgccttcctgtcctac
+            tgccccggcatggacgtggccctgcgcatgtaccctctcaagcccagctggtggttctgt
+            gccttcccctacagtttcctcatcttcgtctacgacgaaatccgcaaactcatcctgcgc
+            aggaacccagggggttgggtggagaaggaaacctactactga
+///

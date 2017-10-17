@@ -1,0 +1,93 @@
+ENTRY       9601              CDS       T01001
+NAME        PDIA4, ERP70, ERP72, ERp-72
+DEFINITION  (RefSeq) protein disulfide isomerase family A member 4
+ORTHOLOGY   K09582  protein disulfide-isomerase A4 [EC:5.3.4.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04141  Protein processing in endoplasmic reticulum
+            hsa04918  Thyroid hormone synthesis
+            hsa05110  Vibrio cholerae infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                9601 (PDIA4)
+             Organismal Systems
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                9601 (PDIA4)
+             Human Diseases
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                9601 (PDIA4)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.4  Transposing S-S bonds
+                5.3.4.1  protein disulfide-isomerase
+                 9601 (PDIA4)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               9601 (PDIA4)
+            Membrane trafficking [BR:hsa04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               PDI family proteins
+                9601 (PDIA4)
+POSITION    7q36.1
+MOTIF       Pfam: Thioredoxin Thioredoxin_6 Thioredoxin_2 OST3_OST6 Thioredoxin_8 Thioredoxin_7 Calsequestrin AhpC-TSA Thioredoxin_4 TraF FAM176 Glyco_hydro_106
+DBLINKS     NCBI-GeneID: 9601
+            NCBI-ProteinID: NP_004902
+            HGNC: 30167
+            Ensembl: ENSG00000155660
+            Vega: OTTHUMG00000150248
+            Pharos: P13667(Tbio)
+            UniProt: P13667 A0A090N8Y2
+STRUCTURE   PDB: 3IDV
+AASEQ       645
+            MRPRKAFLLLLLLGLVQLLAVAGAEGPDEDSSNRENAIEDEEEEEEEDDDEEEDDLEVKE
+            ENGVLVLNDANFDNFVADKDTVLLEFYAPWCGHCKQFAPEYEKIANILKDKDPPIPVAKI
+            DATSASVLASRFDVSGYPTIKILKKGQAVDYEGSRTQEEIVAKVREVSQPDWTPPPEVTL
+            VLTKENFDEVVNDADIILVEFYAPWCGHCKKLAPEYEKAAKELSKRSPPIPLAKVDATAE
+            TDLAKRFDVSGYPTLKIFRKGRPYDYNGPREKYGIVDYMIEQSGPPSKEILTLKQVQEFL
+            KDGDDVIIIGVFKGESDPAYQQYQDAANNLREDYKFHHTFSTEIAKFLKVSQGQLVVMQP
+            EKFQSKYEPRSHMMDVQGSTQDSAIKDFVLKYALPLVGHRKVSNDAKRYTRRPLVVVYYS
+            VDFSFDYRAATQFWRSKVLEVAKDFPEYTFAIADEEDYAGEVKDLGLSESGEDVNAAILD
+            ESGKKFAMEPEEFDSDTLREFVTAFKKGKLKPVIKSQPVPKNNKGPVKVVVGKTFDSIVM
+            DPKKDVLIEFYAPWCGHCKQLEPVYNSLAKKYKGQKGLVIAKMDATANDVPSDRYKVEGF
+            PTIYFAPSGDKKNPVKFEGGDRDLEHLSKFIEEHATKLSRTKEEL
+NTSEQ       1938
+            atgaggccccggaaagccttcctgctcctgctgctcttggggctggtgcagctgctggcc
+            gtggcgggtgccgagggcccggacgaggattcttctaacagagaaaatgccattgaggat
+            gaagaggaggaggaggaggaagatgatgatgaggaagaagacgacttggaagttaaggaa
+            gaaaatggagtcttggtcctaaatgatgcaaactttgataattttgtggctgacaaagac
+            acagtgctgctggagttttatgctccatggtgtggacattgcaagcagtttgctccggaa
+            tatgaaaaaattgccaacatattaaaggataaagatcctcccattcctgttgccaagatc
+            gatgcaacctcagcgtctgtgctggccagcaggtttgatgtgagtggctaccccaccatc
+            aagatccttaagaaggggcaggctgtagactacgagggctccagaacccaggaagaaatt
+            gttgccaaggtcagagaagtctcccagcccgactggacgcctccaccagaagtcacgctt
+            gtgttgaccaaagagaactttgatgaagttgtgaatgatgcagatatcattctggtggag
+            ttttatgccccatggtgtggacactgcaagaaacttgcccccgagtatgagaaggccgcc
+            aaggagctcagcaagcgttctcctccaattcccctggcaaaggtcgacgccaccgcagaa
+            acagacctggccaagaggtttgatgtctctggctatcccaccctgaaaattttccgcaaa
+            ggaaggccttatgactacaacggcccacgagaaaaatatggaatcgttgattacatgatc
+            gagcagtccgggcctccctccaaggagattctgaccctgaagcaggtccaggagttcctg
+            aaggatggagacgatgtcatcatcatcggggtctttaagggggagagtgacccagcctac
+            cagcaataccaggatgccgctaacaacctgagagaagattacaaatttcaccacactttc
+            agcacagaaatagcaaagttcttgaaagtctcccaggggcagttggttgtaatgcagcct
+            gagaaattccagtccaagtatgagccccggagccacatgatggacgtccagggctccacc
+            caggactcggccatcaaggacttcgtgctgaagtacgccctgcccctggttggccaccgc
+            aaggtgtcaaacgatgctaagcgctacaccaggcgccccctggtggtcgtctactacagt
+            gtggacttcagctttgattacagagctgcaactcagttttggcggagcaaagtcctagag
+            gtggccaaggacttccctgagtacacctttgccattgcggacgaagaggactatgctggg
+            gaggtgaaggacctggggctcagcgagagtggggaggatgtcaatgccgccatcctggac
+            gagagtgggaagaagttcgccatggagccagaggagtttgactctgacaccctccgcgag
+            tttgtcactgctttcaaaaaaggaaaactgaagccagtcatcaaatcccagccagtgccc
+            aagaacaacaagggacccgtcaaggtcgtggtgggaaagacctttgactccattgtgatg
+            gaccccaagaaggacgtcctcatcgagttctacgcgccatggtgcgggcactgcaagcag
+            ctagagcccgtgtacaacagcctggccaagaagtacaagggccaaaagggcctggtcatc
+            gccaagatggacgccactgccaacgacgtccccagcgaccgctataaggtggagggcttc
+            cccaccatctacttcgcccccagtggggacaaaaagaacccagttaaatttgagggtgga
+            gacagagatctggagcatttgagcaagtttatagaagaacatgccacaaaactgagcagg
+            accaaggaagagctttga
+///

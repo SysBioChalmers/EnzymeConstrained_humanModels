@@ -1,0 +1,94 @@
+ENTRY       11200             CDS       T01001
+NAME        CHEK2, CDS1, CHK2, HuCds1, LFS2, PP1425, RAD53, hCds1
+DEFINITION  (RefSeq) checkpoint kinase 2
+ORTHOLOGY   K06641  serine/threonine-protein kinase Chk2 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04218  Cellular senescence
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00691  DNA damage-induced cell cycle checkpoints
+DISEASE     H00881  Li-Fraumeni syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                11200 (CHEK2)
+               04115 p53 signaling pathway
+                11200 (CHEK2)
+               04218 Cellular senescence
+                11200 (CHEK2)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                11200 (CHEK2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 11200 (CHEK2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CAMK group
+              RAD53 family
+               11200 (CHEK2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Other check point factors
+                11200 (CHEK2)
+POSITION    22q12.1
+MOTIF       Pfam: Pkinase Pkinase_Tyr FHA Kinase-like Kdo Haspin_kinase RIO1 YrbL-PhoP_reg APH
+DBLINKS     NCBI-GeneID: 11200
+            NCBI-ProteinID: NP_009125
+            OMIM: 604373
+            HGNC: 16627
+            Ensembl: ENSG00000183765
+            Vega: OTTHUMG00000151023
+            Pharos: O96017(Tchem)
+            UniProt: O96017
+STRUCTURE   PDB: 2YCF 2YIQ 2YCQ 2W0J 2W7X 2YIR 2WTJ 2YIT 2YCR 2CN5 2XBJ
+                 4BDI 2YCS 2XK9 4A9U 4BDB 2XM9 2WTI 4BDE 4BDA 4A9S 4BDD
+                 4BDF 4BDH 4A9T 2WTD 4BDG 4A9R 4BDC 2WTC 3I6U 4BDJ 3I6W
+                 4BDK 2XM8 2CN8 1GXC
+AASEQ       543
+            MSRESDVEAQQSHGSSACSQPHGSVTQSQGSSSQSQGISSSSTSTMPNSSQSSHSSSGTL
+            SSLETVSTQELYSIPEDQEPEDQEPEEPTPAPWARLWALQDGFANLECVNDNYWFGRDKS
+            CEYCFDEPLLKRTDKYRTYSKKHFRIFREVGPKNSYIAYIEDHSGNGTFVNTELVGKGKR
+            RPLNNNSEIALSLSRNKVFVFFDLTVDDQSVYPKALRDEYIMSKTLGSGACGEVKLAFER
+            KTCKKVAIKIISKRKFAIGSAREADPALNVETEIEILKKLNHPCIIKIKNFFDAEDYYIV
+            LELMEGGELFDKVVGNKRLKEATCKLYFYQMLLAVQYLHENGIIHRDLKPENVLLSSQEE
+            DCLIKITDFGHSKILGETSLMRTLCGTPTYLAPEVLVSVGTAGYNRAVDCWSLGVILFIC
+            LSGYPPFSEHRTQVSLKDQITSGKYNFIPEVWAEVSEKALDLVKKLLVVDPKARFTTEEA
+            LRHPWLQDEDMKRKFQDLLSEENESTALPQVLAQPSTSRKRPREGEAEGAETTKRPAVCA
+            AVL
+NTSEQ       1632
+            atgtctcgggagtcggatgttgaggctcagcagtctcatggcagcagtgcctgttcacag
+            ccccatggcagcgttacccagtcccaaggctcctcctcacagtcccagggcatatccagc
+            tcctctaccagcacgatgccaaactccagccagtcctctcactccagctctgggacactg
+            agctccttagagacagtgtccactcaggaactctattctattcctgaggaccaagaacct
+            gaggaccaagaacctgaggagcctacccctgccccctgggctcgattatgggcccttcag
+            gatggatttgccaatcttgaatgtgtgaatgacaactactggtttgggagggacaaaagc
+            tgtgaatattgctttgatgaaccactgctgaaaagaacagataaataccgaacatacagc
+            aagaaacactttcggattttcagggaagtgggtcctaaaaactcttacattgcatacata
+            gaagatcacagtggcaatggaacctttgtaaatacagagcttgtagggaaaggaaaacgc
+            cgtcctttgaataacaattctgaaattgcactgtcactaagcagaaataaagtttttgtc
+            ttttttgatctgactgtagatgatcagtcagtttatcctaaggcattaagagatgaatac
+            atcatgtcaaaaactcttggaagtggtgcctgtggagaggtaaagctggctttcgagagg
+            aaaacatgtaagaaagtagccataaagatcatcagcaaaaggaagtttgctattggttca
+            gcaagagaggcagacccagctctcaatgttgaaacagaaatagaaattttgaaaaagcta
+            aatcatccttgcatcatcaagattaaaaacttttttgatgcagaagattattatattgtt
+            ttggaattgatggaagggggagagctgtttgacaaagtggtggggaataaacgcctgaaa
+            gaagctacctgcaagctctatttttaccagatgctcttggctgtgcagtaccttcatgaa
+            aacggtattatacaccgtgacttaaagccagagaatgttttactgtcatctcaagaagag
+            gactgtcttataaagattactgattttgggcactccaagattttgggagagacctctctc
+            atgagaaccttatgtggaacccccacctacttggcgcctgaagttcttgtttctgttggg
+            actgctgggtataaccgtgctgtggactgctggagtttaggagttattctttttatctgc
+            cttagtgggtatccacctttctctgagcataggactcaagtgtcactgaaggatcagatc
+            accagtggaaaatacaacttcattcctgaagtctgggcagaagtctcagagaaagctctg
+            gaccttgtcaagaagttgttggtagtggatccaaaggcacgttttacgacagaagaagcc
+            ttaagacacccgtggcttcaggatgaagacatgaagagaaagtttcaagatcttctgtct
+            gaggaaaatgaatccacagctctaccccaggttctagcccagccttctactagtcgaaag
+            cggccccgtgaaggggaagccgagggtgccgagaccacaaagcgcccagctgtgtgtgct
+            gctgtgttgtga
+///

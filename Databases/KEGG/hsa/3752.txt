@@ -1,0 +1,76 @@
+ENTRY       3752              CDS       T01001
+NAME        KCND3, BRGDA9, KCND3L, KCND3S, KSHIVB, KV4.3, SCA19, SCA22
+DEFINITION  (RefSeq) potassium voltage-gated channel subfamily D member 3
+ORTHOLOGY   K04893  potassium voltage-gated channel Shal-related subfamily D member 3
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00063  Spinocerebellar ataxia (SCA)
+            H00728  Brugada syndrome (BRS)
+DRUG_TARGET Amiodarone (DG00204): D00636 D02910
+            Bepridil (DG00333): D00631 D07520
+            Butamben: D00730
+            Clofilium phosphate: D03547
+            Dronedarone (DG00207): D02537 D03914
+            Nifekalant hydrochloride: D01856
+            Tedisamil (DG00206): D06652 D06653
+BRITE       Ion channels [BR:hsa04040]
+             Voltage-gated cation channels
+              K+ channel, KCND, Kv4.x (Shal)
+               3752 (KCND3)
+POSITION    1p13.2
+MOTIF       Pfam: DUF3399 Ion_trans BTB_2 Shal-type Ion_trans_2 BTB_3 PKD_channel
+DBLINKS     NCBI-GeneID: 3752
+            NCBI-ProteinID: NP_004971
+            OMIM: 605411
+            HGNC: 6239
+            Ensembl: ENSG00000171385
+            Vega: OTTHUMG00000011989
+            Pharos: Q9UK17(Tclin)
+            UniProt: Q9UK17
+STRUCTURE   PDB: 1S1G 2NZ0
+AASEQ       655
+            MAAGVAAWLPFARAAAIGWMPVANCPMPLAPADKNKRQDELIVLNVSGRRFQTWRTTLER
+            YPDTLLGSTEKEFFFNEDTKEYFFDRDPEVFRCVLNFYRTGKLHYPRYECISAYDDELAF
+            YGILPEIIGDCCYEEYKDRKRENAERLMDDNDSENNQESMPSLSFRQTMWRAFENPHTST
+            LALVFYYVTGFFIAVSVITNVVETVPCGTVPGSKELPCGERYSVAFFCLDTACVMIFTVE
+            YLLRLFAAPSRYRFIRSVMSIIDVVAIMPYYIGLVMTNNEDVSGAFVTLRVFRVFRIFKF
+            SRHSQGLRILGYTLKSCASELGFLLFSLTMAIIIFATVMFYAEKGSSASKFTSIPASFWY
+            TIVTMTTLGYGDMVPKTIAGKIFGSICSLSGVLVIALPVPVIVSNFSRIYHQNQRADKRR
+            AQKKARLARIRVAKTGSSNAYLHSKRNGLLNEALELTGTPEEEHMGKTTSLIESQHHHLL
+            HCLEKTTGLSYLVDDPLLSVRTSTIKNHEFIDEQMFEQNCMESSMQNYPSTRSPSLSSHP
+            GLTTTCCSRRSKKTTHLPNSNLPATRLRSMQELSTIHIQGSEQPSLTTSRSSLNLKADDG
+            LRPNCKTSQITTAIISIPTPPALTPEGESRPPPASPGPNTNIPSIASNVVKVSAL
+NTSEQ       1968
+            atggcggccggagttgcggcctggctgccttttgcccgggctgcggccatcgggtggatg
+            ccggtggccaactgccccatgcccctggccccggccgacaagaacaagcggcaggatgag
+            ctgattgtcctcaacgtgagtgggcggaggttccagacctggaggaccacgctggagcgc
+            tacccggacaccctgctgggcagcacggagaaggagttcttcttcaacgaggacaccaag
+            gagtacttcttcgaccgggaccccgaggtgttccgctgcgtgctcaacttctaccgcacg
+            gggaagctgcactacccgcgctacgagtgcatctctgcctacgacgacgagctggccttc
+            tacggcatcctcccggagatcatcggggactgctgctacgaggagtacaaggaccgcaag
+            agggagaacgccgagcggctcatggacgacaacgactcggagaacaaccaggagtccatg
+            ccctcgctcagcttccgccagaccatgtggcgggccttcgagaacccccacaccagcacg
+            ctggccctggtcttctactacgtgactggcttcttcatcgctgtctcggtcatcaccaac
+            gtggtggagacggtgccgtgcggcacggtcccgggcagcaaggagctgccgtgcggggag
+            cgctactcggtggccttcttctgcctggacacggcgtgcgtcatgatcttcaccgtggag
+            tacctcctgcggctcttcgcggctcccagccgctaccgcttcatccgcagcgtcatgagc
+            atcatcgacgtggtggccatcatgccctactacatcggtctggtcatgaccaacaacgag
+            gacgtgtccggcgccttcgtcacgctccgggtcttccgcgtcttcaggatcttcaagttt
+            tcccgccactcccagggcctgcggatcctgggctacacactgaagagctgtgcctccgaa
+            ctgggctttcttctcttctccctcaccatggccatcatcatctttgccactgtgatgttt
+            tatgccgagaagggctcctcggccagcaagttcacaagcatccctgcctcgttttggtac
+            accattgtcaccatgaccacactgggatacggagacatggtgcctaagacgattgcaggg
+            aagatcttcggctccatctgctccttgagtggcgtcctggtcattgccctgccagtccct
+            gtgattgtttccaactttagccggatttaccaccagaatcagagagctgataaacgcagg
+            gcacaaaagaaggcccgccttgccaggatccgtgtggccaaaacaggcagttcgaatgca
+            tacctgcacagcaagcgcaacgggctcctcaacgaggcgctggagctgacgggcacccca
+            gaagaggagcacatgggcaagaccacctcactcatcgagagccagcatcatcacctgctg
+            cactgcctggaaaaaaccactgggttgtcctatcttgtggatgatcccctgttatctgta
+            cgaacctccaccatcaagaaccacgagtttattgatgagcagatgtttgagcagaactgc
+            atggagagttcaatgcagaactacccatccacaagaagtccctcactgtccagccaccca
+            ggcctcactaccacctgctgctcccgtcgtagtaagaagaccacacacctgcccaattct
+            aacctgccagctactcgcctgcgcagcatgcaagagctcagcacgatccacatccagggc
+            agtgagcagccctccctcacaaccagtcgctccagccttaatttgaaagcagacgacgga
+            ctgagaccaaactgcaaaacatcccagatcaccacagccatcatcagcatccccactccc
+            ccagcgctaaccccagagggggaaagtcggccaccccctgccagcccaggccccaacacg
+            aacattccttccatagccagcaatgttgtcaaggtctccgccttgtaa
+///

@@ -1,0 +1,79 @@
+ENTRY       2717              CDS       T01001
+NAME        GLA, GALA
+DEFINITION  (RefSeq) galactosidase alpha
+ORTHOLOGY   K01189  alpha-galactosidase [EC:3.2.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00052  Galactose metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            hsa04142  Lysosome
+DISEASE     H00125  Fabry disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00052 Galactose metabolism
+                2717 (GLA)
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                2717 (GLA)
+               00600 Sphingolipid metabolism
+                2717 (GLA)
+              Glycan biosynthesis and metabolism
+               00603 Glycosphingolipid biosynthesis - globo and isoglobo series
+                2717 (GLA)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                2717 (GLA)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.22  alpha-galactosidase
+                 2717 (GLA)
+POSITION    Xq22.1
+MOTIF       Pfam: Melibiase_2 Melibiase_2_C Melibiase SAND
+DBLINKS     NCBI-GeneID: 2717
+            NCBI-ProteinID: NP_000160
+            OMIM: 300644
+            HGNC: 4296
+            Ensembl: ENSG00000102393
+            Vega: OTTHUMG00000022026
+            Pharos: P06280(Tclin)
+            UniProt: P06280 Q53Y83
+STRUCTURE   PDB: 3HG3 3S5Z 3LX9 3S5Y 3GXP 3HG2 3HG4 3HG5 3LXC 4NXS 3TV8
+                 3GXT 3LXB 3GXN 3LXA 1R46 1R47
+AASEQ       429
+            MQLRNPELHLGCALALRFLALVSWDIPGARALDNGLARTPTMGWLHWERFMCNLDCQEEP
+            DSCISEKLFMEMAELMVSEGWKDAGYEYLCIDDCWMAPQRDSEGRLQADPQRFPHGIRQL
+            ANYVHSKGLKLGIYADVGNKTCAGFPGSFGYYDIDAQTFADWGVDLLKFDGCYCDSLENL
+            ADGYKHMSLALNRTGRSIVYSCEWPLYMWPFQKPNYTEIRQYCNHWRNFADIDDSWKSIK
+            SILDWTSFNQERIVDVAGPGGWNDPDMLVIGNFGLSWNQQVTQMALWAIMAAPLFMSNDL
+            RHISPQAKALLQDKDVIAINQDPLGKQGYQLRQGDNFEVWERPLSGLAWAVAMINRQEIG
+            GPRSYTIAVASLGKGVACNPACFITQLLPVKRKLGFYEWTSRLRSHINPTGTVLLQLENT
+            MQMSLKDLL
+NTSEQ       1290
+            atgcagctgaggaacccagaactacatctgggctgcgcgcttgcgcttcgcttcctggcc
+            ctcgtttcctgggacatccctggggctagagcactggacaatggattggcaaggacgcct
+            accatgggctggctgcactgggagcgcttcatgtgcaaccttgactgccaggaagagcca
+            gattcctgcatcagtgagaagctcttcatggagatggcagagctcatggtctcagaaggc
+            tggaaggatgcaggttatgagtacctctgcattgatgactgttggatggctccccaaaga
+            gattcagaaggcagacttcaggcagaccctcagcgctttcctcatgggattcgccagcta
+            gctaattatgttcacagcaaaggactgaagctagggatttatgcagatgttggaaataaa
+            acctgcgcaggcttccctgggagttttggatactacgacattgatgcccagacctttgct
+            gactggggagtagatctgctaaaatttgatggttgttactgtgacagtttggaaaatttg
+            gcagatggttataagcacatgtccttggccctgaataggactggcagaagcattgtgtac
+            tcctgtgagtggcctctttatatgtggccctttcaaaagcccaattatacagaaatccga
+            cagtactgcaatcactggcgaaattttgctgacattgatgattcctggaaaagtataaag
+            agtatcttggactggacatcttttaaccaggagagaattgttgatgttgctggaccaggg
+            ggttggaatgacccagatatgttagtgattggcaactttggcctcagctggaatcagcaa
+            gtaactcagatggccctctgggctatcatggctgctcctttattcatgtctaatgacctc
+            cgacacatcagccctcaagccaaagctctccttcaggataaggacgtaattgccatcaat
+            caggaccccttgggcaagcaagggtaccagcttagacagggagacaactttgaagtgtgg
+            gaacgacctctctcaggcttagcctgggctgtagctatgataaaccggcaggagattggt
+            ggacctcgctcttataccatcgcagttgcttccctgggtaaaggagtggcctgtaatcct
+            gcctgcttcatcacacagctcctccctgtgaaaaggaagctagggttctatgaatggact
+            tcaaggttaagaagtcacataaatcccacaggcactgttttgcttcagctagaaaataca
+            atgcagatgtcattaaaagacttactttaa
+///

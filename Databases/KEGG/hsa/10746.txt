@@ -1,0 +1,90 @@
+ENTRY       10746             CDS       T01001
+NAME        MAP3K2, MEKK2, MEKK2B
+DEFINITION  (RefSeq) mitogen-activated protein kinase kinase kinase 2
+ORTHOLOGY   K04420  mitogen-activated protein kinase kinase kinase 2 [EC:2.7.11.25]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04540  Gap junction
+            hsa04912  GnRH signaling pathway
+MODULE      hsa_M00688  MAPK (JNK) signaling
+            hsa_M00689  MAPK (p38) signaling
+            hsa_M00690  MAPK (ERK5) signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                10746 (MAP3K2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                10746 (MAP3K2)
+             Organismal Systems
+              Endocrine system
+               04912 GnRH signaling pathway
+                10746 (MAP3K2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.25  mitogen-activated protein kinase kinase kinase
+                 10746 (MAP3K2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: STE group
+              STE11 family
+               10746 (MAP3K2)
+POSITION    2q14.3
+MOTIF       Pfam: Pkinase Pkinase_Tyr PB1 Kinase-like FTA2 Kdo
+DBLINKS     NCBI-GeneID: 10746
+            NCBI-ProteinID: NP_006600
+            OMIM: 609487
+            HGNC: 6854
+            Ensembl: ENSG00000169967
+            Vega: OTTHUMG00000153397
+            Pharos: Q9Y2U5(Tchem)
+            UniProt: Q9Y2U5 A0A024RAH0
+STRUCTURE   PDB: 2NPT 2CU1
+AASEQ       619
+            MDDQQALNSIMQDLAVLHKASRPALSLQETRKAKSSSPKKQNDVRVKFEHRGEKRILQFP
+            RPVKLEDLRSKAKIAFGQSMDLHYTNNELVIPLTTQDDLDKAVELLDRSIHMKSLKILLV
+            INGSTQATNLEPLPSLEDLDNTVFGAERKKRLSIIGPTSRDRSSPPPGYIPDELHQVARN
+            GSFTSINSEGEFIPESMDQMLDPLSLSSPENSGSGSCPSLDSPLDGESYPKSRMPRAQSY
+            PDNHQEFSDYDNPIFEKFGKGGTYPRRYHVSYHHQEYNDGRKTFPRARRTQGTSLRSPVS
+            FSPTDHSLSTSSGSSIFTPEYDDSRIRRRGSDIDNPTLTVMDISPPSRSPRAPTNWRLGK
+            LLGQGAFGRVYLCYDVDTGRELAVKQVQFDPDSPETSKEVNALECEIQLLKNLLHERIVQ
+            YYGCLRDPQEKTLSIFMEYMPGGSIKDQLKAYGALTENVTRKYTRQILEGVHYLHSNMIV
+            HRDIKGANILRDSTGNVKLGDFGASKRLQTICLSGTGMKSVTGTPYWMSPEVISGEGYGR
+            KADIWSVACTVVEMLTEKPPWAEFEAMAAIFKIATQPTNPKLPPHVSDYTRDFLKRIFVE
+            AKLRPSADELLRHMFVHYH
+NTSEQ       1860
+            atggatgatcagcaagctttgaactcaatcatgcaagatttggctgtccttcataaggcc
+            agtcgaccagcattatccttgcaggaaaccagaaaagcaaaatcttcatcaccaaaaaaa
+            cagaatgatgtccgagtcaaatttgaacatagaggagaaaaaagaatccttcagttcccc
+            agaccagttaaactggaagatctgagatctaaagctaaaattgcctttggacagtctatg
+            gatctacattataccaataacgagttggtaattccattaactactcaagatgacttggac
+            aaagctgtggaactgctggatcgtagtattcatatgaagagcctcaagatattacttgta
+            ataaatggaagtacacaggctactaatttagaaccattgccatcactagaagatttggat
+            aatacagtatttggagcagagaggaaaaaacggctatctataataggtcctactagtaga
+            gatagaagttctcctcccccaggttacattccagatgaattacaccaggttgcccggaat
+            gggtcattcactagtatcaacagtgaaggagagttcattccagagagcatggaccaaatg
+            ctggatccattatctttaagcagccctgaaaattctggctcaggaagttgtccatcactt
+            gatagtcctttggatggagagagctatccaaaatcacgaatgcctagggctcagagctac
+            ccagataatcatcaggaattttcagactatgataaccctatctttgagaaatttggaaaa
+            ggaggaacatatccaagaaggtatcatgtttcatatcatcatcaagagtataatgatggt
+            cgtaaaacttttccaagagctagaaggacccaggggaccagcttacggtctcctgtgagt
+            ttcagtcctactgatcattccttaagcactagtagtggaagcagtatctttaccccagag
+            tatgatgatagtcgaataagaagaaggggaagtgacatagacaatcctactttgaccgta
+            atggacatcagcccacccagccgttcacctcgagctccgaccaactggagattgggcaaa
+            ctgcttggccaaggagcctttggaagggtctacctctgttatgatgttgatacaggaaga
+            gaattggctgttaagcaagttcaatttgaccccgatagtcctgagaccagcaaggaagta
+            aatgcacttgagtgtgaaattcagttgctgaaaaacttgctacatgagcgaattgttcag
+            tattatggctgtttgagggatccccaggaaaaaacactttccatatttatggaatatatg
+            ccagggggttcaattaaggaccaattaaaagcatatggcgctcttactgagaatgtgact
+            aggaaatacacccgtcagattctggagggtgtccattatttgcacagtaatatgattgtc
+            catagagatatcaaaggcgcaaatatcctgcgagattcaacaggcaacgtcaaactagga
+            gattttggggccagcaaacggcttcagaccatctgtctctcagggacaggaatgaagtct
+            gtcacgggcacaccatactggatgagccctgaagtcatcagtggagaaggctatggaaga
+            aaagcagacatctggagtgttgcatgtactgtggtagaaatgctaactgaaaagccgcct
+            tgggctgaatttgaagcaatggctgccatctttaaaatcgccactcagccaacaaaccca
+            aagctgccacctcatgtctcagactatactcgagatttcctcaaacggatttttgtagag
+            gccaaactgagaccttcagctgatgaactcttaaggcacatgtttgtgcattatcactag
+///

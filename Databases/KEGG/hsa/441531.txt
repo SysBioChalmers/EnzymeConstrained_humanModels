@@ -1,0 +1,79 @@
+ENTRY       441531            CDS       T01001
+NAME        PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K24.1
+DEFINITION  (RefSeq) phosphoglycerate mutase family member 4
+ORTHOLOGY   K01834  2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa04922  Glucagon signaling pathway
+            hsa05230  Central carbon metabolism in cancer
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                441531 (PGAM4)
+               01230 Biosynthesis of amino acids
+                441531 (PGAM4)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                441531 (PGAM4)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                441531 (PGAM4)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                441531 (PGAM4)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                441531 (PGAM4)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.11  phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+                 441531 (PGAM4)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of bladder cancer cells
+               441531 (PGAM4)
+              Exosomal proteins of melanoma cells
+               441531 (PGAM4)
+POSITION    Xq21.1
+MOTIF       Pfam: His_Phos_1 LysM
+DBLINKS     NCBI-GeneID: 441531
+            NCBI-ProteinID: NP_001025062
+            OMIM: 300567
+            HGNC: 21731
+            Ensembl: ENSG00000226784
+            Vega: OTTHUMG00000057865
+            Pharos: Q8N0Y7(Tdark)
+            UniProt: Q8N0Y7
+AASEQ       254
+            MAAYKLVLIRHGESTWNLENRFSCWYDADLSPAGHEEAKRGGQALRDAGYEFDICLTSVQ
+            KRVIRTLWTVLDAIDQMWLPVVRTWRLNERHYGGLTGLNKAETAAKHGEAQVKIWRRSYD
+            VPPPPMEPDHPFYSNISKDRRYADLTEDQLPSYESPKDTIARALPFWNEEIVPQIKEGKR
+            VLIAAHGNSLQGIAKHVEGLSEEAIMELNLPTGIPIVYELDKNLKPIKPMQFLGDEETVC
+            KAIEAVAAQGKAKK
+NTSEQ       765
+            atggccgcctacaaactggtgctgatccggcacggcgagagcacatggaacctggagaac
+            cgcttcagctgctggtacgacgccgatctgagcccggcgggccacgaggaggcgaagcgc
+            ggcgggcaggcgctacgagatgctggctatgagtttgacatctgcctcacctcagtgcag
+            aagagagtgatccggaccctctggacagtgctagatgccattgatcagatgtggctgcca
+            gtggtgaggacttggcgcctcaatgagcggcactatgggggtctaaccggtctcaataaa
+            gcagaaactgctgcaaagcatggtgaggcccaggtgaagatctggaggcgctcctatgat
+            gtcccaccacctccgatggagcccgaccatcctttctacagcaacatcagtaaggatcgc
+            aggtatgcagacctcacagaagatcagctaccctcctatgagagtccgaaggatactatt
+            gccagagctctgcccttctggaatgaagaaatagttccccagatcaaggaggggaaacgt
+            gtactgattgcagcccatggcaacagcctccagggcattgccaagcatgtggagggtctc
+            tctgaagaggctatcatggagctgaacctgccgactggtattcccatcgtctatgaattg
+            gacaagaacttgaagcctatcaagcccatgcagtttctgggggatgaagagacggtgtgc
+            aaagccatagaagctgtggctgcccagggcaaggccaagaagtga
+///

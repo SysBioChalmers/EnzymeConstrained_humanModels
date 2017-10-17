@@ -1,0 +1,139 @@
+ENTRY       3695              CDS       T01001
+NAME        ITGB7
+DEFINITION  (RefSeq) integrin subunit beta 7
+ORTHOLOGY   K06590  integrin beta 7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04672  Intestinal immune network for IgA production
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05165  Human papillomavirus infection
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DRUG_TARGET Valategrast hydrochloride: D10028
+            Vedolizumab: D08083
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3695 (ITGB7)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3695 (ITGB7)
+               04514 Cell adhesion molecules (CAMs)
+                3695 (ITGB7)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3695 (ITGB7)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3695 (ITGB7)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                3695 (ITGB7)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                3695 (ITGB7)
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3695 (ITGB7)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3695 (ITGB7)
+               05414 Dilated cardiomyopathy (DCM)
+                3695 (ITGB7)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3695 (ITGB7)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3695 (ITGB7)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Others
+               VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+                alpha 4 beta7	Cell adhesion molecules (CAMs)
+                 3695 (ITGB7)
+               MADCAM1; mucosal vascular addressin cell adhesion molecule 1 [KO:K06779]
+                 3695 (ITGB7)
+             5. Cadherin Family
+              Classic Cadherins
+               Vertebrate Type I classic cadherins
+                CDHE, CDH1; cadherin 1, type 1, E-cadherin [KO:K05689]
+                 alpha E beta 7	Cell adhesion molecules (CAMs)
+                  3695 (ITGB7)
+POSITION    12q13.13
+MOTIF       Pfam: Integrin_beta Integrin_b_cyt PSI_integrin EGF_2
+DBLINKS     NCBI-GeneID: 3695
+            NCBI-ProteinID: NP_000880
+            OMIM: 147559
+            HGNC: 6162
+            Ensembl: ENSG00000139626
+            Vega: OTTHUMG00000169775
+            Pharos: P26010(Tclin)
+            UniProt: P26010
+STRUCTURE   PDB: 2BRQ 3V4V 3V4P
+AASEQ       798
+            MVALPMVLVLLLVLSRGESELDAKIPSTGDATEWRNPHLSMLGSCQPAPSCQKCILSHPS
+            CAWCKQLNFTASGEAEARRCARREELLARGCPLEELEEPRGQQEVLQDQPLSQGARGEGA
+            TQLAPQRVRVTLRPGEPQQLQVRFLRAEGYPVDLYYLMDLSYSMKDDLERVRQLGHALLV
+            RLQEVTHSVRIGFGSFVDKTVLPFVSTVPSKLRHPCPTRLERCQSPFSFHHVLSLTGDAQ
+            AFEREVGRQSVSGNLDSPEGGFDAILQAALCQEQIGWRNVSRLLVFTSDDTFHTAGDGKL
+            GGIFMPSDGHCHLDSNGLYSRSTEFDYPSVGQVAQALSAANIQPIFAVTSAALPVYQELS
+            KLIPKSAVGELSEDSSNVVQLIMDAYNSLSSTVTLEHSSLPPGVHISYESQCEGPEKREG
+            KAEDRGQCNHVRINQTVTFWVSLQATHCLPEPHLLRLRALGFSEELIVELHTLCDCNCSD
+            TQPQAPHCSDGQGHLQCGVCSCAPGRLGRLCECSVAELSSPDLESGCRAPNGTGPLCSGK
+            GHCQCGRCSCSGQSSGHLCECDDASCERHEGILCGGFGRCQCGVCHCHANRTGRACECSG
+            DMDSCISPEGGLCSGHGRCKCNRCQCLDGYYGALCDQCPGCKTPCERHRDCAECGAFRTG
+            PLATNCSTACAHTNVTLALAPILDDGWCKERTLDNQLFFFLVEDDARGTVVLRVRPQEKG
+            ADHTQAIVLGCVGGIVAVGLGLVLAYRLSVEIYDRREYSRFEKEQQQLNWKQDSNPLYKS
+            AITTTINPRFQEADSPTL
+NTSEQ       2397
+            atggtggctttgccaatggtccttgttttgctgctggtcctgagcagaggtgagagtgaa
+            ttggacgccaagatcccatccacaggggatgccacagaatggcggaatcctcacctgtcc
+            atgctggggtcctgccagccagccccctcctgccagaagtgcatcctctcacaccccagc
+            tgtgcatggtgcaagcaactgaacttcaccgcgtcgggagaggcggaggcgcggcgctgc
+            gcccgacgagaggagctgctggctcgaggctgcccgctggaggagctggaggagccccgc
+            ggccagcaggaggtgctgcaggaccagccgctcagccagggcgcccgcggagagggtgcc
+            acccagctggcgccgcagcgggtccgggtcacgctgcggcctggggagccccagcagctc
+            caggtccgcttccttcgtgctgagggatacccggtggacctgtactaccttatggacctg
+            agctactccatgaaggacgacctggaacgcgtgcgccagctcgggcacgctctgctggtc
+            cggctgcaggaagtcacccattctgtgcgcattggttttggttcctttgtggacaaaacg
+            gtgctgccctttgtgagcacagtaccctccaaactgcgccacccctgccccacccggctg
+            gagcgctgccagtcaccattcagctttcaccatgtgctgtccctgacgggggacgcacaa
+            gccttcgagcgggaggtggggcgccagagtgtgtccggcaatctggactcgcctgaaggt
+            ggcttcgatgccattctgcaggctgcactctgccaggagcagattggctggagaaatgtg
+            tcccggctgctggtgttcacttcagacgacacattccatacagctggggacgggaagttg
+            ggcggcattttcatgcccagtgatgggcactgccacttggacagcaatggcctctacagt
+            cgcagcacagagtttgactacccttctgtgggtcaggtagcccaggccctctctgcagca
+            aatatccagcccatctttgctgtcaccagtgccgcactgcctgtctaccaggagctgagt
+            aaactgattcctaagtctgcagttggggagctgagtgaggactccagcaacgtggtacag
+            ctcatcatggatgcttataatagcctgtcttccaccgtgacccttgaacactcttcactc
+            cctcctggggtccacatttcttacgaatcccagtgtgagggtcctgagaagagggagggt
+            aaggctgaggatcgaggacagtgcaaccacgtccgaatcaaccagacggtgactttctgg
+            gtttctctccaagccacccactgcctcccagagccccatctcctgaggctccgggccctt
+            ggcttctcagaggagctgattgtggagttgcacacgctgtgtgactgtaattgcagtgac
+            acccagccccaggctccccactgcagtgatggccagggacacctacaatgtggtgtatgc
+            agctgtgcccctggccgcctaggtcggctctgtgagtgctctgtggcagagctgtcctcc
+            ccagacctggaatctgggtgccgggctcccaatggcacagggcccctgtgcagtggaaag
+            ggtcactgtcaatgtggacgctgcagctgcagtggacagagctctgggcatctgtgcgag
+            tgtgacgatgccagctgtgagcgacatgagggcatcctctgcggaggctttggtcgctgc
+            caatgtggagtatgtcactgtcatgccaaccgcacgggcagagcatgcgaatgcagtggg
+            gacatggacagttgcatcagtcccgagggagggctctgcagtgggcatggacgctgcaaa
+            tgcaaccgctgccagtgcttggacggctactatggtgctctatgcgaccaatgcccaggc
+            tgcaagacaccatgcgagagacaccgggactgtgcagagtgtggggccttcaggactggc
+            ccactggccaccaactgcagtacagcttgtgcccataccaatgtgaccctggccttggcc
+            cctatcttggatgatggctggtgcaaagagcggaccctggacaaccagctgttcttcttc
+            ttggtggaggatgacgccagaggcacggtcgtgctcagagtgagaccccaagaaaaggga
+            gcagaccacacgcaggccattgtgctgggctgcgtagggggcatcgtggcagtggggctg
+            gggctggtcctggcttaccggctctcggtggaaatctatgaccgccgggaatacagtcgc
+            tttgagaaggagcagcaacaactcaactggaagcaggacagtaatcctctctacaaaagt
+            gccatcacgaccaccatcaatcctcgctttcaagaggcagacagtcccactctctga
+///

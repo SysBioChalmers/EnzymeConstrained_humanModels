@@ -1,0 +1,55 @@
+ENTRY       10423             CDS       T01001
+NAME        CDIPT, PIS, PIS1
+DEFINITION  (RefSeq) CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+ORTHOLOGY   K00999  CDP-diacylglycerol--inositol 3-phosphatidyltransferase [EC:2.7.8.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                10423 (CDIPT)
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                10423 (CDIPT)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                10423 (CDIPT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.11  CDP-diacylglycerol---inositol 3-phosphatidyltransferase
+                 10423 (CDIPT)
+POSITION    16p11.2
+MOTIF       Pfam: CDP-OH_P_transf
+DBLINKS     NCBI-GeneID: 10423
+            NCBI-ProteinID: NP_006310
+            OMIM: 605893
+            HGNC: 1769
+            Ensembl: ENSG00000103502
+            Vega: OTTHUMG00000177144
+            Pharos: O14735(Tbio)
+            UniProt: O14735 A8K3L7
+AASEQ       213
+            MPDENIFLFVPNLIGYARIVFAIISFYFMPCCPLTASSFYLLSGLLDAFDGHAARALNQG
+            TRFGAMLDMLTDRCSTMCLLVNLALLYPGATLFFQISMSLDVASHWLHLHSSVVRGSESH
+            KMIDLSGNPVLRIYYTSRPALFTLCAGNELFYCLLYLFHFSEGPLVGSVGLFRMGLWVTA
+            PIALLKSLISVIHLITAARNMAALDAADRAKKK
+NTSEQ       642
+            atgccagacgaaaatatcttcctgttcgtgcccaacctcatcggttatgcccggattgtc
+            ttcgccatcatttctttctacttcatgccctgctgccccctcacggcctcctccttctac
+            ctgctcagcggcctgctggacgctttcgatggacacgctgctcgcgctcttaatcaagga
+            acccggtttggggccatgctggacatgctgacggaccgctgctccaccatgtgcctgttg
+            gtcaacctggccctgctgtaccctggagccacgctgttcttccaaatcagcatgagtttg
+            gatgtggccagtcactggctgcacctccacagttctgtggtccgaggcagtgagagtcac
+            aagatgatcgacttgtccgggaatccggtgcttcggatctactacacctcgaggcctgct
+            ctgttcaccttgtgtgctgggaatgagctcttctactgcctcctctacctgttccatttc
+            tctgagggacctttagttggctctgtgggactgttccggatgggcctctgggtcactgcc
+            cccatcgccttgctgaagtcgctcatcagcgtcatccacctgatcacggccgcccgcaac
+            atggctgccctggacgcagcagaccgcgccaagaagaagtga
+///

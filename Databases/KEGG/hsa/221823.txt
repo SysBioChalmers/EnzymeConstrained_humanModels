@@ -1,0 +1,65 @@
+ENTRY       221823            CDS       T01001
+NAME        PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III
+DEFINITION  (RefSeq) phosphoribosyl pyrophosphate synthetase 1-like 1
+ORTHOLOGY   K00948  ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa00230  Purine metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00005  PRPP biosynthesis, ribose 5P => PRPP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                221823 (PRPS1L1)
+               01230 Biosynthesis of amino acids
+                221823 (PRPS1L1)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                221823 (PRPS1L1)
+              Nucleotide metabolism
+               00230 Purine metabolism
+                221823 (PRPS1L1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.6  Diphosphotransferases
+                2.7.6.1  ribose-phosphate diphosphokinase
+                 221823 (PRPS1L1)
+POSITION    7p21.1
+MOTIF       Pfam: Pribosyltran_N Pribosyl_synth Pribosyltran UPRTase
+DBLINKS     NCBI-GeneID: 221823
+            NCBI-ProteinID: NP_787082
+            OMIM: 611566
+            HGNC: 9463
+            Ensembl: ENSG00000229937
+            Vega: OTTHUMG00000152742
+            Pharos: P21108(Tdark)
+            UniProt: P21108
+AASEQ       318
+            MPNIKIFSGSSHQDLSQKIADRLGLELGKVVTKKFSNQETCVEIDESVRGEDVYIVQSGC
+            GEINDSLMELLIMINACKIASASRVTAVIPCFPYARQDKKDKSRSPISAKLVANMLSIAG
+            ADHIITMDLHASQIQGFFDIPVDNLYAEPTVLKWIRENIPEWKNCIIVSPDAGGAKRVTS
+            IADQLNVDFALIHKERKKANEVDCIVLVGDVNDRVAILVDDMADTCVTICLAADKLLSAG
+            ATRVYAILTHGIFSGPAISRINTACFEAVVVTNTIPQDEKMKHCSKIRVIDISMILAEAI
+            RRTHNGESVSYLFSHVPL
+NTSEQ       957
+            acgccgaatatcaaaatcttcagcggcagctcccaccaggacttatcccagaaaattgct
+            gaccgcctgggcctggagctaggcaaggtggtgactaagaaattcagcaaccaggagacc
+            tgcgtggaaattgatgagagtgtgcgtggagaggatgtctacatcgttcagagtggttgt
+            ggcgaaatcaacgacagtctaatggagcttttgatcatgattaatgcctgcaagattgct
+            tcagctagccgagttactgcagtcatcccatgcttcccttatgcccgacaggataagaag
+            gataagagccggtccccaatctctgccaagcttgttgcaaatatgctctctatagcaggt
+            gcggatcatatcatcaccatggacctacatgcttctcaaattcagggcttttttgatatc
+            ccagtagacaacttgtatgcagagccaactgtcctgaagtggataagggagaatatccct
+            gagtggaagaactgcattattgtctcgccagatgctggtggagctaaaagagtgacctcc
+            attgcagaccagttgaatgtggactttgctttgattcataaagaacggaagaaggccaat
+            gaagtggactgcatagtgctagtgggagatgtgaatgatcgtgtggctatccttgtagat
+            gacatggcagacacttgtgttacaatctgcctcgcagctgacaaacttctctcagctgga
+            gcaaccagagtttatgctatcttgactcatggaatcttttctggcccagccatttctcgc
+            atcaacactgcatgctttgaagcagtggtagtcaccaataccatacctcaagatgagaag
+            atgaagcattgctccaaaatacgagtaattgacatctccatgatccttgcagaagccata
+            aggagaactcataatggggaatctgtttcctacctgttcagccatgttcctttataa
+///

@@ -1,0 +1,78 @@
+ENTRY       4322              CDS       T01001
+NAME        MMP13, CLG3, MANDP1, MDST, MMP-13
+DEFINITION  (RefSeq) matrix metallopeptidase 13
+ORTHOLOGY   K07994  matrix metalloproteinase-13 (collagenase 3) [EC:3.4.24.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04657  IL-17 signaling pathway
+            hsa04926  Relaxin signaling pathway
+DISEASE     H00479  Metaphyseal dysplasias
+DRUG_TARGET Cipemastat: D03517
+            Prinomastat: D03797
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04657 IL-17 signaling pathway
+                4322 (MMP13)
+              Endocrine system
+               04926 Relaxin signaling pathway
+                4322 (MMP13)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 4322 (MMP13)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M10
+               4322 (MMP13)
+POSITION    11q22.2
+MOTIF       Pfam: Peptidase_M10 Hemopexin PG_binding_1 Reprolysin_4 Reprolysin_3 DUF4953 Reprolysin_5
+DBLINKS     NCBI-GeneID: 4322
+            NCBI-ProteinID: NP_002418
+            OMIM: 600108
+            HGNC: 7159
+            Ensembl: ENSG00000137745
+            Vega: OTTHUMG00000165850
+            Pharos: P45452(Tclin)
+            UniProt: P45452 Q53H33
+STRUCTURE   PDB: 5B5O 3ZXH 4JP4 5UWK 5B5P 3WV3 830C 5UWM 4L19 2YIG 1XUC
+                 2OW9 5BPA 1XUD 5BOT 1XUR 3O2X 3KRY 3ELM 3I7G 3KEK 3WV1
+                 4JPA 3LJZ 2E2D 1ZTQ 5BOY 3KEC 4A7B 3I7I 3WV2 3KEJ 2OZR
+                 1YOU 2D1N 456C 3TVC 4FVL 4G0D 5UWL 1PEX 2PJT 4FU4 5UWN
+                 1FLS 1FM1 1EUB
+AASEQ       471
+            MHPGVLAAFLFLSWTHCRALPLPSGGDEDDLSEEDLQFAERYLRSYYHPTNLAGILKENA
+            ASSMTERLREMQSFFGLEVTGKLDDNTLDVMKKPRCGVPDVGEYNVFPRTLKWSKMNLTY
+            RIVNYTPDMTHSEVEKAFKKAFKVWSDVTPLNFTRLHDGIADIMISFGIKEHGDFYPFDG
+            PSGLLAHAFPPGPNYGGDAHFDDDETWTSSSKGYNLFLVAAHEFGHSLGLDHSKDPGALM
+            FPIYTYTGKSHFMLPDDDVQGIQSLYGPGDEDPNPKHPKTPDKCDPSLSLDAITSLRGET
+            MIFKDRFFWRLHPQQVDAELFLTKSFWPELPNRIDAAYEHPSHDLIFIFRGRKFWALNGY
+            DILEGYPKKISELGLPKEVKKISAAVHFEDTGKTLLFSGNQVWRYDDTNHIMDKDYPRLI
+            EEDFPGIGDKVDAVYEKNGYIYFFNGPIQFEYSIWSNRIVRVMPANSILWC
+NTSEQ       1416
+            atgcatccaggggtcctggctgccttcctcttcttgagctggactcattgtcgggccctg
+            ccccttcccagtggtggtgatgaagatgatttgtctgaggaagacctccagtttgcagag
+            cgctacctgagatcatactaccatcctacaaatctcgcgggaatcctgaaggagaatgca
+            gcaagctccatgactgagaggctccgagaaatgcagtctttcttcggcttagaggtgact
+            ggcaaacttgacgataacaccttagatgtcatgaaaaagccaagatgcggggttcctgat
+            gtgggtgaatacaatgttttccctcgaactcttaaatggtccaaaatgaatttaacctac
+            agaattgtgaattacacccctgatatgactcattctgaagtcgaaaaggcattcaaaaaa
+            gccttcaaagtttggtccgatgtaactcctctgaattttaccagacttcacgatggcatt
+            gctgacatcatgatctcttttggaattaaggagcatggcgacttctacccatttgatggg
+            ccctctggcctgctggctcatgcttttcctcctgggccaaattatggaggagatgcccat
+            tttgatgatgatgaaacctggacaagtagttccaaaggctacaacttgtttcttgttgct
+            gcgcatgagttcggccactccttaggtcttgaccactccaaggaccctggagcactcatg
+            tttcctatctacacctacaccggcaaaagccactttatgcttcctgatgacgatgtacaa
+            gggatccagtctctctatggtccaggagatgaagaccccaaccctaaacatccaaaaacg
+            ccagacaaatgtgacccttccttatcccttgatgccattaccagtctccgaggagaaaca
+            atgatctttaaagacagattcttctggcgcctgcatcctcagcaggttgatgcggagctg
+            tttttaacgaaatcattttggccagaacttcccaaccgtattgatgctgcatatgagcac
+            ccttctcatgacctcatcttcatcttcagaggtagaaaattttgggctcttaatggttat
+            gacattctggaaggttatcccaaaaaaatatctgaactgggtcttccaaaagaagttaag
+            aagataagtgcagctgttcactttgaggatacaggcaagactctcctgttctcaggaaac
+            caggtctggagatatgatgatactaaccatattatggataaagactatccgagactaata
+            gaagaagacttcccaggaattggtgataaagtagatgctgtctatgagaaaaatggttat
+            atctattttttcaacggacccatacagtttgaatacagcatctggagtaaccgtattgtt
+            cgcgtcatgccagcaaattccattttgtggtgttaa
+///

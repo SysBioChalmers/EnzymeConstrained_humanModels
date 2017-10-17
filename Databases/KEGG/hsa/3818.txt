@@ -1,0 +1,82 @@
+ENTRY       3818              CDS       T01001
+NAME        KLKB1, KLK3, PKK, PKKD, PPK
+DEFINITION  (RefSeq) kallikrein B1
+ORTHOLOGY   K01324  plasma kallikrein [EC:3.4.21.34]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+DISEASE     H01078  Fletcher factor deficiency
+DRUG_TARGET Aprotinin: D02971
+            Ecallantide: D03931
+            Gabexate (DG01400): D01672 D08004
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                3818 (KLKB1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.34  plasma kallikrein
+                 3818 (KLKB1)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               3818 (KLKB1)
+POSITION    4q35.2
+MOTIF       Pfam: Trypsin PAN_1 PAN_4 Trypsin_2 DUF1986 PAN_2
+DBLINKS     NCBI-GeneID: 3818
+            NCBI-ProteinID: NP_000883
+            OMIM: 229000
+            HGNC: 6371
+            Ensembl: ENSG00000164344
+            Vega: OTTHUMG00000150347
+            Pharos: P03952(Tclin)
+            UniProt: P03952 A8K9A9
+STRUCTURE   PDB: 2ANY 5TJX 5F8Z 5F8X 5TZ9 5F8T 2ANW 4OGY 4OGX
+AASEQ       638
+            MILFKQATYFISLFATVSCGCLTQLYENAFFRGGDVASMYTPNAQYCQMRCTFHPRCLLF
+            SFLPASSINDMEKRFGCFLKDSVTGTLPKVHRTGAVSGHSLKQCGHQISACHRDIYKGVD
+            MRGVNFNVSKVSSVEECQKRCTSNIRCQFFSYATQTFHKAEYRNNCLLKYSPGGTPTAIK
+            VLSNVESGFSLKPCALSEIGCHMNIFQHLAFSDVDVARVLTPDAFVCRTICTYHPNCLFF
+            TFYTNVWKIESQRNVCLLKTSESGTPSSSTPQENTISGYSLLTCKRTLPEPCHSKIYPGV
+            DFGGEELNVTFVKGVNVCQETCTKMIRCQFFTYSLLPEDCKEEKCKCFLRLSMDGSPTRI
+            AYGTQGSSGYSLRLCNTGDNSVCTTKTSTRIVGGTNSSWGEWPWQVSLQVKLTAQRHLCG
+            GSLIGHQWVLTAAHCFDGLPLQDVWRIYSGILNLSDITKDTPFSQIKEIIIHQNYKVSEG
+            NHDIALIKLQAPLNYTEFQKPICLPSKGDTSTIYTNCWVTGWGFSKEKGEIQNILQKVNI
+            PLVTNEECQKRYQDYKITQRMVCAGYKEGGKDACKGDSGGPLVCKHNGMWRLVGITSWGE
+            GCARREQPGVYTKVAEYMDWILEKTQSSDGKAQMQSPA
+NTSEQ       1917
+            atgattttattcaagcaagcaacttatttcatttccttgtttgctacagtttcctgtgga
+            tgtctgactcaactctatgaaaacgccttcttcagaggtggggatgtagcttccatgtac
+            accccaaatgcccaatactgccagatgaggtgcacattccacccaaggtgtttgctattc
+            agttttcttccagcaagttcaatcaatgacatggagaaaaggtttggttgcttcttgaaa
+            gatagtgttacaggaaccctgccaaaagtacatcgaacaggtgcagtttctggacattcc
+            ttgaagcaatgtggtcatcaaataagtgcttgccatcgagacatttataaaggagttgat
+            atgagaggagtcaattttaatgtgtctaaggttagcagtgttgaagaatgccaaaaaagg
+            tgcaccagtaacattcgctgccagtttttttcatatgccacgcaaacatttcacaaggca
+            gagtaccggaacaattgcctattaaagtacagtcccggaggaacacctaccgctataaag
+            gtgctgagtaacgtggaatctggattctcactgaagccctgtgccctttcagaaattggt
+            tgccacatgaacatcttccagcatcttgcgttctcagatgtggatgttgccagggttctc
+            actccagatgcttttgtgtgtcggaccatctgcacctatcaccccaactgcctcttcttt
+            acattctatacaaatgtatggaaaatcgagtcacaaagaaatgtttgtcttcttaaaaca
+            tctgaaagtggcacaccaagttcctctactcctcaagaaaacaccatatctggatatagc
+            cttttaacctgcaaaagaactttacctgaaccctgccattctaaaatttacccgggagtt
+            gactttggaggagaagaattgaatgtgacttttgttaaaggagtgaatgtttgccaagag
+            acttgcacaaagatgattcgctgtcagtttttcacttattctttactcccagaagactgt
+            aaggaagagaagtgtaagtgtttcttaagattatctatggatggttctccaactaggatt
+            gcgtatgggacacaagggagctctggttactctttgagattgtgtaacactggggacaac
+            tctgtctgcacaacaaaaacaagcacacgcattgttggaggaacaaactcttcttgggga
+            gagtggccctggcaggtgagcctgcaggtgaagctgacagctcagaggcacctgtgtgga
+            gggtcactcataggacaccagtgggtcctcactgctgcccactgctttgatgggcttccc
+            ctgcaggatgtttggcgcatctatagtggcattttaaatctgtcagacattacaaaagat
+            acacctttctcacaaataaaagagattattattcaccaaaactataaagtctcagaaggg
+            aatcatgatatcgccttgataaaactccaggctcctttgaattacactgaattccaaaaa
+            ccaatatgcctaccttccaaaggtgacacaagcacaatttataccaactgttgggtaacc
+            ggatggggcttctcgaaggagaaaggtgaaatccaaaatattctacaaaaggtaaatatt
+            cctttggtaacaaatgaagaatgccagaaaagatatcaagattataaaataacccaacgg
+            atggtctgtgctggctataaagaagggggaaaagatgcttgtaagggagattcaggtggt
+            cccttagtttgcaaacacaatggaatgtggcgtttggtgggcatcaccagctggggtgaa
+            ggctgtgcccgcagggagcaacctggtgtctacaccaaagtcgctgagtacatggactgg
+            attttagagaaaacacagagcagtgatggaaaagctcagatgcagtcaccagcatga
+///

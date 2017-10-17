@@ -1,0 +1,87 @@
+ENTRY       64895             CDS       T01001
+NAME        PAPOLG
+DEFINITION  (RefSeq) poly(A) polymerase gamma
+ORTHOLOGY   K14376  poly(A) polymerase [EC:2.7.7.19]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                64895 (PAPOLG)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.19  polynucleotide adenylyltransferase
+                 64895 (PAPOLG)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               3' end processing
+                Poly(A) addition factors
+                 64895 (PAPOLG)
+POSITION    2p16.1
+MOTIF       Pfam: PAP_central PAP_RNA-bind NTP_transf_2 Nrap_D2 DUF4269
+DBLINKS     NCBI-GeneID: 64895
+            NCBI-ProteinID: NP_075045
+            OMIM: 616865
+            HGNC: 14982
+            Ensembl: ENSG00000115421
+            Vega: OTTHUMG00000129419
+            Pharos: Q9BWT3(Tbio)
+            UniProt: Q9BWT3
+STRUCTURE   PDB: 4LT6
+AASEQ       736
+            MKEMSANTVLDSQRQQKHYGITSPISLASPKEIDHIYTQKLIDAMKPFGVFEDEEELNHR
+            LVVLGKLNNLVKEWISDVSESKNLPPSVVATVGGKIFTFGSYRLGVHTKGADIDALCVAP
+            RHVERSDFFQSFFEKLKHQDGIRNLRAVEDAFVPVIKFEFDGIEIDLVFARLAIQTISDN
+            LDLRDDSRLRSLDIRCIRSLNGCRVTDEILHLVPNKETFRLTLRAVKLWAKRRGIYSNML
+            GFLGGVSWAMLVARTCQLYPNAAASTLVHKFFLVFSKWEWPNPVLLKQPEESNLNLPVWD
+            PRVNPSDRYHLMPIITPAYPQQNSTYNVSTSTRTVMVEEFKQGLAVTDEILQGKSDWSKL
+            LEPPNFFQKYRHYIVLTASASTEENHLEWVGLVESKIRVLVGNLERNEFITLAHVNPQSF
+            PGNKEHHKDNNYVSMWFLGIIFRRVENAESVNIDLTYDIQSFTDTVYRQANNINMLKEGM
+            KIEATHVKKKQLHHYLPAEILQKKKKQSLSDVNRSSGGLQSKRLSLDSSCLDSSRDTDNG
+            TPFNSPASKSDSPSVGETERNSAEPAAVIVEKPLSVPPAQGLSIPVIGAKVDSTVKTVSP
+            PTVCTIPTVVGRNVIPRITTPHNPAQGQPHLNGMSNITKTVTPKRSHSPSIDGTPKRLKD
+            VEKFIRLESTFKDPRTAEERKRKSVDAIGGESMPIPTIDTSRKKRLPSKELPDSSSPVPA
+            NNIRVIKNSIRLTLNR
+NTSEQ       2211
+            atgaaagagatgtctgcaaacaccgtgctggacagccagcgtcaacaaaagcattatgga
+            attacctccccaattagtttggcatctcctaaagaaattgatcatatttacacacagaaa
+            ttaattgacgccatgaaaccatttggagtgtttgaagatgaggaagaattgaaccacagg
+            ctggtggttcttggtaaattgaacaatttagtaaaagaatggatttctgatgtcagcgag
+            agtaagaacctcccaccttctgttgtggctactgttggtggtaaaattttcacatttgga
+            tcctataggcttggagtacacaccaaaggagctgacattgatgcactttgtgtagctcca
+            agacatgtggaaagatctgatttttttcagtctttttttgaaaaattgaaacatcaagat
+            ggcattagaaacttaagagctgtagaagatgcctttgtacctgttataaaatttgaattt
+            gatggtattgaaattgatctagtctttgcaagactggcaatacaaaccatatcagataat
+            ttagatctaagagacgactctcgcctgagaagccttgatataaggtgtattcgcagctta
+            aatggttgtagagttactgatgaaattttgcatttagtgccaaataaagaaacttttaga
+            ctcaccctaagagctgtcaaattatgggcaaaacgacgtggtatttattccaacatgcta
+            ggattccttggtggtgtctcctgggcaatgctagttgcaagaacttgccaattgtatcca
+            aatgcagcagcatctactttagttcataagttctttttagttttttccaagtgggaatgg
+            ccaaatcctgtgctgctgaagcaaccagaagaaagcaatttgaatttgcctgtctgggat
+            cctcgggtaaatccatcagataggtatcatctcatgcccataatcacccctgcctaccca
+            caacagaattctacgtataatgtgtccacatcaactcgaacagtaatggtagaagaattt
+            aaacaaggtcttgcagtcacagatgaaattcttcaaggaaagtcagattggtccaaacta
+            cttgagccaccgaatttctttcaaaagtatagacattatatagtattgactgccagcgca
+            tcaacagaagaaaaccatctagagtgggttggattagtagaatctaaaatccgtgtactt
+            gttggaaacttggaacggaatgaatttattactcttgcccatgtgaatccccagtcattc
+            ccagggaataaggaacatcataaagacaacaattacgtatcaatgtggttccttgggata
+            atttttcggagagtagaaaatgcagaaagtgtcaacatagacttgacatatgatatacag
+            tcatttactgatacagtgtacagacaggcaaacaatataaatatgctaaaggagggaatg
+            aaaattgaagcaactcatgtaaagaaaaaacaacttcaccactaccttcctgcagaaatt
+            cttcaaaagaagaaaaagcaaagtctctctgatgtcaatcgaagctcgggcggacttcaa
+            tccaaaagattgtctctggatagcagttgtctggatagctccagagacactgataatgga
+            acaccttttaattctccagcgtccaagtctgatagcccttctgtaggagaaacagaaagg
+            aatagtgctgagcctgctgctgtaattgtggagaagccactgagtgtaccaccagcccaa
+            ggactttccattccagtgattggcgcaaaagttgactctacagtaaaaactgtatcaccc
+            cccactgtgtgtaccattcctaccgtagtaggacgaaatgtcattcctagaatcacaaca
+            cctcacaaccctgcccagggacaaccgcatctgaatggaatgtcaaatataactaagact
+            gttacacctaagagatcccattccccatccatagatgggactcctaagaggttgaaagac
+            gtagaaaagtttattcgacttgaatcaacatttaaggacccccgcactgctgaagaaaga
+            aaaagaaaatcagtggatgccattggaggagaatctatgcctattccaactattgataca
+            tcacgcaaaaagagactacccagtaaagaactaccagattcatcatctccagttccagca
+            aacaacatccgtgtcatcaaaaattccattcgactgacccttaatcggtaa
+///

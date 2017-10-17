@@ -1,0 +1,147 @@
+ENTRY       10111             CDS       T01001
+NAME        RAD50, NBSLD, RAD502, hRad50
+DEFINITION  (RefSeq) RAD50 double strand break repair protein
+ORTHOLOGY   K10866  DNA repair protein RAD50 [EC:3.6.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+            hsa03450  Non-homologous end-joining
+            hsa04218  Cellular senescence
+MODULE      hsa_M00291  MRN complex
+            hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+DISEASE     H01344  Nijmegen Breakage Syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                10111 (RAD50)
+               03450 Non-homologous end-joining
+                10111 (RAD50)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                10111 (RAD50)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.-  Acting on acid anhydrides
+                3.6.-.-  
+                 10111 (RAD50)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                MRN complex
+                 10111 (RAD50)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                MRN(MRX) complex
+                 10111 (RAD50)
+                BRCA1-C complex
+                 10111 (RAD50)
+               NHEJ (non-homologous end-joining)
+                MRX complex
+                 10111 (RAD50)
+POSITION    5q31.1
+MOTIF       Pfam: AAA_23 Rad50_zn_hook AAA_15 AAA_21 SbcCD_C SMC_N AAA_29 DUF2703 AAA_16
+DBLINKS     NCBI-GeneID: 10111
+            NCBI-ProteinID: NP_005723
+            OMIM: 604040
+            HGNC: 9816
+            Ensembl: ENSG00000113522
+            Vega: OTTHUMG00000059613
+            Pharos: Q92878(Tbio)
+            UniProt: Q92878 A5D6Y3
+STRUCTURE   PDB: 5GOX
+AASEQ       1312
+            MSRIEKMSILGVRSFGIEDKDKQIITFFSPLTILVGPNGAGKTTIIECLKYICTGDFPPG
+            TKGNTFVHDPKVAQETDVRAQIRLQFRDVNGELIAVQRSMVCTQKSKKTEFKTLEGVITR
+            TKHGEKVSLSSKCAEIDREMISSLGVSKAVLNNVIFCHQEDSNWPLSEGKALKQKFDEIF
+            SATRYIKALETLRQVRQTQGQKVKEYQMELKYLKQYKEKACEIRDQITSKEAQLTSSKEI
+            VKSYENELDPLKNRLKEIEHNLSKIMKLDNEIKALDSRKKQMEKDNSELEEKMEKVFQGT
+            DEQLNDLYHNHQRTVREKERKLVDCHRELEKLNKESRLLNQEKSELLVEQGRLQLQADRH
+            QEHIRARDSLIQSLATQLELDGFERGPFSERQIKNFHKLVRERQEGEAKTANQLMNDFAE
+            KETLKQKQIDEIRDKKTGLGRIIELKSEILSKKQNELKNVKYELQQLEGSSDRILELDQE
+            LIKAERELSKAEKNSNVETLKMEVISLQNEKADLDRTLRKLDQEMEQLNHHTTTRTQMEM
+            LTKDKADKDEQIRKIKSRHSDELTSLLGYFPNKKQLEDWLHSKSKEINQTRDRLAKLNKE
+            LASSEQNKNHINNELKRKEEQLSSYEDKLFDVCGSQDFESDLDRLKEEIEKSSKQRAMLA
+            GATAVYSQFITQLTDENQSCCPVCQRVFQTEAELQEVISDLQSKLRLAPDKLKSTESELK
+            KKEKRRDEMLGLVPMRQSIIDLKEKEIPELRNKLQNVNRDIQRLKNDIEEQETLLGTIMP
+            EEESAKVCLTDVTIMERFQMELKDVERKIAQQAAKLQGIDLDRTVQQVNQEKQEKQHKLD
+            TVSSKIELNRKLIQDQQEQIQHLKSTTNELKSEKLQISTNLQRRQQLEEQTVELSTEVQS
+            LYREIKDAKEQVSPLETTLEKFQQEKEELINKKNTSNKIAQDKLNDIKEKVKNIHGYMKD
+            IENYIQDGKDDYKKQKETELNKVIAQLSECEKHKEKINEDMRLMRQDIDTQKIQERWLQD
+            NLTLRKRNEELKEVEEERKQHLKEMGQMQVLQMKSEHQKLEENIDNIKRNHNLALGRQKG
+            YEEEIIHFKKELREPQFRDAEEKYREMMIVMRTTELVNKDLDIYYKTLDQAIMKFHSMKM
+            EEINKIIRDLWRSTYRGQDIEYIEIRSDADENVSASDKRRNYNYRVVMLKGDTALDMRGR
+            CSAGQKVLASLIIRLALAETFCLNCGIIALDEPTTNLDRENIESLAHALVEIIKSRSQQR
+            NFQLLVITHDEDFVELLGRSEYVEKFYRIKKNIDQCSEIVKCSVSSLGFNVH
+NTSEQ       3939
+            atgtcccggatcgaaaagatgagcattctgggcgtgcggagttttggaatagaggacaaa
+            gataagcaaattatcactttcttcagcccccttacaattttggttggacccaatggggcg
+            ggaaagacgaccatcattgaatgtctaaaatatatttgtactggagatttccctcctgga
+            accaaaggaaatacatttgtacacgatcccaaggttgctcaagaaacagatgtgagagcc
+            cagattcgtctgcaatttcgtgatgtcaatggagaacttatagctgtgcaaagatctatg
+            gtgtgtactcagaaaagcaaaaagacagaatttaaaactctggaaggagtcattactaga
+            acaaagcatggtgaaaaggtcagtctgagctctaagtgtgcagaaattgaccgagaaatg
+            atcagttctcttggggtttccaaggctgtgctaaataatgtcattttctgtcatcaagaa
+            gattctaattggcctttaagtgaaggaaaggctttgaagcaaaagtttgatgagattttt
+            tcagcaacaagatacattaaagccttagaaacacttcggcaggtacgtcagacacaaggt
+            cagaaagtaaaagaatatcaaatggaactaaaatatctgaagcaatataaggaaaaagct
+            tgtgagattcgtgatcagattacaagtaaggaagcccagttaacatcttcaaaggaaatt
+            gtcaaatcctatgagaatgaacttgatccattgaagaatcgtctaaaagaaattgaacat
+            aatctctctaaaataatgaaacttgacaatgaaattaaagccttggatagccgaaagaag
+            caaatggagaaagataatagtgaactggaagagaaaatggaaaaggtttttcaagggact
+            gatgagcaactaaatgacttatatcacaatcaccagagaacagtaagggagaaagaaagg
+            aaattggtagactgtcatcgtgaactggaaaaactaaataaagaatctaggcttctcaat
+            caggaaaaatcagaactgcttgttgaacagggtcgtctacagctgcaagcagatcgccat
+            caagaacatatccgagctagagattcattaattcagtctttggcaacacagctagaattg
+            gatggctttgagcgtggaccattcagtgaaagacagattaaaaattttcacaaacttgtg
+            agagagagacaagaaggggaagcaaaaactgccaaccaactgatgaatgactttgcagaa
+            aaagagactctgaaacaaaaacagatagatgagataagagataagaaaactggactggga
+            agaataattgagttaaaatcagaaatcctaagtaagaagcagaatgagctgaaaaatgtg
+            aagtatgaattacagcagttggaaggatcttcagacaggattcttgaactggaccaggag
+            ctcataaaagctgaacgtgagttaagcaaggctgagaaaaacagcaatgtagaaacctta
+            aaaatggaagtaataagtctccaaaatgaaaaagcagacttagacaggaccctgcgtaaa
+            cttgaccaggagatggagcagttaaaccatcatacaacaacacgtacccaaatggagatg
+            ctgaccaaagacaaagctgacaaagatgaacaaatcagaaaaataaaatctaggcacagt
+            gatgaattaacctcactgttgggatattttcccaacaaaaaacagcttgaagactggcta
+            catagtaaatcaaaagaaattaatcagaccagggacagacttgccaaattgaacaaggaa
+            ctagcttcatctgagcagaataaaaatcatataaataatgaactaaaaagaaaggaagag
+            cagttgtccagttacgaagacaagctgtttgatgtttgtggtagccaggattttgaaagt
+            gatttagacaggcttaaagaggaaattgaaaaatcatcaaaacagcgagccatgctggct
+            ggagccacagcagtttactcccagttcattactcagctaacagacgaaaaccagtcatgt
+            tgccccgtttgtcagagagtttttcagacagaggctgagttacaagaagtcatcagtgat
+            ttgcagtctaaactgcgacttgctccagataaactcaagtcaacagaatcagagctaaaa
+            aaaaaggaaaagcggcgtgatgaaatgctgggacttgtgcccatgaggcaaagcataatt
+            gatttgaaggagaaggaaataccagaattaagaaacaaactgcagaatgtcaatagagac
+            atacagcgcctaaagaacgacatagaagaacaagaaacactcttgggtacaataatgcct
+            gaagaagaaagtgccaaagtatgcctgacagatgttacaattatggagaggttccagatg
+            gaacttaaagatgttgaaagaaaaattgcacaacaagcagctaagctacaaggaatagac
+            ttagatcgaactgtccaacaagtcaaccaggagaaacaagagaaacagcacaagttagac
+            acagtttctagtaagattgaattgaatcgtaagcttatacaggaccagcaggaacagatt
+            caacatctaaaaagtacaacaaatgagctaaaatctgagaaacttcagatatccactaat
+            ttgcaacgtcgtcagcaactggaggagcagactgtggaattatccactgaagttcagtct
+            ttgtacagagagataaaggatgctaaagagcaggtaagccctttggaaacaacattggaa
+            aagttccagcaagaaaaagaagaattaatcaacaaaaaaaatacaagcaacaaaatagca
+            caggataaactgaatgatattaaagagaaggttaaaaatattcatggctatatgaaagac
+            attgagaattatattcaagatgggaaagacgactataagaagcaaaaagaaactgaactt
+            aataaagtaatagctcaactaagtgaatgcgagaaacacaaagaaaagataaatgaagat
+            atgagactcatgagacaagatattgatacacagaagatacaagaaaggtggctacaagat
+            aaccttactttaagaaaaagaaatgaggaactaaaagaagttgaagaagaaagaaaacaa
+            catttgaaggaaatgggtcaaatgcaggttttgcaaatgaaaagtgaacatcagaagttg
+            gaagagaacatagacaatataaaaagaaatcataatttggcattagggcgacagaaaggt
+            tatgaagaagaaattattcattttaagaaagaacttcgagaaccacaatttcgggatgct
+            gaggaaaagtatagagaaatgatgattgttatgaggacaacagaacttgtgaacaaggat
+            ctggatatttattataagactcttgaccaagcaataatgaaatttcacagtatgaaaatg
+            gaagaaatcaataaaattatacgtgacctgtggcgaagtacctatcgtggacaagatatt
+            gaatacatagaaatacggtctgatgccgatgaaaatgtatcagcttctgataaaaggcgg
+            aattataactaccgagtggtgatgctgaagggagacacagccttggatatgcgaggacga
+            tgcagtgctggacaaaaggtattagcctcactcatcattcgcctggccctggctgaaacg
+            ttctgcctcaactgtggcatcattgccttggatgagccaacaacaaatcttgaccgagaa
+            aacattgaatctcttgcacatgctctggttgagataataaaaagtcgctcacagcagcgt
+            aacttccagcttctggtaatcactcatgatgaagattttgtggagcttttaggacgttct
+            gaatatgtggagaaattctacaggattaaaaagaacatcgatcagtgctcagagattgtg
+            aaatgcagtgttagctccctgggattcaatgttcattaa
+///

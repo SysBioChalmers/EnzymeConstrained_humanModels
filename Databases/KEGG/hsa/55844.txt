@@ -1,0 +1,106 @@
+ENTRY       55844             CDS       T01001
+NAME        PPP2R2D, B55D, B55delta, MDS026
+DEFINITION  (RefSeq) protein phosphatase 2 regulatory subunit Bdelta
+ORTHOLOGY   K04354  serine/threonine-protein phosphatase 2A regulatory subunit B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04390  Hippo signaling pathway
+            hsa04530  Tight junction
+            hsa04728  Dopaminergic synapse
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05160  Hepatitis C
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                55844 (PPP2R2D)
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                55844 (PPP2R2D)
+               04071 Sphingolipid signaling pathway
+                55844 (PPP2R2D)
+               04151 PI3K-Akt signaling pathway
+                55844 (PPP2R2D)
+               04152 AMPK signaling pathway
+                55844 (PPP2R2D)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                55844 (PPP2R2D)
+             Organismal Systems
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                55844 (PPP2R2D)
+              Nervous system
+               04728 Dopaminergic synapse
+                55844 (PPP2R2D)
+             Human Diseases
+              Infectious diseases
+               05160 Hepatitis C
+                55844 (PPP2R2D)
+               05165 Human papillomavirus infection
+                55844 (PPP2R2D)
+               05142 Chagas disease (American trypanosomiasis)
+                55844 (PPP2R2D)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-2 (PP2A)
+                Regulatory subunits
+                 55844 (PPP2R2D)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centromeric chromatin formation proteins
+               Other centromeric chromatin formation proteins
+                PP2A (protein phosphatase 2A)
+                 55844 (PPP2R2D)
+POSITION    10q26.3
+MOTIF       Pfam: Y_phosphatase2
+DBLINKS     NCBI-GeneID: 55844
+            NCBI-ProteinID: NP_060931
+            OMIM: 613992
+            HGNC: 23732
+            Ensembl: ENSG00000175470
+            Vega: OTTHUMG00000019277
+            Pharos: Q66LE6(Tdark)
+            UniProt: Q66LE6
+AASEQ       453
+            MAGAGGGGCPAGGNDFQWCFSQVKGAIDEDVAEADIISTVEFNYSGDLLATGDKGGRVVI
+            FQREQENKSRPHSRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQQNAAHFLLST
+            NDKTIKLWKISERDKRAEGYNLKDEDGRLRDPFRITALRVPILKPMDLMVEASPRRIFAN
+            AHTYHINSISVNSDHETYLSADDLRINLWHLEITDRSFNIVDIKPANMEELTEVITAAEF
+            HPHQCNVFVYSSSKGTIRLCDMRSSALCDRHSKFFEEPEDPSSRSFFSEIISSISDVKFS
+            HSGRYMMTRDYLSVKVWDLNMESRPVETHQVHEYLRSKLCSLYENDCIFDKFECCWNGSD
+            SAIMTGSYNNFFRMFDRDTRRDVTLEASRESSKPRASLKPRKVCTGGKRRKDEISVDSLD
+            FNKKILHTAWHPVDNVIAVAATNNLYIFQDKIN
+NTSEQ       1362
+            atggcaggagccggaggcggcggctgccccgcgggcggcaacgacttccagtggtgcttc
+            tcgcaggtcaagggggccatcgacgaggacgtggccgaagcggacatcatttccaccgtt
+            gagtttaattactctggagatcttcttgcaacaggagacaagggcggcagagttgttatt
+            tttcagcgtgaacaagagaataaaagccgccctcattctaggggagaatataatgtttac
+            agcacctttcaaagtcatgaaccggagtttgactatttgaaaagtctagaaattgaggaa
+            aaaattaataaaattaggtggttaccacaacagaatgctgctcattttctactgtctaca
+            aatgataaaactataaaattatggaaaataagtgaacgggataaaagagcagaaggttat
+            aacctgaaagacgaagatggaagacttcgagacccatttaggatcacggcgctacgggtc
+            ccaatattgaagcccatggatcttatggtagaagcgagtccacggcgaatttttgcaaat
+            gctcacacatatcatataaattccatttcagtaaatagtgatcatgaaacatatctttct
+            gcagatgacctgagaattaatttatggcacttagaaatcacagatagaagctttaacatc
+            gtggacatcaagcctgctaacatggaggagctgaccgaagtcatcactgcagccgagttc
+            cacccgcaccagtgcaacgtgttcgtctacagcagtagcaaagggaccatccgcctgtgt
+            gacatgcgctcctcggccctgtgcgacagacactccaagttttttgaagagcctgaagat
+            cccagcagtaggtccttcttctcagaaataatttcatccatatccgatgtaaaattcagt
+            catagtgggcggtacatgatgaccagagactacctgtcggtgaaggtgtgggacctcaac
+            atggagagcaggccggtggagacccaccaggtccacgagtacctgcgcagcaagctctgc
+            tctctctatgagaacgactgcatctttgacaagtttgagtgttgctggaacggttcggat
+            agcgccatcatgaccgggtcctataacaacttcttcaggatgtttgatagagacacgcgg
+            agggatgtgaccctggaggcctcgagagagagcagcaaaccgcgcgccagcctcaaaccc
+            cggaaggtgtgtacggggggtaagcggaggaaagacgagatcagtgtggacagtctggac
+            ttcaacaagaagatcctgcacacagcctggcaccccgtggacaatgtcattgccgtggct
+            gccaccaataacttgtacatattccaggacaaaatcaactag
+///

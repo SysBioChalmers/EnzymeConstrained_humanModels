@@ -1,0 +1,49 @@
+ENTRY       84284             CDS       T01001
+NAME        NTPCR, C1orf57, HCR-NTPase
+DEFINITION  (RefSeq) nucleoside-triphosphatase, cancer-related
+ORTHOLOGY   K06928  nucleoside-triphosphatase [EC:3.6.1.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00730  Thiamine metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                84284 (NTPCR)
+              Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                84284 (NTPCR)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.15  nucleoside-triphosphate phosphatase
+                 84284 (NTPCR)
+POSITION    1q42.2
+MOTIF       Pfam: NTPase_1 AAA_30 AAA_5 AAA_16 RNA_helicase AAA_18 AAA_19 AAA AAA_22 RuvB_N NACHT ArgK ATP_bind_1 APS_kinase AAA_24 AAA_14 ATPase_2 AAA_29 AAA_33 Mg_chelatase NB-ARC cobW AAA_28 AAA_25 AAA_3 Zeta_toxin MMR_HSR1 AAA_17 SRP54
+DBLINKS     NCBI-GeneID: 84284
+            NCBI-ProteinID: NP_115700
+            HGNC: 28204
+            Ensembl: ENSG00000135778
+            Vega: OTTHUMG00000037822
+            Pharos: Q9BSD7(Tbio)
+            UniProt: Q9BSD7 Q5TDE9
+STRUCTURE   PDB: 2I3B
+AASEQ       190
+            MARHVFLTGPPGVGKTTLIHKASEVLKSSGVPVDGFYTEEVRQGGRRIGFDVVTLSGTRG
+            PLSRVGLEPPPGKRECRVGQYVVDLTSFEQLALPVLRNADCSSGPGQRVCVIDEIGKMEL
+            FSQLFIQAVRQTLSTPGTIILGTIPVPKGKPLALVEEIRNRKDVKVFNVTKENRNHLLPD
+            IVTCVQSSRK
+NTSEQ       573
+            atggcccggcacgtgttcctaacggggcccccaggagttggaaaaacaacattgatccat
+            aaagccagtgaggttttaaaatcctctggtgtgcctgttgatggattttataccgaagaa
+            gtcagacagggagggagaagaataggattcgatgtcgtcacgttgtccggcacccggggg
+            cctttatcgagagttgggttagagcctccacctggaaaacgtgaatgccgagttgggcag
+            tatgtggtcgacctgacttcttttgagcagttggcactacccgtcttgaggaatgccgac
+            tgcagcagtggcccagggcaaagagtgtgcgtcatcgatgagattgggaagatggagctc
+            ttcagtcagcttttcattcaagctgttcgtcagacgctgtctaccccagggactataatc
+            cttggcacaatcccagttcctaaaggaaagccactggctcttgtagaagaaatcagaaac
+            agaaaggatgtgaaggtgtttaatgtcaccaaggaaaacagaaaccaccttctgccagat
+            atcgtgacgtgcgtgcagagcagcaggaagtga
+///

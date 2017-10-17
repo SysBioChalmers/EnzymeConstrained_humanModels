@@ -1,0 +1,76 @@
+ENTRY       3945              CDS       T01001
+NAME        LDHB, HEL-S-281, LDH-B, LDH-H, LDHBD, TRG-5
+DEFINITION  (RefSeq) lactate dehydrogenase B
+ORTHOLOGY   K00016  L-lactate dehydrogenase [EC:1.1.1.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00270  Cysteine and methionine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa04922  Glucagon signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                3945 (LDHB)
+               00620 Pyruvate metabolism
+                3945 (LDHB)
+               00640 Propanoate metabolism
+                3945 (LDHB)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                3945 (LDHB)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                3945 (LDHB)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.27  L-lactate dehydrogenase
+                 3945 (LDHB)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of epithelial cells
+               3945 (LDHB)
+              Exosomal proteins of breast milk
+               3945 (LDHB)
+POSITION    12p12.1
+MOTIF       Pfam: Ldh_1_N Ldh_1_C Glyco_hydro_4
+DBLINKS     NCBI-GeneID: 3945
+            NCBI-ProteinID: NP_001167568
+            OMIM: 150100
+            HGNC: 6541
+            Ensembl: ENSG00000111716
+            Vega: OTTHUMG00000133760
+            Pharos: P07195(Tchem)
+            UniProt: P07195 Q5U077
+STRUCTURE   PDB: 1I0Z 1T2F
+AASEQ       334
+            MATLKEKLIAPVAEEEATVPNNKITVVGVGQVGMACAISILGKSLADELALVDVLEDKLK
+            GEMMDLQHGSLFLQTPKIVADKDYSVTANSKIVVVTAGVRQQEGESRLNLVQRNVNVFKF
+            IIPQIVKYSPDCIIIVVSNPVDILTYVTWKLSGLPKHRVIGSGCNLDSARFRYLMAEKLG
+            IHPSSCHGWILGEHGDSSVAVWSGVNVAGVSLQELNPEMGTDNDSENWKEVHKMVVESAY
+            EVIKLKGYTNWAIGLSVADLIESMLKNLSRIHPVSTMVKGMYGIENEVFLSLPCILNARG
+            LTSVINQKLKDDEVAQLKKSADTLWDIQKDLKDL
+NTSEQ       1005
+            atggcaactcttaaggaaaaactcattgcaccagttgcggaagaagaggcaacagttcca
+            aacaataagatcactgtagtgggtgttggacaagttggtatggcgtgtgctatcagcatt
+            ctgggaaagtctctggctgatgaacttgctcttgtggatgttttggaagataagcttaaa
+            ggagaaatgatggatctgcagcatgggagcttatttcttcagacacctaaaattgtggca
+            gataaagattattctgtgaccgccaattctaagattgtagtggtaactgcaggagtccgt
+            cagcaagaaggggagagtcggctcaatctggtgcagagaaatgttaatgtcttcaaattc
+            attattcctcagatcgtcaagtacagtcctgattgcatcataattgtggtttccaaccca
+            gtggacattcttacgtatgttacctggaaactaagtggattacccaaacaccgcgtgatt
+            ggaagtggatgtaatctggattctgctagatttcgctaccttatggctgaaaaacttggc
+            attcatcccagcagctgccatggatggattttgggggaacatggcgactcaagtgtggct
+            gtgtggagtggtgtgaatgtggcaggtgtttctctccaggaattgaatccagaaatggga
+            actgacaatgatagtgaaaattggaaggaagtgcataagatggtggttgaaagtgcctat
+            gaagtcatcaagctaaaaggatataccaactgggctattggattaagtgtggctgatctt
+            attgaatccatgttgaaaaatctatccaggattcatcccgtgtcaacaatggtaaagggg
+            atgtatggcattgagaatgaagtcttcctgagccttccatgtatcctcaatgcccgggga
+            ttaaccagcgttatcaaccagaagctaaaggatgatgaggttgctcagctcaagaaaagt
+            gcagataccctgtgggacatccagaaggacctaaaagacctgtga
+///

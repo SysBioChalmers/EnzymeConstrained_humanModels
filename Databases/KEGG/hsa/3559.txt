@@ -1,0 +1,89 @@
+ENTRY       3559              CDS       T01001
+NAME        IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55
+DEFINITION  (RefSeq) interleukin 2 receptor subunit alpha
+ORTHOLOGY   K05068  interleukin 2 receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04144  Endocytosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa05162  Measles
+            hsa05166  HTLV-I infection
+DISEASE     H00091  T-B+Severe combined immunodeficiencies (SCIDs)
+            H00408  Type I diabetes mellitus
+DRUG_TARGET Aldesleukin: D00748
+            Basiliximab: D03058
+            Celmoleukin: D02743
+            Daclizumab: D03639
+            Denileukin diftitox: D03682
+            Teceleukin: D02749
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3559 (IL2RA)
+               04151 PI3K-Akt signaling pathway
+                3559 (IL2RA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3559 (IL2RA)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                3559 (IL2RA)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3559 (IL2RA)
+               04658 Th1 and Th2 cell differentiation
+                3559 (IL2RA)
+               04659 Th17 cell differentiation
+                3559 (IL2RA)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                3559 (IL2RA)
+               05162 Measles
+                3559 (IL2RA)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              3559 (IL2RA)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3559 (IL2RA)
+POSITION    10p15.1
+MOTIF       Pfam: Sushi
+DBLINKS     NCBI-GeneID: 3559
+            NCBI-ProteinID: NP_000408
+            OMIM: 147730
+            HGNC: 6008
+            Ensembl: ENSG00000134460
+            Vega: OTTHUMG00000017616
+            Pharos: P01589(Tclin)
+            UniProt: P01589
+STRUCTURE   PDB: 2B5I 1Z92 3NFP 3IU3 2ERJ
+AASEQ       272
+            MDSYLLMWGLLTFIMVPGCQAELCDDDPPEIPHATFKAMAYKEGTMLNCECKRGFRRIKS
+            GSLYMLCTGNSSHSSWDNQCQCTSSATRNTTKQVTPQPEEQKERKTTEMQSPMQPVDQAS
+            LPGHCREPPPWENEATERIYHFVVGQMVYYQCVQGYRALHRGPAESVCKMTHGKTRWTQP
+            QLICTGEMETSQFPGEEKPQASPEGRPESETSCLVTTTDFQIQTEMAATMETSIFTTEYQ
+            VAVAGCVFLLISVLLLSGLTWQRRQRKSRRTI
+NTSEQ       819
+            atggattcatacctgctgatgtggggactgctcacgttcatcatggtgcctggctgccag
+            gcagagctctgtgacgatgacccgccagagatcccacacgccacattcaaagccatggcc
+            tacaaggaaggaaccatgttgaactgtgaatgcaagagaggtttccgcagaataaaaagc
+            gggtcactctatatgctctgtacaggaaactctagccactcgtcctgggacaaccaatgt
+            caatgcacaagctctgccactcggaacacaacgaaacaagtgacacctcaacctgaagaa
+            cagaaagaaaggaaaaccacagaaatgcaaagtccaatgcagccagtggaccaagcgagc
+            cttccaggtcactgcagggaacctccaccatgggaaaatgaagccacagagagaatttat
+            catttcgtggtggggcagatggtttattatcagtgcgtccagggatacagggctctacac
+            agaggtcctgctgagagcgtctgcaaaatgacccacgggaagacaaggtggacccagccc
+            cagctcatatgcacaggtgaaatggagaccagtcagtttccaggtgaagagaagcctcag
+            gcaagccccgaaggccgtcctgagagtgagacttcctgcctcgtcacaacaacagatttt
+            caaatacagacagaaatggctgcaaccatggagacgtccatatttacaacagagtaccag
+            gtagcagtggccggctgtgttttcctgctgatcagcgtcctcctcctgagtgggctcacc
+            tggcagcggagacagaggaagagtagaagaacaatctag
+///

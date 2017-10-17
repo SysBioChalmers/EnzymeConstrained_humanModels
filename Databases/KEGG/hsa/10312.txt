@@ -1,0 +1,122 @@
+ENTRY       10312             CDS       T01001
+NAME        TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3
+DEFINITION  (RefSeq) T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3
+ORTHOLOGY   K02154  V-type H+-transporting ATPase subunit a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+            hsa04145  Phagosome
+            hsa04721  Synaptic vesicle cycle
+            hsa04966  Collecting duct acid secretion
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05152  Tuberculosis
+            hsa05165  Human papillomavirus infection
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00160  V-type ATPase, eukaryotes
+DISEASE     H00436  Osteopetrosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                10312 (TCIRG1)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                10312 (TCIRG1)
+               04142 Lysosome
+                10312 (TCIRG1)
+             Organismal Systems
+              Excretory system
+               04966 Collecting duct acid secretion
+                10312 (TCIRG1)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                10312 (TCIRG1)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                10312 (TCIRG1)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                10312 (TCIRG1)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                10312 (TCIRG1)
+               05152 Tuberculosis
+                10312 (TCIRG1)
+               05165 Human papillomavirus infection
+                10312 (TCIRG1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               10312 (TCIRG1)
+POSITION    11q13.2
+MOTIF       Pfam: V_ATPase_I Romo1 DUF4763
+DBLINKS     NCBI-GeneID: 10312
+            NCBI-ProteinID: NP_006010
+            OMIM: 604592
+            HGNC: 11647
+            Ensembl: ENSG00000110719
+            Vega: OTTHUMG00000167358
+            Pharos: Q13488(Tbio)
+            UniProt: Q13488 A0A024R5E5
+AASEQ       830
+            MGSMFRSEEVALVQLFLPTAAAYTCVSRLGELGLVEFRDLNASVSAFQRRFVVDVRRCEE
+            LEKTFTFLQEEVRRAGLVLPPPKGRLPAPPPRDLLRIQEETERLAQELRDVRGNQQALRA
+            QLHQLQLHAAVLRQGHEPQLAAAHTDGASERTPLLQAPGGPHQDLRVNFVAGAVEPHKAP
+            ALERLLWRACRGFLIASFRELEQPLEHPVTGEPATWMTFLISYWGEQIGQKIRKITDCFH
+            CHVFPFLQQEEARLGALQQLQQQSQELQEVLGETERFLSQVLGRVLQLLPPGQVQVHKMK
+            AVYLALNQCSVSTTHKCLIAEAWCSVRDLPALQEALRDSSMEEGVSAVAHRIPCRDMPPT
+            LIRTNRFTASFQGIVDAYGVGRYQEVNPAPYTIITFPFLFAVMFGDVGHGLLMFLFALAM
+            VLAENRPAVKAAQNEIWQTFFRGRYLLLLMGLFSIYTGFIYNECFSRATSIFPSGWSVAA
+            MANQSGWSDAFLAQHTMLTLDPNVTGVFLGPYPFGIDPIWSLAANHLSFLNSFKMKMSVI
+            LGVVHMAFGVVLGVFNHVHFGQRHRLLLETLPELTFLLGLFGYLVFLVIYKWLCVWAARA
+            ASAPSILIHFINMFLFSHSPSNRLLYPRQEVVQATLVVLALAMVPILLLGTPLHLLHRHR
+            RRLRRRPADRQEENKAGLLDLPDASVNGWSSDEEKAGGLDDEEEAELVPSEVLMHQAIHT
+            IEFCLGCVSNTASYLRLWALSLAHAQLSEVLWAMVMRIGLGLGREVGVAAVVLVPIFAAF
+            AVMTVAILLVMEGLSAFLHALRLHWVEFQNKFYSGTGYKLSPFTFAATDD
+NTSEQ       2493
+            atgggctccatgttccggagcgaggaggtggccctggtccagctctttctgcccacagcg
+            gctgcctacacctgcgtgagtcggctgggcgagctgggcctcgtggagttcagagacctc
+            aacgcctcggtgagcgccttccagagacgctttgtggttgatgttcggcgctgtgaggag
+            ctggagaagaccttcaccttcctgcaggaggaggtgcggcgggctgggctggtcctgccc
+            ccgccaaaggggaggctgccggcacccccaccccgggacctgctgcgcatccaggaggag
+            acggagcgcctggcccaggagctgcgggatgtgcggggcaaccagcaggccctgcgggcc
+            cagctgcaccagctgcagctccacgccgccgtgctacgccagggccatgaacctcagctg
+            gcagccgcccacacagatggggcctcagagaggacgcccctgctccaggcccccgggggg
+            ccgcaccaggacctgagggtcaactttgtggcaggtgccgtggagccccacaaggcccct
+            gccctagagcgcctgctctggagggcctgccgcggcttcctcattgccagcttcagggag
+            ctggagcagccgctggagcaccccgtgacgggcgagccagccacgtggatgaccttcctc
+            atctcctactggggtgagcagatcggacagaagatccgcaagatcacggactgcttccac
+            tgccacgtcttcccgtttctgcagcaggaggaggcccgcctcggggccctgcagcagctg
+            caacagcagagccaggagctgcaggaggtcctcggggagacagagcggttcctgagccag
+            gtgctaggccgggtgctgcagctgctgccgccagggcaggtgcaggtccacaagatgaag
+            gccgtgtacctggccctgaaccagtgcagcgtgagcaccacgcacaagtgcctcattgcc
+            gaggcctggtgctctgtgcgagacctgcccgccctgcaggaggccctgcgggacagctcg
+            atggaggagggagtgagtgccgtggctcaccgcatcccctgccgggacatgccccccaca
+            ctcatccgcaccaaccgcttcacggccagcttccagggcatcgtggatgcctacggcgtg
+            ggccgctaccaggaggtcaaccccgctccctacaccatcatcaccttccccttcctgttt
+            gctgtgatgttcggggatgtgggccacgggctgctcatgttcctcttcgccctggccatg
+            gtccttgcggagaaccgaccggctgtgaaggccgcgcagaacgagatctggcagactttc
+            ttcaggggccgctacctgctcctgcttatgggcctgttctccatctacaccggcttcatc
+            tacaacgagtgcttcagtcgcgccaccagcatcttcccctcgggctggagtgtggccgcc
+            atggccaaccagtctggctggagtgatgcattcctggcccagcacacgatgcttaccctg
+            gatcccaacgtcaccggtgtcttcctgggaccctacccctttggcatcgatcctatttgg
+            agcctggctgccaaccacttgagcttcctcaactccttcaagatgaagatgtccgtcatc
+            ctgggcgtcgtgcacatggcctttggggtggtcctcggagtcttcaaccacgtgcacttt
+            ggccagaggcaccggctgctgctggagacgctgccggagctcaccttcctgctgggactc
+            ttcggttacctcgtgttcctagtcatctacaagtggctgtgtgtctgggctgccagggcc
+            gcctcggcccccagcatcctcatccacttcatcaacatgttcctcttctcccacagcccc
+            agcaacaggctgctctacccccggcaggaggtggtccaggccacgctggtggtcctggcc
+            ttggccatggtgcccatcctgctgcttggcacacccctgcacctgctgcaccgccaccgc
+            cgccgcctgcggaggaggcccgctgaccgacaggaggaaaacaaggccgggttgctggac
+            ctgcctgacgcatctgtgaatggctggagctccgatgaggaaaaggcagggggcctggat
+            gatgaagaggaggccgagctcgtcccctccgaggtgctcatgcaccaggccatccacacc
+            atcgagttctgcctgggctgcgtctccaacaccgcctcctacctgcgcctgtgggccctg
+            agcctggcccacgcccagctgtccgaggttctgtgggccatggtgatgcgcataggcctg
+            ggcctgggccgggaggtgggcgtggcggctgtggtgctggtccccatctttgccgccttt
+            gccgtgatgaccgtggctatcctgctggtgatggagggactctcagccttcctgcacgcc
+            ctgcggctgcactgggtggaattccagaacaagttctactcaggcacgggctacaagctg
+            agtcccttcaccttcgctgccacagatgactag
+///

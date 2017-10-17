@@ -1,0 +1,73 @@
+ENTRY       9446              CDS       T01001
+NAME        GSTO1, GSTO_1-1, GSTTLp28, HEL-S-21, P28, SPG-R
+DEFINITION  (RefSeq) glutathione S-transferase omega 1
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                9446 (GSTO1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                9446 (GSTO1)
+               00982 Drug metabolism - cytochrome P450
+                9446 (GSTO1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                9446 (GSTO1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                9446 (GSTO1)
+              Drug resistance
+               01524 Platinum drug resistance
+                9446 (GSTO1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 9446 (GSTO1)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               9446 (GSTO1)
+POSITION    10q25.1
+MOTIF       Pfam: GST_N_3 GST_N_2 GST_N GST_C_3 GST_C GST_C_2 Glutaredoxin GST_C_5
+DBLINKS     NCBI-GeneID: 9446
+            NCBI-ProteinID: NP_004823
+            OMIM: 605482
+            HGNC: 13312
+            Ensembl: ENSG00000148834
+            Vega: OTTHUMG00000019001
+            Pharos: P78417(Tbio)
+            UniProt: P78417 V9HWG9
+STRUCTURE   PDB: 3VLN 4IS0 4YQU 1EEM 4YQV 3LFL 4YQM
+AASEQ       241
+            MSGESARSLGKGSAPPGPVPEGSIRIYSMRFCPFAERTRLVLKAKGIRHEVININLKNKP
+            EWFFKKNPFGLVPVLENSQGQLIYESAITCEYLDEAYPGKKLLPDDPYEKACQKMILELF
+            SKVPSLVGSFIRSQNKEDYAGLKEEFRKEFTKLEEVLTNKKTTFFGGNSISMIDYLIWPW
+            FERLEAMKLNECVDHTPKLKLWMAAMKEDPTVSALLTSEKDWQGFLELYLQNSPEACDYG
+            L
+NTSEQ       726
+            atgtccggggagtcagccaggagcttggggaagggaagcgcgcccccggggccggtcccg
+            gagggctcgatccgcatctacagcatgaggttctgcccgtttgctgagaggacgcgtcta
+            gtcctgaaggccaagggaatcaggcatgaagtcatcaatatcaacctgaaaaataagcct
+            gagtggttctttaagaaaaatccctttggtctggtgccagttctggaaaacagtcagggt
+            cagctgatctacgagtctgccatcacctgtgagtacctggatgaagcatacccagggaag
+            aagctgttgccggatgacccctatgagaaagcttgccagaagatgatcttagagttgttt
+            tctaaggtgccatccttggtaggaagctttattagaagccaaaataaagaagactatgct
+            ggcctaaaagaagaatttcgtaaagaatttaccaagctagaggaggttctgactaataag
+            aagacgaccttctttggtggcaattctatctctatgattgattacctcatctggccctgg
+            tttgaacggctggaagcaatgaagttaaatgagtgtgtagaccacactccaaaactgaaa
+            ctgtggatggcagccatgaaggaagatcccacagtctcagccctgcttactagtgagaaa
+            gactggcaaggtttcctagagctctacttacagaacagccctgaggcctgtgactatggg
+            ctctga
+///

@@ -1,0 +1,102 @@
+ENTRY       657               CDS       T01001
+NAME        BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5
+DEFINITION  (RefSeq) bone morphogenetic protein receptor type 1A
+ORTHOLOGY   K04673  bone morphogenetic protein receptor type-1A [EC:2.7.11.30]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04350  TGF-beta signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00679  BMP signaling
+DISEASE     H01023  Juvenile polyposis syndrome
+            H01024  Hereditary mixed polyposis syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04350 TGF-beta signaling pathway
+                657 (BMPR1A)
+               04390 Hippo signaling pathway
+                657 (BMPR1A)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                657 (BMPR1A)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                657 (BMPR1A)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                657 (BMPR1A)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.30  receptor protein serine/threonine kinase
+                 657 (BMPR1A)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              TGFBR1 family [OT]
+               657 (BMPR1A)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor serine/threonine kinases
+              Type I TGF-beta receptor
+               657 (BMPR1A)
+            Cytokine receptors [BR:hsa04050]
+             TGF-beta receptors
+              Type I TGF-beta receptor
+               657 (BMPR1A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              657 (BMPR1A)
+POSITION    10q23.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase TGF_beta_GS Activin_recp FTA2 Haspin_kinase APH
+DBLINKS     NCBI-GeneID: 657
+            NCBI-ProteinID: NP_004320
+            OMIM: 601299
+            HGNC: 1076
+            Ensembl: ENSG00000107779
+            Vega: OTTHUMG00000018657
+            Pharos: P36894(Tchem)
+            UniProt: P36894
+STRUCTURE   PDB: 2H62 1REW 2H64 2GOO 3QB4 3NH7 1ES7 2K3G
+AASEQ       532
+            MPQLYIYIRLLGAYLFIISRVQGQNLDSMLHGTGMKSDSDQKKSENGVTLAPEDTLPFLK
+            CYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRR
+            TIECCRTNLCNQYLQPTLPPVVIGPFFDGSIRWLVLLISMAVCIIAMIIFSSCFCYKHYC
+            KSISSRRRYNRDLEQDEAFIPVGESLKDLIDQSQSSGSGSGLPLLVQRTIAKQIQMVRQV
+            GKGRYGEVWMGKWRGEKVAVKVFFTTEEASWFRETEIYQTVLMRHENILGFIAADIKGTG
+            SWTQLYLITDYHENGSLYDFLKCATLDTRALLKLAYSAACGLCHLHTEIYGTQGKPAIAH
+            RDLKSKNILIKKNGSCCIADLGLAVKFNSDTNEVDVPLNTRVGTKRYMAPEVLDESLNKN
+            HFQPYIMADIYSFGLIIWEMARRCITGGIVEEYQLPYYNMVPSDPSYEDMREVVCVKRLR
+            PIVSNRWNSDECLRAVLKLMSECWAHNPASRLTALRIKKTLAKMVESQDVKI
+NTSEQ       1599
+            atgcctcagctatacatttacatcagattattgggagcctatttgttcatcatttctcgt
+            gttcaaggacagaatctggatagtatgcttcatggcactgggatgaaatcagactccgac
+            cagaaaaagtcagaaaatggagtaaccttagcaccagaggataccttgccttttttaaag
+            tgctattgctcagggcactgtccagatgatgctattaataacacatgcataactaatgga
+            cattgctttgccatcatagaagaagatgaccagggagaaaccacattagcttcagggtgt
+            atgaaatatgaaggatctgattttcagtgcaaagattctccaaaagcccagctacgccgg
+            acaatagaatgttgtcggaccaatttatgtaaccagtatttgcaacccacactgccccct
+            gttgtcataggtccgttttttgatggcagcattcgatggctggttttgctcatttctatg
+            gctgtctgcataattgctatgatcatcttctccagctgcttttgttacaaacattattgc
+            aagagcatctcaagcagacgtcgttacaatcgtgatttggaacaggatgaagcatttatt
+            ccagttggagaatcactaaaagaccttattgaccagtcacaaagttctggtagtgggtct
+            ggactacctttattggttcagcgaactattgccaaacagattcagatggtccggcaagtt
+            ggtaaaggccgatatggagaagtatggatgggcaaatggcgtggcgaaaaagtggcggtg
+            aaagtattctttaccactgaagaagccagctggtttcgagaaacagaaatctaccaaact
+            gtgctaatgcgccatgaaaacatacttggtttcatagcggcagacattaaaggtacaggt
+            tcctggactcagctctatttgattactgattaccatgaaaatggatctctctatgacttc
+            ctgaaatgtgctacactggacaccagagccctgcttaaattggcttattcagctgcctgt
+            ggtctgtgccacctgcacacagaaatttatggcacccaaggaaagcccgcaattgctcat
+            cgagacctaaagagcaaaaacatcctcatcaagaaaaatgggagttgctgcattgctgac
+            ctgggccttgctgttaaattcaacagtgacacaaatgaagttgatgtgcccttgaatacc
+            agggtgggcaccaaacgctacatggctcccgaagtgctggacgaaagcctgaacaaaaac
+            cacttccagccctacatcatggctgacatctacagcttcggcctaatcatttgggagatg
+            gctcgtcgttgtatcacaggagggatcgtggaagaataccaattgccatattacaacatg
+            gtaccgagtgatccgtcatacgaagatatgcgtgaggttgtgtgtgtcaaacgtttgcgg
+            ccaattgtgtctaatcggtggaacagtgatgaatgtctacgagcagttttgaagctaatg
+            tcagaatgctgggcccacaatccagcctccagactcacagcattgagaattaagaagacg
+            cttgccaagatggttgaatcccaagatgtaaaaatctga
+///

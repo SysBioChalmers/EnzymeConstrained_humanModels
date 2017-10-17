@@ -1,0 +1,124 @@
+ENTRY       2308              CDS       T01001
+NAME        FOXO1, FKH1, FKHR, FOXO1A
+DEFINITION  (RefSeq) forkhead box O1
+ORTHOLOGY   K07201  forkhead box protein O1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04218  Cellular senescence
+            hsa04910  Insulin signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05215  Prostate cancer
+MODULE      hsa_M00676  PI3K-Akt signaling
+DISEASE     H00037  Alveolar rhabdomyosarcoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                2308 (FOXO1)
+               04152 AMPK signaling pathway
+                2308 (FOXO1)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                2308 (FOXO1)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                2308 (FOXO1)
+               04922 Glucagon signaling pathway
+                2308 (FOXO1)
+               04919 Thyroid hormone signaling pathway
+                2308 (FOXO1)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                2308 (FOXO1)
+               04213 Longevity regulating pathway - multiple species
+                2308 (FOXO1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2308 (FOXO1)
+               05202 Transcriptional misregulation in cancers
+                2308 (FOXO1)
+               05215 Prostate cancer
+                2308 (FOXO1)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                2308 (FOXO1)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                2308 (FOXO1)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                2308 (FOXO1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Helix-turn-helix
+               Fork head/winged helix other regulators
+                2308 (FOXO1)
+POSITION    13q14.11
+MOTIF       Pfam: FOXO_KIX_bdg Forkhead FOXO-TAD
+DBLINKS     NCBI-GeneID: 2308
+            NCBI-ProteinID: NP_002006
+            OMIM: 136533
+            HGNC: 3819
+            Ensembl: ENSG00000150907
+            Vega: OTTHUMG00000016775
+            Pharos: Q12778(Tbio)
+            UniProt: Q12778
+STRUCTURE   PDB: 3CO6 4LG0 3COA 5DUI 3CO7
+AASEQ       655
+            MAEAPQVVEIDPDFEPLPRPRSCTWPLPRPEFSQSNSATSSPAPSGSAAANPDAAAGLPS
+            ASAAAVSADFMSNLSLLEESEDFPQAPGSVAAAVAAAAAAAATGGLCGDFQGPEAGCLHP
+            APPQPPPPGPLSQHPPVPPAAAGPLAGQPRKSSSSRRNAWGNLSYADLITKAIESSAEKR
+            LTLSQIYEWMVKSVPYFKDKGDSNSSAGWKNSIRHNLSLHSKFIRVQNEGTGKSSWWMLN
+            PEGGKSGKSPRRRAASMDNNSKFAKSRSRAAKKKASLQSGQEGAGDSPGSQFSKWPASPG
+            SHSNDDFDNWSTFRPRTSSNASTISGRLSPIMTEQDDLGEGDVHSMVYPPSAAKMASTLP
+            SLSEISNPENMENLLDNLNLLSSPTSLTVSTQSSPGTMMQQTPCYSFAPPNTSLNSPSPN
+            YQKYTYGQSSMSPLPQMPIQTLQDNKSSYGGMSQYNCAPGLLKELLTSDSPPHNDIMTPV
+            DPGVAQPNSRVLGQNVMMGPNSVMSTYGSQASHNKMMNPSSHTHPGHAQQTSAVNGRPLP
+            HTVSTMPHTSGMNRLTQVKTPVQVPLPHPMQMSALGGYSSVSSCNGYGRMGLLHQEKLPS
+            DLDGMFIERLDCDMESIIRNDLMDGDTLDFNFDNVLPNQSFPHSVKTTTHSWVSG
+NTSEQ       1968
+            atggccgaggcgcctcaggtggtggagatcgacccggacttcgagccgctgccccggccg
+            cgctcgtgcacctggccgctgcccaggccggagtttagccagtccaactcggccacctcc
+            agcccggcgccgtcgggcagcgcggctgccaaccccgacgccgcggcgggcctgccctcg
+            gcctcggctgccgctgtcagcgccgacttcatgagcaacctgagcttgctggaggagagc
+            gaggacttcccgcaggcgcccggctccgtggcggcggcggtggcggcggcggccgccgcg
+            gccgccaccggggggctgtgcggggacttccagggcccggaggcgggctgcctgcaccca
+            gcgccaccgcagcccccgccgcccgggccgctgtcgcagcacccgccggtgccccccgcc
+            gccgctgggccgctcgcggggcagccgcgcaagagcagctcgtcccgccgcaacgcgtgg
+            ggcaacctgtcctacgccgacctcatcaccaaggccatcgagagctcggcggagaagcgg
+            ctcacgctgtcgcagatctacgagtggatggtcaagagcgtgccctacttcaaggataag
+            ggtgacagcaacagctcggcgggctggaagaattcaattcgtcataatctgtccctacac
+            agcaagttcattcgtgtgcagaatgaaggaactggaaaaagttcttggtggatgctcaat
+            ccagagggtggcaagagcgggaaatctcctaggagaagagctgcatccatggacaacaac
+            agtaaatttgctaagagccgaagccgagctgccaagaagaaagcatctctccagtctggc
+            caggagggtgctggggacagccctggatcacagttttccaaatggcctgcaagccctggc
+            tctcacagcaatgatgactttgataactggagtacatttcgccctcgaactagctcaaat
+            gctagtactattagtgggagactctcacccattatgaccgaacaggatgatcttggagaa
+            ggggatgtgcattctatggtgtacccgccatctgccgcaaagatggcctctactttaccc
+            agtctgtctgagataagcaatcccgaaaacatggaaaatcttttggataatctcaacctt
+            ctctcatcaccaacatcattaactgtttcgacccagtcctcacctggcaccatgatgcag
+            cagacgccgtgctactcgtttgcgccaccaaacaccagtttgaattcacccagcccaaac
+            taccaaaaatatacatatggccaatccagcatgagccctttgccccagatgcctatacaa
+            acacttcaggacaataagtcgagttatggaggtatgagtcagtataactgtgcgcctgga
+            ctcttgaaggagttgctgacttctgactctcctccccataatgacattatgacaccagtt
+            gatcctggggtagcccagcccaacagccgggttctgggccagaacgtcatgatgggccct
+            aattcggtcatgtcaacctatggcagccaggcatctcataacaaaatgatgaatcccagc
+            tcccatacccaccctggacatgctcagcagacatctgcagttaacgggcgtcccctgccc
+            cacacggtaagcaccatgccccacacctcgggtatgaaccgcctgacccaagtgaagaca
+            cctgtacaagtgcctctgccccaccccatgcagatgagtgccctggggggctactcctcc
+            gtgagcagctgcaatggctatggcagaatgggccttctccaccaggagaagctcccaagt
+            gacttggatggcatgttcattgagcgcttagactgtgacatggaatccatcattcggaat
+            gacctcatggatggagatacattggattttaactttgacaatgtgttgcccaaccaaagc
+            ttcccacacagtgtcaagacaacgacacatagctgggtgtcaggctga
+///

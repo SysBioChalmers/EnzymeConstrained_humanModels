@@ -1,0 +1,78 @@
+ENTRY       1814              CDS       T01001
+NAME        DRD3, D3DR, ETM1, FET1
+DEFINITION  (RefSeq) dopamine receptor D3
+ORTHOLOGY   K04146  dopamine receptor D3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04728  Dopaminergic synapse
+DISEASE     H01649  Schizophrenia
+DRUG_TARGET Cariprazine: D09876 D09997
+            Dexpramipexole (DG01331): D09886 D09887
+            Dopamine (DG00213): D00633 D07870
+            Dopexamine (DG00222): D03891 D03892
+            Levodopa: D00059
+            Levosulpiride: D07312
+            Nemonapride: D01468
+            Olanzapine (DG00898): D00454 D06623
+            Oxiperomide: D02676
+            Pardoprunox (DG01324): D09366 D09397
+            Pimozide: D00560
+            Piribedil: D07305
+            Pramipexole (DG00863): D00559 D05575
+            Quinpirole hydrochloride: D05682
+            Sulpiride: D01226
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1814 (DRD3)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                1814 (DRD3)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Dopamine [OT]
+                1814 (DRD3)
+POSITION    3q13.31
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7TM_GPCR_Srx 7tm_4
+DBLINKS     NCBI-GeneID: 1814
+            NCBI-ProteinID: NP_000787
+            OMIM: 126451
+            HGNC: 3024
+            Ensembl: ENSG00000151577
+            Vega: OTTHUMG00000159334
+            Pharos: P35462(Tclin)
+            UniProt: P35462 X5D2G4 A8K8E4
+AASEQ       400
+            MASLSQLSGHLNYTCGAENSTGASQARPHAYYALSYCALILAIVFGNGLVCMAVLKERAL
+            QTTTNYLVVSLAVADLLVATLVMPWVVYLEVTGGVWNFSRICCDVFVTLDVMMCTASILN
+            LCAISIDRYTAVVMPVHYQHGTGQSSCRRVALMITAVWVLAFAVSCPLLFGFNTTGDPTV
+            CSISNPDFVIYSSVVSFYLPFGVTVLVYARIYVVLKQRRRKRILTRQNSQCNSVRPGFPQ
+            QTLSPDPAHLELKRYYSICQDTALGGPGFQERGGELKREEKTRNSLSPTIAPKLSLEVRK
+            LSNGRLSTSLKLGPLQPRGVPLREKKATQMVAIVLGAFIVCWLPFFLTHVLNTHCQTCHV
+            SPELYSATTWLGYVNSALNPVIYTTFNIEFRKAFLKILSC
+NTSEQ       1203
+            atggcatctctgagccagctgagtggccacctgaactacacctgtggggcagagaactcc
+            acaggtgccagccaggcccgcccacatgcctactatgccctctcctactgcgcgctcatc
+            ctggccatcgtcttcggcaatggcctggtgtgcatggctgtgctgaaggagcgggccctg
+            cagactaccaccaactacttagtagtgagcctggctgtggcagacttgctggtggccacc
+            ttggtgatgccctgggtggtatacctggaggtgacaggtggagtctggaatttcagccgc
+            atttgctgtgatgtttttgtcaccctggatgtcatgatgtgtacagccagcatccttaat
+            ctctgtgccatcagcatagacaggtacactgcagtggtcatgcccgttcactaccagcat
+            ggcacgggacagagctcctgtcggcgcgtggccctcatgatcacggccgtctgggtactg
+            gcctttgctgtgtcctgccctcttctgtttggctttaataccacaggggaccccactgtc
+            tgctccatctccaaccctgattttgtcatctactcttcagtggtgtccttctacctgccc
+            tttggagtgactgtccttgtctatgccagaatctatgtggtgctgaaacaaaggagacgg
+            aaaaggatcctcactcgacagaacagtcagtgcaacagtgtcaggcctggcttcccccaa
+            caaaccctctctcctgacccggcacatctggagctgaagcgttactacagcatctgccag
+            gacactgccttgggtggaccaggcttccaagaaagaggaggagagttgaaaagagaggag
+            aagactcggaattccctgagtcccaccatagcgcccaagctcagcttagaagttcgaaaa
+            ctcagcaatggcagattatcgacatctttgaagctggggcccctgcaacctcggggagtg
+            ccacttcgggagaagaaggcaacccaaatggtggccattgtgcttggggccttcattgtc
+            tgctggctgcccttcttcttgacccatgttctcaatacccactgccagacatgccacgtg
+            tccccagagctttacagtgccacgacatggctgggctacgtgaatagcgccctcaaccct
+            gtgatctataccaccttcaatatcgagttccggaaagccttcctcaagatcctgtcttgc
+            tga
+///

@@ -1,0 +1,131 @@
+ENTRY       3693              CDS       T01001
+NAME        ITGB5
+DEFINITION  (RefSeq) integrin subunit beta 5
+ORTHOLOGY   K06588  integrin beta 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05165  Human papillomavirus infection
+            hsa05205  Proteoglycans in cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DRUG_TARGET Cilengitide: D03497
+            Fluciclatide F 18: D09903
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3693 (ITGB5)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3693 (ITGB5)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3693 (ITGB5)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3693 (ITGB5)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3693 (ITGB5)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                3693 (ITGB5)
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3693 (ITGB5)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3693 (ITGB5)
+               05414 Dilated cardiomyopathy (DCM)
+                3693 (ITGB5)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3693 (ITGB5)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Integrins (complement receptors)
+                3693 (ITGB5)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Others
+               ICAM4; intercellular adhesion molecule 4 [KO:K06581]
+                alpha V beta 5	Cell adhesion molecules (CAMs)
+                 3693 (ITGB5)
+             7. Others
+              SDC1; syndecan 1 [KO:K06257]
+               alpha V beta 5	Cell adhesion molecules (CAMs)
+                3693 (ITGB5)
+POSITION    3q21.2
+MOTIF       Pfam: Integrin_beta Integrin_b_cyt Integrin_B_tail PSI_integrin EGF_2 DUF2975
+DBLINKS     NCBI-GeneID: 3693
+            NCBI-ProteinID: NP_002204
+            OMIM: 147561
+            HGNC: 6160
+            Ensembl: ENSG00000082781
+            Vega: OTTHUMG00000159432
+            Pharos: P18084(Tbio)
+            UniProt: P18084 L7RT22
+AASEQ       799
+            MPRAPAPLYACLLGLCALLPRLAGLNICTSGSATSCEECLLIHPKCAWCSKEDFGSPRSI
+            TSRCDLRANLVKNGCGGEIESPASSFHVLRSLPLSSKGSGSAGWDVIQMTPQEIAVNLRP
+            GDKTTFQLQVRQVEDYPVDLYYLMDLSLSMKDDLDNIRSLGTKLAEEMRKLTSNFRLGFG
+            SFVDKDISPFSYTAPRYQTNPCIGYKLFPNCVPSFGFRHLLPLTDRVDSFNEEVRKQRVS
+            RNRDAPEGGFDAVLQAAVCKEKIGWRKDALHLLVFTTDDVPHIALDGKLGGLVQPHDGQC
+            HLNEANEYTASNQMDYPSLALLGEKLAENNINLIFAVTKNHYMLYKNFTALIPGTTVEIL
+            DGDSKNIIQLIINAYNSIRSKVELSVWDQPEDLNLFFTATCQDGVSYPGQRKCEGLKIGD
+            TASFEVSLEARSCPSRHTEHVFALRPVGFRDSLEVGVTYNCTCGCSVGLEPNSARCNGSG
+            TYVCGLCECSPGYLGTRCECQDGENQSVYQNLCREAEGKPLCSGRGDCSCNQCSCFESEF
+            GKIYGPFCECDNFSCARNKGVLCSGHGECHCGECKCHAGYIGDNCNCSTDISTCRGRDGQ
+            ICSERGHCLCGQCQCTEPGAFGEMCEKCPTCPDACSTKRDCVECLLLHSGKPDNQTCHSL
+            CRDEVITWVDTIVKDDQEAVLCFYKTAKDCVMMFTYVELPSGKSNLTVLREPECGNTPNA
+            MTILLAVVGSILLVGLALLAIWKLLVTIHDRREFAKFQSERSRARYEMASNPLYRKPIST
+            HTVDFTFNKFNKSYNGTVD
+NTSEQ       2400
+            atgccgcgggccccggcgccgctgtacgcctgcctcctggggctctgcgcgctcctgccc
+            cggctcgcaggtctcaacatatgcactagtggaagtgccacctcatgtgaagaatgtctg
+            ctaatccacccaaaatgtgcctggtgctccaaagaggacttcggaagcccacggtccatc
+            acctctcggtgtgatctgagggcaaaccttgtcaaaaatggctgtggaggtgagatagag
+            agcccagccagcagcttccatgtcctgaggagcctgcccctcagcagcaagggttcgggc
+            tctgcaggctgggacgtcattcagatgacaccacaggagattgccgtgaacctccggccc
+            ggtgacaagaccaccttccagctacaggttcgccaggtggaggactatcctgtggacctg
+            tactacctgatggacctctccctgtccatgaaggatgacttggacaatatccggagcctg
+            ggcaccaaactcgcggaggagatgaggaagctcaccagcaacttccggttgggatttggg
+            tcttttgttgataaggacatctctcctttctcctacacggcaccgaggtaccagaccaat
+            ccgtgcattggttacaagttgtttccaaattgcgtcccctcctttgggttccgccatctg
+            ctgcctctcacagacagagtggacagcttcaatgaggaagttcggaaacagagggtgtcc
+            cggaaccgagatgcccctgaggggggctttgatgcagtactccaggcagccgtctgcaag
+            gagaagattggctggcgaaaggatgcactgcatttgctggtgttcacaacagatgatgtg
+            ccccacatcgcattggatggaaaattgggaggcctggtgcagccacacgatggccagtgc
+            cacctgaacgaggccaacgagtacactgcatccaaccagatggactatccatcccttgcc
+            ttgcttggagagaaattggcagagaacaacatcaacctcatctttgcagtgacaaaaaac
+            cattatatgctgtacaagaattttacagccctgatacctggaacaacggtggagatttta
+            gatggagactccaaaaatattattcaactgattattaatgcatacaatagtatccggtct
+            aaagtggagttgtcagtctgggatcagcctgaggatcttaatctcttctttactgctacc
+            tgccaagatggggtatcctatcctggtcagaggaagtgtgagggtctgaagattggggac
+            acggcatcttttgaagtatcattggaggcccgaagctgtcccagcagacacacggagcat
+            gtgtttgccctgcggccggtgggattccgggacagcctggaggtgggggtcacctacaac
+            tgcacgtgcggctgcagcgtggggctggaacccaacagcgccaggtgcaacgggagcggg
+            acctatgtctgcggcctgtgtgagtgcagccccggctacctgggcaccaggtgcgagtgc
+            caggatggggagaaccagagcgtgtaccagaacctgtgccgggaggcagagggcaagcca
+            ctgtgcagcgggcgtggggactgcagctgcaaccagtgctcctgcttcgagagcgagttt
+            ggcaagatctatgggcctttctgtgagtgcgacaacttctcctgtgccaggaacaaggga
+            gtcctctgctcaggccatggcgagtgtcactgcggggaatgcaagtgccatgcaggttac
+            atcggggacaactgtaactgctcgacagacatcagcacatgccggggcagagatggccag
+            atctgcagcgagcgtgggcactgtctctgtgggcagtgccaatgcacggagccgggggcc
+            tttggggagatgtgtgagaagtgccccacctgcccggatgcatgcagcaccaagagagat
+            tgcgtcgagtgcctgctgctccactctgggaaacctgacaaccagacctgccacagccta
+            tgcagggatgaggtgatcacatgggtggacaccatcgtgaaagatgaccaggaggctgtg
+            ctatgtttctacaaaaccgccaaggactgcgtcatgatgttcacctatgtggagctcccc
+            agtgggaagtccaacctgaccgtcctcagggagccagagtgtggaaacacccccaacgcc
+            atgaccatcctcctggctgtggtcggtagcatcctccttgttgggcttgcactcctggct
+            atctggaagctgcttgtcaccatccacgaccggagggagtttgcaaagtttcagagcgag
+            cgatccagggcccgctatgaaatggcttcaaatccattatacagaaagcctatctccacg
+            cacactgtggacttcaccttcaacaagttcaacaaatcctacaatggcactgtggactga
+///

@@ -1,0 +1,103 @@
+ENTRY       6240              CDS       T01001
+NAME        RRM1, R1, RIR1, RR1
+DEFINITION  (RefSeq) ribonucleotide reductase catalytic subunit M1
+ORTHOLOGY   K10807  ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+DRUG_TARGET Caracemide: D03378
+            Cladribine: D01370
+            Clofarabine: D03546
+            Fludarabine (DG00685): D01907 D07966
+            Gemcitabine (DG00688): D01155 D02368 D10222
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                6240 (RRM1)
+               00240 Pyrimidine metabolism
+                6240 (RRM1)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                6240 (RRM1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.17  Acting on CH or CH2 groups
+               1.17.4  With a disulfide as acceptor
+                1.17.4.1  ribonucleoside-diphosphate reductase
+                 6240 (RRM1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Other factors with a suspected DNA repair function
+               Modulation of nucleotide pools
+                6240 (RRM1)
+POSITION    11p15.4
+MOTIF       Pfam: Ribonuc_red_lgC Ribonuc_red_lgN ATP-cone
+DBLINKS     NCBI-GeneID: 6240
+            NCBI-ProteinID: NP_001024
+            OMIM: 180410
+            HGNC: 10451
+            Ensembl: ENSG00000167325
+            Vega: OTTHUMG00000133361
+            Pharos: P23921(Tclin)
+            UniProt: P23921
+STRUCTURE   PDB: 2WGH 3HNC 5TUS 3HNE 3HNF 3HND 4X3V 5D1Y
+AASEQ       792
+            MHVIKRDGRQERVMFDKITSRIQKLCYGLNMDFVDPAQITMKVIQGLYSGVTTVELDTLA
+            AETAATLTTKHPDYAILAARIAVSNLHKETKKVFSDVMEDLYNYINPHNGKHSPMVAKST
+            LDIVLANKDRLNSAIIYDRDFSYNYFGFKTLERSYLLKINGKVAERPQHMLMRVSVGIHK
+            EDIDAAIETYNLLSERWFTHASPTLFNAGTNRPQLSSCFLLSMKDDSIEGIYDTLKQCAL
+            ISKSAGGIGVAVSCIRATGSYIAGTNGNSNGLVPMLRVYNNTARYVDQGGNKRPGAFAIY
+            LEPWHLDIFEFLDLKKNTGKEEQRARDLFFALWIPDLFMKRVETNQDWSLMCPNECPGLD
+            EVWGEEFEKLYASYEKQGRVRKVVKAQQLWYAIIESQTETGTPYMLYKDSCNRKSNQQNL
+            GTIKCSNLCTEIVEYTSKDEVAVCNLASLALNMYVTSEHTYDFKKLAEVTKVVVRNLNKI
+            IDINYYPVPEACLSNKRHRPIGIGVQGLADAFILMRYPFESAEAQLLNKQIFETIYYGAL
+            EASCDLAKEQGPYETYEGSPVSKGILQYDMWNVTPTDLWDWKVLKEKIAKYGIRNSLLIA
+            PMPTASTAQILGNNESIEPYTSNIYTRRVLSGEFQIVNPHLLKDLTERGLWHEEMKNQII
+            ACNGSIQSIPEIPDDLKQLYKTVWEISQKTVLKMAAERGAFIDQSQSLNIHIAEPNYGKL
+            TSMHFYGWKQGLKTGMYYLRTRPAANPIQFTLNKEKLKDKEKVSKEEEEKERNTAAMVCS
+            LENRDECLMCGS
+NTSEQ       2379
+            atgcatgtgatcaagcgagatggccgccaagaacgagtcatgtttgacaaaattacatct
+            cgaatccagaagctttgttatggactcaatatggattttgttgatcctgctcagatcacc
+            atgaaagtaatccaaggcttgtacagtggggtcaccacagtggaactagatactttggct
+            gctgaaacagctgcaaccttgactactaagcaccctgactatgctatcctggcagccagg
+            atcgctgtctctaacttgcacaaagaaacaaagaaagtgttcagtgatgtgatggaagac
+            ctctataactacataaatccacataatggcaaacactctcccatggtggccaagtcaaca
+            ttggatattgttctggccaataaagatcgcctgaattctgctattatctatgaccgagat
+            ttctcttacaattacttcggctttaagacgctagagcggtcttatttgttgaagatcaat
+            ggaaaagtggctgaaagaccacaacatatgttgatgagagtatctgttgggatccacaaa
+            gaagacattgatgcagcaattgaaacatataatcttctttctgagaggtggtttactcat
+            gcttcgcccactctcttcaatgctggtaccaaccgcccacaactttctagctgttttctt
+            ctgagtatgaaagatgacagcattgaaggcatttatgacactctaaagcaatgtgcattg
+            atttctaagtctgctggaggaattggtgttgctgtgagttgtattcgggctactggcagc
+            tacattgctgggactaatggcaattccaatggccttgtaccgatgctgagagtatataac
+            aacacagctcgatatgtggatcaaggtgggaacaagcgtcctggggcatttgctatttac
+            ctggagccttggcatttagacatctttgaattccttgatttaaagaagaacacaggaaag
+            gaagagcagcgtgccagagatcttttctttgctctttggattccggatctcttcatgaaa
+            cgagtggagactaatcaggactggtctttgatgtgtccaaatgagtgtcctggtctggat
+            gaggtttggggagaggaatttgagaaactatatgcaagttatgagaaacaaggtcgtgtc
+            cgcaaagttgtaaaagctcagcagctttggtatgccatcattgagtctcagacggaaaca
+            ggcaccccgtatatgctctacaaagattcctgtaatcgaaagagcaaccagcagaacctg
+            ggaaccatcaaatgcagcaacctgtgcacagaaatagtggagtacaccagcaaagatgag
+            gttgctgtttgtaatttggcttccctggccctgaatatgtatgtcacatcagaacacaca
+            tacgactttaagaagttggctgaagtcactaaagtcgttgtccgaaacttgaataaaatt
+            attgatataaactactatcctgtaccagaggcatgcctatcaaataaacgccatcgcccc
+            attggaattggggtacaaggtctggcagatgcttttatcctgatgagatacccttttgag
+            agtgcagaagcccagttactgaataagcagatctttgaaactatttattatggtgctctg
+            gaagccagctgtgaccttgccaaggagcagggcccatacgaaacctatgagggctctcca
+            gttagcaaaggaattcttcagtatgatatgtggaatgttactcctacagacctatgggac
+            tggaaggttctcaaggagaagattgcaaagtatggtataagaaacagtttacttattgcc
+            ccgatgcctacagcttccactgctcagatcctggggaataatgagtccattgaaccttac
+            accagcaacatctatactcgcagagtcttgtcaggagaatttcagattgtaaatcctcac
+            ttattgaaagatcttaccgagcggggcctatggcatgaagagatgaaaaaccagattatt
+            gcatgcaatggctctattcagagcataccagaaattcctgatgacctgaagcaactttat
+            aaaactgtgtgggaaatctctcagaaaactgttctcaagatggcagctgagagaggtgct
+            ttcattgatcaaagccaatctttgaacatccacattgctgagcctaactatggcaaactc
+            actagtatgcacttctacggctggaagcagggtttgaagactgggatgtattatttaagg
+            acaagaccagcggctaatccaatccagttcactctaaataaggagaagctaaaagataaa
+            gaaaaggtatcaaaagaggaagaagagaaggagaggaacacagcagccatggtgtgctct
+            ttggagaatagagatgaatgtctgatgtgtggatcctga
+///

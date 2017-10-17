@@ -1,0 +1,70 @@
+ENTRY       3419              CDS       T01001
+NAME        IDH3A
+DEFINITION  (RefSeq) isocitrate dehydrogenase 3 (NAD(+)) alpha
+ORTHOLOGY   K00030  isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01210  2-Oxocarboxylic acid metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00010  Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                3419 (IDH3A)
+               01210 2-Oxocarboxylic acid metabolism
+                3419 (IDH3A)
+               01230 Biosynthesis of amino acids
+                3419 (IDH3A)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                3419 (IDH3A)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.41  isocitrate dehydrogenase (NAD+)
+                 3419 (IDH3A)
+POSITION    15q25.1
+MOTIF       Pfam: Iso_dh
+DBLINKS     NCBI-GeneID: 3419
+            NCBI-ProteinID: NP_005521
+            OMIM: 601149
+            HGNC: 5384
+            Ensembl: ENSG00000166411
+            Vega: OTTHUMG00000143732
+            Pharos: P50213(Tbio)
+            UniProt: P50213
+STRUCTURE   PDB: 5GRI 5GRF 5GRE 5GRL 5GRH
+AASEQ       366
+            MAGPAWISKVSRLLGAFHNPKQVTRGFTGGVQTVTLIPGDGIGPEISAAVMKIFDAAKAP
+            IQWEERNVTAIQGPGGKWMIPSEAKESMDKNKMGLKGPLKTPIAAGHPSMNLLLRKTFDL
+            YANVRPCVSIEGYKTPYTDVNIVTIRENTEGEYSGIEHVIVDGVVQSIKLITEGASKRIA
+            EFAFEYARNNHRSNVTAVHKANIMRMSDGLFLQKCREVAESCKDIKFNEMYLDTVCLNMV
+            QDPSQFDVLVMPNLYGDILSDLCAGLIGGLGVTPSGNIGANGVAIFESVHGTAPDIAGKD
+            MANPTALLLSAVMMLRHMGLFDHAARIEAACFATIKDGKSLTKDLGGNAKCSDFTEEICR
+            RVKDLD
+NTSEQ       1101
+            atggctgggcccgcgtggatctctaaggtctctcggctgctgggggcattccacaaccca
+            aaacaggtgaccagaggttttactggtggtgttcagacagtaactttaattccaggagat
+            ggtattggcccagaaatttcagctgcagttatgaagatttttgatgctgccaaagcacct
+            attcagtgggaggagcggaacgtcactgccattcaaggacctggaggaaagtggatgatc
+            ccttcagaggctaaagagtccatggataagaacaagatgggcttgaaaggccctttgaag
+            accccaatagcagccggtcacccatctatgaatttactgctgcgcaaaacatttgacctt
+            tacgcgaatgtccgaccatgtgtctctatcgaaggctataaaaccccttacaccgatgta
+            aatattgtgaccattcgagagaacacagaaggagaatacagtggaattgagcatgtgatt
+            gttgatggagtcgtgcagagtatcaagctcatcaccgagggggcgagcaagcgcattgct
+            gagtttgcctttgagtatgcccggaacaaccaccggagcaacgtcacggcggtgcacaaa
+            gccaacatcatgcggatgtcagatgggctttttctacaaaaatgcagggaagttgcagaa
+            agctgtaaagatattaaatttaatgagatgtaccttgatacagtatgtttgaatatggta
+            caagatccttcccaatttgatgttcttgttatgccaaatttgtatggagacatccttagt
+            gacttgtgtgcaggattgatcggaggtctcggtgtgacaccaagtggcaacattggagcc
+            aatggggttgcaatttttgagtcggttcatgggacggctccagacattgcaggcaaggac
+            atggcgaatcccacagccctcctgctcagtgccgtgatgatgctgcgccacatgggactt
+            tttgaccatgctgcaagaattgaggctgcgtgttttgctacaattaaggacggaaagagc
+            ttgacaaaagatttgggaggcaatgcaaaatgctcagacttcacagaggaaatctgtcgc
+            cgagtaaaagatttagattaa
+///

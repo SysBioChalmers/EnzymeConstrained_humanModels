@@ -1,0 +1,93 @@
+ENTRY       1543              CDS       T01001
+NAME        CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX
+DEFINITION  (RefSeq) cytochrome P450 family 1 subfamily A member 1
+ORTHOLOGY   K07408  cytochrome P450 family 1 subfamily A polypeptide 1 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00380  Tryptophan metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04913  Ovarian steroidogenesis
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1543 (CYP1A1)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                1543 (CYP1A1)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1543 (CYP1A1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1543 (CYP1A1)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                1543 (CYP1A1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1543 (CYP1A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1543 (CYP1A1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP1 family
+               1543 (CYP1A1)
+POSITION    15q24.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1543
+            NCBI-ProteinID: NP_000490
+            OMIM: 108330
+            HGNC: 2595
+            Ensembl: ENSG00000140465
+            Vega: OTTHUMG00000142812
+            Pharos: P04798(Tchem)
+            UniProt: P04798 A0N0X8
+STRUCTURE   PDB: 4I8V
+AASEQ       512
+            MLFPISMSATEFLLASVIFCLVFWVIRASRPQVPKGLKNPPGPWGWPLIGHMLTLGKNPH
+            LALSRMSQQYGDVLQIRIGSTPVVVLSGLDTIRQALVRQGDDFKGRPDLYTFTLISNGQS
+            MSFSPDSGPVWAARRRLAQNGLKSFSIASDPASSTSCYLEEHVSKEAEVLISTLQELMAG
+            PGHFNPYRYVVVSVTNVICAICFGRRYDHNHQELLSLVNLNNNFGEVVGSGNPADFIPIL
+            RYLPNPSLNAFKDLNEKFYSFMQKMVKEHYKTFEKGHIRDITDSLIEHCQEKQLDENANV
+            QLSDEKIINIVLDLFGAGFDTVTTAISWSLMYLVMNPRVQRKIQEELDTVIGRSRRPRLS
+            DRSHLPYMEAFILETFRHSSFVPFTIPHSTTRDTSLKGFYIPKGRCVFVNQWQINHDQKL
+            WVNPSEFLPERFLTPDGAIDKVLSEKVIIFGMGKRKCIGETIARWEVFLFLAILLQRVEF
+            SVPLGVKVDMTPIYGLTMKHACCEHFQMQLRS
+NTSEQ       1539
+            atgcttttcccaatctccatgtcggccacggagtttcttctggcctctgtcatcttctgt
+            ctggtattctgggtaatcagggcctcaagacctcaggtccccaaaggcctgaagaatcca
+            ccagggccatggggctggcctctgattgggcacatgctgaccctgggaaagaacccgcac
+            ctggcactgtcaaggatgagccagcagtatggggacgtgctgcagatccgaattggctcc
+            acacccgtggtggtgctgagcggcctggacaccatccggcaggccctggtgcggcagggc
+            gatgatttcaagggccggcccgacctctacaccttcaccctcatcagtaatggtcagagc
+            atgtccttcagcccagactctggaccagtgtgggctgcccgccggcgcctggcccagaat
+            ggcctgaaaagtttctccattgcctctgacccagcctcctcaacctcctgctacctggaa
+            gagcatgtgagcaaggaggctgaggtcctgataagcacgttgcaggagctgatggcaggg
+            cctgggcactttaacccctacaggtatgtggtggtatcagtgaccaatgtcatctgtgcc
+            atttgctttggccggcgctatgaccacaaccaccaagaactgcttagcctagtcaacctg
+            aataataatttcggggaggtggttggctctggaaacccagctgacttcatccctattctt
+            cgctacctacccaacccttccctgaatgccttcaaggacctgaatgagaagttctacagc
+            ttcatgcagaagatggtcaaggagcactacaaaacctttgagaagggccacatccgggac
+            atcacagacagcctgattgagcactgtcaggagaagcagctggatgagaacgccaatgtc
+            cagctgtcagatgagaagatcattaacatcgtcttggacctctttggagctgggtttgac
+            acagtcacaactgctatctcctggagcctcatgtatttggtgatgaaccccagggtacag
+            agaaagatccaagaggagctagacacagtgattggcaggtcacggcggccccggctctct
+            gacagatcccatctgccctatatggaggccttcatcctggagaccttccgacactcttcc
+            ttcgtccccttcaccatcccccacagcacaacaagagacacaagtttgaaaggcttttac
+            atccccaaggggcgttgtgtctttgtaaaccagtggcagatcaaccatgaccagaagcta
+            tgggtcaacccatctgagttcctacctgaacggtttctcacccctgatggtgctatcgac
+            aaggtgttaagtgagaaggtgattatctttggcatgggcaagcggaagtgtatcggtgag
+            accattgcccgctgggaggtctttctcttcctggctatcctgctgcaacgggtggaattc
+            agcgtgccactgggcgtgaaggtggacatgacccccatctatgggctaaccatgaagcat
+            gcctgctgtgagcacttccaaatgcagctgcgctcttag
+///

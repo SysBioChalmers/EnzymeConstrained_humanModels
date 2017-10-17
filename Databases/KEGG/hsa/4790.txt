@@ -1,0 +1,294 @@
+ENTRY       4790              CDS       T01001
+NAME        NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50
+DEFINITION  (RefSeq) nuclear factor kappa B subunit 1
+ORTHOLOGY   K02580  nuclear factor NF-kappa-B p105 subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01523  Antifolate resistance
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04211  Longevity regulating pathway
+            hsa04218  Cellular senescence
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05030  Cocaine addiction
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+            hsa05212  Pancreatic cancer
+            hsa05215  Prostate cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00686  Toll-like receptor signaling
+DRUG_TARGET Iguratimod: D01146
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                4790 (NFKB1)
+               04010 MAPK signaling pathway
+                4790 (NFKB1)
+               04064 NF-kappa B signaling pathway
+                4790 (NFKB1)
+               04668 TNF signaling pathway
+                4790 (NFKB1)
+               04066 HIF-1 signaling pathway
+                4790 (NFKB1)
+               04071 Sphingolipid signaling pathway
+                4790 (NFKB1)
+               04024 cAMP signaling pathway
+                4790 (NFKB1)
+               04151 PI3K-Akt signaling pathway
+                4790 (NFKB1)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                4790 (NFKB1)
+               04218 Cellular senescence
+                4790 (NFKB1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                4790 (NFKB1)
+               04621 NOD-like receptor signaling pathway
+                4790 (NFKB1)
+               04622 RIG-I-like receptor signaling pathway
+                4790 (NFKB1)
+               04623 Cytosolic DNA-sensing pathway
+                4790 (NFKB1)
+               04660 T cell receptor signaling pathway
+                4790 (NFKB1)
+               04658 Th1 and Th2 cell differentiation
+                4790 (NFKB1)
+               04659 Th17 cell differentiation
+                4790 (NFKB1)
+               04657 IL-17 signaling pathway
+                4790 (NFKB1)
+               04662 B cell receptor signaling pathway
+                4790 (NFKB1)
+               04062 Chemokine signaling pathway
+                4790 (NFKB1)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                4790 (NFKB1)
+               04917 Prolactin signaling pathway
+                4790 (NFKB1)
+               04926 Relaxin signaling pathway
+                4790 (NFKB1)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                4790 (NFKB1)
+              Development
+               04380 Osteoclast differentiation
+                4790 (NFKB1)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                4790 (NFKB1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4790 (NFKB1)
+               05202 Transcriptional misregulation in cancers
+                4790 (NFKB1)
+               05206 MicroRNAs in cancer
+                4790 (NFKB1)
+               05203 Viral carcinogenesis
+                4790 (NFKB1)
+               05212 Pancreatic cancer
+                4790 (NFKB1)
+               05221 Acute myeloid leukemia
+                4790 (NFKB1)
+               05220 Chronic myeloid leukemia
+                4790 (NFKB1)
+               05215 Prostate cancer
+                4790 (NFKB1)
+               05222 Small cell lung cancer
+                4790 (NFKB1)
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                4790 (NFKB1)
+              Substance dependence
+               05030 Cocaine addiction
+                4790 (NFKB1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                4790 (NFKB1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4790 (NFKB1)
+               04931 Insulin resistance
+                4790 (NFKB1)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                4790 (NFKB1)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                4790 (NFKB1)
+               05132 Salmonella infection
+                4790 (NFKB1)
+               05131 Shigellosis
+                4790 (NFKB1)
+               05133 Pertussis
+                4790 (NFKB1)
+               05134 Legionellosis
+                4790 (NFKB1)
+               05152 Tuberculosis
+                4790 (NFKB1)
+               05166 HTLV-I infection
+                4790 (NFKB1)
+               05162 Measles
+                4790 (NFKB1)
+               05164 Influenza A
+                4790 (NFKB1)
+               05161 Hepatitis B
+                4790 (NFKB1)
+               05160 Hepatitis C
+                4790 (NFKB1)
+               05168 Herpes simplex infection
+                4790 (NFKB1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                4790 (NFKB1)
+               05169 Epstein-Barr virus infection
+                4790 (NFKB1)
+               05165 Human papillomavirus infection
+                4790 (NFKB1)
+               05146 Amoebiasis
+                4790 (NFKB1)
+               05145 Toxoplasmosis
+                4790 (NFKB1)
+               05140 Leishmaniasis
+                4790 (NFKB1)
+               05142 Chagas disease (American trypanosomiasis)
+                4790 (NFKB1)
+              Drug resistance
+               01523 Antifolate resistance
+                4790 (NFKB1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               RHR (Rel homology region) Rel/Ankyrin
+                4790 (NFKB1)
+POSITION    4q24
+MOTIF       Pfam: RHD_DNA_bind RHD_dimer Ank_2 Ank_4 Ank Ank_3 Ank_5 Death
+DBLINKS     NCBI-GeneID: 4790
+            NCBI-ProteinID: NP_001158884
+            OMIM: 164011
+            HGNC: 7794
+            Ensembl: ENSG00000109320
+            Vega: OTTHUMG00000161080
+            Pharos: P19838(Tchem)
+            UniProt: P19838 A0A024RDJ4
+STRUCTURE   PDB: 1SVC 1NFI 2O61 3GUT 2DBF
+AASEQ       968
+            MAEDDPYLGRPEQMFHLDPSLTHTIFNPEVFQPQMALPTDGPYLQILEQPKQRGFRFRYV
+            CEGPSHGGLPGASSEKNKKSYPQVKICNYVGPAKVIVQLVTNGKNIHLHAHSLVGKHCED
+            GICTVTAGPKDMVVGFANLGILHVTKKKVFETLEARMTEACIRGYNPGLLVHPDLAYLQA
+            EGGGDRQLGDREKELIRQAALQQTKEMDLSVVRLMFTAFLPDSTGSFTRRLEPVVSDAIY
+            DSKAPNASNLKIVRMDRTAGCVTGGEEIYLLCDKVQKDDIQIRFYEEEENGGVWEGFGDF
+            SPTDVHRQFAIVFKTPKYKDINITKPASVFVQLRRKSDLETSEPKPFLYYPEIKDKEEVQ
+            RKRQKLMPNFSDSFGGGSGAGAGGGGMFGSGGGGGGTGSTGPGYSFPHYGFPTYGGITFH
+            PGTTKSNAGMKHGTMDTESKKDPEGCDKSDDKNTVNLFGKVIETTEQDQEPSEATVGNGE
+            VTLTYATGTKEESAGVQDNLFLEKAMQLAKRHANALFDYAVTGDVKMLLAVQRHLTAVQD
+            ENGDSVLHLAIIHLHSQLVRDLLEVTSGLISDDIINMRNDLYQTPLHLAVITKQEDVVED
+            LLRAGADLSLLDRLGNSVLHLAAKEGHDKVLSILLKHKKAALLLDHPNGDGLNAIHLAMM
+            SNSLPCLLLLVAAGADVNAQEQKSGRTALHLAVEHDNISLAGCLLLEGDAHVDSTTYDGT
+            TPLHIAAGRGSTRLAALLKAAGADPLVENFEPLYDLDDSWENAGEDEGVVPGTTPLDMAT
+            SWQVFDILNGKPYEPEFTSDDLLAQGDMKQLAEDVKLQLYKLLEIPDPDKNWATLAQKLG
+            LGILNNAFRLSPAPSKTLMDNYEVSGGTVRELVEALRQMGYTEAIEVIQAASSPVKTTSQ
+            AHSLPLSPASTRQQIDELRDSDSVCDSGVETSFRKLSFTESLTSGASLLTLNKMPHDYGQ
+            EGPLEGKI
+NTSEQ       2907
+            atggcagaagatgatccatatttgggaaggcctgaacaaatgtttcatttggatccttct
+            ttgactcatacaatatttaatccagaagtatttcaaccacagatggcactgccaacagat
+            ggcccataccttcaaatattagagcaacctaaacagagaggatttcgtttccgttatgta
+            tgtgaaggcccatcccatggtggactacctggtgcctctagtgaaaagaacaagaagtct
+            taccctcaggtcaaaatctgcaactatgtgggaccagcaaaggttattgttcagttggtc
+            acaaatggaaaaaatatccacctgcatgcccacagcctggtgggaaaacactgtgaggat
+            gggatctgcactgtaactgctggacccaaggacatggtggtcggcttcgcaaacctgggt
+            atacttcatgtgacaaagaaaaaagtatttgaaacactggaagcacgaatgacagaggcg
+            tgtataaggggctataatcctggactcttggtgcaccctgaccttgcctatttgcaagca
+            gaaggtggaggggaccggcagctgggagatcgggaaaaagagctaatccgccaagcagct
+            ctgcagcagaccaaggagatggacctcagcgtggtgcggctcatgtttacagcttttctt
+            ccggatagcactggcagcttcacaaggcgcctggaacccgtggtatcagacgccatctat
+            gacagtaaagcccccaatgcatccaacttgaaaattgtaagaatggacaggacagctgga
+            tgtgtgactggaggggaggaaatttatcttctttgtgacaaagttcagaaagatgacatc
+            cagattcgattttatgaagaggaagaaaatggtggagtctgggaaggatttggagatttt
+            tcccccacagatgttcatagacaatttgccattgtcttcaaaactccaaagtataaagat
+            attaatattacaaaaccagcctctgtgtttgtccagcttcggaggaaatctgacttggaa
+            actagtgaaccaaaacctttcctctactatcctgaaatcaaagataaagaagaagtgcag
+            aggaaacgtcagaagctcatgcccaatttttcggatagtttcggcggtggtagtggtgct
+            ggagctggaggcggaggcatgtttggtagtggcggtggaggagggggcactggaagtaca
+            ggtccagggtatagcttcccacactatggatttcctacttatggtgggattactttccat
+            cctggaactactaaatctaatgctgggatgaagcatggaaccatggacactgaatctaaa
+            aaggaccctgaaggttgtgacaaaagtgatgacaaaaacactgtaaacctctttgggaaa
+            gttattgaaaccacagagcaagatcaggagcccagcgaggccaccgttgggaatggtgag
+            gtcactctaacgtatgcaacaggaacaaaagaagagagtgctggagttcaggataacctc
+            tttctagagaaggctatgcagcttgcaaagaggcatgccaatgcccttttcgactacgcg
+            gtgacaggagacgtgaagatgctgctggccgtccagcgccatctcactgctgtgcaggat
+            gagaatggggacagtgtcttacacttagcaatcatccaccttcattctcaacttgtgagg
+            gatctactagaagtcacatctggtttgatttctgatgacattatcaacatgagaaatgat
+            ctgtaccagacgcccttgcacttggcagtgatcactaagcaggaagatgtggtggaggat
+            ttgctgagggctggggccgacctgagccttctggaccgcttgggtaactctgttttgcac
+            ctagctgccaaagaaggacatgataaagttctcagtatcttactcaagcacaaaaaggca
+            gcactacttcttgaccaccccaacggggacggtctgaatgccattcatctagccatgatg
+            agcaatagcctgccatgtttgctgctgctggtggccgctggggctgacgtcaatgctcag
+            gagcagaagtccgggcgcacagcactgcacctggctgtggagcacgacaacatctcattg
+            gcaggctgcctgctcctggagggtgatgcccatgtggacagtactacctacgatggaacc
+            acacccctgcatatagcagctgggagagggtccaccaggctggcagctcttctcaaagca
+            gcaggagcagatcccctggtggagaactttgagcctctctatgacctggatgactcttgg
+            gaaaatgcaggagaggatgaaggagttgtgcctggaaccacgcctctagatatggccacc
+            agctggcaggtatttgacatattaaatgggaaaccatatgagccagagtttacatctgat
+            gatttactagcacaaggagacatgaaacagctggctgaagatgtgaagctgcagctgtat
+            aagttactagaaattcctgatccagacaaaaactgggctactctggcgcagaaattaggt
+            ctggggatacttaataatgccttccggctgagtcctgctccttccaaaacacttatggac
+            aactatgaggtctctgggggtacagtcagagagctggtggaggccctgagacaaatgggc
+            tacaccgaagcaattgaagtgatccaggcagcctccagcccagtgaagaccacctctcag
+            gcccactcgctgcctctctcgcctgcctccacaaggcagcaaatagacgagctccgagac
+            agtgacagtgtctgcgacagcggcgtggagacatccttccgcaaactcagctttaccgag
+            tctctgaccagtggtgcctcactgctaactctcaacaaaatgccccatgattatgggcag
+            gaaggacctctagaaggcaaaatttag
+///

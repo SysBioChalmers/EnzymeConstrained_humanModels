@@ -1,0 +1,98 @@
+ENTRY       4686              CDS       T01001
+NAME        NCBP1, CBP80, NCBP, Sto1
+DEFINITION  (RefSeq) nuclear cap binding protein subunit 1
+ORTHOLOGY   K12882  nuclear cap-binding protein subunit 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+MODULE      hsa_M00399  Cap binding complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                4686 (NCBP1)
+              Translation
+               03013 RNA transport
+                4686 (NCBP1)
+               03015 mRNA surveillance pathway
+                4686 (NCBP1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               5' end processing
+                Cap binding complex
+                 4686 (NCBP1)
+            Spliceosome [BR:hsa03041]
+             Common components
+              Common spliceosomal components
+               Cap binding complex
+                4686 (NCBP1)
+POSITION    9q22.33
+MOTIF       Pfam: MIF4G_like_2 MIF4G_like MIF4G Mnd1 IDO Tropomyosin_1 DUF2524
+DBLINKS     NCBI-GeneID: 4686
+            NCBI-ProteinID: NP_002477
+            OMIM: 600469
+            HGNC: 7658
+            Ensembl: ENSG00000136937
+            Vega: OTTHUMG00000020332
+            Pharos: Q09161(Tbio)
+            UniProt: Q09161 A0A024R179
+STRUCTURE   PDB: 1H6K 1H2T 1N52 3FEY 1H2U 1N54 3FEX 1H2V
+AASEQ       790
+            MSRRRHSDENDGGQPHKRRKTSDANETEDHLESLICKVGEKSACSLESNLEGLAGVLEAD
+            LPNYKSKILRLLCTVARLLPEKLTIYTTLVGLLNARNYNFGGEFVEAMIRQLKESLKANN
+            YNEAVYLVRFLSDLVNCHVIAAPSMVAMFENFVSVTQEEDVPQVRRDWYVYAFLSSLPWV
+            GKELYEKKDAEMDRIFANTESYLKRRQKTHVPMLQVWTADKPHPQEEYLDCLWAQIQKLK
+            KDRWQERHILRPYLAFDSILCEALQHNLPPFTPPPHTEDSVYPMPRVIFRMFDYTDDPEG
+            PVMPGSHSVERFVIEENLHCIIKSHWKERKTCAAQLVSYPGKNKIPLNYHIVEVIFAELF
+            QLPAPPHIDVMYTTLLIELCKLQPGSLPQVLAQATEMLYMRLDTMNTTCVDRFINWFSHH
+            LSNFQFRWSWEDWSDCLSQDPESPKPKFVREVLEKCMRLSYHQRILDIVPPTFSALCPAN
+            PTCIYKYGDESSNSLPGHSVALCLAVAFKSKATNDEIFSILKDVPNPNQDDDDDEGFSFN
+            PLKIEVFVQTLLHLAAKSFSHSFSALAKFHEVFKTLAESDEGKLHVLRVMFEVWRNHPQM
+            IAVLVDKMIRTQIVDCAAVANWIFSSELSRDFTRLFVWEILHSTIRKMNKHVLKIQKELE
+            EAKEKLARQHKRRSDDDDRSSDRKDGVLEEQIERLQEKVESAQSEQKNLFLVIFQRFIMI
+            LTEHLVRCETDGTSVLTPWYKNCIERLQQIFLQHHQIIQQYMVTLENLLFTAELDPHILA
+            VFQQFCALQA
+NTSEQ       2373
+            atgtcgcggcggcggcacagcgacgagaacgacggtgggcagcctcacaaaaggagaaag
+            acctctgatgcaaatgaaactgaagatcatttggaatctttaatatgtaaagtaggagaa
+            aagagtgcctgctctttggagagcaacctagaaggcttggctggtgttttggaagctgat
+            cttcctaactacaagagcaagatcttaaggcttctttgtacagttgcacgcctattacct
+            gagaagctgacaatttatacaacattagttggactactgaatgccaggaattacaatttt
+            ggtggagaatttgtagaagccatgattcgtcaacttaaagaatcattgaaagcaaacaat
+            tataatgaagccgtgtatttggtccgttttttatctgatcttgtgaattgtcatgtgatt
+            gccgccccatcaatggttgctatgtttgaaaattttgtaagcgtaactcaggaagaagat
+            gtacctcaggtgcgacgagattggtatgtgtatgcatttctgtcatctttgccctgggtt
+            ggaaaggagttgtacgaaaagaaagatgcagagatggaccgcatctttgccaacactgaa
+            agctatcttaaaagacgccaaaagactcatgtacccatgttacaggtatggactgctgat
+            aaaccacatccacaagaagagtatttagattgcctgtgggcccagattcagaaattgaaa
+            aaggatcgctggcaggaacggcacatcctaagaccttatcttgcctttgacagcatcctg
+            tgtgaagcactgcagcacaatctgcctccttttacaccacctcctcacactgaagattca
+            gtgtacccaatgccaagggtcatcttcagaatgtttgattacacagatgatcccgagggt
+            cctgtcatgccagggagtcattcagtggaaagatttgtaatagaagagaatcttcactgc
+            atcattaagtcccactggaaggaaaggaagacttgtgctgcacagttagtgagctatcca
+            gggaagaacaagatccccttgaactaccacatagttgaggtgatctttgcagagctgttt
+            caacttccagcaccccctcacattgatgtgatgtacacaacactcctcattgaactgtgc
+            aaacttcaacctggctctctaccccaagttcttgcacaggcaactgaaatgctatacatg
+            cgtttggacacaatgaacactacctgtgtagacaggtttattaattggttttctcatcat
+            ctaagtaacttccagttccgttggagctgggaagattggtcagattgtcttagtcaagat
+            cctgaaagtcccaaaccgaagtttgtaagagaagttctagaaaaatgtatgaggttgtct
+            taccatcagcgtatattagatattgttcctcctaccttctcagctctgtgtcctgcaaac
+            ccaacctgcatttacaagtatggagatgaaagtagcaattctcttcctggacattctgtt
+            gccctctgtttagctgttgcctttaaaagtaaggcaaccaatgatgaaatcttcagcatt
+            ctgaaagatgtaccaaatcctaaccaggatgatgacgacgatgaaggattcagttttaac
+            ccattgaaaatagaagtctttgtacagactctgctacacttggcagccaaatcattcagc
+            cactccttcagtgctcttgcaaagtttcatgaagtcttcaaaaccctagctgaaagtgat
+            gaaggaaagttacatgtgctaagagttatgtttgaggtctggaggaaccatccacagatg
+            attgctgtactagtggataagatgattcgtacacaaatagttgattgtgctgccgtagca
+            aattggatcttctcttcagaactatctcgtgactttaccagattgtttgtttgggaaatt
+            ttgcactctacaattcgtaagatgaacaaacatgtcctgaagatccagaaagagctggaa
+            gaagctaaagagaaacttgctaggcaacacaaacggcgaagtgatgatgacgacagaagc
+            agtgacaggaaagacggggttcttgaggaacaaatagaacgacttcaggaaaaagtggaa
+            tctgctcagagtgaacaaaagaatcttttcctcgttatatttcagcggtttatcatgatc
+            ttgaccgagcacctagtacgatgcgaaactgatgggaccagtgtattaacaccatggtat
+            aagaactgtatagagaggctgcagcagatcttcctacagcatcaccaaataatccagcag
+            tacatggtgaccctggagaaccttctcttcactgctgaattagaccctcatatcttggcc
+            gtgttccagcagttctgtgccctgcaggcctaa
+///

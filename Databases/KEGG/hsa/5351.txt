@@ -1,0 +1,86 @@
+ENTRY       5351              CDS       T01001
+NAME        PLOD1, EDS6, LH, LH1, LLH, PLOD
+DEFINITION  (RefSeq) procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
+ORTHOLOGY   K00473  procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [EC:1.14.11.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+DISEASE     H00802  Ehlers-Danlos syndrome (EDS)
+            H00980  Nevo syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                5351 (PLOD1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.4  procollagen-lysine 5-dioxygenase
+                 5351 (PLOD1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               5351 (PLOD1)
+POSITION    1p36.22
+MOTIF       Pfam: Anp1 2OG-FeII_Oxy 2OG-FeII_Oxy_3
+DBLINKS     NCBI-GeneID: 5351
+            NCBI-ProteinID: NP_000293
+            OMIM: 153454
+            HGNC: 9081
+            Ensembl: ENSG00000083444
+            Vega: OTTHUMG00000002393
+            Pharos: Q02809(Tbio)
+            UniProt: Q02809 A0A024R4H0
+AASEQ       727
+            MRPLLLLALLGWLLLAEAKGDAKPEDNLLVLTVATKETEGFRRFKRSAQFFNYKIQALGL
+            GEDWNVEKGTSAGGGQKVRLLKKALEKHADKEDLVILFADSYDVLFASGPRELLKKFRQA
+            RSQVVFSAEELIYPDRRLETKYPVVSDGKRFLGSGGFIGYAPNLSKLVAEWEGQDSDSDQ
+            LFYTKIFLDPEKREQINITLDHRCRIFQNLDGALDEVVLKFEMGHVRARNLAYDTLPVLI
+            HGNGPTKLQLNYLGNYIPRFWTFETGCTVCDEGLRSLKGIGDEALPTVLVGVFIEQPTPF
+            VSLFFQRLLRLHYPQKHMRLFIHNHEQHHKAQVEEFLAQHGSEYQSVKLVGPEVRMANAD
+            ARNMGADLCRQDRSCTYYFSVDADVALTEPNSLRLLIQQNKNVIAPLMTRHGRLWSNFWG
+            ALSADGYYARSEDYVDIVQGRRVGVWNVPYISNIYLIKGSALRGELQSSDLFHHSKLDPD
+            MAFCANIRQQDVFMFLTNRHTLGHLLSLDSYRTTHLHNDLWEVFSNPEDWKEKYIHQNYT
+            KALAGKLVETPCPDVYWFPIFTEVACDELVEEMEHFGQWSLGNNKDNRIQGGYENVPTID
+            IHMNQIGFEREWHKFLLEYIAPMTEKLYPGYYTRAQFDLAFVVRYKPDEQPSLMPHHDAS
+            TFTINIALNRVGVDYEGGGCRFLRYNCSIRAPRKGWTLMHPGRLTHYHEGLPTTRGTRYI
+            AVSFVDP
+NTSEQ       2184
+            atgcggcccctgctgctactggccctgctgggctggctgctgctggccgaagcgaagggc
+            gacgccaagccggaggacaaccttttagtcctcacggtggccactaaggagaccgaggga
+            ttccgtcgcttcaagcgctcagctcagttcttcaactacaagatccaggcgcttggccta
+            ggggaggactggaatgtggagaaggggacgtcggcaggtggagggcagaaggtccggctg
+            ctgaagaaagctctggagaagcacgcagacaaggaggatctggtcattctcttcgcagac
+            agctatgacgtgctgtttgcatcggggccccgggagctcctgaagaagttccggcaggcc
+            aggagccaggtggtcttctctgctgaggagctcatctacccagaccgcaggctggagacc
+            aagtatccggtggtgtccgatggcaagaggttcctgggctctggaggcttcatcggttat
+            gcccccaacctcagcaaactggtggccgagtgggagggccaggacagcgacagcgatcag
+            ctgttttacaccaagatcttcttggacccggagaagagggagcagatcaatatcaccctg
+            gaccaccgctgccgtatcttccagaacctggatggagccttggatgaggtcgtgctcaag
+            tttgaaatgggccatgtgagagcgaggaacctggcctatgacaccctcccggtcctgatc
+            catggcaacgggccaaccaagctgcagttgaactacctgggcaactacatcccgcgcttc
+            tggaccttcgaaacaggctgcaccgtgtgtgacgaaggcttgcgcagcctcaagggcatt
+            ggggatgaagctctgcccacggtcctggtcggcgtgttcatcgaacagcccacgccgttt
+            gtgtccctgttcttccagcggctcctgcggctccactacccccagaaacacatgcgactt
+            ttcatccacaaccacgagcagcaccacaaggctcaggtggaagagttcctggcacagcat
+            ggcagcgagtaccagtctgtgaagctggtgggccctgaggtgcggatggcgaatgcagat
+            gccaggaacatgggcgcagacctgtgccggcaggaccgcagctgcacctactacttcagc
+            gtggatgctgacgtggccctgaccgagcccaacagcctgcggctgctgatccaacagaac
+            aagaacgtcattgccccgctgatgacccggcatgggaggctgtggtcgaacttctggggg
+            gctctcagtgcagatggctactatgcccgttccgaggactacgtggacattgtgcagggg
+            cggcgtgttggtgtctggaatgtgccctatatttcaaacatctacttgatcaagggcagt
+            gccctgcggggtgagctgcagtcctcagatctcttccaccacagcaagctggaccccgac
+            atggccttctgtgccaacatccggcagcaggatgtgttcatgttcctgaccaaccggcac
+            acccttggccatctgctctccctagacagctaccgcaccacccacctgcacaacgacctc
+            tgggaggtgttcagcaaccccgaggactggaaggagaagtacatccaccagaactacacc
+            aaagccctggcagggaagctggtggagacgccctgcccggatgtctattggttccccatc
+            ttcacggaggtggcctgtgatgagctggtggaggagatggagcactttggccagtggtct
+            ctgggcaacaacaaggacaaccgcatccagggtggctacgagaacgtgccgactattgac
+            atccacatgaaccagatcggctttgagcgggagtggcacaaattcctgctggagtacatt
+            gcgcccatgacggagaagctctaccccggctactacaccagggcccagtttgacctggcc
+            tttgtcgtccgctacaagcctgatgagcagccctcactgatgccacaccatgatgcctcc
+            accttcaccatcaacatcgccctgaaccgagtcggggtggattacgagggcgggggctgt
+            cggttcctgcgctacaactgttccatccgagccccaaggaagggctggaccctcatgcac
+            cctggacgactcacgcattaccatgaggggctccccaccaccaggggcacccgctacatc
+            gcagtctccttcgtcgatccctaa
+///

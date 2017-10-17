@@ -1,0 +1,72 @@
+ENTRY       56895             CDS       T01001
+NAME        AGPAT4, 1-AGPAT4, LPAAT-delta, dJ473J16.2
+DEFINITION  (RefSeq) 1-acylglycerol-3-phosphate O-acyltransferase 4
+ORTHOLOGY   K13523  lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase [EC:2.3.1.51 2.3.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04072  Phospholipase D signaling pathway
+MODULE      hsa_M00089  Triacylglycerol biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                56895 (AGPAT4)
+               00564 Glycerophospholipid metabolism
+                56895 (AGPAT4)
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                56895 (AGPAT4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.51  1-acylglycerol-3-phosphate O-acyltransferase
+                 56895 (AGPAT4)
+                2.3.1.-  
+                 56895 (AGPAT4)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Phospholipid acyltransferase
+              LPAAT/LPLAT
+               56895 (AGPAT4)
+POSITION    6q26
+MOTIF       Pfam: Acyltransf_C Acyltransferase
+DBLINKS     NCBI-GeneID: 56895
+            NCBI-ProteinID: NP_064518
+            OMIM: 614795
+            HGNC: 20885
+            Ensembl: ENSG00000026652
+            Vega: OTTHUMG00000015966
+            Pharos: Q9NRZ5(Tbio)
+            UniProt: Q9NRZ5
+AASEQ       378
+            MDLAGLLKSQFLCHLVFCYVFIASGLIINTIQLFTLLLWPINKQLFRKINCRLSYCISSQ
+            LVMLLEWWSGTECTIFTDPRAYLKYGKENAIVVLNHKFEIDFLCGWSLSERFGLLGGSKV
+            LAKKELAYVPIIGWMWYFTEMVFCSRKWEQDRKTVATSLQHLRDYPEKYFFLIHCEGTRF
+            TEKKHEISMQVARAKGLPRLKHHLLPRTKGFAITVRSLRNVVSAVYDCTLNFRNNENPTL
+            LGVLNGKKYHADLYVRRIPLEDIPEDDDECSAWLHKLYQEKDAFQEEYYRTGTFPETPMV
+            PPRRPWTLVNWLFWASLVLYPFFQFLVSMIRSGSSLTLASFILVFFVASVGVRWMIGVTE
+            IDKGSAYGNSDSKQKLND
+NTSEQ       1137
+            atggacctcgcgggactgctgaagtctcagttcctgtgccacctggtcttctgctacgtc
+            tttattgcctcagggctaatcatcaacaccattcagctcttcactctcctcctctggccc
+            attaacaagcagctcttccggaagatcaactgcagactgtcctattgcatctcaagccag
+            ctggtgatgctgctggagtggtggtcgggcacggaatgcaccatcttcacggacccgcgc
+            gcctacctcaagtatgggaaggaaaatgccatcgtggttctcaaccacaagtttgaaatt
+            gactttctgtgtggctggagcctgtccgaacgctttgggctgttagggggctccaaggtc
+            ctggccaagaaagagctggcctatgtcccaattatcggctggatgtggtacttcaccgag
+            atggtcttctgttcgcgcaagtgggagcaggatcgcaagacggttgccaccagtttgcag
+            cacctccgggactaccccgagaagtattttttcctgattcactgtgagggcacacggttc
+            acggagaagaagcatgagatcagcatgcaggtggcccgggccaaggggctgcctcgcctc
+            aagcatcacctgttgccacgaaccaagggcttcgccatcaccgtgaggagcttgagaaat
+            gtagtttcagctgtatatgactgtacactcaatttcagaaataatgaaaatccaacactg
+            ctgggagtcctaaacggaaagaaataccatgcagatttgtatgttaggaggatcccactg
+            gaagacatccctgaagacgatgacgagtgctcggcctggctgcacaagctctaccaggag
+            aaggatgcctttcaggaggagtactacaggacgggcaccttcccagagacgcccatggtg
+            cccccccggcggccctggaccctcgtgaactggctgttttgggcctcgctggtgctctac
+            cctttcttccagttcctggtcagcatgatcaggagcgggtcttccctgacgctggccagc
+            ttcatcctcgtcttctttgtggcctccgtgggagttcgatggatgattggtgtgacggaa
+            attgacaagggctctgcctacggcaactctgacagcaagcagaaactgaatgactga
+///

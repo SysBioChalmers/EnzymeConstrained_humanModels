@@ -1,0 +1,87 @@
+ENTRY       64241             CDS       T01001
+NAME        ABCG8, GBD4, STSL
+DEFINITION  (RefSeq) ATP binding cassette subfamily G member 8
+ORTHOLOGY   K05684  ATP-binding cassette, subfamily G (WHITE), member 8 (sterolin 2)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa02010  ABC transporters
+            hsa04975  Fat digestion and absorption
+            hsa04976  Bile secretion
+DISEASE     H00152  Sitosterolemia
+            H01213  Gallbladder disease
+            H01740  Macrothrombocytopenia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Membrane transport
+               02010 ABC transporters
+                64241 (ABCG8)
+             Organismal Systems
+              Digestive system
+               04976 Bile secretion
+                64241 (ABCG8)
+               04975 Fat digestion and absorption
+                64241 (ABCG8)
+            Transporters [BR:hsa02000]
+             ABC Transporters, Eukaryotic Type
+              ABCG (White) subfamily
+               ABCG5, 8 subgroups
+                64241 (ABCG8)
+POSITION    2p21
+MOTIF       Pfam: ABC2_membrane ABC_tran RsgA_GTPase AAA_21
+DBLINKS     NCBI-GeneID: 64241
+            NCBI-ProteinID: NP_071882
+            OMIM: 605460
+            HGNC: 13887
+            Ensembl: ENSG00000143921
+            Vega: OTTHUMG00000128756
+            Pharos: Q9H221(Tbio)
+            UniProt: Q9H221
+STRUCTURE   PDB: 5DO7
+AASEQ       673
+            MAGKAAEERGLPKGATPQDTSGLQDRLFSSESDNSLYFTYSGQPNTLEVRDLNYQVDLAS
+            QVPWFEQLAQFKMPWTSPSCQNSCELGIQNLSFKVRSGQMLAIIGSSGCGRASLLDVITG
+            RGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRTFS
+            QAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDEPT
+            SGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQHM
+            VQYFTAIGYPCPRYSNPADFYVDLTSIDRRSREQELATREKAQSLAALFLEKVRDLDDFL
+            WKAETKDLDEDTCVESSVTPLDTNCLPSPTKMPGAVQQFTTLIRRQISNDFRDLPTLLIH
+            GAEACLMSMTIGFLYFGHGSIQLSFMDTAALLFMIGALIPFNVILDVISKCYSERAMLYY
+            ELEDGLYTTGPYFFAKILGELPEHCAYIIIYGMPTYWLANLRPGLQPFLLHFLLVWLVVF
+            CCRIMALAAAALLPTFHMASFFSNALYNSFYLAGGFMINLSSLWTVPAWISKVSFLRWCF
+            EGLMKIQFSRRTYKMPLGNLTIAVSGDKILSVMELDSYPLYAIYLIVIGLSGGFMVLYYV
+            SLRFIKQKPSQDW
+NTSEQ       2022
+            atggccgggaaggcggcagaggagagagggctgccgaaaggggccactccccaggatacc
+            tcgggcctccaggatagattgttctcctctgaaagtgacaacagcctgtacttcacctac
+            agtggccagcccaacaccctggaggtcagagacctcaactaccaggtggacctggcctct
+            caggtcccttggtttgagcagctggctcagttcaagatgccctggacatctcccagctgc
+            cagaattcttgtgagctgggcatccagaacctaagcttcaaagtgagaagtgggcagatg
+            ctggccatcatagggagctcaggttgtgggagagcctccttgctagatgtgatcactggc
+            cgaggtcacggcggcaagatcaagtcaggccagatctggatcaatgggcagcccagctcg
+            cctcagctggtgaggaagtgtgtggcccacgtgcgccagcacaaccagctgctccccaac
+            ttgactgtgcgagagaccttggccttcattgcccagatgcggctgcccagaaccttctcc
+            caggcccagcgtgacaaaagggtggaggacgtgatcgcggagctgcggcttaggcagtgc
+            gctgacacccgcgtgggcaacatgtacgtgcgggggttgtcggggggtgagcgcaggaga
+            gtcagcattggggtgcagctcctgtggaacccaggaatccttattctcgacgaacccacc
+            tctgggctcgacagcttcacagcccacaacctggtgaagaccttgtccaggctggccaaa
+            ggcaaccggctggtgctcatctccctccaccagcctcgctctgacatcttcaggctgttt
+            gatctggtcctcctgatgacgtctggcacccccatctacttaggggcggcccagcacatg
+            gtccagtatttcacagccatcggctacccctgtcctcgctacagcaatcctgctgacttc
+            tatgtggacctgaccagcattgacaggcgcagcagagagcaggaattggccaccagggag
+            aaggctcagtcactcgcagccctgtttctagaaaaagtgcgtgacttagatgactttcta
+            tggaaagcagagacgaaggatcttgacgaggacacctgtgtggaaagcagcgtgacccca
+            ctagacaccaactgcctcccgagtcctacgaagatgcctggggcggtgcagcagtttacg
+            acgctgatccgtcgtcagatttccaacgacttccgagacctgcccaccctcctcatccat
+            ggggcggaggcctgtctgatgtcaatgaccatcggcttcctctattttggccatgggagc
+            atccagctctccttcatggatacagccgccctcttgttcatgatcggtgctctcatccct
+            ttcaacgtcattctggatgtcatctccaaatgttactcagagagggcaatgctttactat
+            gaactggaagacgggctgtacaccactggtccatatttctttgccaagatcctcggggag
+            cttccggagcactgtgcctacatcatcatctacgggatgcccacctactggctggccaac
+            ctgaggccaggcctccagcccttcctgctgcacttcctgctggtgtggctggtggtcttc
+            tgttgcaggattatggccctggccgccgcggccctgctccccaccttccacatggcctcc
+            ttcttcagcaatgccctctacaactccttctacctcgccgggggcttcatgataaacttg
+            agcagcctgtggacagtgcccgcgtggatttccaaagtgtccttcctgcggtggtgtttt
+            gaagggctgatgaagattcagttcagcagaagaacttataaaatgcctctcgggaacctc
+            accatcgcggtctcaggagataaaatcctcagtgtcatggagctggactcgtaccctctc
+            tacgccatctacctcatcgtcattggcctcagcggtggcttcatggtcctgtactacgtg
+            tccttaaggttcatcaaacagaaaccaagtcaagactggtga
+///

@@ -1,0 +1,142 @@
+ENTRY       760               CDS       T01001
+NAME        CA2, CA-II, CAC, CAII, Car2, HEL-76, HEL-S-282
+DEFINITION  (RefSeq) carbonic anhydrase 2
+ORTHOLOGY   K18245  carbonic anhydrase 2 [EC:4.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00910  Nitrogen metabolism
+            hsa04964  Proximal tubule bicarbonate reclamation
+            hsa04966  Collecting duct acid secretion
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04976  Bile secretion
+DISEASE     H00241  Combined proximal and distal renal tubular acidosis (RTA type 3)
+            H00436  Osteopetrosis
+DRUG_TARGET Acetazolamide (DG01134): D00218 D01196
+            Brinzolamide: D00652
+            Diclofenamide: D00518
+            Dorzolamide (DG01135): D00653 D07871
+            Ethoxzolamide: D02441
+            Methazolamide: D00655
+            Sezolamide hydrochloride: D03845
+            Topiramate: D00537
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00910 Nitrogen metabolism
+                760 (CA2)
+             Organismal Systems
+              Digestive system
+               04971 Gastric acid secretion
+                760 (CA2)
+               04972 Pancreatic secretion
+                760 (CA2)
+               04976 Bile secretion
+                760 (CA2)
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                760 (CA2)
+               04966 Collecting duct acid secretion
+                760 (CA2)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.1  carbonic anhydrase
+                 760 (CA2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               760 (CA2)
+POSITION    8q21.2
+MOTIF       Pfam: Carb_anhydrase
+DBLINKS     NCBI-GeneID: 760
+            NCBI-ProteinID: NP_000058
+            OMIM: 611492
+            HGNC: 1373
+            Ensembl: ENSG00000104267
+            Vega: OTTHUMG00000164944
+            Pharos: P00918(Tclin)
+            UniProt: P00918 V9HW21
+STRUCTURE   PDB: 3KS3 3K34 3U7C 1LUG 4YXI 4FU5 4FRC 4FPT 2FOU 5LJT 4Q78
+                 4MTY 4YX4 2NNO 5LL8 3V7X 2NNS 5LJQ 5DOH 4FVN 4FVO 3VBD
+                 2ILI 1MOO 4YXO 4WW6 4PZH 4YYT 4Q08 4YXU 5LLC 5JGT 5DRS
+                 4YGJ 4WL4 3SAX 3HS4 2WEG 3D92 3D93 2NNV 2FOS 5JGS 5LLG
+                 5LL4 4Q6D 4Q6E 5JEH 5EKJ 4RUX 4RUY 5SZ6 5JE7 5BYI 4Q06
+                 4Q07 4HF3 3MHO 2NXT 2FOV 2EU2 4ITO 3RYY 3M2Y 5JG5 5JEG
+                 5JEP 5DSI 5CJL 4Q09 4FIK 3RYV 3RJ7 2NNG 5U0F 5TXY 5JG3
+                 5JES 5EHV 5EH5 3L14 4YGN 5DSJ 3S71 2FOQ 3GZ0 5U0E 5SZ5
+                 4Z1J 5G0C 5E28 5DSK 5DSM 5DSR 4RH2 4QIY 3S9T 3S8X 3PYK
+                 3ZP9 5THN 5EKM 5JDV 5EKH 4QK3 4HEZ 5G03 4Z1K 4MDG 4KUV
+                 4BF1 3MYQ 3M1K 3KNE 5JQT 5AML 3RYZ 5EH8 3M1W 3M14 5VGY
+                 5EHW 3RYJ 3KIG 5JQ0 5G01 5E2K 5DSO 5DSP 5BRW 4QSB 3SBI
+                 3S74 3MWO 3M96 3M5S 3M04 2WEO 2QO8 3IBU 5TI0 5LVS 5EH7
+                 3HLJ 5TY8 5DSL 5DSN 4Z0Q 4YVY 4YWP 4Q8Y 4Q7W 4CQ0 4KAP
+                 4HEY 4E49 4E4A 3OKU 3OKV 3OIM 2WEJ 2QP6 2GD8 2AW1 5TH4
+                 4Z1N 4QEF 3V2M 3QYK 3PO6 3OYQ 3DD0 4DZ7 4DZ9 3P58 3P5A
+                 2WD2 5TYA 5THI 5THJ 5TFX 5EHE 5E2S 5DSQ 4ZX1 4ZWY 5AMD
+                 4YGK 4R5B 4QY3 4QSA 4Q99 4Q8Z 4JSA 4JSS 4BCW 4GL1 4E3F
+                 4E3H 3V5G 3TVN 3S75 3RLD 3RG4 3P5L 3P3H 3OIK 3OIL 3N3J
+                 3N0N 3MZC 3MNA 3MMF 3MHM 3M98 3KOK 3KON 3DCW 2AX2 1OQ5
+                 1FR7 4YGL 3RZ1 5JN1 5JN7 4QK2 4MDL 5TY9 4RN4 5U0G 4Q90
+                 4N16 3OYS 2CBA 5SZ1 5G0B 5CLU 5AMG 4Q9Y 4Q8X 4Q81 4Q83
+                 4Q87 4MDM 4KUW 4KV0 4JS6 4E3G 3U3A 3IBL 2HNC 2HL4 1ZFQ
+                 5C8I 3V3G 2VVA 1ZFK 5A6H 5U0D 5FNK 5FNL 5FNM 5SZ4 5JN3
+                 5FNI 5E2R 5BRU 5BRV 4ZWI 4ZX0 4QK1 4Q7V 4LHI 4K13 4IWZ
+                 4ILX 4IDR 4HT0 4E3D 3U47 3TVO 3S72 3S76 3RYX 3R16 3P3J
+                 3OY0 3N4B 3M40 3DVC 3DVD 3DC9 3DCC 3DAZ 2QOA 2POU 2POV
+                 2OSM 2OSF 2FMZ 2FMG 2EU3 1G0E 1G0F 1FR4 1CIL 4ZWZ 5SZ0
+                 5SZ2 4RUZ 4RIV 4RFD 4N0X 4L5V 3V3J 1TH9 4R5A 2X7S 3KOI
+                 4RIU 4RFC 4R59 4Q7P 4MLX 4KUY 3T5Z 3SBH 3RZ5 3N2P 3MNH
+                 3M2N 3IGP 3D9Z 2NWY 1ZGE 5FNH 5FLO 4M2W 2VVB 1Z9Y 5FNJ
+                 5FLS 5FLT 2CBB 2CBD 5FLR 3M3X 5SZ3 3M1Q 5N0D 5LMD 5L6K
+                 5J8Z 5FLQ 5DOG 4ZWX 4L5W 4K1Q 4ITP 4HEW 4E5Q 3V2J 3U45
+                 3RZ8 3R17 3MHI 3MHC 3M5E 3M2Z 3HKQ 3DV7 3DVB 3DC3 3DBU
+                 3D8W 3CYU 3C7P 2Q1B 2NXR 2NWO 1ZH9 1YO1 1MUA 1CAM 5FLP
+                 2F14 4M2V 3V3I 5N0E 5FDC 4QJM 4PYY 3T5U 3SAP 3S73 3MNI
+                 3MNJ 3MNK 2POW 1ZGF 1LG5 4HBA 1XQ0 5SZ7 4K0T 5O07 5GMN
+                 5EOI 4ZAO 4XE1 4QTL 4Q7S 4Q49 4PYX 4KNI 4K0S 4K0Z 3T83
+                 3RZ0 3RZ7 3PJJ 3NB5 3MNU 3ML2 3M67 3M1J 3HKN 3HKU 2WD3
+                 3DCS 3CAJ 2NXS 2NWP 2NWZ 2HD6 2FNK 2FNM 2FNN 1YO0 1YO2
+                 1THK 1TG3 1I9Q 1G52 1ZSC 1CNI 1CNJ 1RZB 1RAY 1CAI 3FFP
+                 1XEG 4BF6 2CBE 1G45 1I9M 1G4J 1G46 5FDI 4PXX 4PQ7 4MO8
+                 4FL7 3V3H 3BET 1BV3 1H9N 3S77 1I9N 1I9O 1G54 1G48 1G3Z
+                 3M2X 1CAH 2CBC 2X7T 3B4F 5LLE 5LLH 5JMZ 4JSW 4JSZ 3RG3
+                 3MHL 3K7K 3F4X 3BL0 2HKK 2H15 1TG9 1LGD 1F2W 2H4N 1UGE
+                 1CNX 1CNG 1YDB 1BCD 1RZA 1RZC 1RZD 1RZE 1RAZ 1CAZ 1CRA
+                 1CAJ 1CAK 1BIC 1CAN 1CAO 2CA2 1I9P 3IBI 1IF4 1I9L 1I8Z
+                 1IF8 1G53 4QSI 3M5T 2Q38 1TTM 1YDC 1G4O 5L3O 3S78 1IF7
+                 5EIJ 4M2R 5BNL 4Y0J 4MLT 4M2U 4KNJ 4G0C 3V3F 3TMJ 3T82
+                 3T84 3P4V 3P55 3NJ9 3KWA 3KKX 3IEO 3F8E 2GEH 2EZ7 2ABE
+                 1ZE8 1TEQ 1TEU 1TE3 1TBT 1TB0 1T9N 1IF5 1IF9 1I90 1I91
+                 1FSN 1FSQ 1FSR 1FQM 1FQN 1FQR 1FQL 1AVN 1AM6 1H4N 1UGA
+                 1UGB 1UGC 1UGD 1UGF 1ZSB 1CNW 1HEA 1HEB 1HEC 1HED 3CA2
+                 1CA2 4Z1E 1XPZ 1G1D 5FNG 4L5U 1CNH 1IF6 3RGE 3NI5 3HFP
+                 2WEH 3BL1 2O4Z 2HOC 1EOU 1BN1 1BN4 1OKL 1YDA 1YDD 1CIM
+                 1CIN 1DCB 1CAY 4CA2 5CA2 2X7U 4LP6 1BNT 1BNU 1CNK 5L70
+                 3P44 3IBN 1XEV 1LG6 1BN3 1H9Q 1UGG 1OKM 1CCT 1CVD 1CNC
+                 1DCA 1CAL 4CAC 5CAC 1KWR 1BNW 1A42 1CCU 1CVE 1CVF 1CVA
+                 1LZV 1BNN 1CNY 1CVH 1CVC 1HVA 1HCA 1CA3 1CCS 1CNB 3HKT
+                 3T85 1BNQ 1BNV 1OKN 1CVB 12CA 7CA2 8CA2 1ZSA 6CA2 1KWQ
+                 1BNM 5L6T 9CA2 5L9E
+AASEQ       260
+            MSHHWGYGKHNGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVSYDQATSLRIL
+            NNGHAFNVEFDDSQDKAVLKGGPLDGTYRLIQFHFHWGSLDGQGSEHTVDKKKYAAELHL
+            VHWNTKYGDFGKAVQQPDGLAVLGIFLKVGSAKPGLQKVVDVLDSIKTKGKSADFTNFDP
+            RGLLPESLDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFNGEGEPEELM
+            VDNWRPAQPLKNRQIKASFK
+NTSEQ       783
+            atgtcccatcactgggggtacggcaaacacaacggacctgagcactggcataaggacttc
+            cccattgccaagggagagcgccagtcccctgttgacatcgacactcatacagccaagtat
+            gacccttccctgaagcccctgtctgtttcctatgatcaagcaacttccctgaggatcctc
+            aacaatggtcatgctttcaacgtggagtttgatgactctcaggacaaagcagtgctcaag
+            ggaggacccctggatggcacttacagattgattcagtttcactttcactggggttcactt
+            gatggacaaggttcagagcatactgtggataaaaagaaatatgctgcagaacttcacttg
+            gttcactggaacaccaaatatggggattttgggaaagctgtgcagcaacctgatggactg
+            gccgttctaggtatttttttgaaggttggcagcgctaaaccgggccttcagaaagttgtt
+            gatgtgctggattccattaaaacaaagggcaagagtgctgacttcactaacttcgatcct
+            cgtggcctccttcctgaatccttggattactggacctacccaggctcactgaccacccct
+            cctcttctggaatgtgtgacctggattgtgctcaaggaacccatcagcgtcagcagcgag
+            caggtgttgaaattccgtaaacttaacttcaatggggagggtgaacccgaagaactgatg
+            gtggacaactggcgcccagctcagccactgaagaacaggcaaatcaaagcttccttcaaa
+            taa
+///

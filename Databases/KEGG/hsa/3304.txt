@@ -1,0 +1,165 @@
+ENTRY       3304              CDS       T01001
+NAME        HSPA1B, HSP70-1B, HSP70-2, HSP70.2
+DEFINITION  (RefSeq) heat shock protein family A (Hsp70) member 1B
+ORTHOLOGY   K03283  heat shock 70kDa protein 1/2/6/8
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+            hsa04010  MAPK signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04144  Endocytosis
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04612  Antigen processing and presentation
+            hsa04915  Estrogen signaling pathway
+            hsa05134  Legionellosis
+            hsa05145  Toxoplasmosis
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00353  Spliceosome, Prp19/CDC5L complex
+            hsa_M00355  Spliceosome, 35S U5-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                3304 (HSPA1B)
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                3304 (HSPA1B)
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                3304 (HSPA1B)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                3304 (HSPA1B)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                3304 (HSPA1B)
+              Endocrine system
+               04915 Estrogen signaling pathway
+                3304 (HSPA1B)
+              Aging
+               04213 Longevity regulating pathway - multiple species
+                3304 (HSPA1B)
+             Human Diseases
+              Infectious diseases
+               05134 Legionellosis
+                3304 (HSPA1B)
+               05162 Measles
+                3304 (HSPA1B)
+               05164 Influenza A
+                3304 (HSPA1B)
+               05169 Epstein-Barr virus infection
+                3304 (HSPA1B)
+               05145 Toxoplasmosis
+                3304 (HSPA1B)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 3304 (HSPA1B)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              Other components
+               Prp19 complex
+                3304 (HSPA1B)
+             Complex C
+               Prp19-CDC5 complex
+                3304 (HSPA1B)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                3304 (HSPA1B)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               3304 (HSPA1B)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                3304 (HSPA1B)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                3304 (HSPA1B)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial protein import machinery
+              Endoplasmic reticulum membrane and cytosol
+               Other ER-memrane and cytosol factors
+                3304 (HSPA1B)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               3304 (HSPA1B)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               6/5 subfamily
+                CHL1; L1 cell adhesion molecule like protein [KO:K06758]
+                 3304 (HSPA1B)
+POSITION    6p21.33
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C Radial_spoke_3
+DBLINKS     NCBI-GeneID: 3304
+            NCBI-ProteinID: NP_005337
+            OMIM: 603012
+            HGNC: 5233
+            Ensembl: ENSG00000204388
+            Vega: OTTHUMG00000031202
+            Pharos: P0DMV8(Tchem) P0DMV9(Tbio)
+            UniProt: P0DMV8 P0DMV9 A8K5I0
+STRUCTURE   PDB: 5BN8 5AQW 5AQY 3ATV 5AQZ 3ATU 5BN9 3AY9 2E8A 2E88 5BPM
+                 1S3X 5MKR 5AR0 5BPL 5MKS 4PO2 4WV5 5BPN 5AQX 3JXU 3A8Y
+                 3D2F 1HJO 3D2E 3LOF 4WV7 4IO8 1XQS 5GJJ 2LMG
+AASEQ       641
+            MAKAAAIGIDLGTTYSCVGVFQHGKVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQVA
+            LNPQNTVFDAKRLIGRKFGDPVVQSDMKHWPFQVINDGDKPKVQVSYKGETKAFYPEEIS
+            SMVLTKMKEIAEAYLGYPVTNAVITVPAYFNDSQRQATKDAGVIAGLNVLRIINEPTAAA
+            IAYGLDRTGKGERNVLIFDLGGGTFDVSILTIDDGIFEVKATAGDTHLGGEDFDNRLVNH
+            FVEEFKRKHKKDISQNKRAVRRLRTACERAKRTLSSSTQASLEIDSLFEGIDFYTSITRA
+            RFEELCSDLFRSTLEPVEKALRDAKLDKAQIHDLVLVGGSTRIPKVQKLLQDFFNGRDLN
+            KSINPDEAVAYGAAVQAAILMGDKSENVQDLLLLDVAPLSLGLETAGGVMTALIKRNSTI
+            PTKQTQIFTTYSDNQPGVLIQVYEGERAMTKDNNLLGRFELSGIPPAPRGVPQIEVTFDI
+            DANGILNVTATDKSTGKANKITITNDKGRLSKEEIERMVQEAEKYKAEDEVQRERVSAKN
+            ALESYAFNMKSAVEDEGLKGKISEADKKKVLDKCQEVISWLDANTLAEKDEFEHKRKELE
+            QVCNPIISGLYQGAGGPGPGGFGAQGPKGGSGSGPTIEEVD
+NTSEQ       1926
+            atggccaaagccgcggcgatcggcatcgacctgggcaccacctactcctgcgtgggggtg
+            ttccaacacggcaaggtggagatcatcgccaacgaccagggcaaccgcaccacccccagc
+            tacgtggccttcacggacaccgagcggctcatcggggatgcggccaagaaccaggtggcg
+            ctgaacccgcagaacaccgtgtttgacgcgaagcggctgatcggccgcaagttcggcgac
+            ccggtggtgcagtcggacatgaagcactggcctttccaggtgatcaacgacggagacaag
+            cccaaggtgcaggtgagctacaagggggagaccaaggcattctaccccgaggagatctcg
+            tccatggtgctgaccaagatgaaggagatcgccgaggcgtacctgggctacccggtgacc
+            aacgcggtgatcaccgtgccggcctacttcaacgactcgcagcgccaggccaccaaggat
+            gcgggtgtgatcgcggggctcaacgtgctgcggatcatcaacgagcccacggccgccgcc
+            atcgcctacggcctggacagaacgggcaagggggagcgcaacgtgctcatctttgacctg
+            ggcgggggcaccttcgacgtgtccatcctgacgatcgacgacggcatcttcgaggtgaag
+            gccacggccggggacacccacctgggtggggaggactttgacaacaggctggtgaaccac
+            ttcgtggaggagttcaagagaaaacacaagaaggacatcagccagaacaagcgagccgtg
+            aggcggctgcgcaccgcctgcgagagggccaagaggaccctgtcgtccagcacccaggcc
+            agcctggagatcgactccctgtttgagggcatcgacttctacacgtccatcaccagggcg
+            aggttcgaggagctgtgctccgacctgttccgaagcaccctggagcccgtggagaaggct
+            ctgcgcgacgccaagctggacaaggcccagattcacgacctggtcctggtcgggggctcc
+            acccgcatccccaaggtgcagaagctgctgcaggacttcttcaacgggcgcgacctgaac
+            aagagcatcaaccccgacgaggctgtggcctacggggcggcggtgcaggcggccatcctg
+            atgggggacaagtccgagaacgtgcaggacctgctgctgctggacgtggctcccctgtcg
+            ctggggctggagacggccggaggcgtgatgactgccctgatcaagcgcaactccaccatc
+            cccaccaagcagacgcagatcttcaccacctactccgacaaccaacccggggtgctgatc
+            caggtgtacgagggcgagagggccatgacgaaagacaacaatctgttggggcgcttcgag
+            ctgagcggcatccctccggcccccaggggcgtgccccagatcgaggtgaccttcgacatc
+            gatgccaacggcatcctgaacgtcacggccacggacaagagcaccggcaaggccaacaag
+            atcaccatcaccaacgacaagggccgcctgagcaaggaggagatcgagcgcatggtgcag
+            gaggcggagaagtacaaagcggaggacgaggtgcagcgcgagagggtgtcagccaagaac
+            gccctggagtcctacgccttcaacatgaagagcgccgtggaggatgaggggctcaagggc
+            aagatcagcgaggcggacaagaagaaggttctggacaagtgtcaagaggtcatctcgtgg
+            ctggacgccaacaccttggccgagaaggacgagtttgagcacaagaggaaggagctggag
+            caggtgtgtaaccccatcatcagcggactgtaccagggtgccggtggtcccgggcctggc
+            ggcttcggggctcagggtcccaagggagggtctgggtcaggccctaccattgaggaggtg
+            gattag
+///

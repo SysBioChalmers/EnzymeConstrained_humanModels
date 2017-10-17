@@ -1,0 +1,55 @@
+ENTRY       1337              CDS       T01001
+NAME        COX6A1, CMTRID, COX6A, COX6AL
+DEFINITION  (RefSeq) cytochrome c oxidase subunit 6A1
+ORTHOLOGY   K02266  cytochrome c oxidase subunit 6a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00154  Cytochrome c oxidase
+DISEASE     H00264  Charcot-Marie-Tooth disease (CMT)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                1337 (COX6A1)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                1337 (COX6A1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                1337 (COX6A1)
+               05012 Parkinson's disease
+                1337 (COX6A1)
+               05016 Huntington's disease
+                1337 (COX6A1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                1337 (COX6A1)
+POSITION    12q24.31; 12q24.2
+MOTIF       Pfam: COX6A
+DBLINKS     NCBI-GeneID: 1337
+            NCBI-ProteinID: NP_004364
+            OMIM: 602072
+            HGNC: 2277
+            Ensembl: ENSG00000111775
+            Vega: OTTHUMG00000047791
+            Pharos: P12074(Tbio)
+            UniProt: P12074 H6SG15
+AASEQ       109
+            MAVVGVSSVSRLLGRSRPQLGRPMSSGAHGEEGSARMWKTLTFFVALPGVAVSMLNVYLK
+            SHHGEHERPEFIAYPHLRIRTKPFPWGDGNHTLFHNPHVNPLPTGYEDE
+NTSEQ       330
+            atggcggtagttggtgtgtcctcggtttctcggctgctgggtcggtcccgcccacagctg
+            gggcggcctatgtcgagtggcgcccatggcgaagagggctcagctcgcatgtggaagact
+            ctcaccttcttcgtcgcgctccccggggtggcagtcagcatgctgaatgtgtacctgaag
+            tcgcaccacggagagcacgagagacccgagttcatcgcctacccccatctccgcatcagg
+            accaagccgtttccctggggagatggtaaccatactctattccataaccctcatgtgaat
+            ccacttccaactggctacgaagatgaataa
+///

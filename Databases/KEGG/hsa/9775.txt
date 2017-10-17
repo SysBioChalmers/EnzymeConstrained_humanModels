@@ -1,0 +1,91 @@
+ENTRY       9775              CDS       T01001
+NAME        EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF4AIII
+DEFINITION  (RefSeq) eukaryotic translation initiation factor 4A3
+ORTHOLOGY   K13025  ATP-dependent RNA helicase [EC:3.6.4.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+MODULE      hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                9775 (EIF4A3)
+              Translation
+               03013 RNA transport
+                9775 (EIF4A3)
+               03015 mRNA surveillance pathway
+                9775 (EIF4A3)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 9775 (EIF4A3)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 9775 (EIF4A3)
+               mRNA cycle factors
+                Stress granule specific factors
+                 9775 (EIF4A3)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                9775 (EIF4A3)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              90S particles
+               Helicases
+                9775 (EIF4A3)
+            Translation factors [BR:hsa03012]
+             Eukaryotic Type
+              Initiation factors
+               eIF-4
+                9775 (EIF4A3)
+POSITION    17q25.3
+MOTIF       Pfam: DEAD Helicase_C ResIII AAA_30 AAA_19 AAA_22 Flavi_DEAD
+DBLINKS     NCBI-GeneID: 9775
+            NCBI-ProteinID: NP_055555
+            OMIM: 608546
+            HGNC: 18683
+            Ensembl: ENSG00000141543
+            Vega: OTTHUMG00000177538
+            Pharos: P38919(Tbio)
+            UniProt: P38919 A0A024R8W0
+STRUCTURE   PDB: 4C9B 2J0S 3EX7 2HYI 2J0Q 2HXY 2XB2 5MQF 2J0U
+AASEQ       411
+            MATTATMATSGSARKRLLKEEDMTKVEFETSEEVDVTPTFDTMGLREDLLRGIYAYGFEK
+            PSAIQQRAIKQIIKGRDVIAQSQSGTGKTATFSISVLQCLDIQVRETQALILAPTRELAV
+            QIQKGLLALGDYMNVQCHACIGGTNVGEDIRKLDYGQHVVAGTPGRVFDMIRRRSLRTRA
+            IKMLVLDEADEMLNKGFKEQIYDVYRYLPPATQVVLISATLPHEILEMTNKFMTDPIRIL
+            VKRDELTLEGIKQFFVAVEREEWKFDTLCDLYDTLTITQAVIFCNTKRKVDWLTEKMREA
+            NFTVSSMHGDMPQKERESIMKEFRSGASRVLISTDVWARGLDVPQVSLIINYDLPNNREL
+            YIHRIGRSGRYGRKGVAINFVKNDDIRILRDIEQYYSTQIDEMPMNVADLI
+NTSEQ       1236
+            atggcgaccacggccacgatggcgacctcgggctcggcgcgaaagcggctgctcaaagag
+            gaagacatgactaaagtggaattcgagaccagcgaggaggtggatgtgacccccacgttc
+            gacaccatgggcctgcgggaggacctgctgcggggcatctacgcttacggttttgaaaaa
+            ccatcagcaatccagcaacgagcaatcaagcagatcatcaaagggagagatgtcatcgca
+            cagtctcagtccggcacaggaaaaacagccaccttcagtatctcagtcctccagtgtttg
+            gatattcaggttcgtgaaactcaagctttgatcttggctcccacaagagagttggctgtg
+            cagatccagaaggggctgcttgctctcggtgactacatgaatgtccagtgccatgcctgc
+            attggaggcaccaatgttggcgaggacatcaggaagctggattacggacagcatgttgtc
+            gcgggcactccagggcgtgtttttgatatgattcgtcgcagaagcctaaggacacgtgct
+            atcaaaatgttggttttggatgaagctgatgaaatgttgaataaaggtttcaaagagcag
+            atttacgatgtatacaggtacctgcctccagccacacaggtggttctcatcagtgccacg
+            ctgccacacgagattctggagatgaccaacaagttcatgaccgacccaatccgcatcttg
+            gtgaaacgtgatgaattgactctggaaggcatcaagcaatttttcgtggcagtggagagg
+            gaagagtggaaatttgacactctgtgtgacctctacgacacactgaccatcactcaggcg
+            gtcatcttctgcaacaccaaaagaaaggtggactggctgacggagaaaatgagggaagcc
+            aacttcactgtatcctcaatgcatggagacatgccccagaaagagcgggagtccatcatg
+            aaggagttccggtcgggcgccagccgagtgcttatttctacagatgtctgggccaggggg
+            ttggatgtccctcaggtgtccctcatcattaactatgatctccctaataacagagaattg
+            tacatacacagaattgggagatcaggtcgatacggccggaagggtgtggccattaacttt
+            gtaaagaatgacgacatccgcatcctcagagatatcgagcagtactattccactcagatt
+            gatgagatgccgatgaacgttgctgatcttatctga
+///

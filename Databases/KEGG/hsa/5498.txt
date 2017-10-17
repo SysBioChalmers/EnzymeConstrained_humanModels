@@ -1,0 +1,68 @@
+ENTRY       5498              CDS       T01001
+NAME        PPOX, PPO, V290M, VP
+DEFINITION  (RefSeq) protoporphyrinogen oxidase
+ORTHOLOGY   K00231  protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00202  Hepatic porphyria
+            H01763  Porphyria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                5498 (PPOX)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.3  With oxygen as acceptor
+                1.3.3.4  protoporphyrinogen oxidase
+                 5498 (PPOX)
+                1.3.3.15  coproporphyrinogen III oxidase (coproporphyrin-forming)
+                 5498 (PPOX)
+POSITION    1q23.3
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 DAO Thi4 FAD_oxidored Pyr_redox_2 HI0933_like FAD_binding_2
+DBLINKS     NCBI-GeneID: 5498
+            NCBI-ProteinID: NP_000300
+            OMIM: 600923
+            HGNC: 9280
+            Ensembl: ENSG00000143224
+            Vega: OTTHUMG00000034342
+            Pharos: P50336(Tchem)
+            UniProt: P50336
+STRUCTURE   PDB: 3NKS 4IVO 4IVM
+AASEQ       477
+            MGRTVVVLGGGISGLAASYHLSRAPCPPKVVLVESSERLGGWIRSVRGPNGAIFELGPRG
+            IRPAGALGARTLLLVSELGLDSEVLPVRGDHPAAQNRFLYVGGALHALPTGLRGLLRPSP
+            PFSKPLFWAGLRELTKPRGKEPDETVHSFAQRRLGPEVASLAMDSLCRGVFAGNSRELSI
+            RSCFPSLFQAEQTHRSILLGLLLGAGRTPQPDSALIRQALAERWSQWSLRGGLEMLPQAL
+            ETHLTSRGVSVLRGQPVCGLSLQAEGRWKVSLRDSSLEADHVISAIPASVLSELLPAEAA
+            PLARALSAITAVSVAVVNLQYQGAHLPVQGFGHLVPSSEDPGVLGIVYDSVAFPEQDGSP
+            PGLRVTVMLGGSWLQTLEASGCVLSQELFQQRAQEAAATQLGLKEMPSHCLVHLHKNCIP
+            QYTLGHWQKLESARQFLTAHRLPLTLAGASYEGVAVNDCIESGRQAAVSVLGTEPNS
+NTSEQ       1434
+            atgggccggaccgtggtcgtgctgggcggaggcatcagcggcttggccgccagttaccac
+            ctgagccgggccccctgcccccctaaggtggtcctagtggagagcagtgagcgtctggga
+            ggctggattcgctccgttcgaggccctaatggtgctatctttgagcttggacctcgggga
+            attaggccagcgggagccctaggggcccggaccttgctcctggtttctgagcttggcttg
+            gattcagaagtgctgcctgtccggggagaccacccagctgcccagaacaggttcctctac
+            gtgggcggtgccctgcatgccctacccactggcctcagggggctactccgcccttcaccc
+            cccttctccaaacctctgttttgggctgggctgagggagctgaccaagccccggggcaaa
+            gagcctgatgagactgtgcacagttttgcccagcgccgccttggacctgaggtggcgtct
+            ctagccatggacagtctctgccgtggagtgtttgcaggcaacagccgtgagctcagcatc
+            aggtcctgctttcccagtctcttccaagctgagcaaacccatcgttccatattactgggc
+            ctgctgctgggggcagggcggaccccacagccagactcagcactcattcgccaggccttg
+            gctgagcgctggagccagtggtcacttcgtggaggtctagagatgttgcctcaggccctt
+            gaaacccacctgactagtaggggggtcagtgttctcagaggccagccggtctgtgggctc
+            agcctccaggcagaagggcgctggaaggtatctctaagggacagcagtctggaggctgac
+            cacgttattagtgccattccagcttcagtgctcagtgagctgctccctgctgaggctgcc
+            cctctggctcgtgccctgagtgccatcactgcagtgtctgtagctgtggtgaatctgcag
+            taccaaggagcccatctgcctgtccagggatttggacatttggtgccatcttcagaagat
+            ccaggagtcctgggaatcgtgtatgactcagttgctttccctgagcaggacgggagcccc
+            cctggcctcagagtgactgtgatgctgggaggttcctggttacagacactggaggctagt
+            ggctgtgtcttatctcaggagctgtttcaacagcgggcccaggaagcagctgctacacaa
+            ttaggactgaaggagatgccgagccactgcttggtccatctacacaagaactgcattccc
+            cagtatacactaggtcactggcaaaaactagagtcagctaggcaattcctgactgctcac
+            aggttgcccctgactctggctggagcctcctatgagggagttgctgttaatgactgtata
+            gagagtgggcgccaggcagcagtcagtgtcctgggcacagaacctaacagctga
+///

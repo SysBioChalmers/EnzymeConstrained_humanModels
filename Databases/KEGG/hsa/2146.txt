@@ -1,0 +1,99 @@
+ENTRY       2146              CDS       T01001
+NAME        EZH2, ENX-1, ENX1, EZH2b, KMT6, KMT6A, WVS, WVS2
+DEFINITION  (RefSeq) enhancer of zeste 2 polycomb repressive complex 2 subunit
+ORTHOLOGY   K11430  histone-lysine N-methyltransferase EZH2 [EC:2.1.1.43]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+            hsa05206  MicroRNAs in cancer
+DISEASE     H01613  Follicular lymphoma
+            H01751  Weaver syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                2146 (EZH2)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                2146 (EZH2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.43  histone-lysine N-methyltransferase
+                 2146 (EZH2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                HKMTs (histone lysine methyltransferases)
+                 2146 (EZH2)
+               Polycomb group proteins
+                PRC2-EZH2 complex
+                 2146 (EZH2)
+POSITION    7q36.1
+MOTIF       Pfam: SET EZH2_WD-Binding
+DBLINKS     NCBI-GeneID: 2146
+            NCBI-ProteinID: NP_001190176
+            OMIM: 601573
+            HGNC: 3527
+            Ensembl: ENSG00000106462
+            Vega: OTTHUMG00000158973
+            Pharos: Q15910(Tchem)
+            UniProt: Q15910
+STRUCTURE   PDB: 5U5T 5U62 5H14 5H19 4MI0 4MI5 5WUK 5H15 5H17 5GSA 5H24
+                 5H25 5HYN 5LS6
+AASEQ       746
+            MGQTGKKSEKGPVCWRKRVKSEYMRLRQLKRFRRADEVKSMFSSNRQKILERTEILNQEW
+            KQRRIQPVHILTSVSSLRGTRECSVTSDLDFPTQVIPLKTLNAVASVPIMYSWSPLQQNF
+            MVEDETVLHNIPYMGDEVLDQDGTFIEELIKNYDGKVHGDRECGFINDEIFVELVNALGQ
+            YNDDDDDDDGDDPEEREEKQKDLEDHRDDKESRPPRKFPSDKIFEAISSMFPDKGTAEEL
+            KEKYKELTEQQLPGALPPECTPNIDGPNAKSVQREQSLHSFHTLFCRRCFKYDCFLHPFH
+            ATPNTYKRKNTETALDNKPCGPQCYQHLEGAKEFAAALTAERIKTPPKRPGGRRRGRLPN
+            NSSRPSTPTINVLESKDTDSDREAGTETGGENNDKEEEEKKDETSSSSEANSRCQTPIKM
+            KPNIEPPENVEWSGAEASMFRVLIGTYYDNFCAIARLIGTKTCRQVYEFRVKESSIIAPA
+            PAEDVDTPPRKKKRKHRLWAAHCRKIQLKKDGSSNHVYNYQPCDHPRQPCDSSCPCVIAQ
+            NFCEKFCQCSSECQNRFPGCRCKAQCNTKQCPCYLAVRECDPDLCLTCGAADHWDSKNVS
+            CKNCSIQRGSKKHLLLAPSDVAGWGIFIKDPVQKNEFISEYCGEIISQDEADRRGKVYDK
+            YMCSFLFNLNNDFVVDATRKGNKIRFANHSVNPNCYAKVMMVNGDHRIGIFAKRAIQTGE
+            ELFFDYRYSQADALKYVGIEREMEIP
+NTSEQ       2241
+            atgggccagactgggaagaaatctgagaagggaccagtttgttggcggaagcgtgtaaaa
+            tcagagtacatgcgactgagacagctcaagaggttcagacgagctgatgaagtaaagagt
+            atgtttagttccaatcgtcagaaaattttggaaagaacggaaatcttaaaccaagaatgg
+            aaacagcgaaggatacagcctgtgcacatcctgacttctgtgagctcattgcgcgggact
+            agggagtgttcggtgaccagtgacttggattttccaacacaagtcatcccattaaagact
+            ctgaatgcagttgcttcagtacccataatgtattcttggtctcccctacagcagaatttt
+            atggtggaagatgaaactgttttacataacattccttatatgggagatgaagttttagat
+            caggatggtactttcattgaagaactaataaaaaattatgatgggaaagtacacggggat
+            agagaatgtgggtttataaatgatgaaatttttgtggagttggtgaatgcccttggtcaa
+            tataatgatgatgacgatgatgatgatggagacgatcctgaagaaagagaagaaaagcag
+            aaagatctggaggatcaccgagatgataaagaaagccgcccacctcggaaatttccttct
+            gataaaatttttgaagccatttcctcaatgtttccagataagggcacagcagaagaacta
+            aaggaaaaatataaagaactcaccgaacagcagctcccaggcgcacttcctcctgaatgt
+            acccccaacatagatggaccaaatgctaaatctgttcagagagagcaaagcttacactcc
+            tttcatacgcttttctgtaggcgatgttttaaatatgactgcttcctacatccttttcat
+            gcaacacccaacacttataagcggaagaacacagaaacagctctagacaacaaaccttgt
+            ggaccacagtgttaccagcatttggagggagcaaaggagtttgctgctgctctcaccgct
+            gagcggataaagaccccaccaaaacgtccaggaggccgcagaagaggacggcttcccaat
+            aacagtagcaggcccagcacccccaccattaatgtgctggaatcaaaggatacagacagt
+            gatagggaagcagggactgaaacggggggagagaacaatgataaagaagaagaagagaag
+            aaagatgaaacttcgagctcctctgaagcaaattctcggtgtcaaacaccaataaagatg
+            aagccaaatattgaacctcctgagaatgtggagtggagtggtgctgaagcctcaatgttt
+            agagtcctcattggcacttactatgacaatttctgtgccattgctaggttaattgggacc
+            aaaacatgtagacaggtgtatgagtttagagtcaaagaatctagcatcatagctccagct
+            cccgctgaggatgtggatactcctccaaggaaaaagaagaggaaacaccggttgtgggct
+            gcacactgcagaaagatacagctgaaaaaggacggctcctctaaccatgtttacaactat
+            caaccctgtgatcatccacggcagccttgtgacagttcgtgcccttgtgtgatagcacaa
+            aatttttgtgaaaagttttgtcaatgtagttcagagtgtcaaaaccgctttccgggatgc
+            cgctgcaaagcacagtgcaacaccaagcagtgcccgtgctacctggctgtccgagagtgt
+            gaccctgacctctgtcttacttgtggagccgctgaccattgggacagtaaaaatgtgtcc
+            tgcaagaactgcagtattcagcggggctccaaaaagcatctattgctggcaccatctgac
+            gtggcaggctgggggatttttatcaaagatcctgtgcagaaaaatgaattcatctcagaa
+            tactgtggagagattatttctcaagatgaagctgacagaagagggaaagtgtatgataaa
+            tacatgtgcagctttctgttcaacttgaacaatgattttgtggtggatgcaacccgcaag
+            ggtaacaaaattcgttttgcaaatcattcggtaaatccaaactgctatgcaaaagttatg
+            atggttaacggtgatcacaggataggtatttttgccaagagagccatccagactggcgaa
+            gagctgttttttgattacagatacagccaggctgatgccctgaagtatgtcggcatcgaa
+            agagaaatggaaatcccttga
+///

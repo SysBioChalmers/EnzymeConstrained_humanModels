@@ -1,0 +1,91 @@
+ENTRY       5901              CDS       T01001
+NAME        RAN, ARA24, Gsp1, TC4
+DEFINITION  (RefSeq) RAN, member RAS oncogene family
+ORTHOLOGY   K07936  GTP-binding nuclear protein Ran
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03013  RNA transport
+            hsa05166  HTLV-I infection
+            hsa05169  Epstein-Barr virus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                5901 (RAN)
+               03008 Ribosome biogenesis in eukaryotes
+                5901 (RAN)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                5901 (RAN)
+               05169 Epstein-Barr virus infection
+                5901 (RAN)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                Ran-mediated transport factors
+                 5901 (RAN)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-40S particles
+               Export and cytoplasmic maturation factors
+                5901 (RAN)
+              Pre-60S particles
+                5901 (RAN)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              tRNA transport factors
+               tRNA export factors
+                5901 (RAN)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Regulators of centriole replication
+                 5901 (RAN)
+               Spindle formation proteins
+                5901 (RAN)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               5901 (RAN)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Ran Family
+               Ran
+                5901 (RAN)
+POSITION    12q24.33
+MOTIF       Pfam: Ras Roc Arf MMR_HSR1 RNA_helicase GTP_EFTU Gtr1_RagA SRPRB G-alpha AAA_24 Pox_A32 ArgoMid Septin AAA_16 TsaE AAA_33
+DBLINKS     NCBI-GeneID: 5901
+            NCBI-ProteinID: NP_006316
+            OMIM: 601179
+            HGNC: 9846
+            Ensembl: ENSG00000132341
+            Vega: OTTHUMG00000134328
+            Pharos: P62826(Tbio)
+            UniProt: P62826
+STRUCTURE   PDB: 3GJ0 5CIQ 5CIT 5CIW 5CJ2 1I2M 4HAT 3GJ3 3GJ5 4WVF 4HB2
+                 3GJ8 4HAW 4HAZ 3GJ7 4HAU 4HAV 5UWP 4HB4 5DIF 4GMX 3CH5
+                 5UWI 5UWW 3GJ4 4HB0 5UWJ 4GPT 5UWR 5UWU 5UWH 5UWQ 5DI9
+                 4HAX 5DHF 4HAY 1IBR 5UWT 5UWO 5UWS 5CLL 5JLJ 3GJX 3EA5
+                 5DH9 3GJ6 1K5D 4HB3 3NBZ 5DIS 4OL0 3NC0 5DHA 1RRP 1QBK
+                 1K5G 5DLQ 5CLQ 3NC1 4C0Q 3NBY 3ZJY 2N1B 2MMG 2MMC
+AASEQ       216
+            MAAQGEPQVQFKLVLVGDGGTGKTTFVKRHLTGEFEKKYVATLGVEVHPLVFHTNRGPIK
+            FNVWDTAGQEKFGGLRDGYYIQAQCAIIMFDVTSRVTYKNVPNWHRDLVRVCENIPIVLC
+            GNKVDIKDRKVKAKSIVFHRKKNLQYYDISAKSNYNFEKPFLWLARKLIGDPNLEFVAMP
+            ALAPPEVVMDPALAAQYEHDLEVAQTTALPDEDDDL
+NTSEQ       651
+            atggctgcgcagggagagccccaggtccagttcaaacttgtattggttggtgatggtggt
+            actggaaaaacgaccttcgtgaaacgtcatttgactggtgaatttgagaagaagtatgta
+            gccaccttgggtgttgaggttcatcccctagtgttccacaccaacagaggacctattaag
+            ttcaatgtatgggacacagccggccaggagaaattcggtggactgagagatggctattat
+            atccaagcccagtgtgccatcataatgtttgatgtaacatcgagagttacttacaagaat
+            gtgcctaactggcatagagatctggtacgagtgtgtgaaaacatccccattgtgttgtgt
+            ggcaacaaagtggatattaaggacaggaaagtgaaggcgaaatccattgtcttccaccga
+            aagaagaatcttcagtactacgacatttctgccaaaagtaactacaactttgaaaagccc
+            ttcctctggcttgctaggaagctcattggagaccctaacttggaatttgttgccatgcct
+            gctctcgccccaccagaagttgtcatggacccagctttggcagcacagtatgagcacgac
+            ttagaggttgctcagacaactgctctcccggatgaggatgatgacctgtga
+///

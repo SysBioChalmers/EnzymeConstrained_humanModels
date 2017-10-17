@@ -1,0 +1,57 @@
+ENTRY       4833              CDS       T01001
+NAME        NME4, NDPK-D, NM23H4, nm23-H4
+DEFINITION  (RefSeq) NME/NM23 nucleoside diphosphate kinase 4
+ORTHOLOGY   K00940  nucleoside-diphosphate kinase [EC:2.7.4.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                4833 (NME4)
+               00240 Pyrimidine metabolism
+                4833 (NME4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.6  nucleoside-diphosphate kinase
+                 4833 (NME4)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                4833 (NME4)
+POSITION    16p13.3
+MOTIF       Pfam: NDK PSI_PsaJ
+DBLINKS     NCBI-GeneID: 4833
+            NCBI-ProteinID: NP_005000
+            OMIM: 601818
+            HGNC: 7852
+            Ensembl: ENSG00000103202
+            Vega: OTTHUMG00000047995
+            Pharos: O00746(Tbio)
+            UniProt: O00746
+STRUCTURE   PDB: 1EHW
+AASEQ       187
+            MGGLFWRSALRGLRCGPRAPGPSLLVRHGSGGPSWTRERTLVAVKPDGVQRRLVGDVIQR
+            FERRGFTLVGMKMLQAPESVLAEHYQDLRRKPFYPALIRYMSSGPVVAMVWEGYNVVRAS
+            RAMIGHTDSAEAAPGTIRGDFSVHISRNVIHASDSVEGAQREIQLWFQSSELVSWADGGQ
+            HSSIHPA
+NTSEQ       564
+            atgggcggcctcttctggcgctccgcgctgcgggggctgcgctgcggcccgcgggccccg
+            ggcccgagcctgctagtgcgccacggctcgggagggccctcctggacccgggagcggacc
+            ctggtggcggtgaagcccgatggcgtgcaacggcggctcgttggggacgtgatccagcgc
+            tttgagaggcggggcttcacgctggtggggatgaagatgctgcaggcaccagagagcgtc
+            cttgccgagcactaccaggacctgcggaggaagcccttctaccctgccctcatccgctac
+            atgagctctgggcctgtggtggccatggtctgggaagggtacaatgtcgtccgcgcctcg
+            agggccatgattggacacaccgactcggctgaggctgccccaggaaccataaggggtgac
+            ttcagcgtccacatcagcaggaatgtcatccacgccagcgactccgtggagggggcccag
+            cgggagatccagctgtggttccagagcagtgagctggtgagctgggcagacgggggccag
+            cacagcagcatccacccagcctga
+///

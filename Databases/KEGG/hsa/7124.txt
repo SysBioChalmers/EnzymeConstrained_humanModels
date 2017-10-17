@@ -1,0 +1,233 @@
+ENTRY       7124              CDS       T01001
+NAME        TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F
+DEFINITION  (RefSeq) tumor necrosis factor
+ORTHOLOGY   K03156  tumor necrosis factor superfamily, member 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01523  Antifolate resistance
+            hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04210  Apoptosis
+            hsa04217  Necroptosis
+            hsa04350  TGF-beta signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04657  IL-17 signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa04940  Type I diabetes mellitus
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05143  African trypanosomiasis
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05205  Proteoglycans in cancer
+            hsa05310  Asthma
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05414  Dilated cardiomyopathy (DCM)
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00079  Asthma
+            H00080  Systemic lupus erythematosus
+            H00083  Allograft rejection
+            H00084  Graft-versus-host disease
+DRUG_TARGET Adalimumab: D02597
+            Certolizumab pegol: D03441
+            Etanercept: D00742
+            Golimumab: D04358
+            Infliximab: D02598
+            Lenalidomide (DG00744): D04687 D09813
+            Lenercept: D04690
+            Onercept: D05263
+            Pegsunercept: D05393
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                7124 (TNF)
+               04350 TGF-beta signaling pathway
+                7124 (TNF)
+               04064 NF-kappa B signaling pathway
+                7124 (TNF)
+               04668 TNF signaling pathway
+                7124 (TNF)
+               04071 Sphingolipid signaling pathway
+                7124 (TNF)
+               04150 mTOR signaling pathway
+                7124 (TNF)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                7124 (TNF)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                7124 (TNF)
+               04217 Necroptosis
+                7124 (TNF)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                7124 (TNF)
+               04620 Toll-like receptor signaling pathway
+                7124 (TNF)
+               04621 NOD-like receptor signaling pathway
+                7124 (TNF)
+               04622 RIG-I-like receptor signaling pathway
+                7124 (TNF)
+               04650 Natural killer cell mediated cytotoxicity
+                7124 (TNF)
+               04612 Antigen processing and presentation
+                7124 (TNF)
+               04660 T cell receptor signaling pathway
+                7124 (TNF)
+               04657 IL-17 signaling pathway
+                7124 (TNF)
+               04664 Fc epsilon RI signaling pathway
+                7124 (TNF)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                7124 (TNF)
+              Development
+               04380 Osteoclast differentiation
+                7124 (TNF)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                7124 (TNF)
+              Immune diseases
+               05310 Asthma
+                7124 (TNF)
+               05322 Systemic lupus erythematosus
+                7124 (TNF)
+               05323 Rheumatoid arthritis
+                7124 (TNF)
+               05321 Inflammatiory bowel disease (IBD)
+                7124 (TNF)
+               05330 Allograft rejection
+                7124 (TNF)
+               05332 Graft-versus-host disease
+                7124 (TNF)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                7124 (TNF)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                7124 (TNF)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                7124 (TNF)
+               05410 Hypertrophic cardiomyopathy (HCM)
+                7124 (TNF)
+               05414 Dilated cardiomyopathy (DCM)
+                7124 (TNF)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                7124 (TNF)
+               04940 Type I diabetes mellitus
+                7124 (TNF)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                7124 (TNF)
+               04931 Insulin resistance
+                7124 (TNF)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                7124 (TNF)
+              Infectious diseases
+               05133 Pertussis
+                7124 (TNF)
+               05134 Legionellosis
+                7124 (TNF)
+               05152 Tuberculosis
+                7124 (TNF)
+               05166 HTLV-I infection
+                7124 (TNF)
+               05164 Influenza A
+                7124 (TNF)
+               05161 Hepatitis B
+                7124 (TNF)
+               05160 Hepatitis C
+                7124 (TNF)
+               05168 Herpes simplex infection
+                7124 (TNF)
+               05165 Human papillomavirus infection
+                7124 (TNF)
+               05146 Amoebiasis
+                7124 (TNF)
+               05144 Malaria
+                7124 (TNF)
+               05145 Toxoplasmosis
+                7124 (TNF)
+               05140 Leishmaniasis
+                7124 (TNF)
+               05142 Chagas disease (American trypanosomiasis)
+                7124 (TNF)
+               05143 African trypanosomiasis
+                7124 (TNF)
+              Drug resistance
+               01523 Antifolate resistance
+                7124 (TNF)
+            Cytokines [BR:hsa04052]
+             TNF family
+              7124 (TNF)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               7124 (TNF)
+POSITION    6p21.33
+MOTIF       Pfam: TNF
+DBLINKS     NCBI-GeneID: 7124
+            NCBI-ProteinID: NP_000585
+            OMIM: 191160
+            HGNC: 11892
+            Ensembl: ENSG00000232810
+            Vega: OTTHUMG00000031194
+            Pharos: P01375(Tclin)
+            UniProt: P01375 Q5STB3
+STRUCTURE   PDB: 5UUI 4TSV 5M2J 3L9J 2AZ5 5M2I 5M2M 1A8M 5TSW 4G3Y 1TNF
+                 3IT8 4TWT 5WUX 5MU8 3ALQ 3WD5 2TUN
+AASEQ       233
+            MSTESMIRDVELAEEALPKKTGGPQGSRRCLFLSLFSFLIVAGATTLFCLLHFGVIGPQR
+            EEFPRDLSLISPLAQAVRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELR
+            DNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRE
+            TPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL
+NTSEQ       702
+            atgagcactgaaagcatgatccgggacgtggagctggccgaggaggcgctccccaagaag
+            acaggggggccccagggctccaggcggtgcttgttcctcagcctcttctccttcctgatc
+            gtggcaggcgccaccacgctcttctgcctgctgcactttggagtgatcggcccccagagg
+            gaagagttccccagggacctctctctaatcagccctctggcccaggcagtcagatcatct
+            tctcgaaccccgagtgacaagcctgtagcccatgttgtagcaaaccctcaagctgagggg
+            cagctccagtggctgaaccgccgggccaatgccctcctggccaatggcgtggagctgaga
+            gataaccagctggtggtgccatcagagggcctgtacctcatctactcccaggtcctcttc
+            aagggccaaggctgcccctccacccatgtgctcctcacccacaccatcagccgcatcgcc
+            gtctcctaccagaccaaggtcaacctcctctctgccatcaagagcccctgccagagggag
+            accccagagggggctgaggccaagccctggtatgagcccatctatctgggaggggtcttc
+            cagctggagaagggtgaccgactcagcgctgagatcaatcggcccgactatctcgacttt
+            gccgagtctgggcaggtctactttgggatcattgccctgtga
+///

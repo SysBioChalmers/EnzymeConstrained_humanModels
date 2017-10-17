@@ -1,0 +1,79 @@
+ENTRY       5319              CDS       T01001
+NAME        PLA2G1B, PLA2, PLA2A, PPLA2
+DEFINITION  (RefSeq) phospholipase A2 group IB
+ORTHOLOGY   K01047  secretory phospholipase A2 [EC:3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04014  Ras signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04972  Pancreatic secretion
+            hsa04975  Fat digestion and absorption
+DRUG_TARGET Orlistat: D04028
+            Varespladib (DG01394): D06283 D08107 D08221
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                5319 (PLA2G1B)
+               00565 Ether lipid metabolism
+                5319 (PLA2G1B)
+               00590 Arachidonic acid metabolism
+                5319 (PLA2G1B)
+               00591 Linoleic acid metabolism
+                5319 (PLA2G1B)
+               00592 alpha-Linolenic acid metabolism
+                5319 (PLA2G1B)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5319 (PLA2G1B)
+             Organismal Systems
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                5319 (PLA2G1B)
+              Digestive system
+               04972 Pancreatic secretion
+                5319 (PLA2G1B)
+               04975 Fat digestion and absorption
+                5319 (PLA2G1B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 5319 (PLA2G1B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                5319 (PLA2G1B)
+POSITION    12q24.31
+MOTIF       Pfam: Phospholip_A2_1 Parvo_coat_N DUF1644 Phospholip_A2_2
+DBLINKS     NCBI-GeneID: 5319
+            NCBI-ProteinID: NP_000919
+            OMIM: 172410
+            HGNC: 9030
+            Ensembl: ENSG00000170890
+            Vega: OTTHUMG00000169343
+            Pharos: P04054(Tchem)
+            UniProt: P04054
+STRUCTURE   PDB: 3ELO
+AASEQ       148
+            MKLLVLAVLLTVAAADSGISPRAVWQFRKMIKCVIPGSDPFLEYNNYGCYCGLGGSGTPV
+            DELDKCCQTHDNCYDQAKKLDSCKFLLDNPYTHTYSYSCSGSAITCSSKNKECEAFICNC
+            DRNAAICFSKAPYNKAHKNLDTKKYCQS
+NTSEQ       447
+            atgaaactccttgtgctagctgtgctgctcacagtggccgccgccgacagcggcatcagc
+            cctcgggccgtgtggcagttccgcaaaatgatcaagtgcgtgatcccggggagtgacccc
+            ttcttggaatacaacaactacggctgctactgtggcttggggggctcaggcacccccgtg
+            gatgaactggacaagtgctgccagacacatgacaactgctatgaccaggccaagaagctg
+            gacagctgtaaatttctgctggacaacccgtacacccacacctattcatactcgtgctct
+            ggctcggcaatcacctgtagcagcaaaaacaaagagtgtgaggccttcatttgcaactgc
+            gaccgcaacgctgccatctgcttttcaaaagctccatataacaaggcacacaagaacctg
+            gacaccaagaagtattgtcagagttga
+///

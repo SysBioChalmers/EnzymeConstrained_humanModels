@@ -1,0 +1,94 @@
+ENTRY       10039             CDS       T01001
+NAME        PARP3, ADPRT3, ADPRTL2, ADPRTL3, ARTD3, IRT1, PADPRT-3
+DEFINITION  (RefSeq) poly(ADP-ribose) polymerase family member 3
+ORTHOLOGY   K10798  poly [ADP-ribose] polymerase [EC:2.4.2.30]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+            hsa04210  Apoptosis
+            hsa04217  Necroptosis
+MODULE      hsa_M00296  BER complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                10039 (PARP3)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                10039 (PARP3)
+               04217 Necroptosis
+                10039 (PARP3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.30  NAD+ ADP-ribosyltransferase
+                 10039 (PARP3)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                Others
+                 10039 (PARP3)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                10039 (PARP3)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Other BER factors
+                 10039 (PARP3)
+POSITION    3p21.2
+MOTIF       Pfam: PARP PARP_reg WGR
+DBLINKS     NCBI-GeneID: 10039
+            NCBI-ProteinID: NP_005476
+            OMIM: 607726
+            HGNC: 273
+            Ensembl: ENSG00000041880
+            Vega: OTTHUMG00000156931
+            Pharos: Q9Y6F1(Tclin)
+            UniProt: Q9Y6F1 A0A024R2X5
+STRUCTURE   PDB: 4L7N 4GV2 4GV4 4GV0 4L7O 4L6Z 4L70 4L7L 3C4H 4L7R 4L7P
+                 3FHB 4L7U 3CE0 3C49 2EOC
+AASEQ       533
+            MAPKPKPWVQTEGPEKKKGRQAGREEDPFRSTAEALKAIPAEKRIIRVDPTCPLSSNPGT
+            QVYEDYNCTLNQTNIENNNNKFYIIQLLQDSNRFFTCWNRWGRVGEVGQSKINHFTRLED
+            AKKDFEKKFREKTKNNWAERDHFVSHPGKYTLIEVQAEDEAQEAVVKVDRGPVRTVTKRV
+            QPCSLDPATQKLITNIFSKEMFKNTMALMDLDVKKMPLGKLSKQQIARGFEALEALEEAL
+            KGPTDGGQSLEELSSHFYTVIPHNFGHSQPPPINSPELLQAKKDMLLVLADIELAQALQA
+            VSEQEKTVEEVPHPLDRDYQLLKCQLQLLDSGAPEYKVIQTYLEQTGSNHRCPTLQHIWK
+            VNQEGEEDRFQAHSKLGNRKLLWHGTNMAVVAAILTSGLRIMPHSGGRVGKGIYFASENS
+            KSAGYVIGMKCGAHHVGYMFLGEVALGREHHINTDNPSLKSPPPGFDSVIARGHTEPDPT
+            QDTELELDGQQVVVPQGQPVPCPEFSSSTFSQSEYLIYQESQCRLRYLLEVHL
+NTSEQ       1602
+            atggctccaaagccgaagccctgggtacagactgagggccctgagaagaagaagggccgg
+            caggcaggaagggaggaggaccccttccgctccaccgctgaggccctcaaggccataccc
+            gcagagaagcgcataatccgcgtggatccaacatgtccactcagcagcaaccccgggacc
+            caggtgtatgaggactacaactgcaccctgaaccagaccaacatcgagaacaacaacaac
+            aagttctacatcatccagctgctccaagacagcaaccgcttcttcacctgctggaaccgc
+            tggggccgtgtgggagaggtcggccagtcaaagatcaaccacttcacaaggctagaagat
+            gcaaagaaggactttgagaagaaatttcgggaaaagaccaagaacaactgggcagagcgg
+            gaccactttgtgtctcacccgggcaagtacacacttatcgaagtacaggcagaggatgag
+            gcccaggaagctgtggtgaaggtggacagaggcccagtgaggactgtgactaagcgggtg
+            cagccctgctccctggacccagccacgcagaagctcatcactaacatcttcagcaaggag
+            atgttcaagaacaccatggccctcatggacctggatgtgaagaagatgcccctgggaaag
+            ctgagcaagcaacagattgcacggggtttcgaggccttggaggcgctggaggaggccctg
+            aaaggccccacggatggtggccaaagcctggaggagctgtcctcacacttttacaccgtc
+            atcccgcacaacttcggccacagccagcccccgcccatcaattcccctgagcttctgcag
+            gccaagaaggacatgctgctggtgctggcggacatcgagctggcccaggccctgcaggca
+            gtctctgagcaggagaagacggtggaggaggtgccacaccccctggaccgagactaccag
+            cttctcaagtgccagctgcagctgctagactctggagcacctgagtacaaggtgatacag
+            acctacttagaacagactggcagcaaccacaggtgccctacacttcaacacatctggaaa
+            gtaaaccaagaaggggaggaagacagattccaggcccactccaaactgggtaatcggaag
+            ctgctgtggcatggcaccaacatggccgtggtggccgccatcctcactagtgggctccgc
+            atcatgccacattctggtgggcgtgttggcaagggcatctactttgcctcagagaacagc
+            aagtcagctggatatgttattggcatgaagtgtggggcccaccatgtcggctacatgttc
+            ctgggtgaggtggccctgggcagagagcaccatatcaacacggacaaccccagcttgaag
+            agcccacctcctggcttcgacagtgtcattgcccgaggccacaccgagcctgatccgacc
+            caggacactgagttggagctggatggccagcaagtggtggtgccccagggccagcctgtg
+            ccctgcccagagttcagcagctccacattctcccagagcgagtacctcatctaccaggag
+            agccagtgtcgcctgcgctacctgctggaggtccacctctga
+///

@@ -1,0 +1,62 @@
+ENTRY       10797             CDS       T01001
+NAME        MTHFD2, NMDMC
+DEFINITION  (RefSeq) methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase
+ORTHOLOGY   K13403  methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.15 3.5.4.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00670  One carbon pool by folate
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00141  C1-unit interconversion, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                10797 (MTHFD2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.1  With NAD+ or NADP+ as acceptor
+                1.5.1.15  methylenetetrahydrofolate dehydrogenase (NAD+)
+                 10797 (MTHFD2)
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.9  methenyltetrahydrofolate cyclohydrolase
+                 10797 (MTHFD2)
+POSITION    2p13.1
+MOTIF       Pfam: THF_DHG_CYH_C THF_DHG_CYH AlaDh_PNT_C
+DBLINKS     NCBI-GeneID: 10797
+            NCBI-ProteinID: NP_006627
+            OMIM: 604887
+            HGNC: 7434
+            Ensembl: ENSG00000065911
+            Vega: OTTHUMG00000129814
+            Pharos: P13995(Tbio)
+            UniProt: P13995
+STRUCTURE   PDB: 5TC4
+AASEQ       350
+            MAATSLMSALAARLLQPAHSCSLRLRPFHLAAVRNEAVVISGRKLAQQIKQEVRQEVEEW
+            VASGNKRPHLSVILVGENPASHSYVLNKTRAAAVVGINSETIMKPASISEEELLNLINKL
+            NNDDNVDGLLVQLPLPEHIDERRICNAVSPDKDVDGFHVINVGRMCLDQYSMLPATPWGV
+            WEIIKRTGIPTLGKNVVVAGRSKNVGMPIAMLLHTDGAHERPGGDATVTISHRYTPKEQL
+            KKHTILADIVISAAGIPNLITADMIKEGAAVIDVGINRVHDPVTAKPKLVGDVDFEGVRQ
+            KAGYITPVPGGVGPMTVAMLMKNTIIAAKKVLRLEEREVLKSKELGVATN
+NTSEQ       1053
+            atggctgcgacttctctaatgtctgctttggctgcccggctgctgcagcccgcgcacagc
+            tgctcccttcgccttcgccctttccacctcgcggcagttcgaaatgaagctgttgtcatt
+            tctggaaggaaactggcccagcagatcaagcaggaagtgcggcaggaggtagaagagtgg
+            gtggcctcaggcaacaaacggccacacctgagtgtgatcctggttggcgagaatcctgca
+            agtcactcctatgtcctcaacaaaaccagggcagctgcagttgtgggaatcaacagtgag
+            acaattatgaaaccagcttcaatttcagaggaagaattgttgaatttaatcaataaactg
+            aataatgatgataatgtagatggcctccttgttcagttgcctcttccagagcatattgat
+            gagagaaggatctgcaatgctgtttctccagacaaggatgttgatggctttcatgtaatt
+            aatgtaggacgaatgtgtttggatcagtattccatgttaccggctactccatggggtgtg
+            tgggaaataatcaagcgaactggcattccaaccctagggaagaatgtggttgtggctgga
+            aggtcaaaaaacgttggaatgcccattgcaatgttactgcacacagatggggcgcatgaa
+            cgtcccggaggtgatgccactgttacaatatctcatcgatatactcccaaagagcagttg
+            aagaaacatacaattcttgcagatattgtaatatctgctgcaggtattccaaatctgatc
+            acagcagatatgatcaaggaaggagcagcagtcattgatgtgggaataaatagagttcac
+            gatcctgtaactgccaaacccaagttggttggagatgtggattttgaaggagtcagacaa
+            aaagctgggtatatcactccagttcctggaggtgttggccccatgacagtggcaatgcta
+            atgaagaataccattattgctgcaaaaaaggtgctgaggcttgaagagcgagaagtgctg
+            aagtctaaagagcttggggtagccactaattaa
+///

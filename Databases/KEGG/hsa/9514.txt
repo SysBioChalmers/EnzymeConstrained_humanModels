@@ -1,0 +1,69 @@
+ENTRY       9514              CDS       T01001
+NAME        GAL3ST1, CST
+DEFINITION  (RefSeq) galactose-3-O-sulfotransferase 1
+ORTHOLOGY   K01019  galactosylceramide sulfotransferase [EC:2.8.2.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00565  Ether lipid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00067  Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00565 Ether lipid metabolism
+                9514 (GAL3ST1)
+               00600 Sphingolipid metabolism
+                9514 (GAL3ST1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.2  Sulfotransferases
+                2.8.2.11  galactosylceramide sulfotransferase
+                 9514 (GAL3ST1)
+            Glycosyltransferases [BR:hsa01003]
+             Unclassified
+              Sulfotransferases
+               9514 (GAL3ST1)
+POSITION    22q12.2
+MOTIF       Pfam: Gal-3-0_sulfotr
+DBLINKS     NCBI-GeneID: 9514
+            NCBI-ProteinID: NP_001305032
+            OMIM: 602300
+            HGNC: 24240
+            Ensembl: ENSG00000128242
+            Vega: OTTHUMG00000151200
+            Pharos: Q99999(Tbio)
+            UniProt: Q99999 A0A024R1D7
+AASEQ       423
+            MLPPQKKPWESMAKGLVLGALFTSFLLLVYSYAVPPLHAGLASTTPEAAASCSPPALEPE
+            AVIRANGSAGECQPRRNIVFLKTHKTASSTLLNILFRFGQKHRLKFAFPNGRNDFDYPTF
+            FARSLVQDYRPGACFNIICNHMRFHYDEVRGLVPTNAIFITVLRDPARLFESSFHYFGPV
+            VPLTWKLSAGDKLTEFLQDPDRYYDPNGFNAHYLRNLLFFDLGYDNSLDPSSPQVQEHIL
+            EVERRFHLVLLQEYFDESLVLLKDLLCWELEDVLYFKLNARRDSPVPRLSGELYGRATAW
+            NMLDSHLYRHFNASFWRKVEAFGRERMAREVAALRHANERMRTICIDGGHAVDAAAIQDE
+            AMQPWQPLGTKSILGYNLKKSIGQRHAQLCRRMLTPEIQYLMDLGANLWVTKLWKFIRDF
+            LRW
+NTSEQ       1272
+            atgctgccaccgcagaagaagccctgggagtccatggctaaggggctggtgctgggcgcg
+            ctcttcactagtttcctgctgctggtgtactcctatgccgtgcccccgctgcatgccggc
+            ctggcctccacgaccccggaggccgcagcgtcctgctctccacctgcactcgagccagag
+            gcagtgatccgggccaacggctcggcgggggagtgccagccgcggcgcaacatcgtgttc
+            ttgaagacgcacaagacggccagcagcaccctgctcaacatcctgttccgcttcggccag
+            aagcaccggctcaagttcgccttccctaacggccgcaatgacttcgactacccgaccttc
+            ttcgcccgcagcctggtgcaggactatcggcccggggcctgcttcaacatcatctgcaac
+            cacatgcgcttccactacgacgaggtgcgcggcctggtgccgaccaacgccatcttcatc
+            acggtgctccgcgaccccgcccgcttgttcgagtcctccttccactacttcgggccggtg
+            gtgcccctcacgtggaagctctcggccggcgacaagctgaccgagttcctgcaagacccg
+            gatcgctactacgaccccaacggcttcaatgcccactacctccgaaacctgctcttcttc
+            gacctgggctatgacaacagcctggaccccagcagcccgcaggtgcaggagcacatcctg
+            gaggtggagcgtcgcttccacctggtgctccttcaagagtacttcgacgagtcgctggtg
+            ctgctgaaggacctgctgtgctgggagctggaggacgtgctctacttcaagctcaacgcc
+            cgccgcgactcgcccgtgccgcggctctcgggggagctgtatgggcgcgccaccgcctgg
+            aacatgctggactcccacctctaccgccacttcaacgccagcttctggcgcaaggtggag
+            gccttcgggcgggagcgcatggcccgcgaggtggccgccctgcgccatgccaacgagcgc
+            atgcggaccatctgcatcgacgggggccacgccgtggacgccgccgccatccaggacgag
+            gccatgcagccctggcagccgctgggcaccaagtccatcctgggctacaacctcaagaag
+            agcatcgggcagcggcacgcgcagctctgccggcgcatgctcacgcccgagatccagtac
+            ctgatggacctcggcgccaacctgtgggtcaccaagctctggaagttcattcgcgatttc
+            ctgcggtggtga
+///

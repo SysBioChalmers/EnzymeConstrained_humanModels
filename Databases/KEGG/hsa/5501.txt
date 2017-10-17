@@ -1,0 +1,154 @@
+ENTRY       5501              CDS       T01001
+NAME        PPP1CC, PP-1G, PP1C, PPP1G
+DEFINITION  (RefSeq) protein phosphatase 1 catalytic subunit gamma
+ORTHOLOGY   K06269  serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04218  Cellular senescence
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04390  Hippo signaling pathway
+            hsa04510  Focal adhesion
+            hsa04611  Platelet activation
+            hsa04720  Long-term potentiation
+            hsa04728  Dopaminergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04931  Insulin resistance
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05168  Herpes simplex infection
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                5501 (PPP1CC)
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                5501 (PPP1CC)
+               04024 cAMP signaling pathway
+                5501 (PPP1CC)
+               04022 cGMP - PKG signaling pathway
+                5501 (PPP1CC)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                5501 (PPP1CC)
+               04218 Cellular senescence
+                5501 (PPP1CC)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5501 (PPP1CC)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5501 (PPP1CC)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                5501 (PPP1CC)
+              Endocrine system
+               04910 Insulin signaling pathway
+                5501 (PPP1CC)
+               04921 Oxytocin signaling pathway
+                5501 (PPP1CC)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                5501 (PPP1CC)
+               04270 Vascular smooth muscle contraction
+                5501 (PPP1CC)
+              Nervous system
+               04728 Dopaminergic synapse
+                5501 (PPP1CC)
+               04720 Long-term potentiation
+                5501 (PPP1CC)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5501 (PPP1CC)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                5501 (PPP1CC)
+              Substance dependence
+               05031 Amphetamine addiction
+                5501 (PPP1CC)
+               05034 Alcoholism
+                5501 (PPP1CC)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                5501 (PPP1CC)
+              Infectious diseases
+               05168 Herpes simplex infection
+                5501 (PPP1CC)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 5501 (PPP1CC)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                Catalytic subunits
+                 5501 (PPP1CC)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Other transcription-related factors
+                Transcription termination factor
+                 5501 (PPP1CC)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               3' end processing
+                Cleavage and polyadenylation specificity factor (CPSF) complex
+                 5501 (PPP1CC)
+            Spliceosome [BR:hsa03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               Other SAPs
+                5501 (PPP1CC)
+POSITION    12q24.11
+MOTIF       Pfam: Metallophos STPPase_N
+DBLINKS     NCBI-GeneID: 5501
+            NCBI-ProteinID: NP_002701
+            OMIM: 176914
+            HGNC: 9283
+            Ensembl: ENSG00000186298
+            Vega: OTTHUMG00000169531
+            Pharos: P36873(Tchem)
+            UniProt: P36873 A0A024RBP2
+STRUCTURE   PDB: 5INB 1JK7 4UT2 5J28 1U32 1IT6 2BCD 4UT3 2BDX
+AASEQ       323
+            MADLDKLNIDSIIQRLLEVRGSKPGKNVQLQENEIRGLCLKSREIFLSQPILLELEAPLK
+            ICGDIHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKIKYPENFFL
+            LRGNHECASINRIYGFYDECKRRYNIKLWKTFTDCFNCLPIAAIVDEKIFCCHGGLSPDL
+            QSMEQIRRIMRPTDVPDQGLLCDLLWSDPDKDVLGWGENDRGVSFTFGAEVVAKFLHKHD
+            LDLICRAHQVVEDGYEFFAKRQLVTLFSAPNYCGEFDNAGAMMSVDETLMCSFQILKPAE
+            KKKPNATRPVTPPRGMITKQAKK
+NTSEQ       972
+            atggcggatttagataaactcaacatcgacagcattatccaacggctgctggaagtgaga
+            gggtccaagcctggtaagaatgtccagcttcaggagaatgaaatcagaggactgtgctta
+            aagtctcgtgaaatctttctcagtcagcctatcctactagaacttgaagcaccactcaaa
+            atatgtggtgacatccatggacaatactatgatttgctgcgactttttgagtacggtggt
+            ttcccaccagaaagcaactacctgtttcttggggactatgtggacaggggaaagcagtca
+            ttggagacgatctgcctcttactggcctacaaaataaaatatcctgagaatttttttctt
+            ctcagagggaaccatgaatgtgccagcatcaacagaatttatggattttatgatgaatgt
+            aaaagaagatacaacattaaactatggaaaactttcacagactgttttaactgtttaccg
+            atagcagccatcgtggatgagaagatattctgctgtcatggaggtttatcaccagatctt
+            caatctatggagcagattcggcgaattatgcgaccaactgatgtaccagatcaaggtctt
+            ctttgtgatcttttgtggtctgaccccgataaagatgtcttaggctggggtgaaaatgac
+            agaggagtgtccttcacatttggtgcagaagtggttgcaaaatttctccataagcatgat
+            ttggatcttatatgtagagcccatcaggtggttgaagatggatatgaattttttgcaaag
+            aggcagttggtcactctgttttctgcgcccaattattgcggagagtttgacaatgcaggt
+            gccatgatgagtgtggatgaaacactaatgtgttcttttcagattttaaagcctgcagag
+            aaaaagaagccaaatgccacgagacctgtaacgcctccaaggggtatgatcacaaagcaa
+            gcaaagaaatag
+///

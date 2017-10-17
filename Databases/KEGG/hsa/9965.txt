@@ -1,0 +1,91 @@
+ENTRY       9965              CDS       T01001
+NAME        FGF19
+DEFINITION  (RefSeq) fibroblast growth factor 19
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                9965 (FGF19)
+               04015 Rap1 signaling pathway
+                9965 (FGF19)
+               04010 MAPK signaling pathway
+                9965 (FGF19)
+               04151 PI3K-Akt signaling pathway
+                9965 (FGF19)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                9965 (FGF19)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                9965 (FGF19)
+               05218 Melanoma
+                9965 (FGF19)
+               05224 Breast cancer
+                9965 (FGF19)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               9965 (FGF19)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 9965 (FGF19)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 9965 (FGF19)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 9965 (FGF19)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 9965 (FGF19)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               9965 (FGF19)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               9965 (FGF19)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               9965 (FGF19)
+POSITION    11q13.3
+MOTIF       Pfam: FGF
+DBLINKS     NCBI-GeneID: 9965
+            NCBI-ProteinID: NP_005108
+            OMIM: 603891
+            HGNC: 3675
+            Ensembl: ENSG00000162344
+            Vega: OTTHUMG00000167886
+            Pharos: O95750(Tbio)
+            UniProt: O95750
+STRUCTURE   PDB: 1PWA 2P23
+AASEQ       216
+            MRSGCVVVHVWILAGLWLAVAGRPLAFSDAGPHVHYGWGDPIRLRHLYTSGPHGLSSCFL
+            RIRADGVVDCARGQSAHSLLEIKAVALRTVAIKGVHSVRYLCMGADGKMQGLLQYSEEDC
+            AFEEEIRPDGYNVYRSEKHRLPVSLSSAKQRQLYKNRGFLPLSHFLPMLPMVPEEPEDLR
+            GHLESDMFSSPLETDSMDPFGLVTGLEAVRSPSFEK
+NTSEQ       651
+            atgcggagcgggtgtgtggtggtccacgtatggatcctggccggcctctggctggccgtg
+            gccgggcgccccctcgccttctcggacgcggggccccacgtgcactacggctggggcgac
+            cccatccgcctgcggcacctgtacacctccggcccccacgggctctccagctgcttcctg
+            cgcatccgtgccgacggcgtcgtggactgcgcgcggggccagagcgcgcacagtttgctg
+            gagatcaaggcagtcgctctgcggaccgtggccatcaagggcgtgcacagcgtgcggtac
+            ctctgcatgggcgccgacggcaagatgcaggggctgcttcagtactcggaggaagactgt
+            gctttcgaggaggagatccgcccagatggctacaatgtgtaccgatccgagaagcaccgc
+            ctcccggtctccctgagcagtgccaaacagcggcagctgtacaagaacagaggctttctt
+            ccactctctcatttcctgcccatgctgcccatggtcccagaggagcctgaggacctcagg
+            ggccacttggaatctgacatgttctcttcgcccctggagaccgacagcatggacccattt
+            gggcttgtcaccggactggaggccgtgaggagtcccagctttgagaagtaa
+///

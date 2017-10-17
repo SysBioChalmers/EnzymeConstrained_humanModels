@@ -1,0 +1,117 @@
+ENTRY       3633              CDS       T01001
+NAME        INPP5B, 5PTase
+DEFINITION  (RefSeq) inositol polyphosphate-5-phosphatase B
+ORTHOLOGY   K01099  inositol polyphosphate 5-phosphatase INPP5B/F [EC:3.1.3.36]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                3633 (INPP5B)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                3633 (INPP5B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.36  phosphoinositide 5-phosphatase
+                 3633 (INPP5B)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Small GTPases and associated proteins
+               Rab associated proteins
+                3633 (INPP5B)
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Inositol 5-phosphatases
+                3633 (INPP5B)
+              Rab GTPases and associated proteins
+               Rab associated proteins
+                3633 (INPP5B)
+             Protein recycling
+               Others
+                3633 (INPP5B)
+             Endosome - Golgi transport
+               Rab associated proteins
+                3633 (INPP5B)
+POSITION    1p34.3
+MOTIF       Pfam: INPP5B_PH RhoGAP Exo_endo_phos R3H
+DBLINKS     NCBI-GeneID: 3633
+            NCBI-ProteinID: NP_005531
+            OMIM: 147264
+            HGNC: 6077
+            Ensembl: ENSG00000204084
+            Vega: OTTHUMG00000004436
+            Pharos: P32019(Tbio)
+            UniProt: P32019
+STRUCTURE   PDB: 4CML 3MTC 3N9V 5A7I 5A7J
+AASEQ       913
+            MDQSVAIQETLAEGEYCVIAVQGVLCEGDSRQSRLLGLVRYRLEHGGQEHALFLYTHRRM
+            AITGDDVSLDQIVPVSRDFTLEEVSPDGELYILGSDVTVQLDTAELSLVFQLPFGSQTRM
+            FLHEVARACPGFDSATRDPEFLWLSRYRCAELELEMPTPRGCNSALVTWPGYATIGGGGS
+            NFDGLRPNGKGVPMDQSSRGQDKPESLQPRQNKSKSEITDMVRSSTITVSDKAHILSMQK
+            FGLRDTIVKSHLLQKEEDYTYIQNFRFFAGTYNVNGQSPKECLRLWLSNGIQAPDVYCVG
+            FQELDLSKEAFFFHDTPKEEEWFKAVSEGLHPDAKYAKVKLIRLVGIMLLLYVKQEHAAY
+            ISEVEAETVGTGIMGRMGNKGGVAIRFQFHNTSICVVNSHLAAHIEEYERRNQDYKDICS
+            RMQFCQPDPSLPPLTISNHDVILWLGDLNYRIEELDVEKVKKLIEEKDFQMLYAYDQLKI
+            QVAAKTVFEGFTEGELTFQPTYKYDTGSDDWDTSEKCRAPAWCDRILWKGKNITQLSYQS
+            HMALKTSDHKPVSSVFDIGVRVVNDELYRKTLEEIVRSLDKMENANIPSVSLSKREFCFQ
+            NVKYMQLKVESFTIHNGQVPCHFEFINKPDEESYCKQWLNANPSRGFLLPDSDVEIDLEL
+            FVNKMTATKLNSGEDKIEDILVLHLDRGKDYFLSVSGNYLPSCFGSPIHTLCYMREPILD
+            LPLETISELTLMPVWTGDDGSQLDSPMEIPKELWMMVDYLYRNAVQQEDLFQQPGLRSEF
+            EHIRDCLDTGMIDNLSASNHSVAEALLLFLESLPEPVICYSTYHNCLECSGNYTASKQVI
+            STLPIFHKNVFHYLMAFLRELLKNSAKNHLDENILASIFGSLLLRNPAGHQKLDMTEKKK
+            AQEFIHQFLCNPL
+NTSEQ       2742
+            atggaccagtctgtggcaatccaggagacgctggctgagggggaatactgcgtcatcgcg
+            gtgcaaggtgtgctgtgtgagggggacagccggcagagccgcctcctgggactcgtgcgc
+            taccgcctggagcacggcggccaggaacacgctctcttcctctatacgcaccggaggatg
+            gccattaccggggacgatgtctctctggaccagatagtgccagtctcgcgggattttacg
+            ctggaagaagtgtccccagatggtgaactctacatccttggctcagatgtgaccgtccag
+            ctggacacagcagagcttagcctcgtattccaactgccctttggttcacaaaccaggatg
+            ttcctccacgaagttgccagggcctgtccaggcttcgattctgcgacccgggatcctgaa
+            ttcctgtggctgtctcggtataggtgcgcagagctggagctggagatgccaacgccgcgc
+            ggttgtaactcggccctagttacctggccagggtacgcgacaattggcggaggtggttct
+            aactttgatggtttgagaccaaatgggaagggagtgcctatggaccaaagctccaggggt
+            caagataaaccagaaagcttgcaaccaagacagaataaatccaagtccgaaattactgac
+            atggttcgctcctccactatcacagtgtcggacaaggctcatattttatccatgcagaag
+            tttggactgcgagatacaattgtgaaatcacatctactacagaaagaagaggattacacc
+            tatatccagaacttcaggttttttgcgggaacatacaatgtaaatgggcagtcccccaaa
+            gaatgcctccggctgtggctgagcaatggtatccaggccccagatgtctattgtgtaggg
+            ttccaggagcttgatctgagtaaggaagcttttttctttcacgataccccaaaggaggaa
+            gagtggttcaaagctgtgtcagagggtcttcatccagatgccaaatatgcaaaggtgaag
+            cttatccgactggttgggattatgctgctgttatatgtcaaacaggagcatgcagcttat
+            atctcagaagtggaagccgagactgtggggacaggaatcatggggaggatgggcaacaag
+            ggaggcgtggcgatcaggttccagttccacaacaccagcatctgcgttgtgaattctcac
+            ttggcagcccacattgaagagtatgagaggaggaaccaggactataaggacatttgttct
+            cgaatgcagttttgtcagcctgacccaagccttccccctctcaccatcagcaaccatgat
+            gtgatcttgtggctgggggacctcaactacaggatagaagagctggatgtggaaaaagtg
+            aaaaagctcatcgaagagaaggactttcaaatgctgtatgcatatgatcagctgaaaatt
+            caggtggccgcaaagactgtctttgaaggcttcacagagggtgagctcacattccagcct
+            acttacaagtatgatacgggctctgacgactgggataccagtgagaagtgccgtgctcct
+            gcctggtgtgatcggattctctggaaagggaagaacatcactcagctgagttaccagagc
+            cacatggccctgaagaccagtgaccacaagcctgtcagctcagtgtttgacatcggggtg
+            agggtcgtaaatgacgagctttaccggaagacactggaggaaattgttcgctccctggat
+            aagatggaaaatgccaacattccttctgtgtccctgtccaagcgagagttctgttttcag
+            aatgtgaagtacatgcaattgaaagtagaatcctttacaattcataatggacaagtaccc
+            tgtcattttgaattcatcaacaagcctgatgaagagtcttactgtaagcagtggctgaat
+            gccaaccccagcagaggcttcctcctgccagattctgatgttgagattgacttggagctc
+            ttcgtaaataagatgacagctacaaagctcaactcgggtgaagacaaaattgaggacatt
+            ctggttctgcacttggacaggggaaaggattactttttgtctgtgtctgggaactacctg
+            cccagctgttttgggtctcccattcatacactgtgttacatgagagagccaatcttggac
+            ctaccacttgaaaccattagtgagctgactctgatgccagtatggactggagatgatggg
+            agccagttggatagccccatggaaatccccaaagagctctggatgatggttgattacctg
+            taccgaaatgctgtccagcaggaagatctgtttcagcaaccaggcctgaggtcagaattt
+            gaacatatcagggactgcttggatactggaatgattgataacctctctgccagcaatcat
+            tctgtagccgaagccctgctgcttttcctggagagccttccagagcctgtcatctgttac
+            agcacctaccataactgcttggagtgttctggcaactacacagcaagcaaacaggtcatt
+            tctactctccccatattccacaaaaatgtcttccactacttgatggcgtttttgcgagaa
+            ctgctgaaaaattcagcaaaaaatcatttggatgagaatattctagctagcatatttggc
+            agcttattgcttcgaaacccagctggtcaccaaaagcttgatatgacagagaagaagaag
+            gctcaagaatttattcaccagttcctctgcaacccactctga
+///

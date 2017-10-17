@@ -1,0 +1,52 @@
+ENTRY       51181             CDS       T01001
+NAME        DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR
+DEFINITION  (RefSeq) dicarbonyl and L-xylulose reductase
+ORTHOLOGY   K03331  L-xylulose reductase [EC:1.1.1.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+DISEASE     H01065  Pentosuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                51181 (DCXR)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.10  L-xylulose reductase
+                 51181 (DCXR)
+POSITION    17q25.3
+MOTIF       Pfam: adh_short_C2 adh_short KR Epimerase NAD_binding_10 Shikimate_DH DUF3742 AdoHcyase_NAD RmlD_sub_bind Polysacc_synt_2 NAD_binding_7 2-Hacid_dh_C DUF1776
+DBLINKS     NCBI-GeneID: 51181
+            NCBI-ProteinID: NP_057370
+            OMIM: 608347
+            HGNC: 18985
+            Ensembl: ENSG00000169738
+            Vega: OTTHUMG00000178483
+            Pharos: Q7Z4W1(Tbio)
+            UniProt: Q7Z4W1
+STRUCTURE   PDB: 3D3W 1PR9 1WNT
+AASEQ       244
+            MELFLAGRRVLVTGAGKGIGRGTVQALHATGARVVAVSRTQADLDSLVRECPGIEPVCVD
+            LGDWEATERALGSVGPVDLLVNNAAVALLQPFLEVTKEAFDRSFEVNLRAVIQVSQIVAR
+            GLIARGVPGAIVNVSSQCSQRAVTNHSVYCSTKGALDMLTKVMALELGPHKIRVNAVNPT
+            VVMTSMGQATWSDPHKAKTMLNRIPLGKFAEVEHVVNAILFLLSDRSGMTTGSTLPVEGG
+            FWAC
+NTSEQ       735
+            atggagctgttcctcgcgggccgccgggtgctggtcaccggggcaggcaaaggtataggg
+            cgcggcacggtccaggcgctgcacgcgacgggcgcgcgggtggtggctgtgagccggact
+            caggcggatcttgacagccttgtccgcgagtgcccggggatagaacccgtgtgcgtggac
+            ctgggtgactgggaggccaccgagcgggcgctgggcagcgtgggccccgtggacctgctg
+            gtgaacaacgccgctgtcgccctgctgcagcccttcctggaggtcaccaaggaggccttt
+            gacagatcctttgaggtgaacctgcgtgcggtcatccaggtgtcgcagattgtggccagg
+            ggcttaatagcccggggagtcccaggggccatcgtgaatgtctccagccagtgctcccag
+            cgggcagtaactaaccatagcgtctactgctccaccaagggtgccctggacatgctgacc
+            aaggtgatggccctagagctcgggccccacaagatccgagtgaatgcagtaaaccccaca
+            gtggtgatgacgtccatgggccaggccacctggagtgacccccacaaggccaagactatg
+            ctgaaccgaatcccacttggcaagtttgctgaggtagagcacgtggtgaacgccatcctc
+            tttctgctgagtgaccgaagtggcatgaccacgggttccactttgccggtggaagggggc
+            ttctgggcctgctga
+///

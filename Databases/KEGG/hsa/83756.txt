@@ -1,0 +1,95 @@
+ENTRY       83756             CDS       T01001
+NAME        TAS1R3, T1R3
+DEFINITION  (RefSeq) taste 1 receptor member 3
+ORTHOLOGY   K04626  taste receptor type 1 member 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04742  Taste transduction
+            hsa04973  Carbohydrate digestion and absorption
+DRUG_TARGET Acesulfame potassium: D08836
+            Aspartame (DG01355): D02381 D08862
+            Saccharin (DG01356): D01085 D02192 D05781 D08500
+            Sucrose: D00025
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Digestive system
+               04973 Carbohydrate digestion and absorption
+                83756 (TAS1R3)
+              Sensory system
+               04742 Taste transduction
+                83756 (TAS1R3)
+            G protein-coupled receptors [BR:hsa04030]
+             Class C. Metabotropic glutamate receptor family
+              Chemoreception
+               Taste type 1
+                83756 (TAS1R3)
+POSITION    1p36.33
+MOTIF       Pfam: ANF_receptor 7tm_3 NCD3G Peripla_BP_6
+DBLINKS     NCBI-GeneID: 83756
+            NCBI-ProteinID: NP_689414
+            OMIM: 605865
+            HGNC: 15661
+            Ensembl: ENSG00000169962
+            Vega: OTTHUMG00000003071
+            Pharos: Q7RTX0(Tbio)
+            UniProt: Q7RTX0
+AASEQ       852
+            MLGPAVLGLSLWALLHPGTGAPLCLSQQLRMKGDYVLGGLFPLGEAEEAGLRSRTRPSSP
+            VCTRFSSNGLLWALAMKMAVEEINNKSDLLPGLRLGYDLFDTCSEPVVAMKPSLMFLAKA
+            GSRDIAAYCNYTQYQPRVLAVIGPHSSELAMVTGKFFSFFLMPQVSYGASMELLSARETF
+            PSFFRTVPSDRVQLTAAAELLQEFGWNWVAALGSDDEYGRQGLSIFSALAAARGICIAHE
+            GLVPLPRADDSRLGKVQDVLHQVNQSSVQVVLLFASVHAAHALFNYSISSRLSPKVWVAS
+            EAWLTSDLVMGLPGMAQMGTVLGFLQRGAQLHEFPQYVKTHLALATDPAFCSALGEREQG
+            LEEDVVGQRCPQCDCITLQNVSAGLNHHQTFSVYAAVYSVAQALHNTLQCNASGCPAQDP
+            VKPWQLLENMYNLTFHVGGLPLRFDSSGNVDMEYDLKLWVWQGSVPRLHDVGRFNGSLRT
+            ERLKIRWHTSDNQKPVSRCSRQCQEGQVRRVKGFHSCCYDCVDCEAGSYRQNPDDIACTF
+            CGQDEWSPERSTRCFRRRSRFLAWGEPAVLLLLLLLSLALGLVLAALGLFVHHRDSPLVQ
+            ASGGPLACFGLVCLGLVCLSVLLFPGQPSPARCLAQQPLSHLPLTGCLSTLFLQAAEIFV
+            ESELPLSWADRLSGCLRGPWAWLVVLLAMLVEVALCTWYLVAFPPEVVTDWHMLPTEALV
+            HCRTRSWVSFGLAHATNATLAFLCFLGTFLVRSQPGRYNRARGLTFAMLAYFITWVSFVP
+            LLANVQVVLRPAVQMGALLLCVLGILAAFHLPRCYLLMRQPGLNTPEFFLGGGPGDAQGQ
+            NDGNTGNQGKHE
+NTSEQ       2559
+            atgctgggccctgctgtcctgggcctcagcctctgggctctcctgcaccctgggacgggg
+            gccccattgtgcctgtcacagcaacttaggatgaagggggactacgtgctgggggggctg
+            ttccccctgggcgaggccgaggaggctggcctccgcagccggacacggcccagcagccct
+            gtgtgcaccaggttctcctcaaacggcctgctctgggcactggccatgaaaatggccgtg
+            gaggagatcaacaacaagtcggatctgctgcccgggctgcgcctgggctacgacctcttt
+            gatacgtgctcggagcctgtggtggccatgaagcccagcctcatgttcctggccaaggca
+            ggcagccgcgacatcgccgcctactgcaactacacgcagtaccagccccgtgtgctggct
+            gtcatcgggccccactcgtcagagctcgccatggtcaccggcaagttcttcagcttcttc
+            ctcatgccccaggtcagctacggtgctagcatggagctgctgagcgcccgggagaccttc
+            ccctccttcttccgcaccgtgcccagcgaccgtgtgcagctgacggccgccgcggagctg
+            ctgcaggagttcggctggaactgggtggccgccctgggcagcgacgacgagtacggccgg
+            cagggcctgagcatcttctcggccctggccgcggcacgcggcatctgcatcgcgcacgag
+            ggcctggtgccgctgccccgtgccgatgactcgcggctggggaaggtgcaggacgtcctg
+            caccaggtgaaccagagcagcgtgcaggtggtgctgctgttcgcctccgtgcacgccgcc
+            cacgccctcttcaactacagcatcagcagcaggctctcgcccaaggtgtgggtggccagc
+            gaggcctggctgacctctgacctggtcatggggctgcccggcatggcccagatgggcacg
+            gtgcttggcttcctccagaggggtgcccagctgcacgagttcccccagtacgtgaagacg
+            cacctggccctggccaccgacccggccttctgctctgccctgggcgagagggagcagggt
+            ctggaggaggacgtggtgggccagcgctgcccgcagtgtgactgcatcacgctgcagaac
+            gtgagcgcagggctaaatcaccaccagacgttctctgtctacgcagctgtgtatagcgtg
+            gcccaggccctgcacaacactcttcagtgcaacgcctcaggctgccccgcgcaggacccc
+            gtgaagccctggcagctcctggagaacatgtacaacctgaccttccacgtgggcgggctg
+            ccgctgcggttcgacagcagcggaaacgtggacatggagtacgacctgaagctgtgggtg
+            tggcagggctcagtgcccaggctccacgacgtgggcaggttcaacggcagcctcaggaca
+            gagcgcctgaagatccgctggcacacgtctgacaaccagaagcccgtgtcccggtgctcg
+            cggcagtgccaggagggccaggtgcgccgggtcaaggggttccactcctgctgctacgac
+            tgtgtggactgcgaggcgggcagctaccggcaaaacccagacgacatcgcctgcaccttt
+            tgtggccaggatgagtggtccccggagcgaagcacacgctgcttccgccgcaggtctcgg
+            ttcctggcatggggcgagccggctgtgctgctgctgctcctgctgctgagcctggcgctg
+            ggccttgtgctggctgctttggggctgttcgttcaccatcgggacagcccactggttcag
+            gcctcgggggggcccctggcctgctttggcctggtgtgcctgggcctggtctgcctcagc
+            gtcctcctgttccctggccagcccagccctgcccgatgcctggcccagcagcccttgtcc
+            cacctcccgctcacgggctgcctgagcacactcttcctgcaggcggccgagatcttcgtg
+            gagtcagaactgcctctgagctgggcagaccggctgagtggctgcctgcgggggccctgg
+            gcctggctggtggtgctgctggccatgctggtggaggtcgcactgtgcacctggtacctg
+            gtggccttcccgccggaggtggtgacggactggcacatgctgcccacggaggcgctggtg
+            cactgccgcacacgctcctgggtcagcttcggcctagcgcacgccaccaatgccacgctg
+            gcctttctctgcttcctgggcactttcctggtgcggagccagccgggccgctacaaccgt
+            gcccgtggcctcacctttgccatgctggcctacttcatcacctgggtctcctttgtgccc
+            ctcctggccaatgtgcaggtggtcctcaggcccgccgtgcagatgggcgccctcctgctc
+            tgtgtcctgggcatcctggctgccttccacctgcccaggtgttacctgctcatgcggcag
+            ccagggctcaacacccccgagttcttcctgggagggggccctggggatgcccaaggccag
+            aatgacgggaacacaggaaatcaggggaaacatgagtga
+///

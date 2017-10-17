@@ -1,0 +1,63 @@
+ENTRY       9104              CDS       T01001
+NAME        RGN, GNL, HEL-S-41, RC, SMP30
+DEFINITION  (RefSeq) regucalcin
+ORTHOLOGY   K01053  gluconolactonase [EC:3.1.1.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                9104 (RGN)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                9104 (RGN)
+               00053 Ascorbate and aldarate metabolism
+                9104 (RGN)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.17  gluconolactonase
+                 9104 (RGN)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               9104 (RGN)
+POSITION    Xp11.3
+MOTIF       Pfam: SGL Reg_prop NHL Acyl-CoA_dh_C
+DBLINKS     NCBI-GeneID: 9104
+            NCBI-ProteinID: NP_004674
+            OMIM: 300212
+            HGNC: 9989
+            Ensembl: ENSG00000130988
+            Vega: OTTHUMG00000021435
+            Pharos: Q15493(Tbio)
+            UniProt: Q15493 V9HWF8
+STRUCTURE   PDB: 3G4E 4GNB 4GNC 3G4H
+AASEQ       299
+            MSSIKIECVLPENCRCGESPVWEEVSNSLLFVDIPAKKVCRWDSFTKQVQRVTMDAPVSS
+            VALRQSGGYVATIGTKFCALNWKEQSAVVLATVDNDKKNNRFNDGKVDPAGRYFAGTMAE
+            ETAPAVLERHQGALYSLFPDHHVKKYFDQVDISNGLDWSLDHKIFYYIDSLSYSVDAFDY
+            DLQTGQISNRRSVYKLEKEEQIPDGMCIDAEGKLWVACYNGGRVIRLDPVTGKRLQTVKL
+            PVDKTTSCCFGGKNYSEMYVTCARDGMDPEGLLRQPEAGGIFKITGLGVKGIAPYSYAG
+NTSEQ       900
+            atgtcttccattaagattgagtgtgttttgccagagaactgccggtgtggtgagtctcca
+            gtatgggaggaagtgtccaactctctgctctttgtagacattcctgcaaaaaaggtttgc
+            cggtgggattcattcaccaagcaagtacagcgagtgaccatggatgccccagtcagctcc
+            gtggctcttcgccagtcgggaggctatgttgccaccattggaacaaagttctgtgctttg
+            aactggaaagaacaatcagcagttgtcttggccacggtggataacgacaagaaaaacaat
+            cgcttcaatgatgggaaggtggatcccgccgggaggtactttgctggcaccatggctgag
+            gaaacagctccagcagttcttgagcggcaccagggggccctgtactccctctttcctgat
+            caccacgtgaaaaagtactttgaccaggtggacatttccaatggtttggattggtcgcta
+            gaccacaaaatcttctattacattgacagcctgtcctactccgtggatgcctttgactat
+            gacctgcagacaggacagatctccaaccgcagaagtgtttacaagctagaaaaggaagaa
+            caaatcccagatggaatgtgtattgatgctgaggggaagctctgggtggcctgttacaat
+            ggaggaagagtgattcgtttagatcctgtgacagggaaaagacttcaaactgtgaagttg
+            cctgttgataaaacaacttcatgctgctttggagggaagaattactctgaaatgtatgtg
+            acctgcgcccgggatgggatggaccccgagggtcttttgaggcaacctgaagctggtgga
+            attttcaagataactggtctgggggtcaaaggaattgctccctactcctatgcgggatga
+///

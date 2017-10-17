@@ -1,0 +1,165 @@
+ENTRY       6772              CDS       T01001
+NAME        STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91
+DEFINITION  (RefSeq) signal transducer and activator of transcription 1
+ORTHOLOGY   K11220  signal transducer and activator of transcription 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04917  Prolactin signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05200  Pathways in cancer
+            hsa05212  Pancreatic cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+MODULE      hsa_M00684  JAK-STAT signaling
+DISEASE     H00089  IFN-gamma/IL-12 axis
+            H00363  Candidiasis
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                6772 (STAT1)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                6772 (STAT1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                6772 (STAT1)
+               04621 NOD-like receptor signaling pathway
+                6772 (STAT1)
+               04658 Th1 and Th2 cell differentiation
+                6772 (STAT1)
+               04659 Th17 cell differentiation
+                6772 (STAT1)
+               04062 Chemokine signaling pathway
+                6772 (STAT1)
+              Endocrine system
+               04917 Prolactin signaling pathway
+                6772 (STAT1)
+               04919 Thyroid hormone signaling pathway
+                6772 (STAT1)
+              Development
+               04380 Osteoclast differentiation
+                6772 (STAT1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6772 (STAT1)
+               05212 Pancreatic cancer
+                6772 (STAT1)
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                6772 (STAT1)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                6772 (STAT1)
+              Infectious diseases
+               05152 Tuberculosis
+                6772 (STAT1)
+               05162 Measles
+                6772 (STAT1)
+               05164 Influenza A
+                6772 (STAT1)
+               05161 Hepatitis B
+                6772 (STAT1)
+               05160 Hepatitis C
+                6772 (STAT1)
+               05168 Herpes simplex infection
+                6772 (STAT1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                6772 (STAT1)
+               05165 Human papillomavirus infection
+                6772 (STAT1)
+               05145 Toxoplasmosis
+                6772 (STAT1)
+               05140 Leishmaniasis
+                6772 (STAT1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               STAT
+                6772 (STAT1)
+POSITION    2q32.2
+MOTIF       Pfam: STAT_bind STAT_alpha STAT_int STAT1_TAZ2bind SH2 TRPM_tetra BLI1
+DBLINKS     NCBI-GeneID: 6772
+            NCBI-ProteinID: NP_009330
+            OMIM: 600555
+            HGNC: 11362
+            Ensembl: ENSG00000115415
+            Vega: OTTHUMG00000132699
+            Pharos: P42224(Tchem)
+            UniProt: P42224
+STRUCTURE   PDB: 3WWT 1BF5 1YVL 2KA6
+AASEQ       750
+            MSQWYELQQLDSKFLEQVHQLYDDSFPMEIRQYLAQWLEKQDWEHAANDVSFATIRFHDL
+            LSQLDDQYSRFSLENNFLLQHNIRKSKRNLQDNFQEDPIQMSMIIYSCLKEERKILENAQ
+            RFNQAQSGNIQSTVMLDKQKELDSKVRNVKDKVMCIEHEIKSLEDLQDEYDFKCKTLQNR
+            EHETNGVAKSDQKQEQLLLKKMYLMLDNKRKEVVHKIIELLNVTELTQNALINDELVEWK
+            RRQQSACIGGPPNACLDQLQNWFTIVAESLQQVRQQLKKLEELEQKYTYEHDPITKNKQV
+            LWDRTFSLFQQLIQSSFVVERQPCMPTHPQRPLVLKTGVQFTVKLRLLVKLQELNYNLKV
+            KVLFDKDVNERNTVKGFRKFNILGTHTKVMNMEESTNGSLAAEFRHLQLKEQKNAGTRTN
+            EGPLIVTEELHSLSFETQLCQPGLVIDLETTSLPVVVISNVSQLPSGWASILWYNMLVAE
+            PRNLSFFLTPPCARWAQLSEVLSWQFSSVTKRGLNVDQLNMLGEKLLGPNASPDGLIPWT
+            RFCKENINDKNFPFWLWIESILELIKKHLLPLWNDGCIMGFISKERERALLKDQQPGTFL
+            LRFSESSREGAITFTWVERSQNGGEPDFHAVEPYTKKELSAVTFPDIIRNYKVMAAENIP
+            ENPLKYLYPNIDKDHAFGKYYSRPKEAPEPMELDGPKGTGYIKTELISVSEVHPSRLQTT
+            DNLLPMSPEEFDEVSRIVGSVEFDSMMNTV
+NTSEQ       2253
+            atgtctcagtggtacgaacttcagcagcttgactcaaaattcctggagcaggttcaccag
+            ctttatgatgacagttttcccatggaaatcagacagtacctggcacagtggttagaaaag
+            caagactgggagcacgctgccaatgatgtttcatttgccaccatccgttttcatgacctc
+            ctgtcacagctggatgatcaatatagtcgcttttctttggagaataacttcttgctacag
+            cataacataaggaaaagcaagcgtaatcttcaggataattttcaggaagacccaatccag
+            atgtctatgatcatttacagctgtctgaaggaagaaaggaaaattctggaaaacgcccag
+            agatttaatcaggctcagtcggggaatattcagagcacagtgatgttagacaaacagaaa
+            gagcttgacagtaaagtcagaaatgtgaaggacaaggttatgtgtatagagcatgaaatc
+            aagagcctggaagatttacaagatgaatatgacttcaaatgcaaaaccttgcagaacaga
+            gaacacgagaccaatggtgtggcaaagagtgatcagaaacaagaacagctgttactcaag
+            aagatgtatttaatgcttgacaataagagaaaggaagtagttcacaaaataatagagttg
+            ctgaatgtcactgaacttacccagaatgccctgattaatgatgaactagtggagtggaag
+            cggagacagcagagcgcctgtattggggggccgcccaatgcttgcttggatcagctgcag
+            aactggttcactatagttgcggagagtctgcagcaagttcggcagcagcttaaaaagttg
+            gaggaattggaacagaaatacacctacgaacatgaccctatcacaaaaaacaaacaagtg
+            ttatgggaccgcaccttcagtcttttccagcagctcattcagagctcgtttgtggtggaa
+            agacagccctgcatgccaacgcaccctcagaggccgctggtcttgaagacaggggtccag
+            ttcactgtgaagttgagactgttggtgaaattgcaagagctgaattataatttgaaagtc
+            aaagtcttatttgataaagatgtgaatgagagaaatacagtaaaaggatttaggaagttc
+            aacattttgggcacgcacacaaaagtgatgaacatggaggagtccaccaatggcagtctg
+            gcggctgaatttcggcacctgcaattgaaagaacagaaaaatgctggcaccagaacgaat
+            gagggtcctctcatcgttactgaagagcttcactcccttagttttgaaacccaattgtgc
+            cagcctggtttggtaattgacctcgagacgacctctctgcccgttgtggtgatctccaac
+            gtcagccagctcccgagcggttgggcctccatcctttggtacaacatgctggtggcggaa
+            cccaggaatctgtccttcttcctgactccaccatgtgcacgatgggctcagctttcagaa
+            gtgctgagttggcagttttcttctgtcaccaaaagaggtctcaatgtggaccagctgaac
+            atgttgggagagaagcttcttggtcctaacgccagccccgatggtctcattccgtggacg
+            aggttttgtaaggaaaatataaatgataaaaattttcccttctggctttggattgaaagc
+            atcctagaactcattaaaaaacacctgctccctctctggaatgatgggtgcatcatgggc
+            ttcatcagcaaggagcgagagcgtgccctgttgaaggaccagcagccggggaccttcctg
+            ctgcggttcagtgagagctcccgggaaggggccatcacattcacatgggtggagcggtcc
+            cagaacggaggcgaacctgacttccatgcggttgaaccctacacgaagaaagaactttct
+            gctgttactttccctgacatcattcgcaattacaaagtcatggctgctgagaatattcct
+            gagaatcccctgaagtatctgtatccaaatattgacaaagaccatgcctttggaaagtat
+            tactccaggccaaaggaagcaccagagccaatggaacttgatggccctaaaggaactgga
+            tatatcaagactgagttgatttctgtgtctgaagttcacccttctagacttcagaccaca
+            gacaacctgctccccatgtctcctgaggagtttgacgaggtgtctcggatagtgggctct
+            gtagaattcgacagtatgatgaacacagtatag
+///

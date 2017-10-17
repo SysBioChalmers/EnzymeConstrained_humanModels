@@ -1,0 +1,98 @@
+ENTRY       5932              CDS       T01001
+NAME        RBBP8, COM1, CTIP, JWDS, RIM, SAE2, SCKL2
+DEFINITION  (RefSeq) RB binding protein 8, endonuclease
+ORTHOLOGY   K20773  DNA endonuclease RBBP8 [EC:3.1.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+DISEASE     H00992  Seckel syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                5932 (RBBP8)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 5932 (RBBP8)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                BRCA1-C complex
+                 5932 (RBBP8)
+POSITION    18q11.2
+MOTIF       Pfam: CtIP_N SAE2
+DBLINKS     NCBI-GeneID: 5932
+            NCBI-ProteinID: NP_002885
+            OMIM: 604124
+            HGNC: 9891
+            Ensembl: ENSG00000101773
+            Vega: OTTHUMG00000131769
+            Pharos: Q99708(Tbio)
+            UniProt: Q99708 A0A024RC34
+STRUCTURE   PDB: 4D2H
+AASEQ       897
+            MNISGSSCGSPNSADTSSDFKDLWTKLKECHDREVQGLQVKVTKLKQERILDAQRLEEFF
+            TKNQQLREQQKVLHETIKVLEDRLRAGLCDRCAVTEEHMRKKQQEFENIRQQNLKLITEL
+            MNERNTLQEENKKLSEQLQQKIENDQQHQAAELECEEDVIPDSPITAFSFSGVNRLRRKE
+            NPHVRYIEQTHTKLEHSVCANEMRKVSKSSTHPQHNPNENEILVADTYDQSQSPMAKAHG
+            TSSYTPDKSSFNLATVVAETLGLGVQEESETQGPMSPLGDELYHCLEGNHKKQPFEESTR
+            NTEDSLRFSDSTSKTPPQEELPTRVSSPVFGATSSIKSGLDLNTSLSPSLLQPGKKKHLK
+            TLPFSNTCISRLEKTRSKSEDSALFTHHSLGSEVNKIIIQSSNKQILINKNISESLGEQN
+            RTEYGKDSNTDKHLEPLKSLGGRTSKRKKTEEESEHEVSCPQASFDKENAFPFPMDNQFS
+            MNGDCVMDKPLDLSDRFSAIQRQEKSQGSETSKNKFRQVTLYEALKTIPKGFSSSRKASD
+            GNCTLPKDSPGEPCSQECIILQPLNKCSPDNKPSLQIKEENAVFKIPLRPRESLETENVL
+            DDIKSAGSHEPIKIQTRSDHGGCELASVLQLNPCRTGKIKSLQNNQDVSFENIQWSIDPG
+            ADLSQYKMDVTVIDTKDGSQSKLGGETVDMDCTLVSETVLLKMKKQEQKGEKSSNEERKM
+            NDSLEDMFDRTTHEEYESCLADSFSQAADEEEELSTATKKLHTHGDKQDKVKQKAFVEPY
+            FKGDERETSLQNFPHIEVVRKKEERRKLLGHTCKECEIYYADMPAEEREKKLASCSRHRF
+            RYIPPNTPENFWEVGFPSTQTCMERGYIKEDLDPCPRPKRRQPYNAIFSPKGKEQKT
+NTSEQ       2694
+            atgaacatctcgggaagcagctgtggaagccctaactctgcagatacatctagtgacttt
+            aaggacctttggacaaaactaaaagaatgtcatgatagagaagtacaaggtttacaagta
+            aaagtaaccaagctaaaacaggaacgaatcttagatgcacaaagactagaagaattcttc
+            accaaaaatcaacagctgagggaacagcagaaagtccttcatgaaaccattaaagtttta
+            gaagatcggttaagagcaggcttatgtgatcgctgtgcagtaactgaagaacatatgcgg
+            aaaaaacagcaagagtttgaaaatatccggcagcagaatcttaaacttattacagaactt
+            atgaatgaaaggaatactctacaggaagaaaataaaaagctttctgaacaactccagcag
+            aaaattgagaatgatcaacagcatcaagcagctgagcttgaatgtgaggaagacgttatt
+            ccagattcaccgataacagccttctcattttctggcgttaaccggctacgaagaaaggag
+            aacccccatgtccgatacatagaacaaacacatactaaattggagcactctgtgtgtgca
+            aatgaaatgagaaaagtttccaagtcttcaactcatccacaacataatcctaatgaaaat
+            gaaattctagtagctgacacttatgaccaaagtcaatctccaatggccaaagcacatgga
+            acaagcagctatacccctgataagtcatcttttaatttagctacagttgttgctgaaaca
+            cttggacttggtgttcaagaagaatctgaaactcaaggtcccatgagcccccttggtgat
+            gagctctaccactgtctggaaggaaatcacaagaaacagccttttgaggaatctacaaga
+            aatactgaagatagtttaagattttcagattctacttcaaagactcctcctcaagaagaa
+            ttacctactcgagtgtcatctcctgtatttggagctacctctagtatcaaaagtggttta
+            gatttgaatacaagtttgtccccttctcttttacagcctgggaaaaaaaaacatctgaaa
+            acactcccttttagcaacacttgtatatctagattagaaaaaactagatcaaaatctgaa
+            gatagtgcccttttcacacatcacagtcttgggtctgaagtgaacaagatcattatccag
+            tcatctaataaacagatacttataaataaaaatataagtgaatccctaggtgaacagaat
+            aggactgagtacggtaaagattctaacactgataaacatttggagcccctgaaatcattg
+            ggaggccgaacatccaaaaggaagaaaactgaggaagaaagtgaacatgaagtaagctgc
+            ccccaagcttcttttgataaagaaaatgctttcccttttccaatggataatcagttttcc
+            atgaatggagactgtgtgatggataaacctctggatctgtctgatcgattttcagctatt
+            cagcgtcaagagaaaagccaaggaagtgagacttctaaaaacaaatttaggcaagtgact
+            ctttatgaggctttgaagaccattccaaagggcttttcctcaagccgtaaggcctcagat
+            ggcaactgcacgttgcccaaagattccccaggggagccctgttcacaggaatgcatcatc
+            cttcagcccttgaataaatgctctccagacaataaaccatcattacaaataaaagaagaa
+            aatgctgtctttaaaattcctctacgtccacgtgaaagtttggagactgagaatgtttta
+            gatgacataaagagtgctggttctcatgagccaataaaaatacaaaccaggtcagaccat
+            ggaggatgtgaacttgcatcagttcttcagttaaatccatgtagaactggtaaaataaag
+            tctctacaaaacaaccaagatgtatcctttgaaaatatccagtggagtatagatccggga
+            gcagacctttctcagtataaaatggatgttactgtaatagatacaaaggatggcagtcag
+            tcaaaattaggaggagagacagtggacatggactgtacattggttagtgaaaccgttctc
+            ttaaaaatgaagaagcaagagcagaagggagaaaaaagttcaaatgaagaaagaaaaatg
+            aatgatagcttggaagatatgtttgatcggacaacacatgaagagtatgaatcctgtttg
+            gcagacagtttctcccaagcagcagatgaagaggaggaattgtctactgccacaaagaaa
+            ctacacactcatggtgataaacaagacaaagtcaagcagaaagcgtttgtggagccgtat
+            tttaaaggtgatgaaagagagactagcttgcaaaattttcctcatattgaggtggttcgg
+            aaaaaagaggagagaagaaaactgcttgggcacacgtgtaaggaatgtgaaatttattat
+            gcagatatgccagcagaagaaagagaaaagaaattggcttcctgctcaagacaccgattc
+            cgctacattccacccaacacaccagagaatttttgggaagttggttttccttccactcag
+            acttgtatggaaagaggttatattaaggaagatcttgatccttgtcctcgtccaaaaaga
+            cgtcagccttacaacgcaatattttctccaaaaggcaaggagcagaagacatag
+///

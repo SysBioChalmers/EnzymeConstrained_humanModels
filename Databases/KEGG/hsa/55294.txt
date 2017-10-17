@@ -1,0 +1,80 @@
+ENTRY       55294             CDS       T01001
+NAME        FBXW7, AGO, CDC4, FBW6, FBW7, FBX30, FBXO30, FBXW6, SEL-10, SEL10, hAgo, hCdc4
+DEFINITION  (RefSeq) F-box and WD repeat domain containing 7
+ORTHOLOGY   K10260  F-box and WD-40 domain protein 7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04120  Ubiquitin mediated proteolysis
+MODULE      hsa_M00387  SCF-FBW7 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                55294 (FBXW7)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Target recognizing subunit (F-box)
+                 55294 (FBXW7)
+POSITION    4q31.3
+MOTIF       Pfam: WD40 Nup160 ANAPC4_WD40 F-box-like F-box PQQ_2 Ge1_WD40 WD40_like CDtoxinA eIF2A PALB2_WD40 Mem_trans Nop14
+DBLINKS     NCBI-GeneID: 55294
+            NCBI-ProteinID: NP_361014
+            OMIM: 606278
+            HGNC: 16712
+            Ensembl: ENSG00000109670
+            Vega: OTTHUMG00000185246
+            Pharos: Q969H0(Tbio)
+            UniProt: Q969H0
+STRUCTURE   PDB: 5IBK 2OVR 2OVQ 2OVP
+AASEQ       707
+            MNQELLSVGSKRRRTGGSLRGNPSSSQVDEEQMNRVVEEEQQQQLRQQEEEHTARNGEVV
+            GVEPRPGGQNDSQQGQLEENNNRFISVDEDSSGNQEEQEEDEEHAGEQDEEDEEEEEMDQ
+            ESDDFDQSDDSSREDEHTHTNSVTNSSSIVDLPVHQLSSPFYTKTTKMKRKLDHGSEVRS
+            FSLGKKPCKVSEYTSTTGLVPCSATPTTFGDLRAANGQGQQRRRITSVQPPTGLQEWLKM
+            FQSWSGPEKLLALDELIDSCEPTQVKHMMQVIEPQFQRDFISLLPKELALYVLSFLEPKD
+            LLQAAQTCRYWRILAEDNLLWREKCKEEGIDEPLHIKRRKVIKPGFIHSPWKSAYIRQHR
+            IDTNWRRGELKSPKVLKGHDDHVITCLQFCGNRIVSGSDDNTLKVWSAVTGKCLRTLVGH
+            TGGVWSSQMRDNIIISGSTDRTLKVWNAETGECIHTLYGHTSTVRCMHLHEKRVVSGSRD
+            ATLRVWDIETGQCLHVLMGHVAAVRCVQYDGRRVVSGAYDFMVKVWDPETETCLHTLQGH
+            TNRVYSLQFDGIHVVSGSLDTSIRVWDVETGNCIHTLTGHQSLTSGMELKDNILVSGNAD
+            STVKIWDIKTGQCLQTLQGPNKHQSAVTCLQFNKNFVITSSDDGTVKLWDLKTGEFIRNL
+            VTLESGGSGGVVWRIRASNTKLVCAVGSRNGTEETKLLVLDFDVDMK
+NTSEQ       2124
+            atgaatcaggaactgctctctgtgggcagcaaaagacgacgaactggaggctctctgaga
+            ggtaacccttcctcaagccaggtagatgaagaacagatgaatcgtgtggtagaggaggaa
+            cagcaacagcaactcagacaacaagaggaggagcacactgcaaggaatggtgaagttgtt
+            ggagtagaacctagacctggaggccaaaatgattcccagcaaggacagttggaagaaaac
+            aataatagatttatttcggtagatgaggactcctcaggaaaccaagaagaacaagaggaa
+            gatgaagaacatgctggtgaacaagatgaggaggatgaggaggaggaggagatggaccag
+            gagagtgacgattttgatcagtctgatgatagtagcagagaagatgaacatacacatact
+            aacagtgtcacgaactccagtagtattgtggacctgcccgttcaccaactctcctcccca
+            ttctatacaaaaacaacaaaaatgaaaagaaagttggaccatggttctgaggtccgctct
+            ttttctttgggaaagaaaccatgcaaagtctcagaatatacaagtaccactgggcttgta
+            ccatgttcagcaacaccaacaacttttggggacctcagagcagccaatggccaagggcaa
+            caacgacgccgaattacatctgtccagccacctacaggcctccaggaatggctaaaaatg
+            tttcagagctggagtggaccagagaaattgcttgctttagatgaactcattgatagttgt
+            gaaccaacacaagtaaaacatatgatgcaagtgatagaaccccagtttcaacgagacttc
+            atttcattgctccctaaagagttggcactctatgtgctttcattcctggaacccaaagac
+            ctgctacaagcagctcagacatgtcgctactggagaattttggctgaagacaaccttctc
+            tggagagagaaatgcaaagaagaggggattgatgaaccattgcacatcaagagaagaaaa
+            gtaataaaaccaggtttcatacacagtccatggaaaagtgcatacatcagacagcacaga
+            attgatactaactggaggcgaggagaactcaaatctcctaaggtgctgaaaggacatgat
+            gatcatgtgatcacatgcttacagttttgtggtaaccgaatagttagtggttctgatgac
+            aacactttaaaagtttggtcagcagtcacaggcaaatgtctgagaacattagtgggacat
+            acaggtggagtatggtcatcacaaatgagagacaacatcatcattagtggatctacagat
+            cggacactcaaagtgtggaatgcagagactggagaatgtatacacaccttatatgggcat
+            acttccactgtgcgttgtatgcatcttcatgaaaaaagagttgttagcggttctcgagat
+            gccactcttagggtttgggatattgagacaggccagtgtttacatgttttgatgggtcat
+            gttgcagcagtccgctgtgttcaatatgatggcaggagggttgttagtggagcatatgat
+            tttatggtaaaggtgtgggatccagagactgaaacctgtctacacacgttgcaggggcat
+            actaatagagtctattcattacagtttgatggtatccatgtggtgagtggatctcttgat
+            acatcaatccgtgtttgggatgtggagacagggaattgcattcacacgttaacagggcac
+            cagtcgttaacaagtggaatggaactcaaagacaatattcttgtctctgggaatgcagat
+            tctacagttaaaatctgggatatcaaaacaggacagtgtttacaaacattgcaaggtccc
+            aacaagcatcagagtgctgtgacctgtttacagttcaacaagaactttgtaattaccagc
+            tcagatgatggaactgtaaaactatgggacttgaaaacgggtgaatttattcgaaaccta
+            gtcacattggagagtggggggagtgggggagttgtgtggcggatcagagcctcaaacaca
+            aagctggtgtgtgcagttgggagtcggaatgggactgaagaaaccaagctgctggtgctg
+            gactttgatgtggacatgaagtga
+///

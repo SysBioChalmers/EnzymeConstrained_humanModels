@@ -1,0 +1,120 @@
+ENTRY       5593              CDS       T01001
+NAME        PRKG2, PRKGR2, cGK2, cGKII
+DEFINITION  (RefSeq) protein kinase, cGMP-dependent, type II
+ORTHOLOGY   K19477  cGMP-dependent protein kinase 2 [EC:2.7.11.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04540  Gap junction
+            hsa04611  Platelet activation
+            hsa04713  Circadian entrainment
+            hsa04730  Long-term depression
+            hsa04740  Olfactory transduction
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04924  Renin secretion
+            hsa04970  Salivary secretion
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04022 cGMP - PKG signaling pathway
+                5593 (PRKG2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                5593 (PRKG2)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                5593 (PRKG2)
+              Endocrine system
+               04923 Regulation of lipolysis in adipocyte
+                5593 (PRKG2)
+               04924 Renin secretion
+                5593 (PRKG2)
+              Digestive system
+               04970 Salivary secretion
+                5593 (PRKG2)
+              Nervous system
+               04730 Long-term depression
+                5593 (PRKG2)
+              Sensory system
+               04740 Olfactory transduction
+                5593 (PRKG2)
+              Environmental adaptation
+               04713 Circadian entrainment
+                5593 (PRKG2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.12  cGMP-dependent protein kinase
+                 5593 (PRKG2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              PKG family
+               5593 (PRKG2)
+POSITION    4q21.21
+MOTIF       Pfam: Pkinase cNMP_binding Pkinase_Tyr Kinase-like MPS2 DUF3552 APH Spc7 FeoB_N Adenine_glyco ATG16 FAM76 DUF16 IncA
+DBLINKS     NCBI-GeneID: 5593
+            NCBI-ProteinID: NP_006250
+            OMIM: 601591
+            HGNC: 9416
+            Ensembl: ENSG00000138669
+            Vega: OTTHUMG00000130296
+            Pharos: Q13237(Tchem)
+            UniProt: Q13237 A0A140VJM3
+STRUCTURE   PDB: 5JIX 5JIZ 5C8W 5BV6 5C6C
+AASEQ       762
+            MGNGSVKPKHSKHPDGHSGNLTTDALRNKVTELERELRRKDAEIQEREYHLKELREQLSK
+            QTVAIAELTEELQNKCIQLNKLQDVVHMQGGSPLQASPDKVPLEVHRKTSGLVSLHSRRG
+            AKAGVSAEPTTRTYDLNKPPEFSFEKARVRKDSSEKKLITDALNKNQFLKRLDPQQIKDM
+            VECMYGRNYQQGSYIIKQGEPGNHIFVLAEGRLEVFQGEKLLSSIPMWTTFGELAILYNC
+            TRTASVKAITNVKTWALDREVFQNIMRRTAQARDEQYRNFLRSVSLLKNLPEDKLTKIID
+            CLEVEYYDKGDYIIREGEEGSTFFILAKGKVKVTQSTEGHDQPQLIKTLQKGEYFGEKAL
+            ISDDVRSANIIAEENDVACLVIDRETFNQTVGTFEELQKYLEGYVANLNRDDEKRHAKRS
+            MSNWKLSKALSLEMIQLKEKVARFSSSSPFQNLEIIATLGVGGFGRVELVKVKNENVAFA
+            MKCIRKKHIVDTKQQEHVYSEKRILEELCSPFIVKLYRTFKDNKYVYMLLEACLGGELWS
+            ILRDRGSFDEPTSKFCVACVTEAFDYLHRLGIIYRDLKPENLILDAEGYLKLVDFGFAKK
+            IGSGQKTWTFCGTPEYVAPEVILNKGHDFSVDFWSLGILVYELLTGNPPFSGVDQMMTYN
+            LILKGIEKMDFPRKITRRPEDLIRRLCRQNPTERLGNLKNGINDIKKHRWLNGFNWEGLK
+            ARSLPSPLQRELKGPIDHSYFDKYPPEKGMPPDELSGWDKDF
+NTSEQ       2289
+            atgggaaatggttcagtgaaacctaaacattctaagcacccagatggacactctgggaac
+            ctcaccactgatgctctgcggaacaaggtgacagagctggagagagagttgaggaggaag
+            gatgctgagatccaggagcgggagtaccatttgaaggagctgcgggagcagctgtcgaag
+            cagactgtggccattgctgaactcacagaggagctccagaacaagtgcatccagctgaac
+            aagctgcaggatgtggtgcatatgcagggaggaagcccgcttcaggcctctccagataaa
+            gtgcctcttgaggtccaccggaagacctctggattggtctctctccatagcaggagggga
+            gcaaaggctggcgtgtctgctgagccaacaacccggacctatgacctgaacaaaccccct
+            gaattttcctttgagaaagcaagagtcagaaaagactccagtgagaagaagctcattaca
+            gatgcccttaataaaaatcagtttctgaaaagactggatcctcagcagatcaaagacatg
+            gtggaatgcatgtatgggagaaactatcagcaagggagttacattattaagcaaggagaa
+            ccaggaaaccatatctttgtgctggcagagggtcgactagaggtgttccaaggggagaaa
+            ttgctgtcctccatccctatgtggaccacatttggggagcttgccattttatacaattgt
+            acaaggactgcctctgtgaaagctattaccaatgttaaaacatgggcactagatcgagag
+            gtattccagaatataatgaggaggacagcccaagctagagatgaacaatacagaaacttc
+            ctcagaagtgtatccttgctgaagaatttacctgaagataaattaaccaagatcattgac
+            tgcttggaagtggaatactatgacaaaggagattacatcattagagagggcgaggaagga
+            agtacctttttcattttggcaaaaggaaaggtaaaagtaacacagagcacagaaggccat
+            gatcaaccacagctgataaaaacactgcagaaaggagaatactttggagaaaaagctctt
+            atcagtgatgatgtcaggtcagctaacattattgctgaagaaaatgatgttgcatgcctg
+            gttatagatcgagaaacattcaaccaaactgtcggtacatttgaagagctgcaaaaatac
+            cttgaaggatatgtggcaaacctgaaccgtgatgatgaaaaaagacatgcgaagcggtcc
+            atgtctaactggaagctgtccaaagcactctctctggaaatgattcagctgaaggagaag
+            gtggccagattttcctcatcatccccattccagaaccttgagattattgcaacactgggc
+            gttggtgggttcggaagagttgagcttgttaaagtaaaaaatgagaatgttgcttttgct
+            atgaagtgtataaggaagaagcacatagttgacaccaagcagcaggagcatgtctactca
+            gagaagaggatcctagaggagctgtgctctccattcattgtgaaattatatcgtactttc
+            aaggacaataagtatgtatacatgcttctggaggcctgcttaggtggggagctctggagt
+            atattaagggacagaggcagctttgatgaacccacctccaaattctgcgttgcttgtgtg
+            acagaagcatttgattacctgcatcgactaggtattatctacagagacttgaaaccagaa
+            aacttaattctagatgctgagggttaccttaaattggttgactttggatttgcgaagaaa
+            atagggtctggacagaaaacatggacattctgtgggactccagaatatgtagctcctgaa
+            gtcattctcaacaagggacatgacttcagtgtggatttctggtcactgggaattctagtg
+            tatgagctcctaacgggcaacccacccttttctggggttgaccaaatgatgacctacaat
+            ttgattctcaaaggaattgaaaaaatggattttcccaggaagataacacgacgacctgag
+            gatttgattcggaggctttgcaggcaaaatccaacagaaaggctgggaaatctgaagaat
+            ggaataaatgacattaagaaacacaggtggttaaatggttttaattgggagggactgaaa
+            gcacggagccttccatcacctttgcaaagagagctcaagggacccatagatcacagctac
+            tttgacaaatatcctcctgaaaagggaatgcctccagatgagctatcaggctgggataaa
+            gacttctga
+///

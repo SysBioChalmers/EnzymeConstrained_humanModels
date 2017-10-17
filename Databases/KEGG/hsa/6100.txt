@@ -1,0 +1,54 @@
+ENTRY       6100              CDS       T01001
+NAME        RP9, PAP-1, PAP1
+DEFINITION  (RefSeq) RP9, pre-mRNA splicing factor
+ORTHOLOGY   K19604  retinitis pigmentosa 9 protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+DISEASE     H00527  Retinitis pigmentosa (RP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                6100 (RP9)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U2 snRNP components
+               U2 related factors
+                6100 (RP9)
+             Complex B
+                6100 (RP9)
+              U4/U6.U5 tri-snRNP components
+               U4/U6.U5 tri-snRNP related factors
+                6100 (RP9)
+             Complex C
+               U4/U6.U5 tri-SnRNP related factors
+                6100 (RP9)
+POSITION    7p14.3
+MOTIF       Pfam: Med19 RNA_polI_A34 SR-25 AP3D1 Ydc2-catalyt
+DBLINKS     NCBI-GeneID: 6100
+            NCBI-ProteinID: NP_976033
+            OMIM: 607331
+            HGNC: 10288
+            Ensembl: ENSG00000164610
+            Vega: OTTHUMG00000152988
+            Pharos: Q8TA86(Tbio)
+            UniProt: Q8TA86 A0A090N8Z0
+AASEQ       221
+            MSSRPGREDVGAAGARRPREPPEQELQRRREQKRRRHDAQQLQQLKHLESFYEKPPPGLI
+            KEDETKPEDCIPDVPGNEHAREFLAHAPTKGLWMPLGKEVKVMQCWRCKRYGHRTGDKEC
+            PFFIKGNQKLEQFRVAHEDPMYDIIRDNKRHEKDVRIQQLKQLLEDSTSDEDRSSSSSSE
+            GKEKHKKKKKKEKHKKRKKEKKKKKKRKHKSSKSNEGSDSE
+NTSEQ       666
+            atgtcgtcccggcctgggcgcgaggacgtgggggctgcgggcgcgcggcggccgcgtgag
+            ccgccggagcaggagctgcagcgacgtcgggagcagaagcggcggcgacacgacgcgcag
+            cagctgcagcagctcaagcacctggagtccttttacgaaaaacctcctcctgggcttatc
+            aaggaagatgagactaagccagaagattgcataccagatgtaccaggcaatgaacacgcc
+            agggaatttctggctcatgcaccaactaaaggactttggatgccactggggaaagaagtc
+            aaagttatgcagtgttggcgttgcaaacgctatggtcaccgaacgggtgacaaagaatgc
+            cctttctttatcaaaggcaaccaaaagttagagcagttcagagtggcacatgaagatccc
+            atgtatgacatcatacgagacaataaacgacatgaaaaggacgtaaggatacagcagtta
+            aaacagttactggaggattctacctcagatgaagataggagcagctccagttcctctgaa
+            ggtaaagagaaacacaagaaaaagaagaagaaagaaaagcataagaaaaggaagaaagaa
+            aagaaaaagaagaaaaaacggaagcacaaatcttccaagtcaaatgagggttctgactca
+            gagtga
+///

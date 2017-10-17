@@ -1,0 +1,109 @@
+ENTRY       5528              CDS       T01001
+NAME        PPP2R5D, B56D, B56delta, MRD35
+DEFINITION  (RefSeq) protein phosphatase 2 regulatory subunit B'delta
+ORTHOLOGY   K11584  serine/threonine-protein phosphatase 2A regulatory subunit B'
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04728  Dopaminergic synapse
+            hsa05165  Human papillomavirus infection
+DISEASE     H00773  Autosomal dominant mental retardation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                5528 (PPP2R5D)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                5528 (PPP2R5D)
+               04151 PI3K-Akt signaling pathway
+                5528 (PPP2R5D)
+               04152 AMPK signaling pathway
+                5528 (PPP2R5D)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                5528 (PPP2R5D)
+             Organismal Systems
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                5528 (PPP2R5D)
+              Nervous system
+               04728 Dopaminergic synapse
+                5528 (PPP2R5D)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                5528 (PPP2R5D)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-2 (PP2A)
+                Regulatory subunits
+                 5528 (PPP2R5D)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centromeric chromatin formation proteins
+               Other centromeric chromatin formation proteins
+                PP2A (protein phosphatase 2A)
+                 5528 (PPP2R5D)
+POSITION    6p21.1
+MOTIF       Pfam: B56 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 5528
+            NCBI-ProteinID: NP_006236
+            OMIM: 601646
+            HGNC: 9312
+            Ensembl: ENSG00000112640
+            Vega: OTTHUMG00000014716
+            Pharos: Q14738(Tbio)
+            UniProt: Q14738 A0A024RD11
+AASEQ       602
+            MPYKLKKEKEPPKVAKCTAKPSSSGKDGGGENTEEAQPQPQPQPQPQAQSQPPSSNKRPS
+            NSTPPPTQLSKIKYSGGPQIVKKERRQSSSRFNLSKNRELQKLPALKDSPTQEREELFIQ
+            KLRQCCVLFDFVSDPLSDLKFKEVKRAGLNEMVEYITHSRDVVTEAIYPEAVTMFSVNLF
+            RTLPPSSNPTGAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFV
+            LALLDLFDSEDPRERDFLKTILHRIYGKFLGLRAYIRRQINHIFYRFIYETEHHNGIAEL
+            LEILGSIINGFALPLKEEHKMFLIRVLLPLHKVKSLSVYHPQLAYCVVQFLEKESSLTEP
+            VIVGLLKFWPKTHSPKEVMFLNELEEILDVIEPSEFSKVMEPLFRQLAKCVSSPHFQVAE
+            RALYYWNNEYIMSLISDNAARVLPIMFPALYRNSKSHWNKTIHGLIYNALKLFMEMNQKL
+            FDDCTQQYKAEKQKGRFRMKEREEMWQKIEELARLNPQYPMFRAPPPLPPVYSMETETPT
+            AEDIQLLKRTVETEAVQMLKDIKKEKVLLRRKSELPQDVYTIKALEAHKRAEEFLTASQE
+            AL
+NTSEQ       1809
+            atgccctataaactgaaaaaggagaaggagccccccaaggttgccaaatgcacagccaag
+            cctagcagctcgggcaaggatggtggaggcgagaacactgaggaggcccagccgcagccc
+            cagccccagccccagccccaagcccagtctcagccaccgtcatccaacaagcgtcccagc
+            aatagcacgccgccccccacgcagctcagcaaaatcaagtactcaggggggccccagatt
+            gtcaagaaggagcgacggcaaagctcctcccgcttcaacctcagcaagaatcgggagctg
+            cagaagcttcctgccctgaaagattcgccaacccaggagcgggaggagctgtttatccag
+            aagctacgccagtgctgtgtcctctttgacttcgtgtcagacccactcagtgacctcaaa
+            ttcaaggaggtgaagcgggcaggactcaacgagatggtggagtacatcacccatagccgt
+            gatgttgtcactgaggccatttaccctgaggctgtcaccatgttttcagtgaacctcttc
+            cggacgctgccaccttcatcgaatcccacaggggctgagtttgacccagaggaagatgag
+            cccaccctggaagctgcttggccacatctccagctcgtgtatgagttcttcttacgtttc
+            cttgagtctcctgatttccagccaaacatagccaagaagtacatcgaccagaagtttgta
+            cttgctctcctagacctatttgacagtgaggatcctcgagagcgggacttcctcaagacc
+            attttgcatcgcatctatggcaagtttttggggctccgggcttatatccgtaggcagatc
+            aaccacatcttctacaggttcatctacgagacggagcatcacaacgggattgctgagctc
+            ctggagatcctgggcagcatcatcaatggctttgccctgccccttaaagaagagcacaag
+            atgttcctcatccgtgtcctacttccccttcacaaggtcaagtccctgagtgtctaccac
+            cctcagctggcatactgtgtggtacaattcctggagaaggagagcagtctgactgagccg
+            gtaattgtgggacttctcaagttttggcccaagacccacagccccaaggaggtgatgttc
+            ttgaatgagctggaggagattctggacgtcattgaaccttctgagttcagcaaagtgatg
+            gaacccctcttccgccagctggccaagtgtgtctctagcccccatttccaggtggcagag
+            cgtgctctctattactggaacaatgagtacatcatgagcctgataagtgacaatgctgcc
+            cgagtcctccccatcatgttccctgcactctacaggaactccaagagccactggaacaag
+            acaatccatggactgatctataatgccctgaagttgtttatggaaatgaatcagaagctg
+            tttgatgactgcacacaacaatacaaggcagagaagcagaagggccggttccgaatgaag
+            gaaagggaagagatgtggcaaaaaatcgaggagctggcccggcttaatccccagtatccc
+            atgttccgagcccctccaccactgccccctgtgtactcgatggagacagagacccccaca
+            gctgaggacatccagcttctgaagaggactgtggagactgaggctgttcagatgctaaaa
+            gacatcaagaaggagaaagtgctgctgcggaggaagtcggagctgccccaggacgtgtac
+            accatcaaggcactggaggcgcacaagcgggcggaagagttcctaactgccagccaggag
+            gctctctga
+///

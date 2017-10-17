@@ -1,0 +1,92 @@
+ENTRY       4512              CDS       T01001
+NAME        COX1, COI, MTCO1, MT-CO1
+DEFINITION  (RefSeq) cytochrome c oxidase subunit I
+ORTHOLOGY   K02256  cytochrome c oxidase subunit 1 [EC:1.9.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00154  Cytochrome c oxidase
+DISEASE     H00068  Leber hereditary optic atrophy (LHON)
+            H01368  Cytochrome c oxidase (COX) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4512 (COX1)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                4512 (COX1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4512 (COX1)
+               05012 Parkinson's disease
+                4512 (COX1)
+               05016 Huntington's disease
+                4512 (COX1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4512 (COX1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.9  Acting on a heme group of donors
+               1.9.3  With oxygen as acceptor
+                1.9.3.1  cytochrome-c oxidase
+                 4512 (COX1)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Cytochrome c oxidase
+                4512 (COX1)
+POSITION    MT
+MOTIF       Pfam: COX1
+DBLINKS     NCBI-GeneID: 4512
+            NCBI-ProteinID: YP_003024028
+            OMIM: 516030
+            HGNC: 7419
+            Pharos: P00395(Tchem)
+            UniProt: P00395 U5YWV7
+AASEQ       513
+            MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTA
+            HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEA
+            GAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQ
+            TPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGH
+            PEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWAMMSIGFLGFIVWAHHMFTVGMDVD
+            TRAYFTSATMIIAIPTGVKVFSWLATLHGSNMKWSAAVLWALGFIFLFTVGGLTGIVLAN
+            SSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQTYAKIHFTIMFIG
+            VNLTFFPQHFLGLSGMPRRYSDYPDAYTTWNILSSVGSFISLTAVMLMIFMIWEAFASKR
+            KVLMVEEPSMNLEWLYGCPPPYHTFEEPVYMKS
+NTSEQ       1542
+            atgttcgccgaccgttgactattctctacaaaccacaaagacattggaacactataccta
+            ttattcggcgcatgagctggagtcctaggcacagctctaagcctccttattcgagccgag
+            ctgggccagccaggcaaccttctaggtaacgaccacatctacaacgttatcgtcacagcc
+            catgcatttgtaataatcttcttcatagtaatacccatcataatcggaggctttggcaac
+            tgactagttcccctaataatcggtgcccccgatatggcgtttccccgcataaacaacata
+            agcttctgactcttacctccctctctcctactcctgctcgcatctgctatagtggaggcc
+            ggagcaggaacaggttgaacagtctaccctcccttagcagggaactactcccaccctgga
+            gcctccgtagacctaaccatcttctccttacacctagcaggtgtctcctctatcttaggg
+            gccatcaatttcatcacaacaattatcaatataaaaccccctgccataacccaataccaa
+            acgcccctcttcgtctgatccgtcctaatcacagcagtcctacttctcctatctctccca
+            gtcctagctgctggcatcactatactactaacagaccgcaacctcaacaccaccttcttc
+            gaccccgccggaggaggagaccccattctataccaacacctattctgatttttcggtcac
+            cctgaagtttatattcttatcctaccaggcttcggaataatctcccatattgtaacttac
+            tactccggaaaaaaagaaccatttggatacataggtatggtctgagctatgatatcaatt
+            ggcttcctagggtttatcgtgtgagcacaccatatatttacagtaggaatagacgtagac
+            acacgagcatatttcacctccgctaccataatcatcgctatccccaccggcgtcaaagta
+            tttagctgactcgccacactccacggaagcaatatgaaatgatctgctgcagtgctctga
+            gccctaggattcatctttcttttcaccgtaggtggcctgactggcattgtattagcaaac
+            tcatcactagacatcgtactacacgacacgtactacgttgtagcccacttccactatgtc
+            ctatcaataggagctgtatttgccatcataggaggcttcattcactgatttcccctattc
+            tcaggctacaccctagaccaaacctacgccaaaatccatttcactatcatattcatcggc
+            gtaaatctaactttcttcccacaacactttctcggcctatccggaatgccccgacgttac
+            tcggactaccccgatgcatacaccacatgaaacatcctatcatctgtaggctcattcatt
+            tctctaacagcagtaatattaataattttcatgatttgagaagccttcgcttcgaagcga
+            aaagtcctaatagtagaagaaccctccataaacctggagtgactatatggatgcccccca
+            ccctaccacacattcgaagaacccgtatacataaaatctaga
+///

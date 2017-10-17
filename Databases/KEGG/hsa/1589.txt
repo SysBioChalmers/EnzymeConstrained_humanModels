@@ -1,0 +1,79 @@
+ENTRY       1589              CDS       T01001
+NAME        CYP21A2, CA21H, CAH1, CPS1, CYP21, CYP21B, P450c21B
+DEFINITION  (RefSeq) cytochrome P450 family 21 subfamily A member 2
+ORTHOLOGY   K00513  steroid 21-monooxygenase [EC:1.14.14.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04925  Aldosterone synthesis and secretion
+MODULE      hsa_M00108  C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone
+            hsa_M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone
+DISEASE     H00216  Congenital adrenal hyperplasia (CAH)
+            H00599  46,XX disorders of sex development (Disorders related to androgen excess)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1589 (CYP21A2)
+             Organismal Systems
+              Endocrine system
+               04925 Aldosterone synthesis and secretion
+                1589 (CYP21A2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.16  steroid 21-monooxygenase
+                 1589 (CYP21A2)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP21 family
+               1589 (CYP21A2)
+POSITION    6p21.33
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1589
+            NCBI-ProteinID: NP_000491
+            OMIM: 613815
+            HGNC: 2600
+            Ensembl: ENSG00000231852
+            Vega: OTTHUMG00000031069
+            Pharos: P08686(Tbio)
+            UniProt: P08686 Q16874 Q08AG9
+STRUCTURE   PDB: 4Y8W 5VBU
+AASEQ       495
+            MLLLGLLLLLPLLAGARLLWNWWKLRSLHLPPLAPGFLHLLQPDLPIYLLGLTQKFGPIY
+            RLHLGLQDVVVLNSKRTIEEAMVKKWADFAGRPEPLTYKLVSRNYPDLSLGDYSLLWKAH
+            KKLTRSALLLGIRDSMEPVVEQLTQEFCERMRAQPGTPVAIEEEFSLLTCSIICYLTFGD
+            KIKDDNLMPAYYKCIQEVLKTWSHWSIQIVDVIPFLRFFPNPGLRRLKQAIEKRDHIVEM
+            QLRQHKESLVAGQWRDMMDYMLQGVAQPSMEEGSGQLLEGHVHMAAVDLLIGGTETTANT
+            LSWAVVFLLHHPEIQQRLQEELDHELGPGASSSRVPYKDRARLPLLNATIAEVLRLRPVV
+            PLALPHRTTRPSSISGYDIPEGTVIIPNLQGAHLDETVWERPHEFWPDRFLEPGKNSRAL
+            AFGCGARVCLGEPLARLELFVVLTRLLQAFTLLPSGDALPSLQPLPHCSVILKMQPFQVR
+            LQPRGMGAHSPGQSQ
+NTSEQ       1488
+            atgctgctcctgggcctgctgctgctgctgcccctgctggctggcgcccgcctgctgtgg
+            aactggtggaagctccggagcctccacctcccgcctcttgccccgggcttcttgcacctg
+            ctgcagcccgacctccccatctatctgcttggcctgactcagaaattcgggcccatctac
+            aggctccaccttgggctgcaagatgtggtggtgctgaactccaagaggaccattgaggaa
+            gccatggtcaaaaagtgggcagactttgctggcagacctgagccacttacctacaagctg
+            gtgtctaggaactacccggacctgtccttgggagactactccctgctctggaaagcccac
+            aagaagctcacccgctcagccctgctgctgggcatccgtgactccatggagccagtggtg
+            gagcagctgacccaggagttctgtgagcgcatgagagcccagcccggcacccctgtggcc
+            attgaggaggaattctctctcctcacctgcagcatcatctgttacctcaccttcggagac
+            aagatcaaggacgacaacttaatgcctgcctattacaaatgtatccaggaggtgttaaaa
+            acctggagccactggtccatccaaattgtggacgtgattccctttctcaggttcttcccc
+            aatccaggtctccggaggctgaagcaggccatagagaagagggatcacatcgtggagatg
+            cagctgaggcagcacaaggagagcctcgtggcaggccagtggagggacatgatggactac
+            atgctccaaggggtggcgcagccgagcatggaagagggctctggacagctcctggaaggg
+            cacgtgcacatggctgcagtggacctcctgatcggtggcactgagaccacagcaaacacc
+            ctctcctgggccgtggtttttttgcttcaccaccctgagattcagcagcgactgcaggag
+            gagctagaccacgaactgggccctggtgcctccagctcccgggtcccctacaaggaccgt
+            gcacggctgcccttgctcaatgccaccatcgccgaggtgctgcgcctgcggcccgttgtg
+            cccttagccttgccccaccgcaccacacggcccagcagcatctccggctacgacatccct
+            gagggcacagtcatcattccgaacctccaaggcgcccacctggatgagacggtctgggag
+            aggccacatgagttctggcctgatcgcttcctggagccaggcaagaactccagagctctg
+            gccttcggctgcggtgcccgcgtgtgcctgggcgagccgctggcgcgcctggagctcttc
+            gtggtgctgacccgactgctgcaggccttcacgctgctgccctccggggacgccctgccc
+            tccctgcagcccctgccccactgcagtgtcatcctcaagatgcagcctttccaagtgcgg
+            ctgcagccccgggggatgggggcccacagcccgggccagagccagtga
+///

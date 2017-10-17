@@ -1,0 +1,84 @@
+ENTRY       56922             CDS       T01001
+NAME        MCCC1, MCC-B, MCCA
+DEFINITION  (RefSeq) methylcrotonoyl-CoA carboxylase 1
+ORTHOLOGY   K01968  3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+DISEASE     H00181  3-Methylcrotonylglycinuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                56922 (MCCC1)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.4  Forming carbon-carbon bonds
+               6.4.1  Ligases that form carbon-carbon bonds (only sub-subclass identified to date)
+                6.4.1.4  methylcrotonoyl-CoA carboxylase
+                 56922 (MCCC1)
+POSITION    3q27.1
+MOTIF       Pfam: CPSase_L_D2 Biotin_carb_N Biotin_carb_C Biotin_lipoyl Dala_Dala_lig_C ATP-grasp ATPgrasp_Ter Biotin_lipoyl_2 ATP-grasp_3 RimK ATPgrasp_ST ATP-grasp_4 GARS_A RnfC_N HlyD_D23 NQRA DUF2118
+DBLINKS     NCBI-GeneID: 56922
+            NCBI-ProteinID: NP_064551
+            OMIM: 609010
+            HGNC: 6936
+            Ensembl: ENSG00000078070
+            Vega: OTTHUMG00000158355
+            Pharos: Q96RQ3(Tbio)
+            UniProt: Q96RQ3 A0A0S2Z693
+STRUCTURE   PDB: 2EJM
+AASEQ       725
+            MAAASAVSVLLVAAERNRWHRLPSLLLPPRTWVWRQRTMKYTTATGRNITKVLIANRGEI
+            ACRVMRTAKKLGVQTVAVYSEADRNSMHVDMADEAYSIGPAPSQQSYLSMEKIIQVAKTS
+            AAQAIHPGCGFLSENMEFAELCKQEGIIFIGPPPSAIRDMGIKSTSKSIMAAAGVPVVEG
+            YHGEDQSDQCLKEHARRIGYPVMIKAVRGGGGKGMRIVRSEQEFQEQLESARREAKKSFN
+            DDAMLIEKFVDTPRHVEVQVFGDHHGNAVYLFERDCSVQRRHQKIIEEAPAPGIKSEVRK
+            KLGEAAVRAAKAVNYVGAGTVEFIMDSKHNFCFMEMNTRLQVEHPVTEMITGTDLVEWQL
+            RIAAGEKIPLSQEEITLQGHAFEARIYAEDPSNNFMPVAGPLVHLSTPRADPSTRIETGV
+            RQGDEVSVHYDPMIAKLVVWAADRQAALTKLRYSLRQYNIVGLHTNIDFLLNLSGHPEFE
+            AGNVHTDFIPQHHKQLLLSRKAAAKESLCQAALGLILKEKAMTDTFTLQAHDQFSPFSSS
+            SGRRLNISYTRNMTLKDGKNNVAIAVTYNHDGSYSMQIEDKTFQVLGNLYSEGDCTYLKC
+            SVNGVASKAKLIILENTIYLFSKEGSIEIDIPVPKYLSSVSSQETQGGPLAPMTGTIEKV
+            FVKAGDKVKAGDSLMVMIAMKMEHTIKSPKDGTVKKVFYREGAQANRHTPLVEFEEEESD
+            KRESE
+NTSEQ       2178
+            atggcggcggcctctgcggtgtcggtgctgctggtggcggcggagaggaaccggtggcat
+            cgtctcccgagcctgctcctgccgccgaggacatgggtgtggaggcaaagaaccatgaag
+            tacacaacagccacaggaagaaacattaccaaggtcctcattgcaaacagaggagaaatt
+            gcctgcagggtgatgcgcacagccaaaaaactgggtgtacagactgtggcggtttatagt
+            gaggctgacagaaattccatgcatgtagatatggcagatgaagcatattccatcggcccc
+            gctccctcccagcagagctacctatctatggagaaaatcattcaagtggccaagacctct
+            gctgcacaggctatccatccaggatgcggttttctctcagaaaacatggaatttgctgaa
+            ctttgtaagcaagaaggaattatttttataggccctcctccatctgcaattagagacatg
+            ggtataaagagcacatccaaatccataatggctgctgctggagtacctgttgtggagggt
+            tatcatggtgaggaccaatcagaccagtgcctgaaggaacacgccaggagaattggctat
+            cctgtcatgattaaagccgtccggggtggaggaggaaaaggaatgaggattgttagatca
+            gaacaagaatttcaagaacagttagagtcagcacggagagaagctaagaagtctttcaat
+            gatgatgctatgctgatcgagaagtttgtagacacaccgaggcatgtagaagtccaggtg
+            tttggtgatcaccatggcaatgctgtgtacttgtttgaaagagactgtagtgtgcagagg
+            cgacatcagaagatcattgaggaggccccagcgcctggtattaaatctgaagtaagaaaa
+            aagctgggagaagctgcagtcagagctgctaaagctgtaaattatgttggagcagggact
+            gtggagtttattatggactcaaaacataatttctgtttcatggagatgaatacaaggctg
+            caagtggaacatcctgttactgagatgatcacaggaactgacttggtggagtggcagctt
+            agaattgcagcaggagagaagattcctttgagccaggaagaaataactctgcagggccat
+            gccttcgaagctagaatatatgcagaagatcctagcaataacttcatgcctgtggcaggc
+            ccattagtgcacctctctactcctcgagcagacccttccaccaggattgaaactggagta
+            cggcaaggagacgaagtttccgtgcattatgaccccatgattgcgaagctggtcgtgtgg
+            gcagcagatcgccaggcggcattgacaaaactgaggtacagccttcgtcagtacaatatt
+            gttggactgcacaccaacattgacttcttactcaacctgtctggccacccagagtttgaa
+            gctgggaacgtgcacactgatttcatccctcaacaccacaaacagttgttgctcagtcgg
+            aaggctgcagccaaagagtctttatgccaggcagccctgggtctcatcctcaaggagaaa
+            gccatgaccgacactttcactcttcaggcacatgatcaattctctccattttcgtctagc
+            agtggaagaagactgaatatctcgtataccagaaacatgactcttaaagatggtaaaaac
+            aatgtagccatagctgtaacgtataaccatgatgggtcttatagcatgcagattgaagat
+            aaaactttccaagtccttggtaatctttacagcgagggagactgcacttacctgaaatgt
+            tctgttaatggagttgctagtaaagcgaagctgattatcctggaaaacactatttaccta
+            ttttccaaggaaggaagtattgagattgacattccagtccccaaatacttatcttctgtg
+            agctcacaagaaactcagggcggccccttagctcctatgactggaaccattgaaaaggtg
+            tttgtcaaagctggagacaaagtgaaagcgggagattccctcatggttatgatcgccatg
+            aagatggagcataccataaagtctccaaaggatggcacagtaaagaaagtgttctacaga
+            gaaggtgctcaggccaacagacacactcctttagtcgagtttgaggaggaagaatcagac
+            aaaagggaatcggaataa
+///

@@ -1,0 +1,63 @@
+ENTRY       123263            CDS       T01001
+NAME        MTFMT, COXPD15, FMT1
+DEFINITION  (RefSeq) mitochondrial methionyl-tRNA formyltransferase
+ORTHOLOGY   K00604  methionyl-tRNA formyltransferase [EC:2.1.2.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00670  One carbon pool by folate
+            hsa00970  Aminoacyl-tRNA biosynthesis
+DISEASE     H00891  Combined oxidative phosphorylation deficiency (COXPD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                123263 (MTFMT)
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                123263 (MTFMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.2  Hydroxymethyl-, formyl- and related transferases
+                2.1.2.9  methionyl-tRNA formyltransferase
+                 123263 (MTFMT)
+POSITION    15q22.31
+MOTIF       Pfam: Formyl_trans_N Formyl_trans_C
+DBLINKS     NCBI-GeneID: 123263
+            NCBI-ProteinID: NP_640335
+            OMIM: 611766
+            HGNC: 29666
+            Ensembl: ENSG00000103707
+            Vega: OTTHUMG00000172371
+            Pharos: Q96DP5(Tbio)
+            UniProt: Q96DP5
+AASEQ       389
+            MRVLVRRCWGPPLAHGARRGRPSPQWRALARLGWEDCRDSRVREKPPWRVLFFGTDQFAR
+            EALRALHAARENKEEELIDKLEVVTMPSPSPKGLPVKQYAVQSQLPVYEWPDVGSGEYDV
+            GVVASFGRLLNEALILKFPYGILNVHPSCLPRWRGPAPVIHTVLHGDTVTGVTIMQIRPK
+            RFDVGPILKQETVPVPPKSTAKELEAVLSRLGANMLISVLKNLPESLSNGRQQPMEGATY
+            APKISAGTSCIKWEEQTSEQIFRLYRAIGNIIPLQTLWMANTIKLLDLVEVNSSVLADPK
+            LTGQALIPGSVIYHKQSQILLVYCKDGWIGVRSVMLKKSLTATDFYNGYLHPWYQKNSQA
+            QPSQCRFQTLRLPTKKKQKKTVAMQQCIE
+NTSEQ       1170
+            atgagggtgttggtgcggcgctgttggggtcctccgctggctcatggcgccaggcgtggg
+            aggccgagtccccagtggcgagcactggcccgactcggctgggaggactgccgggactcc
+            agagtccgcgagaagcctccctggcgggtgctcttcttcggcacggaccagttcgcccgc
+            gaggcgctgcgggcgctgcacgccgccagggaaaacaaagaagaagagttaatcgacaaa
+            ctggaggtggtcacaatgccttccccatcaccaaaaggactgccagtgaagcaatatgct
+            gtgcagtctcagcttcccgtatatgagtggccggatgtgggatctggagaatatgatgtt
+            ggagtagtggcttcgtttggccgacttttgaatgaggctcttattcttaaatttccctat
+            ggcatattgaatgttcatcccagttgcctcccgagatggcgtggcccagcccctgtaatc
+            catacagtgcttcacggagacacagttactggagtaacaattatgcaaattagacctaaa
+            aggtttgatgtaggcccaattctcaaacaagaaactgttcctgtgccacccaagagcact
+            gcaaaggaattggaagcagtgttgtcaagactgggtgccaacatgctcatttcagttttg
+            aaaaatttgcctgaaagtctgagcaatggaaggcagcagccaatggagggggcgacttac
+            gcccctaagatttctgctggtaccagttgtataaaatgggaggaacaaacttcagaacaa
+            atattcagactttaccgtgccattggaaatataattccgttgcagacgctctggatggcg
+            aataccattaaacttctggatttggtagaagttaacagttcagtccttgctgatccaaaa
+            ttaacgggacaggctcttattccaggatcagtaatataccacaaacagtcacaaatacta
+            ttggtttattgcaaggatggttggattggtgttcgatcagtgatgctcaagaaatcacta
+            acagctactgacttctacaatggatatttgcacccctggtaccagaaaaattcccaagct
+            caaccaagccaatgcagatttcagactctcagacttccaacaaagaagaagcagaaaaaa
+            actgttgctatgcaacaatgcattgagtag
+///

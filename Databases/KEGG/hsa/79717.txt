@@ -1,0 +1,55 @@
+ENTRY       79717             CDS       T01001
+NAME        PPCS
+DEFINITION  (RefSeq) phosphopantothenoylcysteine synthetase
+ORTHOLOGY   K01922  phosphopantothenate---cysteine ligase (ATP) [EC:6.3.2.51]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00770  Pantothenate and CoA biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                79717 (PPCS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.51  phosphopantothenate---cysteine ligase (ATP)
+                 79717 (PPCS)
+POSITION    1p34.2
+MOTIF       Pfam: DFP Collectrin
+DBLINKS     NCBI-GeneID: 79717
+            NCBI-ProteinID: NP_078940
+            OMIM: 609853
+            HGNC: 25686
+            Ensembl: ENSG00000127125
+            Vega: OTTHUMG00000007332
+            Pharos: Q9HAB8(Tbio)
+            UniProt: Q9HAB8
+STRUCTURE   PDB: 1P9O
+AASEQ       311
+            MAEMDPVAEFPQPPGAARWAEVMARFAARLGAQGRRVVLVTSGGTKVPLEARPVRFLDNF
+            SSGRRGATSAEAFLAAGYGVLFLYRARSAFPYAHRFPPQTWLSALRPSGPALSGLLSLEA
+            EENALPGFAEALRSYQEAAAAGTFLAVEFTTLADYLHLLQAAAQALNPLGPSAMFYLAAA
+            VSDFYVPVSEMPEHKIQSSGGPLQITMKMVPKLLSPLVKDWAPKAFIISFKLETDPAIVI
+            NRARKALEIYQHQVVVANILESRQSFVFIVTKDSETKLLLSEEEIEKGVEIEEKIVDNLQ
+            SRHTAFIGDRN
+NTSEQ       936
+            atggcggaaatggatccggtagccgagttcccccagcctcccggtgctgcgcgctgggct
+            gaggttatggctcgcttcgcggccaggctgggcgcgcagggccggcgggtggtgttggtt
+            acgtcaggcggcaccaaggtcccactggaagcgcggccggtgcgcttcctggacaacttc
+            agcagcgggcggcgcggtgcaacctcggccgaggccttcctagccgccggctacggggtc
+            ctgttcttgtatcgcgctcgctctgccttcccctatgcccaccgcttcccaccccagact
+            tggctgtccgctctgcggccttcgggcccagccctttcgggcttgctgagcctggaggcc
+            gaggagaatgcacttccgggttttgctgaggctctgaggagctaccaggaggctgcggct
+            gcaggcaccttcctggcagtagagttcaccactttggcggactatttgcatctgttgcag
+            gctgcggcccaggcactcaatccgctaggcccttctgcgatgttttacctggctgcggct
+            gtgtcagatttctatgttcctgtctctgaaatgcctgaacacaagatccagtcatctggg
+            ggcccactgcagataacaatgaagatggtgccaaaactgctttctcctttggttaaagat
+            tgggctcccaaagcatttataatttcctttaagttggagactgaccccgccattgtaatt
+            aatcgagctcggaaggctttggaaatttatcagcatcaagtggtggtggctaatatcctt
+            gagtcacgacagtcctttgtgtttattgtaaccaaagactcggaaaccaagttattgcta
+            tcagaggaagaaatagaaaaaggcgtagagatagaagagaagatagtggataatcttcag
+            tctcgacacacagcttttataggtgacagaaactga
+///

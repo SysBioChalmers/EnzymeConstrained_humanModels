@@ -1,0 +1,92 @@
+ENTRY       2023              CDS       T01001
+NAME        ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH
+DEFINITION  (RefSeq) enolase 1
+ORTHOLOGY   K01689  enolase [EC:4.2.1.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+            hsa03018  RNA degradation
+            hsa04066  HIF-1 signaling pathway
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                2023 (ENO1)
+               01230 Biosynthesis of amino acids
+                2023 (ENO1)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                2023 (ENO1)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                2023 (ENO1)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                2023 (ENO1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.11  phosphopyruvate hydratase
+                 2023 (ENO1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Prokaryotic Type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Other RNA degradosome components
+                 2023 (ENO1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               2023 (ENO1)
+POSITION    1p36.23
+MOTIF       Pfam: Enolase_C Enolase_N MR_MLE_C MAAL_C
+DBLINKS     NCBI-GeneID: 2023
+            NCBI-ProteinID: NP_001419
+            OMIM: 172430
+            HGNC: 3350
+            Ensembl: ENSG00000074800
+            Vega: OTTHUMG00000001773
+            Pharos: P06733(Tchem)
+            UniProt: P06733 A0A024R4F1
+STRUCTURE   PDB: 3B97 2PSN
+AASEQ       434
+            MSILKIHAREIFDSRGNPTVEVDLFTSKGLFRAAVPSGASTGIYEALELRDNDKTRYMGK
+            GVSKAVEHINKTIAPALVSKKLNVTEQEKIDKLMIEMDGTENKSKFGANAILGVSLAVCK
+            AGAVEKGVPLYRHIADLAGNSEVILPVPAFNVINGGSHAGNKLAMQEFMILPVGAANFRE
+            AMRIGAEVYHNLKNVIKEKYGKDATNVGDEGGFAPNILENKEGLELLKTAIGKAGYTDKV
+            VIGMDVAASEFFRSGKYDLDFKSPDDPSRYISPDQLADLYKSFIKDYPVVSIEDPFDQDD
+            WGAWQKFTASAGIQVVGDDLTVTNPKRIAKAVNEKSCNCLLLKVNQIGSVTESLQACKLA
+            QANGWGVMVSHRSGETEDTFIADLVVGLCTGQIKTGAPCRSERLAKYNQLLRIEEELGSK
+            AKFAGRNFRNPLAK
+NTSEQ       1305
+            atgtctattctcaagatccatgccagggagatctttgactctcgcgggaatcccactgtt
+            gaggttgatctcttcacctcaaaaggtctcttcagagctgctgtgcccagtggtgcttca
+            actggtatctatgaggccctagagctccgggacaatgataagactcgctatatggggaag
+            ggtgtctcaaaggctgttgagcacatcaataaaactattgcgcctgccctggttagcaag
+            aaactgaacgtcacagaacaagagaagattgacaaactgatgatcgagatggatggaaca
+            gaaaataaatctaagtttggtgcgaacgccattctgggggtgtcccttgccgtctgcaaa
+            gctggtgccgttgagaagggggtccccctgtaccgccacatcgctgacttggctggcaac
+            tctgaagtcatcctgccagtcccggcgttcaatgtcatcaatggcggttctcatgctggc
+            aacaagctggccatgcaggagttcatgatcctcccagtcggtgcagcaaacttcagggaa
+            gccatgcgcattggagcagaggtttaccacaacctgaagaatgtcatcaaggagaaatat
+            gggaaagatgccaccaatgtgggggatgaaggcgggtttgctcccaacatcctggagaat
+            aaagaaggcctggagctgctgaagactgctattgggaaagctggctacactgataaggtg
+            gtcatcggcatggacgtagcggcctccgagttcttcaggtctgggaagtatgacctggac
+            ttcaagtctcccgatgaccccagcaggtacatctcgcctgaccagctggctgacctgtac
+            aagtccttcatcaaggactacccagtggtgtctatcgaagatccctttgaccaggatgac
+            tggggagcttggcagaagttcacagccagtgcaggaatccaggtagtgggggatgatctc
+            acagtgaccaacccaaagaggatcgccaaggccgtgaacgagaagtcctgcaactgcctc
+            ctgctcaaagtcaaccagattggctccgtgaccgagtctcttcaggcgtgcaagctggcc
+            caggccaatggttggggcgtcatggtgtctcatcgttcgggggagactgaagataccttc
+            atcgctgacctggttgtggggctgtgcactgggcagatcaagactggtgccccttgccga
+            tctgagcgcttggccaagtacaaccagctcctcagaattgaagaggagctgggcagcaag
+            gctaagtttgccggcaggaacttcagaaaccccttggccaagtaa
+///

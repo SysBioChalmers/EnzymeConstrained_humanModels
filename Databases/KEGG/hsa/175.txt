@@ -1,0 +1,62 @@
+ENTRY       175               CDS       T01001
+NAME        AGA, AGU, ASRG, GA
+DEFINITION  (RefSeq) aspartylglucosaminidase
+ORTHOLOGY   K01444  N4-(beta-N-acetylglucosaminyl)-L-asparaginase [EC:3.5.1.26]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00511  Other glycan degradation
+            hsa04142  Lysosome
+DISEASE     H00145  Aspartylglucosaminuria (AGU)
+            H00422  Glycoproteinoses
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00511 Other glycan degradation
+                175 (AGA)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                175 (AGA)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.26  N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+                 175 (AGA)
+POSITION    4q34.3
+MOTIF       Pfam: Asparaginase_2
+DBLINKS     NCBI-GeneID: 175
+            NCBI-ProteinID: NP_000018
+            OMIM: 613228
+            HGNC: 318
+            Ensembl: ENSG00000038002
+            Vega: OTTHUMG00000160723
+            Pharos: P20933(Tbio)
+            UniProt: P20933
+STRUCTURE   PDB: 1APY 1APZ
+AASEQ       346
+            MARKSNLPVLLVPFLLCQALVRCSSPLPLVVNTWPFKNATEAAWRALASGGSALDAVESG
+            CAMCEREQCDGSVGFGGSPDELGETTLDAMIMDGTTMDVGAVGDLRRIKNAIGVARKVLE
+            HTTHTLLVGESATTFAQSMGFINEDLSTTASQALHSDWLARNCQPNYWRNVIPDPSKYCG
+            PYKPPGILKQDIPIHKETEDDRGHDTIGMVVIHKTGHIAAGTSTNGIKFKIHGRVGDSPI
+            PGAGAYADDTAGAAAATGNGDILMRFLPSYQAVEYMRRGEDPTIACQKVISRIQKHFPEF
+            FGAVICANVTGSYGAACNKLSTFTQFSFMVYNSEKNQPTEEKVDCI
+NTSEQ       1041
+            atggcgcggaagtcgaacttgcctgtgcttctcgtgccgtttctgctctgccaggcccta
+            gtgcgctgctccagccctctgcccctggtcgtcaacacttggccctttaagaatgcaacc
+            gaagcagcgtggagggcattagcatctggaggctctgccctggatgcagtggagagcggc
+            tgtgccatgtgtgagagagagcagtgtgacggctctgtaggctttggaggaagtcctgat
+            gaacttggagaaaccacactagatgccatgatcatggatggcactactatggatgtagga
+            gcagtaggagatctcagacgaattaaaaatgctattggtgtggcacggaaagtactggaa
+            catacaacacacacacttttagtaggagagtcagccaccacatttgctcaaagtatgggg
+            tttatcaatgaagacttatctaccactgcttctcaagctcttcattcagattggcttgct
+            cggaattgccagccaaattattggaggaatgttataccagatccctcaaaatactgcgga
+            ccctacaaaccacctggtatcttaaagcaggatattcctatccataaagaaacagaagat
+            gatcgtggtcatgacactattggcatggttgtaatccataagacaggacatattgctgct
+            ggtacatctacaaatggtataaaattcaaaatacatggccgtgtaggagactcaccaata
+            cctggagctggagcctatgctgacgatactgcaggggcagccgcagccactgggaatggt
+            gatatattgatgcgcttcctgccaagctaccaagctgtagaatacatgagaagaggagaa
+            gatccaaccatagcttgccaaaaagtgatttcaagaatccagaagcattttccagaattc
+            tttggggctgttatatgtgccaatgtgactggaagttacggtgctgcttgcaataaactt
+            tcaacatttactcagtttagtttcatggtttataattccgaaaaaaatcagccaactgag
+            gaaaaagtggactgcatctaa
+///

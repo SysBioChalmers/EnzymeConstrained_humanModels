@@ -1,0 +1,121 @@
+ENTRY       535               CDS       T01001
+NAME        ATP6V0A1, ATP6N1, ATP6N1A, Stv1, VPP1, Vph1, a1
+DEFINITION  (RefSeq) ATPase H+ transporting V0 subunit a1
+ORTHOLOGY   K02154  V-type H+-transporting ATPase subunit a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+            hsa04145  Phagosome
+            hsa04721  Synaptic vesicle cycle
+            hsa04966  Collecting duct acid secretion
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05152  Tuberculosis
+            hsa05165  Human papillomavirus infection
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00160  V-type ATPase, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                535 (ATP6V0A1)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                535 (ATP6V0A1)
+               04142 Lysosome
+                535 (ATP6V0A1)
+             Organismal Systems
+              Excretory system
+               04966 Collecting duct acid secretion
+                535 (ATP6V0A1)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                535 (ATP6V0A1)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                535 (ATP6V0A1)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                535 (ATP6V0A1)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                535 (ATP6V0A1)
+               05152 Tuberculosis
+                535 (ATP6V0A1)
+               05165 Human papillomavirus infection
+                535 (ATP6V0A1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               535 (ATP6V0A1)
+POSITION    17q21.2
+MOTIF       Pfam: V_ATPase_I
+DBLINKS     NCBI-GeneID: 535
+            NCBI-ProteinID: NP_001123493
+            OMIM: 192130
+            HGNC: 865
+            Ensembl: ENSG00000033627
+            Vega: OTTHUMG00000180238
+            Pharos: Q93050(Tbio)
+            UniProt: Q93050 Q53X12
+AASEQ       837
+            MGELFRSEEMTLAQLFLQSEAAYCCVSELGELGKVQFRDLNPDVNVFQRKFVNEVRRCEE
+            MDRKLRFVEKEIRKANIPIMDTGENPEVPFPRDMIDLEANFEKIENELKEINTNQEALKR
+            NFLELTELKFILRKTQQFFDEMADPDLLEESSSLLEPSEMGRGTPLRLGFVAGVINRERI
+            PTFERMLWRVCRGNVFLRQAEIENPLEDPVTGDYVHKSVFIIFFQGDQLKNRVKKICEGF
+            RASLYPCPETPQERKEMASGVNTRIDDLQMVLNQTEDHRQRVLQAAAKNIRVWFIKVRKM
+            KAIYHTLNLCNIDVTQKCLIAEVWCPVTDLDSIQFALRRGTEHSGSTVPSILNRMQTNQT
+            PPTYNKTNKFTYGFQNIVDAYGIGTYREINPAPYTIITFPFLFAVMFGDFGHGILMTLFA
+            VWMVLRESRILSQKNENEMFSTVFSGRYIILLMGVFSMYTGLIYNDCFSKSLNIFGSSWS
+            VRPMFTYNWTEETLRGNPVLQLNPALPGVFGGPYPFGIDPIWNIATNKLTFLNSFKMKMS
+            VILGIIHMLFGVSLSLFNHIYFKKPLNIYFGFIPEIIFMTSLFGYLVILIFYKWTAYDAH
+            TSENAPSLLIHFINMFLFSYPESGYSMLYSGQKGIQCFLVVVALLCVPWMLLFKPLVLRR
+            QYLRRKHLGTLNFGGIRVGNGPTEEDAEIIQHDQLSTHSEDADEPSEDEVFDFGDTMVHQ
+            AIHTIEYCLGCISNTASYLRLWALSLAHAQLSEVLWTMVIHIGLSVKSLAGGLVLFFFFT
+            AFATLTVAILLIMEGLSAFLHALRLHWVEFQNKFYSGTGFKFLPFSFEHIREGKFEE
+NTSEQ       2514
+            atgggggagcttttccggagtgaagaaatgacactggcccagctttttctacagtcagag
+            gctgcttattgttgtgtcagtgaattaggagaacttggaaaggttcagtttcgtgactta
+            aatccagatgtgaatgttttccaacggaaatttgtgaatgaagttagaagatgtgaagaa
+            atggatcgaaagcttcgatttgttgagaaagagataagaaaagctaacattccgattatg
+            gacaccggtgaaaacccagaggttcccttcccccgggacatgattgacttagaggccaat
+            tttgagaagattgaaaatgaactgaaggaaatcaacacaaaccaggaagctctgaagaga
+            aacttcctggaactgaccgaattaaaatttatacttcgcaaaactcagcaattttttgat
+            gagatggcggatccagacttgttggaagagtcctcatccctcttggagccaagtgagatg
+            ggaagaggcactcctttaagacttggcttcgtggctggtgtcattaaccgggagcgcatc
+            cctacttttgagcgcatgctttggcgggtatgccggggaaatgtgttcctgcgacaggct
+            gaaatcgagaaccccctggaggatcctgtgactggcgactacgtgcacaagtctgtgttt
+            atcattttcttccaaggcgatcagctgaaaaacagagtcaagaaaatctgtgaagggttc
+            cgagcctcactctatccctgtcctgagacaccacaggagaggaaggaaatggcttctgga
+            gtgaataccaggattgatgatctccaaatggttctgaatcaaacggaggatcaccgccag
+            agggttctgcaggcagctgctaagaacatccgtgtctggttcatcaaagtgcggaagatg
+            aaggccatctatcacaccctgaacctgtgcaacatagatgtgactcagaaatgcttgatt
+            gcagaggtctggtgccctgtcaccgaccttgactccatccagtttgcactcagaaggggc
+            acggaacacagtggttccactgtaccttccattttgaacaggatgcagacaaaccagact
+            cccccaacctataacaaaaccaacaagtttacctatggctttcagaacatagtagatgct
+            tatggaattggaacttaccgagagataaatccagctccgtatactattatcacgttccct
+            tttctatttgctgtgatgtttggagacttcggtcatggcattttaatgaccctttttgct
+            gtgtggatggtactgagggagagccggatcctttcccagaagaatgagaatgagatgttt
+            agcactgtgttcagtggtcgatacattattttattgatgggtgtgttctccatgtacact
+            ggcctcatctacaatgattgcttttccaagtctcttaatatctttgggtcatcctggagt
+            gtacggccgatgtttacttataattggactgaagagacgcttcgggggaaccctgttcta
+            cagctgaacccagccctccctggagtgtttggtggaccatacccttttggcattgatcca
+            atttggaacattgctaccaataaactgacgttcttgaactcctttaagatgaagatgtct
+            gttatccttggtatcatccatatgctgtttggagtcagcctgagtctgttcaaccatatc
+            tatttcaagaagcccctgaatatctactttggatttattcctgaaataatcttcatgacc
+            tctttgtttggctatttggttatccttattttttacaagtggacggcctatgatgctcat
+            acctctgagaatgcaccaagccttctgatccatttcataaacatgttcctcttttcctac
+            ccagagtctggttattcaatgttgtattctggacagaaaggaattcagtgtttcctggta
+            gtggttgcactactgtgtgtaccttggatgctgctgtttaaaccattggtccttcgccgt
+            cagtatttgaggagaaagcatttgggaactctcaactttggtgggatcagggtgggcaac
+            ggaccgacagaggaggatgctgagattattcagcatgaccagctctccacccactcagag
+            gacgcagacgagccttccgaggacgaagtgtttgactttggggacaccatggtccaccag
+            gccatccacaccatcgagtactgcctgggctgcatctccaacactgcctcctacttgcgg
+            ctctgggccctcagcctcgctcatgcgcagctgtctgaggtgctttggaccatggtgatc
+            cacatcggcctgagcgtgaagagcttggcgggaggtttggtgctgttcttcttcttcact
+            gcctttgccaccctgaccgtggccatcctcctgatcatggagggcctctcggcctttctc
+            cacgcactgcgcttacactgggttgagttccagaataaattctacagcgggaccggtttc
+            aagttcttacccttctccttcgagcatattcgggaagggaagtttgaagagtga
+///

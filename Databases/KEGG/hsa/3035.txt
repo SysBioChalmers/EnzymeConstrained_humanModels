@@ -1,0 +1,80 @@
+ENTRY       3035              CDS       T01001
+NAME        HARS, CMT2W, HRS, USH3B
+DEFINITION  (RefSeq) histidyl-tRNA synthetase
+ORTHOLOGY   K01892  histidyl-tRNA synthetase [EC:6.1.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+DISEASE     H00264  Charcot-Marie-Tooth disease (CMT)
+            H00779  Usher syndrome (US)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                3035 (HARS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.21  histidine---tRNA ligase
+                 3035 (HARS)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               3035 (HARS)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                3035 (HARS)
+             Prokaryotic Type
+                3035 (HARS)
+POSITION    5q31.3
+MOTIF       Pfam: tRNA-synt_His HGTP_anticodon HGTP_anticodon2 WHEP-TRS HHH_3 tRNA-synt_2 Virul_Fac Sugarporin_N
+DBLINKS     NCBI-GeneID: 3035
+            NCBI-ProteinID: NP_002100
+            OMIM: 142810
+            HGNC: 4816
+            Ensembl: ENSG00000170445
+            Vega: OTTHUMG00000129502
+            Pharos: P12081(Tchem)
+            UniProt: P12081
+STRUCTURE   PDB: 4G84 4X5O 4PHC 4G85 2LW7 1X59
+AASEQ       509
+            MAERAALEELVKLQGERVRGLKQQKASAELIEEEVAKLLKLKAQLGPDESKQKFVLKTPK
+            GTRDYSPRQMAVREKVFDVIIRCFKRHGAEVIDTPVFELKETLMGKYGEDSKLIYDLKDQ
+            GGELLSLRYDLTVPFARYLAMNKLTNIKRYHIAKVYRRDNPAMTRGRYREFYQCDFDIAG
+            NFDPMIPDAECLKIMCEILSSLQIGDFLVKVNDRRILDGMFAICGVSDSKFRTICSSVDK
+            LDKVSWEEVKNEMVGEKGLAPEVADRIGDYVQQHGGVSLVEQLLQDPKLSQNKQALEGLG
+            DLKLLFEYLTLFGIDDKISFDLSLARGLDYYTGVIYEAVLLQTPAQAGEEPLGVGSVAAG
+            GRYDGLVGMFDPKGRKVPCVGLSIGVERIFSIVEQRLEALEEKIRTTETQVLVASAQKKL
+            LEERLKLVSELWDAGIKAELLYKKNPKLLNQLQYCEEAGIPLVAIIGEQELKDGVIKLRS
+            VTSREEVDVRREDLVEEIKRRTGQPLCIC
+NTSEQ       1530
+            atggcagagcgtgcggcgctggaggagctggtgaaacttcagggagagcgcgtgcgaggc
+            ctcaagcagcagaaggccagcgccgagctgatcgaggaggaggtggcgaaactcctgaaa
+            ctgaaggcacagctgggtcctgatgaaagcaaacagaaatttgtgctcaaaacccccaag
+            ggcacaagagactatagtccccggcagatggcagttcgcgagaaggtgtttgacgtaatc
+            atccgttgcttcaagcgccacggtgcagaagtcattgatacacctgtatttgaactaaag
+            gaaacactgatgggaaagtatggggaagactccaagcttatctatgacctgaaggaccag
+            ggcggggagctcctgtcccttcgctatgacctcactgttccttttgctcggtatttggca
+            atgaataaactgaccaacattaaacgctaccacatagcaaaggtatatcggcgggataac
+            ccagccatgacccgtggccgataccgggaattctaccagtgtgattttgacattgctggg
+            aactttgatcccatgatccctgatgcagagtgcctgaagatcatgtgcgagatcctgagt
+            tcacttcagataggcgacttcctggtcaaggtaaacgatcgacgcattctagatgggatg
+            tttgctatctgtggtgtttctgacagcaagttccgtaccatctgctcctcagtagacaag
+            ctggacaaggtgtcctgggaagaggtgaagaatgagatggtgggagagaagggccttgca
+            cctgaggtggctgaccgcattggggactatgtccagcaacatggtggggtatccctggtg
+            gaacagctgctccaggatcctaaactatcccaaaacaagcaggccttggagggcctggga
+            gacctgaagttgctctttgagtacctgaccctatttggcattgatgacaaaatctccttt
+            gacctgagccttgctcgagggctggattactacactggggtgatctatgaggcagtgctg
+            ctacagaccccagcccaggcaggggaagagcccctgggtgtgggcagtgtggctgctgga
+            ggacgctatgatgggctagtgggcatgttcgaccccaaagggcgcaaggtgccatgtgtg
+            gggctcagcattggggtggagcggattttctccatcgtggaacagagactagaggctttg
+            gaggagaagatacggaccacggagacacaggtgcttgtggcatctgcacagaagaagctg
+            ctagaggaaagactaaagcttgtctcagaactgtgggatgctgggatcaaggctgagctg
+            ctgtacaagaagaacccaaagctactgaaccagttacagtactgtgaggaggcaggcatc
+            ccactggtggctatcatcggcgagcaggaactcaaggatggggtcatcaagctccgttca
+            gtgacgagcagggaagaggtggatgtccgaagagaagaccttgtggaggaaatcaaaagg
+            agaacaggccagcccctctgcatctgctga
+///

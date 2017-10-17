@@ -1,0 +1,55 @@
+ENTRY       4725              CDS       T01001
+NAME        NDUFS5, CI-15k, CI15K
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit S5
+ORTHOLOGY   K03938  NADH dehydrogenase (ubiquinone) Fe-S protein 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4725 (NDUFS5)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4725 (NDUFS5)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4725 (NDUFS5)
+               05012 Parkinson's disease
+                4725 (NDUFS5)
+               05016 Huntington's disease
+                4725 (NDUFS5)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4725 (NDUFS5)
+POSITION    1p34.3
+MOTIF       Pfam: Ndufs5 Cmc1
+DBLINKS     NCBI-GeneID: 4725
+            NCBI-ProteinID: NP_001171908
+            OMIM: 603847
+            HGNC: 7712
+            Ensembl: ENSG00000168653
+            Vega: OTTHUMG00000007497
+            Pharos: O43920(Tclin)
+            UniProt: O43920 Q6IBA0
+STRUCTURE   PDB: 5XTC 5XTD
+AASEQ       106
+            MPFLDIQKRFGLNIDRWLTIQSGEQPYKMAGRCHAFEKEWIECAHGIGYTRAEKECKIEY
+            DDFVECLLRQKTMRRAGTIRKQRDKLIKEGKYTPPPHHIGKGEPRP
+NTSEQ       321
+            atgcctttcttggacatccagaaaaggttcggccttaacatagatcgatggttgacaatc
+            cagagtggtgaacagccctacaagatggctggtcgatgccatgcttttgaaaaagaatgg
+            atagaatgtgcacatggaatcggttatactcgggcagagaaagagtgcaagatagaatat
+            gatgatttcgtagagtgtttgcttcggcagaaaacgatgagacgtgcaggtaccatcagg
+            aagcagcgggataagctgataaaggaaggaaagtacacccctccacctcaccacattggc
+            aagggggagcctcggccctga
+///

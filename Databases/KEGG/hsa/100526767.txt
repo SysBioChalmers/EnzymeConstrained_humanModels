@@ -1,0 +1,55 @@
+ENTRY       100526767         CDS       T01001
+NAME        RNF103-CHMP3, RNF103-VPS24
+DEFINITION  (RefSeq) RNF103-CHMP3 readthrough
+ORTHOLOGY   K12193  charged multivesicular body protein 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04217  Necroptosis
+MODULE      hsa_M00412  ESCRT-III complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                100526767 (RNF103-CHMP3)
+              Cell growth and death
+               04217 Necroptosis
+                100526767 (RNF103-CHMP3)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-III complex
+                100526767 (RNF103-CHMP3)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               100526767 (RNF103-CHMP3)
+POSITION    2p11.2
+MOTIF       Pfam: Snf7 zf-ZPR1 DUF3915
+DBLINKS     NCBI-GeneID: 100526767
+            NCBI-ProteinID: NP_001185883
+            HGNC: 38847
+            Ensembl: ENSG00000249884
+            Vega: OTTHUMG00000160822
+            UniProt: Q9Y3E7
+STRUCTURE   PDB: 2XZE
+AASEQ       251
+            MEGELYSALKEEEASESVSSTNFSGEMHFYELVEDTKDGIWLVQVNEWSLKIRKEMRVVD
+            RQIRDIQREEEKVKRSVKDAAKKGQKDVCIVLAKEMIRSRKAVSKLYASKAHMNSVLMGM
+            KNQLAVLRVAGSLQKSTEVMKAMQSLVKIPEIQATMRELSKEMMKAGIIEEMLEDTFESM
+            DDQEEMEEEAEMEIDRILFEITAGALGKAPSKVTDALPEPEPPGAMAASEDEEEEEEALE
+            AMQSRLATLRS
+NTSEQ       756
+            atggagggtgagctctattctgctctcaaggaagaagaagcatccgaatcggtttctagt
+            accaatttcagtggtgaaatgcacttctatgagcttgtggaagacacaaaagatggcatc
+            tggctggttcaggtcaatgagtggtcattgaagataagaaaggaaatgagagttgttgac
+            aggcaaataagggatatccaaagagaagaagaaaaagtgaaacgatctgtgaaagatgct
+            gccaagaagggccagaaggatgtctgcatagttctggccaaggagatgatcaggtcaagg
+            aaggctgtgagcaagctgtatgcatccaaagcacacatgaactcagtgctcatggggatg
+            aagaaccagctcgcggtcttgcgagtggctggttccctgcagaagagcacagaagtgatg
+            aaggccatgcaaagtcttgtgaagattccagagattcaggccaccatgagggagttgtcc
+            aaagaaatgatgaaggctgggatcatagaggagatgttagaggacacttttgaaagcatg
+            gacgatcaggaagaaatggaggaagaagcagaaatggaaattgacagaattctctttgaa
+            attacagcaggggccttgggcaaagcacccagtaaagtgactgatgcccttccagagcca
+            gaacctccaggagcgatggctgcctcagaggatgaggaggaggaggaagaggctctggag
+            gccatgcagtcccggctggccacactccgcagctag
+///

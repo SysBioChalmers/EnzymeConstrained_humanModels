@@ -1,0 +1,106 @@
+ENTRY       4916              CDS       T01001
+NAME        NTRK3, GP145-TrkC, TRKC, gp145(trkC)
+DEFINITION  (RefSeq) neurotrophic receptor tyrosine kinase 3
+ORTHOLOGY   K05101  neurotrophic tyrosine kinase, receptor type 3 [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04722  Neurotrophin signaling pathway
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00043  Neuroblastoma
+            H01508  Salivary gland cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                4916 (NTRK3)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                4916 (NTRK3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 4916 (NTRK3)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Trk family [OT]
+               4916 (NTRK3)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class VII (TRK receptor family)
+               4916 (NTRK3)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class VII (TRK receptor family)
+               4916 (NTRK3)
+POSITION    15q25.3
+MOTIF       Pfam: Pkinase_Tyr Pkinase I-set TPKR_C2 ig Ig_3 LRR_8 Ig_2 C2-set_2 LRRNT LRR_4 LRR_5 Haspin_kinase LRR_6
+DBLINKS     NCBI-GeneID: 4916
+            NCBI-ProteinID: NP_001012338
+            OMIM: 191316
+            HGNC: 8033
+            Ensembl: ENSG00000140538
+            Vega: OTTHUMG00000148677
+            Pharos: Q16288(Tchem)
+            UniProt: Q16288 X5D2R1
+STRUCTURE   PDB: 1WWC 4YMJ 3V5Q
+AASEQ       839
+            MDVSLCPAKCSFWRIFLLGSVWLDYVGSVLACPANCVCSKTEINCRRPDDGNLFPLLEGQ
+            DSGNSNGNASINITDISRNITSIHIENWRSLHTLNAVDMELYTGLQKLTIKNSGLRSIQP
+            RAFAKNPHLRYINLSSNRLTTLSWQLFQTLSLRELQLEQNFFNCSCDIRWMQLWQEQGEA
+            KLNSQNLYCINADGSQLPLFRMNISQCDLPEISVSHVNLTVREGDNAVITCNGSGSPLPD
+            VDWIVTGLQSINTHQTNLNWTNVHAINLTLVNVTSEDNGFTLTCIAENVVGMSNASVALT
+            VYYPPRVVSLEEPELRLEHCIEFVVRGNPPPTLHWLHNGQPLRESKIIHVEYYQEGEISE
+            GCLLFNKPTHYNNGNYTLIAKNPLGTANQTINGHFLKEPFPESTDNFILFDEVSPTPPIT
+            VTHKPEEDTFGVSIAVGLAAFACVLLVVLFVMINKYGRRSKFGMKGPVAVISGEEDSASP
+            LHHINHGITTPSSLDAGPDTVVIGMTRIPVIENPQYFRQGHNCHKPDTYVQHIKRRDIVL
+            KRELGEGAFGKVFLAECYNLSPTKDKMLVAVKALKDPTLAARKDFQREAELLTNLQHEHI
+            VKFYGVCGDGDPLIMVFEYMKHGDLNKFLRAHGPDAMILVDGQPRQAKGELGLSQMLHIA
+            SQIASGMVYLASQHFVHRDLATRNCLVGANLLVKIGDFGMSRDVYSTDYYRLFNPSGNDF
+            CIWCEVGGHTMLPIRWMPPESIMYRKFTTESDVWSFGVILWEIFTYGKQPWFQLSNTEVI
+            ECITQGRVLERPRVCPKEVYDVMLGCWQREPQQRLNIKEIYKILHALGKATPIYLDILG
+NTSEQ       2520
+            atggatgtctctctttgcccagccaagtgtagtttctggcggattttcttgctgggaagc
+            gtctggctggactatgtgggctccgtgctggcttgccctgcaaattgtgtctgcagcaag
+            actgagatcaattgccggcggccggacgatgggaacctcttccccctcctggaagggcag
+            gattcagggaacagcaatgggaacgccagtatcaacatcacggacatctcaaggaatatc
+            acttccatacacatagagaactggcgcagtcttcacacgctcaacgccgtggacatggag
+            ctctacaccggacttcaaaagctgaccatcaagaactcaggacttcggagcattcagccc
+            agagcctttgccaagaacccccatttgcgttatataaacctgtcaagtaaccggctcacc
+            acactctcgtggcagctcttccagacgctgagtcttcgggaattgcagttggagcagaac
+            tttttcaactgcagctgtgacatccgctggatgcagctctggcaggagcagggggaggcc
+            aagctcaacagccagaacctctactgcatcaacgctgatggctcccagcttcctctcttc
+            cgcatgaacatcagtcagtgtgaccttcctgagatcagcgtgagccacgtcaacctgacc
+            gtacgagagggtgacaatgctgttatcacttgcaatggctctggatcaccccttcctgat
+            gtggactggatagtcactgggctgcagtccatcaacactcaccagaccaatctgaactgg
+            accaatgttcatgccatcaacttgacgctggtgaatgtgacgagtgaggacaatggcttc
+            accctgacgtgcattgcagagaacgtggtgggcatgagcaatgccagtgttgccctcact
+            gtctactatcccccacgtgtggtgagcctggaggagcctgagctgcgcctggagcactgc
+            atcgagtttgtggtgcgtggcaaccccccaccaacgctgcactggctgcacaatgggcag
+            cctctgcgggagtccaagatcatccatgtggaatactaccaagagggagagatttccgag
+            ggctgcctgctcttcaacaagcccacccactacaacaatggcaactataccctcattgcc
+            aaaaacccactgggcacagccaaccagaccatcaatggccacttcctcaaggagcccttt
+            ccagagagcacggataactttatcttgtttgacgaagtgagtcccacacctcctatcact
+            gtgacccacaaaccagaagaagacacttttggggtatccatagcagttggacttgctgct
+            tttgcctgtgtcctgttggtggttctcttcgtcatgatcaacaaatatggtcgacggtcc
+            aaatttggaatgaagggtcccgtggctgtcatcagtggtgaggaggactcagccagccca
+            ctgcaccacatcaaccacggcatcaccacgccctcgtcactggatgccgggcccgacact
+            gtggtcattggcatgactcgcatccctgtcattgagaacccccagtacttccgtcaggga
+            cacaactgccacaagccggacacgtatgtgcagcacattaagaggagagacatcgtgctg
+            aagcgagaactgggtgagggagcctttggaaaggtcttcctggccgagtgctacaacctc
+            agcccgaccaaggacaagatgcttgtggctgtgaaggccctgaaggatcccaccctggct
+            gcccggaaggatttccagagggaggccgagctgctcaccaacctgcagcatgagcacatt
+            gtcaagttctatggagtgtgcggcgatggggaccccctcatcatggtctttgaatacatg
+            aagcatggagacctgaataagttcctcagggcccatgggccagatgcaatgatccttgtg
+            gatggacagccacgccaggccaagggtgagctggggctctcccaaatgctccacattgcc
+            agtcagatcgcctcgggtatggtgtacctggcctcccagcactttgtgcaccgagacctg
+            gccaccaggaactgcctggttggagcgaatctgctagtgaagattggggacttcggcatg
+            tccagagatgtctacagcacggattattacaggctctttaatccatctggaaatgatttt
+            tgtatatggtgtgaggtgggaggacacaccatgctccccattcgctggatgcctcctgaa
+            agcatcatgtaccggaagttcactacagagagtgatgtatggagcttcggggtgatcctc
+            tgggagatcttcacctatggaaagcagccatggttccaactctcaaacacggaggtcatt
+            gagtgcattacccaaggtcgtgttttggagcggccccgagtctgccccaaagaggtgtac
+            gatgtcatgctggggtgctggcagagggaaccacagcagcggttgaacatcaaggagatc
+            tacaaaatcctccatgctttggggaaggccaccccaatctacctggacattcttggctag
+///

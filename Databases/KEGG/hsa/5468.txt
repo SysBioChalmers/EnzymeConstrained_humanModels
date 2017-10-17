@@ -1,0 +1,116 @@
+ENTRY       5468              CDS       T01001
+NAME        PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma
+DEFINITION  (RefSeq) peroxisome proliferator activated receptor gamma
+ORTHOLOGY   K08530  peroxisome proliferator-activated receptor gamma
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04380  Osteoclast differentiation
+            hsa05016  Huntington's disease
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05216  Thyroid cancer
+DISEASE     H00032  Thyroid cancer
+            H00409  Type II diabetes mellitus
+            H00420  Familial partial lipodystrophy (FPL)
+DRUG_TARGET Pioglitazone (DG00117): D00945 D08378
+            Rosiglitazone (DG00116): D00596 D08491
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                5468 (PPARG)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                5468 (PPARG)
+              Development
+               04380 Osteoclast differentiation
+                5468 (PPARG)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                5468 (PPARG)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5468 (PPARG)
+               05202 Transcriptional misregulation in cancers
+                5468 (PPARG)
+               05216 Thyroid cancer
+                5468 (PPARG)
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                5468 (PPARG)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 thyroid hormone-like
+                5468 (PPARG)
+            Nuclear receptors [BR:hsa03310]
+             1. Thyroid hormone like
+              1C. Peroxisome proliferator-activated receptor (PPAR)
+               5468 (PPARG)
+POSITION    3p25.2
+MOTIF       Pfam: PPARgamma_N zf-C4 Hormone_recep Tmemb_55A
+DBLINKS     NCBI-GeneID: 5468
+            NCBI-ProteinID: NP_056953
+            OMIM: 601487
+            HGNC: 9236
+            Ensembl: ENSG00000132170
+            Vega: OTTHUMG00000129764
+            Pharos: P37231(Tclin)
+            UniProt: P37231
+STRUCTURE   PDB: 3U9Q 3V9V 3B1M 3V9T 4CI5 1ZGY 5GTN 3WJ5 4F9M 3LMP 2ZVT
+                 5TWO 3WJ4 3ADX 3ET3 2HWQ 5JI0 4Y29 3NOA 2FVJ 5LSG 5HZC
+                 3VSO 4A4V 4A4W 3TY0 2YFE 3R5N 2HFP 3FEJ 2XKW 2VSR 2Q5S
+                 3ADW 2F4B 5GTO 3WMH 4EM9 3V9Y 3T03 3B0Q 3KMG 3HOD 3H0A
+                 2I4J 2I4P 2GTK 1FM6 1FM9 3B0R 3VN2 5DWL 4YT1 2Q61 2Q59
+                 1PRG 4XUH 4R06 3VJH 5TTO 5F9B 3ADS 2P4Y 2I4Z 2ZK2 3ADV
+                 3BC5 4L98 2ATH 5DVC 3X1H 4R6S 4R2U 4OJ4 3SZ1 3R8I 3PBA
+                 3AN3 3AN4 3GBK 3G9E 3FUR 3CS8 2Q8S 2Q5P 2POB 2G0H 1K74
+                 2PRG 3IA6 2HWR 5GTP 3PO9 2VV4 2VST 1I7I 2ZK0 4L96 4XUM
+                 3X1I 3VSP 3ET0 3D6D 2ZNO 3CWD 2Q6S 1RDT 3R8A 2ZK6 2Q6R
+                 4XLD 2ZK5 4XTA 4JL4 4HEE 4E4K 4E4Q 3QT0 1ZEO 1KNU 4EMA
+                 2G0G 5U5L 3S9S 3OSW 3K8S 2VV0 2ZK4 2ZK3 4PWL 4PVU 4O8F
+                 3HO0 3B3K 3VJI 2ZK1 3CDS 1NYX 5AZV 3OSI 3ADT 5DV3 5DV8
+                 2VV2 3ADU 5DV6 3CDP 2OM9 4FGY 4JAZ 2VV3 1WM0 4PRG 3PRG
+                 5DSH 3DZY 3E00 3DZU 2VV1 2QMV
+AASEQ       505
+            MGETLGDSPIDPESDSFTDTLSANISQEMTMVDTEMPFWPTNFGISSVDLSVMEDHSHSF
+            DIKPFTTVDFSSISTPHYEDIPFTRTDPVVADYKYDLKLQEYQSAIKVEPASPPYYSEKT
+            QLYNKPHEEPSNSLMAIECRVCGDKASGFHYGVHACEGCKGFFRRTIRLKLIYDRCDLNC
+            RIHKKSRNKCQYCRFQKCLAVGMSHNAIRFGRMPQAEKEKLLAEISSDIDQLNPESADLR
+            ALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKFKHITPLQE
+            QSKEVAIRIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLAS
+            LMNKDGVLISEGQGFMTREFLKSLRKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVII
+            LSGDRPGLLNVKPIEDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHVQL
+            LQVIKKTETDMSLHPLLQEIYKDLY
+NTSEQ       1518
+            atgggtgaaactctgggagattctcctattgacccagaaagcgattccttcactgataca
+            ctgtctgcaaacatatcacaagaaatgaccatggttgacacagagatgccattctggccc
+            accaactttgggatcagctccgtggatctctccgtaatggaagaccactcccactccttt
+            gatatcaagcccttcactactgttgacttctccagcatttctactccacattacgaagac
+            attccattcacaagaacagatccagtggttgcagattacaagtatgacctgaaacttcaa
+            gagtaccaaagtgcaatcaaagtggagcctgcatctccaccttattattctgagaagact
+            cagctctacaataagcctcatgaagagccttccaactccctcatggcaattgaatgtcgt
+            gtctgtggagataaagcttctggatttcactatggagttcatgcttgtgaaggatgcaag
+            ggtttcttccggagaacaatcagattgaagcttatctatgacagatgtgatcttaactgt
+            cggatccacaaaaaaagtagaaataaatgtcagtactgtcggtttcagaaatgccttgca
+            gtggggatgtctcataatgccatcaggtttgggcggatgccacaggccgagaaggagaag
+            ctgttggcggagatctccagtgatatcgaccagctgaatccagagtccgctgacctccgg
+            gccctggcaaaacatttgtatgactcatacataaagtccttcccgctgaccaaagcaaag
+            gcgagggcgatcttgacaggaaagacaacagacaaatcaccattcgttatctatgacatg
+            aattccttaatgatgggagaagataaaatcaagttcaaacacatcacccccctgcaggag
+            cagagcaaagaggtggccatccgcatctttcagggctgccagtttcgctccgtggaggct
+            gtgcaggagatcacagagtatgccaaaagcattcctggttttgtaaatcttgacttgaac
+            gaccaagtaactctcctcaaatatggagtccacgagatcatttacacaatgctggcctcc
+            ttgatgaataaagatggggttctcatatccgagggccaaggcttcatgacaagggagttt
+            ctaaagagcctgcgaaagccttttggtgactttatggagcccaagtttgagtttgctgtg
+            aagttcaatgcactggaattagatgacagcgacttggcaatatttattgctgtcattatt
+            ctcagtggagaccgcccaggtttgctgaatgtgaagcccattgaagacattcaagacaac
+            ctgctacaagccctggagctccagctgaagctgaaccaccctgagtcctcacagctgttt
+            gccaagctgctccagaaaatgacagacctcagacagattgtcacggaacacgtgcagcta
+            ctgcaggtgatcaagaagacggagacagacatgagtcttcacccgctcctgcaggagatc
+            tacaaggacttgtactag
+///

@@ -1,0 +1,54 @@
+ENTRY       23658             CDS       T01001
+NAME        LSM5, YER146W
+DEFINITION  (RefSeq) LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated
+ORTHOLOGY   K12624  U6 snRNA-associated Sm-like protein LSm5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+            hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+            hsa_M00396  Lsm 2-8 complex
+            hsa_M00397  Lsm 1-7 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                23658 (LSM5)
+              Folding, sorting and degradation
+               03018 RNA degradation
+                23658 (LSM5)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 23658 (LSM5)
+              mRNA degradation factors
+               5'-3' decay
+                Lsm complex
+                 23658 (LSM5)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               LSm proteins
+                23658 (LSM5)
+POSITION    7p14.3
+MOTIF       Pfam: LSM SM-ATX
+DBLINKS     NCBI-GeneID: 23658
+            NCBI-ProteinID: NP_036454
+            OMIM: 607285
+            HGNC: 17162
+            Ensembl: ENSG00000106355
+            Vega: OTTHUMG00000022913
+            Pharos: Q9Y4Y9(Tdark)
+            UniProt: Q9Y4Y9 A0A090N8Y5
+STRUCTURE   PDB: 5O9Z 3JCR
+AASEQ       91
+            MAANATTNPSQLLPLELVDKCIGSRIHIVMKSDKEIVGTLLGFDDFVNMVLEDVTEFEIT
+            PEGRRITKLDQILLNGNNITMLVPGGEGPEV
+NTSEQ       276
+            atggcggctaacgctactaccaacccgtcgcagctgctgcccttagagcttgtggacaaa
+            tgtataggatcaagaattcacatcgtgatgaagagtgataaggaaattgttggtactctt
+            ctaggatttgatgactttgtcaatatggtactggaagatgtcactgagtttgaaatcaca
+            ccagaaggaagaaggattactaaattagatcagattttgctaaatggaaataatataaca
+            atgctggttcctggaggagaaggacctgaagtgtga
+///

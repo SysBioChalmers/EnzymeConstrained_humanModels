@@ -1,0 +1,48 @@
+ENTRY       10229             CDS       T01001
+NAME        COQ7, CAT5, CLK-1, CLK1, COQ10D8
+DEFINITION  (RefSeq) coenzyme Q7, hydroxylase
+ORTHOLOGY   K06134  ubiquinone biosynthesis monooxygenase Coq7 [EC:1.14.13.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone
+DISEASE     H00999  Coenzyme Q10 deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00130 Ubiquinone and other terpenoid-quinone biosynthesis
+                10229 (COQ7)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.-  
+                 10229 (COQ7)
+POSITION    16p12.3
+MOTIF       Pfam: COQ7 Rubrerythrin Glyco_hydro_14
+DBLINKS     NCBI-GeneID: 10229
+            NCBI-ProteinID: NP_057222
+            OMIM: 601683
+            HGNC: 2244
+            Ensembl: ENSG00000167186
+            Vega: OTTHUMG00000131455
+            Pharos: Q99807(Tbio)
+            UniProt: Q99807
+AASEQ       217
+            MSCAGAAAAPRLWRLRPGARRSLSAYGRRTSVRFRSSGMTLDNISRAAVDRIIRVDHAGE
+            YGANRIYAGQMAVLGRTSVGPVIQKMWDQEKDHLKKFNELMVTFRVRPTVLMPLWNVLGF
+            ALGAGTALLGKEGAMACTVAVEESIAHHYNNQIRTLMEEDPEKYEELLQLIKKFRDEELE
+            HHDIGLDHDAELAPAYAVLKSIIQAGCRVAIYLSERL
+NTSEQ       654
+            atgagttgcgccggggcggcggcggctccccgcctttggcggctgcgcccgggggcccgg
+            cggtccctctcagcttatggaagaagaaccagtgtcagatttcgcagttcaggaatgact
+            ttagacaatatcagtcgggcagctgtggatcgaataatccgggtggatcatgcaggcgaa
+            tatggagcaaaccgcatctatgccgggcagatggctgtcctgggtcggaccagcgtcggg
+            ccagtcattcagaaaatgtgggatcaagaaaaggaccatttgaaaaagttcaatgagttg
+            atggttacgttcagggtccggccaacagttctgatgcccttgtggaacgtgctggggttt
+            gcactgggggcggggaccgccttgctcgggaaggaaggtgccatggcctgcaccgtggcg
+            gtggaagagagcatagcacatcactacaacaaccagatcaggacgctgatggaggaggac
+            cctgaaaaatacgaggaacttcttcagctgataaagaaatttcgggatgaagagcttgag
+            caccatgacataggcctcgaccatgatgcagaattggctccagcctatgccgtcctgaag
+            agcattatccaggccggatgcagagtggcgatatatttatcagaaagattataa
+///

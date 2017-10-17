@@ -1,0 +1,56 @@
+ENTRY       51645             CDS       T01001
+NAME        PPIL1, CGI-124, CYPL1, PPIase, hCyPX
+DEFINITION  (RefSeq) peptidylprolyl isomerase like 1
+ORTHOLOGY   K12733  peptidyl-prolyl cis-trans isomerase-like 1 [EC:5.2.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00355  Spliceosome, 35S U5-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                51645 (PPIL1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 51645 (PPIL1)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              Other components
+               Prp19-related factors
+                51645 (PPIL1)
+             Complex C
+                51645 (PPIL1)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                51645 (PPIL1)
+POSITION    6p21.2
+MOTIF       Pfam: Pro_isomerase
+DBLINKS     NCBI-GeneID: 51645
+            NCBI-ProteinID: NP_057143
+            OMIM: 601301
+            HGNC: 9260
+            Ensembl: ENSG00000137168
+            Vega: OTTHUMG00000014612
+            Pharos: Q9Y3C6(Tbio)
+            UniProt: Q9Y3C6 A0A024RCX8
+STRUCTURE   PDB: 2X7K 5MQF 2K7N 1XWN
+AASEQ       166
+            MAAIPPDSWQPPNVYLETSMGIIVLELYWKHAPKTCKNFAELARRGYYNGTKFHRIIKDF
+            MIQGGDPTGTGRGGASIYGKQFEDELHPDLKFTGAGILAMANAGPDTNGSQFFVTLAPTQ
+            WLDGKHTIFGRVCQGIGMVNRVGMVETNSQDRPVDDVKIIKAYPSG
+NTSEQ       501
+            atggcggcaattcccccagattcctggcagccacccaacgtttacttggagaccagcatg
+            ggaatcattgtgctggagctgtactggaagcatgctccaaagacctgtaagaactttgct
+            gagttggctcgtcgaggttactacaatggcacaaaattccacagaattatcaaagacttc
+            atgatccaaggaggtgacccaacagggacaggtcgaggtggtgcatctatctatggcaaa
+            cagtttgaagatgaacttcatccagacttgaaattcacgggggctggaattctcgcaatg
+            gccaatgcggggccagataccaatggcagccagttctttgtgaccctcgcccccacccag
+            tggcttgacggcaaacacaccatttttggccgagtgtgtcagggcataggaatggtgaat
+            cgcgtgggaatggtagaaacaaactcccaggaccgccctgtggacgacgtgaagatcatt
+            aaggcatacccttctgggtag
+///

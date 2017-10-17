@@ -1,0 +1,68 @@
+ENTRY       10800             CDS       T01001
+NAME        CYSLTR1, CYSLT1, CYSLT1R, CYSLTR, HMTMF81
+DEFINITION  (RefSeq) cysteinyl leukotriene receptor 1
+ORTHOLOGY   K04322  cysteinyl leukotriene receptor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+DRUG_TARGET Ablukast (DG01244): D02739 D02741
+            Cinalukast: D02846
+            Ibudilast: D01385
+            Montelukast (DG01066): D00529 D08229
+            Pobilukast edamine: D02848
+            Pranlukast (DG01065): D02732 D08408
+            Ritolukast: D02849
+            Sulukast: D02850
+            Tipelukast: D06659
+            Tomelukast: D02851
+            Verlukast: D02384
+            Zafirlukast: D00411
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                10800 (CYSLTR1)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                10800 (CYSLTR1)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Other
+               Cysteinyl leukotriene
+                10800 (CYSLTR1)
+POSITION    Xq21.1
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srw 7TM_GPCR_Srx 7TM_GPCR_Srv DUF420 DUF4064 SieB Shisa COX7C TMEM234
+DBLINKS     NCBI-GeneID: 10800
+            NCBI-ProteinID: NP_001269115
+            OMIM: 300201
+            HGNC: 17451
+            Ensembl: ENSG00000173198
+            Vega: OTTHUMG00000021889
+            Pharos: Q9Y271(Tclin)
+            UniProt: Q9Y271 Q38Q91 Q38Q88
+AASEQ       337
+            MDETGNLTVSSATCHDTIDDFRNQVYSTLYSMISVVGFFGNGFVLYVLIKTYHKKSAFQV
+            YMINLAVADLLCVCTLPLRVVYYVHKGIWLFGDFLCRLSTYALYVNLYCSIFFMTAMSFF
+            RCIAIVFPVQNINLVTQKKARFVCVGIWIFVILTSSPFLMAKPQKDEKNNTKCFEPPQDN
+            QTKNHVLVLHYVSLFVGFIIPFVIIIVCYTMIILTLLKKSMKKNLSSHKKAIGMIMVVTA
+            AFLVSFMPYHIQRTIHLHFLHNETKPCDSVLRMQKSVVITLSLAASNCCFDPLLYFFSGG
+            NFRKRLSTFRKHSLSSVTYVPRKKASLPEKGEEICKV
+NTSEQ       1014
+            atggatgaaacaggaaatctgacagtatcttctgccacatgccatgacactattgatgac
+            ttccgcaatcaagtgtattccaccttgtactctatgatctctgttgtaggcttctttggc
+            aatggctttgtgctctatgtcctcataaaaacctatcacaagaagtcagccttccaagta
+            tacatgattaatttagcagtagcagatctactttgtgtgtgcacactgcctctccgtgtg
+            gtctattatgttcacaaaggcatttggctctttggtgacttcttgtgccgcctcagcacc
+            tatgctttgtatgtcaacctctattgtagcatcttctttatgacagccatgagctttttc
+            cggtgcattgcaattgtttttccagtccagaacattaatttggttacacagaaaaaagcc
+            aggtttgtgtgtgtaggtatttggatttttgtgattttgaccagttctccatttctaatg
+            gccaaaccacaaaaagatgagaaaaataataccaagtgctttgagcccccacaagacaat
+            caaactaaaaatcatgttttggtcttgcattatgtgtcattgtttgttggctttatcatc
+            ccttttgttattataattgtctgttacacaatgatcattttgaccttactaaaaaaatca
+            atgaaaaaaaatctgtcaagtcataaaaaggctataggaatgatcatggtcgtgaccgct
+            gcctttttagtcagtttcatgccatatcatattcaacgtaccattcaccttcatttttta
+            cacaatgaaactaaaccctgtgattctgtccttagaatgcagaagtccgtggtcataacc
+            ttgtctctggctgcatccaattgttgctttgaccctctcctatatttcttttctgggggt
+            aactttaggaaaaggctgtctacattcagaaagcattctttgtccagcgtgacttatgta
+            cccagaaagaaggcctctttgccagaaaaaggagaagaaatatgtaaagtatag
+///

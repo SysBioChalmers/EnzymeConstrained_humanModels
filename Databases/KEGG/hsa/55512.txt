@@ -1,0 +1,76 @@
+ENTRY       55512             CDS       T01001
+NAME        SMPD3, NSMASE2
+DEFINITION  (RefSeq) sphingomyelin phosphodiesterase 3
+ORTHOLOGY   K12352  sphingomyelin phosphodiesterase 3 [EC:3.1.4.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                55512 (SMPD3)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.12  sphingomyelin phosphodiesterase
+                 55512 (SMPD3)
+POSITION    16q22.1
+MOTIF       Pfam: Exo_endo_phos
+DBLINKS     NCBI-GeneID: 55512
+            NCBI-ProteinID: NP_061137
+            OMIM: 605777
+            HGNC: 14240
+            Ensembl: ENSG00000103056
+            Vega: OTTHUMG00000137559
+            Pharos: Q9NY59(Tbio)
+            UniProt: Q9NY59 A8K0T6
+STRUCTURE   PDB: 5UVG
+AASEQ       655
+            MVLYTTPFPNSCLSALHCVSWALIFPCYWLVDRLAASFIPTTYEKRQRADDPCCLQLLCT
+            ALFTPIYLALLVASLPFAFLGFLFWSPLQSARRPYIYSRLEDKGLAGGAALLSEWKGTGP
+            GKSFCFATANVCLLPDSLARVNNLFNTQARAKEIGQRIRNGAARPQIKIYIDSPTNTSIS
+            AASFSSLVSPQGGDGVARAVPGSIKRTASVEYKGDGGRHPGDEAANGPASGDPVDSSSPE
+            DACIVRIGGEEGGRPPEADDPVPGGQARNGAGGGPRGQTPNHNQQDGDSGSLGSPSASRE
+            SLVKGRAGPDTSASGEPGANSKLLYKASVVKKAAARRRRHPDEAFDHEVSAFFPANLDFL
+            CLQEVFDKRAATKLKEQLHGYFEYILYDVGVYGCQGCCSFKCLNSGLLFASRYPIMDVAY
+            HCYPNKCNDDALASKGALFLKVQVGSTPQDQRIVGYIACTHLHAPQEDSAIRCGQLDLLQ
+            DWLADFRKSTSSSSAANPEELVAFDVVCGDFNFDNCSSDDKLEQQHSLFTHYRDPCRLGP
+            GEEKPWAIGTLLDTNGLYDEDVCTPDNLQKVLESEEGRREYLAFPTSKSSGQKGRKELLK
+            GNGRRIDYMLHAEEGLCPDWKAEVEEFSFITQLSGLTDHLPVAMRLMVSSGEEEA
+NTSEQ       1968
+            atggttttgtacacgaccccctttcctaacagctgtctgtccgccctgcactgtgtgtcc
+            tgggcccttatctttccatgctactggctggtggaccggctcgctgcctccttcataccc
+            accacctacgagaagcgccagcgggcagacgacccgtgctgcctgcagctgctctgcact
+            gccctcttcacgcccatctacctggccctcctggtggcctcgctgccctttgcgtttctc
+            ggctttctcttctggtccccactgcagtcggcccgccggccctacatctattcacggctg
+            gaagacaagggcctggccggtggggcagccctgctcagtgaatggaagggcacggggcct
+            ggcaaaagcttctgctttgccactgccaacgtctgcctcctgcccgactcactcgccagg
+            gtcaacaacctttttaacacccaagcgcgggccaaggagatcgggcagagaatccgcaat
+            ggggccgcccggccccagatcaaaatttacatcgactcccccaccaatacctccatcagc
+            gccgctagcttcagcagcctggtgtcaccacagggcggcgatggggtggcccgggccgtc
+            cccgggagcattaagaggacagcctctgtggagtacaagggtgacggtgggcggcacccc
+            ggtgacgaggctgccaacggcccagcctctggggaccctgtcgacagcagcagcccggag
+            gatgcctgcatcgtgcgcatcggtggcgaggagggcggccggccacctgaagctgacgac
+            cctgtgcctgggggccaggccaggaacggagctggcgggggcccaaggggccagacgccc
+            aaccataatcagcaggacggggattcagggagcctgggcagcccctcggcctcccgggag
+            tccctggtgaaggggcgagctgggccagacaccagtgccagcggggagccaggtgccaac
+            agcaagctcctgtacaaggcctcggtggtgaagaaggcggctgcacgcaggaggcggcac
+            cccgacgaggccttcgaccatgaggtctccgccttcttccccgccaacctggacttcctg
+            tgcctgcaggaggtgtttgacaagcgagcagccaccaaattgaaagagcagctgcacggc
+            tacttcgagtacatcctgtacgacgtcggggtctacggctgccagggctgctgcagcttc
+            aagtgtctcaacagcggcctcctctttgccagccgctaccccatcatggacgtggcctat
+            cactgttaccccaacaagtgtaacgacgatgccctggcctctaagggagctctgtttctc
+            aaggtgcaggtgggaagcacacctcaggaccaaagaatcgtcgggtacatcgcctgcaca
+            cacctgcatgccccgcaagaggacagcgccatccggtgtgggcagctggacctgcttcag
+            gactggctggctgatttccgaaaatctacctcctcgtccagcgcagccaaccccgaggag
+            ctggtggcatttgacgtcgtctgtggagatttcaactttgataactgctcctctgacgac
+            aagctggagcagcaacactccctgttcacccactacagggacccctgccgcctggggcct
+            ggtgaggagaagccgtgggccatcggtactctgctggacacgaacggcctgtacgatgag
+            gatgtgtgcacccccgacaacctgcagaaggtcctggagagtgaggagggccgcagggag
+            tacctggcgtttcccaccagcaagagctcgggccagaaggggcggaaggagctgctgaag
+            ggcaacggccggcgcatcgactacatgctgcatgcagaggaggggctgtgcccagactgg
+            aaggccgaggtggaagaattcagttttatcacccagctgtccggcctgacggaccacctg
+            ccagtagccatgcgactgatggtgtcttcgggggaggaggaggcatag
+///

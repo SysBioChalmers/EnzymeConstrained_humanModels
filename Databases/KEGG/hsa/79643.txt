@@ -1,0 +1,56 @@
+ENTRY       79643             CDS       T01001
+NAME        CHMP6, VPS20
+DEFINITION  (RefSeq) charged multivesicular body protein 6
+ORTHOLOGY   K12195  charged multivesicular body protein 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04217  Necroptosis
+MODULE      hsa_M00412  ESCRT-III complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                79643 (CHMP6)
+              Cell growth and death
+               04217 Necroptosis
+                79643 (CHMP6)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-III complex
+                79643 (CHMP6)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               79643 (CHMP6)
+              Exosomal proteins of other body fluids (saliva and urine)
+               79643 (CHMP6)
+POSITION    17q25.3
+MOTIF       Pfam: Snf7 Peptidase_S46 Het-C
+DBLINKS     NCBI-GeneID: 79643
+            NCBI-ProteinID: NP_078867
+            OMIM: 610901
+            HGNC: 25675
+            Ensembl: ENSG00000176108
+            Vega: OTTHUMG00000177645
+            Pharos: Q96FZ7(Tbio)
+            UniProt: Q96FZ7
+STRUCTURE   PDB: 3HTU
+AASEQ       201
+            MGNLFGRKKQSRVTEQDKAILQLKQQRDKLRQYQKRIAQQLERERALARQLLRDGRKERA
+            KLLLKKKRYQEQLLDRTENQISSLEAMVQSIEFTQIEMKVMEGLQFGNECLNKMHQVMSI
+            EEVERILDETQEAVEYQRQIDELLAGSFTQEDEDAILEELSAITQEQIELPEVPSEPLPE
+            KIPENVPVKARPRQAELVAAS
+NTSEQ       606
+            atgggtaacctgttcggccgcaagaagcagagccgcgtcacggagcaggacaaggccatc
+            ctgcaactgaagcagcagcgggacaagctgaggcagtaccagaagaggatcgcccagcag
+            ctggagcgcgagcgcgccctggcccggcagctgctgcgggacggcaggaaggaacgggcc
+            aagctgctgctcaagaagaagcgataccaggagcagctcctggacaggacggagaaccag
+            atcagcagcctggaggccatggttcagagtattgagttcacccagatcgaaatgaaagtg
+            atggaggggctgcagtttggaaatgagtgtctgaacaagatgcaccaggtgatgtccatt
+            gaagaggtggagaggatcctggacgagacgcaggaggccgtggagtaccagcggcaaata
+            gacgagctcctggcaggaagcttcactcaggaggatgaagacgccatcctggaggagctg
+            agcgcaatcactcaggaacaaatagagctgccagaggttccctccgagccccttcctgag
+            aagatcccagaaaacgtccctgtcaaggccaggcccaggcaggcggagctggtggcagct
+            tcgtaa
+///

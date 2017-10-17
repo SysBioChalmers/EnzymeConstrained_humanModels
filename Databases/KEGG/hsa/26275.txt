@@ -1,0 +1,73 @@
+ENTRY       26275             CDS       T01001
+NAME        HIBCH, HIBYLCOAH
+DEFINITION  (RefSeq) 3-hydroxyisobutyryl-CoA hydrolase
+ORTHOLOGY   K05605  3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+DISEASE     H01349  Methacrylic aciduria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                26275 (HIBCH)
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                26275 (HIBCH)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                26275 (HIBCH)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                26275 (HIBCH)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.4  3-hydroxyisobutyryl-CoA hydrolase
+                 26275 (HIBCH)
+POSITION    2q32.2
+MOTIF       Pfam: ECH_2 ECH_1 DUF4600
+DBLINKS     NCBI-GeneID: 26275
+            NCBI-ProteinID: NP_055177
+            OMIM: 610690
+            HGNC: 4908
+            Ensembl: ENSG00000198130
+            Vega: OTTHUMG00000132673
+            Pharos: Q6NVY1(Tbio)
+            UniProt: Q6NVY1 A0A140VJL0
+STRUCTURE   PDB: 3BPT
+AASEQ       386
+            MGQREMWRLMSRFNAFKRTNTILHHLRMSKHTDAAEEVLLEKKGCTGVITLNRPKFLNAL
+            TLNMIRQIYPQLKKWEQDPETFLIIIKGAGGKAFCAGGDIRVISEAEKAKQKIAPVFFRE
+            EYMLNNAVGSCQKPYVALIHGITMGGGVGLSVHGQFRVATEKCLFAMPETAIGLFPDVGG
+            GYFLPRLQGKLGYFLALTGFRLKGRDVYRAGIATHFVDSEKLAMLEEDLLALKSPSKENI
+            ASVLENYHTESKIDRDKSFILEEHMDKINSCFSANTVEEIIENLQQDGSSFALEQLKVIN
+            KMSPTSLKITLRQLMEGSSKTLQEVLTMEYRLSQACMRGHDFHEGVRAVLIDKDQSPKWK
+            PADLKEVTEEDLNNHFKSLGSSDLKF
+NTSEQ       1161
+            atggggcagcgcgagatgtggaggctcatgtcgaggtttaatgcattcaaaaggactaat
+            accatactgcaccatttgagaatgtccaagcacacagatgcagcagaagaggtgctattg
+            gaaaaaaaaggttgcacgggagtcataacactaaacagaccaaagttcctcaatgcactg
+            actcttaatatgattcggcagatttatccacagctaaagaagtgggaacaagatcctgaa
+            actttcctgatcattataaagggagcaggaggaaaggctttctgtgccgggggtgatatc
+            agagtgatctcggaagctgaaaaggcaaaacagaagatagctccagttttcttcagagaa
+            gaatatatgctgaataatgctgttggttcttgccagaaaccttatgttgcacttattcat
+            ggaattacaatgggtgggggagttggtctctcagtccatgggcaatttcgagtggctaca
+            gaaaagtgtctttttgctatgccagaaactgcaataggactgttccctgatgtgggtgga
+            ggttatttcttgccacgactccaaggaaaacttggttacttccttgcattaacaggattc
+            agactaaaaggaagagatgtgtacagagcaggaattgctacacactttgtagattctgaa
+            aagttggccatgttagaggaagatttgttagccttgaaatctccttcaaaagaaaatatt
+            gcatctgtcttagaaaattaccatacagagtctaagattgatcgagacaagtcttttata
+            cttgaggaacacatggacaaaataaacagttgtttttcagccaatactgtggaagaaatt
+            attgaaaacttacagcaagatggttcatcttttgccctagagcaattgaaggtaattaat
+            aaaatgtctccaacatctctaaagatcacactaaggcaactcatggaggggtcttcaaag
+            accttgcaagaagtactaactatggagtatcggctaagtcaagcttgtatgagaggtcat
+            gactttcatgaaggcgttagagctgttttaattgataaagaccagagtccaaaatggaaa
+            ccagctgatctaaaagaagttactgaggaagatttgaataatcactttaagtctttggga
+            agcagtgatttgaaattttga
+///

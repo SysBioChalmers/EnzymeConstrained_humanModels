@@ -1,0 +1,78 @@
+ENTRY       3162              CDS       T01001
+NAME        HMOX1, HMOX1D, HO-1, HSP32, bK286B10
+DEFINITION  (RefSeq) heme oxygenase 1
+ORTHOLOGY   K00510  heme oxygenase 1 [EC:1.14.14.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+            hsa04066  HIF-1 signaling pathway
+            hsa04216  Ferroptosis
+            hsa04978  Mineral absorption
+            hsa05206  MicroRNAs in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                3162 (HMOX1)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                3162 (HMOX1)
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                3162 (HMOX1)
+             Organismal Systems
+              Digestive system
+               04978 Mineral absorption
+                3162 (HMOX1)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                3162 (HMOX1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3162 (HMOX1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.18  heme oxygenase (biliverdin-producing)
+                 3162 (HMOX1)
+POSITION    22q12.3
+MOTIF       Pfam: Heme_oxygenase
+DBLINKS     NCBI-GeneID: 3162
+            NCBI-ProteinID: NP_002124
+            OMIM: 141250
+            HGNC: 5013
+            Ensembl: ENSG00000100292
+            Vega: OTTHUMG00000150960
+            Pharos: P09601(Tbio)
+            UniProt: P09601 Q6FH11
+STRUCTURE   PDB: 1N45 3CZY 1OZW 1OZL 1OYL 1OZR 1XJZ 5BTQ 1XK1 1XK3 1TWR
+                 1NI6 1T5P 3K4F 1XK0 3HOK 1S8C 1OZE 1XK2 1TWN 1S13 1N3U
+                 1OYK 3TGM 4WD4
+AASEQ       288
+            MERPQPDSMPQDLSEALKEATKEVHTQAENAEFMRNFQKGQVTRDGFKLVMASLYHIYVA
+            LEEEIERNKESPVFAPVYFPEELHRKAALEQDLAFWYGPRWQEVIPYTPAMQRYVKRLHE
+            VGRTEPELLVAHAYTRYLGDLSGGQVLKKIAQKALDLPSSGEGLAFFTFPNIASATKFKQ
+            LYRSRMNSLEMTPAVRQRVIEEAKTAFLLNIQLFEELQELLTHDTKDQSPSRAPGLRQRA
+            SNKVQDSAPVETPRGKPPLNTRSQAPLLRWVLTLSFLVATVAVGLYAM
+NTSEQ       867
+            atggagcgtccgcaacccgacagcatgccccaggatttgtcagaggccctgaaggaggcc
+            accaaggaggtgcacacccaggcagagaatgctgagttcatgaggaactttcagaagggc
+            caggtgacccgagacggcttcaagctggtgatggcctccctgtaccacatctatgtggcc
+            ctggaggaggagattgagcgcaacaaggagagcccagtcttcgcccctgtctacttccca
+            gaagagctgcaccgcaaggctgccctggagcaggacctggccttctggtacgggccccgc
+            tggcaggaggtcatcccctacacaccagccatgcagcgctatgtgaagcggctccacgag
+            gtggggcgcacagagcccgagctgctggtggcccacgcctacacccgctacctgggtgac
+            ctgtctgggggccaggtgctcaaaaagattgcccagaaagccctggacctgcccagctct
+            ggcgagggcctggccttcttcaccttccccaacattgccagtgccaccaagttcaagcag
+            ctctaccgctcccgcatgaactccctggagatgactcccgcagtcaggcagagggtgata
+            gaagaggccaagactgcgttcctgctcaacatccagctctttgaggagttgcaggagctg
+            ctgacccatgacaccaaggaccagagcccctcacgggcaccagggcttcgccagcgggcc
+            agcaacaaagtgcaagattctgcccccgtggagactcccagagggaagcccccactcaac
+            acccgctcccaggctccgcttctccgatgggtccttacactcagctttctggtggcgaca
+            gttgctgtagggctttatgccatgtga
+///

@@ -1,0 +1,79 @@
+ENTRY       6390              CDS       T01001
+NAME        SDHB, CWS2, IP, PGL4, SDH, SDH1, SDH2, SDHIP
+DEFINITION  (RefSeq) succinate dehydrogenase complex iron sulfur subunit B
+ORTHOLOGY   K00235  succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            hsa_M00148  Succinate dehydrogenase (ubiquinone)
+DISEASE     H01222  Cowden-like syndrome
+            H01510  Malignant paraganglioma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                6390 (SDHB)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                6390 (SDHB)
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                6390 (SDHB)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                6390 (SDHB)
+               05012 Parkinson's disease
+                6390 (SDHB)
+               05016 Huntington's disease
+                6390 (SDHB)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                6390 (SDHB)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.5  With a quinone or related compound as acceptor
+                1.3.5.1  succinate dehydrogenase
+                 6390 (SDHB)
+POSITION    1p36.13
+MOTIF       Pfam: Fer2_3 Fer4_17 Fer4_8 Fer4_10 Fer2 Fer4_9 Fer4_18 Fer4_7
+DBLINKS     NCBI-GeneID: 6390
+            NCBI-ProteinID: NP_002991
+            OMIM: 185470
+            HGNC: 10681
+            Ensembl: ENSG00000117118
+            Vega: OTTHUMG00000002289
+            Pharos: P21912(Tbio)
+            UniProt: P21912
+AASEQ       280
+            MAAVVALSLRRRLPATTLGGACLQASRGAQTAAATAPRIKKFAIYRWDPDKAGDKPHMQT
+            YEVDLNKCGPMVLDALIKIKNEVDSTLTFRRSCREGICGSCAMNINGGNTLACTRRIDTN
+            LNKVSKIYPLPHMYVIKDLVPDLSNFYAQYKSIEPYLKKKDESQEGKQQYLQSIEEREKL
+            DGLYECILCACCSTSCPSYWWNGDKYLGPAVLMQAYRWMIDSRDDFTEERLAKLQDPFSL
+            YRCHTIMNCTRTCPKGLNPGKAIAEIKKMMATYKEKKASV
+NTSEQ       843
+            atggcggcggtggtcgccctctccttgaggcgccggttgccggccacaacccttggcgga
+            gcctgcctgcaggcctcccgaggagcccagacagctgcagccacagctccccgtatcaag
+            aaatttgccatctatcgatgggacccagacaaggctggagacaaacctcatatgcagact
+            tatgaagttgaccttaataaatgtggccccatggtattggatgctttaatcaagattaag
+            aatgaagttgactctactttgaccttccgaagatcatgcagagaaggcatctgtggctct
+            tgtgcaatgaacatcaatggaggcaacactctagcttgcacccgaaggattgacaccaac
+            ctcaataaggtctcaaaaatctaccctcttccacacatgtatgtgataaaggatcttgtt
+            cccgatttgagcaacttctatgcacagtacaaatccattgagccttatttgaagaagaag
+            gatgaatctcaggaaggcaagcagcagtatctgcagtccatagaagagcgtgagaaactg
+            gacgggctctacgagtgcattctctgtgcctgctgtagcaccagctgccccagctactgg
+            tggaacggagacaaatatctggggcctgcagttcttatgcaggcctatcgctggatgatt
+            gactccagagatgacttcacagaggagcgcctggccaagctgcaggacccattctctcta
+            taccgctgccacaccatcatgaactgcacaaggacctgtcctaagggtctgaatccaggg
+            aaagctattgcagagatcaagaaaatgatggcaacctataaggagaagaaagcttcagtt
+            taa
+///

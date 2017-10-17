@@ -1,0 +1,74 @@
+ENTRY       191               CDS       T01001
+NAME        AHCY, SAHH, adoHcyase
+DEFINITION  (RefSeq) adenosylhomocysteinase
+ORTHOLOGY   K01251  adenosylhomocysteinase [EC:3.3.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00035  Methionine degradation
+DISEASE     H00184  Hypermethioninemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                191 (AHCY)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.3  Acting on ether bonds
+               3.3.1  Thioether and trialkylsulfonium hydrolases
+                3.3.1.1  adenosylhomocysteinase
+                 191 (AHCY)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 191 (AHCY)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               191 (AHCY)
+POSITION    20q11.22
+MOTIF       Pfam: AdoHcyase AdoHcyase_NAD 2-Hacid_dh_C IlvN TrkA_N 3HCDH_N
+DBLINKS     NCBI-GeneID: 191
+            NCBI-ProteinID: NP_000678
+            OMIM: 180960
+            HGNC: 343
+            Ensembl: ENSG00000101444
+            Vega: OTTHUMG00000140098
+            Pharos: P23526(Tchem)
+            UniProt: P23526
+STRUCTURE   PDB: 1LI4 4PFJ 5W49 3NJ4 4PGF 5W4B 4YVF 1A7A
+AASEQ       432
+            MSDKLPYKVADIGLAAWGRKALDIAENEMPGLMRMRERYSASKPLKGARIAGCLHMTVET
+            AVLIETLVTLGAEVQWSSCNIFSTQDHAAAAIAKAGIPVYAWKGETDEEYLWCIEQTLYF
+            KDGPLNMILDDGGDLTNLIHTKYPQLLPGIRGISEETTTGVHNLYKMMANGILKVPAINV
+            NDSVTKSKFDNLYGCRESLIDGIKRATDVMIAGKVAVVAGYGDVGKGCAQALRGFGARVI
+            ITEIDPINALQAAMEGYEVTTMDEACQEGNIFVTTTGCIDIILGRHFEQMKDDAIVCNIG
+            HFDVEIDVKWLNENAVEKVNIKPQVDRYRLKNGRRIILLAEGRLVNLGCAMGHPSFVMSN
+            SFTNQVMAQIELWTHPDKYPVGVHFLPKKLDEAVAEAHLGKLNVKLTKLTEKQAQYLGMS
+            CDGPFKPDHYRY
+NTSEQ       1299
+            atgtctgacaaactgccctacaaagtcgccgacatcggcctggctgcctggggacgcaag
+            gccctggacattgctgagaacgagatgccgggcctgatgcgtatgcgggagcggtactcg
+            gcctccaagccactgaagggcgcccgcatcgctggctgcctgcacatgaccgtggagacg
+            gccgtcctcattgagaccctcgtcaccctgggtgctgaggtgcagtggtccagctgcaac
+            atcttctccacccaggaccatgcggcggctgccattgccaaggctggcattccggtgtat
+            gcctggaagggcgaaacggacgaggagtacctgtggtgcattgagcagaccctgtacttc
+            aaggacgggcccctcaacatgattctggacgacgggggcgacctcaccaacctcatccac
+            accaagtacccgcagcttctgccaggcatccgaggcatctctgaggagaccacgactggg
+            gtccacaacctctacaagatgatggccaatgggatcctcaaggtgcctgccatcaatgtc
+            aatgactccgtcaccaagagcaagtttgacaacctctatggctgccgggagtccctcata
+            gatggcatcaagcgggccacagatgtgatgattgccggcaaggtagcggtggtagcaggc
+            tatggtgatgtgggcaagggctgtgcccaggccctgcggggtttcggagcccgcgtcatc
+            atcaccgagattgaccccatcaacgcactgcaggctgccatggagggctatgaggtgacc
+            accatggatgaggcctgtcaggagggcaacatctttgtcaccaccacaggctgtattgac
+            atcatccttggccggcactttgagcagatgaaggatgatgccattgtgtgtaacattgga
+            cactttgacgtggagatcgatgtcaagtggctcaacgagaacgccgtggagaaggtgaac
+            atcaagccgcaggtggaccggtatcggttgaagaatgggcgccgcatcatcctgctggcc
+            gagggtcggctggtcaacctgggttgtgccatgggccaccccagcttcgtgatgagtaac
+            tccttcaccaaccaggtgatggcgcagatcgagctgtggacccatccagacaagtacccc
+            gttggggttcatttcctgcccaagaagctggatgaggcagtggctgaagcccacctgggc
+            aagctgaatgtgaagttgaccaagctaactgagaagcaagcccagtacctgggcatgtcc
+            tgtgatggccccttcaagccggatcactaccgctactga
+///

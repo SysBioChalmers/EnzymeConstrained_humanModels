@@ -1,0 +1,89 @@
+ENTRY       273               CDS       T01001
+NAME        AMPH, AMPH1
+DEFINITION  (RefSeq) amphiphysin
+ORTHOLOGY   K12562  amphiphysin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                273 (AMPH)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                273 (AMPH)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                273 (AMPH)
+              Bin/Amphiphysin/Rvs (BAR) family proteins
+               N-BAR proteins
+                273 (AMPH)
+             Others
+              Actin-binding proteins
+               Nucleation-promoting factors (NPFs)
+                273 (AMPH)
+POSITION    7p14.1
+MOTIF       Pfam: BAR SH3_9 SH3_1 SH3_2 BAR_3 HD_3 Jnk-SapK_ap_N THP2
+DBLINKS     NCBI-GeneID: 273
+            NCBI-ProteinID: NP_001626
+            OMIM: 600418
+            HGNC: 471
+            Ensembl: ENSG00000078053
+            Vega: OTTHUMG00000023725
+            Pharos: P49418(Tbio)
+            UniProt: P49418
+STRUCTURE   PDB: 4ATM 3SOG
+AASEQ       695
+            MADIKTGIFAKNVQKRLNRAQEKVLQKLGKADETKDEQFEEYVQNFKRQEAEGTRLQREL
+            RGYLAAIKGMQEASMKLTESLHEVYEPDWYGREDVKMVGEKCDVLWEDFHQKLVDGSLLT
+            LDTYLGQFPDIKNRIAKRSRKLVDYDSARHHLEALQSSKRKDESRISKAEEEFQKAQKVF
+            EEFNVDLQEELPSLWSRRVGFYVNTFKNVSSLEAKFHKEIAVLCHKLYEVMTKLGDQHAD
+            KAFTIQGAPSDSGPLRIAKTPSPPEEPSPLPSPTASPNHTLAPASPAPARPRSPSQTRKG
+            PPVPPLPKVTPTKELQQENIISFFEDNFVPEISVTTPSQNEVPEVKKEETLLDLDFDPFK
+            PEVTPAGSAGVTHSPMSQTLPWDLWTTSTDLVQPASGGSFNGFTQPQDTSLFTMQTDQSM
+            ICNLAESEQAPPTEPKAEEPLAAVTPAVGLDLGMDTRAEEPVEEAVIIPGADADAAVGTL
+            VSAAEGAPGEEAEAEKATVPAGEGVSLEEAKIGTETTEGAESAQPEAEELEATVPQEKVI
+            PSVVIEPASNHEEEGENEITIGAEPKETTEDAAPPGPTSETPELATEQKPIQDPQPTPSA
+            PAMGAADQLASAREASQELPPGFLYKVETLHDFEAANSDELTLQRGDVVLVVPSDSEADQ
+            DAGWLVGVKESDWLQYRDLATYKGLFPENFTRRLD
+NTSEQ       2088
+            atggccgacatcaagacgggcatcttcgccaagaacgtccagaagcgactcaaccgcgcg
+            caggaaaaggtcctccaaaagctggggaaagctgatgagacaaaagacgaacagttcgaa
+            gaatatgtccagaacttcaaacggcaagaagcagagggtaccagacttcagcgagaactc
+            cgaggatatttagcagcaatcaaaggcatgcaggaggcctccatgaagctcacagagtcg
+            ctgcatgaagtctatgagcctgactggtatgggcgggaagatgtgaaaatggttggtgag
+            aaatgtgatgtgctgtgggaagacttccatcaaaaactcgtggatgggtccttgctaaca
+            ctggatacctacctggggcaatttcctgacataaagaatcgcatcgccaagcgcagcagg
+            aagctagtggactatgacagtgcccgccaccatctggaagctctgcagagctccaagagg
+            aaggatgagagtcgaatctctaaggcagaagaagaatttcagaaagcacagaaagtgttt
+            gaagagtttaacgttgacttacaagaagagttaccatcattatggtcaagacgagttgga
+            ttttatgttaatactttcaaaaacgtctccagccttgaagccaagtttcataaggaaatt
+            gcggtgctttgccacaaactgtatgaagtgatgacaaaactgggtgaccagcacgccgac
+            aaggccttcaccatccaaggagcgcccagtgattcgggtcctctccgcattgcaaagaca
+            ccatcaccgcctgaggagccttcacccctcccgagcccgacagcaagtccaaatcataca
+            ttagcacctgcgtctcccgcaccagcacggcctcggtcaccttcacagacaaggaaaggg
+            cctcctgtcccacctctacctaaagtcaccccgacaaaggaactgcagcaggagaacatc
+            atcagtttctttgaggacaactttgttccagaaatcagtgtgacaacaccttcccagaat
+            gaagtccctgaggtgaagaaagaggagactttgctggatctggactttgatcctttcaag
+            cccgaggtgacacctgcaggttctgctggagtgacccactcacccatgtctcagacattg
+            ccctgggacctatggacgacaagcactgatttggtacagccggcttctggtggttcattt
+            aatggattcacacagccccaggatacttcattattcacaatgcagacagaccagagtatg
+            atctgcaacttggctgaatctgaacaggctccacccacagagccaaaagcagaggagcct
+            ctggctgctgtcacacctgccgttggtctggaccttggaatggacactcgggctgaggag
+            ccagtggaggaggcagtgatcatacctggagctgatgctgatgcagctgttggaaccttg
+            gtgtcagcagctgagggggccccaggagaggaagcagaggcggagaaggccactgtccct
+            gccggggaaggagtaagtttagaggaggccaaaattggaactgaaaccactgagggtgca
+            gagagtgcccaacctgaagcagaggagctcgaagcaacagtgcctcaggagaaggtcatt
+            ccttcggtggtcatagagcctgcctccaaccatgaagaggaaggagaaaacgaaataact
+            ataggtgcagagcccaaggagaccaccgaggacgcggctcctccgggccccaccagcgag
+            acaccggagctggctacggagcagaagcctatccaggaccctcagcccacgccttctgca
+            ccagccatgggggctgctgaccagctagcatctgcaagggaggcctctcaggaattgcct
+            cctggctttctctacaaggtggaaacactgcatgattttgaggcagcaaattctgatgaa
+            cttaccttacaaaggggtgatgtggtgctggtggtcccctcagattcagaagctgatcag
+            gatgcaggctggctggtgggagtgaaggaatcagactggcttcagtacagagaccttgcc
+            acctacaaaggcctctttccagagaacttcacccgacgcttagattag
+///

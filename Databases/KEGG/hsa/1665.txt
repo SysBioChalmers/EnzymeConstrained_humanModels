@@ -1,0 +1,101 @@
+ENTRY       1665              CDS       T01001
+NAME        DHX15, DBP1, DDX15, HRH2, PRP43, PRPF43, PrPp43p
+DEFINITION  (RefSeq) DEAH-box helicase 15
+ORTHOLOGY   K12820  pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                1665 (DHX15)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 1665 (DHX15)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U2 snRNP components
+               U2 related factors
+                1665 (DHX15)
+             Complex B
+                1665 (DHX15)
+             Complex C
+              U4/U6.U5 tri-snRNP components
+               U4/U6.U5 tri-SnRNP related factors
+                1665 (DHX15)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              90S particles
+               Helicases
+                1665 (DHX15)
+POSITION    4p15.2
+MOTIF       Pfam: HA2 OB_NTP_bind Helicase_C DEAD AAA_19 AAA_22 SRP54 ResIII AAA_30 AAA_25 Flavi_DEAD AAA_29 Atrophin-1 DUF1777 HTH_IclR AAA_23
+DBLINKS     NCBI-GeneID: 1665
+            NCBI-ProteinID: NP_001349
+            OMIM: 603403
+            HGNC: 2738
+            Ensembl: ENSG00000109606
+            Vega: OTTHUMG00000160304
+            Pharos: O43143(Tbio)
+            UniProt: O43143
+STRUCTURE   PDB: 5XDR
+AASEQ       795
+            MSKRHRLDLGEDYPSGKKRAGTDGKDRDRDRDREDRSKDRDRERDRGDREREREKEKEKE
+            LRASTNAMLISAGLPPLKASHSAHSTHSAHSTHSTHSAHSTHAGHAGHTSLPQCINPFTN
+            LPHTPRYYDILKKRLQLPVWEYKDRFTDILVRHQSFVLVGETGSGKTTQIPQWCVEYMRS
+            LPGPKRGVACTQPRRVAAMSVAQRVADEMDVMLGQEVGYSIRFEDCSSAKTILKYMTDGM
+            LLREAMNDPLLERYGVIILDEAHERTLATDILMGVLKEVVRQRSDLKVIVMSATLDAGKF
+            QIYFDNCPLLTIPGRTHPVEIFYTPEPERDYLEAAIRTVIQIHMCEEEEGDLLLFLTGQE
+            EIDEACKRIKREVDDLGPEVGDIKIIPLYSTLPPQQQQRIFEPPPPKKQNGAIGRKVVVS
+            TNIAETSLTIDGVVFVIDPGFAKQKVYNPRIRVESLLVTAISKASAQQRAGRAGRTRPGK
+            CFRLYTEKAYKTEMQDNTYPEILRSNLGSVVLQLKKLGIDDLVHFDFMDPPAPETLMRAL
+            ELLNYLAALNDDGDLTELGSMMAEFPLDPQLAKMVIASCDYNCSNEVLSITAMLSVPQCF
+            VRPTEAKKAADEAKMRFAHIDGDHLTLLNVYHAFKQNHESVQWCYDNFINYRSLMSADNV
+            RQQLSRIMDRFNLPRRSTDFTSRDYYINIRKALVTGYFMQVAHLERTGHYLTVKDNQVVQ
+            LHPSTVLDHKPEWVLYNEFVLTTKNYIRTCTDIKPEWLVKIAPQYYDMSNFPQCEAKRQL
+            DRIIAKLQSKEYSQY
+NTSEQ       2388
+            atgtccaagcggcaccggttggacctaggggaggattacccctctggcaagaagcgtgcg
+            gggaccgatgggaaggatcgagatcgagaccgggatcgtgaagatcggtctaaagatcga
+            gaccgagaacgtgatagaggagatagagagcgagagagggagaaagaaaaggagaaggag
+            ttgcgagcttcaacaaatgctatgcttatcagtgctggattaccacctttgaaagcttcc
+            cattcagctcactcaacccactcagcacattcaacgcattcaacacattctgctcattca
+            acgcatgccggacatgcaggtcacacgtcacttccacagtgcattaatccgttcaccaac
+            ttaccccatactcctcgatactatgatattctaaagaaacgtcttcagctccctgtttgg
+            gaatacaaggataggtttacagatattctggttagacatcagtcctttgtactggttggt
+            gagactgggtctggtaaaacaacacagattccacagtggtgtgtggagtacatgcgatca
+            ttaccaggacccaagagaggagttgcctgtacccaacccaggagagtggctgcaatgagt
+            gtggctcagagagttgctgatgagatggatgtgatgttgggccaggaagttggttactcc
+            attcgatttgaagactgcagtagtgcaaaaaccattcttaagtatatgactgatgggatg
+            ttacttcgtgaagctatgaatgatcccctcctggagcgttatggtgtaataattcttgat
+            gaggctcatgagaggacactggctacagatattctaatgggtgttctgaaggaagttgta
+            agacagagatcagatttaaaggttatagttatgagcgctactctagatgcaggaaaattc
+            cagatttactttgataactgtcctctcctaactattcctgggcgtacacatcctgttgag
+            atcttctatactccagaaccagagagagattatcttgaagcagcaattcgaacagttatc
+            cagattcatatgtgtgaagaggaagagggagatcttcttcttttcttaactggtcaagag
+            gaaattgatgaagcctgtaagagaataaagcgtgaagttgatgatttgggccctgaagtt
+            ggtgacattaaaatcattccattgtattctacacttccacctcagcagcagcaacgcatt
+            tttgagcctccacctcccaaaaaacagaatggagcaattggaagaaaggtagttgtgtca
+            actaacatagcagagacgtctttgacaatagatggtgtggtgtttgtgattgatcctgga
+            tttgcgaaacagaaggtctacaatcctcgaatcagagttgagtcccttttggtgacagct
+            attagtaaagcttcagctcagcaaagggctggtcgagctggacgtaccagacctggaaaa
+            tgcttcagactttacacagagaaagcttataaaacagaaatgcaggataacacctatcct
+            gagattttgcgttctaatttaggatcagttgtgttacaattgaagaaacttggtattgat
+            gacttggtacattttgattttatggatccaccagctcctgaaactctgatgagagccctg
+            gaacttttgaattacctggctgctttaaatgatgatggagatctgactgaattgggatcc
+            atgatggcagagtttcctctagatccacagctcgcaaaaatggttattgcaagttgtgac
+            tacaactgttctaatgaggtcctatctattactgctatgttgtcagtcccacagtgtttt
+            gttcgccccacggaggccaagaaagccgcagatgaggccaagatgagatttgcccacata
+            gatggagatcatctgacactgctgaacgtctaccatgcttttaaacaaaatcatgaatcg
+            gttcagtggtgttatgacaacttcattaactacaggtccctgatgtccgcagacaatgta
+            cgccagcagctatctcgaattatggacagatttaatttgcctcgtcgaagtactgacttt
+            acaagcagggactattatattaatataagaaaagctttggttactgggtattttatgcag
+            gtggcacatttagaacgaacagggcattacttaactgtgaaagataaccaggtggttcag
+            ttgcatccctctactgttcttgaccacaaacctgaatgggtgctttataatgagtttgtt
+            ctaacaacaaagaattacatccggacatgtacagatatcaagccagaatggttggtgaaa
+            attgcccctcaatattatgacatgagcaatttcccacagtgtgaagcaaagagacagttg
+            gaccgcatcattgccaaacttcaatccaaggaatattcacagtactga
+///

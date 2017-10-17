@@ -1,0 +1,80 @@
+ENTRY       5435              CDS       T01001
+NAME        POLR2F, HRBP14.4, POLRF, RPABC14.4, RPABC2, RPB14.4, RPB6, RPC15
+DEFINITION  (RefSeq) RNA polymerase II subunit F
+ORTHOLOGY   K03014  DNA-directed RNA polymerases I, II, and III subunit RPABC2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05016  Huntington's disease
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00180  RNA polymerase II, eukaryotes
+            hsa_M00181  RNA polymerase III, eukaryotes
+            hsa_M00182  RNA polymerase I, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5435 (POLR2F)
+               00240 Pyrimidine metabolism
+                5435 (POLR2F)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                5435 (POLR2F)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                5435 (POLR2F)
+             Human Diseases
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                5435 (POLR2F)
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                5435 (POLR2F)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               RNA polymerase II
+                Pol I, II, III common subunits
+                 5435 (POLR2F)
+              RNA polymerase III system
+               RNA polymerase III
+                 5435 (POLR2F)
+              RNA polymerase I system
+               RNA polymerase I
+                 5435 (POLR2F)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase II complex
+                  5435 (POLR2F)
+POSITION    22q13.1
+MOTIF       Pfam: RNA_pol_Rpb6 BDHCT_assoc
+DBLINKS     NCBI-GeneID: 5435
+            NCBI-ProteinID: NP_068809
+            OMIM: 604414
+            HGNC: 9193
+            Ensembl: ENSG00000100142
+            Vega: OTTHUMG00000151160
+            Pharos: P61218(Tbio)
+            UniProt: P61218
+STRUCTURE   PDB: 5IYB 5IYC 5IYD 5IYA 5IY9 5IY6 5IY8 5IY7 1QKL
+AASEQ       127
+            MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKY
+            ERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGV
+            DELIITD
+NTSEQ       384
+            atgtcagacaacgaggacaattttgatggcgacgactttgatgatgtggaggaggatgaa
+            gggctagatgacttggagaatgccgaagaggaaggccaggagaatgtcgagatcctcccc
+            tctggggagcgaccgcaggccaaccagaagcgaatcaccacaccatacatgaccaagtac
+            gagcgagcccgcgtgctgggcacccgagcgctccagattgcgatgtgtgcccctgtgatg
+            gtggagctggagggggagacagatcctctgctcattgccatgaaggaactcaaggcccga
+            aagatccccatcatcattcgccgttacctgccagatgggagctatgaagactggggggtg
+            gacgagctcatcatcaccgactga
+///

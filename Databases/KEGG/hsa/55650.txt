@@ -1,0 +1,72 @@
+ENTRY       55650             CDS       T01001
+NAME        PIGV, GPI-MT-II, HPMRS1, PIG-V
+DEFINITION  (RefSeq) phosphatidylinositol glycan anchor biosynthesis class V
+ORTHOLOGY   K07542  phosphatidylinositol glycan, class V [EC:2.4.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00065  GPI-anchor biosynthesis, core oligosaccharide
+DISEASE     H01488  Hyperphosphatasia with mental retardation syndrome (HPMPS)
+            H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+                55650 (PIGV)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.-  
+                 55650 (PIGV)
+            Glycosyltransferases [BR:hsa01003]
+             GPI-anchor biosynthesis
+              Core oligosaccharide
+               55650 (PIGV)
+POSITION    1p36.11
+MOTIF       Pfam: Mannosyl_trans2
+DBLINKS     NCBI-GeneID: 55650
+            NCBI-ProteinID: NP_001189483
+            OMIM: 610274
+            HGNC: 26031
+            Ensembl: ENSG00000060642
+            Vega: OTTHUMG00000004005
+            Pharos: Q9NUD9(Tbio)
+            UniProt: Q9NUD9
+AASEQ       493
+            MWPQDPSRKEVLRFAVSCRILTLMLQALFNAIIPDHHAEAFSPPRLAPSGFVDQLVEGLL
+            GGLSHWDAEHFLFIAEHGYLYEHNFAFFPGFPLALLVGTELLRPLRGLLSLRSCLLISVA
+            SLNFLFFMLAAVALHDLGCLVLHCPHQSFYAALLFCLSPANVFLAAGYSEALFALLTFSA
+            MGQLERGRVWTSVLLFAFATGVRSNGLVSVGFLMHSQCQGFFSSLTMLNPLRQLFKLMAS
+            LFLSVFTLGLPFALFQYYAYTQFCLPGSARPIPEPLVQLAVDKGYRIAEGNEPPWCFWDV
+            PLIYSYIQDVYWNVGFLKYYELKQVPNFLLAAPVAILVAWATWTYVTTHPWLCLTLGLQR
+            SKNNKTLEKPDLGFLSPQVFVYVVHAAVLLLFGGLCMHVQVLTRFLGSSTPIMYWFPAHL
+            LQDQEPLLRSLKTVPWKPLAEDSPPGQKVPRNPIMGLLYHWKTCSPVTRYILGYFLTYWL
+            LGLLLHCNFLPWT
+NTSEQ       1482
+            atgtggccccaggacccatcccggaaggaggtgctgaggtttgcagtcagctgccgtatc
+            ctgactctgatgctgcaggccctcttcaatgccatcatcccagatcaccatgcagaagcc
+            ttctctcctcctcgcctggccccctcaggctttgtggaccaactcgtggaaggtcttctg
+            ggcggcctgtctcactgggatgctgaacacttcttgttcattgctgagcatggctacctg
+            tatgagcacaactttgccttctttcctggtttccccttggccctgctggtggggactgaa
+            ctgttgagacccttacgggggttactgagtctacgcagttgcctgctgatttcggtagca
+            tcactcaatttcttgttcttcatgttggctgcagttgcacttcatgacctgggttgtctg
+            gttttgcactgtccccaccagtccttttatgcagctctgcttttctgtctcagccctgcc
+            aatgtcttcctggcagctggttactcagaagctttgtttgccctcctgacattcagtgcc
+            atggggcagctggagaggggccgagtctggactagtgtactcctctttgcctttgccact
+            ggggtacgctccaacgggctggtcagtgttggcttcctcatgcattctcaatgccaaggc
+            tttttctcttctctaacgatgctgaatcctctgagacagctctttaagctgatggcctct
+            ctgtttctgtcggtgttcacacttggccttccctttgccctctttcagtattatgcctac
+            acccaattctgtctgccaggctcagcccgccccattcctgagcctttggtacagttagct
+            gtagacaagggctaccggattgcagagggaaatgaaccgccttggtgcttctgggatgtt
+            ccactaatatacagctatatccaggatgtctactggaatgttggctttttgaaatactat
+            gagctcaagcaggtgcccaattttctactggctgcaccagtggctatactggttgcctgg
+            gcaacttggacatacgtgaccactcacccttggctctgccttacacttgggctgcaaagg
+            agcaagaacaataagaccctagagaagcccgatcttggattcctcagtcctcaggtgttt
+            gtgtacgtggtccacgctgcagtgctgctgctgtttggaggtctgtgcatgcatgttcag
+            gttctcaccaggtttttgggctcctccactcctattatgtactggtttccagctcacttg
+            cttcaggatcaagagccgctgttgagatccttaaagactgtgccttggaagcctcttgca
+            gaggactccccaccaggacaaaaggtccccagaaatcctatcatgggacttttgtatcac
+            tggaaaacctgttctccagtcacacgatacattctaggctacttcctgacttactggctc
+            ctgggactactcctacattgcaacttcctgccttggacatga
+///

@@ -1,0 +1,88 @@
+ENTRY       219988            CDS       T01001
+NAME        PATL1, Pat1b, hPat1b
+DEFINITION  (RefSeq) PAT1 homolog 1, processing body mRNA decay factor
+ORTHOLOGY   K12617  DNA topoisomerase 2-associated protein PAT1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+MODULE      hsa_M00395  Decapping complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                219988 (PATL1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 219988 (PATL1)
+              mRNA degradation factors
+               5'-3' decay
+                Decapping complex
+                 219988 (PATL1)
+POSITION    11q12.1
+MOTIF       Pfam: PAT1
+DBLINKS     NCBI-GeneID: 219988
+            NCBI-ProteinID: NP_689929
+            OMIM: 614660
+            HGNC: 26721
+            Ensembl: ENSG00000166889
+            Vega: OTTHUMG00000167423
+            Pharos: Q86TB9(Tbio)
+            UniProt: Q86TB9
+STRUCTURE   PDB: 2XES 2XER 2XEQ
+AASEQ       770
+            MFRYESLEDCPLDEDEDAFQGLGEEDEEIDQFNDDTFGSGAVDDDWQEAHERLAELEEKL
+            PVAVNEQTGNGERDEMDLLGDHEENLAERLSKMVIENELEDPAIMRAVQTRPVLQPQPGS
+            LNSSIWDGSEVLRRIRGPLLAQEMPTVSVLEYALPQRPPQGPEDDRDLSERALPRRSTSP
+            IIGSPPVRAVPIGTPPKQMAVPSFTQQILCPKPVHVRPPMPPRYPAPYGERMSPNQLCSV
+            PNSSLLGHPFPPSVPPVLSPLQRAQLLGGAQLQPGRMSPSQFARVPGFVGSPLAAMNPKL
+            LQGRVGQMLPPAPGFRAFFSAPPSATPPPQQHPPGPGPHLQNLRSQAPMFRPDTTHLHPQ
+            HRRLLHQRQQQNRSQHRNLNGAGDRGSHRSSHQDHLRKDPYANLMLQREKDWVSKIQMMQ
+            LQSTDPYLDDFYYQNYFEKLEKLSAAEEIQGDGPKKERTKLITPQVAKLEHAYKPVQFEG
+            SLGKLTVSSVNNPRKMIDAVVTSRSEDDETKEKQVRDKRRKTLVIIEKTYSLLLDVEDYE
+            RRYLLSLEEERPALMDDRKHKICSMYDNLRGKLPGQERPSDDHFVQIMCIRKGKRMVARI
+            LPFLSTEQAADILMTTARNLPFLIKKDAQDEVLPCLLSPFSLLLYHLPSVSITSLLRQLM
+            NLPQSAATPALSNPHLTAVLQNKFGLSLLLILLSRGEDLQSSDPATESTQNNQWTEVMFM
+            ATRELLRIPQAALAKPISIPTNLVSLFSRYVDRQKLNLLETKLQLVQGIR
+NTSEQ       2313
+            atgttccgctacgagtctttggaggattgtcctctggatgaagatgaagatgcatttcag
+            ggactgggagaagaagatgaagagattgatcaattcaatgatgatacatttgggtcaggt
+            gcagttgatgatgattggcaggaagcacatgagcgcctggctgaattggaagaaaagcta
+            ccagtggcagttaatgaacaaacaggcaatggagagagagatgaaatggacttgttgggt
+            gaccatgaggagaatctggcagaaaggctcagtaagatggtgattgaaaatgaactagaa
+            gatccagctattatgagggcagtgcagaccaggccagttttacaaccccaaccaggaagt
+            ctgaattccagtatctgggatggatctgaagttctgaggcgaatccgaggaccactgctt
+            gctcaggaaatgcctacagtgtctgtattagaatatgctttgcctcagaggcccccccag
+            ggtccagaagatgatcgggacctttctgaacgagcattaccaaggcggtcaacttcacct
+            atcattggcagtcctcctgttagagctgtccccataggcaccccacctaaacagatggct
+            gtacccagcttcacccaacagattctgtgtccgaagcctgtccatgttcggcccccaatg
+            ccacctcgttatcctgctccctatggtgagaggatgtctccaaaccagctctgcagtgtc
+            ccgaactcttccctcctgggtcacccttttcctcctagtgttcctcctgttctcagcccc
+            ctccagagagcacagcttcttggaggagcacagctacagcctggacggatgtctcccagc
+            cagtttgcacgggtccctggatttgttggtagtccacttgctgccatgaatcccaagttg
+            ctacaagggcgagttgggcagatgcttcccccagcaccaggcttccgtgccttctttagt
+            gctccaccctccgctacaccacctccacagcagcaccctcctggcccaggaccccacctg
+            caaaacctaagatctcaggccccaatgtttagaccggacacaactcacctccatccacag
+            caccgtcgactcttgcatcagagacagcaacagaatagaagtcagcatcggaatctcaat
+            ggtgcgggagatagaggaagtcaccggagcagtcatcaagatcatctccgaaaggatcca
+            tatgccaatctcatgttgcagcgggaaaaggattgggtctctaaaatccagatgatgcaa
+            ctgcaaagcactgatccctacctggatgatttttattaccagaattactttgaaaaactg
+            gagaaactgtcagctgctgaagaaatacaaggtgatggccctaagaaggagcgcaccaag
+            cttatcacccctcaggtggccaaactggagcacgcctataagccagtgcaatttgagggc
+            tctttgggaaagcttaccgtttctagtgtgaataatccccgaaaaatgattgatgctgtt
+            gtgacatctcggagtgaggatgatgagacaaaagaaaaacaagttcgagacaagaggaga
+            aaaacccttgttataattgagaaaacctacagcttactccttgatgtggaggactatgaa
+            agacgttatctcctaagtctggaagaagagcgacctgccctaatggatgacagaaagcac
+            aaaatttgtagcatgtatgacaacttaagggggaaattgcctggacaagagaggcctagt
+            gatgaccactttgtacagatcatgtgtatccgaaaagggaagagaatggttgcccgtatt
+            cttcctttcctctccacagagcaagcagctgacattctcatgacaacagccaggaacctc
+            cctttccttatcaagaaggatgcacaagatgaggtgctgccatgcttactgagtcccttc
+            tctctccttctctatcatcttccatcagtgagtatcaccagccttttgcgacagctaatg
+            aacctacctcaaagtgcagctacaccagcactctccaatcctcacctcactgctgtgctc
+            cagaacaagtttggcctgtcactgctcctcatcctcctgagccgtggtgaagacctacag
+            agttcagaccctgctacagaatcaacacaaaataatcagtggacggaggtgatgttcatg
+            gcaacacgagaacttctgcggattccccaagcagccctggccaagccaatctctatacct
+            acaaacctagtgtccctcttttctcgctatgttgaccggcagaaactgaacttgctggag
+            acaaaactgcagctagttcaggggatacgataa
+///

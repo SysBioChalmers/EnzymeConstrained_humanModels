@@ -1,0 +1,65 @@
+ENTRY       4144              CDS       T01001
+NAME        MAT2A, MATA2, MATII, SAMS2
+DEFINITION  (RefSeq) methionine adenosyltransferase 2A
+ORTHOLOGY   K00789  S-adenosylmethionine synthetase [EC:2.5.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00034  Methionine salvage pathway
+            hsa_M00035  Methionine degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                4144 (MAT2A)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                4144 (MAT2A)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.6  methionine adenosyltransferase
+                 4144 (MAT2A)
+POSITION    2p11.2
+MOTIF       Pfam: S-AdoMet_synt_C S-AdoMet_synt_M S-AdoMet_synt_N AdoMet_Synthase
+DBLINKS     NCBI-GeneID: 4144
+            NCBI-ProteinID: NP_005902
+            OMIM: 601468
+            HGNC: 6904
+            Ensembl: ENSG00000168906
+            Vega: OTTHUMG00000130174
+            Pharos: P31153(Tbio)
+            UniProt: P31153 A0A140VJP5
+STRUCTURE   PDB: 5A1I 2P02 5A1G 5UGH 5A19 4NDN 4KTT 4KTV
+AASEQ       395
+            MNGQLNGFHEAFIEEGTFLFTSESVGEGHPDKICDQISDAVLDAHLQQDPDAKVACETVA
+            KTGMILLAGEITSRAAVDYQKVVREAVKHIGYDDSSKGFDYKTCNVLVALEQQSPDIAQG
+            VHLDRNEEDIGAGDQGLMFGYATDETEECMPLTIVLAHKLNAKLAELRRNGTLPWLRPDS
+            KTQVTVQYMQDRGAVLPIRVHTIVISVQHDEEVCLDEMRDALKEKVIKAVVPAKYLDEDT
+            IYHLQPSGRFVIGGPQGDAGLTGRKIIVDTYGGWGAHGGGAFSGKDYTKVDRSAAYAARW
+            VAKSLVKGGLCRRVLVQVSYAIGVSHPLSISIFHYGTSQKSERELLEIVKKNFDLRPGVI
+            VRDLDLKKPIYQRTAAYGHFGRDSFPWEVPKKLKY
+NTSEQ       1188
+            atgaacggacagctcaacggcttccacgaggcgttcatcgaggagggcacattccttttc
+            acctcagagtcggtcggggaaggccacccagataagatttgtgaccaaatcagtgatgct
+            gtccttgatgcccaccttcagcaggatcctgatgccaaagtagcttgtgaaactgttgct
+            aaaactggaatgatccttcttgctggggaaattacatccagagctgctgttgactaccag
+            aaagtggttcgtgaagctgttaaacacattggatatgatgattcttccaaaggttttgac
+            tacaagacttgtaacgtgctggtagccttggagcaacagtcaccagatattgctcaaggt
+            gttcatcttgacagaaatgaagaagacattggtgctggagaccagggcttaatgtttggc
+            tatgccactgatgaaactgaggagtgtatgcctttaaccattgtcttggcacacaagcta
+            aatgccaaactggcagaactacgccgtaatggcactttgccttggttacgccctgattct
+            aaaactcaagttactgtgcagtatatgcaggatcgaggtgctgtgcttcccatcagagtc
+            cacacaattgttatatctgttcagcatgatgaagaggtttgtcttgatgaaatgagggat
+            gccctaaaggagaaagtcatcaaagcagttgtgcctgcgaaataccttgatgaggataca
+            atctaccacctacagccaagtggcagatttgttattggtgggcctcagggtgatgctggt
+            ttgactggacgcaaaatcattgtggacacttatggcggttggggtgctcatggaggaggt
+            gccttttcaggaaaggattataccaaggtcgaccgttcagctgcttatgctgctcgttgg
+            gtggcaaaatcccttgttaaaggaggtctgtgccggagggttcttgttcaggtctcttat
+            gctattggagtttctcatccattatctatctccattttccattatggtacctctcagaag
+            agtgagagagagctattagagattgtgaagaagaatttcgatctccgccctggggtcatt
+            gtcagggatctggatctgaagaagccaatttatcagaggactgcagcctatggccacttt
+            ggtagggacagcttcccatgggaagtgcccaaaaagcttaaatattga
+///

@@ -1,0 +1,87 @@
+ENTRY       7086              CDS       T01001
+NAME        TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1
+DEFINITION  (RefSeq) transketolase
+ORTHOLOGY   K00615  transketolase [EC:2.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                7086 (TKT)
+               01230 Biosynthesis of amino acids
+                7086 (TKT)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                7086 (TKT)
+              Metabolism of terpenoids and polyketides
+               01051 Biosynthesis of ansamycins
+                7086 (TKT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.2  Transferring aldehyde or ketonic groups
+               2.2.1  Transketolases and transaldolases
+                2.2.1.1  transketolase
+                 7086 (TKT)
+POSITION    3p21.1
+MOTIF       Pfam: Transketolase_N Transket_pyr Transketolase_C E1_dh DXP_synthase_N TPP_enzyme_C XFP_N Alba
+DBLINKS     NCBI-GeneID: 7086
+            NCBI-ProteinID: NP_001055
+            OMIM: 606781
+            HGNC: 11834
+            Ensembl: ENSG00000163931
+            Vega: OTTHUMG00000158192
+            Pharos: P29401(Tchem)
+            UniProt: P29401 V9HWD9
+STRUCTURE   PDB: 4KXV 4KXW 4KXU 4KXX 4KXY 3MOS 3OOY
+AASEQ       623
+            MESYHKPDQQKLQALKDTANRLRISSIQATTAAGSGHPTSCCSAAEIMAVLFFHTMRYKS
+            QDPRNPHNDRFVLSKGHAAPILYAVWAEAGFLAEAELLNLRKISSDLDGHPVPKQAFTDV
+            ATGSLGQGLGAACGMAYTGKYFDKASYRVYCLLGDGELSEGSVWEAMAFASIYKLDNLVA
+            ILDINRLGQSDPAPLQHQMDIYQKRCEAFGWHAIIVDGHSVEELCKAFGQAKHQPTAIIA
+            KTFKGRGITGVEDKESWHGKPLPKNMAEQIIQEIYSQIQSKKKILATPPQEDAPSVDIAN
+            IRMPSLPSYKVGDKIATRKAYGQALAKLGHASDRIIALDGDTKNSTFSEIFKKEHPDRFI
+            ECYIAEQNMVSIAVGCATRNRTVPFCSTFAAFFTRAFDQIRMAAISESNINLCGSHCGVS
+            IGEDGPSQMALEDLAMFRSVPTSTVFYPSDGVATEKAVELAANTKGICFIRTSRPENAII
+            YNNNEDFQVGQAKVVLKSKDDQVTVIGAGVTLHEALAAAELLKKEKINIRVLDPFTIKPL
+            DRKLILDSARATKGRILTVEDHYYEGGIGEAVSSAVVGEPGITVTHLAVNRVPRSGKPAE
+            LLKMFGIDRDAIAQAVRGLITKA
+NTSEQ       1872
+            atggagagctaccacaagcctgaccagcagaagctgcaggccttgaaggacacggccaac
+            cgcctacgtatcagctccatccaggccaccactgcggcgggctctggccaccccacgtca
+            tgctgcagcgccgcagagatcatggctgtcctctttttccacaccatgcgctacaagtcc
+            caggacccccggaatccgcacaatgaccgctttgtgctctccaagggccatgcagctccc
+            atcctctacgcggtctgggctgaagctggtttcctggccgaggcggagctgctgaacctg
+            aggaagatcagctccgacttggacgggcacccggtcccgaaacaagctttcaccgacgtg
+            gccactggctccctgggccagggcctcggggccgcttgtgggatggcctacaccggcaaa
+            tacttcgacaaggccagctaccgagtctattgcttgctgggagacggggagctgtcagag
+            ggctctgtatgggaggccatggccttcgccagcatctataagctggacaaccttgtggcc
+            attctagacatcaatcgcctgggccagagtgacccggccccactgcagcaccagatggac
+            atctaccagaagcggtgcgaggccttcggttggcatgccatcatcgtggatggacacagc
+            gtggaggagctgtgcaaggcctttggccaggccaagcaccagccaacagccatcattgcc
+            aagaccttcaagggccgagggatcacgggggtagaagataaggagtcttggcatgggaag
+            cccctccccaaaaacatggctgagcagatcatccaggagatctacagccagatccagagc
+            aaaaagaagatcctggcaacccctccacaggaggacgcaccctcagtggacattgccaac
+            atccgcatgcccagcctgcccagctacaaagttggggacaagatagccacccgcaaggcc
+            tacgggcaggcactggccaagctgggccatgccagtgaccgcatcatcgccctggatggg
+            gacaccaaaaattccaccttctcggagatcttcaaaaaggagcacccggaccgcttcatc
+            gagtgctacattgctgagcagaacatggtgagcatcgcggtgggctgtgccacccgcaac
+            aggacggtgcccttctgcagcacttttgcagccttcttcacgcgggcctttgaccagatt
+            cgcatggccgccatctccgagagcaacatcaacctctgcggctcccactgcggcgtttcc
+            atcggggaagacgggccctcccagatggccctagaagatctggctatgtttcggtcagtc
+            cccacatcaactgtcttttacccaagtgatggcgttgctacagagaaggcagtggaacta
+            gccgccaatacaaagggtatctgcttcatccggaccagccgcccagaaaatgccatcatc
+            tataacaacaatgaggacttccaggtcggacaagccaaggtggtcctgaagagcaaggat
+            gaccaggtgaccgttatcggggctggggtgaccctgcacgaggccttggccgctgccgaa
+            ctgctgaagaaagaaaagatcaacatccgcgtgctggaccccttcaccatcaagcccctg
+            gacagaaaactcattctcgacagcgctcgtgccaccaagggcaggatcctcaccgtggag
+            gaccattattatgaaggtggcattggtgaggctgtgtccagtgcagtagtgggcgagcct
+            ggcatcactgtcacccacctggcagttaaccgggtaccaagaagtgggaagccggctgag
+            ctgctgaagatgtttggtatcgacagggatgccattgcacaagctgtgaggggcctcatc
+            accaaggcctag
+///

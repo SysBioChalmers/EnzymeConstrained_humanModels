@@ -1,0 +1,89 @@
+ENTRY       259307            CDS       T01001
+NAME        IL4I1, FIG1, LAAO, LAO
+DEFINITION  (RefSeq) interleukin 4 induced 1
+ORTHOLOGY   K03334  L-amino-acid oxidase [EC:1.4.3.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00044  Tyrosine degradation, tyrosine => homogentisate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                259307 (IL4I1)
+               00270 Cysteine and methionine metabolism
+                259307 (IL4I1)
+               00280 Valine, leucine and isoleucine degradation
+                259307 (IL4I1)
+               00350 Tyrosine metabolism
+                259307 (IL4I1)
+               00360 Phenylalanine metabolism
+                259307 (IL4I1)
+               00380 Tryptophan metabolism
+                259307 (IL4I1)
+               00400 Phenylalanine, tyrosine and tryptophan biosynthesis
+                259307 (IL4I1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.2  L-amino-acid oxidase
+                 259307 (IL4I1)
+POSITION    19q13.33
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 Pyr_redox_2 DAO HI0933_like FAD_binding_2 Pyr_redox AlaDh_PNT_C FAD_binding_3 Thi4 FAD_oxidored GIDA Pyr_redox_3 MCRA Lycopene_cycl UDPG_MGDP_dh_N 3HCDH_N FMO-like DUF1188 NAD_binding_7 DUF4264 Shikimate_DH Trp_halogenase
+DBLINKS     NCBI-GeneID: 259307
+            NCBI-ProteinID: NP_690863
+            OMIM: 609742
+            HGNC: 19094
+            Ensembl: ENSG00000104951
+            Vega: OTTHUMG00000183377
+            Pharos: Q96RQ9(Tbio)
+            UniProt: Q96RQ9
+AASEQ       567
+            MAPLALHLLVLVPILLSLVASQDWKAERSQDPFEKCMQDPDYEQLLKVVTWGLNRTLKPQ
+            RVIVVGAGVAGLVAAKVLSDAGHKVTILEADNRIGGRIFTYRDQNTGWIGELGAMRMPSS
+            HRILHKLCQGLGLNLTKFTQYDKNTWTEVHEVKLRNYVVEKVPEKLGYALRPQEKGHSPE
+            DIYQMALNQALKDLKALGCRKAMKKFERHTLLEYLLGEGNLSRPAVQLLGDVMSEDGFFY
+            LSFAEALRAHSCLSDRLQYSRIVGGWDLLPRALLSSLSGLVLLNAPVVAMTQGPHDVHVQ
+            IETSPPARNLKVLKADVVLLTASGPAVKRITFSPPLPRHMQEALRRLHYVPATKVFLSFR
+            RPFWREEHIEGGHSNTDRPSRMIFYPPPREGALLLASYTWSDAAAAFAGLSREEALRLAL
+            DDVAALHGPVVRQLWDGTGVVKRWAEDQHSQGGFVVQPPALWQTEKDDWTVPYGRIYFAG
+            EHTAYPHGWVETAVKSALRAAIKINSRKGPASDTASPEGHASDMEGQGHVHGVASSPSHD
+            LAKEEGSHPPVQGQLSLQNTTHTRTSH
+NTSEQ       1704
+            atggccccattggccctgcacctcctcgtcctcgtccccatcctcctcagcctggtggcc
+            tcccaggactggaaggctgaacgcagccaagaccccttcgagaaatgcatgcaggatcct
+            gactatgagcagctgctcaaggtggtgacctgggggctcaatcggaccctgaagccccag
+            agggtgattgtggttggcgctggtgtggccgggctggtggccgccaaggtgctcagcgat
+            gctggacacaaggtcaccatcctggaggcagataacaggatcgggggccgcatcttcacc
+            taccgggaccagaacacgggctggattggggagctgggagccatgcgcatgcccagctct
+            cacaggatcctccacaagctctgccagggcctggggctcaacctgaccaagttcacccag
+            tacgacaagaacacgtggacggaggtgcacgaagtgaagctgcgcaactatgtggtggag
+            aaggtgcccgagaagctgggctacgccttgcgtccccaggaaaagggccactcgcccgaa
+            gacatctaccagatggctctcaaccaggccctcaaagacctcaaggcactgggctgcaga
+            aaggcgatgaagaagtttgaaaggcacacgctcttggaatatcttctcggggaggggaac
+            ctgagccggccggccgtgcagcttctgggagacgtgatgtccgaggatggcttcttctat
+            ctcagcttcgccgaggccctccgggcccacagctgcctcagcgacagactccagtacagc
+            cgcatcgtgggtggctgggacctgctgccgcgcgcgctgctgagctcgctgtccgggctt
+            gtgctgttgaacgcgcccgtggtggcgatgacccagggaccgcacgatgtgcacgtgcag
+            atcgagacctctcccccggcgcggaatctgaaggtgctgaaggccgacgtggtgctgctg
+            acggcgagcggaccggcggtgaagcgcatcaccttctcgccgccgctgccccgccacatg
+            caggaggcgctgcggaggctgcactacgtgccggccaccaaggtgttcctaagcttccgc
+            aggcccttctggcgcgaggagcacattgaaggcggccactcaaacaccgatcgcccgtcg
+            cgcatgattttctacccgccgccgcgcgagggcgcgctgctgctggcctcgtacacgtgg
+            tcggacgcggcggcagcgttcgccggcttgagccgggaagaggcgttgcgcttggcgctc
+            gacgacgtggcggcattgcacgggcctgtcgtgcgccagctctgggacggcaccggcgtc
+            gtcaagcgttgggcggaggaccagcacagccagggtggctttgtggtacagccgccggcg
+            ctctggcaaaccgaaaaggatgactggacggtcccttatggccgcatctactttgccggc
+            gagcacaccgcctacccgcacggctgggtggagacggcggtcaagtcggcgctgcgcgcc
+            gccatcaagatcaacagccggaaggggcctgcatcggacacggccagccccgaggggcac
+            gcatctgacatggaggggcaggggcatgtgcatggggtggccagcagcccctcgcatgac
+            ctggcaaaggaagaaggcagccaccctccagtccaaggccagttatctctccaaaacacg
+            acccacacgaggacctcgcattaa
+///

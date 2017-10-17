@@ -1,0 +1,143 @@
+ENTRY       5338              CDS       T01001
+NAME        PLD2, PLD1C
+DEFINITION  (RefSeq) phospholipase D2
+ORTHOLOGY   K01115  phospholipase D1/2 [EC:3.1.4.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04014  Ras signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04724  Glutamatergic synapse
+            hsa04912  GnRH signaling pathway
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                5338 (PLD2)
+               00565 Ether lipid metabolism
+                5338 (PLD2)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5338 (PLD2)
+               04072 Phospholipase D signaling pathway
+                5338 (PLD2)
+               04071 Sphingolipid signaling pathway
+                5338 (PLD2)
+               04024 cAMP signaling pathway
+                5338 (PLD2)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                5338 (PLD2)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                5338 (PLD2)
+              Endocrine system
+               04912 GnRH signaling pathway
+                5338 (PLD2)
+              Nervous system
+               04724 Glutamatergic synapse
+                5338 (PLD2)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                5338 (PLD2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.4  phospholipase D
+                 5338 (PLD2)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Phospholipases
+                5338 (PLD2)
+             Endosome - Golgi transport
+              Others
+               Others
+                5338 (PLD2)
+POSITION    17p13.2
+MOTIF       Pfam: PX PLDc_2 PLDc PH PH_2
+DBLINKS     NCBI-GeneID: 5338
+            NCBI-ProteinID: NP_002654
+            OMIM: 602384
+            HGNC: 9068
+            Ensembl: ENSG00000129219
+            Vega: OTTHUMG00000090779
+            Pharos: O14939(Tchem)
+            UniProt: O14939
+AASEQ       933
+            MTATPESLFPTGDELDSSQLQMESDEVDTLKEGEDPADRMHPFLAIYELQSLKVHPLVFA
+            PGVPVTAQVVGTERYTSGSKVGTCTLYSVRLTHGDFSWTTKKKYRHFQELHRDLLRHKVL
+            MSLLPLARFAVAYSPARDAGNREMPSLPRAGPEGSTRHAASKQKYLENYLNRLLTMSFYR
+            NYHAMTEFLEVSQLSFIPDLGRKGLEGMIRKRSGGHRVPGLTCCGRDQVCYRWSKRWLVV
+            KDSFLLYMCLETGAISFVQLFDPGFEVQVGKRSTEARHGVRIDTSHRSLILKCSSYRQAR
+            WWAQEITELAQGPGRDFLQLHRHDSYAPPRPGTLARWFVNGAGYFAAVADAILRAQEEIF
+            ITDWWLSPEVYLKRPAHSDDWRLDIMLKRKAEEGVRVSILLFKEVELALGINSGYSKRAL
+            MLLHPNIKVMRHPDQVTLWAHHEKLLVVDQVVAFLGGLDLAYGRWDDLHYRLTDLGDSSE
+            SAASQPPTPRPDSPATPDLSHNQFFWLGKDYSNLITKDWVQLDRPFEDFIDRETTPRMPW
+            RDVGVVVHGLPARDLARHFIQRWNFTKTTKAKYKTPTYPYLLPKSTSTANQLPFTLPGGQ
+            CTTVQVLRSVDRWSAGTLENSILNAYLHTIRESQHFLYIENQFFISCSDGRTVLNKVGDE
+            IVDRILKAHKQGWCYRVYVLLPLLPGFEGDISTGGGNSIQAILHFTYRTLCRGEYSILHR
+            LKAAMGTAWRDYISICGLRTHGELGGHPVSELIYIHSKVLIADDRTVIIGSANINDRSLL
+            GKRDSELAVLIEDTETEPSLMNGAEYQAGRFALSLRKHCFGVILGANTRPDLDLRDPICD
+            DFFQLWQDMAESNANIYEQIFRCLPSNATRSLRTLREYVAVEPLATVSPPLARSELTQVQ
+            GHLVHFPLKFLEDESLLPPLGSKEGMIPLEVWT
+NTSEQ       2802
+            atgacggcgacccctgagagcctcttccccactggggacgaactggactccagccagctc
+            cagatggagtccgatgaggtggacaccctgaaggagggagaggacccagccgaccggatg
+            cacccgtttctggccatctatgagcttcagtctctgaaagtgcaccccttggtgttcgca
+            cctggggtccctgtcacagcccaggtggtgggcaccgaaagatataccagcggatccaag
+            gtgggaacctgcactctgtattctgtccgcttgactcacggcgacttttcctggacaacc
+            aagaagaaataccgtcattttcaggagctgcatcgggacctcctgagacacaaagtcttg
+            atgagtctgctccctctggctcgatttgccgttgcctattctccagcccgagatgcaggc
+            aacagagagatgccctctctaccccgggcaggtcctgagggctccaccagacatgcagcc
+            agcaaacagaaatacctggagaattacctcaaccgtctcttgaccatgtctttctatcgc
+            aactaccatgccatgacagagttcctggaagtcagtcagctgtcctttatcccggacttg
+            ggccgcaaaggactggaggggatgatccggaagcgctcaggtggccaccgtgttcctggc
+            ctcacctgctgtggccgagaccaagtttgttatcgctggtccaagaggtggctggtggtg
+            aaggactccttcctgctgtacatgtgcctcgagacaggtgccatctcatttgttcagctc
+            tttgaccctggctttgaggtgcaagtggggaaaaggagcacggaggcacggcacggcgtg
+            cggatcgatacctcccacaggtccttgattctcaagtgcagcagctaccggcaggcacgg
+            tggtgggcccaagagatcactgagctggcacagggcccaggcagagacttcctacagctg
+            caccggcatgacagctacgccccaccccggcctgggaccttggcccggtggtttgtgaat
+            ggggcaggttactttgctgctgtggcagatgccatccttcgagctcaagaggagattttc
+            atcacagactggtggttgagtcctgaggtttacctgaagcgtccggcccattcagatgac
+            tggagactggacattatgctcaagaggaaggcggaggagggtgtccgtgtgtctattctg
+            ctgtttaaagaagtggaattggccttgggcatcaacagtggctatagcaagagggcgctg
+            atgctgctgcaccccaacataaaggtgatgcgtcacccagaccaagtgacgttgtgggcc
+            catcatgagaagctcctggtggtggaccaagtggtagcattcctggggggactggacctt
+            gcctatggccgctgggatgacctgcactaccgactgactgaccttggagactcctctgaa
+            tcagctgcctcccagcctcccaccccgcgcccagactcaccagccaccccagacctctct
+            cacaaccaattcttctggctgggcaaggactacagcaatcttatcaccaaggactgggtg
+            cagctggaccggcctttcgaagatttcattgacagggagacgacccctcggatgccatgg
+            cgggacgttggggtggtcgtccatggcctaccggcccgggaccttgcccggcacttcatc
+            cagcgctggaacttcaccaagaccaccaaggccaagtacaagactcccacatacccctac
+            ctgcttcccaagtctaccagcacggccaatcagctccccttcacacttccaggagggcag
+            tgcaccaccgtacaggtcttgcgatcagtggaccgctggtcagcagggactctggagaac
+            tccatcctcaatgcctacctgcacaccatcagggagagccagcacttcctctacattgag
+            aatcagttcttcattagctgctcagatgggcggacggttctgaacaaggtgggcgatgag
+            attgtggacagaatcctgaaggcccacaaacaggggtggtgttaccgagtctacgtgctt
+            ttgcccttactccctggcttcgagggtgacatctccacgggcggtggcaactccatccag
+            gccattctgcactttacttacaggaccctgtgtcgtggggagtattcaatcctgcatcgc
+            cttaaagcagccatggggacagcatggcgggactatatttccatctgcgggcttcgtaca
+            cacggagagctgggcgggcaccccgtctcggagctcatctacatccacagcaaggtgctc
+            atcgcagatgaccggacagtcatcattggttctgcaaacatcaatgaccggagcttgctg
+            gggaagcgggacagtgagctggccgtgctgatcgaggacacagagacggaaccatccctc
+            atgaatggggcagagtatcaggcgggcaggtttgccttgagtctgcggaagcactgcttc
+            ggtgtgattcttggagcaaatacccggccagacttggatctccgagaccccatctgtgat
+            gacttcttccagttgtggcaagacatggctgagagcaacgccaatatctatgagcagatc
+            ttccgctgcctgccatccaatgccacgcgttccctgcggactctccgggagtacgtggcc
+            gtggagcccttggccacggtcagtccccccttggctcggtctgagctcacccaggtccag
+            ggccacctggtccacttccccctcaagttcctagaggatgagtctttgctgcccccgctg
+            ggtagcaaggagggcatgatccccctagaagtgtggacatag
+///

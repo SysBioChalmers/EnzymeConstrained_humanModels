@@ -1,0 +1,81 @@
+ENTRY       7051              CDS       T01001
+NAME        TGM1, ARCI1, ICR2, KTG, LI, LI1, TGASE, TGK
+DEFINITION  (RefSeq) transglutaminase 1
+ORTHOLOGY   K05619  transglutaminase 1 [EC:2.3.2.13]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00734  Autosomal recessive congenital ichthyosis
+BRITE       Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.13  protein-glutamine gamma-glutamyltransferase
+                 7051 (TGM1)
+POSITION    14q12
+MOTIF       Pfam: Transglut_C Transglut_N Transglut_core
+DBLINKS     NCBI-GeneID: 7051
+            NCBI-ProteinID: NP_000350
+            OMIM: 190195
+            HGNC: 11777
+            Ensembl: ENSG00000092295
+            Vega: OTTHUMG00000029329
+            Pharos: P22735(Tchem)
+            UniProt: P22735
+STRUCTURE   PDB: 2XZZ
+AASEQ       817
+            MMDGPRSDVGRWGGNPLQPPTTPSPEPEPEPDGRSRRGGGRSFWARCCGCCSCRNAADDD
+            WGPEPSDSRGRGSSSGTRRPGSRGSDSRRPVSRGSGVNAAGDGTIREGMLVVNGVDLLSS
+            RSDQNRREHHTDEYEYDELIVRRGQPFHMLLLLSRTYESSDRITLELLIGNNPEVGKGTH
+            VIIPVGKGGSGGWKAQVVKASGQNLNLRVHTSPNAIIGKFQFTVRTQSDAGEFQLPFDPR
+            NEIYILFNPWCPEDIVYVDHEDWRQEYVLNESGRIYYGTEAQIGERTWNYGQFDHGVLDA
+            CLYILDRRGMPYGGRGDPVNVSRVISAMVNSLDDNGVLIGNWSGDYSRGTNPSAWVGSVE
+            ILLSYLRTGYSVPYGQCWVFAGVTTTVLRCLGLATRTVTNFNSAHDTDTSLTMDIYFDEN
+            MKPLEHLNHDSVWNFHVWNDCWMKRPDLPSGFDGWQVVDATPQETSSGIFCCGPCSVESI
+            KNGLVYMKYDTPFIFAEVNSDKVYWQRQDDGSFKIVYVEEKAIGTLIVTKAISSNMREDI
+            TYLYKHPEGSDAERKAVETAAAHGSKPNVYANRGSAEDVAMQVEAQDAVMGQDLMVSVML
+            INHSSSRRTVKLHLYLSVTFYTGVSGTIFKETKKEVELAPGASDRVTMPVAYKEYRPHLV
+            DQGAMLLNVSGHVKESGQVLAKQHTFRLRTPDLSLTLLGAAVVGQECEVQIVFKNPLPVT
+            LTNVVFRLEGSGLQRPKILNVGDIGGNETVTLRQSFVPVRPGPRQLIASLDSPQLSQVHG
+            VIQVDVAPAPGDGGFFSDAGGDSHLGETIPMASRGGA
+NTSEQ       2454
+            atgatggatgggccacgttccgatgtgggccgttggggtggcaaccccttgcagccccct
+            accacgccatctccagagccagagccagagccagacggacgctctcgcagaggaggaggc
+            cgttccttctgggctcgctgctgtggctgctgttcatgccgaaatgcggcagatgacgac
+            tggggacctgaaccctctgactccaggggtcgagggtccagctctggcactcgaagacct
+            ggctcccggggctcagactcccgccggcctgtatcccggggcagcggtgtcaatgcagct
+            ggagatggcaccatccgagagggcatgctagtagtgaacggtgtggacttgctgagctcg
+            cgctcggaccagaaccgccgagagcaccacacagacgagtatgagtacgacgagctgata
+            gtgcgccgcgggcagcctttccatatgctcctcctcctgtcccggacctatgaatcctct
+            gatcgcatcacccttgagttactcatcggaaacaaccccgaggtgggcaagggcacgcac
+            gtgatcatcccagtgggcaaggggggcagtggaggctggaaagcccaggtggtcaaggcc
+            agtgggcagaatctgaacctgcgggtccacacttcccccaacgccatcatcggcaagttt
+            cagttcacagtccgcacacaatcagacgctggggagttccagttgccctttgacccccgc
+            aatgagatctacatcctcttcaacccctggtgcccagaggacattgtgtacgtggaccat
+            gaggattggcggcaggagtatgttcttaatgagtctgggagaatttactacgggaccgaa
+            gcacagattggtgagcggacctggaactacggccagtttgaccacggggtgctggatgcc
+            tgcttatacatcctggaccggcgggggatgccatatggaggccgtggagacccagtcaat
+            gtctcccgggtcatctctgccatggtgaactccctggatgacaatggagtcctgattggg
+            aactggtctggtgattactcccgaggcaccaacccatcagcgtgggtgggcagcgtggag
+            atcctgcttagctacctacgcacgggatattccgtcccctatggccagtgctgggtcttt
+            gctggcgtgaccaccacagtgctgcgctgcctgggtctggccacccgtactgtcaccaac
+            ttcaactccgcccacgacacagacacatcccttaccatggacatctacttcgacgagaac
+            atgaagcccctggagcacctgaaccatgattctgtctggaacttccatgtgtggaacgac
+            tgctggatgaagaggccggatctgccctcgggctttgatgggtggcaggtggtggatgcc
+            acaccccaagagactagcagtggcatcttctgctgcggcccctgctctgtggagtccatc
+            aagaatggcctggtctacatgaagtacgacacgcctttcatttttgctgaggtgaatagt
+            gacaaggtgtactggcagcggcaggatgatggcagcttcaagattgtttatgtggaggag
+            aaggccatcggcacactcattgtcacaaaggccatcagctccaacatgcgggaggacatc
+            acctacctctataagcacccagaaggctcagacgcagagcggaaggcagtagagacagca
+            gcagcccacggcagcaaacccaatgtgtatgccaaccggggctcagcggaggatgtggcc
+            atgcaggtggaggcacaggacgcggtgatggggcaggatctgatggtctctgtgatgctg
+            atcaatcacagcagcagccgccgcacagtgaaactgcacctctacctctcagtcactttc
+            tatactggtgtcagtggtaccatcttcaaggagaccaagaaggaagtggagctggcacca
+            ggggcctcggaccgtgtgaccatgccagtggcctacaaggaataccggccccatcttgtg
+            gaccagggggccatgctgctcaatgtctcaggccacgtcaaggagagcgggcaggtgctg
+            gccaagcagcacaccttccgtctgcgcaccccagacctctccctcacgttactgggagca
+            gcagtggttggccaggagtgtgaagtacagattgtcttcaagaacccccttcccgtcacc
+            ctcaccaatgtcgtcttccggctcgaaggctctgggttacagaggcccaagatcctcaac
+            gttggggacattggaggcaatgaaacagtgacactgcgccagtcgtttgtgcctgtgcga
+            ccaggcccccgccagctcattgccagcttggacagcccacagctctcccaggtgcacggt
+            gtcatccaggtggatgtggccccagcccctggggatgggggcttcttctcagacgctgga
+            ggtgacagtcacttaggagagaccatccctatggcatctcgaggtggagcttag
+///

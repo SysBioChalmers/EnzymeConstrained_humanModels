@@ -1,0 +1,74 @@
+ENTRY       57804             CDS       T01001
+NAME        POLD4, POLDS, p12
+DEFINITION  (RefSeq) DNA polymerase delta 4, accessory subunit
+ORTHOLOGY   K03505  DNA polymerase delta subunit 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03030  DNA replication
+            hsa03410  Base excision repair
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00262  DNA polymerase delta complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                57804 (POLD4)
+               00240 Pyrimidine metabolism
+                57804 (POLD4)
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                57804 (POLD4)
+               03410 Base excision repair
+                57804 (POLD4)
+               03420 Nucleotide excision repair
+                57804 (POLD4)
+               03430 Mismatch repair
+                57804 (POLD4)
+               03440 Homologous recombination
+                57804 (POLD4)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                57804 (POLD4)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               DNA polymerase delta complex
+                57804 (POLD4)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase delta complex
+                  57804 (POLD4)
+               MMR (mismatch exicision repair)
+                DNA polymerase delta complex
+                 57804 (POLD4)
+POSITION    11q13.2
+MOTIF       Pfam: DNA_pol_delta_4
+DBLINKS     NCBI-GeneID: 57804
+            NCBI-ProteinID: NP_066996
+            OMIM: 611525
+            HGNC: 14106
+            Ensembl: ENSG00000175482
+            Vega: OTTHUMG00000167135
+            Pharos: Q9HCU8(Tdark)
+            UniProt: Q9HCU8 A0A024R5D7 Q6NSD7
+AASEQ       107
+            MGRKRLITDSYPVVKRREGPAGHSKGELAPELGEEPQPRDEEEAELELLRQFDLAWQYGP
+            CTGITRLQRWCRAKQMGLEPPPEVWQVLKTHPGDPRFQCSLWHLYPL
+NTSEQ       324
+            atgggccggaagcggctcatcactgattcctacccggttgtgaagaggagggaggggccc
+            gctgggcacagcaagggggagctggcacccgagctaggggaggagccccagccccgcgac
+            gaggaggaagcggagctggagctgctgaggcagtttgacctggcctggcagtacgggccc
+            tgcaccgggatcacacggctgcagcgctggtgtcgggccaagcagatgggcttggagcct
+            cccccagaggtgtggcaggtgctgaagacccaccccggagacccccgcttccagtgcagt
+            ctctggcatctctatcccctatga
+///

@@ -1,0 +1,87 @@
+ENTRY       8438              CDS       T01001
+NAME        RAD54L, HR54, RAD54A, hHR54, hRAD54
+DEFINITION  (RefSeq) RAD54 like (S. cerevisiae)
+ORTHOLOGY   K10875  DNA repair and recombination protein RAD54 and RAD54-like protein [EC:3.6.4.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                8438 (RAD54L)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.-  
+                 8438 (RAD54L)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Rad54 family proteins
+                 8438 (RAD54L)
+POSITION    1p34.1
+MOTIF       Pfam: SNF2_N Helicase_C ResIII HDA2-3 DEAD Rad54_N
+DBLINKS     NCBI-GeneID: 8438
+            NCBI-ProteinID: NP_001136020
+            OMIM: 603615
+            HGNC: 9826
+            Ensembl: ENSG00000085999
+            Vega: OTTHUMG00000007772
+            Pharos: Q92698(Tbio)
+            UniProt: Q92698 A8K996
+AASEQ       747
+            MRRSLAPSQLAKRKPEGRSCDDEDWQPGLVTPRKRKSSSETQIQECFLSPFRKPLSQLTN
+            QPPCLDSSQHEAFIRSILSKPFKVPIPNYQGPLGSRALGLKRAGVRRALHDPLEKDALVL
+            YEPPPLSAHDQLKLDKEKLPVHVVVDPILSKVLRPHQREGVKFLWECVTSRRIPGSHGCI
+            MADEMGLGKTLQCITLMWTLLRQSPECKPEIDKAVVVSPSSLVKNWYNEVGKWLGGRIQP
+            LAIDGGSKDEIDQKLEGFMNQRGARVSSPILIISYETFRLHVGVLQKGSVGLVICDEGHR
+            LKNSENQTYQALDSLNTSRRVLISGTPIQNDLLEYFSLVHFVNSGILGTAHEFKKHFELP
+            ILKGRDAAASEADRQLGEERLRELTSIVNRCLIRRTSDILSKYLPVKIEQVVCCRLTPLQ
+            TELYKRFLRQAKPAEELLEGKMSVSSLSSITSLKKLCNHPALIYDKCVEEEDGFVGALDL
+            FPPGYSSKALEPQLSGKMLVLDYILAVTRSRSSDKVVLVSNYTQTLDLFEKLCRARRYLY
+            VRLDGTMSIKKRAKVVERFNSPSSPDFVFMLSSKAGGCGLNLIGANRLVMFDPDWNPAND
+            EQAMARVWRDGQKKTCYIYRLLSAGTIEEKIFQRQSHKKALSSCVVDEEQDVERHFSLGE
+            LKELFILDEASLSDTHDRLHCRRCVNSRQIRPPPDGSDCTSDLAGWNHCTDKWGLRDEVL
+            QAAWDAASTAITFVFHQRSHEEQRGLR
+NTSEQ       2244
+            atgaggaggagcttggctcccagccagctggccaagagaaaacctgaaggcaggtcctgt
+            gatgatgaagactggcaacctggcctagtgactcctaggaaacggaaatccagcagtgag
+            acccagatccaggagtgtttcctgtctccttttcggaaacctttgagtcagctaaccaat
+            caaccaccttgtctggacagcagtcagcatgaagcatttattcgaagcattttgtcaaag
+            cctttcaaagtccccattccaaattatcaaggtcctctgggctctcgagcattgggcctg
+            aaaagggctggggtccgccgggccctccatgaccccctggaaaaagatgccttggttctg
+            tatgagcctcccccgctgagcgctcatgaccagctgaagcttgacaaggagaaactccct
+            gtccatgtggttgttgaccctattctcagtaaggttttgcggcctcatcagagagaggga
+            gtgaaattcctgtgggagtgtgtcaccagtcggcgcatccctggcagccatggctgcatc
+            atggctgatgagatgggcctaggaaagacgctgcagtgcatcacattgatgtggacactt
+            ttacgccagagtccagagtgcaagccagaaattgacaaggcagtggtggtgtcgccttcc
+            agcctggtgaagaactggtacaatgaggttgggaaatggctcggagggaggatccaacct
+            ctggccatcgatggaggatctaaggatgaaatagaccaaaagctggaaggattcatgaac
+            cagcgtggagccagggtgtcttctcccatcctcatcatttcctatgagaccttccgcctt
+            catgttggagtcctccagaaaggaagtgttggtctggtcatatgtgacgagggacacagg
+            ctcaagaactctgagaatcagacttaccaagccctggacagcttgaacaccagccggcgg
+            gtgctcatctccggaactcccatccagaatgatctgcttgagtatttcagcttggtacat
+            tttgttaattccggcatcctagggactgcccatgaattcaagaagcattttgaattgcca
+            attttgaagggtcgagacgctgctgctagtgaggcagacaggcagctaggagaggagcgg
+            ctgcgggagctcaccagcattgtgaatagatgcctgatacggaggacttctgatatcctt
+            tctaaatatctgcctgtgaagattgagcaggtcgtttgttgtaggctgacaccccttcag
+            actgagttatacaagaggtttctgagacaagccaaaccggcagaagaattgcttgagggc
+            aagatgagtgtgtcttccctttcttccatcacctcgctaaagaagctttgtaatcatcca
+            gctctaatctatgataagtgtgtggaagaggaggatggctttgtgggtgccttggacctc
+            ttccctcctggttacagctctaaggccctggagccccagctgtcaggtaagatgctggtc
+            ctggattatattctggcggtgacccgaagccgtagcagtgacaaagtagtgctggtgtcg
+            aattacacccagactttggatctctttgagaagctgtgccgtgcccgaaggtacttatac
+            gtccgcctggatggcacgatgtccattaagaagcgagccaaggttgtagaacgcttcaat
+            agtccatcgagccctgactttgtcttcatgctgagcagcaaagctgggggctgtggcctc
+            aatctcattggggctaaccggctggtcatgtttgaccctgactggaacccagccaatgat
+            gaacaagccatggcccgggtctggcgagatggtcaaaagaagacttgctatatctaccgc
+            ctgctgtctgcagggaccattgaggagaagatcttccagcgtcagagccacaagaaggca
+            ctgagcagctgtgtggtggatgaggagcaggatgtagagcgccacttctctctgggcgag
+            ttgaaggagctgtttatcctggatgaagctagcctcagtgacacacatgacaggttgcac
+            tgccgacgttgtgtcaacagccgtcagatccggccaccccctgatggttctgactgcact
+            tcagacctggcagggtggaaccactgcactgataagtgggggctccgggatgaggtactc
+            caggctgcctgggatgctgcctccactgccatcaccttcgtcttccaccagcgttctcat
+            gaggagcagcggggcctccgctga
+///

@@ -1,0 +1,89 @@
+ENTRY       4723              CDS       T01001
+NAME        NDUFV1, CI-51K, CI51KD, UQOR1
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase core subunit V1
+ORTHOLOGY   K03942  NADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:1.6.5.3 1.6.99.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4723 (NDUFV1)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4723 (NDUFV1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4723 (NDUFV1)
+               05012 Parkinson's disease
+                4723 (NDUFV1)
+               05016 Huntington's disease
+                4723 (NDUFV1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4723 (NDUFV1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4723 (NDUFV1)
+               1.6.99  With unknown physiological acceptors
+                1.6.99.3  NADH dehydrogenase
+                 4723 (NDUFV1)
+POSITION    11q13.2
+MOTIF       Pfam: Complex1_51K NADH_4Fe-4S SLBB
+DBLINKS     NCBI-GeneID: 4723
+            NCBI-ProteinID: NP_009034
+            OMIM: 161015
+            HGNC: 7716
+            Ensembl: ENSG00000167792
+            Vega: OTTHUMG00000166215
+            Pharos: P49821(Tclin)
+            UniProt: P49821 E5KNH5
+STRUCTURE   PDB: 5XTB 5XTD
+AASEQ       464
+            MLATRRLLGWSLPARVSVRFSGDTTAPKKTSFGSLKDEDRIFTNLYGRHDWRLKGSLSRG
+            DWYKTKEILLKGPDWILGEIKTSGLRGRGGAGFPTGLKWSFMNKPSDGRPKYLVVNADEG
+            EPGTCKDREILRHDPHKLLEGCLVGGRAMGARAAYIYIRGEFYNEASNLQVAIREAYEAG
+            LIGKNACGSGYDFDVFVVRGAGAYICGEETALIESIEGKQGKPRLKPPFPADVGVFGCPT
+            TVANVETVAVSPTICRRGGTWFAGFGRERNSGTKLFNISGHVNHPCTVEEEMSVPLKELI
+            EKHAGGVTGGWDNLLAVIPGGSSTPLIPKSVCETVLMDFDALVQAQTGLGTAAVIVMDRS
+            TDIVKAIARLIEFYKHESCGQCTPCREGVDWMNKVMARFVRGDARPAEIDSLWEISKQIE
+            GHTICALGDGAAWPVQGLIRHFRPELEERMQRFAQQHQARQAAS
+NTSEQ       1395
+            atgctggcaacacggcggctgctcggctggtcgcttcccgcgcgggtatctgtgcgtttc
+            agcggcgacacgacagcacccaagaaaacctcatttggctcgctgaaggatgaagaccgg
+            attttcaccaacctgtacggccgccatgactggaggctgaaaggttccctgagtcgaggt
+            gactggtacaagacaaaggagatcctgctgaaggggcccgactggatcctgggcgagatc
+            aagacatcgggtttgaggggccgtggaggcgctggcttccccactggcctcaagtggagc
+            ttcatgaataagccctcagatggcaggcccaagtatctggtggtgaacgcagacgagggg
+            gagccgggcacctgcaaggaccgggagatcttacgccatgatcctcacaagctgctggaa
+            ggctgcctggtggggggccgggccatgggcgcccgcgctgcctatatctacatccgaggg
+            gaattctacaatgaggcctccaatctgcaggtggccatccgagaggcctatgaggcaggt
+            ctgattggcaagaatgcttgtggctctggctatgattttgacgtgtttgtggtgcgcggg
+            gctggggcctacatctgtggagaggagacagcgctcatcgagtccattgagggcaagcag
+            ggcaagccccgcctgaagccccccttccccgcagacgtgggagtgtttggctgccccaca
+            actgtggccaacgtggagacagtggcagtgtcccccacaatctgccgccgtggaggtacc
+            tggtttgctggctttggcagagaacgcaactcaggcaccaaactattcaacatctctggc
+            catgtcaaccacccttgcactgtggaggaggagatgtctgtgcccttgaaagaactgatt
+            gagaagcatgctgggggtgtcacgggcggctgggacaacctccttgctgtgatccctggc
+            ggctcgtctaccccactgatccccaagtctgtgtgtgagacggtgctgatggacttcgat
+            gcgctggtgcaggcacagacaggcctgggcacagctgcggtgatcgtcatggaccgctcg
+            acggacatcgtgaaagccatcgcccgcctcattgagttctataagcacgagagctgtggc
+            cagtgtaccccatgccgtgagggtgtggactggatgaacaaggtgatggcacgtttcgtg
+            aggggggatgcccggccggccgagatcgactccctgtgggagatcagcaagcagatagaa
+            ggccatacgatttgtgctctgggtgacggggccgcctggcctgtgcagggtctgatccgc
+            cactttcggccggagctcgaggagcggatgcagcggtttgcccagcagcatcaggcccgg
+            caggctgcctcttag
+///

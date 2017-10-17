@@ -1,0 +1,78 @@
+ENTRY       8600              CDS       T01001
+NAME        TNFSF11, CD254, ODF, OPGL, OPTB2, RANKL, TNLG6B, TRANCE, hRANKL2, sOdf
+DEFINITION  (RefSeq) TNF superfamily member 11
+ORTHOLOGY   K05473  tumor necrosis factor ligand superfamily member 11
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04917  Prolactin signaling pathway
+            hsa05224  Breast cancer
+            hsa05323  Rheumatoid arthritis
+DISEASE     H00436  Osteopetrosis
+            H01470  Giant cell tumor of bone
+DRUG_TARGET Denosumab: D03684
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                8600 (TNFSF11)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                8600 (TNFSF11)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                8600 (TNFSF11)
+              Development
+               04380 Osteoclast differentiation
+                8600 (TNFSF11)
+             Human Diseases
+              Cancers
+               05224 Breast cancer
+                8600 (TNFSF11)
+              Immune diseases
+               05323 Rheumatoid arthritis
+                8600 (TNFSF11)
+            Cytokines [BR:hsa04052]
+             TNF family
+              8600 (TNFSF11)
+            CD molecules [BR:hsa04090]
+             Proteins
+              8600 (TNFSF11)
+POSITION    13q14.11
+MOTIF       Pfam: TNF
+DBLINKS     NCBI-GeneID: 8600
+            NCBI-ProteinID: NP_003692
+            OMIM: 602642
+            HGNC: 11926
+            Ensembl: ENSG00000120659
+            Vega: OTTHUMG00000016807
+            Pharos: O14788(Tclin)
+            UniProt: O14788 Q5T9Y4
+STRUCTURE   PDB: 3URF 5BNQ
+AASEQ       317
+            MRRASRDYTKYLRGSEEMGGGPGAPHEGPLHAPPPPAPHQPPAASRSMFVALLGLGLGQV
+            VCSVALFFYFRAQMDPNRISEDGTHCIYRILRLHENADFQDTTLESQDTKLIPDSCRRIK
+            QAFQGAVQKELQHIVGSQHIRAEKAMVDGSWLDLAKRSKLEAQPFAHLTINATDIPSGSH
+            KVSLSSWYHDRGWAKISNMTFSNGKLIVNQDGFYYLYANICFRHHETSGDLATEYLQLMV
+            YVTKTSIKIPSSHTLMKGGSTKYWSGNSEFHFYSINVGGFFKLRSGEEISIEVSNPSLLD
+            PDQDATYFGAFKVRDID
+NTSEQ       954
+            atgcgccgcgccagcagagactacaccaagtacctgcgtggctcggaggagatgggcggc
+            ggccccggagccccgcacgagggccccctgcacgccccgccgccgcctgcgccgcaccag
+            ccccctgccgcctcccgctccatgttcgtggccctcctggggctggggctgggccaggtt
+            gtctgcagcgtcgccctgttcttctatttcagagcgcagatggatcctaatagaatatca
+            gaagatggcactcactgcatttatagaattttgagactccatgaaaatgcagattttcaa
+            gacacaactctggagagtcaagatacaaaattaatacctgattcatgtaggagaattaaa
+            caggcctttcaaggagctgtgcaaaaggaattacaacatatcgttggatcacagcacatc
+            agagcagagaaagcgatggtggatggctcatggttagatctggccaagaggagcaagctt
+            gaagctcagccttttgctcatctcactattaatgccaccgacatcccatctggttcccat
+            aaagtgagtctgtcctcttggtaccatgatcggggttgggccaagatctccaacatgact
+            tttagcaatggaaaactaatagttaatcaggatggcttttattacctgtatgccaacatt
+            tgctttcgacatcatgaaacttcaggagacctagctacagagtatcttcaactaatggtg
+            tacgtcactaaaaccagcatcaaaatcccaagttctcataccctgatgaaaggaggaagc
+            accaagtattggtcagggaattctgaattccatttttattccataaacgttggtggattt
+            tttaagttacggtctggagaggaaatcagcatcgaggtctccaacccctccttactggat
+            ccggatcaggatgcaacatactttggggcttttaaagttcgagatatagattga
+///

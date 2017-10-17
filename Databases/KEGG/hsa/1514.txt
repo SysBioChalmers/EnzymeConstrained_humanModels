@@ -1,0 +1,95 @@
+ENTRY       1514              CDS       T01001
+NAME        CTSL, CATL, CTSL1, MEP
+DEFINITION  (RefSeq) cathepsin L
+ORTHOLOGY   K01365  cathepsin L [EC:3.4.22.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04140  Autophagy - animal
+            hsa04142  Lysosome
+            hsa04145  Phagosome
+            hsa04210  Apoptosis
+            hsa04612  Antigen processing and presentation
+            hsa05205  Proteoglycans in cancer
+            hsa05323  Rheumatoid arthritis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                1514 (CTSL)
+               04142 Lysosome
+                1514 (CTSL)
+               04140 Autophagy - animal
+                1514 (CTSL)
+              Cell growth and death
+               04210 Apoptosis
+                1514 (CTSL)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                1514 (CTSL)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                1514 (CTSL)
+              Immune diseases
+               05323 Rheumatoid arthritis
+                1514 (CTSL)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                1514 (CTSL)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.15  cathepsin L
+                 1514 (CTSL)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C1: papain family
+               1514 (CTSL)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Intramolecular chaperones
+              Papain family
+               1514 (CTSL)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Others
+              1514 (CTSL)
+POSITION    9q21.33
+MOTIF       Pfam: Peptidase_C1 Inhibitor_I29 Peptidase_C1_2 Styelin
+DBLINKS     NCBI-GeneID: 1514
+            NCBI-ProteinID: NP_001244900
+            OMIM: 116880
+            HGNC: 2537
+            Ensembl: ENSG00000135047
+            Vega: OTTHUMG00000020149
+            Pharos: P07711(Tchem)
+            UniProt: P07711 A0A024R276
+STRUCTURE   PDB: 2XU3 5MAE 5MAJ 2XU4 5MQY 2YJC 2YJ2 3HHA 2YJ8 2YJ9 2YJB
+                 5I4H 5F02 2XU1 2XU5 3KSE 2NQD 3OF9 3H8B 1CS8 1MHW 4AXL
+                 1ICF 3OF8 3IV2 3BC3 1CJL 3HWN 3K24 3H89 3H8C 4AXM
+AASEQ       333
+            MNPTLILAAFCLGIASATLTFDHSLEAQWTKWKAMHNRLYGMNEEGWRRAVWEKNMKMIE
+            LHNQEYREGKHSFTMAMNAFGDMTSEEFRQVMNGFQNRKPRKGKVFQEPLFYEAPRSVDW
+            REKGYVTPVKNQGQCGSCWAFSATGALEGQMFRKTGRLISLSEQNLVDCSGPQGNEGCNG
+            GLMDYAFQYVQDNGGLDSEESYPYEATEESCKYNPKYSVANDTGFVDIPKQEKALMKAVA
+            TVGPISVAIDAGHESFLFYKEGIYFEPDCSSEDMDHGVLVVGYGFESTESDNNKYWLVKN
+            SWGEEWGMGGYVKMAKDRRNHCGIASAASYPTV
+NTSEQ       1002
+            atgaatcctacactcatccttgctgccttttgcctgggaattgcctcagctactctaaca
+            tttgatcacagtttagaggcacagtggaccaagtggaaggcgatgcacaacagattatac
+            ggcatgaatgaagaaggatggaggagagcagtgtgggagaagaacatgaagatgattgaa
+            ctgcacaatcaggaatacagggaagggaaacacagcttcacaatggccatgaacgccttt
+            ggagacatgaccagtgaagaattcaggcaggtgatgaatggctttcaaaaccgtaagccc
+            aggaaggggaaagtgttccaggaacctctgttttatgaggcccccagatctgtggattgg
+            agagagaaaggctacgtgactcctgtgaagaatcagggtcagtgtggttcttgttgggct
+            tttagtgctactggtgctcttgaaggacagatgttccggaaaactgggaggcttatctca
+            ctgagtgagcagaatctggtagactgctctgggcctcaaggcaatgaaggctgcaatggt
+            ggcctaatggattatgctttccagtatgttcaggataatggaggcctggactctgaggaa
+            tcctatccatatgaggcaacagaagaatcctgtaagtacaatcccaagtattctgttgct
+            aatgacaccggctttgtggacatccctaagcaggagaaggccctgatgaaggcagttgca
+            actgtggggcccatttctgttgctattgatgcaggtcatgagtccttcctgttctataaa
+            gaaggcatttattttgagccagactgtagcagtgaagacatggatcatggtgtgctggtg
+            gttggctacggatttgaaagcacagaatcagataacaataaatattggctggtgaagaac
+            agctggggtgaagaatggggcatgggtggctacgtaaagatggccaaagaccggagaaac
+            cattgtggaattgcctcagcagccagctaccccactgtgtga
+///

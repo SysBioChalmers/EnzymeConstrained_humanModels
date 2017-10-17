@@ -1,0 +1,98 @@
+ENTRY       5859              CDS       T01001
+NAME        QARS, GLNRS, MSCCA, PRO2195
+DEFINITION  (RefSeq) glutaminyl-tRNA synthetase
+ORTHOLOGY   K01886  glutaminyl-tRNA synthetase [EC:6.1.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+DISEASE     H00269  Primary microcephaly (MCPH)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                5859 (QARS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.18  glutamine---tRNA ligase
+                 5859 (QARS)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class I (A)
+               5859 (QARS)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                5859 (QARS)
+             Prokaryotic Type
+               Other AARSs
+                5859 (QARS)
+POSITION    3p21.31
+MOTIF       Pfam: tRNA-synt_1c tRNA_synt_1c_R1 tRNA-synt_1c_C tRNA_synt_1c_R2 DUF5136
+DBLINKS     NCBI-GeneID: 5859
+            NCBI-ProteinID: NP_005042
+            OMIM: 603727
+            HGNC: 9751
+            Ensembl: ENSG00000172053
+            Vega: OTTHUMG00000156774
+            Pharos: P47897(Tchem)
+            UniProt: P47897 B7Z840
+STRUCTURE   PDB: 4YE6 4YE9 4YE8 4R3Z
+AASEQ       775
+            MAALDSLSLFTSLGLSEQKARETLKNSALSAQLREAATQAQQTLGSTIDKATGILLYGLA
+            SRLRDTRRLSFLVSYIASKKIHTEPQLSAALEYVRSHPLDPIDTVDFERECGVGVIVTPE
+            QIEEAVEAAINRHRPQLLVERYHFNMGLLMGEARAVLKWADGKMIKNEVDMQVLHLLGPK
+            LEADLEKKFKVAKARLEETDRRTAKDVVENGETADQTLSLMEQLRGEALKFHKPGENYKT
+            PGYVVTPHTMNLLKQHLEITGGQVRTRFPPEPNGILHIGHAKAINFNFGYAKANNGICFL
+            RFDDTNPEKEEAKFFTAICDMVAWLGYTPYKVTYASDYFDQLYAWAVELIRRGLAYVCHQ
+            RGEELKGHNTLPSPWRDRPMEESLLLFEAMRKGKFSEGEATLRMKLVMEDGKMDPVAYRV
+            KYTPHHRTGDKWCIYPTYDYTHCLCDSIEHITHSLCTKEFQARRSSYFWLCNALDVYCPV
+            QWEYGRLNLHYAVVSKRKILQLVATGAVRDWDDPRLFTLTALRRRGFPPEAINNFCARVG
+            VTVAQTTMEPHLLEACVRDVLNDTAPRAMAVLESLRVIITNFPAAKSLDIQVPNFPADET
+            KGFHQVPFAPIVFIERTDFKEEPEPGFKRLAWGQPVGLRHTGYVIELQHVVKGPSGCVES
+            LEVTCRRADAGEKPKAFIHWVSQPLMCEVRLYERLFQHKNPEDPTEVPGGFLSDLNLASL
+            HVVDAALVDCSVALAKPFDKFQFERLGYFSVDPDSHQGKLVFNRTVTLKEDPGKV
+NTSEQ       2328
+            atggcggctctagactccctgtcgctcttcactagcctcggcctgagcgagcagaaggcc
+            cgcgagacgctcaagaactcggctctgagcgcgcagctgcgcgaggccgctactcaggct
+            cagcagaccctgggttccaccattgacaaagctaccgggatcctgttatatggcttggcc
+            tcccgactcagggatacccggcgtctctccttccttgtaagctacatagccagtaagaag
+            atccacactgagccccagctaagcgctgcccttgagtatgtgcggagtcaccccttggac
+            cccatcgacactgtggacttcgagcgggaatgtggcgtgggtgtcattgtgaccccagag
+            cagattgaggaggctgtggaggctgctattaacaggcaccggccccagctcctggtggaa
+            cgttaccatttcaacatggggctgctgatgggagaggctcgggctgtgctgaagtgggca
+            gatggcaaaatgatcaagaatgaagtggacatgcaggtcctccaccttctgggccccaag
+            ttggaggctgatctggagaagaagttcaaggtggcaaaagctcggctagaagaaacagac
+            cggaggacggcaaaggatgtggtggagaatggcgagactgctgaccagaccctgtctctg
+            atggagcagctccggggggaggcccttaagttccacaagcctggtgagaactacaagacc
+            ccaggctatgtggtcactccacacaccatgaatctactaaagcagcacctggagattact
+            ggtgggcaggtacgtacccggttcccgccagaacccaatggaatcctgcatattggacat
+            gccaaagccatcaatttcaactttggctatgccaaggccaacaatggcatctgttttctg
+            cgttttgatgacaccaaccctgagaaggaggaagcaaagttcttcacggccatctgtgac
+            atggtagcctggctaggctacacaccttacaaagtcacatatgcgtctgactattttgac
+            cagctatatgcgtgggctgtggagctcatccgcaggggtctggcttatgtgtgccaccag
+            cgaggagaggagctcaaaggccataatactctgccttcaccctggagagaccgtcccatg
+            gaggagtcactgctgctctttgaggcaatgcgcaagggcaagttttcagagggcgaggcc
+            acactacggatgaagctggtgatggaggatggcaagatggaccctgtagcctatcgagtc
+            aagtatacaccacaccaccgcacaggggacaaatggtgcatctatcccacctacgactac
+            acacactgcctctgtgactccatcgagcacatcactcactcactctgcaccaaggaattc
+            caggcccgacgctcttcctacttctggctttgcaatgcactggacgtctattgccctgtg
+            cagtgggagtatggccgcctcaacctgcactatgctgttgtctctaagaggaagatcctc
+            cagcttgtagcaactggtgctgtgcgggactgggatgacccacggctctttacactcacg
+            gccctgcgacggcggggcttcccacctgaggccatcaacaacttctgtgcccgggtggga
+            gtgactgtggcacaaaccacaatggagccacatcttctagaagcctgtgtgcgtgatgtg
+            ctgaatgacacagccccacgagccatggctgtgctggagtcactacgggtcatcatcacc
+            aactttcctgctgccaagtccttggacatccaggtgcccaacttcccagctgatgagacc
+            aaaggcttccatcaggttccctttgcacccattgtcttcattgagaggactgacttcaag
+            gaggagccagagccaggatttaagcgcctggcttggggccagcctgtgggcctgaggcat
+            acaggctacgtcattgagctgcagcatgttgtcaagggccccagtggttgtgtagagagt
+            ctggaggtgacctgcagacgggcagatgctggagagaagccaaaggcctttattcactgg
+            gtgtcacagcctttgatgtgtgaggttcgcctctatgagcgactattccagcacaagaac
+            cctgaagatcctactgaggtgcctggtggatttttaagtgacctgaacctggcatcacta
+            cacgtggtggatgcagcattagtggactgctctgtggccctggcaaaacccttcgacaag
+            ttccagtttgagcgtcttggatatttctccgtggatccagacagccatcagggaaagctt
+            gtctttaaccgaactgtcacactgaaggaagacccaggaaaggtgtga
+///

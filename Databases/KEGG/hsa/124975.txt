@@ -1,0 +1,78 @@
+ENTRY       124975            CDS       T01001
+NAME        GGT6
+DEFINITION  (RefSeq) gamma-glutamyltransferase 6
+ORTHOLOGY   K00681  gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00430  Taurine and hypotaurine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+DRUG_TARGET Acivicin: D02755
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00430 Taurine and hypotaurine metabolism
+                124975 (GGT6)
+               00480 Glutathione metabolism
+                124975 (GGT6)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.2  gamma-glutamyltransferase
+                 124975 (GGT6)
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.13  glutathione hydrolase
+                 124975 (GGT6)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T3: gamma-glutamyltransferase family
+               124975 (GGT6)
+POSITION    17p13.2
+MOTIF       Pfam: G_glu_transpept DUF872
+DBLINKS     NCBI-GeneID: 124975
+            NCBI-ProteinID: NP_001116362
+            OMIM: 612341
+            HGNC: 26891
+            Ensembl: ENSG00000167741
+            Vega: OTTHUMG00000177827
+            Pharos: Q6P531(Tdark)
+            UniProt: Q6P531 Q6ZPD7
+AASEQ       493
+            MERAEEPVVYQKLLPWEPSLESEEEVEEEETSEALVLNPRRHQDSSRNKAGGLPGTWARV
+            VAALLLLAVGCSLAVRQLQNQGRSTGSLGSVAPPPGGHSHGPGVYHHGAIISPAGRELLV
+            AGGNVVDAGVGAALCLAVVHPHATGLGAMFWGLFHDSSSGNSTALTSGPAQTLAPGLGLP
+            AALPTLHLLHARFGRLPWPRLLVGPTTLAQEGFLVDTPLARALVARGTEGLCPLLCHADG
+            TPLGAGARATNPQLAAVLRSAALAPTSDLAGDALLSLLAGDLGVEVPSAVPRPTLEPAEQ
+            LPVPQGILFTTPSPSAGPELLALLEAALRSGAPIPDPCPPFLQTAVSPESSALAAVDSSG
+            SVLLLTSSLNCSFGSAHLSPSTGVLLSNLVAKSTTSAWACPLILRGSLDDTEADVLGLVA
+            SGTPDVARAMTHTLLRHLAARPPTQAQHQHQGQQEPTEHPSTCGQGTLLQVAAHTEHAHV
+            SSVPHACCPFQGF
+NTSEQ       1482
+            atggagcgggcagaagagcccgtggtctatcagaagctgctgccctgggagccaagcttg
+            gagtcggaggaggaagtggaggaggaggagacatcagaggcgctggttctaaacccccgg
+            aggcaccaggactcttccaggaacaaggctggcgggctgcccggaacctgggcccgtgta
+            gtggcagccctgctgctgctggctgttggctgctccctggctgtgaggcagctccagaat
+            cagggcaggtcgacaggaagcttgggctctgtggcccctccacccggcggacactcccac
+            ggccctggcgtataccaccacggtgccatcatcagccctgcaggccgagagctgcttgtt
+            gccgggggcaacgtcgtggatgctggagttggagctgcattgtgcctggcagtggtgcat
+            cctcatgccacggggctaggtgccatgttttggggcctcttccacgatagctcctcaggc
+            aattccacggccctgacatcaggcccagcacagaccctggcccccggcctggggctgccc
+            gcggctctgcccaccctgcacctgctgcatgcacgcttcggccgcctgccctggccacgc
+            ctgctagtgggccccaccacgctggctcaggagggcttcctggtggacacacccctggca
+            agggctctggtggctcggggcacagaaggcctctgtccactactttgccatgctgatggg
+            acacccctgggcgctggggcccgagccaccaacccacaactggcagctgtgcttcgcagc
+            gcagccctcgctcccacctcagaccttgctggggatgctctactgagtctactggcggga
+            gacctgggggtggaggtgccctcggctgtgcccaggcccactttggaaccagcagagcag
+            ctacctgtgccccagggcatcctgttcaccacccccagtccctcagctggcccagaactg
+            ctggcactgttggaggcagccctgcgctccggggcgcccatccctgacccctgcccaccg
+            ttcctgcagactgctgtgagccccgagagcagtgccctggccgccgtggacagcagcggc
+            tctgtgctccttctcacctcctcgctcaactgctcctttggctctgcacacctgtcccca
+            agcactggggttctgctcagcaacctggtggccaagtctaccactagtgcctgggcctgc
+            cccctcatcctccgtggcagcctggatgacacagaggctgatgtgttggggcttgtggct
+            tcagggacccctgatgtggccagggccatgactcacaccctactcaggcatctggcagca
+            aggccccctacccaggcccagcaccagcatcagggtcagcaagaaccaacagagcatccc
+            agcacttgtggccaagggaccctgctccaggtggcagcccacacagagcacgcccatgtc
+            tccagtgtcccccatgcctgctgccccttccaggggttctaa
+///

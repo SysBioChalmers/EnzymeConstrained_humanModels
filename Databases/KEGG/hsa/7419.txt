@@ -1,0 +1,91 @@
+ENTRY       7419              CDS       T01001
+NAME        VDAC3, HD-VDAC3, VDAC-3
+DEFINITION  (RefSeq) voltage dependent anion channel 3
+ORTHOLOGY   K15041  voltage-dependent anion channel protein 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04216  Ferroptosis
+            hsa04217  Necroptosis
+            hsa04218  Cellular senescence
+            hsa04621  NOD-like receptor signaling pathway
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                7419 (VDAC3)
+               04022 cGMP - PKG signaling pathway
+                7419 (VDAC3)
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                7419 (VDAC3)
+               04217 Necroptosis
+                7419 (VDAC3)
+               04218 Cellular senescence
+                7419 (VDAC3)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                7419 (VDAC3)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                7419 (VDAC3)
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                7419 (VDAC3)
+               05016 Huntington's disease
+                7419 (VDAC3)
+              Infectious diseases
+               05166 HTLV-I infection
+                7419 (VDAC3)
+               05161 Hepatitis B
+                7419 (VDAC3)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Porin
+                7419 (VDAC3)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               7419 (VDAC3)
+POSITION    8p11.21
+MOTIF       Pfam: Porin_3
+DBLINKS     NCBI-GeneID: 7419
+            NCBI-ProteinID: NP_005653
+            OMIM: 610029
+            HGNC: 12674
+            Ensembl: ENSG00000078668
+            Vega: OTTHUMG00000164168
+            Pharos: Q9Y277(Tbio)
+            UniProt: Q9Y277
+AASEQ       283
+            MCNTPTYCDLGKAAKDVFNKGYGFGMVKIDLKTKSCSGVEFSTSGHAYTDTGKASGNLET
+            KYKVCNYGLTFTQKWNTDNTLGTEISWENKLAEGLKLTLDTIFVPNTGKKSGKLKASYKR
+            DCFSVGSNVDIDFSGPTIYGWAVLAFEGWLAGYQMSFDTAKSKLSQNNFALGYKAADFQL
+            HTHVNDGTEFGGSIYQKVNEKIETSINLAWTAGSNNTRFGIAAKYMLDCRTSLSAKVNNA
+            SLIGLGYTQTLRPGVKLTLSALIDGKNFSAGGHKVGLGFELEA
+NTSEQ       852
+            atgtgtaacacaccaacgtactgtgacctaggaaaggctgctaaggatgtcttcaacaaa
+            ggatatggctttggcatggtcaagatagacctgaaaaccaagtcttgtagtggagtggaa
+            ttttctacttctggtcatgcttacactgatacagggaaagcatcaggcaacctagaaacc
+            aaatataaggtctgtaactatggacttaccttcacccagaaatggaacacagacaatact
+            ctagggacagaaatctcttgggagaataagttggctgaagggttgaaactgactcttgat
+            accatatttgtaccgaacacaggaaagaagagtgggaaattgaaggcctcctataaacgg
+            gattgttttagtgttggcagtaatgttgatatagatttttctggaccaaccatctatggc
+            tgggctgtgttggccttcgaagggtggcttgctggctatcagatgagttttgacacagcc
+            aaatccaaactgtcacagaataatttcgccctgggttacaaggctgcggacttccagctg
+            cacacacatgtgaacgatggcactgaatttggaggttctatctaccagaaggtgaatgag
+            aagattgaaacatccataaaccttgcttggacagctgggagtaacaacacccgttttggc
+            attgctgctaagtacatgctggattgtagaacttctctctctgctaaagtaaataatgcc
+            agcctgattggactgggttatactcagacccttcgaccaggagtcaaattgactttatca
+            gctttaatcgatgggaagaacttcagtgcaggaggtcacaaggttggcttgggatttgaa
+            ctggaagcttaa
+///

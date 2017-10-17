@@ -1,0 +1,72 @@
+ENTRY       29935             CDS       T01001
+NAME        RPA4, HSU24186
+DEFINITION  (RefSeq) replication protein A4
+ORTHOLOGY   K10741  replication factor A4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+            hsa03460  Fanconi anemia pathway
+MODULE      hsa_M00288  RPA complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                29935 (RPA4)
+               03420 Nucleotide excision repair
+                29935 (RPA4)
+               03430 Mismatch repair
+                29935 (RPA4)
+               03440 Homologous recombination
+                29935 (RPA4)
+               03460 Fanconi anemia pathway
+                29935 (RPA4)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RPA (replication protein A)
+                29935 (RPA4)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                RPA (replication factor A)
+                 29935 (RPA4)
+               MMR (mismatch exicision repair)
+                 29935 (RPA4)
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                 29935 (RPA4)
+POSITION    Xq21.33
+MOTIF       Pfam: RPA_C tRNA_anti-codon RMI2 PolyA_pol
+DBLINKS     NCBI-GeneID: 29935
+            NCBI-ProteinID: NP_037479
+            OMIM: 300767
+            HGNC: 30305
+            Ensembl: ENSG00000204086
+            Vega: OTTHUMG00000021987
+            Pharos: Q13156(Tbio)
+            UniProt: Q13156
+AASEQ       261
+            MSKSGFGSYGSISAADGASGGSDQLCERDATPAIKTQRPKVRIQDVVPCNVNQLLSSTVF
+            DPVFKVRGIIVSQVSIVGVIRGAEKASNHICYKIDDMTAKPIEARQWFGREKVKQVTPLS
+            VGVYVKVFGILKCPTGTKSLEVLKIHVLEDMNEFTVHILETVNAHMMLDKARRDTTVESV
+            PVSPSEVNDAGDNDESHRNFIQDEVLRLIHECPHQEGKSIHELRAQLCDLSVKAIKEAID
+            YLTVEGHIYPTVDREHFKSAD
+NTSEQ       786
+            atgagtaagagtgggtttgggagctatggcagcatttctgctgctgatggagcgagtgga
+            ggcagtgaccaactgtgtgagagagatgcaactcctgctattaagacccaaagacctaag
+            gtccgaattcaggacgttgtaccgtgtaatgtgaaccagcttctcagctctactgtgttt
+            gaccctgtgttcaaggttaggggaattatagtttcccaggtctccatcgtgggggtaatc
+            agaggggcagagaaggcttcaaatcacatttgttacaaaattgatgatatgaccgcgaaa
+            ccaatcgaggcccgacagtggtttggtagagagaaagtcaagcaggtgactccattgtca
+            gtcggagtatatgtcaaagtgtttggtatcctcaaatgtcccacgggaacaaagagcctt
+            gaggtattgaaaattcatgtcctagaggacatgaacgagttcaccgtgcatattctggaa
+            acggtcaatgcacacatgatgctggataaagcccgtcgtgataccactgtagaaagtgtg
+            cctgtgtctccatcagaagtgaatgatgctggggataacgatgagagtcaccgcaatttc
+            atccaggacgaagtgctgcgtttgattcatgagtgtcctcatcaggaagggaagagcatc
+            catgagctccgggctcagctctgcgaccttagcgtcaaggccatcaaggaagcgattgat
+            tatctgaccgttgagggccacatctatcccactgtggatcgggagcattttaagtctgct
+            gattga
+///

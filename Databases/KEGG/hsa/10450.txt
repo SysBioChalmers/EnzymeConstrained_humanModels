@@ -1,0 +1,66 @@
+ENTRY       10450             CDS       T01001
+NAME        PPIE, CYP-33, CYP33
+DEFINITION  (RefSeq) peptidylprolyl isomerase E
+ORTHOLOGY   K09564  peptidyl-prolyl isomerase E (cyclophilin E) [EC:5.2.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00355  Spliceosome, 35S U5-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                10450 (PPIE)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 10450 (PPIE)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              Other components
+               Prp19-related factors
+                10450 (PPIE)
+             Complex C
+                10450 (PPIE)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                10450 (PPIE)
+POSITION    1p34.2
+MOTIF       Pfam: Pro_isomerase RRM_1 RRM_5 DUF4944 RRM_occluded RRM_7 Nup35_RRM_2
+DBLINKS     NCBI-GeneID: 10450
+            NCBI-ProteinID: NP_006103
+            OMIM: 602435
+            HGNC: 9258
+            Ensembl: ENSG00000084072
+            Vega: OTTHUMG00000009248
+            Pharos: Q9UNP9(Tbio)
+            UniProt: Q9UNP9
+STRUCTURE   PDB: 2R99 3MDF 1ZMF 3LPY 3UCH 5MQF 2KYX 2KU7 2CQB
+AASEQ       301
+            MATTKRVLYVGGLAEEVDDKVLHAAFIPFGDITDIQIPLDYETEKHRGFAFVEFELAEDA
+            AAAIDNMNESELFGRTIRVNLAKPMRIKEGSSRPVWSDDDWLKKFSGKTLEENKEEEGSE
+            PPKAETQEGEPIAKKARSNPQVYMDIKIGNKPAGRIQMLLRSDVVPMTAENFRCLCTHEK
+            GFGFKGSSFHRIIPQFMCQGGDFTNHNGTGGKSIYGKKFDDENFILKHTGPGLLSMANSG
+            PNTNGSQFFLTCDKTDWLDGKHVVFGEVTEGLDVLRQIEAQGSKDGKPKQKVIIADCGEY
+            V
+NTSEQ       906
+            atggccaccaccaagcgcgtcttgtacgtgggtggactggcagaggaagtggacgacaaa
+            gttcttcatgctgcgttcattccttttggagacatcacagatattcagattcctctggat
+            tatgaaacagaaaagcaccgaggatttgcttttgttgaatttgagttggcagaggatgct
+            gcagcagctatcgacaacatgaatgaatctgagctttttggacgtacaattcgtgtcaat
+            ttggccaaaccaatgagaattaaggaaggctcttccaggccagtttggtcagatgatgac
+            tggttgaagaagttttctgggaagacgcttgaagagaataaagaggaagaagggtcagag
+            cctcccaaagcagagacccaggagggagagcccattgctaaaaaggcccgctcaaatcct
+            caggtgtacatggacatcaagattgggaacaagccggctggccgcatccagatgctcctg
+            cgttctgatgtcgtgcccatgacagcagagaatttccgctgcctgtgcactcatgaaaag
+            ggctttggctttaagggaagcagcttccaccgcatcatcccccagttcatgtgccagggc
+            ggtgatttcacaaaccacaatggcactgggggcaagtccatctatgggaagaagttcgat
+            gatgaaaactttatcctcaagcatacgggaccaggtctactatccatggccaactctggc
+            ccaaacaccaatggctctcagttcttcctgacatgtgacaagacagactggctggatggc
+            aagcatgtggtgtttggagaggtcaccgaaggcctagatgtcttgcggcaaattgaggcc
+            cagggcagcaaggacgggaagccaaagcagaaggtgatcatcgccgactgtggggagtac
+            gtgtga
+///

@@ -1,0 +1,89 @@
+ENTRY       8379              CDS       T01001
+NAME        MAD1L1, MAD1, PIG9, TP53I9, TXBP181
+DEFINITION  (RefSeq) MAD1 mitotic arrest deficient like 1
+ORTHOLOGY   K06638  mitotic spindle assembly checkpoint protein MAD1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                8379 (MAD1L1)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                8379 (MAD1L1)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                8379 (MAD1L1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centromeric chromatin formation proteins
+               SAC (spindle assembly checkpoint) factors
+                Core SAC proteins
+                 8379 (MAD1L1)
+POSITION    7p22.3
+MOTIF       Pfam: MAD DUF4200 TSC22 Ste5_C DUF2856 Reo_sigmaC
+DBLINKS     NCBI-GeneID: 8379
+            NCBI-ProteinID: NP_001013858
+            OMIM: 602686
+            HGNC: 6762
+            Ensembl: ENSG00000002822
+            Vega: OTTHUMG00000151493
+            Pharos: Q9Y6D9(Tbio)
+            UniProt: Q9Y6D9
+STRUCTURE   PDB: 4DZO 1GO4
+AASEQ       718
+            MEDLGENTMVLSTLRSLNNFISQRVEGGSGLDISTSAPGSLQMQYQQSMQLEERAEQIRS
+            KSHLIQVEREKMQMELSHKRARVELERAASTSARNYEREVDRNQELLTRIRQLQEREAGA
+            EEKMQEQLERNRQCQQNLDAASKRLREKEDSLAQAGETINALKGRISELQWSVMDQEMRV
+            KRLESEKQELQEQLDLQHKKCQEANQKIQELQASQEARADHEQQIKDLEQKLSLQEQDAA
+            IVKNMKSELVRLPRLERELKQLREESAHLREMRETNGLLQEELEGLQRKLGRQEKMQETL
+            VGLELENERLLAKLQSWERLDQTMGLSIRTPEDLSRFVVELQQRELALKDKNSAVTSSAR
+            GLEKARQQLQEELRQVSGQLLEERKKRETHEALARRLQKRVLLLTKERDGMRAILGSYDS
+            ELTPAEYSPQLTRRMREAEDMVQKVHSHSAEMEAQLSQALEELGGQKQRADMLEMELKML
+            KSQSSSAEQSFLFSREEADTLRLKVEELEGERSRLEEEKRMLEAQLERRALQGDYDQSRT
+            KVLHMSLNPTSVARQRLREDHSQLQAECERLRGLLRAMERGGTVPADLEAAAASLPSSKE
+            VAELKKQVESAELKNQRLKEVFQTKIQEFRKACYTLTGYQIDITTENQYRLTSLYAEHPG
+            DCLIFKATSPSGSKMQLLETEFSHTVGELIEVHLRRQDSIPAFLSSLTLELFSRQTVA
+NTSEQ       2157
+            atggaagacctgggggaaaacaccatggttttatccaccctgagatctttgaacaacttc
+            atctctcagcgtgtggagggaggctctggactggatatttctacctcggccccaggttct
+            ctgcagatgcagtaccagcagagcatgcagctggaggaaagagcagagcagatccgttcg
+            aagtcccacctcatccaggtggagcgggagaaaatgcagatggagctgagtcacaagagg
+            gctcgagtggagctggagagagcagccagcaccagtgccaggaactacgagcgtgaggtc
+            gaccgcaaccaggagctcctgacgcgcatccggcagcttcaggagcgggaggccggggcg
+            gaggagaagatgcaggagcagctggagcgcaacaggcagtgtcagcagaacttggatgct
+            gccagcaagaggctgcgtgagaaagaggacagtctggcccaggctggcgagaccatcaac
+            gcactgaaggggaggatctcggaactgcagtggagcgtgatggaccaggagatgcgggtg
+            aagcgcctggagtcggagaagcaggagctgcaggagcagctggacctgcaacacaaaaaa
+            tgccaggaagccaatcagaaaatccaggaactccaggccagccaagaagcaagagcagac
+            cacgagcagcagattaaggatctggagcagaagctgtccctgcaagagcaggatgcagcg
+            attgtgaagaacatgaagtctgagctggtacggctccctaggctggaacgggagctgaag
+            cagctgcgggaggagagcgcgcacctgcgggagatgagagagaccaacgggctgctccag
+            gaagagctggaagggctgcagaggaagctggggcgccaggagaagatgcaggagacgctg
+            gttggcttggagctggagaacgagaggctgctggccaagctgcaaagctgggagagactg
+            gaccagaccatgggcctgagcatcaggactccagaagacctttccagattcgtggttgag
+            ctgcagcagagggagcttgccttgaaggacaagaacagcgccgtcaccagcagcgcccgg
+            gggctggagaaggccaggcagcagctgcaggaggagctccggcaggtcagcggccagctg
+            ttggaggagaggaagaagcgcgagacccacgaggcgctggcccggaggctccagaaacgg
+            gtcctgctgctcaccaaggagcgggacggtatgcgggccatcctggggtcctacgacagc
+            gagctgaccccggccgagtactcaccccagctgacgcggcgcatgcgggaggctgaggat
+            atggtgcagaaggtgcacagccacagcgccgagatggaggctcagctgtcgcaggccctg
+            gaggagctgggaggccagaaacaaagagcagacatgctggagatggagctgaagatgctg
+            aagtctcagtccagctctgccgaacagagcttcctgttctccagggaggaggcggacacg
+            ctcaggttgaaggtcgaggagctggaaggcgagcggagtcggctggaggaggaaaagagg
+            atgctggaggcacagctggagcggcgagctctgcagggtgactatgaccagagcaggacc
+            aaagtgctgcacatgagcctgaaccccaccagtgtggccaggcagcgcctgcgcgaggac
+            cacagccagctgcaggcggagtgcgagcgactgcgcgggctcctgcgcgccatggagaga
+            ggaggcaccgtcccagccgaccttgaggctgccgccgcgagtctgccatcgtccaaggag
+            gtggcagagctgaagaagcaggtggagagtgccgagctgaagaaccagcggctcaaggag
+            gttttccagaccaagatccaggagttccgcaaggcctgctacacgctcaccggctaccag
+            atcgacatcaccacggagaaccagtaccggctgacctcgctgtacgccgagcacccaggc
+            gactgcctcatcttcaaggccaccagcccctcgggttccaagatgcagctactggagaca
+            gagttctcacacaccgtgggcgagctcatcgaggtgcacctgcggcgccaggacagcatc
+            cctgccttcctcagctcgctcaccctcgagctcttcagccgccagaccgtggcgtag
+///

@@ -1,0 +1,99 @@
+ENTRY       6531              CDS       T01001
+NAME        SLC6A3, DAT, DAT1, PKDYS
+DEFINITION  (RefSeq) solute carrier family 6 member 3
+ORTHOLOGY   K05036  solute carrier family 6 (neurotransmitter transporter, dopamine) member 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04728  Dopaminergic synapse
+            hsa05012  Parkinson's disease
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+DRUG_TARGET Amfetamine (DG00966): D02074 D07445
+            Amfonelic acid: D02897
+            Bicifadine hydrochloride: D03110
+            Brasofensine maleate: D03153
+            Centanafadine (DG01858): D10697
+            Cocaine (DG00808): D00110 D02182
+            Dexamfetamine (DG00967): D02078 D03740
+            Iodine ioflupane (123I): D10014
+            Lisdexamfetamine (DG00973): D04747 D08130
+            Mazindol: D00367
+            Metamfetamine (DG00968): D02242 D08187
+            Pyrovalerone hydrochloride: D05663
+            Sibutramine (DG00108): D02571 D08513
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                6531 (SLC6A3)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                6531 (SLC6A3)
+              Substance dependence
+               05030 Cocaine addiction
+                6531 (SLC6A3)
+               05031 Amphetamine addiction
+                6531 (SLC6A3)
+               05034 Alcoholism
+                6531 (SLC6A3)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC6: Sodium- and chloride-dependent neurotransmitter transporter
+               6531 (SLC6A3)
+POSITION    5p15.33
+MOTIF       Pfam: SNF
+DBLINKS     NCBI-GeneID: 6531
+            NCBI-ProteinID: NP_001035
+            OMIM: 126455
+            HGNC: 11049
+            Ensembl: ENSG00000142319
+            Vega: OTTHUMG00000131016
+            Pharos: Q01959(Tclin)
+            UniProt: Q01959
+AASEQ       620
+            MSKSKCSVGLMSSVVAPAKEPNAVGPKEVELILVKEQNGVQLTSSTLTNPRQSPVEAQDR
+            ETWGKKIDFLLSVIGFAVDLANVWRFPYLCYKNGGGAFLVPYLLFMVIAGMPLFYMELAL
+            GQFNREGAAGVWKICPILKGVGFTVILISLYVGFFYNVIIAWALHYLFSSFTTELPWIHC
+            NNSWNSPNCSDAHPGDSSGDSSGLNDTFGTTPAAEYFERGVLHLHQSHGIDDLGPPRWQL
+            TACLVLVIVLLYFSLWKGVKTSGKVVWITATMPYVVLTALLLRGVTLPGAIDGIRAYLSV
+            DFYRLCEASVWIDAATQVCFSLGVGFGVLIAFSSYNKFTNNCYRDAIVTTSINSLTSFSS
+            GFVVFSFLGYMAQKHSVPIGDVAKDGPGLIFIIYPEAIATLPLSSAWAVVFFIMLLTLGI
+            DSAMGGMESVITGLIDEFQLLHRHRELFTLFIVLATFLLSLFCVTNGGIYVFTLLDHFAA
+            GTSILFGVLIEAIGVAWFYGVGQFSDDIQQMTGQRPSLYWRLCWKLVSPCFLLFVVVVSI
+            VTFRPPHYGAYIFPDWANALGWVIATSSMAMVPIYAAYKFCSLPGSFREKLAYAIAPEKD
+            RELVDRGEVRQFTLRHWLKV
+NTSEQ       1863
+            atgagtaagagcaaatgctccgtgggactcatgtcttccgtggtggccccggctaaggag
+            cccaatgccgtgggcccgaaggaggtggagctcatccttgtcaaggagcagaacggagtg
+            cagctcaccagctccaccctcaccaacccgcggcagagccccgtggaggcccaggatcgg
+            gagacctggggcaagaagatcgactttctcctgtccgtcattggctttgctgtggacctg
+            gccaacgtctggcggttcccctacctgtgctacaaaaatggtggcggtgccttcctggtc
+            ccctacctgctcttcatggtcattgctgggatgccacttttctacatggagctggccctc
+            ggccagttcaacagggaaggggccgctggtgtctggaagatctgccccatactgaaaggt
+            gtgggcttcacggtcatcctcatctcactgtatgtcggcttcttctacaacgtcatcatc
+            gcctgggcgctgcactatctcttctcctccttcaccacggagctcccctggatccactgc
+            aacaactcctggaacagccccaactgctcggatgcccatcctggtgactccagtggagac
+            agctcgggcctcaacgacacttttgggaccacacctgctgccgagtactttgaacgtggc
+            gtgctgcacctccaccagagccatggcatcgacgacctggggcctccgcggtggcagctc
+            acagcctgcctggtgctggtcatcgtgctgctctacttcagcctctggaagggcgtgaag
+            acctcagggaaggtggtatggatcacagccaccatgccatacgtggtcctcactgccctg
+            ctcctgcgtggggtcaccctccctggagccatagacggcatcagagcatacctgagcgtt
+            gacttctaccggctctgcgaggcgtctgtttggattgacgcggccacccaggtgtgcttc
+            tccctgggcgtggggttcggggtgctgatcgccttctccagctacaacaagttcaccaac
+            aactgctacagggacgcgattgtcaccacctccatcaactccctgacgagcttctcctcc
+            ggcttcgtcgtcttctccttcctggggtacatggcacagaagcacagtgtgcccatcggg
+            gacgtggccaaggacgggccagggctgatcttcatcatctacccggaagccatcgccacg
+            ctccctctgtcctcagcctgggccgtggtcttcttcatcatgctgctcaccctgggtatc
+            gacagcgccatgggtggtatggagtcagtgatcaccgggctcatcgatgagttccagctg
+            ctgcacagacaccgtgagctcttcacgctcttcatcgtcctggcgaccttcctcctgtcc
+            ctgttctgcgtcaccaacggtggcatctacgtcttcacgctcctggaccattttgcagcc
+            ggcacgtccatcctctttggagtgctcatcgaagccatcggagtggcctggttctatggt
+            gttgggcagttcagcgacgacatccagcagatgaccgggcagcggcccagcctgtactgg
+            cggctgtgctggaagctggtcagcccctgctttctcctgttcgtggtcgtggtcagcatt
+            gtgaccttcagacccccccactacggagcctacatcttccccgactgggccaacgcgctg
+            ggctgggtcatcgccacatcctccatggccatggtgcccatctatgcggcctacaagttc
+            tgcagcctgcctgggtcctttcgagagaaactggcctacgccattgcacccgagaaggac
+            cgtgagctggtggacagaggggaggtgcgccagttcacgctccgccactggctcaaggtg
+            tag
+///

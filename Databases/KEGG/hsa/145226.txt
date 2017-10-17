@@ -1,0 +1,54 @@
+ENTRY       145226            CDS       T01001
+NAME        RDH12, LCA13, RP53, SDR7C2
+DEFINITION  (RefSeq) retinol dehydrogenase 12 (all-trans/9-cis/11-cis)
+ORTHOLOGY   K11153  retinol dehydrogenase 12 [EC:1.1.1.300]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00837  Leber congenital amaurosis (LCR)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                145226 (RDH12)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.300  NADP-retinol dehydrogenase
+                 145226 (RDH12)
+POSITION    14q24.1
+MOTIF       Pfam: adh_short adh_short_C2 KR AdoHcyase_NAD Epimerase Glyco_trans_4_2 NAD_binding_10
+DBLINKS     NCBI-GeneID: 145226
+            NCBI-ProteinID: NP_689656
+            OMIM: 608830
+            HGNC: 19977
+            Ensembl: ENSG00000139988
+            Vega: OTTHUMG00000170032
+            Pharos: Q96NR8(Tbio)
+            UniProt: Q96NR8 A0A0S2Z613
+AASEQ       316
+            MLVTLGLLTSFFSFLYMVAPSIRKFFAGGVCRTNVQLPGKVVVITGANTGIGKETARELA
+            SRGARVYIACRDVLKGESAASEIRVDTKNSQVLVRKLDLSDTKSIRAFAEGFLAEEKQLH
+            ILINNAGVMMCPYSKTADGFETHLGVNHLGHFLLTYLLLERLKVSAPARVVNVSSVAHHI
+            GKIPFHDLQSEKRYSRGFAYCHSKLANVLFTRELAKRLQGTGVTTYAVHPGVVRSELVRH
+            SSLLCLLWRLFSPFVKTAREGAQTSLHCALAEGLEPLSGKYFSDCKRTWVSPRARNNKTA
+            ERLWNVSCELLGIRWE
+NTSEQ       951
+            atgctggtcaccttgggactgctcacctccttcttctcgttcctgtatatggtagctcca
+            tccatcaggaagttctttgctggtggagtgtgtagaacaaatgtgcagcttcctggcaag
+            gtagtggtgatcactggcgccaacacgggcattggcaaggagacggccagagagctcgct
+            agccgaggagcccgagtctatattgcctgcagagatgtactgaagggggagtctgctgcc
+            agtgaaatccgagtggatacaaagaactcccaggtgctggtgcggaaattggacctatcc
+            gacaccaaatctatccgagcctttgctgagggctttctggcagaggaaaagcagctccat
+            attctgatcaacaatgcgggagtaatgatgtgtccatattccaagacagctgatggcttt
+            gaaacccacctgggagtcaaccacctgggccacttcctcctcacctacctgctcctggag
+            cggctaaaggtgtctgcccctgcacgggtggttaatgtgtcctcggtggctcaccacatt
+            ggcaagattcccttccacgacctccagagcgagaagcgctacagcaggggttttgcctat
+            tgccacagcaagctggccaatgtgctttttactcgtgagctggccaagaggctccaaggc
+            accggggtcaccacctacgcagtgcacccaggcgtcgtccgctctgagctggtccggcac
+            tcctccctgctctgcctgctctggcggctcttctccccctttgtcaagacggcacgggag
+            ggggcgcagaccagcctgcactgcgccctggctgagggcctggagcccctgagtggcaag
+            tacttcagtgactgcaagaggacctgggtgtctccaagggcccgaaataacaaaacagct
+            gagcgcctatggaatgtcagctgtgagcttctaggaatccggtgggagtag
+///

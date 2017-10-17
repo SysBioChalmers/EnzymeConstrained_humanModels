@@ -1,0 +1,85 @@
+ENTRY       861               CDS       T01001
+NAME        RUNX1, AML1, AML1-EVI-1, AMLCR1, CBF2alpha, CBFA2, EVI-1, PEBP2aB, PEBP2alpha
+DEFINITION  (RefSeq) runt related transcription factor 1
+ORTHOLOGY   K08367  runt-related transcription factor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04530  Tight junction
+            hsa04659  Th17 cell differentiation
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+DISEASE     H00001  B lymphoblastic leukemia/lymphoma
+            H00003  Acute myeloid leukemia (AML)
+            H00004  Chronic myeloid leukemia (CML)
+            H00978  Thrombocytopenia (THC)
+            H01481  Myelodysplastic syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                861 (RUNX1)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                861 (RUNX1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                861 (RUNX1)
+               05202 Transcriptional misregulation in cancers
+                861 (RUNX1)
+               05221 Acute myeloid leukemia
+                861 (RUNX1)
+               05220 Chronic myeloid leukemia
+                861 (RUNX1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               Runt
+                861 (RUNX1)
+POSITION    21q22.12
+MOTIF       Pfam: Runt RunxI DUF3037
+DBLINKS     NCBI-GeneID: 861
+            NCBI-ProteinID: NP_001001890
+            OMIM: 151385
+            HGNC: 10471
+            Ensembl: ENSG00000159216
+            Vega: OTTHUMG00000086299
+            Pharos: Q01196(Tbio)
+            UniProt: Q01196
+STRUCTURE   PDB: 1LJM 1E50 1H9D 1CO1 1CMO
+AASEQ       453
+            MRIPVDASTSRRFTPPSTALSPGKMSEALPLGAPDAGAALAGKLRSGDRSMVEVLADHPG
+            ELVRTDSPNFLCSVLPTHWRCNKTLPIAFKVVALGDVPDGTLVTVMAGNDENYSAELRNA
+            TAAMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKITVDGPREPRRHR
+            QKLDDQTKPGSLSFSERLSELEQLRRTAMRVSPHHPAPTPNPRASLNHSTAFNPQPQSQM
+            QDTRQIQPSPPWSYDQSYQYLGSIASPSVHPATPISPGRASGMTTLSAELSSRLSTAPDL
+            TAFSDPRQFPALPSISDPRMHYPGAFTYSPTPVTSGIGIGMSAMGSATRYHTYLPPPYPG
+            SSQAQGGPFQASSPSYHLYYGASAGSYQFSMVGGERSPPRILPPCTNASTGSALLNPSLP
+            NQSDVVEAEGSHSNSPTNMAPSARLEEAVWRPY
+NTSEQ       1362
+            atgcgtatccccgtagatgccagcacgagccgccgcttcacgccgccttccaccgcgctg
+            agcccaggcaagatgagcgaggcgttgccgctgggcgccccggacgccggcgctgccctg
+            gccggcaagctgaggagcggcgaccgcagcatggtggaggtgctggccgaccacccgggc
+            gagctggtgcgcaccgacagccccaacttcctctgctccgtgctgcctacgcactggcgc
+            tgcaacaagaccctgcccatcgctttcaaggtggtggccctaggggatgttccagatggc
+            actctggtcactgtgatggctggcaatgatgaaaactactcggctgagctgagaaatgct
+            accgcagccatgaagaaccaggttgcaagatttaatgacctcaggtttgtcggtcgaagt
+            ggaagagggaaaagcttcactctgaccatcactgtcttcacaaacccaccgcaagtcgcc
+            acctaccacagagccatcaaaatcacagtggatgggccccgagaacctcgaagacatcgg
+            cagaaactagatgatcagaccaagcccgggagcttgtccttttccgagcggctcagtgaa
+            ctggagcagctgcggcgcacagccatgagggtcagcccacaccacccagcccccacgccc
+            aaccctcgtgcctccctgaaccactccactgcctttaaccctcagcctcagagtcagatg
+            caggatacaaggcagatccaaccatccccaccgtggtcctacgatcagtcctaccaatac
+            ctgggatccattgcctctccttctgtgcacccagcaacgcccatttcacctggacgtgcc
+            agcggcatgacaaccctctctgcagaactttccagtcgactctcaacggcacccgacctg
+            acagcgttcagcgacccgcgccagttccccgcgctgccctccatctccgacccccgcatg
+            cactatccaggcgccttcacctactccccgacgccggtcacctcgggcatcggcatcggc
+            atgtcggccatgggctcggccacgcgctaccacacctacctgccgccgccctaccccggc
+            tcgtcgcaagcgcagggaggcccgttccaagccagctcgccctcctaccacctgtactac
+            ggcgcctcggccggctcctaccagttctccatggtgggcggcgagcgctcgccgccgcgc
+            atcctgccgccctgcaccaacgcctccaccggctccgcgctgctcaaccccagcctcccg
+            aaccagagcgacgtggtggaggccgagggcagccacagcaactcccccaccaacatggcg
+            ccctccgcgcgcctggaggaggccgtgtggaggccctactga
+///

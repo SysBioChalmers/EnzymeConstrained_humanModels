@@ -1,0 +1,122 @@
+ENTRY       5154              CDS       T01001
+NAME        PDGFA, PDGF-A, PDGF1
+DEFINITION  (RefSeq) platelet derived growth factor subunit A
+ORTHOLOGY   K04359  platelet-derived growth factor subunit A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04072  Phospholipase D signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04540  Gap junction
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05231  Choline metabolism in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00015  Malignant pleural mesothelioma
+            H00042  Glioma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5154 (PDGFA)
+               04015 Rap1 signaling pathway
+                5154 (PDGFA)
+               04010 MAPK signaling pathway
+                5154 (PDGFA)
+               04072 Phospholipase D signaling pathway
+                5154 (PDGFA)
+               04151 PI3K-Akt signaling pathway
+                5154 (PDGFA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                5154 (PDGFA)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5154 (PDGFA)
+               04540 Gap junction
+                5154 (PDGFA)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5154 (PDGFA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5154 (PDGFA)
+               05231 Choline metabolism in cancer
+                5154 (PDGFA)
+               05202 Transcriptional misregulation in cancers
+                5154 (PDGFA)
+               05206 MicroRNAs in cancer
+                5154 (PDGFA)
+               05214 Glioma
+                5154 (PDGFA)
+               05218 Melanoma
+                5154 (PDGFA)
+               05215 Prostate cancer
+                5154 (PDGFA)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5154 (PDGFA)
+              Infectious diseases
+               05166 HTLV-I infection
+                5154 (PDGFA)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                5154 (PDGFA)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Cysteine-knot growth factors
+               Subclass I
+                5154 (PDGFA)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                PDGFRA; platelet-derived growth factor receptor, alpha polypeptide [KO:K04363]
+                 5154 (PDGFA)
+                PDGFRB; platelet-derived growth factor receptor, beta polypeptide [KO:K05089]
+                 5154 (PDGFA)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               5154 (PDGFA)
+POSITION    7p22.3
+MOTIF       Pfam: PDGF_N PDGF
+DBLINKS     NCBI-GeneID: 5154
+            NCBI-ProteinID: NP_002598
+            OMIM: 173430
+            HGNC: 8799
+            Ensembl: ENSG00000197461
+            Vega: OTTHUMG00000151412
+            Pharos: P04085(Tchem)
+            UniProt: P04085
+STRUCTURE   PDB: 3MJK
+AASEQ       211
+            MRTLACLLLLGCGYLAHVLAEEAEIPREVIERLARSQIHSIRDLQRLLEIDSVGSEDSLD
+            TSLRAHGVHATKHVPEKRPLPIRRKRSIEEAVPAVCKTRTVIYEIPRSQVDPTSANFLIW
+            PPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVEYVRKKPKLKEVQVRLEEHLECACA
+            TTSLNPDYREEDTGRPRESGKKRKRKRLKPT
+NTSEQ       636
+            atgaggaccttggcttgcctgctgctcctcggctgcggatacctcgcccatgttctggcc
+            gaggaagccgagatcccccgcgaggtgatcgagaggctggcccgcagtcagatccacagc
+            atccgggacctccagcgactcctggagatagactccgtagggagtgaggattctttggac
+            accagcctgagagctcacggggtccatgccactaagcatgtgcccgagaagcggcccctg
+            cccattcggaggaagagaagcatcgaggaagctgtccccgctgtctgcaagaccaggacg
+            gtcatttacgagattcctcggagtcaggtcgaccccacgtccgccaacttcctgatctgg
+            cccccgtgcgtggaggtgaaacgctgcaccggctgctgcaacacgagcagtgtcaagtgc
+            cagccctcccgcgtccaccaccgcagcgtcaaggtggccaaggtggaatacgtcaggaag
+            aagccaaaattaaaagaagtccaggtgaggttagaggagcatttggagtgcgcctgcgcg
+            accacaagcctgaatccggattatcgggaagaggacacgggaaggcctagggagtcaggt
+            aaaaaacggaaaagaaaaaggttaaaacccacctaa
+///

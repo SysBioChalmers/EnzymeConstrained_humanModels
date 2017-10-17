@@ -1,0 +1,147 @@
+ENTRY       9586              CDS       T01001
+NAME        CREB5, CRE-BPA, CREB-5
+DEFINITION  (RefSeq) cAMP responsive element binding protein 5
+ORTHOLOGY   K09047  cyclic AMP-responsive element-binding protein 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04668  TNF signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04911  Insulin secretion
+            hsa04915  Estrogen signaling pathway
+            hsa04918  Thyroid hormone synthesis
+            hsa04922  Glucagon signaling pathway
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04926  Relaxin signaling pathway
+            hsa04931  Insulin resistance
+            hsa04962  Vasopressin-regulated water reabsorption
+            hsa05016  Huntington's disease
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05203  Viral carcinogenesis
+            hsa05215  Prostate cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                9586 (CREB5)
+               04024 cAMP signaling pathway
+                9586 (CREB5)
+               04022 cGMP - PKG signaling pathway
+                9586 (CREB5)
+               04151 PI3K-Akt signaling pathway
+                9586 (CREB5)
+               04152 AMPK signaling pathway
+                9586 (CREB5)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                9586 (CREB5)
+               04922 Glucagon signaling pathway
+                9586 (CREB5)
+               04915 Estrogen signaling pathway
+                9586 (CREB5)
+               04926 Relaxin signaling pathway
+                9586 (CREB5)
+               04918 Thyroid hormone synthesis
+                9586 (CREB5)
+               04925 Aldosterone synthesis and secretion
+                9586 (CREB5)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                9586 (CREB5)
+              Excretory system
+               04962 Vasopressin-regulated water reabsorption
+                9586 (CREB5)
+              Nervous system
+               04725 Cholinergic synapse
+                9586 (CREB5)
+               04728 Dopaminergic synapse
+                9586 (CREB5)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                9586 (CREB5)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                9586 (CREB5)
+               05215 Prostate cancer
+                9586 (CREB5)
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                9586 (CREB5)
+              Substance dependence
+               05030 Cocaine addiction
+                9586 (CREB5)
+               05031 Amphetamine addiction
+                9586 (CREB5)
+               05034 Alcoholism
+                9586 (CREB5)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                9586 (CREB5)
+              Infectious diseases
+               05161 Hepatitis B
+                9586 (CREB5)
+               05165 Human papillomavirus infection
+                9586 (CREB5)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Basic leucine zipper (bZIP)
+               AP-1(-like) components, CRE-BP/ATF
+                9586 (CREB5)
+POSITION    7p15.1
+MOTIF       Pfam: bZIP_1 bZIP_2 bZIP_Maf ZapB TolA_bind_tri NDUFB11 GIT_CC DUF3874 DivIC
+DBLINKS     NCBI-GeneID: 9586
+            NCBI-ProteinID: NP_878901
+            HGNC: 16844
+            Ensembl: ENSG00000146592
+            Vega: OTTHUMG00000097081
+            Pharos: Q02930(Tbio)
+            UniProt: Q02930
+AASEQ       508
+            MIYEESKMNLEQERPFVCSAPGCSQRFPTEDHLMIHRHKHEMTLKFPSIKTDNMLSDQTP
+            TPTRFLKNCEEVGLFSELDCSLEHEFRKAQEEESSKRNISMHNAVGGAMTGPGTHQLSSA
+            RLPNHDTNVVIQQAMPSPQSSSVITQAPSTNRQIGPVPGSLSSLLHLHNRQRQPMPASMP
+            GTLPNPTMPGSSAVLMPMERQMSVNSSIMGMQGPNLSNPCASPQVQPMHSEAKMRLKAAL
+            THHPAAMSNGNMNTMGHMMEMMGSRQDQTPHHHMHSHPHQHQTLPPHHPYPHQHQHPAHH
+            PHPQPHHQQNHPHHHSHSHLHAHPAHHQTSPHPPLHTGNQAQVSPATQQMQPTQTIQPPQ
+            PTGGRRRRVVDEDPDERRRKFLERNRAAATRCRQKRKVWVMSLEKKAEELTQTNMQLQNE
+            VSMLKNEVAQLKQLLLTHKDCPITAMQKESQGYLSPESSPPASPVPACSQQQVIQHNTIT
+            TSSSVSEVVGSSTLSQLTTHRTDLNPIL
+NTSEQ       1527
+            atgatttatgaggaatccaagatgaatttggagcaggagaggccgtttgtctgcagtgcc
+            ccaggctgctcccagcgcttcccaacagaggaccatctgatgattcataggcacaaacat
+            gaaatgactttgaagtttccttcaataaaaacagacaatatgttatcagatcaaactccg
+            accccaacgagattcctgaagaactgcgaggaggtgggcctcttcagcgagctggactgc
+            tccctggagcacgagttcaggaaggctcaggaagaggagagcagcaagcggaatatctcg
+            atgcataatgcagttggtggggccatgacggggcccggaactcaccagcttagcagcgct
+            cggctgcccaaccatgacaccaacgttgtgattcagcaagccatgccgtcgcctcagtcc
+            agctctgtcatcactcaggcaccttccaccaaccgccagatcgggcctgtcccaggctct
+            ctatcttctctgctacatctccacaacagacagagacagcccatgccagcctccatgcct
+            gggaccctgcccaaccctacaatgccaggatcttccgccgtcttgatgccaatggagcga
+            caaatgtcagtgaactccagcatcatggggatgcaaggtccaaatctcagcaacccctgt
+            gcttctccccaggtccagccaatgcattcagaagccaaaatgaggttgaaggctgcattg
+            actcaccaccctgctgccatgtcaaatgggaacatgaacaccatgggacacatgatggag
+            atgatgggctcccggcaggaccagacgccacaccatcacatgcactcgcacccgcatcag
+            caccagacactgccaccccatcacccttacccacaccagcaccagcacccagcacaccat
+            cctcaccctcaaccccatcaccagcagaaccatccacatcaccactcccattcccacctt
+            catgcacacccagcacatcaccagacctcgccacatccgcccctgcacaccggcaaccaa
+            gcacaggtttcaccagcaacacaacagatgcagccaacccagacaatacagccaccccag
+            cccacaggggggcgccggcgaagggtggtagacgaggatccggacgagaggcggcggaaa
+            tttctggaacggaaccgggcagctgccacccgctgcagacagaagaggaaggtctgggtg
+            atgtcattggaaaagaaagcagaagaactcacccagacaaacatgcagcttcagaatgaa
+            gtgtctatgttgaaaaatgaggtggcccagctgaaacagttgttgttaacacataaagac
+            tgcccaataacagccatgcagaaagaatcacaaggatatctaagtccagagagtagccct
+            cctgctagtcctgtcccagcttgctcccagcaacaagtcatccagcataataccatcact
+            acttcctcatcggtcagcgaggtggtaggaagctccaccctcagccagctcaccactcac
+            agaacagacctgaatccgattctttaa
+///

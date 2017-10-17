@@ -1,0 +1,92 @@
+ENTRY       8792              CDS       T01001
+NAME        TNFRSF11A, CD265, FEO, LOH18CR1, ODFR, OFE, OPTB7, OSTS, PDB2, RANK, TRANCER
+DEFINITION  (RefSeq) TNF receptor superfamily member 11a
+ORTHOLOGY   K05147  tumor necrosis factor receptor superfamily member 11A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04917  Prolactin signaling pathway
+            hsa05323  Rheumatoid arthritis
+DISEASE     H00436  Osteopetrosis
+            H00437  Paget's disease of bone and related disorders
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                8792 (TNFRSF11A)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                8792 (TNFRSF11A)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                8792 (TNFRSF11A)
+              Development
+               04380 Osteoclast differentiation
+                8792 (TNFRSF11A)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                8792 (TNFRSF11A)
+            Cytokine receptors [BR:hsa04050]
+             TNF receptor family
+              8792 (TNFRSF11A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              8792 (TNFRSF11A)
+POSITION    18q21.33
+MOTIF       Pfam: TNFR_c6 DAG1 KIX Abi
+DBLINKS     NCBI-GeneID: 8792
+            NCBI-ProteinID: NP_003830
+            OMIM: 603499
+            HGNC: 11908
+            Ensembl: ENSG00000141655
+            Vega: OTTHUMG00000132779
+            Pharos: Q9Y6Q6(Tbio)
+            UniProt: Q9Y6Q6
+AASEQ       616
+            MAPRARRRRPLFALLLLCALLARLQVALQIAPPCTSEKHYEHLGRCCNKCEPGKYMSSKC
+            TTTSDSVCLPCGPDEYLDSWNEEDKCLLHKVCDTGKALVAVVAGNSTTPRRCACTAGYHW
+            SQDCECCRRNTECAPGLGAQHPLQLNKDTVCKPCLAGYFSDAFSSTDKCRPWTNCTFLGK
+            RVEHHGTEKSDAVCSSSLPARKPPNEPHVYLPGLIILLLFASVALVAAIIFGVCYRKKGK
+            ALTANLWHWINEACGRLSGDKESSGDSCVSTHTANFGQQGACEGVLLLTLEEKTFPEDMC
+            YPDQGGVCQGTCVGGGPYAQGEDARMLSLVSKTEIEEDSFRQMPTEDEYMDRPSQPTDQL
+            LFLTEPGSKSTPPFSEPLEVGENDSLSQCFTGTQSTVGSESCNCTEPLCRTDWTPMSSEN
+            YLQKEVDSGHCPHWAASPSPNWADVCTGCRNPPGEDCEPLVGSPKRGPLPQCAYGMGLPP
+            EEEASRTEARDQPEDGADGRLPSSARAGAGSGSSPGGQSPASGNVTGNSNSTFISSGQVM
+            NFKGDIIVVYVSQTSQEGAAAAAEPMGRPVQEETLARRDSFAGNGPRFPDPCGGPEGLRE
+            PEKASRPVQEQGGAKA
+NTSEQ       1851
+            atggccccgcgcgcccggcggcgccgcccgctgttcgcgctgctgctgctctgcgcgctg
+            ctcgcccggctgcaggtggctttgcagatcgctcctccatgtaccagtgagaagcattat
+            gagcatctgggacggtgctgtaacaaatgtgaaccaggaaagtacatgtcttctaaatgc
+            actactacctctgacagtgtatgtctgccctgtggcccggatgaatacttggatagctgg
+            aatgaagaagataaatgcttgctgcataaagtttgtgatacaggcaaggccctggtggcc
+            gtggtcgccggcaacagcacgaccccccggcgctgcgcgtgcacggctgggtaccactgg
+            agccaggactgcgagtgctgccgccgcaacaccgagtgcgcgccgggcctgggcgcccag
+            cacccgttgcagctcaacaaggacacagtgtgcaaaccttgccttgcaggctacttctct
+            gatgccttttcctccacggacaaatgcagaccctggaccaactgtaccttccttggaaag
+            agagtagaacatcatgggacagagaaatccgatgcggtttgcagttcttctctgccagct
+            agaaaaccaccaaatgaaccccatgtttacttgcccggtttaataattctgcttctcttc
+            gcgtctgtggccctggtggctgccatcatctttggcgtttgctataggaaaaaagggaaa
+            gcactcacagctaatttgtggcactggatcaatgaggcttgtggccgcctaagtggagat
+            aaggagtcctcaggtgacagttgtgtcagtacacacacggcaaactttggtcagcaggga
+            gcatgtgaaggtgtcttactgctgactctggaggagaagacatttccagaagatatgtgc
+            tacccagatcaaggtggtgtctgtcagggcacatgtgtaggaggtggtccctacgcacaa
+            ggcgaagatgccaggatgctctcattggtcagcaagaccgagatagaggaagacagcttc
+            agacagatgcccacagaagatgaatacatggacaggccctcccagcccacagaccagtta
+            ctgttcctcactgagcctggaagcaaatccacacctcctttctctgaacccctggaggtg
+            ggggagaatgacagtttaagccagtgcttcacggggacacagagcacagtgggttcagaa
+            agctgcaactgcactgagcccctgtgcaggactgattggactcccatgtcctctgaaaac
+            tacttgcaaaaagaggtggacagtggccattgcccgcactgggcagccagccccagcccc
+            aactgggcagatgtctgcacaggctgccggaaccctcctggggaggactgtgaacccctc
+            gtgggttccccaaaacgtggacccttgccccagtgcgcctatggcatgggccttccccct
+            gaagaagaagccagcaggacggaggccagagaccagcccgaggatggggctgatgggagg
+            ctcccaagctcagcgagggcaggtgccgggtctggaagctcccctggtggccagtcccct
+            gcatctggaaatgtgactggaaacagtaactccacgttcatctccagcgggcaggtgatg
+            aacttcaagggcgacatcatcgtggtctacgtcagccagacctcgcaggagggcgcggcg
+            gcggctgcggagcccatgggccgcccggtgcaggaggagaccctggcgcgccgagactcc
+            ttcgcggggaacggcccgcgcttcccggacccgtgcggcggccccgaggggctgcgggag
+            ccggagaaggcctcgaggccggtgcaggagcaaggcggggccaaggcttga
+///

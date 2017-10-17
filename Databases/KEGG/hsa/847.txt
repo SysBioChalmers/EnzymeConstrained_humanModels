@@ -1,0 +1,99 @@
+ENTRY       847               CDS       T01001
+NAME        CAT
+DEFINITION  (RefSeq) catalase
+ORTHOLOGY   K03781  catalase [EC:1.11.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01200  Carbon metabolism
+            hsa04068  FoxO signaling pathway
+            hsa04146  Peroxisome
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+DISEASE     H00203  Acatalasia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                847 (CAT)
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                847 (CAT)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                847 (CAT)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                847 (CAT)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                847 (CAT)
+             Organismal Systems
+              Aging
+               04211 Longevity regulating pathway - mammal
+                847 (CAT)
+               04213 Longevity regulating pathway - multiple species
+                847 (CAT)
+             Human Diseases
+              Neurodegenerative diseases
+               05014 Amyotrophic lateral sclerosis (ALS)
+                847 (CAT)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.6  catalase
+                 847 (CAT)
+POSITION    11p13
+MOTIF       Pfam: Catalase Catalase-rel
+DBLINKS     NCBI-GeneID: 847
+            NCBI-ProteinID: NP_001743
+            OMIM: 115500
+            HGNC: 1516
+            Ensembl: ENSG00000121691
+            Vega: OTTHUMG00000044353
+            Pharos: P04040(Tbio)
+            UniProt: P04040
+STRUCTURE   PDB: 1DGF 1DGG 1DGH 1DGB 1F4J 1QQW
+AASEQ       527
+            MADSRDPASDQMQHWKEQRAAQKADVLTTGAGNPVGDKLNVITVGPRGPLLVQDVVFTDE
+            MAHFDRERIPERVVHAKGAGAFGYFEVTHDITKYSKAKVFEHIGKKTPIAVRFSTVAGES
+            GSADTVRDPRGFAVKFYTEDGNWDLVGNNTPIFFIRDPILFPSFIHSQKRNPQTHLKDPD
+            MVWDFWSLRPESLHQVSFLFSDRGIPDGHRHMNGYGSHTFKLVNANGEAVYCKFHYKTDQ
+            GIKNLSVEDAARLSQEDPDYGIRDLFNAIATGKYPSWTFYIQVMTFNQAETFPFNPFDLT
+            KVWPHKDYPLIPVGKLVLNRNPVNYFAEVEQIAFDPSNMPPGIEASPDKMLQGRLFAYPD
+            THRHRLGPNYLHIPVNCPYRARVANYQRDGPMCMQDNQGGAPNYYPNSFGAPEQQPSALE
+            HSIQYSGEVRRFNTANDDNVTQVRAFYVNVLNEEQRKRLCENIAGHLKDAQIFIQKKAVK
+            NFTEVHPDYGSHIQALLDKYNAEKPKNAIHTFVQSGSHLAAREKANL
+NTSEQ       1584
+            atggctgacagccgggatcccgccagcgaccagatgcagcactggaaggagcagcgggcc
+            gcgcagaaagctgatgtcctgaccactggagctggtaacccagtaggagacaaacttaat
+            gttattacagtagggccccgtgggccccttcttgttcaggatgtggttttcactgatgaa
+            atggctcattttgaccgagagagaattcctgagagagttgtgcatgctaaaggagcaggg
+            gcctttggctactttgaggtcacacatgacattaccaaatactccaaggcaaaggtattt
+            gagcatattggaaagaagactcccatcgcagttcggttctccactgttgctggagaatcg
+            ggttcagctgacacagttcgggaccctcgtgggtttgcagtgaaattttacacagaagat
+            ggtaactgggatctcgttggaaataacacccccattttcttcatcagggatcccatattg
+            tttccatcttttatccacagccaaaagagaaatcctcagacacatctgaaggatccggac
+            atggtctgggacttctggagcctacgtcctgagtctctgcatcaggtttctttcttgttc
+            agtgatcgggggattccagatggacatcgccacatgaatggatatggatcacatactttc
+            aagctggttaatgcaaatggggaggcagtttattgcaaattccattataagactgaccag
+            ggcatcaaaaacctttctgttgaagatgcggcgagactttcccaggaagatcctgactat
+            ggcatccgggatctttttaacgccattgccacaggaaagtacccctcctggactttttac
+            atccaggtcatgacatttaatcaggcagaaacttttccatttaatccattcgatctcacc
+            aaggtttggcctcacaaggactaccctctcatcccagttggtaaactggtcttaaaccgg
+            aatccagttaattactttgctgaggttgaacagatagccttcgacccaagcaacatgcca
+            cctggcattgaggccagtcctgacaaaatgcttcagggccgcctttttgcctatcctgac
+            actcaccgccatcgcctgggacccaattatcttcatatacctgtgaactgtccctaccgt
+            gctcgagtggccaactaccagcgtgacggcccgatgtgcatgcaggacaatcagggtggt
+            gctccaaattactaccccaacagctttggtgctccggaacaacagccttctgccctggag
+            cacagcatccaatattctggagaagtgcggagattcaacactgccaatgatgataacgtt
+            actcaggtgcgggcattctatgtgaacgtgctgaatgaggaacagaggaaacgtctgtgt
+            gagaacattgccggccacctgaaggatgcacaaattttcatccagaagaaagcggtcaag
+            aacttcactgaggtccaccctgactacgggagccacatccaggctcttctggacaagtac
+            aatgctgagaagcctaagaatgcgattcacacctttgtgcagtccggatctcacttggcg
+            gcaagggagaaggcaaatctgtga
+///

@@ -1,0 +1,90 @@
+ENTRY       26986             CDS       T01001
+NAME        PABPC1, PAB1, PABP, PABP1, PABPC2, PABPL1
+DEFINITION  (RefSeq) poly(A) binding protein cytoplasmic 1
+ORTHOLOGY   K13126  polyadenylate-binding protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                26986 (PABPC1)
+               03015 mRNA surveillance pathway
+                26986 (PABPC1)
+              Folding, sorting and degradation
+               03018 RNA degradation
+                26986 (PABPC1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 26986 (PABPC1)
+               mRNA cycle factors
+                Stress granule specific factors
+                 26986 (PABPC1)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               Complex C specific factors
+                26986 (PABPC1)
+POSITION    8q22.3
+MOTIF       Pfam: RRM_1 PABP RRM_5 RRM_occluded RRM_3
+DBLINKS     NCBI-GeneID: 26986
+            NCBI-ProteinID: NP_002559
+            OMIM: 604679
+            HGNC: 8554
+            Ensembl: ENSG00000070756
+            Vega: OTTHUMG00000164779
+            Pharos: P11940(Tbio)
+            UniProt: P11940 A0A024R9C1
+STRUCTURE   PDB: 3KUJ 3KUS 2X04 3KUT 3KTP 3PTH 3KTR 3PKN 4F25 4F26 4F02
+                 3KUI 3KUR 1CVJ 2RQG 2RQH 2K8G 1JH4 1JGN 1G9L
+AASEQ       636
+            MNPSAPSYPMASLYVGDLHPDVTEAMLYEKFSPAGPILSIRVCRDMITRRSLGYAYVNFQ
+            QPADAERALDTMNFDVIKGKPVRIMWSQRDPSLRKSGVGNIFIKNLDKSIDNKALYDTFS
+            AFGNILSCKVVCDENGSKGYGFVHFETQEAAERAIEKMNGMLLNDRKVFVGRFKSRKERE
+            AELGARAKEFTNVYIKNFGEDMDDERLKDLFGKFGPALSVKVMTDESGKSKGFGFVSFER
+            HEDAQKAVDEMNGKELNGKQIYVGRAQKKVERQTELKRKFEQMKQDRITRYQGVNLYVKN
+            LDDGIDDERLRKEFSPFGTITSAKVMMEGGRSKGFGFVCFSSPEEATKAVTEMNGRIVAT
+            KPLYVALAQRKEERQAHLTNQYMQRMASVRAVPNPVINPYQPAPPSGYFMAAIPQTQNRA
+            AYYPPSQIAQLRPSPRWTAQGARPHPFQNMPGAIRPAAPRPPFSTMRPASSQVPRVMSTQ
+            RVANTSTQTMGPRPAAAAAAATPAVRTVPQYKYAAGVRNPQQHLNAQPQVTMQQPAVHVQ
+            GQEPLTASMLASAPPQEQKQMLGERLFPLIQAMHPTLAGKITGMLLEIDNSELLHMLESP
+            ESLRSKVDEAVAVLQAHQAKEAAQKAVNSATGVPTV
+NTSEQ       1911
+            atgaaccccagtgcccccagctaccccatggcctcgctctacgtgggggacctccacccc
+            gacgtgaccgaggcgatgctctacgagaagttcagcccggccgggcccatcctctccatc
+            cgggtctgcagggacatgatcacccgccgctccttgggctacgcgtatgtgaacttccag
+            cagccggcggacgcggagcgtgctttggacaccatgaattttgatgttataaagggcaag
+            ccagtacgcatcatgtggtctcagcgtgatccatcacttcgcaaaagtggagtaggcaac
+            atattcattaaaaatctggacaaatccattgataataaagcactgtatgatacattttct
+            gcttttggtaacatcctttcatgtaaggtggtttgtgatgaaaatggttccaagggctat
+            ggatttgtacactttgagacgcaggaagcagctgaaagagctattgaaaaaatgaatgga
+            atgctcctaaatgatcgcaaagtatttgttggacgatttaagtctcgtaaagaacgagaa
+            gctgaacttggagctagggcaaaagaattcaccaatgtttacatcaagaattttggagaa
+            gacatggatgatgagcgccttaaggatctctttggcaagtttgggcctgccttaagtgtg
+            aaagtaatgactgatgaaagtggaaaatccaaaggatttggatttgtaagctttgaaagg
+            catgaagatgcacagaaagctgtggatgagatgaacggaaaggagctcaatggaaaacaa
+            atttatgttggtcgagctcagaaaaaggtggaacggcagacggaacttaagcgcaaattt
+            gaacagatgaaacaagataggatcaccagataccagggtgttaatctttatgtgaaaaat
+            cttgatgatggtattgatgatgaacgtctccggaaagagttttctccatttggtacaatc
+            actagtgcaaaggttatgatggagggtggtcgcagcaaagggtttggttttgtatgtttc
+            tcctccccagaagaagccactaaagcagttacagaaatgaacggtagaattgtggccaca
+            aagccattgtatgtagctttagctcagcgcaaagaagagcgccaggctcacctcactaac
+            cagtatatgcagagaatggcaagtgtacgagctgttcccaaccctgtaatcaacccctac
+            cagccagcacctccttcaggttacttcatggcagctatcccacagactcagaaccgtgct
+            gcatactatcctcctagccaaattgctcaactaagaccaagtcctcgctggactgctcag
+            ggtgccagacctcatccattccaaaatatgcccggtgctatccgcccagctgctcctaga
+            ccaccatttagtactatgagaccagcttcttcacaggttccacgagtcatgtcaacacag
+            cgtgttgctaacacatcaacacagacaatgggtccacgtcctgcagctgcagccgctgca
+            gctactcctgctgtccgcaccgttccacagtataaatatgctgcaggagttcgcaatcct
+            cagcaacatcttaatgcacagccacaagttacaatgcaacagcctgctgttcatgtacaa
+            ggtcaggaacctttgactgcttccatgttggcatctgcccctcctcaagagcaaaagcaa
+            atgttgggtgaacggctgtttcctcttattcaagccatgcaccctactcttgctggtaaa
+            atcactggcatgttgttggagattgataattcagaacttcttcatatgctcgagtctcca
+            gagtcactccgttctaaggttgatgaagctgtagctgtactacaagcccaccaagctaaa
+            gaggctgcccagaaagcagttaacagtgccaccggtgttccaactgtttaa
+///

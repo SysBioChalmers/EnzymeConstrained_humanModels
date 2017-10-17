@@ -1,0 +1,48 @@
+ENTRY       23480             CDS       T01001
+NAME        SEC61G, SSS1
+DEFINITION  (RefSeq) Sec61 translocon gamma subunit
+ORTHOLOGY   K07342  protein transport protein SEC61 subunit gamma and related proteins
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03060  Protein export
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04145  Phagosome
+            hsa05110  Vibrio cholerae infection
+MODULE      hsa_M00401  Sec61 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03060 Protein export
+                23480 (SEC61G)
+               04141 Protein processing in endoplasmic reticulum
+                23480 (SEC61G)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                23480 (SEC61G)
+             Human Diseases
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                23480 (SEC61G)
+            Secretion system [BR:hsa02044]
+             Sec (secretion) system
+              Eukaryotic Sec-SRP protein
+               23480 (SEC61G)
+POSITION    7p11.2
+MOTIF       Pfam: SecE Pho88
+DBLINKS     NCBI-GeneID: 23480
+            NCBI-ProteinID: NP_001012474
+            OMIM: 609215
+            HGNC: 18277
+            Ensembl: ENSG00000132432
+            Vega: OTTHUMG00000023430
+            Pharos: P60059(Tdark)
+            UniProt: P60059 A0A024QYZ0
+AASEQ       68
+            MDQVMQFVEPSRQFVKDSIRLVKRCTKPDRKEFQKIAMATAIGFAIMGFIGFFVKLIHIP
+            INNIIVGG
+NTSEQ       207
+            atggatcaggtaatgcagtttgttgagccaagtcggcagtttgtaaaggactccattcgg
+            ctggttaaaagatgcactaaacctgatagaaaagaattccagaagattgccatggcaaca
+            gcaataggatttgctataatgggattcattggcttctttgtgaaattgatccatattcct
+            attaataacatcattgttggtggctga
+///

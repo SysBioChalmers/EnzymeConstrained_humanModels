@@ -1,0 +1,100 @@
+ENTRY       54361             CDS       T01001
+NAME        WNT4, SERKAL, WNT-4
+DEFINITION  (RefSeq) Wnt family member 4
+ORTHOLOGY   K00408  wingless-type MMTV integration site family, member 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa04919  Thyroid hormone signaling pathway
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+DISEASE     H00598  46,XX disorders of sex development (Disorders of gonadal development)
+            H00600  46,XX disorders of sex development (Other)
+            H00607  46,XY disorders of sex development (Disorders of gonadal development)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                54361 (WNT4)
+               04390 Hippo signaling pathway
+                54361 (WNT4)
+               04150 mTOR signaling pathway
+                54361 (WNT4)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                54361 (WNT4)
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                54361 (WNT4)
+               04916 Melanogenesis
+                54361 (WNT4)
+              Development
+               04360 Axon guidance
+                54361 (WNT4)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                54361 (WNT4)
+               05205 Proteoglycans in cancer
+                54361 (WNT4)
+               05217 Basal cell carcinoma
+                54361 (WNT4)
+               05224 Breast cancer
+                54361 (WNT4)
+              Infectious diseases
+               05166 HTLV-I infection
+                54361 (WNT4)
+               05165 Human papillomavirus infection
+                54361 (WNT4)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Morphogens	(General comment) Effective diffusion, tissue differentiation, development
+               54361 (WNT4)
+POSITION    1p36.12
+MOTIF       Pfam: wnt MEF2_binding
+DBLINKS     NCBI-GeneID: 54361
+            NCBI-ProteinID: NP_110388
+            OMIM: 603490
+            HGNC: 12783
+            Ensembl: ENSG00000162552
+            Vega: OTTHUMG00000002894
+            Pharos: P56705(Tbio)
+            UniProt: P56705
+AASEQ       351
+            MSPRSCLRSLRLLVFAVFSAAASNWLYLAKLSSVGSISEEETCEKLKGLIQRQVQMCKRN
+            LEVMDSVRRGAQLAIEECQYQFRNRRWNCSTLDSLPVFGKVVTQGTREAAFVYAISSAGV
+            AFAVTRACSSGELEKCGCDRTVHGVSPQGFQWSGCSDNIAYGVAFSQSFVDVRERSKGAS
+            SSRALMNLHNNEAGRKAILTHMRVECKCHGVSGSCEVKTCWRAVPPFRQVGHALKEKFDG
+            ATEVEPRRVGSSRALVPRNAQFKPHTDEDLVYLEPSPDFCEQDMRSGVLGTRGRTCNKTS
+            KAIDGCELLCCGRGFHTAQVELAERCSCKFHWCCFVKCRQCQRLVELHTCR
+NTSEQ       1056
+            atgagtccccgctcgtgcctgcgttcgctgcgcctcctcgtcttcgccgtcttctcagcc
+            gccgcgagcaactggctgtacctggccaagctgtcgtcggtggggagcatctcagaggag
+            gagacgtgcgagaaactcaagggcctgatccagaggcaggtgcagatgtgcaagcggaac
+            ctggaagtcatggactcggtgcgccgcggtgcccagctggccattgaggagtgccagtac
+            cagttccggaaccggcgctggaactgctccacactcgactccttgcccgtcttcggcaag
+            gtggtgacgcaagggactcgggaggcggccttcgtgtacgccatctcttcggcaggtgtg
+            gcctttgcagtgacgcgggcgtgcagcagtggggagctggagaagtgcggctgtgacagg
+            acagtgcatggggtcagcccacagggcttccagtggtcaggatgctctgacaacatcgcc
+            tacggtgtggccttctcacagtcgtttgtggatgtgcgggagagaagcaagggggcctcg
+            tccagcagagccctcatgaacctccacaacaatgaggccggcaggaaggccatcctgaca
+            cacatgcgggtggaatgcaagtgccacggggtgtcaggctcctgtgaggtaaagacgtgc
+            tggcgagccgtgccgcccttccgccaggtgggtcacgcactgaaggagaagtttgatggt
+            gccactgaggtggagccacgccgcgtgggctcctccagggcactggtgccacgcaacgca
+            cagttcaagccgcacacagatgaggacctggtgtacttggagcctagccccgacttctgt
+            gagcaggacatgcgcagcggcgtgctgggcacgaggggccgcacatgcaacaagacgtcc
+            aaggccatcgacggctgtgagctgctgtgctgtggccgcggcttccacacggcgcaggtg
+            gagctggctgaacgctgcagctgcaaattccactggtgctgcttcgtcaagtgccggcag
+            tgccagcggctcgtggagttgcacacgtgccgatga
+///

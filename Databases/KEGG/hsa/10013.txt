@@ -1,0 +1,144 @@
+ENTRY       10013             CDS       T01001
+NAME        HDAC6, CPBHM, HD6, JM21, PPP1R90
+DEFINITION  (RefSeq) histone deacetylase 6
+ORTHOLOGY   K11407  histone deacetylase 6 [EC:3.5.1.98]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05034  Alcoholism
+            hsa05165  Human papillomavirus infection
+            hsa05203  Viral carcinogenesis
+DRUG_TARGET Belinostat: D08870
+            Panobinostat (DG01403): D10019 D10319
+            Quisinostat (DG01407): D10321 D10322
+            Romidepsin: D06637
+            Vorinostat: D06320
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                10013 (HDAC6)
+              Substance dependence
+               05034 Alcoholism
+                10013 (HDAC6)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                10013 (HDAC6)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.98  histone deacetylase
+                 10013 (HDAC6)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 10013 (HDAC6)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                Stress granule specific factors
+                 10013 (HDAC6)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HDACs (histone deacetylases)
+                Class II HDACs
+                 10013 (HDAC6)
+POSITION    Xp11.23
+MOTIF       Pfam: Hist_deacetyl zf-UBP
+DBLINKS     NCBI-GeneID: 10013
+            NCBI-ProteinID: NP_001308155
+            OMIM: 300272
+            HGNC: 14064
+            Ensembl: ENSG00000094631
+            Vega: OTTHUMG00000034496
+            Pharos: Q9UBN7(Tclin)
+            UniProt: Q9UBN7 A0A024QZ26
+STRUCTURE   PDB: 5B8D 5KH9 5WPB 3C5K 5KH3 5WBN 5KH7 3GV4 3PHD
+AASEQ       1215
+            MTSTGQDSTTTRQRRSRQNPQSPPQDSSVTSKRNIKKGAVPRSIPNLAEVKKKGKMKKLG
+            QAMEEDLIVGLQGMDLNLEAEALAGTGLVLDEQLNEFHCLWDDSFPEGPERLHAIKEQLI
+            QEGLLDRCVSFQARFAEKEELMLVHSLEYIDLMETTQYMNEGELRVLADTYDSVYLHPNS
+            YSCACLASGSVLRLVDAVLGAEIRNGMAIIRPPGHHAQHSLMDGYCMFNHVAVAARYAQQ
+            KHRIRRVLIVDWDVHHGQGTQFTFDQDPSVLYFSIHRYEQGRFWPHLKASNWSTTGFGQG
+            QGYTINVPWNQVGMRDADYIAAFLHVLLPVALEFQPQLVLVAAGFDALQGDPKGEMAATP
+            AGFAQLTHLLMGLAGGKLILSLEGGYNLRALAEGVSASLHTLLGDPCPMLESPGAPCRSA
+            QASVSCALEALEPFWEVLVRSTETVERDNMEEDNVEESEEEGPWEPPVLPILTWPVLQSR
+            TGLVYDQNMMNHCNLWDSHHPEVPQRILRIMCRLEELGLAGRCLTLTPRPATEAELLTCH
+            SAEYVGHLRATEKMKTRELHRESSNFDSIYICPSTFACAQLATGAACRLVEAVLSGEVLN
+            GAAVVRPPGHHAEQDAACGFCFFNSVAVAARHAQTISGHALRILIVDWDVHHGNGTQHMF
+            EDDPSVLYVSLHRYDHGTFFPMGDEGASSQIGRAAGTGFTVNVAWNGPRMGDADYLAAWH
+            RLVLPIAYEFNPELVLVSAGFDAARGDPLGGCQVSPEGYAHLTHLLMGLASGRIILILEG
+            GYNLTSISESMAACTRSLLGDPPPLLTLPRPPLSGALASITETIQVHRRYWRSLRVMKVE
+            DREGPSSSKLVTKKAPQPAKPRLAERMTTREKKVLEAGMGKVTSASFGEESTPGQTNSET
+            AVVALTQDQPSEAATGGATLAQTISEAAIGGAMLGQTTSEEAVGGATPDQTTSEETVGGA
+            ILDQTTSEDAVGGATLGQTTSEEAVGGATLAQTTSEAAMEGATLDQTTSEEAPGGTELIQ
+            TPLASSTDHQTPPTSPVQGTTPQISPSTLIGSLRTLELGSESQGASESQAPGEENLLGEA
+            AGGQDMADSMLMQGSRGLTDQAIFYAVTPLPWCPHLVAVCPIPAAGLDVTQPCGDCGTIQ
+            ENWVCLSCYQVYCGRYINGHMLQHHGNSGHPLVLSYIDLSAWCYYCQAYVHHQALLDVKN
+            IAHQNKFGEDMPHPH
+NTSEQ       3648
+            atgacctcaaccggccaggattccaccacaaccaggcagcgaagaagtaggcagaacccc
+            cagtcgccccctcaggactccagtgtcacttcgaagcgaaatattaaaaagggagccgtt
+            ccccgctctatccccaatctagcggaggtaaagaagaaaggcaaaatgaagaagctcggc
+            caagcaatggaagaagacctaatcgtgggactgcaagggatggatctgaaccttgaggct
+            gaagcactggctggcactggcttggtgttggatgagcagttaaatgaattccattgcctc
+            tgggatgacagcttcccggaaggccctgagcggctccatgccatcaaggagcaactgatc
+            caggagggcctcctagatcgctgcgtgtcctttcaggcccggtttgctgaaaaggaagag
+            ctgatgttggttcacagcctagaatatattgatctgatggaaacaacccagtacatgaat
+            gagggagaactccgtgtcctagcagacacctacgactcagtttatctgcatccgaactca
+            tactcctgtgcctgcctggcctcaggctctgtcctcaggctggtggatgcggtcctgggg
+            gctgagatccggaatggcatggccatcattaggcctcctggacatcacgcccagcacagt
+            cttatggatggctattgcatgttcaaccacgtggctgtggcagcccgctatgctcaacag
+            aaacaccgcatccggagggtccttatcgtagattgggatgtgcaccacggtcaaggaaca
+            cagttcaccttcgaccaggaccccagtgtcctctatttctccatccaccgctacgagcag
+            ggtaggttctggccccacctgaaggcctctaactggtccaccacaggtttcggccaaggc
+            caaggatataccatcaatgtgccttggaaccaggtggggatgcgggatgctgactacatt
+            gctgctttcctgcacgtcctgctgccagtcgccctcgagttccagcctcagctggtcctg
+            gtggctgctggatttgatgccctgcaaggggaccccaagggtgagatggccgccactccg
+            gcagggttcgcccagctaacccacctgctcatgggtctggcaggaggcaagctgatcctg
+            tctctggagggtggctacaacctccgcgccctggctgaaggcgtcagtgcttcgctccac
+            acccttctgggagacccttgccccatgctggagtcacctggtgccccctgccggagtgcc
+            caggcttcagtttcctgtgctctggaagcccttgagcccttctgggaggttcttgtgaga
+            tcaactgagaccgtggagagggacaacatggaggaggacaatgtagaggagagcgaggag
+            gaaggaccctgggagccccctgtgctcccaatcctgacatggccagtgctacagtctcgc
+            acagggctggtctatgaccaaaatatgatgaatcactgcaacttgtgggacagccaccac
+            cctgaggtaccccagcgcatcttgcggatcatgtgccgtctggaggagctgggccttgcc
+            gggcgctgcctcaccctgacaccgcgccctgccacagaggctgagctgctcacctgtcac
+            agtgctgagtacgtgggtcatctccgggccacagagaaaatgaaaacccgggagctgcac
+            cgtgagagttccaactttgactccatctatatctgccccagtaccttcgcctgtgcacag
+            cttgccactggcgctgcctgccgcctggtggaggctgtgctctcaggagaggttctgaat
+            ggtgctgctgtggtgcgtcccccaggacaccacgcagagcaggatgcagcttgcggtttt
+            tgctttttcaactctgtggctgtggctgctcgccatgcccagactatcagtgggcatgcc
+            ctacggatcctgattgtggattgggatgtccaccacggtaatggaactcagcacatgttt
+            gaggatgaccccagtgtgctatatgtgtccctgcaccgctatgatcatggcaccttcttc
+            cccatgggggatgagggtgccagcagccagatcggccgggctgcgggcacaggcttcacc
+            gtcaacgtggcatggaacgggccccgcatgggtgatgctgactacctagctgcctggcat
+            cgcctggtgcttcccattgcctacgagtttaacccagaactggtgctggtctcagctggc
+            tttgatgctgcacggggggatccgctggggggctgccaggtgtcacctgagggttatgcc
+            cacctcacccacctgctgatgggccttgccagtggccgcattatccttatcctagagggt
+            ggctataacctgacatccatctcagagtccatggctgcctgcactcgctccctccttgga
+            gacccaccacccctgctgaccctgccacggcccccactatcaggggccctggcctcaatc
+            actgagaccatccaagtccatcgcagatactggcgcagcttacgggtcatgaaggtagaa
+            gacagagaaggaccctccagttctaagttggtcaccaagaaggcaccccaaccagccaaa
+            cctaggttagctgagcggatgaccacacgagaaaagaaggttctggaagcaggcatgggg
+            aaagtcacctcggcatcatttggggaagagtccactccaggccagactaactcagagaca
+            gctgtggtggccctcactcaggaccagccctcagaggcagccacagggggagccactctg
+            gcccagaccatttctgaggcagccattgggggagccatgctgggccagaccacctcagag
+            gaggctgtcgggggagccactccggaccagaccacctcagaggagactgtgggaggagcc
+            attctggaccagaccacctcagaggatgctgttgggggagccacgctgggccagactacc
+            tcagaggaggctgtaggaggagctacactggcccagaccacctcggaggcagccatggag
+            ggagccacactggaccagactacgtcagaggaggctccagggggcaccgagctgatccaa
+            actcctctagcctcgagcacagaccaccagacccccccaacctcacctgtgcagggaact
+            acaccccagatatctcccagtacactgattgggagtctcaggaccttggagctaggcagc
+            gaatctcagggggcctcagaatctcaggccccaggagaggagaacctactaggagaggca
+            gctggaggtcaggacatggctgattcgatgctgatgcagggatctaggggcctcactgat
+            caggccatattttatgctgtgacaccactgccctggtgtccccatttggtggcagtatgc
+            cccatacctgcagcaggcctagacgtgacccaaccttgtggggactgtggaacaatccaa
+            gagaattgggtgtgtctctcttgctatcaggtctactgtggtcgttacatcaatggccac
+            atgctccaacaccatggaaattctggacacccgctggtcctcagctacatcgacctgtca
+            gcctggtgttactactgtcaggcctatgtccaccaccaggctctcctagatgtgaagaac
+            atcgcccaccagaacaagtttggggaggatatgccccacccacactaa
+///

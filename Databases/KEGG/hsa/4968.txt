@@ -1,0 +1,68 @@
+ENTRY       4968              CDS       T01001
+NAME        OGG1, HMMH, HOGG1, MUTM, OGH1
+DEFINITION  (RefSeq) 8-oxoguanine DNA glycosylase
+ORTHOLOGY   K03660  N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                4968 (OGG1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.-  
+                 4968 (OGG1)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 4968 (OGG1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 4968 (OGG1)
+POSITION    3p25.3
+MOTIF       Pfam: OGG_N HhH-GPD HHH
+DBLINKS     NCBI-GeneID: 4968
+            NCBI-ProteinID: NP_002533
+            OMIM: 601982
+            HGNC: 8125
+            Ensembl: ENSG00000114026
+            Vega: OTTHUMG00000097091
+            Pharos: O15527(Tbio)
+            UniProt: O15527 E5KPN1
+STRUCTURE   PDB: 2XHI 5AN4 1M3Q 2NOH 1LWY 1M3H 2NOB 1LWW 1EBM 1KO9 2NOE
+                 1N39 1N3A 3KTU 1LWV 2NOF 2NOI 1HU0 2NOZ 1YQR 1YQM 1YQK
+                 2NOL 2I5W 1YQL 1FN7 1N3C 3IH7
+AASEQ       345
+            MPARALLPRRMGHRTLASTPALWASIPCPRSELRLDLVLPSGQSFRWREQSPAHWSGVLA
+            DQVWTLTQTEEQLHCTVYRGDKSQASRPTPDELEAVRKYFQLDVTLAQLYHHWGSVDSHF
+            QEVAQKFQGVRLLRQDPIECLFSFICSSNNNIARITGMVERLCQAFGPRLIQLDDVTYHG
+            FPSLQALAGPEVEAHLRKLGLGYRARYVSASARAILEEQGGLAWLQQLRESSYEEAHKAL
+            CILPGVGTKVADCICLMALDKPQAVPVDVHMWHIAQRDYSWHPTTSQAKGPSPQTNKELG
+            NFFRSLWGPYAGWAQAVLFSADLRQSRHAQEPPAKRRKGSKGPEG
+NTSEQ       1038
+            atgcctgcccgcgcgcttctgcccaggcgcatggggcatcgtactctagcctccactcct
+            gccctgtgggcctccatcccgtgccctcgctctgagctgcgcctggacctggttctgcct
+            tctggacaatctttccggtggagggagcaaagtcctgcacactggagtggtgtactagcg
+            gatcaagtatggacactgactcagactgaggagcagctccactgcactgtgtaccgagga
+            gacaagagccaggctagcaggcccacaccagacgagctggaggccgtgcgcaagtacttc
+            cagctagatgttaccctggctcaactgtatcaccactggggttccgtggactcccacttc
+            caagaggtggctcagaaattccaaggtgtgcgactgctgcgacaagaccccatcgaatgc
+            cttttctcttttatctgttcctccaacaacaacatcgcccgcatcactggcatggtggag
+            cggctgtgccaggcttttggacctcggctcatccagcttgatgatgtcacctaccatggc
+            ttccccagcctgcaggccctggctgggccagaggtggaggctcatctcaggaagctgggc
+            ctgggctatcgtgcccgttacgtgagtgccagtgcccgagccatcctggaagaacagggc
+            gggctagcctggctgcagcagctacgagagtcctcatatgaggaggcccacaaggccctc
+            tgcatcctgcctggagtgggcaccaaggtggctgactgcatctgcctgatggccctagac
+            aagccccaggctgtgcccgtggatgtccatatgtggcacattgcccaacgtgactacagc
+            tggcaccctaccacgtcccaggcgaagggaccgagcccccagaccaacaaggaactggga
+            aactttttccggagcctgtggggaccttatgctggctgggcccaagcggtgctgttcagt
+            gccgacctgcgccaatcccgccatgctcaggagccaccagcaaagcgcagaaagggttcc
+            aaagggccggaaggctag
+///

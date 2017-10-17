@@ -1,0 +1,58 @@
+ENTRY       377677            CDS       T01001
+NAME        CA13, CAXIII
+DEFINITION  (RefSeq) carbonic anhydrase 13
+ORTHOLOGY   K01672  carbonic anhydrase [EC:4.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00910  Nitrogen metabolism
+DRUG_TARGET Acetazolamide (DG01134): D00218 D01196
+            Diclofenamide: D00518
+            Dorzolamide (DG01135): D00653 D07871
+            Ethoxzolamide: D02441
+            Methazolamide: D00655
+            Sezolamide hydrochloride: D03845
+            Topiramate: D00537
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00910 Nitrogen metabolism
+                377677 (CA13)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.1  carbonic anhydrase
+                 377677 (CA13)
+POSITION    8q21.2
+MOTIF       Pfam: Carb_anhydrase
+DBLINKS     NCBI-GeneID: 377677
+            NCBI-ProteinID: NP_940986
+            OMIM: 611436
+            HGNC: 14914
+            Ensembl: ENSG00000185015
+            Vega: OTTHUMG00000164940
+            Pharos: Q8N1Q1(Tclin)
+            UniProt: Q8N1Q1
+STRUCTURE   PDB: 4KNN 5LLA 5E2N 4QIZ 3D0N 5LLN 4QJP 4QSJ 4KNM 4QJX 4HU1
+                 3CZV 3DA2
+AASEQ       262
+            MSRLSWGYREHNGPIHWKEFFPIADGDQQSPIEIKTKEVKYDSSLRPLSIKYDPSSAKII
+            SNSGHSFNVDFDDTENKSVLRGGPLTGSYRLRQVHLHWGSADDHGSEHIVDGVSYAAELH
+            VVHWNSDKYPSFVEAAHEPDGLAVLGVFLQIGEPNSQLQKITDTLDSIKEKGKQTRFTNF
+            DLLSLLPPSWDYWTYPGSLTVPPLLESVTWIVLKQPINISSQQLAKFRSLLCTAEGEAAA
+            FLVSNHRPPQPLKGRKVRASFH
+NTSEQ       789
+            atgtcgaggctcagctggggataccgcgagcacaacggtcctattcactggaaggaattt
+            ttccctattgctgatggtgatcagcaatctccaattgagattaaaaccaaagaagtgaaa
+            tatgactcttccctccgaccacttagtatcaagtatgacccaagctcagctaaaatcatc
+            agcaacagcggccattccttcaatgttgactttgatgacacagagaacaaatcagttctg
+            cgtggtggtcctctcactggaagctacaggttacggcaggttcaccttcactgggggtcc
+            gctgatgaccacggctccgagcacatagtagatggagtgagctatgctgcagagctccat
+            gttgttcactggaattcagacaaataccccagctttgttgaggcagctcatgaaccagat
+            ggactggctgtcttgggagtgtttttacagattggtgaacctaattcccaactgcaaaag
+            attactgacactttggattccattaaagaaaagggtaaacaaactcgattcacaaatttt
+            gacctattgtctctgcttccaccatcctgggactactggacatatcctggttctcttaca
+            gttccacctcttcttgagagtgtcacatggattgttttaaagcaacctataaacatcagc
+            tctcaacagctggccaaatttcgcagtctcctgtgcacagcggagggtgaagcagcagct
+            tttctggtgagcaatcaccgcccaccacagcctctaaagggccgcaaagtgagagcctct
+            ttccattaa
+///

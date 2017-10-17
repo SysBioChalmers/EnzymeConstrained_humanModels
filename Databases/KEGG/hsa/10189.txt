@@ -1,0 +1,75 @@
+ENTRY       10189             CDS       T01001
+NAME        ALYREF, ALY, ALY/REF, BEF, REF, THOC4
+DEFINITION  (RefSeq) Aly/REF export factor
+ORTHOLOGY   K12881  THO complex subunit 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+            hsa05168  Herpes simplex infection
+MODULE      hsa_M00406  TREX complex
+            hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                10189 (ALYREF)
+              Translation
+               03013 RNA transport
+                10189 (ALYREF)
+               03015 mRNA surveillance pathway
+                10189 (ALYREF)
+             Human Diseases
+              Infectious diseases
+               05168 Herpes simplex infection
+                10189 (ALYREF)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 10189 (ALYREF)
+                TREX complex
+                 10189 (ALYREF)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                10189 (ALYREF)
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               TREX complex
+                10189 (ALYREF)
+POSITION    17q25.3
+MOTIF       Pfam: RRM_1 FoP_duplication FYTT
+DBLINKS     NCBI-GeneID: 10189
+            NCBI-ProteinID: NP_005773
+            OMIM: 604171
+            HGNC: 19071
+            Ensembl: ENSG00000183684
+            Vega: OTTHUMG00000160470
+            Pharos: Q86V81(Tbio)
+            UniProt: Q86V81 E9PB61
+STRUCTURE   PDB: 3ULH
+AASEQ       264
+            MPDSAPAMADKMDMSLDDIIKLNRSQRGGRGGGRGRGRAGSQGGRGGGAQAAARVNRGGG
+            PIRNRPAIARGAAGGGGRNRPAPYSRPKQLPDKWQHDLFDSGFGGGAGVETGGKLLVSNL
+            DFGVSDADIQELFAEFGTLKKAAVHYDRSGRSLGTADVHFERKADALKAMKQYNGVPLDG
+            RPMNIQLVTSQIDAQRRPAQSVNRGGMTRNRGAGGFGGGGGTRRGTRGGARGRGRGAGRN
+            SKQQLSAEELDAQLDAYNARMDTS
+NTSEQ       795
+            atgcccgattccgcgcccgccatggccgacaaaatggacatgtctctggacgacatcatt
+            aaactgaaccggagccagcgaggcggccggggcgggggccggggccgcggccgggccggc
+            tcccagggcggccgcggcggtggggcgcaggccgccgcgcgagtgaatcgaggcggcggg
+            cccatccggaaccggccggccatcgcccgcggcgcggccggcggaggcggcaggaaccga
+            ccggcgccctacagcaggccaaaacaacttcccgacaagtggcagcacgatcttttcgac
+            agtggcttcggcggtggtgccggcgtggagacaggtgggaaactgctggtgtccaatctg
+            gattttggagtctcagacgccgatattcaggaactctttgctgaatttggaacgctgaag
+            aaggcggctgtgcactatgatcgctctggtcgcagcttaggaacagcagacgtgcacttt
+            gagcggaaggcagatgccctgaaggccatgaagcagtacaacggcgtccctctggatggc
+            cgccccatgaacattcagcttgtcacgtcacagattgacgcacagcggaggcctgcacag
+            agcgtaaacagaggtggcatgactagaaaccgtggcgctggaggttttggtggtggtgga
+            ggcacccggagaggcacccgcggaggcgcccgtggaagaggcagaggtgccggcaggaat
+            tcaaagcagcagctttcggcagaggagctggatgcccagctggacgcctataatgcgaga
+            atggacaccagttaa
+///

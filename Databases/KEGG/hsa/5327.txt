@@ -1,0 +1,92 @@
+ENTRY       5327              CDS       T01001
+NAME        PLAT, T-PA, TPA
+DEFINITION  (RefSeq) plasminogen activator, tissue type
+ORTHOLOGY   K01343  tissue plasminogen activator [EC:3.4.21.68]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04371  Apelin signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                5327 (PLAT)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                5327 (PLAT)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                5327 (PLAT)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5327 (PLAT)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.68  t-plasminogen activator
+                 5327 (PLAT)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               5327 (PLAT)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Coagulation and fibrinolysis	(General comment) Coagulation, inflammation, complement control
+               5327 (PLAT)
+POSITION    8p11.21
+MOTIF       Pfam: Trypsin Kringle fn1 EGF Trypsin_2 DUF1986 hEGF
+DBLINKS     NCBI-GeneID: 5327
+            NCBI-ProteinID: NP_000921
+            OMIM: 173370
+            HGNC: 9051
+            Ensembl: ENSG00000104368
+            Vega: OTTHUMG00000164072
+            Pharos: P00750(Tclin)
+            UniProt: P00750
+STRUCTURE   PDB: 1RTF 1PML 1TPK 1A5H 5BRR 1BDA 1TPG 1TPM 1TPN 1PK2
+AASEQ       562
+            MDAMKRGLCCVLLLCGAVFVSPSQEIHARFRRGARSYQVICRDEKTQMIYQQHQSWLRPV
+            LRSNRVEYCWCNSGRAQCHSVPVKSCSEPRCFNGGTCQQALYFSDFVCQCPEGFAGKCCE
+            IDTRATCYEDQGISYRGTWSTAESGAECTNWNSSALAQKPYSGRRPDAIRLGLGNHNYCR
+            NPDRDSKPWCYVFKAGKYSSEFCSTPACSEGNSDCYFGNGSAYRGTHSLTESGASCLPWN
+            SMILIGKVYTAQNPSAQALGLGKHNYCRNPDGDAKPWCHVLKNRRLTWEYCDVPSCSTCG
+            LRQYSQPQFRIKGGLFADIASHPWQAAIFAKHRRSPGERFLCGGILISSCWILSAAHCFQ
+            ERFPPHHLTVILGRTYRVVPGEEEQKFEVEKYIVHKEFDDDTYDNDIALLQLKSDSSRCA
+            QESSVVRTVCLPPADLQLPDWTECELSGYGKHEALSPFYSERLKEAHVRLYPSSRCTSQH
+            LLNRTVTDNMLCAGDTRSGGPQANLHDACQGDSGGPLVCLNDGRMTLVGIISWGLGCGQK
+            DVPGVYTKVTNYLDWIRDNMRP
+NTSEQ       1689
+            atggatgcaatgaagagagggctctgctgtgtgctgctgctgtgtggagcagtcttcgtt
+            tcgcccagccaggaaatccatgcccgattcagaagaggagccagatcttaccaagtgatc
+            tgcagagatgaaaaaacgcagatgatataccagcaacatcagtcatggctgcgccctgtg
+            ctcagaagcaaccgggtggaatattgctggtgcaacagtggcagggcacagtgccactca
+            gtgcctgtcaaaagttgcagcgagccaaggtgtttcaacgggggcacctgccagcaggcc
+            ctgtacttctcagatttcgtgtgccagtgccccgaaggatttgctgggaagtgctgtgaa
+            atagataccagggccacgtgctacgaggaccagggcatcagctacaggggcacgtggagc
+            acagcggagagtggcgccgagtgcaccaactggaacagcagcgcgttggcccagaagccc
+            tacagcgggcggaggccagacgccatcaggctgggcctggggaaccacaactactgcaga
+            aacccagatcgagactcaaagccctggtgctacgtctttaaggcggggaagtacagctca
+            gagttctgcagcacccctgcctgctctgagggaaacagtgactgctactttgggaatggg
+            tcagcctaccgtggcacgcacagcctcaccgagtcgggtgcctcctgcctcccgtggaat
+            tccatgatcctgataggcaaggtttacacagcacagaaccccagtgcccaggcactgggc
+            ctgggcaaacataattactgccggaatcctgatggggatgccaagccctggtgccacgtg
+            ctgaagaaccgcaggctgacgtgggagtactgtgatgtgccctcctgctccacctgcggc
+            ctgagacagtacagccagcctcagtttcgcatcaaaggagggctcttcgccgacatcgcc
+            tcccacccctggcaggctgccatctttgccaagcacaggaggtcgcccggagagcggttc
+            ctgtgcgggggcatactcatcagctcctgctggattctctctgccgcccactgcttccag
+            gagaggtttccgccccaccacctgacggtgatcttgggcagaacataccgggtggtccct
+            ggcgaggaggagcagaaatttgaagtcgaaaaatacattgtccataaggaattcgatgat
+            gacacttacgacaatgacattgcgctgctgcagctgaaatcggattcgtcccgctgtgcc
+            caggagagcagcgtggtccgcactgtgtgccttcccccggcggacctgcagctgccggac
+            tggacggagtgtgagctctccggctacggcaagcatgaggccttgtctcctttctattcg
+            gagcggctgaaggaggctcatgtcagactgtacccatccagccgctgcacatcacaacat
+            ttacttaacagaacagtcaccgacaacatgctgtgtgctggagacactcggagcggcggg
+            ccccaggcaaacttgcacgacgcctgccagggcgattcgggaggccccctggtgtgtctg
+            aacgatggccgcatgactttggtgggcatcatcagctggggcctgggctgtggacagaag
+            gatgtcccgggtgtgtacaccaaggttaccaactacctagactggattcgtgacaacatg
+            cgaccgtga
+///

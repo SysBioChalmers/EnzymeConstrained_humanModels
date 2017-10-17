@@ -1,0 +1,60 @@
+ENTRY       80270             CDS       T01001
+NAME        HSD3B7, CBAS1, PFIC4, SDR11E3
+DEFINITION  (RefSeq) hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7
+ORTHOLOGY   K12408  cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase [EC:1.1.1.181]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+DISEASE     H00624  Familial cholestasis
+            H00628  Congenital bile acid synthesis defect (CBAS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                80270 (HSD3B7)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.181  cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase
+                 80270 (HSD3B7)
+POSITION    16p11.2
+MOTIF       Pfam: 3Beta_HSD Epimerase GDP_Man_Dehyd NAD_binding_4 NAD_binding_10 KR Polysacc_synt_2 RmlD_sub_bind NmrA adh_short Sacchrp_dh_NADP
+DBLINKS     NCBI-GeneID: 80270
+            NCBI-ProteinID: NP_079469
+            OMIM: 607764
+            HGNC: 18324
+            Ensembl: ENSG00000099377
+            Vega: OTTHUMG00000132417
+            Pharos: Q9H2F3(Tbio)
+            UniProt: Q9H2F3
+AASEQ       369
+            MADSAQAQKLVYLVTGGCGFLGEHVVRMLLQREPRLGELRVFDQHLGPWLEELKTGPVRV
+            TAIQGDVTQAHEVAAAVAGAHVVIHTAGLVDVFGRASPKTIHEVNVQGTRNVIEACVQTG
+            TRFLVYTSSMEVVGPNTKGHPFYRGNEDTPYEAVHRHPYPCSKALAEWLVLEANGRKVRG
+            GLPLVTCALRPTGIYGEGHQIMRDFYRQGLRLGGWLFRAIPASVEHGRVYVGNVAWMHVL
+            AARELEQRATLMGGQVYFCYDGSPYRSYEDFNMEFLGPCGLRLVGARPLLPYWLLVFLAA
+            LNALLQWLLRPLVLYAPLLNPYTLAVANTTFTVSTDKAQRHFGYEPLFSWEDSRTRTILW
+            VQAATGSAQ
+NTSEQ       1110
+            atggccgactctgcacaggcccagaagctggtgtacctggtcacagggggctgtggcttc
+            ctgggagagcacgtggtgcgaatgctgctgcagcgggagccccggctcggggagctgcgg
+            gtctttgaccaacacctgggtccctggctggaggagctgaagacagggcctgtgagggtg
+            actgccatccagggggacgtgacccaggcccatgaggtggcagcagctgtggccggagcc
+            catgtggtcatccacacggctgggctggtagacgtgtttggcagggccagtcccaagacc
+            atccatgaggtcaacgtgcagggtacccggaacgtgatcgaggcttgtgtgcagaccgga
+            acacggttcctggtctacaccagcagcatggaagttgtggggcctaacaccaaaggtcac
+            cccttctacaggggcaacgaagacaccccatacgaagcagtgcacaggcacccctatcct
+            tgcagcaaggccctggccgagtggctggtcctggaggccaacgggaggaaggtccgtggg
+            gggctgcccctggtgacgtgtgcccttcgtcccacgggcatctacggtgaaggccaccag
+            atcatgagggacttctaccgccagggcctgcgcctgggaggttggctcttccgggccatc
+            ccggcctctgtggagcatggccgggtctatgtgggcaatgttgcctggatgcacgtgctg
+            gcagcccgggagctggagcagcgggcaaccctgatgggcggccaggtatacttctgctac
+            gatggatcaccctacaggagctacgaggatttcaacatggagttcctgggcccctgcgga
+            ctgcggctggtgggcgcccgcccattgctgccctactggctgctggtgttcctggctgcc
+            ctcaatgccctgctgcagtggctgctgcggccactggtgctctacgcacccctgctgaac
+            ccctacacgctggccgtggccaacaccaccttcaccgtcagcaccgacaaggctcagcgc
+            catttcggctatgagcccctgttctcgtgggaggatagccggacccgtaccattctctgg
+            gtacaggccgctacgggttcagcccagtga
+///

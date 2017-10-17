@@ -1,0 +1,112 @@
+ENTRY       6532              CDS       T01001
+NAME        SLC6A4, 5-HTT, 5-HTTLPR, 5HTT, HTT, OCD1, SERT, SERT1, hSERT
+DEFINITION  (RefSeq) solute carrier family 6 member 4
+ORTHOLOGY   K05037  solute carrier family 6 (neurotransmitter transporter, serotonin) member 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04726  Serotonergic synapse
+DISEASE     H01450  Obsessive-compulsive disorder (OCD)
+DRUG_TARGET Alaproclate: D02787
+            Amfetamine (DG00966): D02074 D07445
+            Amitriptyline (DG00934): D00809 D07448
+            Amitriptylinoxide: D07449
+            Amoxapine: D00228
+            Bicifadine hydrochloride: D03110
+            Citalopram (DG00943): D00822 D07704 D07705
+            Clomipramine (DG00929): D00811 D07727
+            Cocaine (DG00808): D00110 D02182
+            Dapoxetine: D03649
+            Desipramine (DG00927): D00812 D07791
+            Desvenlafaxine (DG00963): D02570 D07793
+            Dexamfetamine (DG00967): D02078 D03740
+            Dexfenfluramine (DG00105): D03713 D07805
+            Dosulepin (DG00940): D01546 D07872
+            Doxepin (DG00937): D00814 D07875
+            Duloxetine (DG00962): D01179 D07880
+            Escitalopram (DG00947): D02567 D07913
+            Etoperidone: D04105
+            Fluoxetine (DG00942): D00326 D00823
+            Fluvoxamine (DG00946): D00824 D07984
+            Imipramine (DG00928): D00815 D08070 D08071
+            Imipraminoxide (DG01542): D07334 D08072
+            Levomilnacipran (DG01387): D10072 D10133
+            Liafensine: D10443
+            Lofepramine (DG00932): D01285 D08140
+            Mazindol: D00367
+            Metamfetamine (DG00968): D02242 D08187
+            Milnacipran (DG00960): D01107 D08222
+            Nortriptyline (DG00935): D00816 D08288
+            Paroxetine (DG00944): D02260 D02362 D05374 D05375
+            Pirandamine hydrochloride: D05491
+            Sertraline (DG00945): D00825 D02360
+            Sibutramine (DG00108): D02571 D08513
+            Trazodone (DG00952): D00820 D08626
+            Trimipramine (DG00931): D00394 D02408
+            Venlafaxine (DG00959): D00821 D08670
+            Vilazodone (DG00964): D09698 D09699
+            Zimeldine: D06367
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                6532 (SLC6A4)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC6: Sodium- and chloride-dependent neurotransmitter transporter
+               6532 (SLC6A4)
+POSITION    17q11.2
+MOTIF       Pfam: SNF 5HT_transport_N
+DBLINKS     NCBI-GeneID: 6532
+            NCBI-ProteinID: NP_001036
+            OMIM: 182138
+            HGNC: 11050
+            Ensembl: ENSG00000108576
+            Vega: OTTHUMG00000132751
+            Pharos: P31645(Tclin)
+            UniProt: P31645 B2R7Y7
+STRUCTURE   PDB: 5I6X 5I71 5I73 5I74 5I75 5I6Z
+AASEQ       630
+            METTPLNSQKQLSACEDGEDCQENGVLQKVVPTPGDKVESGQISNGYSAVPSPGAGDDTR
+            HSIPATTTTLVAELHQGERETWGKKVDFLLSVIGYAVDLGNVWRFPYICYQNGGGAFLLP
+            YTIMAIFGGIPLFYMELALGQYHRNGCISIWRKICPIFKGIGYAICIIAFYIASYYNTIM
+            AWALYYLISSFTDQLPWTSCKNSWNTGNCTNYFSEDNITWTLHSTSPAEEFYTRHVLQIH
+            RSKGLQDLGGISWQLALCIMLIFTVIYFSIWKGVKTSGKVVWVTATFPYIILSVLLVRGA
+            TLPGAWRGVLFYLKPNWQKLLETGVWIDAAAQIFFSLGPGFGVLLAFASYNKFNNNCYQD
+            ALVTSVVNCMTSFVSGFVIFTVLGYMAEMRNEDVSEVAKDAGPSLLFITYAEAIANMPAS
+            TFFAIIFFLMLITLGLDSTFAGLEGVITAVLDEFPHVWAKRRERFVLAVVITCFFGSLVT
+            LTFGGAYVVKLLEEYATGPAVLTVALIEAVAVSWFYGITQFCRDVKEMLGFSPGWFWRIC
+            WVAISPLFLLFIICSFLMSPPQLRLFQYNYPYWSIILGYCIGTSSFICIPTYIAYRLIIT
+            PGTFKERIIKSITPETPTEIPCGDIRLNAV
+NTSEQ       1893
+            atggagacgacgcccttgaattctcagaagcagctatcagcgtgtgaagatggagaagat
+            tgtcaggaaaacggagttctacagaaggttgttcccaccccaggggacaaagtggagtcc
+            gggcaaatatccaatgggtactcagcagttccaagtcctggtgcgggagatgacacacgg
+            cactctatcccagcgaccaccaccaccctagtggctgagcttcatcaaggggaacgggag
+            acctggggcaagaaggtggatttccttctctcagtgattggctatgctgtggacctgggc
+            aatgtctggcgcttcccctacatatgttaccagaatggagggggggcattcctcctcccc
+            tacaccatcatggccatttttgggggaatcccgctcttttacatggagctcgcactggga
+            cagtaccaccgaaatggatgcatttcaatatggaggaaaatctgcccgattttcaaaggg
+            attggttatgccatctgcatcattgccttttacattgcttcctactacaacaccatcatg
+            gcctgggcgctatactacctcatctcctccttcacggaccagctgccctggaccagctgc
+            aagaactcctggaacactggcaactgcaccaattacttctccgaggacaacatcacctgg
+            accctccattccacgtcccctgctgaagaattttacacgcgccacgtcctgcagatccac
+            cggtctaaggggctccaggacctggggggcatcagctggcagctggccctctgcatcatg
+            ctgatcttcactgttatctacttcagcatctggaaaggcgtcaagacctctggcaaggtg
+            gtgtgggtgacagccaccttcccttatatcatcctttctgtcctgctggtgaggggtgcc
+            accctccctggagcctggaggggtgttctcttctacttgaaacccaattggcagaaactc
+            ctggagacaggggtgtggatagatgcagccgctcagatcttcttctctcttggtccgggc
+            tttggggtcctgctggcttttgctagctacaacaagttcaacaacaactgctaccaagat
+            gccctggtgaccagcgtggtgaactgcatgacgagcttcgtttcgggatttgtcatcttc
+            acagtgctcggttacatggctgagatgaggaatgaagatgtgtctgaggtggccaaagac
+            gcaggtcccagcctcctcttcatcacgtatgcagaagcgatagccaacatgccagcgtcc
+            actttctttgccatcatcttctttctgatgttaatcacgctgggcttggacagcacgttt
+            gcaggcttggagggggtgatcacggctgtgctggatgagttcccacacgtctgggccaag
+            cgccgggagcggttcgtgctcgccgtggtcatcacctgcttctttggatccctggtcacc
+            ctgacttttggaggggcctacgtggtgaagctgctggaggagtatgccacggggcccgca
+            gtgctcactgtcgcgctgatcgaagcagtcgctgtgtcttggttctatggcatcactcag
+            ttctgcagggacgtgaaggaaatgctcggcttcagcccggggtggttctggaggatctgc
+            tgggtggccatcagccctctgtttctcctgttcatcatttgcagttttctgatgagcccg
+            ccacaactacgacttttccaatataattatccttactggagtatcatcttgggttactgc
+            ataggaacctcatctttcatttgcatccccacatatatagcttatcggttgatcatcact
+            ccagggacatttaaagagcgtattattaaaagtattaccccagaaacaccaacagaaatt
+            ccttgtggggacatccgcttgaatgctgtgtaa
+///

@@ -1,0 +1,116 @@
+ENTRY       5106              CDS       T01001
+NAME        PCK2, PEPCK, PEPCK-M, PEPCK2
+DEFINITION  (RefSeq) phosphoenolpyruvate carboxykinase 2, mitochondrial
+ORTHOLOGY   K01596  phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+            hsa03320  PPAR signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04964  Proximal tubule bicarbonate reclamation
+MODULE      hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                5106 (PCK2)
+               00020 Citrate cycle (TCA cycle)
+                5106 (PCK2)
+               00620 Pyruvate metabolism
+                5106 (PCK2)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                5106 (PCK2)
+               04151 PI3K-Akt signaling pathway
+                5106 (PCK2)
+               04152 AMPK signaling pathway
+                5106 (PCK2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5106 (PCK2)
+               04922 Glucagon signaling pathway
+                5106 (PCK2)
+               04920 Adipocytokine signaling pathway
+                5106 (PCK2)
+               03320 PPAR signaling pathway
+                5106 (PCK2)
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                5106 (PCK2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                5106 (PCK2)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.32  phosphoenolpyruvate carboxykinase (GTP)
+                 5106 (PCK2)
+POSITION    14q11.2-q12
+MOTIF       Pfam: PEPCK_C PEPCK_N
+DBLINKS     NCBI-GeneID: 5106
+            NCBI-ProteinID: NP_004554
+            OMIM: 614095
+            HGNC: 8725
+            Ensembl: ENSG00000100889
+            Vega: OTTHUMG00000028791
+            Pharos: Q16822(Tbio)
+            UniProt: Q16822
+AASEQ       640
+            MAALYRPGLRLNWHGLSPLGWPSCRSIQTLRVLSGDLGQLPTGIRDFVEHSARLCQPEGI
+            HICDGTEAENTATLTLLEQQGLIRKLPKYNNCWLARTDPKDVARVESKTVIVTPSQRDTV
+            PLPPGGARGQLGNWMSPADFQRAVDERFPGCMQGRTMYVLPFSMGPVGSPLSRIGVQLTD
+            SAYVVASMRIMTRLGTPVLQALGDGDFVKCLHSVGQPLTGQGEPVSQWPCNPEKTLIGHV
+            PDQREIISFGSGYGGNSLLGKKCFALRIASRLARDEGWLAEHMLILGITSPAGKKRYVAA
+            AFPSACGKTNLAMMRPALPGWKVECVGDDIAWMRFDSEGRLRAINPENGFFGVAPGTSAT
+            TNPNAMATIQSNTIFTNVAETSDGGVYWEGIDQPLPPGVTVTSWLGKPWKPGDKEPCAHP
+            NSRFCAPARQCPIMDPAWEAPEGVPIDAIIFGGRRPKGVPLVYEAFNWRHGVFVGSAMRS
+            ESTAAAEHKGKIIMHDPFAMRPFFGYNFGHYLEHWLSMEGRKGAQLPRIFHVNWFRRDEA
+            GHFLWPGFGENARVLDWICRRLEGEDSARETPIGLVPKEGALDLSGLRAIDTTQLFSLPK
+            DFWEQEVRDIRSYLTEQVNQDLPKEVLAELEALERRVHKM
+NTSEQ       1923
+            atggccgcattgtaccgccctggcctgcggcttaactggcatgggctgagccccttgggc
+            tggccatcatgccgtagcatccagaccctgcgagtgcttagtggagatctgggccagctt
+            cccactggcattcgagattttgtagagcacagtgcccgcctgtgccaaccagagggcatc
+            cacatctgtgatggaactgaggctgagaatactgccacactgaccctgctggagcagcag
+            ggcctcatccgaaagctccccaagtacaataactgctggctggcccgcacagaccccaag
+            gatgtggcacgagtagagagcaagacggtgattgtaactccttctcagcgggacacggta
+            ccactcccgcctggtggggcccgtgggcagctgggcaactggatgtccccagctgatttc
+            cagcgagctgtggatgagaggtttccaggctgcatgcagggccgcaccatgtatgtgctt
+            ccattcagcatgggtcctgtgggctccccgctgtcccgcatcggggtgcagctcactgac
+            tcagcctatgtggtggcaagcatgcgtattatgacccgactggggacacctgtgcttcag
+            gccctgggagatggtgactttgtcaagtgtctgcactccgtgggccagcccctgacagga
+            caaggggagccagtgagccagtggccgtgcaacccagagaaaaccctgattggccacgtg
+            cccgaccagcgggagatcatctccttcggcagcggctatggtggcaactccctgctgggc
+            aagaagtgctttgccctacgcatcgcctctcggctggcccgggatgagggctggctggca
+            gagcacatgctgatcctgggcatcaccagccctgcagggaagaagcgctatgtggcagcc
+            gccttccctagtgcctgtggcaagaccaacctggctatgatgcggcctgcactgccaggc
+            tggaaagtggagtgtgtgggggatgatattgcttggatgaggtttgacagtgaaggtcga
+            ctccgggccatcaaccctgagaacggcttctttggggttgcccctggtacctctgccacc
+            accaatcccaacgccatggctacaatccagagtaacactatttttaccaatgtggctgag
+            accagtgatggtggcgtgtactgggagggcattgaccagcctcttccacctggtgttact
+            gtgacctcctggctgggcaaaccctggaaacctggtgacaaggagccctgtgcacatccc
+            aactctcgattttgtgccccggctcgccagtgccccatcatggacccagcctgggaggcc
+            ccagagggtgtccccattgacgccatcatctttggtggccgcagacccaaaggggtaccc
+            ctggtatacgaggccttcaactggcgtcatggggtgtttgtgggcagcgccatgcgctct
+            gagtccactgctgcagcagaacacaaagggaagatcatcatgcacgacccatttgccatg
+            cggcccttttttggctacaacttcgggcactacctggaacactggctgagcatggaaggg
+            cgcaagggggcccagctgccccgtatcttccatgtcaactggttccggcgtgacgaggca
+            gggcacttcctgtggccaggctttggggagaatgctcgggtgctagactggatctgccgg
+            cggttagagggggaggacagtgcccgagagacacccattgggctggtgccaaaggaagga
+            gccttggatctcagcggcctcagagctatagacaccactcagctgttctccctccccaag
+            gacttctgggaacaggaggttcgtgacattcggagctacctgacagagcaggtcaaccag
+            gatctgcccaaagaggtgttggctgagcttgaggccctggagagacgtgtgcacaaaatg
+            tga
+///

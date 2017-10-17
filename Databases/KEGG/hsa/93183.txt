@@ -1,0 +1,68 @@
+ENTRY       93183             CDS       T01001
+NAME        PIGM, GPI-MT-I
+DEFINITION  (RefSeq) phosphatidylinositol glycan anchor biosynthesis class M
+ORTHOLOGY   K05284  phosphatidylinositol glycan, class M [EC:2.4.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00065  GPI-anchor biosynthesis, core oligosaccharide
+DISEASE     H01127  PIGM-congenital disorder of glycosylation (PIGM-CDG)
+            H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+                93183 (PIGM)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.-  
+                 93183 (PIGM)
+            Glycosyltransferases [BR:hsa01003]
+             GPI-anchor biosynthesis
+              Core oligosaccharide
+               93183 (PIGM)
+POSITION    1q23.2
+MOTIF       Pfam: Mannosyl_trans PIG-U GT87
+DBLINKS     NCBI-GeneID: 93183
+            NCBI-ProteinID: NP_660150
+            OMIM: 610273
+            HGNC: 18858
+            Ensembl: ENSG00000143315
+            Vega: OTTHUMG00000024081
+            Pharos: Q9H3S5(Tbio)
+            UniProt: Q9H3S5
+AASEQ       423
+            MGSTKHWGEWLLNLKVAPAGVFGVAFLARVALVFYGVFQDRTLHVRYTDIDYQVFTDAAR
+            FVTEGRSPYLRATYRYTPLLGWLLTPNIYLSELFGKFLFISCDLLTAFLLYRLLLLKGLG
+            RRQACGYCVFWLLNPLPMAVSSRGNADSIVASLVLMVLYLIKKRLVACAAVFYGFAVHMK
+            IYPVTYILPITLHLLPDRDNDKSLRQFRYTFQACLYELLKRLCNRAVLLFVAVAGLTFFA
+            LSFGFYYEYGWEFLEHTYFYHLTRRDIRHNFSPYFYMLYLTAESKWSFSLGIAAFLPQLI
+            LLSAVSFAYYRDLVFCCFLHTSIFVTFNKVCTSQYFLWYLCLLPLVMPLVRMPWKRAVVL
+            LMLWFIGQAMWLAPAYVLEFQGKNTFLFIWLAGLFFLLINCSILIQIISHYKEEPLTERI
+            KYD
+NTSEQ       1272
+            atgggctccaccaagcactggggcgaatggctcctgaacttgaaggtggctccagccggc
+            gtctttggtgtggcctttctagccagagtcgccctggttttctatggcgtcttccaggac
+            cggaccctgcacgtgaggtatacggacatcgactaccaggtcttcaccgacgccgcgcgc
+            ttcgtcacggaggggcgctcgccttacctgagagccacgtaccgttacaccccgctgctg
+            ggttggctcctcactcccaacatctacctcagcgagctctttggaaagtttctcttcatc
+            agctgcgacctcctcaccgctttcctcttataccgcctgctgctgctgaaggggctgggg
+            cgccgccaggcttgtggctactgtgtcttttggcttcttaaccccctgcctatggcagta
+            tccagccgcggtaatgcggactctattgtcgcctccctggtcctgatggtcctctacttg
+            ataaagaaaagactcgtcgcgtgtgcagctgtattctatggtttcgcggtgcatatgaag
+            atatatccagtgacttacatccttcccataaccctccacctgcttccagatcgcgacaat
+            gacaaaagcctccgtcaattccggtacactttccaggcttgtttgtacgagctcctgaaa
+            aggctgtgtaatcgggctgtgctgctgtttgtagcagttgctggactcacgttttttgcc
+            ctgagctttggtttttactatgagtacggctgggaatttttggaacacacctacttttat
+            cacctgactaggcgggatatccgtcacaacttttctccgtacttctacatgctgtatttg
+            actgcagagagcaagtggagtttttccctgggaattgctgcattcctgccacagctcatc
+            ttgctttcagctgtgtctttcgcctattacagagacctcgttttttgttgttttcttcat
+            acgtccatttttgtgacttttaacaaagtctgcacctcccagtactttctttggtacctc
+            tgcttactgcctcttgtgatgccactagtcagaatgccttggaaaagagctgtagttctc
+            ctaatgttatggtttatagggcaggccatgtggctggctcctgcctatgttctagagttt
+            caaggaaagaacacctttctgtttatttggttagctggtttgttctttcttcttatcaat
+            tgttccatcctgattcaaattatttcccattacaaagaagaacccctgacagagagaatc
+            aaatatgactag
+///

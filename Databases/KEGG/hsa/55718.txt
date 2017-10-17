@@ -1,0 +1,96 @@
+ENTRY       55718             CDS       T01001
+NAME        POLR3E, RPC5, SIN
+DEFINITION  (RefSeq) RNA polymerase III subunit E
+ORTHOLOGY   K14721  DNA-directed RNA polymerase III subunit RPC5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                55718 (POLR3E)
+               00240 Pyrimidine metabolism
+                55718 (POLR3E)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                55718 (POLR3E)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                55718 (POLR3E)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                55718 (POLR3E)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 55718 (POLR3E)
+POSITION    16p12.2
+MOTIF       Pfam: Sin_N
+DBLINKS     NCBI-GeneID: 55718
+            NCBI-ProteinID: NP_060589
+            HGNC: 30347
+            Ensembl: ENSG00000058600
+            Vega: OTTHUMG00000094779
+            Pharos: Q9NVU0(Tbio)
+            UniProt: Q9NVU0
+AASEQ       708
+            MANEEDDPVVQEIDVYLAKSLAEKLYLFQYPVRPASMTYDDIPHLSAKIKPKQQKVELEM
+            AIDTLNPNYCRSKGEQIALNVDGACADETSTYSSKLMDKQTFCSSQTTSNTSRYAAALYR
+            QGELHLTPLHGILQLRPSFSYLDKADAKHREREAANEAGDSSQDEAEDDVKQITVRFSRP
+            ESEQARQRRVQSYEFLQKKHAEEPWVHLHYYGLRDSRSEHERQYLLCPGSSGVENTELVK
+            SPSEYLMMLMPPSQEEEKDKPVAPSNVLSMAQLRTLPLADQIKILMKNVKVMPFANLMSL
+            LGPSIDSVAVLRGIQKVAMLVQGNWVVKSDILYPKDSSSPHSGVPAEVLCRGRDFVMWKF
+            TQSRWVVRKEVATVTKLCAEDVKDFLEHMAVVRINKGWEFILPYDGEFIKKHPDVVQRQH
+            MLWTGIQAKLEKVYNLVKETMPKKPDAQSGPAGLVCGDQRIQVAKTKAQQNHALLERELQ
+            RRKEQLRVPAVPPGVRIKEEPVSEEGEEDEEQEAEEEPMDTSPSGLHSKLANGLPLGRAA
+            GTDSFNGHPPQGCASTPVARELKAFVEATFQRQFVLTLSELKRLFNLHLASLPPGHTLFS
+            GISDRMLQDTVLAAGCKQILVPFPPQTAASPDEQKVFALWESGDMSDQHRQVLLEIFSKN
+            YRVRRNMIQSRLTQECGEDLSKQEVDKVLKDCCVSYGGMWYLKGTVQS
+NTSEQ       2127
+            atggccaatgaagaggatgacccagttgtacaggagatcgatgtgtacttggccaagagt
+            ctggcggaaaagctgtatctatttcagtaccctgtgcgtccagcctcgatgacctacgat
+            gacattccgcacctctcagccaagatcaagcccaagcagcagaaggtagagcttgagatg
+            gccatcgacaccctgaaccccaactattgccgcagcaaaggggagcagattgcgctgaac
+            gtggacggggcctgcgccgacgagaccagcacgtattcctcgaagctgatggacaagcag
+            accttctgctcttcccagaccaccagtaacacatcccgttatgccgctgcactctacagg
+            caaggtgagctccacctgacacctttacatggcatcctgcagctgcggcccagcttctcc
+            tacctggataaggctgacgccaagcaccgggagagggaggcggccaacgaggcaggggac
+            tcttcacaggatgaggcggaagacgatgttaagcagatcacggtgcggttctcccggccg
+            gagtcagagcaggcccgccagcgccgtgtgcagtcctatgagttcctgcagaagaagcac
+            gcagaggagccctgggtccacctgcattactatggcctgagggacagtcgctctgagcat
+            gagcgtcagtacctgctgtgccccggctcaagcggggtggagaacacggagctcgtcaag
+            tcacccagtgagtacctgatgatgctgatgccacccagccaggaggaggagaaagacaag
+            cctgtggcccccagcaacgtcctgtcgatggcccagctgcgcacgctgcccctggccgat
+            cagatcaagatcctgatgaagaatgtgaaggtcatgccttttgccaacttgatgagcctc
+            ctgggcccctccatcgattccgtggctgttctgcggggcatccagaaggtggcgatgttg
+            gtccaagggaactgggtggtgaagagtgacatcctataccccaaggactcgtccagccct
+            cacagcggcgtgcctgctgaggtgctctgcaggggccgagacttcgttatgtggaagttc
+            acgcagagccgctgggtggttaggaaagaggtggcaaccgtgaccaaactctgcgccgag
+            gatgtgaaggacttcctggagcacatggccgtggtgaggatcaacaaaggctgggagttc
+            attctgccttatgatggggagttcatcaagaagcacccggatgtggtccagcggcagcac
+            atgctgtggacgggtatccaggccaaactggaaaaagtctataatcttgtaaaggaaacc
+            atgccaaagaagccggatgcacaatcagggcctgccgggctggtctgtggggaccagcgg
+            atccaagtagccaaaaccaaggcccagcagaaccacgcgttgctggagcgggagctgcag
+            cggcggaaggagcagctgcgggtgcctgcggtcccgcccggtgtgcggatcaaggaggag
+            cccgtgagcgaggagggcgaggaggacgaggagcaggaggcggaggaggagcccatggac
+            acttcccccagcggcctccacagcaagctggccaacgggctgcctctcgggcgggctgcg
+            ggcacagacagcttcaacgggcacccgccccagggctgcgccagcacccctgtggctcgg
+            gaactgaaggccttcgtggaggccacctttcagagacagtttgtgctcacgctgagcgaa
+            ctcaagcgcctcttcaatctgcacttggccagcctgccccccggccacacactcttcagc
+            ggcatctcggaccgcatgctacaggacacggtgctggccgccggttgcaagcagatactg
+            gtgccttttcccccccagactgctgcttccccggatgagcagaaggtgtttgccctctgg
+            gagtctggagacatgagtgatcagcatcgacaggttttgcttgaaattttttccaaaaat
+            taccgggtacgccgaaacatgatccagtctcggttgactcaagagtgtggagaagatctc
+            agtaaacaggaggtggataaagtactaaaggactgctgtgtaagctatggtggcatgtgg
+            taccttaaagggacagtacagtcttga
+///

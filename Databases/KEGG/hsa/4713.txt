@@ -1,0 +1,57 @@
+ENTRY       4713              CDS       T01001
+NAME        NDUFB7, B18, CI-B18
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit B7
+ORTHOLOGY   K03963  NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00147  NADH dehydrogenase (ubiquinone) 1 beta subcomplex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4713 (NDUFB7)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4713 (NDUFB7)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4713 (NDUFB7)
+               05012 Parkinson's disease
+                4713 (NDUFB7)
+               05016 Huntington's disease
+                4713 (NDUFB7)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4713 (NDUFB7)
+POSITION    19p13.12
+MOTIF       Pfam: NDUF_B7 OrfB_IS605 Cmc1 Cys_rich_FGFR
+DBLINKS     NCBI-GeneID: 4713
+            NCBI-ProteinID: NP_004137
+            OMIM: 603842
+            HGNC: 7702
+            Ensembl: ENSG00000099795
+            Vega: OTTHUMG00000183291
+            Pharos: P17568(Tclin)
+            UniProt: P17568
+STRUCTURE   PDB: 5XTC 5XTD
+AASEQ       137
+            MGAHLVRRYLGDASVEPDPLQMPTFPPDYGFPERKEREMVATQQEMMDAQLRLQLRDYCA
+            HHLIRLLKCKRDSFPNFLACKQERHDWDYCEHRDYVMRMKEFERERRLLQRKKRREKKAA
+            ELAKGQGPGEVDPKVAL
+NTSEQ       414
+            atgggggcccacctggtccggcgctacctgggcgatgcctcggtggagcccgaccccctg
+            cagatgccaaccttcccgccagactacggcttccccgaacgcaaggagcgcgagatggtg
+            gccacacagcaggagatgatggacgcgcagctgaggctccagctgcgggactactgcgcc
+            caccacctcatccggctgctcaagtgcaagcgtgacagcttccccaacttcctggcctgc
+            aagcaggagcggcacgactgggactactgcgagcaccgcgactatgtgatgcgcatgaag
+            gagtttgagcgggagcggaggctgctccagcggaagaagcggcgggagaagaaggcggca
+            gagttggccaaaggccagggacccggggaagtggaccccaaggtggccctgtag
+///

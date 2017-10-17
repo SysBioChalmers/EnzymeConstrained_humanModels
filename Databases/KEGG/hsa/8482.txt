@@ -1,0 +1,83 @@
+ENTRY       8482              CDS       T01001
+NAME        SEMA7A, CD108, CDw108, H-SEMA-K1, H-Sema-L, JMH, SEMAK1, SEMAL
+DEFINITION  (RefSeq) semaphorin 7A (John Milton Hagen blood group)
+ORTHOLOGY   K06529  semaphorin 7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04360  Axon guidance
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Development
+               04360 Axon guidance
+                8482 (SEMA7A)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-1
+                ITGB1; integrin beta 1 [KO:K05719]
+                 8482 (SEMA7A)
+             7. Others
+              PLXNC; plexin C [KO:K06572]
+               8482 (SEMA7A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              8482 (SEMA7A)
+POSITION    15q24.1
+MOTIF       Pfam: Sema Ig_2 PSI Ig_3 V-set
+DBLINKS     NCBI-GeneID: 8482
+            NCBI-ProteinID: NP_003603
+            OMIM: 607961
+            HGNC: 10741
+            Ensembl: ENSG00000138623
+            Vega: OTTHUMG00000139000
+            Pharos: O75326(Tbio)
+            UniProt: O75326 B3KMH6
+STRUCTURE   PDB: 3NVQ
+AASEQ       666
+            MTPPPPGRAAPSAPRARVPGPPARLGLPLRLRLLLLLWAAAASAQGHLRSGPRIFAVWKG
+            HVGQDRVDFGQTEPHTVLFHEPGSSSVWVGGRGKVYLFDFPEGKNASVRTVNIGSTKGSC
+            LDKRDCENYITLLERRSEGLLACGTNARHPSCWNLVNGTVVPLGEMRGYAPFSPDENSLV
+            LFEGDEVYSTIRKQEYNGKIPRFRRIRGESELYTSDTVMQNPQFIKATIVHQDQAYDDKI
+            YYFFREDNPDKNPEAPLNVSRVAQLCRGDQGGESSLSVSKWNTFLKAMLVCSDAATNKNF
+            NRLQDVFLLPDPSGQWRDTRVYGVFSNPWNYSAVCVYSLGDIDKVFRTSSLKGYHSSLPN
+            PRPGKCLPDQQPIPTETFQVADRHPEVAQRVEPMGPLKTPLFHSKYHYQKVAVHRMQASH
+            GETFHVLYLTTDRGTIHKVVEPGEQEHSFAFNIMEIQPFRRAAAIQTMSLDAERRKLYVS
+            SQWEVSQVPLDLCEVYGGGCHGCLMSRDPYCGWDQGRCISIYSSERSVLQSINPAEPHKE
+            CPNPKPDKAPLQKVSLAPNSRYYLSCPMESRHATYSWRHKENVEQSCEPGHQSPNCILFI
+            ENLTAQQYGHYFCEAQEGSYFREAQHWQLLPEDGIMAEHLLGHACALAASLWLGVLPTLT
+            LGLLVH
+NTSEQ       2001
+            atgacgcctcctccgcccggacgtgccgcccccagcgcaccgcgcgcccgcgtccctggc
+            ccgccggctcggttggggcttccgctgcggctgcggctgctgctgctgctctgggcggcc
+            gccgcctccgcccagggccacctaaggagcggaccccgcatcttcgccgtctggaaaggc
+            catgtagggcaggaccgggtggactttggccagactgagccgcacacggtgcttttccac
+            gagccaggcagctcctctgtgtgggtgggaggacgtggcaaggtctacctctttgacttc
+            cccgagggcaagaacgcatctgtgcgcacggtgaatatcggctccacaaaggggtcctgt
+            ctggataagcgggactgcgagaactacatcactctcctggagaggcggagtgaggggctg
+            ctggcctgtggcaccaacgcccggcaccccagctgctggaacctggtgaatggcactgtg
+            gtgccacttggcgagatgagaggctacgcccccttcagcccggacgagaactccctggtt
+            ctgtttgaaggggacgaggtgtattccaccatccggaagcaggaatacaatgggaagatc
+            cctcggttccgccgcatccggggcgagagtgagctgtacaccagtgatactgtcatgcag
+            aacccacagttcatcaaagccaccatcgtgcaccaagaccaggcttacgatgacaagatc
+            tactacttcttccgagaggacaatcctgacaagaatcctgaggctcctctcaatgtgtcc
+            cgtgtggcccagttgtgcaggggggaccagggtggggaaagttcactgtcagtctccaag
+            tggaacacttttctgaaagccatgctggtatgcagtgatgctgccaccaacaagaacttc
+            aacaggctgcaagacgtcttcctgctccctgaccccagcggccagtggagggacaccagg
+            gtctatggtgttttctccaacccctggaactactcagccgtctgtgtgtattccctcggt
+            gacattgacaaggtcttccgtacctcctcactcaagggctaccactcaagccttcccaac
+            ccgcggcctggcaagtgcctcccagaccagcagccgatacccacagagaccttccaggtg
+            gctgaccgtcacccagaggtggcgcagagggtggagcccatggggcctctgaagacgcca
+            ttgttccactctaaataccactaccagaaagtggccgtccaccgcatgcaagccagccac
+            ggggagacctttcatgtgctttacctaactacagacaggggcactatccacaaggtggtg
+            gaaccgggggagcaggagcacagcttcgccttcaacatcatggagatccagcccttccgc
+            cgcgcggctgccatccagaccatgtcgctggatgctgagcggaggaagctgtatgtgagc
+            tcccagtgggaggtgagccaggtgcccctggacctgtgtgaggtctatggcgggggctgc
+            cacggttgcctcatgtcccgagacccctactgcggctgggaccaaggccgctgcatctcc
+            atctacagctccgaacggtcagtgctgcaatccattaatccagccgagccacacaaggag
+            tgtcccaaccccaaaccagacaaggccccactgcagaaggtttccctggccccaaactct
+            cgctactacctgagctgccccatggaatcccgccacgccacctactcatggcgccacaag
+            gagaacgtggagcagagctgcgaacctggtcaccagagccccaactgcatcctgttcatc
+            gagaacctcacggcgcagcagtacggccactacttctgcgaggcccaggagggctcctac
+            ttccgcgaggctcagcactggcagctgctgcccgaggacggcatcatggccgagcacctg
+            ctgggtcatgcctgtgccctggccgcctccctctggctgggggtgctgcccacactcact
+            cttggcttgctggtccactag
+///

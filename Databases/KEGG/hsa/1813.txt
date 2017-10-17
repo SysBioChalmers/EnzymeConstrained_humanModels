@@ -1,0 +1,192 @@
+ENTRY       1813              CDS       T01001
+NAME        DRD2, D2DR, D2R
+DEFINITION  (RefSeq) dopamine receptor D2
+ORTHOLOGY   K04145  dopamine receptor D2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04540  Gap junction
+            hsa04728  Dopaminergic synapse
+            hsa05012  Parkinson's disease
+            hsa05030  Cocaine addiction
+            hsa05034  Alcoholism
+DISEASE     H01611  Alcohol dependence
+DRUG_TARGET Alizapride (DG00058): D07102 D07563
+            Aplindore fumarate: D03214
+            Apomorphine (DG00486): D02004 D07460
+            Aripiprazole (DG00906): D01164 D10355 D10364 D10516
+            Asenapine: D02995
+            Bifeprunox (DG01304): D06566 D06567
+            Blonanserin: D01176
+            Brexpiprazole: D10309
+            Bromocriptine (DG00452): D00780 D03165
+            Bromopride: D07101
+            Bromperidol (DG00890): D01101 D02626
+            Butaclamol hydrochloride: D02641
+            Cabergoline: D00987
+            Cariprazine: D09876 D09997
+            Carvotroline hydrochloride: D02645
+            Chlorpromazine (DG00867): D00270 D00789 D03274 D04034 D09819
+            Ciladopa hydrochloride: D03494
+            Clebopride (DG00059): D01742 D03534
+            Clocapramine (DG01313): D02371 D07718
+            Clopenthixol: D02613
+            Dexpramipexole (DG01331): D09886 D09887
+            Dihydroergocryptine (DG01329): D07835
+            Dihydroergocryptine mesylate: D07836
+            Dihydroergotamine (DG00833): D02211 D07837 D07838
+            Domperidone (DG00057): D01745 D07868
+            Dopamine (DG00213): D00633 D07870
+            Dopexamine (DG00222): D03891 D03892
+            Droperidol: D00308
+            Ergometrine (DG00446): D01163 D07905
+            Ergot alkaloids: D07906
+            Ergotamine (DG00834): D00679
+            Flupentixol (DG00893): D01044 D02236 D07976
+            Fluphenazine (DG00874): D00791 D00792 D00793 D02163 D07977
+            Flutroline: D02662
+            Gevotroline hydrochloride: D02663
+            Haloperidol (DG00885): D00136 D01898 D08035
+            Ibopamine (DG00223): D04488 D08057
+            Iloperidone: D02666
+            Itopride: D02729 D08094
+            Lergotrile (DG01319): D04693 D04694
+            Levodopa: D00059
+            Levomepromazine (DG00868): D00403 D01520 D02248
+            Levosulpiride: D07312
+            Lisuride (DG00453): D01462 D08132
+            Loxapine (DG00897): D00794 D02340 D08148
+            Lurasidone: D04820
+            Mazapertine succinate: D02670
+            Methoxypromazine maleate: D02605
+            Methylergometrine (DG00445): D00680 D08207
+            Metoclopramide (DG00055): D00726 D02213 D05008
+            Metopimazine: D05010
+            Molindone (DG00891): D00796 D08226
+            Moperone (DG00888): D01105 D02623
+            Mosapramine (DG00905): D01548 D08235
+            Naxagolide hydrochloride: D05124
+            Nemonapride: D01468
+            Olanzapine (DG00898): D00454 D06623
+            Opipramol (DG00930): D01477 D08297
+            Oxiperomide: D02676
+            Paliperidone (DG00907): D05339 D05340
+            Pardoprunox (DG01324): D09366 D09397
+            Perazine (DG00881): D01412 D01860 D02608
+            Pergolide (DG00861): D00502 D08339
+            Periciazine: D01485
+            Perospirone hydrochloride hydrate: D02372
+            Perphenazine (DG00875): D00503 D02037 D04038 D04965 D08341 D08342
+            Pimozide: D00560
+            Pipamperone (DG00889): D01482 D02622
+            Piquindone hydrochloride: D02681
+            Piribedil: D07305
+            Pramipexole (DG00863): D00559 D05575
+            Prochlorperazine (DG00876): D00479 D00493 D02022 D02609
+            Promazine (DG00869): D00797 D08430
+            Quetiapine (DG00899): D00458 D08456
+            Quinagolide (DG00454): D07217 D08457
+            Quinelorane hydrochloride: D05677
+            Quinpirole hydrochloride: D05682
+            Raclopride C11: D05690
+            Risperidone: D00426
+            Ropinirole (DG00862): D00784 D08489
+            Rotigotine: D05768
+            Sertindole: D00561
+            Sibenadet hydrochloride: D05832
+            Spiperone: D01051
+            Sulpiride: D01226
+            Sultopride (DG00900): D02208 D08549
+            Talipexole (DG01326): D01505 D08558
+            Terguride: D01348
+            Thiethylperazine (DG01102): D01130 D02354 D02610
+            Thioproperazine (DG00879): D01447 D08585
+            Thioridazine (DG00882): D00373 D00798
+            Tiapride (DG00901): D01522 D08590
+            Timiperone: D02035
+            Tiotixene (DG00895): D00374 D02612
+            Trifluoperazine (DG00877): D00799 D01448 D08636
+            Trifluperidol (DG00886): D02625 D08637
+            Triflupromazine (DG00871): D00390 D00800
+            Trimethobenzamide: D02733 D08643
+            Zicronapine (DG01539): D10329 D10495
+            Ziprasidone (DG00892): D01939 D02100 D08687
+            Zotepine: D01321
+            Zuclopenthixol (DG00896): D03556 D08691 D08692 D08693
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                1813 (DRD2)
+               04024 cAMP signaling pathway
+                1813 (DRD2)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1813 (DRD2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                1813 (DRD2)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                1813 (DRD2)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                1813 (DRD2)
+              Substance dependence
+               05030 Cocaine addiction
+                1813 (DRD2)
+               05034 Alcoholism
+                1813 (DRD2)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Dopamine [OT]
+                1813 (DRD2)
+POSITION    11q23.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7TM_GPCR_Srv 7tm_4 DUF2207 Stevor RIFIN
+DBLINKS     NCBI-GeneID: 1813
+            NCBI-ProteinID: NP_000786
+            OMIM: 126450
+            HGNC: 3023
+            Ensembl: ENSG00000149295
+            Vega: OTTHUMG00000167717
+            Pharos: P14416(Tclin)
+            UniProt: P14416 A0A024R3C5
+AASEQ       443
+            MDPLNLSWYDDDLERQNWSRPFNGSDGKADRPHYNYYATLLTLLIAVIVFGNVLVCMAVS
+            REKALQTTTNYLIVSLAVADLLVATLVMPWVVYLEVVGEWKFSRIHCDIFVTLDVMMCTA
+            SILNLCAISIDRYTAVAMPMLYNTRYSSKRRVTVMISIVWVLSFTISCPLLFGLNNADQN
+            ECIIANPAFVVYSSIVSFYVPFIVTLLVYIKIYIVLRRRRKRVNTKRSSRAFRAHLRAPL
+            KGNCTHPEDMKLCTVIMKSNGSFPVNRRRVEAARRAQELEMEMLSSTSPPERTRYSPIPP
+            SHHQLTLPDPSHHGLHSTPDSPAKPEKNGHAKDHPKIAKIFEIQTMPNGKTRTSLKTMSR
+            RKLSQQKEKKATQMLAIVLGVFIICWLPFFITHILNIHCDCNIPPVLYSAFTWLGYVNSA
+            VNPIIYTTFNIEFRKAFLKILHC
+NTSEQ       1332
+            atggatccactgaatctgtcctggtatgatgatgatctggagaggcagaactggagccgg
+            cccttcaacgggtcagacgggaaggcggacagaccccactacaactactatgccacactg
+            ctcaccctgctcatcgctgtcatcgtcttcggcaacgtgctggtgtgcatggctgtgtcc
+            cgcgagaaggcgctgcagaccaccaccaactacctgatcgtcagcctcgcagtggccgac
+            ctcctcgtcgccacactggtcatgccctgggttgtctacctggaggtggtaggtgagtgg
+            aaattcagcaggattcactgtgacatcttcgtcactctggacgtcatgatgtgcacggcg
+            agcatcctgaacttgtgtgccatcagcatcgacaggtacacagctgtggccatgcccatg
+            ctgtacaatacgcgctacagctccaagcgccgggtcaccgtcatgatctccatcgtctgg
+            gtcctgtccttcaccatctcctgcccactcctcttcggactcaataacgcagaccagaac
+            gagtgcatcattgccaacccggccttcgtggtctactcctccatcgtctccttctacgtg
+            cccttcattgtcaccctgctggtctacatcaagatctacattgtcctccgcagacgccgc
+            aagcgagtcaacaccaaacgcagcagccgagctttcagggcccacctgagggctccacta
+            aagggcaactgtactcaccccgaggacatgaaactctgcaccgttatcatgaagtctaat
+            gggagtttcccagtgaacaggcggagagtggaggctgcccggcgagcccaggagctggag
+            atggagatgctctccagcaccagcccacccgagaggacccggtacagccccatcccaccc
+            agccaccaccagctgactctccccgacccgtcccaccatggtctccacagcactcccgac
+            agccccgccaaaccagagaagaatgggcatgccaaagaccaccccaagattgccaagatc
+            tttgagatccagaccatgcccaatggcaaaacccggacctccctcaagaccatgagccgt
+            aggaagctctcccagcagaaggagaagaaagccactcagatgctcgccattgttctcggc
+            gtgttcatcatctgctggctgcccttcttcatcacacacatcctgaacatacactgtgac
+            tgcaacatcccgcctgtcctgtacagcgccttcacgtggctgggctatgtcaacagcgcc
+            gtgaaccccatcatctacaccaccttcaacattgagttccgcaaggccttcctgaagatc
+            ctccactgctga
+///

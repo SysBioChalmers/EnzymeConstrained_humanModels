@@ -1,0 +1,107 @@
+ENTRY       217               CDS       T01001
+NAME        ALDH2, ALDH-E2, ALDHI, ALDM
+DEFINITION  (RefSeq) aldehyde dehydrogenase 2 family (mitochondrial)
+ORTHOLOGY   K00128  aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H01071  Acute alcohol sensitivity
+            H01611  Alcohol dependence
+DRUG_TARGET Cyanamide: D00123
+            Disulfiram: D00131
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                217 (ALDH2)
+               00053 Ascorbate and aldarate metabolism
+                217 (ALDH2)
+               00620 Pyruvate metabolism
+                217 (ALDH2)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                217 (ALDH2)
+               00561 Glycerolipid metabolism
+                217 (ALDH2)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                217 (ALDH2)
+               00310 Lysine degradation
+                217 (ALDH2)
+               00330 Arginine and proline metabolism
+                217 (ALDH2)
+               00340 Histidine metabolism
+                217 (ALDH2)
+               00380 Tryptophan metabolism
+                217 (ALDH2)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                217 (ALDH2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 217 (ALDH2)
+POSITION    12q24.12
+MOTIF       Pfam: Aldedh DUF1235
+DBLINKS     NCBI-GeneID: 217
+            NCBI-ProteinID: NP_000681
+            OMIM: 100650
+            HGNC: 404
+            Ensembl: ENSG00000111275
+            Vega: OTTHUMG00000169603
+            Pharos: P05091(Tclin)
+            UniProt: P05091
+STRUCTURE   PDB: 1O04 3N80 3INJ 3N81 3INL 3N83 1O02 2ONP 4KWG 3SZ9 1ZUM
+                 2ONO 1O01 4FR8 3N82 1O05 4FQF 4KWF 5L13 1NZX 1NZZ 2ONM
+                 1CW3 1O00 1NZW 2ONN 2VLE
+AASEQ       517
+            MLRAAARFGPRLGRRLLSAAATQAVPAPNQQPEVFCNQIFINNEWHDAVSRKTFPTVNPS
+            TGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLIERDRTYLA
+            ALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVGVCG
+            QIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNIVPG
+            FGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPNIIMSDADM
+            DWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPFDSKTEQGP
+            QVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTIAKEEIFGP
+            VMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNCYDVFGAQS
+            PFGGYKMSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
+NTSEQ       1554
+            atgttgcgcgctgccgcccgcttcgggccccgcctgggccgccgcctcttgtcagccgcc
+            gccacccaggccgtgcctgcccccaaccagcagcccgaggtcttctgcaaccagattttc
+            ataaacaatgaatggcacgatgccgtcagcaggaaaacattccccaccgtcaatccgtcc
+            actggagaggtcatctgtcaggtagctgaaggggacaaggaagatgtggacaaggcagtg
+            aaggccgcccgggccgccttccagctgggctcaccttggcgccgcatggacgcatcacac
+            aggggccggctgctgaaccgcctggccgatctgatcgagcgggaccggacctacctggcg
+            gccttggagaccctggacaatggcaagccctatgtcatctcctacctggtggatttggac
+            atggtcctcaaatgtctccggtattatgccggctgggctgataagtaccacgggaaaacc
+            atccccattgacggagacttcttcagctacacacgccatgaacctgtgggggtgtgcggg
+            cagatcattccgtggaatttcccgctcctgatgcaagcatggaagctgggcccagccttg
+            gcaactggaaacgtggttgtgatgaaggtagctgagcagacacccctcaccgccctctat
+            gtggccaacctgatcaaggaggctggctttccccctggtgtggtcaacattgtgcctgga
+            tttggccccacggctggggccgccattgcctcccatgaggatgtggacaaagtggcattc
+            acaggctccactgagattggccgcgtaatccaggttgctgctgggagcagcaacctcaag
+            agagtgaccttggagctgggggggaagagccccaacatcatcatgtcagatgccgatatg
+            gattgggccgtggaacaggcccacttcgccctgttcttcaaccagggccagtgctgctgt
+            gccggctcccggaccttcgtgcaggaggacatctatgatgagtttgtggagcggagcgtt
+            gcccgggccaagtctcgggtggtcgggaacccctttgatagcaagaccgagcaggggccg
+            caggtggatgaaactcagtttaagaagatcctcggctacatcaacacggggaagcaagag
+            ggggcgaagctgctgtgtggtgggggcattgctgctgaccgtggttacttcatccagccc
+            actgtgtttggagatgtgcaggatggcatgaccatcgccaaggaggagatcttcgggcca
+            gtgatgcagatcctgaagttcaagaccatagaggaggttgttgggagagccaacaattcc
+            acgtacgggctggccgcagctgtcttcacaaaggatttggacaaggccaattacctgtcc
+            caggccctccaggcgggcactgtgtgggtcaactgctatgatgtgtttggagcccagtca
+            ccctttggtggctacaagatgtcggggagtggccgggagttgggcgagtacgggctgcag
+            gcatacactgaagtgaaaactgtcacagtcaaagtgcctcagaagaactcataa
+///

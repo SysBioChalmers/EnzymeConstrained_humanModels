@@ -1,0 +1,79 @@
+ENTRY       427               CDS       T01001
+NAME        ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME
+DEFINITION  (RefSeq) N-acylsphingosine amidohydrolase 1
+ORTHOLOGY   K12348  acid ceramidase [EC:3.5.1.23]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04071  Sphingolipid signaling pathway
+            hsa04142  Lysosome
+MODULE      hsa_M00099  Sphingosine biosynthesis
+DISEASE     H00138  Farber lipogranulomatosis
+            H00424  Defects in the degradation of sphingomyelin
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                427 (ASAH1)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                427 (ASAH1)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                427 (ASAH1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.23  ceramidase
+                 427 (ASAH1)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C89
+               427 (ASAH1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               427 (ASAH1)
+POSITION    8p22
+MOTIF       Pfam: CBAH NAAA-beta AAT HP_OMP DUF502
+DBLINKS     NCBI-GeneID: 427
+            NCBI-ProteinID: NP_808592
+            OMIM: 613468
+            HGNC: 735
+            Ensembl: ENSG00000104763
+            Vega: OTTHUMG00000096997
+            Pharos: Q13510(Tchem)
+            UniProt: Q13510 Q53H01 A8K0B6
+AASEQ       395
+            MPGRSCVALVLLAAAVSCAVAQHAPPWTEDCRKSTYPPSGPTYRGAVPWYTINLDLPPYK
+            RWHELMLDKAPVLKVIVNSLKNMINTFVPSGKIMQVVDEKLPGLLGNFPGPFEEEMKGIA
+            AVTDIPLGEIISFNIFYELFTICTSIVAEDKKGHLIHGRNMDFGVFLGWNINNDTWVITE
+            QLKPLTVNLDFQRNNKTVFKASSFAGYVGMLTGFKPGLFSLTLNERFSINGGYLGILEWI
+            LGKKDVMWIGFLTRTVLENSTSYEEAKNLLTKTKILAPAYFILGGNQSGEGCVITRDRKE
+            SLDVYELDAKQGRWYVVQTNYDRWKHPFFLDDRRTPAKMCLNRTSQENISFETMYDVLST
+            KPVLNKLTVYTTLIDVTKGQFETYLRDCPDPCIGW
+NTSEQ       1188
+            atgccgggccggagttgcgtcgccttagtcctcctggctgccgccgtcagctgtgccgtc
+            gcgcagcacgcgccgccgtggacagaggactgcagaaaatcaacctatcctccttcagga
+            ccaacgtacagaggtgcagttccatggtacaccataaatcttgacttaccaccctacaaa
+            agatggcatgaattgatgcttgacaaggcaccagtgctaaaggttatagtgaattctctg
+            aagaatatgataaatacattcgtgccaagtggaaaaattatgcaggtggtggatgaaaaa
+            ttgcctggcctacttggcaactttcctggcccttttgaagaggaaatgaagggtattgcc
+            gctgttactgatatacctttaggagagattatttcattcaatattttttatgaattattt
+            accatttgtacttcaatagtagcagaagacaaaaaaggtcatctaatacatgggagaaac
+            atggattttggagtatttcttgggtggaacataaataatgatacctgggtcataactgag
+            caactaaaacctttaacagtgaatttggatttccaaagaaacaacaaaactgtcttcaag
+            gcttcaagctttgctggctatgtgggcatgttaacaggattcaaaccaggactgttcagt
+            cttacactgaatgaacgtttcagtataaatggtggttatctgggtattctagaatggatt
+            ctgggaaagaaagatgtcatgtggatagggttcctcactagaacagttctggaaaatagc
+            acaagttatgaagaagccaagaatttattgaccaagaccaagatattggccccagcctac
+            tttatcctgggaggcaaccagtctggggaaggttgtgtgattacacgagacagaaaggaa
+            tcattggatgtatatgaactcgatgctaagcagggtagatggtatgtggtacaaacaaat
+            tatgaccgttggaaacatcccttcttccttgatgatcgcagaacgcctgcaaagatgtgt
+            ctgaaccgcaccagccaagagaatatctcatttgaaaccatgtatgatgtcctgtcaaca
+            aaacctgtcctcaacaagctgaccgtatacacaaccttgatagatgttaccaaaggtcaa
+            ttcgaaacttacctgcgggactgccctgacccttgtataggttggtga
+///

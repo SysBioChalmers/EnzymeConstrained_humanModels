@@ -1,0 +1,51 @@
+ENTRY       1733              CDS       T01001
+NAME        DIO1, 5DI, TXDI1
+DEFINITION  (RefSeq) iodothyronine deiodinase 1
+ORTHOLOGY   K01562  type I thyroxine 5'-deiodinase [EC:1.21.99.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04919  Thyroid hormone signaling pathway
+DRUG_TARGET Benzylthiouracil: D07519
+            Methylthiouracil: D07231
+            Propylthiouracil: D00562
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                1733 (DIO1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.21  Catalysing the reaction X-H + Y-H = X-Y
+               1.21.99  With unknown physiological acceptors
+                1.21.99.4  thyroxine 5'-deiodinase
+                 1733 (DIO1)
+POSITION    1p32.3
+MOTIF       Pfam: T4_deiodinase DUF2019 SCIMP SWIM
+DBLINKS     NCBI-GeneID: 1733
+            NCBI-ProteinID: NP_000783
+            OMIM: 147892
+            HGNC: 2883
+            Ensembl: ENSG00000211452
+            Vega: OTTHUMG00000008435
+            Pharos: P49895(Tclin)
+            UniProt: P49895 A8K415
+AASEQ       249
+            MGLPQPGLWLKRLWVLLEVAVHVVVGKVLLILFPDRVKRNILAMGEKTGMTRNPHFSHDN
+            WIPTFFSTQYFWFVLKVRWQRLEDTTELGGLAPNCPVVRLSGQRCNIWEFMQGNRPLVLN
+            FGSCTUPSFMFKFDQFKRLIEDFSSIADFLVIYIEEAHASDGWAFKNNMDIRNHQNLQDR
+            LQAAHLLLARSPQCPVVVDTMQNQSSQLYAALPERLYIIQEGRILYKGKSGPWNYNPEEV
+            RAVLEKLHS
+NTSEQ       750
+            atggggctgccccagccagggctgtggctgaagaggctctgggtgctcttggaggtggct
+            gtgcatgtggtcgtgggtaaagtgcttctgatattgtttccagacagagtcaagcggaac
+            atcctggccatgggcgagaagacgggtatgaccaggaacccccatttcagccacgacaac
+            tggataccaacctttttcagcacccagtatttctggttcgtcttgaaggtccgttggcag
+            cgactagaggacacgactgagctagggggtctggccccaaactgcccggtggtccgcctc
+            tcaggacagaggtgcaacatttgggagtttatgcaaggtaataggccactggtgctgaat
+            tttggaagttgtacctgaccttcatttatgttcaaatttgaccagttcaagaggcttatt
+            gaagactttagttccatagcagattttcttgtcatttacattgaagaagcacatgcatca
+            gatggctgggcttttaagaacaacatggacatcagaaatcaccagaaccttcaggatcgc
+            ctgcaggcagcccatctactgctggccaggagcccccagtgccctgtggtggtggacacc
+            atgcagaaccagagcagccagctctacgcagcactgcctgagaggctctacataatccag
+            gagggcaggatcctctacaagggtaaatctggcccttggaactacaacccagaggaagtt
+            cgtgctgttctggaaaagctccacagttaa
+///

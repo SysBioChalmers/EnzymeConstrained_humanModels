@@ -1,0 +1,80 @@
+ENTRY       2820              CDS       T01001
+NAME        GPD2, GDH2, GPDM, mGPDH
+DEFINITION  (RefSeq) glycerol-3-phosphate dehydrogenase 2
+ORTHOLOGY   K00111  glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                2820 (GPD2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.5  With a quinone or similar compound as acceptor
+                1.1.5.3  glycerol-3-phosphate dehydrogenase
+                 2820 (GPD2)
+POSITION    2q24.1
+MOTIF       Pfam: DAO DAO_C EF-hand_7 EF-hand_1 EF-hand_6 FAD_binding_2 GIDA FAD_oxidored EF-hand_8 EF-hand_5 Pyr_redox_2 EF-hand_9 EF-hand_10 NAD_binding_8 HI0933_like FAD_binding_3 RNA_pol_Rpb4 Thi4 EF-hand_4 Pyr_redox_3 SPARC_Ca_bdg
+DBLINKS     NCBI-GeneID: 2820
+            NCBI-ProteinID: NP_000399
+            OMIM: 138430
+            HGNC: 4456
+            Ensembl: ENSG00000115159
+            Vega: OTTHUMG00000131951
+            Pharos: P43304(Tbio)
+            UniProt: P43304
+AASEQ       727
+            MAFQKAVKGTILVGGGALATVLGLSQFAHYRRKQMNLAYVKAADCISEPVNREPPSREAQ
+            LLTLQNTSEFDILVIGGGATGSGCALDAVTRGLKTALVERDDFSSGTSSRSTKLIHGGVR
+            YLQKAIMKLDIEQYRMVKEALHERANLLEIAPHLSAPLPIMLPVYKWWQLPYYWVGIKLY
+            DLVAGSNCLKSSYVLSKSRALEHFPMLQKDKLVGAIVYYDGQHNDARMNLAIALTAARYG
+            AATANYMEVVSLLKKTDPQTGKVRVSGARCKDVLTGQEFDVRAKCVINATGPFTDSVRKM
+            DDKDAAAICQPSAGVHIVMPGYYSPESMGLLDPATSDGRVIFFLPWQKMTIAGTTDTPTD
+            VTHHPIPSEEDINFILNEVRNYLSCDVEVRRGDVLAAWSGIRPLVTDPKSADTQSISRNH
+            VVDISESGLITIAGGKWTTYRSMAEDTINAAVKTHNLKAGPSRTVGLFLQGGKDWSPTLY
+            IRLVQDYGLESEVAQHLAATYGDKAFEVAKMASVTGKRWPIVGVRLVSEFPYIEAEVKYG
+            IKEYACTAVDMISRRTRLAFLNVQAAEEALPRIVELMGRELNWDDYKKQEQLETARKFLY
+            YEMGYKSRSEQLTDRSEISLLPSDIDRYKKRFHKFDADQKGFITIVDVQRVLESINVQMD
+            ENTLHEILNEVDLNKNGQVELNEFLQLMSAIQKGRVSGSRLAILMKTAEENLDRRVPIPV
+            DRSCGGL
+NTSEQ       2184
+            atggcatttcaaaaggcagtgaaagggacgattcttgttggaggaggtgctcttgcaact
+            gttttaggactttctcagtttgctcattacagaaggaaacaaatgaacctggcctatgtt
+            aaagcagcagactgcatttcagaaccagttaacagggagcctccttccagagaagctcag
+            ctactgactttgcaaaacacatctgaatttgatatccttgttattggaggaggagcaaca
+            ggaagtggctgtgcgctagatgctgtcaccagaggactaaaaacagcccttgtagaaaga
+            gatgatttctcatcagggaccagcagcagaagcactaaattgatccatggtggtgtgaga
+            tatctgcagaaggccatcatgaagttggatattgagcagtataggatggtaaaagaagcc
+            cttcatgagcgtgccaacctgctagaaattgctccccatttatcagctccattgcctata
+            atgcttccagtttacaagtggtggcagttaccttactactgggtaggaatcaagctgtat
+            gatttggttgcaggaagcaattgcctaaaaagcagttatgtcctcagcaaatcaagagcc
+            cttgaacatttcccaatgctccagaaggacaaactggtaggagcaattgtctactatgac
+            ggacaacataacgatgcacggatgaaccttgccattgctctgactgctgccaggtatggg
+            gctgccacagccaattacatggaggtagtgagcttgctcaagaagacagacccccagaca
+            gggaaagtgcgtgtgagcggcgcacggtgcaaggatgtcctcacagggcaggaatttgac
+            gtgagagccaaatgtgttatcaatgccacgggacctttcacggactctgtgcgcaaaatg
+            gatgataaagacgcagcagctatctgccagccaagtgctggtgtccatattgtgatgcct
+            ggttattacagcccagagagcatgggacttcttgacccagcgaccagtgatgggcgagtt
+            attttcttcttaccctggcaaaagatgacgatcgctggcactactgatactccaactgat
+            gttacacaccatccaattccttcagaagaagatatcaacttcattttgaatgaagtgcgt
+            aattacctgagttgtgatgttgaagtgagaagaggggatgtcctggcagcatggagtgga
+            atccgtcctcttgttacagaccccaaatctgcagatactcagtctatctcccgaaatcat
+            gttgttgatatcagtgagagtggccttattactatagcaggtggaaagtggacaacttat
+            cggtctatggcagaagataccataaatgctgctgtcaaaactcataatttaaaagcagga
+            ccaagtagaacagttgggcttttccttcaagggggtaaagattggagccccacactctac
+            attaggcttgtgcaggattatggacttgaaagcgaggtggcacagcatcttgccgccacc
+            tatggtgataaggcctttgaggtggccaaaatggcaagtgtgactggcaaaaggtggcct
+            attgttggagtacgtcttgtgtcagaatttccatatattgaagcagaggtgaaatatggg
+            attaaggagtatgcctgcactgctgtggatatgatttcacgtcgtactcgcctggccttt
+            ctaaatgtccaggcagcagaggaagccctacccaggattgttgaactgatgggcagggaa
+            ctgaattgggatgattataagaagcaggaacaacttgaaacagccaggaagtttctatat
+            tatgaaatgggctataaatctcgatcagaacagttaacagatcgctctgaaattagccta
+            ctgccttcagacattgacaggtataagaagagatttcataagtttgatgcagaccagaaa
+            ggctttattaccattgttgatgttcagcgtgtattagagagtatcaatgtccaaatggat
+            gaaaatacactccatgaaattctaaatgaagttgatttgaataaaaatggacaggttgaa
+            ctcaatgaatttttgcagctgatgagtgctattcaaaaaggaagggtatctggaagccgg
+            cttgctatactaatgaaaactgcagaagagaacctcgacagaagagttccaattccagtg
+            gaccgtagttgtggaggattgtga
+///

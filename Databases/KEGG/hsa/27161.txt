@@ -1,0 +1,96 @@
+ENTRY       27161             CDS       T01001
+NAME        AGO2, CASC7, EIF2C2, LINC00980, PPD, Q10
+DEFINITION  (RefSeq) argonaute 2, RISC catalytic component
+ORTHOLOGY   K11593  eukaryotic translation initiation factor 2C
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                Common to processing body (P body) and stress granule
+                 27161 (AGO2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              RNA silencing
+               RISC (RNA-induced silencing complex)
+                27161 (AGO2)
+               RNA interference (RNAi) pathway
+                RITS (RNA-induced transcriptional silencing) complex
+                 27161 (AGO2)
+               microRNA pathway
+                RISC loading complex
+                 27161 (AGO2)
+POSITION    8q24.3
+MOTIF       Pfam: Piwi ArgoMid ArgoN PAZ ArgoL1 ArgoL2
+DBLINKS     NCBI-GeneID: 27161
+            NCBI-ProteinID: NP_036286
+            OMIM: 606229
+            HGNC: 3263
+            Ensembl: ENSG00000123908
+            Vega: OTTHUMG00000164232
+            Pharos: Q9UKV8(Tbio)
+            UniProt: Q9UKV8
+STRUCTURE   PDB: 4Z4D 3LUC 3LUK 4Z4E 4W5O 3LUJ 3LUG 3QX9 3LUH 3LUD 5KI6
+                 4F3T 4Z4C 4OLA 3QX8 5JS1 4Z4H 4W5R 4W5T 5T7B 4Z4G 4Z4F
+                 4Z4I 4W5N 4OLB 5JS2 4W5Q
+AASEQ       859
+            MYSGAGPALAPPAPPPPIQGYAFKPPPRPDFGTSGRTIKLQANFFEMDIPKIDIYHYELD
+            IKPEKCPRRVNREIVEHMVQHFKTQIFGDRKPVFDGRKNLYTAMPLPIGRDKVELEVTLP
+            GEGKDRIFKVSIKWVSCVSLQALHDALSGRLPSVPFETIQALDVVMRHLPSMRYTPVGRS
+            FFTASEGCSNPLGGGREVWFGFHQSVRPSLWKMMLNIDVSATAFYKAQPVIEFVCEVLDF
+            KSIEEQQKPLTDSQRVKFTKEIKGLKVEITHCGQMKRKYRVCNVTRRPASHQTFPLQQES
+            GQTVECTVAQYFKDRHKLVLRYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQ
+            TSTMIRATARSAPDRQEEISKLMRSASFNTDPYVREFGIMVKDEMTDVTGRVLQPPSILY
+            GGRNKAIATPVQGVWDMRNKQFHTGIEIKVWAIACFAPQRQCTEVHLKSFTEQLRKISRD
+            AGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYAGLQLVVVILPGKTPVYAEVKRVGDTVL
+            GMATQCVQMKNVQRTTPQTLSNLCLKINVKLGGVNNILLPQGRPPVFQQPVIFLGADVTH
+            PPAGDGKKPSIAAVVGSMDAHPNRYCATVRVQQHRQEIIQDLAAMVRELLIQFYKSTRFK
+            PTRIIFYRDGVSEGQFQQVLHHELLAIREACIKLEKDYQPGITFIVVQKRHHTRLFCTDK
+            NERVGKSGNIPAGTTVDTKITHPTEFDFYLCSHAGIQGTSRPSHYHVLWDDNRFSSDELQ
+            ILTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDKEHDSAEGSHTSGQSNGRDHQ
+            ALAKAVQVHQDTLRTMYFA
+NTSEQ       2580
+            atgtactcgggagccggccccgcacttgcacctcctgcgccgccgccccccatccaagga
+            tatgccttcaagcctccacctagacccgactttgggacctccgggagaacaatcaaatta
+            caggccaatttcttcgaaatggacatccccaaaattgacatctatcattatgaattggat
+            atcaagccagagaagtgcccgaggagagttaacagggaaatcgtggaacacatggtccag
+            cactttaaaacacagatctttggggatcggaagcccgtgtttgacggcaggaagaatcta
+            tacacagccatgccccttccgattgggagggacaaggtggagctggaggtcacgctgcca
+            ggagaaggcaaggatcgcatcttcaaggtgtccatcaagtgggtgtcctgcgtgagcttg
+            caggcgttacacgatgcactttcagggcggctgcccagcgtcccttttgagacgatccag
+            gccctggacgtggtcatgaggcacttgccatccatgaggtacacccccgtgggccgctcc
+            ttcttcaccgcgtccgaaggctgctctaaccctcttggcgggggccgagaagtgtggttt
+            ggcttccatcagtccgtccggccttctctctggaaaatgatgctgaatattgatgtgtca
+            gcaacagcgttttacaaggcacagccagtaatcgagtttgtttgtgaagttttggatttt
+            aaaagtattgaagaacaacaaaaacctctgacagattcccaaagggtaaagtttaccaaa
+            gaaattaaaggtctaaaggtggagataacgcactgtgggcagatgaagaggaagtaccgc
+            gtctgcaatgtgacccggcggcccgccagtcaccaaacattcccgctgcagcaggagagc
+            gggcagacggtggagtgcacggtggcccagtatttcaaggacaggcacaagttggttctg
+            cgctacccccacctcccatgtttacaagtcggacaggagcagaaacacacctaccttccc
+            ctggaggtctgtaacattgtggcaggacaaagatgtattaaaaaattaacggacaatcag
+            acctcaaccatgatcagagcgactgctaggtcggcgcccgatcggcaagaagagattagc
+            aaattgatgcgaagtgcaagtttcaacacagatccatacgtccgtgaatttggaatcatg
+            gtcaaagatgagatgacagacgtgactgggcgggtgctgcagccgccctccatcctctac
+            gggggcaggaataaagctattgcgacccctgtccagggcgtctgggacatgcggaacaag
+            cagttccacacgggcatcgagatcaaggtgtgggccattgcgtgcttcgccccccagcgc
+            cagtgcacggaagtccatctgaagtccttcacagagcagctcagaaagatctcgagagac
+            gccggcatgcccatccagggccagccgtgcttctgcaaatacgcgcagggggcggacagc
+            gtggagcccatgttccggcacctgaagaacacgtatgcgggcctgcagctggtggtggtc
+            atcctgcccggcaagacgcccgtgtacgccgaggtcaagcgcgtgggagacacggtgctg
+            gggatggccacgcagtgcgtgcagatgaagaacgtgcagaggaccacgccacagaccctg
+            tccaacctctgcctgaagatcaacgtcaagctgggaggcgtgaacaacatcctgctgccc
+            cagggcaggccgccggtgttccagcagcccgtcatctttctgggagcagacgtcactcac
+            ccccccgccggggatgggaagaagccctccattgccgccgtggtgggcagcatggacgcc
+            caccccaatcgctactgcgccaccgtgcgcgtgcagcagcaccggcaggagatcatacaa
+            gacctggccgccatggtccgcgagctcctcatccagttctacaagtccacgcgcttcaag
+            cccacccgcatcatcttctaccgcgacggtgtctctgaaggccagttccagcaggttctc
+            caccacgagttgctggccatccgtgaggcctgtatcaagctagaaaaagactaccagccc
+            gggatcaccttcatcgtggtgcagaagaggcaccacacccggctcttctgcactgacaag
+            aacgagcgggttgggaaaagtggaaacattccagcaggcacgactgtggacacgaaaatc
+            acccaccccaccgagttcgacttctacctgtgtagtcacgctggcatccaggggacaagc
+            aggccttcgcactatcacgtcctctgggacgacaatcgtttctcctctgatgagctgcag
+            atcctaacctaccagctgtgtcacacctacgtgcgctgcacacgctccgtgtccatccca
+            gcgccagcatactacgctcacctggtggccttccgggccaggtaccacctggtggataag
+            gaacatgacagtgctgaaggaagccatacctctgggcagagtaacgggcgagaccaccaa
+            gcactggccaaggcggtccaggttcaccaagacactctgcgcaccatgtactttgcttga
+///

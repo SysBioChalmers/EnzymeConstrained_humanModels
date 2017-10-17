@@ -1,0 +1,138 @@
+ENTRY       1642              CDS       T01001
+NAME        DDB1, DDBA, UV-DDB1, XAP1, XPCE, XPE, XPE-BF
+DEFINITION  (RefSeq) damage specific DNA binding protein 1
+ORTHOLOGY   K10610  DNA damage-binding protein 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03420  Nucleotide excision repair
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa05161  Hepatitis B
+            hsa05203  Viral carcinogenesis
+MODULE      hsa_M00385  Cul4-DDB1-DDB2 complex
+            hsa_M00386  Cul4-DDB1-CSA complex
+DISEASE     H00403  Disorders of nucleotide excision repair
+            H01428  Xeroderma pigmentosum (XP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                1642 (DDB1)
+              Replication and repair
+               03420 Nucleotide excision repair
+                1642 (DDB1)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                1642 (DDB1)
+              Infectious diseases
+               05161 Hepatitis B
+                1642 (DDB1)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               Cul4 complex
+                Adoptor protein
+                 1642 (DDB1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 Cul4-DDB2 complex
+                  1642 (DDB1)
+                TCR (transcription coupled repair) factors
+                 Cul4-CSA complex
+                  1642 (DDB1)
+POSITION    11q12.2
+MOTIF       Pfam: MMS1_N CPSF_A Beta_propel
+DBLINKS     NCBI-GeneID: 1642
+            NCBI-ProteinID: NP_001914
+            OMIM: 600045
+            HGNC: 2717
+            Ensembl: ENSG00000167986
+            Vega: OTTHUMG00000168209
+            Pharos: Q16531(Tbio)
+            UniProt: Q16531
+STRUCTURE   PDB: 3EI3 3E0C 5FQD 3EI2 3I8C 3I7K 3I7L 3I7N 3I7O 3EI1 2B5N
+                 4E54 2B5L 3I7H 2B5M 4CI2 4CI1 4A08 3I89 3I7P 4TZ4 4A09
+                 2HYE 5V3O 4E5Z 3EI4 4A11 3I8E 5JK7 4CI3 5HXB 4A0A 4A0B
+                 4A0K 4A0L
+AASEQ       1140
+            MSYNYVVTAQKPTAVNGCVTGHFTSAEDLNLLIAKNTRLEIYVVTAEGLRPVKEVGMYGK
+            IAVMELFRPKGESKDLLFILTAKYNACILEYKQSGESIDIITRAHGNVQDRIGRPSETGI
+            IGIIDPECRMIGLRLYDGLFKVIPLDRDNKELKAFNIRLEELHVIDVKFLYGCQAPTICF
+            VYQDPQGRHVKTYEVSLREKEFNKGPWKQENVEAEASMVIAVPEPFGGAIIIGQESITYH
+            NGDKYLAIAPPIIKQSTIVCHNRVDPNGSRYLLGDMEGRLFMLLLEKEEQMDGTVTLKDL
+            RVELLGETSIAECLTYLDNGVVFVGSRLGDSQLVKLNVDSNEQGSYVVAMETFTNLGPIV
+            DMCVVDLERQGQGQLVTCSGAFKEGSLRIIRNGIGIHEHASIDLPGIKGLWPLRSDPNRE
+            TDDTLVLSFVGQTRVLMLNGEEVEETELMGFVDDQQTFFCGNVAHQQLIQITSASVRLVS
+            QEPKALVSEWKEPQAKNISVASCNSSQVVVAVGRALYYLQIHPQELRQISHTEMEHEVAC
+            LDITPLGDSNGLSPLCAIGLWTDISARILKLPSFELLHKEMLGGEIIPRSILMTTFESSH
+            YLLCALGDGALFYFGLNIETGLLSDRKKVTLGTQPTVLRTFRSLSTTNVFACSDRPTVIY
+            SSNHKLVFSNVNLKEVNYMCPLNSDGYPDSLALANNSTLTIGTIDEIQKLHIRTVPLYES
+            PRKICYQEVSQCFGVLSSRIEVQDTSGGTTALRPSASTQALSSSVSSSKLFSSSTAPHET
+            SFGEEVEVHNLLIIDQHTFEVLHAHQFLQNEYALSLVSCKLGKDPNTYFIVGTAMVYPEE
+            AEPKQGRIVVFQYSDGKLQTVAEKEVKGAVYSMVEFNGKLLASINSTVRLYEWTTEKELR
+            TECNHYNNIMALYLKTKGDFILVGDLMRSVLLLAYKPMEGNFEEIARDFNPNWMSAVEIL
+            DDDNFLGAENAFNLFVCQKDSAATTDEERQHLQEVGLFHLGEFVNVFCHGSLVMQNLGET
+            STPTQGSVLFGTVNGMIGLVTSLSESWYNLLLDMQNRLNKVIKSVGKIEHSFWRSFHTER
+            KTEPATGFIDGDLIESFLDISRPKMQEVVANLQYDDGSGMKREATADDLIKVVEELTRIH
+NTSEQ       3423
+            atgtcgtacaactacgtggtaacggcccagaagcccaccgccgtgaacggctgcgtgacc
+            ggacactttacttcggccgaagacttaaacctgttgattgccaaaaacacgagattagag
+            atctatgtggtcaccgccgaggggcttcggcccgtcaaagaggtgggcatgtatgggaag
+            attgcggtcatggagcttttcaggcccaagggggagagcaaggacctgctgtttatcttg
+            acagcgaagtacaatgcctgcatcctggagtataaacagagtggcgagagcattgacatc
+            attacgcgagcccatggcaatgtccaggaccgcattggccgcccctcagagaccggcatt
+            attggcatcattgaccctgagtgccggatgattggcctgcgtctctatgatggccttttc
+            aaggttattccactagatcgcgataataaagaactcaaggccttcaacatccgcctggag
+            gagctgcatgtcattgatgtcaagttcctatatggttgccaagcacctactatttgcttt
+            gtctaccaggaccctcaggggcggcacgtaaaaacctatgaggtgtctctccgagaaaag
+            gaattcaataagggcccttggaaacaggaaaatgtcgaagctgaagcttccatggtgatc
+            gcagtcccagagccctttgggggggccatcatcattggacaggagtcaatcacctatcac
+            aatggtgacaaatacctggctattgcccctcctatcatcaagcaaagcacgattgtgtgc
+            cacaatcgagtggaccctaatggctcaagatacctgctgggagacatggaaggccggctc
+            ttcatgctgcttttggagaaggaggaacagatggatggcaccgtcactctcaaggatctc
+            cgtgtagaactccttggagagacctctattgctgagtgcttgacataccttgataatggt
+            gttgtgtttgtcgggtctcgcctgggtgactcccagcttgtgaagctcaacgttgacagt
+            aatgaacaaggctcctatgtagtggccatggaaacctttaccaacttaggacccattgtc
+            gatatgtgcgtggtggacctggagaggcaggggcaggggcagctggtcacttgctctggg
+            gctttcaaggaaggttctttgcggatcatccggaatggaattggaatccacgagcatgcc
+            agcattgacttaccaggcatcaaaggattatggccactgcggtctgaccctaatcgtgag
+            actgatgacactttggtgctctcttttgtgggccagacaagagttctcatgttaaatgga
+            gaggaggtagaagaaaccgaactgatgggtttcgtggatgatcagcagactttcttctgt
+            ggcaacgtggctcatcagcagcttatccagatcacttcagcatcggtgaggttggtctct
+            caagaacccaaagctctggtcagtgaatggaaggagcctcaggccaagaacatcagtgtg
+            gcctcctgcaatagcagccaggtggtggtggctgtaggcagggccctctactatctgcag
+            atccatcctcaggagctccggcagatcagccacacagagatggaacatgaagtggcttgc
+            ttggacatcaccccattaggagacagcaatggactgtcccctctttgtgccattggcctc
+            tggacggacatctcggctcgtatcttgaagttgccctcttttgaactactgcacaaggag
+            atgctgggtggagagatcattcctcgctccatcctgatgaccacctttgagagtagccat
+            tacctcctttgtgccttgggagatggagcgcttttctactttgggctcaacattgagaca
+            ggtctgttgagcgaccgtaagaaggtgactttgggcacccagcccaccgtattgaggact
+            tttcgttctctttctaccaccaacgtctttgcttgttctgaccgccccactgtcatctat
+            agcagcaaccacaaattggtcttctcaaatgtcaacctcaaggaagtgaactacatgtgt
+            cccctcaattcagatggctatcctgacagcctggcgctggccaacaatagcaccctcacc
+            attggcaccatcgatgagatccagaagctgcacattcgcacagttcccctctatgagtct
+            ccaaggaagatctgctaccaggaagtgtcccagtgtttcggggtcctctccagccgcatt
+            gaagtccaagacacgagtgggggcacgacagccttgaggcccagcgctagcacccaggct
+            ctgtccagcagtgtaagctccagcaagctgttctccagcagcactgctcctcatgagacc
+            tcctttggagaagaggtggaggtgcacaacctacttatcattgaccaacacacctttgaa
+            gtgcttcatgcccaccagtttctgcagaatgaatatgccctcagtctggtttcctgcaag
+            ctgggcaaagaccccaacacttacttcattgtgggcacagcaatggtgtatcctgaagag
+            gcagagcccaagcagggtcgcattgtggtctttcagtattcggatggaaaactacagact
+            gtggctgaaaaggaagtgaaaggggccgtgtactctatggtggaatttaacgggaagctg
+            ttagccagcatcaatagcacggtgcggctctatgagtggacaacagagaaggagctgcgc
+            actgagtgcaaccactacaacaacatcatggccctctacctgaagaccaagggcgacttc
+            atcctggtgggcgaccttatgcgctcagtgctgctgcttgcctacaagcccatggaagga
+            aactttgaagagattgctcgagactttaatcccaactggatgagtgctgtggaaatcttg
+            gatgatgacaattttctgggggctgaaaatgcctttaacttgtttgtgtgtcaaaaggat
+            agcgctgccaccactgacgaggagcggcagcacctccaggaggttggtcttttccacctg
+            ggcgagtttgtcaatgtcttttgccacggctctctggtaatgcagaatctgggtgagact
+            tccacccccacacaaggctcggtgctcttcggcacggtcaacggcatgatagggctggtg
+            acctcactgtcagagagctggtacaacctcctgctggacatgcagaatcgactcaataaa
+            gtcatcaaaagtgtggggaagatcgagcactccttctggagatcctttcacaccgagcgg
+            aagacagaaccagccacaggtttcatcgacggtgacttgattgagagtttcctggatatt
+            agccgccccaagatgcaggaggtggtggcaaacctacagtatgacgatggcagcggtatg
+            aagcgagaggccactgcagacgacctcatcaaggttgtggaggagctaactcggatccat
+            tag
+///

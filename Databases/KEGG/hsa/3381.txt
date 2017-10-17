@@ -1,0 +1,70 @@
+ENTRY       3381              CDS       T01001
+NAME        IBSP, BNSP, BSP, BSP-II, SP-II
+DEFINITION  (RefSeq) integrin binding sialoprotein
+ORTHOLOGY   K06253  integrin binding sialoprotein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3381 (IBSP)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3381 (IBSP)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3381 (IBSP)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3381 (IBSP)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta3 integrins
+               VNR
+                ITGB3; integrin beta 3 [KO:K06493]
+                 3381 (IBSP)
+              Beta5 integrins
+               alpha V beta 5
+                ITGB5; integrin beta 5 [KO:K06588]
+                 3381 (IBSP)
+POSITION    4q22.1
+MOTIF       Pfam: BSP_II Utp14 Mpp10
+DBLINKS     NCBI-GeneID: 3381
+            NCBI-ProteinID: NP_004958
+            OMIM: 147563
+            HGNC: 5341
+            Ensembl: ENSG00000029559
+            Vega: OTTHUMG00000130600
+            Pharos: P21815(Tbio)
+            UniProt: P21815
+AASEQ       317
+            MKTALILLSILGMACAFSMKNLHRRVKIEDSEENGVFKYRPRYYLYKHAYFYPHLKRFPV
+            QGSSDSSEENGDDSSEEEEEEEETSNEGENNEESNEDEDSEAENTTLSATTLGYGEDATP
+            GTGYTGLAAIQLPKKAGDITNKATKEKESDEEEEEEEEGNENEESEAEVDENEQGINGTS
+            TNSTEAENGNGSSGGDNGEEGEEESVTGANAEDTTETGRQGKGTSKTTTSPNGGFEPTTP
+            PQVYRTTSPPFGKTTTVEYEGEYEYTGANEYDNGYEIYESENGEPRGDNYRAYEDEYSYF
+            KGQGYDGYDGQNYYHHQ
+NTSEQ       954
+            atgaagactgctttaattttgctcagcattttgggaatggcctgtgctttctcaatgaaa
+            aatttgcatcgaagagtcaaaatagaggattctgaagaaaatggggtctttaagtacagg
+            ccacgatattatctttacaagcatgcctacttttatcctcatttaaaacgatttccagtt
+            cagggcagtagtgactcatccgaagaaaatggagatgacagttcagaagaggaggaggaa
+            gaagaggagacttcaaatgaaggagaaaacaatgaagaatcgaatgaagatgaagactct
+            gaggctgagaataccacactttctgctacaacactgggctatggagaggacgccacgcct
+            ggcacagggtatacagggttagctgcaatccagcttcccaagaaggctggggatataaca
+            aataaagctacaaaagagaaggaaagtgatgaagaagaagaggaggaagaggaaggaaat
+            gaaaacgaagaaagcgaagcagaagtggatgaaaacgaacaaggcataaacggcaccagt
+            accaacagcacagaggcagaaaacggcaacggcagcagcggaggagacaatggagaagaa
+            ggggaagaagaaagtgtcactggagccaatgcagaagacaccacagagaccggaaggcag
+            ggcaagggcacctcgaagacaacaacctctccaaatggtgggtttgaacctacaacccca
+            ccacaagtctatagaaccacttccccaccttttgggaaaaccaccaccgttgaatacgag
+            ggggagtacgaatacacgggcgccaatgaatacgacaatggatatgaaatctatgaaagt
+            gagaacggggaacctcgtggggacaattaccgagcctatgaagatgagtacagctacttt
+            aaaggacaaggctacgatggctatgatggtcagaattactaccaccaccagtga
+///

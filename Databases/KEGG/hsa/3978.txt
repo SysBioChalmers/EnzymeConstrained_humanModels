@@ -1,0 +1,128 @@
+ENTRY       3978              CDS       T01001
+NAME        LIG1
+DEFINITION  (RefSeq) DNA ligase 1
+ORTHOLOGY   K10747  DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03410  Base excision repair
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+DISEASE     H00094  Immunodeficiency associated with DNA repair defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                3978 (LIG1)
+               03410 Base excision repair
+                3978 (LIG1)
+               03420 Nucleotide excision repair
+                3978 (LIG1)
+               03430 Mismatch repair
+                3978 (LIG1)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.5  Forming phosphoric-ester bonds
+               6.5.1  Ligases that form phosphoric-ester bonds (only sub-subclass identified to date)
+                6.5.1.1  DNA ligase (ATP)
+                 3978 (LIG1)
+                6.5.1.6  DNA ligase (ATP or NAD+)
+                 3978 (LIG1)
+                6.5.1.7  DNA ligase (ATP, ADP or GTP)
+                 3978 (LIG1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               Other elongation factors
+                3978 (LIG1)
+             Prokaryotic Type
+               Elongation factors (archaeal)
+                Other elongation factors
+                 3978 (LIG1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 3978 (LIG1)
+               NER (nucleotide excision repair)
+                Other NER factors
+                 3978 (LIG1)
+               MMR (mismatch exicision repair)
+                Other MMR factors
+                 3978 (LIG1)
+POSITION    19q13.33
+MOTIF       Pfam: DNA_ligase_A_M DNA_ligase_A_N DNA_ligase_A_C Presenilin DUF1685
+DBLINKS     NCBI-GeneID: 3978
+            NCBI-ProteinID: NP_000225
+            OMIM: 126391
+            HGNC: 6598
+            Ensembl: ENSG00000105486
+            Vega: OTTHUMG00000183187
+            Pharos: P18858(Tchem)
+            UniProt: P18858
+STRUCTURE   PDB: 1X9N
+AASEQ       919
+            MQRSIMSFFHPKKEGKAKKPEKEASNSSRETEPPPKAALKEWNGVVSESDSPVKRPGRKA
+            ARVLGSEGEEEDEALSPAKGQKPALDCSQVSPPRPATSPENNASLSDTSPMDSSPSGIPK
+            RRTARKQLPKRTIQEVLEEQSEDEDREAKRKKEEEEEETPKESLTEAEVATEKEGEDGDQ
+            PTTPPKPLKTSKAETPTESVSEPEVATKQELQEEEEQTKPPRRAPKTLSSFFTPRKPAVK
+            KEVKEEEPGAPGKEGAAEGPLDPSGYNPAKNNYHPVEDACWKPGQKVPYLAVARTFEKIE
+            EVSARLRMVETLSNLLRSVVALSPPDLLPVLYLSLNHLGPPQQGLELGVGDGVLLKAVAQ
+            ATGRQLESVRAEAAEKGDVGLVAENSRSTQRLMLPPPPLTASGVFSKFRDIARLTGSAST
+            AKKIDIIKGLFVACRHSEARFIARSLSGRLRLGLAEQSVLAALSQAVSLTPPGQEFPPAM
+            VDAGKGKTAEARKTWLEEQGMILKQTFCEVPDLDRIIPVLLEHGLERLPEHCKLSPGIPL
+            KPMLAHPTRGISEVLKRFEEAAFTCEYKYDGQRAQIHALEGGEVKIFSRNQEDNTGKYPD
+            IISRIPKIKLPSVTSFILDTEAVAWDREKKQIQPFQVLTTRKRKEVDASEIQVQVCLYAF
+            DLIYLNGESLVREPLSRRRQLLRENFVETEGEFVFATSLDTKDIEQIAEFLEQSVKDSCE
+            GLMVKTLDVDATYEIAKRSHNWLKLKKDYLDGVGDTLDLVVIGAYLGRGKRAGRYGGFLL
+            ASYDEDSEELQAICKLGTGFSDEELEEHHQSLKALVLPSPRPYVRIDGAVIPDHWLDPSA
+            VWEVKCADLSLSPIYPAARGLVDSDKGISLRFPRFIRVREDKQPEQATTSAQVACLYRKQ
+            SQIQNQQGEDSGSDPEDTY
+NTSEQ       2760
+            atgcagcgaagtatcatgtcatttttccaccccaagaaagagggtaaagcaaagaagcct
+            gagaaggaggcatccaatagcagcagagagacggagccccctccaaaggcggcactgaag
+            gagtggaatggagtggtgtccgagagtgactctccggtgaagaggccagggaggaaggcg
+            gcccgggtcctgggcagcgaaggggaagaggaggatgaagcccttagccctgctaaaggc
+            cagaagcctgccctggactgctcacaggtctccccgccccgtcctgccacatctcctgag
+            aacaatgcttccctctctgacacctctcccatggacagttccccatcagggattccgaag
+            cgtcgcacagctcggaagcagctcccgaaacggaccattcaggaagtcctggaagagcag
+            agtgaggacgaggacagagaagccaagaggaagaaggaggaggaagaagaggagaccccg
+            aaagaaagcctcacagaggctgaagtggccacagagaaggaaggagaagacggggaccag
+            cccaccacgcctcccaagcccctaaagacctccaaagcagagaccccgacggaaagcgtt
+            tcagagcctgaggtggccacgaagcaggaactgcaggaggaggaagagcagaccaagcct
+            ccccgcagagctcccaagacgctcagcagcttcttcaccccccggaagccagcagtcaaa
+            aaagaagtgaaggaagaggagccaggggctccaggaaaggagggagctgctgagggaccc
+            ctggatccatctggttacaatcctgccaagaacaactatcatcccgtggaagatgcctgc
+            tggaaaccgggccagaaggttccttacctggctgtggcccggacgtttgagaagatcgag
+            gaggtgtctgctcggctccggatggtggagacgctgagcaacttgctgcgctccgtggtg
+            gccctgtcgcctccagacctcctccctgtcctctacctcagcctcaaccaccttgggcca
+            ccccagcagggcctggagcttggcgtgggtgatggtgtccttctcaaggcagtggcccag
+            gccacaggtcggcagctggagtccgtccgggctgaggcagccgagaaaggcgacgtgggg
+            ctggtggccgagaacagccgcagcacccagaggctcatgctgccaccacctccgctcact
+            gcctccggggtcttcagcaagttccgcgacatcgccaggctcactggcagtgcttccaca
+            gccaagaagatagacatcatcaaaggcctctttgtggcctgccgccactcagaagcccgg
+            ttcatcgctaggtccctgagcggacggctgcgccttgggctggcagagcagtcggtgctg
+            gctgccctctcccaggcagtgagcctcacgcccccgggccaagaattcccaccagccatg
+            gtggatgctgggaagggcaagacagcagaggccagaaagacgtggctggaggagcaaggc
+            atgatcctgaagcagacgttctgcgaggttcccgacctggaccgaattatccccgtgctg
+            ctggagcacggcctggaacgtctcccggagcactgcaagctgagcccagggattcccctg
+            aaaccaatgttggcccatcccacccggggcatcagcgaggtcctgaaacgctttgaggag
+            gcagctttcacctgcgaatacaaatatgacgggcagagggcacagatccacgccctggaa
+            ggcggggaggtgaagatcttcagcaggaatcaggaagacaacactgggaagtacccggac
+            atcatcagccgcatccccaagattaaactcccatcggtcacatccttcatcctggacacc
+            gaagccgtggcttgggaccgggaaaagaagcagatccagccattccaagtgctcaccacc
+            cgcaaacgcaaggaggtggatgcgtctgagatccaggtgcaggtgtgtttgtacgccttc
+            gacctcatctacctcaatggagagtccctggtacgtgagcccctttcccggcgccggcag
+            ctgctccgggagaactttgtggagacagagggcgagtttgtcttcgccacctccctggac
+            accaaggacatcgagcagatcgccgagttcctggagcagtcagtgaaagactcctgcgag
+            gggctgatggtgaagaccctggatgttgatgccacctacgagatcgccaagagatcgcac
+            aactggctcaagctgaagaaggactaccttgatggcgtgggtgacaccctggacctggtg
+            gtgatcggcgcctacctgggccgggggaagcgggccggccggtacgggggcttcctgctg
+            gcctcctacgacgaggacagtgaggagctgcaggccatatgcaagcttggaactggcttc
+            agtgatgaggagctggaggagcatcaccagagcctcaaggcgctggtgctgcccagccca
+            cgcccttacgtgcggatagatggcgctgtgattcccgaccactggctggaccccagcgct
+            gtgtgggaggtgaagtgcgctgacctctccctctctcccatctaccctgctgcgcggggc
+            ctggtggatagtgacaagggcatctcccttcgcttccctcggtttattcgagtccgtgaa
+            gacaagcagccggagcaggccaccaccagtgctcaggtggcctgtttgtaccggaagcaa
+            agtcagattcagaaccaacaaggcgaggactcaggctctgaccctgaagatacctactaa
+///

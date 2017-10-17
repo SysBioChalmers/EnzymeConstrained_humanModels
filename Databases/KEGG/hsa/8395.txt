@@ -1,0 +1,109 @@
+ENTRY       8395              CDS       T01001
+NAME        PIP5K1B, MSS4, STM7
+DEFINITION  (RefSeq) phosphatidylinositol-4-phosphate 5-kinase type 1 beta
+ORTHOLOGY   K00889  1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                8395 (PIP5K1B)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                8395 (PIP5K1B)
+               04072 Phospholipase D signaling pathway
+                8395 (PIP5K1B)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                8395 (PIP5K1B)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                8395 (PIP5K1B)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                8395 (PIP5K1B)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                8395 (PIP5K1B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.68  1-phosphatidylinositol-4-phosphate 5-kinase
+                 8395 (PIP5K1B)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                8395 (PIP5K1B)
+             Endocytosis
+              Clathrin-mediated endocytosis
+               LDLR adaptor proteins
+                8395 (PIP5K1B)
+             Endosome - Golgi transport
+              Others
+               Others
+                8395 (PIP5K1B)
+POSITION    9q21.11
+MOTIF       Pfam: PIP5K
+DBLINKS     NCBI-GeneID: 8395
+            NCBI-ProteinID: NP_003549
+            OMIM: 602745
+            HGNC: 8995
+            Ensembl: ENSG00000107242
+            Vega: OTTHUMG00000019976
+            Pharos: O14986(Tbio)
+            UniProt: O14986 Q7KYT6
+AASEQ       540
+            MSSAAENGEAAPGKQNEEKTYKKTASSAIKGAIQLGIGYTVGNLTSKPERDVLMQDFYVV
+            ESVFLPSEGSNLTPAHHYPDFRFKTYAPLAFRYFRELFGIKPDDYLYSICSEPLIELSNP
+            GASGSLFFVTSDDEFIIKTVQHKEAEFLQKLLPGYYMNLNQNPRTLLPKFYGLYCMQSGG
+            INIRIVVMNNVLPRSMRMHFTYDLKGSTYKRRASRKEREKSNPTFKDLDFLQDMHEGLYF
+            DTETYNALMKTLQRDCRVLESFKIMDYSLLLGIHFLDHSLKEKEEETPQNVPDAKRTGMQ
+            KVLYSTAMESIQGPGKSGDGIITENPDTMGGIPAKSHRGEKLLLFMGIIDILQSYRLMKK
+            LEHSWKALVYDGDTVSVHRPSFYADRFLKFMNSRVFKKIQALKASPSKKRCNSIAALKAT
+            SQEIVSSISQEWKDEKRDLLTEGQSFSSLDEEALGSRHRPDLVPSTPSLFEAASLATTIS
+            SSSLYVNEHYPHDRPTLYSNSKGLPSSSTFTLEEGTIYLTAEPNTLEVQDDNASVLDVYL
+NTSEQ       1623
+            atgtcttctgctgctgaaaatggagaggcagcacctggaaaacaaaatgaagaaaaaacc
+            tataaaaagactgcatcatctgctattaaaggtgctattcagctgggaataggatacaca
+            gtgggtaatctcacttccaagccagaacgagatgttcttatgcaagacttttatgtggtg
+            gaaagtgtgttcctacccagcgaagggagcaatctgaccccagcacatcactacccagac
+            tttagatttaagacatacgctccattagcattccgatatttcagagaactttttggtatc
+            aagcctgatgattacttgtattccatctgcagtgaacctctaatagaactgtctaaccct
+            ggagccagtggatccttgttttttgtgaccagtgatgatgaatttatcatcaaaacagtt
+            cagcacaaagaagctgagtttcttcagaagctactgccaggctattacatgaatttaaac
+            cagaatccaaggactcttttgccaaaattttacggactgtattgtatgcaatcaggaggc
+            attaatatcaggattgtggtgatgaacaacgttttgccacgctccatgagaatgcacttt
+            acatatgacttgaaaggctcaacgtataagcgaagagcatcccgtaaagagagagagaaa
+            tccaaccccacatttaaggacttagatttcctgcaagacatgcacgaagggttgtatttt
+            gatacggaaacatacaacgcgcttatgaaaacacttcagagagactgccgggtgctagaa
+            agcttcaagatcatggattatagccttctgttgggaattcatttcctggaccattccctc
+            aaagagaaagaggaggagaccccacaaaatgtgcctgatgctaagcggactgggatgcag
+            aaggttctctactcaacagccatggaatctatccagggtccagggaaatctggagatggg
+            ataatcacagagaacccagacacaatgggaggcattccagctaaaagccataggggagaa
+            aaactacttttatttatgggcattattgacattctgcaatcatataggttaatgaagaag
+            ttagaacattcctggaaagctcttgtttatgatggggacactgtttctgttcatagacca
+            agcttttatgcagacagatttcttaagttcatgaattccagagttttcaagaaaattcaa
+            gctttgaaggcttcaccgtctaagaaacggtgcaattcaatcgccgccctaaaggccact
+            tcacaggagattgtgtcctcaattagccaggaatggaaggatgagaagcgggatttgctg
+            actgaaggacaaagttttagcagccttgatgaagaagccctgggatcccgacacaggcca
+            gacctggtccctagcactccatcactgtttgaagctgcttccttggcaaccacaatttca
+            tcttcttccttatacgtcaatgagcactatccacacgacaggcctacactctattcaaac
+            agcaaagggttaccttccagttcaacatttaccttggaagaggggaccatctacttgacc
+            gctgagcccaacactctggaagtgcaggatgacaatgcttctgtgcttgacgtctattta
+            taa
+///

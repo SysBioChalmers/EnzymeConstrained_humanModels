@@ -1,0 +1,129 @@
+ENTRY       5535              CDS       T01001
+NAME        PPP3R2, PPP3RL
+DEFINITION  (RefSeq) protein phosphatase 3 regulatory subunit B, beta
+ORTHOLOGY   K06268  serine/threonine-protein phosphatase 2B regulatory subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04720  Long-term potentiation
+            hsa04724  Glutamatergic synapse
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04924  Renin secretion
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05031  Amphetamine addiction
+            hsa05152  Tuberculosis
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+DRUG_TARGET Ciclosporin: D00184
+            Pimecrolimus: D05480
+            Tacrolimus (DG00439): D00107 D08556
+            Voclosporin: D09033
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                5535 (PPP3R2)
+               04310 Wnt signaling pathway
+                5535 (PPP3R2)
+               04370 VEGF signaling pathway
+                5535 (PPP3R2)
+               04020 Calcium signaling pathway
+                5535 (PPP3R2)
+               04022 cGMP - PKG signaling pathway
+                5535 (PPP3R2)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                5535 (PPP3R2)
+               04218 Cellular senescence
+                5535 (PPP3R2)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                5535 (PPP3R2)
+               04660 T cell receptor signaling pathway
+                5535 (PPP3R2)
+               04658 Th1 and Th2 cell differentiation
+                5535 (PPP3R2)
+               04659 Th17 cell differentiation
+                5535 (PPP3R2)
+               04662 B cell receptor signaling pathway
+                5535 (PPP3R2)
+              Endocrine system
+               04922 Glucagon signaling pathway
+                5535 (PPP3R2)
+               04921 Oxytocin signaling pathway
+                5535 (PPP3R2)
+               04924 Renin secretion
+                5535 (PPP3R2)
+              Nervous system
+               04724 Glutamatergic synapse
+                5535 (PPP3R2)
+               04720 Long-term potentiation
+                5535 (PPP3R2)
+              Development
+               04360 Axon guidance
+                5535 (PPP3R2)
+               04380 Osteoclast differentiation
+                5535 (PPP3R2)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                5535 (PPP3R2)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                5535 (PPP3R2)
+              Substance dependence
+               05031 Amphetamine addiction
+                5535 (PPP3R2)
+              Infectious diseases
+               05152 Tuberculosis
+                5535 (PPP3R2)
+               05166 HTLV-I infection
+                5535 (PPP3R2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5535 (PPP3R2)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Calcineurin (PPP3/ PP2B)
+                Regulatory subunits
+                 5535 (PPP3R2)
+POSITION    9q31.1
+MOTIF       Pfam: EF-hand_1 EF-hand_5 EF-hand_7 EF-hand_6 EF-hand_8 SPARC_Ca_bdg EF-hand_4 EF-hand_9 YtfJ_HI0045
+DBLINKS     NCBI-GeneID: 5535
+            NCBI-ProteinID: NP_671709
+            OMIM: 613821
+            HGNC: 9318
+            Ensembl: ENSG00000188386
+            Vega: OTTHUMG00000020386
+            Pharos: Q96LZ3(Tbio)
+            UniProt: Q96LZ3
+AASEQ       173
+            MSTMGNEASYPAEMCSHFDNDEIKRLGRRFKKLDLDKSGSLSVEEFMSLPELRHNPLVRR
+            VIDVFDTDGDGEVDFKEFILGTSQFSVKGDEEQKLRFAFSIYDMDKDGYISNGELFQVLK
+            MMVGNNLTDWQLQQLVDKTIIILDKDGDGKISFEEFSAVVRDLEIHKKLVLIV
+NTSEQ       522
+            atgtccacaatgggaaacgaggccagttacccggcggagatgtgctcccactttgacaat
+            gatgaaattaaaaggctgggcaggaggtttaagaagttggacttggacaaatcagggtct
+            ctgagcgtggaggagttcatgtccctgccggagctgcgccacaacccgttggtgcggcga
+            gtgatcgacgtcttcgacaccgacggtgatggagaagtggacttcaaggaattcatcctg
+            gggacctcccagttcagcgtcaagggcgacgaggagcagaagttgaggtttgcgttcagc
+            atttacgacatggataaagatggctacatttccaacggggagctcttccaggtgctgaag
+            atgatggtgggcaacaacctgacggactggcagctccagcagctggtcgacaaaaccatc
+            atcatcctggacaaggatggcgatgggaagatatcctttgaggaattcagtgctgtggtc
+            agagacctggagatccacaagaagctggtcctcatcgtatga
+///

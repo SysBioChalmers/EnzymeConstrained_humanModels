@@ -1,0 +1,102 @@
+ENTRY       223               CDS       T01001
+NAME        ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABADH
+DEFINITION  (RefSeq) aldehyde dehydrogenase 9 family member A1
+ORTHOLOGY   K00149  aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                223 (ALDH9A1)
+               00053 Ascorbate and aldarate metabolism
+                223 (ALDH9A1)
+               00620 Pyruvate metabolism
+                223 (ALDH9A1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                223 (ALDH9A1)
+               00561 Glycerolipid metabolism
+                223 (ALDH9A1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                223 (ALDH9A1)
+               00310 Lysine degradation
+                223 (ALDH9A1)
+               00330 Arginine and proline metabolism
+                223 (ALDH9A1)
+               00340 Histidine metabolism
+                223 (ALDH9A1)
+               00380 Tryptophan metabolism
+                223 (ALDH9A1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                223 (ALDH9A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 223 (ALDH9A1)
+                1.2.1.47  4-trimethylammoniobutyraldehyde dehydrogenase
+                 223 (ALDH9A1)
+POSITION    1q24.1
+MOTIF       Pfam: Aldedh DUF1487
+DBLINKS     NCBI-GeneID: 223
+            NCBI-ProteinID: NP_000687
+            OMIM: 602733
+            HGNC: 412
+            Ensembl: ENSG00000143149
+            Vega: OTTHUMG00000034677
+            Pharos: P49189(Tbio)
+            UniProt: P49189 B9EKV4
+AASEQ       518
+            MFLRAGLAALSPLLRSLRPSPVAAMSTGTFVVSQPLNYRGGARVEPADASGTEKAFEPAT
+            GRVIATFTCSGEKEVNLAVQNAKAAFKIWSQKSGMERCRILLEAARIIREREDEIATMEC
+            INNGKSIFEARLDIDISWQCLEYYAGLAASMAGEHIQLPGGSFGYTRREPLGVCVGIGAW
+            NYPFQIASWKSAPALACGNAMVFKPSPFTPVSALLLAEIYSEAGVPPGLFNVVQGGAATG
+            QFLCQHPDVAKVSFTGSVPTGMKIMEMSAKGIKPVTLELGGKSPLIIFSDCDMNNAVKGA
+            LMANFLTQGQVCCNGTRVFVQKEILDKFTEEVVKQTQRIKIGDPLLEDTRMGPLINRPHL
+            ERVLGFVKVAKEQGAKVLCGGDIYVPEDPKLKDGYYMRPCVLTNCRDDMTCVKEEIFGPV
+            MSILSFDTEAEVLERANDTTFGLAAGVFTRDIQRAHRVVAELQAGTCFINNYNVSPVELP
+            FGGYKKSGFGRENGRVTIEYYSQLKTVCVEMGDVESAF
+NTSEQ       1557
+            atgtttctccgagcaggcctggccgcgctctccccgcttcttcgcagtcttcggccctct
+            cctgtcgccgccatgagcactggcaccttcgtcgtgtcgcagccgctcaattaccgcggc
+            ggggcccgcgtggagccggcggacgcctccggtaccgagaaagctttcgagccagcaacc
+            ggccgagtgatagctactttcacatgttcaggagaaaaggaagtaaatttggctgttcaa
+            aatgcaaaggctgcttttaaaatatggagtcaaaaatctggcatggagcgttgccgaatc
+            cttttggaggctgccaggataataagggaacgggaggatgaaattgctactatggagtgc
+            atcaacaatggcaagtccatctttgaggcccgcttggacattgacatttcctggcagtgc
+            ctggagtattatgcgggcttggctgcatccatggctggtgaacacatccagctcccaggt
+            ggatcgtttggttataccagaagagaaccacttggggtatgtgtgggaataggagcatgg
+            aactacccctttcagattgcctcttggaagtcggctccagcattagcctgtggtaatgcc
+            atggtctttaaaccttctccctttacacctgtttctgcattgctactggctgaaatctac
+            agtgaggctggtgtacctcctgggctcttcaatgtggtgcagggaggggctgccacaggc
+            cagtttctgtgtcagcatcccgatgtggccaaagtctccttcactggaagtgtgcccact
+            ggcatgaagatcatggagatgtcagctaaaggaatcaaacctgttaccttggaacttgga
+            ggcaaatctccactcatcatcttctcagactgtgatatgaacaatgctgtaaagggggcg
+            ctgatggccaacttcctcacacaaggccaggtttgctgtaatggcacaagagtatttgtg
+            cagaaagaaattcttgataaatttacagaggaagtggtgaaacagacccaaaggattaaa
+            attggagatccccttctggaagatacaaggatgggtccactcatcaaccgaccacacctg
+            gagcgagtccttgggtttgtcaaagtggcaaaggagcagggtgctaaagtgttatgtggt
+            ggagatatatatgtacctgaagatcccaaattaaaggatggatattacatgagaccttgt
+            gtattaactaattgcagagacgacatgacctgtgtgaaggaagagatctttgggcctgtt
+            atgtccattttatcatttgacactgaagctgaggttctagaaagagccaatgataccact
+            tttggactagcagctggcgtctttaccagggacatccaacgggctcatagagtggtagct
+            gagcttcaggctgggacgtgcttcattaacaactataacgtcagcccagtggagttgccc
+            tttggtggatataagaagtcaggatttggcagagagaacggccgtgtgacaatcgaatat
+            tattcacagctgaagactgtgtgtgtggagatgggtgatgtggaatctgctttttga
+///

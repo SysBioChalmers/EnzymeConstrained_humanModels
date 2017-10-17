@@ -1,0 +1,220 @@
+ENTRY       3915              CDS       T01001
+NAME        LAMC1, LAMB2
+DEFINITION  (RefSeq) laminin subunit gamma 1
+ORTHOLOGY   K05635  laminin, gamma 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa05020  Prion diseases
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3915 (LAMC1)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3915 (LAMC1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3915 (LAMC1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3915 (LAMC1)
+               05222 Small cell lung cancer
+                3915 (LAMC1)
+              Neurodegenerative diseases
+               05020 Prion diseases
+                3915 (LAMC1)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3915 (LAMC1)
+               05146 Amoebiasis
+                3915 (LAMC1)
+               05145 Toxoplasmosis
+                3915 (LAMC1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                PTPRF, LAR; receptor-type tyrosine-protein phosphatase F [KO:K05695]
+                 Laminin-1	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+              Others
+               LU; Lutheran blood group glycoprotein [KO:K06578]
+                Laminin-10	Extracellular matrix (ECM) components
+                 3915 (LAMC1)
+                Laminin-11	Extracellular matrix (ECM) components
+                 3915 (LAMC1)
+               MCAM, CD146; melanoma cell adhesion molecule [KO:K06534]
+                Laminin-8	Extracellular matrix (ECM) components
+                 3915 (LAMC1)
+               CXADR, CAR; coxsackievirus and adenovirus receptor [KO:K06788]
+                Laminin-1	Extracellular matrix (ECM) components
+                 3915 (LAMC1)
+             2. Integrin Family
+              Beta1 integrins
+               VLA-1
+                ITGB1; integrin beta 1 [KO:K05719]
+                  3915 (LAMC1)
+                 Laminin-2	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+               VLA-2
+                 Laminin-1	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+               VLA-3
+                  3915 (LAMC1)
+                 Laminin-10	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+                 Laminin-11	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+               VLA-6
+                 Laminin-1	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+                 Laminin-8	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+               VLA-7
+                 Laminin-1	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+              Beta4 integrins
+               alpha 6 beta 4
+                ITGB4; integrin beta 4 [KO:K06525]
+                 Laminin-1	Extracellular matrix (ECM) components
+                  3915 (LAMC1)
+             7. Others
+              DAG1; dystroglycan 1 [KO:K06265]
+               Laminin-1	Extracellular matrix (ECM) components
+                3915 (LAMC1)
+               Laminin-2	Extracellular matrix (ECM) components
+                3915 (LAMC1)
+              APP; amyloid beta A4 protein [KO:K04520]
+               Laminin-1	Extracellular matrix (ECM) components
+                3915 (LAMC1)
+POSITION    1q25.3
+MOTIF       Pfam: Laminin_EGF Laminin_N Laminin_B
+DBLINKS     NCBI-GeneID: 3915
+            NCBI-ProteinID: NP_002284
+            OMIM: 150290
+            HGNC: 6492
+            Ensembl: ENSG00000135862
+            Vega: OTTHUMG00000035418
+            Pharos: P11047(Tbio)
+            UniProt: P11047 Q6NVY8
+AASEQ       1609
+            MRGSHRAAPALRPRGRLWPVLAVLAAAAAAGCAQAAMDECTDEGGRPQRCMPEFVNAAFN
+            VTVVATNTCGTPPEEYCVQTGVTGVTKSCHLCDAGQPHLQHGAAFLTDYNNQADTTWWQS
+            QTMLAGVQYPSSINLTLHLGKAFDITYVRLKFHTSRPESFAIYKRTREDGPWIPYQYYSG
+            SCENTYSKANRGFIRTGGDEQQALCTDEFSDISPLTGGNVAFSTLEGRPSAYNFDNSPVL
+            QEWVTATDIRVTLNRLNTFGDEVFNDPKVLKSYYYAISDFAVGGRCKCNGHASECMKNEF
+            DKLVCNCKHNTYGVDCEKCLPFFNDRPWRRATAESASECLPCDCNGRSQECYFDPELYRS
+            TGHGGHCTNCQDNTDGAHCERCRENFFRLGNNEACSSCHCSPVGSLSTQCDSYGRCSCKP
+            GVMGDKCDRCQPGFHSLTEAGCRPCSCDPSGSIDECNIETGRCVCKDNVEGFNCERCKPG
+            FFNLESSNPRGCTPCFCFGHSSVCTNAVGYSVYSISSTFQIDEDGWRAEQRDGSEASLEW
+            SSERQDIAVISDSYFPRYFIAPAKFLGKQVLSYGQNLSFSFRVDRRDTRLSAEDLVLEGA
+            GLRVSVPLIAQGNSYPSETTVKYVFRLHEATDYPWRPALTPFEFQKLLNNLTSIKIRGTY
+            SERSAGYLDDVTLASARPGPGVPATWVESCTCPVGYGGQFCEMCLSGYRRETPNLGPYSP
+            CVLCACNGHSETCDPETGVCNCRDNTAGPHCEKCSDGYYGDSTAGTSSDCQPCPCPGGSS
+            CAVVPKTKEVVCTNCPTGTTGKRCELCDDGYFGDPLGRNGPVRLCRLCQCSDNIDPNAVG
+            NCNRLTGECLKCIYNTAGFYCDRCKDGFFGNPLAPNPADKCKACNCNLYGTMKQQSSCNP
+            VTGQCECLPHVTGQDCGACDPGFYNLQSGQGCERCDCHALGSTNGQCDIRTGQCECQPGI
+            TGQHCERCEVNHFGFGPEGCKPCDCHPEGSLSLQCKDDGRCECREGFVGNRCDQCEENYF
+            YNRSWPGCQECPACYRLVKDKVADHRVKLQELESLIANLGTGDEMVTDQAFEDRLKEAER
+            EVMDLLREAQDVKDVDQNLMDRLQRVNNTLSSQISRLQNIRNTIEETGNLAEQARAHVEN
+            TERLIEIASRELEKAKVAAANVSVTQPESTGDPNNMTLLAEEARKLAERHKQEADDIVRV
+            AKTANDTSTEAYNLLLRTLAGENQTAFEIEELNRKYEQAKNISQDLEKQAARVHEEAKRA
+            GDKAVEIYASVAQLSPLDSETLENEANNIKMEAENLEQLIDQKLKDYEDLREDMRGKELE
+            VKNLLEKGKTEQQTADQLLARADAAKALAEEAAKKGRDTLQEANDILNNLKDFDRRVNDN
+            KTAAEEALRKIPAINQTITEANEKTREAQQALGSAAADATEAKNKAHEAERIASAVQKNA
+            TSTKAEAERTFAEVTDLDNEVNNMLKQLQEAEKELKRKQDDADQDMMMAGMASQAAQEAE
+            INARKAKNSVTSLLSIINDLLEQLGQLDTVDLNKLNEIEGTLNKAKDEMKVSDLDRKVSD
+            LENEAKKQEAAIMDYNRDIEEIMKDIRNLEDIRKTLPSGCFNTPSIEKP
+NTSEQ       4830
+            atgagagggagccatcgggccgcgccggccctgcggccccgggggcggctctggcccgtg
+            ctggccgtgctggcggcggccgccgcggcgggctgtgcccaggcagccatggacgagtgc
+            acggacgagggcgggcggccgcagcgctgcatgcccgagttcgtcaacgccgccttcaac
+            gtgactgtggtggccaccaacacgtgtgggactccgcccgaggaatactgtgtgcagacc
+            ggggtgaccggggtcaccaagtcctgtcacctgtgcgacgccgggcagccccacctgcag
+            cacggggcagccttcctgaccgactacaacaaccaggccgacaccacctggtggcaaagc
+            cagaccatgctggccggggtgcagtaccccagctccatcaacctcacgctgcacctggga
+            aaagcttttgacatcacctatgtgcgtctcaagttccacaccagccgcccggagagcttt
+            gccatttacaagcgcacacgggaagacgggccctggattccttaccagtactacagtggt
+            tcctgtgagaacacctactccaaggcaaaccgcggcttcatcaggacaggaggggacgag
+            cagcaggccttgtgtactgatgaattcagtgacatttctcccctcactgggggcaacgtg
+            gccttttctaccctggaaggaaggcccagcgcctataactttgacaatagccctgtgctg
+            caggaatgggtaactgccactgacatcagagtaactcttaatcgcctgaacacttttgga
+            gatgaagtgtttaacgatcccaaagttctcaagtcctattattatgccatctctgatttt
+            gctgtaggtggcagatgtaaatgtaatggacacgcaagcgagtgtatgaagaacgaattt
+            gataagctggtgtgtaattgcaaacataacacatatggagtagactgtgaaaagtgtctt
+            cctttcttcaatgaccggccgtggaggagggcaactgcggaaagtgccagtgaatgcctg
+            ccctgtgattgcaatggtcgatcccaggaatgctacttcgaccctgaactctatcgttcc
+            actggccatgggggccactgtaccaactgccaggataacacagatggcgcccactgtgag
+            aggtgccgagagaacttcttccgccttggcaacaatgaagcctgctcttcatgccactgt
+            agtcctgtgggctctctaagcacacagtgtgatagttacggcagatgcagctgtaagcca
+            ggagtgatgggggacaaatgtgaccgttgccagcctggattccattctctcactgaagca
+            ggatgcaggccatgctcttgtgatccctctggcagcatagatgaatgtaatattgaaaca
+            ggaagatgtgtttgcaaagacaatgtcgaaggcttcaattgtgaaagatgcaaacctgga
+            ttttttaatctggaatcatctaatcctcggggttgcacaccctgcttctgctttgggcat
+            tcttctgtctgtacaaacgctgttggctacagtgtttattctatctcctctacctttcag
+            attgatgaggatgggtggcgtgcggaacagagagatggctctgaagcatctctcgagtgg
+            tcctctgagaggcaagatatcgccgtgatctcagacagctactttcctcggtacttcatt
+            gctcctgcaaagttcttgggcaagcaggtgttgagttatggtcagaacctctccttctcc
+            tttcgagtggacaggcgagatactcgcctctctgcagaagaccttgtgcttgagggagct
+            ggcttaagagtatctgtacccttgatcgctcagggcaattcctatccaagtgagaccact
+            gtgaagtatgtcttcaggctccatgaagcaacagattacccttggaggcctgctcttacc
+            ccttttgaatttcagaagctcctaaacaacttgacctctatcaagatacgtgggacatac
+            agtgagagaagtgctggatatttggatgatgtcaccctggcaagtgctcgtcctgggcct
+            ggagtccctgcaacttgggtggagtcctgcacctgtcctgtgggatatggagggcagttt
+            tgtgagatgtgcctctcaggttacagaagagaaactcctaatcttggaccatacagtcca
+            tgtgtgctttgcgcctgcaatggacacagcgagacctgtgatcctgagacaggtgtttgt
+            aactgcagagacaatacggctggcccgcactgtgagaagtgcagtgatgggtactatgga
+            gattcaactgcaggcacctcctccgattgccaaccctgtccgtgtcctggaggttcaagt
+            tgtgctgttgttcccaagacaaaggaggtggtgtgcaccaactgtcctactggcaccact
+            ggtaagagatgtgagctctgtgatgatggctactttggagaccccctgggtagaaacggc
+            cctgtgagactttgccgcctgtgccagtgcagtgacaacatcgatcccaatgcagttgga
+            aattgcaatcgcttgacgggagaatgcctgaagtgcatctataacactgctggcttctat
+            tgtgaccggtgcaaagacggattttttggaaatcccctggctcccaatccagcagacaaa
+            tgcaaagcctgcaattgcaatctgtatgggaccatgaagcagcagagcagctgtaacccc
+            gtgacggggcagtgtgaatgtttgcctcacgtgactggccaggactgtggtgcttgtgac
+            cctggattctacaatctgcagagtgggcaaggctgtgagaggtgtgactgccatgccttg
+            ggctccaccaatgggcagtgtgacatccgcaccggccagtgtgagtgccagcccggcatc
+            actggtcagcactgtgagcgctgtgaggtcaaccactttgggtttggacctgaaggctgc
+            aaaccctgtgactgtcatcctgagggatctctttcacttcagtgcaaagatgatggtcgc
+            tgtgaatgcagagaaggctttgtgggaaatcgctgtgaccagtgtgaagaaaactatttc
+            tacaatcggtcttggcctggctgccaggaatgtccagcttgttaccggctggtaaaggat
+            aaggttgctgatcatagagtgaagctccaggaattagagagtctcatagcaaaccttgga
+            actggggatgagatggtgacagatcaagccttcgaggatagactaaaggaagcagagagg
+            gaagttatggacctccttcgtgaggcccaggatgtcaaagatgttgaccagaatttgatg
+            gatcgcctacagagagtgaataacactctgtccagccaaattagccgtttacagaatatc
+            cggaataccattgaagagactggaaacttggctgaacaagcgcgtgcccatgtagagaac
+            acagagcggttgattgaaatcgcatccagagaacttgagaaagcaaaagtcgctgctgcc
+            aatgtgtcagtcactcagccagaatctacaggggacccaaacaacatgactcttttggca
+            gaagaggctcgaaagcttgctgaacgtcataaacaggaagctgatgacattgttcgagtg
+            gcaaagacagccaatgatacgtcaactgaggcatacaacctgcttctgaggacactggca
+            ggagaaaatcaaacagcatttgagattgaagagcttaataggaagtatgaacaagcgaag
+            aacatctcacaggatctggaaaaacaagctgcccgagtacatgaggaggccaaaagggcc
+            ggtgacaaagctgtggagatctatgccagcgtggctcagctgagccctttggactctgag
+            acactggagaatgaagcaaataacataaagatggaagctgagaatctggaacaactgatt
+            gaccagaaattaaaagattatgaggacctcagagaagatatgagagggaaggaacttgaa
+            gtcaagaaccttctggagaaaggcaagactgaacagcagaccgcagaccaactcctagcc
+            cgagctgatgctgccaaggccctcgctgaagaagctgcaaagaagggacgggatacctta
+            caagaagctaatgacattctcaacaacctgaaagattttgataggcgtgtgaacgataac
+            aagacggccgcagaggaggcactaaggaagattcctgccatcaaccagaccatcactgaa
+            gccaatgaaaagaccagagaagcccagcaggccctgggcagtgctgcggcggatgccaca
+            gaggccaagaacaaggcccatgaggcggagaggatcgcgagcgctgtccaaaagaatgcc
+            accagcaccaaggcagaagctgaaagaacttttgcagaagttacagatctggataatgag
+            gtgaacaatatgttgaagcaactgcaggaagcagaaaaagagctaaagagaaaacaagat
+            gacgctgaccaggacatgatgatggcagggatggcttcacaggctgctcaagaagccgag
+            atcaatgccagaaaagccaaaaactctgttactagcctcctcagcattattaatgacctc
+            ttggagcagctggggcagctggatacagtggacctgaataagctaaacgagattgaaggc
+            accctaaacaaagccaaagatgaaatgaaggtcagcgatcttgataggaaagtgtctgac
+            ctggagaatgaagccaagaagcaggaggctgccatcatggactataaccgagatatcgag
+            gagatcatgaaggacattcgcaatctggaggacatcaggaagaccttaccatctggctgc
+            ttcaacaccccgtccattgaaaagccctag
+///

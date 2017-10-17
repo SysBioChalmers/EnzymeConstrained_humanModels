@@ -1,0 +1,89 @@
+ENTRY       10332             CDS       T01001
+NAME        CLEC4M, CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN
+DEFINITION  (RefSeq) C-type lectin domain family 4 member M
+ORTHOLOGY   K06563  CD209 antigen
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                10332 (CLEC4M)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                10332 (CLEC4M)
+               05162 Measles
+                10332 (CLEC4M)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               C-lectin receptors
+                10332 (CLEC4M)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               ICAM family
+                ICAM2; intercellular adhesion molecule 2 [KO:K06523]
+                 10332 (CLEC4M)
+                ICAM3; intercellular adhesion molecule 3 [KO:K06486]
+                 10332 (CLEC4M)
+              Others
+               CEACAM; carcinoembryonic antigen-related cell adhesion molecule [KO:K06499]
+                10332 (CLEC4M)
+             2. Integrin Family
+              Beta2 integrins
+               CR3, Mac-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 10332 (CLEC4M)
+            CD molecules [BR:hsa04090]
+             Proteins
+              10332 (CLEC4M)
+            Lectins [BR:hsa04091]
+             C-Type lectins
+              Group 2: Type II membrane receptors (Asialoglycprotien and DC receptors)
+               DC-SIGN subgroup
+                10332 (CLEC4M)
+POSITION    19p13.2
+MOTIF       Pfam: Lectin_C DUF2170 DUF2730 Reo_sigmaC Occludin_ELL Vps5 NPV_P10 RP-C_C Tup_N YceG tRNA-synt_His DUF2357 UL45 DUF4363 DGCR6
+DBLINKS     NCBI-GeneID: 10332
+            NCBI-ProteinID: NP_055072
+            OMIM: 605872
+            HGNC: 13523
+            Ensembl: ENSG00000104938
+            Vega: OTTHUMG00000182432
+            Pharos: Q9H2X3(Tbio)
+            UniProt: Q9H2X3
+STRUCTURE   PDB: 1XPH 1K9J 3JQH 1XAR 1SL6
+AASEQ       399
+            MSDSKEPRVQQLGLLEEDPTTSGIRLFPRDFQFQQIHGHKSSTGCLGHGALVLQLLSFML
+            LAGVLVAILVQVSKVPSSLSQEQSEQDAIYQNLTQLKAAVGELSEKSKLQEIYQELTQLK
+            AAVGELPEKSKLQEIYQELTRLKAAVGELPEKSKLQEIYQELTRLKAAVGELPEKSKLQE
+            IYQELTRLKAAVGELPEKSKLQEIYQELTELKAAVGELPEKSKLQEIYQELTQLKAAVGE
+            LPDQSKQQQIYQELTDLKTAFERLCRHCPKDWTFFQGNCYFMSNSQRNWHDSVTACQEVR
+            AQLVVIKTAEEQNFLQLQTSRSNRFSWMGLSDLNQEGTWQWVDGSPLSPSFQRYWNSGEP
+            NNSGNEDCAEFSGSGWNDNRCDVDNYWICKKPAACFRDE
+NTSEQ       1200
+            atgagtgactccaaggaaccaagggtgcagcagctgggcctcctggaagaagatccaaca
+            accagtggcatcagactttttccaagagactttcaattccagcagatacatggccacaag
+            agctctacagggtgtcttggccatggcgccctggtgctgcaactcctctccttcatgctc
+            ttggctggggtcctggtggccatccttgtccaagtgtccaaggtccccagctccctaagt
+            caggaacaatccgagcaagacgcaatctaccagaacctgacccagcttaaagctgcagtg
+            ggtgagctctcagagaaatccaagctgcaggagatctaccaggagctgacccagctgaag
+            gctgcagtgggtgagttgccagagaaatccaagctgcaggagatctaccaggagctgacc
+            cggctgaaggctgcagtgggtgagttgccagagaaatccaagctgcaggagatctaccag
+            gagctgacccggctgaaggctgcagtgggtgagttgccagagaaatccaagctgcaggag
+            atctaccaggagctgacccggctgaaggctgcagtgggtgagttgccagagaaatccaag
+            ctgcaggagatctaccaggagctgacggagctgaaggctgcagtgggtgagttgccagag
+            aaatccaagctgcaggagatctaccaggagctgacccagctgaaggctgcagtgggtgag
+            ttgccagaccagtccaagcagcagcaaatctatcaagaactgaccgatttgaagactgca
+            tttgaacgcctgtgccgccactgtcccaaggactggacattcttccaaggaaactgttac
+            ttcatgtctaactcccagcggaactggcacgactccgtcaccgcctgccaggaagtgagg
+            gcccagctcgtcgtaatcaaaactgctgaggagcagaacttcctacagctgcagacttcc
+            aggagtaaccgcttctcctggatgggactttcagacctaaatcaggaaggcacgtggcaa
+            tgggtggacggctcacctctgtcacccagcttccagcggtactggaacagtggagaaccc
+            aacaatagcgggaatgaagactgtgcggaatttagtggcagtggctggaacgacaatcga
+            tgtgacgttgacaattactggatctgcaaaaagcccgcagcctgcttcagagacgaatag
+///

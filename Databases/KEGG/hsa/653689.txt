@@ -1,0 +1,72 @@
+ENTRY       653689            CDS       T01001
+NAME        GSTT2B, GSTT2P
+DEFINITION  (RefSeq) glutathione S-transferase theta 2B (gene/pseudogene)
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                653689 (GSTT2B)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                653689 (GSTT2B)
+               00982 Drug metabolism - cytochrome P450
+                653689 (GSTT2B)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                653689 (GSTT2B)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                653689 (GSTT2B)
+              Drug resistance
+               01524 Platinum drug resistance
+                653689 (GSTT2B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 653689 (GSTT2B)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               653689 (GSTT2B)
+POSITION    22q11.23
+MOTIF       Pfam: GST_N GST_N_3 GST_C GST_N_2 GST_C_2 GST_C_3
+DBLINKS     NCBI-GeneID: 653689
+            NCBI-ProteinID: NP_001074312
+            HGNC: 33437
+            Ensembl: ENSG00000133433
+            Vega: OTTHUMG00000150774
+            Pharos: P0CG30(Tbio)
+            UniProt: P0CG30 G9J6Q5
+STRUCTURE   PDB: 1LJR 2LJR 3LJR
+AASEQ       244
+            MGLELFLDLVSQPSRAVYIFAKKNGIPLELRTVDLVKGQHKSKEFLQINSLGKLPTLKDG
+            DFILTESSAILIYLSCKYQTPDHWYPSDLQARARVHEYLGWHADCIRGTFGIPLWVQVLG
+            PLIGVQVPEEKVERNRTAMDQALQWLEDKFLGDRPFLAGQQVTLADLMALEELMQPVALG
+            YELFEGRPRLAAWRGRVEAFLGAELCQEAHSIILSILEQAAKKTLPTPSPEAYQAMLLRI
+            ARIP
+NTSEQ       735
+            atgggcctagagctgtttcttgacctggtgtcccagcccagccgcgccgtctacatcttc
+            gccaagaagaatggcatccccttagagctgcgcaccgtggatttggtcaaagggcagcac
+            aagagcaaggagttcttgcagatcaacagcctggggaaactgccgacgctcaaggatggt
+            gatttcatcttgaccgaaagctcggccatcctgatttacctgagctgtaagtaccagacg
+            ccggaccactggtatccatctgacctgcaggctcgtgcccgtgttcatgagtacctgggc
+            tggcatgccgactgcatccgtggcacctttggtatacccctgtgggtccaggtgttgggg
+            ccactcattggggtccaggtgcccgaggagaaggtggaacgcaacaggactgccatggac
+            caggccctgcaatggctggaggacaagttcctgggggacaggcccttcctcgctggccag
+            caggtgacactggctgatctcatggccctggaggagctgatgcagccggtggctctcggc
+            tatgaactgtttgagggacggccacgactggcagcatggcgtggacgagtggaggctttc
+            ctgggtgctgagctatgccaggaggcccacagcatcatcttgagcatcctggaacaggcg
+            gccaagaaaaccctcccaacaccctcaccagaggcctatcaggctatgctgcttcgaatc
+            gccaggatcccctga
+///

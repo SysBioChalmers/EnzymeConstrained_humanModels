@@ -1,0 +1,103 @@
+ENTRY       6530              CDS       T01001
+NAME        SLC6A2, NAT1, NET, NET1, SLC6A5
+DEFINITION  (RefSeq) solute carrier family 6 member 2
+ORTHOLOGY   K05035  solute carrier family 6 (neurotransmitter transporter, noradrenalin) member 2
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H01031  Orthostatic intolerance (OI)
+DRUG_TARGET Amezinium metilsulfate: D01304
+            Amfetamine (DG00966): D02074 D07445
+            Amitriptyline (DG00934): D00809 D07448
+            Amitriptylinoxide: D07449
+            Amoxapine: D00228
+            Atomoxetine (DG00970): D02574 D07473
+            Centanafadine (DG01858): D10697
+            Clomipramine (DG00929): D00811 D07727
+            Cocaine (DG00808): D00110 D02182
+            Desipramine (DG00927): D00812 D07791
+            Desvenlafaxine (DG00963): D02570 D07793
+            Dexamfetamine (DG00967): D02078 D03740
+            Dosulepin (DG00940): D01546 D07872
+            Doxepin (DG00937): D00814 D07875
+            Duloxetine (DG00962): D01179 D07880
+            Edivoxetine (DG01310): D09890 D09891
+            Esreboxetine (DG01309): D09340 D09341
+            Imipramine (DG00928): D00815 D08070 D08071
+            Imipraminoxide (DG01542): D07334 D08072
+            Levomilnacipran (DG01387): D10072 D10133
+            Liafensine: D10443
+            Lisdexamfetamine (DG00973): D04747 D08130
+            Lofepramine (DG00932): D01285 D08140
+            Maprotiline (DG00941): D00818 D02566
+            Mazindol: D00367
+            Metamfetamine (DG00968): D02242 D08187
+            Milnacipran (DG00960): D01107 D08222
+            Nisoxetine: D05173
+            Nomifensine: D05200
+            Nortriptyline (DG00935): D00816 D08288
+            Pyrovalerone hydrochloride: D05663
+            Reboxetine (DG00961): D02573 D08472
+            Sibutramine (DG00108): D02571 D08513
+            Talopram hydrochloride: D05997
+            Tapentadol (DG00826): D06007 D10199
+            Trimipramine (DG00931): D00394 D02408
+            Venlafaxine (DG00959): D00821 D08670
+            Viloxazine (DG00956): D02572 D08673
+BRITE       Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC6: Sodium- and chloride-dependent neurotransmitter transporter
+               6530 (SLC6A2)
+POSITION    16q12.2
+MOTIF       Pfam: SNF
+DBLINKS     NCBI-GeneID: 6530
+            NCBI-ProteinID: NP_001034
+            OMIM: 163970
+            HGNC: 11048
+            Ensembl: ENSG00000103546
+            Vega: OTTHUMG00000133208
+            Pharos: P23975(Tclin)
+            UniProt: P23975 A0A024R6T9
+AASEQ       617
+            MLLARMNPQVQPENNGADTGPEQPLRARKTAELLVVKERNGVQCLLAPRDGDAQPRETWG
+            KKIDFLLSVVGFAVDLANVWRFPYLCYKNGGGAFLIPYTLFLIIAGMPLFYMELALGQYN
+            REGAATVWKICPFFKGVGYAVILIALYVGFYYNVIIAWSLYYLFSSFTLNLPWTDCGHTW
+            NSPNCTDPKLLNGSVLGNHTKYSKYKFTPAAEFYERGVLHLHESSGIHDIGLPQWQLLLC
+            LMVVVIVLYFSLWKGVKTSGKVVWITATLPYFVLFVLLVHGVTLPGASNGINAYLHIDFY
+            RLKEATVWIDAATQIFFSLGAGFGVLIAFASYNKFDNNCYRDALLTSSINCITSFVSGFA
+            IFSILGYMAHEHKVNIEDVATEGAGLVFILYPEAISTLSGSTFWAVVFFVMLLALGLDSS
+            MGGMEAVITGLADDFQVLKRHRKLFTFGVTFSTFLLALFCITKGGIYVLTLLDTFAAGTS
+            ILFAVLMEAIGVSWFYGVDRFSNDIQQMMGFRPGLYWRLCWKFVSPAFLLFVVVVSIINF
+            KPLTYDDYIFPPWANWVGWGIALSSMVLVPIYVIYKFLSTQGSLWERLAYGITPENEHHL
+            VAQRDIRQFQLQHWLAI
+NTSEQ       1854
+            atgcttctggcgcggatgaacccgcaggtgcagcccgagaacaacggggcggacacgggt
+            ccagagcagccccttcgggcgcgcaaaactgcggagctgctggtggtgaaggagcgcaac
+            ggcgtccagtgcctgctggcgccccgcgacggcgacgcgcagccccgggagacctggggc
+            aagaagatcgacttcctgctgtccgtagtcggcttcgcagtggacctggccaacgtgtgg
+            cgcttcccctacctctgctacaagaacggcggcggtgccttcttgatcccgtacacactg
+            ttccttatcatcgcggggatgcccctgttctacatggagctggctctgggacagtacaac
+            cgggagggggctgccaccgtttggaaaatctgcccattcttcaaaggcgttggctatgct
+            gtcatcctgatcgccctgtacgttggcttctactacaacgtcatcatcgcctggtcactc
+            tactacctcttctcctccttcaccctcaacctgccctggaccgactgtggccacacctgg
+            aacagccccaactgtaccgaccccaagctcctcaatggctccgtgcttggcaaccacacc
+            aagtactccaagtacaagttcacgccggcagccgagttttatgagcgtggtgtcctgcac
+            cttcacgagagcagcgggattcatgacatcggcctgccccagtggcagctcttgctctgt
+            ctgatggtcgtcgtcatcgtcttgtattttagcctctggaaaggggtgaagacatcagga
+            aaggtggtgtggatcacagccacgctgccttacttcgtgctgttcgtgctcctggtccat
+            ggcgtcacgctgcccggagcctccaatggcatcaatgcctacctgcacatcgacttctac
+            cgcttgaaagaggccacggtatggattgatgccgcaactcagatatttttttccttgggg
+            gctggatttggagtattgattgcatttgccagttacaacaaatttgacaacaactgttac
+            agggatgccctgctgaccagcagcatcaactgtatcaccagcttcgtctctgggttcgcc
+            atcttctccatccttggttacatggcccatgaacacaaggtcaacattgaggatgtggcc
+            acagaaggagctggcctagtgttcatcctgtatccagaggccatttctaccctgtctgga
+            tctacattctgggctgttgtgtttttcgtcatgctcctggcgctgggccttgacagctca
+            atgggaggcatggaggctgtcatcacgggcctggcagatgacttccaggtcctgaagcga
+            caccggaaactcttcacatttggcgtcaccttcagcactttccttctcgccctgttctgc
+            ataaccaagggtggaatttacgtcttgaccctcctggacacctttgctgcgggcacctcc
+            atcctttttgctgtcctcatggaagccatcggagtttcctggttttatggagtggacagg
+            ttcagcaacgacatccagcagatgatggggttcaggccgggtctatactggagactgtgc
+            tggaagttcgtcagtcctgccttcctcctgttcgtggttgtggtcagcatcatcaacttc
+            aagccactcacctacgacgactacatcttcccgccctgggccaactgggtggggtggggc
+            atcgccctgtcctccatggtcctggtgcccatctacgtcatctataagttcctcagcacg
+            cagggctctctttgggagagactggcctatggcatcacgccagagaacgagcaccacctg
+            gtggctcagagggacatcagacagttccagttgcaacactggctggccatctga
+///

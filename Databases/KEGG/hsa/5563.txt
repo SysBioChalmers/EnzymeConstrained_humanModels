@@ -1,0 +1,146 @@
+ENTRY       5563              CDS       T01001
+NAME        PRKAA2, AMPK, AMPK2, AMPKa2, PRKAA
+DEFINITION  (RefSeq) protein kinase AMP-activated catalytic subunit alpha 2
+ORTHOLOGY   K07198  5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04371  Apelin signaling pathway
+            hsa04530  Tight junction
+            hsa04710  Circadian rhythm
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05418  Fluid shear stress and atherosclerosis
+DRUG_TARGET Buformin (DG00114): D00595 D02206
+            Dapiclermin: D03647
+            Metformin (DG00113): D00944 D04966
+            Phenformin (DG00112): D08351 D08352
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                5563 (PRKAA2)
+               04068 FoxO signaling pathway
+                5563 (PRKAA2)
+               04151 PI3K-Akt signaling pathway
+                5563 (PRKAA2)
+               04152 AMPK signaling pathway
+                5563 (PRKAA2)
+               04150 mTOR signaling pathway
+                5563 (PRKAA2)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                5563 (PRKAA2)
+              Cellular community - eukaryotes
+               04530 Tight junction
+                5563 (PRKAA2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5563 (PRKAA2)
+               04922 Glucagon signaling pathway
+                5563 (PRKAA2)
+               04920 Adipocytokine signaling pathway
+                5563 (PRKAA2)
+               04921 Oxytocin signaling pathway
+                5563 (PRKAA2)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                5563 (PRKAA2)
+               04213 Longevity regulating pathway - multiple species
+                5563 (PRKAA2)
+              Environmental adaptation
+               04710 Circadian rhythm
+                5563 (PRKAA2)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5563 (PRKAA2)
+               05410 Hypertrophic cardiomyopathy (HCM)
+                5563 (PRKAA2)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                5563 (PRKAA2)
+               04931 Insulin resistance
+                5563 (PRKAA2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.11  cAMP-dependent protein kinase
+                 5563 (PRKAA2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CAMK group
+              CAMKL family
+               5563 (PRKAA2)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Other regulator of mitochondrial biogenesis
+                5563 (PRKAA2)
+              Mitophagy factors
+               Other mitophagy factors
+                5563 (PRKAA2)
+POSITION    1p32.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr AdenylateSensor Kinase-like RIO1 Kdo Haspin_kinase APH
+DBLINKS     NCBI-GeneID: 5563
+            NCBI-ProteinID: NP_006243
+            OMIM: 600497
+            HGNC: 9377
+            Ensembl: ENSG00000162409
+            Vega: OTTHUMG00000008282
+            Pharos: P54646(Tchem)
+            UniProt: P54646
+STRUCTURE   PDB: 2H6D 3AQV 5ISO 5EZV 4ZHX 4CFE 2YZA 4CFF 2LTU
+AASEQ       552
+            MAEKQKHDGRVKIGHYVLGDTLGVGTFGKVKIGEHQLTGHKVAVKILNRQKIRSLDVVGK
+            IKREIQNLKLFRHPHIIKLYQVISTPTDFFMVMEYVSGGELFDYICKHGRVEEMEARRLF
+            QQILSAVDYCHRHMVVHRDLKPENVLLDAHMNAKIADFGLSNMMSDGEFLRTSCGSPNYA
+            APEVISGRLYAGPEVDIWSCGVILYALLCGTLPFDDEHVPTLFKKIRGGVFYIPEYLNRS
+            VATLLMHMLQVDPLKRATIKDIREHEWFKQDLPSYLFPEDPSYDANVIDDEAVKEVCEKF
+            ECTESEVMNSLYSGDPQDQLAVAYHLIIDNRRIMNQASEFYLASSPPSGSFMDDSAMHIP
+            PGLKPHPERMPPLIADSPKARCPLDALNTTKPKSLAVKKAKWHLGIRSQSKPYDIMAEVY
+            RAMKQLDFEWKVVNAYHLRVRRKNPVTGNYVKMSLQLYLVDNRSYLLDFKSIDDEVVEQR
+            SGSSTPQRSCSAAGLHRPRSSFDSTTAESHSLSGSLTGSLTGSTLSSVSPRLGSHTMDFF
+            EMCASLITTLAR
+NTSEQ       1659
+            atggctgagaagcagaagcacgacgggcgggtgaagatcggacactacgtgctgggcgac
+            acgctgggcgtcggcaccttcggcaaagtgaagattggagaacatcaattaacaggccat
+            aaagtggcagttaaaatcttaaatagacagaagattcgcagtttagatgttgttggaaaa
+            ataaaacgagaaattcaaaatctaaaactctttcgtcatcctcatattatcaaactatac
+            caggtgatcagcactccaacagatttttttatggtaatggaatatgtgtctggaggtgaa
+            ttatttgactacatctgtaagcatggacgggttgaagagatggaagccaggcggctcttt
+            cagcagattctgtctgctgtggattactgtcataggcatatggttgttcatcgagacctg
+            aaaccagagaatgtcctgttggatgcacacatgaatgccaagatagccgatttcggatta
+            tctaatatgatgtcagatggtgaatttctgagaactagttgcggatctccaaattatgca
+            gcacctgaagtcatctcaggcagattgtatgcaggtcctgaagttgatatctggagctgt
+            ggtgttatcttgtatgctcttctttgtggcaccctcccatttgatgatgagcatgtacct
+            acgttatttaagaagatccgagggggtgtcttttatatcccagaatatctcaatcgttct
+            gtcgccactctcctgatgcatatgctgcaggttgacccactgaaacgagcaactatcaaa
+            gacataagagagcatgaatggtttaaacaagatttgcccagttacttatttcctgaagac
+            ccttcctatgatgctaacgtcattgatgatgaggctgtgaaagaagtgtgtgaaaaattt
+            gaatgtacagaatcagaagtaatgaacagtttatatagtggtgaccctcaagaccagctt
+            gcagtggcttatcatcttatcattgacaatcggagaataatgaaccaagccagtgagttc
+            tacctcgcctctagtcctccatctggttcttttatggatgatagtgccatgcatattccc
+            ccaggcctgaaacctcatccagaaaggatgccacctcttatagcagacagccccaaagca
+            agatgtccattggatgcactgaatacgactaagcccaaatctttagctgtgaaaaaagcc
+            aagtggcatcttggaatccgaagtcagagcaaaccgtatgacattatggctgaagtttac
+            cgagctatgaagcagctggattttgaatggaaggtagtgaatgcataccatcttcgtgta
+            agaagaaaaaatccagtgactggcaattacgtgaaaatgagcttacaactttacctggtt
+            gataacaggagctatcttttggactttaaaagcattgatgatgaagtagtggagcagaga
+            tctggttcctcaacacctcagcgttcctgttctgctgctggcttacacagaccaagatca
+            agttttgattccacaactgcagagagccattcactttctggctctctcactggctctttg
+            accggaagcacattgtcttcagtttcacctcgcctgggcagtcacaccatggattttttt
+            gaaatgtgtgccagtctgattactactttagcccgttga
+///

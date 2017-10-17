@@ -1,0 +1,97 @@
+ENTRY       5829              CDS       T01001
+NAME        PXN
+DEFINITION  (RefSeq) paxillin
+ORTHOLOGY   K05760  paxillin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05165  Human papillomavirus infection
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04370 VEGF signaling pathway
+                5829 (PXN)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5829 (PXN)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5829 (PXN)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                5829 (PXN)
+               04062 Chemokine signaling pathway
+                5829 (PXN)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                5829 (PXN)
+               05203 Viral carcinogenesis
+                5829 (PXN)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                5829 (PXN)
+               05165 Human papillomavirus infection
+                5829 (PXN)
+POSITION    12q24.23
+MOTIF       Pfam: Paxillin LIM
+DBLINKS     NCBI-GeneID: 5829
+            NCBI-ProteinID: NP_001074324
+            OMIM: 602505
+            HGNC: 9718
+            Ensembl: ENSG00000089159
+            Vega: OTTHUMG00000169169
+            Pharos: P49023(Tbio)
+            UniProt: P49023 A0A140VJQ8
+STRUCTURE   PDB: 4EDN 2VZG 2VZD
+AASEQ       591
+            MDDLDALLADLESTTSHISKRPVFLSEETPYSYPTGNHTYQEIAVPPPVPPPPSSEALNG
+            TILDPLDQWQPSSSRFIHQQPQSSSPVYGSSAKTSSVSNPQDSVGSPCSRVGEEEHVYSF
+            PNKQKSAEPSPTVMSTSLGSNLSELDRLLLELNAVQHNPPGFPADEANSSPPLPGALSPL
+            YGVPETNSPLGGKAGPLTKEKPKRNGGRGLEDVRPSVESLLDELESSVPSPVPAITVNQG
+            EMSSPQRVTSTQQQTRISASSATRELDELMASLSDFKIQGLEQRADGERCWAAGWPRDGG
+            RSSPGGQDEGGFMAQGKTGSSSPPGGPPKPGSQLDSMLGSLQSDLNKLGVATVAKGVCGA
+            CKKPIAGQVVTAMGKTWHPEHFVCTHCQEEIGSRNFFERDGQPYCEKDYHNLFSPRCYYC
+            NGPILDKVVTALDRTWHPEHFFCAQCGAFFGPEGFHEKDGKAYCRKDYFDMFAPKCGGCA
+            RAILENYISALNTLWHPECFVCRECFTPFVNGSFFEHDGQPYCEVHYHERRGSLCSGCQK
+            PITGRCITAMAKKFHPEHFVCAFCLKQLNKGTFKEQNDKPYCQNCFLKLFC
+NTSEQ       1776
+            atggacgacctcgacgccctgctggcggacttggagtctaccacctcccacatctccaaa
+            cggcctgtgttcttgtcggaggagaccccctactcatacccaactggaaaccacacatac
+            caggagattgccgtgccaccccccgtccccccacccccgtccagcgaggccctcaatggc
+            acaatccttgaccccttagaccagtggcagcccagcagctcccgattcatccaccagcag
+            cctcagtcctcatcacctgtgtacggctccagtgccaaaacttccagtgtctccaaccct
+            caggacagtgttggctctccgtgctcccgagtgggtgaggaggagcacgtctacagcttc
+            cccaacaagcagaaatcagctgagccttcacccaccgtaatgagcacgtccctgggcagc
+            aacctttctgaactcgaccgcctgctgctggaactgaacgctgtacagcataacccgcca
+            ggcttccctgcagatgaggccaactcaagccccccgcttcctggggccctgagccccctc
+            tatggtgtcccagagactaacagccccttgggaggcaaagctgggcccctgacgaaagag
+            aagcctaagcggaatgggggccggggcctggaggacgtgcggcccagtgtggagagtctc
+            ttggatgaactggagagctccgtgcccagccccgtccctgccatcactgtgaaccagggc
+            gagatgagcagcccgcagcgcgtcacctccacccaacagcagacacgcatctcggcctcc
+            tctgccaccagggagctggacgagctgatggcttcgctgtcggatttcaagatccagggc
+            ctggagcaaagagcggatggggagcggtgctgggcggccggctggcctcgggacggcggg
+            cggagcagccccggagggcaggacgagggagggttcatggcccaggggaagacagggagc
+            agctcaccccctggggggcccccgaagcccgggagccagctggacagcatgctggggagc
+            ctgcagtctgacctgaacaagctgggggtcgccacagtcgccaaaggagtctgcggggcc
+            tgcaagaagcccatcgccgggcaggttgtgaccgccatggggaagacgtggcaccccgag
+            cacttcgtctgcacccactgccaggaggagatcggatcccggaacttcttcgagcgggat
+            ggacagccctactgtgaaaaggactaccacaacctcttctccccgcgctgctactactgc
+            aacggccccatcctggataaagtggtgacagcccttgaccggacgtggcaccctgaacac
+            ttcttctgtgcacagtgtggagccttctttggtcccgaagggttccacgagaaggacggc
+            aaggcctactgtcgcaaggactacttcgacatgttcgcacccaagtgtggcggctgcgcc
+            cgggccatcctggagaactatatctcagccctcaacacgctgtggcatcctgagtgcttt
+            gtgtgccgggaatgcttcacgccattcgtgaacggcagcttcttcgagcacgacgggcag
+            ccctactgtgaggtgcactaccacgagcggcgcggctcgctgtgttctggctgccagaag
+            cccatcaccggccgctgcatcaccgccatggccaagaagttccaccccgagcacttcgtc
+            tgtgccttctgcctcaagcagctcaacaagggcaccttcaaggagcagaacgacaagcct
+            tactgtcagaactgcttcctcaagctcttctgctag
+///

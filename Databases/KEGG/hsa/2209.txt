@@ -1,0 +1,93 @@
+ENTRY       2209              CDS       T01001
+NAME        FCGR1A, CD64, CD64A, FCRI, IGFR1
+DEFINITION  (RefSeq) Fc fragment of IgG receptor Ia
+ORTHOLOGY   K06498  high affinity immunoglobulin gamma Fc receptor I
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04640  Hematopoietic cell lineage
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa05140  Leishmaniasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05322  Systemic lupus erythematosus
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                2209 (FCGR1A)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                2209 (FCGR1A)
+               04666 Fc gamma R-mediated phagocytosis
+                2209 (FCGR1A)
+              Development
+               04380 Osteoclast differentiation
+                2209 (FCGR1A)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                2209 (FCGR1A)
+               05221 Acute myeloid leukemia
+                2209 (FCGR1A)
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                2209 (FCGR1A)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                2209 (FCGR1A)
+               05152 Tuberculosis
+                2209 (FCGR1A)
+               05140 Leishmaniasis
+                2209 (FCGR1A)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Fc receptors
+                2209 (FCGR1A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2209 (FCGR1A)
+POSITION    1q21.2
+MOTIF       Pfam: Ig_2 Ig_3 ig V-set I-set Ig_4 PIRT Adeno_E3_CR1 SID-1_RNA_chan
+DBLINKS     NCBI-GeneID: 2209
+            NCBI-ProteinID: NP_000557
+            OMIM: 146760
+            HGNC: 3613
+            Ensembl: ENSG00000150337
+            Vega: OTTHUMG00000012089
+            Pharos: P12314(Tchem)
+            UniProt: P12314
+STRUCTURE   PDB: 4ZNE 3RJD
+AASEQ       374
+            MWFLTTLLLWVPVDGQVDTTKAVITLQPPWVSVFQEETVTLHCEVLHLPGSSSTQWFLNG
+            TATQTSTPSYRITSASVNDSGEYRCQRGLSGRSDPIQLEIHRGWLLLQVSSRVFTEGEPL
+            ALRCHAWKDKLVYNVLYYRNGKAFKFFHWNSNLTILKTNISHNGTYHCSGMGKHRYTSAG
+            ISVTVKELFPAPVLNASVTSPLLEGNLVTLSCETKLLLQRPGLQLYFSFYMGSKTLRGRN
+            TSSEYQILTARREDSGLYWCEAATEDGNVLKRSPELELQVLGLQLPTPVWFHVLFYLAVG
+            IMFLVNTVLWVTIRKELKRKKKWDLEISLDSGHEKKVISSLQEDRHLEEELKCQEQKEEQ
+            LQEGVHRKEPQGAT
+NTSEQ       1125
+            atgtggttcttgacaactctgctcctttgggttccagttgatgggcaagtggacaccaca
+            aaggcagtgatcactttgcagcctccatgggtcagcgtgttccaagaggaaaccgtaacc
+            ttgcactgtgaggtgctccatctgcctgggagcagctctacacagtggtttctcaatggc
+            acagccactcagacctcgacccccagctacagaatcacctctgccagtgtcaatgacagt
+            ggtgaatacaggtgccagagaggtctctcagggcgaagtgaccccatacagctggaaatc
+            cacagaggctggctactactgcaggtctccagcagagtcttcacggaaggagaacctctg
+            gccttgaggtgtcatgcgtggaaggataagctggtgtacaatgtgctttactatcgaaat
+            ggcaaagcctttaagtttttccactggaattctaacctcaccattctgaaaaccaacata
+            agtcacaatggcacctaccattgctcaggcatgggaaagcatcgctacacatcagcagga
+            atatctgtcactgtgaaagagctatttccagctccagtgctgaatgcatctgtgacatcc
+            ccactcctggaggggaatctggtcaccctgagctgtgaaacaaagttgctcttgcagagg
+            cctggtttgcagctttacttctccttctacatgggcagcaagaccctgcgaggcaggaac
+            acatcctctgaataccaaatactaactgctagaagagaagactctgggttatactggtgc
+            gaggctgccacagaggatggaaatgtccttaagcgcagccctgagttggagcttcaagtg
+            cttggcctccagttaccaactcctgtctggtttcatgtccttttctatctggcagtggga
+            ataatgtttttagtgaacactgttctctgggtgacaatacgtaaagaactgaaaagaaag
+            aaaaagtgggatttagaaatctctttggattctggtcatgagaagaaggtaatttccagc
+            cttcaagaagacagacatttagaagaagagctgaaatgtcaggaacaaaaagaagaacag
+            ctgcaggaaggggtgcaccggaaggagccccagggggccacgtag
+///

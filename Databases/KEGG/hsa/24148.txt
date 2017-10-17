@@ -1,0 +1,98 @@
+ENTRY       24148             CDS       T01001
+NAME        PRPF6, ANT-1, ANT1, C20orf14, Prp6, RP60, SNRNP102, TOM, U5-102K, hPrp6
+DEFINITION  (RefSeq) pre-mRNA processing factor 6
+ORTHOLOGY   K12855  pre-mRNA-processing factor 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                24148 (PRPF6)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U5 snRNP specific factors
+                24148 (PRPF6)
+             Complex C
+               U5 SnRNP specific factors
+                24148 (PRPF6)
+POSITION    20q13.33
+MOTIF       Pfam: PRP1_N TPR_14 TPR_19 TPR_17 TPR_2 Suf TPR_8 TPR_16 TPR_1 ChAPs Mt_ATP-synt_B
+DBLINKS     NCBI-GeneID: 24148
+            NCBI-ProteinID: NP_036601
+            OMIM: 613979
+            HGNC: 15860
+            Ensembl: ENSG00000101161
+            Vega: OTTHUMG00000033018
+            Pharos: O94906(Tbio)
+            UniProt: O94906
+STRUCTURE   PDB: 5O9Z 3JCR
+AASEQ       941
+            MNKKKKPFLGMPAPLGYVPGLGRGATGFTTRSDIGPARDANDPVDDRHAPPGKRTVGDQM
+            KKNQAADDDDEDLNDTNYDEFNGYAGSLFSSGPYEKDDEEADAIYAALDKRMDERRKERR
+            EQREKEEIEKYRMERPKIQQQFSDLKRKLAEVTEEEWLSIPEVGDARNKRQRNPRYEKLT
+            PVPDSFFAKHLQTGENHTSVDPRQTQFGGLNTPYPGGLNTPYPGGMTPGLMTPGTGELDM
+            RKIGQARNTLMDMRLSQVSDSVSGQTVVDPKGYLTDLNSMIPTHGGDINDIKKARLLLKS
+            VRETNPHHPPAWIASARLEEVTGKLQVARNLIMKGTEMCPKSEDVWLEAARLQPGDTAKA
+            VVAQAVRHLPQSVRIYIRAAELETDIRAKKRVLRKALEHVPNSVRLWKAAVELEEPEDAR
+            IMLSRAVECCPTSVELWLALARLETYENARKVLNKARENIPTDRHIWITAAKLEEANGNT
+            QMVEKIIDRAITSLRANGVEINREQWIQDAEECDRAGSVATCQAVMRAVIGIGIEEEDRK
+            HTWMEDADSCVAHNALECARAIYAYALQVFPSKKSVWLRAAYFEKNHGTRESLEALLQRA
+            VAHCPKAEVLWLMGAKSKWLAGDVPAARSILALAFQANPNSEEIWLAAVKLESENDEYER
+            ARRLLAKARSSAPTARVFMKSVKLEWVQDNIRAAQDLCEEALRHYEDFPKLWMMKGQIEE
+            QKEMMEKAREAYNQGLKKCPHSTPLWLLLSRLEEKIGQLTRARAILEKSRLKNPKNPGLW
+            LESVRLEYRAGLKNIANTLMAKALQECPNSGILWSEAIFLEARPQRRTKSVDALKKCEHD
+            PHVLLAVAKLFWSQRKITKAREWFHRTVKIDSDLGDAWAFFYKFELQHGTEEQQEEVRKR
+            CESAEPRHGELWCAVSKDIANWQKKIGDILRLVAGRIKNTF
+NTSEQ       2826
+            atgaacaagaagaagaaaccgttcctagggatgcccgcgcccctcggctacgtgccgggg
+            ctgggccggggcgccactggcttcaccacgcggtcagacattgggcccgcccgtgatgca
+            aatgaccctgtggatgatcgccatgcacccccaggcaagagaaccgttggggaccagatg
+            aagaaaaatcaggctgctgacgatgacgacgaggatctaaatgacaccaattacgatgag
+            tttaatggctatgctgggagcctcttctcaagtggaccctacgagaaagatgatgaggaa
+            gcagatgctatctatgcagccctggataaaaggatggatgaaagaagaaaagaaagacgg
+            gagcaaagggagaaagaagaaatagagaaatatcgtatggaacgccccaaaatccaacag
+            cagttctcagacctcaagaggaagttggcagaagtcacagaagaagagtggctgagcatc
+            cccgaggttggcgatgccagaaataaacgtcagcggaacccacgctatgagaagctgacc
+            cctgttcctgacagtttctttgccaaacatttacagaccggagagaaccatacctcagtg
+            gatccccgacaaactcaatttggaggtcttaacacaccctatccaggtggactaaacact
+            ccatacccaggtggaatgacgccaggactgatgacacctggcacaggtgagctggacatg
+            aggaagattggccaagcgaggaacactctgatggacatgaggctgagccaggtgtctgac
+            tccgtgagtggacagaccgtcgttgaccccaaaggctacctgacggatttaaattccatg
+            atcccgacacacggaggagacatcaatgatatcaagaaggcgcgactgctcctcaagtct
+            gttcgggagacgaaccctcatcacccgccagcctggattgcatcagcccgcctggaagaa
+            gtcactgggaagctacaagtagctcggaaccttatcatgaaggggacggagatgtgcccc
+            aagagtgaagatgtctggctggaagcagccaggttgcagcctggggacacagccaaggcc
+            gtggtagcccaagctgtccgtcatctcccacagtctgtcaggatttacatcagagccgca
+            gagctggaaacggacattcgtgcaaagaagcgggttcttcggaaagccctcgagcatgtt
+            ccaaactcggttcgcttgtggaaagcagccgttgagctggaagaacctgaagatgctaga
+            atcatgctgagccgagctgtggagtgctgccccaccagcgtggagctctggcttgctctg
+            gcaaggctggagacctatgaaaatgcccgcaaggtcttgaacaaggcgcgggagaacatt
+            cctacagaccgacatatctggatcacggctgctaagctggaggaagccaatgggaacacg
+            cagatggtggagaagatcatcgaccgagccatcacctcgctgcgggccaacggtgtggag
+            atcaaccgtgagcagtggatccaggatgccgaggaatgtgacagggctgggagtgtggcc
+            acctgccaggccgtcatgcgtgccgtgattgggattgggattgaggaggaagatcggaag
+            catacctggatggaggatgctgacagttgtgtagcccacaatgccctggagtgtgcacga
+            gccatctacgcctacgccctgcaggtgttccccagcaagaagagtgtgtggctgcgcgcc
+            gcgtacttcgagaagaaccatggcactcgggagtccctggaagcactcctgcagagggct
+            gtggcccactgccccaaagcagaggtgctgtggctcatgggcgccaagtccaagtggctg
+            gcaggggatgtgcctgcagcaaggagcatcctggccctggccttccaggccaaccccaac
+            agtgaggagatctggctggcagccgtgaagctggagtccgagaatgatgagtacgagcgg
+            gcccggaggctgctggccaaggcgcggagcagtgcccccaccgcccgggtgttcatgaag
+            tctgtgaagctggagtgggtgcaagacaacatcagggcagcccaagatctgtgcgaggag
+            gccctgcggcactatgaggacttccccaagctgtggatgatgaaggggcagatcgaggag
+            cagaaggagatgatggagaaggcgcgggaagcctataaccaggggttgaagaagtgtccc
+            cactccacacccctgtggcttttgctctctcggctggaggagaagattgggcagcttact
+            cgagcacgggccattttggaaaagtctcgtctgaagaacccaaagaaccctgggctgtgg
+            ttggagtccgtgcggctggagtaccgtgcggggctgaagaacatcgcaaatacactcatg
+            gccaaggcgctgcaggagtgccccaactccggtatcctgtggtctgaggccatcttcctc
+            gaggcaaggccccagaggaggaccaagagcgtggatgccctgaagaagtgtgagcatgac
+            ccccatgtgctcctggccgtggccaagctgttttggagtcagcggaagatcaccaaggcc
+            agggagtggttccaccgcactgtgaagattgactcggacctgggggatgcctgggccttc
+            ttctacaagtttgagctgcagcatggcactgaggagcagcaggaggaggtgaggaagcgc
+            tgtgagagtgcagagcctcggcatggggagctgtggtgcgccgtgtccaaggacatcgcc
+            aactggcagaagaagatcggggacatccttaggctggtggccggccgcatcaagaacacc
+            ttctga
+///

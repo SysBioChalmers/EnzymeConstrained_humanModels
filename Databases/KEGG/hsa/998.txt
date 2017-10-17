@@ -1,0 +1,167 @@
+ENTRY       998               CDS       T01001
+NAME        CDC42, CDC42Hs, G25K, TKS
+DEFINITION  (RefSeq) cell division cycle 42
+ORTHOLOGY   K04393  cell division control protein 42
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04144  Endocytosis
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04660  T cell receptor signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04670  Leukocyte transendothelial migration
+            hsa04722  Neurotrophin signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04912  GnRH signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+            hsa05211  Renal cell carcinoma
+            hsa05212  Pancreatic cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                998 (CDC42)
+               04015 Rap1 signaling pathway
+                998 (CDC42)
+               04010 MAPK signaling pathway
+                998 (CDC42)
+               04370 VEGF signaling pathway
+                998 (CDC42)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                998 (CDC42)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                998 (CDC42)
+               04520 Adherens junction
+                998 (CDC42)
+               04530 Tight junction
+                998 (CDC42)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                998 (CDC42)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                998 (CDC42)
+               04666 Fc gamma R-mediated phagocytosis
+                998 (CDC42)
+               04670 Leukocyte transendothelial migration
+                998 (CDC42)
+               04062 Chemokine signaling pathway
+                998 (CDC42)
+              Endocrine system
+               04912 GnRH signaling pathway
+                998 (CDC42)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                998 (CDC42)
+              Development
+               04360 Axon guidance
+                998 (CDC42)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                998 (CDC42)
+               05205 Proteoglycans in cancer
+                998 (CDC42)
+               05203 Viral carcinogenesis
+                998 (CDC42)
+               05212 Pancreatic cancer
+                998 (CDC42)
+               05211 Renal cell carcinoma
+                998 (CDC42)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                998 (CDC42)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                998 (CDC42)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                998 (CDC42)
+               05130 Pathogenic Escherichia coli infection
+                998 (CDC42)
+               05132 Salmonella infection
+                998 (CDC42)
+               05131 Shigellosis
+                998 (CDC42)
+               05100 Bacterial invasion of epithelial cells
+                998 (CDC42)
+               05165 Human papillomavirus infection
+                998 (CDC42)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Small GTPases and associated proteins
+               Rho GTPases
+                998 (CDC42)
+             Endocytosis
+              Lipid raft mediated endocytosis
+               GRAF1-dependent endocytosis
+                998 (CDC42)
+              Macropinocytosis
+               Ras GTPases
+                998 (CDC42)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Other centriole associated proteins
+                998 (CDC42)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of microglial cells
+               998 (CDC42)
+              Exosomal proteins of breast milk
+               998 (CDC42)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Rho Family
+               Rac/Cdc42 [OT]
+                998 (CDC42)
+POSITION    1p36.12
+MOTIF       Pfam: Ras Roc Arf PET117 GTP_EFTU
+DBLINKS     NCBI-GeneID: 998
+            NCBI-ProteinID: NP_001034891
+            OMIM: 116952
+            HGNC: 1736
+            Ensembl: ENSG00000070831
+            Vega: OTTHUMG00000002753
+            Pharos: P60953(Tchem)
+            UniProt: P60953 A0A024RAE4
+STRUCTURE   PDB: 4JS0 2NGR 3VHL 1NF3 1GRN 2DFK 2WMO 2WM9 4ITR 3GCG 1KI1
+                 4DID 2WMN 2QRZ 2ODB 1KZ7 4YC7 1A4R 5CJP 1KZG 1DOA 3QBV
+                 1AM4 1AN0 5FI1 5HZK 4YDH 2KB0 2ASE 1GZS 1E0A 1EES 1CF4
+                 1CEE 1AJE
+AASEQ       191
+            MQTIKCVVVGDGAVGKTCLLISYTTNKFPSEYVPTVFDNYAVTVMIGGEPYTLGLFDTAG
+            QEDYDRLRPLSYPQTDVFLVCFSVVSPSSFENVKEKWVPEITHHCPKTPFLLVGTQIDLR
+            DDPSTIEKLAKNKQKPITPETAEKLARDLKAVKYVECSALTQKGLKNVFDEAILAALEPP
+            EPKKSRRCVLL
+NTSEQ       576
+            atgcagacaattaagtgtgttgttgtgggcgatggtgctgttggtaaaacatgtctcctg
+            atatcctacacaacaaacaaatttccatcggaatatgtaccgactgtttttgacaactat
+            gcagtcacagttatgattggtggagaaccatatactcttggactttttgatactgcaggg
+            caagaggattatgacagattacgaccgctgagttatccacaaacagatgtatttctagtc
+            tgtttttcagtggtctctccatcttcatttgaaaacgtgaaagaaaagtgggtgcctgag
+            ataactcaccactgtccaaagactcctttcttgcttgttgggactcaaattgatctcaga
+            gatgacccctctactattgagaaacttgccaagaacaaacagaagcctatcactccagag
+            actgctgaaaagctggcccgtgacctgaaggctgtcaagtatgtggagtgttctgcactt
+            acacagaaaggcctaaagaatgtatttgacgaagcaatattggctgccctggagcctcca
+            gaaccgaagaagagccgcaggtgtgtgctgctatga
+///

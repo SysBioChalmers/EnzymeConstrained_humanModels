@@ -1,0 +1,73 @@
+ENTRY       1460              CDS       T01001
+NAME        CSNK2B, CK2B, CK2N, CSK2B, Ckb1, Ckb2, G5A
+DEFINITION  (RefSeq) casein kinase 2 beta
+ORTHOLOGY   K03115  casein kinase II subunit beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa04064  NF-kappa B signaling pathway
+            hsa04137  Mitophagy - animal
+            hsa04310  Wnt signaling pathway
+            hsa04520  Adherens junction
+            hsa05162  Measles
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03008 Ribosome biogenesis in eukaryotes
+                1460 (CSNK2B)
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                1460 (CSNK2B)
+               04064 NF-kappa B signaling pathway
+                1460 (CSNK2B)
+             Cellular Processes
+              Transport and catabolism
+               04137 Mitophagy - animal
+                1460 (CSNK2B)
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                1460 (CSNK2B)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                1460 (CSNK2B)
+               05168 Herpes simplex infection
+                1460 (CSNK2B)
+               05169 Epstein-Barr virus infection
+                1460 (CSNK2B)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              90S particles
+               Kinase
+                1460 (CSNK2B)
+POSITION    6p21.33
+MOTIF       Pfam: CK_II_beta CCDC24
+DBLINKS     NCBI-GeneID: 1460
+            NCBI-ProteinID: NP_001311
+            OMIM: 115441
+            HGNC: 2460
+            Ensembl: ENSG00000204435
+            Vega: OTTHUMG00000177888
+            Pharos: P67870(Tbio)
+            UniProt: P67870 N0E4C7
+STRUCTURE   PDB: 1QF8 3EED 4DGL 4MD7 1JWH 4NH1 4MD8 4MD9
+AASEQ       215
+            MSSSEEVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNEQVPHYRQALDMILDLEPDE
+            ELEDNPNQSDLIEQAAEMLYGLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCENQPML
+            PIGLSDIPGEAMVKLYCPKCMDVYTPKSSRHHHTDGAYFGTGFPHMLFMVHPEYRPKRPA
+            NQFVPRLYGFKIHPMAYQLQLQAASNFKSPVKTIR
+NTSEQ       648
+            atgagcagctcagaggaggtgtcctggatttcctggttctgtgggctccgtggcaatgaa
+            ttcttctgtgaagtggatgaagactacatccaggacaaatttaatcttactggactcaat
+            gagcaggtccctcactatcgacaagctctagacatgatcttggacctggagcctgatgaa
+            gaactggaagacaaccccaaccagagtgacctgattgagcaggcagccgagatgctttat
+            ggattgatccacgcccgctacatccttaccaaccgtggcatcgcccagatgttggaaaag
+            taccagcaaggagactttggttactgtcctcgtgtgtactgtgagaaccagccaatgctt
+            cccattggcctttcagacatcccaggtgaagccatggtgaagctctactgccccaagtgc
+            atggatgtgtacacacccaagtcatcaagacaccatcacacggatggcgcctacttcggc
+            actggtttccctcacatgctcttcatggtgcatcccgagtaccggcccaagagacctgcc
+            aaccagtttgtgcccaggctctacggtttcaagatccatccgatggcctaccagctgcag
+            ctccaagccgccagcaacttcaagagcccagtcaagacgattcgctga
+///

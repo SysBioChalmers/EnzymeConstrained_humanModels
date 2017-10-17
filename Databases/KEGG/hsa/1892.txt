@@ -1,0 +1,87 @@
+ENTRY       1892              CDS       T01001
+NAME        ECHS1, ECHS1D, SCEH
+DEFINITION  (RefSeq) enoyl-CoA hydratase, short chain 1
+ORTHOLOGY   K07511  enoyl-CoA hydratase [EC:4.2.1.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                1892 (ECHS1)
+               01212 Fatty acid metabolism
+                1892 (ECHS1)
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                1892 (ECHS1)
+               00650 Butanoate metabolism
+                1892 (ECHS1)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                1892 (ECHS1)
+               00071 Fatty acid degradation
+                1892 (ECHS1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                1892 (ECHS1)
+               00310 Lysine degradation
+                1892 (ECHS1)
+               00380 Tryptophan metabolism
+                1892 (ECHS1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                1892 (ECHS1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 1892 (ECHS1)
+POSITION    10q26.3
+MOTIF       Pfam: ECH_1 ECH_2 Peptidase_S49
+DBLINKS     NCBI-GeneID: 1892
+            NCBI-ProteinID: NP_004083
+            OMIM: 602292
+            HGNC: 3151
+            Ensembl: ENSG00000127884
+            Vega: OTTHUMG00000019320
+            Pharos: P30084(Tbio)
+            UniProt: P30084
+STRUCTURE   PDB: 2HW5
+AASEQ       290
+            MAALRVLLSCVRGPLRPPVRCPAWRPFASGANFEYIIAEKRGKNNTVGLIQLNRPKALNA
+            LCDGLIDELNQALKTFEEDPAVGAIVLTGGDKAFAAGADIKEMQNLSFQDCYSSKFLKHW
+            DHLTQVKKPVIAAVNGYAFGGGCELAMMCDIIYAGEKAQFAQPEILIGTIPGAGGTQRLT
+            RAVGKSLAMEMVLTGDRISAQDAKQAGLVSKICPVETLVEEAIQCAEKIASNSKIVVAMA
+            KESVNAAFEMTLTEGSKLEKKLFYSTFATDDRKEGMTAFVEKRKANFKDQ
+NTSEQ       873
+            atggccgccctgcgtgtcctgctgtcctgcgtccgcggcccgctgaggcccccggttcgc
+            tgtcccgcctggcgtcccttcgcctcgggtgctaactttgagtacatcatcgcagaaaaa
+            agagggaagaataacaccgtggggttgatccaactgaaccgccccaaggccctcaatgca
+            ctttgcgatggcctgattgacgagctcaaccaggccctgaagaccttcgaggaggacccg
+            gccgtgggggccattgtcctcaccggcggggataaggcctttgcagctggagctgatatc
+            aaggaaatgcagaacctgagtttccaggactgttactccagcaagttcttgaagcactgg
+            gaccacctcacccaggtcaagaagccagtcatcgctgctgtcaatggctatgcctttggc
+            gggggctgtgagcttgccatgatgtgtgatatcatctatgccggtgagaaggcccagttt
+            gcacagccggagatcttaataggaaccatcccaggtgcgggcggcacccagagactcacc
+            cgtgctgttgggaagtcgctggcgatggagatggtcctcactggtgaccggatctcagcc
+            caggacgccaagcaagcaggtcttgtcagcaagatttgtcctgttgagacactggtggaa
+            gaagccatccagtgtgcagaaaaaattgccagcaattctaaaattgtagtagcgatggcc
+            aaagaatcagtgaatgcagcttttgaaatgacattaacagaaggaagtaagttggagaag
+            aaactcttttattcaacctttgccactgatgaccggaaagaagggatgaccgcgtttgtg
+            gaaaagagaaaggccaacttcaaagaccagtga
+///

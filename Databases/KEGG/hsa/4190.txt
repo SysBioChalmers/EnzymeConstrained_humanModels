@@ -1,0 +1,75 @@
+ENTRY       4190              CDS       T01001
+NAME        MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2
+DEFINITION  (RefSeq) malate dehydrogenase 1
+ORTHOLOGY   K00025  malate dehydrogenase [EC:1.1.1.37]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00270  Cysteine and methionine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa04964  Proximal tubule bicarbonate reclamation
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                4190 (MDH1)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                4190 (MDH1)
+               00620 Pyruvate metabolism
+                4190 (MDH1)
+               00630 Glyoxylate and dicarboxylate metabolism
+                4190 (MDH1)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                4190 (MDH1)
+             Organismal Systems
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                4190 (MDH1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.37  malate dehydrogenase
+                 4190 (MDH1)
+POSITION    2p15
+MOTIF       Pfam: Ldh_1_C Ldh_1_N DUF4809 Glyco_hydro_3_C
+DBLINKS     NCBI-GeneID: 4190
+            NCBI-ProteinID: NP_005908
+            OMIM: 154200
+            HGNC: 6970
+            Ensembl: ENSG00000014641
+            Vega: OTTHUMG00000129512
+            Pharos: P40925(Tbio)
+            UniProt: P40925 V9HWF2
+AASEQ       334
+            MSEPIRVLVTGAAGQIAYSLLYSIGNGSVFGKDQPIILVLLDITPMMGVLDGVLMELQDC
+            ALPLLKDVIATDKEDVAFKDLDVAILVGSMPRREGMERKDLLKANVKIFKSQGAALDKYA
+            KKSVKVIVVGNPANTNCLTASKSAPSIPKENFSCLTRLDHNRAKAQIALKLGVTANDVKN
+            VIIWGNHSSTQYPDVNHAKVKLQGKEVGVYEALKDDSWLKGEFVTTVQQRGAAVIKARKL
+            SSAMSAAKAICDHVRDIWFGTPEGEFVSMGVISDGNSYGVPDDLLYSFPVVIKNKTWKFV
+            EGLPINDFSREKMDLTAKELTEEKESAFEFLSSA
+NTSEQ       1005
+            atgtctgaaccaatcagagtccttgtgactggagcagctggtcaaattgcatattcactg
+            ctgtacagtattggaaatggatctgtctttggtaaagatcagcctataattcttgtgctg
+            ttggatatcacccccatgatgggtgtcctggacggtgtcctaatggaactgcaagactgt
+            gcccttcccctcctgaaagatgtcatcgcaacagataaagaagacgttgccttcaaagac
+            ctggatgtggccattcttgtgggctccatgccaagaagggaaggcatggagagaaaagat
+            ttactgaaagcaaatgtgaaaatcttcaaatcccagggtgcagccttagataaatacgcc
+            aagaagtcagttaaggttattgttgtgggtaatccagccaataccaactgcctgactgct
+            tccaagtcagctccatccatccccaaggagaacttcagttgcttgactcgtttggatcac
+            aaccgagctaaagctcaaattgctcttaaacttggtgtgactgctaatgatgtaaagaat
+            gtcattatctggggaaaccattcctcgactcagtatccagatgtcaaccatgccaaggtg
+            aaattgcaaggaaaggaagttggtgtttatgaagctctgaaagatgacagctggctcaag
+            ggagaatttgtcacgactgtgcagcagcgtggcgctgctgtcatcaaggctcgaaaacta
+            tccagtgccatgtctgctgcaaaagccatctgtgaccacgtcagggacatctggtttgga
+            accccagagggagagtttgtgtccatgggtgttatctctgatggcaactcctatggtgtt
+            cctgatgatctgctctactcattccctgttgtaatcaagaataagacctggaagtttgtt
+            gaaggtctccctattaatgatttctcacgtgagaagatggatcttactgcaaaggaactg
+            acagaagaaaaagaaagtgcttttgaatttctttcctctgcctga
+///

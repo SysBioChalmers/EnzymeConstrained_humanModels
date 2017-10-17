@@ -1,0 +1,96 @@
+ENTRY       4137              CDS       T01001
+NAME        MAPT, DDPAC, FTDP-17, MAPTL, MSTD, MTBT1, MTBT2, PPND, PPP1R103, TAU
+DEFINITION  (RefSeq) microtubule associated protein tau
+ORTHOLOGY   K04380  microtubule-associated protein tau
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa05010  Alzheimer's disease
+DISEASE     H00058  Amyotrophic lateral sclerosis (ALS)
+            H00077  Progressive supranuclear palsy (PSP)
+            H00078  Frontotemporal lobar degeneration (FTLD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                4137 (MAPT)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4137 (MAPT)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 4137 (MAPT)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulin-binding proteins
+                Microtubule-associated proteins (MAPs)
+                 4137 (MAPT)
+POSITION    17q21.31
+MOTIF       Pfam: Tubulin-binding
+DBLINKS     NCBI-GeneID: 4137
+            NCBI-ProteinID: NP_058519
+            OMIM: 157140
+            HGNC: 6893
+            Ensembl: ENSG00000186868
+            Vega: OTTHUMG00000168833
+            Pharos: P10636(Tchem)
+            UniProt: P10636 A0A024R9Y1
+STRUCTURE   PDB: 5O3L 5O3T 5O3O 2MZ7
+AASEQ       758
+            MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPG
+            SETSDAKSTPTAEDVTAPLVDEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAG
+            HVTQEPESGKVVQEGFLREPGPPGLSHQLMSGMPGAPLLPEGPREATRQPSGTGPEDTEG
+            GRHAPELLKHQLLGDLHQEGPPLKGAGGKERPGSKEEVDEDRDVDESSPQDSPPSKASPA
+            QDGRPPQTAAREATSIPGFPAEGAIPLPVDFLSKVSTEIPASEPDGPSVGRAKGQDAPLE
+            FTFHVEITPNVQKEQAHSEEHLGRAAFPGAPGEGPEARGPSLGEDTKEADLPEPSEKQPA
+            AAPRGKPVSRVPQLKARMVSKSKDGTGSDDKKAKTSTRSSAKTLKNRPCLSPKHPTPGSS
+            DPLIQPSSPAVCPEPPSSPKYVSSVTSRTGSSGAKEMKLKGADGKTKIATPRGAAPPGQK
+            GQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREP
+            KKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLD
+            LSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEK
+            LDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVSGDT
+            SPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL
+NTSEQ       2277
+            atggctgagccccgccaggagttcgaagtgatggaagatcacgctgggacgtacgggttg
+            ggggacaggaaagatcaggggggctacaccatgcaccaagaccaagagggtgacacggac
+            gctggcctgaaagaatctcccctgcagacccccactgaggacggatctgaggaaccgggc
+            tctgaaacctctgatgctaagagcactccaacagcggaagatgtgacagcacccttagtg
+            gatgagggagctcccggcaagcaggctgccgcgcagccccacacggagatcccagaagga
+            accacagctgaagaagcaggcattggagacacccccagcctggaagacgaagctgctggt
+            cacgtgacccaagagcctgaaagtggtaaggtggtccaggaaggcttcctccgagagcca
+            ggccccccaggtctgagccaccagctcatgtccggcatgcctggggctcccctcctgcct
+            gagggccccagagaggccacacgccaaccttcggggacaggacctgaggacacagagggc
+            ggccgccacgcccctgagctgctcaagcaccagcttctaggagacctgcaccaggagggg
+            ccgccgctgaagggggcagggggcaaagagaggccggggagcaaggaggaggtggatgaa
+            gaccgcgacgtcgatgagtcctccccccaagactcccctccctccaaggcctccccagcc
+            caagatgggcggcctccccagacagccgccagagaagccaccagcatcccaggcttccca
+            gcggagggtgccatccccctccctgtggatttcctctccaaagtttccacagagatccca
+            gcctcagagcccgacgggcccagtgtagggcgggccaaagggcaggatgcccccctggag
+            ttcacgtttcacgtggaaatcacacccaacgtgcagaaggagcaggcgcactcggaggag
+            catttgggaagggctgcatttccaggggcccctggagaggggccagaggcccggggcccc
+            tctttgggagaggacacaaaagaggctgaccttccagagccctctgaaaagcagcctgct
+            gctgctccgcgggggaagcccgtcagccgggtccctcaactcaaagctcgcatggtcagt
+            aaaagcaaagacgggactggaagcgatgacaaaaaagccaagacatccacacgttcctct
+            gctaaaaccttgaaaaataggccttgccttagccccaaacaccccactcctggtagctca
+            gaccctctgatccaaccctccagccctgctgtgtgcccagagccaccttcctctcctaaa
+            tacgtctcttctgtcacttcccgaactggcagttctggagcaaaggagatgaaactcaag
+            ggggctgatggtaaaacgaagatcgccacaccgcggggagcagcccctccaggccagaag
+            ggccaggccaacgccaccaggattccagcaaaaaccccgcccgctccaaagacaccaccc
+            agctctggtgaacctccaaaatcaggggatcgcagcggctacagcagccccggctcccca
+            ggcactcccggcagccgctcccgcaccccgtcccttccaaccccacccacccgggagccc
+            aagaaggtggcagtggtccgtactccacccaagtcgccgtcttccgccaagagccgcctg
+            cagacagcccccgtgcccatgccagacctgaagaatgtcaagtccaagatcggctccact
+            gagaacctgaagcaccagccgggaggcgggaaggtgcagataattaataagaagctggat
+            cttagcaacgtccagtccaagtgtggctcaaaggataatatcaaacacgtcccgggaggc
+            ggcagtgtgcaaatagtctacaaaccagttgacctgagcaaggtgacctccaagtgtggc
+            tcattaggcaacatccatcataaaccaggaggtggccaggtggaagtaaaatctgagaag
+            cttgacttcaaggacagagtccagtcgaagattgggtccctggacaatatcacccacgtc
+            cctggcggaggaaataaaaagattgaaacccacaagctgaccttccgcgagaacgccaaa
+            gccaagacagaccacggggcggagatcgtgtacaagtcgccagtggtgtctggggacacg
+            tctccacggcatctcagcaatgtctcctccaccggcagcatcgacatggtagactcgccc
+            cagctcgccacgctagctgacgaggtgtctgcctccctggccaagcagggtttgtga
+///

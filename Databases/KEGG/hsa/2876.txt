@@ -1,0 +1,64 @@
+ENTRY       2876              CDS       T01001
+NAME        GPX1, GPXD, GSHPX1
+DEFINITION  (RefSeq) glutathione peroxidase 1
+ORTHOLOGY   K00432  glutathione peroxidase [EC:1.11.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa04918  Thyroid hormone synthesis
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05016  Huntington's disease
+DISEASE     H00668  Anemia due to disorders of glutathione metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00590 Arachidonic acid metabolism
+                2876 (GPX1)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2876 (GPX1)
+             Organismal Systems
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                2876 (GPX1)
+             Human Diseases
+              Neurodegenerative diseases
+               05014 Amyotrophic lateral sclerosis (ALS)
+                2876 (GPX1)
+               05016 Huntington's disease
+                2876 (GPX1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.9  glutathione peroxidase
+                 2876 (GPX1)
+POSITION    3p21.31
+MOTIF       Pfam: GSHPx Redoxin AhpC-TSA
+DBLINKS     NCBI-GeneID: 2876
+            NCBI-ProteinID: NP_000572
+            OMIM: 138320
+            HGNC: 4553
+            Ensembl: ENSG00000233276
+            Vega: OTTHUMG00000156837
+            Pharos: P07203(Tbio)
+            UniProt: P07203 Q7L4Q3
+STRUCTURE   PDB: 2F8A
+AASEQ       203
+            MCAARLAAAAAAAQSVYAFSARPLAGGEPVSLGSLRGKVLLIENVASLUGTTVRDYTQMN
+            ELQRRLGPRGLVVLGFPCNQFGHQENAKNEEILNSLKYVRPGGGFEPNFMLFEKCEVNGA
+            GAHPLFAFLREALPAPSDDATALMTDPKLITWSPVCRNDVAWNFEKFLVGPDGVPLRRYS
+            RRFQTIDIEPDIEALLSQGPSCA
+NTSEQ       612
+            atgtgtgctgctcggctagcggcggcggcggcggcggcccagtcggtgtatgccttctcg
+            gcgcgcccgctggccggcggggagcctgtgagcctgggctccctgcggggcaaggtacta
+            cttatcgagaatgtggcgtccctctgaggcaccacggtccgggactacacccagatgaac
+            gagctgcagcggcgcctcggaccccggggcctggtggtgctcggcttcccgtgcaaccag
+            tttgggcatcaggagaacgccaagaacgaagagattctgaattccctcaagtacgtccgg
+            cctggtggtgggttcgagcccaacttcatgctcttcgagaagtgcgaggtgaacggtgcg
+            ggggcgcaccctctcttcgccttcctgcgggaggccctgccagctcccagcgacgacgcc
+            accgcgcttatgaccgaccccaagctcatcacctggtctccggtgtgtcgcaacgatgtt
+            gcctggaactttgagaagttcctggtgggccctgacggtgtgcccctacgcaggtacagc
+            cgccgcttccagaccattgacatcgagcctgacatcgaagccctgctgtctcaagggccc
+            agctgtgcctag
+///

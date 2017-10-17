@@ -1,0 +1,61 @@
+ENTRY       6718              CDS       T01001
+NAME        AKR1D1, 3o5bred, CBAS2, SRD5B1
+DEFINITION  (RefSeq) aldo-keto reductase family 1 member D1
+ORTHOLOGY   K00251  3-oxo-5-beta-steroid 4-dehydrogenase [EC:1.3.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+DISEASE     H00628  Congenital bile acid synthesis defect (CBAS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                6718 (AKR1D1)
+               00140 Steroid hormone biosynthesis
+                6718 (AKR1D1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.3  Delta4-3-oxosteroid 5beta-reductase
+                 6718 (AKR1D1)
+POSITION    7q33
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 6718
+            NCBI-ProteinID: NP_005980
+            OMIM: 604741
+            HGNC: 388
+            Ensembl: ENSG00000122787
+            Vega: OTTHUMG00000155787
+            Pharos: P51857(Tbio)
+            UniProt: P51857
+STRUCTURE   PDB: 3BUV 3BUR 3UZX 3G1R 3BV7 3UZZ 3UZY 3UZW 3CMF 3CAV 3DOP
+                 3CAS 3COT 3CAQ
+AASEQ       326
+            MDLSAASHRIPLSDGNSIPIIGLGTYSEPKSTPKGACATSVKVAIDTGYRHIDGAYIYQN
+            EHEVGEAIREKIAEGKVRREDIFYCGKLWATNHVPEMVRPTLERTLRVLQLDYVDLYIIE
+            VPMAFKPGDEIYPRDENGKWLYHKSNLCATWEAMEACKDAGLVKSLGVSNFNRRQLELIL
+            NKPGLKHKPVSNQVECHPYFTQPKLLKFCQQHDIVITAYSPLGTSRNPIWVNVSSPPLLK
+            DALLNSLGKRYNKTAAQIVLRFNIQRGVVVIPKSFNLERIKENFQIFDFSLTEEEMKDIE
+            ALNKNVRFVELLMWRDHPEYPFHDEY
+NTSEQ       981
+            atggatctcagtgctgcaagtcaccgcatacctctaagtgatggaaacagcattcccatc
+            atcggacttggtacctactcagaacctaaatcgacccctaagggagcctgtgcaacatcg
+            gtgaaggttgctattgacacagggtaccgacatattgatggggcctacatctaccaaaat
+            gaacacgaagttggggaggccatcagggagaagatagcagaaggaaaggtgcggagggaa
+            gatatcttctactgtggaaagctatgggctacaaatcatgtcccagagatggtccgccca
+            accctggagaggacactcagggtcctccagctagattatgtggatctttacatcattgaa
+            gtacccatggcctttaagccaggagatgaaatataccctagagatgagaatggcaaatgg
+            ttatatcacaagtcaaatctgtgtgccacttgggaggcgatggaagcttgcaaagacgct
+            ggcttggtgaaatccctgggagtgtccaattttaaccgcaggcagctggagctcatcctg
+            aacaagccaggactcaaacacaagccagtcagcaaccaggttgagtgccatccgtatttc
+            acccagccaaaactcttgaaattttgccaacaacatgacattgtcattactgcatatagc
+            cctttggggaccagtaggaatccaatctgggtgaatgtttcttctccacctttgttaaag
+            gatgcacttctaaactcattggggaaaaggtacaataagacagcagctcaaattgttttg
+            cgtttcaacatccagcgaggggtggttgtcattcctaaaagctttaatcttgaaaggatc
+            aaagaaaattttcagatctttgacttttctctcactgaagaagaaatgaaggacattgaa
+            gccttgaataaaaatgtccgctttgtagaattgctcatgtggcgcgatcatcctgaatac
+            ccatttcatgatgaatactga
+///

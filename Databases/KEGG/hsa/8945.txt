@@ -1,0 +1,109 @@
+ENTRY       8945              CDS       T01001
+NAME        BTRC, BETA-TRCP, FBW1A, FBXW1, FBXW1A, FWD1, bTrCP, bTrCP1, betaTrCP
+DEFINITION  (RefSeq) beta-transducin repeat containing E3 ubiquitin protein ligase
+ORTHOLOGY   K03362  F-box and WD-40 domain protein 1/11
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04710  Circadian rhythm
+            hsa05131  Shigellosis
+MODULE      hsa_M00380  SCF-BTRC complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                8945 (BTRC)
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                8945 (BTRC)
+               04340 Hedgehog signaling pathway
+                8945 (BTRC)
+               04390 Hippo signaling pathway
+                8945 (BTRC)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                8945 (BTRC)
+               04218 Cellular senescence
+                8945 (BTRC)
+             Organismal Systems
+              Environmental adaptation
+               04710 Circadian rhythm
+                8945 (BTRC)
+             Human Diseases
+              Infectious diseases
+               05131 Shigellosis
+                8945 (BTRC)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Target recognizing subunit (F-box)
+                 8945 (BTRC)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Regulators of centriole replication
+                 8945 (BTRC)
+POSITION    10q24.32
+MOTIF       Pfam: WD40 Beta-TrCP_D F-box-like ANAPC4_WD40 F-box WD40_like Nup160 DUF4508
+DBLINKS     NCBI-GeneID: 8945
+            NCBI-ProteinID: NP_378663
+            OMIM: 603482
+            HGNC: 1144
+            Ensembl: ENSG00000166167
+            Vega: OTTHUMG00000018932
+            Pharos: Q9Y297(Tbio)
+            UniProt: Q9Y297 Q68DS0 B2R8L3 A0A0S2Z4P6
+STRUCTURE   PDB: 2P64 1P22
+AASEQ       605
+            MDPAEAVLQEKALKFMCSMPRSLWLGCSSLADSMPSLRCLYNPGTGALTAFQNSSEREDC
+            NNGEPPRKIIPEKNSLRQTYNSCARLCLNQETVCLASTAMKTENCVAKTKLANGTSSMIV
+            PKQRKLSASYEKEKELCVKYFEQWSESDQVEFVEHLISQMCHYQHGHINSYLKPMLQRDF
+            ITALPARGLDHIAENILSYLDAKSLCAAELVCKEWYRVTSDGMLWKKLIERMVRTDSLWR
+            GLAERRGWGQYLFKNKPPDGNAPPNSFYRALYPKIIQDIETIESNWRCGRHSLQRIHCRS
+            ETSKGVYCLQYDDQKIVSGLRDNTIKIWDKNTLECKRILTGHTGSVLCLQYDERVIITGS
+            SDSTVRVWDVNTGEMLNTLIHHCEAVLHLRFNNGMMVTCSKDRSIAVWDMASPTDITLRR
+            VLVGHRAAVNVVDFDDKYIVSASGDRTIKVWNTSTCEFVRTLNGHKRGIACLQYRDRLVV
+            SGSSDNTIRLWDIECGACLRVLEGHEELVRCIRFDNKRIVSGAYDGKIKVWDLVAALDPR
+            APAGTLCLRTLVEHSGRVFRLQFDEFQIVSSSHDDTILIWDFLNDPAAQAEPPRSPSRTY
+            TYISR
+NTSEQ       1818
+            atggacccggccgaggcggtgctgcaagagaaggcactcaagtttatgtgctctatgccc
+            aggtctctgtggctgggctgctccagcctggcggacagcatgccttcgctgcgatgcctg
+            tataacccagggactggcgcactcacagctttccagaattcctcagagagagaagactgt
+            aataatggcgaaccccctaggaagataataccagagaagaattcacttagacagacatac
+            aacagctgtgccagactctgcttaaaccaagaaacagtatgtttagcaagcactgctatg
+            aagactgagaattgtgtggccaaaacaaaacttgccaatggcacttccagtatgattgtg
+            cccaagcaacggaaactctcagcaagctatgaaaaggaaaaggaactgtgtgtcaaatac
+            tttgagcagtggtcagagtcagatcaagtggaatttgtggaacatcttatatcccaaatg
+            tgtcattaccaacatgggcacataaactcgtatcttaaacctatgttgcagagagatttc
+            ataactgctctgccagctcggggattggatcatattgctgagaacattctgtcatacctg
+            gatgccaaatcactatgtgctgctgaacttgtgtgcaaggaatggtaccgagtgacctct
+            gatggcatgctgtggaagaagcttatcgagagaatggtcaggacagattctctgtggaga
+            ggcctggcagaacgaagaggatggggacagtatttattcaaaaacaaacctcctgacggg
+            aatgctcctcccaactctttttatagagcactttatcctaaaattatacaagacattgag
+            acaatagaatctaattggagatgtggaagacatagtttacagagaattcactgccgaagt
+            gaaacaagcaaaggagtttactgtttacagtatgatgatcagaaaatagtaagcggcctt
+            cgagacaacacaatcaagatctgggataaaaacacattggaatgcaagcgaattctcaca
+            ggccatacaggttcagtcctctgtctccagtatgatgagagagtgatcataacaggatca
+            tcggattccacggtcagagtgtgggatgtaaatacaggtgaaatgctaaacacgttgatt
+            caccattgtgaagcagttctgcacttgcgtttcaataatggcatgatggtgacctgctcc
+            aaagatcgttccattgctgtatgggatatggcctccccaactgacattaccctccggagg
+            gtgctggtcggacaccgagctgctgtcaatgttgtagactttgatgacaagtacattgtt
+            tctgcatctggggatagaactataaaggtatggaacacaagtacttgtgaatttgtaagg
+            accttaaatggacacaaacgaggcattgcctgtttgcagtacagggacaggctggtagtg
+            agtggctcatctgacaacactatcagattatgggacatagaatgtggtgcatgtttacga
+            gtgttagaaggccatgaggaattggtgcgttgtattcgatttgataacaagaggatagtc
+            agtggggcctatgatggaaaaattaaagtgtgggatcttgtggctgctttggacccccgt
+            gctcctgcagggacactctgtctacggacccttgtggagcattccggaagagtttttcga
+            ctacagtttgatgaattccagattgtcagtagttcacatgatgacacaatcctcatctgg
+            gacttcctaaatgatccagctgcccaagctgaacccccccgttccccttctcgaacatac
+            acctacatctccagataa
+///

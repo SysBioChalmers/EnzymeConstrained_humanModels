@@ -1,0 +1,79 @@
+ENTRY       4055              CDS       T01001
+NAME        LTBR, CD18, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3
+DEFINITION  (RefSeq) lymphotoxin beta receptor
+ORTHOLOGY   K03159  lymphotoxin beta receptor TNFR superfamily member 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05166  HTLV-I infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                4055 (LTBR)
+               04066 HIF-1 signaling pathway
+                4055 (LTBR)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                4055 (LTBR)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                4055 (LTBR)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                4055 (LTBR)
+              Infectious diseases
+               05166 HTLV-I infection
+                4055 (LTBR)
+            Cytokine receptors [BR:hsa04050]
+             TNF receptor family
+              4055 (LTBR)
+POSITION    12p13.31
+MOTIF       Pfam: TNFR_c6 TMEM252
+DBLINKS     NCBI-GeneID: 4055
+            NCBI-ProteinID: NP_002333
+            OMIM: 600979
+            HGNC: 6718
+            Ensembl: ENSG00000111321
+            Vega: OTTHUMG00000168356
+            Pharos: P36941(Tbio)
+            UniProt: P36941
+STRUCTURE   PDB: 4MXW
+AASEQ       435
+            MLLPWATSAPGLAWGPLVLGLFGLLAASQPQAVPPYASENQTCRDQEKEYYEPQHRICCS
+            RCPPGTYVSAKCSRIRDTVCATCAENSYNEHWNYLTICQLCRPCDPVMGLEEIAPCTSKR
+            KTQCRCQPGMFCAAWALECTHCELLSDCPPGTEAELKDEVGKGNNHCVPCKAGHFQNTSS
+            PSARCQPHTRCENQGLVEAAPGTAQSDTTCKNPLEPLPPEMSGTMLMLAVLLPLAFFLLL
+            ATVFSCIWKSHPSLCRKLGSLLKRRPQGEGPNPVAGSWEPPKAHPYFPDLVQPLLPISGD
+            VSPVSTGLPAAPVLEAGVPQQQSPLDLTREPQLEPGEQSQVAHGTNGIHVTGGSMTITGN
+            IYIYNGPVLGGPPGPGDLPATPEPPYPIPEEGDPGPPGLSTPHQEDGKAWHLAETEHCGA
+            TPSNRGPRNQFITHD
+NTSEQ       1308
+            atgctcctgccttgggccacctctgcccccggcctggcctgggggcctctggtgctgggc
+            ctcttcgggctcctggcagcatcgcagccccaggcggtgcctccatatgcgtcggagaac
+            cagacctgcagggaccaggaaaaggaatactatgagccccagcaccgcatctgctgctcc
+            cgctgcccgccaggcacctatgtctcagctaaatgtagccgcatccgggacacagtttgt
+            gccacatgtgccgagaattcctacaacgagcactggaactacctgaccatctgccagctg
+            tgccgcccctgtgacccagtgatgggcctcgaggagattgccccctgcacaagcaaacgg
+            aagacccagtgccgctgccagccgggaatgttctgtgctgcctgggccctcgagtgtaca
+            cactgcgagctactttctgactgcccgcctggcactgaagccgagctcaaagatgaagtt
+            gggaagggtaacaaccactgcgtcccctgcaaggccgggcacttccagaatacctcctcc
+            cccagcgcccgctgccagccccacaccaggtgtgagaaccaaggtctggtggaggcagct
+            ccaggcactgcccagtccgacacaacctgcaaaaatccattagagccactgcccccagag
+            atgtcaggaaccatgctgatgctggccgttctgctgccactggccttctttctgctcctt
+            gccaccgtcttctcctgcatctggaagagccacccttctctctgcaggaaactgggatcg
+            ctgctcaagaggcgtccgcagggagagggacccaatcctgtagctggaagctgggagcct
+            ccgaaggcccatccatacttccctgacttggtacagccactgctacccatttctggagat
+            gtttccccagtatccactgggctccccgcagccccagttttggaggcaggggtgccgcaa
+            cagcagagtcctctggacctgaccagggagccgcagttggaacccggggagcagagccag
+            gtggcccacggtaccaatggcattcatgtcaccggcgggtctatgactatcactggcaac
+            atctacatctacaatggaccagtactggggggaccaccgggtcctggagacctcccagct
+            acccccgaacctccataccccattcccgaagagggggaccctggccctcccgggctctct
+            acaccccaccaggaagatggcaaggcttggcacctagcggagacagagcactgtggtgcc
+            acaccctctaacaggggcccaaggaaccaatttatcacccatgactga
+///

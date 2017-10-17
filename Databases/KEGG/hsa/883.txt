@@ -1,0 +1,82 @@
+ENTRY       883               CDS       T01001
+NAME        KYAT1, CCBL1, GTK, KAT1, KATI
+DEFINITION  (RefSeq) kynurenine aminotransferase 1
+ORTHOLOGY   K00816  kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00450  Selenocompound metabolism
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                883 (KYAT1)
+              Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                883 (KYAT1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                883 (KYAT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.7  kynurenine---oxoglutarate transaminase
+                 883 (KYAT1)
+                2.6.1.64  glutamine---phenylpyruvate transaminase
+                 883 (KYAT1)
+             4. Lyases
+              4.4  Carbon-sulfur lyases
+               4.4.1  Carbon-sulfur lyases (only sub-subclass identified to date)
+                4.4.1.13  cysteine-S-conjugate beta-lyase
+                 883 (KYAT1)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               883 (KYAT1)
+POSITION    9q34.11
+MOTIF       Pfam: Aminotran_1_2 Cys_Met_Meta_PP DegT_DnrJ_EryC1 Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 883
+            NCBI-ProteinID: NP_001116143
+            OMIM: 600547
+            HGNC: 1564
+            Ensembl: ENSG00000171097
+            Vega: OTTHUMG00000020767
+            Pharos: Q16773(Tbio)
+            UniProt: Q16773 A8K563
+STRUCTURE   PDB: 4WLH 3FVS 3FVX 4WLJ 3FVU 4WP0 1W7L 1W7M 1W7N
+AASEQ       422
+            MAKQLQARRLDGIDYNPWVEFVKLASEHDVVNLGQGFPDFPPPDFAVEAFQHAVSGDFML
+            NQYTKTFGYPPLTKILASFFGELLGQEIDPLRNVLVTVGGYGALFTAFQALVDEGDEVII
+            IEPFFDCYEPMTMMAGGRPVFVSLKPGPIQNGELGSSSNWQLDPMELAGKFTSRTKALVL
+            NTPNNPLGKVFSREELELVASLCQQHDVVCITDEVYQWMVYDGHQHISIASLPGMWERTL
+            TIGSAGKTFSATGWKVGWVLGPDHIMKHLRTVHQNSVFHCPTQSQAAVAESFEREQLLFR
+            QPSSYFVQFPQAMQRCRDHMIRSLQSVGLKPIIPQGSYFLITDISDFKRKMPDLPGAVDE
+            PYDRRFVKWMIKNKGLVAIPVSIFYSVPHQKHFDHYIRFCFVKDEATLQAMDEKLRKWKV
+            EL
+NTSEQ       1269
+            atggccaaacagctgcaggcccgaaggctagacgggatcgactacaacccctgggtggag
+            tttgtgaaactggccagtgagcatgacgtcgtgaacttgggccagggcttcccggatttc
+            ccaccaccagactttgccgtggaagcctttcagcacgctgtcagtggagacttcatgctt
+            aaccagtacaccaagacatttggttacccaccactgacgaagatcctggcaagtttcttt
+            ggggagctgctgggtcaggagatagacccgctcaggaatgtgctggtgactgttggtggc
+            tatggggccctgttcacagccttccaggccctggtggacgaaggagacgaggtcatcatc
+            atcgaacccttttttgactgctacgagcccatgacaatgatggcagggggtcgtcctgtg
+            tttgtgtccctgaagccgggtcccatccagaatggagaactgggttccagcagcaactgg
+            cagctggaccccatggagctggccggcaaattcacatcacgcaccaaagccctggtcctc
+            aacacccccaacaaccccctgggcaaggtgttctccagggaagagctggagctggtggcc
+            agcctttgccagcagcatgacgtggtgtgtatcactgatgaagtctaccagtggatggtc
+            tacgacgggcaccagcacatcagcattgccagcctccctggcatgtgggaacggaccctg
+            accatcggcagcgccggcaagaccttcagcgccactggctggaaggtgggctgggtcctg
+            ggtccagatcacatcatgaagcacctgcggaccgtgcaccagaactccgtcttccactgc
+            cccacgcagagccaggctgcagtagccgagagctttgaacgggagcagctgctcttccgc
+            caacccagcagctactttgtgcagttcccgcaggccatgcagcgctgccgtgaccacatg
+            atacgtagcctacagtcagtgggcctgaagcccatcatccctcagggcagctacttcctc
+            atcacagacatctcagacttcaagaggaagatgcctgacttgcctggagctgtggatgag
+            ccctatgacagacgcttcgtcaagtggatgatcaagaacaagggcttggtggccatccct
+            gtctccatcttctatagtgtgccacatcagaagcactttgaccactatatccgcttctgt
+            tttgtgaaggatgaagccacgctccaggccatggacgagaagctgcggaagtggaaggtg
+            gaactctag
+///

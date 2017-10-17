@@ -1,0 +1,84 @@
+ENTRY       2212              CDS       T01001
+NAME        FCGR2A, CD32, CD32A, CDw32, FCG2, FCGR2, FCGR2A1, FcGR, IGFR2
+DEFINITION  (RefSeq) Fc fragment of IgG receptor IIa
+ORTHOLOGY   K06472  low affinity immunoglobulin gamma Fc receptor II-a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04611  Platelet activation
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa05140  Leishmaniasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05322  Systemic lupus erythematosus
+DISEASE     H00080  Systemic lupus erythematosus
+            H01360  Allergic rhinitis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                2212 (FCGR2A)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                2212 (FCGR2A)
+               04666 Fc gamma R-mediated phagocytosis
+                2212 (FCGR2A)
+              Development
+               04380 Osteoclast differentiation
+                2212 (FCGR2A)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                2212 (FCGR2A)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                2212 (FCGR2A)
+               05152 Tuberculosis
+                2212 (FCGR2A)
+               05140 Leishmaniasis
+                2212 (FCGR2A)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Fc receptors
+                2212 (FCGR2A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2212 (FCGR2A)
+POSITION    1q23.3
+MOTIF       Pfam: Ig_2 Ig_3 ig Ig_4 I-set Ig_5 DUF3827 ECSCR V-set_CD47
+DBLINKS     NCBI-GeneID: 2212
+            NCBI-ProteinID: NP_001129691
+            OMIM: 146790
+            HGNC: 3616
+            Ensembl: ENSG00000143226
+            Vega: OTTHUMG00000034469
+            Pharos: P12318(Tbio)
+            UniProt: P12318
+STRUCTURE   PDB: 3RY4 1FCG 3RY5 3D5O 3RY6 1H9V
+AASEQ       317
+            MTMETQMSQNVCPRNLWLLQPLTVLLLLASADSQAAAPPKAVLKLEPPWINVLQEDSVTL
+            TCQGARSPESDSIQWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSLSDPVHLTVL
+            SEWLVLQTPHLEFQEGETIMLRCHSWKDKPLVKVTFFQNGKSQKFSHLDPTFSIPQANHS
+            HSGDYHCTGNIGYTLFSSKPVTITVQVPSMGSSSPMGIIVAVVIATAVAAIVAAVVALIY
+            CRKKRISANSTDPVKAAQFEPPGRQMIAIRKRQLEETNNDYETADGGYMTLNPRAPTDDD
+            KNIYLTLPPNDHVNSNN
+NTSEQ       954
+            atgactatggagacccaaatgtctcagaatgtatgtcccagaaacctgtggctgcttcaa
+            ccattgacagttttgctgctgctggcttctgcagacagtcaagctgcagctcccccaaag
+            gctgtgctgaaacttgagcccccgtggatcaacgtgctccaggaggactctgtgactctg
+            acatgccagggggctcgcagccctgagagcgactccattcagtggttccacaatgggaat
+            ctcattcccacccacacgcagcccagctacaggttcaaggccaacaacaatgacagcggg
+            gagtacacgtgccagactggccagaccagcctcagcgaccctgtgcatctgactgtgctt
+            tccgaatggctggtgctccagacccctcacctggagttccaggagggagaaaccatcatg
+            ctgaggtgccacagctggaaggacaagcctctggtcaaggtcacattcttccagaatgga
+            aaatcccagaaattctcccatttggatcccaccttctccatcccacaagcaaaccacagt
+            cacagtggtgattaccactgcacaggaaacataggctacacgctgttctcatccaagcct
+            gtgaccatcactgtccaagtgcccagcatgggcagctcttcaccaatggggatcattgtg
+            gctgtggtcattgcgactgctgtagcagccattgttgctgctgtagtggccttgatctac
+            tgcaggaaaaagcggatttcagccaattccactgatcctgtgaaggctgcccaatttgag
+            ccacctggacgtcaaatgattgccatcagaaagagacaacttgaagaaaccaacaatgac
+            tatgaaacagctgacggcggctacatgactctgaaccccagggcacctactgacgatgat
+            aaaaacatctacctgactcttcctcccaacgaccatgtcaacagtaataactaa
+///

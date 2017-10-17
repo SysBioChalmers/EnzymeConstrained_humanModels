@@ -1,0 +1,78 @@
+ENTRY       4552              CDS       T01001
+NAME        MTRR, MSR, cblE
+DEFINITION  (RefSeq) 5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+ORTHOLOGY   K00597  methionine synthase reductase [EC:1.16.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00183  Homocystinuria
+            H00262  Spina bifida
+            H01552  Down syndrome
+BRITE       Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.16  Oxidizing metal ions
+               1.16.1  With NAD+ or NADP+ as acceptor
+                1.16.1.8  [methionine synthase] reductase
+                 4552 (MTRR)
+POSITION    5p15.31
+MOTIF       Pfam: FAD_binding_1 Flavodoxin_1 NAD_binding_1 Flavodoxin_5 Flavodoxin_3
+DBLINKS     NCBI-GeneID: 4552
+            NCBI-ProteinID: NP_076915
+            OMIM: 602568
+            HGNC: 7473
+            Ensembl: ENSG00000124275
+            Vega: OTTHUMG00000090477
+            Pharos: Q9UBK8(Tbio)
+            UniProt: Q9UBK8
+STRUCTURE   PDB: 2QTL 2QTZ
+AASEQ       725
+            MGAASVRAGARLVEVALCSFTVTCLEVMRRFLLLYATQQGQAKAIAEEICEQAVVHGFSA
+            DLHCISESDKYDLKTETAPLVVVVSTTGTGDPPDTARKFVKEIQNQTLPVDFFAHLRYGL
+            LGLGDSEYTYFCNGGKIIDKRLQELGARHFYDTGHADDCVGLELVVEPWIAGLWPALRKH
+            FRSSRGQEEISGALPVASPASSRTDLVKSELLHIESQVELLRFDDSGRKDSEVLKQNAVN
+            SNQSNVVIEDFESSLTRSVPPLSQASLNIPGLPPEYLQVHLQESLGQEESQVSVTSADPV
+            FQVPISKAVQLTTNDAIKTTLLVELDISNTDFSYQPGDAFSVICPNSDSEVQSLLQRLQL
+            EDKREHCVLLKIKADTKKKGATLPQHIPAGCSLQFIFTWCLEIRAIPKKAFLRALVDYTS
+            DSAEKRRLQELCSKQGAADYSRFVRDACACLLDLLLAFPSCQPPLSLLLEHLPKLQPRPY
+            SCASSSLFHPGKLHFVFNIVEFLSTATTEVLRKGVCTGWLALLVASVLQPNIHASHEDSG
+            KALAPKISISPRTTNSFHLPDDPSIPIIMVGPGTGIAPFIGFLQHREKLQEQHPDGNFGA
+            MWLFFGCRHKDRDYLFRKELRHFLKHGILTHLKVSFSRDAPVGEEEAPAKYVQDNIQLHG
+            QQVARILLQENGHIYVCGDAKNMAKDVHDALVQIISKEVGVEKLEAMKTLATLKEEKRYL
+            QDIWS
+NTSEQ       2178
+            atgggcgctgcgtcagtgcgcgctggcgcaaggttggtggaagtcgcgttgtgcagtttc
+            actgttacatgccttgaagtgatgaggaggtttctgttactatatgctacacagcaggga
+            caggcaaaggccatcgcagaagaaatatgtgagcaagctgtggtacatggattttctgca
+            gatcttcactgtattagtgaatccgataagtatgacctaaaaaccgaaacagctcctctt
+            gttgttgtggtttctaccacgggcaccggagacccacccgacacagcccgcaagtttgtt
+            aaggaaatacagaaccaaacactgccggttgatttctttgctcacctgcggtatgggtta
+            ctgggtctcggtgattcagaatacacctacttttgcaatggggggaagataattgataaa
+            cgacttcaagagcttggagcccggcatttctatgacactggacatgcagatgactgtgta
+            ggtttagaacttgtggttgagccgtggattgctggactctggccagccctcagaaagcat
+            tttaggtcaagcagaggacaagaggagataagtggcgcactcccggtggcatcacctgca
+            tcctcgaggacagaccttgtgaagtcagagctgctacacattgaatctcaagtcgagctt
+            ctgagattcgatgattcaggaagaaaggattctgaggttttgaagcaaaatgcagtgaac
+            agcaaccaatccaatgttgtaattgaagactttgagtcctcacttacccgttcggtaccc
+            ccactctcacaagcctctctgaatattcctggtttacccccagaatatttacaggtacat
+            ctgcaggagtctcttggccaggaggaaagccaagtatctgtgacttcagcagatccagtt
+            tttcaagtgccaatttcaaaggcagttcaacttactacgaatgatgccataaaaaccact
+            ctgctggtagaattggacatttcaaatacagacttttcctatcagcctggagatgccttc
+            agcgtgatctgccctaacagtgattctgaggtacaaagcctactccaaagactgcagctt
+            gaagataaaagagagcactgcgtccttttgaaaataaaggcagacacaaagaagaaagga
+            gctaccttaccccagcatatacctgcgggatgttctctccagttcatttttacctggtgt
+            cttgaaatccgagcaattcctaaaaaggcatttttgcgagcccttgtggactataccagt
+            gacagtgctgaaaagcgcaggctacaggagctgtgcagtaaacaaggggcagccgattat
+            agccgctttgtacgagatgcctgtgcctgcttgttggatctcctcctcgctttcccttct
+            tgccagccaccactcagtctcctgctcgaacatcttcctaaacttcaacccagaccatat
+            tcgtgtgcaagctcaagtttatttcacccaggaaagctccattttgtcttcaacattgtg
+            gaatttctgtctactgccacaacagaggttctgcggaagggagtatgtacaggctggctg
+            gccttgttggttgcttcagttcttcagccaaacatacatgcatcccatgaagacagcggg
+            aaagccctggctcctaagatatccatctctcctcgaacaacaaattctttccacttacca
+            gatgacccctcaatccccatcataatggtgggtccaggaaccggcatagccccgtttatt
+            gggttcctacaacatagagagaaactccaagaacaacacccagatggaaattttggagca
+            atgtggttgttttttggctgcaggcataaggatagggattatctattcagaaaagagctc
+            agacatttccttaagcatgggatcttaactcatctaaaggtttccttctcaagagatgct
+            cctgttggggaggaggaagccccagcaaagtatgtgcaagacaacatccagcttcatggc
+            cagcaggtggcgagaatcctcctccaggagaacggccatatttatgtgtgtggagatgca
+            aagaatatggccaaggatgtacatgatgcccttgtgcaaataataagcaaagaggttgga
+            gttgaaaaactagaagcaatgaaaaccctggccactttaaaagaagaaaaacgctacctt
+            caggatatttggtcataa
+///

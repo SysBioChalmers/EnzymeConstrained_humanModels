@@ -1,0 +1,87 @@
+ENTRY       3352              CDS       T01001
+NAME        HTR1D, 5-HT1D, HT1DA, HTR1DA, HTRL, RDC4
+DEFINITION  (RefSeq) 5-hydroxytryptamine receptor 1D
+ORTHOLOGY   K04153  5-hydroxytryptamine receptor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04024  cAMP signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04726  Serotonergic synapse
+            hsa04742  Taste transduction
+DISEASE     H01703  Eating Disorders
+DRUG_TARGET Almotriptan (DG00839): D02824 D02825
+            Alniditan dihydrochloride: D02826
+            Avitriptan fumarate: D03014
+            Cinitapride (DG01520): D07700 D07701
+            Eletriptan (DG00840): D01973 D07887
+            Elzasonan (DG01314): D03982 D03983
+            Ergometrine (DG00446): D01163 D07905
+            Frovatriptan (DG00841): D04264 D07997
+            Indorenate hydrochloride: D04533
+            Metergoline: D07218
+            Methylergometrine (DG00445): D00680 D08207
+            Methysergide (DG00835): D00681 D02357
+            Mianserin (DG00951): D01358 D08216
+            Naratriptan (DG00837): D00674 D08255
+            Pizotifen (DG00842): D05523 D08397
+            Rizatriptan (DG00838): D00675 D05740 D08485
+            Sumatriptan (DG00836): D00451 D00676
+            Zolmitriptan: D00415
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                3352 (HTR1D)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3352 (HTR1D)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                3352 (HTR1D)
+              Sensory system
+               04742 Taste transduction
+                3352 (HTR1D)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Serotonin [OT]
+                3352 (HTR1D)
+POSITION    1p36.12
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 3352
+            NCBI-ProteinID: NP_000855
+            OMIM: 182133
+            HGNC: 5289
+            Ensembl: ENSG00000179546
+            Vega: OTTHUMG00000003235
+            Pharos: P28221(Tclin)
+            UniProt: P28221
+AASEQ       377
+            MSPLNQSAEGLPQEASNRSLNATETSEAWDPRTLQALKISLAVVLSVITLATVLSNAFVL
+            TTILLTRKLHTPANYLIGSLATTDLLVSILVMPISIAYTITHTWNFGQILCDIWLSSDIT
+            CCTASILHLCVIALDRYWAITDALEYSKRRTAGHAATMIAIVWAISICISIPPLFWRQAK
+            AQEEMSDCLVNTSQISYTIYSTCGAFYIPSVLLIILYGRIYRAARNRILNPPSLYGKRFT
+            TAHLITGSAGSSLCSLNSSLHEGHSHSAGSPLFFNHVKIKLADSALERKRISAARERKAT
+            KILGIILGAFIICWLPFFVVSLVLPICRDSCWIHPALFDFFTWLGYLNSLINPIIYTVFN
+            EEFRQAFQKIVPFRKAS
+NTSEQ       1134
+            atgtccccactgaaccagtcagcagaaggccttccccaggaggcctccaacagatccctg
+            aatgccacagaaacctcagaggcttgggatcccaggaccctccaggcgctcaagatctcc
+            cttgccgtggtcctttccgtcatcacactggccacagtcctctccaatgcctttgtactc
+            accaccatcttactcaccaggaagctccacacccctgccaactacctgattggctccctg
+            gccaccaccgacctcttggtttccatcttggtaatgcccatcagcatcgcctataccatc
+            acccacacctggaactttggccaaatcttgtgtgacatctggctgtcctctgacatcacg
+            tgctgcacagcctccatcctgcatctctgtgtcattgctctggacaggtactgggcaatc
+            acagatgccctggaatacagtaaacgcaggacggctggccacgcggccaccatgatcgcc
+            attgtctgggccatctccatctgcatctccatccccccgctcttctggcggcaggccaag
+            gcccaggaggagatgtcggactgtctggtgaacacctctcagatctcctacaccatctac
+            tccacctgtggggccttctacattccctcggtgttgctcatcatcctatatggccggatc
+            taccgggctgcccggaaccgcatcctgaatccaccctcactctatgggaagcgcttcacc
+            acggcccacctcatcacaggctctgccgggtcctcgctctgctcgctcaactccagcctc
+            catgaggggcactcgcactcggctggctcccctctctttttcaaccacgtgaaaatcaag
+            cttgctgacagtgccctggaacgcaagaggatttctgctgctcgagaaaggaaagccact
+            aaaatcctgggcatcattctgggggcctttatcatctgctggctgcccttcttcgtggtg
+            tctctggtcctccccatctgccgggactcctgctggatccacccggcgctctttgacttc
+            ttcacctggctaggctatttaaactccctcatcaatccaataatctacactgtgtttaat
+            gaagagtttcggcaagcttttcagaaaattgtccctttccggaaggcctcctag
+///

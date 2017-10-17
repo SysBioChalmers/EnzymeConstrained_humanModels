@@ -1,0 +1,96 @@
+ENTRY       2571              CDS       T01001
+NAME        GAD1, CPSQ1, GAD, SCP
+DEFINITION  (RefSeq) glutamate decarboxylase 1
+ORTHOLOGY   K01580  glutamate decarboxylase [EC:4.1.1.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00430  Taurine and hypotaurine metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa04727  GABAergic synapse
+            hsa04940  Type I diabetes mellitus
+MODULE      hsa_M00027  GABA (gamma-Aminobutyrate) shunt
+DISEASE     H01097  Cerebral palsy
+DRUG_TARGET Valproic acid (DG00849): D00304 D00399 D00710 D08667
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00650 Butanoate metabolism
+                2571 (GAD1)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2571 (GAD1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                2571 (GAD1)
+               00430 Taurine and hypotaurine metabolism
+                2571 (GAD1)
+             Organismal Systems
+              Nervous system
+               04727 GABAergic synapse
+                2571 (GAD1)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                2571 (GAD1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.15  glutamate decarboxylase
+                 2571 (GAD1)
+POSITION    2q31.1
+MOTIF       Pfam: Pyridoxal_deC Aminotran_5 Beta_elim_lyase SepSecS OKR_DC_1 DegT_DnrJ_EryC1
+DBLINKS     NCBI-GeneID: 2571
+            NCBI-ProteinID: NP_000808
+            OMIM: 605363
+            HGNC: 4092
+            Ensembl: ENSG00000128683
+            Vega: OTTHUMG00000044175
+            Pharos: Q99259(Tbio)
+            UniProt: Q99259 Q8IVA8 A0A0S2Z3V5
+STRUCTURE   PDB: 3VP6 2OKJ
+AASEQ       594
+            MASSTPSSSATSSNAGADPNTTNLRPTTYDTWCGVAHGCTRKLGLKICGFLQRTNSLEEK
+            SRLVSAFKERQSSKNLLSCENSDRDARFRRTETDFSNLFARDLLPAKNGEEQTVQFLLEV
+            VDILLNYVRKTFDRSTKVLDFHHPHQLLEGMEGFNLELSDHPESLEQILVDCRDTLKYGV
+            RTGHPRFFNQLSTGLDIIGLAGEWLTSTANTNMFTYEIAPVFVLMEQITLKKMREIVGWS
+            SKDGDGIFSPGGAISNMYSIMAARYKYFPEVKTKGMAAVPKLVLFTSEQSHYSIKKAGAA
+            LGFGTDNVILIKCNERGKIIPADFEAKILEAKQKGYVPFYVNATAGTTVYGAFDPIQEIA
+            DICEKYNLWLHVDAAWGGGLLMSRKHRHKLNGIERANSVTWNPHKMMGVLLQCSAILVKE
+            KGILQGCNQMCAGYLFQPDKQYDVSYDTGDKAIQCGRHVDIFKFWLMWKAKGTVGFENQI
+            NKCLELAEYLYAKIKNREEFEMVFNGEPEHTNVCFWYIPQSLRGVPDSPQRREKLHKVAP
+            KIKALMMESGTTMVGYQPQGDKANFFRMVISNPAATQSDIDFLIEEIERLGQDL
+NTSEQ       1785
+            atggcgtcttcgaccccatcttcgtccgcaacctcctcgaacgcgggagcggaccccaat
+            accactaacctgcgccccacaacgtacgatacctggtgcggcgtggcccatggatgcacc
+            agaaaactggggctcaagatctgcggcttcttgcaaaggaccaacagcctggaagagaag
+            agtcgccttgtgagtgccttcaaggagaggcaatcctccaagaacctgctttcctgtgaa
+            aacagcgaccgggatgcccgcttccggcgcacagagactgacttctctaatctgtttgct
+            agagatctgcttccggctaagaacggtgaggagcaaaccgtgcaattcctcctggaagtg
+            gtggacatactcctcaactatgtccgcaagacatttgatcgctccaccaaggtgctggac
+            tttcatcacccacaccagttgctggaaggcatggagggcttcaacttggagctctctgac
+            caccccgagtccctggagcagatcctggttgactgcagagacaccttgaagtatggggtt
+            cgcacaggtcatcctcgatttttcaaccagctctccactggattggatattattggccta
+            gctggagaatggctgacatcaacggccaataccaacatgtttacatatgaaattgcacca
+            gtgtttgtcctcatggaacaaataacacttaagaagatgagagagatagttggatggtca
+            agtaaagatggtgatgggatattttctcctgggggcgccatatccaacatgtacagcatc
+            atggctgctcgctacaagtacttcccggaagttaagacaaagggcatggcggctgtgcct
+            aaactggtcctcttcacctcagaacagagtcactattccataaagaaagctggggctgca
+            cttggctttggaactgacaatgtgattttgataaagtgcaatgaaagggggaaaataatt
+            ccagctgattttgaggcaaaaattcttgaagccaaacagaagggatatgttcccttttat
+            gtcaatgcaactgctggcacgactgtttatggagcttttgatccgatacaagagattgca
+            gatatatgtgagaaatataacctttggttgcatgtcgatgctgcctggggaggtgggctg
+            ctcatgtccaggaagcaccgccataaactcaacggcatagaaagggccaactcagtcacc
+            tggaaccctcacaagatgatgggcgtgctgttgcagtgctctgccattctcgtcaaggaa
+            aagggtatactccaaggatgcaaccagatgtgtgcaggatacctcttccagccagacaag
+            cagtatgatgtctcctacgacaccggggacaaggcaattcagtgtggccgccacgtggat
+            atcttcaagttctggctgatgtggaaagcaaagggcacagtgggatttgaaaaccagatc
+            aacaaatgcctggaactggctgaatacctctatgccaagattaaaaacagagaagaattt
+            gagatggttttcaatggcgagcctgagcacacaaacgtctgtttttggtatattccacaa
+            agcctcaggggtgtgccagacagccctcaacgacgggaaaagctacacaaggtggctcca
+            aaaatcaaagccctgatgatggagtcaggtacgaccatggttggctaccagccccaaggg
+            gacaaggccaacttcttccggatggtcatctccaacccagccgctacccagtctgacatt
+            gacttcctcattgaggagatagaaagactgggccaggatctgtaa
+///

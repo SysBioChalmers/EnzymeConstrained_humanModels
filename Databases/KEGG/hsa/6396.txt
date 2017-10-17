@@ -1,0 +1,74 @@
+ENTRY       6396              CDS       T01001
+NAME        SEC13, D3S1231E, SEC13L1, SEC13R, npp-20
+DEFINITION  (RefSeq) SEC13 homolog, nuclear pore and COPII coat complex component
+ORTHOLOGY   K14004  protein transport protein SEC13
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04150  mTOR signaling pathway
+MODULE      hsa_M00404  COPII complex
+            hsa_M00427  Nuclear pore complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                6396 (SEC13)
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                6396 (SEC13)
+             Environmental Information Processing
+              Signal transduction
+               04150 mTOR signaling pathway
+                6396 (SEC13)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 6396 (SEC13)
+            Membrane trafficking [BR:hsa04131]
+             Protein recycling
+              Rab GTPases and associated proteins
+               Rab11 associated proteins
+                6396 (SEC13)
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               Coat protein complex II (COP-II)
+                6396 (SEC13)
+POSITION    3p25.3
+MOTIF       Pfam: WD40 ANAPC4_WD40 Ge1_WD40
+DBLINKS     NCBI-GeneID: 6396
+            NCBI-ProteinID: NP_899195
+            OMIM: 600152
+            HGNC: 10697
+            Ensembl: ENSG00000157020
+            Vega: OTTHUMG00000128671
+            Pharos: P55735(Tbio)
+            UniProt: P55735
+STRUCTURE   PDB: 3BG1 3BG0 5A9Q
+AASEQ       322
+            MVSVINTVDTSHEDMIHDAQMDYYGTRLATCSSDRSVKIFDVRNGGQILIADLRGHEGPV
+            WQVAWAHPMYGNILASCSYDRKVIIWREENGTWEKSHEHAGHDSSVNSVCWAPHDYGLIL
+            ACGSSDGAISLLTYTGEGQWEVKKINNAHTIGCNAVSWAPAVVPGSLIDHPSGQKPNYIK
+            RFASGGCDNLIKLWKEEEDGQWKEEQKLEAHSDWVRDVAWAPSIGLPTSTIASCSQDGRV
+            FIWTCDDASSNTWSPKLLHKFNDVVWHVSWSITANILAVSGGDNKVTLWKESVDGQWVCI
+            SDVNKGQGSVSASVTEGQQNEQ
+NTSEQ       969
+            atggtgtcagtaattaacactgtggatacctcccatgaggacatgattcacgacgcccag
+            atggactactatggcacccgcctggcaacctgctcatcagacaggtccgtcaaaatcttt
+            gatgtgcgcaatggagggcagatccttatcgccgacctcaggggtcatgagggtcctgtg
+            tggcaagtggcctgggctcaccccatgtacggcaacatcctggcatcgtgctcctatgac
+            cggaaagtcattatctggagagaggaaaacggcacctgggagaagagccacgagcatgcg
+            ggacacgactcctcagtgaactcggtgtgctgggccccccatgactacggcctgatcctg
+            gcctgtgggagctcggatggggccatctccctgctgacttacaccggggaaggccaatgg
+            gaagtaaagaagatcaacaacgctcacaccattggctgcaatgccgtcagctgggcccct
+            gctgttgtacctggaagcctcatagaccacccatcggggcagaaacccaattacatcaag
+            aggtttgcatcaggtggctgtgacaacctcatcaagctgtggaaggaggaggaggacggc
+            cagtggaaggaggagcagaagctagaagcgcacagtgactgggttcgagatgtggcctgg
+            gccccctccatcggcctgcccaccagcaccatcgccagctgctcccaggatggtcgtgtg
+            ttcatttggacctgtgatgatgcctcaagcaatacgtggtcccctaaattgttgcacaag
+            ttcaacgatgtggtgtggcatgtgagctggtccatcacagccaacatcctggctgtctct
+            ggtggagacaataaggtgaccctgtggaaggagtcagttgatgggcagtgggtgtgcatc
+            agtgatgtcaacaagggccagggctccgtatcagcatcagtgacagagggccagcagaac
+            gagcagtga
+///

@@ -1,0 +1,90 @@
+ENTRY       5146              CDS       T01001
+NAME        PDE6C, ACHM5, COD4, PDEA2
+DEFINITION  (RefSeq) phosphodiesterase 6C
+ORTHOLOGY   K13757  cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha' [EC:3.1.4.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+DISEASE     H00481  Cone-rod dystrophy and cone dystrophy
+            H00971  Achromatopsia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5146 (PDE6C)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.35  3',5'-cyclic-GMP phosphodiesterase
+                 5146 (PDE6C)
+POSITION    10q23.33
+MOTIF       Pfam: PDEase_I GAF GAF_2 GAF_3 SpoVT_C
+DBLINKS     NCBI-GeneID: 5146
+            NCBI-ProteinID: NP_006195
+            OMIM: 600827
+            HGNC: 8787
+            Ensembl: ENSG00000095464
+            Vega: OTTHUMG00000018775
+            Pharos: P51160(Tclin)
+            UniProt: P51160
+AASEQ       858
+            MGEINQVAVEKYLEENPQFAKEYFDRKLRVEVLGEIFKNSQVPVQSSMSFSELTQVEESA
+            LCLELLWTVQEEGGTPEQGVHRALQRLAHLLQADRCSMFLCRSRNGIPEVASRLLDVTPT
+            SKFEDNLVGPDKEVVFPLDIGIVGWAAHTKKTHNVPDVKKNSHFSDFMDKQTGYVTKNLL
+            ATPIVVGKEVLAVIMAVNKVNASEFSKQDEEVFSKYLNFVSIILRLHHTSYMYNIESRRS
+            QILMWSANKVFEELTDVERQFHKALYTVRSYLNCERYSIGLLDMTKEKEFYDEWPIKLGE
+            VEPYKGPKTPDGREVNFYKIIDYILHGKEEIKVIPTPPADHWTLISGLPTYVAENGFICN
+            MMNAPADEYFTFQKGPVDETGWVIKNVLSLPIVNKKEDIVGVATFYNRKDGKPFDEHDEY
+            ITETLTQFLGWSLLNTDTYDKMNKLENRKDIAQEMLMNQTKATPEEIKSILKFQEKLNVD
+            VIDDCEEKQLVAILKEDLPDPRSAELYEFRFSDFPLTEHGLIKCGIRLFFEINVVEKFKV
+            PVEVLTRWMYTVRKGYRAVTYHNWRHGFNVGQTMFTLLMTGRLKKYYTDLEAFAMLAAAF
+            CHDIDHRGTNNLYQMKSTSPLARLHGSSILERHHLEYSKTLLQDESLNIFQNLNKRQFET
+            VIHLFEVAIIATDLALYFKKRTMFQKIVDACEQMQTEEEAIKYVTVDPTKKEIIMAMMMT
+            ACDLSAITKPWEVQSQVALMVANEFWEQGDLERTVLQQQPIPMMDRNKRDELPKLQVGFI
+            DFVCTFVYKEFSRFHKEITPMLSGLQNNRVEWKSLADEYDAKMKVIEEEAKKQEGGAEKA
+            AEDSGGGDDKKSKTCLML
+NTSEQ       2577
+            atgggtgagatcaaccaagttgccgtggagaaatacctggaggagaaccctcagtttgcc
+            aaggagtactttgacaggaagttgcgggtggaggtgctgggagaaatcttcaagaacagc
+            caggtgccagtccagtccagcatgtccttctctgagctgacccaggtggaggagtcagcc
+            ctgtgcttggagctgctgtggaccgtgcaggaggaggggggcaccccagagcagggggtt
+            cacagggccctgcagaggctggcccacctgctccaggctgaccgctgcagcatgttcctg
+            tgccggtcccggaacggcatacctgaggtggcctctaggttgctggatgtcacccccacc
+            tccaagtttgaggacaacctggtgggccctgacaaagaagttgtgtttccattggacatt
+            gggatagtgggttgggctgctcacacgaagaaaactcataatgtcccagatgtgaaaaag
+            aacagccatttttctgacttcatggacaagcaaactgggtatgtcactaagaacctgctg
+            gcaaccccgatcgtggtgggcaaggaggttcttgctgtgatcatggcagttaacaaagta
+            aatgcatctgaattttccaaacaggatgaagaggtcttttccaaatacctcaactttgtg
+            tctatcatcctaaggcttcatcacaccagctacatgtacaatattgaatcccgaagaagc
+            cagatccttatgtggtcagccaataaagtatttgaagaactcacagatgttgagcgacag
+            tttcacaaagcgctctacacggttagatcatatctgaactgtgaacgatactccattgga
+            ctgctggacatgaccaaggagaaggaattctacgatgaatggccaatcaagcttggagaa
+            gtagagccttataaaggtccaaagacacctgatggcagggaagtcaacttttataaaatc
+            attgattacattttacatggaaaagaagagatcaaagtgattccgacgcctcctgcagac
+            cactggacactcattagtgggttgccaacatatgttgctgaaaatggatttatctgtaac
+            atgatgaatgcccctgcggatgaatacttcacatttcagaaaggacctgtagacgaaact
+            ggttgggtcattaagaatgttttgtccctgcctattgtcaacaagaaagaagatattgtg
+            ggagtggctacattttacaacaggaaggatggaaaacctttcgatgagcatgatgaatac
+            attaccgagactctcacacaatttcttggatggtctcttttaaatactgacacctacgat
+            aagatgaataagctagaaaacagaaaggacattgctcaggaaatgctcatgaaccaaacc
+            aaagccactcctgaagaaattaagtccattttgaaatttcaagagaagttaaatgttgat
+            gtaattgacgactgtgaagaaaaacaacttgttgcaattttgaaagaggacttgccagac
+            ccacgctcagcagaactgtacgaattccgcttcagtgacttcccccttacagagcacgga
+            ttgattaaatgtggaatacgactgttttttgaaataaatgtggtggagaaattcaaagta
+            cctgtagaggttcttaccagatggatgtacactgtgaggaaagggtaccgagctgtcact
+            taccacaattggcggcatgggttcaacgtggggcagaccatgtttactttgctgatgaca
+            ggaagattaaagaagtactacacagatctcgaagcctttgccatgcttgctgctgctttc
+            tgccatgatattgaccacagaggcaccaataatttgtaccagatgaaatccacgtctcca
+            ttagcaagacttcatggttcttctattttggagaggcaccacctggagtacagtaagact
+            ctgttgcaggatgagagtttaaacatcttccagaacctaaataagcggcagtttgaaaca
+            gttattcatttgttcgaggtcgcaataatagcaactgacctggctttatatttcaagaag
+            aggaccatgtttcaaaaaattgttgatgcctgtgaacaaatgcaaacggaagaagaagcc
+            atcaaatatgtaactgttgatccaaccaagaaagagattatcatggcaatgatgatgacg
+            gcatgtgacttgtctgctattaccaagccctgggaggtgcaaagtcaggtagcacttatg
+            gttgcaaatgaattttgggaacaaggagatctggagagaacagtgttgcagcaacaaccc
+            attcctatgatggacagaaacaaaagagatgaattacctaaacttcaagttggatttatt
+            gattttgtttgtacttttgtatataaggagttctcacggtttcacaaagaaatcacacct
+            atgctgagtggtcttcagaataacagagtagaatggaaatcactagctgatgagtatgat
+            gcaaagatgaaggtcattgaagaggaggcaaaaaagcaagaaggaggagccgaaaaagct
+            gctgaagattcaggaggtggtgatgacaaaaagtccaaaacatgtttaatgttgtaa
+///

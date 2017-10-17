@@ -1,0 +1,73 @@
+ENTRY       79053             CDS       T01001
+NAME        ALG8, CDG1H
+DEFINITION  (RefSeq) ALG8, alpha-1,3-glucosyltransferase
+ORTHOLOGY   K03849  alpha-1,3-glucosyltransferase [EC:2.4.1.265]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00055  N-glycan precursor biosynthesis
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                79053 (ALG8)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.265  dolichyl-P-Glc:Glc1Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase
+                 79053 (ALG8)
+            Glycosyltransferases [BR:hsa01003]
+             N-Glycan biosynthesis
+              Dol-linked oligosaccharide
+               79053 (ALG8)
+POSITION    11q14.1
+MOTIF       Pfam: Alg6_Alg8
+DBLINKS     NCBI-GeneID: 79053
+            NCBI-ProteinID: NP_076984
+            OMIM: 608103
+            HGNC: 23161
+            Ensembl: ENSG00000159063
+            Vega: OTTHUMG00000166594
+            Pharos: Q9BVK2(Tbio)
+            UniProt: Q9BVK2 A0A024R5K5
+AASEQ       526
+            MAALTIATGTGNWFSALALGVTLLKCLLIPTYHSTDFEVHRNWLAITHSLPISQWYYEAT
+            SEWTLDYPPFFAWFEYILSHVAKYFDQEMLNVHNLNYSSSRTLLFQRFSVIFMDVLFVYA
+            VRECCKCIDGKKVGKELTEKPKFILSVLLLWNFGLLIVDHIHFQYNGFLFGLMLLSIARL
+            FQKRHMEGAFLFAVLLHFKHIYLYVAPAYGVYLLRSYCFTANKPDGSIRWKSFSFVRVIS
+            LGLVVFLVSALSLGPFLALNQLPQVFSRLFPFKRGLCHAYWAPNFWALYNALDKVLSVIG
+            LKLKFLDPNNIPKASMTSGLVQQFQHTVLPSVTPLATLICTLIAILPSIFCLWFKPQGPR
+            GFLRCLTLCALSSFMFGWHVHEKAILLAILPMSLLSVGKAGDASIFLILTTTGHYSLFPL
+            LFTAPELPIKILLMLLFTIYSISSLKTLFRKEKPLFNWMETFYLLGLGPLEVCCEFVFPF
+            TSWKVKYPFIPLLLTSVYCAVGITYAWFKLYVSVLIDSAIGKTKKQ
+NTSEQ       1581
+            atggcggcgctcacaattgccacgggtactggcaattggttttcggctttggcgctcggg
+            gtgactcttctcaaatgccttctcatccccacataccattccacagattttgaagtacac
+            cgaaactggcttgctatcactcacagtttgccaatatcacagtggtattatgaggcaact
+            tcagagtggacgttggattacccccctttctttgcatggtttgagtatatcctgtcacat
+            gttgccaaatattttgatcaagaaatgctgaatgtccataatttgaattactccagctca
+            aggaccttacttttccagagattttccgtcatctttatggatgtactctttgtgtatgct
+            gtccgtgagtgctgtaaatgcattgatggaaaaaaagtgggtaaagaacttacagaaaag
+            ccaaaatttattctgtcggtattacttctgtggaacttcgggttattaattgtggaccat
+            attcattttcagtacaatggctttttatttggattaatgctactctccattgcacgatta
+            tttcagaaaaggcatatggaaggagcatttctctttgctgttctcctacatttcaagcat
+            atctacctctatgtagcaccagcttatggtgtatatctgctgcgatcctactgtttcact
+            gcaaataaaccagatgggtctattcgatggaagagtttcagctttgttcgtgttatttcc
+            ctgggactggttgttttcttagtttctgctctttcattgggtcctttcctggccttgaat
+            cagctgcctcaagtcttttcccgactctttcctttcaagaggggcctctgtcatgcatat
+            tgggctccaaacttctgggctttgtacaatgctttggacaaagtgctgtctgtcatcggt
+            ttgaaattgaaatttcttgatcccaacaatattcccaaggcctcaatgacaagtggtttg
+            gttcagcagttccaacacacagtccttccctcagtgactcccttggcaaccctcatctgc
+            acactgattgccatattgccctctattttctgtctttggtttaaaccccaagggcccaga
+            ggctttctccgatgtctaactctttgtgccttgagctcctttatgtttgggtggcatgtt
+            catgaaaaagccatacttctagcaattctcccaatgagccttttgtctgtgggaaaagca
+            ggagacgcttcgatttttctgattctgaccacaacaggacattattccctctttcctctg
+            ctcttcactgcaccagaacttcccattaaaatcttactcatgttactattcaccatatat
+            agtatttcgtcactgaagactttattcagaaaagaaaaacctctttttaattggatggaa
+            actttctacctgcttggcctggggcctctggaagtctgctgtgaatttgtattccctttc
+            acctcctggaaggtgaagtaccccttcatccctttgttactaacctcagtgtattgtgca
+            gtaggcatcacatatgcttggttcaaactgtatgtttcagtattgattgactctgctatt
+            ggcaagacaaagaaacaatga
+///

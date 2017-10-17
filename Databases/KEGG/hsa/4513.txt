@@ -1,0 +1,66 @@
+ENTRY       4513              CDS       T01001
+NAME        COX2, COII, MTCO2, MT-CO2
+DEFINITION  (RefSeq) cytochrome c oxidase subunit II
+ORTHOLOGY   K02261  cytochrome c oxidase subunit 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00154  Cytochrome c oxidase
+DISEASE     H01368  Cytochrome c oxidase (COX) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4513 (COX2)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                4513 (COX2)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4513 (COX2)
+               05012 Parkinson's disease
+                4513 (COX2)
+               05016 Huntington's disease
+                4513 (COX2)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4513 (COX2)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Cytochrome c oxidase
+                4513 (COX2)
+POSITION    MT
+MOTIF       Pfam: COX2 COX2_TM DUF3100 DPM3 NPCC DUF2921
+DBLINKS     NCBI-GeneID: 4513
+            NCBI-ProteinID: YP_003024029
+            OMIM: 516040
+            HGNC: 7421
+            Pharos: P00403(Tchem)
+            UniProt: P00403 U5Z487
+AASEQ       227
+            MAHAAQVGLQDATSPIMEELITFHDHALMIIFLICFLVLYALFLTLTTKLTNTNISDAQE
+            METVWTILPAIILVLIALPSLRILYMTDEVNDPSLTIKSIGHQWYWTYEYTDYGGLIFNS
+            YMLPPLFLEPGDLRLLDVDNRVVLPIEAPIRMMITSQDVLHSWAVPTLGLKTDAIPGRLN
+            QTTFTATRPGVYYGQCSEICGANHSFMPIVLELIPLKIFEMGPVFTL
+NTSEQ       684
+            atggcacatgcagcgcaagtaggtctacaagacgctacttcccctatcatagaagagctt
+            atcacctttcatgatcacgccctcataatcattttccttatctgcttcctagtcctgtat
+            gcccttttcctaacactcacaacaaaactaactaatactaacatctcagacgctcaggaa
+            atagaaaccgtctgaactatcctgcccgccatcatcctagtcctcatcgccctcccatcc
+            ctacgcatcctttacataacagacgaggtcaacgatccctcccttaccatcaaatcaatt
+            ggccaccaatggtactgaacctacgagtacaccgactacggcggactaatcttcaactcc
+            tacatacttcccccattattcctagaaccaggcgacctgcgactccttgacgttgacaat
+            cgagtagtactcccgattgaagcccccattcgtataataattacatcacaagacgtcttg
+            cactcatgagctgtccccacattaggcttaaaaacagatgcaattcccggacgtctaaac
+            caaaccactttcaccgctacacgaccgggggtatactacggtcaatgctctgaaatctgt
+            ggagcaaaccacagtttcatgcccatcgtcctagaattaattcccctaaaaatctttgaa
+            atagggcccgtatttaccctatag
+///

@@ -1,0 +1,66 @@
+ENTRY       85465             CDS       T01001
+NAME        SELENOI, EPT1, SELI, SEPI
+DEFINITION  (RefSeq) selenoprotein I
+ORTHOLOGY   K00993  ethanolaminephosphotransferase [EC:2.7.8.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00440  Phosphonate and phosphinate metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00092  Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                85465 (SELENOI)
+               00565 Ether lipid metabolism
+                85465 (SELENOI)
+              Metabolism of other amino acids
+               00440 Phosphonate and phosphinate metabolism
+                85465 (SELENOI)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.1  ethanolaminephosphotransferase
+                 85465 (SELENOI)
+POSITION    2p23.3
+MOTIF       Pfam: CDP-OH_P_transf
+DBLINKS     NCBI-GeneID: 85465
+            NCBI-ProteinID: NP_277040
+            OMIM: 607915
+            HGNC: 29361
+            Ensembl: ENSG00000138018
+            Vega: OTTHUMG00000151931
+            Pharos: Q9C0D9(Tbio)
+            UniProt: Q9C0D9
+AASEQ       397
+            MAGYEYVSPEQLAGFDKYKYSAVDTNPLSLYVMHPFWNTIVKVFPTWLAPNLITFSGFLL
+            VVFNFLLMAYFDPDFYASAPGHKHVPDWVWIVVGILNFVAYTLDGVDGKQARRTNSSTPL
+            GELFDHGLDSWSCVYFVVTVYSIFGRGSTGVSVFVLYLLLWVVLFSFILSHWEKYNTGIL
+            FLPWGYDISQVTISFVYIVTAVVGVEAWYEPFLFNFLYRDLFTAMIIGCALCVTLPMSLL
+            NFFRSYKNNTLKLNSVYEAMVPLFSPCLLFILSTAWILWSPSDILELHPRVFYFMVGTAF
+            ANSTCQLIVCQMSSTRCPTLNWLLVPLFLVVLVVNLGVASYVESILLYTLTTAFTLAHIH
+            YGVRVVKQLSSHFQIYPFSLRKPNSDULGMEEKNIGL
+NTSEQ       1194
+            atggctggctacgaatacgtgagcccggagcagctggctggctttgataagtacaagtac
+            agtgctgtggataccaatccactttctctgtatgtcatgcatccattctggaacactata
+            gtaaaggtatttcctacttggctggcgcccaatctgataactttttctggctttctgctg
+            gtcgtattcaattttctgctaatggcatactttgatcctgacttttatgcctcagcacca
+            ggtcacaagcacgtgcctgactgggtttggattgtagtgggcatcctcaacttcgtagcc
+            tacactctagatggtgtggacggaaagcaagctcgcagaaccaattctagcactccctta
+            ggggagctttttgatcatggcctggatagttggtcatgtgtttactttgttgtgactgtt
+            tattccatctttggaagaggatcaactggtgtcagtgtttttgttctttatctcctgcta
+            tgggtagttttgttttctttcatcctgtcccactgggaaaagtataacacagggattctt
+            ttcctgccatggggatatgacattagccaggtgactatttcttttgtctacatagtgact
+            gcagttgtgggagttgaggcctggtatgaacctttcctgtttaatttcttatatagagac
+            ctattcactgcaatgattattggttgtgcattatgtgtgactcttccaatgagtttatta
+            aactttttcagaagctataaaaataacaccttgaaactcaattcagtctatgaagctatg
+            gttcccttattttctccatgcttgctgttcattttgtctacagcgtggatcctttggtca
+            ccttcagatattttagagctacatcctagagtattctactttatggttggaacagctttt
+            gccaacagtacatgtcagctgattgtttgccaaatgagtagtacccggtgtccaactttg
+            aattggttgctggttcctctcttcttggttgtcttagtggtaaacctaggagtagcctct
+            tacgttgagagcattctcctgtatacattaacaactgcttttactctggcccacatccat
+            tatggagtacgagtggtaaagcagctgagcagccattttcagatttaccccttctcattg
+            aggaaaccaaactcagattgactaggaatggaagaaaagaatattggcctgtaa
+///

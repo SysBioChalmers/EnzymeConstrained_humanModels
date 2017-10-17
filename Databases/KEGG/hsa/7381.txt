@@ -1,0 +1,56 @@
+ENTRY       7381              CDS       T01001
+NAME        UQCRB, MC3DN3, QCR7, QP-C, QPC, UQBC, UQBP, UQCR6, UQPC
+DEFINITION  (RefSeq) ubiquinol-cytochrome c reductase binding protein
+ORTHOLOGY   K00417  ubiquinol-cytochrome c reductase subunit 7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00152  Cytochrome bc1 complex
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                7381 (UQCRB)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                7381 (UQCRB)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                7381 (UQCRB)
+               05012 Parkinson's disease
+                7381 (UQCRB)
+               05016 Huntington's disease
+                7381 (UQCRB)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                7381 (UQCRB)
+POSITION    8q22.1
+MOTIF       Pfam: UCR_14kD
+DBLINKS     NCBI-GeneID: 7381
+            NCBI-ProteinID: NP_006285
+            OMIM: 191330
+            HGNC: 12582
+            Ensembl: ENSG00000156467
+            Vega: OTTHUMG00000164711
+            Pharos: P14927(Tbio)
+            UniProt: P14927
+STRUCTURE   PDB: 5XTE
+AASEQ       111
+            MAGKQAVSASGKWLDGIRKWYYNAAGFNKLGLMRDDTIYEDEDVKEAIRRLPENLYNDRM
+            FRIKRALDLNLKHQILPKEQWTKYEEENFYLEPYLKEVIRERKEREEWAKK
+NTSEQ       336
+            atggctggtaagcaggccgtttcagcatcaggcaagtggctggatggtattcgaaaatgg
+            tattacaatgctgcaggattcaataaactggggttaatgcgagatgatacaatatacgag
+            gatgaagatgtaaaagaagccataagaagacttcctgagaacctttataatgacaggatg
+            tttcgcattaagagggcactggacctgaacttgaagcatcagatcttgcctaaagagcag
+            tggaccaaatatgaagaggaaaatttctaccttgaaccgtatctgaaagaggttattcgg
+            gaaagaaaagaaagagaagaatgggcaaagaagtaa
+///

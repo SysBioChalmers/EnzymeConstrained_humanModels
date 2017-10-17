@@ -1,0 +1,106 @@
+ENTRY       2912              CDS       T01001
+NAME        GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2
+DEFINITION  (RefSeq) glutamate metabotropic receptor 2
+ORTHOLOGY   K04605  metabotropic glutamate receptor 2/3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04724  Glutamatergic synapse
+            hsa05030  Cocaine addiction
+DRUG_TARGET Eglumegad
+            Eglumetad (DG01987): D03966 D08908
+            Talaglumetad hydrochloride: D09008
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                2912 (GRM2)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2912 (GRM2)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2912 (GRM2)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                2912 (GRM2)
+            G protein-coupled receptors [BR:hsa04030]
+             Class C. Metabotropic glutamate receptor family
+              Biogenic amine
+               Glutamate (metabotropic) [OT]
+                2912 (GRM2)
+POSITION    3p21.2
+MOTIF       Pfam: ANF_receptor 7tm_3 NCD3G
+DBLINKS     NCBI-GeneID: 2912
+            NCBI-ProteinID: NP_000830
+            OMIM: 604099
+            HGNC: 4594
+            Ensembl: ENSG00000164082
+            Vega: OTTHUMG00000156902
+            Pharos: Q14416(Tchem)
+            UniProt: Q14416
+STRUCTURE   PDB: 4XAQ 4XAS 5CNJ 5CNI 5KZN 5KZQ
+AASEQ       872
+            MGSLLALLALLLLWGAVAEGPAKKVLTLEGDLVLGGLFPVHQKGGPAEDCGPVNEHRGIQ
+            RLEAMLFALDRINRDPHLLPGVRLGAHILDSCSKDTHALEQALDFVRASLSRGADGSRHI
+            CPDGSYATHGDAPTAITGVIGGSYSDVSIQVANLLRLFQIPQISYASTSAKLSDKSRYDY
+            FARTVPPDFFQAKAMAEILRFFNWTYVSTVASEGDYGETGIEAFELEARARNICVATSEK
+            VGRAMSRAAFEGVVRALLQKPSARVAVLFTRSEDARELLAASQRLNASFTWVASDGWGAL
+            ESVVAGSEGAAEGAITIELASYPISDFASYFQSLDPWNNSRNPWFREFWEQRFRCSFRQR
+            DCAAHSLRAVPFEQESKIMFVVNAVYAMAHALHNMHRALCPNTTRLCDAMRPVNGRRLYK
+            DFVLNVKFDAPFRPADTHNEVRFDRFGDGIGRYNIFTYLRAGSGRYRYQKVGYWAEGLTL
+            DTSLIPWASPSAGPLPASRCSEPCLQNEVKSVQPGEVCCWLCIPCQPYEYRLDEFTCADC
+            GLGYWPNASLTGCFELPQEYIRWGDAWAVGPVTIACLGALATLFVLGVFVRHNATPVVKA
+            SGRELCYILLGGVFLCYCMTFIFIAKPSTAVCTLRRLGLGTAFSVCYSALLTKTNRIARI
+            FGGAREGAQRPRFISPASQVAICLALISGQLLIVVAWLVVEAPGTGKETAPERREVVTLR
+            CNHRDASMLGSLAYNVLLIALCTLYAFKTRKCPENFNEAKFIGFTMYTTCIIWLAFLPIF
+            YVTSSDYRVQTTTMCVSVSLSGSVVLGCLFAPKLHIILFQPQKNVVSHRAPTSRFGSAAA
+            RASSSLGQGSGSQFVPTVCNGREVVDSTTSSL
+NTSEQ       2619
+            atgggatcgctgcttgcgctcctggcactgctgctgctgtggggtgctgtggctgagggc
+            ccagccaagaaggtgctgaccctggagggagacttggtgctgggtgggctgttcccagtg
+            caccagaagggcggcccagcagaggactgtggtcctgtcaatgagcaccgtggcatccag
+            cgcctggaggccatgctttttgcactggaccgcatcaaccgtgacccgcacctgctgcct
+            ggcgtgcgcctgggtgcacacatcctcgacagttgctccaaggacacacatgcgctggag
+            caggcactggactttgtgcgtgcctcactcagccgtggtgctgatggctcacgccacatc
+            tgccccgacggctcttatgcgacccatggtgatgctcccactgccatcactggtgttatt
+            ggcggttcctacagtgatgtctccatccaggtggccaacctcttgaggctatttcagatc
+            ccacagattagctacgcctctaccagtgccaagctgagtgacaagtcccgctatgactac
+            tttgcccgcacagtgcctcctgacttcttccaagccaaggccatggctgagattctccgc
+            ttcttcaactggacctatgtgtccactgtggcgtctgagggcgactatggcgagacaggc
+            attgaggcctttgagctagaggctcgtgcccgcaacatctgtgtggccacctcggagaaa
+            gtgggccgtgccatgagccgcgcggcctttgagggtgtggtgcgagccctgctgcagaag
+            cccagtgcccgcgtggctgtcctgttcacccgttctgaggatgcccgggagctgcttgct
+            gccagccagcgcctcaatgccagcttcacctgggtggccagtgatggttggggggccctg
+            gagagtgtggtggcaggcagtgagggggctgctgagggtgctatcaccatcgagctggcc
+            tcctaccccatcagtgactttgcctcctacttccagagcctggacccttggaacaacagc
+            cggaacccctggttccgtgaattctgggagcagaggttccgctgcagcttccggcagcga
+            gactgcgcagcccactctctccgggctgtgccctttgagcaggagtccaagatcatgttt
+            gtggtcaatgcagtgtacgccatggcccatgcgctccacaacatgcaccgtgccctctgc
+            cccaacaccacccggctctgtgacgcgatgcggccagttaacgggcgccgcctctacaag
+            gactttgtgctcaacgtcaagtttgatgccccctttcgcccagctgacacccacaatgag
+            gtccgctttgaccgctttggtgatggtattggccgctacaacatcttcacctatctgcgt
+            gcaggcagtgggcgctatcgctaccagaaggtgggctactgggcagaaggcttgactctg
+            gacaccagcctcatcccatgggcctcaccctcagccggccccctgcccgcctctcgctgc
+            agtgagccctgcctccagaatgaggtgaagagtgtgcagccgggcgaagtctgctgctgg
+            ctctgcattccgtgccagccctatgagtaccgattggacgaattcacttgcgctgattgt
+            ggcctgggctactggcccaatgccagcctgactggctgcttcgaactgccccaggagtac
+            atccgctggggcgatgcctgggctgtgggacctgtcaccatcgcctgcctcggtgccctg
+            gccaccctctttgtgctgggtgtctttgtgcggcacaatgccacaccagtggtcaaggcc
+            tcaggtcgggagctctgctacatcctgctgggtggtgtcttcctctgctactgcatgacc
+            ttcatcttcattgccaagccatccacggcagtgtgtaccttacggcgtcttggtttgggc
+            actgccttctctgtctgctactcagccctgctcaccaagaccaaccgcattgcacgcatc
+            ttcggtggggcccgggagggtgcccagcggccacgcttcatcagtcctgcctcacaggtg
+            gccatctgcctggcacttatctcgggccagctgctcatcgtggtcgcctggctggtggtg
+            gaggcaccgggcacaggcaaggagacagcccccgaacggcgggaggtggtgacactgcgc
+            tgcaaccaccgcgatgcaagtatgttgggctcgctggcctacaatgtgctcctcatcgcg
+            ctctgcacgctttatgccttcaagactcgcaagtgccccgaaaacttcaacgaggccaag
+            ttcattggcttcaccatgtacaccacctgcatcatctggctggcattcctgcccatcttc
+            tatgtcacctccagtgactaccgggtacagaccaccaccatgtgcgtgtcagtcagcctc
+            agcggctccgtggtgcttggctgcctctttgcgcccaagctgcacatcatcctcttccag
+            ccgcagaagaacgtggttagccaccgggcacccaccagccgctttggcagtgctgctgcc
+            agggccagctccagccttggccaagggtctggctcccagtttgtccccactgtttgcaat
+            ggccgtgaggtggtggactcgacaacgtcatcgctttga
+///

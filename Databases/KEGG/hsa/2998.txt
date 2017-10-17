@@ -1,0 +1,106 @@
+ENTRY       2998              CDS       T01001
+NAME        GYS2
+DEFINITION  (RefSeq) glycogen synthase 2
+ORTHOLOGY   K00693  glycogen synthase [EC:2.4.1.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H01760  Hepatic glycogen storage disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                2998 (GYS2)
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                2998 (GYS2)
+               04152 AMPK signaling pathway
+                2998 (GYS2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                2998 (GYS2)
+               04922 Glucagon signaling pathway
+                2998 (GYS2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                2998 (GYS2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.11  glycogen(starch) synthase
+                 2998 (GYS2)
+            Glycosyltransferases [BR:hsa01003]
+             Polysaccharide
+              Storage polysaccharide
+               2998 (GYS2)
+POSITION    12p12.1
+MOTIF       Pfam: Glycogen_syn Glycos_transf_1 Glyco_trans_1_4 Glyco_transf_4 Glyco_trans_4_4
+DBLINKS     NCBI-GeneID: 2998
+            NCBI-ProteinID: NP_068776
+            OMIM: 138571
+            HGNC: 4707
+            Ensembl: ENSG00000111713
+            Vega: OTTHUMG00000169135
+            Pharos: P54840(Tbio)
+            UniProt: P54840
+AASEQ       703
+            MLRGRSLSVTSLGGLPQWEVEELPVEELLLFEVAWEVTNKVGGIYTVIQTKAKTTADEWG
+            ENYFLIGPYFEHNMKTQVEQCEPVNDAVRRAVDAMNKHGCQVHFGRWLIEGSPYVVLFDI
+            GYSAWNLDRWKGDLWEACSVGIPYHDREANDMLIFGSLTAWFLKEVTDHADGKYVVAQFH
+            EWQAGIGLILSRARKLPIATIFTTHATLLGRYLCAANIDFYNHLDKFNIDKEAGERQIYH
+            RYCMERASVHCAHVFTTVSEITAIEAEHMLKRKPDVVTPNGLNVKKFSAVHEFQNLHAMY
+            KARIQDFVRGHFYGHLDFDLEKTLFLFIAGRYEFSNKGADIFLESLSRLNFLLRMHKSDI
+            TVMVFFIMPAKTNNFNVETLKGQAVRKQLWDVAHSVKEKFGKKLYDALLRGEIPDLNDIL
+            DRDDLTIMKRAIFSTQRQSLPPVTTHNMIDDSTDPILSTIRRIGLFNNRTDRVKVILHPE
+            FLSSTSPLLPMDYEEFVRGCHLGVFPSYYEPWGYTPAECTVMGIPSVTTNLSGFGCFMQE
+            HVADPTAYGIYIVDRRFRSPDDSCNQLTKFLYGFCKQSRRQRIIQRNRTERLSDLLDWRY
+            LGRYYQHARHLTLSRAFPDKFHVELTSPPTTEGFKYPRPSSVPPSPSGSQASSPQSSDVE
+            DEVEDERYDEEEEAERDRLNIKSPFSLSHVPHGKKKLHGEYKN
+NTSEQ       2112
+            atgcttcgaggccgatccctctctgtaacatccctgggtgggcttccccagtgggaagtc
+            gaagaacttcctgtggaggagttactgctctttgaagttgcttgggaagtgaccaataaa
+            gttggaggcatctatactgtgattcagacaaaggccaaaacaacagcagatgaatgggga
+            gagaactattttctgataggtccatattttgagcataatatgaagactcaggtggaacag
+            tgtgaacctgtaaatgatgctgtcagaagagcagtggacgcaatgaataagcatggctgc
+            caggtgcattttggaagatggctgatagaaggaagtccttatgtggtactttttgacata
+            ggctattcagcttggaatctggacaggtggaagggtgacctctgggaagcatgcagtgtc
+            ggcattccttatcatgaccgagaagccaatgatatgctgatatttggatctttaactgcc
+            tggttcttaaaagaggtgacagatcatgcagatggtaaatatgtcgttgcccaattccat
+            gaatggcaggctggaattggactgatcctttctcgagccaggaaacttcctattgccaca
+            atatttacaacccacgctacactacttgggaggtatctctgtgcagcaaatattgatttc
+            tacaaccatcttgataagtttaacattgacaaagaggctggggaaaggcagatttaccac
+            cggtactgcatggagcgagcttccgttcattgcgctcacgtgttcaccacggtttctgaa
+            ataacagcaatagaagctgaacatatgctgaagagaaagcctgatgtagttactccaaac
+            ggcttgaatgttaagaaattttcagcagtgcatgagtttcaaaatctacatgccatgtac
+            aaggccagaatccaagattttgttcgaggtcatttctatggtcatctcgactttgatctt
+            gaaaagactttgttccttttcattgctgggaggtatgagttttcaaacaaaggagctgac
+            atcttcctagaatccttatccaggctaaatttcctgctgaggatgcataaaagtgacatc
+            acagtgatggtgtttttcattatgcctgccaagacaaataatttcaacgtggaaaccctg
+            aaaggacaagcagtgcgaaaacagctgtgggatgttgcacattctgtgaaggaaaagttt
+            ggaaaaaaactctatgatgcattattaagaggagaaattcctgacctgaacgatatttta
+            gatcgagatgatctaacaattatgaaaagagccatcttttcaactcagcgacagtcattg
+            cccccagtgaccacgcacaacatgattgatgactccaccgaccccatcctcagcaccatt
+            agacggattggacttttcaacaaccgcacagatagagtcaaggtgattttgcacccagag
+            tttctatcctccaccagtcccttactacccatggactatgaagagtttgttagaggttgt
+            catcttggagtatttccatcatactatgaaccctggggttatactccagctgaatgcact
+            gtgatgggtatccccagtgtgaccacgaatctctccgggtttggctgtttcatgcaggag
+            cacgtggctgatcctactgcttacggtatttacatcgttgacaggcggttccgttctcca
+            gatgattcttgcaatcagctgactaagtttctctatggattttgcaaacagtcacgccgc
+            caaaggattatccagaggaacagaactgagaggctctcagatcttctggattggagatac
+            ttaggcagatattaccagcatgccagacacctgacattaagcagagcttttccagataaa
+            ttccatgtggaactaacatcaccaccaacgacagaaggatttaaatatcccaggccttcc
+            tcagtaccaccttctccttcagggtctcaggcctccagtcctcagagcagtgatgtggaa
+            gatgaagtggaggatgagagatacgatgaggaagaggaggctgaaagggatcggttaaat
+            atcaagtcaccattttcactgagccacgttcctcatgggaagaaaaagctgcatggtgaa
+            tataagaactga
+///

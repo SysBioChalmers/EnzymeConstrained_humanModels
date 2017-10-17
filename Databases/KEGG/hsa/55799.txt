@@ -1,0 +1,128 @@
+ENTRY       55799             CDS       T01001
+NAME        CACNA2D3, HSA272268
+DEFINITION  (RefSeq) calcium voltage-gated channel auxiliary subunit alpha2delta 3
+ORTHOLOGY   K04860  voltage-dependent calcium channel alpha-2/delta-3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04921  Oxytocin signaling pathway
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DRUG_TARGET Gabapentin: D00332
+            Gabapentin (DG01245): D09539
+            Pregabalin: D02716
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                55799 (CACNA2D3)
+             Organismal Systems
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                55799 (CACNA2D3)
+              Circulatory system
+               04260 Cardiac muscle contraction
+                55799 (CACNA2D3)
+               04261 Adrenergic signaling in cardiomyocytes
+                55799 (CACNA2D3)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                55799 (CACNA2D3)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                55799 (CACNA2D3)
+               05414 Dilated cardiomyopathy (DCM)
+                55799 (CACNA2D3)
+            Ion channels [BR:hsa04040]
+             Voltage-gated cation channels
+              Ca2+ channel, CACN alpha-2 delta
+               55799 (CACNA2D3)
+POSITION    3p21.1-p14.3
+MOTIF       Pfam: VGCC_alpha2 VWA_N dCache_1 VWA_3 VWA VWA_2 dCache_2 Cache_3-Cache_2 VWA_CoxE Phage_holin_6_1
+DBLINKS     NCBI-GeneID: 55799
+            NCBI-ProteinID: NP_060868
+            OMIM: 606399
+            HGNC: 15460
+            Ensembl: ENSG00000157445
+            Vega: OTTHUMG00000158580
+            Pharos: Q8IZS8(Tbio)
+            UniProt: Q8IZS8
+AASEQ       1091
+            MAGPGSPRRASRGASALLAAALLYAALGDVVRSEQQIPLSVVKLWASAFGGEIKSIAAKY
+            SGSQLLQKKYKEYEKDVAIEEIDGLQLVKKLAKNMEEMFHKKSEAVRRLVEAAEEAHLKH
+            EFDADLQYEYFNAVLINERDKDGNFLELGKEFILAPNDHFNNLPVNISLSDVQVPTNMYN
+            KDPAIVNGVYWSESLNKVFVDNFDRDPSLIWQYFGSAKGFFRQYPGIKWEPDENGVIAFD
+            CRNRKWYIQAATSPKDVVILVDVSGSMKGLRLTIAKQTVSSILDTLGDDDFFNIIAYNEE
+            LHYVEPCLNGTLVQADRTNKEHFREHLDKLFAKGIGMLDIALNEAFNILSDFNHTGQGSI
+            CSQAIMLITDGAVDTYDTIFAKYNWPDRKVRIFTYLIGREAAFADNLKWMACANKGFFTQ
+            ISTLADVQENVMEYLHVLSRPKVIDQEHDVVWTEAYIDSTLPQAQKLTDDQGPVLMTTVA
+            MPVFSKQNETRSKGILLGVVGTDVPVKELLKTIPKYKLGIHGYAFAITNNGYILTHPELR
+            LLYEEGKKRRKPNYSSVDLSEVEWEDRDDVLRNAMVNRKTGKFSMEVKKTVDKGKRVLVM
+            TNDYYYTDIKGTPFSLGVALSRGHGKYFFRGNVTIEEGLHDLEHPDVSLADEWSYCNTDL
+            HPEHRHLSQLEAIKLYLKGKEPLLQCDKELIQEVLFDAVVSAPIEAYWTSLALNKSENSD
+            KGVEVAFLGTRTGLSRINLFVGAEQLTNQDFLKAGDKENIFNADHFPLWYRRAAEQIPGS
+            FVYSIPFSTGPVNKSNVVTASTSIQLLDERKSPVVAAVGIQMKLEFFQRKFWTASRQCAS
+            LDGKCSISCDDETVNCYLIDNNGFILVSEDYTQTGDFFGEIEGAVMNKLLTMGSFKRITL
+            YDYQAMCRANKESSDGAHGLLDPYNAFLSAVKWIMTELVLFLVEFNLCSWWHSDMTAKAQ
+            KLKQTLEPCDTEYPAFVSERTIKETTGNIACEDCSKSFVIQQIPSSNLFMVVVDSSCLCE
+            SVAPITMAPIEIRYNESLKCERLKAQKIRRRPESCHGFHPEENARECGGAPSLQAQTVLL
+            LLPLLLMLFSR
+NTSEQ       3276
+            atggccgggccgggctcgccgcgccgcgcgtcccggggggcctcggcgcttctcgctgcc
+            gcgcttctctacgccgcgctgggggacgtggtgcgctcggagcagcagataccgctctcc
+            gtggtgaagctctgggcctcggcttttggtggggagataaaatccattgctgctaagtac
+            tccggttcccagcttctgcaaaagaaatacaaagagtatgagaaagacgttgccatagaa
+            gaaatcgatggcctccaactggtaaagaagctggcaaagaacatggaagagatgtttcac
+            aagaagtctgaggccgtcaggcgtctggtggaggctgcagaagaagcacacctgaaacat
+            gaatttgatgcagacttacagtatgaatacttcaatgctgtgctgataaatgaaagggac
+            aaagacgggaattttttggagctgggaaaggaattcatcttagccccaaatgaccatttt
+            aataatttgcctgtgaacatcagtctaagtgacgtccaagtaccaacgaacatgtacaac
+            aaagaccctgcaattgtcaatggggtttattggtctgaatctctaaacaaagtttttgta
+            gataactttgaccgtgacccatctctcatatggcagtactttggaagtgcaaagggcttt
+            tttaggcagtatccggggattaaatgggaaccagatgagaatggagtcattgccttcgac
+            tgcaggaaccgaaaatggtacatccaggcagcaacttctccgaaagacgtggtcatttta
+            gttgacgtcagtggcagcatgaaaggactccgtctgactatcgcgaagcaaacagtctca
+            tccattttggatacacttggggatgatgacttcttcaacataattgcttataatgaggag
+            cttcactatgtggaaccttgcctgaatggaactttggtgcaagccgacaggacaaacaaa
+            gagcacttcagggagcatctggacaaacttttcgccaaaggaattggaatgttggatata
+            gctctgaatgaggccttcaacattctgagtgatttcaaccacacgggacaaggaagtatc
+            tgcagtcaggccatcatgctcataactgatggggcggtggacacctatgatacaatcttt
+            gcaaaatacaattggccagatcgaaaggttcgcatcttcacatacctcattggacgagag
+            gctgcgtttgcagacaatctaaagtggatggcctgtgccaacaaaggattttttacccag
+            atctccaccttggctgatgtgcaggagaatgtcatggaataccttcacgtgcttagccgg
+            cccaaagtcatcgaccaggagcatgatgtggtgtggaccgaagcttacattgacagcact
+            ctccctcaggcacaaaagctgactgatgatcagggccccgtcctgatgaccactgtagcc
+            atgcctgtgtttagtaagcagaacgaaaccagatcgaagggcattcttctgggagtggtt
+            ggcacagatgtcccagtgaaagaacttctgaagaccatccccaaatacaagttagggatt
+            cacggttatgcctttgcaatcacaaataatggatatatcctgacgcatccggaactcagg
+            ctgctgtacgaagaaggaaaaaagcgaaggaaacctaactatagtagcgttgacctctct
+            gaggtggagtgggaagaccgagatgacgtgttgagaaatgctatggtgaatcgaaagacg
+            gggaagttttccatggaggtgaagaagacagtggacaaagggaaacgggttttggtgatg
+            acaaatgactactattatacagacatcaagggtactcctttcagtttaggtgtggcgctt
+            tccagaggtcatgggaaatatttcttccgagggaatgtaaccatcgaagaaggcctgcat
+            gacttagaacatcccgatgtgtccttggcagatgaatggtcctactgcaacactgaccta
+            caccctgagcaccgccatctgtctcagttagaagcgattaagctctacctaaaaggcaaa
+            gaacctctgctccagtgtgataaagaattgatccaagaagtcctttttgacgcggtggtg
+            agtgcccccattgaagcgtattggaccagcctggccctcaacaaatctgaaaattctgac
+            aagggcgtggaggttgccttcctcggcactcgcacgggcctctccagaatcaacctgttt
+            gtcggggctgagcagctcaccaatcaggacttcctgaaagctggcgacaaggagaacatt
+            tttaacgcagaccatttccctctctggtaccgaagagccgctgagcagattccagggagc
+            ttcgtctactcgatcccattcagcactggaccagtcaataaaagcaatgtggtgacagca
+            agtacatccatccagctcctggatgaacggaaatctcctgtggtggcagctgtaggcatt
+            cagatgaaacttgaatttttccaaaggaagttctggactgccagcagacagtgtgcttcc
+            ctggatggcaaatgctccatcagctgtgatgatgagactgtgaattgttacctcatagac
+            aataatggatttattttggtgtctgaagactacacacagactggagacttttttggtgag
+            atcgagggagctgtgatgaacaaattgctaacaatgggctcctttaaaagaattaccctt
+            tatgactaccaagccatgtgtagagccaacaaggaaagcagcgatggcgcccatggcctc
+            ctggatccttataatgccttcctctctgcagtaaaatggatcatgacagaacttgtcttg
+            ttcctggtggaatttaacctctgcagttggtggcactccgatatgacagctaaagcccag
+            aaattgaaacagaccctggagccttgtgatactgaatatccagcattcgtctctgagcgc
+            accatcaaggagactacagggaatattgcttgtgaagactgctccaagtcctttgtcatc
+            cagcaaatcccaagcagcaacctgttcatggtggtggtggacagcagctgcctctgtgaa
+            tctgtggcccccatcaccatggcacccattgaaatcaggtataatgaatcccttaagtgt
+            gaacgtctaaaggcccagaagatcagaaggcgcccagaatcttgtcatggcttccatcct
+            gaggagaatgcaagggagtgtgggggtgcgccgagtctccaagcccagacagtcctcctt
+            ctgctccctctgcttttgatgctcttctcaaggtga
+///

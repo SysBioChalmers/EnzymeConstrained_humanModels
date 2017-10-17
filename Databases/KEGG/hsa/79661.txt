@@ -1,0 +1,69 @@
+ENTRY       79661             CDS       T01001
+NAME        NEIL1, FPG1, NEI1, hFPG1
+DEFINITION  (RefSeq) nei like DNA glycosylase 1
+ORTHOLOGY   K10567  endonuclease VIII-like 1 [EC:3.2.2.- 4.2.99.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                79661 (NEIL1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.-  
+                 79661 (NEIL1)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 79661 (NEIL1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 79661 (NEIL1)
+POSITION    15q24.2
+MOTIF       Pfam: Neil1-DNA_bind Fapy_DNA_glyco H2TH
+DBLINKS     NCBI-GeneID: 79661
+            NCBI-ProteinID: NP_078884
+            OMIM: 608844
+            HGNC: 18448
+            Ensembl: ENSG00000140398
+            Vega: OTTHUMG00000142821
+            Pharos: Q96FI4(Tbio)
+            UniProt: Q96FI4
+STRUCTURE   PDB: 5ITQ 1TDH 5ITU 5ITR 5ITY 5ITT 4NRV 5ITX
+AASEQ       390
+            MPEGPELHLASQFVNEACRALVFGGCVEKSSVSRNPEVPFESSAYRISASARGKELRLIL
+            SPLPGAQPQQEPLALVFRFGMSGSFQLVPREELPRHAHLRFYTAPPGPRLALCFVDIRRF
+            GRWDLGGKWQPGRGPCVLQEYQQFRENVLRNLADKAFDRPICEALLDQRFFNGIGNYLRA
+            EILYRLKIPPFEKARSVLEALQQHRPSPELTLSQKIRTKLQNPDLLELCHSVPKEVVQLG
+            GKGYGSESGEEDFAAFRAWLRCYGMPGMSSLQDRHGRTIWFQGDPGPLAPKGRKSRKKKS
+            KATQLSPEDRVEDALPPSKAPSRTRRAKRDLPKRTATQRPEGTSLQQDPEAPTVPKKGRR
+            KGRQAASGHCRPRKVKADIPSLEPEGTSAS
+NTSEQ       1173
+            atgcctgagggccccgagctgcacctggccagccagtttgtgaatgaggcctgcagggcg
+            ctggtgttcggcggctgcgtggagaagtcctctgtcagccgcaaccctgaggtgcccttt
+            gagagcagtgcctaccgcatctcagcttcagcccgcggcaaggagctgcgcctgatactg
+            agccctctgcctggggcccagccccaacaggagccactggccctggtcttccgcttcggc
+            atgtccggctcttttcagctggtgccccgcgaggagctgccacgccatgcccacctgcgc
+            ttttacacggccccgcctggcccccggctcgccctatgtttcgtggacatccgccggttc
+            ggccgctgggaccttgggggaaagtggcagccgggccgcgggccctgtgtcttgcaggag
+            taccagcagttcagggagaatgtgctacgaaacctagcggataaggcctttgaccggccc
+            atctgcgaggccctcctggaccagaggttcttcaatggcattggcaactatctgcgggca
+            gagatcctgtaccggctgaagatccccccctttgagaaggcccgctcggtcctggaggcc
+            ctgcagcagcacaggccgagcccggagctgaccctgagccagaagataaggaccaagctg
+            cagaatccagacctgctggagctatgtcactcagtgcccaaggaagtggtccagttgggg
+            ggcaaaggctacgggtcagagagcggggaggaggactttgctgcctttcgagcctggctg
+            cgctgctatggcatgccaggcatgagctccctgcaggaccggcatggccgtaccatctgg
+            ttccagggggatcctggaccgttggcacccaaagggcgcaagtcccgcaaaaagaaatcc
+            aaggccacacagctgagtcctgaggacagagtggaggacgctttgcctccaagcaaggcc
+            ccttccaggacacgaagggcaaagagagaccttcctaagaggactgcaacccagcggcct
+            gaggggaccagcctccagcaggacccagaagctcccacagtgcccaagaaggggaggagg
+            aaggggcgacaggcagcctctggccactgcagaccccggaaggtcaaggctgacatccca
+            tccttggaaccagaggggacctcagcctcttag
+///

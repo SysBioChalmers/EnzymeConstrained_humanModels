@@ -1,0 +1,106 @@
+ENTRY       240               CDS       T01001
+NAME        ALOX5, 5-LO, 5-LOX, 5LPG, LOG5
+DEFINITION  (RefSeq) arachidonate 5-lipoxygenase
+ORTHOLOGY   K00461  arachidonate 5-lipoxygenase [EC:1.13.11.34]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00590  Arachidonic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04726  Serotonergic synapse
+            hsa04913  Ovarian steroidogenesis
+            hsa05145  Toxoplasmosis
+DRUG_TARGET Atreleuton: D03010
+            Benoxaprofen: D03080
+            Docebenone: D03882
+            Enazadrem phosphate: D03990
+            Fenleuton: D04151
+            Linazolast: D09850
+            Lonapalene: D04770
+            Oxatomide: D01773
+            Setileuton: D09667
+            Zileuton: D00414
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00590 Arachidonic acid metabolism
+                240 (ALOX5)
+             Organismal Systems
+              Immune system
+               04664 Fc epsilon RI signaling pathway
+                240 (ALOX5)
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                240 (ALOX5)
+              Nervous system
+               04726 Serotonergic synapse
+                240 (ALOX5)
+             Human Diseases
+              Infectious diseases
+               05145 Toxoplasmosis
+                240 (ALOX5)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.34  arachidonate 5-lipoxygenase
+                 240 (ALOX5)
+POSITION    10q11.21
+MOTIF       Pfam: Lipoxygenase PLAT
+DBLINKS     NCBI-GeneID: 240
+            NCBI-ProteinID: NP_000689
+            OMIM: 152390
+            HGNC: 435
+            Ensembl: ENSG00000012779
+            Vega: OTTHUMG00000018081
+            Pharos: P09917(Tclin)
+            UniProt: P09917
+STRUCTURE   PDB: 3V98 3V99 3O8Y 3V92
+AASEQ       674
+            MPSYTVTVATGSQWFAGTDDYIYLSLVGSAGCSEKHLLDKPFYNDFERGAVDSYDVTVDE
+            ELGEIQLVRIEKRKYWLNDDWYLKYITLKTPHGDYIEFPCYRWITGDVEVVLRDGRAKLA
+            RDDQIHILKQHRRKELETRQKQYRWMEWNPGFPLSIDAKCHKDLPRDIQFDSEKGVDFVL
+            NYSKAMENLFINRFMHMFQSSWNDFADFEKIFVKISNTISERVMNHWQEDLMFGYQFLNG
+            CNPVLIRRCTELPEKLPVTTEMVECSLERQLSLEQEVQQGNIFIVDFELLDGIDANKTDP
+            CTLQFLAAPICLLYKNLANKIVPIAIQLNQIPGDENPIFLPSDAKYDWLLAKIWVRSSDF
+            HVHQTITHLLRTHLVSEVFGIAMYRQLPAVHPIFKLLVAHVRFTIAINTKAREQLICECG
+            LFDKANATGGGGHVQMVQRAMKDLTYASLCFPEAIKARGMESKEDIPYYFYRDDGLLVWE
+            AIRTFTAEVVDIYYEGDQVVEEDPELQDFVNDVYVYGMRGRKSSGFPKSVKSREQLSEYL
+            TVVIFTASAQHAAVNFGQYDWCSWIPNAPPTMRAPPPTAKGVVTIEQIVDTLPDRGRSCW
+            HLGAVWALSQFQENELFLGMYPEEHFIEKPVKEAMARFRKNLEAIVSVIAERNKKKQLPY
+            YYLSPDRIPNSVAI
+NTSEQ       2025
+            atgccctcctacacggtcaccgtggccactggcagccagtggttcgccggcactgacgac
+            tacatctacctcagcctcgtgggctcggcgggctgcagcgagaagcacctgctggacaag
+            cccttctacaacgacttcgagcgtggcgcggtggattcatacgacgtgactgtggacgag
+            gaactgggcgagatccagctggtcagaatcgagaagcgcaagtactggctgaatgacgac
+            tggtacctgaagtacatcacgctgaagacgccccacggggactacatcgagttcccctgc
+            taccgctggatcaccggcgatgtcgaggttgtcctgagggatggacgcgcaaagttggcc
+            cgagatgaccaaattcacattctcaagcaacaccgacgtaaagaactggaaacacggcaa
+            aaacaatatcgatggatggagtggaaccctggcttccccttgagcatcgatgccaaatgc
+            cacaaggatttaccccgtgatatccagtttgatagtgaaaaaggagtggactttgttctg
+            aattactccaaagcgatggagaacctgttcatcaaccgcttcatgcacatgttccagtct
+            tcttggaatgacttcgccgactttgagaaaatctttgtcaagatcagcaacactatttct
+            gagcgggtcatgaatcactggcaggaagacctgatgtttggctaccagttcctgaatggc
+            tgcaaccctgtgttgatccggcgctgcacagagctgcccgagaagctcccggtgaccacg
+            gagatggtagagtgcagcctggagcggcagctcagcttggagcaggaggtccagcaaggg
+            aacattttcatcgtggactttgagctgctggatggcatcgatgccaacaaaacagacccc
+            tgcacactccagttcctggccgctcccatctgcttgctgtataagaacctggccaacaag
+            attgtccccattgccatccagctcaaccaaatcccgggagatgagaaccctattttcctc
+            ccttcggatgcaaaatacgactggcttttggccaaaatctgggtgcgttccagtgacttc
+            cacgtccaccagaccatcacccaccttctgcgaacacatctggtgtctgaggtttttggc
+            attgcaatgtaccgccagctgcctgctgtgcaccccattttcaagctgctggtggcacac
+            gtgagattcaccattgcaatcaacaccaaggcccgtgagcagctcatctgcgagtgtggc
+            ctctttgacaaggccaacgccacagggggcggtgggcacgtgcagatggtgcagagggcc
+            atgaaggacctgacctatgcctccctgtgctttcccgaggccatcaaggcccggggcatg
+            gagagcaaagaagacatcccctactacttctaccgggacgacgggctcctggtgtgggaa
+            gccatcaggacgttcacggccgaggtggtagacatctactacgagggcgaccaggtggtg
+            gaggaggacccggagctgcaggacttcgtgaacgatgtctacgtgtacggcatgcggggc
+            cgcaagtcctcaggcttccccaagtcggtcaagagccgggagcagctgtcggagtacctg
+            accgtggtgatcttcaccgcctccgcccagcacgccgcggtcaacttcggccagtacgac
+            tggtgctcctggatccccaatgcgcccccaaccatgcgagccccgccaccgactgccaag
+            ggcgtggtgaccattgagcagatcgtggacacgctgcccgaccgcggccgctcctgctgg
+            catctgggtgcagtgtgggcgctgagccagttccaggaaaacgagctgttcctgggcatg
+            tacccagaagagcattttatcgagaagcctgtgaaggaagccatggcccgattccgcaag
+            aacctcgaggccattgtcagcgtgattgctgagcgcaacaagaagaagcagctgccatat
+            tactacttgtccccagaccggattccgaacagtgtggccatctga
+///

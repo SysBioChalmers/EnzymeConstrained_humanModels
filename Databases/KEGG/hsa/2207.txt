@@ -1,0 +1,58 @@
+ENTRY       2207              CDS       T01001
+NAME        FCER1G, FCRG
+DEFINITION  (RefSeq) Fc fragment of IgE receptor Ig
+ORTHOLOGY   K07983  Fc receptor, IgE, high affinity I, gamma polypeptide
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04611  Platelet activation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa05152  Tuberculosis
+            hsa05310  Asthma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                2207 (FCER1G)
+               04071 Sphingolipid signaling pathway
+                2207 (FCER1G)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                2207 (FCER1G)
+               04650 Natural killer cell mediated cytotoxicity
+                2207 (FCER1G)
+               04664 Fc epsilon RI signaling pathway
+                2207 (FCER1G)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                2207 (FCER1G)
+              Infectious diseases
+               05152 Tuberculosis
+                2207 (FCER1G)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of microglial cells
+               2207 (FCER1G)
+POSITION    1q23.3
+MOTIF       Pfam: TCR_zetazeta ITAM SGS
+DBLINKS     NCBI-GeneID: 2207
+            NCBI-ProteinID: NP_004097
+            OMIM: 147139
+            HGNC: 3611
+            Ensembl: ENSG00000158869
+            Vega: OTTHUMG00000034343
+            Pharos: P30273(Tbio)
+            UniProt: P30273
+AASEQ       86
+            MIPAVVLLLLLLVEQAAALGEPQLCYILDAILFLYGIVLTLLYCRLKIQVRKAAITSYEK
+            SDGVYTGLSTRNQETYETLKHEKPPQ
+NTSEQ       261
+            atgattccagcagtggtcttgctcttactccttttggttgaacaagcagcggccctggga
+            gagcctcagctctgctatatcctggatgccatcctgtttctgtatggaattgtcctcacc
+            ctcctctactgtcgactgaagatccaagtgcgaaaggcagctataaccagctatgagaaa
+            tcagatggtgtttacacgggcctgagcaccaggaaccaggagacttacgagactctgaag
+            catgagaaaccaccacagtag
+///

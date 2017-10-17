@@ -1,0 +1,76 @@
+ENTRY       10617             CDS       T01001
+NAME        STAMBP, AMSH, MICCAP
+DEFINITION  (RefSeq) STAM binding protein
+ORTHOLOGY   K11866  STAM-binding protein [EC:3.4.19.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+DISEASE     H01872  Microcephaly-capillary malformation syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                10617 (STAMBP)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 10617 (STAMBP)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M67
+               10617 (STAMBP)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Others
+               Others
+                10617 (STAMBP)
+            Ubiquitin system [BR:hsa04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               JAMM
+                10617 (STAMBP)
+POSITION    2p13.1
+MOTIF       Pfam: USP8_dimer JAB Prok-JAB TPR_8
+DBLINKS     NCBI-GeneID: 10617
+            NCBI-ProteinID: NP_006454
+            OMIM: 606247
+            HGNC: 16950
+            Ensembl: ENSG00000124356
+            Vega: OTTHUMG00000129817
+            Pharos: O95630(Tbio)
+            UniProt: O95630 A0A140VK54
+STRUCTURE   PDB: 3RZV 2XZE 3RZU
+AASEQ       424
+            MSDHGDVSLPPEDRVRALSQLGSAVEVNEDIPPRRYFRSGVEIIRMASIYSEEGNIEHAF
+            ILYNKYITLFIEKLPKHRDYKSAVIPEKKDTVKKLKEIAFPKAEELKAELLKRYTKEYTE
+            YNEEKKKEAEELARNMAIQQELEKEKQRVAQQKQQQLEQEQFHAFEEMIRNQELEKERLK
+            IVQEFGKVDPGLGGPLVPDLEKPSLDVFPTLTVSSIQPSDCHTTVRPAKPPVVDRSLKPG
+            ALSNSESIPTIDGLRHVVVPGRLCPQFLQLASANTARGVETCGILCGKLMRNEFTITHVL
+            IPKQSAGSDYCNTENEEELFLIQDQQGLITLGWIHTHPTQTAFLSSVDLHTHCSYQMMLP
+            ESVAIVCSPKFQETGFFKLTDHGLEEISSCRQKGFHPHSKDPPLFCSCSHVTVVDRAVTI
+            TDLR
+NTSEQ       1275
+            atgtctgaccatggagatgtgagcctcccgcccgaagaccgggtgagggctctctcccag
+            ctgggtagtgcggtagaggtgaatgaagacattccaccccgtcggtacttccgctctgga
+            gttgagattatccgaatggcatccatttactctgaggaaggcaacattgaacatgccttc
+            atcctctataacaagtatatcacgctctttattgagaaactaccaaaacatcgagattac
+            aaatctgctgtcattcctgaaaagaaagacacagtaaagaaattaaaggagattgcattt
+            cccaaagcagaagagctgaaggcagagctgttaaaacgatataccaaagaatatacagaa
+            tataatgaagaaaagaagaaggaagcagaggaattggcccggaacatggccatccagcaa
+            gagctggaaaaggaaaaacagagggtagcacaacagaagcagcagcaattggaacaggaa
+            cagttccatgccttcgaggagatgatccggaaccaggagctagaaaaagagcgactgaaa
+            attgtacaggagtttgggaaggtagaccctggcctaggtggcccgctagtgcctgacttg
+            gagaagccctccttagatgtgttccccaccttaacagtctcatccatacagccttcagac
+            tgtcacacaactgtaaggccagctaagccacctgtggtggacaggtccttgaaacctgga
+            gcactgagcaactcagaaagtattcccacaatcgatggattgcgccatgtggtggtgcct
+            gggcggctgtgcccacagtttctccagttagccagtgccaacactgcccggggagtggag
+            acatgtggaattctctgtggaaaactgatgaggaatgaatttaccattacccatgttctc
+            atccccaagcaaagtgctgggtctgattactgcaacacagagaacgaagaagaacttttc
+            ctcatacaggatcagcagggcctcatcacactgggctggattcatactcaccccacacag
+            accgcgtttctctccagtgtcgacctacacactcactgctcttaccagatgatgttgcca
+            gagtcagtagccattgtttgctcccccaagttccaggaaactggattctttaaactaact
+            gaccatggactagaggagatttcttcctgtcgccagaaaggatttcatccacacagcaag
+            gatccacctctgttctgtagctgcagccacgtgactgttgtggacagagcagtgaccatc
+            acagaccttcgatga
+///

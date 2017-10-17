@@ -1,0 +1,61 @@
+ENTRY       27430             CDS       T01001
+NAME        MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR
+DEFINITION  (RefSeq) methionine adenosyltransferase 2B
+ORTHOLOGY   K00789  S-adenosylmethionine synthetase [EC:2.5.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00034  Methionine salvage pathway
+            hsa_M00035  Methionine degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                27430 (MAT2B)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                27430 (MAT2B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.6  methionine adenosyltransferase
+                 27430 (MAT2B)
+POSITION    5q34
+MOTIF       Pfam: RmlD_sub_bind Epimerase GDP_Man_Dehyd Polysacc_synt_2 NAD_binding_4 3Beta_HSD DapB_N
+DBLINKS     NCBI-GeneID: 27430
+            NCBI-ProteinID: NP_037415
+            OMIM: 605527
+            HGNC: 6905
+            Ensembl: ENSG00000038274
+            Vega: OTTHUMG00000130379
+            Pharos: Q9NZL9(Tbio)
+            UniProt: Q9NZL9 A0A140VJP2
+STRUCTURE   PDB: 2YDY 4NDN 4KTT 2YDX 4KTV
+AASEQ       334
+            MVGREKELSIHFVPGSCRLVEEEVNIPNRRVLVTGATGLLGRAVHKEFQQNNWHAVGCGF
+            RRARPKFEQVNLLDSNAVHHIIHDFQPHVIVHCAAERRPDVVENQPDAASQLNVDASGNL
+            AKEAAAVGAFLIYISSDYVFDGTNPPYREEDIPAPLNLYGKTKLDGEKAVLENNLGAAVL
+            RIPILYGEVEKLEESAVTVMFDKVQFSNKSANMDHWQQRFPTHVKDVATVCRQLAEKRML
+            DPSIKGTFHWSGNEQMTKYEMACAIADAFNLPSSHLRPITDSPVLGAQRPRNAQLDCSKL
+            ETLGIGQRTPFRIGIKESLWPFLIDKRWRQTVFH
+NTSEQ       1005
+            atggtggggcgggagaaagagctctctatacactttgttcccgggagctgtcggctggtg
+            gaggaggaagttaacatccctaataggagggttctggttactggtgccactgggcttctt
+            ggcagagctgtacacaaagaatttcagcagaataattggcatgcagttggctgtggtttc
+            agaagagcaagaccaaaatttgaacaggttaatctgttggattctaatgcagttcatcac
+            atcattcatgattttcagccccatgttatagtacattgtgcagcagagagaagaccagat
+            gttgtagaaaatcagccagatgctgcctctcaacttaatgtggatgcttctgggaattta
+            gcaaaggaagcagctgctgttggagcatttctcatctacattagctcagattatgtattt
+            gatggaacaaatccaccttacagagaggaagacataccagctcccctaaatttgtatggc
+            aaaacaaaattagatggagaaaaggctgtcctggagaacaatctaggagctgctgttttg
+            aggattcctattctgtatggggaagttgaaaagctcgaagaaagtgctgtgactgttatg
+            tttgataaagtgcagttcagcaacaagtcagcaaacatggatcactggcagcagaggttc
+            cccacacatgtcaaagatgtggccactgtgtgccggcagctagcagagaagagaatgctg
+            gatccatcaattaagggaacctttcactggtctggcaatgaacagatgactaagtatgaa
+            atggcatgtgcaattgcagatgccttcaacctccccagcagtcacttaagacctattact
+            gacagccctgtcctaggagcacaacgtccgagaaatgctcagcttgactgctccaaattg
+            gagaccttgggcattggccaacgaacaccatttcgaattggaatcaaagaatcactttgg
+            cctttcctcattgacaagagatggagacaaacggtctttcattag
+///

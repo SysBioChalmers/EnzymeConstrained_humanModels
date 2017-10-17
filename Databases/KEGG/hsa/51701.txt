@@ -1,0 +1,81 @@
+ENTRY       51701             CDS       T01001
+NAME        NLK
+DEFINITION  (RefSeq) nemo like kinase
+ORTHOLOGY   K04468  nemo like kinase [EC:2.7.11.24]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04520  Adherens junction
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                51701 (NLK)
+               04310 Wnt signaling pathway
+                51701 (NLK)
+               04068 FoxO signaling pathway
+                51701 (NLK)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                51701 (NLK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.24  mitogen-activated protein kinase
+                 51701 (NLK)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CMGC group
+              MAPK family [OT]
+               51701 (NLK)
+POSITION    17q11.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Haspin_kinase Kinase-like FTA2
+DBLINKS     NCBI-GeneID: 51701
+            NCBI-ProteinID: NP_057315
+            OMIM: 609476
+            HGNC: 29858
+            Ensembl: ENSG00000087095
+            Vega: OTTHUMG00000132451
+            Pharos: Q9UBE8(Tchem)
+            UniProt: Q9UBE8 A0A024QZ12
+AASEQ       527
+            MSLCGARANAKMMAAYNGGTSAAAAGHHHHHHHHLPHLPPPHLHHHHHPQHHLHPGSAAA
+            VHPVQQHTSSAAAAAAAAAAAAAMLNPGQQQPYFPSPAPGQAPGPAAAAPAQVQAAAAAT
+            VKAHHHQHSHHPQQQLDIEPDRPIGYGAFGVVWSVTDPRDGKRVALKKMPNVFQNLVSCK
+            RVFRELKMLCFFKHDNVLSALDILQPPHIDYFEEIYVVTELMQSDLHKIIVSPQPLSSDH
+            VKVFLYQILRGLKYLHSAGILHRDIKPGNLLVNSNCVLKICDFGLARVEELDESRHMTQE
+            VVTQYYRAPEILMGSRHYSNAIDIWSVGCIFAELLGRRILFQAQSPIQQLDLITDLLGTP
+            SLEAMRTACEGAKAHILRGPHKQPSLPVLYTLSSQATHEAVHLLCRMLVFDPSKRISAKD
+            ALAHPYLDEGRLRYHTCMCKCCFSTSTGRVYTSDFEPVTNPKFDDTFEKNLSSVRQVKEI
+            IHQFILEQQKGNRVPLCINPQSAAFKSFISSTVAQPSEMPPSPLVWE
+NTSEQ       1584
+            atgtctctttgtggcgcaagagccaacgcaaaaatgatggcggcttacaatggcggtaca
+            tctgcagcagcagcaggtcaccaccaccaccatcaccaccaccttccacacctccctcct
+            cctcacctgcaccaccaccaccaccctcaacaccatcttcatccggggtcggctgccgct
+            gtacaccctgtacagcagcacacctcttcggcagctgcggcagccgcagcagcggctgca
+            gctgcagccatgttaaaccctgggcaacaacagccatatttcccatcaccggcaccgggg
+            caggctcctggaccagctgcagcagccccagctcaggtacaggctgccgcagctgctaca
+            gttaaggcgcaccatcatcagcactcgcatcatccacagcagcagctggatattgagccg
+            gatagacctattggatatggagcctttggtgttgtctggtcagtaacagatccaagagat
+            ggaaagagagtagcgctcaaaaagatgcccaacgtcttccagaatctggtctcttgcaaa
+            agggtcttccgggaattgaagatgttgtgtttttttaagcatgataatgtactctctgcc
+            cttgacatactccaacctccacacattgactattttgaagaaatatatgttgtcacagaa
+            ttgatgcagagtgacctacataaaattatcgtctctcctcaaccactcagctcagatcat
+            gtcaaagtttttctttatcagattttgcgaggtttgaaatatctccattcagctggcatt
+            ttacatcgagacattaagccagggaatctccttgtgaacagcaactgtgttctaaagatt
+            tgtgattttggattggccagagtggaagaattagatgaatcccgtcatatgactcaggaa
+            gttgttactcagtattatcgggctccagaaatcctgatgggcagccgtcattacagcaat
+            gctattgacatctggtctgtgggatgtatctttgcagaactactaggacgaagaatattg
+            tttcaggcacagagtcccattcagcagttggatttgatcacggatctgttgggcacacca
+            tcactggaagcaatgaggacagcttgtgaaggcgctaaggcacatatactcaggggtcct
+            cataaacagccatctcttcctgtactctataccctgtctagccaggctacacatgaagct
+            gttcatctcctttgcaggatgttggtctttgatccatccaaaagaatatccgctaaggat
+            gccttagcccacccctacctagatgaagggcgactacgatatcacacatgtatgtgtaaa
+            tgttgcttttccacctccactggaagagtttataccagtgactttgagcctgtcaccaat
+            cccaaatttgatgacactttcgagaagaacctcagttctgtccgacaggttaaagaaatt
+            attcatcagttcattttggaacagcagaaaggaaacagagtgcctctctgcatcaaccct
+            cagtctgctgcttttaagagctttattagttccactgttgctcagccatctgagatgccc
+            ccatctcctctggtgtgggagtga
+///

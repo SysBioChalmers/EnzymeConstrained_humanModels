@@ -1,0 +1,77 @@
+ENTRY       79132             CDS       T01001
+NAME        DHX58, D11LGP2, D11lgp2e, LGP2, RLR-3
+DEFINITION  (RefSeq) DExH-box helicase 58
+ORTHOLOGY   K12649  ATP-dependent RNA helicase DHX58 [EC:3.6.3.14]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04622  RIG-I-like receptor signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                79132 (DHX58)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.14  H+-transporting two-sector ATPase
+                 79132 (DHX58)
+POSITION    17q21.2
+MOTIF       Pfam: RIG-I_C-RD Helicase_C ResIII DEAD AAA_19 Folliculin
+DBLINKS     NCBI-GeneID: 79132
+            NCBI-ProteinID: NP_077024
+            OMIM: 608588
+            HGNC: 29517
+            Ensembl: ENSG00000108771
+            Vega: OTTHUMG00000133493
+            Pharos: Q96C10(Tbio)
+            UniProt: Q96C10 A0A024R1Y5
+STRUCTURE   PDB: 3EQT 2W4R 2RQA
+AASEQ       678
+            MELRSYQWEVIMPALEGKNIIIWLPTGAGKTRAAAYVAKRHLETVDGAKVVVLVNRVHLV
+            TQHGEEFRRMLDGRWTVTTLSGDMGPRAGFGHLARCHDLLICTAELLQMALTSPEEEEHV
+            ELTVFSLIVVDECHHTHKDTVYNVIMSQYLELKLQRAQPLPQVLGLTASPGTGGASKLDG
+            AINHVLQLCANLDTWCIMSPQNCCPQLQEHSQQPCKQYNLCHRRSQDPFGDLLKKLMDQI
+            HDHLEMPELSRKFGTQMYEQQVVKLSEAAALAGLQEQRVYALHLRRYNDALLIHDTVRAV
+            DALAALQDFYHREHVTKTQILCAERRLLALFDDRKNELAHLATHGPENPKLEMLEKILQR
+            QFSSSNSPRGIIFTRTRQSAHSLLLWLQQQQGLQTVDIRAQLLIGAGNSSQSTHMTQRDQ
+            QEVIQKFQDGTLNLLVATSVAEEGLDIPHCNVVVRYGLLTNEISMVQARGRARADQSVYA
+            FVATEGSRELKRELINEALETLMEQAVAAVQKMDQAEYQAKIRDLQQAALTKRAAQAAQR
+            ENQRQQFPVEHVQLLCINCMVAVGHGSDLRKVEGTHHVNVNPNFSNYYNVSRDPVVINKV
+            FKDWKPGGVISCRNCGEVWGLQMIYKSVKLPVLKVRSMLLETPQGRIQAKKWSRVPFSVP
+            DFDFLQHCAENLSDLSLD
+NTSEQ       2037
+            atggagcttcggtcctaccaatgggaggtgatcatgcctgccctggagggcaagaatatc
+            atcatctggctgcccacgggtgccgggaagacccgggcggctgcttatgtggccaagcgg
+            cacctagagactgtggatggagccaaggtggttgtattggtcaacagggtgcacctggtg
+            acccagcatggtgaagagttcaggcgcatgctggatggacgctggaccgtgacaaccctg
+            agtggggacatgggaccacgtgctggctttggccacctggcccggtgccatgacctgctc
+            atctgcacagcagagcttctgcagatggcactgaccagccccgaggaggaggagcacgtg
+            gagctcactgtcttctccctgatcgtggtggatgagtgccaccacacgcacaaggacacc
+            gtctacaacgtcatcatgagccagtacctagaacttaaactccagagggcacagccgcta
+            ccccaggtgctgggtctcacagcctccccaggcactggcggggcctccaaactcgatggg
+            gccatcaaccacgtcctgcagctctgtgccaacttggacacgtggtgcatcatgtcaccc
+            cagaactgctgcccccagctgcaggagcacagccaacagccttgcaaacagtacaacctc
+            tgccacaggcgcagccaggatccgtttggggacttgctgaagaagctcatggaccaaatc
+            catgaccacctggagatgcctgagttgagccggaaatttgggacgcaaatgtatgagcag
+            caggtggtgaagctgagtgaggctgcggctttggctgggcttcaggagcaacgggtgtat
+            gcgcttcacctgaggcgctacaatgacgcgctgctcatccatgacaccgtccgcgccgtg
+            gatgccttggctgcgctgcaggatttctatcacagggagcacgtcactaaaacccagatc
+            ctgtgtgccgagcgccggctgctggccctgttcgatgaccgcaagaatgagctggcccac
+            ttggcaactcatggcccagagaatccaaaactggagatgctggaaaagatcctgcaaagg
+            cagttcagtagctctaacagccctcggggtatcatcttcacccgcacccgccaaagcgca
+            cactccctcctgctctggctccagcagcagcagggcctgcagactgtggacatccgggcc
+            cagctactgattggggctgggaacagcagccagagcacccacatgacccagagggaccag
+            caagaagtgatccagaagttccaagatggaaccctgaaccttctggtggccacgagtgtg
+            gcggaggaggggctggacatcccacattgcaatgtggtggtgcgttatgggctcttgacc
+            aatgaaatctccatggtccaggccaggggccgtgcccgggccgatcagagtgtatacgcg
+            tttgtagcaactgaaggtagccgggagctgaagcgggagctgatcaacgaggcgctggag
+            acgctgatggagcaggcagtggctgctgtgcagaaaatggaccaggccgagtaccaggcc
+            aagatccgggatctgcagcaggcagccttgaccaagcgggcggcccaggcagcccagcgg
+            gagaaccagcggcagcagttcccagtggagcacgtgcagctactctgcatcaactgcatg
+            gtggctgtgggccatggcagcgacctgcggaaggtggagggcacccaccatgtcaatgtg
+            aaccccaacttctcgaactactataatgtctccagggatcctgtggtcatcaacaaagtc
+            ttcaaggactggaagcctgggggtgtcatcagctgcaggaactgtggggaggtctggggt
+            ctgcagatgatctacaagtcagtgaagctgccagtgctcaaagtccgcagcatgctgctg
+            gagacccctcaggggcggatccaggccaaaaagtggtcccgcgtgcccttctccgtgcct
+            gactttgacttcctgcagcattgtgccgagaacttgtcggacctctccctggactga
+///

@@ -1,0 +1,73 @@
+ENTRY       762               CDS       T01001
+NAME        CA4, CAIV, Car4, RP17
+DEFINITION  (RefSeq) carbonic anhydrase 4
+ORTHOLOGY   K18246  carbonic anhydrase 4 [EC:4.2.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00910  Nitrogen metabolism
+            hsa04964  Proximal tubule bicarbonate reclamation
+DISEASE     H00527  Retinitis pigmentosa (RP)
+DRUG_TARGET Acetazolamide (DG01134): D00218 D01196
+            Diclofenamide: D00518
+            Dorzolamide (DG01135): D00653 D07871
+            Ethoxzolamide: D02441
+            Methazolamide: D00655
+            Sezolamide hydrochloride: D03845
+            Topiramate: D00537
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00910 Nitrogen metabolism
+                762 (CA4)
+             Organismal Systems
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                762 (CA4)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.1  carbonic anhydrase
+                 762 (CA4)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               762 (CA4)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Enzymes
+              762 (CA4)
+POSITION    17q23.1
+MOTIF       Pfam: Carb_anhydrase
+DBLINKS     NCBI-GeneID: 762
+            NCBI-ProteinID: NP_000708
+            OMIM: 114760
+            HGNC: 1375
+            Ensembl: ENSG00000167434
+            Vega: OTTHUMG00000179987
+            Pharos: P22748(Tclin)
+            UniProt: P22748
+STRUCTURE   PDB: 3FW3 5KU6 5JN8 5JNA 5JNC 3F7U 3F7B 5JN9 5IPZ 1ZNC
+AASEQ       312
+            MRMLLALLALSAARPSASAESHWCYEVQAESSNYPCLVPVKWGGNCQKDRQSPINIVTTK
+            AKVDKKLGRFFFSGYDKKQTWTVQNNGHSVMMLLENKASISGGGLPAPYQAKQLHLHWSD
+            LPYKGSEHSLDGEHFAMEMHIVHEKEKGTSRNVKEAQDPEDEIAVLAFLVEAGTQVNEGF
+            QPLVEALSNIPKPEMSTTMAESSLLDLLPKEEKLRHYFRYLGSLTTPTCDEKVVWTVFRE
+            PIQLHREQILAFSQKLYYDKEQTVSMKDNVRPLQQLGQRTVIKSGAPGRPLPWALPALLG
+            PMLACLLAGFLR
+NTSEQ       939
+            atgcggatgctgctggcgctcctggccctctccgcggcgcggccatcggccagtgcagag
+            tcacactggtgctacgaggttcaagccgagtcctccaactacccctgcttggtgccagtc
+            aagtggggtggaaactgccagaaggaccgccagtcccccatcaacatcgtcaccaccaag
+            gcaaaggtggacaaaaaactgggacgcttcttcttctctggctacgataagaagcaaacg
+            tggactgtccaaaataacgggcactcagtgatgatgttgctggagaacaaggccagcatt
+            tctggaggaggactgcctgccccataccaggccaaacagttgcacctgcactggtccgac
+            ttgccatataagggctcggagcacagcctcgatggggagcactttgccatggagatgcac
+            atagtacatgagaaagagaaggggacatcgaggaatgtgaaagaggcccaggaccctgaa
+            gacgaaattgcggtgctggcctttctggtggaggctggaacccaggtgaacgagggcttc
+            cagccactggtggaggcactgtctaatatccccaaacctgagatgagcactacgatggca
+            gagagcagcctgttggacctgctccccaaggaggagaaactgaggcactacttccgctac
+            ctgggctcactcaccacaccgacctgcgatgagaaggtcgtctggactgtgttccgggag
+            cccattcagcttcacagagaacagatcctggcattctctcagaagctgtactacgacaag
+            gaacagacagtgagcatgaaggacaatgtcaggcccctgcagcagctggggcagcgcacg
+            gtgataaagtccggggccccgggtcggccgctgccctgggccctgcctgccctgctgggc
+            cccatgctggcctgcctgctggccggcttcctgcgatga
+///

@@ -1,0 +1,57 @@
+ENTRY       549               CDS       T01001
+NAME        AUH
+DEFINITION  (RefSeq) AU RNA binding methylglutaconyl-CoA hydratase
+ORTHOLOGY   K05607  methylglutaconyl-CoA hydratase [EC:4.2.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+DISEASE     H00754  3-Methylglutaconic aciduria (MGCA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                549 (AUH)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.18  methylglutaconyl-CoA hydratase
+                 549 (AUH)
+POSITION    9q22.31
+MOTIF       Pfam: ECH_1 ECH_2
+DBLINKS     NCBI-GeneID: 549
+            NCBI-ProteinID: NP_001689
+            OMIM: 600529
+            HGNC: 890
+            Ensembl: ENSG00000148090
+            Vega: OTTHUMG00000020207
+            Pharos: Q13825(Tbio)
+            UniProt: Q13825
+STRUCTURE   PDB: 2ZQQ 1HZD 2ZQR
+AASEQ       339
+            MAAAVAAAPGALGSLHAGGARLVAACSAWLCPGLRLPGSLAGRRAGPAIWAQGWVPAAGG
+            PAPKRGYSSEMKTEDELRVRHLEEENRGIVVLGINRAYGKNSLSKNLIKMLSKAVDALKS
+            DKKVRTIIIRSEVPGIFCAGADLKERAKMSSSEVGPFVSKIRAVINDIANLPVPTIAAID
+            GLALGGGLELALACDIRVAASSAKMGLVETKLAIIPGGGGTQRLPRAIGMSLAKELIFSA
+            RVLDGKEAKAVGLISHVLEQNQEGDAAYRKALDLAREFLPQGPVAMRVAKLAINQGMEVD
+            LVTGLAIEEACYAQTIPTKDRLEGLLAFKEKRPPRYKGE
+NTSEQ       1020
+            atggcggccgcggtggcggcggcacctggggccttgggatccctgcatgctggcggcgcc
+            cgcctggtggccgcttgcagtgcgtggctctgcccggggttgaggctgcccggctcgttg
+            gcaggccggcgagcgggcccggcgatctgggcccagggctgggtacctgcggccgggggt
+            cccgccccgaaaaggggctacagctctgagatgaagacggaggacgagctgcgggtgcgg
+            cacctggaggaggagaaccgaggaattgtggtgcttggaataaacagagcttatggcaaa
+            aattcactcagtaaaaatcttataaaaatgctatcaaaagctgtggatgctttgaaatct
+            gataagaaagtacggaccataataatcaggagtgaagtcccagggatattctgtgctggt
+            gctgaccttaaggaaagagccaaaatgagttccagtgaagttggtccttttgtctccaaa
+            ataagagcagtgattaacgatattgctaatcttccagtaccaacaattgcagcaatagat
+            ggactcgctttaggtggtggtcttgaactggctttagcctgtgatatacgagtagcagct
+            tcctctgcaaaaatgggcctggttgaaacaaaattggcgattattcctggtggagggggg
+            acacagcgattgccacgcgccattggaatgtccctggccaaggagctcatattctctgcg
+            cgagtcctcgatggcaaagaagccaaagcagtgggcttaatcagccacgttctggaacag
+            aaccaggagggagacgcggcctacaggaaggccttggacctggcgagagagtttttacct
+            cagggacctgttgcaatgagagtggcaaaattagcaattaatcaagggatggaggtcgat
+            ttagtaacagggttagccatagaagaagcttgttatgctcagaccattccaacaaaagac
+            agacttgaaggtcttcttgcttttaaagagaaaaggccccctcgctataaaggagaataa
+///

@@ -1,0 +1,69 @@
+ENTRY       10213             CDS       T01001
+NAME        PSMD14, PAD1, POH1, RPN11
+DEFINITION  (RefSeq) proteasome 26S subunit, non-ATPase 14
+ORTHOLOGY   K03030  26S proteasome regulatory subunit N11
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00341  Proteasome, 19S regulatory particle (PA700)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                10213 (PSMD14)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                10213 (PSMD14)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M67
+               10213 (PSMD14)
+            Ubiquitin system [BR:hsa04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               JAMM
+                10213 (PSMD14)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 10213 (PSMD14)
+POSITION    2q24.2
+MOTIF       Pfam: JAB MitMem_reg Prok-JAB DUF4525
+DBLINKS     NCBI-GeneID: 10213
+            NCBI-ProteinID: NP_005796
+            OMIM: 607173
+            HGNC: 16889
+            Ensembl: ENSG00000115233
+            Vega: OTTHUMG00000153882
+            Pharos: O00487(Tbio)
+            UniProt: O00487 A0A140VKF2
+STRUCTURE   PDB: 5VGZ 5M32 5T0G 5GJQ 5L4K 5VHF 5VHH 5VHI 5T0H 5LN3 5T0I
+                 5T0J 5VHS
+AASEQ       310
+            MDRLLRLGGGMPGLGQGPPTDAPAVDTAEQVYISSLALLKMLKHGRAGVPMEVMGLMLGE
+            FVDDYTVRVIDVFAMPQSGTGVSVEAVDPVFQAKMLDMLKQTGRPEMVVGWYHSHPGFGC
+            WLSGVDINTQQSFEALSERAVAVVVDPIQSVKGKVVIDAFRLINANMMVLGHEPRQTTSN
+            LGHLNKPSIQALIHGLNRHYYSITINYRKNELEQKMLLNLHKKSWMEGLTLQDYSEHCKH
+            NESVVKEMLELAKNYNKAVEEEDKMTPEQLAIKNVGKQDPKRHLEEHVDVLMTSNIVQCL
+            AAMLDTVVFK
+NTSEQ       933
+            atggacagacttcttagacttggaggaggtatgcctggactgggccaggggccacctaca
+            gatgctcctgcagtggacacagcagaacaagtctatatctcttccctggcactgttaaaa
+            atgttaaaacatggccgtgctggagttccaatggaagttatgggtttgatgcttggagaa
+            tttgttgatgattataccgtcagagtgattgatgtgtttgctatgccacagtcaggaaca
+            ggtgtcagtgtggaggcagttgatccagtgttccaagctaaaatgttggatatgttgaag
+            cagacaggaaggccggagatggttgttggttggtatcacagtcaccctggctttggttgt
+            tggctttctggtgtggatatcaacactcagcagagctttgaagccttgtcggagagagct
+            gtggcagtggttgtggatcccattcagagtgtaaaaggaaaggttgttattgatgccttc
+            agattgatcaatgctaatatgatggtcttaggacatgaaccaagacaaacaacttcgaat
+            ctgggtcacttaaacaagccatctatccaggcattaattcatggactaaacagacattat
+            tactccattactattaactatcggaaaaatgaactggaacagaagatgttgctaaatttg
+            cataagaagagttggatggaaggtttgacacttcaggactacagtgaacattgtaaacac
+            aatgaatcagtggtaaaagagatgttggaattagccaagaattacaataaggctgtagaa
+            gaagaagataagatgacacctgaacagctggcaataaagaatgttggcaagcaggacccc
+            aaacgtcatttggaggaacatgtggatgtacttatgacctcaaatattgtccagtgttta
+            gcagctatgttggatactgtcgtatttaaataa
+///

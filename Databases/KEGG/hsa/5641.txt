@@ -1,0 +1,70 @@
+ENTRY       5641              CDS       T01001
+NAME        LGMN, AEP, LGMN1, PRSC1
+DEFINITION  (RefSeq) legumain
+ORTHOLOGY   K01369  legumain [EC:3.4.22.34]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04142  Lysosome
+            hsa04612  Antigen processing and presentation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                5641 (LGMN)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                5641 (LGMN)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.34  legumain
+                 5641 (LGMN)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C13: legumain family
+               5641 (LGMN)
+POSITION    14q32.12
+MOTIF       Pfam: Peptidase_C13 DUF2675
+DBLINKS     NCBI-GeneID: 5641
+            NCBI-ProteinID: NP_001008530
+            OMIM: 602620
+            HGNC: 9472
+            Ensembl: ENSG00000100600
+            Vega: OTTHUMG00000171199
+            Pharos: Q99538(Tchem)
+            UniProt: Q99538 Q53XC6
+STRUCTURE   PDB: 4N6O 4N6N 5LU8 5LUA 5LUB 4AW9 5LU9 4AWA 4AWB 4FGU
+AASEQ       433
+            MVWKVAVFLSVALGIGAVPIDDPEDGGKHWVVIVAGSNGWYNYRHQADACHAYQIIHRNG
+            IPDEQIVVMMYDDIAYSEDNPTPGIVINRPNGTDVYQGVPKDYTGEDVTPQNFLAVLRGD
+            AEAVKGIGSGKVLKSGPQDHVFIYFTDHGSTGILVFPNEDLHVKDLNETIHYMYKHKMYR
+            KMVFYIEACESGSMMNHLPDNINVYATTAANPRESSYACYYDEKRSTYLGDWYSVNWMED
+            SDVEDLTKETLHKQYHLVKSHTNTSHVMQYGNKTISTMKVMQFQGMKRKASSPVPLPPVT
+            HLDLTPSPDVPLTIMKRKLMNTNDLEESRQLTEEIQRHLDARHLIEKSVRKIVSLLAASE
+            AEVEQLLSERAPLTGHSCYPEALLHFRTHCFNWHSPTYEYALRHLYVLVNLCEKPYPLHR
+            IKLSMDHVCLGHY
+NTSEQ       1302
+            atggtttggaaagtagctgtattcctcagtgtggccctgggcattggtgccgttcctata
+            gatgatcctgaagatggaggcaagcactgggtggtgatcgtggcaggttcaaatggctgg
+            tataattataggcaccaggcagacgcgtgccatgcctaccagatcattcaccgcaatggg
+            attcctgacgaacagatcgttgtgatgatgtacgatgacattgcttactctgaagacaat
+            cccactccaggaattgtgatcaacaggcccaatggcacagatgtctatcagggagtcccg
+            aaggactacactggagaggatgttaccccacaaaatttccttgctgtgttgagaggcgat
+            gcagaagcagtgaagggcataggatccggcaaagtcctgaagagtggcccccaggatcac
+            gtgttcatttacttcactgaccatggatctactggaatactggtttttcccaatgaagat
+            cttcatgtaaaggacctgaatgagaccatccattacatgtacaaacacaaaatgtaccga
+            aagatggtgttctacattgaagcctgtgagtctgggtccatgatgaaccacctgccggat
+            aacatcaatgtttatgcaactactgctgccaaccccagagagtcgtcctacgcctgttac
+            tatgatgagaagaggtccacgtacctgggggactggtacagcgtcaactggatggaagat
+            tcggacgtggaagatctgactaaagagaccctgcacaagcagtaccacctggtaaaatcg
+            cacaccaacaccagccacgtcatgcagtatggaaacaaaacaatctccaccatgaaagtg
+            atgcagtttcagggtatgaaacgcaaagccagttctcccgtccccctacctccagtcaca
+            caccttgacctcacccccagccctgatgtgcctctcaccatcatgaaaaggaaactgatg
+            aacaccaatgatctggaggagtccaggcagctcacggaggagatccagcggcatctggat
+            gccaggcacctcattgagaagtcagtgcgtaagatcgtctccttgctggcagcgtccgag
+            gctgaggtggagcagctcctgtccgagagagccccgctcacggggcacagctgctaccca
+            gaggccctgctgcacttccggacccactgcttcaactggcactcccccacgtacgagtat
+            gcgttgagacatttgtacgtgctggtcaacctttgtgagaagccgtatccgcttcacagg
+            ataaaattgtccatggaccacgtgtgccttggtcactactga
+///

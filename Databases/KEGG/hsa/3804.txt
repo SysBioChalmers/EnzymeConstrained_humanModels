@@ -1,0 +1,65 @@
+ENTRY       3804              CDS       T01001
+NAME        KIR2DL3, CD158B2, CD158b, GL183, KIR-023GB, KIR-K7b, KIR-K7c, KIR2DS5, KIRCL23, NKAT, NKAT2, NKAT2A, NKAT2B, p58
+DEFINITION  (RefSeq) killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3
+ORTHOLOGY   K07981  killer cell immunoglobulin-like receptor 2DL
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04218  Cellular senescence
+            hsa04612  Antigen processing and presentation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa05332  Graft-versus-host disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                3804 (KIR2DL3)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3804 (KIR2DL3)
+               04612 Antigen processing and presentation
+                3804 (KIR2DL3)
+             Human Diseases
+              Immune diseases
+               05332 Graft-versus-host disease
+                3804 (KIR2DL3)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3804 (KIR2DL3)
+POSITION    19q13.42
+MOTIF       Pfam: ig Ig_3 Ig_2
+DBLINKS     NCBI-GeneID: 3804
+            NCBI-ProteinID: NP_056952
+            OMIM: 604938
+            HGNC: 6331
+            Ensembl: ENSG00000243772
+            Vega: OTTHUMG00000065887
+            Pharos: P43628(Tbio)
+            UniProt: P43628 E3NZD8
+STRUCTURE   PDB: 1B6U
+AASEQ       341
+            MSLMVVSMVCVGFFLLQGAWPHEGVHRKPSLLAHPGPLVKSEETVILQCWSDVRFQHFLL
+            HREGKFKDTLHLIGEHHDGVSKANFSIGPMMQDLAGTYRCYGSVTHSPYQLSAPSDPLDI
+            VITGLYEKPSLSAQPGPTVLAGESVTLSCSSRSSYDMYHLSREGEAHERRFSAGPKVNGT
+            FQADFPLGPATHGGTYRCFGSFRDSPYEWSNSSDPLLVSVTGNPSNSWPSPTEPSSETGN
+            PRHLHVLIGTSVVIILFILLLFFLLHRWCCNKKNAVVMDQEPAGNRTVNREDSDEQDPQE
+            VTYAQLNHCVFTQRKITRPSQRPKTPPTDIIVYTELPNAEP
+NTSEQ       1026
+            atgtcgctcatggtcgtcagcatggtgtgtgttgggttcttcttgctgcagggggcctgg
+            ccacatgagggagtccacagaaaaccttccctcctggcccacccaggtcccctggtgaaa
+            tcagaagagacagtcatcctgcaatgttggtcagatgtcaggtttcagcacttccttctg
+            cacagagaagggaagtttaaggacactttgcacctcattggagagcaccatgatggggtc
+            tccaaggccaacttctccatcggtcccatgatgcaagaccttgcagggacctacagatgc
+            tacggttctgttactcactccccctatcagttgtcagctcccagtgaccctctggacatc
+            gtcatcacaggtctatatgagaaaccttctctctcagcccagccgggccccacggttctg
+            gcaggagagagcgtgaccttgtcctgcagctcccggagctcctatgacatgtaccatcta
+            tccagggagggggaggcccatgaacgtaggttctctgcagggcccaaggtcaacggaaca
+            ttccaggccgactttcctctgggccctgccacccacggaggaacctacagatgcttcggc
+            tctttccgtgactctccatacgagtggtcaaactcgagtgacccactgcttgtttctgtc
+            acaggaaacccttcaaatagttggccttcacccactgaaccaagctccgaaaccggtaac
+            cccagacacctgcatgttctgattgggacctcagtggtcatcatcctcttcatcctcctc
+            ctcttctttctccttcatcgctggtgctgcaacaaaaaaaatgctgttgtaatggaccaa
+            gagcctgcagggaacagaacagtgaacagggaggactctgatgaacaagaccctcaggag
+            gtgacatatgcacagttgaatcactgcgttttcacacagagaaaaatcactcgcccttct
+            cagaggcccaagacacccccaacagatatcatcgtgtacacggaacttccaaatgctgag
+            ccctga
+///

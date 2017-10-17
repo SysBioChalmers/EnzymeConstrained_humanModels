@@ -1,0 +1,75 @@
+ENTRY       29968             CDS       T01001
+NAME        PSAT1, EPIP, NLS2, PSA, PSAT, PSATD
+DEFINITION  (RefSeq) phosphoserine aminotransferase 1
+ORTHOLOGY   K00831  phosphoserine aminotransferase [EC:2.6.1.52]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00750  Vitamin B6 metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00020  Serine biosynthesis, glycerate-3P => serine
+DISEASE     H01082  Phosphoserine aminotransferase (PSAT) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                29968 (PSAT1)
+               01230 Biosynthesis of amino acids
+                29968 (PSAT1)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                29968 (PSAT1)
+              Metabolism of cofactors and vitamins
+               00750 Vitamin B6 metabolism
+                29968 (PSAT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.52  phosphoserine transaminase
+                 29968 (PSAT1)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class V
+               29968 (PSAT1)
+POSITION    9q21.2
+MOTIF       Pfam: Aminotran_5
+DBLINKS     NCBI-GeneID: 29968
+            NCBI-ProteinID: NP_478059
+            OMIM: 610936
+            HGNC: 19129
+            Ensembl: ENSG00000135069
+            Vega: OTTHUMG00000020066
+            Pharos: Q9Y617(Tbio)
+            UniProt: Q9Y617 A0A024R222
+STRUCTURE   PDB: 3E77
+AASEQ       370
+            MDAPRQVVNFGPGPAKLPHSVLLEIQKELLDYKGVGISVLEMSHRSSDFAKIINNTENLV
+            RELLAVPDNYKVIFLQGGGCGQFSAVPLNLIGLKAGRCADYVVTGAWSAKAAEEAKKFGT
+            INIVHPKLGSYTKIPDPSTWNLNPDASYVYYCANETVHGVEFDFIPDVKGAVLVCDMSSN
+            FLSKPVDVSKFGVIFAGAQKNVGSAGVTVVIVRDDLLGFALRECPSVLEYKVQAGNSSLY
+            NTPPCFSIYVMGLVLEWIKNNGGAAAMEKLSSIKSQTIYEIIDNSQGFYVCPVEPQNRSK
+            MNIPFRIGNAKGDDALEKRFLDKALELNMLSLKGHRSVGGIRASLYNAVTIEDVQKLAAF
+            MKKFLEMHQL
+NTSEQ       1113
+            atggacgcccccaggcaggtggtcaactttgggcctggtcccgccaagctgccgcactca
+            gtgttgttagagatacaaaaggaattattagactacaaaggagttggcattagtgttctt
+            gaaatgagtcacaggtcatcagattttgccaagattattaacaatacagagaatcttgtg
+            cgggaattgctagctgttccagacaactataaggtgatttttctgcaaggaggtgggtgc
+            ggccagttcagtgctgtccccttaaacctcattggcttgaaagcaggaaggtgtgctgac
+            tatgtggtgacaggagcttggtcagctaaggccgcagaagaagccaagaagtttgggact
+            ataaatatcgttcaccctaaacttgggagttatacaaaaattccagatccaagcacctgg
+            aacctcaacccagatgcctcctacgtgtattattgcgcaaatgagacggtgcatggtgtg
+            gagtttgactttatacccgatgtcaagggagcagtactggtttgtgacatgtcctcaaac
+            ttcctgtccaagccagtggatgtttccaagtttggtgtgatttttgctggtgcccagaag
+            aatgttggctctgctggggtcaccgtggtgattgtccgtgatgacctgctggggtttgcc
+            ctccgagagtgcccctcggtcctggaatacaaggtgcaggctggaaacagctccttgtac
+            aacacgcctccatgtttcagcatctacgtcatgggcttggttctggagtggattaaaaac
+            aatggaggtgccgcggccatggagaagcttagctccatcaaatctcaaacaatttatgag
+            attattgataattctcaaggattctacgtttgtccagtggagccccaaaatagaagcaag
+            atgaatattccattccgcattggcaatgccaaaggagatgatgctttagaaaaaagattt
+            cttgataaagctcttgaactcaatatgttgtccttgaaagggcataggtctgtgggaggc
+            atccgggcctctctgtataatgctgtcacaattgaagacgttcagaagctggccgccttc
+            atgaaaaaatttttggagatgcatcagctatga
+///

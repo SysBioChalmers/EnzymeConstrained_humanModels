@@ -1,0 +1,94 @@
+ENTRY       7709              CDS       T01001
+NAME        ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67
+DEFINITION  (RefSeq) zinc finger and BTB domain containing 17
+ORTHOLOGY   K10500  zinc finger and BTB domain-containing protein 17
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05222  Small cell lung cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                7709 (ZBTB17)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                7709 (ZBTB17)
+               05222 Small cell lung cancer
+                7709 (ZBTB17)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               Cul3 complex
+                Adoptor and target recognizing subunit (BTB)
+                 7709 (ZBTB17)
+POSITION    1p36.13
+MOTIF       Pfam: zf-H2C2_2 zf-C2H2 zf-C2H2_4 BTB zf-C2H2_11 zf-C2H2_jaz zf-met zf-C2H2_6 Zn-ribbon_8 zf-H2C2_5 zf-C2HC_2 zinc_ribbon_15 zf-Di19 XPA_N zf-C2HE Packaging_FI zf-BED
+DBLINKS     NCBI-GeneID: 7709
+            NCBI-ProteinID: NP_003434
+            OMIM: 604084
+            HGNC: 12936
+            Ensembl: ENSG00000116809
+            Vega: OTTHUMG00000009377
+            Pharos: Q13105(Tbio)
+            UniProt: Q13105
+STRUCTURE   PDB: 2Q81 3M52 5ION 2N25 2N26 2M0D 2M0E 2M0F 2LVT 2LVU 2LVR
+AASEQ       803
+            MDFPQHSQHVLEQLNQQRQLGLLCDCTFVVDGVHFKAHKAVLAACSEYFKMLFVDQKDVV
+            HLDISNAAGLGQVLEFMYTAKLSLSPENVDDVLAVATFLQMQDIITACHALKSLAEPATS
+            PGGNAEALATEGGDKRAKEEKVATSTLSRLEQAGRSTPIGPSRDLKEERGGQAQSAASGA
+            EQTEKADAPREPPPVELKPDPTSGMAAAEAEAALSESSEQEMEVEPARKGEEEQKEQEEQ
+            EEEGAGPAEVKEEGSQLENGEAPEENENEESAGTDSGQELGSEARGLRSGTYGDRTESKA
+            YGSVIHKCEDCGKEFTHTGNFKRHIRIHTGEKPFSCRECSKAFSDPAACKAHEKTHSPLK
+            PYGCEECGKSYRLISLLNLHKKRHSGEARYRCEDCGKLFTTSGNLKRHQLVHSGEKPYQC
+            DYCGRSFSDPTSKMRHLETHDTDKEHKCPHCDKKFNQVGNLKAHLKIHIADGPLKCRECG
+            KQFTTSGNLKRHLRIHSGEKPYVCIHCQRQFADPGALQRHVRIHTGEKPCQCVMCGKAFT
+            QASSLIAHVRQHTGEKPYVCERCGKRFVQSSQLANHIRHHDNIRPHKCSVCSKAFVNVGD
+            LSKHIIIHTGEKPYLCDKCGRGFNRVDNLRSHVKTVHQGKAGIKILEPEEGSEVSVVTVD
+            DMVTLATEALAATAVTQLTVVPVGAAVTADETEVLKAEISKAVKQVQEEDPNTHILYACD
+            SCGDKFLDANSLAQHVRIHTAQALVMFQTDADFYQQYGPGGTWPAGQVLQAGELVFRPRD
+            GAEGQPALAETSPTAPECPPPAE
+NTSEQ       2412
+            atggactttccccagcacagccagcatgtcttggaacagctgaaccagcagcggcagctg
+            gggcttctctgtgactgcacctttgtggtggacggtgttcactttaaggctcataaagca
+            gtgctggcggcctgcagcgagtacttcaagatgctcttcgtggaccagaaggacgtggtg
+            cacctggacatcagtaacgcggcaggcctggggcaggtgctggagtttatgtacacggcc
+            aagctgagcctgagccctgagaacgtggatgatgtgctggccgtggccactttcctccaa
+            atgcaggacatcatcacggcctgccatgccctcaagtcacttgctgagccggctaccagc
+            cctgggggaaatgcggaggccttggccacagaaggaggggacaagagagccaaagaggag
+            aaggtggccaccagcacgctgagcaggctggagcaggcaggacgcagcacacccataggc
+            cccagcagggacctcaaggaggagcgcggcggtcaggcccagagtgcggccagcggtgca
+            gagcagacagagaaagccgatgcgccccgggagccgccgcctgtggagctcaagccagac
+            cccacgagtggcatggctgctgcagaagctgaggccgctttgtccgagagctcggagcaa
+            gaaatggaggtggagcccgcccggaaaggggaagaggagcaaaaggagcaagaggagcaa
+            gaggaggagggcgcagggccagctgaggtcaaggaggagggttcccagctggagaacgga
+            gaggcccccgaggagaacgagaatgaggagtcagcgggcacagactcggggcaggagctc
+            ggctccgaggcccggggcctgcgctcaggcacctacggcgaccgcacggagtccaaggcc
+            tacggctccgtcatccacaagtgcgaggactgtgggaaggagttcacgcacacggggaac
+            ttcaagcggcacatccgcatccacacgggggagaagcccttctcgtgccgggagtgcagc
+            aaggccttttccgacccggccgcgtgcaaggcccatgagaagacgcacagccctctgaag
+            ccctacggctgcgaggagtgcgggaagagctaccgcctcatcagcctgctgaacctgcac
+            aagaagcggcactcgggcgaggcgcgctaccgctgcgaggactgcggcaagctcttcacc
+            acctcgggcaacctcaagcgccaccagctggtgcacagcggcgagaagccctaccagtgc
+            gactactgcggccgctccttctccgaccccacttccaagatgcgccacctggagacccac
+            gacacggacaaggagcacaagtgcccacactgcgacaagaagttcaaccaggtagggaac
+            ctgaaggcccacctgaagatccacatcgctgacgggcccctcaagtgccgagagtgtggg
+            aagcagttcaccacctcagggaacctgaagcggcaccttcggatccacagcggggagaag
+            ccctacgtgtgcatccactgccagcgacagtttgcagaccccggcgctctgcagcggcac
+            gtccgcattcacacaggtgagaagccatgccagtgtgtgatgtgcggtaaggccttcacc
+            caggccagctccctcatcgcccacgtgcgccagcacaccggggagaagccctacgtctgc
+            gagcgctgcggcaagagattcgtccagtccagccagttggccaatcatattcgccaccac
+            gacaacatccgcccacacaagtgcagcgtgtgcagcaaggccttcgtgaacgtgggggac
+            ctgtccaagcacatcatcattcacactggagagaagccttacctgtgtgataagtgtggg
+            cgtggcttcaaccgggtagacaacctgcgctcccacgtgaagaccgtgcaccagggcaag
+            gcaggcatcaagatcctggagcccgaggagggcagtgaggtcagcgtggtcactgtggat
+            gacatggtcacgctggctaccgaggcactggcagcgacagccgtcactcagctcacagtg
+            gtgccggtgggagctgcagtgacagccgatgagacggaagtcctgaaggccgagatcagc
+            aaagctgtgaagcaagtgcaggaagaagaccccaacactcacatcctctacgcctgtgac
+            tcctgtggggacaagtttctggatgccaacagcctggctcagcatgtgcgaatccacaca
+            gcccaggcactggtcatgttccagacagacgcggacttctatcagcagtatgggccaggt
+            ggcacgtggcctgccgggcaggtgctgcaggctggggagctggtcttccgccctcgcgac
+            ggggctgagggccagcccgcactggcagagacctcccctacagctcctgaatgtcccccg
+            cctgccgagtga
+///

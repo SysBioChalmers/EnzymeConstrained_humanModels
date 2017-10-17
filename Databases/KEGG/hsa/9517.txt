@@ -1,0 +1,82 @@
+ENTRY       9517              CDS       T01001
+NAME        SPTLC2, HSN1C, LCB2, LCB2A, NSAN1C, SPT2, hLCB2a
+DEFINITION  (RefSeq) serine palmitoyltransferase long chain base subunit 2
+ORTHOLOGY   K00654  serine palmitoyltransferase [EC:2.3.1.50]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04071  Sphingolipid signaling pathway
+MODULE      hsa_M00094  Ceramide biosynthesis
+            hsa_M00099  Sphingosine biosynthesis
+DISEASE     H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                9517 (SPTLC2)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                9517 (SPTLC2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.50  serine C-palmitoyltransferase
+                 9517 (SPTLC2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class II
+               9517 (SPTLC2)
+POSITION    14q24.3
+MOTIF       Pfam: Aminotran_1_2 Aminotran_5 Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 9517
+            NCBI-ProteinID: NP_004854
+            OMIM: 605713
+            HGNC: 11278
+            Ensembl: ENSG00000100596
+            Vega: OTTHUMG00000171540
+            Pharos: O15270(Tchem)
+            UniProt: O15270 A0A024R6H1
+AASEQ       562
+            MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQIHHVTQNGGLYKRPFN
+            EAFEETPMLVAVLTYVGYGVLTLFGYLRDFLRYWRIEKCHHATEREEQKDFVSLYQDFEN
+            FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLG
+            FARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA
+            TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQ
+            PRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV
+            EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQII
+            TSMKCIMGQDGTSLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG
+            AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYS
+            RHRLVPLLDRPFDETTYEETED
+NTSEQ       1689
+            atgcggccggagcccggaggctgctgctgccgccgcacggtgcgggcgaatggctgcgtg
+            gcgaacggggaagtacggaacgggtacgtgaggagcagcgctgcagccgcagccgcagcc
+            gccgccggccagatccatcatgttacacaaaatggaggactatataaaagaccgtttaat
+            gaagcttttgaagaaacaccaatgctggttgctgtgctcacgtatgtggggtatggcgta
+            ctcaccctctttggatatcttcgagatttcttgaggtattggagaattgaaaagtgtcac
+            catgcaacagaaagagaagaacaaaaggactttgtgtcattgtatcaagattttgaaaac
+            ttttatacaaggaatctgtacatgaggataagagacaactggaatcggccaatctgtagt
+            gtgcctggagccagggtggacatcatggagagacagtctcatgattataactggtccttc
+            aagtatacagggaatataataaagggtgttataaacatgggttcctacaactatcttgga
+            tttgcacggaatactggatcatgtcaagaagcagccgccaaagtccttgaggagtatgga
+            gctggagtgtgcagtactcggcaggaaattggaaacctggacaagcatgaagaactagag
+            gagcttgtagcaaggttcttaggagtagaagctgctatggcgtatggcatgggatttgca
+            acgaattcaatgaacattcctgctcttgttggcaaaggttgcctgattctgagtgatgaa
+            ctgaatcatgcatcactggttctgggagccagactgtcaggagcaaccattagaatcttc
+            aaacacaacaatatgcaaagcctagagaagctattgaaagatgccattgtttatggtcag
+            cctcggacacgaaggccctggaagaaaattctcatccttgtggaaggaatatatagcatg
+            gagggatctattgttcgtcttcctgaagtgattgccctcaagaagaaatacaaggcatac
+            ttgtatctggatgaggctcacagcattggcgccctgggccccacaggccggggtgtggtg
+            gagtactttggcctggatcccgaggatgtggatgttatgatgggaacgttcacaaagagt
+            tttggtgcttctggaggatatattggaggcaagaaggagctgatagactacctgcgaaca
+            cattctcatagtgcagtgtatgccacgtcattgtcacctcctgtagtggagcagatcatc
+            acctccatgaagtgcatcatggggcaggatggcaccagccttggtaaagagtgtgtacaa
+            cagttagctgaaaacaccaggtatttcaggagacgcctgaaagagatgggcttcatcatc
+            tatggaaatgaagactctccagtagtgcctttgatgctctacatgcctgccaaaattggc
+            gcctttggacgggagatgctgaagcggaacatcggtgtcgttgtggttggatttcctgcc
+            accccaattattgagtccagagccaggttttgcctgtcagcagctcataccaaagaaata
+            cttgatactgctttaaaggagatagatgaagttggggacctattgcagctgaagtattcc
+            cgtcatcggttggtacctctactggacaggccctttgacgagacgacgtatgaagaaaca
+            gaagactga
+///

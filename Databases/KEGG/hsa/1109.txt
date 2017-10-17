@@ -1,0 +1,64 @@
+ENTRY       1109              CDS       T01001
+NAME        AKR1C4, 3-alpha-HSD, C11, CDR, CHDR, DD-4, DD4, HAKRA
+DEFINITION  (RefSeq) aldo-keto reductase family 1 member C4
+ORTHOLOGY   K00037  3alpha-hydroxysteroid 3-dehydrogenase / chlordecone reductase [EC:1.1.1.50 1.1.1.357 1.1.1.225]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+DISEASE     H00607  46,XY disorders of sex development (Disorders of gonadal development)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                1109 (AKR1C4)
+               00140 Steroid hormone biosynthesis
+                1109 (AKR1C4)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.50  3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)
+                 1109 (AKR1C4)
+                1.1.1.225  chlordecone reductase
+                 1109 (AKR1C4)
+                1.1.1.357  3alpha-hydroxysteroid 3-dehydrogenase
+                 1109 (AKR1C4)
+POSITION    10p15.1
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 1109
+            NCBI-ProteinID: NP_001809
+            OMIM: 600451
+            HGNC: 387
+            Ensembl: ENSG00000198610
+            Vega: OTTHUMG00000017591
+            Pharos: P17516(Tbio)
+            UniProt: P17516
+STRUCTURE   PDB: 2FVL
+AASEQ       323
+            MDPKYQRVELNDGHFMPVLGFGTYAPPEVPRNRAVEVTKLAIEAGFRHIDSAYLYNNEEQ
+            VGLAIRSKIADGSVKREDIFYTSKLWCTFFQPQMVQPALESSLKKLQLDYVDLYLLHFPM
+            ALKPGETPLPKDENGKVIFDTVDLSATWEVMEKCKDAGLAKSIGVSNFNCRQLEMILNKP
+            GLKYKPVCNQVECHPYLNQSKLLDFCKSKDIVLVAHSALGTQRHKLWVDPNSPVLLEDPV
+            LCALAKKHKRTPALIALRYQLQRGVVVLAKSYNEQRIRENIQVFEFQLTSEDMKVLDGLN
+            RNYRYVVMDFLMDHPDYPFSDEY
+NTSEQ       972
+            atggatcccaaatatcagcgtgtagagctaaatgatggtcacttcatgcccgtattggga
+            tttggcacctatgcacctccagaggttccgaggaacagagctgtagaggtcaccaaatta
+            gcaatagaagctggcttccgccatattgattctgcttatttatacaataatgaggagcag
+            gttggactggccatccgaagcaagattgcagatggcagtgtgaagagagaagacatattc
+            tacacttcaaagctttggtgcactttctttcaaccacagatggtccaaccagccttggaa
+            agctcactgaaaaaacttcaactggactatgttgacctctatcttcttcatttcccaatg
+            gctctcaagccaggtgagacgccactaccaaaagatgaaaatggaaaagtaatattcgac
+            acagtggatctctctgccacatgggaggtcatggagaagtgtaaggatgcaggattggcc
+            aagtccatcggggtgtcaaacttcaactgcaggcagctggagatgatcctcaacaagcca
+            ggactcaagtacaagcctgtctgcaaccaggtagaatgtcatccttacctcaaccagagc
+            aaactgctggatttctgcaagtcaaaagacattgttctggttgcccacagtgctctggga
+            acccaacgacataaactatgggtggacccaaactccccagttcttttggaggacccagtt
+            ctttgtgccttagcaaagaaacacaaacgaaccccagccctgattgccctgcgctaccag
+            ctgcagcgtggggttgtggtcctggccaagagctacaatgagcagcggatcagagagaac
+            atccaggtttttgaattccagttgacatcagaggatatgaaagttctagatggtctaaac
+            agaaattatcgatatgttgtcatggattttcttatggaccatcctgattatccattttca
+            gatgaatattag
+///

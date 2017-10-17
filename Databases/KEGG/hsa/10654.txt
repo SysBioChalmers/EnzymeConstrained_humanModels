@@ -1,0 +1,52 @@
+ENTRY       10654             CDS       T01001
+NAME        PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1
+DEFINITION  (RefSeq) phosphomevalonate kinase
+ORTHOLOGY   K13273  phosphomevalonate kinase [EC:2.7.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                10654 (PMVK)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                10654 (PMVK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.2  phosphomevalonate kinase
+                 10654 (PMVK)
+POSITION    1q21.3
+MOTIF       Pfam: P-mevalo_kinase
+DBLINKS     NCBI-GeneID: 10654
+            NCBI-ProteinID: NP_006547
+            OMIM: 607622
+            HGNC: 9141
+            Ensembl: ENSG00000163344
+            Vega: OTTHUMG00000037415
+            Pharos: Q15126(Tbio)
+            UniProt: Q15126 Q6FGV9
+STRUCTURE   PDB: 3CH4
+AASEQ       192
+            MAPLGGAPRLVLLFSGKRKSGKDFVTEALQSRLGADVCAVLRLSGPLKEQYAQEHGLNFQ
+            RLLDTSTYKEAFRKDMIRWGEEKRQADPGFFCRKIVEGISQPIWLVSDTRRVSDIQWFRE
+            AYGAVTQTVRVVALEQSRQQRGWVFTPGVDDAESECGLDNFGDFDWVIENHGVEQRLEEQ
+            LENLIEFIRSRL
+NTSEQ       579
+            atggccccgctgggaggcgccccgcggctggtactgctgttcagcggcaagaggaaatcc
+            gggaaggacttcgtgaccgaggcgctgcagagcagacttggagctgatgtctgtgctgtc
+            ctccggctctctggtccactcaaggaacagtatgctcaggagcatggcttgaacttccag
+            agactcctggacaccagcacctacaaggaggcctttcggaaggacatgatccgctgggga
+            gaggagaaacgccaggctgacccaggcttcttttgcaggaagattgtggagggcatctcc
+            cagcccatctggctggtgagtgacacacggagagtgtctgacatccagtggtttcgggag
+            gcctatggggccgtgacgcagacggtccgcgttgtagcgttggagcagagccgacagcag
+            cggggctgggtgttcacgccaggggtggacgatgctgagtcagaatgtggcctggacaac
+            ttcggggactttgactgggtcatcgagaaccatggagttgaacagcgcctggaggagcag
+            ttggagaacctgatagaatttatccgctccagactttag
+///

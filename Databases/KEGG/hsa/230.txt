@@ -1,0 +1,82 @@
+ENTRY       230               CDS       T01001
+NAME        ALDOC, ALDC
+DEFINITION  (RefSeq) aldolase, fructose-bisphosphate C
+ORTHOLOGY   K01623  fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00030  Pentose phosphate pathway
+            hsa00051  Fructose and mannose metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                230 (ALDOC)
+               01230 Biosynthesis of amino acids
+                230 (ALDOC)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                230 (ALDOC)
+               00030 Pentose phosphate pathway
+                230 (ALDOC)
+               00051 Fructose and mannose metabolism
+                230 (ALDOC)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.2  Aldehyde-lyases
+                4.1.2.13  fructose-bisphosphate aldolase
+                 230 (ALDOC)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Other centriole associated proteins
+                230 (ALDOC)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               230 (ALDOC)
+POSITION    17q11.2
+MOTIF       Pfam: Glycolytic
+DBLINKS     NCBI-GeneID: 230
+            NCBI-ProteinID: NP_005156
+            OMIM: 103870
+            HGNC: 418
+            Ensembl: ENSG00000109107
+            Vega: OTTHUMG00000132605
+            Pharos: P09972(Tbio)
+            UniProt: P09972 A0A024QZ64
+STRUCTURE   PDB: 1XFB
+AASEQ       364
+            MPHSYPALSAEQKKELSDIALRIVAPGKGILAADESVGSMAKRLSQIGVENTEENRRLYR
+            QVLFSADDRVKKCIGGVIFFHETLYQKDDNGVPFVRTIQDKGIVVGIKVDKGVVPLAGTD
+            GETTTQGLDGLSERCAQYKKDGADFAKWRCVLKISERTPSALAILENANVLARYASICQQ
+            NGIVPIVEPEILPDGDHDLKRCQYVTEKVLAAVYKALSDHHVYLEGTLLKPNMVTPGHAC
+            PIKYTPEEIAMATVTALRRTVPPAVPGVTFLSGGQSEEEASFNLNAINRCPLPRPWALTF
+            SYGRALQASALNAWRGQRDNAGAATEEFIKRAEVNGLAAQGKYEGSGEDGGAAAQSLYIA
+            NHAY
+NTSEQ       1095
+            atgcctcactcgtacccagccctttctgctgagcagaagaaggagttgtctgacattgcc
+            ctgcggattgtagccccgggcaaaggcattctggctgcggatgagtctgtaggcagcatg
+            gccaagcggctgagccaaattggggtggaaaacacagaggagaaccgccggctgtaccgc
+            caggtcctgttcagtgctgatgaccgtgtgaaaaagtgcattggaggcgtcattttcttc
+            catgagaccctctaccagaaagatgataatggtgttcccttcgtccgaaccatccaggat
+            aagggcatcgtcgtgggcatcaaggttgacaagggtgtggtgcctctagctgggactgat
+            ggagaaaccaccactcaagggctggatgggctctcagaacgctgtgcccaatacaagaag
+            gatggtgctgactttgccaagtggcgctgtgtgctgaaaatcagtgagcgtacaccctct
+            gcacttgccattctggagaacgccaacgtgctggcccgttatgccagtatctgccagcag
+            aatggcattgtgcctattgtggaacctgaaatattgcctgatggagaccacgacctcaaa
+            cgttgtcagtatgttacagagaaggtcttggctgctgtgtacaaggccctgagtgaccat
+            catgtatacctggaggggaccctgctcaagcccaacatggtgaccccgggccatgcctgt
+            cccatcaagtataccccagaggagattgccatggcaactgtcactgccctgcgtcgcact
+            gtgcccccagctgtcccaggagtgaccttcctgtctgggggtcagagcgaagaagaggca
+            tcattcaacctcaatgccatcaaccgctgcccccttccccgaccctgggcgcttaccttc
+            tcctatgggcgtgccctgcaagcctctgcactcaatgcctggcgagggcaacgggacaat
+            gctggggctgccactgaggagttcatcaagcgggctgaggtgaatgggcttgcagcccag
+            ggcaagtatgaaggcagtggagaagatggtggagcagcagcacagtcactctacattgcc
+            aaccatgcctactga
+///

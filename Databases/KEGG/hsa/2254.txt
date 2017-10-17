@@ -1,0 +1,92 @@
+ENTRY       2254              CDS       T01001
+NAME        FGF9, FGF-9, GAF, HBFG-9, HBGF-9, SYNS3
+DEFINITION  (RefSeq) fibroblast growth factor 9
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+DISEASE     H00484  Other brachydactylies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2254 (FGF9)
+               04015 Rap1 signaling pathway
+                2254 (FGF9)
+               04010 MAPK signaling pathway
+                2254 (FGF9)
+               04151 PI3K-Akt signaling pathway
+                2254 (FGF9)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2254 (FGF9)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2254 (FGF9)
+               05218 Melanoma
+                2254 (FGF9)
+               05224 Breast cancer
+                2254 (FGF9)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               2254 (FGF9)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 2254 (FGF9)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 2254 (FGF9)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 2254 (FGF9)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 2254 (FGF9)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               2254 (FGF9)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               2254 (FGF9)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2254 (FGF9)
+POSITION    13q12.11
+MOTIF       Pfam: FGF
+DBLINKS     NCBI-GeneID: 2254
+            NCBI-ProteinID: NP_002001
+            OMIM: 600921
+            HGNC: 3687
+            Ensembl: ENSG00000102678
+            Vega: OTTHUMG00000017412
+            Pharos: P31371(Tbio)
+            UniProt: P31371
+STRUCTURE   PDB: 1IHK 5W59 1G82
+AASEQ       208
+            MAPLGEVGNYFGVQDAVPFGNVPVLPVDSPVLLSDHLGQSEAGGLPRGPAVTDLDHLKGI
+            LRRRQLYCRTGFHLEIFPNGTIQGTRKDHSRFGILEFISIAVGLVSIRGVDSGLYLGMNE
+            KGELYGSEKLTQECVFREQFEENWYNTYSSNLYKHVDTGRRYYVALNKDGTPREGTRTKR
+            HQKFTHFLPRPVDPDKVPELYKDILSQS
+NTSEQ       627
+            atggctcccttaggtgaagttgggaactatttcggtgtgcaggatgcggtaccgtttggg
+            aatgtgcccgtgttgccggtggacagcccggttttgttaagtgaccacctgggtcagtcc
+            gaagcaggggggctccccaggggacccgcagtcacggacttggatcatttaaaggggatt
+            ctcaggcggaggcagctatactgcaggactggatttcacttagaaatcttccccaatggt
+            actatccagggaaccaggaaagaccacagccgatttggcattctggaatttatcagtata
+            gcagtgggcctggtcagcattcgaggcgtggacagtggactctacctcgggatgaatgag
+            aagggggagctgtatggatcagaaaaactaacccaagagtgtgtattcagagaacagttc
+            gaagaaaactggtataatacgtactcatcaaacctatataagcacgtggacactggaagg
+            cgatactatgttgcattaaataaagatgggaccccgagagaagggactaggactaaacgg
+            caccagaaattcacacattttttacctagaccagtggaccccgacaaagtacctgaactg
+            tataaggatattctaagccaaagttga
+///

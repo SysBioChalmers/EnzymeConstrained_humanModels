@@ -1,0 +1,66 @@
+ENTRY       2222              CDS       T01001
+NAME        FDFT1, DGPT, ERG9, SQS, SS
+DEFINITION  (RefSeq) farnesyl-diphosphate farnesyltransferase 1
+ORTHOLOGY   K00801  farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00100  Steroid biosynthesis
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00100 Steroid biosynthesis
+                2222 (FDFT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.21  squalene synthase
+                 2222 (FDFT1)
+            Prenyltransferases [BR:hsa01006]
+             Terpene biosynthesis
+              Squalene/phytoene synthase
+               2222 (FDFT1)
+POSITION    8p23.1
+MOTIF       Pfam: SQS_PSY Octopine_DH
+DBLINKS     NCBI-GeneID: 2222
+            NCBI-ProteinID: NP_001274671
+            OMIM: 184420
+            HGNC: 3629
+            Ensembl: ENSG00000079459
+            Vega: OTTHUMG00000090801
+            Pharos: P37268(Tchem)
+            UniProt: P37268 Q6IAX1
+STRUCTURE   PDB: 3VJ8 3VJ9 3WEG 3VJA 3WEI 3V66 3WEK 3WEH 3VJC 3WEJ 3ASX
+                 3Q2Z 3Q30 3VJB 3WCM 1EZF 3WCJ 3WCF 3WCL 3WCI 3WEF 3WCH
+                 3WCD 3WC9 3WSA 3LEE
+AASEQ       417
+            MEFVKCLGHPEEFYNLVRFRIGGKRKVMPKMDQDSLSSSLKTCYKYLNQTSRSFAAVIQA
+            LDGEMRNAVCIFYLVLRALDTLEDDMTISVEKKVPLLHNFHSFLYQPDWRFMESKEKDRQ
+            VLEDFPTISLEFRNLAEKYQTVIADICRRMGIGMAEFLDKHVTSEQEWDKYCHYVAGLVG
+            IGLSRLFSASEFEDPLVGEDTERANSMGLFLQKTNIIRDYLEDQQGGREFWPQEVWSRYV
+            KKLGDFAKPENIDLAVQCLNELITNALHHIPDVITYLSRLRNQSVFNFCAIPQVMAIATL
+            AACYNNQQVFKGAVKIRKGQAVTLMMDATNMPAVKAIIYQYMEEIYHRIPDSDPSSSKTR
+            QIISTIRTQNLPNCQLISRSHYSPIYLSFVMLLAALSWQYLTTLSQVTEDYVQTGEH
+NTSEQ       1254
+            atggagttcgtgaaatgccttggccaccccgaagagttctacaacctggtgcgcttccgg
+            atcgggggcaagcggaaggtgatgcccaagatggaccaggactcgctcagcagcagcctg
+            aaaacttgctacaagtatctcaatcagaccagtcgcagtttcgcagctgttatccaggcg
+            ctggatggggaaatgcgcaacgcagtgtgcatattttatctggttctccgagctctggac
+            acactggaagatgacatgaccatcagtgtggaaaagaaggtcccgctgttacacaacttt
+            cactctttcctttaccaaccagactggcggttcatggagagcaaggagaaggatcgccag
+            gtgctggaggacttcccaacgatctcccttgagtttagaaatctggctgagaaataccaa
+            acagtgattgccgacatttgccggagaatgggcattgggatggcagagtttttggataag
+            catgtgacctctgaacaggagtgggacaagtactgccactatgttgctgggctggtcgga
+            attggcctttcccgtcttttctcagcctcagagtttgaagaccccttagttggtgaagat
+            acagaacgtgccaactctatgggcctgtttctgcagaaaacaaacatcatccgtgactat
+            ctggaagaccagcaaggaggaagagagttctggcctcaagaggtttggagcaggtatgtt
+            aagaagttaggggattttgctaagccggagaatattgacttggccgtgcagtgcctgaat
+            gaacttataaccaatgcactgcaccacatcccagatgtcatcacctacctttcgagactc
+            agaaaccagagtgtgtttaacttctgtgctattccacaggtgatggccattgccactttg
+            gctgcctgttataataaccagcaggtgttcaaaggggcagtgaagattcggaaagggcaa
+            gcagtgaccctgatgatggatgccaccaatatgccagctgtcaaagccatcatatatcag
+            tatatggaagagatttatcatagaatccccgactcagacccatcttctagcaaaacaagg
+            cagatcatctccaccatccggacgcagaatcttcccaactgtcagctgatttcccgaagc
+            cactactcccccatctacctgtcgtttgtcatgcttttggctgccctgagctggcagtac
+            ctgaccactctctcccaggtaacagaagactatgttcagactggagaacactga
+///

@@ -1,0 +1,101 @@
+ENTRY       5429              CDS       T01001
+NAME        POLH, RAD30, RAD30A, XP-V, XPV
+DEFINITION  (RefSeq) DNA polymerase eta
+ORTHOLOGY   K03509  DNA polymerase eta [EC:2.7.7.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa03460  Fanconi anemia pathway
+DISEASE     H00403  Disorders of nucleotide excision repair
+            H01428  Xeroderma pigmentosum (XP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03460 Fanconi anemia pathway
+                5429 (POLH)
+             Human Diseases
+              Drug resistance
+               01524 Platinum drug resistance
+                5429 (POLH)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 5429 (POLH)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              TLS (translesion DNA synthesis) factors
+               Y-family DNA polymerases
+                5429 (POLH)
+POSITION    6p21.1
+MOTIF       Pfam: IMS IMS_C IMS_HHH PRP21_like_P
+DBLINKS     NCBI-GeneID: 5429
+            NCBI-ProteinID: NP_006493
+            OMIM: 603968
+            HGNC: 9181
+            Ensembl: ENSG00000170734
+            Vega: OTTHUMG00000014743
+            Pharos: Q9Y253(Tbio)
+            UniProt: Q9Y253 A0A024RD62
+STRUCTURE   PDB: 5KFZ 5KFN 5KFS 5KFC 4ECQ 5KFA 5KFO 5KFT 5KFX 4ED8 4ECV
+                 5KFB 5KFE 5KFG 5KFQ 5KFU 5KG6 4Q8E 4O3N 5KFM 5KFV 5KG0
+                 5KG2 5KG4 5KG5 3WUP 5L1L 5KFW 5KG1 4O3R 5KFD 5KFI 5KFL
+                 4ED0 5EWE 5KFF 5KFJ 5KFK 5KFP 5KFY 5KG3 4O3O 4ED2 5KFH
+                 4O3P 4O3Q 4O3S 4ED7 4ECX 5KFR 5KG7 5EWG 3MR3 5EWF 4YR0
+                 5DGB 4ECT 4ED3 3MR5 4RNN 4ED1 5L1K 4ECZ 3MR2 4J9L 4YP3
+                 4ECR 5L9X 4ECW 3MR6 5L1J 4ECY 4YR2 4J9S 4ECS 4ECU 4J9N
+                 4J9Q 5DLF 4DL7 5DQH 4YR3 4DL4 4J9K 4YQW 4DL3 5DG8 4RNM
+                 5DG9 4DL2 3SI8 4ED6 5F9N 4J9M 5DG7 5DQG 5DQI 5DGA 4J9P
+                 4EEY 5DLG 4J9R 4DL6 3TQ1 5F9L 5JUM 4J9O 4RU9 5L1I 4Q8F
+                 4RNO 4DL5 3JAA 2I5O
+AASEQ       713
+            MATGQDRVVALVDMDCFFVQVEQRQNPHLRNKPCAVVQYKSWKGGGIIAVSYEARAFGVT
+            RSMWADDAKKLCPDLLLAQVRESRGKANLTKYREASVEVMEIMSRFAVIERASIDEAYVD
+            LTSAVQERLQKLQGQPISADLLPSTYIEGLPQGPTTAEETVQKEGMRKQGLFQWLDSLQI
+            DNLTSPDLQLTVGAVIVEEMRAAIERETGFQCSAGISHNKVLAKLACGLNKPNRQTLVSH
+            GSVPQLFSQMPIRKIRSLGGKLGASVIEILGIEYMGELTQFTESQLQSHFGEKNGSWLYA
+            MCRGIEHDPVKPRQLPKTIGCSKNFPGKTALATREQVQWWLLQLAQELEERLTKDRNDND
+            RVATQLVVSIRVQGDKRLSSLRRCCALTRYDAHKMSHDAFTVIKNCNTSGIQTEWSPPLT
+            MLFLCATKFSASAPSSSTDITSFLSSDPSSLPKVPVTSSEAKTQGSGPAVTATKKATTSL
+            ESFFQKAAERQKVKEASLSSLTAPTQAPMSNSPSKPSLPFQTSQSTGTEPFFKQKSLLLK
+            QKQLNNSSVSSPQQNPWSNCKALPNSLPTEYPGCVPVCEGVSKLEESSKATPAEMDLAHN
+            SQSMHASSASKSVLEVTQKATPNPSLLAAEDQVPCEKCGSLVPVWDMPEHMDYHFALELQ
+            KSFLQPHSSNPQVVSAVSHQGKRNPKSPLACTNKRPRPEGMQTLESFFKPLTH
+NTSEQ       2142
+            atggctactggacaggatcgagtggttgctctcgtggacatggactgtttttttgttcaa
+            gtggagcagcggcaaaatcctcatttgaggaataaaccttgtgcagttgtacagtacaaa
+            tcatggaagggtggtggaataattgcagtgagttatgaagctcgtgcatttggagtcact
+            agaagtatgtgggcagatgatgctaagaagttatgtccagatcttctactggcacaagtt
+            cgtgagtcccgtgggaaagctaacctcaccaagtaccgggaagccagtgttgaagtgatg
+            gagataatgtctcgttttgctgtgattgaacgtgccagcattgatgaggcttacgtagat
+            ctgaccagtgctgtacaagagagactacaaaagctacaaggtcagcctatctcggcagac
+            ttgttgccaagcacttacattgaagggttgccccaaggccctacaacggcagaagagact
+            gttcagaaagaggggatgcgaaaacaaggcttatttcaatggctcgattctcttcagatt
+            gataacctcacctctccagacctgcagctcaccgtgggagcagtgattgtggaggaaatg
+            agagcagccatagagagggagactggttttcagtgttcagctggaatttcacacaataag
+            gtcctggcaaaactggcctgtggactaaacaagcccaaccgccaaaccctggtttcacat
+            gggtcagtcccacagctcttcagccaaatgcccattcgcaaaatccgtagtcttggagga
+            aagctaggggcctctgtcattgagatcctagggatagaatacatgggtgaactgacccag
+            ttcactgaatcccagctccagagtcattttggggagaagaatgggtcttggctatatgcc
+            atgtgccgagggattgaacatgatccagttaaacccaggcaactacccaaaaccattggc
+            tgtagtaagaacttcccaggaaaaacagctcttgctactcgggaacaggtacaatggtgg
+            ctgttgcaattagcccaggaactagaggagagactgactaaagaccgaaatgataatgac
+            agggtagccacccagctggttgtgagcattcgtgtacaaggagacaaacgcctcagcagc
+            ctgcgccgctgctgtgcccttacccgctatgatgctcacaagatgagccatgatgcattt
+            actgtcatcaagaactgtaatacttctggaatccagacagaatggtctcctcctctcaca
+            atgcttttcctctgtgctacaaaattttctgcctctgccccttcatcttctacagacatc
+            accagcttcttgagcagtgacccaagttctctgccaaaggtgccagttaccagctcagaa
+            gctaagacccagggaagtggcccagcggtgacagccactaagaaagcaaccacgtctctg
+            gaatcattcttccaaaaagctgcagaaaggcagaaagttaaagaagcttcgctttcatct
+            cttactgctcccactcaggctcccatgagcaattcaccatccaagccctcattacctttt
+            caaaccagtcaaagtacaggaactgagcccttctttaagcagaaaagtctgcttctaaag
+            cagaaacagcttaataattcttcagtttcttccccccaacaaaacccatggtccaactgt
+            aaagcattaccaaactctttaccaacagagtatccagggtgtgtccctgtttgtgaaggg
+            gtgtcgaagctagaagaatcctctaaagcaactcctgcagagatggatttggcccacaac
+            agccaaagcatgcacgcctcttcagcttccaaatctgtgctggaggtgactcagaaagca
+            accccaaatccaagtcttctagctgctgaggaccaagtgccctgtgagaagtgtggctcc
+            ctggtaccggtatgggatatgccagaacacatggactatcattttgcattggagttgcag
+            aaatcctttttgcagccccactcttcaaacccccaggttgtttctgccgtatctcatcaa
+            ggcaaaagaaatcccaagagccctttggcctgcactaataaacgccccaggcctgagggc
+            atgcaaacattggaatcattttttaagccattaacacattag
+///

@@ -1,0 +1,83 @@
+ENTRY       587               CDS       T01001
+NAME        BCAT2, BCAM, BCATM, BCT2, PP18
+DEFINITION  (RefSeq) branched chain amino acid transaminase 2
+ORTHOLOGY   K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+            hsa00770  Pantothenate and CoA biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01210  2-Oxocarboxylic acid metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01210 2-Oxocarboxylic acid metabolism
+                587 (BCAT2)
+               01230 Biosynthesis of amino acids
+                587 (BCAT2)
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                587 (BCAT2)
+               00280 Valine, leucine and isoleucine degradation
+                587 (BCAT2)
+               00290 Valine, leucine and isoleucine biosynthesis
+                587 (BCAT2)
+              Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                587 (BCAT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.42  branched-chain-amino-acid transaminase
+                 587 (BCAT2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class IV
+               587 (BCAT2)
+POSITION    19q13.33
+MOTIF       Pfam: Aminotran_4
+DBLINKS     NCBI-GeneID: 587
+            NCBI-ProteinID: NP_001181
+            OMIM: 113530
+            HGNC: 977
+            Ensembl: ENSG00000105552
+            Vega: OTTHUMG00000183327
+            Pharos: O15382(Tbio)
+            UniProt: O15382
+STRUCTURE   PDB: 5MPR 5CR5 5I5X 5BWX 2HHF 2HGX 2HG8 2A1H 5I5Y 5BWW 5BWV
+                 1KT8 1KTA 5I5V 1EKF 2HGW 5HNE 5I5S 5I60 5BWU 5BWR 5BWT
+                 1EKV 5I5T 5I5U 5I5W 2HDK 1EKP
+AASEQ       392
+            MAAAALGQIWARKLLSVPWLLCGPRRYASSSFKAADLQLEMTQKPHKKPGPGEPLVFGKT
+            FTDHMLMVEWNDKGWGQPRIQPFQNLTLHPASSSLHYSLQLFEGMKAFKGKDQQVRLFRP
+            WLNMDRMLRSAMRLCLPSFDKLELLECIRRLIEVDKDWVPDAAGTSLYVRPVLIGNEPSL
+            GVSQPTRALLFVILCPVGAYFPGGSVTPVSLLADPAFIRAWVGGVGNYKLGGNYGPTVLV
+            QQEALKRGCEQVLWLYGPDHQLTEVGTMNIFVYWTHEDGVLELVTPPLNGVILPGVVRQS
+            LLDMAQTWGEFRVVERTITMKQLLRALEEGRVREVFGSGTACQVCPVHRILYKDRNLHIP
+            TMENGPELILRFQKELKEIQYGIRAHEWMFPV
+NTSEQ       1179
+            atggccgcagccgctctggggcagatctgggcacgaaagcttctctctgtcccttggctt
+            ctgtgtggtcccagaagatatgcctcctccagtttcaaggctgcagacctgcagctggaa
+            atgacacagaagcctcataagaagcctggccccggcgagcccctggtgtttgggaagaca
+            tttaccgaccacatgctgatggtggaatggaatgacaagggctggggccagccccgaatc
+            cagcccttccagaacctcacgctgcacccagcctcctccagcctccactactccctgcag
+            ctgtttgagggcatgaaggcgttcaaaggcaaagaccagcaggtgcgcctcttccgcccc
+            tggctcaacatggaccggatgctgcgctcagccatgcgcctgtgcctgccgagtttcgac
+            aagctggagttgctggagtgcatccgccggctcatcgaagtggacaaggactgggtcccc
+            gatgccgccggcaccagcctctatgtgcggcctgtgctcattgggaacgagccctcgctg
+            ggtgtcagccagcccacgcgcgcgctcctgttcgtcattctctgcccagtgggtgcctac
+            ttccctggaggctccgtgaccccggtctccctcctggccgacccagccttcatccgggcc
+            tgggtgggcggggtcggcaactacaagttaggtgggaattatgggcccaccgtgttagtg
+            caacaggaggcactcaagcggggctgtgaacaggtcctctggctgtatgggcccgaccac
+            cagctcaccgaggtgggaaccatgaacatctttgtctactggacccacgaagatggggtg
+            ctggagctggtgacgcccccgctgaatggtgttatcctgcctggagtggtcagacagagt
+            ctactggacatggctcagacctggggtgagttccgggtggtggagcgcacgatcaccatg
+            aagcagttgctgcgggccctggaggagggccgcgtgcgggaagtctttggctcgggcacc
+            gcttgccaggtctgcccagtgcaccgaatcctgtacaaagacaggaacctccacattccc
+            accatggaaaatgggcctgagctgatcctccgcttccagaaggagctgaaggagatccag
+            tacggaatcagagcccacgagtggatgttcccggtgtga
+///

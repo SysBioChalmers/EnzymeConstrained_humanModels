@@ -1,0 +1,95 @@
+ENTRY       18                CDS       T01001
+NAME        ABAT, GABA-AT, GABAT, NPD009
+DEFINITION  (RefSeq) 4-aminobutyrate aminotransferase
+ORTHOLOGY   K13524  4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa04727  GABAergic synapse
+MODULE      hsa_M00027  GABA (gamma-Aminobutyrate) shunt
+DISEASE     H01257  GABA-transaminase deficiency
+DRUG_TARGET Valproic acid (DG00849): D00304 D00399 D00710 D08667
+            Vigabatrin: D00535
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                18 (ABAT)
+               00650 Butanoate metabolism
+                18 (ABAT)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                18 (ABAT)
+               00280 Valine, leucine and isoleucine degradation
+                18 (ABAT)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                18 (ABAT)
+             Organismal Systems
+              Nervous system
+               04727 GABAergic synapse
+                18 (ABAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.19  4-aminobutyrate---2-oxoglutarate transaminase
+                 18 (ABAT)
+                2.6.1.22  (S)-3-amino-2-methylpropionate transaminase
+                 18 (ABAT)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class III
+               18 (ABAT)
+POSITION    16p13.2
+MOTIF       Pfam: Aminotran_3 Lenti_VIF_2 Tex_N Aminotran_1_2
+DBLINKS     NCBI-GeneID: 18
+            NCBI-ProteinID: NP_000654
+            OMIM: 137150
+            HGNC: 23
+            Ensembl: ENSG00000183044
+            Vega: OTTHUMG00000048201
+            Pharos: P80404(Tclin)
+            UniProt: P80404 X5D8S1
+AASEQ       500
+            MASMLLAQRLACSFQHSYRLLVPGSRHISQAAAKVDVEFDYDGPLMKTEVPGPRSQELMK
+            QLNIIQNAEAVHFFCNYEESRGNYLVDVDGNRMLDLYSQISSVPIGYSHPALLKLIQQPQ
+            NASMFVNRPALGILPPENFVEKLRQSLLSVAPKGMSQLITMACGSCSNENALKTIFMWYR
+            SKERGQRGFSQEELETCMINQAPGCPDYSILSFMGAFHGRTMGCLATTHSKAIHKIDIPS
+            FDWPIAPFPRLKYPLEEFVKENQQEEARCLEEVEDLIVKYRKKKKTVAGIIVEPIQSEGG
+            DNHASDDFFRKLRDIARKHGCAFLVDEVQTGGGCTGKFWAHEHWGLDDPADVMTFSKKMM
+            TGGFFHKEEFRPNAPYRIFNTWLGDPSKNLLLAEVINIIKREDLLNNAAHAGKALLTGLL
+            DLQARYPQFISRVRGRGTFCSFDTPDDSIRNKLILIARNKGVVLGGCGDKSIRFRPTLVF
+            RDHHAHLFLNIFSDILADFK
+NTSEQ       1503
+            atggcctccatgttgctcgcccagcgcctggcctgcagcttccagcacagctaccgcctg
+            ctggtgcctggatccagacacattagtcaagctgcagccaaagtcgacgttgaatttgat
+            tatgatgggcctctgatgaagacggaagtcccagggcctagatctcaggagttaatgaaa
+            cagctgaatataattcagaatgcagaggctgtgcattttttctgcaattacgaagagagc
+            cgaggcaattacctggttgatgtggacggcaaccgaatgctggatctttattcccagatc
+            tcctctgtccccataggttacagccaccccgccctgctgaaactcatccaacagcctcaa
+            aatgcgagcatgtttgtcaacagacccgccctcggaatcctgcctccggagaactttgtg
+            gagaagctccggcagtccttgctctcggtggctcccaaagggatgtcccagctcatcacc
+            atggcctgcggctcctgctccaatgaaaacgccttaaagaccatcttcatgtggtaccgg
+            agcaaggaaagagggcagaggggcttctcccaggaggagctggagacgtgcatgattaac
+            caggcccctggctgccccgactacagcatcctctccttcatgggcgcgttccatgggagg
+            accatgggttgcttagcgaccacgcactctaaagccattcacaagatcgacatcccttcc
+            tttgactggcccatcgcaccgttcccacggctgaaataccctctggaagagtttgtgaaa
+            gagaaccaacaggaggaggcccgctgtctggaagaggtggaggatctgattgtgaaatat
+            cggaaaaagaagaagacggtggccgggatcatcgtggagcccatccagtccgagggtgga
+            gacaaccacgcatccgatgacttctttcggaagctgagagacatcgccaggaagcatggc
+            tgcgccttcttggtggacgaggtccagaccggaggaggctgcacgggcaagttctgggcc
+            catgagcactggggcctggatgacccagcagacgtgatgaccttcagcaagaagatgatg
+            actgggggcttcttccacaaggaggagttcaggcctaatgctccctaccggatcttcaac
+            acctggctgggggacccgtccaagaacctgttgctggctgaggtcatcaacatcatcaag
+            cgggaggacctgctaaataatgcagcccatgccgggaaggccctgctcacaggactgctg
+            gacctccaggcccggtacccccagttcatcagcagggtgagaggacgaggcaccttttgc
+            tccttcgatactcccgatgattccatacggaataagctcattttaattgccagaaacaaa
+            ggtgtggtgttgggtggctgtggtgacaaatccattcgtttccgtcccacgctggtcttc
+            agggatcaccacgctcacctgttcctcaatattttcagtgacatcttagcagacttcaag
+            taa
+///

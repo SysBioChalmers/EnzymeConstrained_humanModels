@@ -1,0 +1,92 @@
+ENTRY       4939              CDS       T01001
+NAME        OAS2
+DEFINITION  (RefSeq) 2'-5'-oligoadenylate synthetase 2
+ORTHOLOGY   K14216  2'-5'-oligoadenylate synthetase [EC:2.7.7.84]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04621  NOD-like receptor signaling pathway
+            hsa05160  Hepatitis C
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                4939 (OAS2)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                4939 (OAS2)
+               05164 Influenza A
+                4939 (OAS2)
+               05160 Hepatitis C
+                4939 (OAS2)
+               05168 Herpes simplex infection
+                4939 (OAS2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.84  2'-5' oligoadenylate synthase
+                 4939 (OAS2)
+POSITION    12q24.13
+MOTIF       Pfam: OAS1_C NTP_transf_2
+DBLINKS     NCBI-GeneID: 4939
+            NCBI-ProteinID: NP_058197
+            OMIM: 603350
+            HGNC: 8087
+            Ensembl: ENSG00000111335
+            Vega: OTTHUMG00000169802
+            Pharos: P29728(Tbio)
+            UniProt: P29728
+AASEQ       719
+            MGNGESQLSSVPAQKLGWFIQEYLKPYEECQTLIDEMVNTICDVLQEPEQFPLVQGVAIG
+            GSYGRKTVLRGNSDGTLVLFFSDLKQFQDQKRSQRDILDKTGDKLKFCLFTKWLKNNFEI
+            QKSLDGFTIQVFTKNQRISFEVLAAFNALSLNDNPSPWIYRELKRSLDKTNASPGEFAVC
+            FTELQQKFFDNRPGKLKDLILLIKHWHQQCQKKIKDLPSLSPYALELLTVYAWEQGCRKD
+            NFDIAEGVRTVLELIKCQEKLCIYWMVNYNFEDETIRNILLHQLQSARPVILDPVDPTNN
+            VSGDKICWQWLKKEAQTWLTSPNLDNELPAPSWNVLPAPLFTTPGHLLDKFIKEFLQPNK
+            CFLEQIDSAVNIIRTFLKENCFRQSTAKIQIVRGGSTAKGTALKTGSDADLVVFHNSLKS
+            YTSQKNERHKIVKEIHEQLKAFWREKEEELEVSFEPPKWKAPRVLSFSLKSKVLNESVSF
+            DVLPAFNALGQLSSGSTPSPEVYAGLIDLYKSSDLPGGEFSTCFTVLQRNFIRSRPTKLK
+            DLIRLVKHWYKECERKLKPKGSLPPKYALELLTIYAWEQGSGVPDFDTAEGFRTVLELVT
+            QYQQLCIFWKVNYNFEDETVRKFLLSQLQKTRPVILDPAEPTGDVGGGDRWCWHLLAKEA
+            KEWLSSPCFKDGTGNPIPPWKVPTMQTPGSCGARIHPIVNEMFSSRSHRILNNNSKRNF
+NTSEQ       2160
+            atgggaaatggggagtcccagctgtcctcggtgcctgctcagaagctgggttggtttatc
+            caggaatacctgaagccctacgaagaatgtcagacactgatcgacgagatggtgaacacc
+            atctgtgacgtcctgcaggaacccgaacagttccccctggtgcagggagtggccataggt
+            ggctcctatggacggaaaacagtcttaagaggcaactccgatggtacccttgtcctcttc
+            ttcagtgacttaaaacaattccaggatcagaagagaagccaacgtgacatcctcgataaa
+            actggggataagctgaagttctgtctgttcacgaagtggttgaaaaacaatttcgagatc
+            cagaagtcccttgatgggttcaccatccaggtgttcacaaaaaatcagagaatctctttc
+            gaggtgctggccgccttcaacgctctgagcttaaatgataatcccagcccctggatctat
+            cgagagctcaaaagatccttggataagacaaatgccagtcctggtgagtttgcagtctgc
+            ttcactgaactccagcagaagttttttgacaaccgtcctggaaaactaaaggatttgatc
+            ctcttgataaagcactggcatcaacagtgccagaaaaaaatcaaggatttaccctcgctg
+            tctccgtatgccctggagctgcttacggtgtatgcctgggaacaggggtgcagaaaagac
+            aactttgacattgctgaaggcgtcagaaccgtactggagctgatcaaatgccaggagaag
+            ctgtgtatctattggatggtcaactacaactttgaagatgagaccatcaggaacatcctg
+            ctgcaccagctccaatcagcgaggccagtaatcttggatccagttgacccaaccaataat
+            gtgagtggagataaaatatgctggcaatggctgaaaaaagaagctcaaacctggttgact
+            tctcccaacctggataatgagttacctgcaccatcttggaatgttctgcctgcaccactc
+            ttcacgaccccaggccaccttctggataagttcatcaaggagtttctccagcccaacaaa
+            tgcttcctagagcagattgacagtgctgttaacatcatccgtacattccttaaagaaaac
+            tgcttccgacaatcaacagccaagatccagattgtccggggaggatcaaccgccaaaggc
+            acagctctgaagactggctctgatgccgatctcgtcgtgttccataactcacttaaaagc
+            tacacctcccaaaaaaacgagcggcacaaaatcgtcaaggaaatccatgaacagctgaaa
+            gccttttggagggagaaggaggaggagcttgaagtcagctttgagcctcccaagtggaag
+            gctcccagggtgctgagcttctctctgaaatccaaagtcctcaacgaaagtgtcagcttt
+            gatgtgcttcctgcctttaatgcactgggtcagctgagttctggctccacacccagcccc
+            gaggtttatgcagggctcattgatctgtataaatcctcggacctcccgggaggagagttt
+            tctacctgtttcacagtcctgcagcgaaacttcattcgctcccggcccaccaaactaaag
+            gatttaattcgcctggtgaagcactggtacaaagagtgtgaaaggaaactgaagccaaag
+            gggtctttgcccccaaagtatgccttggagctgctcaccatctatgcctgggagcagggg
+            agtggagtgccggattttgacactgcagaaggtttccggacagtcctggagctggtcaca
+            caatatcagcagctctgcatcttctggaaggtcaattacaactttgaagatgagaccgtg
+            aggaagtttctactgagccagttgcagaaaaccaggcctgtgatcttggacccagccgaa
+            cccacaggtgacgtgggtggaggggaccgttggtgttggcatcttctggcaaaagaagca
+            aaggaatggttatcctctccctgcttcaaggatgggactggaaacccaataccaccttgg
+            aaagtgccgacaatgcagacaccaggaagttgtggagctaggatccatcctattgtcaat
+            gagatgttctcatccagaagccatagaatcctgaataataattctaaaagaaacttctag
+///

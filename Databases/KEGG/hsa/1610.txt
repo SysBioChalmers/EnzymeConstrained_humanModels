@@ -1,0 +1,72 @@
+ENTRY       1610              CDS       T01001
+NAME        DAO, DAAO, DAMOX, OXDA
+DEFINITION  (RefSeq) D-amino acid oxidase
+ORTHOLOGY   K00273  D-amino-acid oxidase [EC:1.4.3.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00472  D-Arginine and D-ornithine metabolism
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                1610 (DAO)
+               00330 Arginine and proline metabolism
+                1610 (DAO)
+              Metabolism of other amino acids
+               00472 D-Arginine and D-ornithine metabolism
+                1610 (DAO)
+              Biosynthesis of other secondary metabolites
+               00311 Penicillin and cephalosporin biosynthesis
+                1610 (DAO)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                1610 (DAO)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.3  D-amino-acid oxidase
+                 1610 (DAO)
+POSITION    12q24.11
+MOTIF       Pfam: DAO Pyr_redox UDPG_MGDP_dh_N FAD_binding_2 Pyr_redox_2
+DBLINKS     NCBI-GeneID: 1610
+            NCBI-ProteinID: NP_001908
+            OMIM: 124050
+            HGNC: 2671
+            Ensembl: ENSG00000110887
+            Vega: OTTHUMG00000169360
+            Pharos: P14920(Tchem)
+            UniProt: P14920 A0A024RBI1
+STRUCTURE   PDB: 3ZNN 3G3E 3ZNO 4QFC 3ZNP 3CUK 3W4I 2DU8 2E4A 2E82 3W4J
+                 3ZNQ 4QFD 3W4K 2E48 2E49
+AASEQ       347
+            MRVVVIGAGVIGLSTALCIHERYHSVLQPLDIKVYADRFTPLTTTDVAAGLWQPYLSDPN
+            NPQEADWSQQTFDYLLSHVHSPNAENLGLFLISGYNLFHEAIPDPSWKDTVLGFRKLTPR
+            ELDMFPDYGYGWFHTSLILEGKNYLQWLTERLTERGVKFFQRKVESFEEVAREGADVIVN
+            CTGVWAGALQRDPLLQPGRGQIMKVDAPWMKHFILTHDPERGIYNSPYIIPGTQTVTLGG
+            IFQLGNWSELNNIQDHNTIWEGCCRLEPTLKNARIIGERTGFRPVRPQIRLEREQLRTGP
+            SNTEVIHNYGHGGYGLTIHWGCALEAAKLFGRILEEKKLSRMPPSHL
+NTSEQ       1044
+            atgcgtgtggtggtgattggagcaggagtcatcgggctgtccaccgccctctgcatccat
+            gagcgctaccactcagtcctgcagccactggacataaaggtctacgcggaccgcttcacc
+            ccactcaccaccaccgacgtggctgccggcctctggcagccctacctttctgaccccaac
+            aacccacaggaggcggactggagccaacagacctttgactatctcctgagccatgtccat
+            tctcccaacgctgaaaacctgggcctgttcctaatctcgggctacaacctcttccatgaa
+            gccattccggacccttcctggaaggacacagttctgggatttcggaagctgacccccaga
+            gagctggatatgttcccagattacggctatggctggttccacacaagcctaattctggag
+            ggaaagaactatctacagtggctgactgaaaggttaactgagaggggagtgaagttcttc
+            cagcggaaagtggagtcttttgaggaggtggcaagagaaggcgcagacgtgattgtcaac
+            tgcactggggtatgggctggggcgctacaacgagaccccctgctgcagccaggccggggg
+            cagatcatgaaggtggacgccccttggatgaagcacttcattctcacccatgacccagag
+            agaggcatctacaattccccgtacatcatcccagggacccagacagttactcttggaggc
+            atcttccagttgggaaactggagtgaactaaacaatatccaggaccacaacaccatttgg
+            gaaggctgctgcagactggagcccacactgaagaatgcaagaattattggtgaacgaact
+            ggcttccggccagtacgcccccagattcggctagaaagagaacagcttcgcactggacct
+            tcaaacacagaggtcatccacaactatggccatggaggctacgggctcaccatccactgg
+            ggatgtgccctggaggcagccaagctctttgggagaatcctggaagaaaagaaattgtcc
+            agaatgccaccatcccacctctga
+///

@@ -1,0 +1,81 @@
+ENTRY       5558              CDS       T01001
+NAME        PRIM2, PRIM2A, p58
+DEFINITION  (RefSeq) primase (DNA) subunit 2
+ORTHOLOGY   K02685  DNA primase large subunit [EC:2.7.7.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03030  DNA replication
+MODULE      hsa_M00261  DNA polymerase alpha / primase complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5558 (PRIM2)
+               00240 Pyrimidine metabolism
+                5558 (PRIM2)
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                5558 (PRIM2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.-  
+                 5558 (PRIM2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               DNA polymerase alpha / primase complex
+                5558 (PRIM2)
+POSITION    6p11.2
+MOTIF       Pfam: DNA_primase_lrg
+DBLINKS     NCBI-GeneID: 5558
+            NCBI-ProteinID: NP_000938
+            OMIM: 176636
+            HGNC: 9370
+            Ensembl: ENSG00000146143
+            Vega: OTTHUMG00000016190
+            Pharos: P49643(Tbio)
+            UniProt: P49643
+STRUCTURE   PDB: 3L9Q 5I7M 5F0Q 5DQO 3Q36 4RR2 4BPU 5F0S 4BPW 4BPX 5EXR
+AASEQ       509
+            MEFSGRKWRKLRLAGDQRNASYPHCLQFYLQPPSENISLIEFENLAIDRVKLLKSVENLG
+            VSYVKGTEQYQSKLESELRKLKFSYRENLEDEYEPRRRDHISHFILRLAYCQSEELRRWF
+            IQQEMDLLRFRFSILPKDKIQDFLKDSQLQFEAISDEEKTLREQEIVASSPSLSGLKLGF
+            ESIYKIPFADALDLFRGRKVYLEDGFAYVPLKDIVAIILNEFRAKLSKALALTARSLPAV
+            QSDERLQPLLNHLSHSYTGQDYSTQGNVGKISLDQIDLLSTKSFPPCMRQLHKALRENHH
+            LRHGGRMQYGLFLKGIGLTLEQALQFWKQEFIKGKMDPDKFDKGYSYNIRHSFGKEGKRT
+            DYTPFSCLKIILSNPPSQGDYHGCPFRHSDPELLKQKLQSYKISPGGISQILDLVKGTHY
+            QVACQKYFEMIHNVDDCGFSLNHPNQFFCESQRILNGGKDIKKEPIQPETPQPKPSVQKT
+            KDASSALASLNSSLEMDMEGLEDYFSEDS
+NTSEQ       1530
+            atggagttttctggaagaaagtggaggaagctgaggttggcaggtgaccagaggaatgct
+            tcctaccctcattgccttcagttttacttgcagccaccttctgaaaacatatctttaata
+            gaatttgaaaacttggctattgatagagttaaattgttaaaatcagttgaaaatcttgga
+            gtgagctatgtgaaaggaactgaacaataccagagtaagttggagagtgagcttcggaag
+            ctcaagttttcctacagagaaaacttagaagatgaatatgaaccacgaagaagagatcat
+            atttctcattttattttgcggcttgcttattgccagtctgaagaacttagacgctggttc
+            attcaacaagaaatggatctccttcgatttagatttagtattttacccaaggataaaatt
+            caggatttcttaaaggatagccaattgcagtttgaggctataagtgatgaagagaagact
+            cttcgagaacaggagattgttgcctcatcaccaagtttaagtggacttaagttggggttc
+            gagtccatttataagatcccttttgctgatgctctggatttgtttcgaggaaggaaagtc
+            tatttggaagatggctttgcttacgtaccacttaaggacattgtggcaatcatcctgaat
+            gaatttagagccaaactgtccaaggctttggcattaacagccaggtccttgcctgctgtg
+            cagtctgatgaaagacttcagcctctgctcaatcacctcagtcattcctacactggccaa
+            gattacagtacccagggaaatgttgggaagatttctttagatcagattgatttgctttct
+            accaaatccttcccaccttgcatgcgtcagttacataaagccttgcgggaaaatcaccat
+            cttcgtcatggaggccgaatgcagtatggcctatttctgaagggcattggtttaactttg
+            gaacaggcattgcagttctggaagcaagaatttatcaaaggaaagatggatccagacaag
+            tttgataaaggttactcttacaacatccgtcacagctttggaaaggaaggcaagaggaca
+            gactatacacctttcagttgcctgaagattattctgtccaatccaccaagccaaggggat
+            tatcatgggtgcccattccgtcacagtgatccagagctgctgaagcaaaagttgcagtca
+            tacaagatctctcctggagggataagccagattttggatttagtaaaggggacacattac
+            caggtagcctgtcaaaaatactttgagatgatacacaatgtggatgattgtggcttttct
+            ttgaatcatcctaatcagttcttttgtgagagccaacgtattctaaatggtggtaaagac
+            ataaagaaggaacctatccaaccagaaactcctcaacccaaaccaagtgtccagaaaacc
+            aaggatgcatcatctgctctggcctctttaaattcctctctggaaatggatatggaagga
+            ctagaagattactttagtgaagattcttag
+///

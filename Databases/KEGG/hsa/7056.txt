@@ -1,0 +1,86 @@
+ENTRY       7056              CDS       T01001
+NAME        THBD, AHUS6, BDCA3, CD141, THPH12, THRM, TM
+DEFINITION  (RefSeq) thrombomodulin
+ORTHOLOGY   K03907  thrombomodulin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00223  Inherited thrombophilia
+            H01434  Atypical hemolytic uremic syndrome (aHUS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                7056 (THBD)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                7056 (THBD)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                7056 (THBD)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7056 (THBD)
+            Proteoglycans [BR:hsa00535]
+             Cell surface proteoglycans
+              Others
+               7056 (THBD)
+            Lectins [BR:hsa04091]
+             C-Type lectins
+              Group 14: Thrombomodulin
+               7056 (THBD)
+POSITION    20p11.21
+MOTIF       Pfam: FXa_inhibition Tme5_EGF_like cEGF EGF_CA EGF Lectin_C
+DBLINKS     NCBI-GeneID: 7056
+            NCBI-ProteinID: NP_000352
+            OMIM: 188040
+            HGNC: 11784
+            Ensembl: ENSG00000178726
+            Vega: OTTHUMG00000032053
+            Pharos: P07204(Tbio)
+            UniProt: P07204
+STRUCTURE   PDB: 1DX5 3GIS 1DQB 1ADX 2ADX 1FGE 1ZAQ
+AASEQ       575
+            MLGVLVLGALALAGLGFPAPAEPQPGGSQCVEHDCFALYPGPATFLNASQICDGLRGHLM
+            TVRSSVAADVISLLLNGDGGVGRRRLWIGLQLPPGCGDPKRLGPLRGFQWVTGDNNTSYS
+            RWARLDLNGAPLCGPLCVAVSAAEATVPSEPIWEEQQCEVKADGFLCEFHFPATCRPLAV
+            EPGAAAAAVSITYGTPFAARGADFQALPVGSSAAVAPLGLQLMCTAPPGAVQGHWAREAP
+            GAWDCSVENGGCEHACNAIPGAPRCQCPAGAALQADGRSCTASATQSCNDLCEHFCVPNP
+            DQPGSYSCMCETGYRLAADQHRCEDVDDCILEPSPCPQRCVNTQGGFECHCYPNYDLVDG
+            ECVEPVDPCFRANCEYQCQPLNQTSYLCVCAEGFAPIPHEPHRCQMFCNQTACPADCDPN
+            TQASCECPEGYILDDGFICTDIDECENGGFCSGVCHNLPGTFECICGPDSALARHIGTDC
+            DSGKVDGGDSGSGEPPPSPTPGSTLTPPAVGLVHSGLLIGISIASLCLVVALLALLCHLR
+            KKQGAARAKMEYKCAAPSKEVVLQHVRTERTPQRL
+NTSEQ       1728
+            atgcttggggtcctggtccttggcgcgctggccctggccggcctggggttccccgcaccc
+            gcagagccgcagccgggtggcagccagtgcgtcgagcacgactgcttcgcgctctacccg
+            ggccccgcgaccttcctcaatgccagtcagatctgcgacggactgcggggccacctaatg
+            acagtgcgctcctcggtggctgccgatgtcatttccttgctactgaacggcgacggcggc
+            gttggccgccggcgcctctggatcggcctgcagctgccacccggctgcggcgaccccaag
+            cgcctcgggcccctgcgcggcttccagtgggttacgggagacaacaacaccagctatagc
+            aggtgggcacggctcgacctcaatggggctcccctctgcggcccgttgtgcgtcgctgtc
+            tccgctgctgaggccactgtgcccagcgagccgatctgggaggagcagcagtgcgaagtg
+            aaggccgatggcttcctctgcgagttccacttcccagccacctgcaggccactggctgtg
+            gagcccggcgccgcggctgccgccgtctcgatcacctacggcaccccgttcgcggcccgc
+            ggagcggacttccaggcgctgccggtgggcagctccgccgcggtggctcccctcggctta
+            cagctaatgtgcaccgcgccgcccggagcggtccaggggcactgggccagggaggcgccg
+            ggcgcttgggactgcagcgtggagaacggcggctgcgagcacgcgtgcaatgcgatccct
+            ggggctccccgctgccagtgcccagccggcgccgccctgcaggcagacgggcgctcctgc
+            accgcatccgcgacgcagtcctgcaacgacctctgcgagcacttctgcgttcccaacccc
+            gaccagccgggctcctactcgtgcatgtgcgagaccggctaccggctggcggccgaccaa
+            caccggtgcgaggacgtggatgactgcatactggagcccagtccgtgtccgcagcgctgt
+            gtcaacacacagggtggcttcgagtgccactgctaccctaactacgacctggtggacggc
+            gagtgtgtggagcccgtggacccgtgcttcagagccaactgcgagtaccagtgccagccc
+            ctgaaccaaactagctacctctgcgtctgcgccgagggcttcgcgcccattccccacgag
+            ccgcacaggtgccagatgttttgcaaccagactgcctgtccagccgactgcgaccccaac
+            acccaggctagctgtgagtgccctgaaggctacatcctggacgacggtttcatctgcacg
+            gacatcgacgagtgcgaaaacggcggcttctgctccggggtgtgccacaacctccccggt
+            accttcgagtgcatctgcgggcccgactcggcccttgcccgccacattggcaccgactgt
+            gactccggcaaggtggacggtggcgacagcggctctggcgagcccccgcccagcccgacg
+            cccggctccaccttgactcctccggccgtggggctcgtgcattcgggcttgctcataggc
+            atctccatcgcgagcctgtgcctggtggtggcgcttttggcgctcctctgccacctgcgc
+            aagaagcagggcgccgccagggccaagatggagtacaagtgcgcggccccttccaaggag
+            gtagtgctgcagcacgtgcggaccgagcggacgccgcagagactctga
+///

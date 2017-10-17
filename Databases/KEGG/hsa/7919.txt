@@ -1,0 +1,90 @@
+ENTRY       7919              CDS       T01001
+NAME        DDX39B, BAT1, D6S81E, UAP56
+DEFINITION  (RefSeq) DExD-box helicase 39B
+ORTHOLOGY   K12812  ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+            hsa05164  Influenza A
+MODULE      hsa_M00406  TREX complex
+            hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                7919 (DDX39B)
+              Translation
+               03013 RNA transport
+                7919 (DDX39B)
+               03015 mRNA surveillance pathway
+                7919 (DDX39B)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                7919 (DDX39B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 7919 (DDX39B)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 7919 (DDX39B)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                7919 (DDX39B)
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               TREX complex
+                7919 (DDX39B)
+POSITION    6p21.33
+MOTIF       Pfam: DEAD Helicase_C ResIII CMS1
+DBLINKS     NCBI-GeneID: 7919
+            NCBI-ProteinID: NP_004631
+            OMIM: 142560
+            HGNC: 13917
+            Ensembl: ENSG00000198563
+            Vega: OTTHUMG00000031165
+            Pharos: Q13838(Tbio)
+            UniProt: Q13838 A0A024RCM3
+STRUCTURE   PDB: 1T5I 1T6N 1XTI 1XTK 1XTJ
+AASEQ       428
+            MAENDVDNELLDYEDDEVETAAGGDGAEAPAKKDVKGSYVSIHSSGFRDFLLKPELLRAI
+            VDCGFEHPSEVQHECIPQAILGMDVLCQAKSGMGKTAVFVLATLQQLEPVTGQVSVLVMC
+            HTRELAFQISKEYERFSKYMPNVKVAVFFGGLSIKKDEEVLKKNCPHIVVGTPGRILALA
+            RNKSLNLKHIKHFILDECDKMLEQLDMRRDVQEIFRMTPHEKQVMMFSATLSKEIRPVCR
+            KFMQDPMEIFVDDETKLTLHGLQQYYVKLKDNEKNRKLFDLLDVLEFNQVVIFVKSVQRC
+            IALAQLLVEQNFPAIAIHRGMPQEERLSRYQQFKDFQRRILVATNLFGRGMDIERVNIAF
+            NYDMPEDSDTYLHRVARAGRFGTKGLAITFVSDENDAKILNDVQDRFEVNISELPDEIDI
+            SSYIEQTR
+NTSEQ       1287
+            atggcagagaacgatgtggacaatgagctcttggactatgaagatgatgaggtggagaca
+            gcagctgggggagatggggctgaggcccctgccaagaaggatgtcaagggctcctatgtc
+            tccatccacagctctggctttcgtgacttcctgctcaagccagagttgctccgggccatt
+            gtcgactgtggctttgagcatccgtcagaagtccagcatgagtgcatccctcaggccatt
+            ctgggaatggatgtcctgtgccaggccaagtcgggcatgggaaagacagcagtgtttgtc
+            ttggccacactgcaacagctggagccagttactgggcaggtgtctgtactggtgatgtgt
+            cacactcgggagttggcttttcagatcagcaaggaatatgagcgcttctctaaatacatg
+            cccaatgtcaaggttgctgttttttttggtggtctgtctatcaagaaggatgaagaggtg
+            ctgaagaagaactgcccgcatatcgtcgtggggactccaggccgtatcctagccctggct
+            cgaaataagagcctcaacctcaaacacattaaacactttattttggatgaatgtgataag
+            atgcttgaacagctcgacatgcgtcgggatgtccaggaaatttttcgcatgaccccccac
+            gagaagcaggtcatgatgttcagtgctaccttgagcaaagagatccgtccagtctgccgc
+            aagttcatgcaagatccaatggagatcttcgtggatgatgagacgaagttgacgctgcat
+            gggttgcagcagtactacgtgaaactgaaggacaacgagaagaaccggaagctctttgac
+            cttctggatgtccttgagttcaaccaggtggtgatctttgtgaagtctgtgcagcggtgc
+            attgccttggcccagctactagtggagcagaacttcccagccattgccatccaccgtggg
+            atgccccaggaggagaggctttctcggtatcagcagtttaaagattttcaacgacgaatt
+            cttgtggctaccaacctatttggccgaggcatggacatcgagcgggtgaacattgctttt
+            aattatgacatgcctgaggattctgacacctacctgcatcgggtggccagagcaggccgg
+            tttggcaccaagggcttggctatcacatttgtgtccgatgagaatgatgccaagatcctc
+            aatgatgtgcaggatcgctttgaggtcaatattagtgagctgcctgatgagatagacatc
+            tcctcctacattgaacagacacggtag
+///

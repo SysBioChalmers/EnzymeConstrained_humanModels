@@ -1,0 +1,88 @@
+ENTRY       6687              CDS       T01001
+NAME        SPG7, CAR, CMAR, PGN, SPG5C
+DEFINITION  (RefSeq) SPG7, paraplegin matrix AAA peptidase subunit
+ORTHOLOGY   K09552  spastic paraplegia 7 [EC:3.4.24.-]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00266  Hereditary spastic paraplegia (SPG)
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 6687 (SPG7)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M41: FtsH endopeptidase family
+               6687 (SPG7)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Other chaperones and cochaperones
+              AAA proteases
+               6687 (SPG7)
+POSITION    16q24.3
+MOTIF       Pfam: Peptidase_M41 AAA FtsH_ext AAA_5 AAA_17 AAA_22 RuvB_N AAA_2 AAA_16 Mg_chelatase IstB_IS21 TIP49 NACHT AAA_28
+DBLINKS     NCBI-GeneID: 6687
+            NCBI-ProteinID: NP_003110
+            OMIM: 602783
+            HGNC: 11237
+            Ensembl: ENSG00000197912
+            Vega: OTTHUMG00000138046
+            Pharos: Q9UQ90(Tbio)
+            UniProt: Q9UQ90
+STRUCTURE   PDB: 2QZ4
+AASEQ       795
+            MAVLLLLLRALRRGPGPGPRPLWGPGPAWSPGFPARPGRGRPYMASRPPGDLAEAGGRAL
+            QSLQLRLLTPTFEGINGLLLKQHLVQNPVRLWQLLGGTFYFNTSRLKQKNKEKDKSKGKA
+            PEEDEEERRRRERDDQMYRERLRTLLVIAVVMSLLNALSTSGGSISWNDFVHEMLAKGEV
+            QRVQVVPESDVVEVYLHPGAVVFGRPRLALMYRMQVANIDKFEEKLRAAEDELNIEAKDR
+            IPVSYKRTGFFGNALYSVGMTAVGLAILWYVFRLAGMTGREGGFSAFNQLKMARFTIVDG
+            KMGKGVSFKDVAGMHEAKLEVREFVDYLKSPERFLQLGAKVPKGALLLGPPGCGKTLLAK
+            AVATEAQVPFLAMAGPEFVEVIGGLGAARVRSLFKEARARAPCIVYIDEIDAVGKKRSTT
+            MSGFSNTEEEQTLNQLLVEMDGMGTTDHVIVLASTNRADILDGALMRPGRLDRHVFIDLP
+            TLQERREIFEQHLKSLKLTQSSTFYSQRLAELTPGFSGADIANICNEAALHAAREGHTSV
+            HTLNFEYAVERVLAGTAKKSKILSKEEQKVVAFHESGHALVGWMLEHTEAVMKVSITPRT
+            NAALGFAQMLPRDQHLFTKEQLFERMCMALGGRASEALSFNEVTSGAQDDLRKVTRIAYS
+            MVKQFGMAPGIGPISFPEAQEGLMGIGRRPFSQGLQQMMDHEARLLVAKAYRHTEKVLQD
+            NLDKLQALANALLEKEVINYEDIEALIGPPPHGPKKMIAPQRWIDAQREKQDLGEEETEE
+            TQQPPLGGEEPTWPK
+NTSEQ       2388
+            atggccgtgctgctgctgctgctccgtgccctccgccggggtccaggcccgggtcctcgg
+            ccgctgtggggcccaggcccggcctggagtccagggttccccgccaggcccgggaggggg
+            cggccgtacatggccagcaggcctccgggggacctcgccgaggctggaggccgagctctg
+            cagagcttacaattgagactgctaacccctacctttgaagggatcaacggattgttgttg
+            aaacaacatttagttcagaatccagtcagactctggcaacttttaggtggtactttctat
+            tttaacacctcaaggttgaagcagaagaataaggagaaggataagtcgaaggggaaggcg
+            cctgaagaggacgaagaggagaggagacgccgtgagcgggacgaccagatgtaccgagag
+            cggctgcgcaccttgctggtcatcgcggttgtcatgagcctcctgaatgctctcagcacc
+            agcggaggcagcatttcctggaacgactttgtccacgagatgctggccaagggcgaggtg
+            cagcgcgtccaggtggtgcctgagagcgacgtggtggaagtctacctgcaccctggagcc
+            gtggtgtttgggcggcctcggctagccttgatgtaccgaatgcaggttgcaaatattgac
+            aagtttgaagagaagcttcgagcagctgaagatgagctgaatatcgaggccaaggacagg
+            atcccagtttcctacaagcgaacaggattctttggaaatgccctgtactctgtggggatg
+            acggcagtgggcctggccatcctgtggtatgttttccgtctggccgggatgactggaagg
+            gaaggtggattcagtgcttttaatcagcttaaaatggctcgtttcaccattgtggatggg
+            aagatggggaaaggagtcagcttcaaagacgtggcaggaatgcacgaagccaaactggaa
+            gtccgcgagtttgtggattatctgaagagcccagaacgcttcctccagcttggcgccaag
+            gtcccaaagggcgcactgctgctcggcccccccggctgtgggaagacgctgctggccaag
+            gcggtggccacggaggctcaggtgcccttcctggcgatggccggcccagagttcgtggag
+            gtcattggaggcctcggcgctgcccgtgtgcggagcctctttaaggaagcccgagcccgg
+            gccccctgcatcgtctacatcgatgagatcgacgcggtgggcaagaagcgctccaccacc
+            atgtccggcttctccaacacggaggaggagcagacgctcaaccagcttctggtagaaatg
+            gatggaatgggtaccacagaccatgtcatcgtcctggcgtccacgaaccgagctgacatt
+            ttggacggtgctctgatgaggccaggccgactggaccggcacgtcttcattgatctcccc
+            acgctgcaggagaggcgggagatttttgagcagcacctgaagagcctgaagctgacccag
+            tccagcaccttttactcccagcgtctggcagagctgacaccaggattcagtggggctgac
+            atcgccaacatctgcaatgaggctgcgctgcacgcggcgcgggagggacacacttccgtg
+            cacactctcaacttcgagtacgccgtggagcgcgtcctcgcagggactgccaaaaagagc
+            aagatcctgtccaaggaagaacagaaagtggttgcgtttcatgagtcgggccacgccttg
+            gtgggctggatgctggagcacacggaggccgtgatgaaggtctccataacccctcggaca
+            aacgccgccctgggctttgctcagatgctccccagagaccagcacctcttcaccaaggag
+            cagctgtttgagcggatgtgcatggccctgggaggacgggcctcggaagcactgtccttc
+            aacgaggtcacttctggggcacaggacgacctgaggaaggtcacccgcatcgcctactcc
+            atggtgaagcagtttgggatggcacctggcatcgggcccatctccttccctgaggcgcag
+            gagggcctcatgggcatcgggcggcgccccttcagccaaggcctgcagcagatgatggac
+            catgaagcaagactgctggtggccaaggcctacagacacaccgagaaggtgctgcaggac
+            aacctggacaagttgcaggcgctggcaaacgcccttctggaaaaggaagtgataaactat
+            gaggacattgaggctctcattggcccgccgccccatgggccgaagaaaatgatcgcaccg
+            cagaggtggatcgacgcccagagggagaaacaggacttgggcgaggaggagaccgaagag
+            acccagcagcctccacttggaggcgaagagccgacttggcccaagtag
+///

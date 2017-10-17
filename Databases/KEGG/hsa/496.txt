@@ -1,0 +1,66 @@
+ENTRY       496               CDS       T01001
+NAME        ATP4B, ATP6B
+DEFINITION  (RefSeq) ATPase H+/K+ transporting beta subunit
+ORTHOLOGY   K01543  H+/K+-exchanging ATPase beta polypeptide [EC:3.6.3.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa04966  Collecting duct acid secretion
+            hsa04971  Gastric acid secretion
+DRUG_TARGET Dexlansoprazole: D08903
+            Esomeprazole (DG00023): D01984 D04056 D07917 D09339 D10120
+            Lansoprazole: D00355
+            Omeprazole (DG00020): D00455 D01207 D05259 D05261
+            Pantoprazole (DG00021): D02593 D05353
+            Rabeprazole (DG00022): D00724 D08463
+            Vonoprazan fumarate: D10466
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                496 (ATP4B)
+             Organismal Systems
+              Digestive system
+               04971 Gastric acid secretion
+                496 (ATP4B)
+              Excretory system
+               04966 Collecting duct acid secretion
+                496 (ATP4B)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.10  H+/K+-exchanging ATPase
+                 496 (ATP4B)
+POSITION    13q34
+MOTIF       Pfam: Na_K-ATPase
+DBLINKS     NCBI-GeneID: 496
+            NCBI-ProteinID: NP_000696
+            OMIM: 137217
+            HGNC: 820
+            Ensembl: ENSG00000186009
+            Vega: OTTHUMG00000140234
+            Pharos: P51164(Tclin)
+            UniProt: P51164
+AASEQ       291
+            MAALQEKKTCGQRMEEFQRYCWNPDTGQMLGRTLSRWVWISLYYVAFYVVMTGLFALCLY
+            VLMQTVDPYTPDYQDQLRSPGVTLRPDVYGEKGLEIVYNVSDNRTWADLTQTLHAFLAGY
+            SPAAQEDSINCTSEQYFFQESFRAPNHTKFSCKFTADMLQNCSGLADPNFGFEEGKPCFI
+            IKMNRIVKFLPSNGSAPRVDCAFLDQPRELGQPLQVKYYPPNGTFSLHYFPYYGKKAQPH
+            YSNPLVAAKLLNIPRNAEVAIVCKVMAEHVTFNNPHDPYEGKVEFKLKIEK
+NTSEQ       876
+            atggcggctctgcaggagaagaagacgtgtggccagcgcatggaggagttccagcgttac
+            tgctggaacccggacacggggcagatgctgggccgcaccctgtcccggtgggtgtggatc
+            agcctgtactacgtggccttctacgtggtgatgactgggctcttcgccctgtgcctctat
+            gtgctgatgcagacagtggacccgtacacaccggactaccaagaccagctacggtcacca
+            ggggtaaccttaaggccggatgtttacggggagaaaggcctggaaattgtctacaacgtc
+            tctgataacagaacctgggcagacctcacacagactctccacgccttcctagcaggctac
+            tctccagcagcccaggaggacagcatcaactgcacctccgagcagtacttcttccaggag
+            agtttccgcgctcccaaccacaccaagttctcctgcaagttcacggcagatatgctgcag
+            aactgctcaggcctggcggatcccaacttcggctttgaagaaggaaagccatgttttatt
+            attaaaatgaacaggatcgtcaagttcctccccagcaacggctcggcccccagagtggac
+            tgcgccttcctggaccagccccgcgagctcggccagccgctgcaggtcaagtactaccct
+            cccaacggcaccttcagtctgcactacttcccttattacgggaagaaagcccagccccac
+            tacagcaaccccctggtggcagcgaagctcctcaacatccccaggaacgctgaggtcgcc
+            atcgtgtgcaaggtcatggcggagcacgtgaccttcaacaatccccacgacccgtatgaa
+            gggaaagtggagttcaaactcaagattgagaagtga
+///

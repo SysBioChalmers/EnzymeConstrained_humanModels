@@ -1,0 +1,48 @@
+ENTRY       2954              CDS       T01001
+NAME        GSTZ1, GSTZ1-1, MAAI, MAI
+DEFINITION  (RefSeq) glutathione S-transferase zeta 1
+ORTHOLOGY   K01800  maleylacetoacetate isomerase [EC:5.2.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00044  Tyrosine degradation, tyrosine => homogentisate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                2954 (GSTZ1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.2  maleylacetoacetate isomerase
+                 2954 (GSTZ1)
+POSITION    14q24.3
+MOTIF       Pfam: GST_N_3 GST_N GST_N_2 GST_C_3 GST_C GST_C_2 Glutaredoxin
+DBLINKS     NCBI-GeneID: 2954
+            NCBI-ProteinID: NP_665877
+            OMIM: 603758
+            HGNC: 4643
+            Ensembl: ENSG00000100577
+            Vega: OTTHUMG00000171551
+            Pharos: O43708(Tbio)
+            UniProt: O43708 A0A0C4DFM0
+STRUCTURE   PDB: 1FW1
+AASEQ       216
+            MQAGKPILYSYFRSSCSWRVRIALALKGIDYETVPINLIKDGGQQFSKDFQALNPMKQVP
+            TLKIDGITIHQSLAIIEYLEEMRPTPRLLPQDPKKRASVRMISDLIAGGIQPLQNLSVLK
+            QVGEEMQLTWAQNAITCGFNALEQILQSTAGIYCVGDEVTMADLCLVPQVANAERFKVDL
+            TPYPTISSINKRLLVLEAFQVSHPCRQPDTPTELRA
+NTSEQ       651
+            atgcaggcggggaagcccatcctctattcctatttccgaagctcctgctcatggagagtt
+            cgaattgctctggccttgaaaggcatcgactacgagacggtgcccatcaatctcataaag
+            gatgggggccaacagttttctaaggacttccaggcactgaatcctatgaagcaggtgcca
+            accctgaagattgatggaatcaccattcaccagtcactggccatcattgagtatctagag
+            gagatgcgtcccactccgcgacttctgcctcaggacccaaagaagagggccagcgtgcgt
+            atgatttctgacctcatcgctggtggcatccagcccctgcagaacctgtctgtcctgaag
+            caagtgggagaggagatgcagctgacctgggcccagaacgccatcacttgtggctttaac
+            gccctggagcagatcctacagagcacagcgggcatatactgtgtaggagacgaggtgacc
+            atggctgatctgtgcttggtgcctcaggtggcaaatgctgaaagattcaaggtggatctc
+            accccctaccctaccatcagctccatcaacaagaggctgctggtcttggaggccttccag
+            gtgtctcacccctgccggcagccagatacacccactgagctgagggcctag
+///

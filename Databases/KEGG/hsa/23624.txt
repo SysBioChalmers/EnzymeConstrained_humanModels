@@ -1,0 +1,107 @@
+ENTRY       23624             CDS       T01001
+NAME        CBLC, CBL-3, CBL-SL, RNF57
+DEFINITION  (RefSeq) Cbl proto-oncogene C
+ORTHOLOGY   K04707  E3 ubiquitin-protein ligase CBL [EC:2.3.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04012  ErbB signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04144  Endocytosis
+            hsa04660  T cell receptor signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05220  Chronic myeloid leukemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                23624 (CBLC)
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                23624 (CBLC)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                23624 (CBLC)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                23624 (CBLC)
+              Endocrine system
+               04910 Insulin signaling pathway
+                23624 (CBLC)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                23624 (CBLC)
+               05205 Proteoglycans in cancer
+                23624 (CBLC)
+               05220 Chronic myeloid leukemia
+                23624 (CBLC)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                23624 (CBLC)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 23624 (CBLC)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Ubiquitin E3 ligases
+                23624 (CBLC)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               CBL proteins
+                23624 (CBLC)
+POSITION    19q13.32
+MOTIF       Pfam: Cbl_N3 Cbl_N Cbl_N2 Prok-RING_4 zf-C3HC4_3 zf-RING_2 zf-C3HC4 zf-C3HC4_2 zf-RING_UBOX SH2 zf-RING_5
+DBLINKS     NCBI-GeneID: 23624
+            NCBI-ProteinID: NP_036248
+            OMIM: 608453
+            HGNC: 15961
+            Ensembl: ENSG00000142273
+            Vega: OTTHUMG00000150715
+            Pharos: Q9ULV8(Tbio)
+            UniProt: Q9ULV8
+STRUCTURE   PDB: 3VRP 3VRN 3VRO 3VRR 3VRQ 3OP0
+AASEQ       474
+            MALAVAPWGRQWEEARALGRAVRMLQRLEEQCVDPRLSVSPPSLRDLLPRTAQLLREVAH
+            SRRAAGGGGPGGPGGSGDFLLIYLANLEAKSRQVAALLPPRGRRSANDELFRAGSRLRRQ
+            LAKLAIIFSHMHAELHALFPGGKYCGHMYQLTKAPAHTFWRESCGARCVLPWAEFESLLG
+            TCHPVEPGCTALALRTTIDLTCSGHVSIFEFDVFTRLFQPWPTLLKNWQLLAVNHPGYMA
+            FLTYDEVQERLQACRDKPGSYIFRPSCTRLGQWAIGYVSSDGSILQTIPANKPLSQVLLE
+            GQKDGFYLYPDGKTHNPDLTELGQAEPQQRIHVSEEQLQLYWAMDSTFELCKICAESNKD
+            VKIEPCGHLLCSCCLAAWQHSDSQTCPFCRCEIKGWEAVSIYQFHGQATAEDSGNSSDQE
+            GRELELGQVPLSAPPLPPRPDLPPRKPRNAQPKVRLLKGNSPPAALGPQDPAPA
+NTSEQ       1425
+            atggctctggcggtggccccgtgggggcgacagtgggaagaggcccgcgccctgggccgg
+            gcagtcaggatgctgcagcgcctagaagagcaatgcgtcgacccccggctgtccgtgagt
+            cccccttcgctgcgggacctgctgccccgcacagcgcagctgcttcgagaggtggcccat
+            tctcggcgggcggccggcggaggcggccccgggggtcccggcggctctggggactttcta
+            ctcatctacctggccaatctggaggccaagagcaggcaggtggccgcgctgctgcctccc
+            cggggccgaaggagtgccaacgacgagctcttccgggcgggctccagactcaggcgacag
+            ctggccaagctggccatcatcttcagccacatgcacgcagagctgcacgcactcttcccc
+            gggggaaagtactgtggacacatgtaccagctcaccaaggcccccgcccacaccttctgg
+            agggaaagttgcggagcccggtgtgtgctgccctgggctgagtttgagtccctcctgggc
+            acctgccaccctgtggaaccaggctgcacagccctggccttgcgcaccaccattgacctc
+            acctgcagcgggcacgtgtccatcttcgagttcgacgtcttcaccaggctctttcagcca
+            tggccaacactcctcaagaactggcagctcctggcagtcaaccacccaggctacatggcc
+            ttcctcacctatgatgaggtccaagagcgtctgcaggcctgcagggacaagccaggcagt
+            tacatcttccggcccagctgtactcgcctggggcagtgggccatcggctatgtgagctca
+            gatggcagcatcctgcagaccatccctgccaacaaacccctgtcccaggtgctcctggag
+            ggacagaaggacggcttctacctctacccagatggaaagacccacaacccagacctgact
+            gagctcggccaggcagaaccccagcagcgcatccacgtgtcagaggagcagctgcagctc
+            tactgggccatggactccacatttgagctctgcaagatctgtgctgagagcaacaaggat
+            gtgaagattgagccgtgcgggcacctgctctgcagctgctgcctggctgcctggcagcac
+            tcggacagccagacctgccccttctgccgctgcgagatcaagggctgggaggccgtgagt
+            atctaccagttccacggtcaggctactgctgaggactcagggaacagcagtgaccaggaa
+            ggcagggagttggagctggggcaggtgcccctttcggctcctccattgcccccacggcca
+            gatctgccccccaggaagcccagaaatgcccagccgaaagtgagactcctaaaggggaac
+            tcccctccagctgcgctgggaccccaggaccctgccccggcctga
+///

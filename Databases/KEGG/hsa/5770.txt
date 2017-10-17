@@ -1,0 +1,90 @@
+ENTRY       5770              CDS       T01001
+NAME        PTPN1, PTP1B
+DEFINITION  (RefSeq) protein tyrosine phosphatase, non-receptor type 1
+ORTHOLOGY   K05696  tyrosine-protein phosphatase non-receptor type 1 [EC:3.1.3.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04520  Adherens junction
+            hsa04910  Insulin signaling pathway
+            hsa04931  Insulin resistance
+DRUG_TARGET Ertiprotafib: D04050
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                5770 (PTPN1)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5770 (PTPN1)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                5770 (PTPN1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.48  protein-tyrosine-phosphatase
+                 5770 (PTPN1)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class I PTPs (Classical)
+               Non-receptor PTPs
+                5770 (PTPN1)
+POSITION    20q13.13
+MOTIF       Pfam: Y_phosphatase DSPc Y_phosphatase3
+DBLINKS     NCBI-GeneID: 5770
+            NCBI-ProteinID: NP_002818
+            OMIM: 176885
+            HGNC: 9642
+            Ensembl: ENSG00000196396
+            Vega: OTTHUMG00000032729
+            Pharos: P18031(Tchem)
+            UniProt: P18031 A8K3M3
+STRUCTURE   PDB: 2CM2 2F71 3CWE 1PA1 3SME 3A5J 2CMB 2F6T 2F6V 2F6Z 4ZRT
+                 2VEV 2CNE 2CNH 1G7F 1C88 1C83 1EEO 5KA1 3A5K 1PTY 5K9V
+                 5KAC 5KAD 4Y14 4QAP 3EAX 2CNG 1T49 1EEN 1AAX 4QBW 1SUG
+                 1ECV 5KA8 5KAA 5KAB 5KA0 2VEW 2HB1 2CNI 2F6F 2AZR 1G1F
+                 5K9W 3QKP 5KA7 4BJO 5KA2 5KA9 5T19 2ZN7 2ZMM 2QBQ 2QBS
+                 2NT7 2NTA 2CM3 2CM7 2CM8 2FJM 2B07 1Q6N 1I57 1C87 1BZH
+                 2F70 1GFY 5KA3 2F6Y 1PXH 1OEO 1ONY 5KA4 3QKQ 2VEX 2VEY
+                 2CNF 2CMC 2FJN 2F6W 1WAX 1T48 1Q6J 1Q6M 1Q6S 1PYN 1PH0
+                 1OEV 1JF7 1G7G 1G1G 3I80 1BZJ 4QBE 3I7Z 3D9C 2QBR 2H4K
+                 2CMA 2B4S 1QXK 1Q6P 1Q6T 1OET 1C86 1PTV 1KAV 1C84 1BZC
+                 4QAH 3EB1 2VEU 1ONZ 1NZ7 1NWL 1NO6 1NNY 1NL9 1G1H 4I8N
+                 2QBP 2H4G 1XBO 1OEU 1LQF 1L8G 1KAK 1A5Y 1Q1M 1PTU 3ZMP
+                 3EU0 1T4J 1C85 3ZV2 2HNQ 2HNP 1PTT 1NWE 3ZMQ 2BGD 2BGE
+                 1OES 1OEM
+AASEQ       435
+            MEMEKEFEQIDKSGSWAAIYQDIRHEASDFPCRVAKLPKNKNRNRYRDVSPFDHSRIKLH
+            QEDNDYINASLIKMEEAQRSYILTQGPLPNTCGHFWEMVWEQKSRGVVMLNRVMEKGSLK
+            CAQYWPQKEEKEMIFEDTNLKLTLISEDIKSYYTVRQLELENLTTQETREILHFHYTTWP
+            DFGVPESPASFLNFLFKVRESGSLSPEHGPVVVHCSAGIGRSGTFCLADTCLLLMDKRKD
+            PSSVDIKKVLLEMRKFRMGLIQTADQLRFSYLAVIEGAKFIMGDSSVQDQWKELSHEDLE
+            PPPEHIPPPPRPPKRILEPHNGKCREFFPNHQWVKEETQEDKDCPIKEEKGSPLNAAPYG
+            IESMSQDTEVRSRVVGGSLRGAQAASPAKGEPSLPEKDEDHALSYWKPFLVNMCVATVLT
+            AGAYLCYRFLFNSNT
+NTSEQ       1308
+            atggagatggaaaaggagttcgagcagatcgacaagtccgggagctgggcggccatttac
+            caggatatccgacatgaagccagtgacttcccatgtagagtggccaagcttcctaagaac
+            aaaaaccgaaataggtacagagacgtcagtccctttgaccatagtcggattaaactacat
+            caagaagataatgactatatcaacgctagtttgataaaaatggaagaagcccaaaggagt
+            tacattcttacccagggccctttgcctaacacatgcggtcacttttgggagatggtgtgg
+            gagcagaaaagcaggggtgtcgtcatgctcaacagagtgatggagaaaggttcgttaaaa
+            tgcgcacaatactggccacaaaaagaagaaaaagagatgatctttgaagacacaaatttg
+            aaattaacattgatctctgaagatatcaagtcatattatacagtgcgacagctagaattg
+            gaaaaccttacaacccaagaaactcgagagatcttacatttccactataccacatggcct
+            gactttggagtccctgaatcaccagcctcattcttgaactttcttttcaaagtccgagag
+            tcagggtcactcagcccggagcacgggcccgttgtggtgcactgcagtgcaggcatcggc
+            aggtctggaaccttctgtctggctgatacctgcctcttgctgatggacaagaggaaagac
+            ccttcttccgttgatatcaagaaagtgctgttagaaatgaggaagtttcggatggggctg
+            atccagacagccgaccagctgcgcttctcctacctggctgtgatcgaaggtgccaaattc
+            atcatgggggactcttccgtgcaggatcagtggaaggagctttcccacgaggacctggag
+            cccccacccgagcatatccccccacctccccggccacccaaacgaatcctggagccacac
+            aatgggaaatgcagggagttcttcccaaatcaccagtgggtgaaggaagagacccaggag
+            gataaagactgccccatcaaggaagaaaaaggaagccccttaaatgccgcaccctacggc
+            atcgaaagcatgagtcaagacactgaagttagaagtcgggtcgtggggggaagtcttcga
+            ggtgcccaggctgcctccccagccaaaggggagccgtcactgcccgagaaggacgaggac
+            catgcactgagttactggaagcccttcctggtcaacatgtgcgtggctacggtcctcacg
+            gccggcgcttacctctgctacaggttcctgttcaacagcaacacatag
+///

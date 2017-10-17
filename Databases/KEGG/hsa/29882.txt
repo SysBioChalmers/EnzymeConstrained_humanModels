@@ -1,0 +1,111 @@
+ENTRY       29882             CDS       T01001
+NAME        ANAPC2, APC2
+DEFINITION  (RefSeq) anaphase promoting complex subunit 2
+ORTHOLOGY   K03349  anaphase-promoting complex subunit 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                29882 (ANAPC2)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                29882 (ANAPC2)
+               04114 Oocyte meiosis
+                29882 (ANAPC2)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                29882 (ANAPC2)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                29882 (ANAPC2)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Cullin
+                 29882 (ANAPC2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                29882 (ANAPC2)
+POSITION    9q34.3
+MOTIF       Pfam: Cullin ANAPC2
+DBLINKS     NCBI-GeneID: 29882
+            NCBI-ProteinID: NP_037498
+            OMIM: 606946
+            HGNC: 19989
+            Ensembl: ENSG00000176248
+            Vega: OTTHUMG00000020983
+            Pharos: Q9UJX6(Tbio)
+            UniProt: Q9UJX6
+STRUCTURE   PDB: 4YII 5G05 4UI9 5LCW 5G04 5A31 5KHU 5KHR 5L9T 5L9U
+AASEQ       822
+            MAAAVVVAEGDSDSRPGQELLVAWNTVSTGLVPPAALGLVSSRTSGAVPPKEEELRAAVE
+            VLRGHGLHSVLEEWFVEVLQNDLQANISPEFWNAISQCENSADEPQCLLLLLDAFGLLES
+            RLDPYLRSLELLEKWTRLGLLMGTGAQGLREEVHTMLRGVLFFSTPRTFQEMIQRLYGCF
+            LRVYMQSKRKGEGGTDPELEGELDSRYARRRYYRLLQSPLCAGCSSDKQQCWCRQALEQF
+            HQLSQVLHRLSLLERVSAEAVTTTLHQVTRERMEDRCRGEYERSFLREFHKWIERVVGWL
+            GKVFLQDGPARPASPEAGNTLRRWRCHVQRFFYRIYASLRIEELFSIVRDFPDSRPAIED
+            LKYCLERTDQRQQLLVSLKAALETRLLHPGVNTCDIITLYISAIKALRVLDPSMVILEVA
+            CEPIRRYLRTREDTVRQIVAGLTGDSDGTGDLAVELSKTDPASLETGQDSEDDSGEPEDW
+            VPDPVDADPGKSSSKRRSSDIISLLVSIYGSKDLFINEYRSLLADRLLHQFSFSPEREIR
+            NVELLKLRFGEAPMHFCEVMLKDMADSRRINANIREEDEKRPAEEQPPFGVYAVILSSEF
+            WPPFKDEKLEVPEDIRAALEAYCKKYEQLKAMRTLSWKHTLGLVTMDVELADRTLSVAVT
+            PVQAVILLYFQDQASWTLEELSKAVKMPVALLRRRMSVWLQQGVLREEPPGTFSVIEEER
+            PQDRDNMVLIDSDDESDSGMASQADQKEEELLLFWTYIQAMLTNLESLSLDRIYNMLRMF
+            VVTGPALAEIDLQELQGYLQKKVRDQQLVYSAGVYRLPKNCS
+NTSEQ       2469
+            atggcggcggcagttgtggtggcggagggggacagcgactcccggcccggacaggagttg
+            ttagtggcctggaacaccgtgagcaccggcctggtgccgccggctgcgctggggctggtg
+            tcttcccggaccagcggtgcagtcccgccaaaggaagaggagctccgggcggcggtggag
+            gttctgaggggccacgggctacactcggtcctggaggagtggttcgtggaggtgctgcag
+            aacgatctgcaggccaacatctcccctgagttctggaatgccatctcccaatgcgagaac
+            tctgcggatgagccccagtgccttttgctactccttgacgcttttggcctgctggagagc
+            cgcctggatccctacctgcgtagcctagagctgctggagaaatggactcgcctgggcttg
+            ctgatgggcactggtgctcaggggctgcgagaagaagtccacactatgttgcgcggagtc
+            ttgttctttagcacccccagaaccttccaagagatgatccagcgtctgtatgggtgcttc
+            ttgagagtctatatgcagagtaagaggaagggggaagggggcacagacccggaactggaa
+            ggggagctggacagccggtatgcccgtcgccggtactaccggctcctgcagagcccgctg
+            tgtgcagggtgcagcagtgacaagcaacagtgctggtgtcgccaggctctggagcagttc
+            catcagctcagccaggtcttacacaggctcagtctgctggagcgggtcagtgccgaggct
+            gtgaccaccaccctgcaccaggtgacccgggagaggatggaggaccgttgccggggcgag
+            tacgagcgctccttcctgcgtgagttccacaagtggatcgagcgggtggtcggctggctc
+            ggcaaggtgttcctgcaggacggccccgccaggcccgcatctcccgaggccggcaacacc
+            ctgcgccgctggcgctgccacgtgcaaaggttcttctaccgcatctacgccagcctgcgc
+            atcgaggagctcttcagcatcgtccgagacttcccagactcccggccagccatcgaggac
+            ctcaagtactgcctggagaggacggaccagaggcagcagctgctcgtgtccctcaaggct
+            gccctggagactcggctcctgcatccaggcgtcaacacgtgtgacatcatcaccctctat
+            atctctgccatcaaggcgctgcgcgtgctggacccttccatggtcatcctggaggtggcc
+            tgtgagcctatccgccgctacctgaggacgcgggaggacacagtgcggcagattgtggct
+            gggctgacgggggactcggacgggacaggggacctggctgttgagctgtccaagaccgac
+            ccggcgagcctggagacaggccaggacagtgaggatgactcaggcgagccagaggactgg
+            gtcccggaccctgtggatgccgatccagggaagtcgagctccaagcggcgttcatcggac
+            atcatcagcctgctggtcagcatctacggcagcaaggacctcttcatcaatgagtaccgc
+            tcgctgctggccgaccgcctgctgcaccagttcagcttcagccccgagcgggagatccgc
+            aacgtggagctgctgaagctgcgctttggcgaggccccaatgcacttctgtgaagtcatg
+            ctgaaggacatggcggactcccgccgcatcaatgccaacatccgggaggaggatgagaag
+            cggccagcagaggagcagccaccgttcggggtctacgctgtcatcctgtccagtgagttc
+            tggccgcccttcaaggacgagaagctggaggtccccgaggatatcagggcagccctggag
+            gcttactgcaagaagtatgagcagctcaaggccatgcggaccctcagttggaagcacacc
+            ctgggcctggtgaccatggacgtggagctggccgaccgcacgctgtctgtggcggtcacc
+            ccagtacaggcggtgatcttgctgtattttcaggaccaagccagctggaccctggaggaa
+            ctgagcaaggcggtgaagatgcccgtggcgctgctgcggcggcggatgtccgtgtggctg
+            cagcagggtgtgctgcgtgaggagccccccggcaccttctctgtcattgaggaggagcgg
+            cctcaggaccgggacaacatggtgctcattgacagtgacgacgagagcgactccggcatg
+            gcctcccaggccgaccagaaggaggaggagctgctgctcttctggacgtacatccaggcc
+            atgctgaccaacctggagagcctctcactggatcgtatctacaacatgctccgcatgttt
+            gtggtgactgggcctgcactggccgagattgacctgcaggagctgcagggctacctgcag
+            aagaaggtgcgggaccagcagctcgtctactcggccggcgtctaccgcctgcccaagaac
+            tgcagctga
+///

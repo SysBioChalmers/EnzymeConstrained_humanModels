@@ -1,0 +1,108 @@
+ENTRY       8976              CDS       T01001
+NAME        WASL, N-WASP, NWASP, WASPB
+DEFINITION  (RefSeq) Wiskott-Aldrich syndrome like
+ORTHOLOGY   K05747  Wiskott-Aldrich syndrome protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04144  Endocytosis
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                8976 (WASL)
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                8976 (WASL)
+               04530 Tight junction
+                8976 (WASL)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                8976 (WASL)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                8976 (WASL)
+               04062 Chemokine signaling pathway
+                8976 (WASL)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                8976 (WASL)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                8976 (WASL)
+               05132 Salmonella infection
+                8976 (WASL)
+               05131 Shigellosis
+                8976 (WASL)
+               05100 Bacterial invasion of epithelial cells
+                8976 (WASL)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Actin-binding proteins
+               Nucleation-promoting factors (NPFs)
+                8976 (WASL)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                WASP / WAVE
+                 8976 (WASL)
+POSITION    7q31.32
+MOTIF       Pfam: WH1 PBD WH2 DUF4918 PQQ
+DBLINKS     NCBI-GeneID: 8976
+            NCBI-ProteinID: NP_003932
+            OMIM: 605056
+            HGNC: 12735
+            Ensembl: ENSG00000106299
+            Vega: OTTHUMG00000157346
+            Pharos: O00401(Tbio)
+            UniProt: O00401
+STRUCTURE   PDB: 2LNH 2VCP
+AASEQ       505
+            MSSVQQQPPPPRRVTNVGSLLLTPQENESLFTFLGKKCVTMSSAVVQLYAADRNCMWSKK
+            CSGVACLVKDNPQRSYFLRIFDIKDGKLLWEQELYNNFVYNSPRGYFHTFAGDTCQVALN
+            FANEEEAKKFRKAVTDLLGRRQRKSEKRRDPPNGPNLPMATVDIKNPEITTNRFYGPQVN
+            NISHTKEKKKGKAKKKRLTKADIGTPSNFQHIGHVGWDPNTGFDLNNLDPELKNLFDMCG
+            ISEAQLKDRETSKVIYDFIEKTGGVEAVKNELRRQAPPPPPPSRGGPPPPPPPPHNSGPP
+            PPPARGRGAPPPPPSRAPTAAPPPPPPSRPSVAVPPPPPNRMYPPPPPALPSSAPSGPPP
+            PPPSVLGVGPVAPPPPPPPPPPPGPPPPPGLPSDGDHQVPTTAGNKAALLDQIREGAQLK
+            KVEQNSRPVSCSGRDALLDQIRQGIQLKSVADGQESTPPTPAPTSGIVGALMEVMQKRSK
+            AIHSSDEDEDEDDEEDFEDDDEWED
+NTSEQ       1518
+            atgagctccgtccagcagcagccgccgccgccgcggagggtcaccaacgtggggtccctg
+            ttgctcaccccgcaggagaacgagtccctcttcactttcctcggcaagaaatgtgtgact
+            atgtcttcagcagtggtgcagttatatgcagcagatcggaactgtatgtggtcaaagaag
+            tgcagtggtgttgcttgtcttgttaaggacaatccacagagatcttattttttaagaata
+            tttgacattaaggatgggaaactattgtgggaacaagagctatacaataactttgtatat
+            aatagtcctagaggatattttcatacctttgctggagatacttgtcaagttgctcttaat
+            tttgccaatgaagaagaagcaaaaaaatttcgaaaagcagttacagaccttttgggccgt
+            cgacaaaggaaatctgagaaaagacgagatcccccaaatggtcctaatctacccatggct
+            acagttgatataaaaaatccagaaatcacaacaaatagattttatggtccacaagtcaac
+            aacatctcccataccaaagaaaagaagaagggaaaagctaaaaagaagagattaaccaag
+            gcagatataggaacaccaagcaatttccagcacattggacatgttggttgggatccaaat
+            acaggctttgatctgaataatttggatccagaattgaagaatcttttcgatatgtgtgga
+            atctcagaggcacaacttaaagacagagaaacatcaaaagttatatatgactttattgaa
+            aaaacaggaggtgttgaagctgttaaaaatgaactgcggaggcaagcaccaccacctcca
+            ccaccatcaaggggagggccacctcctcctcctccccctccacacaactcaggtcctcct
+            cctcctcctgctaggggaagaggcgctcctcccccaccaccttcaagagctcccacagct
+            gcacctccaccaccgcctccttccaggccaagtgtagcagtccctccaccaccgccaaat
+            aggatgtaccctcctccacctccagcccttccctcctcagcaccttcagggcctccacca
+            ccacctccatctgtgttgggggtagggccagtggcaccacccccaccgcctccacctcca
+            cctcctcctgggccaccgcccccgcctggcctgccttctgatggggaccatcaggttcca
+            actactgcaggaaacaaagcagctcttttagatcaaattagagagggtgctcagctaaaa
+            aaagtggagcagaacagtcggccagtgtcctgctctggacgagatgcactgttagaccag
+            atacgacagggtatccaactaaaatctgtggctgatggccaagagtctacaccaccaaca
+            cctgcacccacttcaggaattgtgggtgcattaatggaagtgatgcagaaaaggagcaaa
+            gccattcattcttcagatgaagatgaagatgaagatgatgaagaagattttgaggatgat
+            gatgagtgggaagactga
+///

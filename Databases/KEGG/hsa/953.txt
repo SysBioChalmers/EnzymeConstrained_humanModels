@@ -1,0 +1,76 @@
+ENTRY       953               CDS       T01001
+NAME        ENTPD1, ATPDase, CD39, NTPDase-1, SPG64
+DEFINITION  (RefSeq) ectonucleoside triphosphate diphosphohydrolase 1
+ORTHOLOGY   K01510  apyrase [EC:3.6.1.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa05169  Epstein-Barr virus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                953 (ENTPD1)
+               00240 Pyrimidine metabolism
+                953 (ENTPD1)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                953 (ENTPD1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.5  apyrase
+                 953 (ENTPD1)
+            CD molecules [BR:hsa04090]
+             Proteins
+              953 (ENTPD1)
+POSITION    10q24.1
+MOTIF       Pfam: GDA1_CD39 TetR_C_8
+DBLINKS     NCBI-GeneID: 953
+            NCBI-ProteinID: NP_001767
+            OMIM: 601752
+            HGNC: 3363
+            Ensembl: ENSG00000138185
+            Vega: OTTHUMG00000018818
+            Pharos: P49961(Tbio)
+            UniProt: P49961
+AASEQ       510
+            MEDTKESNVKTFCSKNILAILGFSSIIAVIALLAVGLTQNKALPENVKYGIVLDAGSSHT
+            SLYIYKWPAEKENDTGVVHQVEECRVKGPGISKFVQKVNEIGIYLTDCMERAREVIPRSQ
+            HQETPVYLGATAGMRLLRMESEELADRVLDVVERSLSNYPFDFQGARIITGQEEGAYGWI
+            TINYLLGKFSQKTRWFSIVPYETNNQETFGALDLGGASTQVTFVPQNQTIESPDNALQFR
+            LYGKDYNVYTHSFLCYGKDQALWQKLAKDIQVASNEILRDPCFHPGYKKVVNVSDLYKTP
+            CTKRFEMTLPFQQFEIQGIGNYQQCHQSILELFNTSYCPYSQCAFNGIFLPPLQGDFGAF
+            SAFYFVMKFLNLTSEKVSQEKVTEMMKKFCAQPWEEIKTSYAGVKEKYLSEYCFSGTYIL
+            SLLLQGYHFTADSWEHIHFIGKIQGSDAGWTLGYMLNLTNMIPAEQPLSTPLSHSTYVFL
+            MVLFSLVLFTVAIIGLLIFHKPSYFWKDMV
+NTSEQ       1533
+            atggaagatacaaaggagtctaacgtgaagacattttgctccaagaatatcctagccatc
+            cttggcttctcctctatcatagctgtgatagctttgcttgctgtggggttgacccagaac
+            aaagcattgccagaaaacgttaagtatgggattgtgctggatgcgggttcttctcacaca
+            agtttatacatctataagtggccagcagaaaaggagaatgacacaggcgtggtgcatcaa
+            gtagaagaatgcagggttaaaggtcctggaatctcaaaatttgttcagaaagtaaatgaa
+            ataggcatttacctgactgattgcatggaaagagctagggaagtgattccaaggtcccag
+            caccaagagacacccgtttacctgggagccacggcaggcatgcggttgctcaggatggaa
+            agtgaagagttggcagacagggttctggatgtggtggagaggagcctcagcaactacccc
+            tttgacttccagggtgccaggatcattactggccaagaggaaggtgcctatggctggatt
+            actatcaactatctgctgggcaaattcagtcagaaaacaaggtggttcagcatagtccca
+            tatgaaaccaataatcaggaaacctttggagctttggaccttgggggagcctctacacaa
+            gtcacttttgtaccccaaaaccagactatcgagtccccagataatgctctgcaatttcgc
+            ctctatggcaaggactacaatgtctacacacatagcttcttgtgctatgggaaggatcag
+            gcactctggcagaaactggccaaggacattcaggttgcaagtaatgaaattctcagggac
+            ccatgctttcatcctggatataagaaggtagtgaacgtaagtgacctttacaagaccccc
+            tgcaccaagagatttgagatgactcttccattccagcagtttgaaatccagggtattgga
+            aactatcaacaatgccatcaaagcatcctggagctcttcaacaccagttactgcccttac
+            tcccagtgtgccttcaatgggattttcttgccaccactccagggggattttggggcattt
+            tcagctttttactttgtgatgaagtttttaaacttgacatcagagaaagtctctcaggaa
+            aaggtgactgagatgatgaaaaagttctgtgctcagccttgggaggagataaaaacatct
+            tacgctggagtaaaggagaagtacctgagtgaatactgcttttctggtacctacattctc
+            tccctccttctgcaaggctatcatttcacagctgattcctgggagcacatccatttcatt
+            ggcaagatccagggcagcgacgccggctggactttgggctacatgctgaacctgaccaac
+            atgatcccagctgagcaaccattgtccacacctctctcccactccacctatgtcttcctc
+            atggttctattctccctggtccttttcacagtggccatcataggcttgcttatctttcac
+            aagccttcatatttctggaaagatatggtatag
+///

@@ -1,0 +1,71 @@
+ENTRY       5645              CDS       T01001
+NAME        PRSS2, TRY2, TRY8, TRYP2
+DEFINITION  (RefSeq) protease, serine 2
+ORTHOLOGY   K01312  trypsin [EC:3.4.21.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04972  Pancreatic secretion
+            hsa04974  Protein digestion and absorption
+            hsa05164  Influenza A
+DISEASE     H00933  Hereditary pancreatitis
+DRUG_TARGET Ulinastatin: D05183
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                5645 (PRSS2)
+             Organismal Systems
+              Digestive system
+               04972 Pancreatic secretion
+                5645 (PRSS2)
+               04974 Protein digestion and absorption
+                5645 (PRSS2)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                5645 (PRSS2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.4  trypsin
+                 5645 (PRSS2)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               5645 (PRSS2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               5645 (PRSS2)
+POSITION    7q34
+MOTIF       Pfam: Trypsin Trypsin_2 DUF1986
+DBLINKS     NCBI-GeneID: 5645
+            NCBI-ProteinID: NP_002761
+            OMIM: 601564
+            HGNC: 9483
+            Ensembl: ENSG00000275896
+            Vega: OTTHUMG00000158904
+            Pharos: P07478(Tchem)
+            UniProt: P07478 Q5NV56 Q6PK75
+AASEQ       247
+            MNLLLILTFVAAAVAAPFDDDDKIVGGYICEENSVPYQVSLNSGYHFCGGSLISEQWVVS
+            AGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPKYNSRTLDNDILLIKLSSPAVIN
+            SRVSAISLPTAPPAAGTESLISGWGNTLSSGADYPDELQCLDAPVLSQAECEASYPGKIT
+            NNMFCVGFLEGGKDSCQGDSGGPVVSNGELQGIVSWGYGCAQKNRPGVYTKVYNYVDWIK
+            DTIAANS
+NTSEQ       744
+            atgaatctacttctgatccttacctttgttgcagctgctgttgctgccccctttgatgat
+            gatgacaagatcgttgggggctacatctgtgaggagaattctgtcccctaccaggtgtcc
+            ttgaattctggctaccacttctgcggtggctccctcatcagcgaacagtgggtggtgtca
+            gcaggtcactgctacaagtcccgcatccaggtgagactgggagagcacaacatcgaagtc
+            ctggaggggaatgaacagttcatcaatgcggccaagatcatccgccaccccaaatacaac
+            agccggactctggacaatgacatcctgctgatcaagctctcctcacctgccgtcatcaat
+            tcccgcgtgtccgccatctctctgcccactgcccctccagctgctggcaccgagtccctc
+            atctccggctggggcaacactctgagttctggtgccgactacccagacgagctgcagtgc
+            ctggatgctcctgtgctgagccaggctgagtgtgaagcctcctaccctggaaagattacc
+            aacaacatgttctgtgtgggcttcctcgagggaggcaaggattcctgccagggtgattct
+            ggtggccctgtggtctccaatggagagctccaaggaattgtctcctggggctatggctgt
+            gcccagaagaacaggcctggagtctacaccaaggtctacaactatgtggactggattaag
+            gacaccatagctgccaacagctaa
+///

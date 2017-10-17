@@ -1,0 +1,64 @@
+ENTRY       4153              CDS       T01001
+NAME        MBL2, COLEC1, HSMBPC, MBL, MBL2D, MBP, MBP-C, MBP1, MBPD
+DEFINITION  (RefSeq) mannose binding lectin 2
+ORTHOLOGY   K03991  mannose-binding lectin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04610  Complement and coagulation cascades
+            hsa05150  Staphylococcus aureus infection
+DISEASE     H00105  Mannose-binding lectin pathway component defects
+            H00342  Tuberculosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                4153 (MBL2)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                4153 (MBL2)
+             Human Diseases
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                4153 (MBL2)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Opsonins
+                4153 (MBL2)
+            Lectins [BR:hsa04091]
+             C-Type lectins
+              Group 3: Collectins
+               4153 (MBL2)
+POSITION    10q21.1
+MOTIF       Pfam: Lectin_C Collagen
+DBLINKS     NCBI-GeneID: 4153
+            NCBI-ProteinID: NP_000233
+            OMIM: 154545
+            HGNC: 6922
+            Ensembl: ENSG00000165471
+            Vega: OTTHUMG00000150270
+            Pharos: P11226(Tbio)
+            UniProt: P11226
+STRUCTURE   PDB: 1HUP
+AASEQ       248
+            MSLFPSLPLLLLSMVAASYSETVTCEDAQKTCPAVIACSSPGINGFPGKDGRDGTKGEKG
+            EPGQGLRGLQGPPGKLGPPGNPGPSGSPGPKGQKGDPGKSPDGDSSLAASERKALQTEMA
+            RIKKWLTFSLGKQVGNKFFLTNGEIMTFEKVKALCVKFQASVATPRNAAENGAIQNLIKE
+            EAFLGITDEKTEGQFVDLTGNRLTYTNWNEGEPNNAGSDEDCVLLLKNGQWNDVPCSTSH
+            LAVCEFPI
+NTSEQ       747
+            atgtccctgtttccatcactccctctccttctcctgagtatggtggcagcgtcttactca
+            gaaactgtgacctgtgaggatgcccaaaagacctgccctgcagtgattgcctgtagctct
+            ccaggcatcaacggcttcccaggcaaagatgggcgtgatggcaccaagggagaaaagggg
+            gaaccaggccaagggctcagaggcttacagggcccccctggaaagttggggcctccagga
+            aatccagggccttctgggtcaccaggaccaaagggccaaaaaggagaccctggaaaaagt
+            ccggatggtgatagtagcctggctgcctcagaaagaaaagctctgcaaacagaaatggca
+            cgtatcaaaaagtggctcaccttctctctgggcaaacaagttgggaacaagttcttcctg
+            accaatggtgaaataatgacctttgaaaaagtgaaggccttgtgtgtcaagttccaggcc
+            tctgtggccacccccaggaatgctgcagagaatggagccattcagaatctcatcaaggag
+            gaagccttcctgggcatcactgatgagaagacagaagggcagtttgtggatctgacagga
+            aatagactgacctacacaaactggaacgagggtgaacccaacaatgctggttctgatgaa
+            gattgtgtattgctactgaaaaatggccagtggaatgacgtcccctgctccacctcccat
+            ctggccgtctgtgagttccctatctga
+///

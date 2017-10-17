@@ -1,0 +1,63 @@
+ENTRY       3817              CDS       T01001
+NAME        KLK2, KLK2A2, hGK-1, hK2
+DEFINITION  (RefSeq) kallikrein related peptidase 2
+ORTHOLOGY   K01325  tissue kallikrein [EC:3.4.21.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04614  Renin-angiotensin system
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+DRUG_TARGET Gabexate (DG01400): D01672 D08004
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04614 Renin-angiotensin system
+                3817 (KLK2)
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                3817 (KLK2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.35  tissue kallikrein
+                 3817 (KLK2)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               3817 (KLK2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               3817 (KLK2)
+POSITION    19q13.33
+MOTIF       Pfam: Trypsin Trypsin_2 DUF1986
+DBLINKS     NCBI-GeneID: 3817
+            NCBI-ProteinID: NP_005542
+            OMIM: 147960
+            HGNC: 6363
+            Ensembl: ENSG00000167751
+            Vega: OTTHUMG00000182963
+            Pharos: P20151(Tbio)
+            UniProt: P20151 A0A024R4J4 B4DU77
+STRUCTURE   PDB: 4NFE 4NFF
+AASEQ       261
+            MWDLVLSIALSVGCTGAVPLIQSRIVGGWECEKHSQPWQVAVYSHGWAHCGGVLVHPQWV
+            LTAAHCLKKNSQVWLGRHNLFEPEDTGQRVPVSHSFPHPLYNMSLLKHQSLRPDEDSSHD
+            LMLLRLSEPAKITDVVKVLGLPTQEPALGTTCYASGWGSIEPEEFLRPRSLQCVSLHLLS
+            NDMCARAYSEKVTEFMLCAGLWTGGKDTCGGDSGGPLVCNGVLQGITSWGPEPCALPEKP
+            AVYTKVVHYRKWIKDTIAANP
+NTSEQ       786
+            atgtgggacctggttctctccatcgccttgtctgtggggtgcactggtgccgtgcccctc
+            atccagtctcggattgtgggaggctgggagtgtgagaagcattcccaaccctggcaggtg
+            gctgtgtacagtcatggatgggcacactgtgggggtgtcctggtgcacccccagtgggtg
+            ctcacagctgcccattgcctaaagaagaatagccaggtctggctgggtcggcacaacctg
+            tttgagcctgaagacacaggccagagggtccctgtcagccacagcttcccacacccgctc
+            tacaatatgagccttctgaagcatcaaagccttagaccagatgaagactccagccatgac
+            ctcatgctgctccgcctgtcagagcctgccaagatcacagatgttgtgaaggtcctgggc
+            ctgcccacccaggagccagcactggggaccacctgctacgcctcaggctggggcagcatc
+            gaaccagaggagttcttgcgccccaggagtcttcagtgtgtgagcctccatctcctgtcc
+            aatgacatgtgtgctagagcttactctgagaaggtgacagagttcatgttgtgtgctggg
+            ctctggacaggtggtaaagacacttgtgggggtgattctgggggtccacttgtctgtaat
+            ggtgtgcttcaaggtatcacatcatggggccctgagccatgtgccctgcctgaaaagcct
+            gctgtgtacaccaaggtggtgcattaccggaagtggatcaaggacaccatcgcagccaac
+            ccctga
+///

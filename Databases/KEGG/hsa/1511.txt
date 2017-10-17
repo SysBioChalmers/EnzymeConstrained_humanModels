@@ -1,0 +1,76 @@
+ENTRY       1511              CDS       T01001
+NAME        CTSG, CATG, CG
+DEFINITION  (RefSeq) cathepsin G
+ORTHOLOGY   K01319  cathepsin G [EC:3.4.21.20]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04142  Lysosome
+            hsa04614  Renin-angiotensin system
+            hsa05146  Amoebiasis
+            hsa05322  Systemic lupus erythematosus
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1511 (CTSG)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                1511 (CTSG)
+             Organismal Systems
+              Endocrine system
+               04614 Renin-angiotensin system
+                1511 (CTSG)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                1511 (CTSG)
+              Infectious diseases
+               05146 Amoebiasis
+                1511 (CTSG)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.20  cathepsin G
+                 1511 (CTSG)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               1511 (CTSG)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Others
+               1511 (CTSG)
+POSITION    14q12
+MOTIF       Pfam: Trypsin Trypsin_2 DUF1986
+DBLINKS     NCBI-GeneID: 1511
+            NCBI-ProteinID: NP_001902
+            OMIM: 116830
+            HGNC: 2532
+            Ensembl: ENSG00000100448
+            Vega: OTTHUMG00000140182
+            Pharos: P08311(Tchem)
+            UniProt: P08311
+STRUCTURE   PDB: 1CGH 1T32 1AU8 1KYN
+AASEQ       255
+            MQPLLLLLAFLLPTGAEAGEIIGGRESRPHSRPYMAYLQIQSPAGQSRCGGFLVREDFVL
+            TAAHCWGSNINVTLGAHNIQRRENTQQHITARRAIRHPQYNQRTIQNDIMLLQLSRRVRR
+            NRNVNPVALPRAQEGLRPGTLCTVAGWGRVSMRRGTDTLREVQLRVQRDRQCLRIFGSYD
+            PRRQICVGDRRERKAAFKGDSGGPLLCNNVAHGIVSYGKSSGVPPEVFTRVSSFLPWIRT
+            TMRSFKLLDQMETPL
+NTSEQ       768
+            atgcagccactcctgcttctgctggcctttctcctacccactggggctgaggcaggggag
+            atcatcggaggccgggagagcaggccccactcccgcccctacatggcgtatcttcagatc
+            cagagtccagcaggtcagagcagatgtggagggttcctggtgcgagaagactttgtgctg
+            acagcagctcattgctggggaagcaatataaatgtcaccctgggcgcccacaatatccag
+            agacgggaaaacacccagcaacacatcactgcgcgcagagccatccgccaccctcaatat
+            aatcagcggaccatccagaatgacatcatgttattgcagctgagcagaagagtcagacgg
+            aatcgaaacgtgaacccagtggctctgcctagagcccaggagggactgagacccgggacg
+            ctgtgcactgtggccggctggggcagggtcagcatgaggaggggaacagatacactccga
+            gaggtgcagctgagagtgcagagggataggcagtgcctccgcatcttcggttcctacgac
+            ccccgaaggcagatttgtgtgggggaccggcgggaacggaaggctgccttcaagggggat
+            tccggaggccccctgctgtgtaacaatgtggcccacggcatcgtctcctatggaaagtcg
+            tcaggggttcctccagaagtcttcaccagggtctcaagtttcctgccctggataaggaca
+            acaatgagaagcttcaaactgctggatcagatggagacccccctgtga
+///

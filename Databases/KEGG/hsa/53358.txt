@@ -1,0 +1,126 @@
+ENTRY       53358             CDS       T01001
+NAME        SHC3, N-Shc, NSHC, RAI, SHCC
+DEFINITION  (RefSeq) SHC adaptor protein 3
+ORTHOLOGY   K17448  SHC-transforming protein 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04510  Focal adhesion
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04722  Neurotrophin signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05034  Alcoholism
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05214  Glioma
+            hsa05220  Chronic myeloid leukemia
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                53358 (SHC3)
+               04012 ErbB signaling pathway
+                53358 (SHC3)
+               04072 Phospholipase D signaling pathway
+                53358 (SHC3)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                53358 (SHC3)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                53358 (SHC3)
+               04062 Chemokine signaling pathway
+                53358 (SHC3)
+              Endocrine system
+               04910 Insulin signaling pathway
+                53358 (SHC3)
+               04915 Estrogen signaling pathway
+                53358 (SHC3)
+               04917 Prolactin signaling pathway
+                53358 (SHC3)
+               04926 Relaxin signaling pathway
+                53358 (SHC3)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                53358 (SHC3)
+             Human Diseases
+              Cancers
+               05214 Glioma
+                53358 (SHC3)
+               05220 Chronic myeloid leukemia
+                53358 (SHC3)
+               05224 Breast cancer
+                53358 (SHC3)
+              Substance dependence
+               05034 Alcoholism
+                53358 (SHC3)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                53358 (SHC3)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                53358 (SHC3)
+               01522 Endocrine resistance
+                53358 (SHC3)
+POSITION    9q22.1
+MOTIF       Pfam: PID SH2
+DBLINKS     NCBI-GeneID: 53358
+            NCBI-ProteinID: NP_058544
+            OMIM: 605263
+            HGNC: 18181
+            Ensembl: ENSG00000148082
+            Vega: OTTHUMG00000020179
+            Pharos: Q92529(Tbio)
+            UniProt: Q92529
+AASEQ       594
+            MLPRTKYNRFRNDSVTSVDDLLHSLSVSGGGGKVSAARATPAAAPYLVSGEALRKAPDDG
+            PGSLGHLLHKVSHLKLSSSGLRGLSSAARERAGARLSGSCSAPSLAAPDGSAPSAPRAPA
+            MSAARKGRPGDEPLPRPPRGAPHASDQVLGPGVTYVVKYLGCIEVLRSMRSLDFSTRTQI
+            TREAISRVCEAVPGAKGAFKKRKPPSKMLSSILGKSNLQFAGMSISLTISTASLNLRTPD
+            SKQIIANHHMRSISFASGGDPDTTDYVAYVAKDPVNRRACHILECCDGLAQDVIGSIGQA
+            FELRFKQYLQCPTKIPALHDRMQSLDEPWTEEEGDGSDHPYYNSIPSKMPPPGGFLDTRL
+            KPRPHAPDTAQFAGKEQTYYQGRHLGDTFGEDWQQTPLRQGSSDIYSTPEGKLHVAPTGE
+            APTYVNTQQIPPQAWPAAVSSAESSPRKDLFDMKPFEDALKNQPLGPVLSKAASVECISP
+            VSPRAPDAKMLEELQAETWYQGEMSRKEAEGLLEKDGDFLVRKSTTNPGSFVLTGMHNGQ
+            AKHLLLVDPEGTIRTKDRVFDSISHLINHHLESSLPIVSAGSELCLQQPVERKQ
+NTSEQ       1785
+            atgcttccacgcaccaagtataaccgcttcaggaatgactcggtgacatcggtcgatgac
+            cttctccacagcctgtcggtgagcggcggcggaggcaaggtttcggcggcgcgcgcgacc
+            ccggcggcggctccctacttggtgtccggcgaggcgctgcgcaaggcgcccgacgatggg
+            cccggcagcctgggccacctgctccacaaggtgtcccacctgaaactctccagctcgggc
+            ctccgcggcctgtcgtcggccgcccgggagcgggcgggcgcgcggctctcgggcagctgc
+            agcgcgcccagcctggccgccccggacggcagtgcgccctcggcgccccgcgccccggcc
+            atgagcgccgccaggaagggccggcccggcgacgagccgctgcccaggccccctcggggg
+            gcgccgcacgccagcgaccaggtgctggggcccggagtcacctacgtggtcaagtacttg
+            gggtgcattgaagttctgcgctcaatgaggtctcttgacttcagtacaagaacacaaatt
+            accagggaagccatcagccgcgtctgtgaagctgtgcctggtgcgaagggagccttcaag
+            aagagaaagcctccaagcaaaatgctgtccagcatcttgggaaagagcaacctccagttt
+            gcgggaatgagcatctctctgaccatctccacggccagtctgaacctgcgaactccggac
+            tccaaacagatcatagcgaatcaccacatgcggtccatctccttcgcctctgggggagac
+            ccggacacaactgactatgttgcatatgtggctaaggaccctgttaatcgcagagcttgt
+            cacattttggaatgctgtgatgggctggcccaggatgtcatcggctccatcggacaagcc
+            tttgagctccggtttaagcaatatttacagtgtcctaccaagattcccgctctccatgat
+            cgaatgcagagtctggatgagccatggacggaagaggagggagatggctcagaccaccca
+            tactacaacagcatcccaagcaagatgcctcctccagggggctttcttgatactagactg
+            aaacccagaccccatgctcctgacacagcccagtttgcaggaaaagagcagacttattac
+            cagggaagacacttaggagacacttttggcgaagactggcagcaaacacctttaaggcaa
+            gggtcctcggacatctacagcacgccagaagggaaactgcacgtggcccccacgggagaa
+            gcacccacctacgtcaacactcagcagatcccaccacaggcctggccggctgcggtcagc
+            agtgctgagagcagcccaaggaaagacctctttgacatgaaaccttttgaagatgctctc
+            aagaaccagcccttggggcccgtgttaagcaaggcagcctccgtggagtgcatcagccct
+            gtgtcacctagagccccagatgccaagatgctggaggaactgcaagccgagacttggtac
+            caaggagagatgagcaggaaggaggcagaggggctgctggagaaagacggagacttcctg
+            gtcaggaagagcaccaccaacccgggctcctttgtcctcacgggcatgcacaatggccag
+            gccaagcacctgctgctcgtggacccagaaggcacgatccggacaaaggacagagtcttt
+            gacagtatcagccacctcatcaaccaccacctagaaagcagcctgcccattgtctctgca
+            gggagtgagctgtgtctccagcagccagtggagaggaagcagtga
+///

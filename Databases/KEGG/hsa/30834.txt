@@ -1,0 +1,50 @@
+ENTRY       30834             CDS       T01001
+NAME        ZNRD1, HTEX-6, HTEX6, Rpa12, TCTEX6, TEX6, ZR14, hZR14, tctex-6
+DEFINITION  (RefSeq) zinc ribbon domain containing 1
+ORTHOLOGY   K03000  DNA-directed RNA polymerase I subunit RPA12
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+MODULE      hsa_M00182  RNA polymerase I, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                30834 (ZNRD1)
+               00240 Pyrimidine metabolism
+                30834 (ZNRD1)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                30834 (ZNRD1)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase I system
+               RNA polymerase I
+                Pol I specific subunits
+                 30834 (ZNRD1)
+POSITION    6p22.1
+MOTIF       Pfam: TFIIS_C OrfB_Zn_ribbon DZR zinc_ribbon_2 Mu-like_Com zf-MYND RNA_POL_M_15KD Ogr_Delta Zn_Tnp_IS1595 IBR DNA_RNApol_7kD Lar_restr_allev DUF2318
+DBLINKS     NCBI-GeneID: 30834
+            NCBI-ProteinID: NP_001265714
+            OMIM: 607525
+            HGNC: 13182
+            Ensembl: ENSG00000066379
+            Vega: OTTHUMG00000031149
+            Pharos: Q9P1U0(Tbio)
+            UniProt: Q9P1U0 Q2L6J2
+AASEQ       126
+            MSVMDLANTCSSFQSDLDFCSDCGSVLPLPGAQDTVTCIRCGFNINVRDFEGKVVKTSVV
+            FHQLGTAMPMSVEEGPECQGPVVDRRCPRCGHEGMAYHTRQMRSADEGQTVFYTCTNCKF
+            QEKEDS
+NTSEQ       381
+            atgtctgtcatggacctcgccaatacttgctccagctttcagtcggacctggatttctgt
+            tcagattgcggctcggtcctgcctctgcccggggctcaggatacggtcacctgtattcgc
+            tgtggcttcaacatcaacgttcgggactttgaggggaaggttgtgaagacttcggttgtg
+            ttccaccaactggggacagccatgcctatgtcggtggaggaagggcctgagtgccaggga
+            cctgtggttgacaggcgctgccctcgatgtggtcatgaaggaatggcataccacaccaga
+            cagatgcgttcagccgatgaagggcaaactgtcttctacacctgtaccaactgcaagttc
+            caggagaaggaagactcttga
+///

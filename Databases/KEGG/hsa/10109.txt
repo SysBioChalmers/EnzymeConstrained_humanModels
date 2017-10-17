@@ -1,0 +1,79 @@
+ENTRY       10109             CDS       T01001
+NAME        ARPC2, ARC34, PNAS-139, PRO2446, p34-Arc
+DEFINITION  (RefSeq) actin related protein 2/3 complex subunit 2
+ORTHOLOGY   K05758  actin related protein 2/3 complex, subunit 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                10109 (ARPC2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                10109 (ARPC2)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                10109 (ARPC2)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                10109 (ARPC2)
+               05132 Salmonella infection
+                10109 (ARPC2)
+               05131 Shigellosis
+                10109 (ARPC2)
+               05100 Bacterial invasion of epithelial cells
+                10109 (ARPC2)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Actin-binding proteins
+               Arp2/3 complex
+                10109 (ARPC2)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Arp2/3 complex
+                 10109 (ARPC2)
+POSITION    2q35
+MOTIF       Pfam: P34-Arc ARPC4
+DBLINKS     NCBI-GeneID: 10109
+            NCBI-ProteinID: NP_005722
+            OMIM: 604224
+            HGNC: 705
+            Ensembl: ENSG00000163466
+            Vega: OTTHUMG00000133618
+            Pharos: O15144(Tbio)
+            UniProt: O15144 Q53R19
+AASEQ       300
+            MILLEVNNRIIEETLALKFENAAAGNKPEAVEVTFADFDGVLYHISNPNGDKTKVMVSIS
+            LKFYKELQAHGADELLKRVYGSFLVNPESGYNVSLLYDLENLPASKDSIVHQAGMLKRNC
+            FASVFEKYFQFQEEGKEGENRAVIHYRDDETMYVESKKDRVTVVFSTVFKDDDDVVIGKV
+            FMQEFKEGRRASHTAPQVLFSHREPPLELKDTDAAVGDNIGYITFVLFPRHTNASARDNT
+            INLIHTFRDYLHYHIKCSKAYIHTRMRAKTSDFLKVLNRARPDAEKKEMKTITGKTFSSR
+NTSEQ       903
+            atgatcctgctggaggtgaacaaccgcatcatcgaggagacgctcgcgctcaagttcgag
+            aacgcggccgccggaaacaaaccggaagcagtagaagtaacatttgcagatttcgatggg
+            gtcctctatcatatttcaaatcctaatggagacaaaacaaaagtgatggtcagtatttct
+            ttgaaattctacaaggaacttcaggcacatggtgctgatgagttattaaagagggtgtac
+            gggagtttcttggtaaatccagaatcaggatacaatgtctctttgctatatgaccttgaa
+            aatcttccggcatccaaggattccattgtgcatcaagctggcatgttgaagcgaaattgt
+            tttgcctctgtctttgaaaaatacttccaattccaagaagagggcaaggaaggagagaac
+            agggcagttatccattatagggatgatgagaccatgtatgttgagtctaaaaaggacaga
+            gtcacagtagtcttcagcacagtgtttaaggatgacgacgatgtggtcattggaaaggtg
+            ttcatgcaggagttcaaagaaggacgcagagccagccacacagccccacaggtcctcttt
+            agccacagggaacctcctctggagctgaaagacacagacgccgctgtgggtgacaacatt
+            ggctacattacctttgtgctgttccctcgtcacaccaatgccagtgctcgagacaacacc
+            atcaacctgatccacacgttccgggactacctgcactaccacatcaagtgctctaaggcc
+            tatattcacacacgtatgcgggcgaaaacgtctgacttcctcaaggtgctgaaccgcgca
+            cgcccagatgccgagaaaaaagaaatgaaaacaatcacggggaagacgttttcatcccgc
+            taa
+///

@@ -1,0 +1,94 @@
+ENTRY       2538              CDS       T01001
+NAME        G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a
+DEFINITION  (RefSeq) glucose-6-phosphatase catalytic subunit
+ORTHOLOGY   K01084  glucose-6-phosphatase [EC:3.1.3.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00052  Galactose metabolism
+            hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+            hsa04068  FoxO signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04973  Carbohydrate digestion and absorption
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H01760  Hepatic glycogen storage disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                2538 (G6PC)
+               00052 Galactose metabolism
+                2538 (G6PC)
+               00500 Starch and sucrose metabolism
+                2538 (G6PC)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                2538 (G6PC)
+               04151 PI3K-Akt signaling pathway
+                2538 (G6PC)
+               04152 AMPK signaling pathway
+                2538 (G6PC)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                2538 (G6PC)
+               04922 Glucagon signaling pathway
+                2538 (G6PC)
+               04920 Adipocytokine signaling pathway
+                2538 (G6PC)
+              Digestive system
+               04973 Carbohydrate digestion and absorption
+                2538 (G6PC)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                2538 (G6PC)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.9  glucose-6-phosphatase
+                 2538 (G6PC)
+POSITION    17q21.31
+MOTIF       Pfam: PAP2 DUF373
+DBLINKS     NCBI-GeneID: 2538
+            NCBI-ProteinID: NP_000142
+            OMIM: 613742
+            HGNC: 4056
+            Ensembl: ENSG00000131482
+            Vega: OTTHUMG00000180657
+            Pharos: P35575(Tchem)
+            UniProt: P35575
+AASEQ       357
+            MEEGMNVLHDFGIQSTHYLQVNYQDSQDWFILVSVIADLRNAFYVLFPIWFHLQEAVGIK
+            LLWVAVIGDWLNLVFKWILFGQRPYWWVLDTDYYSNTSVPLIKQFPVTCETGPGSPSGHA
+            MGTAGVYYVMVTSTLSIFQGKIKPTYRFRCLNVILWLGFWAVQLNVCLSRIYLAAHFPHQ
+            VVAGVLSGIAVAETFSHIHSIYNASLKKYFLITFFLFSFAIGFYLLLKGLGVDLLWTLEK
+            AQRWCEQPEWVHIDTTPFASLLKNLGTLFGLGLALNSSMYRESCKGKLSKWLPFRLSSIV
+            ASLVLLHVFDSLKPPSQVELVFYVLSFCKSAVVPLASVSVIPYCLAQVLGQPHKKSL
+NTSEQ       1074
+            atggaggaaggaatgaatgttctccatgactttgggatccagtcaacacattacctccag
+            gtgaattaccaagactcccaggactggttcatcttggtgtccgtgatcgcagacctcagg
+            aatgccttctacgtcctcttccccatctggttccatcttcaggaagctgtgggcattaaa
+            ctcctttgggtagctgtgattggagactggctcaacctcgtctttaagtggattctcttt
+            ggacagcgtccatactggtgggttttggatactgactactacagcaacacttccgtgccc
+            ctgataaagcagttccctgtaacctgtgagactggaccagggagcccctctggccatgcc
+            atgggcacagcaggtgtatactacgtgatggtcacatctactctttccatctttcaggga
+            aagataaagccgacctacagatttcggtgcttgaatgtcattttgtggttgggattctgg
+            gctgtgcagctgaatgtctgtctgtcacgaatctaccttgctgctcattttcctcatcaa
+            gttgttgctggagtcctgtcaggcattgctgttgcagaaactttcagccacatccacagc
+            atctataatgccagcctcaagaaatattttctcattaccttcttcctgttcagcttcgcc
+            atcggattttatctgctgctcaagggactgggtgtagacctcctgtggactctggagaaa
+            gcccagaggtggtgcgagcagccagaatgggtccacattgacaccacaccctttgccagc
+            ctcctcaagaacctgggcacgctctttggcctggggctggctctcaactccagcatgtac
+            agggagagctgcaaggggaaactcagcaagtggctcccattccgcctcagctctattgta
+            gcctccctcgtcctcctgcacgtctttgactccttgaaacccccatcccaagtcgagctg
+            gtcttctacgtcttgtccttctgcaagagtgcggtagtgcccctggcatccgtcagtgtc
+            atcccctactgcctcgcccaggtcctgggccagccgcacaagaagtcgttgtaa
+///

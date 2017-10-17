@@ -1,0 +1,112 @@
+ENTRY       7454              CDS       T01001
+NAME        WAS, IMD2, SCNX, THC, THC1, WASP, WASPA
+DEFINITION  (RefSeq) Wiskott-Aldrich syndrome
+ORTHOLOGY   K05747  Wiskott-Aldrich syndrome protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04144  Endocytosis
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05231  Choline metabolism in cancer
+DISEASE     H00100  Neutropenic disorders
+            H00107  Other well-defined immunodeficiency syndromes
+            H00978  Thrombocytopenia (THC)
+            H01523  Wiskott-Aldrich syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                7454 (WAS)
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                7454 (WAS)
+               04530 Tight junction
+                7454 (WAS)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                7454 (WAS)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                7454 (WAS)
+               04062 Chemokine signaling pathway
+                7454 (WAS)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                7454 (WAS)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                7454 (WAS)
+               05132 Salmonella infection
+                7454 (WAS)
+               05131 Shigellosis
+                7454 (WAS)
+               05100 Bacterial invasion of epithelial cells
+                7454 (WAS)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Actin-binding proteins
+               Nucleation-promoting factors (NPFs)
+                7454 (WAS)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                WASP / WAVE
+                 7454 (WAS)
+POSITION    Xp11.23
+MOTIF       Pfam: WH1 PBD WH2
+DBLINKS     NCBI-GeneID: 7454
+            NCBI-ProteinID: NP_000368
+            OMIM: 300392
+            HGNC: 12731
+            Ensembl: ENSG00000015285
+            Vega: OTTHUMG00000034483
+            Pharos: P42768(Tbio)
+            UniProt: P42768 A0A024QYX8
+STRUCTURE   PDB: 2K42 1T84 1EJ5 1CEE
+AASEQ       502
+            MSGGPMGGRPGGRGAPAVQQNIPSTLLQDHENQRLFEMLGRKCLTLATAVVQLYLALPPG
+            AEHWTKEHCGAVCFVKDNPQKSYFIRLYGLQAGRLLWEQELYSQLVYSTPTPFFHTFAGD
+            DCQAGLNFADEDEAQAFRALVQEKIQKRNQRQSGDRRQLPPPPTPANEERRGGLPPLPLH
+            PGGDQGGPPVGPLSLGLATVDIQNPDITSSRYRGLPAPGPSPADKKRSGKKKISKADIGA
+            PSGFKHVSHVGWDPQNGFDVNNLDPDLRSLFSRAGISEAQLTDAETSKLIYDFIEDQGGL
+            EAVRQEMRRQEPLPPPPPPSRGGNQLPRPPIVGGNKGRSGPLPPVPLGIAPPPPTPRGPP
+            PPGRGGPPPPPPPATGRSGPLPPPPPGAGGPPMPPPPPPPPPPPSSGNGPAPPPLPPALV
+            PAGGLAPGGGRGALLDQIRQGIQLNKTPGAPESSALQPPPQSSEGLVGALMHVMQKRSRA
+            IHSSDEGEDQAGDEDEDDEWDD
+NTSEQ       1509
+            atgagtgggggcccaatgggaggaaggcccgggggccgaggagcaccagcggttcagcag
+            aacataccctccaccctcctccaggaccacgagaaccagcgactctttgagatgcttgga
+            cgaaaatgcttgacgctggccactgcagttgttcagctgtacctggcgctgccccctgga
+            gctgagcactggaccaaggagcattgtggggctgtgtgcttcgtgaaggataacccccag
+            aagtcctacttcatccgcctttacggccttcaggctggtcggctgctctgggaacaggag
+            ctgtactcacagcttgtctactccacccccacccccttcttccacaccttcgctggagat
+            gactgccaagcggggctgaactttgcagacgaggacgaggcccaggccttccgggccctc
+            gtgcaggagaagatacaaaaaaggaatcagaggcaaagtggagacagacgccagctaccc
+            ccaccaccaacaccagccaatgaagagagaagaggagggctcccacccctgcccctgcat
+            ccaggtggagaccaaggaggccctccagtgggtccgctctccctggggctggcgacagtg
+            gacatccagaaccctgacatcacgagttcacgataccgtgggctcccagcacctggacct
+            agcccagctgataagaaacgctcagggaagaagaagatcagcaaagctgatattggtgca
+            cccagtggattcaagcatgtcagccacgtggggtgggacccccagaatggatttgacgtg
+            aacaacctcgacccagatctgcggagtctgttctccagggcaggaatcagcgaggcccag
+            ctcaccgacgccgagacctctaaacttatctacgacttcattgaggaccagggtgggctg
+            gaggctgtgcggcaggagatgaggcgccaggagccacttccgccgcccccaccgccatct
+            cgaggagggaaccagctcccccggccccctattgtggggggtaacaagggtcgttctggt
+            ccactgccccctgtacctttggggattgccccacccccaccaacaccccggggaccccca
+            cccccaggccgagggggccctccaccaccaccccctccagctactggacgttctggacca
+            ctgccccctccaccccctggagctggtgggccacccatgccaccaccaccgccaccaccg
+            ccaccgccgcccagctccgggaatggaccagcccctcccccactccctcctgctctggtg
+            cctgccgggggcctggcccctggtgggggtcggggagcgcttttggatcaaatccggcag
+            ggaattcagctgaacaagacccctggggccccagagagctcagcgctgcagccaccacct
+            cagagctcagagggactggtgggggccctgatgcacgtgatgcagaagagaagcagagcc
+            atccactcctccgacgaaggggaggaccaggctggcgatgaagatgaagatgatgaatgg
+            gatgactga
+///

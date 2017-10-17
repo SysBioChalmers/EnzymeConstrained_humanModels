@@ -1,0 +1,63 @@
+ENTRY       246243            CDS       T01001
+NAME        RNASEH1, H1RNA, PEOB2, RNH1
+DEFINITION  (RefSeq) ribonuclease H1
+ORTHOLOGY   K03469  ribonuclease HI [EC:3.1.26.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+DISEASE     H01118  Progressive external ophthalmoplegia (PEO)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                246243 (RNASEH1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.4  ribonuclease H
+                 246243 (RNASEH1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RNase H
+                246243 (RNASEH1)
+             Prokaryotic Type
+               Elongation factors (bacterial)
+                RNase H
+                 246243 (RNASEH1)
+               Elongation factors (archaeal)
+                 246243 (RNASEH1)
+POSITION    2p25.3
+MOTIF       Pfam: RNase_H Cauli_VI RVT_3
+DBLINKS     NCBI-GeneID: 246243
+            NCBI-ProteinID: NP_002927
+            OMIM: 604123
+            HGNC: 18466
+            Ensembl: ENSG00000171865
+            Vega: OTTHUMG00000090279
+            Pharos: O60930(Tchem)
+            UniProt: O60930 E5KN15
+STRUCTURE   PDB: 3BSU 2QKB 2QK9 2QKK
+AASEQ       286
+            MSWLLFLAHRVALAALPCRRGSRGFGMFYAVRRGRKTGVFLTWNECRAQVDRFPAARFKK
+            FATEDEAWAFVRKSASPEVSEGHENQHGQESEAKASKRLREPLDGDGHESAEPYAKHMKP
+            SVEPAPPVSRDTFSYMGDFVVVYTDGCCSSNGRRRPRAGIGVYWGPGHPLNVGIRLPGRQ
+            TNQRAEIHAACKAIEQAKTQNINKLVLYTDSMFTINGITNWVQGWKKNGWKTSAGKEVIN
+            KEDFVALERLTQGMDIQWMHVPGHSGFIGNEEADRLAREGAKQSED
+NTSEQ       861
+            atgagctggcttctgttcctggcccacagagtcgccttggccgccttgccctgccgccgc
+            ggctctcgcgggttcgggatgttctatgccgtgaggaggggccgcaagaccggggtcttt
+            ctgacctggaatgagtgcagagcacaggtggaccggtttcctgctgccagatttaagaag
+            tttgccacagaggatgaggcctgggcctttgtcaggaaatctgcaagcccggaagtttca
+            gaagggcatgaaaatcaacatggacaagaatcggaggcgaaagccagcaagcgactccgt
+            gagccactggatggagatggacatgaaagcgcagagccgtatgcaaagcacatgaagccg
+            agcgtggagccggcgcctccagttagcagagacacgttttcctacatgggagacttcgtc
+            gtcgtctacactgatggctgctgctccagtaatgggcgtagaaggccgcgagcaggaatc
+            ggcgtttactgggggccaggccatcctttaaatgtaggcattagacttcctgggcggcag
+            acaaaccaaagagcggaaattcatgcagcctgcaaagccattgaacaagcaaagactcaa
+            aacatcaataaactggttctgtatacagacagtatgtttacgataaatggtataactaac
+            tgggttcaaggttggaagaaaaatgggtggaagacaagtgcagggaaagaggtgatcaac
+            aaagaggactttgtggcactggagaggcttacccaggggatggacattcagtggatgcat
+            gttcctggtcattcgggatttataggcaatgaagaagctgacagattagccagagaagga
+            gctaaacaatcggaagactga
+///

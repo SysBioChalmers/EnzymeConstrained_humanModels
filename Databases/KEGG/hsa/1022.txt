@@ -1,0 +1,90 @@
+ENTRY       1022              CDS       T01001
+NAME        CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15
+DEFINITION  (RefSeq) cyclin dependent kinase 7
+ORTHOLOGY   K02202  cyclin-dependent kinase 7 [EC:2.7.11.22 2.7.11.23]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03022  Basal transcription factors
+            hsa03420  Nucleotide excision repair
+            hsa04110  Cell cycle
+MODULE      hsa_M00290  Holo-TFIIH complex
+DRUG_TARGET Alvocidib (DG02041): D02880 D09868
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03022 Basal transcription factors
+                1022 (CDK7)
+              Replication and repair
+               03420 Nucleotide excision repair
+                1022 (CDK7)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                1022 (CDK7)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.22  cyclin-dependent kinase
+                 1022 (CDK7)
+                2.7.11.23  [RNA-polymerase]-subunit kinase
+                 1022 (CDK7)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CMGC group
+              CDK family
+               1022 (CDK7)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIIH
+                 1022 (CDK7)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               5' end processing
+                Capping factors
+                 1022 (CDK7)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TFIIH complex
+                 1022 (CDK7)
+POSITION    5q13.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like Seadorna_VP7 Haspin_kinase APH RIO1 FTA2
+DBLINKS     NCBI-GeneID: 1022
+            NCBI-ProteinID: NP_001790
+            OMIM: 601955
+            HGNC: 1778
+            Ensembl: ENSG00000134058
+            Vega: OTTHUMG00000099358
+            Pharos: P50613(Tchem)
+            UniProt: P50613 A0A0S2Z3F9
+STRUCTURE   PDB: 1UA2
+AASEQ       346
+            MALDVKSRAKRYEKLDFLGEGQFATVYKARDKNTNQIVAIKKIKLGHRSEAKDGINRTAL
+            REIKLLQELSHPNIIGLLDAFGHKSNISLVFDFMETDLEVIIKDNSLVLTPSHIKAYMLM
+            TLQGLEYLHQHWILHRDLKPNNLLLDENGVLKLADFGLAKSFGSPNRAYTHQVVTRWYRA
+            PELLFGARMYGVGVDMWAVGCILAELLLRVPFLPGDSDLDQLTRIFETLGTPTEEQWPDM
+            CSLPDYVTFKSFPGIPLHHIFSAAGDDLLDLIQGLFLFNPCARITATQALKMKYFSNRPG
+            PTPGCQLPRPNCPVETLKEQSNPALAIKRKRTEALEQGGLPKKLIF
+NTSEQ       1041
+            atggctctggacgtgaagtctcgggcaaagcgttatgagaagctggacttccttggggag
+            ggacagtttgccaccgtttacaaggccagagataagaacaccaaccaaattgtcgccatt
+            aagaaaatcaaacttggacatagatcagaagctaaagatggtataaatagaaccgcctta
+            agagagataaaattattacaggagctaagtcatccaaatataattggtctccttgatgct
+            tttggacataaatctaatattagccttgtctttgattttatggaaactgatctagaggtt
+            ataataaaggataatagtcttgtgctgacaccatcacacatcaaagcctacatgttgatg
+            actcttcaaggattagaatatttacatcaacattggatcctacatagggatctgaaacca
+            aacaacttgttgctagatgaaaatggagttctaaaactggcagattttggcctggccaaa
+            tcttttgggagccccaatagagcttatacacatcaggttgtaaccaggtggtatcgggcc
+            cccgagttactatttggagctaggatgtatggtgtaggtgtggacatgtgggctgttggc
+            tgtatattagcagagttacttctaagggttccttttttgccaggagattcagaccttgat
+            cagctaacaagaatatttgaaactttgggcacaccaactgaggaacagtggccggacatg
+            tgtagtcttccagattatgtgacatttaagagtttccctggaatacctttgcatcacatc
+            ttcagtgcagcaggagacgacttactagatctcatacaaggcttattcttatttaatcca
+            tgtgctcgaattacggccacacaggcactgaaaatgaagtatttcagtaatcggccaggg
+            ccaacacctggatgtcagctgccaagaccaaactgtccagtggaaaccttaaaggagcaa
+            tcaaatccagctttggcaataaaaaggaaaagaacagaggccttagaacaaggaggattg
+            cccaagaaactaattttttaa
+///

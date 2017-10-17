@@ -1,0 +1,163 @@
+ENTRY       818               CDS       T01001
+NAME        CAMK2G, CAMK, CAMK-II, CAMKG
+DEFINITION  (RefSeq) calcium/calmodulin dependent protein kinase II gamma
+ORTHOLOGY   K04515  calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04012  ErbB signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04217  Necroptosis
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04722  Neurotrophin signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04740  Olfactory transduction
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04911  Insulin secretion
+            hsa04912  GnRH signaling pathway
+            hsa04916  Melanogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04971  Gastric acid secretion
+            hsa05031  Amphetamine addiction
+            hsa05152  Tuberculosis
+            hsa05205  Proteoglycans in cancer
+            hsa05214  Glioma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                818 (CAMK2G)
+               04310 Wnt signaling pathway
+                818 (CAMK2G)
+               04066 HIF-1 signaling pathway
+                818 (CAMK2G)
+               04020 Calcium signaling pathway
+                818 (CAMK2G)
+               04024 cAMP signaling pathway
+                818 (CAMK2G)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                818 (CAMK2G)
+               04217 Necroptosis
+                818 (CAMK2G)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                818 (CAMK2G)
+               04922 Glucagon signaling pathway
+                818 (CAMK2G)
+               04912 GnRH signaling pathway
+                818 (CAMK2G)
+               04921 Oxytocin signaling pathway
+                818 (CAMK2G)
+               04916 Melanogenesis
+                818 (CAMK2G)
+               04925 Aldosterone synthesis and secretion
+                818 (CAMK2G)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                818 (CAMK2G)
+              Digestive system
+               04971 Gastric acid secretion
+                818 (CAMK2G)
+              Nervous system
+               04725 Cholinergic synapse
+                818 (CAMK2G)
+               04728 Dopaminergic synapse
+                818 (CAMK2G)
+               04720 Long-term potentiation
+                818 (CAMK2G)
+               04722 Neurotrophin signaling pathway
+                818 (CAMK2G)
+              Sensory system
+               04740 Olfactory transduction
+                818 (CAMK2G)
+               04750 Inflammatory mediator regulation of TRP channels
+                818 (CAMK2G)
+              Development
+               04360 Axon guidance
+                818 (CAMK2G)
+              Environmental adaptation
+               04713 Circadian entrainment
+                818 (CAMK2G)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                818 (CAMK2G)
+               05214 Glioma
+                818 (CAMK2G)
+              Substance dependence
+               05031 Amphetamine addiction
+                818 (CAMK2G)
+              Infectious diseases
+               05152 Tuberculosis
+                818 (CAMK2G)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.17  Ca2+/calmodulin-dependent protein kinase
+                 818 (CAMK2G)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CAMK group
+              CAMK2 family
+               818 (CAMK2G)
+POSITION    10q22.2
+MOTIF       Pfam: Pkinase CaMKII_AD Pkinase_Tyr SnoaL_3 DUF4440 APH Kdo SnoaL_2 RIO1
+DBLINKS     NCBI-GeneID: 818
+            NCBI-ProteinID: NP_751909
+            OMIM: 602123
+            HGNC: 1463
+            Ensembl: ENSG00000148660
+            Vega: OTTHUMG00000018492
+            Pharos: Q13555(Tchem)
+            UniProt: Q13555
+STRUCTURE   PDB: 2V7O 2UX0
+AASEQ       527
+            MATTATCTRFTDDYQLFEELGKGAFSVVRRCVKKTSTQEYAAKIINTKKLSARDHQKLER
+            EARICRLLKHPNIVRLHDSISEEGFHYLVFDLVTGGELFEDIVAREYYSEADASHCIHQI
+            LESVNHIHQHDIVHRDLKPENLLLASKCKGAAVKLADFGLAIEVQGEQQAWFGFAGTPGY
+            LSPEVLRKDPYGKPVDIWACGVILYILLVGYPPFWDEDQHKLYQQIKAGAYDFPSPEWDT
+            VTPEAKNLINQMLTINPAKRITADQALKHPWVCQRSTVASMMHRQETVECLRKFNARRKL
+            KGAILTTMLVSRNFSVGRQSSAPASPAASAAGLAGQAAKSLLNKKSDGGVKKRKSSSSVH
+            LMEPQTTVVHNATDGIKGSTESCNTTTEDEDLKVRKQEIIKITEQLIEAINNGDFEAYTK
+            ICDPGLTSFEPEALGNLVEGMDFHKFYFENLLSKNSKPIHTTILNPHVHVIGEDAACIAY
+            IRLTQYIDGQGRPRTSQSEETRVWHRRDGKWLNVHYHCSGAPAAPLQ
+NTSEQ       1584
+            atggccaccaccgccacctgcacccgtttcaccgacgactaccagctcttcgaggagctt
+            ggcaagggtgctttctctgtggtccgcaggtgtgtgaagaaaacctccacgcaggagtac
+            gcagcaaaaatcatcaataccaagaagttgtctgcccgggatcaccagaaactagaacgt
+            gaggctcggatatgtcgacttctgaaacatccaaacatcgtgcgcctccatgacagtatt
+            tctgaagaagggtttcactacctcgtgtttgaccttgttaccggcggggagctgtttgaa
+            gacattgtggccagagagtactacagtgaagcagatgccagccactgtatacatcagatt
+            ctggagagtgttaaccacatccaccagcatgacatcgtccacagggacctgaagcctgag
+            aacctgctgctggcgagtaaatgcaagggtgccgccgtcaagctggctgattttggccta
+            gccatcgaagtacagggagagcagcaggcttggtttggttttgctggcaccccaggttac
+            ttgtcccctgaggtcttgaggaaagatccctatggaaaacctgtggatatctgggcctgc
+            ggggtcatcctgtatatcctcctggtgggctatcctcccttctgggatgaggatcagcac
+            aagctgtatcagcagatcaaggctggagcctatgatttcccatcaccagaatgggacacg
+            gtaactcctgaagccaagaacttgatcaaccagatgctgaccataaacccagcaaagcgc
+            atcacggctgaccaggctctcaagcacccgtgggtctgtcaacgatccacggtggcatcc
+            atgatgcatcgtcaggagactgtggagtgtttgcgcaagttcaatgcccggagaaaactg
+            aagggtgccatcctcacgaccatgcttgtctccaggaacttctcagttggcaggcagagc
+            tccgcccccgcctcgcctgccgcgagcgccgccggcctggccgggcaagctgccaaaagc
+            ctattgaacaagaagtcggatggcggtgtcaagaaaaggaagtcgagttccagcgtgcac
+            ctaatggagccacaaaccactgtggtacacaacgctacagatgggatcaagggctccaca
+            gagagctgcaacaccaccacagaagatgaggacctcaaagtgcgaaaacaggagatcatt
+            aagattacagaacagctgattgaagccatcaacaatggggactttgaggcctacacgaag
+            atttgtgatccaggcctcacttcctttgagcctgaggcccttggtaacctcgtggagggg
+            atggatttccataagttttactttgagaatctcctgtccaagaacagcaagcctatccat
+            accaccatcctaaacccacacgtccacgtgattggggaggacgcagcgtgcatcgcctac
+            atccgcctcacccagtacatcgacgggcagggtcggcctcgcaccagccagtcagaagag
+            acccgggtctggcaccgtcgggatggcaagtggctcaatgtccactatcactgctcaggg
+            gcccctgccgcaccgctgcagtga
+///

@@ -1,0 +1,77 @@
+ENTRY       4722              CDS       T01001
+NAME        NDUFS3, CI-30
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase core subunit S3
+ORTHOLOGY   K03936  NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:1.6.5.3 1.6.99.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+            H01354  Leigh syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4722 (NDUFS3)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4722 (NDUFS3)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4722 (NDUFS3)
+               05012 Parkinson's disease
+                4722 (NDUFS3)
+               05016 Huntington's disease
+                4722 (NDUFS3)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4722 (NDUFS3)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4722 (NDUFS3)
+               1.6.99  With unknown physiological acceptors
+                1.6.99.3  NADH dehydrogenase
+                 4722 (NDUFS3)
+POSITION    11p11.2
+MOTIF       Pfam: Complex1_30kDa
+DBLINKS     NCBI-GeneID: 4722
+            NCBI-ProteinID: NP_004542
+            OMIM: 603846
+            HGNC: 7710
+            Ensembl: ENSG00000213619
+            Vega: OTTHUMG00000166893
+            Pharos: O75489(Tclin)
+            UniProt: O75489
+STRUCTURE   PDB: 5XTB 5XTD
+AASEQ       264
+            MAAAAVARLWWRGILGASALTRGTGRPSVLLLPVRRESAGADTRPTVRPRNDVAHKQLSA
+            FGEYVAEILPKYVQQVQVSCFNELEVCIHPDGVIPVLTFLRDHTNAQFKSLVDLTAVDVP
+            TRQNRFEIVYNLLSLRFNSRIRVKTYTDELTPIESAVSVFKAANWYEREIWDMFGVFFAN
+            HPDLRRILTDYGFEGHPFRKDFPLSGYVELRYDDEVKRVVAEPVELAQEFRKFDLNSPWE
+            AFPVYRQPPESLKLEAGDKKPDAK
+NTSEQ       795
+            atggcggcggcggcggtagccaggctgtggtggcgcgggatcttgggggcctcggcgctg
+            accagggggactgggcgaccctccgttctgttgctgccggtgaggcgggagagcgccggg
+            gccgacacgcgccccactgtcagaccacggaatgatgtggcccacaagcagctctcagct
+            tttggagagtatgtggctgaaatcttgcccaagtatgtccaacaagttcaggtgtcctgc
+            ttcaatgagttagaggtctgtatccatcctgatggcgtcatcccagtgctgactttcctc
+            agggatcacaccaatgcacagttcaaatctctggttgacttgacagcagtggacgtccca
+            actcggcaaaaccgttttgagattgtctacaacctgttgtctctgcgcttcaactcacgg
+            atccgtgtgaagacctacacagatgagctgacgcccattgagtctgctgtctctgtgttc
+            aaggcagccaactggtatgaaagggagatctgggacatgtttggagtcttctttgctaac
+            caccctgatctaagaaggatcctgacagattatggcttcgagggacatcctttccggaaa
+            gactttcctctatctggctatgttgagttacgttatgatgatgaagtgaagcgggtggtg
+            gcagagccggtggagttggcccaagagttccgcaaatttgacctgaacagcccctgggag
+            gctttcccagtctatcgccaacccccggagagtctcaagcttgaagccggagacaagaag
+            cctgatgccaagtag
+///

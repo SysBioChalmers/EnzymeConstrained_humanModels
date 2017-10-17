@@ -1,0 +1,53 @@
+ENTRY       7923              CDS       T01001
+NAME        HSD17B8, D6S2245E, FABG, FABGL, H2-KE6, HKE6, KE6, RING2, SDR30C1, dJ1033B10.9
+DEFINITION  (RefSeq) hydroxysteroid 17-beta dehydrogenase 8
+ORTHOLOGY   K13370  17beta-estradiol 17-dehydrogenase / 3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+) [EC:1.1.1.62 1.1.1.239]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                7923 (HSD17B8)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.62  17beta-estradiol 17-dehydrogenase
+                 7923 (HSD17B8)
+                1.1.1.239  3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)
+                 7923 (HSD17B8)
+POSITION    6p21.32
+MOTIF       Pfam: adh_short_C2 adh_short KR Epimerase RmlD_sub_bind RNA_pol_Rpb1_4
+DBLINKS     NCBI-GeneID: 7923
+            NCBI-ProteinID: NP_055049
+            OMIM: 601417
+            HGNC: 3554
+            Ensembl: ENSG00000204228
+            Vega: OTTHUMG00000031117
+            Pharos: Q92506(Tbio)
+            UniProt: Q92506 A0A1U9X7U3
+STRUCTURE   PDB: 2PD6 4CQM 4CQL
+AASEQ       261
+            MASQLQNRLRSALALVTGAGSGIGRAVSVRLAGEGATVAACDLDRAAAQETVRLLGGPGS
+            KEGPPRGNHAAFQADVSEARAARCLLEQVQACFSRPPSVVVSCAGITQDEFLLHMSEDDW
+            DKVIAVNLKGTFLVTQAAAQALVSNGCRGSIINISSIVGKVGNVGQTNYAASKAGVIGLT
+            QTAARELGRHGIRCNSVLPGFIATPMTQKVPQKVVDKITEMIPMGHLGDPEDVADVVAFL
+            ASEDSGYITGTSVEVTGGLFM
+NTSEQ       786
+            atggcgtctcagctccagaaccgactccgctccgcactggccttggtcacaggtgcgggg
+            agcggcatcggccgagcggtcagtgtacgcctggccggagagggggccaccgtagctgcc
+            tgcgacctggaccgggcagcggcacaggagacggtgcggctgctgggcgggccagggagc
+            aaggaggggccgccccgagggaaccatgctgccttccaggctgacgtgtctgaggccagg
+            gccgccaggtgcctgctggaacaagtgcaggcctgcttttctcgcccaccatctgtcgtt
+            gtgtcctgtgcgggcatcacccaggatgagtttctgctgcacatgtctgaggatgactgg
+            gacaaagtcatagctgtcaacctcaagggcaccttcctagtcactcaggctgcagcacaa
+            gccctggtgtccaatggttgtcgtggttccatcatcaacatcagtagcatcgtaggaaag
+            gtggggaacgtggggcagacaaactatgcagcatccaaggctggagtgattgggctgacc
+            cagaccgcagcccgggagcttggacgacatgggatccgctgtaactctgtcctcccaggg
+            ttcattgcaacacccatgacacagaaagtgccacagaaagtggtggacaagattactgaa
+            atgatcccgatgggacacttgggggaccctgaggatgtggcagatgtggtcgcattcttg
+            gcatctgaagatagtggatacatcacagggacctcagtggaagtcactggaggtcttttc
+            atgtaa
+///

@@ -1,0 +1,72 @@
+ENTRY       6319              CDS       T01001
+NAME        SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1
+DEFINITION  (RefSeq) stearoyl-CoA desaturase
+ORTHOLOGY   K00507  stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01212  Fatty acid metabolism
+            hsa03320  PPAR signaling pathway
+            hsa04152  AMPK signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                6319 (SCD)
+              Lipid metabolism
+               01040 Biosynthesis of unsaturated fatty acids
+                6319 (SCD)
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                6319 (SCD)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                6319 (SCD)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.19  With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water
+                1.14.19.1  stearoyl-CoA 9-desaturase
+                 6319 (SCD)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Desaturase
+              First
+               6319 (SCD)
+POSITION    10q24.31
+DBLINKS     NCBI-GeneID: 6319
+            NCBI-ProteinID: NP_005054
+            OMIM: 604031
+            HGNC: 10571
+            Ensembl: ENSG00000099194
+            Vega: OTTHUMG00000018906
+            Pharos: O00767(Tchem)
+            UniProt: O00767
+STRUCTURE   PDB: 4ZYO
+AASEQ       359
+            MPAHLLQDDISSSYTTTTTITAPPSRVLQNGGDKLETMPLYLEDDIRPDIKDDIYDPTYK
+            DKEGPSPKVEYVWRNIILMSLLHLGALYGITLIPTCKFYTWLWGVFYYFVSALGITAGAH
+            RLWSHRSYKARLPLRLFLIIANTMAFQNDVYEWARDHRAHHKFSETHADPHNSRRGFFFS
+            HVGWLLVRKHPAVKEKGSTLDLSDLEAEKLVMFQRRYYKPGLLMMCFILPTLVPWYFWGE
+            TFQNSVFVATFLRYAVVLNATWLVNSAAHLFGYRPYDKNISPRENILVSLGAVGEGFHNY
+            HHSFPYDYSASEYRWHINFTTFFIDCMAALGLAYDRKKVSKAAILARIKRTGDGNYKSG
+NTSEQ       1080
+            atgccggcccacttgctgcaggacgatatctctagctcctataccaccaccaccaccatt
+            acagcgcctccctccagggtcctgcagaatggaggagataagttggagacgatgcccctc
+            tacttggaagacgacattcgccctgatataaaagatgatatatatgaccccacctacaag
+            gataaggaaggcccaagccccaaggttgaatatgtctggagaaacatcatccttatgtct
+            ctgctacacttgggagccctgtatgggatcactttgattcctacctgcaagttctacacc
+            tggctttggggggtattctactattttgtcagtgccctgggcataacagcaggagctcat
+            cgtctgtggagccaccgctcttacaaagctcggctgcccctacggctctttctgatcatt
+            gccaacacaatggcattccagaatgatgtctatgaatgggctcgtgaccaccgtgcccac
+            cacaagttttcagaaacacatgctgatcctcataattcccgacgtggctttttcttctct
+            cacgtgggttggctgcttgtgcgcaaacacccagctgtcaaagagaaggggagtacgcta
+            gacttgtctgacctagaagctgagaaactggtgatgttccagaggaggtactacaaacct
+            ggcttgctgatgatgtgcttcatcctgcccacgcttgtgccctggtatttctggggtgaa
+            acttttcaaaacagtgtgttcgttgccactttcttgcgatatgctgtggtgcttaatgcc
+            acctggctggtgaacagtgctgcccacctcttcggatatcgtccttatgacaagaacatt
+            agcccccgggagaatatcctggtttcacttggagctgtgggtgagggcttccacaactac
+            caccactcctttccctatgactactctgccagtgagtaccgctggcacatcaacttcacc
+            acattcttcattgattgcatggccgccctcggtctggcctatgaccggaagaaagtctcc
+            aaggccgccatcttggccaggattaaaagaaccggagatggaaactacaagagtggctga
+///

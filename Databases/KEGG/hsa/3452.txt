@@ -1,0 +1,101 @@
+ENTRY       3452              CDS       T01001
+NAME        IFNA21, IFN-alphaI, LeIF_F, leIF-F
+DEFINITION  (RefSeq) interferon alpha 21
+ORTHOLOGY   K05414  interferon alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05320  Autoimmune thyroid disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3452 (IFNA21)
+               04151 PI3K-Akt signaling pathway
+                3452 (IFNA21)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3452 (IFNA21)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3452 (IFNA21)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                3452 (IFNA21)
+               04621 NOD-like receptor signaling pathway
+                3452 (IFNA21)
+               04622 RIG-I-like receptor signaling pathway
+                3452 (IFNA21)
+               04623 Cytosolic DNA-sensing pathway
+                3452 (IFNA21)
+               04650 Natural killer cell mediated cytotoxicity
+                3452 (IFNA21)
+             Human Diseases
+              Immune diseases
+               05320 Autoimmune thyroid disease
+                3452 (IFNA21)
+              Infectious diseases
+               05152 Tuberculosis
+                3452 (IFNA21)
+               05162 Measles
+                3452 (IFNA21)
+               05164 Influenza A
+                3452 (IFNA21)
+               05161 Hepatitis B
+                3452 (IFNA21)
+               05160 Hepatitis C
+                3452 (IFNA21)
+               05168 Herpes simplex infection
+                3452 (IFNA21)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3452 (IFNA21)
+               05165 Human papillomavirus infection
+                3452 (IFNA21)
+            Cytokines [BR:hsa04052]
+             Class II cytokines (interferon/IL-10 family)
+              Type I interferons
+               3452 (IFNA21)
+POSITION    9p21.3
+MOTIF       Pfam: Interferon
+DBLINKS     NCBI-GeneID: 3452
+            NCBI-ProteinID: NP_002166
+            OMIM: 147584
+            HGNC: 5424
+            Ensembl: ENSG00000137080
+            Vega: OTTHUMG00000019653
+            Pharos: P01568(Tbio)
+            UniProt: P01568
+AASEQ       189
+            MALSFSLLMAVLVLSYKSICSLGCDLPQTHSLGNRRALILLAQMGRISPFSCLKDRHDFG
+            FPQEEFDGNQFQKAQAISVLHEMIQQTFNLFSTKDSSATWEQSLLEKFSTELNQQLNDLE
+            ACVIQEVGVEETPLMNVDSILAVKKYFQRITLYLTEKKYSPCAWEVVRAEIMRSFSLSKI
+            FQERLRRKE
+NTSEQ       570
+            atggccctgtccttttctttactgatggccgtgctggtgctcagctacaaatccatctgt
+            tctctgggctgtgatctgcctcagacccacagcctgggtaataggagggccttgatactc
+            ctggcacaaatgggaagaatctctcctttctcctgcctgaaggacagacatgactttgga
+            ttcccccaggaggagtttgatggcaaccagttccagaaggctcaagccatctctgtcctc
+            catgagatgatccagcagaccttcaatctcttcagcacaaaggactcatctgctacttgg
+            gaacagagcctcctagaaaaattttccactgaacttaaccagcagctgaatgacctggaa
+            gcctgcgtgatacaggaggttggggtggaagagactcccctgatgaatgtggactccatc
+            ctggctgtgaagaaatacttccaaagaatcactctttatctgacagagaagaaatacagc
+            ccttgtgcctgggaggttgtcagagcagaaatcatgagatccttctctttatcaaaaatt
+            tttcaagaaagattaaggaggaaggaatga
+///

@@ -1,0 +1,79 @@
+ENTRY       2213              CDS       T01001
+NAME        FCGR2B, CD32, CD32B, FCG2, FCGR2, IGFR2
+DEFINITION  (RefSeq) Fc fragment of IgG receptor IIb
+ORTHOLOGY   K12560  low affinity immunoglobulin gamma Fc receptor II-b
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04662  B cell receptor signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+DISEASE     H00080  Systemic lupus erythematosus
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                2213 (FCGR2B)
+             Organismal Systems
+              Immune system
+               04662 B cell receptor signaling pathway
+                2213 (FCGR2B)
+               04666 Fc gamma R-mediated phagocytosis
+                2213 (FCGR2B)
+              Development
+               04380 Osteoclast differentiation
+                2213 (FCGR2B)
+             Human Diseases
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                2213 (FCGR2B)
+               05152 Tuberculosis
+                2213 (FCGR2B)
+               05162 Measles
+                2213 (FCGR2B)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Fc receptors
+                2213 (FCGR2B)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2213 (FCGR2B)
+POSITION    1q23.3
+MOTIF       Pfam: Ig_2 Ig_3 ig Ig_4 I-set V-set Ig_5 C2-set_2 DUF3827 CD34_antigen C1-set ECSCR V-set_CD47 Adeno_E3_CR2
+DBLINKS     NCBI-GeneID: 2213
+            NCBI-ProteinID: NP_003992
+            OMIM: 604590
+            HGNC: 3618
+            Ensembl: ENSG00000072694
+            Vega: OTTHUMG00000034470
+            Pharos: P31994(Tbio)
+            UniProt: P31994
+STRUCTURE   PDB: 2FCB 3WJJ 3WJL
+AASEQ       310
+            MGILSFLPVLATESDWADCKSPQPWGHMLLWTAVLFLAPVAGTPAAPPKAVLKLEPQWIN
+            VLQEDSVTLTCRGTHSPESDSIQWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSL
+            SDPVHLTVLSEWLVLQTPHLEFQEGETIVLRCHSWKDKPLVKVTFFQNGKSKKFSRSDPN
+            FSIPQANHSHSGDYHCTGNIGYTLYSSKPVTITVQAPSSSPMGIIVAVVTGIAVAAIVAA
+            VVALIYCRKKRISALPGYPECREMGETLPEKPANPTNPDEADKVGAENTITYSLLMHPDA
+            LEEPDDQNRI
+NTSEQ       933
+            atgggaatcctgtcattcttacctgtccttgccactgagagtgactgggctgactgcaag
+            tccccccagccttggggtcatatgcttctgtggacagctgtgctattcctggctcctgtt
+            gctgggacacctgcagctcccccaaaggctgtgctgaaactcgagccccagtggatcaac
+            gtgctccaggaggactctgtgactctgacatgccgggggactcacagccctgagagcgac
+            tccattcagtggttccacaatgggaatctcattcccacccacacgcagcccagctacagg
+            ttcaaggccaacaacaatgacagcggggagtacacgtgccagactggccagaccagcctc
+            agcgaccctgtgcatctgactgtgctttctgagtggctggtgctccagacccctcacctg
+            gagttccaggagggagaaaccatcgtgctgaggtgccacagctggaaggacaagcctctg
+            gtcaaggtcacattcttccagaatggaaaatccaagaaattttcccgttcggatcccaac
+            ttctccatcccacaagcaaaccacagtcacagtggtgattaccactgcacaggaaacata
+            ggctacacgctgtactcatccaagcctgtgaccatcactgtccaagctcccagctcttca
+            ccgatggggatcattgtggctgtggtcactgggattgctgtagcggccattgttgctgct
+            gtagtggccttgatctactgcaggaaaaagcggatttcagctctcccaggataccctgag
+            tgcagggaaatgggagagaccctccctgagaaaccagccaatcccactaatcctgatgag
+            gctgacaaagttggggctgagaacacaatcacctattcacttctcatgcacccggatgct
+            ctggaagagcctgatgaccagaaccgtatttag
+///

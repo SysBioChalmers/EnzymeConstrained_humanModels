@@ -1,0 +1,177 @@
+ENTRY       2770              CDS       T01001
+NAME        GNAI1, Gi
+DEFINITION  (RefSeq) G protein subunit alpha i1
+ORTHOLOGY   K04630  guanine nucleotide-binding protein G(i) subunit alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04360  Axon guidance
+            hsa04371  Apelin signaling pathway
+            hsa04540  Gap junction
+            hsa04611  Platelet activation
+            hsa04670  Leukocyte transendothelial migration
+            hsa04713  Circadian entrainment
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04730  Long-term depression
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04924  Renin secretion
+            hsa04926  Relaxin signaling pathway
+            hsa04971  Gastric acid secretion
+            hsa05012  Parkinson's disease
+            hsa05030  Cocaine addiction
+            hsa05032  Morphine addiction
+            hsa05034  Alcoholism
+            hsa05133  Pertussis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05200  Pathways in cancer
+MODULE      hsa_M00695  cAMP signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                2770 (GNAI1)
+               04371 Apelin signaling pathway
+                2770 (GNAI1)
+               04071 Sphingolipid signaling pathway
+                2770 (GNAI1)
+               04024 cAMP signaling pathway
+                2770 (GNAI1)
+               04022 cGMP - PKG signaling pathway
+                2770 (GNAI1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                2770 (GNAI1)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                2770 (GNAI1)
+               04670 Leukocyte transendothelial migration
+                2770 (GNAI1)
+               04062 Chemokine signaling pathway
+                2770 (GNAI1)
+              Endocrine system
+               04923 Regulation of lipolysis in adipocyte
+                2770 (GNAI1)
+               04915 Estrogen signaling pathway
+                2770 (GNAI1)
+               04914 Progesterone-mediated oocyte maturation
+                2770 (GNAI1)
+               04921 Oxytocin signaling pathway
+                2770 (GNAI1)
+               04926 Relaxin signaling pathway
+                2770 (GNAI1)
+               04916 Melanogenesis
+                2770 (GNAI1)
+               04924 Renin secretion
+                2770 (GNAI1)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                2770 (GNAI1)
+              Digestive system
+               04971 Gastric acid secretion
+                2770 (GNAI1)
+              Nervous system
+               04724 Glutamatergic synapse
+                2770 (GNAI1)
+               04727 GABAergic synapse
+                2770 (GNAI1)
+               04725 Cholinergic synapse
+                2770 (GNAI1)
+               04728 Dopaminergic synapse
+                2770 (GNAI1)
+               04726 Serotonergic synapse
+                2770 (GNAI1)
+               04730 Long-term depression
+                2770 (GNAI1)
+               04723 Retrograde endocannabinoid signaling
+                2770 (GNAI1)
+              Development
+               04360 Axon guidance
+                2770 (GNAI1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                2770 (GNAI1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2770 (GNAI1)
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                2770 (GNAI1)
+              Substance dependence
+               05030 Cocaine addiction
+                2770 (GNAI1)
+               05032 Morphine addiction
+                2770 (GNAI1)
+               05034 Alcoholism
+                2770 (GNAI1)
+              Infectious diseases
+               05133 Pertussis
+                2770 (GNAI1)
+               05145 Toxoplasmosis
+                2770 (GNAI1)
+               05142 Chagas disease (American trypanosomiasis)
+                2770 (GNAI1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               2770 (GNAI1)
+            GTP-binding proteins [BR:hsa04031]
+             Heterotrimeric G-proteins
+              Alpha Subunits
+               Alpha type 1 (Gi/o) [OT]
+                2770 (GNAI1)
+POSITION    7q21.11
+MOTIF       Pfam: G-alpha Arf Gtr1_RagA Roc TniB AAA_16 AAA_29 FtsK_SpoIIIE
+DBLINKS     NCBI-GeneID: 2770
+            NCBI-ProteinID: NP_002060
+            OMIM: 139310
+            HGNC: 4384
+            Ensembl: ENSG00000127955
+            Vega: OTTHUMG00000023523
+            Pharos: P63096(Tbio)
+            UniProt: P63096
+STRUCTURE   PDB: 3UMR 2OM2 3UMS 3ONW 1Y3A 2GTP 1KJY 2IK8 3QI2 2G83 4G5Q
+                 5TDH 3QE0 2XNS 5JS7 5JS8
+AASEQ       354
+            MGCTLSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKSTIVKQMKIIHEAG
+            YSEEECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMT
+            AELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTRVK
+            TTGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEM
+            NRMHESMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAA
+            AYIQCQFEDLNKRKDTKEIYTHFTCATDTKNVQFVFDAVTDVIIKNNLKDCGLF
+NTSEQ       1065
+            atgggctgcacgctgagcgccgaggacaaggcggcggtggagcggagtaagatgatcgac
+            cgcaacctccgtgaggacggcgagaaggcggcgcgcgaggtcaagctgctgctgctcggt
+            gctggtgaatctggtaaaagtacaattgtgaagcagatgaaaattatccatgaagctggt
+            tattcagaagaggagtgtaaacaatacaaagcagtggtctacagtaacaccatccagtca
+            attattgctatcattagggctatggggaggttgaagatagactttggtgactcagcccgg
+            gcggatgatgcacgccaactctttgtgctagctggagctgctgaagaaggctttatgact
+            gcagaacttgctggagttataaagagattgtggaaagatagtggtgtacaagcctgtttc
+            aacagatcccgagagtaccagcttaatgattctgcagcatactatttgaatgacttggac
+            agaatagctcaaccaaattacatcccgactcaacaagatgttctcagaactagagtgaaa
+            actacaggaattgttgaaacccattttactttcaaagatcttcattttaaaatgtttgat
+            gtgggaggtcagagatctgagcggaagaagtggattcattgcttcgaaggagtgacggcg
+            atcatcttctgtgtagcactgagtgactacgacctggttctagctgaagatgaagaaatg
+            aaccgaatgcatgaaagcatgaaattgtttgacagcatatgtaacaacaagtggtttaca
+            gatacatccattatactttttctaaacaagaaggatctctttgaagaaaaaatcaaaaag
+            agccctctcactatatgctatccagaatatgcaggatcaaacacatatgaagaggcagct
+            gcatatattcaatgtcagtttgaagacctcaataaaagaaaggacacaaaggaaatatac
+            acccacttcacatgtgccacagatactaagaatgtgcagtttgtttttgatgctgtaaca
+            gatgtcatcataaaaaataatctaaaagattgtggtctcttttaa
+///

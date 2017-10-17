@@ -1,0 +1,62 @@
+ENTRY       9200              CDS       T01001
+NAME        HACD1, CAP, PTPLA
+DEFINITION  (RefSeq) 3-hydroxyacyl-CoA dehydratase 1
+ORTHOLOGY   K10703  very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase [EC:4.2.1.134]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00415  Fatty acid biosynthesis, elongation, endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                9200 (HACD1)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                9200 (HACD1)
+               01040 Biosynthesis of unsaturated fatty acids
+                9200 (HACD1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.134  very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+                 9200 (HACD1)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Fatty acid synthase
+              Component type
+               9200 (HACD1)
+POSITION    10p12.33
+MOTIF       Pfam: PTPLA
+DBLINKS     NCBI-GeneID: 9200
+            NCBI-ProteinID: NP_055056
+            OMIM: 610467
+            HGNC: 9639
+            Ensembl: ENSG00000165996
+            Vega: OTTHUMG00000017750
+            Pharos: B0YJ81(Tbio)
+            UniProt: B0YJ81
+AASEQ       288
+            MGRLTEAAAAGSGSRAAGWAGSPPTLLPLSPTSPRCAATMASSDEDGTNGGASEAGEDRE
+            APGERRRLGVLATAWLTFYDIAMTAGWLVLAIAMVRFYMEKGTHRGLYKSIQKTLKFFQT
+            FALLEIVHCLIGIVPTSVIVTGVQVSSRIFMVWLITHSIKPIQNEESVVLFLVAWTVTEI
+            TRYSFYTFSLLDHLPYFIKWARYNFFIILYPVGVAGELLTIYAALPHVKKTGMFSIRLPN
+            KYNVSFDYYYFLLITMASYIPLFPQLYFHMLRQRRKVLHGEVIVEKDD
+NTSEQ       867
+            atggggcgcctgacggaagcggcggcagcgggcagcggctctcgggctgcaggctgggca
+            gggtcccctcccacgctcctgccgctgtctcccacgtcccccaggtgcgcggccaccatg
+            gcgtccagcgacgaggacggcaccaacggcggcgcctcggaggccggcgaggaccgggag
+            gctcccggcgagcggaggcgcctgggggtcttggccaccgcctggctcaccttctacgac
+            atcgccatgaccgcggggtggttggttctagctattgccatggtacgtttttatatggaa
+            aaaggaacacacagaggtttatataaaagtattcagaagacacttaaatttttccagaca
+            tttgccttgcttgagatagttcactgtttaattggaattgtacctacttctgtgattgtg
+            actggggtccaagtgagttcaagaatctttatggtgtggctcattactcacagtataaaa
+            ccaatccagaatgaagagagtgtggtgctttttctggtcgcgtggactgtgacagagatc
+            actcgctattccttctacacattcagccttcttgaccacttgccatacttcattaaatgg
+            gccagatataatttttttatcatcttatatcctgttggagttgctggtgaacttcttaca
+            atatacgctgccttgccgcatgtgaagaaaacaggaatgttttcaataagacttcctaac
+            aaatacaatgtctcttttgactactattattttcttcttataaccatggcatcatatata
+            cctttgtttccacaactctattttcatatgttacgtcaaagaagaaaggtgcttcatgga
+            gaggtgattgtagaaaaggatgattaa
+///

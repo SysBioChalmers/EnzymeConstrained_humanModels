@@ -1,0 +1,78 @@
+ENTRY       3032              CDS       T01001
+NAME        HADHB, ECHB, MSTP029, MTPB, TP-BETA
+DEFINITION  (RefSeq) hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit
+ORTHOLOGY   K07509  acetyl-CoA acyltransferase [EC:2.3.1.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa01100  Metabolic pathways
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+DISEASE     H00525  Disorders of fatty-acid oxidation
+            H01352  Mitochondrial trifunctional protein (TFP) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                3032 (HADHB)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                3032 (HADHB)
+               00071 Fatty acid degradation
+                3032 (HADHB)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                3032 (HADHB)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.16  acetyl-CoA C-acyltransferase
+                 3032 (HADHB)
+POSITION    2p23.3
+MOTIF       Pfam: Thiolase_N Thiolase_C ketoacyl-synt
+DBLINKS     NCBI-GeneID: 3032
+            NCBI-ProteinID: NP_000174
+            OMIM: 143450
+            HGNC: 4803
+            Ensembl: ENSG00000138029
+            Vega: OTTHUMG00000096978
+            Pharos: P55084(Tbio)
+            UniProt: P55084
+AASEQ       474
+            MTILTYPFKNLPTASKWALRFSIRPLSCSSQLRAAPAVQTKTKKTLAKPNIRNVVVVDGV
+            RTPFLLSGTSYKDLMPHDLARAALTGLLHRTSVPKEVVDYIIFGTVIQEVKTSNVAREAA
+            LGAGFSDKTPAHTVTMACISANQAMTTGVGLIASGQCDVIVAGGVELMSDVPIRHSRKMR
+            KLMLDLNKAKSMGQRLSLISKFRFNFLAPELPAVSEFSTSETMGHSADRLAAAFAVSRLE
+            QDEYALRSHSLAKKAQDEGLLSDVVPFKVPGKDTVTKDNGIRPSSLEQMAKLKPAFIKPY
+            GTVTAANSSFLTDGASAMLIMAEEKALAMGYKPKAYLRDFMYVSQDPKDQLLLGPTYATP
+            KVLEKAGLTMNDIDAFEFHEAFSGQILANFKAMDSDWFAENYMGRKTKVGLPPLEKFNNW
+            GGSLSLGHPFGATGCRLVMAAANRLRKEGGQYGLVAACAAGGQGHAMIVEAYPK
+NTSEQ       1425
+            atgactatcttgacttacccctttaaaaatcttcccactgcatcaaaatgggccctcaga
+            ttttccataagacctctgagctgttcctcccagctacgagctgccccagctgtccagacc
+            aaaacgaagaagacgttagccaaacccaatataaggaatgttgtggtggtggatggtgtt
+            cgcactccatttttgctgtctggcacttcatataaagacctgatgccacatgatttggct
+            agagcagcgcttacgggtttgttgcatcggaccagtgtccctaaggaagtagttgattat
+            atcatctttggtacagttattcaggaagtgaaaacaagcaatgtggctagagaggctgcc
+            cttggagctggcttctctgacaagactcctgctcacactgtcaccatggcttgtatctct
+            gccaaccaagccatgaccacaggtgttggcttgattgcttctggccagtgtgatgtgatc
+            gtggcaggtggtgttgagttgatgtccgatgtccctattcgtcactcaaggaaaatgaga
+            aaactgatgcttgatctcaataaggccaaatctatgggccagcgactgtctttaatctct
+            aaattccgatttaatttcctagcacctgagctccctgcggtttctgagttctccaccagt
+            gagaccatgggccactctgcagaccgactggccgctgcctttgctgtttctcggctggaa
+            caggatgaatatgcactgcgctctcacagtctagccaagaaggcacaggatgaaggactc
+            ctttctgatgtggtacccttcaaagtaccaggaaaagatacagttaccaaagataatggc
+            atccgtccttcctcactggagcagatggccaaactaaaacctgcattcatcaagccctac
+            ggcacagtgacagctgcaaattcttctttcttgactgatggtgcatctgcaatgttaatc
+            atggcggaggaaaaggctctggccatgggttataagccgaaggcatatttgagggatttt
+            atgtatgtgtctcaggatccaaaagatcaactattacttggaccaacatatgctactcca
+            aaagttctagaaaaggcaggattgaccatgaatgatattgatgcttttgaatttcatgaa
+            gctttctcgggtcagattttggcaaattttaaagccatggattctgattggtttgcagaa
+            aactacatgggtagaaaaaccaaggttggattgcctcctttggagaagtttaataactgg
+            ggtggatctctgtccctgggacacccatttggagccactggctgcaggttggtcatggct
+            gctgccaacagattacggaaagaaggaggccagtatggcttagtggctgcgtgtgcagct
+            ggagggcagggccatgctatgatagtggaagcttatccaaaataa
+///

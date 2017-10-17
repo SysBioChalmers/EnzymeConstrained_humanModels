@@ -1,0 +1,64 @@
+ENTRY       1440              CDS       T01001
+NAME        CSF3, C17orf33, CSF3OS, GCSF, G-CSF
+DEFINITION  (RefSeq) colony stimulating factor 3
+ORTHOLOGY   K05423  granulocyte colony-stimulating factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04657  IL-17 signaling pathway
+            hsa05144  Malaria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                1440 (CSF3)
+               04151 PI3K-Akt signaling pathway
+                1440 (CSF3)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                1440 (CSF3)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                1440 (CSF3)
+               04657 IL-17 signaling pathway
+                1440 (CSF3)
+             Human Diseases
+              Infectious diseases
+               05144 Malaria
+                1440 (CSF3)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-6 receptor family
+               1440 (CSF3)
+POSITION    17q21.1
+MOTIF       Pfam: GCSF NAGLU Img2
+DBLINKS     NCBI-GeneID: 1440
+            NCBI-ProteinID: NP_000750
+            OMIM: 138970
+            HGNC: 2438
+            Ensembl: ENSG00000108342
+            Vega: OTTHUMG00000133247
+            Pharos: P09919(Tbio)
+            UniProt: P09919 Q8N4W3
+STRUCTURE   PDB: 1RHG 2D9Q 1CD9 1PGR 1GNC
+AASEQ       207
+            MAGPATQSPMKLMALQLLLWHSALWTVQEATPLGPASSLPQSFLLKCLEQVRKIQGDGAA
+            LQEKLVSECATYKLCHPEELVLLGHSLGIPWAPLSSCPSQALQLAGCLSQLHSGLFLYQG
+            LLQALEGISPELGPTLDTLQLDVADFATTIWQQMEELGMAPALQPTQGAMPAFASAFQRR
+            AGGVLVASHLQSFLEVSYRVLRHLAQP
+NTSEQ       624
+            atggctggacctgccacccagagccccatgaagctgatggccctgcagctgctgctgtgg
+            cacagtgcactctggacagtgcaggaagccacccccctgggccctgccagctccctgccc
+            cagagcttcctgctcaagtgcttagagcaagtgaggaagatccagggcgatggcgcagcg
+            ctccaggagaagctggtgagtgagtgtgccacctacaagctgtgccaccccgaggagctg
+            gtgctgctcggacactctctgggcatcccctgggctcccctgagcagctgccccagccag
+            gccctgcagctggcaggctgcttgagccaactccatagcggccttttcctctaccagggg
+            ctcctgcaggccctggaagggatctcccccgagttgggtcccaccttggacacactgcag
+            ctggacgtcgccgactttgccaccaccatctggcagcagatggaagaactgggaatggcc
+            cctgccctgcagcccacccagggtgccatgccggccttcgcctctgctttccagcgccgg
+            gcaggaggggtcctggttgcctcccatctgcagagcttcctggaggtgtcgtaccgcgtt
+            ctacgccaccttgcccagccctga
+///

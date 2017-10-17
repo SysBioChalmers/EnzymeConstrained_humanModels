@@ -1,0 +1,88 @@
+ENTRY       3141              CDS       T01001
+NAME        HLCS, HCS
+DEFINITION  (RefSeq) holocarboxylase synthetase
+ORTHOLOGY   K01942  biotin--protein ligase [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00780  Biotin metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00180  Holocarboxylase synthetase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                3141 (HLCS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.9  biotin---[methylmalonyl-CoA-carboxytransferase] ligase
+                 3141 (HLCS)
+                6.3.4.10  biotin---[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+                 3141 (HLCS)
+                6.3.4.11  biotin---[methylcrotonoyl-CoA-carboxylase] ligase
+                 3141 (HLCS)
+                6.3.4.15  biotin---[acetyl-CoA-carboxylase] ligase
+                 3141 (HLCS)
+POSITION    21q22.13
+MOTIF       Pfam: BPL_LplA_LipB BPL_C BPL_N
+DBLINKS     NCBI-GeneID: 3141
+            NCBI-ProteinID: NP_000402
+            OMIM: 609018
+            HGNC: 4976
+            Ensembl: ENSG00000159267
+            Vega: OTTHUMG00000086636
+            Pharos: P50747(Tchem)
+            UniProt: P50747
+AASEQ       726
+            MEDRLHMDNGLVPQKIVSVHLQDSTLKEVKDQVSNKQAQILEPKPEPSLEIKPEQDGMEH
+            VGRDDPKALGEEPKQRRGSASGSEPAGDSDRGGGPVEHYHLHLSSCHECLELENSTIESV
+            KFASAENIPDLPYDYSSSLESVADETSPEREGRRVNLTGKAPNILLYVGSDSQEALGRFH
+            EVRSVLADCVDIDSYILYHLLEDSALRDPWTDNCLLLVIATRESIPEDLYQKFMAYLSQG
+            GKVLGLSSSFTFGGFQVTSKGALHKTVQNLVFSKADQSEVKLSVLSSGCRYQEGPVRLSP
+            GRLQGHLENEDKDRMIVHVPFGTRGGEAVLCQVHLELPPSSNIVQTPEDFNLLKSSNFRR
+            YEVLREILTTLGLSCDMKQVPALTPLYLLSAAEEIRDPLMQWLGKHVDSEGEIKSGQLSL
+            RFVSSYVSEVEITPSCIPVVTNMEAFSSEHFNLEIYRQNLQTKQLGKVILFAEVTPTTMR
+            LLDGLMFQTPQEMGLIVIAARQTEGKGRGGNVWLSPVGCALSTLLISIPLRSQLGQRIPF
+            VQHLMSVAVVEAVRSIPEYQDINLRVKWPNDIYYSDLMKIGGVLVNSTLMGETFYILIGC
+            GFNVTNSNPTICINDLITEYNKQHKAELKPLRADYLIARVVTVLEKLIKEFQDKGPNSVL
+            PLYYRYWVHSGQQVHLGSAEGPKVSIVGLDDSGFLQVHQEGGEVVTVHPDGNSFDMLRNL
+            ILPKRR
+NTSEQ       2181
+            atggaagatagactccacatggataatggactggtaccccaaaagattgtgtcggtgcac
+            ttgcaggactccactctgaaggaagttaaggatcaggtctcaaacaagcaagcccagatc
+            ctagagccgaagcctgaaccttctcttgagattaagcctgagcaggacggtatggagcat
+            gttggcagagatgacccaaaggctcttggtgaagaacccaaacaaaggagaggcagtgcc
+            tctgggagtgagcctgctggggacagtgacaggggagggggccccgttgagcattatcac
+            ctccatctgtctagttgccacgagtgtctggaacttgagaacagcaccattgagtcagtc
+            aagtttgcgtctgccgagaacattccagaccttccctacgattatagcagcagtttggag
+            agtgttgctgatgagacctcccccgaaagagaagggaggagagtcaacctcacgggaaag
+            gcacccaacatcctcctctatgtgggctccgactcccaggaagccctcggccggttccac
+            gaggtccggtctgtgctggccgactgtgtggacattgacagttatattctctaccacctg
+            ctggaggacagtgctctcagagacccgtggacggacaactgtctgctgttggtcattgct
+            accagggagtccattcccgaagacctgtaccagaagttcatggcctatctttctcaggga
+            gggaaggtgttgggcctgtcttcatccttcacctttggtggctttcaggtgacaagcaag
+            ggtgcactgcacaagacagtccagaacttggttttctccaaggctgaccagagcgaggtg
+            aagctcagcgtcttgagcagtggctgcaggtaccaggaaggccccgtccggctcagcccc
+            ggcaggctccagggccacctggagaatgaggacaaggacaggatgattgtgcatgtgcct
+            tttggaactcgcgggggagaagctgttctttgccaggtgcacttagaactacctcccagc
+            tccaacatagtgcaaactccagaagattttaacttgctcaagtcaagcaattttagaaga
+            tacgaagtccttagagagattctgacaacccttggcctcagctgtgacatgaaacaagtt
+            cctgccttaactcctctttacttgctgtcagctgcggaggaaatcagggatcctcttatg
+            cagtggcttgggaaacatgtggactccgagggagaaataaaatccggccagctctctctt
+            agatttgtttcatcctacgtgtctgaagtagaaataaccccatcttgtatacctgtggtg
+            accaacatggaggccttctcatcagaacatttcaacttagagatctatcgccaaaatctg
+            cagaccaagcagttggggaaagtaattttgtttgccgaagtgacccccacaacgatgcgt
+            ctcctggatgggctgatgtttcagacaccgcaggaaatgggcttaatagtgatcgcggcc
+            cggcagaccgagggcaaaggacggggagggaatgtgtggctgagccctgtgggatgtgct
+            ctttctactctgctcatctccattccactgagatcccagctgggacagaggatcccgttt
+            gtccagcatctgatgtccgtggctgtcgtggaagcagtgaggtccattcccgagtatcag
+            gatatcaacttacgagtgaagtggcccaacgatatttattacagtgacctcatgaagatc
+            ggcggagttctggttaactcaacactcatgggagaaacattttatatacttattggctgt
+            ggatttaatgtgactaacagtaaccctaccatctgcatcaacgacctcatcacagaatac
+            aataaacaacacaaggcagaactgaagcccttaagagccgattatctcatcgccagagtc
+            gtgactgtgctggagaaactgatcaaagagtttcaggacaaagggcccaacagcgtcctt
+            cccctttattaccgatactgggtccacagtggtcagcaagtccatctgggcagcgcagag
+            ggaccaaaggtgtccatcgttggcctggacgattctggcttcctccaggttcaccaggag
+            ggcggcgaggttgtgactgtgcacccggacggcaactccttcgacatgctgagaaacctc
+            atcctccccaaacggcggtaa
+///

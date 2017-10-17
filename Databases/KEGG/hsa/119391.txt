@@ -1,0 +1,73 @@
+ENTRY       119391            CDS       T01001
+NAME        GSTO2, GSTO_2-2, bA127L20.1
+DEFINITION  (RefSeq) glutathione S-transferase omega 2
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                119391 (GSTO2)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                119391 (GSTO2)
+               00982 Drug metabolism - cytochrome P450
+                119391 (GSTO2)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                119391 (GSTO2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                119391 (GSTO2)
+              Drug resistance
+               01524 Platinum drug resistance
+                119391 (GSTO2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 119391 (GSTO2)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               119391 (GSTO2)
+POSITION    10q25.1
+MOTIF       Pfam: GST_N_3 GST_N_2 GST_N GST_C_2 Glutaredoxin GST_C GST_C_3
+DBLINKS     NCBI-GeneID: 119391
+            NCBI-ProteinID: NP_899062
+            OMIM: 612314
+            HGNC: 23064
+            Ensembl: ENSG00000065621
+            Vega: OTTHUMG00000019006
+            Pharos: Q9H4Y5(Tbio)
+            UniProt: Q9H4Y5
+STRUCTURE   PDB: 3Q18 3Q19 3QAG
+AASEQ       243
+            MSGDATRTLGKGSQPPGPVPEGLIRIYSMRFCPYSHRTRLVLKAKDIRHEVVNINLRNKP
+            EWYYTKHPFGHIPVLETSQCQLIYESVIACEYLDDAYPGRKLFPYDPYERARQKMLLELF
+            CKVPHLTKECLVALRCGRECTNLKAALRQEFSNLEEILEYQNTTFFGGTCISMIDYLLWP
+            WFERLDVYGILDCVSHTPALRLWISAMKWDPTVCALLMDKSIFQGFLNLYFQNNPNAFDF
+            GLC
+NTSEQ       732
+            atgtctggggatgcgaccaggaccctggggaaaggaagccagcccccagggccagtcccg
+            gaggggctgatccgcatctacagcatgaggttctgcccctattctcacaggacccgcctc
+            gtcctcaaggccaaagacatcagacatgaagtggtcaacattaacctgagaaacaagcct
+            gaatggtactatacaaagcacccttttggccacattcctgtcctggagaccagccaatgt
+            caactgatctatgaatctgttattgcttgtgagtacctggatgatgcttatccaggaagg
+            aagctgtttccatatgacccttatgaacgagctcgccaaaagatgttattggagctattt
+            tgtaaggtcccacatttgaccaaggagtgcctggtagcgttgagatgtgggagagaatgc
+            actaatctgaaggcagccctgcgtcaggaattcagcaacctggaagagattcttgagtat
+            cagaacaccaccttctttggtggaacctgtatatccatgattgattacctcctctggccc
+            tggtttgagcggctggatgtgtatgggatactggactgtgtgagccacacgccagccctg
+            cggctctggatatcagccatgaagtgggaccccacagtctgtgctcttctcatggataag
+            agcattttccagggcttcttgaatctctattttcagaacaaccctaatgcctttgacttt
+            gggctgtgctga
+///

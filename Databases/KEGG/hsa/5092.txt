@@ -1,0 +1,43 @@
+ENTRY       5092              CDS       T01001
+NAME        PCBD1, DCOH, PCBD, PCD, PHS
+DEFINITION  (RefSeq) pterin-4 alpha-carbinolamine dehydratase 1
+ORTHOLOGY   K01724  4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00790  Folate biosynthesis
+DISEASE     H00167  Phenylketonuria (PKU)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                5092 (PCBD1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.96  4a-hydroxytetrahydrobiopterin dehydratase
+                 5092 (PCBD1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               5092 (PCBD1)
+POSITION    10q22.1
+MOTIF       Pfam: Pterin_4a
+DBLINKS     NCBI-GeneID: 5092
+            NCBI-ProteinID: NP_000272
+            OMIM: 126090
+            HGNC: 8646
+            Ensembl: ENSG00000166228
+            Vega: OTTHUMG00000018417
+            Pharos: P61457(Tbio)
+            UniProt: P61457
+AASEQ       104
+            MAGKAHRLSAEERDQLLPNLRAVGWNELEGRDAIFKQFHFKDFNRAFGFMTRVALQAEKL
+            DHHPEWFNVYNKVHITLSTHECAGLSERDINLASFIEQVAVSMT
+NTSEQ       315
+            atggctggcaaagcacacaggctgagcgctgaggagagggaccagctgctgccaaacctg
+            agggctgtggggtggaatgagctggaaggccgtgatgccatcttcaagcagtttcatttc
+            aaagacttcaacagggcctttgggttcatgacaagagtggccctgcaggctgagaaactg
+            gaccaccatcctgaatggtttaacgtgtacaacaaggtccacatcacgctgagcacccat
+            gagtgtgccggcctttcagaacgggacataaacctggccagcttcatcgaacaagtagca
+            gtgtccatgacatag
+///

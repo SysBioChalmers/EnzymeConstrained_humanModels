@@ -1,0 +1,87 @@
+ENTRY       116987            CDS       T01001
+NAME        AGAP1, AGAP-1, CENTG2, GGAP1, cnt-g2
+DEFINITION  (RefSeq) ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
+ORTHOLOGY   K12491  Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1/3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                116987 (AGAP1)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Golgi transport
+              Arf GTPases and associated proteins
+               Arf GTPase associated proteins
+                116987 (AGAP1)
+POSITION    2q37.2
+MOTIF       Pfam: ArfGap Ras PH Ank_2 Ank Ank_5 Ank_4 Ank_3 Roc PH_6 PH_4
+DBLINKS     NCBI-GeneID: 116987
+            NCBI-ProteinID: NP_001032208
+            OMIM: 608651
+            HGNC: 16922
+            Ensembl: ENSG00000157985
+            Vega: OTTHUMG00000133293
+            Pharos: Q9UPQ3(Tbio)
+            UniProt: Q9UPQ3 B2RZG9
+AASEQ       857
+            MNYQQQLANSAAIRAEIQRFESVHPNIYSIYELLERVEEPVLQNQIREHVIAIEDAFVNS
+            QEWTLSRSVPELKVGIVGNLASGKSALVHRYLTGTYVQEESPEGGRFKKEIVVDGQSYLL
+            LIRDEGGPPEAQFAMWVDAVIFVFSLEDEISFQTVYHYYSRMANYRNTSEIPLVLVGTQD
+            AISSANPRVIDDARARKLSNDLKRCTYYETCATYGLNVERVFQDVAQKIVATRKKQQLSI
+            GPCKSLPNSPSHSSVCSAQVSAVHISQTSNGGGSLSDYSSSVPSTPSTSQKELRIDVPPT
+            ANTPTPVRKQSKRRSNLFTSRKGSDPDKEKKGLESRADSIGSGRAIPIKQGMLLKRSGKS
+            LNKEWKKKYVTLCDNGVLTYHPSLHDYMQNVHGKEIDLLRTTVKVPGKRPPRATSACAPI
+            SSPKTNGLSKDMSSLHISPNSGNVTSASGSQMASGISLVSFNSRPDGMHQRSYSVSSADQ
+            WSEATVIANSAISSDTGLGDSVCSSPSISSTTSPKLDPPPSPHANRKKHRRKKSTSNFKA
+            DGLSGTAEEQEENFEFIIVSLTGQTWHFEATTYEERDAWVQAIESQILASLQSCESSKNK
+            SRLTSQSEAMALQSIRNMRGNSHCVDCETQNPNWASLNLGALMCIECSGIHRNLGTHLSR
+            VRSLDLDDWPVELIKVMSSIGNELANSVWEESSQGRTKPSVDSTREEKERWIRAKYEQKL
+            FLAPLPCTELSLGQHLLRATADEDLRTAILLLAHGSRDEVNETCGEGDGRTALHLACRKG
+            NVVLAQLLIWYGVDVTARDAHGNTALAYARQASSQECIDVLLQYGCPDERFVLMATPNLS
+            RRNNNRNNSSGRVPTII
+NTSEQ       2574
+            atgaactaccagcagcagctggccaactcggctgccatccgggccgagatccagcgcttc
+            gagtcggtccaccccaacatctactccatctacgagctgctggagcgcgtggaggagccg
+            gtgctgcagaaccagatccgggagcacgtcatcgccatcgaagatgccttcgtgaacagc
+            caggaatggacgctgagtcgatctgtcccggagctcaaagtgggaattgtgggtaacttg
+            gccagcggcaagtctgccctggtgcaccggtacctgacgggcacatatgtccaggaggag
+            tctccggaaggtggcaggttcaagaaagagattgtcgttgatggacagagctatctgctg
+            ctgatcagagatgaagggggccccccggaggcgcagtttgccatgtgggtggacgctgtt
+            atatttgtcttcagcttggaggatgaaataagtttccagaccgtttaccactactacagt
+            cgaatggccaactatcggaacacgagcgagattcctctggttctggtgggaacccaggat
+            gccataagttctgctaacccgagggtcatcgatgacgccagggcgaggaagctctccaac
+            gacctgaaacggtgcacgtactacgagacgtgtgctacatacgggctgaatgtggagagg
+            gtcttccaggacgttgcccagaagattgttgccacaaggaagaagcagcagctgtccata
+            ggaccctgcaagtcgctacctaattctcccagccattcctccgtctgttccgcgcaggtg
+            tctgccgtgcacatcagccagacaagtaatggaggtgggagtttaagcgactattcctcc
+            tccgttccatcgactcccagcaccagccagaaggaacttcggatcgatgttcctcccact
+            gccaacacgcccacgcccgttcgcaagcagtctaagcgccggtccaacctgttcacctct
+            cggaaagggagcgacccagacaaagagaagaaaggcctggagagtcgtgcggacagcatt
+            gggagcggccgagccatcccaattaaacagggcatgctgttgaagcgaagtggcaaatcg
+            ttgaataaagagtggaaaaagaaatatgtcaccctgtgtgacaatggcgtgctgacctat
+            catcccagtttacatgattacatgcagaatgttcatggtaaggagattgaccttctgaga
+            accactgtgaaagtcccagggaagaggccaccccgagccacgtcagcctgcgcacccatc
+            tccagccctaaaaccaatggcctatccaaggacatgagcagtttacacatctcacccaat
+            tcagggaatgtcactagtgcatctgggtctcagatggcaagcggcatcagcctggtctcc
+            ttcaacagccgacccgacggcatgcaccagcgctcctactcagtctccagtgccgaccag
+            tggagtgaggctacggtcattgcaaactcggccatcagcagtgacacagggctgggtgac
+            tccgtatgctccagccccagtatctccagcaccaccagccccaagctcgacccgcccccc
+            tcccctcacgccaacagaaagaagcaccgaaggaagaaaagcactagcaacttcaaagcc
+            gacggcctgtccggcactgctgaagaacaagaagaaaattttgagtttatcattgtgtcc
+            ctcactggccaaacatggcactttgaagccacgacgtatgaggagcgggacgcctgggtc
+            caagccatcgagagccagatcctggccagcctgcagtcgtgcgagagcagcaagaacaag
+            tcccggctgacgagccagagcgaggccatggccctgcagtcgatccggaacatgcgcggg
+            aactcccactgtgtggactgcgagacccagaatcccaactgggccagtttgaacttggga
+            gccctcatgtgcatcgaatgctcagggatccaccggaatcttggcacccacctttcccga
+            gtccgatctctggacctggatgactggccagtcgagctcatcaaggtgatgtcatccatc
+            gggaacgagctagccaacagcgtctgggaagagagcagccaggggcggacgaaaccatcg
+            gtagactccacaagggaagagaaggaacggtggatccgtgccaagtacgagcagaagctc
+            ttcctggccccgctgccctgcacggagctgtccctgggccagcacctgctgcgggccacc
+            gccgacgaggacctgcggacggccatcctgctgctggcacacggctcccgggacgaggtg
+            aacgagacctgcggggagggagacggccgcacggcgctgcatctggcctgccgcaagggg
+            aatgtggtcctggcgcagctcctgatctggtacggagtggacgtcacggcccgagatgcc
+            cacgggaacacagctctggcctacgcccggcaggcctccagccaggagtgcatcgacgtg
+            ctgctgcagtacggctgccccgacgagcgcttcgtgctcatggccacccctaacctgtcc
+            aggagaaacaataaccggaacaacagcagtgggagggtgcccaccatcatctga
+///

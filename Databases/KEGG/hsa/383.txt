@@ -1,0 +1,74 @@
+ENTRY       383               CDS       T01001
+NAME        ARG1
+DEFINITION  (RefSeq) arginase 1
+ORTHOLOGY   K01476  arginase [EC:3.5.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+            hsa05146  Amoebiasis
+MODULE      hsa_M00029  Urea cycle
+            hsa_M00134  Polyamine biosynthesis, arginine => ornithine => putrescine
+DISEASE     H00186  Hyperargininemia
+            H01398  Primary hyperammonemic disorders (Urea cycle disorders)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                383 (ARG1)
+              Amino acid metabolism
+               00220 Arginine biosynthesis
+                383 (ARG1)
+               00330 Arginine and proline metabolism
+                383 (ARG1)
+             Human Diseases
+              Infectious diseases
+               05146 Amoebiasis
+                383 (ARG1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.3  In linear amidines
+                3.5.3.1  arginase
+                 383 (ARG1)
+POSITION    6q23.2
+MOTIF       Pfam: Arginase
+DBLINKS     NCBI-GeneID: 383
+            NCBI-ProteinID: NP_000036
+            OMIM: 608313
+            HGNC: 663
+            Ensembl: ENSG00000118520
+            Vega: OTTHUMG00000015566
+            Pharos: P05089(Tchem)
+            UniProt: P05089
+STRUCTURE   PDB: 2AEB 4HWW 3GMZ 4HXQ 3MFW 4GSV 3THJ 3DJ8 4GWD 3KV2 3SJT
+                 3F80 3TF3 4GSM 3SKK 3GN0 2ZAV 3E6V 4FCI 3THH 4GWC 4FCK
+                 3MJL 3MFV 3LP4 2PLL 2PHA 1WVA 2PHO 3THE 4IE1 3LP7 3TH7
+                 3E6K 4GSZ 1WVB
+AASEQ       322
+            MSAKSRTIGIIGAPFSKGQPRGGVEEGPTVLRKAGLLEKLKEQECDVKDYGDLPFADIPN
+            DSPFQIVKNPRSVGKASEQLAGKVAEVKKNGRISLVLGGDHSLAIGSISGHARVHPDLGV
+            IWVDAHTDINTPLTTTSGNLHGQPVSFLLKELKGKIPDVPGFSWVTPCISAKDIVYIGLR
+            DVDPGEHYILKTLGIKYFSMTEVDRLGIGKVMEETLSYLLGRKKRPIHLSFDVDGLDPSF
+            TPATGTPVVGGLTYREGLYITEEIYKTGLLSGLDIMEVNPSLGKTPEEVTRTVNTAVAIT
+            LACFGLAREGNHKPIDYLNPPK
+NTSEQ       969
+            atgagcgccaagtccagaaccatagggattattggagctcctttctcaaagggacagcca
+            cgaggaggggtggaagaaggccctacagtattgagaaaggctggtctgcttgagaaactt
+            aaagaacaagagtgtgatgtgaaggattatggggacctgccctttgctgacatccctaat
+            gacagtccctttcaaattgtgaagaatccaaggtctgtgggaaaagcaagcgagcagctg
+            gctggcaaggtggcagaagtcaagaagaacggaagaatcagcctggtgctgggcggagac
+            cacagtttggcaattggaagcatctctggccatgccagggtccaccctgatcttggagtc
+            atctgggtggatgctcacactgatatcaacactccactgacaaccacaagtggaaacttg
+            catggacaacctgtatctttcctcctgaaggaactaaaaggaaagattcccgatgtgcca
+            ggattctcctgggtgactccctgtatatctgccaaggatattgtgtatattggcttgaga
+            gacgtggaccctggggaacactacattttgaaaactctaggcattaaatacttttcaatg
+            actgaagtggacagactaggaattggcaaggtgatggaagaaacactcagctatctacta
+            ggaagaaagaaaaggccaattcatctaagttttgatgttgacggactggacccatctttc
+            acaccagctactggcacaccagtcgtgggaggtctgacatacagagaaggtctctacatc
+            acagaagaaatctacaaaacagggctactctcaggattagatataatggaagtgaaccca
+            tccctggggaagacaccagaagaagtaactcgaacagtgaacacagcagttgcaataacc
+            ttggcttgtttcggacttgctcgggagggtaatcacaagcctattgactaccttaaccca
+            cctaagtaa
+///

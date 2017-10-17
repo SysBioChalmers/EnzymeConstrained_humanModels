@@ -1,0 +1,62 @@
+ENTRY       5689              CDS       T01001
+NAME        PSMB1, HC5, PMSB1, PSC5
+DEFINITION  (RefSeq) proteasome subunit beta 1
+ORTHOLOGY   K02732  20S proteasome subunit beta 6 [EC:3.4.25.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+MODULE      hsa_M00337  Immunoproteasome
+            hsa_M00340  Proteasome, 20S core particle
+DRUG_TARGET Delanzomib: D10110
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5689 (PSMB1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.25  Threonine endopeptidases
+                3.4.25.1  proteasome endopeptidase complex
+                 5689 (PSMB1)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T1: proteasome family
+               5689 (PSMB1)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Core particles (20S proteasome)
+               beta type subunits
+                5689 (PSMB1)
+POSITION    6q27
+MOTIF       Pfam: Proteasome Cytochrom_C1
+DBLINKS     NCBI-GeneID: 5689
+            NCBI-ProteinID: NP_002784
+            OMIM: 602017
+            HGNC: 9537
+            Ensembl: ENSG00000008018
+            Vega: OTTHUMG00000016087
+            Pharos: P20618(Tclin)
+            UniProt: P20618 A0A140VK45
+STRUCTURE   PDB: 5LE5 5LEY 5LF4 5LF1 5LF7 5LF6 5LF3 5LEZ 5LEX 5LF0 4R3O
+                 4R67 5A0Q 5M32 5T0G 5GJQ 5T0H 5LN3 5T0I 5T0J
+AASEQ       241
+            MLSSTAMYSAPGRDLGMEPHRAAGPLQLRFSPYVFNGGTILAIAGEDFAIVASDTRLSEG
+            FSIHTRDSPKCYKLTDKTVIGCSGFHGDCLTLTKIIEARLKMYKHSNNKAMTTGAIAAML
+            STILYSRRFFPYYVYNIIGGLDEEGKGAVYSFDPVGSYQRDSFKAGGSASAMLQPLLDNQ
+            VGFKNMQNVEHVPLSLDRAMRLVKDVFISAAERDVYTGDALRICIVTKEGIREETVSLRK
+            D
+NTSEQ       726
+            atgttgtcctctacagccatgtattcggctcctggcagagacttggggatggaaccgcac
+            agagccgcgggccctttgcagctgcgattttcgccctacgttttcaacggaggtactata
+            ctggcaattgctggagaagattttgcaattgttgcttctgatactcgattgagtgaaggg
+            ttttcaattcatacgcgggatagccccaaatgttacaaattaacagacaaaacagtcatt
+            ggatgcagcggttttcatggagactgtcttacgctgacaaagattattgaagcaagacta
+            aagatgtataagcattccaataataaggccatgactacgggggcaattgctgcaatgctg
+            tctacaatcctgtattcaaggcgcttctttccatactatgtttacaacatcatcggtgga
+            cttgatgaagaaggaaagggggctgtatacagctttgatccagtagggtcttaccagaga
+            gactccttcaaggctggaggctcagcaagtgccatgctacagcccctgcttgacaaccag
+            gttggttttaagaacatgcagaatgtggagcatgttccgctgtccttggacagagccatg
+            cggctggtgaaagatgtcttcatttctgcggctgagagagatgtgtacactggggacgca
+            ctccggatctgcatagtgaccaaagagggcatcagggaggaaactgtttccttaaggaag
+            gactga
+///

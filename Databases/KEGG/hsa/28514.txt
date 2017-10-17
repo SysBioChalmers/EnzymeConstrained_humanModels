@@ -1,0 +1,94 @@
+ENTRY       28514             CDS       T01001
+NAME        DLL1, DELTA1, DL1, Delta
+DEFINITION  (RefSeq) delta like canonical Notch ligand 1
+ORTHOLOGY   K06051  delta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04330  Notch signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa05224  Breast cancer
+MODULE      hsa_M00682  Notch signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04330 Notch signaling pathway
+                28514 (DLL1)
+             Organismal Systems
+              Immune system
+               04658 Th1 and Th2 cell differentiation
+                28514 (DLL1)
+             Human Diseases
+              Cancers
+               05224 Breast cancer
+                28514 (DLL1)
+              Drug resistance
+               01522 Endocrine resistance
+                28514 (DLL1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               28514 (DLL1)
+POSITION    6q27
+MOTIF       Pfam: EGF MNNL DSL hEGF EGF_2 EGF_CA EGF_3 ECSCR
+DBLINKS     NCBI-GeneID: 28514
+            NCBI-ProteinID: NP_005609
+            OMIM: 606582
+            HGNC: 2908
+            Ensembl: ENSG00000198719
+            Vega: OTTHUMG00000016078
+            Pharos: O00548(Tbio)
+            UniProt: O00548
+STRUCTURE   PDB: 4XBM
+AASEQ       723
+            MGSRCALALAVLSALLCQVWSSGVFELKLQEFVNKKGLLGNRNCCRGGAGPPPCACRTFF
+            RVCLKHYQASVSPEPPCTYGSAVTPVLGVDSFSLPDGGGADSAFSNPIRFPFGFTWPGTF
+            SLIIEALHTDSPDDLATENPERLISRLATQRHLTVGEEWSQDLHSSGRTDLKYSYRFVCD
+            EHYYGEGCSVFCRPRDDAFGHFTCGERGEKVCNPGWKGPYCTEPICLPGCDEQHGFCDKP
+            GECKCRVGWQGRYCDECIRYPGCLHGTCQQPWQCNCQEGWGGLFCNQDLNYCTHHKPCKN
+            GATCTNTGQGSYTCSCRPGYTGATCELGIDECDPSPCKNGGSCTDLENSYSCTCPPGFYG
+            KICELSAMTCADGPCFNGGRCSDSPDGGYSCRCPVGYSGFNCEKKIDYCSSSPCSNGAKC
+            VDLGDAYLCRCQAGFSGRHCDDNVDDCASSPCANGGTCRDGVNDFSCTCPPGYTGRNCSA
+            PVSRCEHAPCHNGATCHERGHRYVCECARGYGGPNCQFLLPELPPGPAVVDLTEKLEGQG
+            GPFPWVAVCAGVILVLMLLLGCAAVVVCVRLRLQKHRPPADPCRGETETMNNLANCQREK
+            DISVSIIGATQIKNTNKKADFHGDHSADKNGFKARYPAVDYNLVQDLKGDDTAVRDAHSK
+            RDTKCQPQGSSGEEKGTPTTLRGGEASERKRPDSGCSTSKDTKYQSVYVISEEKDECVIA
+            TEV
+NTSEQ       2172
+            atgggcagtcggtgcgcgctggccctggcggtgctctcggccttgctgtgtcaggtctgg
+            agctctggggtgttcgaactgaagctgcaggagttcgtcaacaagaaggggctgctgggg
+            aaccgcaactgctgccgcgggggcgcggggccaccgccgtgcgcctgccggaccttcttc
+            cgcgtgtgcctcaagcactaccaggccagcgtgtcccccgagccgccctgcacctacggc
+            agcgccgtcacccccgtgctgggcgtcgactccttcagtctgcccgacggcgggggcgcc
+            gactccgcgttcagcaaccccatccgcttccccttcggcttcacctggccgggcaccttc
+            tctctgattattgaagctctccacacagattctcctgatgacctcgcaacagaaaaccca
+            gaaagactcatcagccgcctggccacccagaggcacctgacggtgggcgaggagtggtcc
+            caggacctgcacagcagcggccgcacggacctcaagtactcctaccgcttcgtgtgtgac
+            gaacactactacggagagggctgctccgttttctgccgtccccgggacgatgccttcggc
+            cacttcacctgtggggagcgtggggagaaagtgtgcaaccctggctggaaagggccctac
+            tgcacagagccgatctgcctgcctggatgtgatgagcagcatggattttgtgacaaacca
+            ggggaatgcaagtgcagagtgggctggcagggccggtactgtgacgagtgtatccgctat
+            ccaggctgtctccatggcacctgccagcagccctggcagtgcaactgccaggaaggctgg
+            gggggccttttctgcaaccaggacctgaactactgcacacaccataagccctgcaagaat
+            ggagccacctgcaccaacacgggccaggggagctacacttgctcttgccggcctgggtac
+            acaggtgccacctgcgagctggggattgacgagtgtgaccccagcccttgtaagaacgga
+            gggagctgcacggatctcgagaacagctactcctgtacctgcccacccggcttctacggc
+            aaaatctgtgaattgagtgccatgacctgtgcggacggcccttgctttaacgggggtcgg
+            tgctcagacagccccgatggagggtacagctgccgctgccccgtgggctactccggcttc
+            aactgtgagaagaaaattgactactgcagctcttcaccctgttctaatggtgccaagtgt
+            gtggacctcggtgatgcctacctgtgccgctgccaggccggcttctcggggaggcactgt
+            gacgacaacgtggacgactgcgcctcctccccgtgcgccaacgggggcacctgccgggat
+            ggcgtgaacgacttctcctgcacctgcccgcctggctacacgggcaggaactgcagtgcc
+            cccgtcagcaggtgcgagcacgcaccctgccacaatggggccacctgccacgagaggggc
+            caccgctatgtgtgcgagtgtgcccgaggctacgggggtcccaactgccagttcctgctc
+            cccgagctgcccccgggcccagcggtggtggacctcactgagaagctagagggccagggc
+            gggccattcccctgggtggccgtgtgcgccggggtcatccttgtcctcatgctgctgctg
+            ggctgtgccgctgtggtggtctgcgtccggctgaggctgcagaagcaccggcccccagcc
+            gacccctgccggggggagacggagaccatgaacaacctggccaactgccagcgtgagaag
+            gacatctcagtcagcatcatcggggccacgcagatcaagaacaccaacaagaaggcggac
+            ttccacggggaccacagcgccgacaagaatggcttcaaggcccgctacccagcggtggac
+            tataacctcgtgcaggacctcaagggtgacgacaccgccgtcagggacgcgcacagcaag
+            cgtgacaccaagtgccagccccagggctcctcaggggaggagaaggggaccccgaccaca
+            ctcaggggtggagaagcatctgaaagaaaaaggccggactcgggctgttcaacttcaaaa
+            gacaccaagtaccagtcggtgtacgtcatatccgaggagaaggatgagtgcgtcatagca
+            actgaggtgtaa
+///

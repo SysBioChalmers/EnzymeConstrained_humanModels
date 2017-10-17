@@ -1,0 +1,83 @@
+ENTRY       3614              CDS       T01001
+NAME        IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608
+DEFINITION  (RefSeq) inosine monophosphate dehydrogenase 1
+ORTHOLOGY   K00088  IMP dehydrogenase [EC:1.1.1.205]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+DISEASE     H00527  Retinitis pigmentosa (RP)
+            H00837  Leber congenital amaurosis (LCR)
+DRUG_TARGET Merimepodib: D04936
+            Mizoribine: D01392
+            Mycophenolic acid (DG00739): D00752 D05094 D05095 D05096
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                3614 (IMPDH1)
+              Xenobiotics biodegradation and metabolism
+               00983 Drug metabolism - other enzymes
+                3614 (IMPDH1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.205  IMP dehydrogenase
+                 3614 (IMPDH1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3614 (IMPDH1)
+              Exosomal proteins of breast cancer cells
+               3614 (IMPDH1)
+POSITION    7q32.1
+MOTIF       Pfam: IMPDH CBS NMO FMN_dh His_biosynth NanE ThiG Glu_synthase DHO_dh G3P_antiterm
+DBLINKS     NCBI-GeneID: 3614
+            NCBI-ProteinID: NP_001136045
+            OMIM: 146690
+            HGNC: 6052
+            Ensembl: ENSG00000106348
+            Vega: OTTHUMG00000157713
+            Pharos: P20839(Tclin)
+            UniProt: P20839
+STRUCTURE   PDB: 1JCN
+AASEQ       514
+            MADYLISGGTGYVPEDGLTAQQLFASADGLTYNDFLILPGFIDFIADEVDLTSALTRKIT
+            LKTPLISSPMDTVTEADMAIAMALMGGIGFIHHNCTPEFQANEVRKVKKFEQGFITDPVV
+            LSPSHTVGDVLEAKMRHGFSGIPITETGTMGSKLVGIVTSRDIDFLAEKDHTTLLSEVMT
+            PRIELVVAPAGVTLKEANEILQRSKKGKLPIVNDCDELVAIIARTDLKKNRDYPLASKDS
+            QKQLLCGAAVGTREDDKYRLDLLTQAGVDVIVLDSSQGNSVYQIAMVHYIKQKYPHLQVI
+            GGNVVTAAQAKNLIDAGVDGLRVGMGCGSICITQEVMACGRPQGTAVYKVAEYARRFGVP
+            IIADGGIQTVGHVVKALALGASTVMMGSLLAATTEAPGEYFFSDGVRLKKYRGMGSLDAM
+            EKSSSSQKRYFSEGDKVKIAQGVSGSIQDKGSIQKFVPYLIAGIQHGCQDIGARSLSVLR
+            SMMYSGELKFEKRTMSAQIEGGVHGLHSYEKRLY
+NTSEQ       1545
+            atggcggactacctgatcagcggcggcaccggctacgtgcccgaggatgggctcaccgcg
+            cagcagctcttcgccagcgccgacggcctcacctacaacgacttcctgattctcccagga
+            ttcatagacttcatagctgatgaggtggacctgacctcagccctgacccggaagatcacg
+            ctgaagacgccactgatctcctcccccatggacactgtgacagaggctgacatggccatt
+            gccatggctctgatgggaggtattggtttcattcaccacaactgcaccccagagttccag
+            gccaacgaggtgcggaaggtcaagaagtttgaacagggcttcatcacggaccctgtggtg
+            ctgagcccctcgcacactgtgggcgatgtgctggaggccaagatgcggcatggcttctct
+            ggcatccccatcactgagacgggcaccatgggcagcaagctggtgggcatcgtcacctcc
+            cgagacatcgactttcttgctgagaaggaccacaccaccctcctcagtgaggtgatgacg
+            ccaaggattgaactggtggtggctccagcaggtgtgacgttgaaagaggcaaatgagatc
+            ctgcagcgtagcaagaaagggaagctgcctatcgtcaatgattgcgatgagctggtggcc
+            atcatcgcccgcaccgacctgaagaagaaccgagactaccctctggcctccaaggattcc
+            cagaagcagctgctctgtggggcagctgtgggcacccgtgaggatgacaaataccgtctg
+            gacctgctcacccaggcgggcgtcgacgtcatagtcttggactcgtcccaagggaattcg
+            gtgtatcagatcgccatggtgcattacatcaaacagaagtacccccacctccaggtgatt
+            ggggggaacgtggtgacagcagcccaggccaagaacctgattgatgctggtgtggacggg
+            ctgcgcgtgggcatgggctgcggctccatctgcatcacccaggaagtgatggcctgtggt
+            cggccccagggcactgctgtgtacaaggtggctgagtatgcccggcgctttggtgtgccc
+            atcatagccgatggcggcatccagaccgtgggacacgtggtcaaggccctggcccttgga
+            gcctccacagtgatgatgggctccctgctggccgccactacggaggcccctggcgagtac
+            ttcttctcagacggggtgcggctcaagaagtaccggggcatgggctcactggatgccatg
+            gagaagagcagcagcagccagaaacgatacttcagcgagggggataaagtgaagatcgcg
+            cagggtgtctcgggctccatccaggacaaaggatccattcagaagttcgtgccctacctc
+            atagcaggcatccaacacggctgccaggatatcggggcccgcagcctgtctgtccttcgg
+            tccatgatgtactcaggagagctcaagtttgagaagcggaccatgtcggcccagattgag
+            ggtggtgtccatggcctgcactcttacgaaaagcggctgtactga
+///

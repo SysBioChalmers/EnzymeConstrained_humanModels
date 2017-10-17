@@ -1,0 +1,54 @@
+ENTRY       4830              CDS       T01001
+NAME        NME1, AWD, GAAD, NB, NBS, NDKA, NDPK-A, NDPKA, NM23, NM23-H1
+DEFINITION  (RefSeq) NME/NM23 nucleoside diphosphate kinase 1
+ORTHOLOGY   K00940  nucleoside-diphosphate kinase [EC:2.7.4.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                4830 (NME1)
+               00240 Pyrimidine metabolism
+                4830 (NME1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.6  nucleoside-diphosphate kinase
+                 4830 (NME1)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                4830 (NME1)
+POSITION    17q21.33
+MOTIF       Pfam: NDK
+DBLINKS     NCBI-GeneID: 4830
+            NCBI-ProteinID: NP_000260
+            OMIM: 156490
+            HGNC: 7849
+            Ensembl: ENSG00000239672
+            Vega: OTTHUMG00000137474
+            Pharos: P15531(Tbio)
+            UniProt: P15531
+STRUCTURE   PDB: 1UCN 3L7U 2HVD 1JXV 2HVE 4ENO
+AASEQ       152
+            MANCERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVGLKFMQASEDLLKEHYVDLKDRPF
+            FAGLVKYMHSGPVVAMVWEGLNVVKTGRVMLGETNPADSKPGTIRGDFCIQVGRNIIHGS
+            DSVESAEKEIGLWFHPEELVDYTSCAQNWIYE
+NTSEQ       459
+            atggccaactgtgagcgtaccttcattgcgatcaaaccagatggggtccagcggggtctt
+            gtgggagagattatcaagcgttttgagcagaaaggattccgccttgttggtctgaaattc
+            atgcaagcttccgaagatcttctcaaggaacactacgttgacctgaaggaccgtccattc
+            tttgccggcctggtgaaatacatgcactcagggccggtagttgccatggtctgggagggg
+            ctgaatgtggtgaagacgggccgagtcatgctcggggagaccaaccctgcagactccaag
+            cctgggaccatccgtggagacttctgcatacaagttggcaggaacattatacatggcagt
+            gattctgtggagagtgcagagaaggagatcggcttgtggtttcaccctgaggaactggta
+            gattacacgagctgtgctcagaactggatctatgaatga
+///

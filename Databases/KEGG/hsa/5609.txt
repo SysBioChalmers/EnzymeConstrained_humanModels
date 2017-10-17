@@ -1,0 +1,121 @@
+ENTRY       5609              CDS       T01001
+NAME        MAP2K7, JNKK2, MAPKK7, MEK, MEK_7, MKK7, PRKMK7, SAPKK-4, SAPKK4
+DEFINITION  (RefSeq) mitogen-activated protein kinase kinase 7
+ORTHOLOGY   K04431  mitogen-activated protein kinase kinase 7 [EC:2.7.12.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04380  Osteoclast differentiation
+            hsa04530  Tight junction
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05164  Influenza A
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00688  MAPK (JNK) signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                5609 (MAP2K7)
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                5609 (MAP2K7)
+               04012 ErbB signaling pathway
+                5609 (MAP2K7)
+               04668 TNF signaling pathway
+                5609 (MAP2K7)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                5609 (MAP2K7)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                5609 (MAP2K7)
+               04660 T cell receptor signaling pathway
+                5609 (MAP2K7)
+               04664 Fc epsilon RI signaling pathway
+                5609 (MAP2K7)
+              Endocrine system
+               04912 GnRH signaling pathway
+                5609 (MAP2K7)
+               04926 Relaxin signaling pathway
+                5609 (MAP2K7)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                5609 (MAP2K7)
+              Development
+               04380 Osteoclast differentiation
+                5609 (MAP2K7)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5609 (MAP2K7)
+              Infectious diseases
+               05164 Influenza A
+                5609 (MAP2K7)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5609 (MAP2K7)
+               05169 Epstein-Barr virus infection
+                5609 (MAP2K7)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.2  mitogen-activated protein kinase kinase
+                 5609 (MAP2K7)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: STE group
+              STE7 family
+               5609 (MAP2K7)
+POSITION    19p13.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kinase-like Haspin_kinase Seadorna_VP7 APH
+DBLINKS     NCBI-GeneID: 5609
+            NCBI-ProteinID: NP_660186
+            OMIM: 603014
+            HGNC: 6847
+            Ensembl: ENSG00000076984
+            Vega: OTTHUMG00000137368
+            Pharos: O14733(Tbio)
+            UniProt: O14733
+STRUCTURE   PDB: 5B2L 2DYL 5B2K 3WZU 5B2M
+AASEQ       419
+            MAASSLEQKLSRLEAKLKQENREARRRIDLNLDISPQRPRPTLQLPLANDGGSRSPSSES
+            SPQHPTPPARPRHMLGLPSTLFTPRSMESIEIDQKLQEIMKQTGYLTIGGQRYQAEINDL
+            ENLGEMGSGTCGQVWKMRFRKTGHVIAVKQMRRSGNKEENKRILMDLDVVLKSHDCPYIV
+            QCFGTFITNTDVFIAMELMGTCAEKLKKRMQGPIPERILGKMTVAIVKALYYLKEKHGVI
+            HRDVKPSNILLDERGQIKLCDFGISGRLVDSKAKTRSAGCAAYMAPERIDPPDPTKPDYD
+            IRADVWSLGISLVELATGQFPYKNCKTDFEVLTKVLQEEPPLLPGHMGFSGDFQSFVKDC
+            LTKDHRKRPKYNKLLEHSFIKRYETLEVDVASWFKDVMAKTESPRTSGVLSQPHLPFFR
+NTSEQ       1260
+            atggcggcgtcctccctggaacagaagctgtcccgcctggaagcaaagctgaagcaggag
+            aaccgggaggcccggcggaggatcgacctcaacctggatatcagcccccagcggcccagg
+            cccaccctgcagctcccgctggccaacgatgggggcagccgctcgccatcctcagagagc
+            tccccgcagcaccccacgccccccgcccggccccgccacatgctggggctcccgtcaacc
+            ctgttcacaccccgcagcatggagagcattgagattgaccagaagctgcaggagatcatg
+            aagcagacgggctacctgaccatcgggggccagcgctaccaggcagaaatcaacgacctg
+            gagaacttgggcgagatgggcagcggcacctgcggccaggtgtggaagatgcgcttccgg
+            aagaccggccacgtcattgccgttaagcaaatgcggcgctccgggaacaaggaggagaac
+            aagcgcatcctcatggacctggatgtggtgctgaagagccacgactgcccctacatcgtg
+            cagtgctttgggacgttcatcaccaacacggacgtcttcatcgccatggagctcatgggc
+            acctgcgctgagaagctcaagaagcggatgcagggccccatccccgagcgcattctgggc
+            aagatgacagtggcgattgtgaaggcgctgtactacctgaaggagaagcacggtgtcatc
+            caccgcgacgtcaagccctccaacatcctgctggacgagcggggccagatcaagctctgc
+            gacttcggcatcagcggccgcctggtggactccaaagccaagacgcggagcgccggctgt
+            gccgcctacatggcacccgagcgcattgaccccccagaccccaccaagccggactatgac
+            atccgggccgacgtatggagcctgggcatctcgttggtggagctggcaacaggacagttt
+            ccctacaagaactgcaagacggactttgaggtcctcaccaaagtcctacaggaagagccc
+            ccgcttctgcccggacacatgggcttctcgggggacttccagtccttcgtcaaagactgc
+            cttactaaagatcacaggaagagaccaaagtataataagctacttgaacacagcttcatc
+            aagcgctacgagacgctggaggtggacgtggcgtcctggttcaaggatgtcatggcgaag
+            actgagtcaccgcggactagcggcgtcctgagccagccccacctgcccttcttcaggtag
+///

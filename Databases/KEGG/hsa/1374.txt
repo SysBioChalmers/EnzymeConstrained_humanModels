@@ -1,0 +1,116 @@
+ENTRY       1374              CDS       T01001
+NAME        CPT1A, CPT1, CPT1-L, L-CPT1
+DEFINITION  (RefSeq) carnitine palmitoyltransferase 1A
+ORTHOLOGY   K08765  carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa01212  Fatty acid metabolism
+            hsa03320  PPAR signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+DISEASE     H00525  Disorders of fatty-acid oxidation
+DRUG_TARGET Oxfenicine: D05292
+            Perhexiline (DG00334): D05442 D08340
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                1374 (CPT1A)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                1374 (CPT1A)
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                1374 (CPT1A)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                1374 (CPT1A)
+               04920 Adipocytokine signaling pathway
+                1374 (CPT1A)
+               03320 PPAR signaling pathway
+                1374 (CPT1A)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                1374 (CPT1A)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.21  carnitine O-palmitoyltransferase
+                 1374 (CPT1A)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Other regulator of mitochondrial biogenesis
+                1374 (CPT1A)
+POSITION    11q13.3
+MOTIF       Pfam: Carn_acyltransf CPT_N
+DBLINKS     NCBI-GeneID: 1374
+            NCBI-ProteinID: NP_001867
+            OMIM: 600528
+            HGNC: 2328
+            Ensembl: ENSG00000110090
+            Vega: OTTHUMG00000167892
+            Pharos: P50416(Tchem)
+            UniProt: P50416 A0A024R5F4 Q8WZ48 B2RAQ8
+STRUCTURE   PDB: 2LE3
+AASEQ       773
+            MAEAHQAVAFQFTVTPDGIDLRLSHEALRQIYLSGLHSWKKKFIRFKNGIITGVYPASPS
+            SWLIVVVGVMTTMYAKIDPSLGIIAKINRTLETANCMSSQTKNVVSGVLFGTGLWVALIV
+            TMRYSLKVLLSYHGWMFTEHGKMSRATKIWMGMVKIFSGRKPMLYSFQTSLPRLPVPAVK
+            DTVNRYLQSVRPLMKEEDFKRMTALAQDFAVGLGPRLQWYLKLKSWWATNYVSDWWEEYI
+            YLRGRGPLMVNSNYYAMDLLYILPTHIQAARAGNAIHAILLYRRKLDREEIKPIRLLGST
+            IPLCSAQWERMFNTSRIPGEETDTIQHMRDSKHIVVYHRGRYFKVWLYHDGRLLKPREME
+            QQMQRILDNTSEPQPGEARLAALTAGDRVPWARCRQAYFGRGKNKQSLDAVEKAAFFVTL
+            DETEEGYRSEDPDTSMDSYAKSLLHGRCYDRWFDKSFTFVVFKNGKMGLNAEHSWADAPI
+            VAHLWEYVMSIDSLQLGYAEDGHCKGDINPNIPYPTRLQWDIPGECQEVIETSLNTANLL
+            ANDVDFHSFPFVAFGKGIIKKCRTSPDAFVQLALQLAHYKDMGKFCLTYEASMTRLFREG
+            RTETVRSCTTESCDFVRAMVDPAQTVEQRLKLFKLASEKHQHMYRLAMTGSGIDRHLFCL
+            YVVSKYLAVESPFLKEVLSEPWRLSTSQTPQQQVELFDLENNPEYVSSGGGFGPVADDGY
+            GVSYILVGENLINFHISSKFSCPETDSHRFGRHLKEAMTDIITLFGLSSNSKK
+NTSEQ       2322
+            atggcagaagctcaccaagctgtggcctttcagttcacggtcactccggacgggattgac
+            ctgcggctgagccatgaagctcttagacaaatctatctctctggacttcattcctggaaa
+            aagaagttcatcagattcaagaacggcatcatcactggcgtgtacccggcaagcccctcc
+            agttggcttatcgtggtggtgggcgtgatgacaacgatgtacgccaagatcgacccctcg
+            ttaggaataattgcaaaaatcaatcggactctggaaacggccaactgcatgtccagccag
+            acgaagaacgtggtcagcggcgtgctgtttggcaccggcctgtgggtggccctcatcgtc
+            accatgcgctactccctgaaagtgctgctctcctaccacgggtggatgttcactgagcac
+            ggcaagatgagtcgtgccaccaagatctggatgggtatggtcaagatcttttcaggccga
+            aaacccatgttgtacagcttccagacatcgctgcctcgcctgccggtcccggctgtcaaa
+            gacactgtgaacaggtatctacagtcggtgaggcctcttatgaaggaagaagacttcaaa
+            cggatgacagcacttgctcaagattttgctgtcggtcttggaccaagattacagtggtat
+            ttgaagttaaaatcctggtgggctacaaattacgtgagcgactggtgggaggagtacatc
+            tacctccgaggacgagggccgctcatggtgaacagcaactattatgccatggatctgctg
+            tatatccttccaactcacattcaggcagcaagagccggcaacgccatccatgccatcctg
+            ctttacaggcgcaaactggaccgggaggaaatcaaaccaattcgtcttttgggatccacg
+            attccactctgctccgctcagtgggagcggatgtttaatacttcccggatcccaggagag
+            gagacagacaccatccagcacatgagagacagcaagcacatcgtcgtgtaccatcgagga
+            cgctacttcaaggtctggctctaccatgatgggcggctgctgaagccccgggagatggag
+            cagcagatgcagaggatcctggacaatacctcggagcctcagcccggggaggccaggctg
+            gcagccctcaccgcaggagacagagttccctgggccaggtgtcgtcaggcctattttgga
+            cgtgggaaaaataagcagtctcttgatgctgtggagaaagcagcgttcttcgtgacgtta
+            gatgaaactgaagaaggatacagaagtgaagacccggatacgtcaatggacagctacgcc
+            aaatctctactacacggccgatgttacgacaggtggtttgacaagtcgttcacgtttgtt
+            gtcttcaaaaacgggaagatgggcctcaacgctgaacactcctgggcagatgcgccgatc
+            gtggcccacctttgggagtacgtcatgtccattgacagcctccagctgggctatgcggag
+            gatgggcactgcaaaggcgacatcaatccgaacattccgtaccccaccaggctgcagtgg
+            gacatcccgggggaatgtcaagaggttatagagacctccctgaacaccgcaaatcttctg
+            gcaaacgacgtggatttccattccttcccattcgtagcctttggtaaaggaatcatcaag
+            aaatgtcgcacgagcccagacgcctttgtgcagctggccctccagctggcgcactacaag
+            gacatgggcaagttttgcctcacatacgaggcctccatgacccggctcttccgagagggg
+            aggacggagaccgtgcgctcctgcaccactgagtcatgcgacttcgtgcgggccatggtg
+            gacccggcccagacggtggaacagaggctgaagttgttcaagttggcgtctgagaagcat
+            cagcatatgtatcgcctcgccatgaccggctctgggatcgatcgtcacctcttctgcctt
+            tacgtggtgtctaaatatctcgctgtggagtcccctttccttaaggaagttttatctgag
+            ccttggagattatcaacaagccagacccctcagcagcaagtggagctgtttgacttggag
+            aataacccagagtacgtgtccagcggagggggctttggaccggttgctgatgacggctat
+            ggtgtgtcgtacatccttgtgggagagaacctcatcaatttccacatttcttccaagttc
+            tcttgccctgagacggattctcatcgctttggaaggcacctgaaagaagcaatgactgac
+            atcatcactttgtttggtctcagttctaattccaaaaagtaa
+///

@@ -1,0 +1,91 @@
+ENTRY       8823              CDS       T01001
+NAME        FGF16, FGF-16, MF4
+DEFINITION  (RefSeq) fibroblast growth factor 16
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+DISEASE     H01854  Metacarpal 4-5 fusion (MF4)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                8823 (FGF16)
+               04015 Rap1 signaling pathway
+                8823 (FGF16)
+               04010 MAPK signaling pathway
+                8823 (FGF16)
+               04151 PI3K-Akt signaling pathway
+                8823 (FGF16)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                8823 (FGF16)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                8823 (FGF16)
+               05218 Melanoma
+                8823 (FGF16)
+               05224 Breast cancer
+                8823 (FGF16)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               8823 (FGF16)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 8823 (FGF16)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 8823 (FGF16)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 8823 (FGF16)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 8823 (FGF16)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               8823 (FGF16)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               8823 (FGF16)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               8823 (FGF16)
+POSITION    Xq21.1
+MOTIF       Pfam: FGF
+DBLINKS     NCBI-GeneID: 8823
+            NCBI-ProteinID: NP_003859
+            OMIM: 300827 309630
+            HGNC: 3672
+            Ensembl: ENSG00000196468
+            Vega: OTTHUMG00000013133
+            Pharos: O43320(Tbio)
+            UniProt: O43320
+AASEQ       207
+            MAEVGGVFASLDWDLHGFSSSLGNVPLADSPGFLNERLGQIEGKLQRGSPTDFAHLKGIL
+            RRRQLYCRTGFHLEIFPNGTVHGTRHDHSRFGILEFISLAVGLISIRGVDSGLYLGMNER
+            GELYGSKKLTRECVFREQFEENWYNTYASTLYKHSDSERQYYVALNKDGSPREGYRTKRH
+            QKFTHFLPRPVDPSKLPSMSRDLFHYR
+NTSEQ       624
+            atggcagaggtggggggcgtcttcgcctccttggactgggatctacacggcttctcctcg
+            tctctggggaacgtgcccttagctgactccccaggtttcctgaacgagcgcctgggccaa
+            atcgaggggaagctgcagcgtggctcacccacagacttcgcccacctaaaggggatcctg
+            cggcgccgccagctctactgccgcaccggcttccacctggagatcttccccaacggcacg
+            gtgcacgggacccgccacgaccacagccgcttcggaatcctggagtttatcagcctggct
+            gtggggctgatcagcatccggggagtggactctggcctgtacctaggaatgaatgagcga
+            ggagaactctatgggtcgaagaaactcacacgtgaatgtgttttccgggaacagtttgaa
+            gaaaactggtacaacacctatgcctcaaccttgtacaaacattcggactcagagagacag
+            tattacgtggccctgaacaaagatggctcaccccgggagggatacaggactaaacgacac
+            cagaaattcactcactttttacccaggcctgtagatccttctaagttgccctccatgtcc
+            agagacctctttcactataggtaa
+///

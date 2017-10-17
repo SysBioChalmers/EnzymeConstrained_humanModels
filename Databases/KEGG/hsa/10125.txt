@@ -1,0 +1,95 @@
+ENTRY       10125             CDS       T01001
+NAME        RASGRP1, CALDAG-GEFI, CALDAG-GEFII, RASGRP, V, hRasGRP1
+DEFINITION  (RefSeq) RAS guanyl releasing protein 1
+ORTHOLOGY   K04350  RAS guanyl-releasing protein 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04611  Platelet activation
+            hsa04660  T cell receptor signaling pathway
+            hsa05200  Pathways in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                10125 (RASGRP1)
+               04010 MAPK signaling pathway
+                10125 (RASGRP1)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                10125 (RASGRP1)
+               04660 T cell receptor signaling pathway
+                10125 (RASGRP1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                10125 (RASGRP1)
+POSITION    15q14
+MOTIF       Pfam: RasGEF C1_1 EF-hand_6 EF-hand_1 RasGEF_N EF-hand_7 EF-hand_5 EF-hand_8 SPARC_Ca_bdg Cep57_CLD_2 bZIP_1 DivIC
+DBLINKS     NCBI-GeneID: 10125
+            NCBI-ProteinID: NP_005730
+            OMIM: 603962
+            HGNC: 9878
+            Ensembl: ENSG00000172575
+            Vega: OTTHUMG00000172379
+            Pharos: O95267(Tchem)
+            UniProt: O95267 B2RA89
+STRUCTURE   PDB: 4L9U 4L9M
+AASEQ       797
+            MGTLGKAREAPRKPSHGCRAASKARLEAKPANSPFPSHPSLAHITQFRMMVSLGHLAKGA
+            SLDDLIDSCIQSFDADGNLCRSNQLLQVMLTMHRIVISSAELLQKVITLYKDALAKNSPG
+            LCLKICYFVRYWITEFWVMFKMDASLTDTMEEFQELVKAKGEELHCRLIDTTQINARDWS
+            RKLTQRIKSNTSKKRKVSLLFDHLEPEELSEHLTYLEFKSFRRISFSDYQNYLVNSCVKE
+            NPTMERSIALCNGISQWVQLMVLSRPTPQLRAEVFIKFIQVAQKLHQLQNFNTLMAVIGG
+            LCHSSISRLKETSSHVPHEINKVLGEMTELLSSSRNYDNYRRAYGECTDFKIPILGVHLK
+            DLISLYEAMPDYLEDGKVNVHKLLALYNHISELVQLQEVAPPLEANKDLVHLLTLSLDLY
+            YTEDEIYELSYAREPRNHRAPPLTPSKPPVVVDWASGVSPKPDPKTISKHVQRMVDSVFK
+            NYDHDQDGYISQEEFEKIAASFPFSFCVMDKDREGLISRDEITAYFMRASSIYSKLGLGF
+            PHNFQETTYLKPTFCDNCAGFLWGVIKQGYRCKDCGMNCHKQCKDLVVFECKKRAKNPVA
+            PTENNTSVGPVSNLCSLGAKDLLHAPEEGPFTFPNGEAVEHGEESKDRTIMLMGVSSQKI
+            SLRLKRAVAHKATQTESQPWIGSEGPSGPFVLSSPRKTAQDTLYVLPSPTSPCPSPVLVR
+            KRAFVKWENKDSLIKSKEELRHLRLPTYQELEQEINTLKADNDALKIQLKYAQKKIESLQ
+            LEKSNHVLAQMEQGDCS
+NTSEQ       2394
+            atgggcaccctgggcaaggcgagagaggctccgcggaaaccttcccatggctgcagagct
+            gcctctaaagcaagactagaggcaaagccagccaacagccccttcccctcccatcccagc
+            ttggcccacatcacccagttccgaatgatggtgtctctgggacatttagccaaaggagcc
+            agcctggacgatctcattgacagctgcattcaatcttttgatgcagatggaaacctgtgt
+            cgaagtaaccaactgttgcaagtcatgctgaccatgcaccgaattgtcatctcctctgca
+            gaactgctccaaaaagttatcaccctctataaggatgctttggcaaagaattcaccagga
+            ctttgcctgaagatctgttattttgtaaggtattggataacagaattctgggtcatgttt
+            aaaatggacgccagcttgacagacactatggaggagtttcaggaactggtgaaagctaag
+            ggtgaggagttacattgccgcctgattgacacaactcaaatcaatgcccgtgactggtcc
+            aggaaacttactcaaaggataaaatcaaataccagcaagaaacggaaagtctccctgctc
+            tttgaccatctggaaccagaagagctatccgagcacctcacctaccttgagttcaagtct
+            ttccggaggatatcgttctctgattatcagaattaccttgtaaatagctgtgtgaaggaa
+            aaccccaccatggagcgatctattgctctgtgcaacggcatctcccagtgggtacaactg
+            atggttctcagccgccccacgccgcagctccgagcagaagtcttcatcaagttcatccag
+            gtggctcagaagctccaccaactacagaacttcaatacactgatggctgtgataggtggg
+            ctgtgtcacagctcaatctcgaggctcaaggagacaagttcgcatgtcccacatgaaatc
+            aataaggttctcggtgagatgactgagctgctgtcctcctccagaaactacgacaattac
+            cggcgagcctatggagagtgcaccgacttcaagatccccattctgggtgtgcatctcaag
+            gacctcatctccctgtatgaagccatgcctgactatctggaggacgggaaagtgaacgtc
+            cataagctactggccctatacaatcatatcagtgaattggtccagctgcaagaggtggcc
+            ccacccttggaggctaacaaggacttggtacacttgctgacgttatccctggatctttac
+            tacactgaggatgaaatctatgagctttcctatgcccgggaaccaaggaaccacagagct
+            ccaccactaacaccttcaaagccaccagtagtagtggactgggcttctggagtgtctccc
+            aaacctgatccaaaaaccattagcaaacacgtccagaggatggtggattctgtcttcaag
+            aactatgatcacgaccaggatggatacatttctcaggaagaatttgaaaagattgctgcg
+            agttttccattttccttctgtgtgatggacaaagacagggaaggcctcatcagcagggat
+            gagatcacagcctacttcatgagagccagctcaatctattccaagctgggcctgggcttt
+            cctcacaacttccaagagaccacctacctgaagcccactttttgtgacaactgtgctgga
+            tttctctggggagtgatcaaacaaggatatcgatgtaaagactgcgggatgaactgtcac
+            aaacaatgcaaagatctggttgtgtttgagtgtaagaagcgagccaagaacccagtagct
+            cccacagagaacaacacttctgtggggccagtgtccaacctttgctcattgggagccaaa
+            gatctgctccatgcacctgaggaaggaccttttacattccctaatggggaggctgtggaa
+            catggtgaggagagtaaggatcggaccatcatgctgatgggagtgtcctcacagaagatt
+            tctcttcggctgaagagggctgttgcccacaaggccacccagactgaatcacagccttgg
+            attggcagtgagggcccttcaggtccctttgtgctgtcttccccaaggaagacagcccag
+            gatactctatatgtgcttcccagtcccacctctccatgtcctagcccagtcttggtcaga
+            aagcgggcttttgtcaagtgggagaataaagactccctcataaaatcaaaggaggagctc
+            cgtcacctcagactgcctacctaccaagaactggaacaggaaataaatactctgaaagca
+            gataatgatgccctaaagatccaactgaaatatgcacagaagaaaatagaatccctccag
+            cttgaaaaaagcaatcatgtcttagctcaaatggagcagggtgactgttcttag
+///

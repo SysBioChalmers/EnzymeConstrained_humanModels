@@ -1,0 +1,159 @@
+ENTRY       3458              CDS       T01001
+NAME        IFNG, IFG, IFI
+DEFINITION  (RefSeq) interferon gamma
+ORTHOLOGY   K04687  interferon gamma
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04066  HIF-1 signaling pathway
+            hsa04217  Necroptosis
+            hsa04350  TGF-beta signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04612  Antigen processing and presentation
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04940  Type I diabetes mellitus
+            hsa05132  Salmonella infection
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05143  African trypanosomiasis
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00083  Allograft rejection
+            H00084  Graft-versus-host disease
+            H01132  Aplastic anemia (AA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                3458 (IFNG)
+             Environmental Information Processing
+              Signal transduction
+               04350 TGF-beta signaling pathway
+                3458 (IFNG)
+               04630 Jak-STAT signaling pathway
+                3458 (IFNG)
+               04066 HIF-1 signaling pathway
+                3458 (IFNG)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3458 (IFNG)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3458 (IFNG)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3458 (IFNG)
+               04612 Antigen processing and presentation
+                3458 (IFNG)
+               04660 T cell receptor signaling pathway
+                3458 (IFNG)
+               04658 Th1 and Th2 cell differentiation
+                3458 (IFNG)
+               04659 Th17 cell differentiation
+                3458 (IFNG)
+               04657 IL-17 signaling pathway
+                3458 (IFNG)
+              Development
+               04380 Osteoclast differentiation
+                3458 (IFNG)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                3458 (IFNG)
+               05323 Rheumatoid arthritis
+                3458 (IFNG)
+               05321 Inflammatiory bowel disease (IBD)
+                3458 (IFNG)
+               05330 Allograft rejection
+                3458 (IFNG)
+               05332 Graft-versus-host disease
+                3458 (IFNG)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3458 (IFNG)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3458 (IFNG)
+              Infectious diseases
+               05132 Salmonella infection
+                3458 (IFNG)
+               05152 Tuberculosis
+                3458 (IFNG)
+               05162 Measles
+                3458 (IFNG)
+               05164 Influenza A
+                3458 (IFNG)
+               05168 Herpes simplex infection
+                3458 (IFNG)
+               05169 Epstein-Barr virus infection
+                3458 (IFNG)
+               05146 Amoebiasis
+                3458 (IFNG)
+               05144 Malaria
+                3458 (IFNG)
+               05145 Toxoplasmosis
+                3458 (IFNG)
+               05140 Leishmaniasis
+                3458 (IFNG)
+               05142 Chagas disease (American trypanosomiasis)
+                3458 (IFNG)
+               05143 African trypanosomiasis
+                3458 (IFNG)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                3458 (IFNG)
+            Cytokines [BR:hsa04052]
+             Class II cytokines (interferon/IL-10 family)
+              Type II interferons
+               3458 (IFNG)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               3458 (IFNG)
+POSITION    12q15
+MOTIF       Pfam: IFN-gamma API5 Tup_N
+DBLINKS     NCBI-GeneID: 3458
+            NCBI-ProteinID: NP_000610
+            OMIM: 147570
+            HGNC: 5438
+            Ensembl: ENSG00000111537
+            Vega: OTTHUMG00000169113
+            Pharos: P01579(Tbio)
+            UniProt: P01579
+STRUCTURE   PDB: 1FYH 3BES 1FG9 1EKU 1HIG
+AASEQ       166
+            MKYTSYILAFQLCIVLGSLGCYCQDPYVKEAENLKKYFNAGHSDVADNGTLFLGILKNWK
+            EESDRKIMQSQIVSFYFKLFKNFKDDQSIQKSVETIKEDMNVKFFNSNKKKRDDFEKLTN
+            YSVTDLNVQRKAIHELIQVMAELSPAAKTGKRKRSQMLFRGRRASQ
+NTSEQ       501
+            atgaaatatacaagttatatcttggcttttcagctctgcatcgttttgggttctcttggc
+            tgttactgccaggacccatatgtaaaagaagcagaaaaccttaagaaatattttaatgca
+            ggtcattcagatgtagcggataatggaactcttttcttaggcattttgaagaattggaaa
+            gaggagagtgacagaaaaataatgcagagccaaattgtctccttttacttcaaacttttt
+            aaaaactttaaagatgaccagagcatccaaaagagtgtggagaccatcaaggaagacatg
+            aatgtcaagtttttcaatagcaacaaaaagaaacgagatgacttcgaaaagctgactaat
+            tattcggtaactgacttgaatgtccaacgcaaagcaatacatgaactcatccaagtgatg
+            gctgaactgtcgccagcagctaaaacagggaagcgaaaaaggagtcagatgctgtttcga
+            ggtcgaagagcatcccagtaa
+///

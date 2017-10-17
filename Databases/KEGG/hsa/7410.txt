@@ -1,0 +1,124 @@
+ENTRY       7410              CDS       T01001
+NAME        VAV2, VAV-2
+DEFINITION  (RefSeq) vav guanine nucleotide exchange factor 2
+ORTHOLOGY   K05730  guanine nucleotide exchange factor VAV
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04510  Focal adhesion
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                7410 (VAV2)
+               04024 cAMP signaling pathway
+                7410 (VAV2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                7410 (VAV2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                7410 (VAV2)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                7410 (VAV2)
+               04660 T cell receptor signaling pathway
+                7410 (VAV2)
+               04662 B cell receptor signaling pathway
+                7410 (VAV2)
+               04664 Fc epsilon RI signaling pathway
+                7410 (VAV2)
+               04666 Fc gamma R-mediated phagocytosis
+                7410 (VAV2)
+               04670 Leukocyte transendothelial migration
+                7410 (VAV2)
+               04062 Chemokine signaling pathway
+                7410 (VAV2)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                7410 (VAV2)
+POSITION    9q34.2
+MOTIF       Pfam: RhoGEF SH3_2 CAMSAP_CH CH SH3_1 SH3_9 SH2 C1_1 PH SH2_2 CDC24 C1_2 PH_10 Zn_ribbon_17 zf-RING-like
+DBLINKS     NCBI-GeneID: 7410
+            NCBI-ProteinID: NP_001127870
+            OMIM: 600428
+            HGNC: 12658
+            Ensembl: ENSG00000160293
+            Vega: OTTHUMG00000020882
+            Pharos: P52735(Tbio)
+            UniProt: P52735
+STRUCTURE   PDB: 4ROJ 2LNW 2LNX 2DLZ 2DM1
+AASEQ       878
+            MEQWRQCGRWLIDCKVLPPNHRVVWPSAVVFDLAQALRDGVLLCQLLHNLSPGSIDLKDI
+            NFRPQMSQFLCLKNIRTFLKVCHDKFGLRNSELFDPFDLFDVRDFGKVISAVSRLSLHSI
+            AQNKGIRPFPSEETTENDDDVYRSLEELADEHDLGEDIYDCVPCEDGGDDIYEDIIKVEV
+            QQPMIRYMQKMGMTEDDKRNCCLLEIQETEAKYYRTLEDIEKNYMSPLRLVLSPADMAAV
+            FINLEDLIKVHHSFLRAIDVSVMVGGSTLAKVFLDFKERLLIYGEYCSHMEHAQNTLNQL
+            LASREDFRQKVEECTLKVQDGKFKLQDLLVVPMQRVLKYHLLLKELLSHSAERPERQQLK
+            EALEAMQDLAMYINEVKRDKETLRKISEFQSSIENLQVKLEEFGRPKIDGELKVRSIVNH
+            TKQDRYLFLFDKVVIVCKRKGYSYELKEIIELLFHKMTDDPMNNKDVKKSHGKMWSYGFY
+            LIHLQGKQGFQFFCKTEDMKRKWMEQFEMAMSNIKPDKANANHHSFQMYTFDKTTNCKAC
+            KMFLRGTFYQGYMCTKCGVGAHKECLEVIPPCKFTSPADLDASGAGPGPKMVAMQNYHGN
+            PAPPGKPVLTFQTGDVLELLRGDPESPWWEGRLVQTRKSGYFPSSSVKPCPVDGRPPISR
+            PPSREIDYTAYPWFAGNMERQQTDNLLKSHASGTYLIRERPAEAERFAISIKFNDEVKHI
+            KVVEKDNWIHITEAKKFDSLLELVEYYQCHSLKESFKQLDTTLKYPYKSRERSASRASSR
+            SPASCASYNFSFLSPQGLSFASQGPSAPFWSVFTPRVIGTAVARYNFAARDMRELSLREG
+            DVVRIYSRIGGDQGWWKGETNGRIGWFPSTYVEEEGIQ
+NTSEQ       2637
+            atggagcagtggcggcagtgcggccgctggctcatcgattgcaaggtcctgccgcccaac
+            caccgggtggtgtggccctcggccgtggtcttcgacctggcgcaggcgctgcgcgacggg
+            gtccttctgtgccagctgctgcacaacctctcccccggctccatcgacctcaaggacatc
+            aacttccggccgcagatgtcccagtttctgtgtttgaagaacatacgcaccttcctgaaa
+            gtctgccacgataaatttggattaaggaacagcgagctgtttgacccctttgacctcttc
+            gatgtgcgagactttggaaaggtcatctccgcggtgtcgaggctctccctgcacagcatc
+            gcgcagaacaaagggatcaggccttttccctcagaggagaccacagagaatgacgatgac
+            gtctaccgcagcctggaggagctggccgacgagcatgacctgggggaggacatctacgac
+            tgcgtcccgtgtgaggatggaggggacgacatctacgaggacatcatcaaggtggaggtg
+            cagcagcccatgattagatacatgcagaaaatgggcatgactgaagatgacaagaggaac
+            tgctgcctgctggagatccaggagaccgaggccaagtactaccgcaccctggaggacatt
+            gagaagaactacatgagccccctgcggctggtgctgagcccggcggacatggcagctgtc
+            ttcattaacctggaggacctgatcaaggtgcatcacagcttcctgagggccatcgacgtg
+            tccgtgatggtggggggcagcacgctggccaaggtcttcctcgatttcaaggaaaggctt
+            ctgatctacggggagtactgcagccacatggagcacgcccagaacacactgaaccagctc
+            ctggccagccgggaggacttcaggcagaaagtcgaggagtgcacactgaaggtccaggat
+            ggaaaatttaagctgcaagacctgctggtggtccccatgcagagggtgctcaaataccac
+            ctgctcttgaaggagcttctgagccattctgcggaacggcctgagaggcagcagctcaaa
+            gaagcactggaagccatgcaggacttggcgatgtacatcaatgaagttaaacgggacaag
+            gagaccttgaggaaaatcagcgaatttcagagttctatagaaaatttgcaagtgaaactg
+            gaggaatttggaagaccaaagattgacggggaactgaaagtccggtccatagtcaaccac
+            accaagcaggacaggtacttgttcctgtttgacaaggtggtcatcgtctgcaagcggaag
+            ggctacagctacgagctcaaggagatcatcgagctgctgttccacaagatgaccgacgac
+            cccatgaacaacaaggacgtcaagaagtctcacgggaaaatgtggtcctacggcttctac
+            ctaattcaccttcaaggaaagcagggcttccagtttttctgcaaaacagaagatatgaag
+            aggaagtggatggagcagtttgagatggccatgtcaaacatcaagccagacaaagccaat
+            gccaaccaccacagtttccagatgtacacgtttgacaagaccaccaactgcaaagcctgc
+            aaaatgttcctcaggggcaccttctaccagggatacatgtgtaccaagtgtggcgtcggg
+            gcacacaaggagtgcctggaagtgatacctccctgcaagttcacttctcctgcagatctg
+            gacgcctccggagcgggaccaggtcccaagatggtggccatgcagaattaccatggcaac
+            ccagcccctcccgggaagcctgtgctgaccttccagacgggcgacgtgcttgagctgctg
+            aggggcgaccctgagtctccgtggtgggagggtcgtctggtacaaaccaggaagtcaggg
+            tatttccccagctcatctgtgaagccctgccctgtggatggaaggccgcccatcagccgg
+            ccgccatcccgggagatcgactacactgcatacccctggtttgcaggtaacatggagagg
+            cagcagacggacaacctgctcaagtcccacgccagcgggacctacctgatcagggagcgg
+            cctgccgaggctgagcgctttgcaataagcatcaagttcaatgatgaggtgaagcacatc
+            aaggtggtggagaaggacaactggatccacatcacagaggccaagaaattcgacagcctc
+            ctggagttggtggagtactaccagtgccactcactgaaggagagcttcaagcagctggac
+            accacactcaagtacccctacaagtcccgggaacgttcggcctccagggcctccagccgg
+            tccccagcttcctgtgcttcctacaacttttcttttctcagtcctcagggcctcagcttt
+            gcttctcagggcccctccgctcccttctggtcagtgttcacgccccgcgtcatcggcaca
+            gctgtggccaggtataactttgccgcccgagatatgagggagctttcgctgcgggagggt
+            gacgtggtgaggatctacagccgcatcggcggagaccagggctggtggaagggcgagacc
+            aacggacggattggctggtttccttcaacgtacgtagaagaggagggcatccagtga
+///

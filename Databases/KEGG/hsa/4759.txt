@@ -1,0 +1,63 @@
+ENTRY       4759              CDS       T01001
+NAME        NEU2, SIAL2
+DEFINITION  (RefSeq) neuraminidase 2
+ORTHOLOGY   K12357  sialidase-2/3/4 [EC:3.2.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00511  Other glycan degradation
+            hsa00600  Sphingolipid metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                4759 (NEU2)
+              Glycan biosynthesis and metabolism
+               00511 Other glycan degradation
+                4759 (NEU2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.18  exo-alpha-sialidase
+                 4759 (NEU2)
+POSITION    2q37.1
+MOTIF       Pfam: BNR_2 BNR_3 BNR
+DBLINKS     NCBI-GeneID: 4759
+            NCBI-ProteinID: NP_005374
+            OMIM: 605528
+            HGNC: 7759
+            Ensembl: ENSG00000115488
+            Vega: OTTHUMG00000133274
+            Pharos: Q9Y3R4(Tbio)
+            UniProt: Q9Y3R4
+STRUCTURE   PDB: 1SO7 2F26 2F28 1SNT 2F24 2F25 2F27 4NCS 2F13 2F12 4NC5
+                 2F11 2F0Z 1VCU 2F10 2F29
+AASEQ       380
+            MASLPVLQKESVFQSGAHAYRIPALLYLPGQQSLLAFAEQRASKKDEHAELIVLRRGDYD
+            APTHQVQWQAQEVVAQARLDGHRSMNPCPLYDAQTGTLFLFFIAIPGQVTEQQQLQTRAN
+            VTRLCQVTSTDHGRTWSSPRDLTDAAIGPAYREWSTFAVGPGHCLQLHDRARSLVVPAYA
+            YRKLHPIQRPIPSAFCFLSHDHGRTWARGHFVAQDTLECQVAEVETGEQRVVTLNARSHL
+            RARVQAQSTNDGLDFQESQLVKKLVEPPPQGCQGSVISFPSPRSGPGSPAQWLLYTHPTH
+            SWQRADLGAYLNPRPPAPEAWSEPVLLAKGSCAYSDLQSMGTGPDGSPLFGCLYEANDYE
+            EIVFLMFTLKQAFPAEYLPQ
+NTSEQ       1143
+            atggcgtcccttcctgtcctgcagaaggagagcgtgttccagtcgggagcccatgcctac
+            agaatccctgccctgctctacctgcctgggcagcagtccctgctggccttcgcggaacag
+            cgggcaagcaagaaggatgagcacgcagagctgattgtcctgcgcagaggagactacgac
+            gcacccacccaccaggttcagtggcaagctcaggaggtggtggcccaggcccggctggat
+            ggccaccggtccatgaacccatgccccttgtatgacgcgcagacggggaccctcttcctc
+            ttcttcattgccatccctgggcaagtcacggagcaacagcagctgcagaccagggccaat
+            gtgacgcggctgtgccaagtcaccagcactgaccacgggaggacctggagctcccccaga
+            gacctcactgatgcggccatcggcccagcctaccgggagtggtccacctttgcagtgggc
+            ccggggcattgtttgcagcttcacgacagggcccggagcctggtggtgcccgcctacgcc
+            taccggaaacttcaccccatccaaaggccgatcccctctgccttctgcttcctcagccat
+            gaccatgggcgcacgtgggcgcgagggcactttgtggcccaggacaccctggagtgccag
+            gtggccgaagtcgagactggggagcagagggtggtgaccctcaacgcgagaagccacctc
+            cgagccagggtccaggcccagagcaccaatgacgggcttgatttccaggagtctcagctg
+            gtgaagaagctggtggagccgccgccccagggctgccaggggagcgtcatcagcttcccc
+            agcccccgctcggggcctggctccccagcccagtggctgctctacactcaccccacacac
+            tcctggcagagggccgacctgggtgcctacctcaacccgcgacctccagcccctgaggcc
+            tggtcagagccggtactgctggccaagggcagctgtgcctactcagacctccagagcatg
+            ggcaccggccctgatgggtcccccttgtttgggtgtctgtacgaagccaatgattacgag
+            gagattgtctttctcatgttcaccctgaagcaagccttcccagctgagtacctgcctcag
+            tga
+///

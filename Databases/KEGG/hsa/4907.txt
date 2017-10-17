@@ -1,0 +1,85 @@
+ENTRY       4907              CDS       T01001
+NAME        NT5E, CALJA, CD73, E5NT, NT, NT5, NTE, eN, eNT
+DEFINITION  (RefSeq) 5'-nucleotidase ecto
+ORTHOLOGY   K19970  5'-nucleotidase [EC:3.1.3.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00824  Calcification of joints and arteries
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                4907 (NT5E)
+               00240 Pyrimidine metabolism
+                4907 (NT5E)
+              Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                4907 (NT5E)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.5  5'-nucleotidase
+                 4907 (NT5E)
+            CD molecules [BR:hsa04090]
+             Proteins
+              4907 (NT5E)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Enzymes
+              4907 (NT5E)
+POSITION    6q14.3
+MOTIF       Pfam: 5_nucleotid_C Metallophos PGA_cap
+DBLINKS     NCBI-GeneID: 4907
+            NCBI-ProteinID: NP_002517
+            OMIM: 129190
+            HGNC: 8021
+            Ensembl: ENSG00000135318
+            Vega: OTTHUMG00000015139
+            Pharos: P21589(Tbio)
+            UniProt: P21589 Q6NZX3
+STRUCTURE   PDB: 4H2G 4H1Y 4H2B 4H2F 4H2I 4H1S
+AASEQ       574
+            MCPRAARAPATLLLALGAVLWPAAGAWELTILHTNDVHSRLEQTSEDSSKCVNASRCMGG
+            VARLFTKVQQIRRAEPNVLLLDAGDQYQGTIWFTVYKGAEVAHFMNALRYDAMALGNHEF
+            DNGVEGLIEPLLKEAKFPILSANIKAKGPLASQISGLYLPYKVLPVGDEVVGIVGYTSKE
+            TPFLSNPGTNLVFEDEITALQPEVDKLKTLNVNKIIALGHSGFEMDKLIAQKVRGVDVVV
+            GGHSNTFLYTGNPPSKEVPAGKYPFIVTSDDGRKVPVVQAYAFGKYLGYLKIEFDERGNV
+            ISSHGNPILLNSSIPEDPSIKADINKWRIKLDNYSTQELGKTIVYLDGSSQSCRFRECNM
+            GNLICDAMINNNLRHTDEMFWNHVSMCILNGGGIRSPIDERNNGTITWENLAAVLPFGGT
+            FDLVQLKGSTLKKAFEHSVHRYGQSTGEFLQVGGIHVVYDLSRKPGDRVVKLDVLCTKCR
+            VPSYDPLKMDEVYKVILPNFLANGGDGFQMIKDELLRHDSGDQDINVVSTYISKMKVIYP
+            AVEGRIKFSTGSHCHGSFSLIFLSLWAVIFVLYQ
+NTSEQ       1725
+            atgtgtccccgagccgcgcgggcgcccgcgacgctactcctcgccctgggcgcggtgctg
+            tggcctgcggctggcgcctgggagcttacgattttgcacaccaacgacgtgcacagccgg
+            ctggagcagaccagcgaggactccagcaagtgcgtcaacgccagccgctgcatgggtggc
+            gtggctcggctcttcaccaaggttcagcagatccgccgcgccgaacccaacgtgctgctg
+            ctggacgccggcgaccagtaccagggcactatctggttcaccgtgtacaagggcgccgag
+            gtggcgcacttcatgaacgccctgcgctacgatgccatggcactgggaaatcatgaattt
+            gataatggtgtggaaggactgatcgagccactcctcaaagaggccaaatttccaattctg
+            agtgcaaacattaaagcaaaggggccactagcatctcaaatatcaggactttatttgcca
+            tataaagttcttcctgttggtgatgaagttgtgggaatcgttggatacacttccaaagaa
+            accccttttctctcaaatccagggacaaatttagtgtttgaagatgaaatcactgcatta
+            caacctgaagtagataagttaaaaactctaaatgtgaacaaaattattgcactgggacat
+            tcgggttttgaaatggataaactcatcgctcagaaagtgaggggtgtggacgtcgtggtg
+            ggaggacactccaacacatttctttacacaggcaatccaccttccaaagaggtgcctgct
+            gggaagtacccattcatagtcacttctgatgatgggcggaaggttcctgtagtccaggcc
+            tatgcttttggcaaatacctaggctatctgaagatcgagtttgatgaaagaggaaacgtc
+            atctcttcccatggaaatcccattcttctaaacagcagcattcctgaagatccaagcata
+            aaagcagacattaacaaatggaggataaaattggataattattctacccaggaattaggg
+            aaaacaattgtctatctggatggctcctctcaatcatgccgctttagagaatgcaacatg
+            ggcaacctgatttgtgatgcaatgattaacaacaacctgagacacacggatgaaatgttc
+            tggaaccacgtatccatgtgcattttaaatggaggtggtatccggtcgcccattgatgaa
+            cgcaacaatggcacaattacctgggagaacctggctgctgtattgccctttggaggcaca
+            tttgacctagtccagttaaaaggttccaccctgaagaaggcctttgagcatagcgtgcac
+            cgctacggccagtccactggagagttcctgcaggtgggcggaatccatgtggtgtatgat
+            ctttcccgaaaacctggagacagagtagtcaaattagatgttctttgcaccaagtgtcga
+            gtgcccagttatgaccctctcaaaatggacgaggtatataaggtgatcctcccaaacttc
+            ctggccaatggtggagatgggttccagatgataaaagatgaattattaagacatgactct
+            ggtgaccaagatatcaacgtggtttctacatatatctccaaaatgaaagtaatttatcca
+            gcagttgaaggtcggatcaagttttccacaggaagtcactgccatggaagcttttcttta
+            atatttctttcactttgggcagtgatctttgttttataccaatag
+///

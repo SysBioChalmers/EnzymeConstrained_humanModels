@@ -1,0 +1,98 @@
+ENTRY       4000              CDS       T01001
+NAME        LMNA, CDCD1, CDDC, CMD1A, CMT2B1, EMD2, FPL, FPLD, FPLD2, HGPS, IDC, LDP1, LFP, LGMD1B, LMN1, LMNC, LMNL1, MADA, PRO1
+DEFINITION  (RefSeq) lamin A/C
+ORTHOLOGY   K12641  lamin A/C
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04210  Apoptosis
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00264  Charcot-Marie-Tooth disease (CMT)
+            H00294  Dilated cardiomyopathy (DCM)
+            H00420  Familial partial lipodystrophy (FPL)
+            H00563  Emery-Dreifuss muscular dystrophy
+            H00590  Congenital muscular dystrophies (CMD/MDC)
+            H00593  Limb-girdle muscular dystrophy (LGMD)
+            H00601  Hutchinson-Gilford progeria syndrome
+            H00663  Restrictive dermopathy
+            H00665  Mandibuloacral dysplasia
+            H01216  Left ventricular noncompaction (LVNC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                4000 (LMNA)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                4000 (LMNA)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                4000 (LMNA)
+               05414 Dilated cardiomyopathy (DCM)
+                4000 (LMNA)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Intermediate filaments
+               Intermediate filaments
+                Type V: Nuclear lamins
+                 4000 (LMNA)
+POSITION    1q22
+MOTIF       Pfam: Filament LTD Reo_sigmaC Fez1 TPR_MLP1_2 HAUS-augmin3 IncA ATG16 CENP-F_leu_zip Tht1
+DBLINKS     NCBI-GeneID: 4000
+            NCBI-ProteinID: NP_733821
+            OMIM: 150330
+            HGNC: 6636
+            Ensembl: ENSG00000160789
+            Vega: OTTHUMG00000013961
+            Pharos: P02545(Tbio)
+            UniProt: P02545
+STRUCTURE   PDB: 1IFR 3GEF 1X8Y 2XV5 3V5B 3V4Q 3V4W 1IVT
+AASEQ       664
+            METPSQRRATRSGAQASSTPLSPTRITRLQEKEDLQELNDRLAVYIDRVRSLETENAGLR
+            LRITESEEVVSREVSGIKAAYEAELGDARKTLDSVAKERARLQLELSKVREEFKELKARN
+            TKKEGDLIAAQARLKDLEALLNSKEAALSTALSEKRTLEGELHDLRGQVAKLEAALGEAK
+            KQLQDEMLRRVDAENRLQTMKEELDFQKNIYSEELRETKRRHETRLVEIDNGKQREFESR
+            LADALQELRAQHEDQVEQYKKELEKTYSAKLDNARQSAERNSNLVGAAHEELQQSRIRID
+            SLSAQLSQLQKQLAAKEAKLRDLEDSLARERDTSRRLLAEKEREMAEMRARMQQQLDEYQ
+            ELLDIKLALDMEIHAYRKLLEGEEERLRLSPSPTSQRSRGRASSHSSQTQGGGSVTKKRK
+            LESTESRSSFSQHARTSGRVAVEEVDEEGKFVRLRNKSNEDQSMGNWQIKRQNGDDPLLT
+            YRFPPKFTLKAGQVVTIWAAGAGATHSPPTDLVWKAQNTWGCGNSLRTALINSTGEEVAM
+            RKLVRSVTVVEDDEDEDGDDLLHHHHGSHCSSSGDPAEYNLRSRTVLCGTCGQPADKASA
+            SGSGAQVGGPISSGSSASSVTVTRSYRSVGGSGGGSFGDNLVTRSYLLGNSSPRTQSPQN
+            CSIM
+NTSEQ       1995
+            atggagaccccgtcccagcggcgcgccacccgcagcggggcgcaggccagctccactccg
+            ctgtcgcccacccgcatcacccggctgcaggagaaggaggacctgcaggagctcaatgat
+            cgcttggcggtctacatcgaccgtgtgcgctcgctggaaacggagaacgcagggctgcgc
+            cttcgcatcaccgagtctgaagaggtggtcagccgcgaggtgtccggcatcaaggccgcc
+            tacgaggccgagctcggggatgcccgcaagacccttgactcagtagccaaggagcgcgcc
+            cgcctgcagctggagctgagcaaagtgcgtgaggagtttaaggagctgaaagcgcgcaat
+            accaagaaggagggtgacctgatagctgctcaggctcggctgaaggacctggaggctctg
+            ctgaactccaaggaggccgcactgagcactgctctcagtgagaagcgcacgctggagggc
+            gagctgcatgatctgcggggccaggtggccaagcttgaggcagccctaggtgaggccaag
+            aagcaacttcaggatgagatgctgcggcgggtggatgctgagaacaggctgcagaccatg
+            aaggaggaactggacttccagaagaacatctacagtgaggagctgcgtgagaccaagcgc
+            cgtcatgagacccgactggtggagattgacaatgggaagcagcgtgagtttgagagccgg
+            ctggcggatgcgctgcaggaactgcgggcccagcatgaggaccaggtggagcagtataag
+            aaggagctggagaagacttattctgccaagctggacaatgccaggcagtctgctgagagg
+            aacagcaacctggtgggggctgcccacgaggagctgcagcagtcgcgcatccgcatcgac
+            agcctctctgcccagctcagccagctccagaagcagctggcagccaaggaggcgaagctt
+            cgagacctggaggactcactggcccgtgagcgggacaccagccggcggctgctggcggaa
+            aaggagcgggagatggccgagatgcgggcaaggatgcagcagcagctggacgagtaccag
+            gagcttctggacatcaagctggccctggacatggagatccacgcctaccgcaagctcttg
+            gagggcgaggaggagaggctacgcctgtcccccagccctacctcgcagcgcagccgtggc
+            cgtgcttcctctcactcatcccagacacagggtgggggcagcgtcaccaaaaagcgcaaa
+            ctggagtccactgagagccgcagcagcttctcacagcacgcacgcactagcgggcgcgtg
+            gccgtggaggaggtggatgaggagggcaagtttgtccggctgcgcaacaagtccaatgag
+            gaccagtccatgggcaattggcagatcaagcgccagaatggagatgatcccttgctgact
+            taccggttcccaccaaagttcaccctgaaggctgggcaggtggtgacgatctgggctgca
+            ggagctggggccacccacagcccccctaccgacctggtgtggaaggcacagaacacctgg
+            ggctgcgggaacagcctgcgtacggctctcatcaactccactggggaagaagtggccatg
+            cgcaagctggtgcgctcagtgactgtggttgaggacgacgaggatgaggatggagatgac
+            ctgctccatcaccaccacggctcccactgcagcagctcgggggaccccgctgagtacaac
+            ctgcgctcgcgcaccgtgctgtgcgggacctgcgggcagcctgccgacaaggcatctgcc
+            agcggctcaggagcccaggtgggcggacccatctcctctggctcttctgcctccagtgtc
+            acggtcactcgcagctaccgcagtgtggggggcagtgggggtggcagcttcggggacaat
+            ctggtcacccgctcctacctcctgggcaactccagcccccgaacccagagcccccagaac
+            tgcagcatcatgtaa
+///

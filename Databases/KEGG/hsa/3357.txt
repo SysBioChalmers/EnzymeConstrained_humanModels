@@ -1,0 +1,101 @@
+ENTRY       3357              CDS       T01001
+NAME        HTR2B, 5-HT(2B), 5-HT-2B, 5-HT2B
+DEFINITION  (RefSeq) 5-hydroxytryptamine receptor 2B
+ORTHOLOGY   K04157  5-hydroxytryptamine receptor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04540  Gap junction
+            hsa04726  Serotonergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+DRUG_TARGET Adatanserin hydrochloride: D02767
+            Chlorpromazine (DG00867): D00270 D00789 D03274 D04034 D09819
+            Cinitapride (DG01520): D07700 D07701
+            Dimetotiazine (DG00843): D01902 D07854
+            Flibanserin: D02577
+            Glemanserin: D04320
+            Levomepromazine (DG00868): D00403 D01520 D02248
+            Lurasidone: D04820
+            Metergoline: D07218
+            Metrenperone: D05015
+            Mianserin (DG00951): D01358 D08216
+            Mirtazapine: D00563
+            Olanzapine (DG00898): D00454 D06623
+            Opipramol (DG00930): D01477 D08297
+            Pelanserin hydrochloride: D05395
+            Setiptiline (DG01231): D02034 D08511
+            Tropanserin hydrochloride: D06253
+            Vabicaserin hydrochloride: D06660
+            Xylamidine tosylate: D06343
+            Ziprasidone (DG00892): D01939 D02100 D08687
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                3357 (HTR2B)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3357 (HTR2B)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                3357 (HTR2B)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                3357 (HTR2B)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                3357 (HTR2B)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Serotonin [OT]
+                3357 (HTR2B)
+POSITION    2q37.1
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7TM_GPCR_Srv 7tm_4 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 3357
+            NCBI-ProteinID: NP_000858
+            OMIM: 601122
+            HGNC: 5294
+            Ensembl: ENSG00000135914
+            Vega: OTTHUMG00000133222
+            Pharos: P41595(Tclin)
+            UniProt: P41595
+AASEQ       481
+            MALSYRVSELQSTIPEHILQSTFVHVISSNWSGLQTESIPEEMKQIVEEQGNKLHWAALL
+            ILMVIIPTIGGNTLVILAVSLEKKLQYATNYFLMSLAVADLLVGLFVMPIALLTIMFEAM
+            WPLPLVLCPAWLFLDVLFSTASIMHLCAISVDRYIAIKKPIQANQYNSRATAFIKITVVW
+            LISIGIAIPVPIKGIETDVDNPNNITCVLTKERFGDFMLFGSLAAFFTPLAIMIVTYFLT
+            IHALQKKAYLVKNKPPQRLTWLTVSTVFQRDETPCSSPEKVAMLDGSRKDKALPNSGDET
+            LMRRTSTIGKKSVQTISNEQRASKVLGIVFFLFLLMWCPFFITNITLVLCDSCNQTTLQM
+            LLEIFVWIGYVSSGVNPLVYTLFNKTFRDAFGRYITCNYRATKSVKTLRKRSSKIYFRNP
+            MAENSKFFKKHGIRNGINPAMYQSPMRLRSSTIQSSSIILLDTLLLTENEGDKTEEQVSY
+            V
+NTSEQ       1446
+            atggctctctcttacagagtgtctgaacttcaaagcacaattcctgagcacattttgcag
+            agcacctttgttcacgttatctcttctaactggtctggattacagacagaatcaatacca
+            gaggaaatgaaacagattgttgaggaacagggaaataaactgcactgggcagctcttctg
+            atactcatggtgataatacccacaattggtggaaatacccttgttattctggctgtttca
+            ctggagaagaagctgcagtatgctactaattactttctaatgtccttggcggtggctgat
+            ttgctggttggattgtttgtgatgccaattgccctcttgacaataatgtttgaggctatg
+            tggcccctcccacttgttctatgtcctgcctggttatttcttgacgttctcttttcaacc
+            gcatccatcatgcatctctgtgccatttcagtggatcgttacatagccatcaaaaagcca
+            atccaggccaatcaatataactcacgggctacagcattcatcaagattacagtggtgtgg
+            ttaatttcaataggcattgccattccagtccctattaaagggatagagactgatgtggac
+            aacccaaacaatatcacttgtgtgctgacaaaggaacgttttggcgatttcatgctcttt
+            ggctcactggctgccttcttcacacctcttgcaattatgattgtcacctactttctcact
+            atccatgctttacagaagaaggcttacttagtcaaaaacaagccacctcaacgcctaaca
+            tggttgactgtgtctacagttttccaaagggatgaaacaccttgctcgtcaccggaaaag
+            gtggcaatgctggatggttctcgaaaggacaaggctctgcccaactcaggtgatgaaaca
+            cttatgcgaagaacatccacaattgggaaaaagtcagtgcagaccatttccaacgaacag
+            agagcctcaaaggtcctagggattgtgtttttcctctttttgcttatgtggtgtcccttc
+            tttattacaaatataactttagttttatgtgattcctgtaaccaaactactctccaaatg
+            ctcctggagatatttgtgtggataggctatgtttcctcaggagtgaatcctttggtctac
+            accctcttcaataagacatttcgggatgcatttggccgatatatcacctgcaattaccgg
+            gccacaaagtcagtaaaaactctcagaaaacgctccagtaagatctacttccggaatcca
+            atggcagagaactctaagtttttcaagaaacatggaattcgaaatgggattaaccctgcc
+            atgtaccagagtccaatgaggctccgaagttcaaccattcagtcttcatcaatcattcta
+            ctagatacgcttctcctcactgaaaatgaaggtgacaaaactgaagagcaagttagttat
+            gtatag
+///

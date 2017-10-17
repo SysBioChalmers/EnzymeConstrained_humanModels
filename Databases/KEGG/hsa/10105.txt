@@ -1,0 +1,69 @@
+ENTRY       10105             CDS       T01001
+NAME        PPIF, CYP3, CyP-M, Cyp-D, CypD
+DEFINITION  (RefSeq) peptidylprolyl isomerase F
+ORTHOLOGY   K09565  peptidyl-prolyl isomerase F (cyclophilin D) [EC:5.2.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+            hsa05145  Toxoplasmosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                10105 (PPIF)
+               04022 cGMP - PKG signaling pathway
+                10105 (PPIF)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                10105 (PPIF)
+               05016 Huntington's disease
+                10105 (PPIF)
+              Infectious diseases
+               05145 Toxoplasmosis
+                10105 (PPIF)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 10105 (PPIF)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                10105 (PPIF)
+POSITION    10q22.3
+MOTIF       Pfam: Pro_isomerase
+DBLINKS     NCBI-GeneID: 10105
+            NCBI-ProteinID: NP_005720
+            OMIM: 604486
+            HGNC: 9259
+            Ensembl: ENSG00000108179
+            Vega: OTTHUMG00000018562
+            Pharos: P30405(Tchem)
+            UniProt: P30405 A0A024QZS4
+STRUCTURE   PDB: 4O8H 2Z6W 3RCG 4J5E 4J5C 3R4G 3RDA 3R59 3RCF 5A0E 3RCK
+                 4J58 4J5D 3R54 5CBU 3RD9 3R56 3RCI 5CBT 4ZSD 4O8I 4ZSC
+                 3QYU 3RDB 4J5A 3RCL 3R57 2BIT 2BIU 3R49 5CCN 5CCQ 5CBV
+                 5CBW 5CCR 4J59 3RDC 4J5B 5CCS 4XNC
+AASEQ       207
+            MLALRCGSRWLGLLSVPRSVPLRLPAARACSKGSGDPSSSSSSGNPLVYLDVDANGKPLG
+            RVVLELKADVVPKTAENFRALCTGEKGFGYKGSTFHRVIPSFMCQAGDFTNHNGTGGKSI
+            YGSRFPDENFTLKHVGPGVLSMANAGPNTNGSQFFICTIKTDWLDGKHVVFGHVKEGMDV
+            VKKIESFGSKSGRTSKKIVITDCGQLS
+NTSEQ       624
+            atgctggcgctgcgctgcggctcccgctggctcggcctgctctccgtcccgcgctccgtg
+            ccgctgcgcctccccgcggcccgcgcctgcagcaagggctccggcgacccgtcctcttcc
+            tcctcctccgggaacccgctcgtgtacctggacgtggacgccaacgggaagccgctcggc
+            cgcgtggtgctggagctgaaggcagatgtcgtcccaaagacagctgagaacttcagagcc
+            ctgtgcactggtgagaagggcttcggctacaaaggctccaccttccacagggtgatccct
+            tccttcatgtgccaggcgggcgacttcaccaaccacaatggcacaggcgggaagtccatc
+            tacggaagccgctttcctgacgagaactttacactgaagcacgtggggccaggtgtcctg
+            tccatggctaatgctggtcctaacaccaacggctcccagttcttcatctgcaccataaag
+            acagactggttggatggcaagcatgttgtgttcggtcacgtcaaagagggcatggacgtc
+            gtgaagaaaatagaatctttcggctctaagagtgggaggacatccaagaagattgtcatc
+            acagactgtggccagttgagctaa
+///

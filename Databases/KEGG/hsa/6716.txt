@@ -1,0 +1,61 @@
+ENTRY       6716              CDS       T01001
+NAME        SRD5A2
+DEFINITION  (RefSeq) steroid 5 alpha-reductase 2
+ORTHOLOGY   K12344  3-oxo-5-alpha-steroid 4-dehydrogenase 2 [EC:1.3.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa05215  Prostate cancer
+DISEASE     H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+DRUG_TARGET Alfatradiol: D07121
+            Dutasteride: D03820
+            Epristeride: D01134
+            Estramustine (DG00724): D02398 D04066 D06397
+            Finasteride: D00321
+            Idronoxil: D04498
+            Izonsteride: D04646
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                6716 (SRD5A2)
+             Human Diseases
+              Cancers
+               05215 Prostate cancer
+                6716 (SRD5A2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.22  3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)
+                 6716 (SRD5A2)
+POSITION    2p23.1
+MOTIF       Pfam: Steroid_dh DUF1295
+DBLINKS     NCBI-GeneID: 6716
+            NCBI-ProteinID: NP_000339
+            OMIM: 607306
+            HGNC: 11285
+            Ensembl: ENSG00000277893
+            Vega: OTTHUMG00000152057
+            Pharos: P31213(Tclin)
+            UniProt: P31213
+AASEQ       254
+            MQVQCQQSPVLAGSATLVALGALALYVAKPSGYGKHTESLKPAATRLPARAAWFLQELPS
+            FAVPAGILARQPLSLFGPPGTVLLGLFCLHYFHRTFVYSLLNRGRPYPAILILRGTAFCT
+            GNGVLQGYYLIYCAEYPDGWYTDIRFSLGVFLFILGMGINIHSDYILRQLRKPGEISYRI
+            PQGGLFTYVSGANFLGEIIEWIGYALATWSLPALAFAFFSLCFLGLRAFHHHRFYLKMFE
+            DYPKSRKALIPFIF
+NTSEQ       765
+            atgcaggttcagtgccagcagagcccagtgctggcaggcagcgccactttggtcgccctt
+            ggggcactggccttgtacgtcgcgaagccctccggctacgggaagcacacggagagcctg
+            aagccggcggctacccgcctgccagcccgcgccgcctggttcctgcaggagctgccttcc
+            ttcgcggtgcccgcggggatcctcgcccggcagcccctctccctcttcgggccacctggg
+            acggtacttctgggcctcttctgcctacattacttccacaggacatttgtgtactcactg
+            ctcaatcgagggaggccttatccagctatactcattctcagaggcactgccttctgcact
+            ggaaatggagtccttcaaggctactatctgatttactgtgctgaataccctgatgggtgg
+            tacacagacatacggtttagcttgggtgtcttcttatttattttgggaatgggaataaac
+            attcatagtgactatatattgcgccagctcaggaagcctggagaaatcagctacaggatt
+            ccacaaggtggcttgtttacgtatgtttctggagccaatttcctcggtgagatcattgaa
+            tggatcggctatgccctggccacttggtccctcccagcacttgcatttgcatttttctca
+            ctttgtttccttgggctgcgagcttttcaccaccataggttctacctcaagatgtttgag
+            gactaccccaaatctcggaaagcccttattccattcatcttttaa
+///

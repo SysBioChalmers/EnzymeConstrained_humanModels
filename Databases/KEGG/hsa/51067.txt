@@ -1,0 +1,81 @@
+ENTRY       51067             CDS       T01001
+NAME        YARS2, CGI-04, MLASA2, MT-TYRRS, TYRRS
+DEFINITION  (RefSeq) tyrosyl-tRNA synthetase 2
+ORTHOLOGY   K01866  tyrosyl-tRNA synthetase [EC:6.1.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+DISEASE     H00898  Myopathy with lactic acidosis and sideroblastic anaemia (MLASA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                51067 (YARS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.1  tyrosine---tRNA ligase
+                 51067 (YARS2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class I (G)
+               51067 (YARS2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                51067 (YARS2)
+             Prokaryotic Type
+                51067 (YARS2)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                51067 (YARS2)
+POSITION    12p11.21
+MOTIF       Pfam: tRNA-synt_1b S4
+DBLINKS     NCBI-GeneID: 51067
+            NCBI-ProteinID: NP_001035526
+            OMIM: 610957
+            HGNC: 24249
+            Ensembl: ENSG00000139131
+            Vega: OTTHUMG00000169454
+            Pharos: Q9Y2Z4(Tbio)
+            UniProt: Q9Y2Z4
+STRUCTURE   PDB: 2PID 3ZXI
+AASEQ       477
+            MAAPILRSFSWGRWSGTLNLSVLLPLGLRKAHSGAQGLLAAQKARGLFKDFFPETGTKIE
+            LPELFDRGTASFPQTIYCGFDPTADSLHVGHLLALLGLFHLQRAGHNVIALVGGATARLG
+            DPSGRTKEREALETERVRANARALRLGLEALAANHQQLFTDGRSWGSFTVLDNSAWYQKQ
+            HLVDFLAAVGGHFRMGTLLSRQSVQLRLKSPEGMSLAEFFYQVLQAYDFYYLFQRYGCRV
+            QLGGSDQLGNIMSGYEFINKLTGEDVFGITVPLITSTTGAKLGKSAGNAVWLNRDKTSPF
+            ELYQFFVRQPDDSVERYLKLFTFLPLPEIDHIMQLHVKEPERRGPQKRLAAEVTKLVHGR
+            EGLDSAKRCTQALYHSSIDALEVMSDQELKELFKEAPFSEFFLDPGTSVLDTCRKANAIP
+            DGPRGYRMITEGGVSINHQQVTNPESVLIVGQHILKNGLSLLKIGKRNFYIIKWLQL
+NTSEQ       1434
+            atggcggcgcccatcttgcggtccttttcctggggccggtggtctggtaccctaaatctc
+            tcagtattgttgcccttggggctgcgtaaggcccactcgggcgctcaggggttactggca
+            gcgcagaaggctcgaggtctgttcaaggacttcttcccggagacggggacgaaaatagag
+            ctcccagagctcttcgaccgtggcacggcgagttttccccaaaccatttactgtggcttc
+            gaccccacggcagactcgcttcatgtgggtcatctacttgcgctgctgggcctgtttcat
+            ttgcagcgagcgggccacaacgtgatcgcgctggtgggaggcgccacggcgcgcctggga
+            gacccgagcggccgtaccaaggaacgcgaggcgctggagacagagcgcgtgcgagccaac
+            gcgcgagctctgcgcctagggcttgaggccctggcggctaatcaccagcagcttttcact
+            gatgggcgctcctggggcagcttcactgtgctggacaactcggcctggtaccagaagcag
+            cacctggtggacttcctggcggcagtggggggtcacttccgcatggggacgctgctgagc
+            cggcagagcgtgcagctgcggctcaagagccccgagggcatgagcttggccgagttcttt
+            taccaggtgctccaggcctatgacttctattacctcttccagcgttatggatgcagggtc
+            cagctgggcggatctgatcaactaggcaacatcatgtccggatatgagttcatcaacaag
+            ttgactggagaagatgtatttggaatcaccgttcctctaattacaagtacaactggagca
+            aagctgggaaagtctgctggcaacgctgtttggctaaacagagataagacatctccattt
+            gaattgtatcaattctttgtcaggcaaccggacgattcagtggaaaggtacctgaagctg
+            ttcactttcctgccccttccagagattgatcatatcatgcagctgcatgtcaaagagcca
+            gaaaggcggggtcctcagaaacgactggcagcagaagtaacaaagcttgttcatggacga
+            gaaggattggattctgctaaaaggtgtacacaagccctttatcacagtagcatagatgca
+            ctggaggtcatgtctgatcaggagttaaaagagttgtttaaagaagctccattttctgaa
+            ttttttctcgatcctggaacaagtgtcctagatacttgccgcaaagcaaatgccattcca
+            gatggtccccgagggtatcgaatgataacagaaggcggagtcagcataaatcaccaacaa
+            gtaacaaatcctgagagtgttttaattgttggacaacatattctcaagaatggactttcc
+            ttacttaaaataggaaaaagaaatttctacattataaaatggcttcagttgtga
+///

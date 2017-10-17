@@ -1,0 +1,88 @@
+ENTRY       991               CDS       T01001
+NAME        CDC20, CDC20A, bA276H19.3, p55CDC
+DEFINITION  (RefSeq) cell division cycle 20
+ORTHOLOGY   K03363  cell division cycle 20, cofactor of APC complex
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa05166  HTLV-I infection
+            hsa05203  Viral carcinogenesis
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                991 (CDC20)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                991 (CDC20)
+               04114 Oocyte meiosis
+                991 (CDC20)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                991 (CDC20)
+              Infectious diseases
+               05166 HTLV-I infection
+                991 (CDC20)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Target recognizing subunit
+                 991 (CDC20)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                991 (CDC20)
+POSITION    1p34.2
+MOTIF       Pfam: WD40 ANAPC4_WD40 eIF2A Ge1_WD40 ELYS-bb
+DBLINKS     NCBI-GeneID: 991
+            NCBI-ProteinID: NP_001246
+            OMIM: 603618
+            HGNC: 1723
+            Ensembl: ENSG00000117399
+            Vega: OTTHUMG00000007420
+            Pharos: Q12834(Tbio)
+            UniProt: Q12834
+STRUCTURE   PDB: 4GGC 4GGA 4N14 4GGD 5LCW 5G04 5KHU 5KHR
+AASEQ       499
+            MAQFAFESDLHSLLQLDAPIPNAPPARWQRKAKEAAGPAPSPMRAANRSHSAGRTPGRTP
+            GKSSSKVQTTPSKPGGDRYIPHRSAAQMEVASFLLSKENQPENSQTPTKKEHQKAWALNL
+            NGFDVEEAKILRLSGKPQNAPEGYQNRLKVLYSQKATPGSSRKTCRYIPSLPDRILDAPE
+            IRNDYYLNLVDWSSGNVLAVALDNSVYLWSASSGDILQLLQMEQPGEYISSVAWIKEGNY
+            LAVGTSSAEVQLWDVQQQKRLRNMTSHSARVGSLSWNSYILSSGSRSGHIHHHDVRVAEH
+            HVATLSGHSQEVCGLRWAPDGRHLASGGNDNLVNVWPSAPGEGGWVPLQTFTQHQGAVKA
+            VAWCPWQSNVLATGGGTSDRHIRIWNVCSGACLSAVDAHSQVCSILWSPHYKELISGHGF
+            AQNQLVIWKYPTMAKVAELKGHTSRVLSLTMSPDGATVASAAADETLRLWRCFELDPARR
+            REREKASAAKSSLIHQGIR
+NTSEQ       1500
+            atggcacagttcgcgttcgagagtgacctgcactcgctgcttcagctggatgcacccatc
+            cccaatgcaccccctgcgcgctggcagcgcaaagccaaggaagccgcaggcccggccccc
+            tcacccatgcgggccgccaaccgatcccacagcgccggcaggactccgggccgaactcct
+            ggcaaatccagttccaaggttcagaccactcctagcaaacctggcggtgaccgctatatc
+            ccccatcgcagtgctgcccagatggaggtggccagcttcctcctgagcaaggagaaccag
+            cctgaaaacagccagacgcccaccaagaaggaacatcagaaagcctgggctttgaacctg
+            aacggttttgatgtagaggaagccaagatccttcggctcagtggaaaaccacaaaatgcg
+            ccagagggttatcagaacagactgaaagtactctacagccaaaaggccactcctggctcc
+            agccggaagacctgccgttacattccttccctgccagaccgtatcctggatgcgcctgaa
+            atccgaaatgactattacctgaaccttgtggattggagttctgggaatgtactggccgtg
+            gcactggacaacagtgtgtacctgtggagtgcaagctctggtgacatcctgcagcttttg
+            caaatggagcagcctggggaatatatatcctctgtggcctggatcaaagagggcaactac
+            ttggctgtgggcaccagcagtgctgaggtgcagctatgggatgtgcagcagcagaaacgg
+            cttcgaaatatgaccagtcactctgcccgagtgggctccctaagctggaacagctatatc
+            ctgtccagtggttcacgttctggccacatccaccaccatgatgttcgggtagcagaacac
+            catgtggccacactgagtggccacagccaggaagtgtgtgggctgcgctgggccccagat
+            ggacgacatttggccagtggtggtaatgataacttggtcaatgtgtggcctagtgctcct
+            ggagagggtggctgggttcctctgcagacattcacccagcatcaaggggctgtcaaggcc
+            gtagcatggtgtccctggcagtccaatgtcctggcaacaggagggggcaccagtgatcga
+            cacattcgcatctggaatgtgtgctctggggcctgtctgagtgccgtggatgcccattcc
+            caggtgtgctccatcctctggtctccccattacaaggagctcatctcaggccatggcttt
+            gcacagaaccagctagttatttggaagtacccaaccatggccaaggtggctgaactcaaa
+            ggtcacacatcccgggtcctgagtctgaccatgagcccagatggggccacagtggcatcc
+            gcagcagcagatgagaccctgaggctatggcgctgttttgagttggaccctgcgcggcgg
+            cgggagcgggagaaggccagtgcagccaaaagcagcctcatccaccaaggcatccgctga
+///

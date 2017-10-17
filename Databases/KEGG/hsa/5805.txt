@@ -1,0 +1,53 @@
+ENTRY       5805              CDS       T01001
+NAME        PTS, PTPS
+DEFINITION  (RefSeq) 6-pyruvoyltetrahydropterin synthase
+ORTHOLOGY   K01737  6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+DISEASE     H00167  Phenylketonuria (PKU)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                5805 (PTS)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.2  Aldehyde-lyases
+                4.1.2.50  6-carboxytetrahydropterin synthase
+                 5805 (PTS)
+              4.2  Carbon-oxygen lyases
+               4.2.3  Acting on phosphates
+                4.2.3.12  6-pyruvoyltetrahydropterin synthase
+                 5805 (PTS)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Prokaryotic Type
+              tRNA modification factors
+               Other tRNA modification factors
+                5805 (PTS)
+POSITION    11q23.1
+MOTIF       Pfam: PTPS
+DBLINKS     NCBI-GeneID: 5805
+            NCBI-ProteinID: NP_000308
+            OMIM: 612719
+            HGNC: 9689
+            Ensembl: ENSG00000150787
+            Vega: OTTHUMG00000167167
+            Pharos: Q03393(Tbio)
+            UniProt: Q03393
+STRUCTURE   PDB: 3I2B
+AASEQ       145
+            MSTEGGGRRCQAQVSRRISFSASHRLYSKFLSDEENLKLFGKCNNPNGHGHNYKVVVTVH
+            GEIDPATGMVMNLADLKKYMEEAIMQPLDHKNLDMDVPYFADVVSTTENVAVYIWDNLQK
+            VLPVGVLYKVKVYETDNNIVVYKGE
+NTSEQ       438
+            atgagcacggaaggtggtggccgtcgctgccaggcacaagtgtcccgccgcatctccttc
+            agcgcgagccaccgattgtacagtaaatttctaagtgatgaagaaaacttgaaactgttt
+            gggaaatgcaacaatccaaatggccatgggcacaattataaagttgtggtgacagtacat
+            ggagagattgaccctgctacgggaatggttatgaatctggctgatctcaaaaaatatatg
+            gaggaggcgattatgcagccccttgatcataagaatctggatatggatgtgccatacttt
+            gcagatgtggtgagcacgactgaaaatgtagctgtttatatctgggacaacctccagaaa
+            gttcttcctgtaggagttctttataaagtaaaagtatacgaaactgacaataatattgtg
+            gtttataaaggagaatag
+///

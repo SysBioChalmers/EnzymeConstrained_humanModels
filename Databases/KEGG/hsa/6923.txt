@@ -1,0 +1,65 @@
+ENTRY       6923              CDS       T01001
+NAME        ELOB, SIII, TCEB2
+DEFINITION  (RefSeq) elongin B
+ORTHOLOGY   K03873  transcription elongation factor B, polypeptide 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04066  HIF-1 signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa05200  Pathways in cancer
+            hsa05211  Renal cell carcinoma
+MODULE      hsa_M00383  ECV complex
+            hsa_M00388  ECS complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                6923 (ELOB)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                6923 (ELOB)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6923 (ELOB)
+               05211 Renal cell carcinoma
+                6923 (ELOB)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               ECV complex
+                Adoptor protein
+                 6923 (ELOB)
+               ECS complex
+                 6923 (ELOB)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                Other NER factors
+                 6923 (ELOB)
+POSITION    16p13.3
+MOTIF       Pfam: ubiquitin Rad60-SLD
+DBLINKS     NCBI-GeneID: 6923
+            NCBI-ProteinID: NP_009039
+            OMIM: 600787
+            HGNC: 11619
+            Ensembl: ENSG00000103363
+            Vega: OTTHUMG00000154125
+            Pharos: Q15370(Tbio)
+            UniProt: Q15370
+STRUCTURE   PDB: 4AJY 1LM8 4B9K 1LQB 4W9F 4W9H 4W9K 4W9C 4W9D 4W9J 4W9L
+                 4BKS 4BKT 5LLI 4W9I 3DCG 4AWJ 3ZUN 2IZV 3ZKJ 4W9E 3ZTC
+                 5T35 4W9G 1VCB 3ZTD 4B95 3ZRF 3ZNG 5BO4 3ZRC 4WQO 4N9F
+                 5N4W 2MA9 2JZ3 2C9W
+AASEQ       118
+            MDVFLMIRRHKTTIFTDAKESSTVFELKRIVEGILKRPPDEQRLYKDDQLLDDGKTLGEC
+            GFTSQTARPQAPATVGLAFRADDTFEALCIEPFSSPPELPDVMKPQDSGSSANEQAVQ
+NTSEQ       357
+            atggacgtgttcctcatgatccggcgccacaagaccaccatcttcacggacgccaaggag
+            tccagcacggtgttcgaactgaagcgcatcgtcgagggcatcctcaagcggcctcctgac
+            gagcagcggctgtacaaggatgaccaactcttggatgatggcaagacactgggcgagtgt
+            ggcttcaccagtcaaacagcacggccacaggccccagccacagtggggctggccttccgg
+            gcagatgacacctttgaggccctgtgcatcgagccgttttccagcccgccagagctgccc
+            gatgtgatgaagccccaggactcgggaagcagtgccaatgaacaagccgtgcagtga
+///

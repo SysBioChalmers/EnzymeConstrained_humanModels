@@ -1,0 +1,56 @@
+ENTRY       2531              CDS       T01001
+NAME        KDSR, DHSR, EKVP4, FVT1, SDR35C1
+DEFINITION  (RefSeq) 3-ketodihydrosphingosine reductase
+ORTHOLOGY   K04708  3-dehydrosphinganine reductase [EC:1.1.1.102]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00094  Ceramide biosynthesis
+            hsa_M00099  Sphingosine biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                2531 (KDSR)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.102  3-dehydrosphinganine reductase
+                 2531 (KDSR)
+POSITION    18q21.33
+MOTIF       Pfam: adh_short adh_short_C2 KR NAD_binding_10 Polysacc_synt_2 THF_DHG_CYH_C ATP_bind_2 TPD52 ADH_zinc_N ApbA 7kD_coat
+DBLINKS     NCBI-GeneID: 2531
+            NCBI-ProteinID: NP_002026
+            OMIM: 136440
+            HGNC: 4021
+            Ensembl: ENSG00000119537
+            Vega: OTTHUMG00000132792
+            Pharos: Q06136(Tbio)
+            UniProt: Q06136 A0A024R292
+AASEQ       332
+            MLLLAAAFLVAFVLLLYMVSPLISPKPLALPGAHVVVTGGSSGIGKCIAIECYKQGAFIT
+            LVARNEDKLLQAKKEIEMHSINDKQVVLCISVDVSQDYNQVENVIKQAQEKLGPVDMLVN
+            CAGMAVSGKFEDLEVSTFERLMSINYLGSVYPSRAVITTMKERRVGRIVFVSSQAGQLGL
+            FGFTAYSASKFAIRGLAEALQMEVKPYNVYITVAYPPDTDTPGFAEENRTKPLETRLISE
+            TTSVCKPEQVAKQIVKDAIQGNFNSSLGSDGYMLSALTCGMAPVTSITEGLQQVVTMGLF
+            RTIALFYLGSFDSIVRRCMMQREKSENADKTA
+NTSEQ       999
+            atgctgctgctggctgccgccttcctcgtggccttcgtgctgctgctgtacatggtgtct
+            ccgctcatcagccccaagcccctcgccctgcccggggcgcatgtggtggttacaggaggt
+            tccagtggcatcgggaagtgcattgctatcgagtgctataaacaaggagcttttataact
+            ctggttgcacgaaatgaggataagctgctgcaggcaaagaaagaaattgaaatgcactct
+            attaatgacaaacaggtggtgctttgcatatcagttgatgtatctcaagactataaccaa
+            gtagagaatgtcataaaacaagcacaggagaaactgggtccagtggacatgctggtaaat
+            tgtgcaggaatggcagtgtcaggaaaatttgaagatcttgaagttagtacctttgaaagg
+            ttaatgagcatcaattacctgggcagcgtgtaccccagccgggccgtgatcaccaccatg
+            aaggagcgccgggtgggcaggatcgtgtttgtgtcctcccaggcaggacagttgggatta
+            ttcggtttcacagcctactctgcatccaagtttgccataaggggattggcagaagctttg
+            cagatggaggtgaagccatataatgtctacatcacagttgcttacccaccagacacagac
+            acacctggctttgccgaagaaaacagaacaaagcctttggagactcgacttatttcagag
+            accacatctgtgtgcaaaccagaacaggtggccaaacaaattgttaaagatgccatacaa
+            ggaaatttcaacagttcccttggctcagatgggtacatgctctcggccctgacctgtggg
+            atggctccagtaacttctattactgaggggctccagcaggtggtcaccatgggccttttc
+            cgcactattgctttgttttaccttggaagttttgacagcatagttcgtcgctgcatgatg
+            cagagagaaaaatctgaaaatgcagacaaaactgcctaa
+///

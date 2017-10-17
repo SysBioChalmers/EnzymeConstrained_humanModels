@@ -1,0 +1,93 @@
+ENTRY       5565              CDS       T01001
+NAME        PRKAB2
+DEFINITION  (RefSeq) protein kinase AMP-activated non-catalytic subunit beta 2
+ORTHOLOGY   K07199  5'-AMP-activated protein kinase, regulatory beta subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04371  Apelin signaling pathway
+            hsa04530  Tight junction
+            hsa04710  Circadian rhythm
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                5565 (PRKAB2)
+               04068 FoxO signaling pathway
+                5565 (PRKAB2)
+               04152 AMPK signaling pathway
+                5565 (PRKAB2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                5565 (PRKAB2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5565 (PRKAB2)
+               04922 Glucagon signaling pathway
+                5565 (PRKAB2)
+               04920 Adipocytokine signaling pathway
+                5565 (PRKAB2)
+               04921 Oxytocin signaling pathway
+                5565 (PRKAB2)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                5565 (PRKAB2)
+               04213 Longevity regulating pathway - multiple species
+                5565 (PRKAB2)
+              Environmental adaptation
+               04710 Circadian rhythm
+                5565 (PRKAB2)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                5565 (PRKAB2)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                5565 (PRKAB2)
+               04931 Insulin resistance
+                5565 (PRKAB2)
+POSITION    1q21.1
+MOTIF       Pfam: AMPK1_CBM AMPKBI CBM_48
+DBLINKS     NCBI-GeneID: 5565
+            NCBI-ProteinID: NP_005390
+            OMIM: 602741
+            HGNC: 9379
+            Ensembl: ENSG00000131791
+            Vega: OTTHUMG00000014032
+            Pharos: O43741(Tbio)
+            UniProt: O43741
+STRUCTURE   PDB: 2F15 2V8Q 4EAI 2V92 2YA3 2Y8L 2V9J 4EAJ 2Y8Q 4CFH 4RER
+                 4REW
+AASEQ       272
+            MGNTTSDRVSGERHGAKAARSEGAGGHAPGKEHKIMVGSTDDPSVFSLPDSKLPGDKEFV
+            SWQQDLEDSVKPTQQARPTVIRWSEGGKEVFISGSFNNWSTKIPLIKSHNDFVAILDLPE
+            GEHQYKFFVDGQWVHDPSEPVVTSQLGTINNLIHVKKSDFEVFDALKLDSMESSETSCRD
+            LSSSPPGPYGQEMYAFRSEERFKSPPILPPHLLQVILNKDTNISCDPALLPEPNHVMLNH
+            LYALSIKDSVMVLSATHRYKKKYVTTLLYKPI
+NTSEQ       819
+            atgggaaacaccaccagcgaccgggtgtccggggagcgccacggcgccaaggctgcacgc
+            tccgagggcgcaggcggccatgccccggggaaggagcacaagatcatggtggggagtacg
+            gacgaccccagcgtgttcagcctccctgactccaagctccctggggacaaagagtttgta
+            tcatggcagcaggatttggaggactccgtaaagcccacacagcaggcccggcccactgtt
+            atccgctggtctgaaggaggcaaggaggtcttcatctctgggtccttcaacaattggagc
+            accaagattccactgattaagagccataatgactttgttgccatcctggacctccctgag
+            ggagagcaccaatacaagttctttgtggatggacagtgggttcatgatccatcagagcct
+            gtggttaccagtcagcttggcacaattaacaatttgatccatgtcaagaaatctgatttt
+            gaggtgttcgatgctttaaagttagattctatggaaagttctgagacatcttgtagagac
+            ctttccagctcacccccagggccttatggtcaagaaatgtatgcgtttcgatctgaggaa
+            agattcaaatccccacccatccttcctcctcatctacttcaagttattcttaacaaagac
+            actaatatttcttgtgacccagccttactccctgagcccaaccatgttatgctgaaccat
+            ctctatgcattgtccattaaggacagtgtgatggtccttagcgcaacccatcgctacaag
+            aagaagtatgttactactctgctatacaagcccatttga
+///

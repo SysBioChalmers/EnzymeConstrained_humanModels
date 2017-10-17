@@ -1,0 +1,86 @@
+ENTRY       4849              CDS       T01001
+NAME        CNOT3, LENG2, NOT3, NOT3H
+DEFINITION  (RefSeq) CCR4-NOT transcription complex subunit 3
+ORTHOLOGY   K12580  CCR4-NOT transcription complex subunit 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                4849 (CNOT3)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 4849 (CNOT3)
+              mRNA degradation factors
+               3'-5' decay
+                Ccr4-NOT complex
+                 4849 (CNOT3)
+POSITION    19q13.42
+MOTIF       Pfam: Not3 NOT2_3_5 ZnuA
+DBLINKS     NCBI-GeneID: 4849
+            NCBI-ProteinID: NP_055331
+            OMIM: 604910
+            HGNC: 7879
+            Ensembl: ENSG00000088038
+            Vega: OTTHUMG00000066468
+            Pharos: O75175(Tbio)
+            UniProt: O75175 A0A024R4R3
+STRUCTURE   PDB: 4C0G 5FU6 5FU7 4C0D
+AASEQ       753
+            MADKRKLQGEIDRCLKKVSEGVEQFEDIWQKLHNAANANQKEKYEADLKKEIKKLQRLRD
+            QIKTWVASNEIKDKRQLIDNRKLIETQMERFKVVERETKTKAYSKEGLGLAQKVDPAQKE
+            KEEVGQWLTNTIDTLNMQVDQFESEVESLSVQTRKKKGDKDKQDRIEGLKRHIEKHRYHV
+            RMLETILRMLDNDSILVDAIRKIKDDVEYYVDSSQDPDFEENEFLYDDLDLEDIPQALVA
+            TSPPSHSHMEDEIFNQSSSTPTSTTSSSPIPPSPANCTTENSEDDKKRGRSTDSEVSQSP
+            AKNGSKPVHSNQHPQSPAVPPTYPSGPPPAASALSTTPGNNGVPAPAAPPSALGPKASPA
+            PSHNSGTPAPYAQAVAPPAPSGPSTTQPRPPSVQPSGGGGGGSGGGGSSSSSNSSAGGGA
+            GKQNGATSYSSVVADSPAEVALSSSGGNNASSQALGPPSGPHNPPPSTSKEPSAAAPTGA
+            GGVAPGSGNNSGGPSLLVPLPVNPPSSPTPSFSDAKAAGALLNGPPQFSTAPEIKAPEPL
+            SSLKSMAERAAISSGIEDPVPTLHLTERDIILSSTSAPPASAQPPLQLSEVNIPLSLGVC
+            PLGPVPLTKEQLYQQAMEEAAWHHMPHPSDSERIRQYLPRNPCPTPPYHHQMPPPHSDTV
+            EFYQRLSTETLFFIFYYLEGTKAQYLAAKALKKQSWRFHTKYMMWFQRHEEPKTITDEFE
+            QGTYIYFDYEKWGQRKKEGFTFEYRYLEDRDLQ
+NTSEQ       2262
+            atggcggacaagcgcaaactccaaggtgagattgatcgctgcctcaagaaggtgtccgag
+            ggcgtggagcagtttgaagatatttggcagaagctccacaatgcagccaacgcgaaccag
+            aaagaaaagtatgaggctgacctaaagaaggagattaagaagctacaacggctgagggac
+            caaatcaagacatgggtagcgtccaacgagatcaaggacaagaggcagcttatagacaac
+            cgcaagctcattgagacgcaaatggaacggttcaaagttgtggaacgagagaccaaaacc
+            aaagcttacagcaaagagggcctgggcctggcccagaaggtagatcctgcccagaaggag
+            aaggaagaggttggccagtggctcacgaataccatcgacacgctcaacatgcaggtggac
+            cagtttgagagtgaagtggagtcactgtcagtgcagacacgcaagaagaagggcgacaag
+            gataagcaggaccggattgagggcttgaagcggcacatcgagaagcaccgctaccacgtg
+            cgcatgctagagaccatcctgcgcatgctggacaatgactccatcctcgttgacgccatc
+            cgcaagatcaaggacgacgttgagtactatgttgactcatcccaggaccccgacttcgag
+            gagaacgagtttctctacgatgacctggacctcgaggacattccacaggcgctggtcgcc
+            acctccccccccagccacagccacatggaggatgagatcttcaaccagtccagcagcacg
+            cccacctcaaccacctccagctctcccatcccgcccagcccagccaactgtaccacggaa
+            aactctgaagatgataagaagaggggacgttccacagacagtgaagtcagccagtctcca
+            gccaaaaacggctccaagcctgtccacagcaaccagcaccctcagtccccagctgtgccg
+            cccacctacccctccggccccccgcctgctgcctctgccttgagcaccactcctggcaac
+            aatggggtccccgcccccgcagcacccccaagtgccctgggccccaaggccagtccagct
+            cccagccacaactcgggcacccctgctccctatgcccaggctgtggccccaccagctccc
+            agtgggcccagcacgacccagccccggccccccagcgtccagcctagcggaggcggaggc
+            ggcggcagcggaggtggagggagcagcagcagtagtaacagcagtgccggtggaggggct
+            ggcaagcagaatggcgccaccagttacagctcagttgtggcagacagcccggcagaggtg
+            gctttgagcagcagtgggggcaacaatgccagcagccaggccttgggccccccttccggc
+            ccccacaacccacctcccagcacctcgaaggaacccagtgcggcagccccaacgggggct
+            gggggcgtggccccaggctcagggaacaactcagggggacccagcctcctggtgccactg
+            cctgtgaatcctcccagctccccaacgcccagcttcagtgatgccaaggcagccggtgcc
+            ctgctcaatgggcctccacagttcagcaccgccccagaaatcaaggcccctgagcctctg
+            agctccttgaagtccatggcggaacgggcagccatcagctctggcattgaggaccctgtg
+            ccaacgctgcacctgaccgagcgagacatcatcctgagcagtacatcagcacctccggcc
+            tcagcccagccgcccctgcagctgtcagaggtgaacataccgctgtcgctgggtgtctgt
+            ccactgggccctgtgcccctcaccaaggagcagctctatcagcaggccatggaagaggcc
+            gcctggcaccacatgcctcacccctctgactctgagcgtattcggcagtacctcccccgg
+            aacccctgtccgacgcccccctaccaccaccagatgccacccccacactcggacactgtg
+            gaattctaccagcgcctgtcgaccgagacactcttcttcatcttctactatctggagggc
+            actaaggcacagtatctggcagccaaggccctaaagaagcagtcatggcgattccacacc
+            aagtacatgatgtggttccagaggcacgaggagcccaagaccatcactgacgagtttgag
+            cagggcacctacatctactttgactacgagaagtggggccagcggaagaaggaaggcttc
+            acctttgagtaccgctacctggaggaccgggacctccagtga
+///

@@ -1,0 +1,103 @@
+ENTRY       2159              CDS       T01001
+NAME        F10, FX, FXA
+DEFINITION  (RefSeq) coagulation factor X
+ORTHOLOGY   K01314  coagulation factor X [EC:3.4.21.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+DRUG_TARGET Antithrombin alfa: D08858
+            Apixaban: D03213
+            Betrixaban: D08873
+            Darexaban maleate: D09817
+            Edoxaban (DG01398): D09546 D09710
+            Eribaxaban: D08913
+            Fidexaban: D04183
+            Idraparinux sodium: D10471
+            Letaxaban: D09923
+            Razaxaban hydrochloride: D04029
+            Rivaroxaban: D07086
+            Tifacogin: D06142
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                2159 (F10)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.6  coagulation factor Xa
+                 2159 (F10)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               2159 (F10)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta2 integrins
+               CR3, Mac-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 2159 (F10)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Coagulation and fibrinolysis	(General comment) Coagulation, inflammation, complement control
+               2159 (F10)
+POSITION    13q34
+MOTIF       Pfam: Trypsin Gla FXa_inhibition EGF hEGF Trypsin_2 cEGF DUF1986 EGF_2 EGF_3 Fusion_gly
+DBLINKS     NCBI-GeneID: 2159
+            NCBI-ProteinID: NP_000495
+            OMIM: 613872
+            HGNC: 3528
+            Ensembl: ENSG00000126218
+            Vega: OTTHUMG00000017374
+            Pharos: P00742(Tclin)
+            UniProt: P00742 Q5JVE7
+STRUCTURE   PDB: 2JKH 2Y5F 2Y5G 2Y5H 3KL6 2PR3 3FFG 4Y6D 3CEN 2VWN 2P3U
+                 2BOK 2XBV 2XC4 2Y81 2XC5 2XBW 2VVV 2UWO 2UWP 4Y7B 4ZH8
+                 4Y71 3TK6 3IIT 2P94 1Z6E 2Y7Z 2XBX 4ZHA 2WYG 2Y7X 2Y80
+                 3M37 3K9X 2W3I 2Q1J 2P93 1G2L 2P3T 1FJS 2VVC 2VH6 1C5M
+                 2VWM 4Y7A 4Y76 3Q3K 1LPG 2J95 2J34 2XBY 2XC0 2W3K 1NFU
+                 2W26 5JZ8 4Y79 2EI8 2G00 1NFW 1NFY 1MQ5 1MQ6 1KSN 1F0R
+                 1F0S 3M36 1NFX 3HPT 5K0H 3TK5 2Y82 3KQC 3CS7 2P95 2H9E
+                 2FZZ 2D1J 1V3X 1LPK 1EZQ 1HCG 3LIW 3KQB 4BTI 3ENS 2RA0
+                 2PHB 2EI6 2EI7 2P16 1WU1 1XKA 3KQE 4BTU 2WYJ 4A7I 1LPZ
+                 1XKB 3SW2 5JZU 4BTT 1IQG 1IQM 1IQN 2BMG 1LQD 1IQL 3KQD
+                 1P0S 1IQE 1IQI 1IOE 2BQW 1IQH 1IQJ 1FAX 1G2M 2P3F 1IQF
+                 1IQK 2GD4 2VWL 2VWO 2VVU 2VH0 2UWL 2J94 2J4I 2J38 2J2U
+                 2CJI 2BQ6 2BQ7 2BOH
+AASEQ       488
+            MGRPLHLVLLSASLAGLLLLGESLFIRREQANNILARVTRANSFLEEMKKGHLERECMEE
+            TCSYEEAREVFEDSDKTNEFWNKYKDGDQCETSPCQNQGKCKDGLGEYTCTCLEGFEGKN
+            CELFTRKLCSLDNGDCDQFCHEEQNSVVCSCARGYTLADNGKACIPTGPYPCGKQTLERR
+            KRSVAQATSSSGEAPDSITWKPYDAADLDPTENPFDLLDFNQTQPERGDNNLTRIVGGQE
+            CKDGECPWQALLINEENEGFCGGTILSEFYILTAAHCLYQAKRFKVRVGDRNTEQEEGGE
+            AVHEVEVVIKHNRFTKETYDFDIAVLRLKTPITFRMNVAPACLPERDWAESTLMTQKTGI
+            VSGFGRTHEKGRQSTRLKMLEVPYVDRNSCKLSSSFIITQNMFCAGYDTKQEDACQGDSG
+            GPHVTRFKDTYFVTGIVSWGEGCARKGKYGIYTKVTAFLKWIDRSMKTRGLPKAKSHAPE
+            VITSSPLK
+NTSEQ       1467
+            atggggcgcccactgcacctcgtcctgctcagtgcctccctggctggcctcctgctgctc
+            ggggaaagtctgttcatccgcagggagcaggccaacaacatcctggcgagggtcacgagg
+            gccaattcctttcttgaagagatgaagaaaggacacctcgaaagagagtgcatggaagag
+            acctgctcatacgaagaggcccgcgaggtctttgaggacagcgacaagacgaatgaattc
+            tggaataaatacaaagatggcgaccagtgtgagaccagtccttgccagaaccagggcaaa
+            tgtaaagacggcctcggggaatacacctgcacctgtttagaaggattcgaaggcaaaaac
+            tgtgaattattcacacggaagctctgcagcctggacaacggggactgtgaccagttctgc
+            cacgaggaacagaactctgtggtgtgctcctgcgcccgcgggtacaccctggctgacaac
+            ggcaaggcctgcattcccacagggccctacccctgtgggaaacagaccctggaacgcagg
+            aagaggtcagtggcccaggccaccagcagcagcggggaggcccctgacagcatcacatgg
+            aagccatatgatgcagccgacctggaccccaccgagaaccccttcgacctgcttgacttc
+            aaccagacgcagcctgagaggggcgacaacaacctcaccaggatcgtgggaggccaggaa
+            tgcaaggacggggagtgtccctggcaggccctgctcatcaatgaggaaaacgagggtttc
+            tgtggtggaaccattctgagcgagttctacatcctaacggcagcccactgtctctaccaa
+            gccaagagattcaaggtgagggtaggggaccggaacacggagcaggaggagggcggtgag
+            gcggtgcacgaggtggaggtggtcatcaagcacaaccggttcacaaaggagacctatgac
+            ttcgacatcgccgtgctccggctcaagacccccatcaccttccgcatgaacgtggcgcct
+            gcctgcctccccgagcgtgactgggccgagtccacgctgatgacgcagaagacggggatt
+            gtgagcggcttcgggcgcacccacgagaagggccggcagtccaccaggctcaagatgctg
+            gaggtgccctacgtggaccgcaacagctgcaagctgtccagcagcttcatcatcacccag
+            aacatgttctgtgccggctacgacaccaagcaggaggatgcctgccagggggacagcggg
+            ggcccgcacgtcacccgcttcaaggacacctacttcgtgacaggcatcgtcagctgggga
+            gagggctgtgcccgtaaggggaagtacgggatctacaccaaggtcaccgccttcctcaag
+            tggatcgacaggtccatgaaaaccaggggcttgcccaaggccaagagccatgccccggag
+            gtcataacgtcctctccattaaagtga
+///

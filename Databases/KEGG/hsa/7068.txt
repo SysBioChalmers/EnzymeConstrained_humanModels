@@ -1,0 +1,81 @@
+ENTRY       7068              CDS       T01001
+NAME        THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2
+DEFINITION  (RefSeq) thyroid hormone receptor beta
+ORTHOLOGY   K08362  thyroid hormone receptor beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04919  Thyroid hormone signaling pathway
+DISEASE     H00249  Thyroid hormone resistance syndrome
+DRUG_TARGET Levothyroxine (DG00510): D08125
+            Levothyroxine sodium: D01010
+            Liothyronine (DG01372): D08128 D08129
+            Liothyronine sodium: D01011
+            Liotrix: D00361
+            Sobetirome: D09381
+            Thyroid (DG01993): D01012 D06482
+            Tiratricol: D07214
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                7068 (THRB)
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                7068 (THRB)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 thyroid hormone-like
+                7068 (THRB)
+            Nuclear receptors [BR:hsa03310]
+             1. Thyroid hormone like
+              1A. Thyroid hormone receptor (THR)
+               7068 (THRB)
+POSITION    3p24.2
+MOTIF       Pfam: zf-C4 Hormone_recep
+DBLINKS     NCBI-GeneID: 7068
+            NCBI-ProteinID: NP_000452
+            OMIM: 190160
+            HGNC: 11799
+            Ensembl: ENSG00000151090
+            Vega: OTTHUMG00000130478
+            Pharos: P10828(Tclin)
+            UniProt: P10828 F1D8N7
+STRUCTURE   PDB: 2NLL 3GWS 3D57 1N46 2PIN 1NQ2 1NQ0 3JZC 1XZX 3IMY 1NAX
+                 1Q4X 1NQ1 1R6G 1Y0X 1NUO 4ZO1 1BSX 2J4A
+AASEQ       461
+            MTPNSMTENGLTAWDKPKHCPDREHDWKLVGMSEACLHRKSHSERRSTLKNEQSSPHLIQ
+            TTWTSSIFHLDHDDVNDQSVSSAQTFQTEEKKCKGYIPSYLDKDELCVVCGDKATGYHYR
+            CITCEGCKGFFRRTIQKNLHPSYSCKYEGKCVIDKVTRNQCQECRFKKCIYVGMATDLVL
+            DDSKRLAKRKLIEENREKRRREELQKSIGHKPEPTDEEWELIKTVTEAHVATNAQGSHWK
+            QKRKFLPEDIGQAPIVNAPEGGKVDLEAFSHFTKIITPAITRVVDFAKKLPMFCELPCED
+            QIILLKGCCMEIMSLRAAVRYDPESETLTLNGEMAVTRGQLKNGGLGVVSDAIFDLGMSL
+            SSFNLDDTEVALLQAVLLMSSDRPGLACVERIEKYQDSFLLAFEHYINYRKHHVTHFWPK
+            LLMKVTDLRMIGACHASRFLHMKVECPTELFPPLFLEVFED
+NTSEQ       1386
+            atgactcccaacagtatgacagaaaatggccttacagcctgggacaaaccgaagcactgt
+            ccagaccgagaacacgactggaagctagtaggaatgtctgaagcctgcctacataggaag
+            agccattcagagaggcgcagcacgttgaaaaatgaacagtcgtcgccacatctcatccag
+            accacttggactagctcaatattccatctggaccatgatgatgtgaacgaccagagtgtc
+            tcaagtgcccagaccttccaaacggaggagaagaaatgtaaagggtacatccccagttac
+            ttagacaaggacgagctctgtgtagtgtgtggtgacaaagccaccgggtatcactaccgc
+            tgtatcacgtgtgaaggctgcaagggtttctttagaagaaccattcagaaaaatctccat
+            ccatcctattcctgtaaatatgaaggaaaatgtgtcatagacaaagtcacgcgaaatcag
+            tgccaggaatgtcgctttaagaaatgcatctatgttggcatggcaacagatttggtgctg
+            gatgacagcaagaggctggccaagaggaagctgatagaggagaaccgggagaaaagacgg
+            cgggaagagctgcagaagtccatcgggcacaagccagagcccacagacgaggaatgggag
+            ctcatcaaaactgtcaccgaagcccatgtggcgaccaacgcccaaggcagccactggaag
+            caaaaacggaaattcctgccagaagacattggacaagcaccaatagtcaatgccccagaa
+            ggtggaaaggttgacttggaagccttcagccattttacaaaaatcatcacaccagcaatt
+            accagagtggtggattttgccaaaaagttgcctatgttttgtgagctgccatgtgaagac
+            cagatcatcctcctcaaaggctgctgcatggagatcatgtcccttcgcgctgctgtgcgc
+            tatgacccagaaagtgagactttaaccttgaatggggaaatggcagtgacacggggccag
+            ctgaaaaatgggggtcttggggtggtgtcagacgccatctttgacctgggcatgtctctg
+            tcttctttcaacctggatgacactgaagtagccctccttcaggccgtcctgctgatgtct
+            tcagatcgcccggggcttgcctgtgttgagagaatagaaaagtaccaagatagtttcctg
+            ctggcctttgaacactatatcaattaccgaaaacaccacgtgacacacttttggccaaaa
+            ctcctgatgaaggtgacagatctgcggatgataggagcctgccatgccagccgcttcctg
+            cacatgaaggtggaatgccccacagaactcttcccccctttgttcttggaagtgttcgag
+            gattag
+///

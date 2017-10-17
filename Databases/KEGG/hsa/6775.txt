@@ -1,0 +1,102 @@
+ENTRY       6775              CDS       T01001
+NAME        STAT4, SLEB11
+DEFINITION  (RefSeq) signal transducer and activator of transcription 4
+ORTHOLOGY   K11222  signal transducer and activator of transcription 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04217  Necroptosis
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa05161  Hepatitis B
+            hsa05321  Inflammatory bowel disease (IBD)
+MODULE      hsa_M00684  JAK-STAT signaling
+DISEASE     H01492  Systemic sclerosis
+            H01502  Sjogren's Syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                6775 (STAT4)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                6775 (STAT4)
+             Organismal Systems
+              Immune system
+               04658 Th1 and Th2 cell differentiation
+                6775 (STAT4)
+             Human Diseases
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                6775 (STAT4)
+              Infectious diseases
+               05161 Hepatitis B
+                6775 (STAT4)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               STAT
+                6775 (STAT4)
+POSITION    2q32.2-q32.3
+MOTIF       Pfam: STAT_bind STAT_alpha STAT_int SH2 CRC_subunit NPV_P10
+DBLINKS     NCBI-GeneID: 6775
+            NCBI-ProteinID: NP_001230764
+            OMIM: 600558
+            HGNC: 11365
+            Ensembl: ENSG00000138378
+            Vega: OTTHUMG00000132700
+            Pharos: Q14765(Tbio)
+            UniProt: Q14765
+AASEQ       748
+            MSQWNQVQQLEIKFLEQVDQFYDDNFPMEIRHLLAQWIENQDWEAASNNETMATILLQNL
+            LIQLDEQLGRVSKEKNLLLIHNLKRIRKVLQGKFHGNPMHVAVVISNCLREERRILAAAN
+            MPVQGPLEKSLQSSSVSERQRNVEHKVAAIKNSVQMTEQDTKYLEDLQDEFDYRYKTIQT
+            MDQSDKNSAMVNQEVLTLQEMLNSLDFKRKEALSKMTQIIHETDLLMNTMLIEELQDWKR
+            RQQIACIGGPLHNGLDQLQNCFTLLAESLFQLRRQLEKLEEQSTKMTYEGDPIPMQRTHM
+            LERVTFLIYNLFKNSFVVERQPCMPTHPQRPLVLKTLIQFTVKLRLLIKLPELNYQVKVK
+            ASIDKNVSTLSNRRFVLCGTNVKAMSIEESSNGSLSVEFRHLQPKEMKSSAGGKGNEGCH
+            MVTEELHSITFETQICLYGLTIDLETSSLPVVMISNVSQLPNAWASIIWYNVSTNDSQNL
+            VFFNNPPPATLSQLLEVMSWQFSSYVGRGLNSDQLHMLAEKLTVQSSYSDGHLTWAKFCK
+            EHLPGKSFTFWTWLEAILDLIKKHILPLWIDGYVMGFVSKEKERLLLKDKMPGTFLLRFS
+            ESHLGGITFTWVDHSESGEVRFHSVEPYNKGRLSALPFADILRDYKVIMAENIPENPLKY
+            LYPDIPKDKAFGKHYSSQPCEVSRPTERGDKGYVPSVFIPISTIRSDSTEPHSPSDLLPM
+            SPSVYAVLRENLSPTTIETAMKSPYSAE
+NTSEQ       2247
+            atgtctcagtggaatcaagtccaacagttagaaatcaagtttttggagcaggtggatcaa
+            ttctatgatgacaactttcccatggaaattcggcatctgttggcccaatggattgaaaat
+            caagactgggaggcagcttctaacaatgaaaccatggcaacgattcttcttcaaaacttg
+            ttaatacaactggatgaacagttaggtcgtgtttccaaagagaaaaacctactcttgata
+            cacaatctaaaaagaattaggaaggtccttcagggaaaatttcatggaaatccaatgcat
+            gtagctgtggttatttcaaactgtttaagggaagagaggagaatattggctgcagccaac
+            atgcctgtccaggggcctctagagaaatccttacaaagttcttcagtttcagaaagacag
+            aggaatgtggagcacaaagtggctgccattaaaaacagtgtgcagatgacagaacaagat
+            accaaatacttagaagatctgcaagacgaatttgactacaggtataaaacaattcagaca
+            atggatcagagtgacaagaatagtgccatggtgaatcaggaagttttgacactgcaggaa
+            atgcttaacagcctcgatttcaagagaaaggaggctctcagtaaaatgacccaaatcatc
+            catgagacagacctgttaatgaacaccatgctcatagaagagctgcaagactggaagcgg
+            cggcagcaaatcgcctgcatcgggggtccactccacaatgggctcgaccagcttcagaac
+            tgctttacactattggcagaaagtcttttccaactgagaaggcaattggagaaactagag
+            gagcaatctaccaaaatgacatatgaaggtgatcccattccaatgcaaagaactcacatg
+            ctagaaagagtcaccttcttgatctacaaccttttcaagaactcatttgtggttgagcga
+            cagccatgtatgccaacccaccctcagaggccgttggtacttaaaaccctaattcagttc
+            actgtaaaactaaggctactaataaaattgccagaactaaactatcaggtaaaggttaag
+            gcatcaattgacaagaatgtttcaactctaagcaaccgaagatttgtactttgtggaact
+            aatgtcaaagccatgtctattgaagaatcttccaatgggagtctctcagtagaatttcga
+            catttgcaaccaaaggaaatgaagtccagtgctggaggtaaaggaaatgagggctgtcac
+            atggtgactgaagaacttcattccataacgtttgaaacacagatctgcctctatggcctg
+            accatagatttggagaccagctcattgcctgtggtgatgatttccaatgtcagtcagtta
+            cctaatgcttgggcatccatcatttggtacaacgtgtcaaccaacgattcccagaacttg
+            gttttctttaataatcctccacctgccacattgagtcaactactggaggtgatgagctgg
+            cagttttcatcgtacgttggtcgtggtcttaactcagatcaactccatatgctggcagag
+            aagcttacagtccaatctagctacagtgatggtcacctcacctgggccaagttctgcaag
+            gaacatttacctggtaaatcatttaccttttggacatggcttgaagcaatattggatcta
+            attaagaaacacattcttcccctttggattgatgggtatgtcatgggctttgttagcaaa
+            gagaaggaacggctgttgctaaaggataaaatgcctggcacctttttattaagattcagt
+            gaaagccatctcggaggaataactttcacctgggtggaccattctgaaagtggggaagtg
+            agattccactctgtagaaccctacaataaaggccggttgtctgctctgccattcgctgac
+            atcctgcgagactacaaagttattatggctgaaaacattcctgaaaaccctctgaagtac
+            ctatatcctgacattcccaaagacaaagccttcggtaaacactacagctctcagccttgc
+            gaagtttcaagaccaacagaaaggggtgacaaaggttatgttccttctgtttttatcccc
+            atctcaacaatccgaagtgattcaacagagccacattctccatcagaccttcttcccatg
+            tctccaagtgtgtatgcggtgttgagagaaaacctgagtcccacaacaattgaaactgca
+            atgaagtctccttattctgctgaatga
+///

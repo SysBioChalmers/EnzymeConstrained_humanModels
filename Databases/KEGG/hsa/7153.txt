@@ -1,0 +1,169 @@
+ENTRY       7153              CDS       T01001
+NAME        TOP2A, TOP2, TP2A
+DEFINITION  (RefSeq) topoisomerase (DNA) II alpha
+ORTHOLOGY   K03164  DNA topoisomerase II [EC:5.99.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+DRUG_TARGET Aclarubicin (DG00699): D01911 D02756
+            Aldoxorubicin (DG01726): D10383 D10384
+            Amrubicin (DG00703): D07100 D08854
+            Amsacrine: D02321
+            Berubicin hydrochloride: D08871
+            Crisnatol mesylate: D03602
+            Daunorubicin (DG00697): D01264 D07776 D10787
+            Doxorubicin (DG00696): D01275 D03899
+            Epirubicin (DG00698): D02214 D07901
+            Etoposide (DG00693): D00125 D04107
+            Fostriecin sodium: D04262
+            Idarubicin (DG00700): D01747 D08062
+            Idronoxil: D04498
+            Ledoxantrone trihydrochloride: D04685
+            Losoxantrone hydrochloride: D04783
+            Lucanthone hydrochloride: D04791
+            Mitoxantrone (DG00701): D02166 D08224
+            Pirarubicin (DG00702): D01885 D08386
+            Quarfloxin: D08981
+            Sobuzoxane: D01404
+            Teniposide: D02698
+            Valrubicin: D02697
+            Vosaroxin: D08024
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Drug resistance
+               01524 Platinum drug resistance
+                7153 (TOP2A)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.99  Other isomerases
+               5.99.1  Sole sub-subclass for isomerases that do not belong in the other subclasses
+                5.99.1.3  DNA topoisomerase (ATP-hydrolysing)
+                 7153 (TOP2A)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Topoisomerases
+               7153 (TOP2A)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Chromosome condensation proteins
+               Other regulators of chromosome condensation
+                7153 (TOP2A)
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                7153 (TOP2A)
+POSITION    17q21.2
+MOTIF       Pfam: DNA_topoisoIV TOPRIM_C DNA_gyraseB DTHCT HATPase_c Toprim Filaggrin
+DBLINKS     NCBI-GeneID: 7153
+            NCBI-ProteinID: NP_001058
+            OMIM: 126430
+            HGNC: 11989
+            Ensembl: ENSG00000131747
+            Vega: OTTHUMG00000155008
+            Pharos: P11388(Tclin)
+            UniProt: P11388
+STRUCTURE   PDB: 1ZXM 4R1F 1ZXN 4FM9 5GWK
+AASEQ       1531
+            MEVSPLQPVNENMQVNKIKKNEDAKKRLSVERIYQKKTQLEHILLRPDTYIGSVELVTQQ
+            MWVYDEDVGINYREVTFVPGLYKIFDEILVNAADNKQRDPKMSCIRVTIDPENNLISIWN
+            NGKGIPVVEHKVEKMYVPALIFGQLLTSSNYDDDEKKVTGGRNGYGAKLCNIFSTKFTVE
+            TASREYKKMFKQTWMDNMGRAGEMELKPFNGEDYTCITFQPDLSKFKMQSLDKDIVALMV
+            RRAYDIAGSTKDVKVFLNGNKLPVKGFRSYVDMYLKDKLDETGNSLKVIHEQVNHRWEVC
+            LTMSEKGFQQISFVNSIATSKGGRHVDYVADQIVTKLVDVVKKKNKGGVAVKAHQVKNHM
+            WIFVNALIENPTFDSQTKENMTLQPKSFGSTCQLSEKFIKAAIGCGIVESILNWVKFKAQ
+            VQLNKKCSAVKHNRIKGIPKLDDANDAGGRNSTECTLILTEGDSAKTLAVSGLGVVGRDK
+            YGVFPLRGKILNVREASHKQIMENAEINNIIKIVGLQYKKNYEDEDSLKTLRYGKIMIMT
+            DQDQDGSHIKGLLINFIHHNWPSLLRHRFLEEFITPIVKVSKNKQEMAFYSLPEFEEWKS
+            STPNHKKWKVKYYKGLGTSTSKEAKEYFADMKRHRIQFKYSGPEDDAAISLAFSKKQIDD
+            RKEWLTNFMEDRRQRKLLGLPEDYLYGQTTTYLTYNDFINKELILFSNSDNERSIPSMVD
+            GLKPGQRKVLFTCFKRNDKREVKVAQLAGSVAEMSSYHHGEMSLMMTIINLAQNFVGSNN
+            LNLLQPIGQFGTRLHGGKDSASPRYIFTMLSSLARLLFPPKDDHTLKFLYDDNQRVEPEW
+            YIPIIPMVLINGAEGIGTGWSCKIPNFDVREIVNNIRRLMDGEEPLPMLPSYKNFKGTIE
+            ELAPNQYVISGEVAILNSTTIEISELPVRTWTQTYKEQVLEPMLNGTEKTPPLITDYREY
+            HTDTTVKFVVKMTEEKLAEAERVGLHKVFKLQTSLTCNSMVLFDHVGCLKKYDTVLDILR
+            DFFELRLKYYGLRKEWLLGMLGAESAKLNNQARFILEKIDGKIIIENKPKKELIKVLIQR
+            GYDSDPVKAWKEAQQKVPDEEENEESDNEKETEKSDSVTDSGPTFNYLLDMPLWYLTKEK
+            KDELCRLRNEKEQELDTLKRKSPSDLWKEDLATFIEELEAVEAKEKQDEQVGLPGKGGKA
+            KGKKTQMAEVLPSPRGQRVIPRITIEMKAEAEKKNKKKIKNENTEGSPQEDGVELEGLKQ
+            RLEKKQKREPGTKTKKQTTLAFKPIKKGKKRNPWSDSESDRSSDESNFDVPPRETEPRRA
+            ATKTKFTMDLDSDEDFSDFDEKTDDEDFVPSDASPPKTKTSPKLSNKELKPQKSVVSDLE
+            ADDVKGSVPLSSSPPATHFPDETEITNPVPKKNVTVKKTAAKSQSSTSTTGAKKRAAPKG
+            TKRDPALNSGVSQKPDPAKTKNRRKRKPSTSDDSDSNFEKIVSKAVTSKKSKGESDDFHM
+            DFDSAVAPRAKSVRAKKPIKYLEESDEDDLF
+NTSEQ       4596
+            atggaagtgtcaccattgcagcctgtaaatgaaaatatgcaagtcaacaaaataaagaaa
+            aatgaagatgctaagaaaagactgtctgttgaaagaatctatcaaaagaaaacacaattg
+            gaacatattttgctccgcccagacacctacattggttctgtggaattagtgacccagcaa
+            atgtgggtttacgatgaagatgttggcattaactatagggaagtcacttttgttcctggt
+            ttgtacaaaatctttgatgagattctagttaatgctgcggacaacaaacaaagggaccca
+            aaaatgtcttgtattagagtcacaattgatccggaaaacaatttaattagtatatggaat
+            aatggaaaaggtattcctgttgttgaacacaaagttgaaaagatgtatgtcccagctctc
+            atatttggacagctcctaacttctagtaactatgatgatgatgaaaagaaagtgacaggt
+            ggtcgaaatggctatggagccaaattgtgtaacatattcagtaccaaatttactgtggaa
+            acagccagtagagaatacaagaaaatgttcaaacagacatggatggataatatgggaaga
+            gctggtgagatggaactcaagcccttcaatggagaagattatacatgtatcacctttcag
+            cctgatttgtctaagtttaaaatgcaaagcctggacaaagatattgttgcactaatggtc
+            agaagagcatatgatattgctggatccaccaaagatgtcaaagtctttcttaatggaaat
+            aaactgccagtaaaaggatttcgtagttatgtggacatgtatttgaaggacaagttggat
+            gaaactggtaactccttgaaagtaatacatgaacaagtaaaccacaggtgggaagtgtgt
+            ttaactatgagtgaaaaaggctttcagcaaattagctttgtcaacagcattgctacatcc
+            aagggtggcagacatgttgattatgtagctgatcagattgtgactaaacttgttgatgtt
+            gtgaagaagaagaacaagggtggtgttgcagtaaaagcacatcaggtgaaaaatcacatg
+            tggatttttgtaaatgccttaattgaaaacccaacctttgactctcagacaaaagaaaac
+            atgactttacaacccaagagctttggatcaacatgccaattgagtgaaaaatttatcaaa
+            gctgccattggctgtggtattgtagaaagcatactaaactgggtgaagtttaaggcccaa
+            gtccagttaaacaagaagtgttcagctgtaaaacataatagaatcaagggaattcccaaa
+            ctcgatgatgccaatgatgcagggggccgaaactccactgagtgtacgcttatcctgact
+            gagggagattcagccaaaactttggctgtttcaggccttggtgtggttgggagagacaaa
+            tatggggttttccctcttagaggaaaaatactcaatgttcgagaagcttctcataagcag
+            atcatggaaaatgctgagattaacaatatcatcaagattgtgggtcttcagtacaagaaa
+            aactatgaagatgaagattcattgaagacgcttcgttatgggaagataatgattatgaca
+            gatcaggaccaagatggttcccacatcaaaggcttgctgattaattttatccatcacaac
+            tggccctctcttctgcgacatcgttttctggaggaatttatcactcccattgtaaaggta
+            tctaaaaacaagcaagaaatggcattttacagccttcctgaatttgaagagtggaagagt
+            tctactccaaatcataaaaaatggaaagtcaaatattacaaaggtttgggcaccagcaca
+            tcaaaggaagctaaagaatactttgcagatatgaaaagacatcgtatccagttcaaatat
+            tctggtcctgaagatgatgctgctatcagcctggcctttagcaaaaaacagatagatgat
+            cgaaaggaatggttaactaatttcatggaggatagaagacaacgaaagttacttgggctt
+            cctgaggattacttgtatggacaaactaccacatatctgacatataatgacttcatcaac
+            aaggaacttatcttgttctcaaattctgataacgagagatctatcccttctatggtggat
+            ggtttgaaaccaggtcagagaaaggttttgtttacttgcttcaaacggaatgacaagcga
+            gaagtaaaggttgcccaattagctggatcagtggctgaaatgtcttcttatcatcatggt
+            gagatgtcactaatgatgaccattatcaatttggctcagaattttgtgggtagcaataat
+            ctaaacctcttgcagcccattggtcagtttggtaccaggctacatggtggcaaggattct
+            gctagtccacgatacatctttacaatgctcagctctttggctcgattgttatttccacca
+            aaagatgatcacacgttgaagtttttatatgatgacaaccagcgtgttgagcctgaatgg
+            tacattcctattattcccatggtgctgataaatggtgctgaaggaatcggtactgggtgg
+            tcctgcaaaatccccaactttgatgtgcgtgaaattgtaaataacatcaggcgtttgatg
+            gatggagaagaacctttgccaatgcttccaagttacaagaacttcaagggtactattgaa
+            gaactggctccaaatcaatatgtgattagtggtgaagtagctattcttaattctacaacc
+            attgaaatctcagagcttcccgtcagaacatggacccagacatacaaagaacaagttcta
+            gaacccatgttgaatggcaccgagaagacacctcctctcataacagactatagggaatac
+            catacagataccactgtgaaatttgttgtgaagatgactgaagaaaaactggcagaggca
+            gagagagttggactacacaaagtcttcaaactccaaactagtctcacatgcaactctatg
+            gtgctttttgaccacgtaggctgtttaaagaaatatgacacggtgttggatattctaaga
+            gacttttttgaactcagacttaaatattatggattaagaaaagaatggctcctaggaatg
+            cttggtgctgaatctgctaaactgaataatcaggctcgctttatcttagagaaaatagat
+            ggcaaaataatcattgaaaataagcctaagaaagaattaattaaagttctgattcagagg
+            ggatatgattcggatcctgtgaaggcctggaaagaagcccagcaaaaggttccagatgaa
+            gaagaaaatgaagagagtgacaacgaaaaggaaactgaaaagagtgactccgtaacagat
+            tctggaccaaccttcaactatcttcttgatatgcccctttggtatttaaccaaggaaaag
+            aaagatgaactctgcaggctaagaaatgaaaaagaacaagagctggacacattaaaaaga
+            aagagtccatcagatttgtggaaagaagacttggctacatttattgaagaattggaggct
+            gttgaagccaaggaaaaacaagatgaacaagtcggacttcctgggaaaggggggaaggcc
+            aaggggaaaaaaacacaaatggctgaagttttgccttctccgcgtggtcaaagagtcatt
+            ccacgaataaccatagaaatgaaagcagaggcagaaaagaaaaataaaaagaaaattaag
+            aatgaaaatactgaaggaagccctcaagaagatggtgtggaactagaaggcctaaaacaa
+            agattagaaaagaaacagaaaagagaaccaggtacaaagacaaagaaacaaactacattg
+            gcatttaagccaatcaaaaaaggaaagaagagaaatccctggtctgattcagaatcagat
+            aggagcagtgacgaaagtaattttgatgtccctccacgagaaacagagccacggagagca
+            gcaacaaaaacaaaattcacaatggatttggattcagatgaagatttctcagattttgat
+            gaaaaaactgatgatgaagattttgtcccatcagatgctagtccacctaagaccaaaact
+            tccccaaaacttagtaacaaagaactgaaaccacagaaaagtgtcgtgtcagaccttgaa
+            gctgatgatgttaagggcagtgtaccactgtcttcaagccctcctgctacacatttccca
+            gatgaaactgaaattacaaacccagttcctaaaaagaatgtgacagtgaagaagacagca
+            gcaaaaagtcagtcttccacctccactaccggtgccaaaaaaagggctgccccaaaagga
+            actaaaagggatccagctttgaattctggtgtctctcaaaagcctgatcctgccaaaacc
+            aagaatcgccgcaaaaggaagccatccacttctgatgattctgactctaattttgagaaa
+            attgtttcgaaagcagtcacaagcaagaaatccaagggggagagtgatgacttccatatg
+            gactttgactcagctgtggctcctcgggcaaaatctgtacgggcaaagaaacctataaag
+            tacctggaagagtcagatgaagatgatctgttttaa
+///

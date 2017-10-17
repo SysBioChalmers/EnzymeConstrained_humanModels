@@ -1,0 +1,65 @@
+ENTRY       4049              CDS       T01001
+NAME        LTA, LT, TNFB, TNFSF1, TNLG1E
+DEFINITION  (RefSeq) lymphotoxin alpha
+ORTHOLOGY   K05468  lymphotoxin alpha (TNF superfamily, member 1)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04940  Type I diabetes mellitus
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+DISEASE     H00344  Leprosy
+DRUG_TARGET Etanercept: D00742
+            Lenercept: D04690
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                4049 (LTA)
+               04668 TNF signaling pathway
+                4049 (LTA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                4049 (LTA)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                4049 (LTA)
+              Infectious diseases
+               05166 HTLV-I infection
+                4049 (LTA)
+               05168 Herpes simplex infection
+                4049 (LTA)
+            Cytokines [BR:hsa04052]
+             TNF family
+              4049 (LTA)
+POSITION    6p21.33
+MOTIF       Pfam: TNF
+DBLINKS     NCBI-GeneID: 4049
+            NCBI-ProteinID: NP_000586
+            OMIM: 153440
+            HGNC: 6709
+            Ensembl: ENSG00000226979
+            Vega: OTTHUMG00000031135
+            Pharos: P01374(Tbio)
+            UniProt: P01374 Q5STV3
+STRUCTURE   PDB: 1TNR 4MXV 4MXW
+AASEQ       205
+            MTPPERLFLPRVCGTTLHLLLLGLLLVLLPGAQGLPGVGLTPSAAQTARQHPKMHLAHST
+            LKPAAHLIGDPSKQNSLLWRANTDRAFLQDGFSLSNNSLLVPTSGIYFVYSQVVFSGKAY
+            SPKATSSPLYLAHEVQLFSSQYPFHVPLLSSQKMVYPGLQEPWLHSMYHGAAFQLTQGDQ
+            LSTHTDGIPHLVLSPSTVFFGAFAL
+NTSEQ       618
+            atgacaccacctgaacgtctcttcctcccaagggtgtgtggcaccaccctacacctcctc
+            cttctggggctgctgctggttctgctgcctggggcccaggggctccctggtgttggcctc
+            acaccttcagctgcccagactgcccgtcagcaccccaagatgcatcttgcccacagcacc
+            ctcaaacctgctgctcacctcattggagaccccagcaagcagaactcactgctctggaga
+            gcaaacacggaccgtgccttcctccaggatggtttctccttgagcaacaattctctcctg
+            gtccccaccagtggcatctacttcgtctactcccaggtggtcttctctgggaaagcctac
+            tctcccaaggccacctcctccccactctacctggcccatgaggtccagctcttctcctcc
+            cagtaccccttccatgtgcctctcctcagctcccagaagatggtgtatccagggctgcag
+            gaaccctggctgcactcgatgtaccacggggctgcgttccagctcacccagggagaccag
+            ctatccacccacacagatggcatcccccacctagtcctcagccctagtactgtcttcttt
+            ggagccttcgctctgtag
+///

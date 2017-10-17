@@ -1,0 +1,125 @@
+ENTRY       960               CDS       T01001
+NAME        CD44, CDW44, CSPG8, ECMR-III, HCELL, HUTCH-I, IN, LHR, MC56, MDU2, MDU3, MIC4, Pgp1
+DEFINITION  (RefSeq) CD44 molecule (Indian blood group)
+ORTHOLOGY   K06256  CD44 antigen
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04512  ECM-receptor interaction
+            hsa04640  Hematopoietic cell lineage
+            hsa05131  Shigellosis
+            hsa05169  Epstein-Barr virus infection
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+DISEASE     H00018  Gastric cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                960 (CD44)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                960 (CD44)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                960 (CD44)
+               05205 Proteoglycans in cancer
+                960 (CD44)
+              Infectious diseases
+               05131 Shigellosis
+                960 (CD44)
+               05169 Epstein-Barr virus infection
+                960 (CD44)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               960 (CD44)
+              Exosomal proteins of other body fluids (saliva and urine)
+               960 (CD44)
+              Exosomal proteins of colorectal cancer cells
+               960 (CD44)
+              Exosomal proteins of bladder cancer cells
+               960 (CD44)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             3. Selectin Family
+              SELE; selectin, endothelial cell [KO:K06494]
+               960 (CD44)
+             4. Link Protein Family
+              VCAN, CSPG2; versican core protein [KO:K06793]
+               960 (CD44)
+            CD molecules [BR:hsa04090]
+             Proteins
+              960 (CD44)
+            Proteoglycans [BR:hsa00535]
+             Cell surface proteoglycans
+              Others
+               960 (CD44)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Hyaluronan
+              Cell surface receptors
+               960 (CD44)
+POSITION    11p13
+MOTIF       Pfam: Xlink
+DBLINKS     NCBI-GeneID: 960
+            NCBI-ProteinID: NP_000601
+            OMIM: 107269
+            HGNC: 1681
+            Ensembl: ENSG00000026508
+            Vega: OTTHUMG00000044388
+            Pharos: P16070(Tbio)
+            UniProt: P16070
+STRUCTURE   PDB: 4PZ3 4PZ4 2I83 1UUH 1POZ
+AASEQ       742
+            MDKFWWHAAWGLCLVPLSLAQIDLNITCRFAGVFHVEKNGRYSISRTEAADLCKAFNSTL
+            PTMAQMEKALSIGFETCRYGFIEGHVVIPRIHPNSICAANNTGVYILTSNTSQYDTYCFN
+            ASAPPEEDCTSVTDLPNAFDGPITITIVNRDGTRYVQKGEYRTNPEDIYPSNPTDDDVSS
+            GSSSERSSTSGGYIFYTFSTVHPIPDEDSPWITDSTDRIPATTLMSTSATATETATKRQE
+            TWDWFSWLFLPSESKNHLHTTTQMAGTSSNTISAGWEPNEENEDERDRHLSFSGSGIDDD
+            EDFISSTISTTPRAFDHTKQNQDWTQWNPSHSNPEVLLQTTTRMTDVDRNGTTAYEGNWN
+            PEAHPPLIHHEHHEEEETPHSTSTIQATPSSTTEETATQKEQWFGNRWHEGYRQTPKEDS
+            HSTTGTAAASAHTSHPMQGRTTPSPEDSSWTDFFNPISHPMGRGHQAGRRMDMDSSHSIT
+            LQPTANPNTGLVEDLDRTGPLSMTTQQSNSQSFSTSHEGLEEDKDHPTTSTLTSSNRNDV
+            TGGRRDPNHSEGSTTLLEGYTSHYPHTKESRTFIPVTSAKTGSFGVTAVTVGDSNSNVNR
+            SLSGDQDTFHPSGGSHTTHGSESDGHSHGSQEGGANTTSGPIRTPQIPEWLIILASLLAL
+            ALILAVCIAVNSRRRCGQKKKLVINSGNGAVEDRKPSGLNGEASKSQEMVHLVNKESSET
+            PDQFMTADETRNLQNVDMKIGV
+NTSEQ       2229
+            atggacaagttttggtggcacgcagcctggggactctgcctcgtgccgctgagcctggcg
+            cagatcgatttgaatataacctgccgctttgcaggtgtattccacgtggagaaaaatggt
+            cgctacagcatctctcggacggaggccgctgacctctgcaaggctttcaatagcaccttg
+            cccacaatggcccagatggagaaagctctgagcatcggatttgagacctgcaggtatggg
+            ttcatagaagggcacgtggtgattccccggatccaccccaactccatctgtgcagcaaac
+            aacacaggggtgtacatcctcacatccaacacctcccagtatgacacatattgcttcaat
+            gcttcagctccacctgaagaagattgtacatcagtcacagacctgcccaatgcctttgat
+            ggaccaattaccataactattgttaaccgtgatggcacccgctatgtccagaaaggagaa
+            tacagaacgaatcctgaagacatctaccccagcaaccctactgatgatgacgtgagcagc
+            ggctcctccagtgaaaggagcagcacttcaggaggttacatcttttacaccttttctact
+            gtacaccccatcccagacgaagacagtccctggatcaccgacagcacagacagaatccct
+            gctaccactttgatgagcactagtgctacagcaactgagacagcaaccaagaggcaagaa
+            acctgggattggttttcatggttgtttctaccatcagagtcaaagaatcatcttcacaca
+            acaacacaaatggctggtacgtcttcaaataccatctcagcaggctgggagccaaatgaa
+            gaaaatgaagatgaaagagacagacacctcagtttttctggatcaggcattgatgatgat
+            gaagattttatctccagcaccatttcaaccacaccacgggcttttgaccacacaaaacag
+            aaccaggactggacccagtggaacccaagccattcaaatccggaagtgctacttcagaca
+            accacaaggatgactgatgtagacagaaatggcaccactgcttatgaaggaaactggaac
+            ccagaagcacaccctcccctcattcaccatgagcatcatgaggaagaagagaccccacat
+            tctacaagcacaatccaggcaactcctagtagtacaacggaagaaacagctacccagaag
+            gaacagtggtttggcaacagatggcatgagggatatcgccaaacacccaaagaagactcc
+            cattcgacaacagggacagctgcagcctcagctcataccagccatccaatgcaaggaagg
+            acaacaccaagcccagaggacagttcctggactgatttcttcaacccaatctcacacccc
+            atgggacgaggtcatcaagcaggaagaaggatggatatggactccagtcatagtataacg
+            cttcagcctactgcaaatccaaacacaggtttggtggaagatttggacaggacaggacct
+            ctttcaatgacaacgcagcagagtaattctcagagcttctctacatcacatgaaggcttg
+            gaagaagataaagaccatccaacaacttctactctgacatcaagcaataggaatgatgtc
+            acaggtggaagaagagacccaaatcattctgaaggctcaactactttactggaaggttat
+            acctctcattacccacacacgaaggaaagcaggaccttcatcccagtgacctcagctaag
+            actgggtcctttggagttactgcagttactgttggagattccaactctaatgtcaatcgt
+            tccttatcaggagaccaagacacattccaccccagtggggggtcccataccactcatgga
+            tctgaatcagatggacactcacatgggagtcaagaaggtggagcaaacacaacctctggt
+            cctataaggacaccccaaattccagaatggctgatcatcttggcatccctcttggccttg
+            gctttgattcttgcagtttgcattgcagtcaacagtcgaagaaggtgtgggcagaagaaa
+            aagctagtgatcaacagtggcaatggagctgtggaggacagaaagccaagtggactcaac
+            ggagaggccagcaagtctcaggaaatggtgcatttggtgaacaaggagtcgtcagaaact
+            ccagaccagtttatgacagctgatgagacaaggaacctgcagaatgtggacatgaagatt
+            ggggtgtaa
+///

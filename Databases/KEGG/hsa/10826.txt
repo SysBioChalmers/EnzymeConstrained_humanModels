@@ -1,0 +1,54 @@
+ENTRY       10826             CDS       T01001
+NAME        FAXDC2, C5orf4
+DEFINITION  (RefSeq) fatty acid hydroxylase domain containing 2
+ORTHOLOGY   K07750  methylsterol monooxygenase [EC:1.14.13.72]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00100  Steroid biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00100 Steroid biosynthesis
+                10826 (FAXDC2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.72  methylsterol monooxygenase
+                 10826 (FAXDC2)
+POSITION    5q33.2
+MOTIF       Pfam: FA_hydroxylase
+DBLINKS     NCBI-GeneID: 10826
+            NCBI-ProteinID: NP_115761
+            HGNC: 1334
+            Ensembl: ENSG00000170271
+            Vega: OTTHUMG00000164141
+            Pharos: Q96IV6(Tdark)
+            UniProt: Q96IV6
+AASEQ       333
+            MKGEAGHMLHNEKSKQEGHIWGSMRRTAFILGSGLLSFVAFWNSVTWHLQRFWGASGYFW
+            QAQWERLLTTFEGKEWILFFIGAIQVPCLFFWSFNGLLLVVDTTGKPNFISRYRIQVGKN
+            EPVDPVKLRQSIRTVLFNQCMISFPMVVFLYPFLKWWRDPCRRELPTFHWFLLELAIFTL
+            IEEVLFYYSHRLLHHPTFYKKIHKKHHEWTAPIGVISLYAHPIEHAVSNMLPVIVGPLVM
+            GSHLSSITMWFSLALIITTISHCGYHLPFLPSPEFHDYHHLKFNQCYGVLGVLDHLHGTD
+            TMFKQTKAYERHVLLLGFTPLSESIPDSPKRME
+NTSEQ       1002
+            atgaaaggagaagctggacatatgctacacaatgaaaagtcaaagcaggagggacacatc
+            tggggctctatgaggaggacagctttcatcctgggctctggacttctctcatttgtggcc
+            ttctggaactcagtgacatggcatcttcagagattttggggtgcttctggctacttttgg
+            caagcccagtgggagaggctgctgactacatttgaagggaaggagtggatcctcttcttt
+            ataggtgccatccaagtgccttgtctcttcttctggagcttcaatgggcttctattggtg
+            gttgacacaacaggaaaacctaacttcatctctcgctaccgaattcaggtcggcaagaat
+            gaacctgtggatcctgtgaaactgcgccagtctatccgcacagttcttttcaaccagtgc
+            atgatatctttccccatggtggtcttcctctatcccttcctcaaatggtggagagacccc
+            tgccgccgtgagctacccaccttccactggttcctcctggagctggccatcttcacgctg
+            atcgaggaagtcttgttctactattcacaccggctccttcaccacccaacattctacaag
+            aaaatccacaagaaacaccatgagtggacagctcccattggcgtgatctctctctatgcc
+            caccctatagagcatgcagtctccaacatgctaccggtgatagtgggcccattagtaatg
+            ggctcccacttgtcctccatcaccatgtggttttccttggccctcatcatcaccaccatc
+            tcccactgtggctaccaccttcccttcctgccttcgcctgaattccacgactaccaccat
+            ctcaagttcaaccagtgctatggggtgctgggtgtgctggaccacctccatgggactgac
+            accatgttcaagcagaccaaggcctacgagagacatgtcctcctgctgggcttcaccccg
+            ctctctgagagcatcccagactccccaaagaggatggagtga
+///

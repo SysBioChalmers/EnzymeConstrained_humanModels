@@ -1,0 +1,201 @@
+ENTRY       5156              CDS       T01001
+NAME        PDGFRA, CD140A, PDGFR-2, PDGFR2
+DEFINITION  (RefSeq) platelet derived growth factor receptor alpha
+ORTHOLOGY   K04363  platelet-derived growth factor receptor alpha [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04540  Gap junction
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05230  Central carbon metabolism in cancer
+            hsa05231  Choline metabolism in cancer
+DISEASE     H00042  Glioma
+            H01590  Chronic eosinophilic leukemia
+            H01591  Gastrotintestinal stromal tumor
+            H01599  Hypereosinophilic syndrome
+DRUG_TARGET Cediranib (DG01360): D08881 D08883
+            Ilorasertib: D10423
+            Imatinib (DG00710): D01441 D08066
+            Linifanib: D09635
+            Motesanib (DG01262): D06678 D08947
+            Nilotinib (DG00716): D06413 D08953
+            Nintedanib (DG01374): D10396 D10481
+            Olaratumab: D09939
+            Pazopanib: D05380
+            Sunitinib (DG00712): D06402 D08552
+            Toceranib (DG01363): D08503 D08544
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5156 (PDGFRA)
+               04015 Rap1 signaling pathway
+                5156 (PDGFRA)
+               04010 MAPK signaling pathway
+                5156 (PDGFRA)
+               04020 Calcium signaling pathway
+                5156 (PDGFRA)
+               04072 Phospholipase D signaling pathway
+                5156 (PDGFRA)
+               04151 PI3K-Akt signaling pathway
+                5156 (PDGFRA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                5156 (PDGFRA)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                5156 (PDGFRA)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5156 (PDGFRA)
+               04540 Gap junction
+                5156 (PDGFRA)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5156 (PDGFRA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5156 (PDGFRA)
+               05230 Central carbon metabolism in cancer
+                5156 (PDGFRA)
+               05231 Choline metabolism in cancer
+                5156 (PDGFRA)
+               05206 MicroRNAs in cancer
+                5156 (PDGFRA)
+               05214 Glioma
+                5156 (PDGFRA)
+               05218 Melanoma
+                5156 (PDGFRA)
+               05215 Prostate cancer
+                5156 (PDGFRA)
+              Infectious diseases
+               05166 HTLV-I infection
+                5156 (PDGFRA)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                5156 (PDGFRA)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 5156 (PDGFRA)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              PDGFR family [OT]
+               5156 (PDGFRA)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class III (PDGF receptor family)
+               5156 (PDGFRA)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class III (PDGF receptor family)
+               5156 (PDGFRA)
+            CD molecules [BR:hsa04090]
+             Proteins
+              5156 (PDGFRA)
+POSITION    4q12
+MOTIF       Pfam: Pkinase_Tyr Pkinase Ig_3 I-set ig Ig_2 V-set Herpes_gE C2-set_2 LAT
+DBLINKS     NCBI-GeneID: 5156
+            NCBI-ProteinID: NP_001334758
+            OMIM: 173490
+            HGNC: 8803
+            Ensembl: ENSG00000134853
+            Vega: OTTHUMG00000128699
+            Pharos: P16234(Tclin)
+            UniProt: P16234
+STRUCTURE   PDB: 5GRN 5K5X
+AASEQ       1089
+            MGTSHPAFLVLGCLLTGLSLILCQLSLPSILPNENEKVVQLNSSFSLRCFGESEVSWQYP
+            MSEEESSDVEIRNEENNSGLFVTVLEVSSASAAHTGLYTCYYNHTQTEENELEGRHIYIY
+            VPDPDVAFVPLGMTDYLVIVEDDDSAIIPCRTTDPETPVTLHNSEGVVPASYDSRQGFNG
+            TFTVGPYICEATVKGKKFQTIPFNVYALKATSELDLEMEALKTVYKSGETIVVTCAVFNN
+            EVVDLQWTYPGEVKGKGITMLEEIKVPSIKLVYTLTVPEATVKDSGDYECAARQATREVK
+            EMKKVTISVHEKGFIEIKPTFSQLEAVNLHEVKHFVVEVRAYPPPRISWLKNNLTLIENL
+            TEITTDVEKIQEIRYRSKLKLIRAKEEDSGHYTIVAQNEDAVKSYTFELLTQVPSSILDL
+            VDDHHGSTGGQTVRCTAEGTPLPDIEWMICKDIKKCNNETSWTILANNVSNIITEIHSRD
+            RSTVEGRVTFAKVEETIAVRCLAKNLLGAENRELKLVAPTLRSELTVAAAVLVLLVIVII
+            SLIVLVVIWKQKPRYEIRWRVIESISPDGHEYIYVDPMQLPYDSRWEFPRDGLVLGRVLG
+            SGAFGKVVEGTAYGLSRSQPVMKVAVKMLKPTARSSEKQALMSELKIMTHLGPHLNIVNL
+            LGACTKSGPIYIITEYCFYGDLVNYLHKNRDSFLSHHPEKPKKELDIFGLNPADESTRSY
+            VILSFENNGDYMDMKQADTTQYVPMLERKEVSKYSDIQRSLYDRPASYKKKSMLDSEVKN
+            LLSDDNSEGLTLLDLLSFTYQVARGMEFLASKNCVHRDLAARNVLLAQGKIVKICDFGLA
+            RDIMHDSNYVSKGSTFLPVKWMAPESIFDNLYTTLSDVWSYGILLWEIFSLGGTPYPGMM
+            VDSTFYNKIKSGYRMAKPDHATSEVYEIMVKCWNSEPEKRPSFYHLSEIVENLLPGQYKK
+            SYEKIHLDFLKSDHPAVARMRVDSDNAYIGVTYKNEEDKLKDWEGGLDEQRLSADSGYII
+            PLPDIDPVPEEEDLGKRNRHSSQTSEESAIETGSSSSTFIKREDETIEDIDMMDDIGIDS
+            SDLVEDSFL
+NTSEQ       3270
+            atggggacttcccatccggcgttcctggtcttaggctgtcttctcacagggctgagccta
+            atcctctgccagctttcattaccctctatccttccaaatgaaaatgaaaaggttgtgcag
+            ctgaattcatccttttctctgagatgctttggggagagtgaagtgagctggcagtacccc
+            atgtctgaagaagagagctccgatgtggaaatcagaaatgaagaaaacaacagcggcctt
+            tttgtgacggtcttggaagtgagcagtgcctcggcggcccacacagggttgtacacttgc
+            tattacaaccacactcagacagaagagaatgagcttgaaggcaggcacatttacatctat
+            gtgccagacccagatgtagcctttgtacctctaggaatgacggattatttagtcatcgtg
+            gaggatgatgattctgccattataccttgtcgcacaactgatcccgagactcctgtaacc
+            ttacacaacagtgagggggtggtacctgcctcctacgacagcagacagggctttaatggg
+            accttcactgtagggccctatatctgtgaggccaccgtcaaaggaaagaagttccagacc
+            atcccatttaatgtttatgctttaaaagcaacatcagagctggatctagaaatggaagct
+            cttaaaaccgtgtataagtcaggggaaacgattgtggtcacctgtgctgtttttaacaat
+            gaggtggttgaccttcaatggacttaccctggagaagtgaaaggcaaaggcatcacaatg
+            ctggaagaaatcaaagtcccatccatcaaattggtgtacactttgacggtccccgaggcc
+            acggtgaaagacagtggagattacgaatgtgctgcccgccaggctaccagggaggtcaaa
+            gaaatgaagaaagtcactatttctgtccatgagaaaggtttcattgaaatcaaacccacc
+            ttcagccagttggaagctgtcaacctgcatgaagtcaaacattttgttgtagaggtgcgg
+            gcctacccacctcccaggatatcctggctgaaaaacaatctgactctgattgaaaatctc
+            actgagatcaccactgatgtggaaaagattcaggaaataaggtatcgaagcaaattaaag
+            ctgatccgtgctaaggaagaagacagtggccattatactattgtagctcaaaatgaagat
+            gctgtgaagagctatacttttgaactgttaactcaagttccttcatccattctggacttg
+            gtcgatgatcaccatggctcaactgggggacagacggtgaggtgcacagctgaaggcacg
+            ccgcttcctgatattgagtggatgatatgcaaagatattaagaaatgtaataatgaaact
+            tcctggactattttggccaacaatgtctcaaacatcatcacggagatccactcccgagac
+            aggagtaccgtggagggccgtgtgactttcgccaaagtggaggagaccatcgccgtgcga
+            tgcctggctaagaatctccttggagctgagaaccgagagctgaagctggtggctcccacc
+            ctgcgttctgaactcacggtggctgctgcagtcctggtgctgttggtgattgtgatcatc
+            tcacttattgtcctggttgtcatttggaaacagaaaccgaggtatgaaattcgctggagg
+            gtcattgaatcaatcagcccagatggacatgaatatatttatgtggacccgatgcagctg
+            ccttatgactcaagatgggagtttccaagagatggactagtgcttggtcgggtcttgggg
+            tctggagcgtttgggaaggtggttgaaggaacagcctatggattaagccggtcccaacct
+            gtcatgaaagttgcagtgaagatgctaaaacccacggccagatccagtgaaaaacaagct
+            ctcatgtctgaactgaagataatgactcacctggggccacatttgaacattgtaaacttg
+            ctgggagcctgcaccaagtcaggccccatttacatcatcacagagtattgcttctatgga
+            gatttggtcaactatttgcataagaatagggatagcttcctgagccaccacccagagaag
+            ccaaagaaagagctggatatctttggattgaaccctgctgatgaaagcacacggagctat
+            gttattttatcttttgaaaacaatggtgactacatggacatgaagcaggctgatactaca
+            cagtatgtccccatgctagaaaggaaagaggtttctaaatattccgacatccagagatca
+            ctctatgatcgtccagcctcatataagaagaaatctatgttagactcagaagtcaaaaac
+            ctcctttcagatgataactcagaaggccttactttattggatttgttgagcttcacctat
+            caagttgcccgaggaatggagtttttggcttcaaaaaattgtgtccaccgtgatctggct
+            gctcgcaacgtcctcctggcacaaggaaaaattgtgaagatctgtgactttggcctggcc
+            agagacatcatgcatgattcgaactatgtgtcgaaaggcagtacctttctgcccgtgaag
+            tggatggctcctgagagcatctttgacaacctctacaccacactgagtgatgtctggtct
+            tatggcattctgctctgggagatcttttcccttggtggcaccccttaccccggcatgatg
+            gtggattctactttctacaataagatcaagagtgggtaccggatggccaagcctgaccac
+            gctaccagtgaagtctacgagatcatggtgaaatgctggaacagtgagccggagaagaga
+            ccctccttttaccacctgagtgagattgtggagaatctgctgcctggacaatataaaaag
+            agttatgaaaaaattcacctggacttcctgaagagtgaccatcctgctgtggcacgcatg
+            cgtgtggactcagacaatgcatacattggtgtcacctacaaaaacgaggaagacaagctg
+            aaggactgggagggtggtctggatgagcagagactgagcgctgacagtggctacatcatt
+            cctctgcctgacattgaccctgtccctgaggaggaggacctgggcaagaggaacagacac
+            agctcgcagacctctgaagagagtgccattgagacgggttccagcagttccaccttcatc
+            aagagagaggacgagaccattgaagacatcgacatgatggatgacatcggcatagactct
+            tcagacctggtggaagacagcttcctgtaa
+///

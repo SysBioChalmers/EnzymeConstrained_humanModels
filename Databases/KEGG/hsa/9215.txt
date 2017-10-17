@@ -1,0 +1,91 @@
+ENTRY       9215              CDS       T01001
+NAME        LARGE1, LARGE, MDC1D, MDDGA6, MDDGB6
+DEFINITION  (RefSeq) LARGE xylosyl- and glucuronyltransferase 1
+ORTHOLOGY   K09668  glycosyltransferase-like protein LARGE [EC:2.4.2.- 2.4.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00515  Mannose type O-glycan biosynthesis
+            hsa01100  Metabolic pathways
+DISEASE     H00120  Dystroglycanopathy
+            H00590  Congenital muscular dystrophies (CMD/MDC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00515 Mannose type O-glycan biosyntheis
+                9215 (LARGE1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.-  
+                 9215 (LARGE1)
+               2.4.2  Pentosyltransferases
+                2.4.2.-  
+                 9215 (LARGE1)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              O-Glycan
+               9215 (LARGE1)
+POSITION    22q12.3
+MOTIF       Pfam: Glyco_transf_49 Glyco_transf_8
+DBLINKS     NCBI-GeneID: 9215
+            NCBI-ProteinID: NP_004728
+            OMIM: 603590
+            HGNC: 6511
+            Ensembl: ENSG00000133424
+            Vega: OTTHUMG00000150914
+            Pharos: O95461(Tbio)
+            UniProt: O95461 X5DR28
+AASEQ       756
+            MLGICRGRRKFLAASLSLLCIPAITWIYLFSGSFEDGKPVSLSPLESQAHSPRYTASSQR
+            ERESLEVRMREVEEENRALRRQLSLAQGRAPSHRRGNHSKTYSMEEGTGDSENLRAGIVA
+            GNSSECGQQPVVEKCETIHVAIVCAGYNASRDVVTLVKSVLFHRRNPLHFHLIADSIAEQ
+            ILATLFQTWMVPAVRVDFYNADELKSEVSWIPNKHYSGIYGLMKLVLTKTLPANLERVIV
+            LDTDITFATDIAELWAVFHKFKGQQVLGLVENQSDWYLGNLWKNHRPWPALGRGYNTGVI
+            LLLLDKLRKMKWEQMWRLTAERELMGMLSTSLADQDIFNAVIKQNPFLVYQLPCFWNVQL
+            SDHTRSEQCYRDVSDLKVIHWNSPKKLRVKNKHVEFFRNLYLTFLEYDGNLLRRELFGCP
+            SEADVNSENLQKQLSELDEDDLCYEFRRERFTVHRTHLYFLHYEYEPAADSTDVTLVAQL
+            SMDRLQMLEAICKHWEGPISLALYLSDAEAQQFLRYAQGSEVLMSRHNVGYHIVYKEGQF
+            YPVNLLRNVAMKHISTPYMFLSDIDFLPMYGLYEYLRKSVIQLDLANTKKAMIVPAFETL
+            RYRLSFPKSKAELLSMLDMGTLFTFRYHVWTKGHAPTNFAKWRTATTPYRVEWEADFEPY
+            VVVRRDCPEYDRRFVGFGWNKVAHIMELDVQEYEFIVLPNAYMIHMPHAPSFDITKFRSN
+            KQYRICLKTLKEEFQQDMSRRYGFAALKYLTAENNS
+NTSEQ       2271
+            atgctgggaatctgcagggggagacggaaattcttggctgcctcgttgagtcttctctgc
+            atcccagccatcacctggatttacctgttttctgggagcttcgaagatggaaagcccgtg
+            tctctgtcaccgctggagtcccaggcacacagccccaggtacacggcctccagccagcgg
+            gagcgcgagagcctggaggtgcgcatgcgcgaggtggaggaggagaaccgcgccctccgc
+            aggcagctcagcctggcccagggccgagccccatcccatcgccgaggcaaccactccaag
+            acctactccatggaggagggcactggagacagcgagaaccttcgggctggcatcgtggca
+            ggcaacagctccgagtgtgggcagcagccggtcgtggagaaatgcgagacaatccacgtt
+            gctattgtctgcgccggatacaatgccagccgggatgtcgtcaccctggtcaaatccgtc
+            ctgttccatagacggaaccctctgcacttccaccttattgctgactccattgcggagcag
+            atcctggccacgctcttccagacctggatggtgcccgctgtgcgtgtggacttctacaat
+            gcagacgagctcaagtctgaagtttcctggatccccaataaacattactctgggatttat
+            ggtctgatgaagcttgtcctgaccaagactcttcctgccaacctggagagagtcatcgtc
+            cttgacacggatatcacctttgccactgacattgcagagctgtgggctgtgttccacaag
+            ttcaaaggtcagcaagtcctgggcttggtggagaaccagagtgactggtaccttggaaac
+            ctgtggaaaaatcaccgcccatggccagcccttggaagaggctacaacacaggggtgatc
+            ctgttacttctggataagctgcggaagatgaaatgggagcagatgtggaggctgaccgca
+            gagagggagctcatgggcatgctctctacatccttagctgaccaggatattttcaatgcc
+            gtcatcaaacaaaaccccttccttgtgtaccagctcccctgcttctggaatgtgcagctg
+            tcagaccacacccgctccgagcagtgctacagagacgtgtctgatctaaaggtcattcac
+            tggaactcccccaagaagctccgggtgaagaacaagcatgtggagttttttcgcaacctc
+            tacctgaccttcctggagtatgacggcaatcttctgaggcgggaactgtttggctgcccc
+            agtgaggctgatgtcaacagtgaaaacctccagaagcagctgtctgagctggacgaggac
+            gacctgtgctatgagttccggcgagagcgcttcactgtccaccgcacccacctgtacttc
+            ctgcactacgagtatgagcctgcagcagacagcacggacgtcaccctggtcgctcagctg
+            tccatggacaggctccagatgctggaggccatctgcaagcactgggaggggcccatcagc
+            ctggccctctacctgtcagacgccgaggcccagcagttcctccgctacgcacagggctct
+            gaggtgcttatgagccgccacaacgtgggctaccacatcgtgtacaaggagggccagttc
+            taccccgtgaacctgctgcgcaacgtggccatgaagcacatcagcactccctacatgttc
+            ctgtctgacattgacttcctgcccatgtatgggctctatgagtacctcaggaagtctgtc
+            atccagctcgatcttgccaacaccaagaaagcaatgattgtccccgcgttcgagacactg
+            cgctaccggctgtccttccccaagtcaaaagcggagttgctgtcaatgctggacatgggg
+            accctcttcacattcaggtaccacgtctggacgaaaggccacgcacccacaaacttcgcc
+            aagtggcggaccgccaccacgccttaccgggttgagtgggaggccgattttgagccgtat
+            gttgttgtgagacgtgactgcccggagtacgaccggaggtttgtaggctttggctggaac
+            aaagtggctcatatcatggagctggatgtgcaggagtatgagttcattgtgctgcccaac
+            gcctacatgatccacatgcctcatgcccccagcttcgacattaccaagttccgttccaac
+            aagcaataccgcatctgtctcaaaaccctcaaggaagagtttcagcaggacatgtcccgc
+            cgctacggctttgctgccctgaaatatctcacagccgagaacaacagctag
+///

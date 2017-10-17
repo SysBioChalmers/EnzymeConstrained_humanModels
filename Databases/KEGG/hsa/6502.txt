@@ -1,0 +1,93 @@
+ENTRY       6502              CDS       T01001
+NAME        SKP2, FBL1, FBXL1, FLB1, p45
+DEFINITION  (RefSeq) S-phase kinase associated protein 2
+ORTHOLOGY   K03875  F-box and leucine-rich repeat protein 1 (S-phase kinase-associated protein 2)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04150  mTOR signaling pathway
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05222  Small cell lung cancer
+MODULE      hsa_M00381  SCF-SKP2 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                6502 (SKP2)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                6502 (SKP2)
+               04150 mTOR signaling pathway
+                6502 (SKP2)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                6502 (SKP2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6502 (SKP2)
+               05203 Viral carcinogenesis
+                6502 (SKP2)
+               05222 Small cell lung cancer
+                6502 (SKP2)
+              Infectious diseases
+               05168 Herpes simplex infection
+                6502 (SKP2)
+               05169 Epstein-Barr virus infection
+                6502 (SKP2)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Target recognizing subunit (F-box)
+                 6502 (SKP2)
+POSITION    5p13.2
+MOTIF       Pfam: F-box-like F-box LRR_8
+DBLINKS     NCBI-GeneID: 6502
+            NCBI-ProteinID: NP_005974
+            OMIM: 601436
+            HGNC: 10901
+            Ensembl: ENSG00000145604
+            Vega: OTTHUMG00000131106
+            Pharos: Q13309(Tbio)
+            UniProt: Q13309 A0A024R069
+STRUCTURE   PDB: 1FS1 2AST 1FQV 1FS2 2ASS 1LDK
+AASEQ       424
+            MHRKHLQEIPDLSSNVATSFTWGWDSSKTSELLSGMGVSALEKEEPDSENIPQELLSNLG
+            HPESPPRKRLKSKGSDKDFVIVRRPKLNRENFPGVSWDSLPDELLLGIFSCLCLPELLKV
+            SGVCKRWYRLASDESLWQTLDLTGKNLHPDVTGRLLSQGVIAFRCPRSFMDQPLAEHFSP
+            FRVQHMDLSNSVIEVSTLHGILSQCSKLQNLSLEGLRLSDPIVNTLAKNSNLVRLNLSGC
+            SGFSEFALQTLLSSCSRLDELNLSWCFDFTEKHVQVAVAHVSETITQLNLSGYRKNLQKS
+            DLSTLVRRCPNLVHLDLSDSVMLKNDCFQEFFQLNYLQHLSLSRCYDIIPETLLELGEIP
+            TLKTLQVFGIVPDGTLQLLKEALPHLQINCSHFTTIARPTIGNKKNQEIWGIKCRLTLQK
+            PSCL
+NTSEQ       1275
+            atgcacaggaagcacctccaggagattccagacctgagtagcaacgttgccaccagcttc
+            acgtggggatgggattccagcaagacttctgaactgctgtcaggcatgggggtctccgcc
+            ctggagaaagaggagcccgacagtgagaacatcccccaggaactgctctcaaacctgggc
+            cacccggagagccccccacggaaacggctgaagagcaaagggagtgacaaagactttgtg
+            attgtccgcaggcctaagctaaatcgagagaactttccaggtgtttcatgggactccctt
+            ccggatgagctgctcttgggaatcttttcctgtctgtgcctccctgagctgctaaaggtc
+            tctggtgtttgtaagaggtggtatcgcctagcgtctgatgagtctctatggcagacctta
+            gacctcacaggtaaaaatctgcacccggatgtgactggtcggttgctgtctcaaggggtg
+            attgccttccgctgcccacgatcatttatggaccaaccattggctgaacatttcagccct
+            tttcgtgtacagcacatggacctatcgaactcagttatagaagtgtccaccctccacggc
+            atactgtctcagtgttccaagttgcagaatctaagcctggaaggcctgcggctttcggat
+            cccattgtcaatactctcgcaaaaaactcaaatttagtgcgacttaacctttctgggtgt
+            tctggattctctgaatttgccctgcagactttgctaagcagctgttccagactggatgag
+            ctgaacctctcctggtgttttgatttcactgaaaagcatgtacaggtggctgttgcgcat
+            gtgtcagagaccatcacccagctgaatcttagcggctacagaaagaatctccagaaatca
+            gatctctctactttagttagaagatgccccaatcttgtccatctagacttaagtgatagt
+            gtcatgctaaagaatgactgctttcaggaatttttccagctcaactacctccaacaccta
+            tcactcagtcggtgctatgatataatacctgaaactttacttgaacttggagaaattccc
+            acactaaaaacactacaagtttttggaatcgtgccagatggtacccttcaactgttaaag
+            gaagcccttcctcatctacagattaattgctcccatttcaccaccattgccaggccaact
+            attggcaacaaaaagaaccaggagatatggggcatcaaatgccgactgacactgcaaaag
+            cccagttgtctatga
+///

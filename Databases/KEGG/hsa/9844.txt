@@ -1,0 +1,83 @@
+ENTRY       9844              CDS       T01001
+NAME        ELMO1, CED-12, CED12, ELMO-1
+DEFINITION  (RefSeq) engulfment and cell motility 1
+ORTHOLOGY   K12366  engulfment and cell motility protein 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05131  Shigellosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04062 Chemokine signaling pathway
+                9844 (ELMO1)
+             Human Diseases
+              Infectious diseases
+               05131 Shigellosis
+                9844 (ELMO1)
+               05100 Bacterial invasion of epithelial cells
+                9844 (ELMO1)
+POSITION    7p14.2-p14.1
+MOTIF       Pfam: DUF3361 ELMO_CED12 PH_12 FERM_N ZFYVE21_C
+DBLINKS     NCBI-GeneID: 9844
+            NCBI-ProteinID: NP_001193409
+            OMIM: 606420
+            HGNC: 16286
+            Ensembl: ENSG00000155849
+            Vega: OTTHUMG00000023701
+            Pharos: Q92556(Tbio)
+            UniProt: Q92556 A4D1X5
+STRUCTURE   PDB: 3A98 2VSZ
+AASEQ       727
+            MPPPADIVKVAIEWPGAYPKLMEIDQKKPLSAIIKEVCDGWSLANHEYFALQHADSSNFY
+            ITEKNRNEIKNGTILRLTTSPAQNAQQLHERIQSSSMDAKLEALKDLASLSRDVTFAQEF
+            INLDGISLLTQMVESGTERYQKLQKIMKPCFGDMLSFTLTAFVELMDHGIVSWDTFSVAF
+            IKKIASFVNKSAIDISILQRSLAILESMVLNSHDLYQKVAQEITIGQLIPHLQGSDQEIQ
+            TYTIAVINALFLKAPDERRQEMANILAQKQLRSIILTHVIRAQRAINNEMAHQLYVLQVL
+            TFNLLEDRMMTKMDPQDQAQRDIIFELRRIAFDAESEPNNSSGSMEKRKSMYTRDYKKLG
+            FINHVNPAMDFTQTPPGMLALDNMLYFAKHHQDAYIRIVLENSSREDKHECPFGRSSIEL
+            TKMLCEILKVGELPSETCNDFHPMFFTHDRSFEEFFCICIQLLNKTWKEMRATSEDFNKV
+            MQVVKEQVMRALTTKPSSLDQFKSKLQNLSYTEILKIRQSERMNQEDFQSRPILELKEKI
+            QPEILELIKQQRLNRLVEGTCFRKLNARRRQDKFWYCRLSPNHKVLHYGDLEESPQGEVP
+            HDSLQDKLPVADIKAVVTGKDCPHMKEKGALKQNKEVLELAFSILYDSNCQLNFIAPDKH
+            EYCIWTDGLNALLGKDMMSDLTRNDLDTLLSMEIKLRLLDLENIQIPDAPPPIPKEPSNY
+            DFVYDCN
+NTSEQ       2184
+            atgccgccacccgcggacatcgtcaaggtggccatagaatggccgggcgcctaccccaaa
+            ctcatggaaattgatcagaaaaaaccactgtctgcaataataaaggaagtctgtgatggg
+            tggtctcttgccaaccatgaatattttgcactccagcatgccgatagttcaaacttctat
+            atcacagaaaagaaccgcaatgagataaaaaatggcactatccttcgattaaccacatct
+            ccagctcagaacgcccagcagctccatgaacgaatccagtcctcgagtatggatgccaag
+            ctggaagccctgaaggacttggccagcctctcccgggatgtcacgtttgcccaggagttt
+            ataaacctggacggtatctctctcctcacgcagatggtggagagcggcactgagcgatac
+            cagaaattgcagaagatcatgaagccttgctttggagacatgctgtccttcaccctgacg
+            gccttcgttgagctgatggaccatggcatagtgtcctgggatacattttcggtggcgttc
+            attaagaagatagcaagttttgtgaacaagtcagccatagacatctcgatcctgcagcgg
+            tccttggccattttggagtcgatggtgctcaatagccatgacctctaccagaaagtggcg
+            caggagatcaccatcggccagctcattccacacctgcaagggtcagatcaagaaatccaa
+            acctatactattgcagtgattaatgcgcttttcctgaaggctcctgatgagaggaggcag
+            gagatggcgaatattttggctcagaagcaactgcgttccatcattttaacacatgtcatc
+            cgagcccagcgggccatcaacaatgagatggcgcaccagctgtatgttctacaagtgctc
+            acctttaacctcctggaagacaggatgatgaccaaaatggacccccaggaccaggctcag
+            agggacatcatatttgaacttcgaagaattgcttttgatgctgagtctgaacctaacaac
+            agcagtggcagcatggagaaacgcaagtccatgtacacgcgagattataagaagcttggg
+            ttcattaatcatgtcaaccctgccatggacttcacgcagactccacctgggatgttggct
+            ctggacaacatgctgtactttgccaagcaccaccaagatgcctacatccggattgtgctt
+            gagaacagtagtcgagaagacaagcatgaatgtccctttggccgcagtagtatagagctg
+            accaagatgctatgtgagatcttgaaagtgggcgagttgcctagtgagacctgcaacgac
+            ttccacccgatgttcttcacccacgacagatcctttgaggagtttttctgcatctgtatc
+            cagctcctgaacaagacatggaaggaaatgagggcaacttctgaagacttcaacaaggta
+            atgcaggtggtgaaggagcaggttatgagagcacttacaaccaagcctagctccctggac
+            cagttcaagagcaaactgcagaacctgagctacactgagatcctgaaaatccgccagtcc
+            gagaggatgaaccaggaagatttccagtcccgcccgattttggaactaaaggagaagatt
+            cagccagaaatcttagagctgatcaaacagcaacgcctgaaccgccttgtggaagggacc
+            tgctttaggaaactcaatgcccggcggaggcaagacaagttttggtattgtcggctttcg
+            ccaaatcacaaagtcctgcattacggagacttagaagagagtcctcagggagaagtgccc
+            cacgattccttgcaggacaaactgccggtggcagatatcaaagccgtggtgacgggaaag
+            gactgccctcatatgaaagagaaaggtgcccttaaacaaaacaaggaggtgcttgaactc
+            gctttctccatcttgtatgactcaaactgccaactgaacttcatcgctcctgacaagcat
+            gagtactgtatctggacggatggactgaatgcgctactcgggaaggacatgatgagcgac
+            ctgacgcggaatgacctggacaccctgctcagcatggaaatcaagctccgcctcctggac
+            ctggaaaacatccagatccctgacgcacctccgccgattcccaaggagcccagcaactat
+            gacttcgtctatgactgtaactga
+///

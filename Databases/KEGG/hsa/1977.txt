@@ -1,0 +1,83 @@
+ENTRY       1977              CDS       T01001
+NAME        EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E
+DEFINITION  (RefSeq) eukaryotic translation initiation factor 4E
+ORTHOLOGY   K03259  translation initiation factor 4E
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa03013  RNA transport
+            hsa04066  HIF-1 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04910  Insulin signaling pathway
+MODULE      hsa_M00428  eIF4F complex
+DRUG_TARGET Briciclib (DG01851): D10694
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                1977 (EIF4E)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                1977 (EIF4E)
+               04151 PI3K-Akt signaling pathway
+                1977 (EIF4E)
+               04150 mTOR signaling pathway
+                1977 (EIF4E)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                1977 (EIF4E)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                1977 (EIF4E)
+             Human Diseases
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                1977 (EIF4E)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 1977 (EIF4E)
+               mRNA cycle factors
+                Common to processing body (P body) and stress granule
+                 1977 (EIF4E)
+            Translation factors [BR:hsa03012]
+             Eukaryotic Type
+              Initiation factors
+               eIF-4
+                1977 (EIF4E)
+POSITION    4q23
+MOTIF       Pfam: IF4E
+DBLINKS     NCBI-GeneID: 1977
+            NCBI-ProteinID: NP_001959
+            OMIM: 133440
+            HGNC: 3287
+            Ensembl: ENSG00000151247
+            Vega: OTTHUMG00000161090
+            Pharos: P06730(Tchem)
+            UniProt: P06730
+STRUCTURE   PDB: 4TPW 5T46 4TQB 5EI3 4UED 4TQC 5GW6 1IPB 1IPC 3U7X 3TF2
+                 2V8Y 1WKW 4AZA 3AM7 2W97 2V8W 2V8X 5EHC 4BEA 4DT6 5EIR
+                 4DUM 5EKV 2GPQ
+AASEQ       217
+            MATVEPETTPTPNPPTTEEEKTESNQEVANPEHYIKHPLQNRWALWFFKNDKSKTWQANL
+            RLISKFDTVEDFWALYNHIQLSSNLMPGCDYSLFKDGIEPMWEDEKNKRGGRWLITLNKQ
+            QRRSDLDRFWLETLLCLIGESFDDYSDDVCGAVVNVRAKGDKIAIWTTECENREAVTHIG
+            RVYKERLGLPPKIVIGYQSHADTATKSGSTTKNRFVV
+NTSEQ       654
+            atggcgactgtcgaaccggaaaccacccctactcctaatcccccgactacagaagaggag
+            aaaacggaatctaatcaggaggttgctaacccagaacactatattaaacatcccctacag
+            aacagatgggcactctggttttttaaaaatgataaaagcaaaacttggcaagcaaacctg
+            cggctgatctccaagtttgatactgttgaagacttttgggctctgtacaaccatatccag
+            ttgtctagtaatttaatgcctggctgtgactactcactttttaaggatggtattgagcct
+            atgtgggaagatgagaaaaacaaacggggaggacgatggctaattacattgaacaaacag
+            cagagacgaagtgacctcgatcgcttttggctagagacacttctgtgccttattggagaa
+            tcttttgatgactacagtgatgatgtatgtggcgctgttgttaatgttagagctaaaggt
+            gataagatagcaatatggactactgaatgtgaaaacagagaagctgttacacatataggg
+            agggtatacaaggaaaggttaggacttcctccaaagatagtgattggttatcagtcccac
+            gcagacacagctactaagagcggctccaccactaaaaataggtttgttgtttaa
+///

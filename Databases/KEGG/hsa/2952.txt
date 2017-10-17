@@ -1,0 +1,71 @@
+ENTRY       2952              CDS       T01001
+NAME        GSTT1
+DEFINITION  (RefSeq) glutathione S-transferase theta 1
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00516  Isolated orofacial clefts
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2952 (GSTT1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                2952 (GSTT1)
+               00982 Drug metabolism - cytochrome P450
+                2952 (GSTT1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                2952 (GSTT1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                2952 (GSTT1)
+              Drug resistance
+               01524 Platinum drug resistance
+                2952 (GSTT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 2952 (GSTT1)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               2952 (GSTT1)
+POSITION    22q11.23
+MOTIF       Pfam: GST_N_3 GST_N GST_N_2 GST_C GST_C_3 GST_N_4 GST_C_2 Tom37
+DBLINKS     NCBI-GeneID: 2952
+            NCBI-ProteinID: NP_000844
+            OMIM: 600436
+            HGNC: 4641
+            Pharos: P30711(Tbio)
+            UniProt: P30711
+STRUCTURE   PDB: 2C3Q 2C3T 2C3N
+AASEQ       240
+            MGLELYLDLLSQPCRAVYIFAKKNDIPFELRIVDLIKGQHLSDAFAQVNPLKKVPALKDG
+            DFTLTESVAILLYLTRKYKVPDYWYPQDLQARARVDEYLAWQHTTLRRSCLRALWHKVMF
+            PVFLGEPVSPQTLAATLAELDVTLQLLEDKFLQNKAFLTGPHISLADLVAITELMHPVGA
+            GCQVFEGRPKLATWRQRVEAAVGEDLFQEAHEVILKAKDFPPADPTIKQKLMPWVLAMIR
+NTSEQ       723
+            atgggcctggagctgtacctggacctgctgtcccagccctgccgcgctgtttacatcttt
+            gccaagaagaacgacattcccttcgagctgcgcatcgtggatctgattaaaggtcagcac
+            ttaagcgatgcctttgcccaggtgaaccccctcaagaaggtgccagccttgaaggacggg
+            gacttcaccttgacggagagtgtggccatcctgctctacctgacgcgcaaatataaggtc
+            cctgactactggtaccctcaggacctgcaggcccgtgcccgtgtggatgagtacctggca
+            tggcagcacacgactctgcggagaagctgcctccgggccttgtggcataaggtgatgttc
+            cctgttttcctgggtgagccagtatctccccagacactggcagccaccctggcagagttg
+            gatgtgaccctgcagttgctcgaggacaagttcctccagaacaaggccttccttactggt
+            cctcacatctccttagctgacctcgtagccatcacggagctgatgcatcccgtgggtgct
+            ggctgccaagtcttcgaaggccgacccaagctggccacatggcggcagcgcgtggaggca
+            gcagtgggggaggacctcttccaggaggcccatgaggtcattctgaaggccaaggacttc
+            ccacctgcagaccccaccataaagcagaagctgatgccctgggtgctggccatgatccgg
+            tga
+///

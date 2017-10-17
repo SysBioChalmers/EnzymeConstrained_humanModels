@@ -1,0 +1,54 @@
+ENTRY       2593              CDS       T01001
+NAME        GAMT, CCDS2, HEL-S-20, PIG2, TP53I2
+DEFINITION  (RefSeq) guanidinoacetate N-methyltransferase
+ORTHOLOGY   K00542  guanidinoacetate N-methyltransferase [EC:2.1.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00047  Creatine pathway
+DISEASE     H00834  Guanidinoacetate methyltransferase (GAMT) deficiency
+            H00849  Creatine deficiency syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                2593 (GAMT)
+               00330 Arginine and proline metabolism
+                2593 (GAMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.2  guanidinoacetate N-methyltransferase
+                 2593 (GAMT)
+POSITION    19p13.3
+MOTIF       Pfam: Methyltransf_25
+DBLINKS     NCBI-GeneID: 2593
+            NCBI-ProteinID: NP_000147
+            OMIM: 601240
+            HGNC: 4136
+            Ensembl: ENSG00000130005
+            Vega: OTTHUMG00000180095
+            Pharos: Q14353(Tbio)
+            UniProt: Q14353 V9HWB2
+STRUCTURE   PDB: 3ORH
+AASEQ       236
+            MSAPSATPIFAPGENCSPAWGAAPAAYDAADTHLRILGKPVMERWETPYMHALAAAASSK
+            GGRVLEVGFGMAIAASKVQEAPIDEHWIIECNDGVFQRLRDWAPRQTHKVIPLKGLWEDV
+            APTLPDGHFDGILYDTYPLSEETWHTHQFNFIKNHAFRLLKPGGVLTYCNLTSWGELMKS
+            KYSDITIMFEETQVPALLEAGFRRENIRTEVMALVPPADCRYYAFPQMITPLVTKG
+NTSEQ       711
+            atgagcgcccccagcgcgacccccatcttcgcgcccggcgagaactgcagccccgcgtgg
+            ggggcggcgcccgcggcctacgacgcagcggacacgcacctgcgcatcctgggcaagccg
+            gtgatggagcgctgggagaccccctatatgcacgcgctggccgccgccgcctcctccaaa
+            gggggccgggtcctggaggtgggctttggcatggccatcgcagcgtcaaaggtgcaggag
+            gcgcccattgatgagcattggatcatcgagtgcaatgacggcgtcttccagcggctccgg
+            gactgggccccacggcagacacacaaggtcatccccttgaaaggcctgtgggaggatgtg
+            gcacccaccctgcctgacggtcactttgatgggatcctgtacgacacgtacccactctcg
+            gaggagacctggcacacacaccagttcaacttcatcaagaaccacgcctttcgcctgctg
+            aagccggggggcgtcctcacctactgcaacctcacctcctggggggagctgatgaagtcc
+            aagtactcagacatcaccatcatgtttgaggagacgcaggtgcccgcgctgctggaggcc
+            ggcttccggagggagaacatccgtacggaggtgatggcgctggtcccaccggccgactgc
+            cgctactacgccttcccacagatgatcacgcccctggtgaccaaaggctga
+///

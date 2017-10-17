@@ -1,0 +1,100 @@
+ENTRY       10333             CDS       T01001
+NAME        TLR6, CD286
+DEFINITION  (RefSeq) toll like receptor 6
+ORTHOLOGY   K10169  toll-like receptor 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04620  Toll-like receptor signaling pathway
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05152  Tuberculosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                10333 (TLR6)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                10333 (TLR6)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                10333 (TLR6)
+               05142 Chagas disease (American trypanosomiasis)
+                10333 (TLR6)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Toll-like receptors
+                10333 (TLR6)
+            CD molecules [BR:hsa04090]
+             Proteins
+              10333 (TLR6)
+POSITION    4p14
+MOTIF       Pfam: TIR LRR_8 LRR_4 TIR_2 LRR_6 LRR_9 LRRCT TIR-like
+DBLINKS     NCBI-GeneID: 10333
+            NCBI-ProteinID: NP_006059
+            OMIM: 605403
+            HGNC: 16711
+            Ensembl: ENSG00000174130
+            Vega: OTTHUMG00000128579
+            Pharos: Q9Y2C9(Tbio)
+            UniProt: Q9Y2C9 B2R933
+STRUCTURE   PDB: 4OM7
+AASEQ       796
+            MTKDKEPIVKSFHFVCLMIIIVGTRIQFSDGNEFAVDKSKRGLIHVPKDLPLKTKVLDMS
+            QNYIAELQVSDMSFLSELTVLRLSHNRIQLLDLSVFKFNQDLEYLDLSHNQLQKISCHPI
+            VSFRHLDLSFNDFKALPICKEFGNLSQLNFLGLSAMKLQKLDLLPIAHLHLSYILLDLRN
+            YYIKENETESLQILNAKTLHLVFHPTSLFAIQVNISVNTLGCLQLTNIKLNDDNCQVFIK
+            FLSELTRGSTLLNFTLNHIETTWKCLVRVFQFLWPKPVEYLNIYNLTIIESIREEDFTYS
+            KTTLKALTIEHITNQVFLFSQTALYTVFSEMNIMMLTISDTPFIHMLCPHAPSTFKFLNF
+            TQNVFTDSIFEKCSTLVKLETLILQKNGLKDLFKVGLMTKDMPSLEILDVSWNSLESGRH
+            KENCTWVESIVVLNLSSNMLTDSVFRCLPPRIKVLDLHSNKIKSVPKQVVKLEALQELNV
+            AFNSLTDLPGCGSFSSLSVLIIDHNSVSHPSADFFQSCQKMRSIKAGDNPFQCTCELREF
+            VKNIDQVSSEVLEGWPDSYKCDYPESYRGSPLKDFHMSELSCNITLLIVTIGATMLVLAV
+            TVTSLCIYLDLPWYLRMVCQWTQTRRRARNIPLEELQRNLQFHAFISYSEHDSAWVKSEL
+            VPYLEKEDIQICLHERNFVPGKSIVENIINCIEKSYKSIFVLSPNFVQSEWCHYELYFAH
+            HNLFHEGSNNLILILLEPIPQNSIPNKYHKLKALMTQRTYLQWPKEKSKRGLFWANIRAA
+            FNMKLTLVTENNDVKS
+NTSEQ       2391
+            atgaccaaagacaaagaacctattgttaaaagcttccattttgtttgccttatgatcata
+            atagttggaaccagaatccagttctccgacggaaatgaatttgcagtagacaagtcaaaa
+            agaggtcttattcatgttccaaaagacctaccgctgaaaaccaaagtcttagatatgtct
+            cagaactacatcgctgagcttcaggtctctgacatgagctttctatcagagttgacagtt
+            ttgagactttcccataacagaatccagctacttgatttaagtgttttcaagttcaaccag
+            gatttagaatatttggatttatctcataatcagttgcaaaagatatcctgccatcctatt
+            gtgagtttcaggcatttagatctctcattcaatgatttcaaggccctgcccatctgtaag
+            gaatttggcaacttatcacaactgaatttcttgggattgagtgctatgaagctgcaaaaa
+            ttagatttgctgccaattgctcacttgcatctaagttatatccttctggatttaagaaat
+            tattatataaaagaaaatgagacagaaagtctacaaattctgaatgcaaaaacccttcac
+            cttgtttttcacccaactagtttattcgctatccaagtgaacatatcagttaatacttta
+            gggtgcttacaactgactaatattaaattgaatgatgacaactgtcaagttttcattaaa
+            tttttatcagaactcaccagaggttcaaccttactgaattttaccctcaaccacatagaa
+            acgacttggaaatgcctggtcagagtctttcaatttctttggcccaaacctgtggaatat
+            ctcaatatttacaatttaacaataattgaaagcattcgtgaagaagattttacttattct
+            aaaacgacattgaaagcattgacaatagaacatatcacgaaccaagtttttctgttttca
+            cagacagctttgtacaccgtgttttctgagatgaacattatgatgttaaccatttcagat
+            acaccttttatacacatgctgtgtcctcatgcaccaagcacattcaagtttttgaacttt
+            acccagaacgttttcacagatagtatttttgaaaaatgttccacgttagttaaattggag
+            acacttatcttacaaaagaatggattaaaagaccttttcaaagtaggtctcatgacgaag
+            gatatgccttctttggaaatactggatgttagctggaattctttggaatctggtagacat
+            aaagaaaactgcacttgggttgagagtatagtggtgttaaatttgtcttcaaatatgctt
+            actgactctgttttcagatgtttacctcccaggatcaaggtacttgatcttcacagcaat
+            aaaataaagagcgttcctaaacaagtcgtaaaactggaagctttgcaagaactcaatgtt
+            gctttcaattctttaactgaccttcctggatgtggcagctttagcagcctttctgtattg
+            atcattgatcacaattcagtttcccacccatcggctgatttcttccagagctgccagaag
+            atgaggtcaataaaagcaggggacaatccattccaatgtacctgtgagctaagagaattt
+            gtcaaaaatatagaccaagtatcaagtgaagtgttagagggctggcctgattcttataag
+            tgtgactacccagaaagttatagaggaagcccactaaaggactttcacatgtctgaatta
+            tcctgcaacataactctgctgatcgtcaccatcggtgccaccatgctggtgttggctgtg
+            actgtgacctccctctgcatctacttggatctgccctggtatctcaggatggtgtgccag
+            tggacccagactcggcgcagggccaggaacatacccttagaagaactccaaagaaacctc
+            cagtttcatgcttttatttcatatagtgaacatgattctgcctgggtgaaaagtgaattg
+            gtaccttacctagaaaaagaagatatacagatttgtcttcatgagagaaactttgtccct
+            ggcaagagcattgtggaaaatatcatcaactgcattgagaagagttacaagtccatcttt
+            gttttgtctcccaactttgtccagagtgagtggtgccattacgaactctattttgcccat
+            cacaatctctttcatgaaggatctaataacttaatcctcatcttactggaacccattcca
+            cagaacagcattcccaacaagtaccacaagctgaaggctctcatgacgcagcggacttat
+            ttgcagtggcccaaggagaaaagcaaacgtgggctcttttgggctaacattagagccgct
+            tttaatatgaaattaacactagtcactgaaaacaatgatgtgaaatcttaa
+///

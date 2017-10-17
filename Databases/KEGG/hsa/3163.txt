@@ -1,0 +1,59 @@
+ENTRY       3163              CDS       T01001
+NAME        HMOX2, HO-2
+DEFINITION  (RefSeq) heme oxygenase 2
+ORTHOLOGY   K21418  heme oxygenase 2 [EC:1.14.14.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+            hsa04978  Mineral absorption
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                3163 (HMOX2)
+             Organismal Systems
+              Digestive system
+               04978 Mineral absorption
+                3163 (HMOX2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.18  heme oxygenase (biliverdin-producing)
+                 3163 (HMOX2)
+POSITION    16p13.3
+MOTIF       Pfam: Heme_oxygenase SsgA
+DBLINKS     NCBI-GeneID: 3163
+            NCBI-ProteinID: NP_001120676
+            OMIM: 141251
+            HGNC: 5014
+            Ensembl: ENSG00000103415
+            Vega: OTTHUMG00000129473
+            Pharos: P30519(Tbio)
+            UniProt: P30519
+STRUCTURE   PDB: 5UC9 5UC8 5UCA 2Q32 4WMH 2RGZ 2QPP
+AASEQ       316
+            MSAEVETSEGVDESEKKNSGALEKENQMRMADLSELLKEGTKEAHDRAENTQFVKDFLKG
+            NIKKELFKLATTALYFTYSALEEEMERNKDHPAFAPLYFPMELHRKEALTKDMEYFFGEN
+            WEEQVQCPKAAQKYVERIHYIGQNEPELLVAHAYTRYMGDLSGGQVLKKVAQRALKLPST
+            GEGTQFYLFENVDNAQQFKQLYRARMNALDLNMKTKERIVEEANKAFEYNMQIFNELDQA
+            GSTLARETLEDGFPVHDGKGDMRKCPFYAAEQDKGALEGSSCPFRTAMAVLRKPSLQFIL
+            AAGVALAAGLLAWYYM
+NTSEQ       951
+            atgtcagcggaagtggaaacctcagagggggtagacgagtcagaaaaaaagaactctggg
+            gccctagaaaaggagaaccaaatgagaatggctgacctctcggagctcctgaaggaaggg
+            accaaggaagcacacgaccgggcagaaaacacccagtttgtcaaggacttcttgaaaggc
+            aacattaagaaggagctgtttaagctggccaccacggcactttacttcacatactcagcc
+            ctcgaggaggaaatggagcgcaacaaggaccatccagcctttgcccctttgtacttcccc
+            atggagctgcaccggaaggaggcgctgaccaaggacatggagtatttctttggtgaaaac
+            tgggaggagcaggtgcagtgccccaaggctgcccagaagtacgtggagcggatccactac
+            atagggcagaacgagccggagctactggtggcccatgcatacacccgctacatgggggat
+            ctctcggggggccaggtgctgaagaaggtggcccagcgagcactgaaactccccagcaca
+            ggggaagggacccagttctacctgtttgagaatgtggacaatgcccagcagttcaagcag
+            ctctaccgggccaggatgaacgccctggacctgaacatgaagaccaaagagaggatcgtg
+            gaggaggccaacaaggcttttgagtataacatgcagatattcaatgaactggaccaggcc
+            ggctccacactggccagagagaccttggaggatgggttccctgtacacgatgggaaagga
+            gacatgcgtaaatgccctttctacgctgctgaacaagacaaaggtgccctggagggcagc
+            agctgtcccttccgaacagctatggctgtgctgaggaagcccagcctccagttcatcctg
+            gccgctggtgtggccctagctgctggactcttggcctggtactacatgtga
+///

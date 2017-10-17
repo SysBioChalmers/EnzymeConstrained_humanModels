@@ -1,0 +1,84 @@
+ENTRY       101930123         CDS       T01001
+DEFINITION  (RefSeq) eukaryotic elongation factor 2 kinase
+ORTHOLOGY   K08292  elongation factor 2 kinase [EC:2.7.11.20]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04152  AMPK signaling pathway
+            hsa04921  Oxytocin signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                101930123
+             Organismal Systems
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                101930123
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.20  elongation factor 2 kinase
+                 101930123
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Atypical group
+              Alpha family [OT]
+               101930123
+POSITION    16
+MOTIF       Pfam: Alpha_kinase Sel1
+DBLINKS     NCBI-GeneID: 101930123
+            NCBI-ProteinID: XP_005276554
+            UniProt: O00418
+STRUCTURE   PDB: 5KS5 5J8H
+AASEQ       725
+            MADEDLIFRLEGVDGGQSPRAGHDGDSDGDSDDEEGYFICPITDDPSSNQNVNSKVNKYY
+            SNLTKSERYSSSGSPANSFHFKEAWKHAIQKAKHMPDPWAEFHLEDIATERATRHRYNAV
+            TGEWLDDEVLIKMASQPFGRGAMRECFRTKKLSNFLHAQQWKGASNYVAKRYIEPVDRDV
+            YFEDVRLQMEAKLWGEEYNRHKPPKQVDIMQMCIIELKDRPGKPLFHLEHYIEGKYIKYN
+            SNSGFVRDDNIRLTPQAFSHFTFERSGHQLIVVDIQGVGDLYTDPQIHTETGTDFGDGNL
+            GVRGMALFFYSHACNRICESMGLAPFDLSPRERDAVNQNTKLLQSAKTILRGTEEKCGSP
+            RVRTLSGSRPPLLRPLSENSGDENMSDVTFDSLPSSPSSATPHSQKLDHLHWPVFSDLDN
+            MASRDHDHLDNHRESENSGDSGYPSEKRGELDDPEPREHGHSYSNRKYESDEDSLGSSGR
+            VCVEKWNLLNSSRLHLPRASAVALEVQRLNALDLEKKIGKSILGKVHLAMVRYHEGGRFC
+            EKGEEWDQESAVFHLEHAANLGELEAIVGLGLMYSQLPHHILADVSLKETEENKTKGFDY
+            LLKAAEAGDRQSMILVARAFDSGQNLSPDRCQDWLEALHWYNTALEMTDCDEGGEYDGMQ
+            DEPRYMMLAREAEMLFTGGYGLEKDPQRSGDLYTQAAEAAMEAMKGRLANQYYQKAEEAW
+            AQMEE
+NTSEQ       2178
+            atggcagacgaagatctcatcttccgcctggaaggcgttgatggcggccagtccccccga
+            gctggccatgatggtgattctgatggggacagcgacgatgaggaaggttacttcatctgc
+            cccatcacggatgacccaagctcgaaccagaatgtcaattccaaggttaataagtactac
+            agcaacctaacaaaaagtgagcggtatagctccagcgggtccccggcaaactccttccac
+            ttcaaggaagcctggaagcacgcaatccagaaggccaagcacatgcccgacccctgggct
+            gagttccacctggaagatattgccaccgaacgtgctactcgacacaggtacaacgccgtc
+            accggggaatggctggatgatgaagttctgatcaagatggcatctcagcccttcggccga
+            ggagcaatgagggagtgcttccggacgaagaagctctccaacttcttgcatgcccagcag
+            tggaagggcgcctccaactacgtggcgaagcgctacatcgagcccgtagaccgggatgtg
+            tactttgaggacgtgcgtctacagatggaggccaagctctggggggaggagtataatcgg
+            cacaagccccccaagcaggtggacatcatgcagatgtgcatcatcgagctgaaggacaga
+            ccgggcaagcccctcttccacctggagcactacatcgagggcaagtacatcaagtacaac
+            tccaactctggctttgtccgcgatgacaacatccgcctgacgccgcaggccttcagccac
+            ttcacttttgagcgttccggccatcagctgatagtggtggacatccagggagttggggat
+            ctctacactgacccacagatccacacggagacgggcactgactttggagacggcaaccta
+            ggtgtccgcgggatggcgctcttcttctactctcatgcctgcaaccggatttgcgagagc
+            atgggccttgctccctttgacctctcgccccgggagagggatgcagtgaatcagaacacc
+            aagctgctgcaatcagccaagaccatcttgagaggaacagaggaaaaatgtgggagcccc
+            cgagtaaggaccctctctgggagccggccacccctgctccgtcccctttcagagaactct
+            ggagacgagaacatgagcgacgtgaccttcgactctctcccttcttccccatcttcggcc
+            acaccacacagccagaagctagaccacctccattggccagtgttcagtgacctcgataac
+            atggcatccagagaccatgatcatctagacaaccaccgggagtctgagaatagtggggac
+            agcggataccccagtgagaagcggggtgagctggatgaccctgagccccgagaacatggc
+            cactcatacagtaatcggaagtacgagtctgacgaagacagcctgggcagctctggacgg
+            gtatgtgtagagaagtggaatctcctcaactcctcccgcctccacctgccgagggcttcg
+            gccgtggccctggaagtgcaaaggcttaatgctctggacctcgaaaagaaaatcgggaag
+            tccattttggggaaggtccatctggccatggtgcgctaccacgagggtgggcgcttctgc
+            gagaagggcgaggagtgggaccaggagtcggctgtcttccacctggagcacgcagccaac
+            ctgggcgagctggaggccatcgtgggcctgggactcatgtactcgcagttgcctcatcac
+            atcctagccgatgtctctctgaaggagacagaagagaacaaaaccaaaggatttgattac
+            ttactaaaggccgctgaagctggcgacaggcagtccatgatcctagtggcgcgagctttt
+            gactctggccagaacctcagcccggacaggtgccaagactggctagaggccctgcactgg
+            tacaacactgccctggagatgacggactgtgatgagggcggtgagtacgacggaatgcag
+            gacgagccccggtacatgatgctggccagggaggccgagatgctgttcacaggaggctac
+            gggctggagaaggacccgcagagatcaggggacttgtatacccaggcagcagaggcagcg
+            atggaagccatgaagggccgactggccaaccagtactaccaaaaggctgaagaggcctgg
+            gcccagatggaggagtaa
+///

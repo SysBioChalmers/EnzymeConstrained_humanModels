@@ -1,0 +1,102 @@
+ENTRY       8451              CDS       T01001
+NAME        CUL4A
+DEFINITION  (RefSeq) cullin 4A
+ORTHOLOGY   K10609  cullin 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03420  Nucleotide excision repair
+            hsa04120  Ubiquitin mediated proteolysis
+MODULE      hsa_M00385  Cul4-DDB1-DDB2 complex
+            hsa_M00386  Cul4-DDB1-CSA complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                8451 (CUL4A)
+              Replication and repair
+               03420 Nucleotide excision repair
+                8451 (CUL4A)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               Cul4 complex
+                Cullin
+                 8451 (CUL4A)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 Cul4-DDB2 complex
+                  8451 (CUL4A)
+                TCR (transcription coupled repair) factors
+                 Cul4-CSA complex
+                  8451 (CUL4A)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               8451 (CUL4A)
+POSITION    13q34
+MOTIF       Pfam: Cullin Cullin_Nedd8 SecA_SW
+DBLINKS     NCBI-GeneID: 8451
+            NCBI-ProteinID: NP_001008895
+            OMIM: 603137
+            HGNC: 2554
+            Ensembl: ENSG00000139842
+            Vega: OTTHUMG00000017384
+            Pharos: Q13619(Tbio)
+            UniProt: Q13619
+STRUCTURE   PDB: 2HYE 4A0K
+AASEQ       759
+            MADEAPRKGSFSALVGRTNGLTKPAALAAAPAKPGGAGGSKKLVIKNFRDRPRLPDNYTQ
+            DTWRKLHEAVRAVQSSTSIRYNLEELYQAVENLCSHKVSPMLYKQLRQACEDHVQAQILP
+            FREDSLDSVLFLKKINTCWQDHCRQMIMIRSIFLFLDRTYVLQNSTLPSIWDMGLELFRT
+            HIISDKMVQSKTIDGILLLIERERSGEAVDRSLLRSLLGMLSDLQVYKDSFELKFLEETN
+            CLYAAEGQRLMQEREVPEYLNHVSKRLEEEGDRVITYLDHSTQKPLIACVEKQLLGEHLT
+            AILQKGLDHLLDENRVPDLAQMYQLFSRVRGGQQALLQHWSEYIKTFGTAIVINPEKDKD
+            MVQDLLDFKDKVDHVIEVCFQKNERFVNLMKESFETFINKRPNKPAELIAKHVDSKLRAG
+            NKEATDEELERTLDKIMILFRFIHGKDVFEAFYKKDLAKRLLVGKSASVDAEKSMLSKLK
+            HECGAAFTSKLEGMFKDMELSKDIMVHFKQHMQNQSDSGPIDLTVNILTMGYWPTYTPME
+            VHLTPEMIKLQEVFKAFYLGKHSGRKLQWQTTLGHAVLKAEFKEGKKEFQVSLFQTLVLL
+            MFNEGDGFSFEEIKMATGIEDSELRRTLQSLACGKARVLIKSPKGKEVEDGDKFIFNGEF
+            KHKLFRIKINQIQMKETVEEQVSTTERVFQDRQYQIDAAIVRIMKMRKTLGHNLLVSELY
+            NQLKFPVKPGDLKKRIESLIDRDYMERDKDNPNQYHYVA
+NTSEQ       2280
+            atggcggacgaggccccgcggaagggcagcttctcggcgctcgtgggccgcaccaacggc
+            ctcaccaagcccgcggccctggccgccgcgcccgccaagccggggggcgcgggcggctcc
+            aagaagctggtcatcaagaacttccgagacagacctcggctgcccgacaactacacgcag
+            gacacgtggcggaagctgcacgaggcggtgcgggccgtgcagagcagcacctccatcagg
+            tacaacctcgaggagctctaccaggctgtggaaaatctctgttctcacaaagtctcccca
+            atgctctacaagcaactgcgtcaggcctgtgaagaccacgtccaggcacagatccttccg
+            tttagagaagactcactagatagtgttttatttttaaagaagattaacacgtgctggcag
+            gaccactgcagacaaatgatcatgatcagaagcatcttcctgttcttggaccgcacctat
+            gtgctgcagaactccacgctgccctccatctgggatatgggattagaactgtttagaacc
+            catattattagtgataaaatggttcagagtaaaaccattgatggaatcctactgctgatc
+            gagcgcgagaggagcggcgaggccgtggaccggagcctgttgcggagcctcctgggcatg
+            ctgtctgacctgcaggtgtataaagattcatttgaactgaaatttttggaagagactaat
+            tgcttatatgctgccgaaggccaaaggttaatgcaggaaagagaggttccagaatatctt
+            aaccatgtaagtaaacgcttagaggaagagggagacagagtaatcacttacttggaccac
+            agcacacagaaaccactgattgcttgtgtggagaaacagctattaggagaacatttaaca
+            gcaattctgcagaaagggctcgaccacttactggatgagaacagagtgccggacctcgca
+            cagatgtaccagctgttcagccgggtgaggggcgggcagcaggcgctgctgcagcactgg
+            agcgagtacatcaagacttttggaacagcgatcgtaatcaatcctgagaaagacaaagac
+            atggtccaagacctgttggacttcaaggacaaggtggaccacgtgatcgaggtctgcttc
+            cagaagaatgagcggttcgtcaacctgatgaaggagtcctttgagacgttcatcaacaag
+            agacccaacaagcctgcagaactgatcgcaaagcatgtggattcaaagttaagagcaggc
+            aacaaagaagccacagacgaggagctggagcggacgttggacaagatcatgatcctgttc
+            aggtttatccacggtaaagatgtctttgaagcattttataaaaaagatttggcaaaaaga
+            ctccttgttgggaaaagtgcctcagtcgatgctgaaaagtctatgttgtcaaagctcaag
+            catgagtgcggtgcagccttcaccagcaagctggaaggcatgttcaaggacatggagctt
+            tcgaaggacatcatggttcatttcaagcagcatatgcagaatcagagtgactcaggccct
+            atagacctcacagtgaacatactcacaatgggctactggccaacatacacgcccatggaa
+            gtgcacttaaccccagaaatgattaaacttcaggaagtatttaaggcattttatcttgga
+            aagcacagtggtcgaaaacttcagtggcaaactactttgggacatgctgttttaaaagcg
+            gagtttaaagaagggaagaaggaattccaggtgtccctcttccagacactggtgctcctc
+            atgttcaacgagggagatggcttcagctttgaggagataaaaatggccacggggatagag
+            gatagtgaattgcgcagaacgctgcagtccctggcctgtggcaaagcacgtgtgctgatt
+            aaaagtcccaaaggaaaggaagtggaagatggagacaagttcatttttaatggagagttc
+            aagcacaagttgtttagaataaagatcaatcaaattcagatgaaggaaactgttgaggaa
+            caggttagcaccactgagagagtgtttcaggatagacaatatcagattgatgctgctatc
+            gtcagaataatgaagatgagaaagactcttggtcataatcttctagtttctgaattatat
+            aatcagctgaaatttccagtaaagcctggagatttgaaaaagagaattgaatctctgata
+            gacagagactatatggagagagacaaagacaatccgaatcagtaccactacgtggcctga
+///

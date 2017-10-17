@@ -1,0 +1,57 @@
+ENTRY       79644             CDS       T01001
+NAME        SRD5A3, CDG1P, CDG1Q, KRIZI, SRD5A2L, SRD5A2L1
+DEFINITION  (RefSeq) steroid 5 alpha-reductase 3
+ORTHOLOGY   K12345  3-oxo-5-alpha-steroid 4-dehydrogenase 3 [EC:1.3.1.22 1.3.1.94]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+DRUG_TARGET Alfatradiol: D07121
+            Idronoxil: D04498
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                79644 (SRD5A3)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.22  3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)
+                 79644 (SRD5A3)
+                1.3.1.94  polyprenol reductase
+                 79644 (SRD5A3)
+POSITION    4q12
+MOTIF       Pfam: Steroid_dh
+DBLINKS     NCBI-GeneID: 79644
+            NCBI-ProteinID: NP_078868
+            OMIM: 611715
+            HGNC: 25812
+            Ensembl: ENSG00000128039
+            Vega: OTTHUMG00000128733
+            Pharos: Q9H8P0(Tbio)
+            UniProt: Q9H8P0
+AASEQ       318
+            MAPWAEAEHSALNPLRAVWLTLTAAFLLTLLLQLLPPGLLPGCAIFQDLIRYGKTKCGEP
+            SRPAACRAFDVPKRYFSHFYIISVLWNGFLLWCLTQSLFLGAPFPSWLHGLLRILGAAQF
+            QGGELALSAFLVLVFLWLHSLRRLFECLYVSVFSNVMIHVVQYCFGLVYYVLVGLTVLSQ
+            VPMDGRNAYITGKNLLMQARWFHILGMMMFIWSSAHQYKCHVILGNLRKNKAGVVIHCNH
+            RIPFGDWFEYVSSPNYLAELMIYVSMAVTFGFHNLTWWLVVTNVFFNQALSAFLSHQFYK
+            SKFVSYPKHRKAFLPFLF
+NTSEQ       957
+            atggctccctgggcggaggccgagcactcggcgctgaacccgctgcgcgcggtgtggctc
+            acgctgaccgccgccttcctgctgaccctactgctgcagctcctgccgcccggcctgctc
+            ccgggctgcgcgatcttccaggacctgatccgctatgggaaaaccaagtgtggggagccg
+            tcgcgccccgccgcctgccgagcctttgatgtccccaagagatatttttcccacttttat
+            atcatctcagtgctgtggaatggcttcctgctttggtgccttactcaatctctgttcctg
+            ggagcaccttttccaagctggcttcatggtttgctcagaattctcggggcggcacagttc
+            cagggaggggagctggcactgtctgcattcttagtgctagtatttctgtggctgcacagc
+            ttacgaagactcttcgagtgcctctacgtcagtgtcttctccaatgtcatgattcacgtc
+            gtgcagtactgttttggacttgtctattatgtccttgttggcctaactgtgctgagccaa
+            gtgccaatggatggcaggaatgcctacataacagggaaaaatctattgatgcaagcacgg
+            tggttccatattcttgggatgatgatgttcatctggtcatctgcccatcagtataagtgc
+            catgttattctcggcaatctcaggaaaaataaagcaggagtggtcattcactgtaaccac
+            aggatcccatttggagactggtttgaatatgtttcttcccctaactacttagcagagctg
+            atgatctacgtttccatggccgtcacctttgggttccacaacttaacttggtggctagtg
+            gtgacaaatgtcttctttaatcaggccctgtctgcctttctcagccaccaattctacaaa
+            agcaaatttgtctcttacccgaagcataggaaagctttcctaccatttttgttttaa
+///

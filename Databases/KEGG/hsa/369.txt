@@ -1,0 +1,173 @@
+ENTRY       369               CDS       T01001
+NAME        ARAF, A-RAF, ARAF1, PKS2, RAFA1
+DEFINITION  (RefSeq) A-Raf proto-oncogene, serine/threonine kinase
+ORTHOLOGY   K08845  A-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04012  ErbB signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04720  Long-term potentiation
+            hsa04726  Serotonergic synapse
+            hsa04730  Long-term depression
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05034  Alcoholism
+            hsa05160  Hepatitis C
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05210  Colorectal cancer
+            hsa05211  Renal cell carcinoma
+            hsa05212  Pancreatic cancer
+            hsa05213  Endometrial cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+MODULE      hsa_M00687  MAPK (ERK1/2) signaling
+DISEASE     H00523  Noonan syndrome and related disorders
+            H01738  Noonan syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                369 (ARAF)
+               04068 FoxO signaling pathway
+                369 (ARAF)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                369 (ARAF)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                369 (ARAF)
+              Endocrine system
+               04910 Insulin signaling pathway
+                369 (ARAF)
+               04914 Progesterone-mediated oocyte maturation
+                369 (ARAF)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                369 (ARAF)
+              Nervous system
+               04726 Serotonergic synapse
+                369 (ARAF)
+               04720 Long-term potentiation
+                369 (ARAF)
+               04730 Long-term depression
+                369 (ARAF)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                369 (ARAF)
+               05205 Proteoglycans in cancer
+                369 (ARAF)
+               05210 Colorectal cancer
+                369 (ARAF)
+               05212 Pancreatic cancer
+                369 (ARAF)
+               05214 Glioma
+                369 (ARAF)
+               05221 Acute myeloid leukemia
+                369 (ARAF)
+               05220 Chronic myeloid leukemia
+                369 (ARAF)
+               05218 Melanoma
+                369 (ARAF)
+               05211 Renal cell carcinoma
+                369 (ARAF)
+               05219 Bladder cancer
+                369 (ARAF)
+               05215 Prostate cancer
+                369 (ARAF)
+               05213 Endometrial cancer
+                369 (ARAF)
+               05224 Breast cancer
+                369 (ARAF)
+               05223 Non-small cell lung cancer
+                369 (ARAF)
+              Substance dependence
+               05034 Alcoholism
+                369 (ARAF)
+              Infectious diseases
+               05160 Hepatitis C
+                369 (ARAF)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                369 (ARAF)
+               01522 Endocrine resistance
+                369 (ARAF)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 369 (ARAF)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              RAF family [OT]
+               369 (ARAF)
+POSITION    Xp11.3
+MOTIF       Pfam: Pkinase_Tyr Pkinase RBD C1_1 Kinase-like zf-RING-like APH TUG-UBL1 Kdo
+DBLINKS     NCBI-GeneID: 369
+            NCBI-ProteinID: NP_001645
+            OMIM: 311010
+            HGNC: 646
+            Ensembl: ENSG00000078061
+            Vega: OTTHUMG00000021446
+            Pharos: P10398(Tbio)
+            UniProt: P10398 A0A024R178
+STRUCTURE   PDB: 2MSE 1WXM
+AASEQ       606
+            MEPPRGPPANGAEPSRAVGTVKVYLPNKQRTVVTVRDGMSVYDSLDKALKVRGLNQDCCV
+            VYRLIKGRKTVTAWDTAIAPLDGEELIVEVLEDVPLTMHNFVRKTFFSLAFCDFCLKFLF
+            HGFRCQTCGYKFHQHCSSKVPTVCVDMSTNRQQFYHSVQDLSGGSRQHEAPSNRPLNELL
+            TPQGPSPRTQHCDPEHFPFPAPANAPLQRIRSTSTPNVHMVSTTAPMDSNLIQLTGQSFS
+            TDAAGSRGGSDGTPRGSPSPASVSSGRKSPHSKSPAEQRERKSLADDKKKVKNLGYRDSG
+            YYWEVPPSEVQLLKRIGTGSFGTVFRGRWHGDVAVKVLKVSQPTAEQAQAFKNEMQVLRK
+            TRHVNILLFMGFMTRPGFAIITQWCEGSSLYHHLHVADTRFDMVQLIDVARQTAQGMDYL
+            HAKNIIHRDLKSNNIFLHEGLTVKIGDFGLATVKTRWSGAQPLEQPSGSVLWMAAEVIRM
+            QDPNPYSFQSDVYAYGVVLYELMTGSLPYSHIGCRDQIIFMVGRGYLSPDLSKISSNCPK
+            AMRRLLSDCLKFQREERPLFPQILATIELLQRSLPKIERSASEPSLHRTQADELPACLLS
+            AARLVP
+NTSEQ       1821
+            atggagccaccacggggcccccctgccaatggggccgagccatcccgggcagtgggcacc
+            gtcaaagtatacctgcccaacaagcaacgcacggtggtgactgtccgggatggcatgagt
+            gtctacgactctctagacaaggccctgaaggtgcggggtctaaatcaggactgctgtgtg
+            gtctaccgactcatcaagggacgaaagacggtcactgcctgggacacagccattgctccc
+            ctggatggcgaggagctcattgtcgaggtccttgaagatgtcccgctgaccatgcacaat
+            tttgtacggaagaccttcttcagcctggcgttctgtgacttctgccttaagtttctgttc
+            catggcttccgttgccaaacctgtggctacaagttccaccagcattgttcctccaaggtc
+            cccacagtctgtgttgacatgagtaccaaccgccaacagttctaccacagtgtccaggat
+            ttgtccggaggctccagacagcatgaggctccctcgaaccgccccctgaatgagttgcta
+            accccccagggtcccagcccccgcacccagcactgtgacccggagcacttccccttccct
+            gccccagccaatgcccccctacagcgcatccgctccacgtccactcccaacgtccatatg
+            gtcagcaccacggcccccatggactccaacctcatccagctcactggccagagtttcagc
+            actgatgctgccggtagtagaggaggtagtgatggaaccccccgggggagccccagccca
+            gccagcgtgtcctcggggaggaagtccccacattccaagtcaccagcagagcagcgcgag
+            cggaagtccttggccgatgacaagaagaaagtgaagaacctggggtaccgggactcaggc
+            tattactgggaggtaccacccagtgaggtgcagctgctgaagaggatcgggacgggctcg
+            tttggcaccgtgtttcgagggcggtggcatggcgatgtggccgtgaaggtgctcaaggtg
+            tcccagcccacagctgagcaggcccaggctttcaagaatgagatgcaggtgctcaggaag
+            acgcgacatgtcaacatcttgctgtttatgggcttcatgacccggccgggatttgccatc
+            atcacacagtggtgtgagggctccagcctctaccatcacctgcatgtggccgacacacgc
+            ttcgacatggtccagctcatcgacgtggcccggcagactgcccagggcatggactacctc
+            catgccaagaacatcatccaccgagatctcaagtctaacaacatcttcctacatgagggg
+            ctcacggtgaagatcggtgactttggcttggccacagtgaagactcgatggagcggggcc
+            cagcccttggagcagccctcaggatctgtgctgtggatggcagctgaggtgatccgtatg
+            caggacccgaacccctacagcttccagtcagacgtctatgcctacggggttgtgctctac
+            gagcttatgactggctcactgccttacagccacattggctgccgtgaccagattatcttt
+            atggtgggccgtggctatctgtccccggacctcagcaaaatctccagcaactgccccaag
+            gccatgcggcgcctgctgtctgactgcctcaagttccagcgggaggagcggcccctcttc
+            ccccagatcctggccacaattgagctgctgcaacggtcactccccaagattgagcggagt
+            gcctcggaaccctccttgcaccgcacccaggccgatgagttgcctgcctgcctactcagc
+            gcagcccgccttgtgccttag
+///

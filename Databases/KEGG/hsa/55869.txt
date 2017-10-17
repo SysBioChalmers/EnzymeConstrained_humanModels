@@ -1,0 +1,80 @@
+ENTRY       55869             CDS       T01001
+NAME        HDAC8, CDA07, CDLS5, HD8, HDACL1, MRXS6, RPD3, WTS
+DEFINITION  (RefSeq) histone deacetylase 8
+ORTHOLOGY   K11405  histone deacetylase 8 [EC:3.5.1.98]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05034  Alcoholism
+            hsa05165  Human papillomavirus infection
+            hsa05203  Viral carcinogenesis
+DISEASE     H00631  Cornelia de Lange syndrome (CdLS)
+DRUG_TARGET Belinostat: D08870
+            Panobinostat (DG01403): D10019 D10319
+            Quisinostat (DG01407): D10321 D10322
+            Romidepsin: D06637
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                55869 (HDAC8)
+              Substance dependence
+               05034 Alcoholism
+                55869 (HDAC8)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                55869 (HDAC8)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.98  histone deacetylase
+                 55869 (HDAC8)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HDACs (histone deacetylases)
+                Class I HDACs
+                 55869 (HDAC8)
+POSITION    Xq13.1
+MOTIF       Pfam: Hist_deacetyl DNase-RNase
+DBLINKS     NCBI-GeneID: 55869
+            NCBI-ProteinID: NP_060956
+            OMIM: 300269
+            HGNC: 13315
+            Ensembl: ENSG00000147099
+            Vega: OTTHUMG00000021814
+            Pharos: Q9BY41(Tclin)
+            UniProt: Q9BY41
+STRUCTURE   PDB: 5DC8 5D1C 5DC6 5BWZ 4RN0 4QA5 3EW8 3MZ4 5THV 5THS 3MZ7
+                 1T64 4QA1 5DC5 5THU 5FCW 4QA4 3SFF 3MZ6 2V5W 5D1D 4QA6
+                 3RQD 4RN1 1VKG 4QA0 2V5X 5DC7 4QA7 1T67 4QA2 4RN2 5THT
+                 3EWF 3F0R 3F06 3EZP 3SFH 3EZT 4QA3 5D1B 1T69 3MZ3 3F07
+                 1W22
+AASEQ       377
+            MEEPEEPADSGQSLVPVYIYSPEYVSMCDSLAKIPKRASMVHSLIEAYALHKQMRIVKPK
+            VASMEEMATFHTDAYLQHLQKVSQEGDDDHPDSIEYGLGYDCPATEGIFDYAAAIGGATI
+            TAAQCLIDGMCKVAINWSGGWHHAKKDEASGFCYLNDAVLGILRLRRKFERILYVDLDLH
+            HGDGVEDAFSFTSKVMTVSLHKFSPGFFPGTGDVSDVGLGKGRYYSVNVPIQDGIQDEKY
+            YQICESVLKEVYQAFNPKAVVLQLGADTIAGDPMCSFNMTPVGIGKCLKYILQWQLATLI
+            LGGGGYNLANTARCWTYLTGVILGKTLSSEIPDHEFFTAYGPDYVLEITPSCRPDRNEPH
+            RIQQILNYIKGNLKHVV
+NTSEQ       1134
+            atggaggagccggaggaaccggcggacagtgggcagtcgctggtcccggtttatatctat
+            agtcccgagtatgtcagtatgtgtgactccctggccaagatccccaaacgggccagtatg
+            gtgcattctttgattgaagcatatgcactgcataagcagatgaggatagttaagcctaaa
+            gtggcctccatggaggagatggccaccttccacactgatgcttatctgcagcatctccag
+            aaggtcagccaagagggcgatgatgatcatccggactccatagaatatgggctaggttat
+            gactgcccagccactgaagggatatttgactatgcagcagctataggaggggctacgatc
+            acagctgcccaatgcctgattgacggaatgtgcaaagtagcaattaactggtctggaggg
+            tggcatcatgcaaagaaagatgaagcatctggtttttgttatctcaatgatgctgtcctg
+            ggaatattacgattgcgacggaaatttgagcgtattctctacgtggatttggatctgcac
+            catggagatggtgtagaagacgcattcagtttcacctccaaagtcatgaccgtgtccctg
+            cacaaattctccccaggatttttcccaggaacaggtgacgtgtctgatgttggcctaggg
+            aagggacggtactacagtgtaaatgtgcccattcaggatggcatacaagatgaaaaatat
+            taccagatctgtgaaagtgtactaaaggaagtataccaagcctttaatcccaaagcagtg
+            gtcttacagctgggagctgacacaatagctggggatcccatgtgctcctttaacatgact
+            ccagtgggaattggcaagtgtcttaagtacatccttcaatggcagttggcaacactcatt
+            ttgggaggaggaggctataaccttgccaacacggctcgatgctggacatacttgaccggg
+            gtcatcctagggaaaacactatcctctgagatcccagatcatgagtttttcacagcatat
+            ggtcctgattatgtgctggaaatcacgccaagctgccggccagaccgcaatgagccccac
+            cgaatccaacaaatcctcaactacatcaaagggaatctgaagcatgtggtctag
+///

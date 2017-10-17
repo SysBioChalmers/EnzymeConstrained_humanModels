@@ -1,0 +1,98 @@
+ENTRY       4683              CDS       T01001
+NAME        NBN, AT-V1, AT-V2, ATV, NBS, NBS1, P95
+DEFINITION  (RefSeq) nibrin
+ORTHOLOGY   K10867  nibrin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+            hsa04218  Cellular senescence
+MODULE      hsa_M00291  MRN complex
+            hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+DISEASE     H00094  Immunodeficiency associated with DNA repair defects
+            H01344  Nijmegen Breakage Syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                4683 (NBN)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                4683 (NBN)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                MRN complex
+                 4683 (NBN)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                MRN(MRX) complex
+                 4683 (NBN)
+                BRCA1-C complex
+                 4683 (NBN)
+POSITION    8q21.3
+MOTIF       Pfam: Nbs1_C NIBRIN_BRCT_II FHA RTT107_BRCT_5 Yop-YscD_cpl BRCT PTCB-BRCT
+DBLINKS     NCBI-GeneID: 4683
+            NCBI-ProteinID: NP_002476
+            OMIM: 602667
+            HGNC: 7652
+            Ensembl: ENSG00000104320
+            Vega: OTTHUMG00000153546
+            Pharos: O60934(Tbio)
+            UniProt: O60934
+AASEQ       754
+            MWKLLPAAGPAGGEPYRLLTGVEYVVGRKNCAILIENDQSISRNHAVLTANFSVTNLSQT
+            DEIPVLTLKDNSKYGTFVNEEKMQNGFSRTLKSGDGITFGVFGSKFRIEYEPLVACSSCL
+            DVSGKTALNQAILQLGGFTVNNWTEECTHLVMVSVKVTIKTICALICGRPIVKPEYFTEF
+            LKAVESKKQPPQIESFYPPLDEPSIGSKNVDLSGRQERKQIFKGKTFIFLNAKQHKKLSS
+            AVVFGGGEARLITEENEEEHNFFLAPGTCVVDTGITNSQTLIPDCQKKWIQSIMDMLQRQ
+            GLRPIPEAEIGLAVIFMTTKNYCDPQGHPSTGLKTTTPGPSLSQGVSVDEKLMPSAPVNT
+            TTYVADTESEQADTWDLSERPKEIKVSKMEQKFRMLSQDAPTVKESCKTSSNNNSMVSNT
+            LAKMRIPNYQLSPTKLPSINKSKDRASQQQQTNSIRNYFQPSTKKRERDEENQEMSSCKS
+            ARIETSCSLLEQTQPATPSLWKNKEQHLSENEPVDTNSDNNLFTDTDLKSIVKNSASKSH
+            AAEKLRSNKKREMDDVAIEDEVLEQLFKDTKPELEIDVKVQKQEEDVNVRKRPRMDIETN
+            DTFSDEAVPESSKISQENEIGKKRELKEDSLWSAKEISNNDKLQDDSEMLPKKLLLTEFR
+            SLVIKNSTSRNPSGINDDYGQLKNFKKFKKVTYPGAGKLPHIIGGSDLIAHHARKNTELE
+            EWLRQEMEVQNQHAKEESLADDLFRYNPYLKRRR
+NTSEQ       2265
+            atgtggaaactgctgcccgccgcgggcccggcaggaggagaaccatacagacttttgact
+            ggcgttgagtacgttgttggaaggaaaaactgtgccattctgattgaaaatgatcagtcg
+            atcagccgaaatcatgctgtgttaactgctaacttttctgtaaccaacctgagtcaaaca
+            gatgaaatccctgtattgacattaaaagataattctaagtatggtacctttgttaatgag
+            gaaaaaatgcagaatggcttttcccgaactttgaagtcgggggatggtattacttttgga
+            gtgtttggaagtaaattcagaatagagtatgagcctttggttgcatgctcttcttgttta
+            gatgtctctgggaaaactgctttaaatcaagctatattgcaacttggaggatttactgta
+            aacaattggacagaagaatgcactcaccttgtcatggtatcagtgaaagttaccattaaa
+            acaatatgtgcactcatttgtggacgtccaattgtaaagccagaatattttactgaattc
+            ctgaaagcagttgagtccaagaagcagcctccacaaattgaaagtttttacccacctctt
+            gatgaaccatctattggaagtaaaaatgttgatctgtcaggacggcaggaaagaaaacaa
+            atcttcaaagggaaaacatttatatttttgaatgccaaacagcataagaaattgagttcc
+            gcagttgtctttggaggtggggaagctaggttgataacagaagagaatgaagaagaacat
+            aatttctttttggctccgggaacgtgtgttgttgatacaggaataacaaactcacagacc
+            ttaattcctgactgtcagaagaaatggattcagtcaataatggatatgctccaaaggcaa
+            ggtcttagacctattcctgaagcagaaattggattggcggtgattttcatgactacaaag
+            aattactgtgatcctcagggccatcccagtacaggattaaagacaacaactccaggacca
+            agcctttcacaaggcgtgtcagttgatgaaaaactaatgccaagcgccccagtgaacact
+            acaacatacgtagctgacacagaatcagagcaagcagatacatgggatttgagtgaaagg
+            ccaaaagaaatcaaagtctccaaaatggaacaaaaattcagaatgctttcacaagatgca
+            cccactgtaaaggagtcctgcaaaacaagctctaataataatagtatggtatcaaatact
+            ttggctaagatgagaatcccaaactatcagctttcaccaactaaattgccaagtataaat
+            aaaagtaaagatagggcttctcagcagcagcagaccaactccatcagaaactactttcag
+            ccgtctaccaaaaaaagggaaagggatgaagaaaatcaagaaatgtcttcatgcaaatca
+            gcaagaatagaaacgtcttgttctcttttagaacaaacacaacctgctacaccctcattg
+            tggaaaaataaggagcagcatctatctgagaatgagcctgtggacacaaactcagacaat
+            aacttatttacagatacagatttaaaatctattgtgaaaaattctgccagtaaatctcat
+            gctgcagaaaagctaagatcaaataaaaaaagggaaatggatgatgtggccatagaagat
+            gaagtattggaacagttattcaaggacacaaaaccagagttagaaattgatgtgaaagtt
+            caaaaacaggaggaagatgtcaatgttagaaaaaggccaaggatggatatagaaacaaat
+            gacactttcagtgatgaagcagtaccagaaagtagcaaaatatctcaagaaaatgaaatt
+            gggaagaaacgtgaactcaaggaagactcactatggtcagctaaagaaatatctaacaat
+            gacaaacttcaggatgatagtgagatgcttccaaaaaagctgttattgactgaatttaga
+            tcactggtgattaaaaactctacttccagaaatccatctggcataaatgatgattatggt
+            caactaaaaaatttcaagaaattcaaaaaggtcacatatcctggagcaggaaaacttcca
+            cacatcattggaggatcagatctaatagctcatcatgctcgaaagaatacagaactagaa
+            gagtggctaaggcaggaaatggaggtacaaaatcaacatgcaaaagaagagtctcttgct
+            gatgatctttttagatacaatccttatttaaaaaggagaagataa
+///

@@ -1,0 +1,78 @@
+ENTRY       1594              CDS       T01001
+NAME        CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR
+DEFINITION  (RefSeq) cytochrome P450 family 27 subfamily B member 1
+ORTHOLOGY   K07438  calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase) [EC:1.14.15.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00100  Steroid biosynthesis
+            hsa01100  Metabolic pathways
+            hsa05152  Tuberculosis
+MODULE      hsa_M00103  Cholecalciferol biosynthesis
+DISEASE     H00408  Type I diabetes mellitus
+            H01143  Vitamin D-dependent rickets
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00100 Steroid biosynthesis
+                1594 (CYP27B1)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                1594 (CYP27B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.15  With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.15.18  calcidiol 1-monooxygenase
+                 1594 (CYP27B1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP27 family
+               1594 (CYP27B1)
+POSITION    12q14.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1594
+            NCBI-ProteinID: NP_000776
+            OMIM: 609506
+            HGNC: 2606
+            Ensembl: ENSG00000111012
+            Vega: OTTHUMG00000170457
+            Pharos: O15528(Tchem)
+            UniProt: O15528
+AASEQ       508
+            MTQTLKYASRVFHRVRWAPELGASLGYREYHSARRSLADIPGPSTPSFLAELFCKGGLSR
+            LHELQVQGAAHFGPVWLASFGTVRTVYVAAPALVEELLRQEGPRPERCSFSPWTEHRRCR
+            QRACGLLTAEGEEWQRLRSLLAPLLLRPQAAARYAGTLNNVVCDLVRRLRRQRGRGTGPP
+            ALVRDVAGEFYKFGLEGIAAVLLGSRLGCLEAQVPPDTETFIRAVGSVFVSTLLTMAMPH
+            WLRHLVPGPWGRLCRDWDQMFAFAQRHVERREAEAAMRNGGQPEKDLESGAHLTHFLFRE
+            ELPAQSILGNVTELLLAGVDTVSNTLSWALYELSRHPEVQTALHSEITAALSPGSSAYPS
+            ATVLSQLPLLKAVVKEVLRLYPVVPGNSRVPDKDIHVGDYIIPKNTLVTLCHYATSRDPA
+            QFPEPNSFRPARWLGEGPTPHPFASLPFGFGKRSCMGRRLAELELQMALAQILTHFEVQP
+            EPGAAPVRPKTRTVLVPERSINLQFLDR
+NTSEQ       1527
+            atgacccagaccctcaagtacgcctccagagtgttccatcgcgtccgctgggcgcccgag
+            ttgggcgcctccctaggctaccgagagtaccactcagcacgccggagcttggcagacatc
+            ccaggcccctctacgcccagctttctggccgaacttttctgcaagggggggctgtcgagg
+            ctacacgagctgcaggtgcagggcgccgcgcacttcgggccggtgtggctagccagcttt
+            gggacagtgcgcaccgtgtacgtggctgcccctgcactcgtcgaggagctgctgcgacag
+            gagggaccccggcccgagcgctgcagcttctcgccctggacggagcaccgccgctgccgc
+            cagcgggcttgcggactgctcactgcggaaggcgaagaatggcaaaggctccgcagtctc
+            ctggccccgctcctcctccggcctcaagcggccgcccgctacgccggaaccctgaacaac
+            gtagtctgcgaccttgtgcggcgtctgaggcgccagcggggacgtggcacggggccgccc
+            gccctggttcgggacgtggcgggggaattttacaagttcggactggaaggcatcgccgcg
+            gttctgctcggctcgcgcttgggctgcctggaggctcaagtgccacccgacacggagacc
+            ttcatccgcgctgtgggctcggtgtttgtgtccacgctgttgaccatggcgatgccccac
+            tggctgcgccaccttgtgcctgggccctggggccgcctctgccgagactgggaccagatg
+            tttgcatttgctcagaggcacgtggagcggcgagaggcagaggcagccatgaggaacgga
+            ggacagcccgagaaggacctggagtctggggcgcacctgacccacttcctgttccgggaa
+            gagttgcctgcccagtccatcctgggaaatgtgacagagttgctattggcgggagtggac
+            acggtgtccaacacgctctcttgggctctgtatgagctctcccggcaccccgaagtccag
+            acagcactccactcagagatcacagctgccctgagccctggctccagtgcctacccctca
+            gccactgttctgtcccagctgcccctgctgaaggcggtggtcaaggaagtgctaagactg
+            taccctgtggtacctggaaattctcgtgtcccagacaaagacattcatgtgggtgactat
+            attatccccaaaaatacgctggtcactctgtgtcactatgccacttcaagggaccctgcc
+            cagttcccagagccaaattcttttcgtccagctcgctggctgggggagggtcccaccccc
+            cacccatttgcatctcttccctttggctttggcaagcgcagctgtatggggagacgcctg
+            gcagagcttgaattgcaaatggctttggcccagatcctaacacattttgaggtgcagcct
+            gagccaggtgcggccccagttagacccaagacccggactgtcctggtacctgaaaggagc
+            atcaacctacagtttttggacagatag
+///

@@ -1,0 +1,54 @@
+ENTRY       5373              CDS       T01001
+NAME        PMM2, CDG1, CDG1a, CDGS, PMI, PMI1, PMM_2
+DEFINITION  (RefSeq) phosphomannomutase 2
+ORTHOLOGY   K17497  phosphomannomutase [EC:5.4.2.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00051  Fructose and mannose metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00051 Fructose and mannose metabolism
+                5373 (PMM2)
+               00520 Amino sugar and nucleotide sugar metabolism
+                5373 (PMM2)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.8  phosphomannomutase
+                 5373 (PMM2)
+POSITION    16p13.2
+MOTIF       Pfam: PMM Hydrolase_3 S6PP SBP_bac_6 Hydrolase DUF600
+DBLINKS     NCBI-GeneID: 5373
+            NCBI-ProteinID: NP_000294
+            OMIM: 601785
+            HGNC: 9115
+            Ensembl: ENSG00000140650
+            Vega: OTTHUMG00000129697
+            Pharos: O15305(Tchem)
+            UniProt: O15305 Q59F02 A0A0S2Z4J6
+STRUCTURE   PDB: 2Q4R 2AMY
+AASEQ       246
+            MAAPGPALCLFDVDGTLTAPRQKITKEMDDFLQKLRQKIKIGVVGGSDFEKVQEQLGNDV
+            VEKYDYVFPENGLVAYKDGKLLCRQNIQSHLGEALIQDLINYCLSYIAKIKLPKKRGTFI
+            EFRNGMLNVSPIGRSCSQEERIEFYELDKKENIRQKFVADLRKEFAGKGLTFSIGGQISF
+            DVFPDGWDKRYCLRHVENDGYKTIYFFGDKTMPGGNDHEIFTDPRTMGYSVTAPEDTRRI
+            CELLFS
+NTSEQ       741
+            atggcagcgcctggcccagcgctctgcctcttcgacgtggatgggaccctcaccgccccg
+            cggcagaaaattaccaaagaaatggatgacttcctacaaaaattgaggcagaagatcaaa
+            atcggagtggtaggcggatcggactttgagaaagtgcaggagcaactgggaaatgatgtg
+            gttgaaaaatacgattatgtgtttccagaaaatggcttggtagcatacaaagatgggaaa
+            ctcttgtgtagacagaatattcaaagtcatctgggtgaggccctaatccaagatttaatc
+            aactactgtctgagctacattgcgaaaattaaactcccgaagaagaggggtactttcatt
+            gaattccgaaatgggatgttaaacgtgtcccctattggaagaagctgcagccaagaagaa
+            cgcattgagttctacgaactcgataaaaaagaaaatataagacaaaagtttgtagcagat
+            ctacggaaagagtttgctggaaaaggcctcacgttttccataggaggccagatcagcttt
+            gatgtctttcctgatggatgggacaagagatactgtctgcgacatgtggaaaatgacggt
+            tataagaccatttatttctttggagacaaaactatgccaggtggcaatgaccatgagatc
+            ttcacagaccccagaaccatgggctactccgtgacagcgcctgaggacacgcgcaggatc
+            tgtgaactgctgttctcctaa
+///

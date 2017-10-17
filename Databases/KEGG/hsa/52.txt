@@ -1,0 +1,59 @@
+ENTRY       52                CDS       T01001
+NAME        ACP1, HAAP, LMW-PTP, LMWPTP
+DEFINITION  (RefSeq) acid phosphatase 1, soluble
+ORTHOLOGY   K14394  low molecular weight phosphotyrosine protein phosphatase [EC:3.1.3.2 3.1.3.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00730  Thiamine metabolism
+            hsa00740  Riboflavin metabolism
+            hsa01100  Metabolic pathways
+            hsa04520  Adherens junction
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                52 (ACP1)
+               00740 Riboflavin metabolism
+                52 (ACP1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                52 (ACP1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.2  acid phosphatase
+                 52 (ACP1)
+                3.1.3.48  protein-tyrosine-phosphatase
+                 52 (ACP1)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class II PTPs
+               Low molecular weight PTPs (LMWPTPs)
+                52 (ACP1)
+POSITION    2p25.3
+MOTIF       Pfam: LMWPc
+DBLINKS     NCBI-GeneID: 52
+            NCBI-ProteinID: NP_004291
+            OMIM: 171500
+            HGNC: 122
+            Ensembl: ENSG00000143727
+            Vega: OTTHUMG00000086933
+            Pharos: P24666(Tchem)
+            UniProt: P24666 Q59EH3
+STRUCTURE   PDB: 5KQL 5JNT 5KQG 3N8I 5JNS 5KQM 5JNR 5KQP 4Z9A 5PNT 4Z99
+                 4Z9B
+AASEQ       158
+            MAEQATKSVLFVCLGNICRSPIAEAVFRKLVTDQNISENWRVDSAATSGYEIGNPPDYRG
+            QSCMKRHGIPMSHVARQITKEDFATFDYILCMDESNLRDLNRKSNQVKTCKAKIELLGSY
+            DPQKQLIIEDPYYGNDSDFETVYQQCVRCCRAFLEKAH
+NTSEQ       477
+            atggcggaacaggctaccaagtccgtgctgtttgtgtgtctgggtaacatttgtcgatca
+            cccattgcagaagcagttttcaggaaacttgtaaccgatcaaaacatctcagagaattgg
+            agggtagacagcgcggcaacttccgggtatgagatagggaacccccctgactaccgaggg
+            cagagctgcatgaagaggcacggcattcccatgagccacgttgcccggcagattaccaaa
+            gaagattttgccacatttgattatatactatgtatggatgaaagcaatctgagagatttg
+            aatagaaaaagtaatcaagttaaaacctgcaaagctaaaattgaactacttgggagctat
+            gatccacaaaaacaacttattattgaagatccctattatgggaatgactctgactttgag
+            acggtgtaccagcagtgtgtcaggtgctgcagagcgttcttggagaaggcccactga
+///

@@ -1,0 +1,167 @@
+ENTRY       2902              CDS       T01001
+NAME        GRIN1, GluN1, MRD8, NMD-R1, NMDA1, NMDAR1, NR1
+DEFINITION  (RefSeq) glutamate ionotropic receptor NMDA type subunit 1
+ORTHOLOGY   K05208  glutamate receptor ionotropic, NMDA 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04724  Glutamatergic synapse
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05016  Huntington's disease
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05033  Nicotine addiction
+            hsa05034  Alcoholism
+DISEASE     H00773  Autosomal dominant mental retardation
+DRUG_TARGET Acamprosate (DG00996): D02780 D07058
+            Amantadine (DG00860): D00777 D07441
+            Aptiganel hydrochloride: D02973
+            Budipine (DG00866): D07306 D07589
+            Delucemine hydrochloride: D03679
+            Dextromethorphan (DG01078): D00848 D03742 D03744
+            Dextromethorphan, combinations: D10208
+            Dextrorphan hydrochloride: D03746
+            Dizocilpine maleate: D03878
+            Esketamine: D07283
+            Esketamine (DG01829): D10627
+            Gavestinel: D04308
+            Ketamine (DG00796): D00711 D08098
+            Ketobemidone (DG00815): D08100 D08101
+            Latrepirdine (DG01379): D09917 D09918
+            Levomethadone (DG01002): D08121 D08122
+            Licostinel: D04728
+            Memantine (DG00986): D04905 D08174
+            Methadone (DG00999): D02102 D08195
+            Neramexane mesylate: D05145
+            Perzinfotel: D05447
+            Phencyclidine hydrochloride: D05453
+            Remacemide hydrochloride: D05714
+            Selfotel: D02410
+            Tiletamine (DG01380): D06146 D08596
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2902 (GRIN1)
+               04015 Rap1 signaling pathway
+                2902 (GRIN1)
+               04020 Calcium signaling pathway
+                2902 (GRIN1)
+               04024 cAMP signaling pathway
+                2902 (GRIN1)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2902 (GRIN1)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2902 (GRIN1)
+               04720 Long-term potentiation
+                2902 (GRIN1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                2902 (GRIN1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                2902 (GRIN1)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                2902 (GRIN1)
+               05016 Huntington's disease
+                2902 (GRIN1)
+              Substance dependence
+               05030 Cocaine addiction
+                2902 (GRIN1)
+               05031 Amphetamine addiction
+                2902 (GRIN1)
+               05033 Nicotine addiction
+                2902 (GRIN1)
+               05034 Alcoholism
+                2902 (GRIN1)
+            Ion channels [BR:hsa04040]
+             Glutamate-gated cation channels
+              Glutamate (ionotropic), NMDA
+               2902 (GRIN1)
+POSITION    9q34.3
+MOTIF       Pfam: Lig_chan ANF_receptor Lig_chan-Glu_bd SBP_bac_3 CaM_bdg_C0 Peripla_BP_6 Ion_trans_2
+DBLINKS     NCBI-GeneID: 2902
+            NCBI-ProteinID: NP_015566
+            OMIM: 138249
+            HGNC: 4584
+            Ensembl: ENSG00000176884
+            Vega: OTTHUMG00000020976
+            Pharos: Q05586(Tclin)
+            UniProt: Q05586
+STRUCTURE   PDB: 5H8F 5H8Q 5KCJ 5I2N 5H8H 5TP9 5KDT 5TPA 5H8N 5I2K 2NR1
+AASEQ       938
+            MSTMRLLTLALLFSCSVARAACDPKIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQL
+            NATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPPTPNDHFTPTPVSYTAGFYRIPVLG
+            LTTRMSIYSDKSIHLSFLRTVPPYSHQSSVWFEMMRVYSWNHIILLVSDDHEGRAAQKRL
+            ETLLEERESKAEKVLQFDPGTKNVTALLMEAKELEARVIILSASEDDAATVYRAAAMLNM
+            TGSGYVWLVGEREISGNALRYAPDGILGLQLINGKNESAHISDAVGVVAQAVHELLEKEN
+            ITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFANYSIMNLQNRK
+            LVQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTLSDGTC
+            KEEFTVNGDPVKKVICTGPNDTSPGSPRHTVPQCCYGFCIDLLIKLARTMNFTYEVHLVA
+            DGKFGTQERVNNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTI
+            LVKKEIPRSTLDSFMQPFQSTLWLLVGLSVHVVAVMLYLLDRFSPFGRFKVNSEEEEEDA
+            LTLSSAMWFSWGVLLNSGIGEGAPRSFSARILGMVWAGFAMIIVASYTANLAAFLVLDRP
+            EERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQA
+            VRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQNVSLSILKSH
+            ENGFMEDLDKTWVRYQECDSRSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKRH
+            KDARRKQMQLAFAAVNVWRKNLQDRKSGRAEPDPKKKATFRAITSTLASSFKRRRSSKDT
+            STGGGRGALQNQKDTVLPRRAIEREEGQLQLCSRHRES
+NTSEQ       2817
+            atgagcaccatgcgcctgctgacgctcgccctgctgttctcctgctccgtcgcccgtgcc
+            gcgtgcgaccccaagatcgtcaacattggcgcggtgctgagcacgcggaagcacgagcag
+            atgttccgcgaggccgtgaaccaggccaacaagcggcacggctcctggaagattcagctc
+            aatgccacctccgtcacgcacaagcccaacgccatccagatggctctgtcggtgtgcgag
+            gacctcatctccagccaggtctacgccatcctagttagccatccacctacccccaacgac
+            cacttcactcccacccctgtctcctacacagccggcttctaccgcatacccgtgctgggg
+            ctgaccacccgcatgtccatctactcggacaagagcatccacctgagcttcctgcgcacc
+            gtgccgccctactcccaccagtccagcgtgtggtttgagatgatgcgtgtctacagctgg
+            aaccacatcatcctgctggtcagcgacgaccacgagggccgggcggctcagaaacgcctg
+            gagacgctgctggaggagcgtgagtccaaggcagagaaggtgctgcagtttgacccaggg
+            accaagaacgtgacggccctgctgatggaggcgaaagagctggaggcccgggtcatcatc
+            ctttctgccagcgaggacgatgctgccactgtataccgcgcagccgcgatgctgaacatg
+            acgggctccgggtacgtgtggctggtcggcgagcgcgagatctcggggaacgccctgcgc
+            tacgccccagacggcatcctcgggctgcagctcatcaacggcaagaacgagtcggcccac
+            atcagcgacgccgtgggcgtggtggcccaggccgtgcacgagctcctcgagaaggagaac
+            atcaccgacccgccgcggggctgcgtgggcaacaccaacatctggaagaccgggccgctc
+            ttcaagagagtgctgatgtcttccaagtatgcggatggggtgactggtcgcgtggagttc
+            aatgaggatggggaccggaagttcgccaactacagcatcatgaacctgcagaaccgcaag
+            ctggtgcaagtgggcatctacaatggcacccacgtcatccctaatgacaggaagatcatc
+            tggccaggcggagagacagagaagcctcgagggtaccagatgtccaccagactgaagatt
+            gtgacgatccaccaggagcccttcgtgtacgtcaagcccacgctgagtgatgggacatgc
+            aaggaggagttcacagtcaacggcgacccagtcaagaaggtgatctgcaccgggcccaac
+            gacacgtcgccgggcagcccccgccacacggtgcctcagtgttgctacggcttttgcatc
+            gacctgctcatcaagctggcacggaccatgaacttcacctacgaggtgcacctggtggca
+            gatggcaagttcggcacacaggagcgggtgaacaacagcaacaagaaggagtggaatggg
+            atgatgggcgagctgctcagcgggcaggcagacatgatcgtggcgccgctaaccataaac
+            aacgagcgcgcgcagtacatcgagttttccaagcccttcaagtaccagggcctgactatt
+            ctggtcaagaaggagattccccggagcacgctggactcgttcatgcagccgttccagagc
+            acactgtggctgctggtggggctgtcggtgcacgtggtggccgtgatgctgtacctgctg
+            gaccgcttcagccccttcggccggttcaaggtgaacagcgaggaggaggaggaggacgca
+            ctgaccctgtcctcggccatgtggttctcctggggcgtcctgctcaactccggcatcggg
+            gaaggcgcccccagaagcttctcagcgcgcatcctgggcatggtgtgggccggctttgcc
+            atgatcatcgtggcctcctacaccgccaacctggcggccttcctggtgctggaccggccg
+            gaggagcgcatcacgggcatcaacgaccctcggctgaggaacccctcggacaagtttatc
+            tacgccacggtgaagcagagctccgtggatatctacttccggcgccaggtggagctgagc
+            accatgtaccggcatatggagaagcacaactacgagagtgcggcggaggccatccaggcc
+            gtgagagacaacaagctgcatgccttcatctgggactcggcggtgctggagttcgaggcc
+            tcgcagaagtgcgacctggtgacgactggagagctgtttttccgctcgggcttcggcata
+            ggcatgcgcaaagacagcccctggaagcagaacgtctccctgtccatcctcaagtcccac
+            gagaatggcttcatggaagacctggacaagacgtgggttcggtatcaggaatgtgactcg
+            cgcagcaacgcccctgcgacccttacttttgagaacatggccggggtcttcatgctggta
+            gctgggggcatcgtggccgggatcttcctgattttcatcgagattgcctacaagcggcac
+            aaggatgctcgccggaagcagatgcagctggcctttgccgccgttaacgtgtggcggaag
+            aacctgcaggatagaaagagtggtagagcagagcctgaccctaaaaagaaagccacattt
+            agggctatcacctccaccctggcttccagcttcaagaggcgtaggtcctccaaagacacg
+            agcaccgggggtggacgcggcgctttgcaaaaccaaaaagacacagtgctgccgcgacgc
+            gctattgagagggaggagggccagctgcagctgtgttcccgtcatagggagagctga
+///

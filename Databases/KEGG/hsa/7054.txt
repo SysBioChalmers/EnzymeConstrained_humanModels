@@ -1,0 +1,99 @@
+ENTRY       7054              CDS       T01001
+NAME        TH, DYT14, DYT5b, TYH
+DEFINITION  (RefSeq) tyrosine hydroxylase
+ORTHOLOGY   K00501  tyrosine 3-monooxygenase [EC:1.14.16.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04728  Dopaminergic synapse
+            hsa04917  Prolactin signaling pathway
+            hsa05012  Parkinson's disease
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline
+DISEASE     H00831  Primary dystonia
+DRUG_TARGET Metirosine: D00762
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                7054 (TH)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                7054 (TH)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                7054 (TH)
+              Nervous system
+               04728 Dopaminergic synapse
+                7054 (TH)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                7054 (TH)
+              Substance dependence
+               05030 Cocaine addiction
+                7054 (TH)
+               05031 Amphetamine addiction
+                7054 (TH)
+               05034 Alcoholism
+                7054 (TH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.16  With reduced pteridine as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.16.2  tyrosine 3-monooxygenase
+                 7054 (TH)
+POSITION    11p15.5
+MOTIF       Pfam: Biopterin_H TOH_N Pollen_allerg_2
+DBLINKS     NCBI-GeneID: 7054
+            NCBI-ProteinID: NP_954986
+            OMIM: 191290
+            HGNC: 11782
+            Ensembl: ENSG00000180176
+            Vega: OTTHUMG00000009559
+            Pharos: P07101(Tclin)
+            UniProt: P07101 P78428
+STRUCTURE   PDB: 2XSN 4J6S
+AASEQ       528
+            MPTPDATTPQAKGFRRAVSELDAKQAEAIMVRGQGAPGPSLTGSPWPGTAAPAASYTPTP
+            RSPRFIGRRQSLIEDARKEREAAVAAAAAAVPSEPGDPLEAVAFEEKEGKAVLNLLFSPR
+            ATKPSALSRAVKVFETFEAKIHHLETRPAQRPRAGGPHLEYFVRLEVRRGDLAALLSGVR
+            QVSEDVRSPAGPKVPWFPRKVSELDKCHHLVTKFDPDLDLDHPGFSDQVYRQRRKLIAEI
+            AFQYRHGDPIPRVEYTAEEIATWKEVYTTLKGLYATHACGEHLEAFALLERFSGYREDNI
+            PQLEDVSRFLKERTGFQLRPVAGLLSARDFLASLAFRVFQCTQYIRHASSPMHSPEPDCC
+            HELLGHVPMLADRTFAQFSQDIGLASLGASDEEIEKLSTLYWFTVEFGLCKQNGEVKAYG
+            AGLLSSYGELLHCLSEEPEIRAFDPEAAAVQPYQDQTYQSVYFVSESFSDAKDKLRSYAS
+            RIQRPFSVKFDPYTLAIDVLDSPQAVRRSLEGVQDELDTLAHALSAIG
+NTSEQ       1587
+            atgcccacccccgacgccaccacgccacaggccaagggcttccgcagggccgtgtctgag
+            ctggacgccaagcaggcagaggccatcatggtaagagggcagggcgccccggggcccagc
+            ctcacaggctctccgtggcctggaactgcagccccagctgcatcctacacccccacccca
+            aggtccccgcggttcattgggcgcaggcagagcctcatcgaggacgcccgcaaggagcgg
+            gaggcggcggtggcagcagcggccgctgcagtcccctcggagcccggggaccccctggag
+            gctgtggcctttgaggagaaggaggggaaggccgtgctaaacctgctcttctccccgagg
+            gccaccaagccctcggcgctgtcccgagctgtgaaggtgtttgagacgtttgaagccaaa
+            atccaccatctagagacccggcccgcccagaggccgcgagctgggggcccccacctggag
+            tacttcgtgcgcctcgaggtgcgccgaggggacctggccgccctgctcagtggtgtgcgc
+            caggtgtcagaggacgtgcgcagccccgcggggcccaaggtcccctggttcccaagaaaa
+            gtgtcagagctggacaagtgtcatcacctggtcaccaagttcgaccctgacctggacttg
+            gaccacccgggcttctcggaccaggtgtaccgccagcgcaggaagctgattgctgagatc
+            gccttccagtacaggcacggcgacccgattccccgtgtggagtacaccgccgaggagatt
+            gccacctggaaggaggtctacaccacgctgaagggcctctacgccacgcacgcctgcggg
+            gagcacctggaggcctttgctttgctggagcgcttcagcggctaccgggaagacaatatc
+            ccccagctggaggacgtctcccgcttcctgaaggagcgcacgggcttccagctgcggcct
+            gtggccggcctgctgtccgcccgggacttcctggccagcctggccttccgcgtgttccag
+            tgcacccagtatatccgccacgcgtcctcgcccatgcactcccctgagccggactgctgc
+            cacgagctgctggggcacgtgcccatgctggccgaccgcaccttcgcgcagttctcgcag
+            gacattggcctggcgtccctgggggcctcggatgaggaaattgagaagctgtccacgctg
+            tactggttcacggtggagttcgggctgtgtaagcagaacggggaggtgaaggcctatggt
+            gccgggctgctgtcctcctacggggagctcctgcactgcctgtctgaggagcctgagatt
+            cgggccttcgaccctgaggctgcggccgtgcagccctaccaagaccagacgtaccagtca
+            gtctacttcgtgtctgagagcttcagtgacgccaaggacaagctcaggagctatgcctca
+            cgcatccagcgccccttctccgtgaagttcgacccgtacacgctggccatcgacgtgctg
+            gacagcccccaggccgtgcggcgctccctggagggtgtccaggatgagctggacaccctt
+            gcccatgcgctgagtgccattggctag
+///

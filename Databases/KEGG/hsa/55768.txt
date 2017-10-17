@@ -1,0 +1,75 @@
+ENTRY       55768             CDS       T01001
+NAME        NGLY1, CDDG, CDG1V, PNG1, PNGase
+DEFINITION  (RefSeq) N-glycanase 1
+ORTHOLOGY   K01456  peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase [EC:3.5.1.52]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                55768 (NGLY1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.52  peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+                 55768 (NGLY1)
+POSITION    3p24.2
+MOTIF       Pfam: PAW PUB Transglut_core Rad4
+DBLINKS     NCBI-GeneID: 55768
+            NCBI-ProteinID: NP_060767
+            OMIM: 610661
+            HGNC: 17646
+            Ensembl: ENSG00000151092
+            Vega: OTTHUMG00000155600
+            Pharos: Q96IV0(Tbio)
+            UniProt: Q96IV0
+STRUCTURE   PDB: 2CM0 2CCQ
+AASEQ       654
+            MAAAALGSSSGSASPAVAELCQNTPETFLEASKLLLTYADNILRNPNDEKYRSIRIGNTA
+            FSTRLLPVRGAVECLFEMGFEEGETHLIFPKKASVEQLQKIRDLIAIERSSRLDGSNKSH
+            KVKSSQQPAASTQLPTTPSSNPSGLNQHTRNRQGQSSDPPSASTVAADSAILEVLQSNIQ
+            HVLVYENPALQEKALACIPVQELKRKSQEKLSRARKLDKGINISDEDFLLLELLHWFKEE
+            FFHWVNNVLCSKCGGQTRSRDRSLLPSDDELKWGAKEVEDHYCDACQFSNRFPRYNNPEK
+            LLETRCGRCGEWANCFTLCCRAVGFEARYVWDYTDHVWTEVYSPSQQRWLHCDACEDVCD
+            KPLLYEIGWGKKLSYVIAFSKDEVVDVTWRYSCKHEEVIARRTKVKEALLRDTINGLNKQ
+            RQLFLSENRRKELLQRIIVELVEFISPKTPKPGELGGRISGSVAWRVARGEMGLQRKETL
+            FIPCENEKISKQLHLCYNIVKDRYVRVSNNNQTISGWENGVWKMESIFRKVETDWHMVYL
+            ARKEGSSFAYISWKFECGSVGLKVDSISIRTSSQTFQTGTVEWKLRSDTAQVELTGDNSL
+            HSYADFSGATEVILEAELSRGDGDVAWQHTQLFRQSLNDHEENCLEIIIKFSDL
+NTSEQ       1965
+            atggcggcggcggcattgggcagctcctcaggctcggcgtccccggccgtggctgagctc
+            tgccagaacaccccggagacctttttggaggcctccaagctgctgctcacctatgctgac
+            aacatcctcagaaaccctaatgatgaaaaatatagatccatccggattggaaacacagcc
+            ttttctactagactcttgcctgtcagaggagctgttgaatgtttatttgaaatgggcttt
+            gaagagggagaaacacatctcatctttcctaaaaaagcttcagtggagcagctgcaaaaa
+            attcgtgacctgattgccatagagagaagtagcagactggatggctcaaataagagccac
+            aaagtaaagtcatctcagcaacctgcagccagtacccagcttcctacaacaccatcttca
+            aatcccagtgggttaaaccagcacacaaggaaccgtcaagggcagtcatcagatccacca
+            tctgcttcaacggttgctgctgactcagccattctagaagttcttcagtccaacattcag
+            catgtgctggtctatgaaaatcctgctcttcaggagaaagcgttggcttgtattccggtc
+            caagaactaaaaaggaaatcacaagaaaagttatcgagagctagaaaattggataaaggt
+            atcaatataagtgatgaggattttcttttgctggagcttttgcactggtttaaggaagaa
+            ttttttcactgggtgaataacgttttgtgcagcaaatgtggtggacagactaggtctaga
+            gatagatcattactgcccagtgatgatgagctgaagtggggtgcaaaggaagtggaagat
+            cattactgtgatgcctgccagttcagcaatcgattcccaagatataataaccctgagaaa
+            cttttggaaacaagatgtggacggtgtggcgagtgggccaattgttttacactgtgctgc
+            cgagctgtagggtttgaagctcgctatgtttgggattacacagaccatgtctggacagaa
+            gtctattctccttctcagcagcggtggctgcactgtgatgcatgtgaagatgtctgtgac
+            aagccactcctttatgaaataggatggggcaagaagctttcctatgtcatagcattttca
+            aaagatgaggtagttgatgtcacttggcgatattcctgcaaacatgaagaggtgattgcc
+            agaagaactaaggttaaagaagcattacttcgagacactattaatgggcttaataagcag
+            aggcaactgtttttgtcagaaaacagaaggaaagaacttctccagaggataattgtggag
+            cttgttgaatttatatctcccaaaacccctaaacctggagaacttgggggaagaatatct
+            gggtcagtggcttggagagtagcccgaggtgaaatgggtctacagagaaaagaaaccttg
+            tttattccctgtgaaaatgagaagatttctaaacagctccacctttgttacaatattgtg
+            aaagatcgttatgttcgagtttcaaataacaatcaaaccatttctggatgggagaatggc
+            gtgtggaaaatggaatctatattcagaaaagttgaaacagactggcacatggtatatttg
+            gcccgaaaggaaggatcatcttttgcttatatttcctggaagtttgagtgtgggtcagtt
+            ggcctaaaagtagatagcatttctattagaacaagtagtcaaacttttcagactggaaca
+            gtagaatggaaattgcgatctgatacagcacaagtagaactgacaggcgataacagtctt
+            cactcctatgctgatttttctggtgccactgaagttattttggaagcagaattaagcaga
+            ggagatggtgatgtcgcttggcaacacacccagctgtttagacaaagcttaaatgaccat
+            gaagaaaattgtttggagataattataaaattcagtgacctttga
+///

@@ -1,0 +1,80 @@
+ENTRY       3606              CDS       T01001
+NAME        IL18, IGIF, IL-18, IL-1g, IL1F4
+DEFINITION  (RefSeq) interleukin 18
+ORTHOLOGY   K05482  interleukin 18
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05132  Salmonella infection
+            hsa05134  Legionellosis
+            hsa05143  African trypanosomiasis
+            hsa05144  Malaria
+            hsa05152  Tuberculosis
+            hsa05164  Influenza A
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05323  Rheumatoid arthritis
+DISEASE     H01360  Allergic rhinitis
+            H01516  Adult onset Still's disease
+DRUG_TARGET Iboctadekin: D04487
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3606 (IL18)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                3606 (IL18)
+               04623 Cytosolic DNA-sensing pathway
+                3606 (IL18)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                3606 (IL18)
+               05321 Inflammatiory bowel disease (IBD)
+                3606 (IL18)
+              Infectious diseases
+               05132 Salmonella infection
+                3606 (IL18)
+               05134 Legionellosis
+                3606 (IL18)
+               05152 Tuberculosis
+                3606 (IL18)
+               05164 Influenza A
+                3606 (IL18)
+               05144 Malaria
+                3606 (IL18)
+               05143 African trypanosomiasis
+                3606 (IL18)
+            Cytokines [BR:hsa04052]
+             IL-1 family
+              3606 (IL18)
+POSITION    11q23.1
+MOTIF       Pfam: IL1
+DBLINKS     NCBI-GeneID: 3606
+            NCBI-ProteinID: NP_001553
+            OMIM: 600953
+            HGNC: 5986
+            Ensembl: ENSG00000150782
+            Vega: OTTHUMG00000167006
+            Pharos: Q14116(Tbio)
+            UniProt: Q14116
+STRUCTURE   PDB: 2VXT 4XFS 4XFT 3F62 4HJJ 3WO2 4R6U 4XFU 3WO3 3WO4 1J0S
+AASEQ       193
+            MAAEPVEDNCINFVAMKFIDNTLYFIAEDDENLESDYFGKLESKLSVIRNLNDQVLFIDQ
+            GNRPLFEDMTDSDCRDNAPRTIFIISMYKDSQPRGMAVTISVKCEKISTLSCENKIISFK
+            EMNPPDNIKDTKSDIIFFQRSVPGHDNKMQFESSSYEGYFLACEKERDLFKLILKKEDEL
+            GDRSIMFTVQNED
+NTSEQ       582
+            atggctgctgaaccagtagaagacaattgcatcaactttgtggcaatgaaatttattgac
+            aatacgctttactttatagctgaagatgatgaaaacctggaatcagattactttggcaag
+            cttgaatctaaattatcagtcataagaaatttgaatgaccaagttctcttcattgaccaa
+            ggaaatcggcctctatttgaagatatgactgattctgactgtagagataatgcaccccgg
+            accatatttattataagtatgtataaagatagccagcctagaggtatggctgtaactatc
+            tctgtgaagtgtgagaaaatttcaactctctcctgtgagaacaaaattatttcctttaag
+            gaaatgaatcctcctgataacatcaaggatacaaaaagtgacatcatattctttcagaga
+            agtgtcccaggacatgataataagatgcaatttgaatcttcatcatacgaaggatacttt
+            ctagcttgtgaaaaagagagagacctttttaaactcattttgaaaaaagaggatgaattg
+            ggggatagatctataatgttcactgttcaaaacgaagactag
+///

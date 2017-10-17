@@ -1,0 +1,94 @@
+ENTRY       100506658         CDS       T01001
+NAME        OCLN, BLCPMG, PPP1R115, PTORCH1
+DEFINITION  (RefSeq) occludin
+ORTHOLOGY   K06088  occludin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05160  Hepatitis C
+DISEASE     H00840  Band-like calcification with simplified gyration and polymicrogyria (BLC-PMG)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                100506658 (OCLN)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                100506658 (OCLN)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                100506658 (OCLN)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                100506658 (OCLN)
+               05160 Hepatitis C
+                100506658 (OCLN)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 100506658 (OCLN)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Others
+               100506658 (OCLN)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             7. Others
+              OCLN; occludin [KO:K06088]
+               100506658 (OCLN)
+POSITION    5q13.2
+MOTIF       Pfam: MARVEL Occludin_ELL Laminin_II TBPIP APG6 DUF4164 TMF_TATA_bd FapA KxDL DUF4200 GAS UPF0184 DUF5305 CENP-H
+DBLINKS     NCBI-GeneID: 100506658
+            NCBI-ProteinID: NP_001192183
+            OMIM: 602876
+            HGNC: 8104
+            Ensembl: ENSG00000197822
+            Vega: OTTHUMG00000099356
+            Pharos: Q16625(Tbio)
+            UniProt: Q16625 A8K3T2
+STRUCTURE   PDB: 1XAW 1WPA 3G7C
+AASEQ       522
+            MSSRPLESPPPYRPDEFKPNHYAPSNDIYGGEMHVRPMLSQPAYSFYPEDEILHFYKWTS
+            PPGVIRILSMLIIVMCIAIFACVASTLAWDRGYGTSLLGGSVGYPYGGSGFGSYGSGYGY
+            GYGYGYGYGGYTDPRAAKGFMLAMAAFCFIAALVIFVTSVIRSEMSRTRRYYLSVIIVSA
+            ILGIMVFIATIVYIMGVNPTAQSSGSLYGSQIYALCNQFYTPAATGLYVDQYLYHYCVVD
+            PQEAIAIVLGFMIIVAFALIIFFAVKTRRKMDRYDKSNILWDKEHIYDEQPPNVEEWVKN
+            VSAGTQDVPSPPSDYVERVDSPMAYSSNGKVNDKRFYPESSYKSTPVPEVVQELPLTSPV
+            DDFRQPRYSSGGNFETPSKRAPAKGRAGRSKRTEQDHYETDYTTGGESCDELEEDWIREY
+            PPITSDQQRQLYKRNFDTGLQEYKSLQSELDEINKELSRLDKELDDYREESEEYMAAADE
+            YNRLKQVKGSADYKSKKNHCKQLKSKLSHIKKMVGDYDRQKT
+NTSEQ       1569
+            atgtcatccaggcctcttgaaagtccacctccttacaggcctgatgaattcaaaccgaat
+            cattatgcaccaagcaatgacatatatggtggagagatgcatgttcgaccaatgctctct
+            cagccagcctactctttttacccagaagatgaaattcttcacttctacaaatggacctct
+            cctccaggagtgattcggatcctgtctatgctcattattgtgatgtgcattgccatcttt
+            gcctgtgtggcctccacgcttgcctgggacagaggctatggaacttcccttttaggaggt
+            agtgtaggctacccttatggaggaagtggctttggtagctacggaagtggctatggctat
+            ggctatggttatggctatggctacggaggctatacagacccaagagcagcaaagggcttc
+            atgttggccatggctgccttttgtttcattgccgcgttggtgatctttgttaccagtgtt
+            ataagatctgaaatgtccagaacaagaagatactacttaagtgtgataatagtgagtgct
+            atcctgggcatcatggtgtttattgccacaattgtctatataatgggagtgaacccaact
+            gctcagtcttctggatctctatatggttcacaaatatatgccctctgcaaccaattttat
+            acacctgcagctactggactctacgtggatcagtatttgtatcactactgtgttgtggat
+            ccccaggaggccattgccattgtactggggttcatgattattgtggcttttgctttaata
+            attttctttgctgtgaaaactcgaagaaagatggacaggtatgacaagtccaatattttg
+            tgggacaaggaacacatttatgatgagcagccccccaatgtcgaggagtgggttaaaaat
+            gtgtctgcaggcacacaggacgtgccttcacccccatctgactatgtggaaagagttgac
+            agtcccatggcatactcttccaatggcaaagtgaatgacaagcggttttatccagagtct
+            tcctataaatccacgccggttcctgaagtggttcaggagcttccattaacttcgcctgtg
+            gatgacttcaggcagcctcgttacagcagcggtggtaactttgagacaccttcaaaaaga
+            gcacctgcaaagggaagagcaggaaggtcaaagagaacagagcaagatcactatgagaca
+            gactacacaactggcggcgagtcctgtgatgagctggaggaggactggatcagggaatat
+            ccacctatcacttcagatcaacaaagacaactgtacaagaggaattttgacactggccta
+            caggaatacaagagcttacaatcagaacttgatgagatcaataaagaactctcccgtttg
+            gataaagaattggatgactatagagaagaaagtgaagagtacatggctgctgctgatgaa
+            tacaatagactgaagcaagtgaagggatctgcagattacaaaagtaagaagaatcattgc
+            aagcagttaaagagcaaattgtcacacatcaagaagatggttggagactatgatagacag
+            aaaacatag
+///

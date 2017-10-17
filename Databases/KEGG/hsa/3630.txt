@@ -1,0 +1,142 @@
+ENTRY       3630              CDS       T01001
+NAME        INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10
+DEFINITION  (RefSeq) insulin
+ORTHOLOGY   K04526  insulin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04911  Insulin secretion
+            hsa04913  Ovarian steroidogenesis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04917  Prolactin signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04940  Type I diabetes mellitus
+            hsa04950  Maturity onset diabetes of the young
+            hsa04960  Aldosterone-regulated sodium reabsorption
+            hsa05215  Prostate cancer
+DISEASE     H00408  Type I diabetes mellitus
+            H00410  Maturity onset diabetes of the young (MODY)
+            H00512  Permanent neonatal diabetes mellitus (PNDM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3630 (INS)
+               04015 Rap1 signaling pathway
+                3630 (INS)
+               04066 HIF-1 signaling pathway
+                3630 (INS)
+               04068 FoxO signaling pathway
+                3630 (INS)
+               04072 Phospholipase D signaling pathway
+                3630 (INS)
+               04022 cGMP - PKG signaling pathway
+                3630 (INS)
+               04151 PI3K-Akt signaling pathway
+                3630 (INS)
+               04152 AMPK signaling pathway
+                3630 (INS)
+               04150 mTOR signaling pathway
+                3630 (INS)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                3630 (INS)
+              Cell growth and death
+               04114 Oocyte meiosis
+                3630 (INS)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3630 (INS)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                3630 (INS)
+               04910 Insulin signaling pathway
+                3630 (INS)
+               04923 Regulation of lipolysis in adipocyte
+                3630 (INS)
+               04913 Ovarian Steroidogenesis
+                3630 (INS)
+               04914 Progesterone-mediated oocyte maturation
+                3630 (INS)
+               04917 Prolactin signaling pathway
+                3630 (INS)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                3630 (INS)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                3630 (INS)
+               04213 Longevity regulating pathway - multiple species
+                3630 (INS)
+             Human Diseases
+              Cancers
+               05215 Prostate cancer
+                3630 (INS)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                3630 (INS)
+               04940 Type I diabetes mellitus
+                3630 (INS)
+               04950 Maturity onset diabetes of the young
+                3630 (INS)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                3630 (INS)
+               04931 Insulin resistance
+                3630 (INS)
+POSITION    11p15.5
+MOTIF       Pfam: Insulin Ins_beta
+DBLINKS     NCBI-GeneID: 3630
+            NCBI-ProteinID: NP_000198
+            OMIM: 176730
+            HGNC: 6081
+            Ensembl: ENSG00000254647
+            Vega: OTTHUMG00000009558
+            Pharos: P01308(Tbio)
+            UniProt: P01308 I3WAC9
+STRUCTURE   PDB: 3W7Y 5E7W 5HQI 4FKA 3TT8 3W7Z 4AJX 5HRQ 5HPR 5UDP 5ENA
+                 3EXX 2OMH 4CY7 4NIB 3W80 4EY1 4EY9 4EYD 5EN9 4XC4 4CXL
+                 4P65 2WS6 2WRX 1ZEH 2OMG 4EYN 5BQQ 4EXX 2WRU 4UNE 4F1B
+                 4EYP 4IUZ 3ZU1 2WS1 3I3Z 3E7Y 1ZEG 1GUJ 4F4T 4F4V 4F51
+                 4F1D 4F1G 4IYD 4EX1 4F0O 4F8F 4F1F 4F0N 5CO2 5CNY 5BOQ
+                 4CXN 3ZI3 4F1C 3E7Z 2OLY 2OLZ 4RXW 5BTS 4GBC 4EWZ 5CO6
+                 4IYF 4F1A 4AJZ 2VJZ 2CEU 1XDA 4UNG 3INC 3I40 4EX0 4GBN
+                 5MT9 5BPO 3ZQR 3KQ6 2WS4 3ILG 1HTV 1TYL 1TYM 5CO9 2C8Q
+                 1OS3 3ZS2 2OM1 4EFX 3U4N 4FG3 3V19 3P2X 2W44 2R36 2QIU
+                 1QIZ 1ZNJ 4AKJ 5MT3 3Q6E 2OM0 2R35 1W8P 2WS0 2WRV 5MAM
+                 5HPU 4EWX 3V1G 3IR0 2VK0 2OMI 2R34 1OS4 4AK0 5EMS 4EWW
+                 3ROV 3P33 1QIY 1LPH 4GBK 1QJ0 2WRW 4GBI 4GBL 1B9E 2WS7
+                 2WBY 4UNH 2WC0 5CJO 4OGA 3W11 4Q5Z 3W12 3W13 5MHD 2N2V
+                 2N2W 2N2X 2MVC 2MVD 2MPI 2MPG 2MLI 2M2N 2M2O 2M2P 2M2M
+                 2M1E 2LWZ 2LGB 2L1Y 2L1Z 2KXK 2KQQ 2KQP 2KJU 2KJJ 2K9R
+                 2K91 2RN5 2JV1 2JMN 2HHO 2HH4 2H67 2C8R 1T0C 1UZ9 1SF1
+                 1JCO 1IOG 1A7F 1SJT 1SJU 1AI0 1AIY 1VKT 1XGL 2HIU 1HUI
+                 1HLS 1MHI 1MHJ 1HIQ 1HIS 1HIT
+AASEQ       110
+            MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+NTSEQ       333
+            atggccctgtggatgcgcctcctgcccctgctggcgctgctggccctctggggacctgac
+            ccagccgcagcctttgtgaaccaacacctgtgcggctcacacctggtggaagctctctac
+            ctagtgtgcggggaacgaggcttcttctacacacccaagacccgccgggaggcagaggac
+            ctgcaggtggggcaggtggagctgggcgggggccctggtgcaggcagcctgcagcccttg
+            gccctggaggggtccctgcagaagcgtggcattgtggaacaatgctgtaccagcatctgc
+            tccctctaccagctggagaactactgcaactag
+///

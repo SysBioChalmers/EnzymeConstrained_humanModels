@@ -1,0 +1,87 @@
+ENTRY       3426              CDS       T01001
+NAME        CFI, AHUS3, ARMD13, C3BINA, C3b-INA, FI, IF, KAF
+DEFINITION  (RefSeq) complement factor I
+ORTHOLOGY   K01333  complement factor I [EC:3.4.21.45]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+            hsa05150  Staphylococcus aureus infection
+DISEASE     H00106  Complement regulatory protein defects
+            H00821  Age-related macular degeneration
+            H01434  Atypical hemolytic uremic syndrome (aHUS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                3426 (CFI)
+             Human Diseases
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3426 (CFI)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.45  complement factor I
+                 3426 (CFI)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               3426 (CFI)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               3426 (CFI)
+POSITION    4q25
+MOTIF       Pfam: Trypsin Ldl_recept_a SRCR Trypsin_2 SRCR_2
+DBLINKS     NCBI-GeneID: 3426
+            NCBI-ProteinID: NP_000195
+            OMIM: 217030
+            HGNC: 5394
+            Ensembl: ENSG00000205403
+            Vega: OTTHUMG00000161109
+            Pharos: P05156(Tbio)
+            UniProt: P05156 A8K3L0
+STRUCTURE   PDB: 2XRC 5O32
+AASEQ       583
+            MKLLHVFLLFLCFHLRFCKVTYTSQEDLVEKKCLAKKYTHLSCDKVFCQPWQRCIEGTCV
+            CKLPYQCPKNGTAVCATNRRSFPTYCQQKSLECLHPGTKFLNNGTCTAEGKFSVSLKHGN
+            TDSEGIVEVKLVDQDKTMFICKSSWSMREANVACLDLGFQQGADTQRRFKLSDLSINSTE
+            CLHVHCRGLETSLAECTFTKRRTMGYQDFADVVCYTQKADSPMDDFFQCVNGKYISQMKA
+            CDGINDCGDQSDELCCKACQGKGFHCKSGVCIPSQYQCNGEVDCITGEDEVGCAGFASVA
+            QEETEILTADMDAERRRIKSLLPKLSCGVKNRMHIRRKRIVGGKRAQLGDLPWQVAIKDA
+            SGITCGGIYIGGCWILTAAHCLRASKTHRYQIWTTVVDWIHPDLKRIVIEYVDRIIFHEN
+            YNAGTYQNDIALIEMKKDGNKKDCELPRSIPACVPWSPYLFQPNDTCIVSGWGREKDNER
+            VFSLQWGEVKLISNCSKFYGNRFYEKEMECAGTYDGSIDACKGDSGGPLVCMDANNVTYV
+            WGVVSWGENCGKPEFPGVYTKVANYFDWISYHVGRPFISQYNV
+NTSEQ       1752
+            atgaagcttcttcatgttttcctgttatttctgtgcttccacttaaggttttgcaaggtc
+            acttatacatctcaagaggatctggtggagaaaaagtgcttagcaaaaaaatatactcac
+            ctctcctgcgataaagtcttctgccagccatggcagagatgcattgagggcacctgtgtt
+            tgtaaactaccgtatcagtgcccaaagaatggcactgcagtgtgtgcaactaacaggaga
+            agcttcccaacatactgtcaacaaaagagtttggaatgtcttcatccagggacaaagttt
+            ttaaataacggaacatgcacagccgaaggaaagtttagtgtttccttgaagcatggaaat
+            acagattcagagggaatagttgaagtaaaacttgtggaccaagataagacaatgttcata
+            tgcaaaagcagctggagcatgagggaagccaacgtggcctgccttgaccttgggtttcaa
+            caaggtgctgatactcaaagaaggtttaagttgtctgatctctctataaattccactgaa
+            tgtctacatgtgcattgccgaggattagagaccagtttggctgaatgtacttttactaag
+            agaagaactatgggttaccaggatttcgctgatgtggtttgttatacacagaaagcagat
+            tctccaatggatgacttctttcagtgtgtgaatgggaaatacatttctcagatgaaagcc
+            tgtgatggtatcaatgattgtggagaccaaagtgatgaactgtgttgtaaagcatgccaa
+            ggcaaaggcttccattgcaaatcgggtgtttgcattccaagccagtatcaatgcaatggt
+            gaggtggactgcattacaggggaagatgaagttggctgtgcaggctttgcatctgtggct
+            caagaagaaacagaaattttgactgctgacatggatgcagaaagaagacggataaaatca
+            ttattacctaaactatcttgtggagttaaaaacagaatgcacattcgaaggaaacgaatt
+            gtgggaggaaagcgagcacaactgggagacctcccatggcaggtggcaattaaggatgcc
+            agtggaatcacctgtgggggaatttatattggtggctgttggattctgactgctgcacat
+            tgtctcagagccagtaaaactcatcgttaccaaatatggacaacagtagtagactggata
+            caccccgaccttaaacgtatagtaattgaatacgtggatagaattattttccatgaaaac
+            tacaatgcaggcacttaccaaaatgacatcgctttgattgaaatgaaaaaagacggaaac
+            aaaaaagattgtgagctgcctcgttccatccctgcctgtgtcccctggtctccttaccta
+            ttccaacctaatgatacatgcatcgtttctggctggggacgagaaaaagataacgaaaga
+            gtcttttcacttcagtggggtgaagttaaactaataagcaactgctctaagttttacgga
+            aatcgtttctatgaaaaagaaatggaatgtgcaggtacatatgatggttccatcgatgcc
+            tgtaaaggggactctggaggccccttagtctgtatggatgccaacaatgtgacttatgtc
+            tggggtgttgtgagttggggggaaaactgtggaaaaccagagttcccaggtgtttacacc
+            aaagtggccaattattttgactggattagctaccatgtaggaaggccttttatttctcag
+            tacaatgtataa
+///

@@ -1,0 +1,145 @@
+ENTRY       3914              CDS       T01001
+NAME        LAMB3, AI1A, BM600-125KDA, LAM5, LAMNB1
+DEFINITION  (RefSeq) laminin subunit beta 3
+ORTHOLOGY   K06244  laminin, beta 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+DISEASE     H00586  Epidermolysis bullosa, junctional
+            H00615  Amelogenesis imperfecta
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                3914 (LAMB3)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3914 (LAMB3)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3914 (LAMB3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3914 (LAMB3)
+               05222 Small cell lung cancer
+                3914 (LAMB3)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3914 (LAMB3)
+               05146 Amoebiasis
+                3914 (LAMB3)
+               05145 Toxoplasmosis
+                3914 (LAMB3)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-3
+                ITGB1; integrin beta 1 [KO:K05719]
+                 Laminin-5	Extracellular matrix (ECM) components
+                  3914 (LAMB3)
+               VLA-6
+                  3914 (LAMB3)
+              Beta4 integrins
+               alpha 6 beta 4
+                ITGB4; integrin beta 4 [KO:K06525]
+                  3914 (LAMB3)
+POSITION    1q32.2
+MOTIF       Pfam: Laminin_N Laminin_EGF Laminin_II F5_F8_type_C DUF745 BNR_6 COMP
+DBLINKS     NCBI-GeneID: 3914
+            NCBI-ProteinID: NP_000219
+            OMIM: 150310
+            HGNC: 6490
+            Ensembl: ENSG00000196878
+            Vega: OTTHUMG00000036360
+            Pharos: Q13751(Tbio)
+            UniProt: Q13751 A0A0S2Z3R6
+AASEQ       1172
+            MRPFFLLCFALPGLLHAQQACSRGACYPPVGDLLVGRTRFLRASSTCGLTKPETYCTQYG
+            EWQMKCCKCDSRQPHNYYSHRVENVASSSGPMRWWQSQNDVNPVSLQLDLDRRFQLQEVM
+            MEFQGPMPAGMLIERSSDFGKTWRVYQYLAADCTSTFPRVRQGRPQSWQDVRCQSLPQRP
+            NARLNGGKVQLNLMDLVSGIPATQSQKIQEVGEITNLRVNFTRLAPVPQRGYHPPSAYYA
+            VSQLRLQGSCFCHGHADRCAPKPGASAGPSTAVQVHDVCVCQHNTAGPNCERCAPFYNNR
+            PWRPAEGQDAHECQRCDCNGHSETCHFDPAVFAASQGAYGGVCDNCRDHTEGKNCERCQL
+            HYFRNRRPGASIQETCISCECDPDGAVPGAPCDPVTGQCVCKEHVQGERCDLCKPGFTGL
+            TYANPQGCHRCDCNILGSRRDMPCDEESGRCLCLPNVVGPKCDQCAPYHWKLASGQGCEP
+            CACDPHNSLSPQCNQFTGQCPCREGFGGLMCSAAAIRQCPDRTYGDVATGCRACDCDFRG
+            TEGPGCDKASGRCLCRPGLTGPRCDQCQRGYCNRYPVCVACHPCFQTYDADLREQALRFG
+            RLRNATASLWSGPGLEDRGLASRILDAKSKIEQIRAVLSSPAVTEQEVAQVASAILSLRR
+            TLQGLQLDLPLEEETLSLPRDLESLDRSFNGLLTMYQRKREQFEKISSADPSGAFRMLST
+            AYEQSAQAAQQVSDSSRLLDQLRDSRREAERLVRQAGGGGGTGSPKLVALRLEMSSLPDL
+            TPTFNKLCGNSRQMACTPISCPGELCPQDNGTACGSRCRGVLPRAGGAFLMAGQVAEQLR
+            GFNAQLQRTRQMIRAAEESASQIQSSAQRLETQVSASRSQMEEDVRRTRLLIQQVRDFLT
+            DPDTDAATIQEVSEAVLALWLPTDSATVLQKMNEIQAIAARLPNVDLVLSQTKQDIARAR
+            RLQAEAEEARSRAHAVEGQVEDVVGNLRQGTVALQEAQDTMQGTSRSLRLIQDRVAEVQQ
+            VLRPAEKLVTSMTKQLGDFWTRMEELRHQARQQGAEAVQAQQLAEGASEQALSAQEGFER
+            IKQKYAELKDRLGQSSMLGEQGARIQSVKTEAEELFGETMEMMDRMKDMELELLRGSQAI
+            MLRSADLTGLEKRVEQIRDHINGRVLYYATCK
+NTSEQ       3519
+            atgagaccattcttcctcttgtgttttgccctgcctggcctcctgcatgcccaacaagcc
+            tgctcccgtggggcctgctatccacctgttggggacctgcttgttgggaggacccggttt
+            ctccgagcttcatctacctgtggactgaccaagcctgagacctactgcacccagtatggc
+            gagtggcagatgaaatgctgcaagtgtgactccaggcagcctcacaactactacagtcac
+            cgagtagagaatgtggcttcatcctccggccccatgcgctggtggcagtcacagaatgat
+            gtgaaccctgtctctctgcagctggacctggacaggagattccagcttcaagaagtcatg
+            atggagttccaggggcccatgcccgccggcatgctgattgagcgctcctcagacttcggt
+            aagacctggcgagtgtaccagtacctggctgccgactgcacctccaccttccctcgggtc
+            cgccagggtcggcctcagagctggcaggatgttcggtgccagtccctgcctcagaggcct
+            aatgcacgcctaaatggggggaaggtccaacttaaccttatggatttagtgtctgggatt
+            ccagcaactcaaagtcaaaaaattcaagaggtgggggagatcacaaacttgagagtcaat
+            ttcaccaggctggcccctgtgccccaaaggggctaccaccctcccagcgcctactatgct
+            gtgtcccagctccgtctgcaggggagctgcttctgtcacggccatgctgatcgctgcgca
+            cccaagcctggggcctctgcaggcccctccaccgctgtgcaggtccacgatgtctgtgtc
+            tgccagcacaacactgccggcccaaattgtgagcgctgtgcacccttctacaacaaccgg
+            ccctggagaccggcggagggccaggacgcccatgaatgccaaaggtgcgactgcaatggg
+            cactcagagacatgtcactttgaccccgctgtgtttgccgccagccagggggcatatgga
+            ggtgtgtgtgacaattgccgggaccacaccgaaggcaagaactgtgagcggtgtcagctg
+            cactatttccggaaccggcgcccgggagcttccattcaggagacctgcatctcctgcgag
+            tgtgatccggatggggcagtgccaggggctccctgtgacccagtgaccgggcagtgtgtg
+            tgcaaggagcatgtgcagggagagcgctgtgacctatgcaagccgggcttcactggactc
+            acctacgccaacccgcagggctgccaccgctgtgactgcaacatcctggggtcccggagg
+            gacatgccgtgtgacgaggagagtgggcgctgcctttgtctgcccaacgtggtgggtccc
+            aaatgtgaccagtgtgctccctaccactggaagctggccagtggccagggctgtgaaccg
+            tgtgcctgcgacccgcacaactccctcagcccacagtgcaaccagttcacagggcagtgc
+            ccctgtcgggaaggctttggtggcctgatgtgcagcgctgcagccatccgccagtgtcca
+            gaccggacctatggagacgtggccacaggatgccgagcctgtgactgtgatttccgggga
+            acagagggcccgggctgcgacaaggcatcaggccgctgcctctgccgccctggcttgacc
+            gggccccgctgtgaccagtgccagcgaggctactgtaatcgctacccggtgtgcgtggcc
+            tgccacccttgcttccagacctatgatgcggacctccgggagcaggccctgcgctttggt
+            agactccgcaatgccaccgccagcctgtggtcagggcctgggctggaggaccgtggcctg
+            gcctcccggatcctagatgcaaagagtaagattgagcagatccgagcagttctcagcagc
+            cccgcagtcacagagcaggaggtggctcaggtggccagtgccatcctctccctcaggcga
+            actctccagggcctgcagctggatctgcccctggaggaggagacgttgtcccttccgaga
+            gacctggagagtcttgacagaagcttcaatggtctccttactatgtatcagaggaagagg
+            gagcagtttgaaaaaataagcagtgctgatccttcaggagccttccggatgctgagcaca
+            gcctacgagcagtcagcccaggctgctcagcaggtctccgacagctcgcgccttttggac
+            cagctcagggacagccggagagaggcagagaggctggtgcggcaggcgggaggaggagga
+            ggcaccggcagccccaagcttgtggccctgaggctggagatgtcttcgttgcctgacctg
+            acacccaccttcaacaagctctgtggcaactccaggcagatggcttgcaccccaatatca
+            tgccctggtgagctatgtccccaagacaatggcacagcctgtggctcccgctgcaggggt
+            gtccttcccagggccggtggggccttcttgatggcggggcaggtggctgagcagctgcgg
+            ggcttcaatgcccagctccagcggaccaggcagatgattagggcagccgaggaatctgcc
+            tcacagattcaatccagtgcccagcgcttggagacccaggtgagcgccagccgctcccag
+            atggaggaagatgtcagacgcacacggctcctaatccagcaggtccgggacttcctaaca
+            gaccccgacactgatgcagccactatccaggaggtcagcgaggccgtgctggccctgtgg
+            ctgcccacagactcagctactgttctgcagaagatgaatgagatccaggccattgcagcc
+            aggctccccaacgtggacttggtgctgtcccagaccaagcaggacattgcgcgtgcccgc
+            cggttgcaggctgaggctgaggaagccaggagccgagcccatgcagtggagggccaggtg
+            gaagatgtggttgggaacctgcggcaggggacagtggcactgcaggaagctcaggacacc
+            atgcaaggcaccagccgctcccttcggcttatccaggacagggttgctgaggttcagcag
+            gtactgcggccagcagaaaagctggtgacaagcatgaccaagcagctgggtgacttctgg
+            acacggatggaggagctccgccaccaagcccggcagcagggggcagaggcagtccaggcc
+            cagcagcttgcggaaggtgccagcgagcaggcattgagtgcccaagagggatttgagaga
+            ataaaacaaaagtatgctgagttgaaggaccggttgggtcagagttccatgctgggtgag
+            cagggtgcccggatccagagtgtgaagacagaggcagaggagctgtttggggagaccatg
+            gagatgatggacaggatgaaagacatggagttggagctgctgcggggcagccaggccatc
+            atgctgcgctcagcggacctgacaggactggagaagcgtgtggagcagatccgtgaccac
+            atcaatgggcgcgtgctctactatgccacctgcaagtga
+///

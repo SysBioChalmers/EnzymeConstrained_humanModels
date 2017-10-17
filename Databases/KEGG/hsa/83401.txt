@@ -1,0 +1,54 @@
+ENTRY       83401             CDS       T01001
+NAME        ELOVL3, CIG-30, CIG30
+DEFINITION  (RefSeq) ELOVL fatty acid elongase 3
+ORTHOLOGY   K10248  elongation of very long chain fatty acids protein 3 [EC:2.3.1.199]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+MODULE      hsa_M00415  Fatty acid biosynthesis, elongation, endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00062 Fatty acid elongation
+                83401 (ELOVL3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.199  very-long-chain 3-oxoacyl-CoA synthase
+                 83401 (ELOVL3)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Elongase
+              Unclassified
+               83401 (ELOVL3)
+POSITION    10q24.32
+MOTIF       Pfam: ELO
+DBLINKS     NCBI-GeneID: 83401
+            NCBI-ProteinID: NP_689523
+            OMIM: 611815
+            HGNC: 18047
+            Ensembl: ENSG00000119915
+            Vega: OTTHUMG00000018951
+            Pharos: Q9HB03(Tchem)
+            UniProt: Q9HB03
+AASEQ       270
+            MVTAMNVSHEVNQLFQPYNFELSKDMRPFFEEYWATSFPIALIYLVLIAVGQNYMKERKG
+            FNLQGPLILWSFCLAIFSILGAVRMWGIMGTVLLTGGLKQTVCFINFIDNSTVKFWSWVF
+            LLSKVIELGDTAFIILRKRPLIFIHWYHHSTVLVYTSFGYKNKVPAGGWFVTMNFGVHAI
+            MYTYYTLKAANVKPPKMLPMLITSLQILQMFVGAIVSILTYIWRQDQGCHTTMEHLFWSF
+            ILYMTYFILFAHFFCQTYIRPKVKAKTKSQ
+NTSEQ       813
+            atggtcacagccatgaatgtctcacatgaagtaaatcagctgttccagccctataacttc
+            gagctgtccaaggacatgaggccctttttcgaggagtattgggcaacctcattccccata
+            gccctgatctacctggttctcatcgctgtggggcagaactacatgaaggaacgcaagggc
+            ttcaacctgcaagggcctctcatcctctggtccttctgccttgcaatcttcagtatcctg
+            ggggcagtgaggatgtggggcattatggggactgtgctacttaccgggggcctaaagcaa
+            accgtgtgcttcatcaacttcatcgataattccacagtcaaattctggtcctgggtcttt
+            cttctcagcaaggtcatagaactcggagacacagccttcatcatcctgcgtaagcggcca
+            ctcatctttattcactggtaccaccacagcacagtgctcgtgtacacaagctttggatac
+            aagaacaaagtgcctgcaggaggctggttcgtcaccatgaactttggtgttcatgccatc
+            atgtacacctactacactctgaaggctgccaacgtgaagccccccaagatgctgcccatg
+            ctcatcaccagcctgcagatcttgcagatgtttgtaggagccatcgtcagcatcctcacg
+            tacatctggaggcaggatcagggatgccacaccacgatggaacacttattctggtccttc
+            atcttgtatatgacctatttcatcctctttgcccacttcttctgccagacctacatcagg
+            cccaaggtcaaagccaagaccaagagccagtga
+///

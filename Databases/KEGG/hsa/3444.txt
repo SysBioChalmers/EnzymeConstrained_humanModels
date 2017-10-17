@@ -1,0 +1,101 @@
+ENTRY       3444              CDS       T01001
+NAME        IFNA7, IFN-alphaJ, IFNA-J
+DEFINITION  (RefSeq) interferon alpha 7
+ORTHOLOGY   K05414  interferon alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05320  Autoimmune thyroid disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3444 (IFNA7)
+               04151 PI3K-Akt signaling pathway
+                3444 (IFNA7)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3444 (IFNA7)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3444 (IFNA7)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                3444 (IFNA7)
+               04621 NOD-like receptor signaling pathway
+                3444 (IFNA7)
+               04622 RIG-I-like receptor signaling pathway
+                3444 (IFNA7)
+               04623 Cytosolic DNA-sensing pathway
+                3444 (IFNA7)
+               04650 Natural killer cell mediated cytotoxicity
+                3444 (IFNA7)
+             Human Diseases
+              Immune diseases
+               05320 Autoimmune thyroid disease
+                3444 (IFNA7)
+              Infectious diseases
+               05152 Tuberculosis
+                3444 (IFNA7)
+               05162 Measles
+                3444 (IFNA7)
+               05164 Influenza A
+                3444 (IFNA7)
+               05161 Hepatitis B
+                3444 (IFNA7)
+               05160 Hepatitis C
+                3444 (IFNA7)
+               05168 Herpes simplex infection
+                3444 (IFNA7)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3444 (IFNA7)
+               05165 Human papillomavirus infection
+                3444 (IFNA7)
+            Cytokines [BR:hsa04052]
+             Class II cytokines (interferon/IL-10 family)
+              Type I interferons
+               3444 (IFNA7)
+POSITION    9p21.3
+MOTIF       Pfam: Interferon
+DBLINKS     NCBI-GeneID: 3444
+            NCBI-ProteinID: NP_066401
+            OMIM: 147567
+            HGNC: 5428
+            Ensembl: ENSG00000214042
+            Vega: OTTHUMG00000019662
+            Pharos: P01567(Tdark)
+            UniProt: P01567
+AASEQ       189
+            MARSFSLLMVVLVLSYKSICSLGCDLPQTHSLRNRRALILLAQMGRISPFSCLKDRHEFR
+            FPEEEFDGHQFQKTQAISVLHEMIQQTFNLFSTEDSSAAWEQSLLEKFSTELYQQLNDLE
+            ACVIQEVGVEETPLMNEDFILAVRKYFQRITLYLMEKKYSPCAWEVVRAEIMRSFSFSTN
+            LKKGLRRKD
+NTSEQ       570
+            atggcccggtccttttctttactgatggtcgtgctggtactcagctacaaatccatctgc
+            tctctgggctgtgatctgcctcagacccacagcctgcgtaataggagggccttgatactc
+            ctggcacaaatgggaagaatctctcctttctcctgcttgaaggacagacatgaattcaga
+            ttcccagaggaggagtttgatggccaccagttccagaagactcaagccatctctgtcctc
+            catgagatgatccagcagaccttcaatctcttcagcacagaggactcatctgctgcttgg
+            gaacagagcctcctagaaaaattttccactgaactttaccagcaactgaatgacctggaa
+            gcatgtgtgatacaggaggttggggtggaagagactcccctgatgaatgaggacttcatc
+            ctggctgtgaggaaatacttccaaagaatcactctttatctaatggagaagaaatacagc
+            ccttgtgcctgggaggttgtcagagcagaaatcatgagatccttctctttttcaacaaac
+            ttgaaaaaaggattaaggaggaaggattga
+///

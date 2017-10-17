@@ -1,0 +1,53 @@
+ENTRY       4282              CDS       T01001
+NAME        MIF, GIF, GLIF, MMIF
+DEFINITION  (RefSeq) macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+ORTHOLOGY   K07253  phenylpyruvate tautomerase [EC:5.3.2.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+DISEASE     H01672  Juvenile idiopathic arthritis (JIA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                4282 (MIF)
+               00360 Phenylalanine metabolism
+                4282 (MIF)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.2  Interconverting keto- and enol-groups
+                5.3.2.1  phenylpyruvate tautomerase
+                 4282 (MIF)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of breast milk
+               4282 (MIF)
+POSITION    22q11.23
+MOTIF       Pfam: MIF Kelch_1
+DBLINKS     NCBI-GeneID: 4282
+            NCBI-ProteinID: NP_002406
+            OMIM: 153620
+            HGNC: 7097
+            Ensembl: ENSG00000240972
+            Vega: OTTHUMG00000150773
+            Pharos: P14174(Tchem)
+            UniProt: P14174 I4AY87
+STRUCTURE   PDB: 4GRN 3IJJ 3DJH 4GRP 5B4O 4GRR 4Z1T 1GD0 4F2K 4K9G 3CE4
+                 3JSG 4Z15 3SMB 4ETG 4OSF 4TRF 4PLU 4GRQ 3WNS 4OYQ 4EVG
+                 4EUI 3L5V 3IJG 5HVS 5HVT 2OOW 4XX8 4XX7 4PKK 3SMC 3L5P
+                 3B9S 2OOZ 4WRB 4TRU 5J7P 2OOH 3L5S 3L5T 3JTU 5BSC 5HVV
+                 4PKZ 3U18 3L5U 3HOF 1GCZ 1GIF 4GRU 4P0H 3JSF 3L5R 3DJI
+                 5EIZ 5BS9 5BSI 5BSJ 4GRO 1LJT 1CGQ 3WNR 5J7Q 4Z1U 4P01
+                 3WNT 5CG4 1P1G 1CA7 4WR8 1MIF
+AASEQ       115
+            MPMFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALC
+            SLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA
+NTSEQ       348
+            atgccgatgttcatcgtaaacaccaacgtgccccgcgcctccgtgccggacgggttcctc
+            tccgagctcacccagcagctggcgcaggccaccggcaagcccccccagtacatcgcggtg
+            cacgtggtcccggaccagctcatggccttcggcggctccagcgagccgtgcgcgctctgc
+            agcctgcacagcatcggcaagatcggcggcgcgcagaaccgctcctacagcaagctgctg
+            tgcggcctgctggccgagcgcctgcgcatcagcccggacagggtctacatcaactattac
+            gacatgaacgcggccaatgtgggctggaacaactccaccttcgcctaa
+///

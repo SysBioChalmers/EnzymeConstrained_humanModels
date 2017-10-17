@@ -1,0 +1,154 @@
+ENTRY       2911              CDS       T01001
+NAME        GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13
+DEFINITION  (RefSeq) glutamate metabotropic receptor 1
+ORTHOLOGY   K04603  metabotropic glutamate receptor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04540  Gap junction
+            hsa04720  Long-term potentiation
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04730  Long-term depression
+            hsa04742  Taste transduction
+            hsa04915  Estrogen signaling pathway
+DISEASE     H01891  Autosomal recessive spinocerebellar ataxias
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                2911 (GRM1)
+               04020 Calcium signaling pathway
+                2911 (GRM1)
+               04072 Phospholipase D signaling pathway
+                2911 (GRM1)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2911 (GRM1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                2911 (GRM1)
+             Organismal Systems
+              Endocrine system
+               04915 Estrogen signaling pathway
+                2911 (GRM1)
+              Nervous system
+               04724 Glutamatergic synapse
+                2911 (GRM1)
+               04720 Long-term potentiation
+                2911 (GRM1)
+               04730 Long-term depression
+                2911 (GRM1)
+               04723 Retrograde endocannabinoid signaling
+                2911 (GRM1)
+              Sensory system
+               04742 Taste transduction
+                2911 (GRM1)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 2911 (GRM1)
+            G protein-coupled receptors [BR:hsa04030]
+             Class C. Metabotropic glutamate receptor family
+              Biogenic amine
+               Glutamate (metabotropic) [OT]
+                2911 (GRM1)
+POSITION    6q24.3
+MOTIF       Pfam: ANF_receptor 7tm_3 GluR_Homer-bdg NCD3G DUF5438 DUF2318 AAA_34
+DBLINKS     NCBI-GeneID: 2911
+            NCBI-ProteinID: NP_001264993
+            OMIM: 604473
+            HGNC: 4593
+            Ensembl: ENSG00000152822
+            Vega: OTTHUMG00000015752
+            Pharos: Q13255(Tchem)
+            UniProt: Q13255 Q59HC2
+STRUCTURE   PDB: 3KS9
+AASEQ       1194
+            MVGLLLFFFPAIFLEVSLLPRSPGRKVLLAGASSQRSVARMDGDVIIGALFSVHHQPPAE
+            KVPERKCGEIREQYGIQRVEAMFHTLDKINADPVLLPNITLGSEIRDSCWHSSVALEQSI
+            EFIRDSLISIRDEKDGINRCLPDGQSLPPGRTKKPIAGVIGPGSSSVAIQVQNLLQLFDI
+            PQIAYSATSIDLSDKTLYKYFLRVVPSDTLQARAMLDIVKRYNWTYVSAVHTEGNYGESG
+            MDAFKELAAQEGLCIAHSDKIYSNAGEKSFDRLLRKLRERLPKARVVVCFCEGMTVRGLL
+            SAMRRLGVVGEFSLIGSDGWADRDEVIEGYEVEANGGITIKLQSPEVRSFDDYFLKLRLD
+            TNTRNPWFPEFWQHRFQCRLPGHLLENPNFKRICTGNESLEENYVQDSKMGFVINAIYAM
+            AHGLQNMHHALCPGHVGLCDAMKPIDGSKLLDFLIKSSFIGVSGEEVWFDEKGDAPGRYD
+            IMNLQYTEANRYDYVHVGTWHEGVLNIDDYKIQMNKSGVVRSVCSEPCLKGQIKVIRKGE
+            VSCCWICTACKENEYVQDEFTCKACDLGWWPNADLTGCEPIPVRYLEWSNIESIIAIAFS
+            CLGILVTLFVTLIFVLYRDTPVVKSSSRELCYIILAGIFLGYVCPFTLIAKPTTTSCYLQ
+            RLLVGLSSAMCYSALVTKTNRIARILAGSKKKICTRKPRFMSAWAQVIIASILISVQLTL
+            VVTLIIMEPPMPILSYPSIKEVYLICNTSNLGVVAPLGYNGLLIMSCTYYAFKTRNVPAN
+            FNEAKYIAFTMYTTCIIWLAFVPIYFGSNYKIITTCFAVSLSVTVALGCMFTPKMYIIIA
+            KPERNVRSAFTTSDVVRMHVGDGKLPCRSNTFLNIFRRKKAGAGNANSNGKSVSWSEPGG
+            GQVPKGQHMWHRLSVHVKTNETACNQTAVIKPLTKSYQGSGKSLTFSDTSTKTLYNVEEE
+            EDAQPIRFSPPGSPSMVVHRRVPSAATTPPLPSHLTAEETPLFLAEPALPKGLPPPLQQQ
+            QQPPPQQKSLMDQLQGVVSNFSTAIPDFHAVLAGPGGPGNGLRSLYPPPPPPQHLQMLPL
+            QLSTFGEELVSPPADDDDDSERFKLLQEYVYEHEREGNTEEDELEEEEEDLQAASKLTPD
+            DSPALTPPSPFRDSVASGSSVPSSPVSESVLCTPPNVSYASVILRDYKQSSSTL
+NTSEQ       3585
+            atggtcgggctccttttgttttttttcccagcgatctttttggaggtgtcccttctcccc
+            agaagccccggcaggaaagtgttgctggcaggagcgtcgtctcagcgctcggtggccaga
+            atggacggagatgtcatcattggagccctcttctcagtccatcaccagcctccggccgag
+            aaagtgcccgagaggaagtgtggggagatcagggagcagtatggcatccagagggtggag
+            gccatgttccacacgttggataagatcaacgcggacccggtcctcctgcccaacatcacc
+            ctgggcagtgagatccgggactcctgctggcactcttccgtggctctggaacagagcatt
+            gagttcattagggactctctgatttccattcgagatgagaaggatgggatcaaccggtgt
+            ctgcctgacggccagtccctccccccaggcaggactaagaagcccattgcgggagtgatc
+            ggtcccggctccagctctgtagccattcaagtgcagaacctgctccagctcttcgacatc
+            ccccagatcgcttattcagccacaagcatcgacctgagtgacaaaactttgtacaaatac
+            ttcctgagggttgtcccttctgacactttgcaggcaagggccatgcttgacatagtcaaa
+            cgttacaattggacctatgtctctgcagtccacacggaagggaattatggggagagcgga
+            atggacgctttcaaagagctggctgcccaggaaggcctctgtatcgcccattctgacaaa
+            atctacagcaacgctggggagaagagctttgaccgactcttgcgcaaactccgagagagg
+            cttcccaaggctagagtggtggtctgcttctgtgaaggcatgacagtgcgaggactcctg
+            agcgccatgcggcgccttggcgtcgtgggcgagttctcactcattggaagtgatggatgg
+            gcagacagagatgaagtcattgaaggttatgaggtggaagccaacgggggaatcacgata
+            aagctgcagtctccagaggtcaggtcatttgatgattatttcctgaaactgaggctggac
+            actaacacgaggaatccctggttccctgagttctggcaacatcggttccagtgccgcctt
+            ccaggacaccttctggaaaatcccaactttaaacgaatctgcacaggcaatgaaagctta
+            gaagaaaactatgtccaggacagtaagatggggtttgtcatcaatgccatctatgccatg
+            gcacatgggctgcagaacatgcaccatgccctctgccctggccacgtgggcctctgcgat
+            gccatgaagcccatcgacggcagcaagctgctggacttcctcatcaagtcctcattcatt
+            ggagtatctggagaggaggtgtggtttgatgagaaaggagacgctcctggaaggtatgat
+            atcatgaatctgcagtacactgaagctaatcgctatgactatgtgcacgttggaacctgg
+            catgaaggagtgctgaacattgatgattacaaaatccagatgaacaagagtggagtggtg
+            cggtctgtgtgcagtgagccttgcttaaagggccagattaaggttatacggaaaggagaa
+            gtgagctgctgctggatttgcacggcctgcaaagagaatgaatatgtgcaagatgagttc
+            acctgcaaagcttgtgacttgggatggtggcccaatgcagatctaacaggctgtgagccc
+            attcctgtgcgctatcttgagtggagcaacatcgaatccattatagccatcgccttttca
+            tgcctgggaatccttgttaccttgtttgtcaccctaatctttgtactgtaccgggacaca
+            ccagtggtcaaatcctccagtcgggagctctgctacatcatcctagctggcatcttcctt
+            ggttatgtgtgcccattcactctcattgccaaacctactaccacctcctgctacctccag
+            cgcctcttggttggcctctcctctgcgatgtgctactctgctttagtgactaaaaccaat
+            cgtattgcacgcatcctggctggcagcaagaagaagatctgcacccggaagcccaggttc
+            atgagtgcctgggctcaggtgatcattgcctcaattctgattagtgtgcaactaaccctg
+            gtggtaaccctgatcatcatggaaccccctatgcccattctgtcctacccaagtatcaag
+            gaagtctaccttatctgcaataccagcaacctgggtgtggtggcccctttgggctacaat
+            ggactcctcatcatgagctgtacctactatgccttcaagacccgcaacgtgcccgccaac
+            ttcaacgaggccaaatatatcgcgttcaccatgtacaccacctgtatcatctggctagct
+            tttgtgcccatttactttgggagcaactacaagatcatcacaacttgctttgcagtgagt
+            ctcagtgtaacagtggctctggggtgcatgttcactcccaagatgtacatcattattgcc
+            aagcctgagaggaatgtccgcagtgccttcaccacctctgatgttgtccgcatgcatgtt
+            ggcgatggcaagctgccctgccgctccaacactttcctcaacatcttccgaagaaagaag
+            gcaggggcagggaatgccaattctaatggcaagtctgtgtcatggtctgaaccaggtgga
+            ggacaggtgcccaagggacagcatatgtggcaccgcctctctgtgcacgtgaagaccaat
+            gagacggcctgcaaccaaacagccgtcatcaagcccctcactaaaagttaccaaggctct
+            ggcaagagcctgaccttttcagataccagcaccaagaccctttacaacgtagaggaggag
+            gaggatgcccagccgattcgctttagcccgcctggtagcccttccatggtggtgcacagg
+            cgcgtgccaagcgcggcgaccactccgcctctgccgtcccacctgaccgcagaggagacc
+            cccctcttcctggccgaaccagccctccccaagggcttgccccctcctctccagcagcag
+            cagcaaccccctccacagcagaaatcgctgatggaccagctccagggagtggtcagcaac
+            ttcagtaccgcgatcccggattttcacgcggtgctggcaggccccggtggtcccgggaac
+            gggctgcggtccctgtacccgcccccgccacctccgcagcacctgcagatgctgccgctg
+            cagctgagcacctttggggaggagctggtctccccgcccgcggacgacgacgacgacagc
+            gagaggtttaagctcctccaggagtacgtgtatgagcacgagcgggaagggaacacggaa
+            gaagacgaactggaagaggaggaggaggacctgcaggcggccagcaaactgaccccggat
+            gattcgcctgcgctgacgcctccgtcgcctttccgcgactcggtggcctcgggcagctcg
+            gtgcccagctcccccgtgtccgagtcggtgctctgcacccctcccaacgtatcctacgcc
+            tctgtcattctgcgggactacaagcaaagctcttccaccctgtaa
+///

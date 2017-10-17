@@ -1,0 +1,68 @@
+ENTRY       873               CDS       T01001
+NAME        CBR1, CBR, SDR21C1, hCBR1
+DEFINITION  (RefSeq) carbonyl reductase 1
+ORTHOLOGY   K00079  carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00590  Arachidonic acid metabolism
+            hsa00790  Folate biosynthesis
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00590 Arachidonic acid metabolism
+                873 (CBR1)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                873 (CBR1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                873 (CBR1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                873 (CBR1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.184  carbonyl reductase (NADPH)
+                 873 (CBR1)
+                1.1.1.189  prostaglandin-E2 9-reductase
+                 873 (CBR1)
+                1.1.1.197  15-hydroxyprostaglandin dehydrogenase (NADP+)
+                 873 (CBR1)
+POSITION    21q22.12
+MOTIF       Pfam: adh_short adh_short_C2 KR Epimerase NAD_binding_4
+DBLINKS     NCBI-GeneID: 873
+            NCBI-ProteinID: NP_001748
+            OMIM: 114830
+            HGNC: 1548
+            Ensembl: ENSG00000159228
+            Vega: OTTHUMG00000086618
+            Pharos: P16152(Tchem)
+            UniProt: P16152
+STRUCTURE   PDB: 1WMA 2PFG 3BHJ 4Z3D 3BHM 3BHI
+AASEQ       277
+            MSSGIHVALVTGGNKGIGLAIVRDLCRLFSGDVVLTARDVTRGQAAVQQLQAEGLSPRFH
+            QLDIDDLQSIRALRDFLRKEYGGLDVLVNNAGIAFKVADPTPFHIQAEVTMKTNFFGTRD
+            VCTELLPLIKPQGRVVNVSSIMSVRALKSCSPELQQKFRSETITEEELVGLMNKFVEDTK
+            KGVHQKEGWPSSAYGVTKIGVTVLSRIHARKLSEQRKGDKILLNACCPGWVRTDMAGPKA
+            TKSPEEGAETPVYLALLPPDAEGPHGQFVSEKRVEQW
+NTSEQ       834
+            atgtcgtccggcatccatgtagcgctggtgactggaggcaacaagggcatcggcttggcc
+            atcgtgcgcgacctgtgccggctgttctcgggggacgtggtgctcacggcgcgggacgtg
+            acgcggggccaggcggccgtacagcagctgcaggcggagggcctgagcccgcgcttccac
+            cagctggacatcgacgatctgcagagcatccgcgccctgcgcgacttcctgcgcaaggag
+            tacgggggcctggacgtgctggtcaacaacgcgggcatcgccttcaaggttgctgatccc
+            acaccctttcatattcaagctgaagtgacgatgaaaacaaatttctttggtacccgagat
+            gtgtgcacagaattactccctctaataaaaccccaagggagagtggtgaacgtatctagc
+            atcatgagcgtcagagcccttaaaagctgcagcccagagctgcagcagaagttccgcagt
+            gagaccatcactgaggaggagctggtggggctcatgaacaagtttgtggaggatacaaag
+            aagggagtgcaccagaaggagggctggcccagcagcgcatacggggtgacgaagattggc
+            gtcaccgttctgtccaggatccacgccaggaaactgagtgagcagaggaaaggggacaag
+            atcctcctgaatgcctgctgcccagggtgggtgagaactgacatggcgggacccaaggcc
+            accaagagcccagaagaaggtgcagagacccctgtgtacttggcccttttgcccccagat
+            gctgagggtccccatggacaatttgtttcagagaagagagttgaacagtggtga
+///

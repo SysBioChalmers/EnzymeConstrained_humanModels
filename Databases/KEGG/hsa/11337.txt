@@ -1,0 +1,75 @@
+ENTRY       11337             CDS       T01001
+NAME        GABARAP, ATG8A, GABARAP-a, MM46
+DEFINITION  (RefSeq) GABA type A receptor-associated protein
+ORTHOLOGY   K08341  GABA(A) receptor-associated protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04136  Autophagy - other
+            hsa04137  Mitophagy - animal
+            hsa04140  Autophagy - animal
+            hsa04371  Apelin signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04727  GABAergic synapse
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                11337 (GABARAP)
+               04068 FoxO signaling pathway
+                11337 (GABARAP)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                11337 (GABARAP)
+               04136 Autophagy - other eukaryotes
+                11337 (GABARAP)
+               04137 Mitophagy - animal
+                11337 (GABARAP)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                11337 (GABARAP)
+              Nervous system
+               04727 GABAergic synapse
+                11337 (GABARAP)
+             Human Diseases
+              Infectious diseases
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                11337 (GABARAP)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Core machinery Atg proteins
+                11337 (GABARAP)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitins and Ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               11337 (GABARAP)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                11337 (GABARAP)
+POSITION    17p13.1
+MOTIF       Pfam: Atg8 APG12
+DBLINKS     NCBI-GeneID: 11337
+            NCBI-ProteinID: NP_009209
+            OMIM: 605125
+            HGNC: 4067
+            Ensembl: ENSG00000170296
+            Vega: OTTHUMG00000102156
+            Pharos: O95166(Tbio)
+            UniProt: O95166 Q6IAW1
+STRUCTURE   PDB: 3D32 1GNU 4XC2 5DPS 3DOW 3WIM 1KOT 1KM7 1KLV
+AASEQ       117
+            MKFVYKEEHPFEKRRSEGEKIRKKYPDRVPVIVEKAPKARIGDLDKKKYLVPSDLTVGQF
+            YFLIRKRIHLRAEDALFFFVNNVIPPTSATMGQLYQEHHEEDFFLYIAYSDESVYGL
+NTSEQ       354
+            atgaagttcgtgtacaaagaagagcatccgttcgagaagcgccgctctgagggcgagaag
+            atccgaaagaaatacccggaccgggtgccggtgatagtagaaaaggctcccaaagctcgg
+            ataggagacctggacaaaaagaaatacctggtgccttctgatctcacagttggtcagttc
+            tacttcttgatccggaagcgaattcatctccgagctgaggatgccttgtttttctttgtc
+            aacaatgtcattccacccaccagtgccacaatgggtcagctgtaccaggaacaccatgaa
+            gaagacttctttctctacattgcctacagtgacgaaagtgtctacggtctgtga
+///

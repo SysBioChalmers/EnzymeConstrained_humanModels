@@ -1,0 +1,76 @@
+ENTRY       5019              CDS       T01001
+NAME        OXCT1, OXCT, SCOT
+DEFINITION  (RefSeq) 3-oxoacid CoA-transferase 1
+ORTHOLOGY   K01027  3-oxoacid CoA-transferase [EC:2.8.3.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00072  Synthesis and degradation of ketone bodies
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00650  Butanoate metabolism
+DISEASE     H01121  Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00650 Butanoate metabolism
+                5019 (OXCT1)
+              Lipid metabolism
+               00072 Synthesis and degradation of ketone bodies
+                5019 (OXCT1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                5019 (OXCT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.3  CoA-transferases
+                2.8.3.5  3-oxoacid CoA-transferase
+                 5019 (OXCT1)
+POSITION    5p13.1
+MOTIF       Pfam: CoA_trans AcetylCoA_hyd_C
+DBLINKS     NCBI-GeneID: 5019
+            NCBI-ProteinID: NP_000427
+            OMIM: 601424
+            HGNC: 8527
+            Ensembl: ENSG00000083720
+            Vega: OTTHUMG00000094783
+            Pharos: P55809(Tbio)
+            UniProt: P55809 A0A024R040
+STRUCTURE   PDB: 3DLX
+AASEQ       520
+            MAALKLLSSGLRLCASARGSGATWYKGCVCSFSTSAHRHTKFYTDPVEAVKDIPDGATVL
+            VGGFGLCGIPENLIDALLKTGVKGLTAVSNNAGVDNFGLGLLLRSKQIKRMVSSYVGENA
+            EFERQYLSGELEVELTPQGTLAERIRAGGAGVPAFYTPTGYGTLVQEGGSPIKYNKDGSV
+            AIASKPREVREFNGQHFILEEAITGDFALVKAWKADRAGNVIFRKSARNFNLPMCKAAET
+            TVVEVEEIVDIGAFAPEDIHIPQIYVHRLIKGEKYEKRIERLSIRKEGDGEAKSAKPGDD
+            VRERIIKRAALEFEDGMYANLGIGIPLLASNFISPNITVHLQSENGVLGLGPYPRQHEAD
+            ADLINAGKETVTILPGASFFSSDESFAMIRGGHVDLTMLGAMQVSKYGDLANWMIPGKMV
+            KGMGGAMDLVSSAKTKVVVTMEHSAKGNAHKIMEKCTLPLTGKQCVNRIITEKAVFDVDK
+            KKGLTLIELWEGLTVDDVQKSTGCDFAVSPKLMPMQQIAN
+NTSEQ       1563
+            atggcggctctcaaactcctctcctccgggcttcggctctgcgcctctgcccgcggatct
+            ggggcaacctggtacaagggatgtgtttgttccttttccaccagtgctcatcgccatacc
+            aagttttatacagatccagtagaagctgtaaaagacatccctgatggtgccacggttttg
+            gttggtggttttgggctatgtggaattccagagaatcttatagatgctttactgaaaact
+            ggagtaaaaggactaactgcagtcagcaacaatgcaggggttgacaattttggtttgggg
+            cttttgcttcggtccaagcagataaaacgcatggtctcttcatatgtgggagaaaatgca
+            gaatttgaacgacagtacttatctggtgaattagaagtggagctgacaccacagggcaca
+            cttgcagagaggatccgtgcaggcggggctggagttcctgcattttacaccccaacaggg
+            tatgggaccctggtacaagaaggaggatcgcccatcaaatacaacaaagatggcagtgtt
+            gccattgccagtaagccaagagaggtgagggagttcaatggtcagcactttattttggag
+            gaagcaattacaggggattttgctttggtgaaagcctggaaggcggaccgagcaggaaac
+            gtgattttcaggaaaagtgcaaggaatttcaacttgccaatgtgcaaagctgcagaaacc
+            acagtggtagaggttgaagaaattgtggatattggagcatttgctccagaagacatccat
+            attcctcagatttatgtacatcgccttataaagggagaaaaatatgagaaaagaattgag
+            cgtttatcaatccggaaagagggagatggggaagccaaatctgctaaacctggagatgac
+            gtaagggaacgaatcatcaagagggccgctcttgagtttgaggatggcatgtatgctaat
+            ttgggcataggaatccctctcctggccagcaattttatcagcccaaatataactgttcat
+            cttcaaagtgaaaatggagttctgggtttgggtccatatccacgacaacatgaagctgat
+            gcagatctcatcaatgcaggcaaggaaacagttactattcttccaggagcctcttttttc
+            tccagcgatgaatcatttgcaatgattagaggtggacacgtcgatctgacaatgctagga
+            gcgatgcaggtttccaaatatggtgacctggctaactggatgatacctgggaagatggtg
+            aaaggaatgggaggtgctatggatttagtgtccagtgcgaaaaccaaagtggtggtcacc
+            atggagcattctgcaaagggaaatgcacataaaatcatggagaaatgtacattaccattg
+            actggaaagcaatgtgtcaaccgcattattactgaaaaggctgtgtttgatgtggacaag
+            aagaaagggttgactctgattgagctctgggaaggcctgacagtggatgacgtacagaag
+            agtactgggtgtgattttgcagtttcaccaaaactcatgccaatgcagcagatcgcaaat
+            tga
+///

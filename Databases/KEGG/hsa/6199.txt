@@ -1,0 +1,139 @@
+ENTRY       6199              CDS       T01001
+NAME        RPS6KB2, KLS, P70-beta, P70-beta-1, P70-beta-2, S6K-beta2, S6K2, SRK, STK14B, p70(S6K)-beta, p70S6Kb
+DEFINITION  (RefSeq) ribosomal protein S6 kinase B2
+ORTHOLOGY   K04688  ribosomal protein S6 kinase beta [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04012  ErbB signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04350  TGF-beta signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04910  Insulin signaling pathway
+            hsa04931  Insulin resistance
+            hsa05165  Human papillomavirus infection
+            hsa05205  Proteoglycans in cancer
+            hsa05212  Pancreatic cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05224  Breast cancer
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                6199 (RPS6KB2)
+               04350 TGF-beta signaling pathway
+                6199 (RPS6KB2)
+               04371 Apelin signaling pathway
+                6199 (RPS6KB2)
+               04066 HIF-1 signaling pathway
+                6199 (RPS6KB2)
+               04151 PI3K-Akt signaling pathway
+                6199 (RPS6KB2)
+               04152 AMPK signaling pathway
+                6199 (RPS6KB2)
+               04150 mTOR signaling pathway
+                6199 (RPS6KB2)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                6199 (RPS6KB2)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                6199 (RPS6KB2)
+              Endocrine system
+               04910 Insulin signaling pathway
+                6199 (RPS6KB2)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                6199 (RPS6KB2)
+               04213 Longevity regulating pathway - multiple species
+                6199 (RPS6KB2)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                6199 (RPS6KB2)
+               05205 Proteoglycans in cancer
+                6199 (RPS6KB2)
+               05212 Pancreatic cancer
+                6199 (RPS6KB2)
+               05221 Acute myeloid leukemia
+                6199 (RPS6KB2)
+               05224 Breast cancer
+                6199 (RPS6KB2)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                6199 (RPS6KB2)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                6199 (RPS6KB2)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                6199 (RPS6KB2)
+               01522 Endocrine resistance
+                6199 (RPS6KB2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 6199 (RPS6KB2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              RSK family [OT]
+               6199 (RPS6KB2)
+POSITION    11q13.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Pkinase_C Kinase-like Seadorna_VP7 Kdo Haspin_kinase
+DBLINKS     NCBI-GeneID: 6199
+            NCBI-ProteinID: NP_003943
+            OMIM: 608939
+            HGNC: 10437
+            Ensembl: ENSG00000175634
+            Vega: OTTHUMG00000167673
+            Pharos: Q9UBS0(Tbio)
+            UniProt: Q9UBS0
+AASEQ       482
+            MAAVFDLDLETEEGSEGEGEPELSPADACPLAELRAAGLEPVGHYEEVELTETSVNVGPE
+            RIGPHCFELLRVLGKGGYGKVFQVRKVQGTNLGKIYAMKVLRKAKIVRNAKDTAHTRAER
+            NILESVKHPFIVELAYAFQTGGKLYLILECLSGGELFTHLEREGIFLEDTACFYLAEITL
+            ALGHLHSQGIIYRDLKPENIMLSSQGHIKLTDFGLCKESIHEGAVTHTFCGTIEYMAPEI
+            LVRSGHNRAVDWWSLGALMYDMLTGSPPFTAENRKKTMDKIIRGKLALPPYLTPDARDLV
+            KKFLKRNPSQRIGGGPGDAADVQRHPFFRHMNWDDLLAWRVDPPFRPCLQSEEDVSQFDT
+            RFTRQTPVDSPDDTALSESANQAFLGFTYVAPSVLDSIKEGFSFQPKLRSPRRLNSSPRA
+            PVSPLKFSPFEGFRPSPSLPEPTELPLPPLLPPPPPSTTAPLPIRPPSGTKKSKRGRGRP
+            GR
+NTSEQ       1449
+            atggcggccgtgtttgatttggatttggagacggaggaaggcagcgagggcgagggcgag
+            ccagagctcagccccgcggacgcatgtccccttgccgagttgagggcagctggcctagag
+            cctgtgggacactatgaagaggtggagctgactgagaccagcgtgaacgttggcccagag
+            cgcatcgggccccactgctttgagctgctgcgtgtgctgggcaaggggggctatggcaag
+            gtgttccaggtgcgaaaggtgcaaggcaccaacttgggcaaaatatatgccatgaaagtc
+            ctaaggaaggccaaaattgtgcgcaatgccaaggacacagcacacacacgggctgagcgg
+            aacattctagagtcagtgaagcacccctttattgtggaactggcctatgccttccagact
+            ggtggcaaactctacctcatccttgagtgcctcagtggtggcgagctcttcacgcatctg
+            gagcgagagggcatcttcctggaagatacggcctgcttctacctggctgagatcacgctg
+            gccctgggccatctccactcccagggcatcatctaccgggacctcaagcccgagaacatc
+            atgctcagcagccagggccacatcaaactgaccgactttggactctgcaaggagtctatc
+            catgagggcgccgtcactcacaccttctgcggcaccattgagtacatggcccctgagatt
+            ctggtgcgcagtggccacaaccgggctgtggactggtggagcctgggggccctgatgtac
+            gacatgctcactggatcgccgcccttcaccgcagagaaccggaagaaaaccatggataag
+            atcatcaggggcaagctggcactgcccccctacctcaccccagatgcccgggaccttgtc
+            aaaaagtttctgaaacggaatcccagccagcggattgggggtggcccaggggatgctgct
+            gatgtgcagagacatccctttttccggcacatgaattgggacgaccttctggcctggcgt
+            gtggacccccctttcaggccctgtctgcagtcagaggaggacgtgagccagtttgatacc
+            cgcttcacacggcagacgccggtggacagtcctgatgacacagccctcagcgagagtgcc
+            aaccaggccttcctgggcttcacatacgtggcgccgtctgtcctggacagcatcaaggag
+            ggcttctccttccagcccaagctgcgctcacccaggcgcctcaacagtagcccccgggcc
+            cccgtcagccccctcaagttctccccttttgaggggtttcggcccagccccagcctgccg
+            gagcccacggagctacctctacctccactcctgccaccgccgccgccctcgaccaccgcc
+            cctctccccatccgtcccccctcagggaccaagaagtccaagaggggccgtgggcgtcca
+            gggcgctag
+///

@@ -1,0 +1,73 @@
+ENTRY       8722              CDS       T01001
+NAME        CTSF, CATSF, CLN13
+DEFINITION  (RefSeq) cathepsin F
+ORTHOLOGY   K01373  cathepsin F [EC:3.4.22.41]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04142  Lysosome
+            hsa04210  Apoptosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                8722 (CTSF)
+              Cell growth and death
+               04210 Apoptosis
+                8722 (CTSF)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.41  cathepsin F
+                 8722 (CTSF)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C1: papain family
+               8722 (CTSF)
+POSITION    11q13.2
+MOTIF       Pfam: Peptidase_C1 Inhibitor_I29 Peptidase_C1_2
+DBLINKS     NCBI-GeneID: 8722
+            NCBI-ProteinID: NP_003784
+            OMIM: 603539
+            HGNC: 2531
+            Ensembl: ENSG00000174080
+            Vega: OTTHUMG00000167090
+            Pharos: Q9UBX1(Tchem)
+            UniProt: Q9UBX1
+STRUCTURE   PDB: 1M6D
+AASEQ       484
+            MAPWLQLLSLLGLLPGAVAAPAQPRAASFQAWGPPSPELLAPTRFALEMFNRGRAAGTRA
+            VLGLVRGRVRRAGQGSLYSLEATLEEPPCNDPMVCRLPVSKKTLLCSFQVLDELGRHVLL
+            RKDCGPVDTKVPGAGEPKSAFTQGSAMISSLSQNHPDNRNETFSSVISLLNEDPLSQDLP
+            VKMASIFKNFVITYNRTYESKEEARWRLSVFVNNMVRAQKIQALDRGTAQYGVTKFSDLT
+            EEEFRTIYLNTLLRKEPGNKMKQAKSVGDLAPPEWDWRSKGAVTKVKDQGMCGSCWAFSV
+            TGNVEGQWFLNQGTLLSLSEQELLDCDKMDKACMGGLPSNAYSAIKNLGGLETEDDYSYQ
+            GHMQSCNFSAEKAKVYINDSVELSQNEQKLAAWLAKRGPISVAINAFGMQFYRHGISRPL
+            RPLCSPWLIDHAVLLVGYGNRSDVPFWAIKNSWGTDWGEKGYYYLHRGSGACGVNTMASS
+            AVVD
+NTSEQ       1455
+            atggcgccctggctgcagctcctgtcgctgctggggctgctcccgggcgcagtggccgcc
+            cccgcccagccccgagccgccagctttcaggcctgggggccgccgtccccggagctgctg
+            gcgcccacccgcttcgcgctggagatgttcaaccgcggccgggctgcggggacgcgggcc
+            gtgctgggccttgtgcgcggccgcgtccgccgggcgggtcaggggtcgctgtactccctg
+            gaggccaccctggaggagccaccctgcaacgaccccatggtgtgccggctccccgtgtcc
+            aagaaaaccctgctctgcagcttccaagtcctggatgagctcggaagacacgtgctgctg
+            cggaaggactgtggcccagtggacaccaaggttccaggtgctggggagcccaagtcagcc
+            ttcactcagggctcagccatgatttcttctctgtcccaaaaccatccagacaacagaaac
+            gagactttcagctcagtcatttccctgttgaatgaggatcccctgtcccaggacttgcct
+            gtgaagatggcttcaatcttcaagaactttgtcattacctataaccggacatatgagtca
+            aaggaagaagcccggtggcgcctgtccgtctttgtcaataacatggtgcgagcacagaag
+            atccaggccctggaccgtggcacagctcagtatggagtcaccaagttcagtgatctcaca
+            gaggaggagttccgcactatctacctgaatactctcctgaggaaagagcctggcaacaag
+            atgaagcaagccaagtctgtgggtgacctcgccccacctgaatgggactggaggagtaag
+            ggggctgtcacaaaagtcaaagaccagggcatgtgtggctcctgctgggccttctcagtc
+            acaggcaatgtggagggccagtggtttctcaaccaggggaccctgctctccctctctgaa
+            caggagctcttggactgtgacaagatggacaaggcctgcatgggcggcttgccctccaat
+            gcctactcggccataaagaatttgggagggctggagacagaggatgactacagctaccag
+            ggtcacatgcagtcctgcaacttctcagcagagaaggccaaggtctacatcaatgactcc
+            gtggagctgagccagaacgagcagaagctggcagcctggctggccaagagaggcccaatc
+            tccgtggccatcaatgcctttggcatgcagttttaccgccacgggatctcccgccctctc
+            cggcccctctgcagcccttggctcattgaccatgcggtgttgcttgtgggctacggcaac
+            cgctctgacgttcccttttgggccatcaagaacagctggggcactgactggggtgagaag
+            ggttactactacttgcatcgtgggtccggggcctgtggcgtgaacaccatggccagctcg
+            gcggtggtggactga
+///

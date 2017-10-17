@@ -1,0 +1,120 @@
+ENTRY       7976              CDS       T01001
+NAME        FZD3, Fz-3
+DEFINITION  (RefSeq) frizzled class receptor 3
+ORTHOLOGY   K02329  frizzled 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                7976 (FZD3)
+               04390 Hippo signaling pathway
+                7976 (FZD3)
+               04150 mTOR signaling pathway
+                7976 (FZD3)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                7976 (FZD3)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                7976 (FZD3)
+              Development
+               04360 Axon guidance
+                7976 (FZD3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                7976 (FZD3)
+               05206 MicroRNAs in cancer
+                7976 (FZD3)
+               05205 Proteoglycans in cancer
+                7976 (FZD3)
+               05217 Basal cell carcinoma
+                7976 (FZD3)
+               05224 Breast cancer
+                7976 (FZD3)
+              Infectious diseases
+               05166 HTLV-I infection
+                7976 (FZD3)
+               05165 Human papillomavirus infection
+                7976 (FZD3)
+            G protein-coupled receptors [BR:hsa04030]
+             Others
+              Wnt signaling
+               Frizzled / Smoothened family
+                7976 (FZD3)
+POSITION    8p21.1
+MOTIF       Pfam: Frizzled Fz DUF898
+DBLINKS     NCBI-GeneID: 7976
+            NCBI-ProteinID: NP_059108
+            OMIM: 606143
+            HGNC: 4041
+            Ensembl: ENSG00000104290
+            Vega: OTTHUMG00000102145
+            Pharos: Q9NPG1(Tbio)
+            UniProt: Q9NPG1
+AASEQ       666
+            MAMTWIVFSLWPLTVFMGHIGGHSLFSCEPITLRMCQDLPYNTTFMPNLLNHYDQQTAAL
+            AMEPFHPMVNLDCSRDFRPFLCALYAPICMEYGRVTLPCRRLCQRAYSECSKLMEMFGVP
+            WPEDMECSRFPDCDEPYPRLVDLNLAGEPTEGAPVAVQRDYGFWCPRELKIDPDLGYSFL
+            HVRDCSPPCPNMYFRREELSFARYFIGLISIICLSATLFTFLTFLIDVTRFRYPERPIIF
+            YAVCYMMVSLIFFIGFLLEDRVACNASIPAQYKASTVTQGSHNKACTMLFMILYFFTMAG
+            SVWWVILTITWFLAAVPKWGSEAIEKKALLFHASAWGIPGTLTIILLAMNKIEGDNISGV
+            CFVGLYDVDALRYFVLAPLCLYVVVGVSLLLAGIISLNRVRIEIPLEKENQDKLVKFMIR
+            IGVFSILYLVPLLVVIGCYFYEQAYRGIWETTWIQERCREYHIPCPYQVTQMSRPDLILF
+            LMKYLMALIVGIPSVFWVGSKKTCFEWASFFHGRRKKEIVNESRQVLQEPDFAQSLLRDP
+            NTPIIRKSRGTSTQGTSTHASSTQLAMVDDQRSKAGSIHSKVSSYHGSLHRSRDGRYTPC
+            SYRGMEERLPHGSMSRLTDHSRHSSSHRLNEQSRHSSIRDLSNNPMTHITHGTSMNRVIE
+            EDGTSA
+NTSEQ       2001
+            atggctatgacttggattgtcttctctctttggcccttgactgtgttcatggggcatata
+            ggtgggcacagtttgttttcttgtgaacctattaccttgaggatgtgccaagatttgcct
+            tataatactaccttcatgcctaatcttctgaatcattatgaccaacagacagcagctttg
+            gcaatggagccattccaccctatggtgaatctggattgttctcgggatttccggcctttt
+            ctttgtgcactctacgctcctatttgtatggaatatggacgtgtcacacttccctgtcgt
+            aggctgtgtcagcgggcttacagtgagtgttcgaagctcatggagatgtttggtgttcct
+            tggcctgaagatatggaatgcagtaggttcccagattgtgatgagccatatcctcgactt
+            gtggatctgaatttagctggagaaccaactgaaggagccccagtggcagtgcagagagac
+            tatggtttttggtgtccccgagagttaaaaattgatcctgatctgggttattcttttctg
+            catgtgcgtgattgttcacctccttgtccaaatatgtacttcagaagagaagaactgtca
+            tttgctcgctatttcataggattgatttcaatcatttgcctctcggccacattgtttact
+            tttttaacttttttgattgatgtcacaagattccgttatcctgaaaggcctattatattt
+            tatgcagtctgctacatgatggtatccttaattttcttcattggatttttgcttgaagat
+            cgagtagcctgcaatgcatccatccctgcacaatataaggcttccacagtgacacaagga
+            tctcataataaagcctgtaccatgctttttatgatactctatttttttactatggctggc
+            agtgtatggtgggtaattcttaccatcacatggtttttagcagctgtgccaaagtggggt
+            agtgaagctattgagaagaaagcattgctgtttcacgccagtgcatggggcatccccgga
+            actctaaccatcatccttttagcgatgaataaaattgaaggtgacaatattagtggcgtg
+            tgttttgttggcctctacgatgttgatgcattgagatattttgttcttgctcccctctgc
+            ctgtatgtggtagttggggtttctctcctcttagctggcattatatccctaaacagagtt
+            cgaattgagattccattagaaaaggagaaccaagataaattagtgaagtttatgatccgg
+            atcggtgttttcagcattctttatctcgtaccactcttggttgtaattggatgctacttt
+            tatgagcaagcttaccggggcatctgggaaacaacgtggatacaagaacgctgcagagaa
+            tatcacattccatgtccatatcaggttactcaaatgagtcgtccagacttgattctcttt
+            ctgatgaaatacctgatggctctcatagttggcattccctctgtattttgggttggaagc
+            aaaaagacatgctttgaatgggccagtttttttcatggtcgtaggaaaaaagagatagtg
+            aatgagagccgacaggtactccaggaacctgattttgctcagtctctcctgagggatcca
+            aatactcctatcataagaaagtcaaggggaacttccactcaaggaacatccacccatgct
+            tcttcaactcagctggctatggtggatgatcaaagaagcaaagcaggaagcatccacagc
+            aaagtgagcagctaccacggcagcctccacagatcacgtgatggcaggtacacgccctgc
+            agttacagaggaatggaggagagactacctcatggcagcatgtcacgactaacagatcac
+            tccaggcatagtagttctcatcggctcaatgaacagtcacgacatagcagcatcagagat
+            ctcagtaataatcccatgactcatatcacacatggcaccagcatgaatcgggttattgaa
+            gaagatggaaccagtgcttaa
+///

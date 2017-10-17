@@ -1,0 +1,143 @@
+ENTRY       4773              CDS       T01001
+NAME        NFATC2, NFAT1, NFATP
+DEFINITION  (RefSeq) nuclear factor of activated T-cells 2
+ORTHOLOGY   K17332  nuclear factor of activated T-cells, cytoplasmic 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                4773 (NFATC2)
+               04370 VEGF signaling pathway
+                4773 (NFATC2)
+               04022 cGMP - PKG signaling pathway
+                4773 (NFATC2)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                4773 (NFATC2)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                4773 (NFATC2)
+               04660 T cell receptor signaling pathway
+                4773 (NFATC2)
+               04658 Th1 and Th2 cell differentiation
+                4773 (NFATC2)
+               04659 Th17 cell differentiation
+                4773 (NFATC2)
+               04662 B cell receptor signaling pathway
+                4773 (NFATC2)
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                4773 (NFATC2)
+              Development
+               04360 Axon guidance
+                4773 (NFATC2)
+               04380 Osteoclast differentiation
+                4773 (NFATC2)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                4773 (NFATC2)
+               05161 Hepatitis B
+                4773 (NFATC2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                4773 (NFATC2)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               RHR (Rel homology region) NF-AT
+                4773 (NFATC2)
+POSITION    20q13.2
+MOTIF       Pfam: RHD_dimer RHD_DNA_bind TIG
+DBLINKS     NCBI-GeneID: 4773
+            NCBI-ProteinID: NP_775114
+            OMIM: 600490
+            HGNC: 7776
+            Ensembl: ENSG00000101096
+            Vega: OTTHUMG00000032747
+            Pharos: Q13469(Tbio)
+            UniProt: Q13469
+STRUCTURE   PDB: 1P7H 2AS5 1A02 3QRF 1OWR 2O93 1S9K 1PZU
+AASEQ       925
+            MNAPERQPQPDGGDAPGHEPGGSPQDELDFSILFDYEYLNPNEEEPNAHKVASPPSGPAY
+            PDDVLDYGLKPYSPLASLSGEPPGRFGEPDRVGPQKFLSAAKPAGASGLSPRIEITPSHE
+            LIQAVGPLRMRDAGLLVEQPPLAGVAASPRFTLPVPGFEGYREPLCLSPASSGSSASFIS
+            DTFSPYTSPCVSPNNGGPDDLCPQFQNIPAHYSPRTSPIMSPRTSLAEDSCLGRHSPVPR
+            PASRSSSPGAKRRHSCAEALVALPPGASPQRSRSPSPQPSSHVAPQDHGSPAGYPPVAGS
+            AVIMDALNSLATDSPCGIPPKMWKTSPDPSPVSAAPSKAGLPRHIYPAVEFLGPCEQGER
+            RNSAPESILLVPPTWPKPLVPAIPICSIPVTASLPPLEWPLSSQSGSYELRIEVQPKPHH
+            RAHYETEGSRGAVKAPTGGHPVVQLHGYMENKPLGLQIFIGTADERILKPHAFYQVHRIT
+            GKTVTTTSYEKIVGNTKVLEIPLEPKNNMRATIDCAGILKLRNADIELRKGETDIGRKNT
+            RVRLVFRVHIPESSGRIVSLQTASNPIECSQRSAHELPMVERQDTDSCLVYGGQQMILTG
+            QNFTSESKVVFTEKTTDGQQIWEMEATVDKDKSQPNMLFVEIPEYRNKHIRTPVKVNFYV
+            INGKRKRSQPQHFTYHPVPAIKTEPTDEYDPTLICSPTHGGLGSQPYYPQHPMVAESPSC
+            LVATMAPCQQFRTGLSSPDARYQQQNPAAVLYQRSKSLSPSLLGYQQPALMAAPLSLADA
+            HRSVLVHAGSQGQSSALLHPSPTNQQASPVIHYSPTNQQLRCGSHQEFQHIMYCENFAPG
+            TTRPGPPPVSQGQRLSPGSYPTVIQQQNATSQRAAKNGPPVSDQKEVLPAGVTIKQEQNL
+            DQTYLDDVNEIIRKEFSGPPARNQT
+NTSEQ       2778
+            atgaacgcccccgagcggcagccccaacccgacggcggggacgccccaggccacgagcct
+            gggggcagcccccaagacgagcttgacttctccatcctcttcgactatgagtatttgaat
+            ccgaacgaagaagagccgaatgcacataaggtcgccagcccaccctccggacccgcatac
+            cccgatgatgtcctggactatggcctcaagccatacagcccccttgctagtctctctggc
+            gagccccccggccgattcggagagccggatagggtagggccgcagaagtttctgagcgcg
+            gccaagccagcaggggcctcgggcctgagccctcggatcgagatcactccgtcccacgaa
+            ctgatccaggcagtggggcccctccgcatgagagacgcgggcctcctggtggagcagccg
+            cccctggccggggtggccgccagcccgaggttcaccctgcccgtgcccggcttcgagggc
+            taccgcgagccgctttgcttgagccccgctagcagcggctcctctgccagcttcatttct
+            gacaccttctccccctacacctcgccctgcgtctcgcccaataacggcgggcccgacgac
+            ctgtgtccgcagtttcaaaacatccctgctcattattcccccagaacctcgccaataatg
+            tcacctcgaaccagcctcgccgaggacagctgcctgggccgccactcgcccgtgccccgt
+            ccggcctcccgctcctcatcgcctggtgccaagcggaggcattcgtgcgccgaggccttg
+            gttgccctgccgcccggagcctcaccccagcgctcccggagcccctcgccgcagccctca
+            tctcacgtggcaccccaggaccacggctccccggctgggtacccccctgtggctggctct
+            gccgtgatcatggatgccctgaacagcctcgccacggactcgccttgtgggatccccccc
+            aagatgtggaagaccagccctgacccctcgccggtgtctgccgccccatccaaggccggc
+            ctgcctcgccacatctacccggccgtggagttcctggggccctgcgagcagggcgagagg
+            agaaactcggctccagaatccatcctgctggttccgcccacttggcccaagccgctggtg
+            cctgccattcccatctgcagcatcccagtgactgcatccctccctccacttgagtggccg
+            ctgtccagtcagtcaggctcttacgagctgcggatcgaggtgcagcccaagccacatcac
+            cgggcccactatgagacagaaggcagccgaggggctgtcaaagctccaactggaggccac
+            cctgtggttcagctccatggctacatggaaaacaagcctctgggacttcagatcttcatt
+            gggacagctgatgagcggatccttaagccgcacgccttctaccaggtgcaccgaatcacg
+            gggaaaactgtcaccaccaccagctatgagaagatagtgggcaacaccaaagtcctggag
+            atacccttggagcccaaaaacaacatgagggcaaccatcgactgtgcggggatcttgaag
+            cttagaaacgccgacattgagctgcggaaaggcgagacggacattggaagaaagaacacg
+            cgggtgagactggttttccgagttcacatcccagagtccagtggcagaatcgtctcttta
+            cagactgcatctaaccccatcgagtgctcccagcgatctgctcacgagctgcccatggtt
+            gaaagacaagacacagacagctgcctggtctatggcggccagcaaatgatcctcacgggg
+            cagaactttacatccgagtccaaagttgtgtttactgagaagaccacagatggacagcaa
+            atttgggagatggaagccacggtggataaggacaagagccagcccaacatgctttttgtt
+            gagatccctgaatatcggaacaagcatatccgcacacctgtaaaagtgaacttctacgtc
+            atcaatgggaagagaaaacgaagtcagcctcagcactttacctaccacccagtcccagcc
+            atcaagacggagcccacggatgaatatgaccccactctgatctgcagccccacccatgga
+            ggcctggggagccagccttactacccccagcacccgatggtggccgagtccccctcctgc
+            ctcgtggccaccatggctccctgccagcagttccgcacggggctctcatcccctgacgcc
+            cgctaccagcaacagaacccagcggccgtactctaccagcggagcaagagcctgagcccc
+            agcctgctgggctatcagcagccggccctcatggccgccccgctgtcccttgcggacgct
+            caccgctctgtgctggtgcacgccggctcccagggccagagctcagccctgctccacccc
+            tctccgaccaaccagcaggcctcgcctgtgatccactactcacccaccaaccagcagctg
+            cgctgcggaagccaccaggagttccagcacatcatgtactgcgagaatttcgcaccaggc
+            accaccagacctggcccgcccccggtcagtcaaggtcagaggctgagcccgggttcctac
+            cccacagtcattcagcagcagaatgccacgagccaaagagccgccaaaaacggacccccg
+            gtcagtgaccaaaaggaagtattacctgcgggggtgaccattaaacaggagcagaacttg
+            gaccagacctacttggatgatgttaatgaaattatcaggaaggagttttcaggacctcct
+            gccagaaatcagacgtaa
+///

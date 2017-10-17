@@ -1,0 +1,112 @@
+ENTRY       1870              CDS       T01001
+NAME        E2F2, E2F-2
+DEFINITION  (RefSeq) E2F transcription factor 2
+ORTHOLOGY   K09389  transcription factor E2F2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04110  Cell cycle
+            hsa04218  Cellular senescence
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05200  Pathways in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05212  Pancreatic cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+MODULE      hsa_M00692  Cell cycle - G1/S transition
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                1870 (E2F2)
+               04218 Cellular senescence
+                1870 (E2F2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1870 (E2F2)
+               05206 MicroRNAs in cancer
+                1870 (E2F2)
+               05212 Pancreatic cancer
+                1870 (E2F2)
+               05214 Glioma
+                1870 (E2F2)
+               05220 Chronic myeloid leukemia
+                1870 (E2F2)
+               05218 Melanoma
+                1870 (E2F2)
+               05219 Bladder cancer
+                1870 (E2F2)
+               05215 Prostate cancer
+                1870 (E2F2)
+               05224 Breast cancer
+                1870 (E2F2)
+               05222 Small cell lung cancer
+                1870 (E2F2)
+               05223 Non-small cell lung cancer
+                1870 (E2F2)
+              Infectious diseases
+               05166 HTLV-I infection
+                1870 (E2F2)
+               05161 Hepatitis B
+                1870 (E2F2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                1870 (E2F2)
+              Drug resistance
+               01522 Endocrine resistance
+                1870 (E2F2)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Helix-turn-helix
+               Fork head/winged helix cell cycle-controlling factors, E2F
+                1870 (E2F2)
+POSITION    1p36.12
+MOTIF       Pfam: E2F_CC-MB E2F_TDP
+DBLINKS     NCBI-GeneID: 1870
+            NCBI-ProteinID: NP_004082
+            OMIM: 600426
+            HGNC: 3114
+            Ensembl: ENSG00000007968
+            Vega: OTTHUMG00000003223
+            Pharos: Q14209(Tbio)
+            UniProt: Q14209
+AASEQ       437
+            MLQGPRALASAAGQTPKVVPAMSPTELWPSGLSSPQLCPATATYYTPLYPQTAPPAAAPG
+            TCLDATPHGPEGQVVRCLPAGRLPAKRKLDLEGIGRPVVPEFPTPKGKCIRVDGLPSPKT
+            PKSPGEKTRYDTSLGLLTKKFIYLLSESEDGVLDLNWAAEVLDVQKRRIYDITNVLEGIQ
+            LIRKKAKNNIQWVGRGMFEDPTRPGKQQQLGQELKELMNTEQALDQLIQSCSLSFKHLTE
+            DKANKRLAYVTYQDIRAVGNFKEQTVIAVKAPPQTRLEVPDRTEDNLQIYLKSTQGPIEV
+            YLCPEEVQEPDSPSEEPLPSTSTLCPSPDSAQPSSSTDPSIMEPTASSVPAPAPTPQQAP
+            PPPSLVPLEATDSLLELPHPLLQQTEDQFLSPTLACSSPLISFSPSLDQDDYLWGLEAGE
+            GISDLFDSYDLGDLLIN
+NTSEQ       1314
+            atgctgcaagggccccgggccttggcttcggccgctgggcagaccccgaaggtggtgccc
+            gcgatgagccccacagagctgtggccatccggcctcagcagcccccagctctgcccagct
+            actgctacctactacacaccgctgtacccgcagacggcgcctcccgcagcggcgccaggc
+            acctgcctcgacgccactccccacggacccgagggccaagttgtgcgatgcctgccggca
+            ggccggctgccggccaaaaggaagctggatctggaggggattgggaggcccgtcgtccct
+            gagttcccaacccccaaggggaagtgcatcagagtggatggcctccccagccccaaaacc
+            cccaaatcccccggggagaagactcggtatgacacttcgctggggctgctcaccaagaag
+            ttcatttacctcctgagcgagtcagaggatggggtcctggacctgaactgggccgctgag
+            gtgctggacgtgcagaagcggcgcatctatgacatcaccaacgtgctggaaggcatccag
+            ctcatccgcaagaaggccaagaacaacatccagtgggtaggcaggggaatgtttgaagac
+            cccaccagacctgggaagcagcaacagctggggcaggagctgaaggagctgatgaacacg
+            gagcaggccttggaccagctcatccagagctgctctctgagcttcaagcacctgactgag
+            gacaaggccaacaagaggctggcctatgtgacttaccaggatatccgtgctgttggcaac
+            tttaaggagcagacagtgattgccgtcaaggcccctccgcagacgagactggaagtgccc
+            gacaggactgaggacaacctgcagatatatctcaagagcacccaagggcccatcgaagtc
+            tacctgtgcccagaggaggtgcaggagccggacagtccttccgaggagcctctcccctct
+            acctccaccctctgccccagccctgactctgcccagcccagcagcagcaccgaccctagc
+            atcatggagcccacagcatcctcagtgccagcaccagcgccaaccccccagcaggcccca
+            ccgcctccatccctggtccccttggaggctactgacagcctgctggagctgccgcaccca
+            ctcctgcagcagactgaggaccagttcctgtccccgaccctggcgtgcagctcccctctg
+            atcagcttctccccatccttggaccaggacgactacctgtggggcttggaggcgggtgag
+            ggcatcagcgatctcttcgactcctacgaccttggggacctgttgattaattga
+///

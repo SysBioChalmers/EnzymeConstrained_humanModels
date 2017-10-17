@@ -1,0 +1,77 @@
+ENTRY       661               CDS       T01001
+NAME        POLR3D, BN51T, RPC4, RPC53, TSBN51
+DEFINITION  (RefSeq) RNA polymerase III subunit D
+ORTHOLOGY   K03026  DNA-directed RNA polymerase III subunit RPC4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                661 (POLR3D)
+               00240 Pyrimidine metabolism
+                661 (POLR3D)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                661 (POLR3D)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                661 (POLR3D)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                661 (POLR3D)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 661 (POLR3D)
+POSITION    8p21.3
+MOTIF       Pfam: RNA_pol_Rpc4
+DBLINKS     NCBI-GeneID: 661
+            NCBI-ProteinID: NP_001713
+            OMIM: 187280
+            HGNC: 1080
+            Ensembl: ENSG00000168495
+            Vega: OTTHUMG00000163778
+            Pharos: P05423(Tbio)
+            UniProt: P05423
+AASEQ       398
+            MSEGNAAGEPSTPGGPRPLLTGARGLIGRRPAPPLTPGRLPSIRSRDLTLGGVKKKTFTP
+            NIISRKIKEEPKEEVTVKKEKRERDRDRQREGHGRGRGRPEVIQSHSIFEQGPAEMMKKK
+            GNWDKTVDVSDMGPSHIINIKKEKRETDEETKQILRMLEKDDFLDDPGLRNDTRNMPVQL
+            PLAHSGWLFKEENDEPDVKPWLAGPKEEDMEVDIPAVKVKEEPRDEEEEAKMKAPPKAAR
+            KTPGLPKDVSVAELLRELSLTKEEELLFLQLPDTLPGQPPTQDIKPIKTEVQGEDGQVVL
+            IKQEKDREAKLAENACTLADLTEGQVGKLLIRKSGRVQLLLGKVTLDVTMGTACSFLQEL
+            VSVGLGDSRTGEMTVLGHVKHKLVCSPDFESLLDHKHR
+NTSEQ       1197
+            atgtcggaaggaaacgccgccggcgagcccagcacgccgggagggccccgacctctcctg
+            actggggcccgggggctcatcgggcggcggccggcgcctcccctcacccccggccgcctt
+            ccctccatccgttccagggacctcaccctcgggggagtcaagaagaaaaccttcacccca
+            aatatcatcagtcggaagatcaaggaagagcccaaggaagaagtaactgtcaagaaggag
+            aagcgtgaaagggacagagaccgacaacgagaggggcatggacgagggcgaggccgtcca
+            gaagtgatccagtctcactccatctttgagcagggcccagctgaaatgatgaagaaaaaa
+            gggaactgggataagacagtggatgtgtcagacatgggaccttctcatatcatcaacatc
+            aaaaaagagaagagagagacagacgaagaaactaaacagatcttgcgtatgctggagaag
+            gacgatttcctcgatgaccccggcctgaggaacgacactcgaaatatgcctgtgcagctg
+            ccgctggctcactcaggatggctttttaaggaagaaaatgacgaaccagatgttaaacct
+            tggctggctggccccaaggaagaggacatggaggtggacatacctgctgtgaaagtgaaa
+            gaggagccacgagatgaggaggaagaggccaagatgaaggctcctcccaaagcagccagg
+            aagactccaggcctcccgaaggatgtatctgtggcagagctgctgagggagctgagcctc
+            accaaggaagaggaactgctgtttctgcagctgccagacaccctccctggccagccaccc
+            acccaggacatcaagcctatcaagacagaggtgcagggcgaggacggacaggtggtgctc
+            atcaagcaggagaaagaccgagaagccaaattggcagagaatgcttgtaccctggctgac
+            ctgacagagggtcaggttggcaagctactcatccgcaagtctggaagggtgcaactcctc
+            ttgggcaaggtgactctggacgtgaccatgggaactgcctgctccttcctgcaggagctg
+            gtgtccgtgggccttggagacagtaggacaggggagatgacagtcctgggacacgtgaag
+            cacaaacttgtatgttcccctgattttgaatccctcttggatcacaaacaccggtaa
+///

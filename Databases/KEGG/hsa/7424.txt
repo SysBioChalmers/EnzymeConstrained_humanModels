@@ -1,0 +1,102 @@
+ENTRY       7424              CDS       T01001
+NAME        VEGFC, Flt4-L, LMPH1D, VRP
+DEFINITION  (RefSeq) vascular endothelial growth factor C
+ORTHOLOGY   K05449  vascular endothelial growth factor C/D
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04668  TNF signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05200  Pathways in cancer
+DISEASE     H00018  Gastric cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                7424 (VEGFC)
+               04015 Rap1 signaling pathway
+                7424 (VEGFC)
+               04668 TNF signaling pathway
+                7424 (VEGFC)
+               04151 PI3K-Akt signaling pathway
+                7424 (VEGFC)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                7424 (VEGFC)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                7424 (VEGFC)
+             Organismal Systems
+              Endocrine system
+               04926 Relaxin signaling pathway
+                7424 (VEGFC)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                7424 (VEGFC)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                7424 (VEGFC)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Cysteine-knot growth factors
+               Subclass I
+                7424 (VEGFC)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-9
+                ITGB1; integrin beta 1 [KO:K05719]
+                 7424 (VEGFC)
+             7. Others
+              NRP1; neuropilin 1 [KO:K06724]
+               7424 (VEGFC)
+              NRP2; neuropilin 2 [KO:K06819]
+               7424 (VEGFC)
+POSITION    4q34.3
+MOTIF       Pfam: PDGF CXCXC
+DBLINKS     NCBI-GeneID: 7424
+            NCBI-ProteinID: NP_005420
+            OMIM: 601528
+            HGNC: 12682
+            Ensembl: ENSG00000150630
+            Vega: OTTHUMG00000160734
+            Pharos: P49767(Tbio)
+            UniProt: P49767
+STRUCTURE   PDB: 2X1W 2X1X 4BSK
+AASEQ       419
+            MHLLGFFSVACSLLAAALLPGPREAPAAAAAFESGLDLSDAEPDAGEATAYASKDLEEQL
+            RSVSSVDELMTVLYPEYWKMYKCQLRKGGWQHNREQANLNSRTEETIKFAAAHYNTEILK
+            SIDNEWRKTQCMPREVCIDVGKEFGVATNTFFKPPCVSVYRCGGCCNSEGLQCMNTSTSY
+            LSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIRRSLPATLPQCQAAN
+            KTCPTNYMWNNHICRCLAQEDFMFSSDAGDDSTDGFHDICGPNKELDEETCQCVCRAGLR
+            PASCGPHKELDRNSCQCVCKNKLFPSQCGANREFDENTCQCVCKRTCPRNQPLNPGKCAC
+            ECTESPQKCLLKGKKFHHQTCSCYRRPCTNRQKACEPGFSYSEEVCRCVPSYWKRPQMS
+NTSEQ       1260
+            atgcacttgctgggcttcttctctgtggcgtgttctctgctcgccgctgcgctgctcccg
+            ggtcctcgcgaggcgcccgccgccgccgccgccttcgagtccggactcgacctctcggac
+            gcggagcccgacgcgggcgaggccacggcttatgcaagcaaagatctggaggagcagtta
+            cggtctgtgtccagtgtagatgaactcatgactgtactctacccagaatattggaaaatg
+            tacaagtgtcagctaaggaaaggaggctggcaacataacagagaacaggccaacctcaac
+            tcaaggacagaagagactataaaatttgctgcagcacattataatacagagatcttgaaa
+            agtattgataatgagtggagaaagactcaatgcatgccacgggaggtgtgtatagatgtg
+            gggaaggagtttggagtcgcgacaaacaccttctttaaacctccatgtgtgtccgtctac
+            agatgtgggggttgctgcaatagtgaggggctgcagtgcatgaacaccagcacgagctac
+            ctcagcaagacgttatttgaaattacagtgcctctctctcaaggccccaaaccagtaaca
+            atcagttttgccaatcacacttcctgccgatgcatgtctaaactggatgtttacagacaa
+            gttcattccattattagacgttccctgccagcaacactaccacagtgtcaggcagcgaac
+            aagacctgccccaccaattacatgtggaataatcacatctgcagatgcctggctcaggaa
+            gattttatgttttcctcggatgctggagatgactcaacagatggattccatgacatctgt
+            ggaccaaacaaggagctggatgaagagacctgtcagtgtgtctgcagagcggggcttcgg
+            cctgccagctgtggaccccacaaagaactagacagaaactcatgccagtgtgtctgtaaa
+            aacaaactcttccccagccaatgtggggccaaccgagaatttgatgaaaacacatgccag
+            tgtgtatgtaaaagaacctgccccagaaatcaacccctaaatcctggaaaatgtgcctgt
+            gaatgtacagaaagtccacagaaatgcttgttaaaaggaaagaagttccaccaccaaaca
+            tgcagctgttacagacggccatgtacgaaccgccagaaggcttgtgagccaggattttca
+            tatagtgaagaagtgtgtcgttgtgtcccttcatattggaaaagaccacaaatgagctaa
+///

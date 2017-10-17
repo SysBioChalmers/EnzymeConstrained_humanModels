@@ -1,0 +1,130 @@
+ENTRY       1969              CDS       T01001
+NAME        EPHA2, ARCC2, CTPA, CTPP1, CTRCT6, ECK
+DEFINITION  (RefSeq) EPH receptor A2
+ORTHOLOGY   K05103  Eph receptor A2 [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04360  Axon guidance
+DISEASE     H01202  Cataract
+DRUG_TARGET Dasatinib (DG00714): D03658 D06414
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                1969 (EPHA2)
+               04015 Rap1 signaling pathway
+                1969 (EPHA2)
+               04151 PI3K-Akt signaling pathway
+                1969 (EPHA2)
+             Organismal Systems
+              Development
+               04360 Axon guidance
+                1969 (EPHA2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 1969 (EPHA2)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Eph family
+               1969 (EPHA2)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class VIII (EPH receptor family)
+               1969 (EPHA2)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class VIII (EPH receptor family)
+               1969 (EPHA2)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             7. Others
+              EFNA; ephrin-A [KO:K05462]
+               1969 (EPHA2)
+POSITION    1p36.13
+MOTIF       Pfam: Pkinase_Tyr Ephrin_lbd Pkinase fn3 SAM_1 EphA2_TM SAM_2 Pur_ac_phosph_N Interfer-bind DUF2369 Ephrin_rec_like Haspin_kinase SKG6
+DBLINKS     NCBI-GeneID: 1969
+            NCBI-ProteinID: NP_004422
+            OMIM: 176946
+            HGNC: 3386
+            Ensembl: ENSG00000142627
+            Vega: OTTHUMG00000009527
+            Pharos: P29317(Tclin)
+            UniProt: P29317 A0A024QZA8
+STRUCTURE   PDB: 5NKF 5NKG 5I9Y 5NK6 5NKH 5NK5 5I9W 5NKA 5NKE 5NKD 5I9X
+                 5NK4 5NKC 5I9V 5NKB 4P2K 5NK1 5NK3 5NK9 5NK0 5IA2 5NK2
+                 5NKI 5I9Z 5NK8 5NJZ 5IA5 5IA3 5IA4 5NK7 5I9U 5EK7 5IA0
+                 3C8X 3HEI 5IA1 4PDO 1MQB 3KKA 4TRL 3SKJ 3FL7 3HPN 3CZU
+                 3MBW 2X10 3MX0 2X11 2KSO 2K9Y 2E8N
+AASEQ       976
+            MELQAARACFALLWGCALAAAAAAQGKEVVLLDFAAAGGELGWLTHPYGKGWDLMQNIMN
+            DMPIYMYSVCNVMSGDQDNWLRTNWVYRGEAERIFIELKFTVRDCNSFPGGASSCKETFN
+            LYYAESDLDYGTNFQKRLFTKIDTIAPDEITVSSDFEARHVKLNVEERSVGPLTRKGFYL
+            AFQDIGACVALLSVRVYYKKCPELLQGLAHFPETIAGSDAPSLATVAGTCVDHAVVPPGG
+            EEPRMHCAVDGEWLVPIGQCLCQAGYEKVEDACQACSPGFFKFEASESPCLECPEHTLPS
+            PEGATSCECEEGFFRAPQDPASMPCTRPPSAPHYLTAVGMGAKVELRWTPPQDSGGREDI
+            VYSVTCEQCWPESGECGPCEASVRYSEPPHGLTRTSVTVSDLEPHMNYTFTVEARNGVSG
+            LVTSRSFRTASVSINQTEPPKVRLEGRSTTSLSVSWSIPPPQQSRVWKYEVTYRKKGDSN
+            SYNVRRTEGFSVTLDDLAPDTTYLVQVQALTQEGQGAGSKVHEFQTLSPEGSGNLAVIGG
+            VAVGVVLLLVLAGVGFFIHRRRKNQRARQSPEDVYFSKSEQLKPLKTYVDPHTYEDPNQA
+            VLKFTTEIHPSCVTRQKVIGAGEFGEVYKGMLKTSSGKKEVPVAIKTLKAGYTEKQRVDF
+            LGEAGIMGQFSHHNIIRLEGVISKYKPMMIITEYMENGALDKFLREKDGEFSVLQLVGML
+            RGIAAGMKYLANMNYVHRDLAARNILVNSNLVCKVSDFGLSRVLEDDPEATYTTSGGKIP
+            IRWTAPEAISYRKFTSASDVWSFGIVMWEVMTYGERPYWELSNHEVMKAINDGFRLPTPM
+            DCPSAIYQLMMQCWQQERARRPKFADIVSILDKLIRAPDSLKTLADFDPRVSIRLPSTSG
+            SEGVPFRTVSEWLESIKMQQYTEHFMAAGYTAIEKVVQMTNDDIKRIGVRLPGHQKRIAY
+            SLLGLKDQVNTVGIPI
+NTSEQ       2931
+            atggagctccaggcagcccgcgcctgcttcgccctgctgtggggctgtgcgctggccgcg
+            gccgcggcggcgcagggcaaggaagtggtactgctggactttgctgcagctggaggggag
+            ctcggctggctcacacacccgtatggcaaagggtgggacctgatgcagaacatcatgaat
+            gacatgccgatctacatgtactccgtgtgcaacgtgatgtctggcgaccaggacaactgg
+            ctccgcaccaactgggtgtaccgaggagaggctgagcgtatcttcattgagctcaagttt
+            actgtacgtgactgcaacagcttccctggtggcgccagctcctgcaaggagactttcaac
+            ctctactatgccgagtcggacctggactacggcaccaacttccagaagcgcctgttcacc
+            aagattgacaccattgcgcccgatgagatcaccgtcagcagcgacttcgaggcacgccac
+            gtgaagctgaacgtggaggagcgctccgtggggccgctcacccgcaaaggcttctacctg
+            gccttccaggatatcggtgcctgtgtggcgctgctctccgtccgtgtctactacaagaag
+            tgccccgagctgctgcagggcctggcccacttccctgagaccatcgccggctctgatgca
+            ccttccctggccactgtggccggcacctgtgtggaccatgccgtggtgccaccggggggt
+            gaagagccccgtatgcactgtgcagtggatggcgagtggctggtgcccattgggcagtgc
+            ctgtgccaggcaggctacgagaaggtggaggatgcctgccaggcctgctcgcctggattt
+            tttaagtttgaggcatctgagagcccctgcttggagtgccctgagcacacgctgccatcc
+            cctgagggtgccacctcctgcgagtgtgaggaaggcttcttccgggcacctcaggaccca
+            gcgtcgatgccttgcacacgacccccctccgccccacactacctcacagccgtgggcatg
+            ggtgccaaggtggagctgcgctggacgccccctcaggacagcgggggccgcgaggacatt
+            gtctacagcgtcacctgcgaacagtgctggcccgagtctggggaatgcgggccgtgtgag
+            gccagtgtgcgctactcggagcctcctcacggactgacccgcaccagtgtgacagtgagc
+            gacctggagccccacatgaactacaccttcaccgtggaggcccgcaatggcgtctcaggc
+            ctggtaaccagccgcagcttccgtactgccagtgtcagcatcaaccagacagagcccccc
+            aaggtgaggctggagggccgcagcaccacctcgcttagcgtctcctggagcatccccccg
+            ccgcagcagagccgagtgtggaagtacgaggtcacttaccgcaagaagggagactccaac
+            agctacaatgtgcgccgcaccgagggtttctccgtgaccctggacgacctggccccagac
+            accacctacctggtccaggtgcaggcactgacgcaggagggccagggggccggcagcaag
+            gtgcacgaattccagacgctgtccccggagggatctggcaacttggcggtgattggcggc
+            gtggctgtcggtgtggtcctgcttctggtgctggcaggagttggcttctttatccaccgc
+            aggaggaagaaccagcgtgcccgccagtccccggaggacgtttacttctccaagtcagaa
+            caactgaagcccctgaagacatacgtggacccccacacatatgaggaccccaaccaggct
+            gtgttgaagttcactaccgagatccatccatcctgtgtcactcggcagaaggtgatcgga
+            gcaggagagtttggggaggtgtacaagggcatgctgaagacatcctcggggaagaaggag
+            gtgccggtggccatcaagacgctgaaagccggctacacagagaagcagcgagtggacttc
+            ctcggcgaggccggcatcatgggccagttcagccaccacaacatcatccgcctagagggc
+            gtcatctccaaatacaagcccatgatgatcatcactgagtacatggagaatggggccctg
+            gacaagttccttcgggagaaggatggcgagttcagcgtgctgcagctggtgggcatgctg
+            cggggcatcgcagctggcatgaagtacctggccaacatgaactatgtgcaccgtgacctg
+            gctgcccgcaacatcctcgtcaacagcaacctggtctgcaaggtgtctgactttggcctg
+            tcccgcgtgctggaggacgaccccgaggccacctacaccaccagtggcggcaagatcccc
+            atccgctggaccgccccggaggccatttcctaccggaagttcacctctgccagcgacgtg
+            tggagctttggcattgtcatgtgggaggtgatgacctatggcgagcggccctactgggag
+            ttgtccaaccacgaggtgatgaaagccatcaatgatggcttccggctccccacacccatg
+            gactgcccctccgccatctaccagctcatgatgcagtgctggcagcaggagcgtgcccgc
+            cgccccaagttcgctgacatcgtcagcatcctggacaagctcattcgtgcccctgactcc
+            ctcaagaccctggctgactttgacccccgcgtgtctatccggctccccagcacgagcggc
+            tcggagggggtgcccttccgcacggtgtccgagtggctggagtccatcaagatgcagcag
+            tatacggagcacttcatggcggccggctacactgccatcgagaaggtggtgcagatgacc
+            aacgacgacatcaagaggattggggtgcggctgcccggccaccagaagcgcatcgcctac
+            agcctgctgggactcaaggaccaggtgaacactgtggggatccccatctga
+///

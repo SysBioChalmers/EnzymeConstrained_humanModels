@@ -1,0 +1,56 @@
+ENTRY       4539              CDS       T01001
+NAME        ND4L, MTND4L, MT-ND4L
+DEFINITION  (RefSeq) NADH dehydrogenase, subunit 4L (complex I)
+ORTHOLOGY   K03882  NADH-ubiquinone oxidoreductase chain 4L [EC:1.6.5.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa05012  Parkinson's disease
+MODULE      hsa_M00142  NADH:ubiquinone oxidoreductase, mitochondria
+DISEASE     H00068  Leber hereditary optic atrophy (LHON)
+            H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+            H01355  Kearns-Sayre Syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4539 (ND4L)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4539 (ND4L)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                4539 (ND4L)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4539 (ND4L)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Mitochondrial respiratory chain complex I
+                4539 (ND4L)
+POSITION    MT
+MOTIF       Pfam: Oxidored_q2
+DBLINKS     NCBI-GeneID: 4539
+            NCBI-ProteinID: YP_003024034
+            OMIM: 516004
+            HGNC: 7460
+            Pharos: P03901(Tclin)
+            UniProt: P03901 Q7GXZ4
+STRUCTURE   PDB: 5XTC 5XTD
+AASEQ       98
+            MPLIYMNIMLAFTISLLGMLVYRSHLMSSLLCLEGMMLSLFIMATLMTLNTHSLLANIVP
+            IAMLVFAACEAAVGLALLVSISNTYGLDYVHNLNLLQC
+NTSEQ       297
+            atgcccctcatttacataaatattatactagcatttaccatctcacttctaggaatacta
+            gtatatcgctcacacctcatatcctccctactatgcctagaaggaataatactatcgctg
+            ttcattatagctactctcataaccctcaacacccactccctcttagccaatattgtgcct
+            attgccatactagtctttgccgcctgcgaagcagcggtgggcctagccctactagtctca
+            atctccaacacatatggcctagactacgtacataacctaaacctactccaatgctaa
+///

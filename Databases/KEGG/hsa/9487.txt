@@ -1,0 +1,52 @@
+ENTRY       9487              CDS       T01001
+NAME        PIGL, CHIME
+DEFINITION  (RefSeq) phosphatidylinositol glycan anchor biosynthesis class L
+ORTHOLOGY   K03434  N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00065  GPI-anchor biosynthesis, core oligosaccharide
+DISEASE     H01487  CHIME syndrome
+            H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+                9487 (PIGL)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.89  N-acetylglucosaminylphosphatidylinositol deacetylase
+                 9487 (PIGL)
+POSITION    17p11.2
+MOTIF       Pfam: PIG-L
+DBLINKS     NCBI-GeneID: 9487
+            NCBI-ProteinID: NP_004269
+            OMIM: 605947
+            HGNC: 8966
+            Ensembl: ENSG00000108474
+            Vega: OTTHUMG00000059346
+            Pharos: Q9Y2B2(Tbio)
+            UniProt: Q9Y2B2
+AASEQ       252
+            MEAMWLLCVALAVLAWGFLWVWDSSERMKSREQGGRLGAESRTLLVIAHPDDEAMFFAPT
+            VLGLARLRHWVYLLCFSAGNYYNQGETRKKELLQSCDVLGIPLSSVMIIDNRDFPDDPGM
+            QWDTEHVARVLLQHIEVNGINLVVTFDAGGVSGHSNHIALYAAVRALHSEGKLPKGCSVL
+            TLQSVNVLRKYISLLDLPLSLLHTQDVLFVLNSKEVAQAKKAMSCHRSQLLWFRRLYIIF
+            SRYMRINSLSFL
+NTSEQ       759
+            atggaagcaatgtggctcctgtgtgtggcgttggcggtcttggcatggggcttcctctgg
+            gtttgggactcctcagaacgaatgaagagtcgggagcagggaggacggctgggagccgaa
+            agccggaccctgctggtcatagcgcaccctgacgatgaagccatgttttttgctcccaca
+            gtgctaggcttggcccgcctaaggcactgggtgtacctgctttgcttctctgcaggaaat
+            tactacaatcaaggagagactcgtaagaaagaacttttgcagagctgtgatgttttgggg
+            attccactctccagtgtaatgattattgacaacagggatttcccagatgacccaggcatg
+            cagtgggacacagagcacgtggccagagtcctccttcagcacatagaagtgaatggcatc
+            aatctggtggtgactttcgatgcagggggagtaagtggccacagcaatcacattgctctg
+            tatgcagctgtgagggccctgcactcagaagggaagttacctaaagggtgctctgtgctc
+            acgcttcagtctgtgaatgtgctgcgcaagtacatctcccttctggatctgcccttgtct
+            ctgcttcatacgcaggatgtcctcttcgtgctcaacagcaaagaagtggcacaggccaag
+            aaagccatgtcctgccaccgcagccagctcctctggttccgccgcctctacattatcttc
+            tcccggtacatgagaatcaactcactgagcttcctctga
+///

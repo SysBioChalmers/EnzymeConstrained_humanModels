@@ -1,0 +1,54 @@
+ENTRY       5720              CDS       T01001
+NAME        PSME1, HEL-S-129m, IFI5111, PA28A, PA28alpha, REGalpha
+DEFINITION  (RefSeq) proteasome activator subunit 1
+ORTHOLOGY   K06696  proteasome activator subunit 1 (PA28 alpha)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+            hsa04612  Antigen processing and presentation
+MODULE      hsa_M00337  Immunoproteasome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5720 (PSME1)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                5720 (PSME1)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA28 (11S REG)
+                5720 (PSME1)
+POSITION    14q12
+MOTIF       Pfam: PA28_beta PA28_alpha RNase_H2-Ydr279
+DBLINKS     NCBI-GeneID: 5720
+            NCBI-ProteinID: NP_006254
+            OMIM: 600654
+            HGNC: 9568
+            Ensembl: ENSG00000092010
+            Vega: OTTHUMG00000028795
+            Pharos: Q06323(Tbio)
+            UniProt: Q06323 A0A0K0K1L8
+STRUCTURE   PDB: 1AVO
+AASEQ       249
+            MAMLRVQPEAQAKVDVFREDLCTKTENLLGSYFPKKISELDAFLKEPALNEANLSNLKAP
+            LDIPVPDPVKEKEKEERKKQQEKEDKDEKKKGEDEDKGPPCGPVNCNEKIVVLLQRLKPE
+            IKDVIEQLNLVTTWLQLQIPRIEDGNNFGVAVQEKVFELMTSLHTKLEGFHTQISKYFSE
+            RGDAVTKAAKQPHVGDYRQLVHELDEAEYRDIRLMVMEIRNAYAVLYDIILKNFEKLKKP
+            RGETKGMIY
+NTSEQ       750
+            atggccatgctcagggtccagcccgaggcccaagccaaggtggatgtgtttcgtgaagac
+            ctctgtaccaagacagagaacctgctcgggagctatttccccaagaagatttctgagctg
+            gatgcatttttaaaggagccagctctcaatgaagccaacttgagcaatctgaaggcccca
+            ttggacatcccagtgcctgatccagtcaaggagaaagagaaagaggagcggaagaaacag
+            caggagaaggaagacaaggatgaaaagaagaagggggaggatgaagacaaaggtcctccc
+            tgtggcccagtgaactgcaatgaaaagatcgtggtccttctgcagcgcttgaagcctgag
+            atcaaggatgtcattgagcagctcaacctggtcaccacctggttgcagctgcagatacct
+            cggattgaggatggtaacaattttggagtggctgtccaggagaaggtgtttgagctgatg
+            accagcctccacaccaagctagaaggcttccacactcaaatctctaagtatttctctgag
+            cgtggtgatgcagtgactaaagcagccaagcagccccatgtgggtgattatcggcagctg
+            gtgcacgagctggatgaggcagagtaccgggacatccggctgatggtcatggagatccgc
+            aatgcttatgctgtgttatatgacatcatcctgaagaacttcgagaagctcaagaagccc
+            aggggagaaacaaagggaatgatctattga
+///

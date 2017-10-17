@@ -1,0 +1,73 @@
+ENTRY       4342              CDS       T01001
+NAME        MOS, MSV
+DEFINITION  (RefSeq) MOS proto-oncogene, serine/threonine kinase
+ORTHOLOGY   K04367  proto-oncogene serine/threonine-protein kinase mos [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04914  Progesterone-mediated oocyte maturation
+MODULE      hsa_M00687  MAPK (ERK1/2) signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                4342 (MOS)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                4342 (MOS)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                4342 (MOS)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                4342 (MOS)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 4342 (MOS)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: Other group
+              MOS family
+               4342 (MOS)
+POSITION    8q12.1
+MOTIF       Pfam: Pkinase Pkinase_Tyr
+DBLINKS     NCBI-GeneID: 4342
+            NCBI-ProteinID: NP_005363
+            OMIM: 190060
+            HGNC: 7199
+            Ensembl: ENSG00000172680
+            Vega: OTTHUMG00000164299
+            Pharos: P00540(Tbio)
+            UniProt: P00540
+AASEQ       346
+            MPSPLALRPYLRSEFSPSVDARPCSSPSELPAKLLLGATLPRAPRLPRRLAWCSIDWEQV
+            CLLQRLGAGGFGSVYKATYRGVPVAIKQVNKCTKNRLASRRSFWAELNVARLRHDNIVRV
+            VAASTRTPAGSNSLGTIIMEFGGNVTLHQVIYGAAGHPEGDAGEPHCRTGGQLSLGKCLK
+            YSLDVVNGLLFLHSQSIVHLDLKPANILISEQDVCKISDFGCSEKLEDLLCFQTPSYPLG
+            GTYTHRAPELLKGEGVTPKADIYSFAITLWQMTTKQAPYSGERQHILYAVVAYDLRPSLS
+            AAVFEDSLPGQRLGDVIQRCWRPSAAQRPSARLLLVDLTSLKAELG
+NTSEQ       1041
+            atgccctcgcccctggccctacgcccctacctccggagcgagttttccccatcggtggac
+            gcgcggccctgcagcagtccctcagagctacctgcgaagctgcttctgggggccactctt
+            cctcgggccccgcggctgccgcgccggctggcctggtgctccattgactgggagcaggtg
+            tgcttgctgcagaggctgggagctggagggtttggctcggtgtacaaggcgacttaccgc
+            ggtgttcctgtggccataaagcaagtgaacaagtgcaccaagaaccgactagcatctcgg
+            cggagtttctgggctgagctcaacgtagcaaggctgcgccacgataacatcgtgcgcgtg
+            gtggctgccagcacgcgcacgcccgcagggtccaatagcctagggaccatcatcatggag
+            ttcggtggcaacgtcactttacaccaagtcatctatggcgccgccggccaccctgagggg
+            gacgcaggggagcctcactgccgcactggaggacagttaagtttgggaaagtgtctcaag
+            tactcactagatgttgtgaacggcctgctcttcctccactcgcaaagcattgtgcacttg
+            gacctgaagcccgcgaacatcttgatcagtgagcaggatgtctgtaaaattagtgacttc
+            ggttgctctgagaagttggaagatctgctgtgcttccagacaccctcttaccctctagga
+            ggcacatacacccaccgcgccccggagctcctgaaaggagagggcgtgacgcctaaagcc
+            gacatttattcctttgccatcactctctggcaaatgactaccaagcaggcgccgtattcg
+            ggggagcggcagcacatactgtacgcggtggtggcctacgacctgcgcccgtccctctcc
+            gctgccgtcttcgaggactcgctccccgggcagcgccttggggacgtcatccagcgctgc
+            tggagacccagcgcggcgcagaggccgagcgcgcggctgcttttggtggatctcacctct
+            ttgaaagctgaactcggctga
+///

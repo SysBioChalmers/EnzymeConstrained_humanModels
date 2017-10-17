@@ -1,0 +1,73 @@
+ENTRY       10621             CDS       T01001
+NAME        POLR3F, RPC39, RPC6
+DEFINITION  (RefSeq) RNA polymerase III subunit F
+ORTHOLOGY   K03025  DNA-directed RNA polymerase III subunit RPC6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                10621 (POLR3F)
+               00240 Pyrimidine metabolism
+                10621 (POLR3F)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                10621 (POLR3F)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                10621 (POLR3F)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                10621 (POLR3F)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 10621 (POLR3F)
+POSITION    20p11.23
+MOTIF       Pfam: RNA_pol_Rpc34 TrmB CDC24_OB1 TFIIE_alpha
+DBLINKS     NCBI-GeneID: 10621
+            NCBI-ProteinID: NP_006457
+            OMIM: 617455
+            HGNC: 15763
+            Ensembl: ENSG00000132664
+            Vega: OTTHUMG00000031971
+            Pharos: Q9H1D9(Tdark)
+            UniProt: Q9H1D9
+STRUCTURE   PDB: 2YU3 2DK5
+AASEQ       316
+            MAEVKVKVQPPDADPVEIENRIIELCHQFPHGITDQVIQNEMPHIEAQQRAVAINRLLSM
+            GQLDLLRSNTGLLYRIKDSQNAGKMKGSDNQEKLVYQIIEDAGNKGIWSRDIRYKSNLPL
+            TEINKILKNLESKKLIKAVKSVAASKKKVYMLYNLQPDRSVTGGAWYSDQDFESEFVEVL
+            NQQCFKFLQSKAETARESKQNPMIQRNSSFASSHEVWKYICELGISKVELSMEDIETILN
+            TLIYDGKVEMTIIAAKEGTVGSVDGHMKLYRAVNPIIPPTGLVRAPCGLCPVFDDCHEGG
+            EISPSNCIYMTEWLEF
+NTSEQ       951
+            atggcggaggtgaaggtgaaggtgcagccgcctgacgcggatccggtcgaaatagaaaac
+            aggattatagaattatgtcaccagttccctcatggaatcacagaccaagtaattcagaat
+            gaaatgcctcatatagaagcccagcagcgggcagtagccatcaataggttgttgtctatg
+            ggtcagttggatctcttaaggagcaatacgggccttttatatagaataaaggactctcag
+            aatgctggtaaaatgaagggatccgataaccaagaaaaactagtatatcaaatcatagag
+            gatgcaggaaataaaggaatatggagcagagatatccgctataaaagtaatttgccatta
+            acagaaatcaacaaaattctgaagaatctggaaagtaaaaagcttatcaaagctgttaag
+            tctgtagcagcctcaaaaaagaaggtgtatatgctctataacctgcagccagaccggtct
+            gtgactggtggagcctggtacagtgaccaggattttgaatctgaatttgtagaggtgctt
+            aaccaacagtgttttaaattcctacagtccaaggcagaaacagcacgagaaagcaaacag
+            aacccaatgatacaaagaaatagttcatttgcctcatcacatgaagtgtggaaatatatc
+            tgcgaattgggaatcagtaaggtagagttatccatggaagacattgaaaccatcctgaat
+            acactcatttatgatggaaaagtggagatgacgattattgctgcaaaagaaggcacagtt
+            ggcagtgtagatggacacatgaaactgtacagggcagtcaatccaatcatccctcccaca
+            ggtttggtccgggcaccctgtggactctgcccggtttttgatgactgccacgaaggtggt
+            gagatttcaccatctaactgtatttacatgacagagtggctcgaattttaa
+///

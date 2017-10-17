@@ -1,0 +1,163 @@
+ENTRY       5532              CDS       T01001
+NAME        PPP3CB, CALNA2, CALNB, CNA2, PP2Bbeta
+DEFINITION  (RefSeq) protein phosphatase 3 catalytic subunit beta
+ORTHOLOGY   K04348  serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04720  Long-term potentiation
+            hsa04724  Glutamatergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04924  Renin secretion
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05031  Amphetamine addiction
+            hsa05152  Tuberculosis
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+DRUG_TARGET Ciclosporin: D00184
+            Pimecrolimus: D05480
+            Tacrolimus (DG00439): D00107 D08556
+            Voclosporin: D09033
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                5532 (PPP3CB)
+               04310 Wnt signaling pathway
+                5532 (PPP3CB)
+               04370 VEGF signaling pathway
+                5532 (PPP3CB)
+               04020 Calcium signaling pathway
+                5532 (PPP3CB)
+               04022 cGMP - PKG signaling pathway
+                5532 (PPP3CB)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                5532 (PPP3CB)
+               04218 Cellular senescence
+                5532 (PPP3CB)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                5532 (PPP3CB)
+               04660 T cell receptor signaling pathway
+                5532 (PPP3CB)
+               04658 Th1 and Th2 cell differentiation
+                5532 (PPP3CB)
+               04659 Th17 cell differentiation
+                5532 (PPP3CB)
+               04662 B cell receptor signaling pathway
+                5532 (PPP3CB)
+              Endocrine system
+               04922 Glucagon signaling pathway
+                5532 (PPP3CB)
+               04921 Oxytocin signaling pathway
+                5532 (PPP3CB)
+               04924 Renin secretion
+                5532 (PPP3CB)
+              Nervous system
+               04724 Glutamatergic synapse
+                5532 (PPP3CB)
+               04728 Dopaminergic synapse
+                5532 (PPP3CB)
+               04720 Long-term potentiation
+                5532 (PPP3CB)
+              Development
+               04360 Axon guidance
+                5532 (PPP3CB)
+               04380 Osteoclast differentiation
+                5532 (PPP3CB)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                5532 (PPP3CB)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                5532 (PPP3CB)
+              Substance dependence
+               05031 Amphetamine addiction
+                5532 (PPP3CB)
+              Infectious diseases
+               05152 Tuberculosis
+                5532 (PPP3CB)
+               05166 HTLV-I infection
+                5532 (PPP3CB)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5532 (PPP3CB)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 5532 (PPP3CB)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Calcineurin (PPP3/ PP2B)
+                Catalytic subunits
+                 5532 (PPP3CB)
+POSITION    10q22.2
+MOTIF       Pfam: Metallophos DUF5378
+DBLINKS     NCBI-GeneID: 5532
+            NCBI-ProteinID: NP_066955
+            OMIM: 114106
+            HGNC: 9315
+            Ensembl: ENSG00000107758
+            Vega: OTTHUMG00000018472
+            Pharos: P16298(Tbio)
+            UniProt: P16298
+STRUCTURE   PDB: 4OR9 4ORC 4ORA
+AASEQ       524
+            MAAPEPARAAPPPPPPPPPPPGADRVVKAVPFPPTHRLTSEEVFDLDGIPRVDVLKNHLV
+            KEGRVDEEIALRIINEGAAILRREKTMIEVEAPITVCGDIHGQFFDLMKLFEVGGSPANT
+            RYLFLGDYVDRGYFSIECVLYLWVLKILYPSTLFLLRGNHECRHLTEYFTFKQECKIKYS
+            ERVYEACMEAFDSLPLAALLNQQFLCVHGGLSPEIHTLDDIRRLDRFKEPPAFGPMCDLL
+            WSDPSEDFGNEKSQEHFSHNTVRGCSYFYNYPAVCEFLQNNNLLSIIRAHEAQDAGYRMY
+            RKSQTTGFPSLITIFSAPNYLDVYNNKAAVLKYENNVMNIRQFNCSPHPYWLPNFMDVFT
+            WSLPFVGEKVTEMLVNVLSICSDDELMTEGEDQFDGSAAARKEIIRNKIRAIGKMARVFS
+            VLREESESVLTLKGLTPTGMLPSGVLAGGRQTLQSATVEAIEAEKAIRGFSPPHRICSFE
+            EAKGLDRINERMPPRKDAVQQDGFNSLNTAHATENHGTGNHTAQ
+NTSEQ       1575
+            atggccgccccggagccggcccgggctgcaccgcccccacccccgcccccgccgccccct
+            cccggggctgaccgcgtcgtcaaagctgtccctttccccccaacacatcgcttgacatct
+            gaagaagtatttgatttggatgggatacccagggttgatgttctgaagaaccacttggtg
+            aaagaaggtcgagtagatgaagaaattgcgcttagaattatcaatgagggtgctgccatc
+            cttcggagagagaaaaccatgatagaagtagaagctccaatcacagtgtgtggtgacatc
+            catggccaattttttgatctgatgaaactttttgaagtaggaggatcacctgctaataca
+            cgatacctttttcttggcgattatgtggacagaggttattttagtatagagtgtgtctta
+            tatttatgggttctgaagattctatacccaagcacattatttcttctgagaggcaaccat
+            gaatgcagacaccttactgaatattttacctttaagcaggaatgtaaaattaagtattcg
+            gaaagagtctatgaagcttgtatggaagcttttgatagtttgcctcttgctgcactttta
+            aaccaacagtttctttgtgttcatggtggactttcaccagaaatacacacactggatgat
+            attaggagattagatagattcaaagagccacctgcatttggaccaatgtgtgacttgtta
+            tggtccgatccttctgaagattttggaaatgaaaaatcacaggaacattttagtcacaat
+            acagttcgaggatgttcttatttttataactatccagcagtgtgtgaatttttgcaaaac
+            aataatttgttatcgattattagagctcatgaagctcaagatgcaggctatagaatgtac
+            agaaaaagtcaaactacagggttcccttcattaataacaattttttcggcacctaattac
+            ttagatgtctacaataataaagctgctgtattaaagtatgaaaataatgtgatgaatatt
+            cgacagtttaactgttctccacatccttactggttgcctaattttatggatgtcttcacg
+            tggtctttaccgtttgttggagaaaaagtgacagaaatgttggtaaatgttctgagtatt
+            tgctctgatgatgaactaatgactgaaggtgaagaccagtttgatggttcagctgcagcc
+            cggaaagaaatcataagaaacaaaattcgagcaattggcaagatggcaagagtcttctct
+            gttctcagggaggagagtgaaagtgtgctgacactcaagggcctgactcccacagggatg
+            ttgcctagtggagtgttagctggaggacggcagaccctgcaaagtgccacagttgaggct
+            attgaggctgaaaaagcaatacgaggattctctccaccacatagaatctgcagttttgaa
+            gaggcaaagggtttggataggatcaatgagagaatgccacctcggaaagatgctgtacag
+            caagatggtttcaattctctgaacaccgcacatgccactgagaaccacgggacgggcaac
+            catactgcccagtga
+///

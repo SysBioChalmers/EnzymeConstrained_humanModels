@@ -1,0 +1,157 @@
+ENTRY       7058              CDS       T01001
+NAME        THBS2, TSP2
+DEFINITION  (RefSeq) thrombospondin 2
+ORTHOLOGY   K04659  thrombospondin 2/3/4/5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa05144  Malaria
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                7058 (THBS2)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                7058 (THBS2)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                7058 (THBS2)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                7058 (THBS2)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                7058 (THBS2)
+               05144 Malaria
+                7058 (THBS2)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Opsonins
+                7058 (THBS2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               7058 (THBS2)
+              Exosomal proteins of colorectal cancer cells
+               7058 (THBS2)
+              Exosomal proteins of bladder cancer cells
+               7058 (THBS2)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-3
+                ITGB1; integrin beta 1 [KO:K05719]
+                 7058 (THBS2)
+              Beta3 integrins
+               alpha IIb  beta 3
+                ITGB3; integrin beta 3 [KO:K06493]
+                 7058 (THBS2)
+               VNR
+                 7058 (THBS2)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               7058 (THBS2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Extracellular matrix molecules	(General comment) Storage depot, cell adhesion and motility, ECM/barrier formation
+               7058 (THBS2)
+POSITION    6q27
+MOTIF       Pfam: TSP_C TSP_3 TSP_1 VWC EGF_3 EGF_CA EGF cEGF Laminin_G_2
+DBLINKS     NCBI-GeneID: 7058
+            NCBI-ProteinID: NP_003238
+            OMIM: 188061
+            HGNC: 11786
+            Ensembl: ENSG00000186340
+            Vega: OTTHUMG00000045408
+            Pharos: P35442(Tbio)
+            UniProt: P35442
+STRUCTURE   PDB: 1YO8 2RHP
+AASEQ       1172
+            MVWRLVLLALWVWPSTQAGHQDKDTTFDLFSISNINRKTIGAKQFRGPDPGVPAYRFVRF
+            DYIPPVNADDLSKITKIMRQKEGFFLTAQLKQDGKSRGTLLALEGPGLSQRQFEIVSNGP
+            ADTLDLTYWIDGTRHVVSLEDVGLADSQWKNVTVQVAGETYSLHVGCDLIDSFALDEPFY
+            EHLQAEKSRMYVAKGSARESHFRGLLQNVHLVFENSVEDILSKKGCQQGQGAEINAISEN
+            TETLRLGPHVTTEYVGPSSERRPEVCERSCEELGNMVQELSGLHVLVNQLSENLKRVSND
+            NQFLWELIGGPPKTRNMSACWQDGRFFAENETWVVDSCTTCTCKKFKTICHQITCPPATC
+            ASPSFVEGECCPSCLHSVDGEEGWSPWAEWTQCSVTCGSGTQQRGRSCDVTSNTCLGPSI
+            QTRACSLSKCDTRIRQDGGWSHWSPWSSCSVTCGVGNITRIRLCNSPVPQMGGKNCKGSG
+            RETKACQGAPCPIDGRWSPWSPWSACTVTCAGGIRERTRVCNSPEPQYGGKACVGDVQER
+            QMCNKRSCPVDGCLSNPCFPGAQCSSFPDGSWSCGSCPVGFLGNGTHCEDLDECALVPDI
+            CFSTSKVPRCVNTQPGFHCLPCPPRYRGNQPVGVGLEAAKTEKQVCEPENPCKDKTHNCH
+            KHAECIYLGHFSDPMYKCECQTGYAGDGLICGEDSDLDGWPNLNLVCATNATYHCIKDNC
+            PHLPNSGQEDFDKDGIGDACDDDDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNCP
+            YVHNPAQIDTDNNGEGDACSVDIDGDDVFNERDNCPYVYNTDQRDTDGDGVGDHCDNCPL
+            VHNPDQTDVDNDLVGDQCDNNEDIDDDGHQNNQDNCPYISNANQADHDRDGQGDACDPDD
+            DNDGVPDDRDNCRLVFNPDQEDLDGDGRGDICKDDFDNDNIPDIDDVCPENNAISETDFR
+            NFQMVPLDPKGTTQIDPNWVIRHQGKELVQTANSDPGIAVGFDEFGSVDFSGTFYVNTDR
+            DDDYAGFVFGYQSSSRFYVVMWKQVTQTYWEDQPTRAYGYSGVSLKVVNSTTGTGEHLRN
+            ALWHTGNTPGQVRTLWHDPRNIGWKDYTAYRWHLTHRPKTGYIRVLVHEGKQVMADSGPI
+            YDQTYAGGRLGLFVFSQEMVYFSDLKYECRDI
+NTSEQ       3519
+            atggtctggaggctggtcctgctggctctgtgggtgtggcccagcacgcaagctggtcac
+            caggacaaagacacgaccttcgaccttttcagtatcagcaacatcaaccgcaagaccatt
+            ggcgccaagcagttccgcgggcccgaccccggcgtgccggcttaccgcttcgtgcgcttt
+            gactacatcccaccggtgaacgcagatgacctcagcaagatcaccaagatcatgcggcag
+            aaggagggcttcttcctcacggcccagctcaagcaggacggcaagtccaggggcacgctg
+            ttggctctggagggccccggtctctcccagaggcagttcgagatcgtctccaacggcccc
+            gcggacacgctggatctcacctactggattgacggcacccggcatgtggtctccctggag
+            gacgtcggcctggctgactcgcagtggaagaacgtcaccgtgcaggtggctggcgagacc
+            tacagcttgcacgtgggctgcgacctcatagacagcttcgctctggacgagcccttctac
+            gagcacctgcaggcggaaaagagccggatgtacgtggccaaaggctctgccagagagagt
+            cacttcaggggtttgcttcagaacgtccacctagtgtttgaaaactctgtggaagatatt
+            ctaagcaagaagggttgccagcaaggccagggagctgagatcaacgccatcagtgagaac
+            acagagacgctgcgcctgggtccgcatgtcaccaccgagtacgtgggccccagctcggag
+            aggaggcccgaggtgtgcgaacgctcgtgcgaggagctgggaaacatggtccaggagctc
+            tcggggctccacgtcctcgtgaaccagctcagcgagaacctcaagagagtgtcgaatgat
+            aaccagtttctctgggagctcattggtggccctcctaagacaaggaacatgtcagcttgc
+            tggcaggatggccggttctttgcggaaaatgaaacgtgggtggtggacagctgcaccacg
+            tgtacctgcaagaaatttaaaaccatttgccaccaaatcacctgcccgcctgcaacctgc
+            gccagtccatcctttgtggaaggcgaatgctgcccttcctgcctccactcggtggacggt
+            gaggagggctggtctccgtgggcagagtggacccagtgctccgtgacgtgtggctctggg
+            acccagcagagaggccggtcctgtgacgtcaccagcaacacctgcttggggccctccatc
+            cagacacgggcttgcagtctgagcaagtgtgacacccgcatccggcaggacggcggctgg
+            agccactggtcaccttggtcttcatgctctgtgacctgtggagttggcaatatcacacgc
+            atccgtctctgcaactccccagtgccccagatggggggcaagaattgcaaagggagtggc
+            cgggagaccaaagcctgccagggcgccccatgcccaatcgatggccgctggagcccctgg
+            tccccgtggtcggcctgcactgtcacctgtgccggtgggatccgggagcgcacccgggtc
+            tgcaacagccctgagcctcagtacggagggaaggcctgcgtgggggatgtgcaggagcgt
+            cagatgtgcaacaagaggagctgccccgtggatggctgtttatccaacccctgcttcccg
+            ggagcccagtgcagcagcttccccgatgggtcctggtcatgcggctcctgccctgtgggc
+            ttcttgggcaatggcacccactgtgaggacctggacgagtgtgccctggtccccgacatc
+            tgcttctccaccagcaaggtgcctcgctgtgtcaacactcagcctggcttccactgcctg
+            ccctgcccgccccgatacagagggaaccagcccgtcggggtcggcctggaagcagccaag
+            acggaaaagcaagtgtgtgagcccgaaaacccatgcaaggacaagacacacaactgccac
+            aagcacgcggagtgcatctacctgggccacttcagcgaccccatgtacaagtgcgagtgc
+            cagacaggctacgcgggcgacgggctcatctgcggggaggactcggacctggacggctgg
+            cccaacctcaatctggtctgcgccaccaacgccacctaccactgcatcaaggataactgc
+            ccccatctgccaaattctgggcaggaagactttgacaaggacgggattggcgatgcctgt
+            gatgatgacgatgacaatgacggtgtgaccgatgagaaggacaactgccagctcctcttc
+            aatccccgccaggctgactatgacaaggatgaggttggggaccgctgtgacaactgccct
+            tacgtgcacaaccctgcccagatcgacacagacaacaatggagagggtgacgcctgctcc
+            gtggacattgatggggacgatgtcttcaatgaacgagacaattgtccctacgtctacaac
+            actgaccagagggacacggatggtgacggtgtgggggatcactgtgacaactgccccctg
+            gtgcacaaccctgaccagaccgacgtggacaatgaccttgttggggaccagtgtgacaac
+            aacgaggacatagatgacgacggccaccagaacaaccaggacaactgcccctacatctcc
+            aacgccaaccaggctgaccatgacagagacggccagggcgacgcctgtgaccctgatgat
+            gacaacgatggcgtccccgatgacagggacaactgccggcttgtgttcaacccagaccag
+            gaggacttggacggtgatggacggggtgatatttgtaaagatgattttgacaatgacaac
+            atcccagatattgatgatgtgtgtcctgaaaacaatgccatcagtgagacagacttcagg
+            aacttccagatggtccccttggatcccaaagggaccacccaaattgatcccaactgggtc
+            attcgccatcaaggcaaggagctggttcagacagccaactcggaccccggcatcgctgta
+            ggttttgacgagtttgggtctgtggacttcagtggcacattctacgtaaacactgaccgg
+            gacgacgactatgccggcttcgtctttggttaccagtcaagcagccgcttctatgtggtg
+            atgtggaagcaggtgacgcagacctactgggaggaccagcccacgcgggcctatggctac
+            tccggcgtgtccctcaaggtggtgaactccaccacggggacgggcgagcacctgaggaac
+            gcgctgtggcacacggggaacacgccggggcaggtgcgaaccttatggcacgaccccagg
+            aacattggctggaaggactacacggcctataggtggcacctgactcacaggcccaagact
+            ggctacatcagagtcttagtgcatgaaggaaaacaggtcatggcagactcaggacctatc
+            tatgaccaaacctacgctggcgggcggctgggtctatttgtcttctctcaagaaatggtc
+            tatttctcagacctcaagtacgaatgcagagatatttaa
+///

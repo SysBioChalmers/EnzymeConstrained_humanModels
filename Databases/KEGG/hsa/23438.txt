@@ -1,0 +1,77 @@
+ENTRY       23438             CDS       T01001
+NAME        HARS2, HARSL, HARSR, HO3, PRLTS2
+DEFINITION  (RefSeq) histidyl-tRNA synthetase 2, mitochondrial
+ORTHOLOGY   K01892  histidyl-tRNA synthetase [EC:6.1.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                23438 (HARS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.21  histidine---tRNA ligase
+                 23438 (HARS2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               23438 (HARS2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                23438 (HARS2)
+             Prokaryotic Type
+                23438 (HARS2)
+POSITION    5q31.3
+MOTIF       Pfam: tRNA-synt_His HGTP_anticodon HGTP_anticodon2
+DBLINKS     NCBI-GeneID: 23438
+            NCBI-ProteinID: NP_036340
+            OMIM: 600783
+            HGNC: 4817
+            Ensembl: ENSG00000112855
+            Vega: OTTHUMG00000129500
+            Pharos: P49590(Tbio)
+            UniProt: P49590
+AASEQ       506
+            MPLLGLLPRRAWASLLSQLLRPPCASCTGAVRCQSQVAEAVLTSQLKAHQEKPNFIIKTP
+            KGTRDLSPQHMVVREKILDLVISCFKRHGAKGMDTPAFELKETLTEKYGEDSGLMYDLKD
+            QGGELLSLRYDLTVPFARYLAMNKVKKMKRYHVGKVWRRESPTIVQGRYREFCQCDFDIA
+            GQFDPMIPDAECLKIMCEILSGLQLGDFLIKVNDRRIVDGMFAVCGVPESKFRAICSSID
+            KLDKMAWKDVRHEMVVKKGLAPEVADRIGDYVQCHGGVSLVEQMFQDPRLSQNKQALEGL
+            GDLKLLFEYLTLFGIADKISFDLSLARGLDYYTGVIYEAVLLQTPTQAGEEPLNVGSVAA
+            GGRYDGLVGMFDPKGHKVPCVGLSIGVERIFYIVEQRMKTKGEKVRTTETQVFVATPQKN
+            FLQERLKLIAELWDSGIKAEMLYKNNPKLLTQLHYCESTGIPLVVIIGEQELKEGVIKIR
+            SVASREEVAIKRENFVAEIQKRLSES
+NTSEQ       1521
+            atgcccctgctcggacttcttcccaggagggcctgggcttcgctgctcagccagctcctg
+            cgaccgccctgcgcttcgtgcaccggggcggtccgttgccaaagccaggttgcagaggca
+            gtgttaacatcccaactgaaagcacatcaagagaaaccaaattttattatcaagacccca
+            aagggtaccagggatcttagtcctcagcatatggttgtgagggagaaaattcttgatttg
+            gttatcagctgctttaaacgtcatggagcaaaggggatggacaccccagcatttgagctg
+            aaggaaaccctgactgagaagtatggagaggactctgggctcatgtatgatctgaaggat
+            caaggtggagagctgttgtccctccgctatgaccttactgttccctttgctcgttatctg
+            gccatgaataaggtgaagaagatgaaacgttatcatgttggaaaggtgtggcggcgagag
+            agcccaaccatagtccaaggccgttatagggagttctgccagtgtgattttgacattgct
+            ggtcagtttgaccctatgatccccgatgcagagtgtttgaagatcatgtgtgaaatccta
+            agtggattgcagttgggagactttctcattaaggtaaatgaccggcggattgtggatggg
+            atgtttgctgtctgtggtgttcctgaaagcaagttccgtgccatctgctcctccatagat
+            aaactagacaagatggcttggaaagatgtgagacatgagatggtggtgaagaaaggcctg
+            gctcctgaggtggctgatcgaattggggactatgtccagtgtcatggtggggtatcccta
+            gtagagcaaatgtttcaggatcccagactatcccagaacaagcaggccctggagggcctg
+            ggagacctaaagctgctatttgaatacctgactttatttggaattgctgataagatctcc
+            tttgacctcagcctggctcggggcctagactactatacaggagtgatctatgaagcagtg
+            ctgctgcagaccccaactcaggctggggaggagcccctgaatgtgggcagtgtggctgct
+            ggtgggcgctatgatgggctggtgggcatgtttgaccccaagggccacaaggtgccatgt
+            gtgggactcagcattggggttgagcgaatcttctacattgtggagcagaggatgaagacc
+            aaaggtgagaaggtgcggactacagagactcaagtgtttgtggccacaccacagaagaac
+            tttctccaagaacggttgaagcttattgcagagctttgggattctggaatcaaggcagag
+            atgctatacaagaacaaccccaaactattaacccagctgcactattgtgagagcacaggc
+            attccactggtggtcattattggtgagcaagaactgaaagaaggggtcatcaagatccgt
+            tcagtggccagcagagaggaggtggccattaaacgggaaaattttgtggctgaaattcag
+            aagcgactgtctgagtcttga
+///

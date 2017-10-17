@@ -1,0 +1,129 @@
+ENTRY       8850              CDS       T01001
+NAME        KAT2B, CAF, P/CAF, PCAF
+DEFINITION  (RefSeq) lysine acetyltransferase 2B
+ORTHOLOGY   K06062  histone acetyltransferase [EC:2.3.1.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04330  Notch signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa05166  HTLV-I infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04330 Notch signaling pathway
+                8850 (KAT2B)
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                8850 (KAT2B)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                8850 (KAT2B)
+              Infectious diseases
+               05166 HTLV-I infection
+                8850 (KAT2B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.48  histone acetyltransferase
+                 8850 (KAT2B)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Coactivators
+                SAGA/TFTC/STAGA complex
+                 8850 (KAT2B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HATs (histone acetyltransferases)
+                8850 (KAT2B)
+               HAT complexes
+                PCAF complex
+                 8850 (KAT2B)
+                STAGA complex
+                 8850 (KAT2B)
+                TFTC complex
+                 8850 (KAT2B)
+                SAGA complex
+                 8850 (KAT2B)
+                SLIK complex
+                 8850 (KAT2B)
+                ADA-HAT complex
+                 8850 (KAT2B)
+                HAT-A2 complex
+                 8850 (KAT2B)
+POSITION    3p24.3
+MOTIF       Pfam: PCAF_N Bromodomain Acetyltransf_1 Acetyltransf_10 Acetyltransf_7
+DBLINKS     NCBI-GeneID: 8850
+            NCBI-ProteinID: NP_003875
+            OMIM: 602303
+            HGNC: 8638
+            Ensembl: ENSG00000114166
+            Vega: OTTHUMG00000130481
+            Pharos: Q92831(Tchem)
+            UniProt: Q92831
+STRUCTURE   PDB: 5FE6 5LVQ 5LVR 5FE7 5FE8 5FE3 5FE5 5FE4 5FE1 5FE2 3GG3
+                 5FE0 1CM0 4NSQ 5FE9 5FDZ 2RNW 2RNX 1ZS5 1WUM 1WUG 1N72
+                 1JM4
+AASEQ       832
+            MSEAGGAGPGGCGAGAGAGAGPGALPPQPAALPPAPPQGSPCAAAAGGSGACGPATAVAA
+            AGTAEGPGGGGSARIAVKKAQLRSAPRAKKLEKLGVYSACKAEESCKCNGWKNPNPSPTP
+            PRADLQQIIVSLTESCRSCSHALAAHVSHLENVSEEEMNRLLGIVLDVEYLFTCVHKEED
+            ADTKQVYFYLFKLLRKSILQRGKPVVEGSLEKKPPFEKPSIEQGVNNFVQYKFSHLPAKE
+            RQTIVELAKMFLNRINYWHLEAPSQRRLRSPNDDISGYKENYTRWLCYCNVPQFCDSLPR
+            YETTQVFGRTLLRSVFTVMRRQLLEQARQEKDKLPLEKRTLILTHFPKFLSMLEEEVYSQ
+            NSPIWDQDFLSASSRTSQLGIQTVINPPPVAGTISYNSTSSSLEQPNAGSSSPACKASSG
+            LEANPGEKRKMTDSHVLEEAKKPRVMGDIPMELINEVMSTITDPAAMLGPETNFLSAHSA
+            RDEAARLEERRGVIEFHVVGNSLNQKPNKKILMWLVGLQNVFSHQLPRMPKEYITRLVFD
+            PKHKTLALIKDGRVIGGICFRMFPSQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH
+            DILNFLTYADEYAIGYFKKQGFSKEIKIPKTKYVGYIKDYEGATLMGCELNPRIPYTEFS
+            VIIKKQKEIIKKLIERKQAQIRKVYPGLSCFKDGVRQIPIESIPGIRETGWKPSGKEKSK
+            EPRDPDQLYSTLKSILQQVKSHQSAWPFMEPVKRTEAPGYYEVIRFPMDLKTMSERLKNR
+            YYVSKKLFMADLQRVFTNCKEYNPPESEYYKCANILEKFFFSKIKEAGLIDK
+NTSEQ       2499
+            atgtccgaggctggcggggccgggccgggcggctgcggggcaggagccggggcaggggcc
+            gggcccggggcgctgcccccgcagcctgcggcgcttccgcccgcgcccccgcagggctcc
+            ccctgcgccgctgccgccgggggctcgggcgcctgcggtccggcgacggcagtggctgca
+            gcgggcacggccgaaggaccgggaggcggtggctcggcccgaatcgccgtgaagaaagcg
+            caactacgctccgctccgcgggccaagaaactggagaaactcggagtgtactccgcctgc
+            aaggccgaggagtcttgtaaatgtaatggctggaaaaaccctaacccctcacccactccc
+            cccagagccgacctgcagcaaataattgtcagtctaacagaatcctgtcggagttgtagc
+            catgccctagctgctcatgtttcccacctggagaatgtgtcagaggaagaaatgaacaga
+            ctcctgggaatagtattggatgtggaatatctctttacctgtgtccacaaggaagaagat
+            gcagataccaaacaagtttatttctatctatttaagctcttgagaaagtctattttacaa
+            agaggaaaacctgtggttgaaggctctttggaaaagaaacccccatttgaaaaacctagc
+            attgaacagggtgtgaataactttgtgcagtacaaatttagtcacctgccagcaaaagaa
+            aggcaaacaatagttgagttggcaaaaatgttcctaaaccgcatcaactattggcatctg
+            gaggcaccatctcaacgaagactgcgatctcccaatgatgatatttctggatacaaagag
+            aactacacaaggtggctgtgttactgcaacgtgccacagttctgcgacagtctacctcgg
+            tacgaaaccacacaggtgtttgggagaacattgcttcgctcggtcttcactgttatgagg
+            cgacaactcctggaacaagcaagacaggaaaaagataaactgcctcttgaaaaacgaact
+            ctaatcctcactcatttcccaaaatttctgtccatgctagaagaagaagtatatagtcaa
+            aactctcccatctgggatcaggattttctctcagcctcttccagaaccagccagctaggc
+            atccaaacagttatcaatccacctcctgtggctgggacaatttcatacaattcaacctca
+            tcttcccttgagcagccaaacgcagggagcagcagtcctgcctgcaaagcctcttctgga
+            cttgaggcaaacccaggagaaaagaggaaaatgactgattctcatgttctggaggaggcc
+            aagaaaccccgagttatgggggatattccgatggaattaatcaacgaggttatgtctacc
+            atcacggaccctgcagcaatgcttggaccagagaccaattttctgtcagcacactcggcc
+            agggatgaggcggcaaggttggaagagcgcaggggtgtaattgaatttcacgtggttggc
+            aattccctcaaccagaaaccaaacaagaagatcctgatgtggctggttggcctacagaac
+            gttttctcccaccagctgccccgaatgccaaaagaatacatcacacggctcgtctttgac
+            ccgaaacacaaaacccttgctttaattaaagatggccgtgttattggtggtatctgtttc
+            cgtatgttcccatctcaaggattcacagagattgtcttctgtgctgtaacctcaaatgag
+            caagtcaagggctatggaacacacctgatgaatcatttgaaagaatatcacataaagcat
+            gacatcctgaacttcctcacatatgcagatgaatatgcaattggatactttaagaaacag
+            ggtttctccaaagaaattaaaatacctaaaaccaaatatgttggctatatcaaggattat
+            gaaggagccactttaatgggatgtgagctaaatccacggatcccgtacacagaattttct
+            gtcatcattaaaaagcagaaggagataattaaaaaactgattgaaagaaaacaggcacaa
+            attcgaaaagtttaccctggactttcatgttttaaagatggagttcgacagattcctata
+            gaaagcattcctggaattagagagacaggctggaaaccgagtggaaaagagaaaagtaaa
+            gagcccagagaccctgaccagctttacagcacgctcaagagcatcctccagcaggtgaag
+            agccatcaaagcgcttggcccttcatggaacctgtgaagagaacagaagctccaggatat
+            tatgaagttataaggttccccatggatctgaaaaccatgagtgaacgcctcaagaatagg
+            tactacgtgtctaagaaattattcatggcagacttacagcgagtctttaccaattgcaaa
+            gagtacaacccccctgagagtgaatactacaaatgtgccaatatcctggagaaattcttc
+            ttcagtaaaattaaggaagctggattaattgacaagtga
+///

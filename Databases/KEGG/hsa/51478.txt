@@ -1,0 +1,66 @@
+ENTRY       51478             CDS       T01001
+NAME        HSD17B7, PRAP, SDR37C1
+DEFINITION  (RefSeq) hydroxysteroid 17-beta dehydrogenase 7
+ORTHOLOGY   K13373  17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase [EC:1.1.1.62 1.1.1.270]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00100  Steroid biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04913  Ovarian steroidogenesis
+MODULE      hsa_M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00100 Steroid biosynthesis
+                51478 (HSD17B7)
+               00140 Steroid hormone biosynthesis
+                51478 (HSD17B7)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                51478 (HSD17B7)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.62  17beta-estradiol 17-dehydrogenase
+                 51478 (HSD17B7)
+                1.1.1.270  3beta-hydroxysteroid 3-dehydrogenase
+                 51478 (HSD17B7)
+POSITION    1q23.3
+MOTIF       Pfam: adh_short adh_short_C2 KR Epimerase Sacchrp_dh_NADP NAD_binding_10 GDP_Man_Dehyd 3Beta_HSD Polysacc_synt_2 Eno-Rase_NADH_b
+DBLINKS     NCBI-GeneID: 51478
+            NCBI-ProteinID: NP_057455
+            OMIM: 606756
+            HGNC: 5215
+            Ensembl: ENSG00000132196
+            Vega: OTTHUMG00000034420
+            Pharos: P56937(Tchem)
+            UniProt: P56937 A0A024R913
+AASEQ       341
+            MRKVVLITGASSGIGLALCKRLLAEDDELHLCLACRNMSKAEAVCAALLASHPTAEVTIV
+            QVDVSNLQSVFRASKELKQRFQRLDCIYLNAGIMPNPQLNIKALFFGLFSRKVIHMFSTA
+            EGLLTQGDKITADGLQEVFETNVFGHFILIRELEPLLCHSDNPSQLIWTSSRSARKSNFS
+            LEDFQHSKGKEPYSSSKYATDLLSVALNRNFNQQGLYSNVACPGTALTNLTYGILPPFIW
+            TLLMPAILLLRFFANAFTLTPYNGTEALVWLFHQKPESLNPLIKYLSATTGFGRNYIMTQ
+            KMDLDEDTAEKFYQKLLELEKHIRVTIQKTDNQARLSGSCL
+NTSEQ       1026
+            atgcgaaaggtggttttgatcaccggggctagcagtggcattggcctggccctctgcaag
+            cggctgctggcggaagatgatgagcttcatctgtgtttggcgtgcaggaacatgagcaag
+            gcagaagctgtctgtgctgctctgctggcctctcaccccactgctgaggtcaccattgtc
+            caggtggatgtcagcaacctgcagtcggtcttccgggcctccaaggaacttaagcaaagg
+            tttcagagattagactgtatatatctaaatgctgggatcatgcctaatccacaactaaat
+            atcaaagcacttttctttggcctcttttcaagaaaagtgattcatatgttctccacagct
+            gaaggcctgctgacccagggtgataagatcactgctgatggacttcaggaggtgtttgag
+            accaatgtctttggccattttatcctgattcgggaactggagcctctcctctgtcacagt
+            gacaatccatctcagctcatctggacatcatctcgcagtgcaaggaaatctaatttcagc
+            ctcgaggacttccagcacagcaaaggcaaggaaccctacagctcttccaaatatgccact
+            gaccttttgagtgtggctttgaacaggaacttcaaccagcagggtctctattccaatgtg
+            gcctgtccaggtacagcattgaccaatttgacatatggaattctgcctccgtttatatgg
+            acgctgttgatgccggcaatattgctacttcgcttttttgcaaatgcattcactttgaca
+            ccatataatggaacagaagctctggtatggcttttccaccaaaagcctgaatctctcaat
+            cctctgatcaaatatctgagtgccaccactggctttggaagaaattacattatgacccag
+            aagatggacctagatgaagacactgctgaaaaattttatcaaaagttactggaactggaa
+            aagcacattagggtcactattcaaaaaacagataatcaggccaggctcagtggctcatgc
+            ctataa
+///

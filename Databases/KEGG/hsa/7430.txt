@@ -1,0 +1,100 @@
+ENTRY       7430              CDS       T01001
+NAME        EZR, CVIL, CVL, HEL-S-105, VIL2
+DEFINITION  (RefSeq) ezrin
+ORTHOLOGY   K08007  villin 2 (ezrin)
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04971  Gastric acid secretion
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                7430 (EZR)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                7430 (EZR)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                7430 (EZR)
+              Digestive system
+               04971 Gastric acid secretion
+                7430 (EZR)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                7430 (EZR)
+               05205 Proteoglycans in cancer
+                7430 (EZR)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                7430 (EZR)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Gelsolin / villin
+                 7430 (EZR)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               7430 (EZR)
+POSITION    6q25.3
+MOTIF       Pfam: ERM FERM_C FERM_M FERM_N
+DBLINKS     NCBI-GeneID: 7430
+            NCBI-ProteinID: NP_001104547
+            OMIM: 123900
+            HGNC: 12691
+            Ensembl: ENSG00000092820
+            Vega: OTTHUMG00000015917
+            Pharos: P15311(Tbio)
+            UniProt: P15311
+STRUCTURE   PDB: 4RMA 4RM8 4RM9 1NI2
+AASEQ       586
+            MPKPINVRVTTMDAELEFAIQPNTTGKQLFDQVVKTIGLREVWYFGLHYVDNKGFPTWLK
+            LDKKVSAQEVRKENPLQFKFRAKFYPEDVAEELIQDITQKLFFLQVKEGILSDEIYCPPE
+            TAVLLGSYAVQAKFGDYNKEVHKSGYLSSERLIPQRVMDQHKLTRDQWEDRIQVWHAEHR
+            GMLKDNAMLEYLKIAQDLEMYGINYFEIKNKKGTDLWLGVDALGLNIYEKDDKLTPKIGF
+            PWSEIRNISFNDKKFVIKPIDKKAPDFVFYAPRLRINKRILQLCMGNHELYMRRRKPDTI
+            EVQQMKAQAREEKHQKQLERQQLETEKKRRETVEREKEQMMREKEELMLRLQDYEEKTKK
+            AERELSEQIQRALQLEEERKRAQEEAERLEADRMAALRAKEELERQAVDQIKSQEQLAAE
+            LAEYTAKIALLEEARRRKEDEVEEWQHRAKEAQDDLVKTKEELHLVMTAPPPPPPPVYEP
+            VSYHVQESLQDEGAEPTGYSAELSSEGIRDDRNEEKRITEAEKNERVQRQLLTLSSELSQ
+            ARDENKRTHNDIIHNENMRQGRDKYKTLRQIRQGNTKQRIDEFEAL
+NTSEQ       1761
+            atgccgaaaccaatcaatgtccgagttaccaccatggatgcagagctggagtttgcaatc
+            cagccaaatacaactggaaaacagctttttgatcaggtggtaaagactatcggcctccgg
+            gaagtgtggtactttggcctccactatgtggataataaaggatttcctacctggctgaag
+            ctggataagaaggtgtctgcccaggaggtcaggaaggagaatcccctccagttcaagttc
+            cgggccaagttctaccctgaagatgtggctgaggagctcatccaggacatcacccagaaa
+            cttttcttcctccaagtgaaggaaggaatccttagcgatgagatctactgcccccctgag
+            actgccgtgctcttggggtcctacgctgtgcaggccaagtttggggactacaacaaagaa
+            gtgcacaagtctgggtacctcagctctgagcggctgatccctcaaagagtgatggaccag
+            cacaaacttaccagggaccagtgggaggaccggatccaggtgtggcatgcggaacaccgt
+            gggatgctcaaagataatgctatgttggaatacctgaagattgctcaggacctggaaatg
+            tatggaatcaactatttcgagataaaaaacaagaaaggaacagacctttggcttggagtt
+            gatgcccttggactgaatatttatgagaaagatgataagttaaccccaaagattggcttt
+            ccttggagtgaaatcaggaacatctctttcaatgacaaaaagtttgtcattaaacccatc
+            gacaagaaggcacctgactttgtgttttatgccccacgtctgagaatcaacaagcggatc
+            ctgcagctctgcatgggcaaccatgagttgtatatgcgccgcaggaagcctgacaccatc
+            gaggtgcagcagatgaaggcccaggcccgggaggagaagcatcagaagcagctggagcgg
+            caacagctggaaacagagaagaaaaggagagaaaccgtggagagagagaaagagcagatg
+            atgcgcgagaaggaggagttgatgctgcggctgcaggactatgaggagaagacaaagaag
+            gcagagagagagctctcggagcagattcagagggccctgcagctggaggaggagaggaag
+            cgggcacaggaggaggccgagcgcctagaggctgaccgtatggctgcactgcgggctaag
+            gaggagctggagagacaggcggtggatcagataaagagccaggagcagctggctgcggag
+            cttgcagaatacactgccaagattgccctcctggaagaggcgcggaggcgcaaggaggat
+            gaagttgaagagtggcagcacagggccaaagaagcccaggatgacctggtgaagaccaag
+            gaggagctgcacctggtgatgacagcacccccgcccccaccaccccccgtgtacgagccg
+            gtgagctaccatgtccaggagagcttgcaggatgagggcgcagagcccacgggctacagc
+            gcggagctgtctagtgagggcatccgggatgaccgcaatgaggagaagcgcatcactgag
+            gcagagaagaacgagcgtgtgcagcggcagctgctgacgctgagcagcgagctgtcccag
+            gcccgagatgagaataagaggacccacaatgacatcatccacaacgagaacatgaggcaa
+            ggccgggacaagtacaagacgctgcggcagatccggcagggcaacaccaagcagcgcatc
+            gacgagttcgaggccctgtaa
+///

@@ -1,0 +1,92 @@
+ENTRY       3570              CDS       T01001
+NAME        IL6R, CD126, IL-6R-1, IL-6RA, IL6Q, IL6RA, IL6RQ, gp80
+DEFINITION  (RefSeq) interleukin 6 receptor
+ORTHOLOGY   K05055  interleukin 6 receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04066  HIF-1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04659  Th17 cell differentiation
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+DRUG_TARGET Sarilumab: D10161
+            Tocilizumab: D02596
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3570 (IL6R)
+               04066 HIF-1 signaling pathway
+                3570 (IL6R)
+               04151 PI3K-Akt signaling pathway
+                3570 (IL6R)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3570 (IL6R)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3570 (IL6R)
+               04659 Th17 cell differentiation
+                3570 (IL6R)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                3570 (IL6R)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                3570 (IL6R)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              3570 (IL6R)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3570 (IL6R)
+POSITION    1q21.3
+MOTIF       Pfam: IL6Ra-bind ig Ig_3 Ig_2 fn3 I-set Ig_5
+DBLINKS     NCBI-GeneID: 3570
+            NCBI-ProteinID: NP_000556
+            OMIM: 147880
+            HGNC: 6019
+            Ensembl: ENSG00000160712
+            Vega: OTTHUMG00000036073
+            Pharos: P08887(Tclin)
+            UniProt: P08887 A0N0L5
+STRUCTURE   PDB: 1N26 5FUC 1P9M 2ARW
+AASEQ       468
+            MLAVGCALLAALLAAPGAALAPRRCPAQEVARGVLTSLPGDSVTLTCPGVEPEDNATVHW
+            VLRKPAAGSHPSRWAGMGRRLLLRSVQLHDSGNYSCYRAGRPAGTVHLLVDVPPEEPQLS
+            CFRKSPLSNVVCEWGPRSTPSLTTKAVLLVRKFQNSPAEDFQEPCQYSQESQKFSCQLAV
+            PEGDSSFYIVSMCVASSVGSKFSKTQTFQGCGILQPDPPANITVTAVARNPRWLSVTWQD
+            PHSWNSSFYRLRFELRYRAERSKTFTTWMVKDLQHHCVIHDAWSGLRHVVQLRAQEEFGQ
+            GEWSEWSPEAMGTPWTESRSPPAENEVSTPMQALTTNKDDDNILFRDSANATSLPVQDSS
+            SVPLPTFLVAGGSLAFGTLLCIAIVLRFKKTWKLRALKEGKTSMHPPYSLGQLVPERPRP
+            TPVLVPLISPPVSPSSLGSDNTSSHNRPDARDPRSPYDISNTDYFFPR
+NTSEQ       1407
+            atgctggccgtcggctgcgcgctgctggctgccctgctggccgcgccgggagcggcgctg
+            gccccaaggcgctgccctgcgcaggaggtggcgagaggcgtgctgaccagtctgccagga
+            gacagcgtgactctgacctgcccgggggtagagccggaagacaatgccactgttcactgg
+            gtgctcaggaagccggctgcaggctcccaccccagcagatgggctggcatgggaaggagg
+            ctgctgctgaggtcggtgcagctccacgactctggaaactattcatgctaccgggccggc
+            cgcccagctgggactgtgcacttgctggtggatgttccccccgaggagccccagctctcc
+            tgcttccggaagagccccctcagcaatgttgtttgtgagtggggtcctcggagcacccca
+            tccctgacgacaaaggctgtgctcttggtgaggaagtttcagaacagtccggccgaagac
+            ttccaggagccgtgccagtattcccaggagtcccagaagttctcctgccagttagcagtc
+            ccggagggagacagctctttctacatagtgtccatgtgcgtcgccagtagtgtcgggagc
+            aagttcagcaaaactcaaacctttcagggttgtggaatcttgcagcctgatccgcctgcc
+            aacatcacagtcactgccgtggccagaaacccccgctggctcagtgtcacctggcaagac
+            ccccactcctggaactcatctttctacagactacggtttgagctcagatatcgggctgaa
+            cggtcaaagacattcacaacatggatggtcaaggacctccagcatcactgtgtcatccac
+            gacgcctggagcggcctgaggcacgtggtgcagcttcgtgcccaggaggagttcgggcaa
+            ggcgagtggagcgagtggagcccggaggccatgggcacgccttggacagaatccaggagt
+            cctccagctgagaacgaggtgtccacccccatgcaggcacttactactaataaagacgat
+            gataatattctcttcagagattctgcaaatgcgacaagcctcccagtgcaagattcttct
+            tcagtaccactgcccacattcctggttgctggagggagcctggccttcggaacgctcctc
+            tgcattgccattgttctgaggttcaagaagacgtggaagctgcgggctctgaaggaaggc
+            aagacaagcatgcatccgccgtactctttggggcagctggtcccggagaggcctcgaccc
+            accccagtgcttgttcctctcatctccccaccggtgtcccccagcagcctggggtctgac
+            aatacctcgagccacaaccgaccagatgccagggacccacggagcccttatgacatcagc
+            aatacagactacttcttccccagatag
+///

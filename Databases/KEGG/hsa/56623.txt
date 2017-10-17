@@ -1,0 +1,82 @@
+ENTRY       56623             CDS       T01001
+NAME        INPP5E, CORS1, CPD4, JBTS1, MORMS, PPI5PIV, pharbin
+DEFINITION  (RefSeq) inositol polyphosphate-5-phosphatase E
+ORTHOLOGY   K20278  inositol polyphosphate 5-phosphatase INPP5E [EC:3.1.3.36]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+DISEASE     H00530  Joubert syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                56623 (INPP5E)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                56623 (INPP5E)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.36  phosphoinositide 5-phosphatase
+                 56623 (INPP5E)
+POSITION    9q34.3
+MOTIF       Pfam: Exo_endo_phos
+DBLINKS     NCBI-GeneID: 56623
+            NCBI-ProteinID: NP_063945
+            OMIM: 613037
+            HGNC: 21474
+            Ensembl: ENSG00000148384
+            Vega: OTTHUMG00000020927
+            Pharos: Q9NRR6(Tbio)
+            UniProt: Q9NRR6
+STRUCTURE   PDB: 2XSW
+AASEQ       644
+            MPSKAENLRPSEPAPQPPEGRTLQGQLPGAPPAQRAGSPPDAPGSESPALACSTPATPSG
+            EDPPARAAPIAPRPPARPRLERALSLDDKGWRRRRFRGSQEDLEARNGTSPSRGSVQSEG
+            PGAPAHSCSPPCLSTSLQEIPKSRGVLSSERGSPSSGGNPLSGVASSSPNLPHRDAAVAG
+            SSPRLPSLLPPRPPPALSLDIASDSLRTANKVDSDLADYKLRAQPLLVRAHSSLGPGRPR
+            SPLACDDCSLRSAKSSFSLLAPIRSKDVRSRSYLEGSLLASGALLGADELARYFPDRNVA
+            LFVATWNMQGQKELPPSLDEFLLPAEADYAQDLYVIGVQEGCSDRREWETRLQETLGPHY
+            VLLSSAAHGVLYMSLFIRRDLIWFCSEVECSTVTTRIVSQIKTKGALGISFTFFGTSFLF
+            ITSHFTSGDGKVAERLLDYTRTVQALVLPRNVPDTNPYRSSAADVTTRFDEVFWFGDFNF
+            RLSGGRTVVDALLCQGLVVDVPALLQHDQLIREMRKGSIFKGFQEPDIHFLPSYKFDIGK
+            DTYDSTSKQRTPSYTDRVLYRSRHKGDICPVSYSSCPGIKTSDHRPVYGLFRVKVRPGRD
+            NIPLAAGKFDRELYLLGIKRRISKEIQRQQALQSQNSSTICSVS
+NTSEQ       1935
+            atgccgtccaaggcggagaatctgcggccctccgagccggccccgcagccgccggaaggg
+            aggacgctccaaggacagcttcccggcgctccgccggcccagcgcgcggggtccccaccc
+            gatgctccgggctccgagagccccgcgcttgcctgcagcactccggccacgcccagcggc
+            gaggacccgccagcccgagcagcacccatcgccccgcggccccccgccaggcctcgactg
+            gagcgagccctgtccctggacgacaagggctggaggaggaggcgttttcgaggcagccag
+            gaggacctggaagcccggaatgggaccagtccctccaggggctcagtgcagagcgagggc
+            cccggggcccccgcccacagctgctccccgccctgcctgagcacctccttgcaggaaatc
+            cccaagtcccgcggggtcctgagcagtgagagagggagcccgtcctcggggggtaaccct
+            ctctctggggtggccagcagctccccgaacctcccgcacagagacgccgccgtggcgggg
+            agctcgcccaggctgcccagcctgctgcccccgcgcccaccgcctgccctgagcctggac
+            atcgcctccgactccctgaggacagcaaacaaggtcgactcggatcttgcagactacaag
+            ctccgcgcgcagccgctcctggtgcgggcccacagcagcctgggccccggccggccgcgg
+            agccccctggcctgcgacgactgttcccttcgctcggccaaatcctccttcagcctcctg
+            gcgcccatccgcagcaaggacgtccgcagcaggagttacctggagggcagcctcctggcc
+            agcggggccctgttgggggcggatgagctggcccgctacttcccagaccggaacgtggca
+            ctcttcgtggccacctggaacatgcagggccagaaggagctcccgcccagcctggacgag
+            ttcctgctcccagccgaggccgactatgcccaggacctgtatgtcatcggggtccaggag
+            ggctgttctgacaggcgggagtgggagactcgtctgcaggagacgctgggcccgcactat
+            gtgctgctgtcctcggcggcccacggcgtgctctacatgtcgctcttcatccgcagggac
+            ctcatctggttctgctcagaggtggagtgctccacggtgaccacacgcatcgtgtctcag
+            atcaagaccaagggggccttgggcatcagcttcaccttttttggcacttccttcctcttc
+            atcacgtcccacttcacctcaggtgacgggaaggtggcggagcggctgctggactacacc
+            aggactgtacaagccctggtcctgcccagaaatgtgcccgacaccaacccctatcgctcc
+            agcgcagcggacgtcaccacccgcttcgatgaggtgttctggtttggagacttcaacttc
+            cgcctgagtggcgggcgcacagtcgtggacgccctcctgtgccagggcctggtggtggac
+            gtgccggcgctgctgcagcacgaccagctcatccgggagatgcggaaagggtccatcttc
+            aagggcttccaggagccggacatccacttcctcccatcatacaagtttgacatcgggaag
+            gacacgtacgacagcacctccaagcagaggacgccctcatacacggaccgcgtcttgtac
+            agaagccgccacaagggtgacatctgtcctgtgagctactcttcctgccccgggatcaag
+            acgtccgaccaccgccctgtgtatggcctcttccgggtgaaagtgaggccggggcgagac
+            aacattccgttggcagctggcaaatttgatagagaactgtacttactaggaattaaaaga
+            cggatttcgaaggagattcagaggcagcaagcactacagagtcagaactccagcaccatc
+            tgctccgtttcttga
+///

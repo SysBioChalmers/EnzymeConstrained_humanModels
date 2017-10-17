@@ -1,0 +1,157 @@
+ENTRY       999               CDS       T01001
+NAME        CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO
+DEFINITION  (RefSeq) cadherin 1
+ORTHOLOGY   K05689  cadherin 1, type 1, E-cadherin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04520  Adherens junction
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05200  Pathways in cancer
+            hsa05213  Endometrial cancer
+            hsa05216  Thyroid cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+DISEASE     H00018  Gastric cancer
+            H00025  Penile cancer
+            H00031  Breast cancer
+            H00032  Thyroid cancer
+            H00048  Hepatocellular carcinoma
+            H00054  Nasopharyngeal cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                999 (CDH1)
+               04390 Hippo signaling pathway
+                999 (CDH1)
+               04371 Apelin signaling pathway
+                999 (CDH1)
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                999 (CDH1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                999 (CDH1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                999 (CDH1)
+               05216 Thyroid cancer
+                999 (CDH1)
+               05218 Melanoma
+                999 (CDH1)
+               05219 Bladder cancer
+                999 (CDH1)
+               05213 Endometrial cancer
+                999 (CDH1)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                999 (CDH1)
+               05100 Bacterial invasion of epithelial cells
+                999 (CDH1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Other centriole associated proteins
+                999 (CDH1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-2
+                ITGB1; integrin beta 1 [KO:K05719]
+                 999 (CDH1)
+              Beta7 integrins
+               alpha E beta 7
+                ITGB7; integrin beta 7 [KO:K06590]
+                 999 (CDH1)
+             5. Cadherin Family
+              Classic Cadherins
+               Vertebrate Type I classic cadherins
+                CDHE, CDH1; cadherin 1, type 1, E-cadherin [KO:K05689]
+                 999 (CDH1)
+               Other classic cadherins
+                CDH17; cadherin 17, LI cadherin [KO:K06811]
+                 999 (CDH1)
+            CD molecules [BR:hsa04090]
+             Proteins
+              999 (CDH1)
+POSITION    16q22.1
+MOTIF       Pfam: Cadherin Cadherin_C Cadherin_pro Cadherin_3
+DBLINKS     NCBI-GeneID: 999
+            NCBI-ProteinID: NP_004351
+            OMIM: 192090
+            HGNC: 1748
+            Ensembl: ENSG00000039068
+            Vega: OTTHUMG00000137561
+            Pharos: P12830(Tbio)
+            UniProt: P12830 B3GN61 A0A0U2ZQU7
+STRUCTURE   PDB: 2OMZ 2OMX 2OMY 3FF7 2OMU 2OMV 4ZT1 3FF8 2OMT 2O72 4ZTE
+                 1O6S
+AASEQ       882
+            MGPWSRSLSALLLLLQVSSWLCQEPEPCHPGFDAESYTFTVPRRHLERGRVLGRVNFEDC
+            TGRQRTAYFSLDTRFKVGTDGVITVKRPLRFHNPQIHFLVYAWDSTYRKFSTKVTLNTVG
+            HHHRPPPHQASVSGIQAELLTFPNSSPGLRRQKRDWVIPPISCPENEKGPFPKNLVQIKS
+            NKDKEGKVFYSITGQGADTPPVGVFIIERETGWLKVTEPLDRERIATYTLFSHAVSSNGN
+            AVEDPMEILITVTDQNDNKPEFTQEVFKGSVMEGALPGTSVMEVTATDADDDVNTYNAAI
+            AYTILSQDPELPDKNMFTINRNTGVISVVTTGLDRESFPTYTLVVQAADLQGEGLSTTAT
+            AVITVTDTNDNPPIFNPTTYKGQVPENEANVVITTLKVTDADAPNTPAWEAVYTILNDDG
+            GQFVVTTNPVNNDGILKTAKGLDFEAKQQYILHVAVTNVVPFEVSLTTSTATVTVDVLDV
+            NEAPIFVPPEKRVEVSEDFGVGQEITSYTAQEPDTFMEQKITYRIWRDTANWLEINPDTG
+            AISTRAELDREDFEHVKNSTYTALIIATDNGSPVATGTGTLLLILSDVNDNAPIPEPRTI
+            FFCERNPKPQVINIIDADLPPNTSPFTAELTHGASANWTIQYNDPTQESIILKPKMALEV
+            GDYKINLKLMDNQNKDQVTTLEVSVCDCEGAAGVCRKAQPVEAGLQIPAILGILGGILAL
+            LILILLLLLFLRRRAVVKEPLLPPEDDTRDNVYYYDEEGGGEEDQDFDLSQLHRGLDARP
+            EVTRNDVAPTLMSVPRYLPRPANPDEIGNFIDENLKAADTDPTAPPYDSLLVFDYEGSGS
+            EAASLSSLNSSESDKDQDYDYLNEWGNRFKKLADMYGGGEDD
+NTSEQ       2649
+            atgggcccttggagccgcagcctctcggcgctgctgctgctgctgcaggtctcctcttgg
+            ctctgccaggagccggagccctgccaccctggctttgacgccgagagctacacgttcacg
+            gtgccccggcgccacctggagagaggccgcgtcctgggcagagtgaattttgaagattgc
+            accggtcgacaaaggacagcctatttttccctcgacacccgattcaaagtgggcacagat
+            ggtgtgattacagtcaaaaggcctctacggtttcataacccacagatccatttcttggtc
+            tacgcctgggactccacctacagaaagttttccaccaaagtcacgctgaatacagtgggg
+            caccaccaccgccccccgccccatcaggcctccgtttctggaatccaagcagaattgctc
+            acatttcccaactcctctcctggcctcagaagacagaagagagactgggttattcctccc
+            atcagctgcccagaaaatgaaaaaggcccatttcctaaaaacctggttcagatcaaatcc
+            aacaaagacaaagaaggcaaggttttctacagcatcactggccaaggagctgacacaccc
+            cctgttggtgtctttattattgaaagagaaacaggatggctgaaggtgacagagcctctg
+            gatagagaacgcattgccacatacactctcttctctcacgctgtgtcatccaacgggaat
+            gcagttgaggatccaatggagattttgatcacggtaaccgatcagaatgacaacaagccc
+            gaattcacccaggaggtctttaaggggtctgtcatggaaggtgctcttccaggaacctct
+            gtgatggaggtcacagccacagacgcggacgatgatgtgaacacctacaatgccgccatc
+            gcttacaccatcctcagccaagatcctgagctccctgacaaaaatatgttcaccattaac
+            aggaacacaggagtcatcagtgtggtcaccactgggctggaccgagagagtttccctacg
+            tataccctggtggttcaagctgctgaccttcaaggtgaggggttaagcacaacagcaaca
+            gctgtgatcacagtcactgacaccaacgataatcctccgatcttcaatcccaccacgtac
+            aagggtcaggtgcctgagaacgaggctaacgtcgtaatcaccacactgaaagtgactgat
+            gctgatgcccccaataccccagcgtgggaggctgtatacaccatattgaatgatgatggt
+            ggacaatttgtcgtcaccacaaatccagtgaacaacgatggcattttgaaaacagcaaag
+            ggcttggattttgaggccaagcagcagtacattctacacgtagcagtgacgaatgtggta
+            ccttttgaggtctctctcaccacctccacagccaccgtcaccgtggatgtgctggatgtg
+            aatgaagcccccatctttgtgcctcctgaaaagagagtggaagtgtccgaggactttggc
+            gtgggccaggaaatcacatcctacactgcccaggagccagacacatttatggaacagaaa
+            ataacatatcggatttggagagacactgccaactggctggagattaatccggacactggt
+            gccatttccactcgggctgagctggacagggaggattttgagcacgtgaagaacagcacg
+            tacacagccctaatcatagctacagacaatggttctccagttgctactggaacagggaca
+            cttctgctgatcctgtctgatgtgaatgacaacgcccccataccagaacctcgaactata
+            ttcttctgtgagaggaatccaaagcctcaggtcataaacatcattgatgcagaccttcct
+            cccaatacatctcccttcacagcagaactaacacacggggcgagtgccaactggaccatt
+            cagtacaacgacccaacccaagaatctatcattttgaagccaaagatggccttagaggtg
+            ggtgactacaaaatcaatctcaagctcatggataaccagaataaagaccaagtgaccacc
+            ttagaggtcagcgtgtgtgactgtgaaggggccgctggcgtctgtaggaaggcacagcct
+            gtcgaagcaggattgcaaattcctgccattctggggattcttggaggaattcttgctttg
+            ctaattctgattctgctgctcttgctgtttcttcggaggagagcggtggtcaaagagccc
+            ttactgcccccagaggatgacacccgggacaacgtttattactatgatgaagaaggaggc
+            ggagaagaggaccaggactttgacttgagccagctgcacaggggcctggacgctcggcct
+            gaagtgactcgtaacgacgttgcaccaaccctcatgagtgtcccccggtatcttccccgc
+            cctgccaatcccgatgaaattggaaattttattgatgaaaatctgaaagcggctgatact
+            gaccccacagccccgccttatgattctctgctcgtgtttgactatgaaggaagcggttcc
+            gaagctgctagtctgagctccctgaactcctcagagtcagacaaagaccaggactatgac
+            tacttgaacgaatggggcaatcgcttcaagaagctggctgacatgtacggaggcggcgag
+            gacgactag
+///

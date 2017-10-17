@@ -1,0 +1,89 @@
+ENTRY       843               CDS       T01001
+NAME        CASP10, ALPS2, FLICE2, MCH4
+DEFINITION  (RefSeq) caspase 10
+ORTHOLOGY   K04400  caspase 10 [EC:3.4.22.63]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04210  Apoptosis
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+DISEASE     H00108  Autoimmune lymphoproliferative syndromes (ALPS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                843 (CASP10)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                843 (CASP10)
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                843 (CASP10)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                843 (CASP10)
+               05161 Hepatitis B
+                843 (CASP10)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.63  caspase-10
+                 843 (CASP10)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C14: caspase family
+               843 (CASP10)
+POSITION    2q33.1
+MOTIF       Pfam: Peptidase_C14 DED Imm30
+DBLINKS     NCBI-GeneID: 843
+            NCBI-ProteinID: NP_116756
+            OMIM: 601762
+            HGNC: 1500
+            Ensembl: ENSG00000003400
+            Vega: OTTHUMG00000132818
+            Pharos: Q92851(Tchem)
+            UniProt: Q92851
+AASEQ       521
+            MKSQGQHWYSSSDKNCKVSFREKLLIIDSNLGVQDVENLKFLCIGLVPNKKLEKSSSASD
+            VFEHLLAEDLLSEEDPFFLAELLYIIRQKKLLQHLNCTKEEVERLLPTRQRVSLFRNLLY
+            ELSEGIDSENLKDMIFLLKDSLPKTEMTSLSFLAFLEKQGKIDEDNLTCLEDLCKTVVPK
+            LLRNIEKYKREKAIQIVTPPVDKEAESYQGEEELVSQTDVKTFLEALPQESWQNKHAGSN
+            GNRATNGAPSLVSRGMQGASANTLNSETSTKRAAVYRMNRNHRGLCVIVNNHSFTSLKDR
+            QGTHKDAEILSHVFQWLGFTVHIHNNVTKVEMEMVLQKQKCNPAHADGDCFVFCILTHGR
+            FGAVYSSDEALIPIREIMSHFTALQCPRLAEKPKLFFIQACQGEEIQPSVSIEADALNPE
+            QAPTSLQDSIPAEADFLLGLATVPGYVSFRHVEEGSWYIQSLCNHLKKLVPRMLKFLEKT
+            MEIRGRKRTVWGAKQISATSLPTAISAQTPRPPMRRWSSVS
+NTSEQ       1566
+            atgaaatctcaaggtcaacattggtattccagttcagataaaaactgtaaagtgagcttt
+            cgtgagaagcttctgattattgattcaaacctgggggtccaagatgtggagaacctcaag
+            tttctctgcataggattggtccccaacaagaagctggagaagtccagctcagcctcagat
+            gtttttgaacatctcttggcagaggatctgctgagtgaggaagaccctttcttcctggca
+            gaactcctctatatcatacggcagaagaagctgctgcagcacctcaactgtaccaaagag
+            gaagtggagcgactgctgcccacccgacaaagggtttctctgtttagaaacctgctctac
+            gaactgtcagaaggcattgactcagagaacttaaaggacatgatcttccttctgaaagac
+            tcgcttcccaaaactgaaatgacctccctaagtttcctggcatttctagagaaacaaggt
+            aaaatagatgaagataatctgacatgcctggaggacctctgcaaaacagttgtacctaaa
+            cttttgagaaacatagagaaatacaaaagagagaaagctatccagatagtgacacctcct
+            gtagacaaggaagccgagtcgtatcaaggagaggaagaactagtttcccaaacagatgtt
+            aagacattcttggaagccttaccgcaggagtcctggcaaaataagcatgcaggtagtaat
+            ggtaacagagccacaaatggtgcaccaagcctggtctccagggggatgcaaggagcatct
+            gctaacactctaaactctgaaaccagcacaaagagggcagctgtgtacaggatgaatcgg
+            aaccacagaggcctctgtgtcattgtcaacaaccacagctttacctccctgaaggacaga
+            caaggaacccataaagatgctgagatcctgagtcatgtgttccagtggcttgggttcaca
+            gtgcatatacacaataatgtgacgaaagtggaaatggagatggtcctgcagaagcagaag
+            tgcaatccagcccatgccgacggggactgcttcgtgttctgtattctgacccatgggaga
+            tttggagctgtctactcttcggatgaggccctcattcccattcgggagatcatgtctcac
+            ttcacagccctgcagtgccctagactggctgaaaaacctaaactctttttcatccaggcc
+            tgccaaggtgaagagatacagccttccgtatccatcgaagcagatgctctgaaccctgag
+            caggcacccacttccctgcaggacagtattcctgccgaggctgacttcctacttggtctg
+            gccactgtcccaggctatgtatcctttcggcatgtggaggaaggcagctggtatattcag
+            tctctgtgtaatcatctgaagaaattggtcccaaggatgctgaaatttctggaaaagaca
+            atggaaatcaggggcaggaagagaacagtgtggggtgctaaacagatctcagcaacctcc
+            ctgcccacggccatctctgcgcagacacctcgaccccccatgcgcaggtggagcagcgtt
+            tcctag
+///

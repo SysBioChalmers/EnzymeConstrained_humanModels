@@ -1,0 +1,139 @@
+ENTRY       6777              CDS       T01001
+NAME        STAT5B, STAT5
+DEFINITION  (RefSeq) signal transducer and activator of transcription 5B
+ORTHOLOGY   K11224  signal transducer and activator of transcription 5B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04012  ErbB signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04217  Necroptosis
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04917  Prolactin signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+MODULE      hsa_M00684  JAK-STAT signaling
+DISEASE     H00931  Growth hormone insensitivity with immunodeficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                6777 (STAT5B)
+               04630 Jak-STAT signaling pathway
+                6777 (STAT5B)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                6777 (STAT5B)
+             Organismal Systems
+              Immune system
+               04658 Th1 and Th2 cell differentiation
+                6777 (STAT5B)
+               04659 Th17 cell differentiation
+                6777 (STAT5B)
+               04062 Chemokine signaling pathway
+                6777 (STAT5B)
+              Endocrine system
+               04917 Prolactin signaling pathway
+                6777 (STAT5B)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6777 (STAT5B)
+               05203 Viral carcinogenesis
+                6777 (STAT5B)
+               05221 Acute myeloid leukemia
+                6777 (STAT5B)
+               05220 Chronic myeloid leukemia
+                6777 (STAT5B)
+               05223 Non-small cell lung cancer
+                6777 (STAT5B)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                6777 (STAT5B)
+              Infectious diseases
+               05166 HTLV-I infection
+                6777 (STAT5B)
+               05162 Measles
+                6777 (STAT5B)
+               05161 Hepatitis B
+                6777 (STAT5B)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               STAT
+                6777 (STAT5B)
+POSITION    17q21.2
+MOTIF       Pfam: STAT_bind STAT_alpha STAT_int SH2
+DBLINKS     NCBI-GeneID: 6777
+            NCBI-ProteinID: NP_036580
+            OMIM: 604260
+            HGNC: 11367
+            Ensembl: ENSG00000173757
+            Vega: OTTHUMG00000150724
+            Pharos: P51692(Tchem)
+            UniProt: P51692
+AASEQ       787
+            MAVWIQAQQLQGEALHQMQALYGQHFPIEVRHYLSQWIESQAWDSVDLDNPQENIKATQL
+            LEGLVQELQKKAEHQVGEDGFLLKIKLGHYATQLQNTYDRCPMELVRCIRHILYNEQRLV
+            REANNGSSPAGSLADAMSQKHLQINQTFEELRLVTQDTENELKKLQQTQEYFIIQYQESL
+            RIQAQFGPLAQLSPQERLSRETALQQKQVSLEAWLQREAQTLQQYRVELAEKHQKTLQLL
+            RKQQTIILDDELIQWKRRQQLAGNGGPPEGSLDVLQSWCEKLAEIIWQNRQQIRRAEHLC
+            QQLPIPGPVEEMLAEVNATITDIISALVTSTFIIEKQPPQVLKTQTKFAATVRLLVGGKL
+            NVHMNPPQVKATIISEQQAKSLLKNENTRNDYSGEILNNCCVMEYHQATGTLSAHFRNMS
+            LKRIKRSDRRGAESVTEEKFTILFESQFSVGGNELVFQVKTLSLPVVVIVHGSQDNNATA
+            TVLWDNAFAEPGRVPFAVPDKVLWPQLCEALNMKFKAEVQSNRGLTKENLVFLAQKLFNN
+            SSSHLEDYSGLSVSWSQFNRENLPGRNYTFWQWFDGVMEVLKKHLKPHWNDGAILGFVNK
+            QQAHDLLINKPDGTFLLRFSDSEIGGITIAWKFDSQERMFWNLMPFTTRDFSIRSLADRL
+            GDLNYLIYVFPDRPKDEVYSKYYTPVPCESATAKAVDGYVKPQIKQVVPEFVNASADAGG
+            GSATYMDQAPSPAVCPQAHYNMYPQNPDSVLDTDGDFDLEDTMDVARRVEELLGRPMDSQ
+            WIPHAQS
+NTSEQ       2364
+            atggctgtgtggatacaagctcagcagctccaaggagaagcccttcatcagatgcaagcg
+            ttatatggccagcattttcccattgaggtgcggcattatttatcccagtggattgaaagc
+            caagcatgggactcagtagatcttgataatccacaggagaacattaaggccacccagctc
+            ctggagggcctggtgcaggagctgcagaagaaggcagagcaccaggtgggggaagatggg
+            tttttactgaagatcaagctggggcactatgccacacagctccagaacacgtatgaccgc
+            tgccccatggagctggtccgctgcatccgccatatattgtacaatgaacagaggttggtc
+            cgagaagccaacaatggtagctctccagctggaagccttgctgatgccatgtcccagaaa
+            cacctccagatcaaccagacgtttgaggagctgcgactggtcacgcaggacacagagaat
+            gagttaaaaaagctgcagcagactcaggagtacttcatcatccagtaccaggagagcctg
+            aggatccaagctcagtttggcccgctggcccagctgagcccccaggagcgtctgagccgg
+            gagacggccctccagcagaagcaggtgtctctggaggcctggttgcagcgtgaggcacag
+            acactgcagcagtaccgcgtggagctggccgagaagcaccagaagaccctgcagctgctg
+            cggaagcagcagaccatcatcctggatgacgagctgatccagtggaagcggcggcagcag
+            ctggccgggaacggcgggccccccgagggcagcctggacgtgctacagtcctggtgtgag
+            aagttggccgagatcatctggcagaaccggcagcagatccgcagggctgagcacctctgc
+            cagcagctgcccatccccggcccagtggaggagatgctggccgaggtcaacgccaccatc
+            acggacattatctcagccctggtgaccagcacgttcatcattgagaagcagcctcctcag
+            gtcctgaagacccagaccaagtttgcagccactgtgcgcctgctggtgggcgggaagctg
+            aacgtgcacatgaaccccccccaggtgaaggccaccatcatcagtgagcagcaggccaag
+            tctctgctcaagaacgagaacacccgcaatgattacagtggcgagatcttgaacaactgc
+            tgcgtcatggagtaccaccaagccacaggcacccttagtgcccacttcaggaatatgtcc
+            ctgaaacgaattaagaggtcagaccgtcgtggggcagagtcggtgacagaagaaaaattt
+            acaatcctgtttgaatcccagttcagtgttggtggaaatgagctggtttttcaagtcaag
+            accctgtccctgccagtggtggtgatcgttcatggcagccaggacaacaatgcgacggcc
+            actgttctctgggacaatgcttttgcagagcctggcagggtgccatttgccgtgcctgac
+            aaagtgctgtggccacagctgtgtgaggcgctcaacatgaaattcaaggccgaagtgcag
+            agcaaccggggcctgaccaaggagaacctcgtgttcctggcgcagaaactgttcaacaac
+            agcagcagccacctggaggactacagtggcctgtctgtgtcctggtcccagttcaacagg
+            gagaatttaccaggacggaattacactttctggcaatggtttgacggtgtgatggaagtg
+            ttaaaaaaacatctcaagcctcattggaatgatggggccattttggggtttgtaaacaag
+            caacaggcccatgacctactcattaacaagccagatgggaccttcctcctgagattcagt
+            gactcagaaattggcggcatcaccattgcttggaagtttgattctcaggaaagaatgttt
+            tggaatctgatgccttttaccaccagagacttctccattcggtccctagccgaccgcttg
+            ggagacttgaattaccttatctacgtgtttcctgatcggccaaaagatgaagtatactcc
+            aaatactacacaccagttccctgcgagtctgctactgctaaagctgttgatggatacgtg
+            aagccacagatcaagcaagtggtccctgagtttgtgaacgcatctgcagatgccgggggc
+            ggcagcgccacgtacatggaccaggccccctccccagctgtgtgtccccaggctcactat
+            aacatgtacccacagaaccctgactcagtccttgacaccgatggggacttcgatctggag
+            gacacaatggacgtagcgcggcgtgtggaggagctcctgggccggccaatggacagtcag
+            tggatcccgcacgcacaatcgtga
+///

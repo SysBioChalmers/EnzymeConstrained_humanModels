@@ -1,0 +1,64 @@
+ENTRY       6632              CDS       T01001
+NAME        SNRPD1, HsT2456, SMD1, SNRPD, Sm-D1
+DEFINITION  (RefSeq) small nuclear ribonucleoprotein D1 polypeptide
+ORTHOLOGY   K11087  small nuclear ribonucleoprotein D1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+            hsa05322  Systemic lupus erythematosus
+MODULE      hsa_M00351  Spliceosome, U1-snRNP
+            hsa_M00352  Spliceosome, U2-snRNP
+            hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+            hsa_M00355  Spliceosome, 35S U5-snRNP
+            hsa_M00398  Sm core complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                6632 (SNRPD1)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                6632 (SNRPD1)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U1 snRNP components
+               Sm proteins
+                6632 (SNRPD1)
+              U2 snRNP components
+                6632 (SNRPD1)
+             Complex B
+              U1 snRNP components
+                6632 (SNRPD1)
+              U4/U6.U5 tri-snRNP components
+                6632 (SNRPD1)
+             Complex C
+              U2 snRNP components
+                6632 (SNRPD1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                Sm core complex
+                 6632 (SNRPD1)
+POSITION    18q11.2
+MOTIF       Pfam: LSM Hfq Gemin7 SM-ATX
+DBLINKS     NCBI-GeneID: 6632
+            NCBI-ProteinID: NP_008869
+            OMIM: 601063
+            HGNC: 11158
+            Ensembl: ENSG00000167088
+            Vega: OTTHUMG00000178934
+            Pharos: P62314(Tbio)
+            UniProt: P62314
+STRUCTURE   PDB: 3S6N 1B34 4PJO 3PGW 5O9Z 3CW1 5MQF 3JCR
+AASEQ       119
+            MKLVRFLMKLSHETVTIELKNGTQVHGTITGVDVSMNTHLKAVKMTLKNREPVQLETLSI
+            RGNNIRYFILPDSLPLDTLLVDVEPKVKSKKREAVAGRGRGRGRGRGRGRGRGRGGPRR
+NTSEQ       360
+            atgaagctcgtgagatttttgatgaaattgagtcatgaaactgtaaccattgaattgaag
+            aacggaacacaggtccatggaacaatcacaggtgtggatgtcagcatgaatacacatctt
+            aaagctgtgaaaatgaccctgaagaacagagaacctgtacagctggaaacgctgagtatt
+            cgaggaaataacattcggtattttattctaccagacagtttacctctggatacactactt
+            gtggatgttgaacctaaggtgaaatctaagaaaagggaagctgttgcaggaagaggcaga
+            ggaagaggaagaggaagaggacgtggccgtggcagaggaagagggggtcctaggcgataa
+///

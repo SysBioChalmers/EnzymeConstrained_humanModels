@@ -1,0 +1,91 @@
+ENTRY       9945              CDS       T01001
+NAME        GFPT2, GFAT, GFAT_2, GFAT2
+DEFINITION  (RefSeq) glutamine-fructose-6-phosphate transaminase 2
+ORTHOLOGY   K00820  glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+            hsa04931  Insulin resistance
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                9945 (GFPT2)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                9945 (GFPT2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                9945 (GFPT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.16  glutamine---fructose-6-phosphate transaminase (isomerizing)
+                 9945 (GFPT2)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C44
+               9945 (GFPT2)
+POSITION    5q35.3
+MOTIF       Pfam: SIS GATase_6 GATase_7 GATase_4 GATase_2 SIS_2 Acetyltransf_6
+DBLINKS     NCBI-GeneID: 9945
+            NCBI-ProteinID: NP_005101
+            OMIM: 603865
+            HGNC: 4242
+            Ensembl: ENSG00000131459
+            Vega: OTTHUMG00000163442
+            Pharos: O94808(Tbio)
+            UniProt: O94808 A0A0S2Z4X9 B3KMR8
+AASEQ       682
+            MCGIFAYMNYRVPRTRKEIFETLIKGLQRLEYRGYDSAGVAIDGNNHEVKERHIQLVKKR
+            GKVKALDEELYKQDSMDLKVEFETHFGIAHTRWATHGVPSAVNSHPQRSDKGNEFVVIHN
+            GIITNYKDLRKFLESKGYEFESETDTETIAKLIKYVFDNRETEDITFSTLVERVIQQLEG
+            AFALVFKSVHYPGEAVATRRGSPLLIGVRSKYKLSTEQIPILYRTCTLENVKNICKTRMK
+            RLDSSACLHAVGDKAVEFFFASDASAIIEHTNRVIFLEDDDIAAVADGKLSIHRVKRSAS
+            DDPSRAIQTLQMELQQIMKGNFSAFMQKEIFEQPESVFNTMRGRVNFETNTVLLGGLKDH
+            LKEIRRCRRLIVIGCGTSYHAAVATRQVLEELTELPVMVELASDFLDRNTPVFRDDVCFF
+            ISQSGETADTLLALRYCKDRGALTVGVTNTVGSSISRETDCGVHINAGPEIGVASTKAYT
+            SQFISLVMFGLMMSEDRISLQNRRQEIIRGLRSLPELIKEVLSLEEKIHDLALELYTQRS
+            LLVMGRGYNYATCLEGALKIKEITYMHSEGILAGELKHGPLALIDKQMPVIMVIMKDPCF
+            AKCQNALQQVTARQGRPIILCSKDDTESSKFAYKTIELPHTVDCLQGILSVIPLQLLSFH
+            LAVLRGYDVDFPRNLAKSVTVE
+NTSEQ       2049
+            atgtgcggaatctttgcctacatgaactacagagtcccccggacgaggaaggagatcttc
+            gaaaccctcatcaagggcctgcagcggctggagtacagaggctacgactcggcaggtgtg
+            gcgatcgatgggaataatcacgaagtcaaagaaagacacattcagctggtcaagaaaagg
+            gggaaagtcaaggctctcgatgaagaactttacaaacaagacagcatggacttaaaagtg
+            gagtttgagacacacttcggcattgcccacacgcgctgggccacccacggggtccccagt
+            gctgtcaacagccaccctcagcgctcagacaaaggcaacgaatttgttgtcatccacaat
+            gggatcatcacaaattacaaagatctgaggaaatttctggaaagcaaaggctacgagttt
+            gagtcagaaacagatacagagaccatcgccaagctgattaaatatgtgttcgacaacaga
+            gaaactgaggacattacgttttcaacgttggtcgagagagtcattcagcagttggaaggt
+            gcattcgcgctggttttcaagagtgtccactacccaggagaagccgttgccacacggaga
+            ggcagccccctgctcatcggagtccggagcaaatacaagctctccacagaacagatccct
+            atcttatacaggacgtgcactctggagaatgtgaagaatatctgtaagacacggatgaag
+            aggctggacagctccgcctgcctgcatgctgtgggcgacaaggccgtggaattcttcttt
+            gcttctgatgcaagcgctatcatagagcacaccaaccgggtcatcttcctggaggacgat
+            gacatcgccgcagtggctgatgggaaactctccattcaccgggtcaagcgctcggccagt
+            gatgacccatctcgagccatccagaccttgcagatggaactgcagcaaatcatgaaaggt
+            aacttcagtgcgtttatgcagaaggagatcttcgaacagccagaatcagttttcaatact
+            atgagaggtcgggtgaattttgaaaccaacacagtgctcctgggtggcttgaaggaccac
+            ttgaaggagattcgacgatgccgacggctcatcgtgattggctgtggaaccagctaccac
+            gctgccgtggctacgcggcaagttttggaggaactgactgagcttcctgtgatggttgaa
+            cttgctagtgattttctggacaggaacacacctgtgttcagggatgacgtttgctttttc
+            atcagccagtcaggcgagaccgcggacaccctcctggcgctgcgctactgtaaggaccgc
+            ggcgctctcaccgtgggcgtcaccaacaccgtgggcagctccatctctcgcgagaccgac
+            tgcggcgtccacatcaacgcagggccggagatcggcgtggccagcaccaaggcttatacc
+            agtcagttcatctctctggtgatgtttggtttgatgatgtctgaagaccgaatttcacta
+            caaaacaggaggcaagagatcatccgtggcttgagatctttacctgagctgatcaaggaa
+            gtgctgtctctggaggagaagatccacgacttggccctggagctctacacgcagagatcg
+            ctgctggtgatggggcggggctacaactatgccacctgcctggaaggagccctgaaaatt
+            aaagagataacctacatgcactcagaaggcatcctggctggggagctgaagcacgggccc
+            ctggcactgattgacaagcagatgcccgtcatcatggtcattatgaaggatccttgcttc
+            gccaaatgccagaacgccctgcagcaagtcacggcccgccagggtcgccccattatactg
+            tgctccaaggacgatactgaaagttccaagtttgcgtataagacaattgagctgccccac
+            actgtggactgcctccagggcatcctgagcgtgattccgctgcagctgctgtccttccac
+            ctggctgttctccgaggatatgacgttgacttccccagaaatctggccaagtctgtaact
+            gtggaatga
+///

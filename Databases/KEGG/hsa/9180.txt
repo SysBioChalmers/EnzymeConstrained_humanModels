@@ -1,0 +1,101 @@
+ENTRY       9180              CDS       T01001
+NAME        OSMR, IL-31R-beta, IL-31RB, OSMRB, PLCA1
+DEFINITION  (RefSeq) oncostatin M receptor
+ORTHOLOGY   K05057  oncostatin M receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+DISEASE     H01217  Primary localized cutaneous amyloidosis (PLCA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                9180 (OSMR)
+               04151 PI3K-Akt signaling pathway
+                9180 (OSMR)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                9180 (OSMR)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              9180 (OSMR)
+POSITION    5p13.1
+MOTIF       Pfam: fn3 EpoR_lig-bind Pur_ac_phosph_N IL6Ra-bind
+DBLINKS     NCBI-GeneID: 9180
+            NCBI-ProteinID: NP_001310434
+            OMIM: 601743
+            HGNC: 8507
+            Ensembl: ENSG00000145623
+            Vega: OTTHUMG00000090811
+            Pharos: Q99650(Tbio)
+            UniProt: Q99650
+AASEQ       979
+            MALFAVFQTTFFLTLLSLRTYQSEVLAERLPLTPVSLKVSTNSTRQSLHLQWTVHNLPYH
+            QELKMVFQIQISRIETSNVIWVGNYSTTVKWNQVLHWSWESELPLECATHFVRIKSLVDD
+            AKFPEPNFWSNWSSWEEVSVQDSTGQDILFVFPKDKLVEEGTNVTICYVSRNIQNNVSCY
+            LEGKQIHGEQLDPHVTAFNLNSVPFIRNKGTNIYCEASQGNVSEGMKGIVLFVSKVLEEP
+            KDFSCETEDFKTLHCTWDPGTDTALGWSKQPSQSYTLFESFSGEKKLCTHKNWCNWQITQ
+            DSQETYNFTLIAENYLRKRSVNILFNLTHRVYLMNPFSVNFENVNATNAIMTWKVHSIRN
+            NFTYLCQIELHGEGKMMQYNVSIKVNGEYFLSELEPATEYMARVRCADASHFWKWSEWSG
+            QNFTTLEAAPSEAPDVWRIVSLEPGNHTVTLFWKPLSKLHANGKILFYNVVVENLDKPSS
+            SELHSIPAPANSTKLILDRCSYQICVIANNSVGASPASVIVISADPENKEVEEERIAGTE
+            GGFSLSWKPQPGDVIGYVVDWCDHTQDVLGDFQWKNVGPNTTSTVISTDAFRPGVRYDFR
+            IYGLSTKRIACLLEKKTGYSQELAPSDNPHVLVDTLTSHSFTLSWKDYSTESQPGFIQGY
+            HVYLKSKARQCHPRFEKAVLSDGSECCKYKIDNPEEKALIVDNLKPESFYEFFITPFTSA
+            GEGPSATFTKVTTPDEHSSMLIHILLPMVFCVLLIMVMCYLKSQWIKETCYPDIPDPYKS
+            SILSLIKFKENPHLIIMNVSDCIPDAIEVVSKPEGTKIQFLGTRKSLTETELTKPNYLYL
+            LPTEKNHSGPGPCICFENLTYNQAASDSGSCGHVPVSPKAPSMLGLMTSPENVLKALEKN
+            YMNSLGEIPAGETSLNYVSQLASPMFGDKDSLPTNPVEAPHCSEYKMQMAVSLRLALPPP
+            TENSSLSSITLLDPGEHYC
+NTSEQ       2940
+            atggctctatttgcagtctttcagacaacattcttcttaacattgctgtccttgaggact
+            taccagagtgaagtcttggctgaacgtttaccattgactcctgtatcacttaaagtttcc
+            accaattctacgcgtcagagtttgcacttacaatggactgtccacaaccttccttatcat
+            caggaattgaaaatggtatttcagatccagatcagtaggattgaaacatccaatgtcatc
+            tgggtggggaattacagcaccactgtgaagtggaaccaggttctgcattggagctgggaa
+            tctgagctccctttggaatgtgccacacactttgtaagaataaagagtttggtggacgat
+            gccaagttccctgagccaaatttctggagcaactggagttcctgggaggaagtcagtgta
+            caagattctactggacaggatatattgttcgttttccctaaagataagctggtggaagaa
+            ggcaccaatgttaccatttgttacgtttctaggaacattcaaaataatgtatcctgttat
+            ttggaagggaaacagattcatggagaacaacttgatccacatgtaactgcattcaacttg
+            aatagtgtgcctttcattaggaataaagggacaaatatctattgtgaggcaagtcaagga
+            aatgtcagtgaaggcatgaaaggcatcgttctttttgtctcaaaagtacttgaggagccc
+            aaggacttttcttgtgaaaccgaggacttcaagactttgcactgtacttgggatcctggg
+            acggacactgccttggggtggtctaaacaaccttcccaaagctacactttatttgaatca
+            ttttctggggaaaagaaactttgtacacacaaaaactggtgtaattggcaaataactcaa
+            gactcacaagaaacctataacttcacactcatagctgaaaattacttaaggaagagaagt
+            gtcaatatcctttttaacctgactcatcgagtttatttaatgaatccttttagtgtcaac
+            tttgaaaatgtaaatgccacaaatgccatcatgacctggaaggtgcactccataaggaat
+            aatttcacatatttgtgtcagattgaactccatggtgaaggaaaaatgatgcaatacaat
+            gtttccatcaaggtgaacggtgagtacttcttaagtgaactggaacctgccacagagtac
+            atggcgcgagtacggtgtgctgatgccagccacttctggaaatggagtgaatggagtggt
+            cagaacttcaccacacttgaagctgctccctcagaggcccctgatgtctggagaattgtg
+            agcttggagccaggaaatcatactgtgaccttattctggaagccattatcaaaactgcat
+            gccaatggaaagatcctgttctataatgtagttgtagaaaacctagacaaaccatccagt
+            tcagagctccattccattccagcaccagccaacagcacaaaactaatccttgacaggtgt
+            tcctaccaaatctgcgtcatagccaacaacagtgtgggtgcttctcctgcttctgtaata
+            gtcatctctgcagaccccgaaaacaaagaggttgaggaagaaagaattgcaggcacagag
+            ggtggattctctctgtcttggaaaccccaacctggagatgttataggctatgttgtggac
+            tggtgtgaccatacccaggatgtgctcggtgatttccagtggaagaatgtaggtcccaat
+            accacaagcacagtcattagcacagatgcttttaggccaggagttcgatatgacttcaga
+            atttatgggttatctacaaaaaggattgcttgtttattagagaaaaaaacaggatactct
+            caggaacttgctccttcagacaaccctcacgtgctggtggatacattgacatcccactcc
+            ttcactctgagttggaaagattactctactgaatctcaacctggttttatacaagggtac
+            catgtctatctgaaatccaaggcgaggcagtgccacccacgatttgaaaaggcagttctt
+            tcagatggttcagaatgttgcaaatacaaaattgacaacccggaagaaaaggcattgatt
+            gtggacaacctaaagccagaatccttctatgagtttttcatcactccattcactagtgct
+            ggtgaaggccccagtgctacgttcacgaaggtcacgactccggatgaacactcctcgatg
+            ctgattcatatcctactgcccatggttttctgcgtcttgctcatcatggtcatgtgctac
+            ttgaaaagtcagtggatcaaggagacctgttatcctgacatccctgacccttacaagagc
+            agcatcctgtcattaataaaattcaaggagaaccctcacctaataataatgaatgtcagt
+            gactgtatcccagatgctattgaagttgtaagcaagccagaagggacaaagatacagttc
+            ctaggcactaggaagtcactcacagaaaccgagttgactaagcctaactacctttatctc
+            cttccaacagaaaagaatcactctggccctggcccctgcatctgttttgagaacttgacc
+            tataaccaggcagcttctgactctggctcttgtggccatgttccagtatccccaaaagcc
+            ccaagtatgctgggactaatgacctcacctgaaaatgtactaaaggcactagaaaaaaac
+            tacatgaactccctgggagaaatcccagctggagaaacaagtttgaattatgtgtcccag
+            ttggcttcacccatgtttggagacaaggacagtctcccaacaaacccagtagaggcacca
+            cactgttcagagtataaaatgcaaatggcagtctccctgcgtcttgccttgcctcccccg
+            accgagaatagcagcctctcctcaattacccttttagatccaggtgaacactactgctaa
+///

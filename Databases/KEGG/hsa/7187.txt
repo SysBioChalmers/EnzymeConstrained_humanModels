@@ -1,0 +1,108 @@
+ENTRY       7187              CDS       T01001
+NAME        TRAF3, CAP-1, CAP1, CD40bp, CRAF1, IIAE5, LAP1
+DEFINITION  (RefSeq) TNF receptor associated factor 3
+ORTHOLOGY   K03174  TNF receptor-associated factor 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05160  Hepatitis C
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05222  Small cell lung cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                7187 (TRAF3)
+               04668 TNF signaling pathway
+                7187 (TRAF3)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                7187 (TRAF3)
+               04621 NOD-like receptor signaling pathway
+                7187 (TRAF3)
+               04622 RIG-I-like receptor signaling pathway
+                7187 (TRAF3)
+               04657 IL-17 signaling pathway
+                7187 (TRAF3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                7187 (TRAF3)
+               05203 Viral carcinogenesis
+                7187 (TRAF3)
+               05222 Small cell lung cancer
+                7187 (TRAF3)
+              Infectious diseases
+               05160 Hepatitis C
+                7187 (TRAF3)
+               05168 Herpes simplex infection
+                7187 (TRAF3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                7187 (TRAF3)
+               05169 Epstein-Barr virus infection
+                7187 (TRAF3)
+               05165 Human papillomavirus infection
+                7187 (TRAF3)
+POSITION    14q32.32
+MOTIF       Pfam: zf-TRAF MPS2 zf-C3HC4 Spc7 Spc29 Tropomyosin_1 zf-C3HC4_2 ATG16 IncA T3SSipB FliJ KxDL CENP-Q BLOC1_2 Mnd1 Fib_alpha DUF1664 LMBR1 SPATA24 DUF3450 V_ATPase_I ADIP
+DBLINKS     NCBI-GeneID: 7187
+            NCBI-ProteinID: NP_003291
+            OMIM: 601896
+            HGNC: 12033
+            Ensembl: ENSG00000131323
+            Vega: OTTHUMG00000171902
+            Pharos: Q13114(Tbio)
+            UniProt: Q13114
+STRUCTURE   PDB: 2GKW 1ZMS 1FLK 1L0A 1RF3 1KZZ 1FLL 2ECY
+AASEQ       568
+            MESSKKMDSPGALQTNPPLKLHTDRSAGTPVFVPEQGGYKEKFVKTVEDKYKCEKCHLVL
+            CSPKQTECGHRFCESCMAALLSSSSPKCTACQESIVKDKVFKDNCCKREILALQIYCRNE
+            SRGCAEQLMLGHLLVHLKNDCHFEELPCVRPDCKEKVLRKDLRDHVEKACKYREATCSHC
+            KSQVPMIALQKHEDTDCPCVVVSCPHKCSVQTLLRSELSAHLSECVNAPSTCSFKRYGCV
+            FQGTNQQIKAHEASSAVQHVNLLKEWSNSLEKKVSLLQNESVEKNKSIQSLHNQICSFEI
+            EIERQKEMLRNNESKILHLQRVIDSQAEKLKELDKEIRPFRQNWEEADSMKSSVESLQNR
+            VTELESVDKSAGQVARNTGLLESQLSRHDQMLSVHDIRLADMDLRFQVLETASYNGVLIW
+            KIRDYKRRKQEAVMGKTLSLYSQPFYTGYFGYKMCARVYLNGDGMGKGTHLSLFFVIMRG
+            EYDALLPWPFKQKVTLMLMDQGSSRRHLGDAFKPDPNSSSFKKPTGEMNIASGCPVFVAQ
+            TVLENGTYIKDDTIFIKVIVDTSDLPDP
+NTSEQ       1707
+            atggagtcgagtaaaaagatggactctcctggcgcgctgcagactaacccgccgctaaag
+            ctgcacactgaccgcagtgctgggacgccagtttttgtccctgaacaaggaggttacaag
+            gaaaagtttgtgaagaccgtggaggacaagtacaagtgtgagaagtgccacctggtgctg
+            tgcagcccgaagcagaccgagtgtgggcaccgcttctgcgagagctgcatggcggccctg
+            ctgagctcttcaagtccaaaatgtacagcgtgtcaagagagcatcgttaaagataaggtg
+            tttaaggataattgctgcaagagagaaattctggctcttcagatctattgtcggaatgaa
+            agcagaggttgtgcagagcagttaatgctgggacatctgctggtgcatttaaaaaatgat
+            tgccattttgaagaacttccatgtgtgcgtcctgactgcaaagaaaaggtcttgaggaaa
+            gacctgcgagaccacgtggagaaggcgtgtaaataccgggaagccacatgcagccactgc
+            aagagtcaggttccgatgatcgcgctgcagaaacacgaagacaccgactgtccctgcgtg
+            gtggtgtcctgccctcacaagtgcagcgtccagactctcctgaggagcgagttgagtgca
+            cacttgtcagagtgtgtcaatgcccccagcacctgtagttttaagcgctatggctgcgtt
+            tttcaggggacaaaccagcagatcaaggcccacgaggccagctccgccgtgcagcacgtc
+            aacctgctgaaggagtggagcaactcgctcgaaaagaaggtttccttgttgcagaatgaa
+            agtgtagaaaaaaacaagagcatacaaagtttgcacaatcagatatgtagctttgaaatt
+            gaaattgagagacaaaaggaaatgcttcgaaataatgaatccaaaatccttcatttacag
+            cgagtgatagacagccaagcagagaaactgaaggagcttgacaaggagatccggcccttc
+            cggcagaactgggaggaagcagacagcatgaagagcagcgtggagtccctccagaaccgc
+            gtgaccgagctggagagcgtggacaagagcgcggggcaagtggctcggaacacaggcctg
+            ctggagtcccagctgagccggcatgaccagatgctgagtgtgcacgacatccgcctagcc
+            gacatggacctgcgcttccaggtcctggagaccgccagctacaatggagtgctcatctgg
+            aagattcgcgactacaagcggcggaagcaggaggccgtcatggggaagaccctgtccctt
+            tacagccagcctttctacactggttactttggctataagatgtgtgccagggtctacctg
+            aacggggacgggatggggaaggggacgcacttgtcgctgttttttgtcatcatgcgtgga
+            gaatatgatgccctgcttccttggccgtttaagcagaaagtgacactcatgctgatggat
+            caggggtcctctcgacgtcatttgggagatgcattcaagcccgaccccaacagcagcagc
+            ttcaagaagcccactggagagatgaatatcgcctctggctgcccagtctttgtggcccaa
+            actgttctagaaaatgggacatatattaaagatgatacaatttttattaaagtcatagtg
+            gatacttcggatctgcccgatccctga
+///

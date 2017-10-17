@@ -1,0 +1,83 @@
+ENTRY       211               CDS       T01001
+NAME        ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4
+DEFINITION  (RefSeq) 5'-aminolevulinate synthase 1
+ORTHOLOGY   K00643  5-aminolevulinate synthase [EC:2.3.1.37]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                211 (ALAS1)
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                211 (ALAS1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.37  5-aminolevulinate synthase
+                 211 (ALAS1)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class II
+               211 (ALAS1)
+POSITION    3p21.2
+MOTIF       Pfam: Aminotran_1_2 Preseq_ALAS Cys_Met_Meta_PP Aminotran_5 Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 211
+            NCBI-ProteinID: NP_000679
+            OMIM: 125290
+            HGNC: 396
+            Ensembl: ENSG00000023330
+            Vega: OTTHUMG00000158108
+            Pharos: P13196(Tbio)
+            UniProt: P13196 Q5JAM2
+AASEQ       640
+            MESVVRRCPFLSRVPQAFLQKAGKSLLFYAQNCPKMMEVGAKPAPRALSTAAVHYQQIKE
+            TPPASEKDKTAKAKVQQTPDGSQQSPDGTQLPSGHPLPATSQGTASKCPFLAAQMNQRGS
+            SVFCKASLELQEDVQEMNAVRKEVAETSAGPSVVSVKTDGGDPSGLLKNFQDIMQKQRPE
+            RVSHLLQDNLPKSVSTFQYDRFFEKKIDEKKNDHTYRVFKTVNRRAHIFPMADDYSDSLI
+            TKKQVSVWCSNDYLGMSRHPRVCGAVMDTLKQHGAGAGGTRNISGTSKFHVDLERELADL
+            HGKDAALLFSSCFVANDSTLFTLAKMMPGCEIYSDSGNHASMIQGIRNSRVPKYIFRHND
+            VSHLRELLQRSDPSVPKIVAFETVHSMDGAVCPLEELCDVAHEFGAITFVDEVHAVGLYG
+            ARGGGIGDRDGVMPKMDIISGTLGKAFGCVGGYIASTSSLIDTVRSYAAGFIFTTSLPPM
+            LLAGALESVRILKSAEGRVLRRQHQRNVKLMRQMLMDAGLPVVHCPSHIIPVRVADAAKN
+            TEVCDELMSRHNIYVQAINYPTVPRGEELLRIAPTPHHTPQMMNYFLENLLVTWKQVGLE
+            LKPHSSAECNFCRRPLHFEVMSEREKSYFSGLSKLVSAQA
+NTSEQ       1923
+            atggagagtgttgttcgccgctgcccattcttatcccgagtcccccaggcctttctgcag
+            aaagcaggcaaatctctgttgttctatgcccaaaactgccccaagatgatggaagttggg
+            gccaagccagcccctcgggcattgtccactgcagcagtacactaccaacagatcaaagaa
+            acccctccggccagtgagaaagacaaaactgctaaggccaaggtccaacagactcctgat
+            ggatcccagcagagtccagatggcacacagcttccgtctggacaccccttgcctgccaca
+            agccagggcactgcaagcaaatgccctttcctggcagcacagatgaatcagagaggcagc
+            agtgtcttctgcaaagccagtcttgagcttcaggaggatgtgcaggaaatgaatgccgtg
+            aggaaagaggttgctgaaacctcagcaggccccagtgtggttagtgtgaaaaccgatgga
+            ggggatcccagtggactgctgaagaacttccaggacatcatgcaaaagcaaagaccagaa
+            agagtgtctcatcttcttcaagataacttgccaaaatctgtttccacttttcagtatgat
+            cgtttctttgagaaaaaaattgatgagaaaaagaatgaccacacctatcgagtttttaaa
+            actgtgaaccggcgagcacacatcttccccatggcagatgactattcagactccctcatc
+            accaaaaagcaagtgtcagtctggtgcagtaatgactacctaggaatgagtcgccaccca
+            cgggtgtgtggggcagttatggacactttgaaacaacatggtgctggggcaggtggtact
+            agaaatatttctggaactagtaaattccatgtggacttagagcgggagctggcagacctc
+            catgggaaagatgccgcactcttgttttcctcgtgctttgtggccaatgactcaaccctc
+            ttcaccctggctaagatgatgccaggctgtgagatttactctgattctgggaaccatgcc
+            tccatgatccaagggattcgaaacagccgagtgccaaagtacatcttccgccacaatgat
+            gtcagccacctcagagaactgctgcaaagatctgacccctcagtccccaagattgtggca
+            tttgaaactgtccattcaatggatggggcggtgtgcccactggaagagctgtgtgatgtg
+            gcccatgagtttggagcaatcaccttcgtggatgaggtccacgcagtggggctttatggg
+            gctcgaggcggagggattggggatcgggatggagtcatgccaaaaatggacatcatttct
+            ggaacacttggcaaagcctttggttgtgttggagggtacatcgccagcacgagttctctg
+            attgacaccgtacggtcctatgctgctggcttcatcttcaccacctctctgccacccatg
+            ctgctggctggagccctggagtctgtgcggatcctgaagagcgctgagggacgggtgctt
+            cgccgccagcaccagcgcaacgtcaaactcatgagacagatgctaatggatgccggcctc
+            cctgttgtccactgccccagccacatcatccctgtgcgggttgcagatgctgctaaaaac
+            acagaagtctgtgatgaactaatgagcagacataacatctacgtgcaagcaatcaattac
+            cctacggtgccccggggagaagagctcctacggattgcccccacccctcaccacacaccc
+            cagatgatgaactacttccttgagaatctgctagtcacatggaagcaagtggggctggaa
+            ctgaagcctcattcctcagctgagtgcaacttctgcaggaggccactgcattttgaagtg
+            atgagtgaaagagagaagtcctatttctcaggcttgagcaagttggtatctgctcaggcc
+            tga
+///

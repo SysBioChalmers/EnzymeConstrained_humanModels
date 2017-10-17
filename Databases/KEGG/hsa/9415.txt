@@ -1,0 +1,77 @@
+ENTRY       9415              CDS       T01001
+NAME        FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13
+DEFINITION  (RefSeq) fatty acid desaturase 2
+ORTHOLOGY   K10226  acyl-CoA 6-desaturase (Delta-6 desaturase) [EC:1.14.19.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00592  alpha-Linolenic acid metabolism
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01212  Fatty acid metabolism
+            hsa03320  PPAR signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                9415 (FADS2)
+              Lipid metabolism
+               00592 alpha-Linolenic acid metabolism
+                9415 (FADS2)
+               01040 Biosynthesis of unsaturated fatty acids
+                9415 (FADS2)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                9415 (FADS2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.19  With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water
+                1.14.19.3  acyl-CoA 6-desaturase
+                 9415 (FADS2)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Desaturase
+              Front-end
+               9415 (FADS2)
+POSITION    11q12.2
+MOTIF       Pfam: FA_desaturase Cyt-b5 DUF5318
+DBLINKS     NCBI-GeneID: 9415
+            NCBI-ProteinID: NP_004256
+            OMIM: 606149
+            HGNC: 3575
+            Ensembl: ENSG00000134824
+            Vega: OTTHUMG00000163794
+            Pharos: O95864(Tbio)
+            UniProt: O95864
+AASEQ       444
+            MGKGGNQGEGAAEREVSVPTFSWEEIQKHNLRTDRWLVIDRKVYNITKWSIQHPGGQRVI
+            GHYAGEDATDAFRAFHPDLEFVGKFLKPLLIGELAPEEPSQDHGKNSKITEDFRALRKTA
+            EDMNLFKTNHVFFLLLLAHIIALESIAWFTVFYFGNGWIPTLITAFVLATSQAQAGWLQH
+            DYGHLSVYRKPKWNHLVHKFVIGHLKGASANWWNHRHFQHHAKPNIFHKDPDVNMLHVFV
+            LGEWQPIEYGKKKLKYLPYNHQHEYFFLIGPPLLIPMYFQYQIIMTMIVHKNWVDLAWAV
+            SYYIRFFITYIPFYGILGALLFLNFIRFLESHWFVWVTQMNHIVMEIDQEAYRDWFSSQL
+            TATCNVEQSFFNDWFSGHLNFQIEHHLFPTMPRHNLHKIAPLVKSLCAKHGIEYQEKPLL
+            RALLDIIRSLKKSGKLWLDAYLHK
+NTSEQ       1335
+            atggggaagggagggaaccagggcgagggggccgccgagcgcgaggtgtcggtgcccacc
+            ttcagctgggaggagattcagaagcataacctgcgcaccgacaggtggctggtcattgac
+            cgcaaggtttacaacatcaccaaatggtccatccagcacccggggggccagcgggtcatc
+            gggcactacgctggagaagatgcaacggatgccttccgcgccttccaccctgacctggaa
+            ttcgtgggcaagttcttgaaacccctgctgattggtgaactggccccggaggagcccagc
+            caggaccacggcaagaactcaaagatcactgaggacttccgggccctgaggaagacggct
+            gaggacatgaacctgttcaagaccaaccacgtgttcttcctcctcctcctggcccacatc
+            atcgccctggagagcattgcatggttcactgtcttttactttggcaatggctggattcct
+            accctcatcacggcctttgtccttgctacctctcaggcccaagctggatggctgcaacat
+            gattatggccacctgtctgtctacagaaaacccaagtggaaccaccttgtccacaaattc
+            gtcattggccacttaaagggtgcctctgccaactggtggaatcatcgccacttccagcac
+            cacgccaagcctaacatcttccacaaggatcccgatgtgaacatgctgcacgtgtttgtt
+            ctgggcgaatggcagcccatcgagtacggcaagaagaagctgaaatacctgccctacaat
+            caccagcacgaatacttcttcctgattgggccgccgctgctcatccccatgtatttccag
+            taccagatcatcatgaccatgatcgtccataagaactgggtggacctggcctgggccgtc
+            agctactacatccggttcttcatcacctacatccctttctacggcatcctgggagccctc
+            cttttcctcaacttcatcaggttcctggagagccactggtttgtgtgggtcacacagatg
+            aatcacatcgtcatggagattgaccaggaggcctaccgtgactggttcagtagccagctg
+            acagccacctgcaacgtggagcagtccttcttcaacgactggttcagtggacaccttaac
+            ttccagattgagcaccacctcttccccaccatgccccggcacaacttacacaagatcgcc
+            ccgctggtgaagtctctatgtgccaagcatggcattgaataccaggagaagccgctactg
+            agggccctgctggacatcatcaggtccctgaagaagtctgggaagctgtggctggacgcc
+            taccttcacaaatga
+///

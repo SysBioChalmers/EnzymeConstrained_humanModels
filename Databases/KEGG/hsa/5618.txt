@@ -1,0 +1,88 @@
+ENTRY       5618              CDS       T01001
+NAME        PRLR, HPRL, MFAB, hPRLrI
+DEFINITION  (RefSeq) prolactin receptor
+ORTHOLOGY   K05081  prolactin receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04917  Prolactin signaling pathway
+DISEASE     H01388  Hyperprolactinemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                5618 (PRLR)
+               04151 PI3K-Akt signaling pathway
+                5618 (PRLR)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                5618 (PRLR)
+               04060 Cytokine-cytokine receptor interaction
+                5618 (PRLR)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                5618 (PRLR)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              5618 (PRLR)
+POSITION    5p13.2
+MOTIF       Pfam: EpoR_lig-bind fn3 IL6Ra-bind
+DBLINKS     NCBI-GeneID: 5618
+            NCBI-ProteinID: NP_000940
+            OMIM: 176761
+            HGNC: 9446
+            Ensembl: ENSG00000113494
+            Vega: OTTHUMG00000090789
+            Pharos: P16471(Tbio)
+            UniProt: P16471
+STRUCTURE   PDB: 3NCE 3N06 3NCB 3N0P 3MZG 3NCC 3D48 3NCF 1BP3 4I18 2N7I
+                 2LFG
+AASEQ       622
+            MKENVASATVFTLLLFLNTCLLNGQLPPGKPEIFKCRSPNKETFTCWWRPGTDGGLPTNY
+            SLTYHREGETLMHECPDYITGGPNSCHFGKQYTSMWRTYIMMVNATNQMGSSFSDELYVD
+            VTYIVQPDPPLELAVEVKQPEDRKPYLWIKWSPPTLIDLKTGWFTLLYEIRLKPEKAAEW
+            EIHFAGQQTEFKILSLHPGQKYLVQVRCKPDHGYWSAWSPATFIQIPSDFTMNDTTVWIS
+            VAVLSAVICLIIVWAVALKGYSMVTCIFPPVPGPKIKGFDAHLLEKGKSEELLSALGCQD
+            FPPTSDYEDLLVEYLEVDDSEDQHLMSVHSKEHPSQGMKPTYLDPDTDSGRGSCDSPSLL
+            SEKCEEPQANPSTFYDPEVIEKPENPETTHTWDPQCISMEGKIPYFHAGGSKCSTWPLPQ
+            PSQHNPRSSYHNITDVCELAVGPAGAPATLLNEAGKDALKSSQTIKSREEGKATQQREVE
+            SFHSETDQDTPWLLPQEKTPFGSAKPLDYVEIHKVNKDGALSLLPKQRENSGKPKKPGTP
+            ENNKEYAKVSGVMDNNILVLVPDPHAKNVACFEESAKEAPPSLEQNQAEKALANFTATSS
+            KCRLQLGGLDYLDPACFTHSFH
+NTSEQ       1869
+            atgaaggaaaatgtggcatctgcaaccgttttcactctgctactttttctcaacacctgc
+            cttctgaatggacagttacctcctggaaaacctgagatctttaaatgtcgttctcccaat
+            aaggaaacattcacctgctggtggaggcctgggacagatggaggacttcctaccaattat
+            tcactgacttaccacagggaaggagagacactcatgcatgaatgtccagactacataacc
+            ggtggccccaactcctgccactttggcaagcagtacacctccatgtggaggacatacatc
+            atgatggtcaatgccactaaccagatgggaagcagtttctcggatgaactttatgtggac
+            gtgacttacatagttcagccagaccctcctttggagctggctgtggaagtaaaacagcca
+            gaagacagaaaaccctacctgtggattaaatggtctccacctaccctgattgacttaaaa
+            actggttggttcacgctcctgtatgaaattcgattaaaacccgagaaagcagctgagtgg
+            gagatccattttgctgggcagcaaacagagtttaagattctcagcctacatccaggacag
+            aaataccttgtccaggttcgctgcaaaccagaccatggatactggagtgcatggagtcca
+            gcgaccttcattcagatacctagtgacttcaccatgaatgatacaaccgtgtggatctct
+            gtggctgtcctttctgctgtcatctgtttgattattgtctgggcagtggctttgaagggc
+            tatagcatggtgacctgcatctttccgccagttcctgggccaaaaataaaaggatttgat
+            gctcatctgttggagaagggcaagtctgaagaactactgagtgccttgggatgccaagac
+            tttcctcccacttctgactatgaggacttgctggtggagtatttagaagtagatgatagt
+            gaggaccagcatctaatgtcagtccattcaaaagaacacccaagtcaaggtatgaaaccc
+            acatacctggatcctgacactgactcaggccgggggagctgtgacagcccttcccttttg
+            tctgaaaagtgtgaggaaccccaggccaatccctccacattctatgatcctgaggtcatt
+            gagaagccagagaatcctgaaacaacccacacctgggacccccagtgcataagcatggaa
+            ggcaaaatcccctattttcatgctggtggatccaaatgttcaacatggcccttaccacag
+            cccagccagcacaaccccagatcctcttaccacaatattactgatgtgtgtgagctggct
+            gtgggccctgcaggtgcaccggccactctgttgaatgaagcaggtaaagatgctttaaaa
+            tcctctcaaaccattaagtctagagaagagggaaaggcaacccagcagagggaggtagaa
+            agcttccattctgagactgaccaggatacgccctggctgctgccccaggagaaaaccccc
+            tttggctccgctaaacccttggattatgtggagattcacaaggtcaacaaagatggtgca
+            ttatcattgctaccaaaacagagagagaacagcggcaagcccaagaagcccgggactcct
+            gagaacaataaggagtatgccaaggtgtccggggtcatggataacaacatcctggtgttg
+            gtgccagatccacatgctaaaaacgtggcttgctttgaagaatcagccaaagaggcccca
+            ccatcacttgaacagaatcaagctgagaaagccctggccaacttcactgcaacatcaagc
+            aagtgcaggctccagctgggtggtttggattacctggatcccgcatgttttacacactcc
+            tttcactga
+///

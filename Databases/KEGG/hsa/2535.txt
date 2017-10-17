@@ -1,0 +1,106 @@
+ENTRY       2535              CDS       T01001
+NAME        FZD2, Fz2, fz-2, fzE2, hFz2
+DEFINITION  (RefSeq) frizzled class receptor 2
+ORTHOLOGY   K02235  frizzled 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                2535 (FZD2)
+               04390 Hippo signaling pathway
+                2535 (FZD2)
+               04150 mTOR signaling pathway
+                2535 (FZD2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                2535 (FZD2)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                2535 (FZD2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2535 (FZD2)
+               05205 Proteoglycans in cancer
+                2535 (FZD2)
+               05217 Basal cell carcinoma
+                2535 (FZD2)
+               05224 Breast cancer
+                2535 (FZD2)
+              Infectious diseases
+               05166 HTLV-I infection
+                2535 (FZD2)
+               05165 Human papillomavirus infection
+                2535 (FZD2)
+            G protein-coupled receptors [BR:hsa04030]
+             Others
+              Wnt signaling
+               Frizzled / Smoothened family
+                2535 (FZD2)
+POSITION    17q21.31
+MOTIF       Pfam: Frizzled Fz DUF5083
+DBLINKS     NCBI-GeneID: 2535
+            NCBI-ProteinID: NP_001457
+            OMIM: 600667
+            HGNC: 4040
+            Ensembl: ENSG00000180340
+            Vega: OTTHUMG00000181819
+            Pharos: Q14332(Tbio)
+            UniProt: Q14332 Q86UZ8
+AASEQ       565
+            MRPRSALPRLLLPLLLLPAAGPAQFHGEKGISIPDHGFCQPISIPLCTDIAYNQTIMPNL
+            LGHTNQEDAGLEVHQFYPLVKVQCSPELRFFLCSMYAPVCTVLEQAIPPCRSICERARQG
+            CEALMNKFGFQWPERLRCEHFPRHGAEQICVGQNHSEDGAPALLTTAPPPGLQPGAGGTP
+            GGPGGGGAPPRYATLEHPFHCPRVLKVPSYLSYKFLGERDCAAPCEPARPDGSMFFSQEE
+            TRFARLWILTWSVLCCASTFFTVTTYLVDMQRFRYPERPIIFLSGCYTMVSVAYIAGFVL
+            QERVVCNERFSEDGYRTVVQGTKKEGCTILFMMLYFFSMASSIWWVILSLTWFLAAGMKW
+            GHEAIEANSQYFHLAAWAVPAVKTITILAMGQIDGDLLSGVCFVGLNSLDPLRGFVLAPL
+            FVYLFIGTSFLLAGFVSLFRIRTIMKHDGTKTEKLERLMVRIGVFSVLYTVPATIVIACY
+            FYEQAFREHWERSWVSQHCKSLAIPCPAHYTPRMSPDFTVYMIKYLMTLIVGITSGFWIW
+            SGKTLHSWRKFYTRLTNSRHGETTV
+NTSEQ       1698
+            atgcggccccgcagcgccctgccccgcctgctgctgccgctgctgctgctgcccgccgcc
+            gggccggcccagttccacggggagaagggcatctccatcccggaccacggcttctgccag
+            cccatctccatcccgctgtgcacggacatcgcctacaaccagaccatcatgcccaacctt
+            ctgggccacacgaaccaggaggacgcaggcctagaggtgcaccagttctatccgctggtg
+            aaggtgcagtgctcgcccgaactgcgcttcttcctgtgctccatgtacgcacccgtgtgc
+            accgtgctggaacaggccatcccgccgtgccgctctatctgtgagcgcgcgcgccagggc
+            tgcgaagccctcatgaacaagttcggttttcagtggcccgagcgcctgcgctgcgagcac
+            ttcccgcgccacggcgccgagcagatctgcgtcggccagaaccactccgaggacggagct
+            cccgcgctactcaccaccgcgccgccgccgggactgcagccgggtgccgggggcaccccg
+            ggtggcccgggcggcggcggcgctcccccgcgctacgccacgctggagcaccccttccac
+            tgcccgcgcgtcctcaaggtgccatcctatctcagctacaagtttctgggcgagcgtgat
+            tgtgctgcgccctgcgaacctgcgcggcccgatggttccatgttcttctcacaggaggag
+            acgcgtttcgcgcgcctctggatcctcacctggtcggtgctgtgctgcgcttccaccttc
+            ttcactgtcaccacgtacttggtagacatgcagcgcttccgctacccagagcggcctatc
+            atttttctgtcgggctgctacaccatggtgtcggtggcctacatcgcgggcttcgtgctc
+            caggagcgcgtggtgtgcaacgagcgcttctccgaggacggttaccgcacggtggtgcag
+            ggcaccaagaaggagggctgcaccatcctcttcatgatgctctacttcttcagcatggcc
+            agctccatctggtgggtcatcctgtcgctcacctggttcctggcagccggcatgaagtgg
+            ggccacgaggccatcgaggccaactctcagtacttccacctggccgcctgggccgtgccg
+            gccgtcaagaccatcaccatcctggccatgggccagatcgacggcgacctgctgagcggc
+            gtgtgcttcgtaggcctcaacagcctggacccgctgcggggcttcgtgctagcgccgctc
+            ttcgtgtacctgttcatcggcacgtccttcctcctggccggcttcgtgtcgctcttccgc
+            atccgcaccatcatgaagcacgacggcaccaagaccgaaaagctggagcggctcatggtg
+            cgcatcggcgtcttctccgtgctctacacagtgcccgccaccatcgtcatcgcttgctac
+            ttctacgagcaggccttccgcgagcactgggagcgctcgtgggtgagccagcactgcaag
+            agcctggccatcccgtgcccggcgcactacacgccgcgcatgtcgcccgacttcacggtc
+            tacatgatcaaatacctcatgacgctcatcgtgggcatcacgtcgggcttctggatctgg
+            tcgggcaagacgctgcactcgtggaggaagttctacactcgcctcaccaacagccgacac
+            ggtgagaccaccgtgtga
+///

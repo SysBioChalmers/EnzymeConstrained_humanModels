@@ -1,0 +1,91 @@
+ENTRY       271               CDS       T01001
+NAME        AMPD2, PCH9, SPG63
+DEFINITION  (RefSeq) adenosine monophosphate deaminase 2
+ORTHOLOGY   K01490  AMP deaminase [EC:3.5.4.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00897  Pontocerebellar hypoplasia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                271 (AMPD2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.6  AMP deaminase
+                 271 (AMPD2)
+POSITION    1p13.3
+MOTIF       Pfam: A_deaminase
+DBLINKS     NCBI-GeneID: 271
+            NCBI-ProteinID: NP_001244289
+            OMIM: 102771
+            HGNC: 469
+            Ensembl: ENSG00000116337
+            Vega: OTTHUMG00000011649
+            Pharos: Q01433(Tchem)
+            UniProt: Q01433 A0A024R098 B2RB47
+AASEQ       879
+            MRNRGQGLFRLRSRCFLHQSLPLGAGRRKGLDVAEPGPSRCRSDSPAVAAVVPAMASYPS
+            GSGKPKAKYPFKKRASLQASTAAPEARGGLGAPPLQSARSLPGPAPCLKHFPLDLRTSMD
+            GKCKEIAEELFTRSLAESELRSAPYEFPEESPIEQLEERRQRLERQISQDVKLEPDILLR
+            AKQDFLKTDSDSDLQLYKEQGEGQGDRSLRERDVLEREFQRVTISGEEKCGVPFTDLLDA
+            AKSVVRALFIREKYMALSLQSFCPTTRRYLQQLAEKPLETRTYEQGPDTPVSADAPVHPP
+            ALEQHPYEHCEPSTMPGDLGLGLRMVRGVVHVYTRREPDEHCSEVELPYPDLQEFVADVN
+            VLMALIINGPIKSFCYRRLQYLSSKFQMHVLLNEMKELAAQKKVPHRDFYNIRKVDTHIH
+            ASSCMNQKHLLRFIKRAMKRHLEEIVHVEQGREQTLREVFESMNLTAYDLSVDTLDVHAD
+            RNTFHRFDKFNAKYNPIGESVLREIFIKTDNRVSGKYFAHIIKEVMSDLEESKYQNAELR
+            LSIYGRSRDEWDKLARWAVMHRVHSPNVRWLVQVPRLFDVYRTKGQLANFQEMLENIFLP
+            LFEATVHPASHPELHLFLEHVDGFDSVDDESKPENHVFNLESPLPEAWVEEDNPPYAYYL
+            YYTFANMAMLNHLRRQRGFHTFVLRPHCGEAGPIHHLVSAFMLAENISHGLLLRKAPVLQ
+            YLYYLAQIGIAMSPLSNNSLFLSYHRNPLPEYLSRGLMVSLSTDDPLQFHFTKEPLMEEY
+            SIATQVWKLSSCDMCELARNSVLMSGFSHKVKSHWLGPNYTKEGPEGNDIRRTNVPDIRV
+            GYRYETLCQELALITQAVQSEMLETIPEEAGITMSPGPQ
+NTSEQ       2640
+            atgagaaatcgtggccagggcctcttccgcctgcggagccgctgcttcctgcatcagtca
+            ctcccgctgggggcggggcggaggaaggggttggatgtggcagagccaggccccagccgg
+            tgccgctcagactcccccgctgtcgccgccgtggtcccagccatggcatcctatccatct
+            ggctctggcaagcccaaggccaaatatccctttaagaagcgggccagcctgcaggcctcc
+            actgcagctccagaggctcggggtggtctgggggcccctccgctgcagtctgcccgatcc
+            ctgccgggccccgccccctgcctcaagcacttcccgctcgacctgcgcacgtctatggat
+            ggcaaatgcaaggagatcgccgaggagctgttcacccgctcactggctgagagcgagctc
+            cgtagtgccccgtatgagttccccgaggagagccccattgaacagctggaggagcggcgg
+            cagcggctggagcggcagatcagccaggatgtcaagctggagccagacatcctgcttcgg
+            gccaagcaagatttcctgaagacggacagtgactcggacctacagctctacaaggaacag
+            ggtgaggggcagggtgaccggagcctgcgggagcgtgatgtgctggaacgggagtttcag
+            cgggtcaccatctctggggaggagaagtgtggggtgccgttcacagacctgctggatgca
+            gccaagagtgtggtgcgggcgctcttcatccgggagaagtacatggccctgtccctgcag
+            agcttctgccccaccacccgccgctacctgcagcagctggctgaaaagcctctggagacc
+            cggacctatgaacagggccccgacacccctgtgtctgctgatgccccggtgcacccccct
+            gcgctggagcagcacccgtatgagcactgtgagccaagcaccatgcctggggacctgggc
+            ttgggtctgcgcatggtgcggggtgtggtgcacgtctacacccgcagggaacccgacgag
+            cattgctcagaggtggagctgccataccctgacctgcaggaatttgtggctgacgtcaat
+            gtgctgatggccctgattatcaatggccccataaagtcattctgctaccgccggctgcag
+            tacctgagctccaagttccagatgcatgtgctactcaatgagatgaaggagctggccgcc
+            cagaagaaagtgccacaccgagatttctacaacatccgcaaggtggacacccacatccat
+            gcctcgtcctgcatgaaccagaagcatctgctgcgcttcatcaagcgggcaatgaagcgg
+            cacctggaggagatcgtgcacgtggagcagggccgtgaacagacgctgcgggaggtcttt
+            gagagcatgaatctcacggcctacgacctgagtgtggacacgctggatgtgcatgcggac
+            aggaacactttccatcgctttgacaagtttaatgccaaatacaaccctattggggagtcc
+            gtcctccgagagatcttcatcaagacggacaacagggtatctgggaagtactttgctcac
+            atcatcaaggaggtgatgtcagacctggaggagagcaaataccagaatgcagagctgcgg
+            ctctccatttacgggcgctcgagggatgagtgggacaagctggcgcgctgggccgtcatg
+            caccgcgtgcactcccccaacgtgcgctggctggtgcaggtgccccgcctctttgatgtg
+            taccgtaccaagggccagctggccaacttccaggagatgctggagaacatcttcctgcca
+            ctgttcgaggccactgtgcaccctgccagccacccggaactgcatctcttcttagagcac
+            gtggatggttttgacagcgtggatgatgagtccaagcctgaaaaccatgtcttcaacctg
+            gagagccccctgcctgaggcgtgggtggaggaggacaacccaccctatgcctactacctg
+            tactacacctttgccaacatggccatgttgaaccacctgcgcaggcagaggggcttccac
+            acgtttgtgctgaggccacactgtggggaggctgggcccatccaccacctggtgtcagcc
+            ttcatgctggctgagaacatttcccacgggctccttctgcgcaaggcccccgtcctgcag
+            tacctgtactacctggcccagatcggcatcgccatgtctccgctcagcaacaacagcctc
+            ttcctcagctatcaccggaatccgctaccggagtacctgtcccgcggcctcatggtctcc
+            ctgtccactgatgatcccttgcagttccacttcaccaaggagccgctgatggaggagtac
+            agcatcgccacccaggtgtggaagctcagctcctgcgatatgtgtgagctggcccgcaac
+            agcgtgctcatgagcggcttctcgcacaaggtaaagagccactggctgggacccaactat
+            accaaggaaggccctgaggggaatgacatccgccggaccaatgtgccagacatccgcgtg
+            ggctaccgctacgagaccctgtgccaggagctggcgctcatcacgcaggcagtccagagt
+            gagatgctggagaccattccagaggaggcgggtatcaccatgagcccagggcctcaatga
+///

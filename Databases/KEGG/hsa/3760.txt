@@ -1,0 +1,94 @@
+ENTRY       3760              CDS       T01001
+NAME        KCNJ3, GIRK1, KGA, KIR3.1
+DEFINITION  (RefSeq) potassium voltage-gated channel subfamily J member 3
+ORTHOLOGY   K04997  potassium inwardly-rectifying channel subfamily J member 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04713  Circadian entrainment
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04915  Estrogen signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa05032  Morphine addiction
+DRUG_TARGET Amiodarone (DG00204): D00636 D02910
+            Bepridil (DG00333): D00631 D07520
+            Dronedarone (DG00207): D02537 D03914
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04915 Estrogen signaling pathway
+                3760 (KCNJ3)
+               04921 Oxytocin signaling pathway
+                3760 (KCNJ3)
+              Nervous system
+               04724 Glutamatergic synapse
+                3760 (KCNJ3)
+               04725 Cholinergic synapse
+                3760 (KCNJ3)
+               04728 Dopaminergic synapse
+                3760 (KCNJ3)
+               04726 Serotonergic synapse
+                3760 (KCNJ3)
+               04723 Retrograde endocannabinoid signaling
+                3760 (KCNJ3)
+              Environmental adaptation
+               04713 Circadian entrainment
+                3760 (KCNJ3)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                3760 (KCNJ3)
+            Ion channels [BR:hsa04040]
+             Related to voltage-gated cation channels
+              Inward rectifier channel (Kir)
+               3760 (KCNJ3)
+POSITION    2q24.1
+MOTIF       Pfam: IRK
+DBLINKS     NCBI-GeneID: 3760
+            NCBI-ProteinID: NP_002230
+            OMIM: 601534
+            HGNC: 6264
+            Ensembl: ENSG00000162989
+            Vega: OTTHUMG00000131937
+            Pharos: P48549(Tbio)
+            UniProt: P48549
+AASEQ       501
+            MSALRRKFGDDYQVVTTSSSGSGLQPQGPGQDPQQQLVPKKKRQRFVDKNGRCNVQHGNL
+            GSETSRYLSDLFTTLVDLKWRWNLFIFILTYTVAWLFMASMWWVIAYTRGDLNKAHVGNY
+            TPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCM
+            FIKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPE
+            GEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQFEIVVILE
+            GIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKE
+            QEEMLLMSSPLIAPAITNSKERHNSVECLDGLDDITTKLPSKLQKITGREDFPKKLLRMS
+            STTSEKAYSLGDLPMKLQRISSVPGNSEEKLVSKTTKMLSDPMSQSVADLPPKLQKMAGG
+            AARMEGNLPAKLRKMNSDRFT
+NTSEQ       1506
+            atgtctgcactccgaaggaaatttggggacgattatcaggtagtgaccacatcgtccagc
+            ggctcgggcttgcagccccaggggccaggccaggaccctcagcagcagcttgtgcccaag
+            aagaagcggcagcggttcgtggacaagaacggccggtgcaatgtacagcacggcaacctg
+            ggcagcgagacaagccgctacctctcggacctcttcaccacgctggtggacctcaagtgg
+            cgctggaacctcttcatcttcattctcacctacaccgtggcctggcttttcatggcgtcc
+            atgtggtgggtgatcgcctacactcggggcgacctgaacaaagcccacgtcggtaactac
+            acgccttgcgtggccaatgtctataacttcccttctgccttcctcttcttcatcgagacg
+            gaggccaccatcggctatggctaccgatacatcacagacaagtgccccgagggcatcatc
+            ctcttcctcttccagtccatcctgggctccatcgtggacgccttcctcatcggctgcatg
+            ttcatcaagatgtcccagcccaagaagcgcgccgagaccctcatgttcagcgagcacgcg
+            gtgatctccatgagggacggaaaactcacgcttatgttccgggtgggcaacctgcgcaac
+            agccacatggtctccgcgcagattcgctgcaagctgctcaaatctcggcagacacctgag
+            ggtgagttccttccccttgaccaacttgaactggatgtaggttttagtacaggggcagat
+            caactttttcttgtgtcccccctcacaatttgccacgtgatcgatgccaaaagccccttt
+            tatgacctatcccagcgaagcatgcaaactgaacagttcgagattgtcgtcatcctagaa
+            ggcattgtggaaacaactgggatgacttgtcaagctcgaacatcatatactgaagatgaa
+            gttctttggggtcatcgtttttttcctgtaatttccttagaagagggattctttaaagtt
+            gattactcccagttccatgcaacatttgaagtccccaccccaccttacagtgtgaaagag
+            caggaggaaatgcttctcatgtcgtcccctttaatagcaccagccataactaacagcaaa
+            gaaagacataattctgtggaatgcttagatggactagatgatattactacaaaactacca
+            tctaagctgcagaaaattactggaagagaagactttcccaaaaaactcttgaggatgagt
+            tctacaacttcagaaaaagcctacagcttgggagacttgcccatgaaacttcaacgaata
+            agttcagttccgggcaactcagaagaaaaactggtatctaaaaccaccaagatgttatct
+            gatcccatgagccagtctgtggctgatttgccaccaaagcttcaaaagatggctggagga
+            gcagctaggatggaagggaaccttccagccaaattaagaaaaatgaactctgatcgcttc
+            acataa
+///

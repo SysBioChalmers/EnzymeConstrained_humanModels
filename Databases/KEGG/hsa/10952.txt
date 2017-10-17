@@ -1,0 +1,49 @@
+ENTRY       10952             CDS       T01001
+NAME        SEC61B
+DEFINITION  (RefSeq) Sec61 translocon beta subunit
+ORTHOLOGY   K09481  protein transport protein SEC61 subunit beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03060  Protein export
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04145  Phagosome
+            hsa05110  Vibrio cholerae infection
+MODULE      hsa_M00401  Sec61 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03060 Protein export
+                10952 (SEC61B)
+               04141 Protein processing in endoplasmic reticulum
+                10952 (SEC61B)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                10952 (SEC61B)
+             Human Diseases
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                10952 (SEC61B)
+            Secretion system [BR:hsa02044]
+             Sec (secretion) system
+              Eukaryotic Sec-SRP protein
+               10952 (SEC61B)
+POSITION    9q22.33
+MOTIF       Pfam: Sec61_beta
+DBLINKS     NCBI-GeneID: 10952
+            NCBI-ProteinID: NP_006799
+            OMIM: 609214
+            HGNC: 16993
+            Ensembl: ENSG00000106803
+            Vega: OTTHUMG00000020354
+            Pharos: P60468(Tbio)
+            UniProt: P60468
+AASEQ       96
+            MPGPTPSGTNVGSSGRSPSKAVAARAAGSTVRQRKNASCGTRSAGRTTSAGTGGMWRFYT
+            EDSPGLKVGPVPVLVMSLLFIASVFMLHIWGKYTRS
+NTSEQ       291
+            atgcctggtccgacccccagtggcactaacgtgggatcctcagggcgctctcccagcaaa
+            gcagtggccgcccgggcggcgggatccactgtccggcagaggaaaaatgccagctgtggg
+            acaaggagtgcaggccgcacaacctcggcaggcaccggggggatgtggcgattctacaca
+            gaagattcacctgggctcaaagttggccctgttccagtattggttatgagtcttctgttc
+            atcgcttctgtatttatgttgcacatttggggcaagtacactcgttcgtag
+///

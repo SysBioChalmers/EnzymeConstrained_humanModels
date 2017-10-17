@@ -1,0 +1,91 @@
+ENTRY       6570              CDS       T01001
+NAME        SLC18A1, CGAT, VAT1, VMAT1
+DEFINITION  (RefSeq) solute carrier family 18 member A1
+ORTHOLOGY   K08155  MFS transporter, DHA1 family, solute carrier family 18 (vesicular amine transporter), member 1/2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04721  Synaptic vesicle cycle
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05012  Parkinson's disease
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+DRUG_TARGET Reserpine: D00197
+            Tedatioxetine (DG01311): D10170 D10171
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                6570 (SLC18A1)
+               04726 Serotonergic synapse
+                6570 (SLC18A1)
+               04721 Synaptic vesicle cycle
+                6570 (SLC18A1)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                6570 (SLC18A1)
+              Substance dependence
+               05030 Cocaine addiction
+                6570 (SLC18A1)
+               05031 Amphetamine addiction
+                6570 (SLC18A1)
+               05034 Alcoholism
+                6570 (SLC18A1)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC18: Vesicular amine transporter
+               6570 (SLC18A1)
+             Major Facilitator Superfamily (MFS)
+              Drug transporters
+               Drug:H+ antiporter-1 (12 spanner) (DHA1) family [TC:2.A.1.2]
+                6570 (SLC18A1)
+POSITION    8p21.3
+MOTIF       Pfam: MFS_1 CPP1-like DUF2070
+DBLINKS     NCBI-GeneID: 6570
+            NCBI-ProteinID: NP_001129163
+            OMIM: 193002
+            HGNC: 10934
+            Ensembl: ENSG00000036565
+            Vega: OTTHUMG00000097017
+            Pharos: P54219(Tchem)
+            UniProt: P54219 Q96GL6
+AASEQ       525
+            MLRTILDAPQRLLKEGRASRQLVLVVVFVALLLDNMLFTVVVPIVPTFLYDMEFKEVNSS
+            LHLGHAGSSPHALASPAFSTIFSFFNNNTVAVEESVPSGIAWMNDTASTIPPPATEAISA
+            HKNNCLQGTGFLEEEITRVGVLFASKAVMQLLVNPFVGPLTNRIGYHIPMFAGFVIMFLS
+            TVMFAFSGTYTLLFVARTLQGIGSSFSSVAGLGMLASVYTDDHERGRAMGTALGGLALGL
+            LVGAPFGSVMYEFVGKSAPFLILAFLALLDGALQLCILQPSKVSPESAKGTPLFMLLKDP
+            YILVAAGSICFANMGVAILEPTLPIWMMQTMCSPKWQLGLAFLPASVSYLIGTNLFGVLA
+            NKMGRWLCSLIGMLVVGTSLLCVPLAHNIFGLIGPNAGLGLAIGMVDSSMMPIMGHLVDL
+            RHTSVYGSVYAIADVAFCMGFAIGPSTGGAIVKAIGFPWLMVITGVINIVYAPLCYYLRS
+            PPAKEEKLAILSQDCPMETRMYATQKPTKEFPLGEDSDEEPDHEE
+NTSEQ       1578
+            atgctccggaccattctggatgctccccagcggttgctgaaggaggggagagcgtcccgg
+            cagctggtgctggtggtggtattcgtcgctttgctcctggacaacatgctgtttactgtg
+            gtggtgccaattgtgcccaccttcctatatgacatggagttcaaagaagtcaactcttct
+            ctgcacctcggccatgccggaagttccccacatgccctcgcctctcctgccttttccacc
+            atcttctccttcttcaacaacaacaccgtggctgttgaagaaagcgtacctagtggaata
+            gcatggatgaatgacactgccagcaccatcccacctccagccactgaagccatctcagct
+            cataaaaacaactgcttgcaaggcacaggtttcttggaggaagagattacccgggtcggg
+            gttctgtttgcttcaaaggctgtgatgcaacttctggtcaacccattcgtgggccctctc
+            accaacaggattggatatcatatccccatgtttgctggctttgttatcatgtttctctcc
+            acagttatgtttgctttttctgggacctatactctactctttgtggcccgaacccttcaa
+            ggcattggatcttcattttcatctgttgcaggtcttggaatgctggccagtgtctacact
+            gatgaccatgagagaggacgagccatgggaactgctctggggggcctggccttggggttg
+            ctggtgggagctccctttggaagtgtaatgtacgagtttgttgggaagtctgcacccttc
+            ctcatcctggccttcctggcactactggatggagcactccagctttgcatcctacagcct
+            tccaaagtctctcctgagagtgccaaggggactcccctctttatgcttctcaaagaccct
+            tacatcctggtggctgcagggtccatctgctttgccaacatgggggtggccatcctggag
+            cccacactgcccatctggatgatgcagaccatgtgctcccccaagtggcagctgggtcta
+            gctttcttgcctgccagtgtgtcctacctcattggcaccaacctctttggtgtgttggcc
+            aacaagatgggtcggtggctgtgttccctaatcgggatgctggtagtaggtaccagcttg
+            ctctgtgttcctctggctcacaatatttttggtctcattggccccaatgcagggcttggc
+            cttgccataggcatggtggattcttctatgatgcccatcatggggcacctggtggatcta
+            cgccacacctcggtgtatgggagtgtctacgccatcgctgatgtggctttttgcatgggc
+            tttgctataggtccatccaccggtggtgccattgtaaaggccatcggttttccctggctc
+            atggtcatcactggggtcatcaacatcgtctatgctccactctgctactacctgcggagc
+            cccccggcaaaggaagagaagcttgctattctgagtcaggactgccccatggagacccgg
+            atgtatgcaacccagaagcccacgaaggaatttcctctgggggaggacagtgatgaggag
+            cctgaccatgaggagtag
+///

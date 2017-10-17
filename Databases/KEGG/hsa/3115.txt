@@ -1,0 +1,139 @@
+ENTRY       3115              CDS       T01001
+NAME        HLA-DPB1, DPB1, HLA-DP, HLA-DP1B, HLA-DPB
+DEFINITION  (RefSeq) major histocompatibility complex, class II, DP beta 1
+ORTHOLOGY   K06752  major histocompatibility complex, class II
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04672  Intestinal immune network for IgA production
+            hsa04940  Type I diabetes mellitus
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+DISEASE     H00294  Dilated cardiomyopathy (DCM)
+            H01492  Systemic sclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3115 (HLA-DPB1)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3115 (HLA-DPB1)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3115 (HLA-DPB1)
+               04612 Antigen processing and presentation
+                3115 (HLA-DPB1)
+               04658 Th1 and Th2 cell differentiation
+                3115 (HLA-DPB1)
+               04659 Th17 cell differentiation
+                3115 (HLA-DPB1)
+               04672 Intestinal immune network for IgA production
+                3115 (HLA-DPB1)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3115 (HLA-DPB1)
+               05322 Systemic lupus erythematosus
+                3115 (HLA-DPB1)
+               05323 Rheumatoid arthritis
+                3115 (HLA-DPB1)
+               05320 Autoimmune thyroid disease
+                3115 (HLA-DPB1)
+               05321 Inflammatiory bowel disease (IBD)
+                3115 (HLA-DPB1)
+               05330 Allograft rejection
+                3115 (HLA-DPB1)
+               05332 Graft-versus-host disease
+                3115 (HLA-DPB1)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3115 (HLA-DPB1)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3115 (HLA-DPB1)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3115 (HLA-DPB1)
+               05152 Tuberculosis
+                3115 (HLA-DPB1)
+               05166 HTLV-I infection
+                3115 (HLA-DPB1)
+               05164 Influenza A
+                3115 (HLA-DPB1)
+               05168 Herpes simplex infection
+                3115 (HLA-DPB1)
+               05169 Epstein-Barr virus infection
+                3115 (HLA-DPB1)
+               05145 Toxoplasmosis
+                3115 (HLA-DPB1)
+               05140 Leishmaniasis
+                3115 (HLA-DPB1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3115 (HLA-DPB1)
+              Exosomal proteins of epithelial cells
+               3115 (HLA-DPB1)
+              Exosomal proteins of breast milk
+               3115 (HLA-DPB1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               Others
+                CD4; CD4 antigen [KO:K06454]
+                 3115 (HLA-DPB1)
+                LAG3; lymphocyte-activation gene 3 protein [KO:K06565]
+                 3115 (HLA-DPB1)
+POSITION    6p21.32
+MOTIF       Pfam: MHC_II_beta C1-set Ig_3 Marek_A Ig_2 ig C2-set_2
+DBLINKS     NCBI-GeneID: 3115
+            NCBI-ProteinID: NP_002112
+            OMIM: 142858
+            HGNC: 4940
+            Ensembl: ENSG00000223865
+            Vega: OTTHUMG00000031076
+            Pharos: P04440(Tbio)
+            UniProt: P04440 I4EC15
+STRUCTURE   PDB: 4P5M 3WEX 4P5K 4P57 4P4K 4P4R 3LQZ
+AASEQ       258
+            MMVLQVSAAPRTVALTALLMVLLTSVVQGRATPENYLFQGRQECYAFNGTQRFLERYIYN
+            REEFARFDSDVGEFRAVTELGRPAAEYWNSQKDILEEKRAVPDRMCRHNYELGGPMTLQR
+            RVQPRVNVSPSKKGPLQHHNLLVCHVTDFYPGSIQVRWFLNGQEETAGVVSTNLIRNGDW
+            TFQILVMLEMTPQQGDVYTCQVEHTSLDSPVTVEWKAQSDSARSKTLTGAGGFVLGLIIC
+            GVGIFMHRRSKKVQRGSA
+NTSEQ       777
+            atgatggttctgcaggtttctgcggccccccggacagtggctctgacggcgttactgatg
+            gtgctgctcacatctgtggtccagggcagggccactccagagaattaccttttccaggga
+            cggcaggaatgctacgcgtttaatgggacacagcgcttcctggagagatacatctacaac
+            cgggaggagttcgcgcgcttcgacagcgacgtgggggagttccgggcggtgacggagctg
+            gggcggcctgctgcggagtactggaacagccagaaggacatcctggaggagaagcgggca
+            gtgccggacaggatgtgcagacacaactacgagctgggcgggcccatgaccctgcagcgc
+            cgagtccagcctagggtgaatgtttccccctccaagaaggggcccttgcagcaccacaac
+            ctgcttgtctgccacgtgacggatttctacccaggcagcattcaagtccgatggttcctg
+            aatggacaggaggaaacagctggggtcgtgtccaccaacctgatccgtaatggagactgg
+            accttccagatcctggtgatgctggaaatgaccccccagcagggagatgtctacacctgc
+            caagtggagcacaccagcctggatagtcctgtcaccgtggagtggaaggcacagtctgat
+            tctgcccggagtaagacattgacgggagctgggggcttcgtgctggggctcatcatctgt
+            ggagtgggcatcttcatgcacaggaggagcaagaaagttcaacgaggatctgcataa
+///

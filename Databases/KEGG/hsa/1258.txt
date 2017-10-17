@@ -1,0 +1,125 @@
+ENTRY       1258              CDS       T01001
+NAME        CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45
+DEFINITION  (RefSeq) cyclic nucleotide gated channel beta 1
+ORTHOLOGY   K04952  cyclic nucleotide gated channel beta 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04740  Olfactory transduction
+            hsa04744  Phototransduction
+MODULE      hsa_M00694  cGMP signaling
+DISEASE     H00527  Retinitis pigmentosa (RP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                1258 (CNGB1)
+               04022 cGMP - PKG signaling pathway
+                1258 (CNGB1)
+             Organismal Systems
+              Sensory system
+               04744 Phototransduction
+                1258 (CNGB1)
+               04740 Olfactory transduction
+                1258 (CNGB1)
+            Ion channels [BR:hsa04040]
+             Related to voltage-gated cation channels
+              Cyclic nucleotide-gated channel (CNG)
+               1258 (CNGB1)
+POSITION    16q21
+MOTIF       Pfam: cNMP_binding
+DBLINKS     NCBI-GeneID: 1258
+            NCBI-ProteinID: NP_001288
+            OMIM: 600724
+            HGNC: 2151
+            Ensembl: ENSG00000070729
+            Vega: OTTHUMG00000154810
+            Pharos: Q14028(Tbio)
+            UniProt: Q14028
+AASEQ       1251
+            MLGWVQRVLPQPPGTPRKTKMQEEEEVEPEPEMEAEVEPEPNPEEAETESESMPPEESFK
+            EEEVAVADPSPQETKEAALTSTISLRAQGAEISEMNSPSRRVLTWLMKGVEKVIPQPVHS
+            ITEDPAQILGHGSTGDTGCTDEPNEALEAQDTRPGLRLLLWLEQNLERVLPQPPKSSEVW
+            RDEPAVATGAASDPAPPGRPQEMGPKLQARETPSLPTPIPLQPKEEPKEAPAPEPQPGSQ
+            AQTSSLPPTRDPARLVAWVLHRLEMALPQPVLHGKIGEQEPDSPGICDVQTISILPGGQV
+            EPDLVLEEVEPPWEDAHQDVSTSPQGTEVVPAYEEENKAVEKMPRELSRIEEEKEDEEEE
+            EEEEEEEEEEEVTEVLLDSCVVSQVGVGQSEEDGTRPQSTSDQKLWEEVGEEAKKEAEEK
+            AKEEAEEVAEEEAEKEPQDWAETKEEPEAEAEAASSGVPATKQHPEVQVEDTDADSCPLM
+            AEENPPSTVLPPPSPAKSDTLIVPSSASGTHRKKLPSEDDEAEELKALSPAESPVVAWSD
+            PTTPKDTDGQDRAASTASTNSAIINDRLQELVKLFKERTEKVKEKLIDPDVTSDEESPKP
+            SPAKKAPEPAPDTKPAEAEPVEEEHYCDMLCCKFKHRPWKKYQFPQSIDPLTNLMYVLWL
+            FFVVMAWNWNCWLIPVRWAFPYQTPDNIHHWLLMDYLCDLIYFLDITVFQTRLQFVRGGD
+            IITDKKDMRNNYLKSRRFKMDLLSLLPLDFLYLKVGVNPLLRLPRCLKYMAFFEFNSRLE
+            SILSKAYVYRVIRTTAYLLYSLHLNSCLYYWASAYQGLGSTHWVYDGVGNSYIRCYYFAV
+            KTLITIGGLPDPKTLFEIVFQLLNYFTGVFAFSVMIGQMRDVVGAATAGQTYYRSCMDST
+            VKYMNFYKIPKSVQNRVKTWYEYTWHSQGMLDESELMVQLPDKMRLDLAIDVNYNIVSKV
+            ALFQGCDRQMIFDMLKRLRSVVYLPNDYVCKKGEIGREMYIIQAGQVQVLGGPDGKSVLV
+            TLKAGSVFGEISLLAVGGGNRRTANVVAHGFTNLFILDKKDLNEILVHYPESQKLLRKKA
+            RRMLRSNNKPKEEKSVLILPPRAGTPKLFNAALAMTGKMGGKGAKGGKLAHLRARLKELA
+            ALEAAAKQQELVEQAKSSQDVKGEEGSAAPDQHTHPKEAATDPPAPRTPPEPPGSPPSSP
+            PPASLGRPEGEEEGPAEPEEHSVRICMSPGPEPGEQILSVKMPEEREEKAE
+NTSEQ       3756
+            atgttgggctgggtccagagggtgctgcctcagcccccagggacccctcggaagaccaag
+            atgcaggaggaagaggaagtggaaccagagccagagatggaggcggaggtggaaccagaa
+            ccgaatcctgaggaggccgagacagagtccgagtccatgccccccgaagagtcattcaag
+            gaggaggaagtggctgtggcagacccaagccctcaggagaccaaggaggctgcccttact
+            tccaccatatccctccgggcccagggcgctgagatttctgaaatgaatagtcccagccgc
+            agggtactgacctggctcatgaagggcgtagagaaggtgatcccgcagcctgttcacagc
+            atcacggaggacccggctcagatcctggggcatggcagcactggggacacagggtgcaca
+            gatgaacccaatgaggcccttgaggcccaagacactaggcctgggctgcggctgcttctg
+            tggctggagcagaatctggaaagagtgcttcctcagccccccaaatcctctgaggtctgg
+            agagatgagcctgcagttgctacaggtgctgcctcagacccagcgcctccaggacgcccc
+            caggaaatggggcccaagctgcaggcccgggagaccccctccctgcccacacccatcccc
+            ctgcagcccaaggaggaacccaaggaggcaccagctccagagccccagcccggctcccag
+            gcccagacctcctccctgccaccaaccagggaccctgccaggctggtggcatgggtcctg
+            cacaggctggagatggccttgccgcagccagtgctacatgggaaaataggggaacaggag
+            cctgactcccctgggatatgtgatgtgcagaccatcagcatccttcctggaggacaagtg
+            gagcctgaccttgtcctagaggaggttgaaccgccctgggaggatgcccaccaggatgtc
+            agtaccagcccacagggtacagaggtggttccagcttatgaagaagagaacaaagctgtg
+            gagaagatgcccagagagctgtcccggattgaagaggagaaagaagatgaggaggaggaa
+            gaggaagaggaggaggaggaggaagaggaggaggtgactgaggtgctgctggatagctgt
+            gtggtgtcgcaggtgggcgtgggccagagtgaagaagacgggacccggccccagagcact
+            tcagatcagaagctgtgggaggaagttggggaggaggccaagaaggaggctgaagagaag
+            gccaaggaggaggccgaggaggtggctgaagaggaggctgaaaaggagccccaggactgg
+            gcggagaccaaggaggagcctgaggctgaggccgaggctgccagttcaggagtgcctgcc
+            acgaaacagcacccagaagtgcaggtggaagatactgatgctgatagctgccccctcatg
+            gcagaagagaatccaccctcaaccgtgttgccgccaccgtctcctgccaaatcagacacc
+            cttatagtcccaagctcagcctcggggacacacaggaagaagctgccctctgaggatgat
+            gaggctgaagagctcaaggcgttgtcaccagcagagtccccagtggttgcctggtctgac
+            cccaccaccccgaaggacactgatggccaggaccgtgcggcctccacggccagcacaaat
+            agcgccatcatcaacgaccggctccaggagctggtgaagctcttcaaggagcggacagag
+            aaagtgaaggagaaactcattgaccctgacgtcacctctgatgaggagagccccaagccc
+            tccccagccaagaaagccccagagccagctccagacacaaagcccgctgaagccgagcca
+            gtggaagaggagcactattgcgacatgctctgctgcaagttcaaacaccgcccctggaag
+            aagtaccagtttccccagagcattgacccgctgaccaacctgatgtatgtcctatggctg
+            ttcttcgtggtgatggcctggaattggaactgttggctgattcccgtgcgctgggccttc
+            ccctaccagaccccggacaacatccaccactggctgctgatggattacctatgcgacctc
+            atctacttcctggacatcaccgtgttccagacacgcctgcagtttgtcagaggcggggac
+            atcattacggacaaaaaggacatgcgaaataactacctgaagtctcgccgcttcaagatg
+            gacctgctcagcctcctgcccttggattttctctatttgaaagtcggtgtgaaccccctc
+            ctccgcctgccccgctgtttaaagtacatggccttcttcgagtttaacagccgcctggaa
+            tccatcctcagcaaagcctacgtgtacagggtcatcaggaccacagcctaccttctctac
+            agcctgcatttgaattcctgtctttattactgggcatcggcctatcagggcctcggctcc
+            actcactgggtttacgatggcgtgggaaacagttatattcgctgttactactttgctgtg
+            aagaccctcatcaccatcggggggctgcctgaccccaagacactctttgaaattgtcttc
+            cagctgctgaattatttcacgggcgtctttgctttctctgtgatgatcggacagatgaga
+            gatgtggtaggggccgccaccgccggacagacctactaccgcagctgcatggacagcacg
+            gtgaagtacatgaatttctacaagatccccaagtccgtgcagaaccgcgtcaagacctgg
+            tacgagtacacctggcactcgcaaggcatgctggatgagtcagagctgatggtgcagctt
+            ccagacaagatgcggctggacctcgccatcgacgtgaactacaacatcgttagcaaagtc
+            gcactctttcagggctgtgaccggcagatgatctttgacatgctgaagaggcttcgctct
+            gttgtctacctgcccaacgactatgtgtgcaagaagggggagatcggccgtgagatgtac
+            atcatccaggcagggcaagtgcaggtcttgggcggccctgatgggaaatctgtgctggtg
+            acgctgaaagctggatctgtgtttggagaaataagcttgctggctgttgggggcgggaac
+            cggcgcacggccaacgtggtggcgcacgggtttaccaacctcttcatcctggataagaag
+            gacctgaatgagattttggtgcattatcctgagtctcagaagttactccggaagaaagcc
+            aggcgcatgctgagaagcaacaataagcccaaggaggagaagagcgtgctgatccttcca
+            ccccgggcgggcaccccaaagctcttcaacgctgccctcgctatgacaggaaagatgggt
+            ggcaagggggcaaaaggcggcaaacttgctcacctccgggcccggctcaaagaactggcc
+            gcgctggaggcggctgcaaagcagcaagagttggtggaacaggccaagagctcgcaagac
+            gtcaagggagaggaaggctccgccgccccagaccagcacacgcacccaaaggaggccgcc
+            accgacccacccgcgccccggacgccccccgagcccccggggtctccaccgagctctcca
+            ccgcctgcctcccttgggaggccggagggagaggaggaggggccggccgagcccgaagag
+            cactcggtgaggatctgcatgagcccgggcccggagccgggagagcagatcctgtcggtg
+            aagatgccggaggaaagggaggagaaggcggagtaa
+///

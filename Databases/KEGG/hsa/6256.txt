@@ -1,0 +1,118 @@
+ENTRY       6256              CDS       T01001
+NAME        RXRA, NR2B1
+DEFINITION  (RefSeq) retinoid X receptor alpha
+ORTHOLOGY   K08524  retinoid X receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04976  Bile secretion
+            hsa05160  Hepatitis C
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05216  Thyroid cancer
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+DRUG_TARGET Alitretinoin: D02815
+            Bexarotene: D03106
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                6256 (RXRA)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                6256 (RXRA)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                6256 (RXRA)
+               03320 PPAR signaling pathway
+                6256 (RXRA)
+               04919 Thyroid hormone signaling pathway
+                6256 (RXRA)
+              Digestive system
+               04976 Bile secretion
+                6256 (RXRA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6256 (RXRA)
+               05202 Transcriptional misregulation in cancers
+                6256 (RXRA)
+               05216 Thyroid cancer
+                6256 (RXRA)
+               05222 Small cell lung cancer
+                6256 (RXRA)
+               05223 Non-small cell lung cancer
+                6256 (RXRA)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                6256 (RXRA)
+              Infectious diseases
+               05160 Hepatitis C
+                6256 (RXRA)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 hepatocyte nuclear factor 4-like
+                6256 (RXRA)
+            Nuclear receptors [BR:hsa03310]
+             2. Hepatocyte nuclear factor 4 like
+              2B. Retinoid X receptor (RXR)
+               6256 (RXRA)
+POSITION    9q34.2
+MOTIF       Pfam: Hormone_recep Nuc_recep-AF1 zf-C4
+DBLINKS     NCBI-GeneID: 6256
+            NCBI-ProteinID: NP_002948
+            OMIM: 180245
+            HGNC: 10477
+            Ensembl: ENSG00000186350
+            Vega: OTTHUMG00000020887
+            Pharos: P19793(Tclin)
+            UniProt: P19793 F1D8Q5 Q6P3U7
+STRUCTURE   PDB: 1DSZ 4ZSH 2P1T 4RMD 3E94 1MZN 1MV9 1MVC 2NLL 5JI0 4PP3
+                 4PP5 4POJ 4CN5 4K4J 3PCU 3FUG 1G5Y 4N8R 3OAP 3FC6 4CN2
+                 4K6I 3OZJ 3H0A 1FM6 1FM9 1BY4 4N5G 5LYQ 4M8H 2P1U 2P1V
+                 1FBY 5EC9 4RME 4POH 3KWY 1K74 4CN7 4CN3 3FAL 4RFW 4M8E
+                 1RDT 4OC7 1G1U 5TBP 3NSQ 1XVP 1R0N 4RMC 1XV9 1LBD 4J5W
+                 4J5X 3R5M 2ACL 3R29 3NSP 2ZY0 3UVV 1XLS 3R2A 2ZXZ 1YNW
+                 4NQA 3DZY 3E00 3DZU 4ZO1 1RXR
+AASEQ       462
+            MDTKHFLPLDFSTQVNSSLTSPTGRGSMAAPSLHPSLGPGIGSPGQLHSPISTLSSPING
+            MGPPFSVISSPMGPHSMSVPTTPTLGFSTGSPQLSSPMNPVSSSEDIKPPLGLNGVLKVP
+            AHPSGNMASFTKHICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLID
+            KRQRNRCQYCRYQKCLAMGMKREAVQEERQRGKDRNENEVESTSSANEDMPVERILEAEL
+            AVEPKTETYVEANMGLNPSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVIL
+            LRAGWNELLIASFSHRSIAVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDM
+            QMDKTELGCLRAIVLFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLL
+            RLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT
+NTSEQ       1389
+            atggacaccaaacatttcctgccgctcgatttctccacccaggtgaactcctccctcacc
+            tccccgacggggcgaggctccatggctgccccctcgctgcacccgtccctggggcctggc
+            atcggctccccgggacagctgcattctcccatcagcaccctgagctcccccatcaacggc
+            atgggcccgcctttctcggtcatcagctcccccatgggcccccactccatgtcggtgccc
+            accacacccaccctgggcttcagcactggcagcccccagctcagctcacctatgaacccc
+            gtcagcagcagcgaggacatcaagccccccctgggcctcaatggcgtcctcaaggtcccc
+            gcccacccctcaggaaacatggcttccttcaccaagcacatctgcgccatctgcggggac
+            cgctcctcaggcaagcactatggagtgtacagctgcgaggggtgcaagggcttcttcaag
+            cggacggtgcgcaaggacctgacctacacctgccgcgacaacaaggactgcctgattgac
+            aagcggcagcggaaccggtgccagtactgccgctaccagaagtgcctggccatgggcatg
+            aagcgggaagccgtgcaggaggagcggcagcgtggcaaggaccggaacgagaatgaggtg
+            gagtcgaccagcagcgccaacgaggacatgccggtggagaggatcctggaggctgagctg
+            gccgtggagcccaagaccgagacctacgtggaggcaaacatggggctgaaccccagctcg
+            ccgaacgaccctgtcaccaacatttgccaagcagccgacaaacagcttttcaccctggtg
+            gagtgggccaagcggatcccacacttctcagagctgcccctggacgaccaggtcatcctg
+            ctgcgggcaggctggaatgagctgctcatcgcctccttctcccaccgctccatcgccgtg
+            aaggacgggatcctcctggccaccgggctgcacgtccaccggaacagcgcccacagcgca
+            ggggtgggcgccatctttgacagggtgctgacggagcttgtgtccaagatgcgggacatg
+            cagatggacaagacggagctgggctgcctgcgcgccatcgtcctctttaaccctgactcc
+            aaggggctctcgaacccggccgaggtggaggcgctgagggagaaggtctatgcgtccttg
+            gaggcctactgcaagcacaagtacccagagcagccgggaaggttcgctaagctcttgctc
+            cgcctgccggctctgcgctccatcgggctcaaatgcctggaacatctcttcttcttcaag
+            ctcatcggggacacacccattgacaccttccttatggagatgctggaggcgccgcaccaa
+            atgacttag
+///

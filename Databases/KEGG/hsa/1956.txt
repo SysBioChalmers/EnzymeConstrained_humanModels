@@ -1,0 +1,297 @@
+ENTRY       1956              CDS       T01001
+NAME        EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA
+DEFINITION  (RefSeq) epidermal growth factor receptor
+ORTHOLOGY   K04361  epidermal growth factor receptor [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04540  Gap junction
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04912  GnRH signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05160  Hepatitis C
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05212  Pancreatic cancer
+            hsa05213  Endometrial cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05230  Central carbon metabolism in cancer
+            hsa05231  Choline metabolism in cancer
+DISEASE     H00014  Non-small cell lung cancer
+            H00016  Oral cancer
+            H00017  Esophageal cancer
+            H00018  Gastric cancer
+            H00022  Bladder cancer
+            H00028  Choriocarcinoma
+            H00030  Cervical cancer
+            H00042  Glioma
+            H00055  Laryngeal cancer
+            H01508  Salivary gland cancer
+            H01559  Oropharyngeal cancer
+DRUG_TARGET Afatinib (DG00717): D09724 D09733
+            Canertinib dihydrochloride: D03350
+            Cetuximab: D03455
+            Dacomitinib (DG01793): D09883 D10514
+            Erlotinib (DG00711): D04023 D07907
+            Gefitinib: D01977
+            Lapatinib (DG00715): D04024 D08108
+            Necitumumab: D10018
+            Neratinib (DG02303): D08950 D10898
+            Osimertinib: D10766
+            Panitumumab: D05350
+            Pelitinib: D05399
+            Rindopepimut: D09660
+            Vandetanib: D06407
+            Varlitinib (DG01357): D09689 D09690
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                1956 (EGFR)
+               04015 Rap1 signaling pathway
+                1956 (EGFR)
+               04010 MAPK signaling pathway
+                1956 (EGFR)
+               04012 ErbB signaling pathway
+                1956 (EGFR)
+               04066 HIF-1 signaling pathway
+                1956 (EGFR)
+               04068 FoxO signaling pathway
+                1956 (EGFR)
+               04020 Calcium signaling pathway
+                1956 (EGFR)
+               04072 Phospholipase D signaling pathway
+                1956 (EGFR)
+               04151 PI3K-Akt signaling pathway
+                1956 (EGFR)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                1956 (EGFR)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                1956 (EGFR)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                1956 (EGFR)
+               04520 Adherens junction
+                1956 (EGFR)
+               04540 Gap junction
+                1956 (EGFR)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                1956 (EGFR)
+             Organismal Systems
+              Endocrine system
+               04912 GnRH signaling pathway
+                1956 (EGFR)
+               04915 Estrogen signaling pathway
+                1956 (EGFR)
+               04921 Oxytocin signaling pathway
+                1956 (EGFR)
+               04926 Relaxin signaling pathway
+                1956 (EGFR)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1956 (EGFR)
+               05230 Central carbon metabolism in cancer
+                1956 (EGFR)
+               05231 Choline metabolism in cancer
+                1956 (EGFR)
+               05206 MicroRNAs in cancer
+                1956 (EGFR)
+               05205 Proteoglycans in cancer
+                1956 (EGFR)
+               05212 Pancreatic cancer
+                1956 (EGFR)
+               05214 Glioma
+                1956 (EGFR)
+               05218 Melanoma
+                1956 (EGFR)
+               05219 Bladder cancer
+                1956 (EGFR)
+               05215 Prostate cancer
+                1956 (EGFR)
+               05213 Endometrial cancer
+                1956 (EGFR)
+               05224 Breast cancer
+                1956 (EGFR)
+               05223 Non-small cell lung cancer
+                1956 (EGFR)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                1956 (EGFR)
+               05160 Hepatitis C
+                1956 (EGFR)
+               05165 Human papillomavirus infection
+                1956 (EGFR)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                1956 (EGFR)
+               01522 Endocrine resistance
+                1956 (EGFR)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 1956 (EGFR)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              EGFR family [OT]
+               1956 (EGFR)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of colorectal cancer cells
+               1956 (EGFR)
+              Exosomal proteins of pancreatic cancer cells
+               1956 (EGFR)
+              Exosomal proteins of bladder cancer cells
+               1956 (EGFR)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class I (EGF receptor family)
+               1956 (EGFR)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class I (EGF receptor family)
+               1956 (EGFR)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               6/5 subfamily
+                L1CAM; L1 cell adhesion molecule [KO:K06550]
+                 1956 (EGFR)
+POSITION    7p11.2
+MOTIF       Pfam: Pkinase_Tyr Recep_L_domain GF_recep_IV Pkinase Furin-like APH Kinase-like Haspin_kinase Kdo GAPT
+DBLINKS     NCBI-GeneID: 1956
+            NCBI-ProteinID: NP_005219
+            OMIM: 131550
+            HGNC: 3236
+            Ensembl: ENSG00000146648
+            Vega: OTTHUMG00000023661
+            Pharos: P00533(Tclin)
+            UniProt: P00533 Q504U8 F2YGG7
+STRUCTURE   PDB: 5UG9 5HG8 5UG8 3POZ 5HG5 5CNO 5UGC 5U8L 3W33 4I22 5GNK
+                 3W32 4I24 3P0Y 5UGA 5HG7 4WKQ 5CNN 4WRG 3W2S 4ZSE 2RGP
+                 3W2P 3W2R 5CAS 4UV7 5HG9 3W2Q 5CAU 3BEL 5D41 3VJN 3W2O
+                 5CAP 5C8N 1XKK 5HCY 2ITN 2ITV 5SX5 5J9Z 5CAQ 4RJ8 4LQM
+                 3UG2 2EB2 1MOX 5UGB 4RJ7 3B2U 5HIC 5HCX 5EDR 5CZI 5CAO
+                 2GS6 2GS7 1YY9 1M14 1M17 5HCZ 4LI5 3VJO 5FED 5EM5 4KRM
+                 2ITQ 5FEE 5CAL 4ZJV 4RJ6 4JR3 3LZB 2ITZ 5CAV 4JQ7 2ITT
+                 2ITP 4HJO 3UG1 3QWQ 5EM6 4RJ4 5SX4 5GMP 5J9Y 5EM8 5EDQ
+                 5CZH 5CAN 4ZAU 4JRV 4I23 4G5J 3GOP 2GS2 1NQL 5EM7 4KRP
+                 4JQ8 2EB3 5HIB 4KRL 2ITW 5EDP 5C8M 4R3P 3IKA 2RFE 4UIP
+                 3GT8 4RIY 2ITX 5C8K 4R5S 4I1Z 2J5F 4KRO 2JIU 4RJ5 4RIW
+                 4RIX 2JIT 2J5E 4G5P 4TKS 3C09 4R3R 2ITO 5JEB 4WD5 3NJP
+                 3B2V 1IVO 4I20 4I21 5FEQ 2ITY 2RF9 4LRM 2RFD 4LL0 5LV6
+                 2N5S 2M20 2M0B 2KS1 2JIV 2J6M 2ITU 1Z9I
+AASEQ       1210
+            MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV
+            VLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA
+            VLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF
+            QNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC
+            TGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV
+            VTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK
+            NCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF
+            ENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL
+            FGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN
+            LLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM
+            GENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV
+            ALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS
+            GAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI
+            CLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA
+            RNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY
+            GVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK
+            FRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ
+            QGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED
+            SIDDTFLPVPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLN
+            TVQPTCVNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRV
+            APQSSEFIGA
+NTSEQ       3633
+            atgcgaccctccgggacggccggggcagcgctcctggcgctgctggctgcgctctgcccg
+            gcgagtcgggctctggaggaaaagaaagtttgccaaggcacgagtaacaagctcacgcag
+            ttgggcacttttgaagatcattttctcagcctccagaggatgttcaataactgtgaggtg
+            gtccttgggaatttggaaattacctatgtgcagaggaattatgatctttccttcttaaag
+            accatccaggaggtggctggttatgtcctcattgccctcaacacagtggagcgaattcct
+            ttggaaaacctgcagatcatcagaggaaatatgtactacgaaaattcctatgccttagca
+            gtcttatctaactatgatgcaaataaaaccggactgaaggagctgcccatgagaaattta
+            caggaaatcctgcatggcgccgtgcggttcagcaacaaccctgccctgtgcaacgtggag
+            agcatccagtggcgggacatagtcagcagtgactttctcagcaacatgtcgatggacttc
+            cagaaccacctgggcagctgccaaaagtgtgatccaagctgtcccaatgggagctgctgg
+            ggtgcaggagaggagaactgccagaaactgaccaaaatcatctgtgcccagcagtgctcc
+            gggcgctgccgtggcaagtcccccagtgactgctgccacaaccagtgtgctgcaggctgc
+            acaggcccccgggagagcgactgcctggtctgccgcaaattccgagacgaagccacgtgc
+            aaggacacctgccccccactcatgctctacaaccccaccacgtaccagatggatgtgaac
+            cccgagggcaaatacagctttggtgccacctgcgtgaagaagtgtccccgtaattatgtg
+            gtgacagatcacggctcgtgcgtccgagcctgtggggccgacagctatgagatggaggaa
+            gacggcgtccgcaagtgtaagaagtgcgaagggccttgccgcaaagtgtgtaacggaata
+            ggtattggtgaatttaaagactcactctccataaatgctacgaatattaaacacttcaaa
+            aactgcacctccatcagtggcgatctccacatcctgccggtggcatttaggggtgactcc
+            ttcacacatactcctcctctggatccacaggaactggatattctgaaaaccgtaaaggaa
+            atcacagggtttttgctgattcaggcttggcctgaaaacaggacggacctccatgccttt
+            gagaacctagaaatcatacgcggcaggaccaagcaacatggtcagttttctcttgcagtc
+            gtcagcctgaacataacatccttgggattacgctccctcaaggagataagtgatggagat
+            gtgataatttcaggaaacaaaaatttgtgctatgcaaatacaataaactggaaaaaactg
+            tttgggacctccggtcagaaaaccaaaattataagcaacagaggtgaaaacagctgcaag
+            gccacaggccaggtctgccatgccttgtgctcccccgagggctgctggggcccggagccc
+            agggactgcgtctcttgccggaatgtcagccgaggcagggaatgcgtggacaagtgcaac
+            cttctggagggtgagccaagggagtttgtggagaactctgagtgcatacagtgccaccca
+            gagtgcctgcctcaggccatgaacatcacctgcacaggacggggaccagacaactgtatc
+            cagtgtgcccactacattgacggcccccactgcgtcaagacctgcccggcaggagtcatg
+            ggagaaaacaacaccctggtctggaagtacgcagacgccggccatgtgtgccacctgtgc
+            catccaaactgcacctacggatgcactgggccaggtcttgaaggctgtccaacgaatggg
+            cctaagatcccgtccatcgccactgggatggtgggggccctcctcttgctgctggtggtg
+            gccctggggatcggcctcttcatgcgaaggcgccacatcgttcggaagcgcacgctgcgg
+            aggctgctgcaggagagggagcttgtggagcctcttacacccagtggagaagctcccaac
+            caagctctcttgaggatcttgaaggaaactgaattcaaaaagatcaaagtgctgggctcc
+            ggtgcgttcggcacggtgtataagggactctggatcccagaaggtgagaaagttaaaatt
+            cccgtcgctatcaaggaattaagagaagcaacatctccgaaagccaacaaggaaatcctc
+            gatgaagcctacgtgatggccagcgtggacaacccccacgtgtgccgcctgctgggcatc
+            tgcctcacctccaccgtgcagctcatcacgcagctcatgcccttcggctgcctcctggac
+            tatgtccgggaacacaaagacaatattggctcccagtacctgctcaactggtgtgtgcag
+            atcgcaaagggcatgaactacttggaggaccgtcgcttggtgcaccgcgacctggcagcc
+            aggaacgtactggtgaaaacaccgcagcatgtcaagatcacagattttgggctggccaaa
+            ctgctgggtgcggaagagaaagaataccatgcagaaggaggcaaagtgcctatcaagtgg
+            atggcattggaatcaattttacacagaatctatacccaccagagtgatgtctggagctac
+            ggggtgactgtttgggagttgatgacctttggatccaagccatatgacggaatccctgcc
+            agcgagatctcctccatcctggagaaaggagaacgcctccctcagccacccatatgtacc
+            atcgatgtctacatgatcatggtcaagtgctggatgatagacgcagatagtcgcccaaag
+            ttccgtgagttgatcatcgaattctccaaaatggcccgagacccccagcgctaccttgtc
+            attcagggggatgaaagaatgcatttgccaagtcctacagactccaacttctaccgtgcc
+            ctgatggatgaagaagacatggacgacgtggtggatgccgacgagtacctcatcccacag
+            cagggcttcttcagcagcccctccacgtcacggactcccctcctgagctctctgagtgca
+            accagcaacaattccaccgtggcttgcattgatagaaatgggctgcaaagctgtcccatc
+            aaggaagacagcttcttgcagcgatacagctcagaccccacaggcgccttgactgaggac
+            agcatagacgacaccttcctcccagtgcctgaatacataaaccagtccgttcccaaaagg
+            cccgctggctctgtgcagaatcctgtctatcacaatcagcctctgaaccccgcgcccagc
+            agagacccacactaccaggacccccacagcactgcagtgggcaaccccgagtatctcaac
+            actgtccagcccacctgtgtcaacagcacattcgacagccctgcccactgggcccagaaa
+            ggcagccaccaaattagcctggacaaccctgactaccagcaggacttctttcccaaggaa
+            gccaagccaaatggcatctttaagggctccacagctgaaaatgcagaatacctaagggtc
+            gcgccacaaagcagtgaatttattggagcatga
+///

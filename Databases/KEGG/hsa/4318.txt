@@ -1,0 +1,136 @@
+ENTRY       4318              CDS       T01001
+NAME        MMP9, CLG4B, GELB, MANDP2, MMP-9
+DEFINITION  (RefSeq) matrix metallopeptidase 9
+ORTHOLOGY   K01403  matrix metalloproteinase-9 (gelatinase B) [EC:3.4.24.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa04915  Estrogen signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05161  Hepatitis B
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05219  Bladder cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00025  Penile cancer
+            H00479  Metaphyseal dysplasias
+DRUG_TARGET Batimastat: D03061
+            Ilomastat: D03793
+            Marimastat: D03795
+            Prinomastat: D03797
+            Rebimastat: D03800
+            Tanomastat: D03802
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                4318 (MMP9)
+             Organismal Systems
+              Immune system
+               04657 IL-17 signaling pathway
+                4318 (MMP9)
+               04670 Leukocyte transendothelial migration
+                4318 (MMP9)
+              Endocrine system
+               04915 Estrogen signaling pathway
+                4318 (MMP9)
+               04926 Relaxin signaling pathway
+                4318 (MMP9)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4318 (MMP9)
+               05202 Transcriptional misregulation in cancers
+                4318 (MMP9)
+               05206 MicroRNAs in cancer
+                4318 (MMP9)
+               05205 Proteoglycans in cancer
+                4318 (MMP9)
+               05219 Bladder cancer
+                4318 (MMP9)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                4318 (MMP9)
+              Infectious diseases
+               05161 Hepatitis B
+                4318 (MMP9)
+              Drug resistance
+               01522 Endocrine resistance
+                4318 (MMP9)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.35  gelatinase B
+                 4318 (MMP9)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M10
+               4318 (MMP9)
+POSITION    20q13.12
+MOTIF       Pfam: Peptidase_M10 fn2 Hemopexin PG_binding_1 PT Reprolysin_4 Reprolysin_3 DUF4953 Peptidase_M66
+DBLINKS     NCBI-GeneID: 4318
+            NCBI-ProteinID: NP_004985
+            OMIM: 120361
+            HGNC: 7176
+            Ensembl: ENSG00000100985
+            Vega: OTTHUMG00000033044
+            Pharos: P14780(Tchem)
+            UniProt: P14780
+STRUCTURE   PDB: 4XCT 5I12 4H1Q 4WZV 5TH6 4JIJ 4H3X 5CUH 4JQG 4H82 4HMA
+                 1ITV 2OVX 2OVZ 2OW0 2OW1 1GKC 1L6J 4H2E 2OW2 5TH9 1GKD
+AASEQ       707
+            MSLWQPLVLVLLVLGCCFAAPRQRQSTLVLFPGDLRTNLTDRQLAEEYLYRYGYTRVAEM
+            RGESKSLGPALLLLQKQLSLPETGELDSATLKAMRTPRCGVPDLGRFQTFEGDLKWHHHN
+            ITYWIQNYSEDLPRAVIDDAFARAFALWSAVTPLTFTRVYSRDADIVIQFGVAEHGDGYP
+            FDGKDGLLAHAFPPGPGIQGDAHFDDDELWSLGKGVVVPTRFGNADGAACHFPFIFEGRS
+            YSACTTDGRSDGLPWCSTTANYDTDDRFGFCPSERLYTQDGNADGKPCQFPFIFQGQSYS
+            ACTTDGRSDGYRWCATTANYDRDKLFGFCPTRADSTVMGGNSAGELCVFPFTFLGKEYST
+            CTSEGRGDGRLWCATTSNFDSDKKWGFCPDQGYSLFLVAAHEFGHALGLDHSSVPEALMY
+            PMYRFTEGPPLHKDDVNGIRHLYGPRPEPEPRPPTTTTPQPTAPPTVCPTGPPTVHPSER
+            PTAGPTGPPSAGPTGPPTAGPSTATTVPLSPVDDACNVNIFDAIAEIGNQLYLFKDGKYW
+            RFSEGRGSRPQGPFLIADKWPALPRKLDSVFEERLSKKLFFFSGRQVWVYTGASVLGPRR
+            LDKLGLGADVAQVTGALRSGRGKMLLFSGRRLWRFDVKAQMVDPRSASEVDRMFPGVPLD
+            THDVFQYREKAYFCQDRFYWRVSSRSELNQVDQVGYVTYDILQCPED
+NTSEQ       2124
+            atgagcctctggcagcccctggtcctggtgctcctggtgctgggctgctgctttgctgcc
+            cccagacagcgccagtccacccttgtgctcttccctggagacctgagaaccaatctcacc
+            gacaggcagctggcagaggaatacctgtaccgctatggttacactcgggtggcagagatg
+            cgtggagagtcgaaatctctggggcctgcgctgctgcttctccagaagcaactgtccctg
+            cccgagaccggtgagctggatagcgccacgctgaaggccatgcgaaccccacggtgcggg
+            gtcccagacctgggcagattccaaacctttgagggcgacctcaagtggcaccaccacaac
+            atcacctattggatccaaaactactcggaagacttgccgcgggcggtgattgacgacgcc
+            tttgcccgcgccttcgcactgtggagcgcggtgacgccgctcaccttcactcgcgtgtac
+            agccgggacgcagacatcgtcatccagtttggtgtcgcggagcacggagacgggtatccc
+            ttcgacgggaaggacgggctcctggcacacgcctttcctcctggccccggcattcaggga
+            gacgcccatttcgacgatgacgagttgtggtccctgggcaagggcgtcgtggttccaact
+            cggtttggaaacgcagatggcgcggcctgccacttccccttcatcttcgagggccgctcc
+            tactctgcctgcaccaccgacggtcgctccgacggcttgccctggtgcagtaccacggcc
+            aactacgacaccgacgaccggtttggcttctgccccagcgagagactctacacccaggac
+            ggcaatgctgatgggaaaccctgccagtttccattcatcttccaaggccaatcctactcc
+            gcctgcaccacggacggtcgctccgacggctaccgctggtgcgccaccaccgccaactac
+            gaccgggacaagctcttcggcttctgcccgacccgagctgactcgacggtgatggggggc
+            aactcggcgggggagctgtgcgtcttccccttcactttcctgggtaaggagtactcgacc
+            tgtaccagcgagggccgcggagatgggcgcctctggtgcgctaccacctcgaactttgac
+            agcgacaagaagtggggcttctgcccggaccaaggatacagtttgttcctcgtggcggcg
+            catgagttcggccacgcgctgggcttagatcattcctcagtgccggaggcgctcatgtac
+            cctatgtaccgcttcactgaggggccccccttgcataaggacgacgtgaatggcatccgg
+            cacctctatggtcctcgccctgaacctgagccacggcctccaaccaccaccacaccgcag
+            cccacggctcccccgacggtctgccccaccggaccccccactgtccacccctcagagcgc
+            cccacagctggccccacaggtcccccctcagctggccccacaggtccccccactgctggc
+            ccttctacggccactactgtgcctttgagtccggtggacgatgcctgcaacgtgaacatc
+            ttcgacgccatcgcggagattgggaaccagctgtatttgttcaaggatgggaagtactgg
+            cgattctctgagggcagggggagccggccgcagggccccttccttatcgccgacaagtgg
+            cccgcgctgccccgcaagctggactcggtctttgaggagcggctctccaagaagcttttc
+            ttcttctctgggcgccaggtgtgggtgtacacaggcgcgtcggtgctgggcccgaggcgt
+            ctggacaagctgggcctgggagccgacgtggcccaggtgaccggggccctccggagtggc
+            agggggaagatgctgctgttcagcgggcggcgcctctggaggttcgacgtgaaggcgcag
+            atggtggatccccggagcgccagcgaggtggaccggatgttccccggggtgcctttggac
+            acgcacgacgtcttccagtaccgagagaaagcctatttctgccaggaccgcttctactgg
+            cgcgtgagttcccggagtgagttgaaccaggtggaccaagtgggctacgtgacctatgac
+            atcctgcagtgccctgaggactag
+///

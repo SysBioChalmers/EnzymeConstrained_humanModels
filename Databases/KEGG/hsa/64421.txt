@@ -1,0 +1,89 @@
+ENTRY       64421             CDS       T01001
+NAME        DCLRE1C, A-SCID, DCLREC1C, RS-SCID, SCIDA, SNM1C
+DEFINITION  (RefSeq) DNA cross-link repair 1C
+ORTHOLOGY   K10887  DNA cross-link repair 1C protein [EC:3.1.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03450  Non-homologous end-joining
+            hsa05340  Primary immunodeficiency
+DISEASE     H00092  T-B-Severe combined immunodeficiencies (SCIDs)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03450 Non-homologous end-joining
+                64421 (DCLRE1C)
+             Human Diseases
+              Immune diseases
+               05340 Primary immunodeficiency
+                64421 (DCLRE1C)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 64421 (DCLRE1C)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                Other NHEJ factors
+                 64421 (DCLRE1C)
+POSITION    10p13
+MOTIF       Pfam: DRMBL Lactamase_B_2 Lactamase_B DUF3290
+DBLINKS     NCBI-GeneID: 64421
+            NCBI-ProteinID: NP_001029027
+            OMIM: 605988
+            HGNC: 17642
+            Ensembl: ENSG00000152457
+            Vega: OTTHUMG00000017716
+            Pharos: Q96SD1(Tbio)
+            UniProt: Q96SD1
+AASEQ       692
+            MSSFEGQMAEYPTISIDRFDRENLRARAYFLSHCHKDHMKGLRAPTLKRRLECSLKVYLY
+            CSPVTKELLLTSPKYRFWKKRIISIEIETPTQISLVDEASGEKEEIVVTLLPAGHCPGSV
+            MFLFQGNNGTVLYTGDFRLAQGEAARMELLHSGGRVKDIQSVYLDTTFCDPRFYQIPSRE
+            ECLSGVLELVRSWITRSPYHVVWLNCKAAYGYEYLFTNLSEELGVQVHVNKLDMFRNMPE
+            ILHHLTTDRNTQIHACRHPKAEEYFQWSKLPCGITSRNRIPLHIISIKPSTMWFGERSRK
+            TNVIVRTGESSYRACFSFHSSYSEIKDFLSYLCPVNAYPNVIPVGTTMDKVVEILKPLCR
+            SSQSTEPKYKPLGKLKRARTVHRDSEEEDDYLFDDPLPIPLRHKVPYPETFHPEVFSMTA
+            VSEKQPEKLRQTPGCCRAECMQSSRFTNFVDCEESNSESEEEVGIPASLQGDLGSVLHLQ
+            KADGDVPQWEVFFKRNDEITDESLENFPSSTVAGGSQSPKLFSDSDGESTHISSQNSSQS
+            THITEQGSQGWDSQSDTVLLSSQERNSGDITSLDKADYRPTIKENIPASLMEQNVICPKD
+            TYSDLKSRDKDVTIVPSTGEPTTLSSETHIPEEKSLLNLSTNADSQSSSDFEVPSTPEAE
+            LPKREHLQYLYEKLATGESIAVKKRKCSLLDT
+NTSEQ       2079
+            atgagttctttcgaggggcagatggccgagtatccaactatctccatagaccgcttcgat
+            agggagaacctgagggcccgcgcctacttcctgtcccactgccacaaagatcacatgaaa
+            ggattaagagcccctaccttgaaaagaaggttggagtgcagcttgaaggtttatctatac
+            tgttcacctgtgactaaggagttgttgttaacgagcccgaaatacagattttggaagaaa
+            cgaattatatctattgaaatcgagactcctacccagatatctttagtggatgaagcatca
+            ggagagaaggaagagattgttgtgactctcttaccagctggtcactgtccgggatcagtt
+            atgtttttatttcagggcaataatggaactgtcctgtacacaggagacttcagattggcg
+            caaggagaagctgctagaatggagcttctgcactccgggggcagagtcaaagacatccaa
+            agtgtatatttggatactacgttctgtgatccaagattttaccaaattccaagtcgggag
+            gagtgtttaagtggagtcttagagctggtccgaagctggatcactcggagcccgtaccat
+            gttgtgtggctgaactgcaaagcggcttatggctatgaatatctgttcaccaaccttagt
+            gaagaattaggagtccaggttcatgtgaataagctagacatgtttaggaacatgcctgag
+            atccttcatcatctcacaacagaccgcaacactcagatccatgcatgccggcatcccaag
+            gcagaggaatattttcagtggagcaaattaccctgtggaattacttccagaaatagaatt
+            ccactccacataatcagcattaagccatccaccatgtggtttggagaaaggagcagaaaa
+            acaaatgtaattgtgaggactggagagagttcatacagagcttgtttttcttttcactcc
+            tcctacagtgagattaaagatttcttgagctacctctgtcctgtgaacgcatatccaaat
+            gtcattccagttggcacaactatggataaagttgtcgaaatcttaaagcctttatgccgg
+            tcttcccaaagtacggagccaaagtataaaccactgggaaaactgaagagagctagaaca
+            gttcaccgagactcagaggaggaagatgactatctctttgatgatcctctgccaatacct
+            ttaaggcacaaagttccatacccggaaacttttcaccctgaggtattttcaatgactgca
+            gtatcagaaaagcagcctgaaaaactgagacaaaccccaggatgctgcagagcagagtgt
+            atgcagagctctcgtttcacaaactttgtagattgtgaagaatccaacagtgaaagtgaa
+            gaagaagtaggaatcccagcttcactgcaaggagatctgggctctgtacttcacctgcaa
+            aaggctgatggggatgtaccccagtgggaagtattctttaaaagaaatgatgaaatcaca
+            gatgagagtttggaaaacttcccttcctccacagtggcagggggatctcagtcaccaaag
+            cttttcagtgactctgatggagaatcaactcacatctcctcccagaattcttcccagtca
+            acacacataacagaacaaggaagtcaaggctgggacagccaatctgatactgttttgtta
+            tcttcccaagagagaaacagtggggatattacttccttggacaaagctgactacagacca
+            acaatcaaagagaatattcctgcctctctcatggaacaaaatgtaatttgcccaaaggat
+            acttactctgatttgaaaagcagagataaagatgtgacaatagttcctagtactggagaa
+            ccaactactctaagcagtgagacacatatacccgaggaaaaaagtttgctaaatcttagc
+            acaaatgcagattcccagagctcttctgattttgaagttccctcaactccagaagctgag
+            ttacctaaacgagagcatttacaatatttatatgagaagctggcaactggtgagagtata
+            gcagtcaaaaaaagaaaatgctcactcttagatacctaa
+///

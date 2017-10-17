@@ -1,0 +1,55 @@
+ENTRY       11164             CDS       T01001
+NAME        NUDT5, YSA1, YSA1H, YSAH1, hNUDT5
+DEFINITION  (RefSeq) nudix hydrolase 5
+ORTHOLOGY   K13987  ADP-sugar pyrophosphatase / 8-oxo-dGDP phosphatase / ADP-D-ribose pyrophosphorylase [EC:3.6.1.13 3.6.1.58 3.6.1.- 2.7.7.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                11164 (NUDT5)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.96  ADP-D-ribose pyrophosphorylase
+                 11164 (NUDT5)
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.13  ADP-ribose diphosphatase
+                 11164 (NUDT5)
+                3.6.1.58  8-oxo-dGDP phosphatase
+                 11164 (NUDT5)
+                3.6.1.-  
+                 11164 (NUDT5)
+POSITION    10p14
+MOTIF       Pfam: NUDIX PP1
+DBLINKS     NCBI-GeneID: 11164
+            NCBI-ProteinID: NP_054861
+            OMIM: 609230
+            HGNC: 8052
+            Ensembl: ENSG00000165609
+            Vega: OTTHUMG00000017682
+            Pharos: Q9UKK9(Tbio)
+            UniProt: Q9UKK9
+STRUCTURE   PDB: 3BM4 2DSC 3ACA 3AC9 3L85 2DSB 2DSD
+AASEQ       219
+            MESQEPTESSQNGKQYIISEELISEGKWVKLEKTTYMDPTGKTRTWESVKRTTRKEQTAD
+            GVAVIPVLQRTLHYECIVLVKQFRPPMGGYCIEFPAGLIDDGETPEAAALRELEEETGYK
+            GDIAECSPAVCMDPGLSNCTIHIVTVTINGDDAENARPKPKPGDGEFVEVISLPKNDLLQ
+            RLDALVAEEHLTVDARVYSYALALKHANAKPFEVPFLKF
+NTSEQ       660
+            atggagagccaagaaccaacggaatcttctcagaatggcaaacagtatatcatttcagag
+            gagttaatttcagaaggaaaatgggtcaagcttgaaaaaacaacgtacatggatcctact
+            ggtaaaactagaacttgggaatcagtgaaacgtacaaccaggaaagagcagactgcggat
+            ggtgtcgcggtcatccccgtgctgcagagaacacttcactatgagtgtatcgttctggtg
+            aaacagttccgaccaccaatggggggctactgcatagagttccctgcaggtctcatagat
+            gatggtgaaaccccagaagcagctgctctccgggagcttgaagaagaaactggctacaaa
+            ggggacattgccgaatgttctccagcggtctgtatggacccaggcttgtcaaactgtact
+            atacacatcgtgacagtcaccattaacggagatgatgccgaaaacgcaaggccgaagcca
+            aagccaggggatggagagtttgtggaagtcatttctttacccaagaatgacctgctgcag
+            agacttgatgctctggtagctgaagaacatctcacagtggacgccagggtctattcctac
+            gctctagcactgaaacatgcaaatgcaaagccatttgaagtgcccttcttgaaattttaa
+///

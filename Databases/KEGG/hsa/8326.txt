@@ -1,0 +1,111 @@
+ENTRY       8326              CDS       T01001
+NAME        FZD9, CD349, FZD3
+DEFINITION  (RefSeq) frizzled class receptor 9
+ORTHOLOGY   K02842  frizzled 9/10
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+DISEASE     H01439  Williams-Beuren syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                8326 (FZD9)
+               04390 Hippo signaling pathway
+                8326 (FZD9)
+               04150 mTOR signaling pathway
+                8326 (FZD9)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                8326 (FZD9)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                8326 (FZD9)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                8326 (FZD9)
+               05205 Proteoglycans in cancer
+                8326 (FZD9)
+               05217 Basal cell carcinoma
+                8326 (FZD9)
+               05224 Breast cancer
+                8326 (FZD9)
+              Infectious diseases
+               05166 HTLV-I infection
+                8326 (FZD9)
+               05165 Human papillomavirus infection
+                8326 (FZD9)
+            G protein-coupled receptors [BR:hsa04030]
+             Others
+              Wnt signaling
+               Frizzled / Smoothened family
+                8326 (FZD9)
+            CD molecules [BR:hsa04090]
+             Proteins
+              8326 (FZD9)
+POSITION    7q11.23
+MOTIF       Pfam: Frizzled Fz Dicty_CAR
+DBLINKS     NCBI-GeneID: 8326
+            NCBI-ProteinID: NP_003499
+            OMIM: 601766
+            HGNC: 4047
+            Ensembl: ENSG00000188763
+            Vega: OTTHUMG00000023051
+            Pharos: O00144(Tbio)
+            UniProt: O00144
+AASEQ       591
+            MAVAPLRGALLLWQLLAAGGAALEIGRFDPERGRGAAPCQAVEIPMCRGIGYNLTRMPNL
+            LGHTSQGEAAAELAEFAPLVQYGCHSHLRFFLCSLYAPMCTDQVSTPIPACRPMCEQARL
+            RCAPIMEQFNFGWPDSLDCARLPTRNDPHALCMEAPENATAGPAEPHKGLGMLPVAPRPA
+            RPPGDLGPGAGGSGTCENPEKFQYVEKSRSCAPRCGPGVEVFWSRRDKDFALVWMAVWSA
+            LCFFSTAFTVLTFLLEPHRFQYPERPIIFLSMCYNVYSLAFLIRAVAGAQSVACDQEAGA
+            LYVIQEGLENTGCTLVFLLLYYFGMASSLWWVVLTLTWFLAAGKKWGHEAIEAHGSYFHM
+            AAWGLPALKTIVILTLRKVAGDELTGLCYVASTDAAALTGFVLVPLSGYLVLGSSFLLTG
+            FVALFHIRKIMKTGGTNTEKLEKLMVKIGVFSILYTVPATCVIVCYVYERLNMDFWRLRA
+            TEQPCAAAAGPGGRRDCSLPGGSVPTVAVFMLKIFMSLVVGITSGVWVWSSKTFQTWQSL
+            CYRKIAAGRARAKACRAPGSYGRGTHCHYKAPTVVLHMTKTDPSLENPTHL
+NTSEQ       1776
+            atggccgtggcgcctctgcggggggcgctgctgctgtggcagctgctggcggcgggcggc
+            gcggcactggagatcggccgcttcgacccggagcgcgggcgcggggctgcgccgtgccag
+            gcggtggagatccccatgtgccgcggcatcggctacaacctgacccgcatgcccaacctg
+            ctgggccacacgtcgcagggcgaggcggctgccgagctagcggagttcgcgccgctggtg
+            cagtacggctgccacagccacctgcgcttcttcctgtgctcgctctacgcgcccatgtgc
+            accgaccaggtctcgacgcccattcccgcctgccggcccatgtgcgagcaggcgcgcctg
+            cgctgcgcgcccatcatggagcagttcaacttcggctggccggactcgctcgactgcgcc
+            cggctgcccacgcgcaacgacccgcacgcgctgtgcatggaggcgcccgagaacgccacg
+            gccggccccgcggagccccacaagggcctgggcatgctgcccgtggcgccgcggcccgcg
+            cgccctcccggagacctgggcccgggcgcgggcggcagtggcacctgcgagaaccccgag
+            aagttccagtacgtggagaagagccgctcgtgcgcaccgcgctgcgggcccggcgtcgag
+            gtgttctggtcccggcgcgacaaggacttcgcgctggtctggatggccgtgtggtcggcg
+            ctgtgcttcttctccaccgccttcactgtgctcaccttcttgctggagccccaccgcttc
+            cagtaccccgagcgccccatcatcttcctctccatgtgctacaacgtctactcgctggcc
+            ttcctgatccgtgcggtggccggagcgcagagcgtggcctgtgaccaggaggcgggcgcg
+            ctctacgtgatccaggagggcctggagaacacgggctgcacgctggtcttcctactgctc
+            tactacttcggcatggccagctcgctctggtgggtggtcctgacgctcacctggttcctg
+            gctgccgggaagaaatggggccacgaggccatcgaggcccacggcagctatttccacatg
+            gctgcctggggcctgcccgcgctcaagaccatcgtcatcctgaccctgcgcaaggtggcg
+            ggtgatgagctgactgggctttgctacgtggccagcacggatgcagcagcgctcacgggc
+            ttcgtgctggtgcccctctctggctacctggtgctgggcagtagtttcctcctgaccggc
+            ttcgtggccctcttccacatccgcaagatcatgaagacgggcggcaccaacacagagaag
+            ctggagaagctcatggtcaagatcggggtcttctccatcctctacacggtgcccgccacc
+            tgcgtcatcgtttgctatgtctacgaacgcctcaacatggacttctggcgccttcgggcc
+            acagagcagccatgcgcagcggccgcggggcccggaggccggagggactgctcgctgcca
+            gggggctcggtgcccaccgtggcggtcttcatgctcaaaattttcatgtcactggtggtg
+            gggatcaccagcggcgtctgggtgtggagctccaagactttccagacctggcagagcctg
+            tgctaccgcaagatagcagctggccgggcccgggccaaggcctgccgcgcccccgggagc
+            tacggacgtggcacgcactgccactataaggctcccaccgtggtcttgcacatgactaag
+            acggacccctctttggagaaccccacacacctctag
+///

@@ -1,0 +1,92 @@
+ENTRY       64419             CDS       T01001
+NAME        MTMR14, C3orf29
+DEFINITION  (RefSeq) myotubularin related protein 14
+ORTHOLOGY   K18086  myotubularin-related protein 14 [EC:3.1.3.64 3.1.3.95]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04140  Autophagy - animal
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                64419 (MTMR14)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                64419 (MTMR14)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                64419 (MTMR14)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.64  phosphatidylinositol-3-phosphatase
+                 64419 (MTMR14)
+                3.1.3.95  phosphatidylinositol-3,5-bisphosphate 3-phosphatase
+                 64419 (MTMR14)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class I PTPs (Dual specificity phosphatases)
+               Myotubularins
+                64419 (MTMR14)
+POSITION    3p25.3
+MOTIF       Pfam: Myotub-related Y_phosphatase3 Y_phosphatase
+DBLINKS     NCBI-GeneID: 64419
+            NCBI-ProteinID: NP_001070993
+            OMIM: 611089
+            HGNC: 26190
+            Ensembl: ENSG00000163719
+            Vega: OTTHUMG00000155111
+            Pharos: Q8NCE2(Tbio)
+            UniProt: Q8NCE2
+AASEQ       650
+            MAGARAAAAAASAGSSASSGNQPPQELGLGELLEEFSRTQYRAKDGSGTGGSKVERIEKR
+            CLELFGRDYCFSVIPNTNGDICGHYPRHIVFLEYESSEKEKDTFESTVQVSKLQDLIHRS
+            KMARCRGRFVCPVILFKGKHICRSATLAGWGELYGRSGYNYFFSGGADDAWADVEDVTEE
+            DCALRSGDTHLFDKVRGYDIKLLRYLSVKYICDLMVENKKVKFGMNVTSSEKVDKAQRYA
+            DFTLLSIPYPGCEFFKEYKDRDYMAEGLIFNWKQDYVDAPLSIPDFLTHSLNIDWSQYQC
+            WDLVQQTQNYLKLLLSLVNSDDDSGLLVHCISGWDRTPLFISLLRLSLWADGLIHTSLKP
+            TEILYLTVAYDWFLFGHMLVDRLSKGEEIFFFCFNFLKHITSEEFSALKTQRRKSLPARD
+            GGFTLEDICMLRRKDRGSTTSLGSDFSLVMESSPGATGSFTYEAVELVPAGAPTQAAWRK
+            SHSSSPQSVLWNRPQPSEDRLPSQQGLAEARSSSSSSSNHSDNFFRMGSSPLEVPKPRSV
+            DHPLPGSSLSTDYGSWQMVTGCGSIQERAVLHTDSSLPFSFPDELPNSCLLAALSDRETR
+            LQEVRSAFLAAYSSTVGLRAVAPSPSGAIGGLLEQFARGVGLRSISSNAL
+NTSEQ       1953
+            atggccggcgctcgggccgccgccgccgctgcctcggcggggtcctcggcctcttcaggc
+            aaccagccgcctcaggagctggggcttggggagctgctggaggagttctcccggactcag
+            taccgggccaaggatggcagcgggaccggcggctctaaggttgagcgcattgagaagaga
+            tgtctggagctgtttggccgagactactgtttcagcgtgattccaaacacgaatggggat
+            atctgtggccactatccccggcacatcgtgttcctggagtatgagagttctgagaaggag
+            aaagacacgtttgagagtaccgtacaggtgagcaagttgcaagacctcatccaccgcagc
+            aagatggcccggtgcagaggacggtttgtctgcccagtaatcctgttcaagggcaagcac
+            atttgcaggtcggccacactggctggatggggagagctgtatggacgctcaggctacaac
+            tattttttctcagggggtgcagatgatgcctgggcagatgtggaggacgtcacggaggag
+            gactgtgctcttcgaagtggtgacacgcatctttttgataaggtcagaggctatgacatc
+            aagctgcttcgatacctgtcagtcaaatacatctgtgacctgatggtggagaacaagaag
+            gtgaagtttggcatgaatgtaacctcctctgagaaggtggacaaagcccagcgctatgcc
+            gacttcactctcctctccatcccgtatccaggctgtgaatttttcaaggaatataaagat
+            cgggattacatggcagaagggctcatatttaactggaagcaggactacgttgatgcccca
+            ttgagcatccccgacttcctgactcactctctgaacattgactggagccagtatcagtgt
+            tgggatctggtgcaacaaacacaaaactacctgaagctgctgctttccttagttaacagt
+            gatgatgacagcgggctgctggtacactgtatctcaggctgggatcggacccccctcttc
+            atctccctcctgcgcctttccttgtgggctgatgggctcatccacacgtccctgaagccc
+            actgagatcctctacctcactgtggcctatgactggttcctcttcgggcacatgttggta
+            gatcggctcagcaaaggggaggagattttcttcttctgcttcaattttttgaagcatatt
+            acctccgaggagttctctgctctgaagacccagaggaggaagagtttgccagcccgggat
+            ggaggcttcaccctggaagacatctgcatgctgagacgaaaggaccgtggcagcaccacc
+            agccttggcagcgacttctccctggtcatggagagttccccaggagccactgggagcttc
+            acctatgaggccgtggagctggtcccagcaggagcgccaactcaggcagcttggaggaag
+            agccactcatcctctccacagagtgtcctctggaaccggccacaaccctcagaggaccgc
+            ttgccttcccagcaggggctggcggaagccaggtcttccagctcctcttcctcaaaccat
+            tctgataactttttcaggatgggtagcagtcccctggaggtccccaaacccagatcagtg
+            gaccatcccctgcccggatcctctctctccacagactatggcagctggcagatggtaacg
+            ggctgtggcagtattcaggagcgggctgtcctgcacacagactcctctctccctttcagc
+            ttcccggatgagctccctaacagttgtctgcttgcagccctgagtgatcgagagactcgg
+            ctgcaggaggtgcgctcagccttcttggctgcgtacagcagcacagtggggcttcgggca
+            gtagcccccagtccttccggtgccatcgggggcctgctggagcaatttgcccgtggtgtt
+            ggactccggagcatcagcagcaatgccttgtga
+///

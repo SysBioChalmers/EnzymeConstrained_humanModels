@@ -1,0 +1,77 @@
+ENTRY       1621              CDS       T01001
+NAME        DBH, DBM
+DEFINITION  (RefSeq) dopamine beta-hydroxylase
+ORTHOLOGY   K00503  dopamine beta-monooxygenase [EC:1.14.17.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline
+DISEASE     H01005  Dopamine beta-hydroxylase deficiency
+DRUG_TARGET Nepicastat hydrochloride: D03787
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                1621 (DBH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.17  With reduced ascorbate as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.17.1  dopamine beta-monooxygenase
+                 1621 (DBH)
+POSITION    9q34.2
+MOTIF       Pfam: Cu2_monoox_C Cu2_monooxygen DOMON
+DBLINKS     NCBI-GeneID: 1621
+            NCBI-ProteinID: NP_000778
+            OMIM: 609312
+            HGNC: 2689
+            Ensembl: ENSG00000123454
+            Vega: OTTHUMG00000020878
+            Pharos: P09172(Tchem)
+            UniProt: P09172
+STRUCTURE   PDB: 4ZEL
+AASEQ       617
+            MPALSRWASLPGPSMREAAFMYSTAVAIFLVILVAALQGSAPRESPLPYHIPLDPEGSLE
+            LSWNVSYTQEAIHFQLLVRRLKAGVLFGMSDRGELENADLVVLWTDGDTAYFADAWSDQK
+            GQIHLDPQQDYQLLQVQRTPEGLTLLFKRPFGTCDPKDYLIEDGTVHLVYGILEEPFRSL
+            EAINGSGLQMGLQRVQLLKPNIPEPELPSDACTMEVQAPNIQIPSQETTYWCYIKELPKG
+            FSRHHIIKYEPIVTKGNEALVHHMEVFQCAPEMDSVPHFSGPCDSKMKPDRLNYCRHVLA
+            AWALGAKAFYYPEEAGLAFGGPGSSRYLRLEVHYHNPLVIEGRNDSSGIRLYYTAKLRRF
+            NAGIMELGLVYTPVMAIPPRETAFILTGYCTDKCTQLALPPSGIHIFASQLHTHLTGRKV
+            VTVLVRDGREWEIVNQDNHYSPHFQEIRMLKKVVSVHPGDVLITSCTYNTEDRELATVGG
+            FGILEEMCVNYVHYYPQTQLELCKSAVDAGFLQKYFHLINRFNNEDVCTCPQASVSQQFT
+            SVPWNSFNRDVLKALYSFAPISMHCNKSSAVRFQGEWNLQPLPKVISTLEEPTPQCPTSQ
+            GRSPAGPTVVSIGGGKG
+NTSEQ       1854
+            atgcccgccctcagtcgctgggccagcctgcccggccccagcatgcgggaggcagccttc
+            atgtacagcacagcagtggccatcttcctggtcatcctggtggccgcactgcagggctcg
+            gctccccgtgagagccccctcccctatcacatccccctggacccggaggggtccctggag
+            ctctcatggaatgtcagctacacccaggaggccatccatttccagctcctggtgcggagg
+            ctcaaggctggcgtcctgtttgggatgtccgaccgtggcgagcttgagaacgcagatctc
+            gtggtgctctggaccgatggggacactgcctattttgcggacgcctggagtgaccagaag
+            gggcagatccacctggatccccagcaggactaccagctgctgcaggtgcagaggacccca
+            gaaggcctgaccctgcttttcaagaggccctttggcacctgcgaccccaaggattacctc
+            attgaagacggcactgtccacttggtctacgggatcctggaggagccgttccggtcactg
+            gaggccatcaacggctcgggcctgcagatggggctgcagagggtgcagctcctgaagccc
+            aatatccccgaaccggagttgccctcagacgcgtgcaccatggaggtccaagctcccaat
+            atccagatccccagccaggagaccacgtactggtgctacattaaggagcttccaaagggc
+            ttctctcggcaccacattatcaagtacgagcccatcgtcaccaagggcaatgaggccctt
+            gtccaccacatggaagtcttccagtgcgcccccgagatggacagcgtcccccacttcagc
+            gggccctgcgactccaagatgaaacccgaccgcctcaactactgccgccacgtgctggcc
+            gcctgggccctgggtgccaaggcattttactacccagaggaagccggccttgccttcggg
+            ggtccagggtcctccagatatctccgcctggaagttcactaccacaacccactggtgata
+            gaaggacgaaacgactcctcaggcatccgcttgtactacacagccaagctgcggcgcttc
+            aacgcggggatcatggagctgggactggtgtacacgccagtgatggccattccaccacgg
+            gagaccgccttcatcctcactggctactgcacggacaagtgcacccagctggcactgcct
+            ccctccgggatccacatcttcgcctctcagctccacacacacctgactgggagaaaggtg
+            gtcacagtgctggtccgggacggccgggagtgggagatcgtgaaccaggacaatcactac
+            agccctcacttccaggagatccgcatgttgaagaaggtcgtgtcggtccatccgggagat
+            gtgctcatcacctcctgcacgtacaacacagaagaccgggagctggccacagtggggggc
+            ttcgggatcctggaggagatgtgtgtcaactacgtgcactactacccccagacgcagctg
+            gagctctgcaagagcgctgtggacgccggcttcctgcagaagtacttccacctcatcaac
+            aggttcaacaacgaggatgtctgcacctgccctcaggcgtccgtgtctcagcagttcacc
+            tctgttccctggaactccttcaaccgcgacgtactgaaggccctgtacagcttcgcgccc
+            atctccatgcactgcaacaagtcctcagccgtccgcttccagggtgaatggaacctgcag
+            cccctgcccaaggtcatctccacactggaagagcccaccccacagtgccccaccagccag
+            ggccgaagccctgctggccccaccgttgtcagcattggtgggggcaaaggctga
+///

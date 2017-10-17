@@ -1,0 +1,80 @@
+ENTRY       462               CDS       T01001
+NAME        SERPINC1, AT3, AT3D, ATIII, THPH7
+DEFINITION  (RefSeq) serpin family C member 1
+ORTHOLOGY   K03911  antithrombin III
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+DISEASE     H00223  Inherited thrombophilia
+            H01381  Antithrombin III deficiency
+            H01723  Deep vein thrombosis (DVT)
+DRUG_TARGET Anticoagulant heparin: D02956
+            Dalteparin: D03353
+            Danaparoid: D03644
+            Delparantag pentahydrochloride: D10418
+            Enoxaparin: D03674
+            Fondaparinux: D01844
+            Heparin (DG00150): D02112 D04427 D07510 D09860
+            Parnaparin: D04977
+            Reviparin: D03337
+            Tinzaparin: D06398
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                462 (SERPINC1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other cancer cells
+               462 (SERPINC1)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Coagulation and fibrinolysis	(General comment) Coagulation, inflammation, complement control
+               462 (SERPINC1)
+POSITION    1q25.1
+MOTIF       Pfam: Serpin
+DBLINKS     NCBI-GeneID: 462
+            NCBI-ProteinID: NP_000479
+            OMIM: 107300
+            HGNC: 775
+            Ensembl: ENSG00000117601
+            Vega: OTTHUMG00000037276
+            Pharos: P01008(Tclin)
+            UniProt: P01008 A0A024R944
+STRUCTURE   PDB: 3KCG 2B5T 1TB6 1NQ9 1JVQ 1E04 2ANT 1OYH 1E05 2BEH 1R1L
+                 1T1F 4EB1 2ZNH 2B4X 1LK6 1DZG 1DZH 2HIJ 1BR8 1AZX 3EVJ
+                 1ANT 1SR5 1ATH 2GD4 1E03
+AASEQ       464
+            MYSNVIGTVTSGKRKVYLLSLLLIGFWDCVTCHGSPVDICTAKPRDIPMNPMCIYRSPEK
+            KATEDEGSEQKIPEATNRRVWELSKANSRFATTFYQHLADSKNDNDNIFLSPLSISTAFA
+            MTKLGACNDTLQQLMEVFKFDTISEKTSDQIHFFFAKLNCRLYRKANKSSKLVSANRLFG
+            DKSLTFNETYQDISELVYGAKLQPLDFKENAEQSRAAINKWVSNKTEGRITDVIPSEAIN
+            ELTVLVLVNTIYFKGLWKSKFSPENTRKELFYKADGESCSASMMYQEGKFRYRRVAEGTQ
+            VLELPFKGDDITMVLILPKPEKSLAKVEKELTPEVLQEWLDELEEMMLVVHMPRFRIEDG
+            FSLKEQLQDMGLVDLFSPEKSKLPGIVAEGRDDLYVSDAFHKAFLEVNEEGSEAAASTAV
+            VIAGRSLNPNRVTFKANRPFLVFIREVPLNTIIFMGRVANPCVK
+NTSEQ       1395
+            atgtattccaatgtgataggaactgtaacctctggaaaaaggaaggtttatcttttgtcc
+            ttgctgctcattggcttctgggactgcgtgacctgtcacgggagccctgtggacatctgc
+            acagccaagccgcgggacattcccatgaatcccatgtgcatttaccgctccccggagaag
+            aaggcaactgaggatgagggctcagaacagaagatcccggaggccaccaaccggcgtgtc
+            tgggaactgtccaaggccaattcccgctttgctaccactttctatcagcacctggcagat
+            tccaagaatgacaatgataacattttcctgtcacccctgagtatctccacggcttttgct
+            atgaccaagctgggtgcctgtaatgacaccctccagcaactgatggaggtatttaagttt
+            gacaccatatctgagaaaacatctgatcagatccacttcttctttgccaaactgaactgc
+            cgactctatcgaaaagccaacaaatcctccaagttagtatcagccaatcgcctttttgga
+            gacaaatcccttaccttcaatgagacctaccaggacatcagtgagttggtatatggagcc
+            aagctccagcccctggacttcaaggaaaatgcagagcaatccagagcggccatcaacaaa
+            tgggtgtccaataagaccgaaggccgaatcaccgatgtcattccctcggaagccatcaat
+            gagctcactgttctggtgctggttaacaccatttacttcaagggcctgtggaagtcaaag
+            ttcagccctgagaacacaaggaaggaactgttctacaaggctgatggagagtcgtgttca
+            gcatctatgatgtaccaggaaggcaagttccgttatcggcgcgtggctgaaggcacccag
+            gtgcttgagttgcccttcaaaggtgatgacatcaccatggtcctcatcttgcccaagcct
+            gagaagagcctggccaaggtagagaaggaactcaccccagaggtgctgcaagagtggctg
+            gatgaattggaggagatgatgctggtggtccacatgccccgcttccgcattgaggacggc
+            ttcagtttgaaggagcagctgcaagacatgggccttgtcgatctgttcagccctgaaaag
+            tccaaactcccaggtattgttgcagaaggccgagatgacctctatgtctcagatgcattc
+            cataaggcatttcttgaggtaaatgaagaaggcagtgaagcagctgcaagtaccgctgtt
+            gtgattgctggccgttcgctaaaccccaacagggtgactttcaaggccaacaggcctttc
+            ctggtttttataagagaagttcctctgaacactattatcttcatgggcagagtagccaac
+            ccttgtgttaagtaa
+///

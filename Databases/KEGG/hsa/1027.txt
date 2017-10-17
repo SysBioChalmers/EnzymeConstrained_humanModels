@@ -1,0 +1,100 @@
+ENTRY       1027              CDS       T01001
+NAME        CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1
+DEFINITION  (RefSeq) cyclin dependent kinase inhibitor 1B
+ORTHOLOGY   K06624  cyclin-dependent kinase inhibitor 1B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04012  ErbB signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05165  Human papillomavirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+            hsa05215  Prostate cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05222  Small cell lung cancer
+DISEASE     H00024  Prostate cancer
+            H00247  Multiple endocrine neoplasia syndrome (MEN)
+            H01102  Pituitary adenomas
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04012 ErbB signaling pathway
+                1027 (CDKN1B)
+               04066 HIF-1 signaling pathway
+                1027 (CDKN1B)
+               04068 FoxO signaling pathway
+                1027 (CDKN1B)
+               04151 PI3K-Akt signaling pathway
+                1027 (CDKN1B)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                1027 (CDKN1B)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1027 (CDKN1B)
+               05202 Transcriptional misregulation in cancers
+                1027 (CDKN1B)
+               05206 MicroRNAs in cancer
+                1027 (CDKN1B)
+               05203 Viral carcinogenesis
+                1027 (CDKN1B)
+               05220 Chronic myeloid leukemia
+                1027 (CDKN1B)
+               05215 Prostate cancer
+                1027 (CDKN1B)
+               05222 Small cell lung cancer
+                1027 (CDKN1B)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                1027 (CDKN1B)
+              Infectious diseases
+               05162 Measles
+                1027 (CDKN1B)
+               05161 Hepatitis B
+                1027 (CDKN1B)
+               05169 Epstein-Barr virus infection
+                1027 (CDKN1B)
+               05165 Human papillomavirus infection
+                1027 (CDKN1B)
+              Drug resistance
+               01522 Endocrine resistance
+                1027 (CDKN1B)
+POSITION    12p13.1
+MOTIF       Pfam: CDI Multi-haem_cyto
+DBLINKS     NCBI-GeneID: 1027
+            NCBI-ProteinID: NP_004055
+            OMIM: 600778
+            HGNC: 1785
+            Ensembl: ENSG00000111276
+            Vega: OTTHUMG00000149914
+            Pharos: P46527(Tbio)
+            UniProt: P46527 Q6I9V6
+STRUCTURE   PDB: 1JSU 5UQ3
+AASEQ       198
+            MSNVRVSNGSPSLERMDARQAEHPKPSACRNLFGPVDHEELTRDLEKHCRDMEEASQRKW
+            NFDFQNHKPLEGKYEWQEVEKGSLPEFYYRPPRPPKGACKVPAQESQDVSGSRPAAPLIG
+            APANSEDTHLVDPKTDPSDSQTGLAEQCAGIRKRPATDDSSTQNKRANRTEENVSDGSPN
+            AGSVEQTPKKPGLRRRQT
+NTSEQ       597
+            atgtcaaacgtgcgagtgtctaacgggagccctagcctggagcggatggacgccaggcag
+            gcggagcaccccaagccctcggcctgcaggaacctcttcggcccggtggaccacgaagag
+            ttaacccgggacttggagaagcactgcagagacatggaagaggcgagccagcgcaagtgg
+            aatttcgattttcagaatcacaaacccctagagggcaagtacgagtggcaagaggtggag
+            aagggcagcttgcccgagttctactacagacccccgcggccccccaaaggtgcctgcaag
+            gtgccggcgcaggagagccaggatgtcagcgggagccgcccggcggcgcctttaattggg
+            gctccggctaactctgaggacacgcatttggtggacccaaagactgatccgtcggacagc
+            cagacggggttagcggagcaatgcgcaggaataaggaagcgacctgcaaccgacgattct
+            tctactcaaaacaaaagagccaacagaacagaagaaaatgtttcagacggttccccaaat
+            gccggttctgtggagcagacgcccaagaagcctggcctcagaagacgtcaaacgtaa
+///

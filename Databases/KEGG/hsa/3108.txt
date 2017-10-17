@@ -1,0 +1,135 @@
+ENTRY       3108              CDS       T01001
+NAME        HLA-DMA, D6S222E, DMA, HLADM, RING6
+DEFINITION  (RefSeq) major histocompatibility complex, class II, DM alpha
+ORTHOLOGY   K06752  major histocompatibility complex, class II
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04672  Intestinal immune network for IgA production
+            hsa04940  Type I diabetes mellitus
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+DISEASE     H00083  Allograft rejection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3108 (HLA-DMA)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3108 (HLA-DMA)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3108 (HLA-DMA)
+               04612 Antigen processing and presentation
+                3108 (HLA-DMA)
+               04658 Th1 and Th2 cell differentiation
+                3108 (HLA-DMA)
+               04659 Th17 cell differentiation
+                3108 (HLA-DMA)
+               04672 Intestinal immune network for IgA production
+                3108 (HLA-DMA)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3108 (HLA-DMA)
+               05322 Systemic lupus erythematosus
+                3108 (HLA-DMA)
+               05323 Rheumatoid arthritis
+                3108 (HLA-DMA)
+               05320 Autoimmune thyroid disease
+                3108 (HLA-DMA)
+               05321 Inflammatiory bowel disease (IBD)
+                3108 (HLA-DMA)
+               05330 Allograft rejection
+                3108 (HLA-DMA)
+               05332 Graft-versus-host disease
+                3108 (HLA-DMA)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3108 (HLA-DMA)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3108 (HLA-DMA)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3108 (HLA-DMA)
+               05152 Tuberculosis
+                3108 (HLA-DMA)
+               05166 HTLV-I infection
+                3108 (HLA-DMA)
+               05164 Influenza A
+                3108 (HLA-DMA)
+               05168 Herpes simplex infection
+                3108 (HLA-DMA)
+               05145 Toxoplasmosis
+                3108 (HLA-DMA)
+               05140 Leishmaniasis
+                3108 (HLA-DMA)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3108 (HLA-DMA)
+              Exosomal proteins of epithelial cells
+               3108 (HLA-DMA)
+              Exosomal proteins of breast milk
+               3108 (HLA-DMA)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               Others
+                CD4; CD4 antigen [KO:K06454]
+                 3108 (HLA-DMA)
+                LAG3; lymphocyte-activation gene 3 protein [KO:K06565]
+                 3108 (HLA-DMA)
+POSITION    6p21.32
+MOTIF       Pfam: MHC_II_alpha C1-set SKG6 FAST_1
+DBLINKS     NCBI-GeneID: 3108
+            NCBI-ProteinID: NP_006111
+            OMIM: 142855
+            HGNC: 4934
+            Ensembl: ENSG00000204257
+            Vega: OTTHUMG00000031173
+            UniProt: Q31604 Q6ICR9
+STRUCTURE   PDB: 2BC4 1HDM 4FQX 4GBX 4I0P
+AASEQ       261
+            MGHEQNQGAALLQMLPLLWLLPHSWAVPEAPTPMWPDDLQNHTFLHTVYCQDGSPSVGLS
+            EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKEFCEWMIQQIGPKLDGKI
+            PVSRGFPIAEVFTLKPLEFGKPNTLVCFVSNLFPPMLTVNWQHHSVPVEGFGPTFVSAVD
+            GLSFQAFSYLNFTPEPSDIFSCIVTHEIDRYTAIAYWVPRNALPSDLLENVLCGVAFGLG
+            VLGIIVGIVLIIYFRKPCSGD
+NTSEQ       786
+            atgggtcatgaacagaaccaaggagctgcgctgctacagatgttaccacttctgtggctg
+            ctaccccactcctgggccgtccctgaagctcctactccaatgtggccagatgacctgcaa
+            aaccacacattcctgcacacagtgtactgccaggatgggagtcccagtgtgggactctct
+            gaggcctacgacgaggaccagcttttcttcttcgacttttcccagaacactcgggtgcct
+            cgcctgcccgaatttgctgactgggctcaggaacagggagatgctcctgccattttattt
+            gacaaagagttctgcgagtggatgatccagcaaatagggccaaaacttgatgggaaaatc
+            ccggtgtccagagggtttcctatcgctgaagtgttcacgctgaagcccctggagtttggc
+            aagcccaacactttggtctgttttgtcagtaatctcttcccacccatgctgacagtgaac
+            tggcagcatcattccgtccctgtggaaggatttgggcctacttttgtctcagctgtcgat
+            ggactcagcttccaggccttttcttacttaaacttcacaccagaaccttctgacattttc
+            tcctgcattgtgactcacgaaattgaccgctacacagcaattgcctattgggtaccccgg
+            aacgcactgccctcagatctgctggagaatgtgctgtgtggcgtggcctttggcctgggt
+            gtgctgggcatcatcgtgggcattgttctcatcatctacttccggaagccttgctcaggt
+            gactga
+///

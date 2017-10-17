@@ -1,0 +1,45 @@
+ENTRY       522               CDS       T01001
+NAME        ATP5J, ATP5, ATP5A, ATPM, CF6, F6
+DEFINITION  (RefSeq) ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6
+ORTHOLOGY   K02131  F-type H+-transporting ATPase subunit 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00158  F-type ATPase, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                522 (ATP5J)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                522 (ATP5J)
+               05012 Parkinson's disease
+                522 (ATP5J)
+               05016 Huntington's disease
+                522 (ATP5J)
+POSITION    21q21.3
+MOTIF       Pfam: ATP-synt_F6 RICH
+DBLINKS     NCBI-GeneID: 522
+            NCBI-ProteinID: NP_001003696
+            OMIM: 603152
+            HGNC: 847
+            Ensembl: ENSG00000154723
+            Vega: OTTHUMG00000078442
+            Pharos: P18859(Tbio)
+            UniProt: P18859 Q6IB54 Q6NZ59
+AASEQ       108
+            MILQRLFRFSSVIRSAVSVHLRRNIGVTAVAFNKELDPIQKLFVDKIREYKSKRQTSGGP
+            VDASSEYQQELERELFKLKQMFGNADMNTFPTFKFEDPKFEVIEKPQA
+NTSEQ       327
+            atgattcttcagaggctcttcaggttctcctctgtcattcggtcagccgtctcagtccat
+            ttgcggaggaacattggtgttacagcagtggcatttaataaggaacttgatcctatacag
+            aaactctttgtggacaagattagagaatacaaatctaagcgacagacatctggaggacct
+            gttgatgctagttcagagtatcagcaagagctggagagggagctttttaagctcaagcaa
+            atgtttggtaatgcagacatgaatacatttcccaccttcaaatttgaagatcccaaattt
+            gaagtcatcgaaaaaccccaggcctga
+///

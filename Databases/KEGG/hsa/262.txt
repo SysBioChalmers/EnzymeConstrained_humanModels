@@ -1,0 +1,62 @@
+ENTRY       262               CDS       T01001
+NAME        AMD1, ADOMETDC, AMD, SAMDC
+DEFINITION  (RefSeq) adenosylmethionine decarboxylase 1
+ORTHOLOGY   K01611  S-adenosylmethionine decarboxylase [EC:4.1.1.50]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00034  Methionine salvage pathway
+            hsa_M00133  Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                262 (AMD1)
+               00330 Arginine and proline metabolism
+                262 (AMD1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.50  adenosylmethionine decarboxylase
+                 262 (AMD1)
+POSITION    6q21
+MOTIF       Pfam: SAM_decarbox
+DBLINKS     NCBI-GeneID: 262
+            NCBI-ProteinID: NP_001625
+            OMIM: 180980
+            HGNC: 457
+            Ensembl: ENSG00000123505
+            Vega: OTTHUMG00000015369
+            Pharos: P17707(Tchem)
+            UniProt: P17707 B4DZ60 Q6N0B2 A0A088AWN0
+STRUCTURE   PDB: 1JL0 3EP6 3EPB 1MSV 3H0W 3DZ6 3EP3 3DZ4 3DZ2 3EP4 1I7B
+                 3DZ7 3EP8 3EP5 3EP7 1I72 1I79 3EPA 3H0V 1I7M 1JEN 3EP9
+                 1I7C 3DZ5 3DZ3
+AASEQ       334
+            MEAAHFFEGTEKLLEVWFSRQQPDANQGSGDLRTIPRSEWDILLKDVQCSIISVTKTDKQ
+            EAYVLSESSMFVSKRRFILKTCGTTLLLKALVPLLKLARDYSGFDSIQSFFYSRKNFMKP
+            SHQGYPHRNFQEEIEFLNAIFPNGAAYCMGRMNSDCWYLYTLDFPESRVISQPDQTLEIL
+            MSELDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFNPCGYSMNGMKSDGTYW
+            TIHITPEPEFSYVSFETNLSQTSYDDLIRKVVEVFKPGKFVTTLFVNQSSKCRTVLASPQ
+            KIEGFKRLDCQSAMFNDYNFVFTSFAKKQQQQQS
+NTSEQ       1005
+            atggaagctgcacattttttcgaagggaccgagaagctgctggaggtttggttctcccgg
+            cagcagcccgacgcaaaccaaggatctggggatcttcgcactatcccaagatctgagtgg
+            gacatacttttgaaggatgtgcaatgttcaatcataagtgtgacaaaaactgacaagcag
+            gaagcttatgtactcagtgagagtagcatgtttgtctccaagagacgtttcattttgaag
+            acatgtggtaccaccctcttgctgaaagcactggttcccctgttgaagcttgctagggat
+            tacagtgggtttgactcaattcaaagcttcttttattctcgtaagaatttcatgaagcct
+            tctcaccaagggtacccacaccggaatttccaggaagaaatagagtttcttaatgcaatt
+            ttcccaaatggagcagcatattgtatgggacgtatgaattctgactgttggtacttatat
+            actctggatttcccagagagtcgggtaatcagtcagccagatcaaaccttggaaattctg
+            atgagtgagcttgacccagcagttatggaccagttctacatgaaagatggtgttactgca
+            aaggatgtcactcgtgagagtggaattcgtgacctgataccaggttctgtcattgatgcc
+            acaatgttcaatccttgtgggtattcgatgaatggaatgaaatcggatggaacttattgg
+            actattcacatcactccagaaccagaattttcttatgttagctttgaaacaaacttaagt
+            cagacctcctatgatgacctgatcaggaaagttgtagaagtcttcaagccaggaaaattt
+            gtgaccaccttgtttgttaatcagagttctaaatgtcgcacagtgcttgcttcgccccag
+            aagattgaaggttttaagcgtcttgattgccagagtgctatgttcaatgattacaatttt
+            gtttttaccagttttgctaagaagcagcaacaacagcagagttga
+///

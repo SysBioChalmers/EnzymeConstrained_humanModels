@@ -1,0 +1,86 @@
+ENTRY       9146              CDS       T01001
+NAME        HGS, HRS
+DEFINITION  (RefSeq) hepatocyte growth factor-regulated tyrosine kinase substrate
+ORTHOLOGY   K12182  hepatocyte growth factor-regulated tyrosine kinase substrate
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04145  Phagosome
+MODULE      hsa_M00408  ESCRT-0 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                9146 (HGS)
+               04145 Phagosome
+                9146 (HGS)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-0 complex
+                9146 (HGS)
+POSITION    17q25.3
+MOTIF       Pfam: VHS Hrs_helical FYVE DUF3361 FYVE_2 UIM PIEZO
+DBLINKS     NCBI-GeneID: 9146
+            NCBI-ProteinID: NP_004703
+            OMIM: 604375
+            HGNC: 4897
+            Ensembl: ENSG00000185359
+            Vega: OTTHUMG00000178109
+            Pharos: O14964(Tbio)
+            UniProt: O14964 A0A0S2Z4R4
+STRUCTURE   PDB: 3ZYQ 4AVX 3F1I
+AASEQ       777
+            MGRGSGTFERLLDKATSQLLLETDWESILQICDLIRQGDTQAKYAVNSIKKKVNDKNPHV
+            ALYALEVMESVVKNCGQTVHDEVANKQTMEELKDLLKRQVEVNVRNKILYLIQAWAHAFR
+            NEPKYKVVQDTYQIMKVEGHVFPEFKESDAMFAAERAPDWVDAEECHRCRVQFGVMTRKH
+            HCRACGQIFCGKCSSKYSTIPKFGIEKEVRVCEPCYEQLNRKAEGKATSTTELPPEYLTS
+            PLSQQSQLPPKRDETALQEEEELQLALALSQSEAEEKERLRQKSTYTSYPKAEPMPSASS
+            APPASSLYSSPVNSSAPLAEDIDPELARYLNRNYWEKKQEEARKSPTPSAPVPLTEPAAQ
+            PGEGHAAPTNVVENPLPETDSQPIPPSGGPFSEPQFHNGESEESHEQFLKALQNAVTTFV
+            NRMKSNHMRGRSITNDSAVLSLFQSINGMHPQLLELLNQLDERRLYYEGLQDKLAQIRDA
+            RGALSALREEHREKLRRAAEEAERQRQIQLAQKLEIMRQKKQEYLEVQRQLAIQRLQEQE
+            KERQMRLEQQKQTVQMRAQMPAFPLPYAQLQAMPAAGGVLYQPSGPASFPSTFSPAGSVE
+            GSPMHGVYMSQPAPAAGPYPSMPSTAADPSMVSAYMYPAGATGAQAAPQAQAGPTASPAY
+            SSYQPTPTAGYQNVASQAPQSLPAISQPPQSSTMGYMGSQSVSMGYQPYNMQNLMTTLPS
+            QDASLPPQQPYIAGQQPMYQQMAPSGGPPQQQPPVAQQPQAQGPPAQGSEAQLISFD
+NTSEQ       2334
+            atggggcgaggcagcggcaccttcgagcgtctcctagacaaggcgaccagccagctcctg
+            ttggagacagattgggagtccattttgcagatctgcgacctgatccgccaaggggacaca
+            caagcaaaatatgctgtgaattccatcaagaagaaagtcaacgacaagaacccacacgtc
+            gccttgtatgccctggaggtcatggaatctgtggtaaagaactgtggccagacagttcat
+            gatgaggtggccaacaagcagaccatggaggagctgaaggacctgctgaagagacaagtg
+            gaggtaaacgtccgtaacaagatcctgtacctgatccaggcctgggcgcatgccttccgg
+            aacgagcccaagtacaaggtggtccaggacacctaccagatcatgaaggtggaggggcac
+            gtctttccagaattcaaagagagcgatgccatgtttgctgccgagagagccccagactgg
+            gtggacgctgaggaatgccaccgctgcagggtgcagttcggggtgatgacccgtaagcac
+            cactgccgggcgtgtgggcagatattctgtggaaagtgttcttccaagtactccaccatc
+            cccaagtttggcatcgagaaggaggtgcgcgtgtgtgagccctgctacgagcagctgaac
+            aggaaagcggagggaaaggccacttccaccactgagctgccccccgagtacctgaccagc
+            cccctgtctcagcagtcccagctgccccccaagagggacgagacggccctgcaggaggag
+            gaggagctgcagctggccctggcgctgtcacagtcagaggcggaggagaaggagaggctg
+            agacagaagtccacgtacacttcgtaccccaaggcggagcccatgccctcggcctcctca
+            gcgccccccgccagcagcctgtactcttcacctgtgaactcgtcggcgcctctggctgag
+            gacatcgaccctgagctcgcacggtatctcaaccggaactactgggagaagaagcaggag
+            gaggctcgcaagagccccacgccatctgcgcccgtgcccctgacggagccggctgcacag
+            cctggggaagggcacgcagcccccaccaacgtggtggagaaccccctcccggagacagac
+            tctcagcccattcctccctctggtggcccctttagtgagccacagttccacaatggcgag
+            tctgaggagagccacgagcagttcctgaaggcgctgcagaacgccgtcaccaccttcgtg
+            aaccgcatgaagagtaaccacatgcggggccgcagcatcaccaatgactcggccgtgctc
+            tcactcttccagtccatcaacggcatgcacccgcagctgctggagctgctcaaccagctg
+            gacgagcgcaggctgtactatgaggggctgcaggacaagctggcacagatccgcgatgcc
+            cggggggcgctgagtgccctgcgcgaagagcaccgggagaagcttcgccgggcagccgag
+            gaggcagagcgccagcgccagatccagctggcccagaagctggagataatgcggcagaag
+            aagcaggagtacctggaggtgcagaggcagctggccatccagcgcctgcaggagcaggag
+            aaggagcggcagatgcggctggagcagcagaagcagacggtccagatgcgcgcgcagatg
+            cccgccttccccctgccctacgcccagctccaggccatgcccgcagccggaggtgtgctc
+            taccagccctcgggaccagccagcttccccagcaccttcagccctgccggctcggtggag
+            ggctccccaatgcacggcgtgtacatgagccagccggcccctgccgctggcccctacccc
+            agcatgcccagcactgcggctgatcccagcatggtgagtgcctacatgtacccagcaggg
+            gccactggggcgcaggcggccccccaggcccaggccggacccaccgccagccccgcttac
+            tcatcctaccagcctactcccacagcgggctaccagaacgtggcctcccaggccccacag
+            agcctcccggccatctctcagcctccgcagtccagcaccatgggctacatggggagccag
+            tcagtctccatgggctaccagccttacaacatgcagaatctcatgaccaccctcccaagc
+            caggatgcgtctctgccaccccagcagccctacatcgcggggcagcagcccatgtaccag
+            cagatggcaccctctggcggtcccccccagcagcagccccccgtggcccagcaaccgcag
+            gcacaggggccgccggcacagggcagcgaggcccagctcatttcattcgactga
+///

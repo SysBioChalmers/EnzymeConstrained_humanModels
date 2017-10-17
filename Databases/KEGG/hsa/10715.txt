@@ -1,0 +1,62 @@
+ENTRY       10715             CDS       T01001
+NAME        CERS1, EPM8, LAG1, LASS1, UOG1
+DEFINITION  (RefSeq) ceramide synthase 1
+ORTHOLOGY   K04710  ceramide synthetase [EC:2.3.1.24]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04071  Sphingolipid signaling pathway
+MODULE      hsa_M00094  Ceramide biosynthesis
+            hsa_M00099  Sphingosine biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                10715 (CERS1)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                10715 (CERS1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.24  sphingosine N-acyltransferase
+                 10715 (CERS1)
+POSITION    19p13.11
+MOTIF       Pfam: TRAM_LAG1_CLN8 TRAM1
+DBLINKS     NCBI-GeneID: 10715
+            NCBI-ProteinID: NP_067090
+            OMIM: 606919
+            HGNC: 14253
+            Ensembl: ENSG00000223802
+            Vega: OTTHUMG00000183049
+            Pharos: P27544(Tbio)
+            UniProt: P27544
+AASEQ       350
+            MAAAGPAAGPTGPEPMPSYAQLVQRGWGSALAAARGCTDCGWGLARRGLAEHAHLAPPEL
+            LLLALGALGWTALRSAATARLFRPLAKRCCLQPRDAAKMPESAWKFLFYLGSWSYSAYLL
+            FGTDYPFFHDPPSVFYDWTPGMAVPRDIAAAYLLQGSFYGHSIYATLYMDTWRKDSVVML
+            LHHVVTLILIVSSYAFRYHNVGILVLFLHDISDVQLEFTKLNIYFKSRGGSYHRLHALAA
+            DLGCLSFGFSWFWFRLYWFPLKVLYATSHCSLRTVPDIPFYFFFNALLLLLTLMNLYWFL
+            YIVAFAAKVLTGQVHELKDLREYDTAEAQSLKPSKAEKPLRNGLVKDKRF
+NTSEQ       1053
+            atggcggcggcggggcccgcggcggggccgacggggcccgagcccatgccgagctacgcg
+            cagctagtgcagcgcggctggggcagcgcgctggcggcggcgcggggctgcacggactgc
+            ggctgggggctggcgcgtcgcggcctggctgagcacgcgcacctggcgccgcccgagctg
+            ctgctgctggcgctcggcgcgctgggctggaccgccctgcgctccgcggccactgcgcgc
+            ctctttcggcccctggcgaagcggtgctgcctccagcccagagatgccgccaagatgccc
+            gagagcgcttggaagtttctcttctacctgggcagctggagctacagtgcctacctgctg
+            tttggcaccgactaccccttcttccatgacccaccatctgtcttctacgactggacgccg
+            ggcatggcagtgccacgggacattgcagccgcctacctgctccagggaagcttctatggc
+            cactccatctacgctacgctatacatggacacctggcgcaaggactcggtggtcatgctg
+            ctccaccacgtggtcactctcatcctcatcgtctcctcctacgccttccggtaccacaat
+            gtgggcatccttgtgctcttcctgcacgatatcagtgacgtgcagcttgagttcaccaag
+            ctcaacatttacttcaagtcccgcggcggctcctaccatcggctgcatgccttggcagca
+            gacttgggctgcctcagcttcggcttcagctggttctggttccgcctctactggttcccg
+            ctcaaggtcctgtatgccaccagtcactgcagtctgcgcacggtgcctgacatccccttc
+            tacttcttcttcaatgcgctcctgctgctgctcacccttatgaacctctactggttcctg
+            tacatcgtggcgtttgcagccaaggtgttgacaggccaggtgcacgagctgaaggacctg
+            cgggagtatgacacagccgaggcccagagcctgaagcccagcaaagccgagaagccactg
+            aggaacggcctggtgaaggacaagcgcttctga
+///

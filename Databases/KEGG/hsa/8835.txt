@@ -1,0 +1,60 @@
+ENTRY       8835              CDS       T01001
+NAME        SOCS2, CIS2, Cish2, SOCS-2, SSI-2, SSI2, STATI2
+DEFINITION  (RefSeq) suppressor of cytokine signaling 2
+ORTHOLOGY   K04695  suppressor of cytokine signaling 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04630  Jak-STAT signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04930  Type II diabetes mellitus
+MODULE      hsa_M00388  ECS complex
+            hsa_M00684  JAK-STAT signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                8835 (SOCS2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                8835 (SOCS2)
+               04917 Prolactin signaling pathway
+                8835 (SOCS2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                8835 (SOCS2)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               ECS complex
+                Target recognizing subunit (SOCS box)
+                 8835 (SOCS2)
+POSITION    12q22
+MOTIF       Pfam: SOCS_box SH2 SH2_2 Condensation
+DBLINKS     NCBI-GeneID: 8835
+            NCBI-ProteinID: NP_001257396
+            OMIM: 605117
+            HGNC: 19382
+            Ensembl: ENSG00000120833
+            Vega: OTTHUMG00000170160
+            Pharos: O14508(Tbio)
+            UniProt: O14508 A0A024RBD2
+STRUCTURE   PDB: 5BO4 4JGH 2C9W
+AASEQ       198
+            MTLRCLEPSGNGGEGTRSQWGTAGSAEEPSPQAARLAKALRELGQTGWYWGSMTVNEAKE
+            KLKEAPEGTFLIRDSSHSDYLLTISVKTSAGPTNLRIEYQDGKFRLDSIICVKSKLKQFD
+            SVVHLIDYYVQMCKDKRTGPEAPRNGTVHLYLTKPLYTSAPSLQHLCRLTINKCTGAIWG
+            LPLPTRLKDYLEEYKFQV
+NTSEQ       597
+            atgaccctgcggtgccttgagccctccgggaatggcggggaagggacgcggagccagtgg
+            gggaccgcggggtcggcggaggagccatccccgcaggcggcgcgtctggcgaaggccctg
+            cgggagctcggtcagacaggatggtactggggaagtatgactgttaatgaagccaaagag
+            aaattaaaagaggcaccagaaggaactttcttgattagagatagctcgcattcagactac
+            ctactaacaatatctgttaaaacatcagctggaccaactaatcttcgaatcgaataccaa
+            gacggaaaattcagattggactctatcatatgtgtcaaatccaagcttaaacaatttgac
+            agtgtggttcatctgatcgactactatgttcagatgtgcaaggataagcggacaggtcca
+            gaagccccccggaacggcactgttcacctttatctgaccaaaccgctctacacgtcagca
+            ccatctctgcagcatctctgtaggctcaccattaacaaatgtaccggtgccatctgggga
+            ctgcctttaccaacaagactaaaagattacttggaagaatataaattccaggtataa
+///

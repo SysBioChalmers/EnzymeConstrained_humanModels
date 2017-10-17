@@ -1,0 +1,101 @@
+ENTRY       56034             CDS       T01001
+NAME        PDGFC, FALLOTEIN, SCDGF
+DEFINITION  (RefSeq) platelet derived growth factor C
+ORTHOLOGY   K05450  platelet derived growth factor C/D
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04072  Phospholipase D signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04540  Gap junction
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                56034 (PDGFC)
+               04015 Rap1 signaling pathway
+                56034 (PDGFC)
+               04072 Phospholipase D signaling pathway
+                56034 (PDGFC)
+               04151 PI3K-Akt signaling pathway
+                56034 (PDGFC)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                56034 (PDGFC)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                56034 (PDGFC)
+               04540 Gap junction
+                56034 (PDGFC)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                56034 (PDGFC)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                56034 (PDGFC)
+               05218 Melanoma
+                56034 (PDGFC)
+               05215 Prostate cancer
+                56034 (PDGFC)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                56034 (PDGFC)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Cysteine-knot growth factors
+               Subclass I
+                56034 (PDGFC)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                PDGFRA; platelet-derived growth factor receptor, alpha polypeptide [KO:K04363]
+                 56034 (PDGFC)
+                PDGFRB; platelet-derived growth factor receptor, beta polypeptide [KO:K05089]
+                 56034 (PDGFC)
+POSITION    4q32.1
+MOTIF       Pfam: CUB PDGF
+DBLINKS     NCBI-GeneID: 56034
+            NCBI-ProteinID: NP_057289
+            OMIM: 608452
+            HGNC: 8801
+            Ensembl: ENSG00000145431
+            Vega: OTTHUMG00000161803
+            Pharos: Q9NRA1(Tbio)
+            UniProt: Q9NRA1
+AASEQ       345
+            MSLFGLLLLTSALAGQRQGTQAESNLSSKFQFSSNKEQNGVQDPQHERIITVSTNGSIHS
+            PRFPHTYPRNTVLVWRLVAVEENVWIQLTFDERFGLEDPEDDICKYDFVEVEEPSDGTIL
+            GRWCGSGTVPGKQISKGNQIRIRFVSDEYFPSEPGFCIHYNIVMPQFTEAVSPSVLPPSA
+            LPLDLLNNAITAFSTLEDLIRYLEPERWQLDLEDLYRPTWQLLGKAFVFGRKSRVVDLNL
+            LTEEVRLYSCTPRNFSVSIREELKRTDTIFWPGCLLVKRCGGNCACCLHNCNECQCVPSK
+            VTKKYHEVLQLRPKTGVRGLHKSLTDVALEHHEECDCVCRGSTGG
+NTSEQ       1038
+            atgagcctcttcgggcttctcctgctgacatctgccctggccggccagagacaggggact
+            caggcggaatccaacctgagtagtaaattccagttttccagcaacaaggaacagaacgga
+            gtacaagatcctcagcatgagagaattattactgtgtctactaatggaagtattcacagc
+            ccaaggtttcctcatacttatccaagaaatacggtcttggtatggagattagtagcagta
+            gaggaaaatgtatggatacaacttacgtttgatgaaagatttgggcttgaagacccagaa
+            gatgacatatgcaagtatgattttgtagaagttgaggaacccagtgatggaactatatta
+            gggcgctggtgtggttctggtactgtaccaggaaaacagatttctaaaggaaatcaaatt
+            aggataagatttgtatctgatgaatattttccttctgaaccagggttctgcatccactac
+            aacattgtcatgccacaattcacagaagctgtgagtccttcagtgctacccccttcagct
+            ttgccactggacctgcttaataatgctataactgcctttagtaccttggaagaccttatt
+            cgatatcttgaaccagagagatggcagttggacttagaagatctatataggccaacttgg
+            caacttcttggcaaggcttttgtttttggaagaaaatccagagtggtggatctgaacctt
+            ctaacagaggaggtaagattatacagctgcacacctcgtaacttctcagtgtccataagg
+            gaagaactaaagagaaccgataccattttctggccaggttgtctcctggttaaacgctgt
+            ggtgggaactgtgcctgttgtctccacaattgcaatgaatgtcaatgtgtcccaagcaaa
+            gttactaaaaaataccacgaggtccttcagttgagaccaaagaccggtgtcaggggattg
+            cacaaatcactcaccgacgtggccctggagcaccatgaggagtgtgactgtgtgtgcaga
+            gggagcacaggaggatag
+///

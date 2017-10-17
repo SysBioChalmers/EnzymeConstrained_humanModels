@@ -1,0 +1,82 @@
+ENTRY       5150              CDS       T01001
+NAME        PDE7A, HCP1, PDE7
+DEFINITION  (RefSeq) phosphodiesterase 7A
+ORTHOLOGY   K18436  high affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7 [EC:3.1.4.53]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa05032  Morphine addiction
+DRUG_TARGET Aminophylline (DG01062): D00227 D05429
+            Bucladesine (DG00230): D01238 D07546
+            Choline theophyllinate: D02017
+            Diprophylline: D00691
+            Flavoxate (DG00477): D00718 D07961
+            Moxaverine (DG00045): D07089 D08238
+            Papaverine (DG00043): D02218 D07425 D07439
+            Propentofylline: D01630
+            Proxyphylline: D01771
+            Theophylline (DG01061): D00371 D01712 D06103 D06104
+            Tibenelast sodium: D06132
+            Trapidil: D01220
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5150 (PDE7A)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                5150 (PDE7A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.53  3',5'-cyclic-AMP phosphodiesterase
+                 5150 (PDE7A)
+POSITION    8q13.1
+MOTIF       Pfam: PDEase_I
+DBLINKS     NCBI-GeneID: 5150
+            NCBI-ProteinID: NP_001229247
+            OMIM: 171885
+            HGNC: 8791
+            Ensembl: ENSG00000205268
+            Vega: OTTHUMG00000164469
+            Pharos: Q13946(Tclin)
+            UniProt: Q13946
+STRUCTURE   PDB: 1ZKL 4PM0 4Y2B 3G3N
+AASEQ       482
+            MEVCYQLPVLPLDRPVPQHVLSRRGAISFSSSSALFGCPNPRQLSQRRGAISYDSSDQTA
+            LYIRMLGDVRVRSRAGFESERRGSHPYIDFRIFHSQSEIEVSVSARNIRRLLSFQRYLRS
+            SRFFRGTAVSNSLNILDDDYNGQAKCMLEKVGNWNFDIFLFDRLTNGNSLVSLTFHLFSL
+            HGLIEYFHLDMMKLRRFLVMIQEDYHSQNPYHNAVHAADVTQAMHCYLKEPKLANSVTPW
+            DILLSLIAAATHDLDHPGVNQPFLIKTNHYLATLYKNTSVLENHHWRSAVGLLRESGLFS
+            HLPLESRQQMETQIGALILATDISRQNEYLSLFRSHLDRGDLCLEDTRHRHLVLQMALKC
+            ADICNPCRTWELSKQWSEKVTEEFFHQGDIEKKYHLGVSPLCDRHTESIANIQIGFMTYL
+            VEPLFTEWARFSNTRLSQTMLGHVGLNKASWKGLQREQSSSEDTDAAFELNSQLLPQENR
+            LS
+NTSEQ       1449
+            atggaagtgtgttaccagctgccggtactgcccctggacaggccggtcccccagcacgtc
+            ctcagccgccgaggagccatcagcttcagctccagctccgctctcttcggctgccccaat
+            ccccggcagctctctcagaggcgtggagctatttcctatgacagttctgatcagactgca
+            ttatacattcgtatgctaggagatgtacgtgtaaggagccgagcaggatttgaatcagaa
+            agaagaggttctcacccatatattgattttcgtattttccactctcaatctgaaattgaa
+            gtgtctgtctctgcaaggaatatcagaaggctactaagtttccagcgatatcttagatct
+            tcacgcttttttcgtggtactgcggtttcaaattccctaaacattttagatgatgattat
+            aatggacaagccaagtgtatgctggaaaaagttggaaattggaattttgatatctttcta
+            tttgatagactaacaaatggaaatagtctagtaagcttaacctttcatttatttagtctt
+            catggattaattgagtacttccatttagatatgatgaaacttcgtagatttttagttatg
+            attcaagaagattaccacagtcaaaatccttaccataacgcagtccacgctgcggatgtt
+            actcaggccatgcactgttacttaaaggaacctaagcttgccaattctgtaactccttgg
+            gatatcttgctgagcttaattgcagctgccactcatgatctggatcatccaggtgttaat
+            caacctttccttattaaaactaaccattacttggcaactttatacaagaatacctcagta
+            ctggaaaatcaccactggagatctgcagtgggcttattgagagaatcaggcttattctca
+            catctgccattagaaagcaggcaacaaatggagacacagataggtgctctgatactagcc
+            acagacatcagtcgccagaatgagtatctgtctttgtttaggtcccatttggatagaggt
+            gatttatgcctagaagacaccagacacagacatttggttttacagatggctttgaaatgt
+            gctgatatttgtaacccatgtcggacgtgggaattaagcaagcagtggagtgaaaaagta
+            acggaggaattcttccatcaaggagatatagaaaaaaaatatcatttgggtgtgagtcca
+            ctttgcgatcgtcacactgaatctattgccaacatccagattggttttatgacttaccta
+            gtggagcctttatttacagaatgggccaggttttccaatacaaggctatcccagacaatg
+            cttggacacgtggggctgaataaagccagctggaagggactgcagagagaacagtcgagc
+            agtgaggacactgatgctgcatttgagttgaactcacagttattacctcaggaaaatcgg
+            ttatcataa
+///

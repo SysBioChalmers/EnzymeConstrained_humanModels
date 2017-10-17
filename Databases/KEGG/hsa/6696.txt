@@ -1,0 +1,82 @@
+ENTRY       6696              CDS       T01001
+NAME        SPP1, BNSP, BSPI, ETA-1, OPN
+DEFINITION  (RefSeq) secreted phosphoprotein 1
+ORTHOLOGY   K06250  secreted phosphoprotein 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04151  PI3K-Akt signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04620  Toll-like receptor signaling pathway
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                6696 (SPP1)
+               04151 PI3K-Akt signaling pathway
+                6696 (SPP1)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                6696 (SPP1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                6696 (SPP1)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                6696 (SPP1)
+             Human Diseases
+              Infectious diseases
+               05165 Human papillomavirus infection
+                6696 (SPP1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-4
+                ITGB1; integrin beta 1 [KO:K05719]
+                 6696 (SPP1)
+               VLA-8
+                 6696 (SPP1)
+               VLA-9
+                 6696 (SPP1)
+              Beta3 integrins
+               VNR
+                ITGB3; integrin beta 3 [KO:K06493]
+                 6696 (SPP1)
+POSITION    4q22.1
+MOTIF       Pfam: Osteopontin
+DBLINKS     NCBI-GeneID: 6696
+            NCBI-ProteinID: NP_001035147
+            OMIM: 166490
+            HGNC: 11255
+            Ensembl: ENSG00000118785
+            Vega: OTTHUMG00000130599
+            Pharos: P10451(Tbio)
+            UniProt: P10451 A0A024RDE2
+AASEQ       314
+            MRIAVICFCLLGITCAIPVKQADSGSSEEKQLYNKYPDAVATWLNPDPSQKQNLLAPQNA
+            VSSEETNDFKQETLPSKSNESHDHMDDMDDEDDDDHVDSQDSIDSNDSDDVDDTDDSHQS
+            DESHHSDESDELVTDFPTDLPATEVFTPVVPTVDTYDGRGDSVVYGLRSKSKKFRRPDIQ
+            YPDATDEDITSHMESEELNGAYKAIPVAQDLNAPSDWDSRGKDSYETSQLDDQSAETHSH
+            KQSRLYKRKANDESNEHSDVIDSQELSKVSREFHSHEFHSHEDMLVVDPKSKEEDKHLKF
+            RISHELDSASSEVN
+NTSEQ       945
+            atgagaattgcagtgatttgcttttgcctcctaggcatcacctgtgccataccagttaaa
+            caggctgattctggaagttctgaggaaaagcagctttacaacaaatacccagatgctgtg
+            gccacatggctaaaccctgacccatctcagaagcagaatctcctagccccacagaatgct
+            gtgtcctctgaagaaaccaatgactttaaacaagagacccttccaagtaagtccaacgaa
+            agccatgaccacatggatgatatggatgatgaagatgatgatgaccatgtggacagccag
+            gactccattgactcgaacgactctgatgatgtagatgacactgatgattctcaccagtct
+            gatgagtctcaccattctgatgaatctgatgaactggtcactgattttcccacggacctg
+            ccagcaaccgaagttttcactccagttgtccccacagtagacacatatgatggccgaggt
+            gatagtgtggtttatggactgaggtcaaaatctaagaagtttcgcagacctgacatccag
+            taccctgatgctacagacgaggacatcacctcacacatggaaagcgaggagttgaatggt
+            gcatacaaggccatccccgttgcccaggacctgaacgcgccttctgattgggacagccgt
+            gggaaggacagttatgaaacgagtcagctggatgaccagagtgctgaaacccacagccac
+            aagcagtccagattatataagcggaaagccaatgatgagagcaatgagcattccgatgtg
+            attgatagtcaggaactttccaaagtcagccgtgaattccacagccatgaatttcacagc
+            catgaagatatgctggttgtagaccccaaaagtaaggaagaagataaacacctgaaattt
+            cgtatttctcatgaattagatagtgcatcttctgaggtcaattaa
+///

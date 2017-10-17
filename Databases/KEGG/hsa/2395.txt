@@ -1,0 +1,53 @@
+ENTRY       2395              CDS       T01001
+NAME        FXN, CyaY, FA, FARR, FRDA, X25
+DEFINITION  (RefSeq) frataxin
+ORTHOLOGY   K19054  frataxin [EC:1.16.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00860  Porphyrin and chlorophyll metabolism
+DISEASE     H00067  Friedreich ataxia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                2395 (FXN)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.16  Oxidizing metal ions
+               1.16.3  With oxygen as acceptor
+                1.16.3.1  ferroxidase
+                 2395 (FXN)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                2395 (FXN)
+POSITION    9q21.11
+MOTIF       Pfam: Frataxin_Cyay
+DBLINKS     NCBI-GeneID: 2395
+            NCBI-ProteinID: NP_000135
+            OMIM: 606829
+            HGNC: 3951
+            Ensembl: ENSG00000165060
+            Vega: OTTHUMG00000019977
+            Pharos: Q16595(Tbio)
+            UniProt: Q16595 A0A0S2Z3G4
+STRUCTURE   PDB: 3T3L 3T3K 3S4M 3S5E 3T3T 3S5D 3S5F 3T3X 3T3J 1EKG 5KZ5
+                 1LY7
+AASEQ       210
+            MWTLGRRAVAGLLASPSPAQAQTLTRVPRPAELAPLCGRRGLRTDIDATCTPRRASSNQR
+            GLNQIWNVKKQSVYLMNLRKSGTLGHPGSLDETTYERLAEETLDSLAEFFEDLADKPYTF
+            EDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSSGPKRYDWTGKNWVYSHDGV
+            SLHELLAAELTKALKTKLDLSSLAYSGKDA
+NTSEQ       633
+            atgtggactctcgggcgccgcgcagtagccggcctcctggcgtcacccagcccagcccag
+            gcccagaccctcacccgggtcccgcggccggcagagttggccccactctgcggccgccgt
+            ggcctgcgcaccgacatcgatgcgacctgcacgccccgccgcgcaagttcgaaccaacgt
+            ggcctcaaccagatttggaatgtcaaaaagcagagtgtctatttgatgaatttgaggaaa
+            tctggaactttgggccacccaggctctctagatgagaccacctatgaaagactagcagag
+            gaaacgctggactctttagcagagttttttgaagaccttgcagacaagccatacacgttt
+            gaggactatgatgtctcctttgggagtggtgtcttaactgtcaaactgggtggagatcta
+            ggaacctatgtgatcaacaagcagacgccaaacaagcaaatctggctatcttctccatcc
+            agtggacctaagcgttatgactggactgggaaaaactgggtgtactcccacgacggcgtg
+            tccctccatgagctgctggccgcagagctcactaaagccttaaaaaccaaactggacttg
+            tcttccttggcctattccggaaaagatgcttga
+///

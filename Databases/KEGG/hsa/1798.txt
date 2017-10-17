@@ -1,0 +1,66 @@
+ENTRY       1798              CDS       T01001
+NAME        DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT
+DEFINITION  (RefSeq) dolichyl-phosphate N-acetylglucosaminephosphotransferase 1
+ORTHOLOGY   K01001  UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00055  N-glycan precursor biosynthesis
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                1798 (DPAGT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.15  UDP-N-acetylglucosamine---dolichyl-phosphate N-acetylglucosaminephosphotransferase
+                 1798 (DPAGT1)
+            Glycosyltransferases [BR:hsa01003]
+             N-Glycan biosynthesis
+              Dol-linked oligosaccharide
+               1798 (DPAGT1)
+POSITION    11q23.3
+MOTIF       Pfam: Glycos_transf_4 Gal_mutarotas_2
+DBLINKS     NCBI-GeneID: 1798
+            NCBI-ProteinID: NP_001373
+            OMIM: 191350
+            HGNC: 2995
+            Ensembl: ENSG00000172269
+            Vega: OTTHUMG00000153533
+            Pharos: Q9H3H5(Tbio)
+            UniProt: Q9H3H5 A0A024R3H8
+STRUCTURE   PDB: 5LEV
+AASEQ       408
+            MWAFSELPMPLLINLIVSLLGFVATVTLIPAFRGHFIAARLCGQDLNKTSRQQIPESQGV
+            ISGAVFLIILFCFIPFPFLNCFVKEQCKAFPHHEFVALIGALLAICCMIFLGFADDVLNL
+            RWRHKLLLPTAASLPLLMVYFTNFGNTTIVVPKPFRPILGLHLDLGILYYVYMGLLAVFC
+            TNAINILAGINGLEAGQSLVISASIIVFNLVELEGDCRDDHVFSLYFMIPFFFTTLGLLY
+            HNWYPSRVFVGDTFCYFAGMTFAVVGILGHFSKTMLLFFMPQVFNFLYSLPQLLHIIPCP
+            RHRIPRLNIKTGKLEMSYSKFKTKSLSFLGTFILKVAESLQLVTVHQSETEDGEFTECNN
+            MTLINLLLKVLGPIHERNLTLLLLLLQILGSAITFSIRYQLVRLFYDV
+NTSEQ       1227
+            atgtgggccttctcggaattgcccatgccgctgctgatcaatttgatcgtctcgctgctg
+            ggatttgtggccacagtcaccctcatcccggccttccggggccacttcattgctgcgcgc
+            ctctgtggtcaggacctcaacaaaaccagccgacagcagatcccagaatcccagggagtg
+            atcagcggtgctgttttccttatcatcctcttctgcttcatccctttccccttcctgaac
+            tgctttgtgaaggagcagtgtaaggcattcccccaccatgaatttgtggccctgataggt
+            gccctccttgccatctgctgcatgatcttcctgggctttgcggatgatgtactgaatctg
+            cgctggcgccataagctgctgctacctacagctgcctcactacctctcctcatggtctat
+            ttcaccaactttggcaacacgaccattgtggtgcccaagcccttccgcccgatacttggc
+            ctgcatctggacttgggaatcctgtactatgtctacatggggctgctggcagtgttctgt
+            accaatgccatcaatatcctagcaggaattaacggcctagaggctggccagtcactagtc
+            atttctgcttccatcattgtcttcaacctggtagagttggaaggtgattgtcgggatgat
+            catgtcttttccctctacttcatgatacccttttttttcaccactttgggattgctctac
+            cacaactggtacccatcacgggtgtttgtgggagataccttctgttactttgctggcatg
+            acctttgccgtggtgggcatcttgggacacttcagcaagaccatgctactattcttcatg
+            ccccaggtgttcaacttcctctactcactgcctcagctcctgcatatcatcccctgccct
+            cgccaccgcatacccagactcaatatcaagacaggcaaactggagatgagctattccaag
+            ttcaagaccaagagcctctctttcttgggcacctttattttaaaggtggcagagagcctc
+            cagctggtgacagtacaccagagtgagactgaagatggtgaattcactgaatgtaacaac
+            atgaccctcatcaacttgctacttaaagtccttgggcccatacatgagagaaacctcaca
+            ttgctcctgctgctgctgcagatcctgggcagtgccatcaccttctccattcgatatcag
+            ctcgttcgactcttctatgatgtctga
+///

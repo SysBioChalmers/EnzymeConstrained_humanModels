@@ -1,0 +1,188 @@
+ENTRY       3674              CDS       T01001
+NAME        ITGA2B, BDPLT16, BDPLT2, CD41, CD41B, GP2B, GPIIb, GT, GTA, HPA3, PPP1R93
+DEFINITION  (RefSeq) integrin subunit alpha 2b
+ORTHOLOGY   K06476  integrin alpha 2B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04611  Platelet activation
+            hsa04640  Hematopoietic cell lineage
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00226  Glanzmann thrombasthenia
+            H01740  Macrothrombocytopenia
+DRUG_TARGET Abciximab: D02778
+            Elarofiban: D03971
+            Eptifibatide: D06888
+            Lamifiban (DG01420): D04659 D04660
+            Lotrafiban hydrochloride: D04785
+            Orbofiban acetate: D05267
+            Roxifiban acetate: D05772
+            Sibrafiban: D05834
+            Tirofiban (DG00159): D01029 D08607
+            Xemilofiban hydrochloride: D06335
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                3674 (ITGA2B)
+               04151 PI3K-Akt signaling pathway
+                3674 (ITGA2B)
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                3674 (ITGA2B)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3674 (ITGA2B)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3674 (ITGA2B)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3674 (ITGA2B)
+               04611 Platelet activation
+                3674 (ITGA2B)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3674 (ITGA2B)
+               05222 Small cell lung cancer
+                3674 (ITGA2B)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3674 (ITGA2B)
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3674 (ITGA2B)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                3674 (ITGA2B)
+               05414 Dilated cardiomyopathy (DCM)
+                3674 (ITGA2B)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                3674 (ITGA2B)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 3674 (ITGA2B)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3674 (ITGA2B)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Others
+               ICAM4; intercellular adhesion molecule 4 [KO:K06581]
+                alpha IIb beta 3	Cell adhesion molecules (CAMs)
+                 3674 (ITGA2B)
+             5. Cadherin Family
+              Classic Cadherins
+               Vertebrate Type II classic cadherins
+                CDH6; cadherin 6, type 2, K-cadherin [KO:K06798]
+                 alpha IIb  beta 3	Cell adhesion molecules (CAMs)
+                  3674 (ITGA2B)
+             7. Others
+              TNFSF5, CD40L; tumor necrosis factor (ligand) superfamily, member 5 [KO:K03161]
+               alpha IIb beta 3	Cell adhesion molecules (CAMs)
+                3674 (ITGA2B)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3674 (ITGA2B)
+POSITION    17q21.31
+MOTIF       Pfam: Integrin_alpha2 FG-GAP VCBS Integrin_alpha
+DBLINKS     NCBI-GeneID: 3674
+            NCBI-ProteinID: NP_000410
+            OMIM: 607759
+            HGNC: 6138
+            Ensembl: ENSG00000005961
+            Vega: OTTHUMG00000177935
+            Pharos: P08514(Tclin)
+            UniProt: P08514
+STRUCTURE   PDB: 3T3P 3NIG 3NID 3ZE2 3NIF 2VDR 3ZDX 3ZDY 2VDO 3FCS 2VDQ
+                 4Z7N 3T3M 5HDB 4Z7Q 3ZDZ 2VDL 2VDK 2VDP 4Z7O 3FCU 2VDM
+                 2VDN 1TYE 3ZE0 3ZE1 2VC2 4CAK 2N9Y 2MTP 2KNC 2K9J 2K1A
+                 1S4W 1M8O
+AASEQ       1039
+            MARALCPLQALWLLEWVLLLLGPCAAPPAWALNLDPVQLTFYAGPNGSQFGFSLDFHKDS
+            HGRVAIVVGAPRTLGPSQEETGGVFLCPWRAEGGQCPSLLFDLRDETRNVGSQTLQTFKA
+            RQGLGASVVSWSDVIVACAPWQHWNVLEKTEEAEKTPVGSCFLAQPESGRRAEYSPCRGN
+            TLSRIYVENDFSWDKRYCEAGFSSVVTQAGELVLGAPGGYYFLGLLAQAPVADIFSSYRP
+            GILLWHVSSQSLSFDSSNPEYFDGYWGYSVAVGEFDGDLNTTEYVVGAPTWSWTLGAVEI
+            LDSYYQRLHRLRGEQMASYFGHSVAVTDVNGDGRHDLLVGAPLYMESRADRKLAEVGRVY
+            LFLQPRGPHALGAPSLLLTGTQLYGRFGSAIAPLGDLDRDGYNDIAVAAPYGGPSGRGQV
+            LVFLGQSEGLRSRPSQVLDSPFPTGSAFGFSLRGAVDIDDNGYPDLIVGAYGANQVAVYR
+            AQPVVKASVQLLVQDSLNPAVKSCVLPQTKTPVSCFNIQMCVGATGHNIPQKLSLNAELQ
+            LDRQKPRQGRRVLLLGSQQAGTTLNLDLGGKHSPICHTTMAFLRDEADFRDKLSPIVLSL
+            NVSLPPTEAGMAPAVVLHGDTHVQEQTRIVLDCGEDDVCVPQLQLTASVTGSPLLVGADN
+            VLELQMDAANEGEGAYEAELAVHLPQGAHYMRALSNVEGFERLICNQKKENETRVVLCEL
+            GNPMKKNAQIGIAMLVSVGNLEEAGESVSFQLQIRSKNSQNPNSKIVLLDVPVRAEAQVE
+            LRGNSFPASLVVAAEEGEREQNSLDSWGPKVEHTYELHNNGPGTVNGLHLSIHLPGQSQP
+            SDLLYILDIQPQGGLQCFPQPPVNPLKVDWGLPIPSPSPIHPAHHKRDRRQIFLPEPEQP
+            SRLQDPVLVSCDSAPCTVVQCDLQEMARGQRAMVTVLAFLWLPSLYQRPLDQFVLQSHAW
+            FNVSSLPYAVPPLSLPRGEAQVWTQLLRALEERAIPIWWVLVGVLGGLLLLTILVLAMWK
+            VGFFKRNRPPLEEDDEEGE
+NTSEQ       3120
+            atggccagagctttgtgtccactgcaagccctctggcttctggagtgggtgctgctgctc
+            ttgggaccttgtgctgcccctccagcctgggccttgaacctggacccagtgcagctcacc
+            ttctatgcaggccccaatggcagccagtttggattttcactggacttccacaaggacagc
+            catgggagagtggccatcgtggtgggcgccccgcggaccctgggccccagccaggaggag
+            acgggcggcgtgttcctgtgcccctggagggccgagggcggccagtgcccctcgctgctc
+            tttgacctccgtgatgagacccgaaatgtaggctcccaaactttacaaaccttcaaggcc
+            cgccaaggactgggggcgtcggtcgtcagctggagcgacgtcattgtggcctgcgccccc
+            tggcagcactggaacgtcctagaaaagactgaggaggctgagaagacgcccgtaggtagc
+            tgctttttggctcagccagagagcggccgccgcgccgagtactccccctgtcgcgggaac
+            accctgagccgcatttacgtggaaaatgattttagctgggacaagcgttactgtgaagcg
+            ggcttcagctccgtggtcactcaggccggagagctggtgcttggggctcctggcggctat
+            tatttcttaggtctcctggcccaggctccagttgcggatattttctcgagttaccgccca
+            ggcatccttttgtggcacgtgtcctcccagagcctctcctttgactccagcaacccagag
+            tacttcgacggctactgggggtactcggtggccgtgggcgagttcgacggggatctcaac
+            actacagaatatgtcgtcggtgcccccacttggagctggaccctgggagcggtggaaatt
+            ttggattcctactaccagaggctgcatcggctgcgcggagagcagatggcgtcgtatttt
+            gggcattcagtggctgtcactgacgtcaacggggatgggaggcatgatctgctggtgggc
+            gctccactgtatatggagagccgggcagaccgaaaactggccgaagtggggcgtgtgtat
+            ttgttcctgcagccgcgaggcccccacgcgctgggtgcccccagcctcctgctgactggc
+            acacagctctatgggcgattcggctctgccatcgcacccctgggcgacctcgaccgggat
+            ggctacaatgacattgcagtggctgccccctacgggggtcccagtggccggggccaagtg
+            ctggtgttcctgggtcagagtgaggggctgaggtcacgtccctcccaggtcctggacagc
+            cccttccccacaggctctgcctttggcttctcccttcgaggtgccgtagacatcgatgac
+            aacggatacccagacctgatcgtgggagcttacggggccaaccaggtggctgtgtacaga
+            gctcagccagtggtgaaggcctctgtccagctactggtgcaagattcactgaatcctgct
+            gtgaagagctgtgtcctacctcagaccaagacacccgtgagctgcttcaacatccagatg
+            tgtgttggagccactgggcacaacattcctcagaagctatccctaaatgccgagctgcag
+            ctggaccggcagaagccccgccagggccggcgggtgctgctgctgggctctcaacaggca
+            ggcaccaccctgaacctggatctgggcggaaagcacagccccatctgccacaccaccatg
+            gccttccttcgagatgaggcagacttccgggacaagctgagccccattgtgctcagcctc
+            aatgtgtccctaccgcccacggaggctggaatggcccctgctgtcgtgctgcatggagac
+            acccatgtgcaggagcagacacgaatcgtcctggactgtggggaagatgacgtatgtgtg
+            ccccagcttcagctcactgccagcgtgacgggctccccgctcctagttggggcagataat
+            gtcctggagctgcagatggacgcagccaacgagggcgagggggcctatgaagcagagctg
+            gccgtgcacctgccccagggcgcccactacatgcgggccctaagcaatgtcgagggcttt
+            gagagactcatctgtaatcagaagaaggagaatgagaccagggtggtgctgtgtgagctg
+            ggcaaccccatgaagaagaacgcccagataggaatcgcgatgttggtgagcgtggggaat
+            ctggaagaggctggggagtctgtgtccttccagctgcagatacggagcaagaacagccag
+            aatccaaacagcaagattgtgctgctggacgtgccggtccgggcagaggcccaagtggag
+            ctgcgagggaactcctttccagcctccctggtggtggcagcagaagaaggtgagagggag
+            cagaacagcttggacagctggggacccaaagtggagcacacctatgagctccacaacaat
+            ggccctgggactgtgaatggtcttcacctcagcatccaccttccgggacagtcccagccc
+            tccgacctgctctacatcctggatatacagccccaggggggccttcagtgcttcccacag
+            cctcctgtcaaccctctcaaggtggactgggggctgcccatccccagcccctcccccatt
+            cacccggcccatcacaagcgggatcgcagacagatcttcctgccagagcccgagcagccc
+            tcgaggcttcaggatccagttctcgtaagctgcgactcggcgccctgtactgtggtgcag
+            tgtgacctgcaggagatggcgcgcgggcagcgggccatggtcacggtgctggccttcctg
+            tggctgcccagcctctaccagaggcctctggatcagtttgtgctgcagtcgcacgcatgg
+            ttcaacgtgtcctccctcccctatgcggtgcccccgctcagcctgccccgaggggaagct
+            caggtgtggacacagctgctccgggccttggaggagagggccattccaatctggtgggtg
+            ctggtgggtgtgctgggtggcctgctgctgctcaccatcctggtcctggccatgtggaag
+            gtcggcttcttcaagcggaaccggccacccctggaagaagatgatgaagagggggagtga
+///

@@ -1,0 +1,103 @@
+ENTRY       894               CDS       T01001
+NAME        CCND2, KIAK0002, MPPH3
+DEFINITION  (RefSeq) cyclin D2
+ORTHOLOGY   K10151  G1/S-specific cyclin-D2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04510  Focal adhesion
+            hsa04630  Jak-STAT signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa05162  Measles
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05206  MicroRNAs in cancer
+MODULE      hsa_M00692  Cell cycle - G1/S transition
+DISEASE     H00023  Testicular cancer
+            H01885  Megalencephaly-capillary malformation syndrome (MCAP) and megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                894 (CCND2)
+               04340 Hedgehog signaling pathway
+                894 (CCND2)
+               04390 Hippo signaling pathway
+                894 (CCND2)
+               04630 Jak-STAT signaling pathway
+                894 (CCND2)
+               04068 FoxO signaling pathway
+                894 (CCND2)
+               04151 PI3K-Akt signaling pathway
+                894 (CCND2)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                894 (CCND2)
+               04115 p53 signaling pathway
+                894 (CCND2)
+               04218 Cellular senescence
+                894 (CCND2)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                894 (CCND2)
+             Organismal Systems
+              Endocrine system
+               04917 Prolactin signaling pathway
+                894 (CCND2)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                894 (CCND2)
+               05206 MicroRNAs in cancer
+                894 (CCND2)
+               05203 Viral carcinogenesis
+                894 (CCND2)
+              Infectious diseases
+               05166 HTLV-I infection
+                894 (CCND2)
+               05162 Measles
+                894 (CCND2)
+               05165 Human papillomavirus infection
+                894 (CCND2)
+POSITION    12p13.32
+MOTIF       Pfam: Cyclin_N Cyclin_C K-cyclin_vir_C
+DBLINKS     NCBI-GeneID: 894
+            NCBI-ProteinID: NP_001750
+            OMIM: 123833
+            HGNC: 1583
+            Ensembl: ENSG00000118971
+            Vega: OTTHUMG00000168123
+            Pharos: P30279(Tbio)
+            UniProt: P30279
+AASEQ       289
+            MELLCHEVDPVRRAVRDRNLLRDDRVLQNLLTIEERYLPQCSYFKCVQKDIQPYMRRMVA
+            TWMLEVCEEQKCEEEVFPLAMNYLDRFLAGVPTPKSHLQLLGAVCMFLASKLKETSPLTA
+            EKLCIYTDNSIKPQELLEWELVVLGKLKWNLAAVTPHDFIEHILRKLPQQREKLSLIRKH
+            AQTFIALCATDFKFAMYPPSMIATGSVGAAICGLQQDEEVSSLTCDALTELLAKITNTDV
+            DCLKACQEQIEAVLLNSLQQYRQDQRDGSKSEDELDQASTPTDVRDIDL
+NTSEQ       870
+            atggagctgctgtgccacgaggtggacccggtccgcagggccgtgcgggaccgcaacctg
+            ctccgagacgaccgcgtcctgcagaacctgctcaccatcgaggagcgctaccttccgcag
+            tgctcctacttcaagtgcgtgcagaaggacatccaaccctacatgcgcagaatggtggcc
+            acctggatgctggaggtctgtgaggaacagaagtgcgaagaagaggtcttccctctggcc
+            atgaattacctggaccgtttcttggctggggtcccgactccgaagtcccatctgcaactc
+            ctgggtgctgtctgcatgttcctggcctccaaactcaaagagaccagcccgctgaccgcg
+            gagaagctgtgcatttacaccgacaactccatcaagcctcaggagctgctggagtgggaa
+            ctggtggtgctggggaagttgaagtggaacctggcagctgtcactcctcatgacttcatt
+            gagcacatcttgcgcaagctgccccagcagcgggagaagctgtctctgatccgcaagcat
+            gctcagaccttcattgctctgtgtgccaccgactttaagtttgccatgtacccaccgtcg
+            atgatcgcaactggaagtgtgggagcagccatctgtgggctccagcaggatgaggaagtg
+            agctcgctcacttgtgatgccctgactgagctgctggctaagatcaccaacacagacgtg
+            gattgtctcaaagcttgccaggagcagattgaggcggtgctcctcaatagcctgcagcag
+            taccgtcaggaccaacgtgacggatccaagtcggaggatgaactggaccaagccagcacc
+            cctacagacgtgcgggatatcgacctgtga
+///

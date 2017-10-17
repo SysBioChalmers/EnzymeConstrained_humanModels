@@ -1,0 +1,92 @@
+ENTRY       57818             CDS       T01001
+NAME        G6PC2, IGRP
+DEFINITION  (RefSeq) glucose-6-phosphatase catalytic subunit 2
+ORTHOLOGY   K01084  glucose-6-phosphatase [EC:3.1.3.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00052  Galactose metabolism
+            hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+            hsa04068  FoxO signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04973  Carbohydrate digestion and absorption
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                57818 (G6PC2)
+               00052 Galactose metabolism
+                57818 (G6PC2)
+               00500 Starch and sucrose metabolism
+                57818 (G6PC2)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                57818 (G6PC2)
+               04151 PI3K-Akt signaling pathway
+                57818 (G6PC2)
+               04152 AMPK signaling pathway
+                57818 (G6PC2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                57818 (G6PC2)
+               04922 Glucagon signaling pathway
+                57818 (G6PC2)
+               04920 Adipocytokine signaling pathway
+                57818 (G6PC2)
+              Digestive system
+               04973 Carbohydrate digestion and absorption
+                57818 (G6PC2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                57818 (G6PC2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.9  glucose-6-phosphatase
+                 57818 (G6PC2)
+POSITION    2q31.1
+MOTIF       Pfam: PAP2
+DBLINKS     NCBI-GeneID: 57818
+            NCBI-ProteinID: NP_066999
+            OMIM: 608058
+            HGNC: 28906
+            Ensembl: ENSG00000152254
+            Vega: OTTHUMG00000132182
+            Pharos: Q9NQR9(Tbio)
+            UniProt: Q9NQR9
+AASEQ       355
+            MDFLHRNGVLIIQHLQKDYRAYYTFLNFMSNVGDPRNIFFIYFPLCFQFNQTVGTKMIWV
+            AVIGDWLNLIFKWILFGHRPYWWVQETQIYPNHSSPCLEQFPTTCETGPGSPSGHAMGAS
+            CVWYVMVTAALSHTVCGMDKFSITLHRLTWSFLWSVFWLIQISVCISRVFIATHFPHQVI
+            LGVIGGMLVAEAFEHTPGIQTASLGTYLKTNLFLFLFAVGFYLLLRVLNIDLLWSVPIAK
+            KWCANPDWIHIDTTPFAGLVRNLGVLFGLGFAINSEMFLLSCRGGNNYTLSFRLLCALTS
+            LTILQLYHFLQIPTHEEHLFYVLSFCKSASIPLTVVAFIPYSVHMLMKQSGKKSQ
+NTSEQ       1068
+            atggatttccttcacaggaatggagtgctcataattcagcatttgcagaaggactaccga
+            gcttactacacttttctaaattttatgtccaatgttggagaccccaggaatatctttttc
+            atttattttccactttgttttcaatttaatcagacagttggaaccaagatgatatgggta
+            gcagtcattggggattggttaaatcttatatttaaatggatattatttggtcatcgacct
+            tactggtgggtccaagaaactcagatttacccaaatcactcaagtccatgccttgaacag
+            ttccctactacatgtgaaacaggtccaggaagtccatctggccatgcaatgggcgcatcc
+            tgtgtctggtatgtcatggtaaccgctgccctgagccacactgtctgtgggatggataag
+            ttctctatcactctgcacagactgacctggtcatttctttggagtgttttttggttgatt
+            caaatcagtgtctgcatctccagagtattcatagcaacacattttcctcatcaagttatt
+            cttggagtaattggtggcatgctggtggcagaggcctttgaacacactccaggcatccaa
+            acggccagtctgggcacatacctgaagaccaacctctttctcttcctgtttgcagttggc
+            ttttacctgcttcttagggtgctcaacattgacctgctgtggtccgtgcccatagccaaa
+            aagtggtgtgctaaccccgactggatccacattgacaccacgccttttgctggactcgtg
+            agaaaccttggggtcctctttggcttgggctttgcaatcaactcagagatgttcctcctg
+            agctgccgagggggaaataactacacactgagcttccggttgctctgtgccttgacctca
+            ttgacaatactgcagctctaccatttcctccagatcccgactcacgaagagcatttattt
+            tatgtgctgtctttttgtaaaagtgcatccattcccctaactgtggttgctttcattccc
+            tactctgttcatatgttaatgaaacaaagcggaaagaagagtcagtag
+///

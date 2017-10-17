@@ -1,0 +1,84 @@
+ENTRY       9054              CDS       T01001
+NAME        NFS1, HUSSY-08, IscS, NIFS
+DEFINITION  (RefSeq) NFS1, cysteine desulfurase
+ORTHOLOGY   K04487  cysteine desulfurase [EC:2.8.1.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00730  Thiamine metabolism
+            hsa01100  Metabolic pathways
+            hsa04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                9054 (NFS1)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04122 Sulfur relay system
+                9054 (NFS1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.7  cysteine desulfurase
+                 9054 (NFS1)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              tRNA modification factors
+               Thiolation factors
+                9054 (NFS1)
+             Prokaryotic Type
+                9054 (NFS1)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                9054 (NFS1)
+            Prokaryotic defense system [BR:hsa02048]
+             DNA phosphothiolation system
+              Sulfur modification proteins
+               9054 (NFS1)
+POSITION    20q11.22
+MOTIF       Pfam: Aminotran_5 Beta_elim_lyase DegT_DnrJ_EryC1 Pyridoxal_deC
+DBLINKS     NCBI-GeneID: 9054
+            NCBI-ProteinID: NP_066923
+            OMIM: 603485
+            HGNC: 15910
+            Ensembl: ENSG00000244005
+            Vega: OTTHUMG00000032361
+            Pharos: Q9Y697(Tbio)
+            UniProt: Q9Y697 Q53FP3
+STRUCTURE   PDB: 5WGB 5USR 5KZ5
+AASEQ       457
+            MLLRAAWRRAAVAVTAAPGPKPAAPTRGLRLRVGDRAPQSAVPADTAAAPEVGPVLRPLY
+            MDVQATTPLDPRVLDAMLPYLINYYGNPHSRTHAYGWESEAAMERARQQVASLIGADPRE
+            IIFTSGATESNNIAIKGVARFYRSRKKHLITTQTEHKCVLDSCRSLEAEGFQVTYLPVQK
+            SGIIDLKELEAAIQPDTSLVSVMTVNNEIGVKQPIAEIGRICSSRKVYFHTDAAQAVGKI
+            PLDVNDMKIDLMSISGHKIYGPKGVGAIYIRRRPRVRVEALQSGGGQERGMRSGTVPTPL
+            VVGLGAACEVAQQEMEYDHKRISKLSERLIQNIMKSLPDVVMNGDPKHHYPGCINLSFAY
+            VEGESLLMALKDVALSSGSACTSASLEPSYVLRAIGTDEDLAHSSIRFGIGRFTTEEEVD
+            YTVEKCIQHVKRLREMSPLWEMVQDGIDLKSIKWTQH
+NTSEQ       1374
+            atgctgctccgagccgcttggaggcgggcggcagtggcggtgacagcggctccagggccg
+            aagcccgcggcgcccactcgggggctgcgcctgcgcgttggagaccgtgctcctcagtct
+            gcggttcccgcagatacagccgctgccccggaggtggggccagtgctgcgacctctctat
+            atggatgtgcaagctacaactcctctggacccccgggtgcttgatgccatgctcccttac
+            ctaatcaactactatgggaacccacactcccggacacatgcttatggctgggagagtgag
+            gcagccatggaacgtgctcgtcagcaagtagcatctctgattggagctgatcctcgtgag
+            atcatttttactagtggtgctactgaatccaacaacatagcaattaagggggtggcccga
+            ttctacaggtcacggaaaaagcacttgatcaccacccagacagaacacaaatgtgtcttg
+            gactcctgccgttcactggaagctgagggctttcaggtcacctacctcccagtgcagaag
+            agtgggatcattgacctaaaggaactagaggctgctatccagccagatactagcctggtg
+            tcagtcatgactgtgaacaatgagattggagtgaagcagcctattgcagaaatagggcgg
+            atttgcagttccagaaaggtatatttccatactgatgcagcccaggctgttggaaaaatc
+            ccacttgatgtcaatgacatgaaaattgatctcatgagcattagtggtcacaaaatctac
+            ggtcccaaaggggttggtgccatctacatccgtcgccggccccgtgtgcgtgtggaggcc
+            ctgcagagtggaggggggcaggagcggggtatgcggtctgggacagtgcccacaccctta
+            gtggtggggctgggggctgcgtgtgaggtggcacagcaagagatggagtatgaccacaag
+            cgaatctcaaagttgtcagagcggctgatacagaatataatgaagagccttccagatgtg
+            gtgatgaatggggaccctaagcaccattatcccggctgtatcaacctctcctttgcatat
+            gtggaaggggaaagtctgctgatggcactgaaggacgttgccttatcctcagggagtgcc
+            tgcacctctgcatccctggagccctcttatgtgcttagagcaattggcactgatgaggat
+            ttagcgcactcttctatcaggtttggaattggccgcttcactacagaggaggaagtggac
+            tacacagtggagaaatgcattcagcatgtgaagcgtcttcgagaaatgagccctctctgg
+            gagatggttcaggatggcattgacctcaagagcatcaagtggacccaacactag
+///

@@ -1,0 +1,80 @@
+ENTRY       8612              CDS       T01001
+NAME        PLPP2, LPP2, PAP-2c, PAP2-g, PPAP2C
+DEFINITION  (RefSeq) phospholipid phosphatase 2
+ORTHOLOGY   K01080  phosphatidate phosphatase [EC:3.1.3.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04072  Phospholipase D signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04975  Fat digestion and absorption
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00089  Triacylglycerol biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                8612 (PLPP2)
+               00564 Glycerophospholipid metabolism
+                8612 (PLPP2)
+               00565 Ether lipid metabolism
+                8612 (PLPP2)
+               00600 Sphingolipid metabolism
+                8612 (PLPP2)
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                8612 (PLPP2)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                8612 (PLPP2)
+              Digestive system
+               04975 Fat digestion and absorption
+                8612 (PLPP2)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                8612 (PLPP2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.4  phosphatidate phosphatase
+                 8612 (PLPP2)
+POSITION    19p13.3
+MOTIF       Pfam: PAP2 LrgB Form_Nir_trans PAP2_C DUF2976
+DBLINKS     NCBI-GeneID: 8612
+            NCBI-ProteinID: NP_003703
+            OMIM: 607126
+            HGNC: 9230
+            Ensembl: ENSG00000141934
+            Vega: OTTHUMG00000180530
+            Pharos: O43688(Tbio)
+            UniProt: O43688
+AASEQ       288
+            MQRRWVFVLLDVLCLLVASLPFAILTLVNAPYKRGFYCGDDSIRYPYRPDTITHGLMAGV
+            TITATVILVSAGEAYLVYTDRLYSRSDFNNYVAAVYKVLGTFLFGAAVSQSLTDLAKYMI
+            GRLRPNFLAVCDPDWSRVNCSVYVQLEKVCRGNPADVTEARLSFYSGHSSFGMYCMVFLA
+            LYVQARLCWKWARLLRPTVQFFLVAFALYVGYTRVSDYKHHWSDVLVGLLQGALVAALTV
+            CYISDFFKARPPQHCLKEEELERKPSLSLTLTLGEADHNHYGYPHSSS
+NTSEQ       867
+            atgcagcggaggtgggtcttcgtgctgctcgacgtgctgtgcttactggtcgcctccctg
+            cccttcgctatcctgacgctggtgaacgccccgtacaagcgaggattttactgcggggat
+            gactccatccggtacccctaccgtccagataccatcacccacgggctcatggctggggtc
+            accatcacggccaccgtcatccttgtctcggccggggaagcctacctggtgtacacagac
+            cggctctattctcgctcggacttcaacaactacgtggctgctgtatacaaggtgctgggg
+            accttcctgtttggggctgccgtgagccagtctctgacagacctggccaagtacatgatt
+            gggcgtctgaggcccaacttcctagccgtctgcgaccccgactggagccgggtcaactgc
+            tcggtctatgtgcagctggagaaggtgtgcaggggaaaccctgctgatgtcaccgaggcc
+            aggttgtctttctactcgggacactcttcctttgggatgtactgcatggtgttcttggcg
+            ctgtatgtgcaggcacgactctgttggaagtgggcacggctgctgcgacccacagtccag
+            ttcttcctggtggcctttgccctctacgtgggctacacccgcgtgtctgattacaaacac
+            cactggagcgatgtccttgttggcctcctgcagggggcactggtggctgccctcactgtc
+            tgctacatctcagacttcttcaaagcccgacccccacagcactgtctgaaggaggaggag
+            ctggaacggaagcccagcctgtcactgacgttgaccctgggcgaggctgaccacaaccac
+            tatggatacccgcactcctcctcctga
+///

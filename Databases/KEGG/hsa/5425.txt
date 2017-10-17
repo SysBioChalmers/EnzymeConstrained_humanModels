@@ -1,0 +1,99 @@
+ENTRY       5425              CDS       T01001
+NAME        POLD2
+DEFINITION  (RefSeq) DNA polymerase delta 2, accessory subunit
+ORTHOLOGY   K02328  DNA polymerase delta subunit 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03030  DNA replication
+            hsa03410  Base excision repair
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00262  DNA polymerase delta complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5425 (POLD2)
+               00240 Pyrimidine metabolism
+                5425 (POLD2)
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                5425 (POLD2)
+               03410 Base excision repair
+                5425 (POLD2)
+               03420 Nucleotide excision repair
+                5425 (POLD2)
+               03430 Mismatch repair
+                5425 (POLD2)
+               03440 Homologous recombination
+                5425 (POLD2)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                5425 (POLD2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               DNA polymerase delta complex
+                5425 (POLD2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase delta complex
+                  5425 (POLD2)
+               MMR (mismatch exicision repair)
+                DNA polymerase delta complex
+                 5425 (POLD2)
+POSITION    7p13
+MOTIF       Pfam: DNA_pol_E_B
+DBLINKS     NCBI-GeneID: 5425
+            NCBI-ProteinID: NP_001120690
+            OMIM: 600815
+            HGNC: 9176
+            Ensembl: ENSG00000106628
+            Vega: OTTHUMG00000022909
+            Pharos: P49005(Tbio)
+            UniProt: P49005
+STRUCTURE   PDB: 3E0J
+AASEQ       469
+            MFSEQAAQRAHTLLSPPSANNATFARVPVATYTNSSQPFRLGERSFSRQYAHIYATRLIQ
+            MRPFLENRAQQHWGSGVGVKKLCELQPEEKCCVVGTLFKAMPLQPSILREVSEEHNLLPQ
+            PPRSKYIHPDDELVLEDELQRIKLKGTIDVSKLVTGTVLAVFGSVRDDGKFLVEDYCFAD
+            LAPQKPAPPLDTDRFVLLVSGLGLGGGGGESLLGTQLLVDVVTGQLGDEGEQCSAAHVSR
+            VILAGNLLSHSTQSRDSINKAKYLTKKTQAASVEAVKMLDEILLQLSASVPVDVMPGEFD
+            PTNYTLPQQPLHPCMFPLATAYSTLQLVTNPYQATIDGVRFLGTSGQNVSDIFRYSSMED
+            HLEILEWTLRVRHISPTAPDTLGCYPFYKTDPFIFPECPHVYFCGNTPSFGSKIIRGPED
+            QTVLLVTVPDFSATQTACLVNLRSLACQPISFSGFGAEDDDLGGLGLGP
+NTSEQ       1410
+            atgttttctgagcaggctgcccagagggcccacactctactgtccccaccatcagccaac
+            aatgccacctttgcccgggtgccagtggcaacctacaccaactcctcacaacccttccgg
+            ctaggagagcgcagctttagccggcagtatgcccacatttatgccacccgcctcatccaa
+            atgagacccttcctggagaaccgggcccagcagcactggggcagtggagtgggagtgaag
+            aagctgtgtgaactgcagcctgaggagaagtgctgtgtggtgggcactctgttcaaggcc
+            atgccgctgcagccctccatcctgcgggaggtcagcgaggagcacaacctgctcccccag
+            cctcctcggagtaaatacatacacccagatgacgagctggtcttggaagatgaactgcag
+            cgtatcaaactaaaaggcaccattgacgtgtcaaagctggttacggggactgtcctggct
+            gtgtttggctccgtgagagacgacgggaagtttctggtggaggactattgctttgctgac
+            cttgctccccagaagcccgcacccccacttgacacagataggtttgtgctactggtgtcc
+            ggcctgggcctgggtggcggtggaggcgagagcctgctgggcacccagctgctggtggat
+            gtggtgacggggcagcttggggacgaaggggagcagtgcagcgccgcccacgtctcccgg
+            gttatcctcgctggcaacctcctcagccacagcacccagagcagggattctatcaataag
+            gccaaatacctcaccaagaaaacccaggcagccagcgtggaggctgttaagatgctggat
+            gagatcctcctgcagctgagcgcctcagtgcccgtggacgtgatgccaggcgagtttgat
+            cccaccaattacacgctcccccagcagcccctccacccctgcatgttcccgctggccact
+            gcctactccacgctccagctggtcaccaacccctaccaggccaccattgatggagtcaga
+            tttttggggacatcaggacagaacgtgagtgacattttccgatacagcagcatggaggat
+            cacttggagatcctggagtggaccctgcgggtccgtcacatcagccccacagcccctgac
+            actctaggttgttaccccttctacaaaactgacccgttcatcttcccagagtgcccgcat
+            gtctacttttgtggcaacacccccagctttggctccaaaatcatccgaggtcctgaggac
+            cagacagtgctgttggtgactgtccctgacttcagtgccacgcagaccgcctgccttgtg
+            aacctgcgcagcctggcctgccagcccatcagcttctcgggcttcggggcagaggacgat
+            gacctgggaggcctggggctgggcccctga
+///

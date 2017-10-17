@@ -1,0 +1,83 @@
+ENTRY       127               CDS       T01001
+NAME        ADH4, ADH-2, HEL-S-4
+DEFINITION  (RefSeq) alcohol dehydrogenase 4 (class II), pi polypeptide
+ORTHOLOGY   K13980  alcohol dehydrogenase 4 [EC:1.1.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00071  Fatty acid degradation
+            hsa00350  Tyrosine metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                127 (ADH4)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                127 (ADH4)
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                127 (ADH4)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                127 (ADH4)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                127 (ADH4)
+               00982 Drug metabolism - cytochrome P450
+                127 (ADH4)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                127 (ADH4)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.1  alcohol dehydrogenase
+                 127 (ADH4)
+POSITION    4q23
+MOTIF       Pfam: ADH_zinc_N ADH_N ADH_zinc_N_2 UDPG_MGDP_dh_N Glu_dehyd_C Thioredoxin
+DBLINKS     NCBI-GeneID: 127
+            NCBI-ProteinID: NP_000661
+            OMIM: 103740
+            HGNC: 252
+            Ensembl: ENSG00000198099
+            Vega: OTTHUMG00000161227
+            Pharos: P08319(Tbio)
+            UniProt: P08319 V9HVX7
+STRUCTURE   PDB: 3COS
+AASEQ       380
+            MGTKGKVIKCKAAIAWEAGKPLCIEEVEVAPPKAHEVRIQIIATSLCHTDATVIDSKFEG
+            LAFPVIVGHEAAGIVESIGPGVTNVKPGDKVIPLYAPLCRKCKFCLSPLTNLCGKISNLK
+            SPASDQQLMEDKTSRFTCKGKPVYHFFGTSTFSQYTVVSDINLAKIDDDANLERVCLLGC
+            GFSTGYGAAINNAKVTPGSTCAVFGLGGVGLSAVMGCKAAGASRIIGIDINSEKFVKAKA
+            LGATDCLNPRDLHKPIQEVIIELTKGGVDFALDCAGGSETMKAALDCTTAGWGSCTFIGV
+            AAGSKGLTIFPEELIIGRTINGTFFGGWKSVDSIPKLVTDYKNKKFNLDALVTHTLPFDK
+            ISEAFDLMNQGKSVRTILIF
+NTSEQ       1143
+            atgggcaccaagggcaaagttattaaatgcaaagcagccatcgcctgggaagcaggcaag
+            cccctttgcattgaagaggttgaagtagctccccccaaggctcatgaagttcgcattcag
+            atcattgctacctccctgtgccatactgatgccactgttatcgattctaaatttgagggc
+            ctagctttcccagtgatcgttggccatgaggctgcaggtattgtggaaagtattgggcca
+            ggagtgaccaacgtcaaaccaggtgacaaagtaattccactttatgcacctctatgtaga
+            aaatgcaagttttgtctgagtccactcacaaatttgtgtgggaaaatcagtaatctcaaa
+            agtcctgctagtgatcaacaactaatggaagacaaaaccagcaggtttacctgcaaagga
+            aaaccagtttaccatttctttggaaccagtacattctctcagtacactgtggtgtcagat
+            atcaatcttgccaaaatagatgatgatgcaaatttagagagagtttgtctgcttggatgt
+            gggttttcaactggctatggggctgcaatcaacaatgccaaggtcacccctggttcgact
+            tgtgctgtctttggcctaggaggtgtgggtctttctgctgtaatgggttgtaaagcagca
+            ggagcttccagaatcataggtattgacatcaacagtgagaagtttgtgaaggctaaagcc
+            ctgggagccactgactgcctcaatcctagagacttacataaaccgatccaggaagttatc
+            attgaattgaccaagggaggtgtggattttgcccttgactgtgcaggtggatctgaaacc
+            atgaaagcagccctggactgtacaaccgcaggctggggatcatgtactttcattggagta
+            gctgctggtagcaaaggattgactatttttccagaggagctaataatcggccgtactata
+            aatggaacattctttggtggttggaaaagtgtagattctatcccaaagctggtcactgac
+            tataagaataagaaattcaatctggatgcactggtgacccataccctgccttttgacaaa
+            atcagtgaggcatttgacctaatgaaccaaggaaaaagcgtccgaacaatcctcatcttt
+            tga
+///

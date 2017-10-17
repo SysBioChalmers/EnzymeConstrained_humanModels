@@ -1,0 +1,93 @@
+ENTRY       10840             CDS       T01001
+NAME        ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD
+DEFINITION  (RefSeq) aldehyde dehydrogenase 1 family member L1
+ORTHOLOGY   K00289  formyltetrahydrofolate dehydrogenase [EC:1.5.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00670  One carbon pool by folate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                10840 (ALDH1L1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.1  With NAD+ or NADP+ as acceptor
+                1.5.1.6  formyltetrahydrofolate dehydrogenase
+                 10840 (ALDH1L1)
+POSITION    3q21.3
+MOTIF       Pfam: Aldedh Formyl_trans_N Formyl_trans_C PP-binding DUF1487
+DBLINKS     NCBI-GeneID: 10840
+            NCBI-ProteinID: NP_036322
+            OMIM: 600249
+            HGNC: 3978
+            Ensembl: ENSG00000144908
+            Vega: OTTHUMG00000125551
+            Pharos: O75891(Tbio)
+            UniProt: O75891 Q53H87
+STRUCTURE   PDB: 2CFI 2BW0 2CQ8
+AASEQ       902
+            MKIAVIGQSLFGQEVYCHLRKEGHEVVGVFTVPDKDGKADPLGLEAEKDGVPVFKYSRWR
+            AKGQALPDVVAKYQALGAELNVLPFCSQFIPMEIISAPRHGSIIYHPSLLPRHRGASAIN
+            WTLIHGDKKGGFSIFWADDGLDTGDLLLQKECEVLPDDTVSTLYNRFLFPEGIKGMVQAV
+            RLIAEGKAPRLPQPEEGATYEGIQKKETAKINWDQPAEAIHNWIRGNDKVPGAWTEACEQ
+            KLTFFNSTLNTSGLVPEGDALPIPGAHRPGVVTKAGLILFGNDDKMLLVKNIQLEDGKMI
+            LASNFFKGAASSVLELTEAELVTAEAVRSVWQRILPKVLEVEDSTDFFKSGAASVDVVRL
+            VEEVKELCDGLELENEDVYMASTFGDFIQLLVRKLRGDDEEGECSIDYVEMAVNKRTVRM
+            PHQLFIGGEFVDAEGAKTSETINPTDGSVICQVSLAQVTDVDKAVAAAKDAFENGRWGKI
+            SARDRGRLMYRLADLMEQHQEELATIEALDAGAVYTLALKTHVGMSIQTFRYFAGWCDKI
+            QGSTIPINQARPNRNLTLTRKEPVGVCGIIIPWNYPLMMLSWKTAACLAAGNTVVIKPAQ
+            VTPLTALKFAELTLKAGIPKGVVNVLPGSGSLVGQRLSDHPDVRKIGFTGSTEVGKHIMK
+            SCAISNVKKVSLELGGKSPLIIFADCDLNKAVQMGMSSVFFNKGENCIAAGRLFVEDSIH
+            DEFVRRVVEEVRKMKVGNPLDRDTDHGPQNHHAHLVKLMEYCQHGVKEGATLVCGGNQVP
+            RPGFFFEPTVFTDVEDHMFIAKEESFGPVMIISRFADGDLDAVLSRANATEFGLASGVFT
+            RDINKALYVSDKLQAGTVFVNTYNKTDVAAPFGGFKQSGFGKDLGEAALNEYLRVKTVTF
+            EY
+NTSEQ       2709
+            atgaagattgcagtgattggacagagcctgtttggccaggaagtttactgccacctgagg
+            aaggagggccacgaagtggtgggtgtgttcactgttccagacaaggatggaaaggccgac
+            cccctgggtctggaagctgagaaggatggagtgccggtattcaagtactcccggtggcgt
+            gcaaaaggacaggctttgcctgatgtggtggcaaaataccaggctttgggggccgagctc
+            aacgtcctgcccttctgcagccaattcatccccatggagataatcagtgccccccggcat
+            ggctccatcatctatcacccgtcactgctccctaggcaccgaggggcctcggccatcaac
+            tggaccctcattcacggagataagaaaggggggttttccatcttctgggcggatgatggt
+            ctggacaccggagacctgctgctgcagaaggagtgtgaggtgctcccggacgacaccgtg
+            agcacgctgtacaaccgcttcctcttccctgaaggcatcaaagggatggtgcaggccgtg
+            aggctgatcgctgagggcaaagcccccagactccctcagcctgaggaaggagccacctat
+            gaggggattcagaagaaggagacagccaagatcaactgggaccagccggcagaggccatt
+            cacaactggatccgcgggaacgacaaggtgccgggagcctggacagaggcctgtgaacag
+            aaactgacatttttcaactcaacgctgaacacttcaggcctggtgcccgagggagacgct
+            ttgcccatcccaggagcccatcggccaggggtggtcaccaaagcaggactcatcctcttt
+            gggaatgatgacaaaatgctgctggtgaagaatattcagctggaggatggcaaaatgatc
+            ctggcctcgaacttctttaagggggcagccagcagtgtccttgagctgacagaggcagag
+            ctggttactgcggaggctgtgcggagtgtttggcagcggatcctccccaaagtcctggag
+            gttgaagactccactgatttcttcaagtcaggggccgcgtctgtggacgttgtgaggctg
+            gtggaggaagtgaaggagctgtgtgatggcctggagttagaaaatgaagatgtgtacatg
+            gcatccacctttggggacttcatccagctgttagtgaggaagctgcgaggggacgatgag
+            gagggcgagtgcagcattgactacgtggaaatggcagtgaacaagcgcactgtccgcatg
+            ccccaccagctcttcattgggggggagttcgtggatgccgagggcgccaagacctctgag
+            accatcaatcccaccgatggaagtgtcatctgccaggtatccctggcccaagtcaccgac
+            gtcgacaaggcagtggccgcagccaaggatgcctttgagaatggacggtgggggaagatc
+            agtgcgcgggaccggggccggctgatgtacaggttggcagatctcatggagcagcaccag
+            gaggagctggccaccattgaggccctggatgcgggtgccgtctacacgctggccctgaag
+            acccacgtgggcatgtccatccagaccttccgctactttgctggctggtgtgacaagatc
+            cagggctccaccatccccatcaaccaggccagacccaaccgcaacctgaccttgaccagg
+            aaggagcctgttggggtttgtggcatcatcatcccctggaactatcccctgatgatgctg
+            tcctggaagacagctgcctgcctggctgccgggaacacagtggtgatcaagcctgctcag
+            gtgaccccactcacagccttgaagtttgcagagctgacattaaaggccggcattcccaaa
+            ggtgtggttaacgtcctcccaggatctggctccctggtcggccagagactctcagaccat
+            cctgatgtgaggaaaatcgggttcacaggctccacagaggtgggcaagcacatcatgaaa
+            agctgtgccataagtaacgtgaagaaggtgtccctggaactgggcgggaagtcacccctc
+            atcatctttgctgactgtgacctcaacaaggctgtgcagatggggatgagttctgttttc
+            ttcaacaaaggagagaattgcattgcagcaggccgactctttgtggaggactccattcat
+            gatgagttcgtgcggagagtggtagaagaggtgcggaagatgaaggtgggcaacccgctg
+            gacagggacaccgaccacgggccgcagaatcaccatgcccaccttgtgaagctgatggag
+            tactgccagcatggcgtgaaggaaggggccacactggtctgcggcgggaatcaggtccct
+            cggccagggttcttctttgagccaactgttttcacagacgtggaagaccacatgttcata
+            gccaaggaggagtccttcgggcctgtcatgatcatctctcggtttgctgatggggacttg
+            gatgccgtgctgtctcgggccaatgccacggaatttggcctggcttctggtgtcttcacc
+            agggacatcaacaaggccctgtatgtcagtgacaagctccaggcaggcactgtgtttgtc
+            aacacgtacaacaagaccgacgtggccgctcccttcggaggattcaaacagtctggattt
+            ggcaaagatctaggagaggcggctctgaacgagtacctgcgggtcaagacagtgaccttc
+            gaatactga
+///

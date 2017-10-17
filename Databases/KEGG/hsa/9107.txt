@@ -1,0 +1,87 @@
+ENTRY       9107              CDS       T01001
+NAME        MTMR6
+DEFINITION  (RefSeq) myotubularin related protein 6
+ORTHOLOGY   K18083  myotubularin-related protein 6/7/8 [EC:3.1.3.64 3.1.3.95]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                9107 (MTMR6)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                9107 (MTMR6)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.64  phosphatidylinositol-3-phosphatase
+                 9107 (MTMR6)
+                3.1.3.95  phosphatidylinositol-3,5-bisphosphate 3-phosphatase
+                 9107 (MTMR6)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class I PTPs (Dual specificity phosphatases)
+               Myotubularins
+                9107 (MTMR6)
+POSITION    13q12.13
+MOTIF       Pfam: Myotub-related Y_phosphatase DSPc GRAM Y_phosphatase3 Rtt106
+DBLINKS     NCBI-GeneID: 9107
+            NCBI-ProteinID: NP_004676
+            OMIM: 603561
+            HGNC: 7453
+            Ensembl: ENSG00000139505
+            Vega: OTTHUMG00000016606
+            Pharos: Q9Y217(Tbio)
+            UniProt: Q9Y217
+STRUCTURE   PDB: 2YF0
+AASEQ       621
+            MEHIRTTKVEQVKLLDRFSTSNKSLTGTLYLTATHLLFIDSHQKETWILHHHIASVEKLA
+            LTTSGCPLVIQCKNFRTVHFIVPRERDCHDIYNSLLQLSKQAKYEDLYAFSYNPKQNDSE
+            RLQGWQLIDLAEEYKRMGVPNSHWQLSDANRDYKICETYPRELYVPRIASKPIIVGSSKF
+            RSKGRFPVLSYYHQDKEAAICRCSQPLSGFSARCLEDEHLLQAISKANPVNRYMYVMDTR
+            PKLNAMANRAAGKGYENEDNYSNIRFQFVGIENIHVMRSSLQKLLEVNGTKGLSVNDFYS
+            GLESSGWLRHIKAVMDAAIFLAKAITVENASVLVHCSDGWDRTSQVCSLGSLLLDSYYRT
+            IKGFMVLIEKDWISFGHKFSERCGQLDGDPKEVSPVFTQFLECVWHLTEQFPQAFEFSEA
+            FLLQIHEHIHSCQFGNFLGNCQKEREELKLKEKTYSLWPFLLEDQKKYLNPLYSSESHRF
+            TVLEPNTVSFNFKFWRNMYHQFDRTLHPRQSVFNIIMNMNEQNKQLEKDIKDLESKIKQR
+            KNKQTDGILTKELLHSVHPESPNLKTSLCFKEQTLLPVNDALRTIEGSSPADNRYSEYAE
+            EFSKSEPAVVSLEYGVARMTC
+NTSEQ       1866
+            atggagcatatccggacgaccaaggtcgaacaagtaaaattacttgaccgattcagtacc
+            agcaacaagtcattaacaggaacactgtatcttacggctacacatctattatttatcgac
+            tctcatcaaaaagaaacctggatattacaccaccatattgcctcagtagagaaacttgct
+            ttgactacttctggatgcccccttgtgatacagtgcaagaacttcagaactgtgcatttc
+            attgttcccagagaaagagattgccatgatatttacaactctttgctacaactgtcaaaa
+            caagcaaaatatgaagatctctatgcattttcttataatcccaaacaaaatgattcagaa
+            cgactacaaggctggcagctcattgatctcgctgaggaatataagaggatgggagtgcca
+            aactcacactggcagttgtctgatgccaaccgggactacaagatttgtgaaacttacccc
+            agagaactttatgttccccggatagcaagcaaaccaataattgttggtagttccaagttc
+            cggagcaagggaagattcccagttctttcctactatcatcaagataaggaggctgccatt
+            tgtcgatgtagtcagccactctctggattcagtgccaggtgcctggaggatgaacatttg
+            cttcaagccattagtaaagccaatccagtcaatcgctatatgtacgtcatggataccagg
+            ccaaaactgaatgcaatggccaacagagcagctggaaaaggttatgaaaatgaagacaac
+            tattccaatattagatttcagtttgttggaattgaaaatattcatgtcatgaggtccagc
+            cttcagaaattattggaagtcaatggcactaaagggctttctgtcaatgatttctactcc
+            ggtttggagagctcgggatggcttcgccatatcaaagctgttatggatgctgcaatcttc
+            ttggccaaagcaataacagttgaaaatgcaagtgtgttggtgcattgttccgatggttgg
+            gataggacttcccaggtttgttccctgggttctcttttattggattcctactacaggaca
+            atcaaaggattcatggttttaatagaaaaggattggatctcttttggacataaattttca
+            gagaggtgtggccagttggatggtgacccaaaggaagtctcaccagtgtttactcagttc
+            ttggaatgtgtgtggcatttgaccgaacagtttccacaagcctttgaattcagtgaagca
+            tttcttcttcagatccatgagcatattcattcatgccagtttggaaacttccttggaaat
+            tgtcagaaggaaagagaagagctcaagttgaaggagaagacttattccctgtggccattt
+            cttttggaagaccaaaagaagtacttaaatcctctctacagttccgaatctcacagattt
+            acagttttggagccaaatacagtatctttcaattttaagttttggaggaacatgtaccat
+            caatttgatcgaacactgcatcctaggcagtctgtatttaatataattatgaatatgaat
+            gagcaaaataaacaattagagaaagatattaaagacctagaatctaaaattaaacaacgc
+            aaaaataagcaaacagatggcatcctcaccaaggaattgttacattcagttcatcctgaa
+            tcacctaacctcaaaacttccctgtgttttaaagagcagactctgctacccgtaaatgat
+            gctcttcgaactatagagggcagcagcccggcagataatcgttatagtgaatatgcagaa
+            gagttttctaaatcagaacctgctgtggtcagcttagagtatggtgtggcaagaatgact
+            tgttag
+///

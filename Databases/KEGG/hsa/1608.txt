@@ -1,0 +1,101 @@
+ENTRY       1608              CDS       T01001
+NAME        DGKG, DAGK3, DGK-GAMMA
+DEFINITION  (RefSeq) diacylglycerol kinase gamma
+ORTHOLOGY   K00901  diacylglycerol kinase (ATP) [EC:2.7.1.107]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04072  Phospholipase D signaling pathway
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                1608 (DGKG)
+               00564 Glycerophospholipid metabolism
+                1608 (DGKG)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                1608 (DGKG)
+               04072 Phospholipase D signaling pathway
+                1608 (DGKG)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                1608 (DGKG)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.107  diacylglycerol kinase (ATP)
+                 1608 (DGKG)
+POSITION    3q27.2-q27.3
+MOTIF       Pfam: DAGK_acc DAG_kinase_N DAGK_cat C1_1 EF-hand_1 EF-hand_7 EF-hand_6 EF-hand_5 SPARC_Ca_bdg
+DBLINKS     NCBI-GeneID: 1608
+            NCBI-ProteinID: NP_001337
+            OMIM: 601854
+            HGNC: 2853
+            Ensembl: ENSG00000058866
+            Vega: OTTHUMG00000156617
+            Pharos: P49619(Tbio)
+            UniProt: P49619
+AASEQ       791
+            MGEERWVSLTPEEFDQLQKYSEYSSKKIKDALTEFNEGGSLKQYDPHEPISYDVFKLFMR
+            AYLEVDLPQPLSTHLFLAFSQKPRHETSDHPTEGASNSEANSADTNIQNADNATKADEAC
+            APDTESNMAEKQAPAEDQVAATPLEPPVPRSSSSESPVVYLKDVVCYLSLLETGRPQDKL
+            EFMFRLYDSDENGLLDQAEMDCIVNQMLHIAQYLEWDPTELRPILKEMLQGMDYDRDGFV
+            SLQEWVHGGMTTIPLLVLLGMDDSGSKGDGRHAWTMKHFKKPTYCNFCHIMLMGVRKQGL
+            CCTYCKYTVHERCVSRNIPGCVKTYSKAKRSGEVMQHAWVEGNSSVKCDRCHKSIKCYQS
+            VTARHCVWCRMTFHRKCELSTLCDGGELRDHILLPTSICPITRDRPGEKSDGCVSAKGEL
+            VMQYKIIPTPGTHPLLVLVNPKSGGRQGERILRKFHYLLNPKQVFNLDNGGPTPGLNFFR
+            DTPDFRVLACGGDGTVGWILDCIDKANFAKHPPVAVLPLGTGNDLARCLRWGGGYEGGSL
+            TKILKDIEQSPLVMLDRWHLEVIPREEVENGDQVPYSIMNNYFSIGVDASIAHRFHVMRE
+            KHPEKFNSRMKNKLWYFEFGTSETFAATCKKLHDHIELECDGVGVDLSNIFLEGIAILNI
+            PSMYGGTNLWGENKKNRAVIRESRKGVTDPKELKFCVQDLSDQLLEVVGLEGAMEMGQIY
+            TGLKSAGRRLAQCASVTIRTNKLLPMQVDGEPWMQPCCTIKITHKNQAPMMMGPPQKSSF
+            FSLRRKSRSKD
+NTSEQ       2376
+            atgggtgaagaacggtgggtctccctcactccagaagaatttgaccaactccagaaatat
+            tcagaatattcctccaagaagataaaagatgccttgactgaatttaatgagggtgggagc
+            ctcaaacaatatgacccacatgagccgattagctatgatgtcttcaagctgttcatgagg
+            gcgtacctggaggtggaccttccccagccactgagcactcacctcttcctggccttcagc
+            cagaagcccagacacgagacctctgaccacccgacggagggagccagcaacagtgaggcc
+            aacagcgcagatactaatatacagaatgcagataatgccaccaaagcagacgaggcctgt
+            gcccctgatactgaatcaaatatggctgagaagcaagcaccagctgaagaccaagtggct
+            gcgacccccctggaaccccccgtccctcggtcttcaagctcggaatccccagtggtatac
+            ctgaaggatgttgtgtgctacctgtccctgctggagacggggaggcctcaggataagctg
+            gagttcatgtttcgcctctatgattcagatgagaacggtctcctggaccaagcggagatg
+            gattgcattgtcaaccaaatgctgcatattgcccagtacctggagtgggatcccacagag
+            ctgaggcctatattgaaggagatgctgcaagggatggactacgaccgggacggctttgtg
+            tctctacaggaatgggtccatggagggatgaccaccatcccattgctggtcctcctgggg
+            atggatgactctggctccaagggggatgggcggcacgcctggaccatgaagcacttcaag
+            aaaccaacctactgcaacttctgccatatcatgctcatgggcgtccgcaagcaaggcctg
+            tgctgcacttactgtaaatacactgtccacgaacgctgtgtgtccagaaacattcctggt
+            tgtgtcaaaacgtactcaaaagccaaaaggagtggtgaggtgatgcagcacgcatgggtg
+            gaagggaactcctccgtcaagtgtgaccggtgccacaaaagtatcaagtgctaccagagt
+            gtcaccgcgcggcactgcgtgtggtgccggatgacgtttcaccgcaaatgtgaattatca
+            acgttgtgtgacggtggggaactcagagaccacatcttactgcccacctccatatgcccc
+            atcacccgggacaggccaggtgagaagtctgatggctgcgtgtccgccaagggcgaactt
+            gtcatgcagtataagatcatccccaccccgggtacccaccccctgctggtcttggtgaac
+            cccaagagtggagggagacaaggagaaagaattcttcggaaattccactatctgctcaac
+            cccaaacaagttttcaacctggacaatggggggcctactccagggttgaactttttccgt
+            gatactccagacttccgtgttttggcctgtggtggagatgggacagttggctggattttg
+            gattgcattgataaggccaactttgcaaagcatccaccagtggctgtcctgcctcttgga
+            acaggaaatgaccttgcccgttgtctccgctggggaggaggttatgaagggggcagcttg
+            acaaaaatcctgaaagacattgagcagagccccttggtgatgctggaccgctggcatctg
+            gaagtcatccccagagaggaagtggaaaacggggaccaggtcccatacagcatcatgaac
+            aactatttctccattggtgtggacgcttccattgcacacagattccatgtgatgagagag
+            aaacatcctgaaaaattcaacagcaggatgaagaacaagctgtggtactttgaatttggc
+            acctcggagacttttgcagcgacctgcaagaaactccacgaccacattgagttggagtgt
+            gatggggttggggtggacctgagcaacatcttcctggaaggcattgccattctcaacatt
+            cccagcatgtacggaggcaccaatctctggggagaaaacaagaagaaccgggctgtgatc
+            cgggaaagcaggaagggtgtcactgaccccaaagaactgaaattctgcgttcaagacctc
+            agtgaccagctccttgaagtggtggggctagaaggagccatggagatggggcagatctac
+            accggcctgaagagtgcaggcaggaggctggcccagtgcgcctctgtcaccatcaggaca
+            aacaagctgctgccaatgcaagtggatggagaaccctggatgcagccatgttgcacgatt
+            aaaattactcacaagaaccaagcgcccatgatgatggggcctccccagaagagcagcttc
+            ttctcgttgagaaggaagagccgttcaaaagactaa
+///

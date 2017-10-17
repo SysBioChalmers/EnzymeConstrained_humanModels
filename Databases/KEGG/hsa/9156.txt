@@ -1,0 +1,101 @@
+ENTRY       9156              CDS       T01001
+NAME        EXO1, HEX1, hExoI
+DEFINITION  (RefSeq) exonuclease 1
+ORTHOLOGY   K10746  exonuclease 1 [EC:3.1.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03430 Mismatch repair
+                9156 (EXO1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 9156 (EXO1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               Other elongation factors
+                9156 (EXO1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               MMR (mismatch exicision repair)
+                Other MMR factors
+                 9156 (EXO1)
+POSITION    1q43
+MOTIF       Pfam: XPG_I XPG_N XPG_I_2
+DBLINKS     NCBI-GeneID: 9156
+            NCBI-ProteinID: NP_006018
+            OMIM: 606063
+            HGNC: 3511
+            Ensembl: ENSG00000174371
+            Vega: OTTHUMG00000039965
+            Pharos: Q9UQ84(Tbio)
+            UniProt: Q9UQ84
+STRUCTURE   PDB: 5V07 5V0A 5UZV 3QE9 5V0C 5V0B 5V0D 5V04 5V0E 5V06 5V09
+                 5V08 5V05 3QEB 3QEA
+AASEQ       846
+            MGIQGLLQFIKEASEPIHVRKYKGQVVAVDTYCWLHKGAIACAEKLAKGEPTDRYVGFCM
+            KFVNMLLSHGIKPILVFDGCTLPSKKEVERSRRERRQANLLKGKQLLREGKVSEARECFT
+            RSINITHAMAHKVIKAARSQGVDCLVAPYEADAQLAYLNKAGIVQAIITEDSDLLAFGCK
+            KVILKMDQFGNGLEIDQARLGMCRQLGDVFTEEKFRYMCILSGCDYLSSLRGIGLAKACK
+            VLRLANNPDIVKVIKKIGHYLKMNITVPEDYINGFIRANNTFLYQLVFDPIKRKLIPLNA
+            YEDDVDPETLSYAGQYVDDSIALQIALGNKDINTFEQIDDYNPDTAMPAHSRSHSWDDKT
+            CQKSANVSSIWHRNYSPRPESGTVSDAPQLKENPSTVGVERVISTKGLNLPRKSSIVKRP
+            RSAELSEDDLLSQYSLSFTKKTKKNSSEGNKSLSFSEVFVPDLVNGPTNKKSVSTPPRTR
+            NKFATFLQRKNEESGAVVVPGTRSRFFCSSDSTDCVSNKVSIQPLDETAVTDKENNLHES
+            EYGDQEGKRLVDTDVARNSSDDIPNNHIPGDHIPDKATVFTDEESYSFESSKFTRTISPP
+            TLGTLRSCFSWSGGLGDFSRTPSPSPSTALQQFRRKSDSPTSLPENNMSDVSQLKSEESS
+            DDESHPLREEACSSQSQESGEFSLQSSNASKLSQCSSKDSDSEESDCNIKLLDSQSDQTS
+            KLRLSHFSKKDTPLRNKVPGLYKSSSADSLSTTKIKPLGPARASGLSKKPASIQKRKHHN
+            AENKPGLQIKLNELWKNFGFKKDSEKLPPCKKPLSPVRDNIQLTPEAEEDIFNKPECGRV
+            QRAIFQ
+NTSEQ       2541
+            atggggatacagggattgctacaatttatcaaagaagcttcagaacccatccatgtgagg
+            aagtataaagggcaggtagtagctgtggatacatattgctggcttcacaaaggagctatt
+            gcttgtgctgaaaaactagccaaaggtgaacctactgataggtatgtaggattttgtatg
+            aaatttgtaaatatgttactatctcatgggatcaagcctattctcgtatttgatggatgt
+            actttaccttctaaaaaggaagtagagagatctagaagagaaagacgacaagccaatctt
+            cttaagggaaagcaacttcttcgtgaggggaaagtctcggaagctcgagagtgtttcacc
+            cggtctatcaatatcacacatgccatggcccacaaagtaattaaagctgcccggtctcag
+            ggggtagattgcctcgtggctccctatgaagctgatgcgcagttggcctatcttaacaaa
+            gcgggaattgtgcaagccataattacagaggactcggatctcctagcttttggctgtaaa
+            aaggtaattttaaagatggaccagtttggaaatggacttgaaattgatcaagctcggcta
+            ggaatgtgcagacagcttggggatgtattcacggaagagaagtttcgttacatgtgtatt
+            ctttcaggttgtgactacctgtcatcactgcgtgggattggattagcaaaggcatgcaaa
+            gtcctaagactagccaataatccagatatagtaaaggttatcaagaaaattggacattat
+            ctcaagatgaatatcacggtaccagaggattacatcaacgggtttattcgggccaacaat
+            accttcctctatcagctagtttttgatcccatcaaaaggaaacttattcctctgaacgcc
+            tatgaagatgatgttgatcctgaaacactaagctacgctgggcaatatgttgatgattcc
+            atagctcttcaaatagcacttggaaataaagatataaatacttttgaacagatcgatgac
+            tacaatccagacactgctatgcctgcccattcaagaagtcatagttgggatgacaaaaca
+            tgtcaaaagtcagctaatgttagcagcatttggcataggaattactctcccagaccagag
+            tcgggtactgtttcagatgccccacaattgaaggaaaatccaagtactgtgggagtggaa
+            cgagtgattagtactaaagggttaaatctcccaaggaaatcatccattgtgaaaagacca
+            agaagtgcagagctgtcagaagatgacctgttgagtcagtattctctttcatttacgaag
+            aagaccaagaaaaatagctctgaaggcaataaatcattgagcttttctgaagtgtttgtg
+            cctgacctggtaaatggacctactaacaaaaagagtgtaagcactccacctaggacgaga
+            aataaatttgcaacatttttacaaaggaaaaatgaagaaagtggtgcagttgtggttcca
+            gggaccagaagcaggtttttttgcagttcagattctactgactgtgtatcaaacaaagtg
+            agcatccagcctctggatgaaactgctgtcacagataaagagaacaatctgcatgaatca
+            gagtatggagaccaagaaggcaagagactggttgacacagatgtagcacgtaattcaagt
+            gatgacattccgaataatcatattccaggtgatcatattccagacaaggcaacagtgttt
+            acagatgaagagtcctactcttttgagagcagcaaatttacaaggaccatttcaccaccc
+            actttgggaacactaagaagttgttttagttggtctggaggtcttggagatttttcaaga
+            acgccgagcccctctccaagcacagcattgcagcagttccgaagaaagagcgattccccc
+            acctctttgcctgagaataatatgtctgatgtgtcgcagttaaagagcgaggagtccagt
+            gacgatgagtctcatcccttacgagaagaggcatgttcttcacagtcccaggaaagtgga
+            gaattctcactgcagagttcaaatgcatcaaagctttctcagtgctctagtaaggactct
+            gattcagaggaatctgattgcaatattaagttacttgacagtcaaagtgaccagacctcc
+            aagctacgtttatctcatttctcaaaaaaagacacacctctaaggaacaaggttcctggg
+            ctatataagtccagttctgcagactctctttctacaaccaagatcaaacctctaggacct
+            gccagagccagtgggctgagcaagaagccggcaagcatccagaagagaaagcatcataat
+            gccgagaacaagccggggttacagatcaaactcaatgagctctggaaaaactttggattt
+            aaaaaagattctgaaaagcttcctccttgtaagaaacccctgtccccagtcagagataac
+            atccaactaactccagaagcggaagaggatatatttaacaaacctgaatgtggccgtgtt
+            caaagagcaatattccagtaa
+///

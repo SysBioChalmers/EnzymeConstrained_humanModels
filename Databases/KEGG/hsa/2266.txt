@@ -1,0 +1,94 @@
+ENTRY       2266              CDS       T01001
+NAME        FGG
+DEFINITION  (RefSeq) fibrinogen gamma chain
+ORTHOLOGY   K03905  fibrinogen gamma chain
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+            hsa04611  Platelet activation
+            hsa05150  Staphylococcus aureus infection
+DISEASE     H00222  Afibrinogenemia
+            H00223  Inherited thrombophilia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                2266 (FGG)
+               04611 Platelet activation
+                2266 (FGG)
+             Human Diseases
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                2266 (FGG)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               2266 (FGG)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta2 integrins
+               CR3, Mac-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 2266 (FGG)
+               p150/95
+                 2266 (FGG)
+              Beta3 integrins
+               alpha IIb  beta 3
+                ITGB3; integrin beta 3 [KO:K06493]
+                 2266 (FGG)
+               VNR
+                 2266 (FGG)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Extracellular matrix molecules	(General comment) Storage depot, cell adhesion and motility, ECM/barrier formation
+               2266 (FGG)
+             Hyaluronan
+              Extracellular matrix or blood plasma proteins
+               2266 (FGG)
+POSITION    4q32.1
+MOTIF       Pfam: Fibrinogen_C Fib_alpha Reo_sigmaC Syntaxin Spc7 CEP209_CC5 TMF_DNA_bd
+DBLINKS     NCBI-GeneID: 2266
+            NCBI-ProteinID: NP_068656
+            OMIM: 134850
+            HGNC: 3694
+            Ensembl: ENSG00000171557
+            Vega: OTTHUMG00000150329
+            Pharos: P02679(Tbio)
+            UniProt: P02679
+STRUCTURE   PDB: 2FIB 3FIB 1FID 1FIB 3E1I 1FZC 2OYH 1RE3 1FZG 1FIC 1RF1
+                 3BVH 2HLO 2Z4E 2OYI 2H43 1RE4 1FZF 2Q9I 1LT9 1LTJ 1RF0
+                 2FFD 3GHG 2HPC 2HOD 1FZA 1FZB 1FZE 3HUS 1N86 2XNX 3H32
+                 2A45 1N8E 2XNY
+AASEQ       453
+            MSWSLHPRNLILYFYALLFLSSTCVAYVATRDNCCILDERFGSYCPTTCGIADFLSTYQT
+            KVDKDLQSLEDILHQVENKTSEVKQLIKAIQLTYNPDESSKPNMIDAATLKSRKMLEEIM
+            KYEASILTHDSSIRYLQEIYNSNNQKIVNLKEKVAQLEAQCQEPCKDTVQIHDITGKDCQ
+            DIANKGAKQSGLYFIKPLKANQQFLVYCEIDGSGNGWTVFQKRLDGSVDFKKNWIQYKEG
+            FGHLSPTGTTEFWLGNEKIHLISTQSAIPYALRVELEDWNGRTSTADYAMFKVGPEADKY
+            RLTYAYFAGGDAGDAFDGFDFGDDPSDKFFTSHNGMQFSTWDNDNDKFEGNCAEQDGSGW
+            WMNKCHAGHLNGVYYQGGTYSKASTPNGYDNGIIWATWKTRWYSMKKTTMKIIPFNRLTI
+            GEGQQHHLGGAKQVRPEHPAETEYDSLYPEDDL
+NTSEQ       1362
+            atgagttggtccttgcacccccggaatttaattctctacttctatgctcttttatttctc
+            tcttcaacatgtgtagcatatgttgctaccagagacaactgctgcatcttagatgaaaga
+            ttcggtagttattgtccaactacctgtggcattgcagatttcctgtctacttatcaaacc
+            aaagtagacaaggatctacagtctttggaagacatcttacatcaagttgaaaacaaaaca
+            tcagaagtcaaacagctgataaaagcaatccaactcacttataatcctgatgaatcatca
+            aaaccaaatatgatagacgctgctactttgaagtccaggaaaatgttagaagaaattatg
+            aaatatgaagcatcgattttaacacatgactcaagtattcgatatttgcaggaaatatat
+            aattcaaataatcaaaagattgttaacctgaaagagaaggtagcccagcttgaagcacag
+            tgccaggaaccttgcaaagacacggtgcaaatccatgatatcactgggaaagattgtcaa
+            gacattgccaataagggagctaaacagagcgggctttactttattaaacctctgaaagct
+            aaccagcaattcttagtctactgtgaaatcgatgggtctggaaatggatggactgtgttt
+            cagaagagacttgatggcagtgtagatttcaagaaaaactggattcaatataaagaagga
+            tttggacatctgtctcctactggcacaacagaattttggctgggaaatgagaagattcat
+            ttgataagcacacagtctgccatcccatatgcattaagagtggaactggaagactggaat
+            ggcagaaccagtactgcagactatgccatgttcaaggtgggacctgaagctgacaagtac
+            cgcctaacatatgcctacttcgctggtggggatgctggagatgcctttgatggctttgat
+            tttggcgatgatcctagtgacaagtttttcacatcccataatggcatgcagttcagtacc
+            tgggacaatgacaatgataagtttgaaggcaactgtgctgaacaggatggatctggttgg
+            tggatgaacaagtgtcacgctggccatctcaatggagtttattaccaaggtggcacttac
+            tcaaaagcatctactcctaatggttatgataatggcattatttgggccacttggaaaacc
+            cggtggtattccatgaagaaaaccactatgaagataatcccattcaacagactcacaatt
+            ggagaaggacagcaacaccacctggggggagccaaacaggtcagaccagagcaccctgcg
+            gaaacagaatatgactcactttaccctgaggatgatttgtag
+///

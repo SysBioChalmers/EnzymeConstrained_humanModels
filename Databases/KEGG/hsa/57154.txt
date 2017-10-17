@@ -1,0 +1,109 @@
+ENTRY       57154             CDS       T01001
+NAME        SMURF1
+DEFINITION  (RefSeq) SMAD specific E3 ubiquitin protein ligase 1
+ORTHOLOGY   K04678  E3 ubiquitin ligase SMURF1/2 [EC:2.3.2.26]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04120  Ubiquitin mediated proteolysis
+            hsa04144  Endocytosis
+            hsa04340  Hedgehog signaling pathway
+            hsa04350  TGF-beta signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                57154 (SMURF1)
+             Environmental Information Processing
+              Signal transduction
+               04340 Hedgehog signaling pathway
+                57154 (SMURF1)
+               04350 TGF-beta signaling pathway
+                57154 (SMURF1)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                57154 (SMURF1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.26  HECT-type E3 ubiquitin transferase
+                 57154 (SMURF1)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Ubiquitin E3 ligases
+                57154 (SMURF1)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              HECT type E3
+               57154 (SMURF1)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Parkin-independent mechanism factors
+                57154 (SMURF1)
+POSITION    7q22.1
+MOTIF       Pfam: HECT WW C2 HPS3_N
+DBLINKS     NCBI-GeneID: 57154
+            NCBI-ProteinID: NP_065162
+            OMIM: 605568
+            HGNC: 16807
+            Ensembl: ENSG00000198742
+            Vega: OTTHUMG00000150272
+            Pharos: Q9HCE7(Tbio)
+            UniProt: Q9HCE7
+STRUCTURE   PDB: 3PYC 2LTX 2LAZ 2LB0 2LB1
+AASEQ       757
+            MSNPGTRRNGSSIKIRLTVLCAKNLAKKDFFRLPDPFAKIVVDGSGQCHSTDTVKNTLDP
+            KWNQHYDLYVGKTDSITISVWNHKKIHKKQGAGFLGCVRLLSNAISRLKDTGYQRLDLCK
+            LNPSDTDAVRGQIVVSLQTRDRIGTGGSVVDCRGLLENEGTVYEDSGPGRPLSCFMEEPA
+            PYTDSTGAAAGGGNCRFVESPSQDQRLQAQRLRNPDVRGSLQTPQNRPHGHQSPELPEGY
+            EQRTTVQGQVYFLHTQTGVSTWHDPRIPSPSGTIPGGDAAFLYEFLLQGHTSEPRDLNSV
+            NCDELGPLPPGWEVRSTVSGRIYFVDHNNRTTQFTDPRLHHIMNHQCQLKEPSQPLPLPS
+            EGSLEDEELPAQRYERDLVQKLKVLRHELSLQQPQAGHCRIEVSREEIFEESYRQIMKMR
+            PKDLKKRLMVKFRGEEGLDYGGVAREWLYLLCHEMLNPYYGLFQYSTDNIYMLQINPDSS
+            INPDHLSYFHFVGRIMGLAVFHGHYINGGFTVPFYKQLLGKPIQLSDLESVDPELHKSLV
+            WILENDITPVLDHTFCVEHNAFGRILQHELKPNGRNVPVTEENKKEYVRLYVNWRFMRGI
+            EAQFLALQKGFNELIPQHLLKPFDQKELELIIGGLDKIDLNDWKSNTRLKHCVADSNIVR
+            WFWQAVETFDEERRARLLQFVTGSTRVPLQGFKALQGSTGAAGPRLFTIHLIDANTDNLP
+            KAHTCFNRIDIPPYESYEKLYEKLLTAVEETCGFAVE
+NTSEQ       2274
+            atgtcgaaccccgggacacgcaggaacggctccagcatcaagatccgtctgacagtgtta
+            tgtgccaagaaccttgcaaagaaagacttcttcaggctccctgacccttttgcaaagatt
+            gtcgtggatgggtctgggcagtgccactcaaccgacactgtgaaaaacacattggaccca
+            aagtggaaccagcactatgatctatatgttgggaaaacggattcgataaccattagcgtg
+            tggaaccataagaaaattcacaagaaacagggagctggcttcctgggctgtgtgcggctg
+            ctctccaatgccatcagcagattaaaagataccggataccagcgtttggatctatgcaaa
+            ctaaacccctcagatactgatgcagttcgtggccagatagtggtcagtttacagacacga
+            gacagaataggaaccggcggctcggtggtggactgcagaggactgttagaaaatgaagga
+            acggtgtatgaagactccgggcctgggaggccgctcagctgcttcatggaggaaccagcc
+            ccttacacagatagcaccggtgctgctgctggaggagggaattgcaggttcgtggagtcc
+            ccaagtcaagatcaaagacttcaggcacagcggcttcgaaaccctgatgtgcgaggttca
+            ctacagacgccccagaaccgaccacacggccaccagtccccggaactgcccgaaggctac
+            gaacaaagaacaacagtccagggccaagtttactttttgcatacacagactggagttagc
+            acgtggcacgaccccaggataccaagtccctcggggaccattcctgggggagatgcagct
+            tttctatacgaattccttctacaaggccatacatctgagcccagagaccttaacagtgtg
+            aactgtgatgaacttggaccactgccgccaggctgggaagtcagaagtacagtttctggg
+            aggatatattttgtagatcataataaccgaacaacccagtttacagacccaaggttacac
+            cacatcatgaatcaccagtgccaactcaaggagcccagccagccgctgccactgcccagt
+            gagggctctctggaggacgaggagcttcctgcccagagatacgaaagagatctagtccag
+            aagctgaaagtcctcagacacgaactgtcgcttcagcagccccaagctggtcattgccgc
+            atcgaagtgtccagagaagaaatctttgaggagtcttaccgccagataatgaagatgcga
+            ccgaaagacttgaaaaaacggctgatggtgaaattccgtggggaagaaggtttggattac
+            ggtggtgtggccagggagtggctttacttgctgtgccatgaaatgctgaatccttattac
+            gggctcttccagtattctacggacaatatttacatgttgcaaataaatccggattcttca
+            atcaaccccgaccacttgtcttatttccactttgtggggcggatcatggggctggctgtg
+            ttccatggacactacatcaacgggggcttcacagtgcccttctacaagcagctgctgggg
+            aagcccatccagctctcagatctggaatctgtggacccagagctgcataagagcttggtg
+            tggatcctagagaacgacatcacgcctgtactggaccacaccttctgcgtggaacacaac
+            gccttcgggcggatcctgcagcatgaactgaaacccaatggcagaaatgtgccagtcaca
+            gaggagaataagaaagaatacgtccggttgtatgtaaactggaggtttatgagaggaatc
+            gaagcccagttcttagctctgcagaaggggttcaatgagctcatccctcaacatctgctg
+            aagccttttgaccagaaggaactggagctgatcataggcggcctggataaaatagacttg
+            aacgactggaagtcgaacacgcggctgaagcactgtgtggccgacagcaacatcgtgcgg
+            tggttctggcaagcggtggagacgttcgatgaagaaaggagggccaggctcctgcagttt
+            gtgactgggtccacgcgagtcccgctccaaggcttcaaggctttgcaaggttctacaggc
+            gcggcagggccccggctgttcaccatccacctgatagacgcgaacacagacaaccttccg
+            aaggcccatacctgctttaaccggatcgacattccaccatatgagtcctatgagaagctc
+            tacgagaagctgctgacagccgtggaggagacctgcgggtttgctgtggagtga
+///

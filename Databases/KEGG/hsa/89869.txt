@@ -1,0 +1,97 @@
+ENTRY       89869             CDS       T01001
+NAME        PLCZ1, NYD-SP27, PLC-zeta-1, PLCzeta, SPGF17
+DEFINITION  (RefSeq) phospholipase C zeta 1
+ORTHOLOGY   K05861  phosphatidylinositol phospholipase C, zeta [EC:3.1.4.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04020  Calcium signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04114  Oocyte meiosis
+            hsa04919  Thyroid hormone signaling pathway
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                89869 (PLCZ1)
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                89869 (PLCZ1)
+               04070 Phosphatidylinositol signaling system
+                89869 (PLCZ1)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                89869 (PLCZ1)
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                89869 (PLCZ1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.11  phosphoinositide phospholipase C
+                 89869 (PLCZ1)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Phospholipases
+                89869 (PLCZ1)
+POSITION    12p12.3
+MOTIF       Pfam: PI-PLC-X PI-PLC-Y EF-hand_like C2 EF-hand_10 EF-hand_6
+DBLINKS     NCBI-GeneID: 89869
+            NCBI-ProteinID: NP_149114
+            OMIM: 608075
+            HGNC: 19218
+            Ensembl: ENSG00000139151
+            Vega: OTTHUMG00000168937
+            Pharos: Q86YW0(Tbio)
+            UniProt: Q86YW0 A0A140VJR9
+AASEQ       608
+            MEMRWFLSKIQDDFRGGKINLEKTQRLLEKLDIRCSYIHVKQIFKDNDRLKQGRITIEEF
+            RAIYRIITHREEIIEIFNTYSENRKILLASNLAQFLTQEQYAAEMSKAIAFEIIQKYEPI
+            EEVRKAHQMSLEGFTRYMDSRECLLFKNECRKVYQDMTHPLNDYFISSSHNTYLVSDQLL
+            GPSDLWGYVSALVKGCRCLEIDCWDGAQNEPVVYHGYTLTSKLLFKTVIQAIHKYAFMTS
+            DYPVVLSLENHCSTAQQEVMADNLQATFGESLLSDMLDDFPDTLPSPEALKFKILVKNKK
+            IGTLKETHERKGSDKRGDNQDKETGVKKLPGVMLFKKKKTRKLKIALALSDLVIYTKAEK
+            FKSFQHSRLYQQFNENNSIGETQARKLSKLRVHEFIFHTRKFITRIYPKATRADSSNFNP
+            QEFWNIGCQMVALNFQTPGLPMDLQNGKFLDNGGSGYILKPHFLRESKSYFNPSNIKEGM
+            PITLTIRLISGIQLPLTHSSSNKGDSLVIIEVFGVPNDQMKQQTRVIKKNAFSPRWNETF
+            TFIIHVPELALIRFVVEGQGLIAGNEFLGQYTLPLLCMNKGYRRIPLFSRMGESLEPASL
+            FVYVWYVR
+NTSEQ       1827
+            atggaaatgagatggtttttgtcaaagattcaggatgacttcagaggtggaaaaattaac
+            ctagaaaaaactcagaggttacttgaaaaattagatattcggtgcagttatattcatgtg
+            aaacagatttttaaggacaatgacaggctgaaacaaggaagaatcaccatagaagaattt
+            agagcaatttatcgaattatcacgcacagagaagaaattattgagattttcaacacatat
+            tctgaaaaccggaaaattcttttagcaagtaatctggctcaatttctgacacaagaacaa
+            tatgcagctgagatgagtaaagctattgcttttgagatcattcagaaatacgagcctatc
+            gaagaagttaggaaagcacaccaaatgtcattagaaggttttacaagatacatggattca
+            cgtgaatgtctactgtttaaaaatgaatgtagaaaagtttatcaagatatgactcatcca
+            ttaaatgattattttatttcatcttcacataacacatatttggtatctgatcaattattg
+            ggaccaagtgacctttggggatatgtaagtgcccttgtgaaaggatgccgttgtttggag
+            attgactgctgggatggagcacaaaatgaacctgttgtatatcatggctacacactcaca
+            agcaaacttctgtttaaaactgttatccaagctatacacaagtatgcattcatgacatct
+            gactacccagtggtgctctctttagaaaatcactgctccactgcccaacaagaagtaatg
+            gcagacaatttgcaggctacttttggagagtccttgctttctgatatgcttgatgatttt
+            cctgatactctaccatcaccagaggcactaaaattcaaaatattagttaaaaataagaaa
+            ataggaaccttaaaggaaacccatgaaagaaaaggttctgataagcgtggagacaatcaa
+            gacaaggaaacaggggtaaaaaagttacctggagtaatgcttttcaagaaaaagaagacc
+            aggaagctaaaaattgctctggccttatctgatcttgtcatttatacgaaagctgagaaa
+            ttcaaaagctttcaacattcaagattatatcagcaatttaatgaaaataattctattggg
+            gagacacaagcccgaaaactttcaaaattgcgagtccatgagtttatttttcacaccagg
+            aagttcattaccagaatatatcccaaagcaacaagagcagactcttctaattttaatccc
+            caagaattttggaatataggttgtcaaatggtggctttaaatttccagacccctggtctg
+            cccatggatctgcaaaatgggaaatttttggataatggtggttctggatatattttgaaa
+            ccacatttcttaagagagagtaaatcatactttaacccaagtaacataaaagagggtatg
+            ccaattacacttacaataaggctcatcagtggtatccagttgcctcttactcattcatca
+            tctaacaaaggtgattcattagtaattatagaagtttttggtgttccaaatgatcaaatg
+            aagcagcagactcgtgtaattaaaaaaaatgcttttagtccaagatggaatgaaacattc
+            acatttattattcatgtcccagaattggcattgatacgttttgttgttgaaggtcaaggt
+            ttaatagcaggaaatgaatttcttgggcaatatactttgccacttctatgcatgaacaaa
+            ggttatcgtcgtattcctctgttttccagaatgggtgagagccttgagcctgcttcactg
+            tttgtttatgtttggtacgtcagataa
+///

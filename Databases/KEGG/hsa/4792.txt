@@ -1,0 +1,177 @@
+ENTRY       4792              CDS       T01001
+NAME        NFKBIA, IKBA, MAD-3, NFKBI
+DEFINITION  (RefSeq) NFKB inhibitor alpha
+ORTHOLOGY   K04734  NF-kappa-B inhibitor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04210  Apoptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa04931  Insulin resistance
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05131  Shigellosis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05215  Prostate cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05222  Small cell lung cancer
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00007  Hodgkin lymphoma
+            H00095  Ectodermal dysplasia associated immunodeficiency (EDA-ID)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                4792 (NFKBIA)
+               04668 TNF signaling pathway
+                4792 (NFKBIA)
+               04024 cAMP signaling pathway
+                4792 (NFKBIA)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                4792 (NFKBIA)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                4792 (NFKBIA)
+               04621 NOD-like receptor signaling pathway
+                4792 (NFKBIA)
+               04622 RIG-I-like receptor signaling pathway
+                4792 (NFKBIA)
+               04623 Cytosolic DNA-sensing pathway
+                4792 (NFKBIA)
+               04660 T cell receptor signaling pathway
+                4792 (NFKBIA)
+               04658 Th1 and Th2 cell differentiation
+                4792 (NFKBIA)
+               04659 Th17 cell differentiation
+                4792 (NFKBIA)
+               04657 IL-17 signaling pathway
+                4792 (NFKBIA)
+               04662 B cell receptor signaling pathway
+                4792 (NFKBIA)
+               04062 Chemokine signaling pathway
+                4792 (NFKBIA)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                4792 (NFKBIA)
+               04926 Relaxin signaling pathway
+                4792 (NFKBIA)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                4792 (NFKBIA)
+              Development
+               04380 Osteoclast differentiation
+                4792 (NFKBIA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4792 (NFKBIA)
+               05203 Viral carcinogenesis
+                4792 (NFKBIA)
+               05220 Chronic myeloid leukemia
+                4792 (NFKBIA)
+               05215 Prostate cancer
+                4792 (NFKBIA)
+               05222 Small cell lung cancer
+                4792 (NFKBIA)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                4792 (NFKBIA)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                4792 (NFKBIA)
+               05131 Shigellosis
+                4792 (NFKBIA)
+               05134 Legionellosis
+                4792 (NFKBIA)
+               05166 HTLV-I infection
+                4792 (NFKBIA)
+               05162 Measles
+                4792 (NFKBIA)
+               05164 Influenza A
+                4792 (NFKBIA)
+               05161 Hepatitis B
+                4792 (NFKBIA)
+               05160 Hepatitis C
+                4792 (NFKBIA)
+               05168 Herpes simplex infection
+                4792 (NFKBIA)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                4792 (NFKBIA)
+               05169 Epstein-Barr virus infection
+                4792 (NFKBIA)
+               05145 Toxoplasmosis
+                4792 (NFKBIA)
+               05140 Leishmaniasis
+                4792 (NFKBIA)
+               05142 Chagas disease (American trypanosomiasis)
+                4792 (NFKBIA)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               RHR (Rel homology region) Ankyrin only
+                4792 (NFKBIA)
+POSITION    14q13.2
+MOTIF       Pfam: Ank_2 Ank Ank_3 Ank_5 Ank_4
+DBLINKS     NCBI-GeneID: 4792
+            NCBI-ProteinID: NP_065390
+            OMIM: 164008
+            HGNC: 7797
+            Ensembl: ENSG00000100906
+            Vega: OTTHUMG00000140220
+            Pharos: P25963(Tchem)
+            UniProt: P25963
+STRUCTURE   PDB: 1IKN 1NFI
+AASEQ       317
+            MFQAAERPQEWAMEGPRDGLKKERLLDDRHDSGLDSMKDEEYEQMVKELQEIRLEPQEVP
+            RGSEPWKQQLTEDGDSFLHLAIIHEEKALTMEVIRQVKGDLAFLNFQNNLQQTPLHLAVI
+            TNQPEIAEALLGAGCDPELRDFRGNTPLHLACEQGCLASVGVLTQSCTTPHLHSILKATN
+            YNGHTCLHLASIHGYLGIVELLVSLGADVNAQEPCNGRTALHLAVDLQNPDLVSLLLKCG
+            ADVNRVTYQGYSPYQLTWGRPSTRIQQQLGQLTLENLQMLPESEDEESYDTESEFTEFTE
+            DELPYDDCVFGGQRLTL
+NTSEQ       954
+            atgttccaggcggccgagcgcccccaggagtgggccatggagggcccccgcgacgggctg
+            aagaaggagcggctactggacgaccgccacgacagcggcctggactccatgaaagacgag
+            gagtacgagcagatggtcaaggagctgcaggagatccgcctcgagccgcaggaggtgccg
+            cgcggctcggagccctggaagcagcagctcaccgaggacggggactcgttcctgcacttg
+            gccatcatccatgaagaaaaggcactgaccatggaagtgatccgccaggtgaagggagac
+            ctggccttcctcaacttccagaacaacctgcagcagactccactccacttggctgtgatc
+            accaaccagccagaaattgctgaggcacttctgggagctggctgtgatcctgagctccga
+            gactttcgaggaaatacccccctacaccttgcctgtgagcagggctgcctggccagcgtg
+            ggagtcctgactcagtcctgcaccaccccgcacctccactccatcctgaaggctaccaac
+            tacaatggccacacgtgtctacacttagcctctatccatggctacctgggcatcgtggag
+            cttttggtgtccttgggtgctgatgtcaatgctcaggagccctgtaatggccggactgcc
+            cttcacctcgcagtggacctgcaaaatcctgacctggtgtcactcctgttgaagtgtggg
+            gctgatgtcaacagagttacctaccagggctattctccctaccagctcacctggggccgc
+            ccaagcacccggatacagcagcagctgggccagctgacactagaaaaccttcagatgctg
+            ccagagagtgaggatgaggagagctatgacacagagtcagagttcacggagttcacagag
+            gacgagctgccctatgatgactgtgtgtttggaggccagcgtctgacgttatga
+///

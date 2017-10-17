@@ -1,0 +1,258 @@
+ENTRY       5599              CDS       T01001
+NAME        MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c
+DEFINITION  (RefSeq) mitogen-activated protein kinase 8
+ORTHOLOGY   K04440  c-Jun N-terminal kinase [EC:2.7.11.24]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04137  Mitophagy - animal
+            hsa04140  Autophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04217  Necroptosis
+            hsa04310  Wnt signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04510  Focal adhesion
+            hsa04530  Tight junction
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04728  Dopaminergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04917  Prolactin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05133  Pertussis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05212  Pancreatic cancer
+            hsa05231  Choline metabolism in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00688  MAPK (JNK) signaling
+DRUG_TARGET Tanzisertib: D10168
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                5599 (MAPK8)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5599 (MAPK8)
+               04010 MAPK signaling pathway
+                5599 (MAPK8)
+               04012 ErbB signaling pathway
+                5599 (MAPK8)
+               04310 Wnt signaling pathway
+                5599 (MAPK8)
+               04668 TNF signaling pathway
+                5599 (MAPK8)
+               04068 FoxO signaling pathway
+                5599 (MAPK8)
+               04071 Sphingolipid signaling pathway
+                5599 (MAPK8)
+               04024 cAMP signaling pathway
+                5599 (MAPK8)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                5599 (MAPK8)
+               04137 Mitophagy - animal
+                5599 (MAPK8)
+              Cell growth and death
+               04210 Apoptosis
+                5599 (MAPK8)
+               04215 Apoptosis - multiple species
+                5599 (MAPK8)
+               04217 Necroptosis
+                5599 (MAPK8)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5599 (MAPK8)
+               04530 Tight junction
+                5599 (MAPK8)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                5599 (MAPK8)
+               04621 NOD-like receptor signaling pathway
+                5599 (MAPK8)
+               04622 RIG-I-like receptor signaling pathway
+                5599 (MAPK8)
+               04658 Th1 and Th2 cell differentiation
+                5599 (MAPK8)
+               04659 Th17 cell differentiation
+                5599 (MAPK8)
+               04657 IL-17 signaling pathway
+                5599 (MAPK8)
+               04664 Fc epsilon RI signaling pathway
+                5599 (MAPK8)
+              Endocrine system
+               04910 Insulin signaling pathway
+                5599 (MAPK8)
+               04920 Adipocytokine signaling pathway
+                5599 (MAPK8)
+               04912 GnRH signaling pathway
+                5599 (MAPK8)
+               04914 Progesterone-mediated oocyte maturation
+                5599 (MAPK8)
+               04917 Prolactin signaling pathway
+                5599 (MAPK8)
+               04926 Relaxin signaling pathway
+                5599 (MAPK8)
+              Nervous system
+               04728 Dopaminergic synapse
+                5599 (MAPK8)
+               04723 Retrograde endocannabinoid signaling
+                5599 (MAPK8)
+               04722 Neurotrophin signaling pathway
+                5599 (MAPK8)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5599 (MAPK8)
+              Development
+               04380 Osteoclast differentiation
+                5599 (MAPK8)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5599 (MAPK8)
+               05231 Choline metabolism in cancer
+                5599 (MAPK8)
+               05210 Colorectal cancer
+                5599 (MAPK8)
+               05212 Pancreatic cancer
+                5599 (MAPK8)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5599 (MAPK8)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                5599 (MAPK8)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                5599 (MAPK8)
+               04931 Insulin resistance
+                5599 (MAPK8)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                5599 (MAPK8)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                5599 (MAPK8)
+               05132 Salmonella infection
+                5599 (MAPK8)
+               05131 Shigellosis
+                5599 (MAPK8)
+               05133 Pertussis
+                5599 (MAPK8)
+               05152 Tuberculosis
+                5599 (MAPK8)
+               05166 HTLV-I infection
+                5599 (MAPK8)
+               05164 Influenza A
+                5599 (MAPK8)
+               05161 Hepatitis B
+                5599 (MAPK8)
+               05160 Hepatitis C
+                5599 (MAPK8)
+               05168 Herpes simplex infection
+                5599 (MAPK8)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5599 (MAPK8)
+               05169 Epstein-Barr virus infection
+                5599 (MAPK8)
+               05145 Toxoplasmosis
+                5599 (MAPK8)
+               05142 Chagas disease (American trypanosomiasis)
+                5599 (MAPK8)
+              Drug resistance
+               01522 Endocrine resistance
+                5599 (MAPK8)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.24  mitogen-activated protein kinase
+                 5599 (MAPK8)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CMGC group
+              MAPK family [OT]
+               5599 (MAPK8)
+POSITION    10q11.22
+MOTIF       Pfam: Pkinase Pkinase_Tyr Kdo Kinase-like RIO1 APH FTA2 DUF530
+DBLINKS     NCBI-GeneID: 5599
+            NCBI-ProteinID: NP_001265476
+            OMIM: 601158
+            HGNC: 6881
+            Ensembl: ENSG00000107643
+            Vega: OTTHUMG00000018172
+            Pharos: P45983(Tchem)
+            UniProt: P45983 A1L4K2
+STRUCTURE   PDB: 2XRW 4QTD 3ELJ 4AWI 4L7F 3PZE 4HYU 4E73 4IZY 4UX9 1UKH
+                 4YR8 4HYS 4G1W 5LEN 2XS0 3VUM 3VUH 3V3V 3O2M 1UKI 3VUI
+                 3VUL 3VUK 3O17 2H96 2NO3 3VUG 3VUD 2GMX 2G01
+AASEQ       427
+            MSRSKRDNNFYSVEIGDSTFTVLKRYQNLKPIGSGAQGIVCAAYDAILERNVAIKKLSRP
+            FQNQTHAKRAYRELVLMKCVNHKNIIGLLNVFTPQKSLEEFQDVYIVMELMDANLCQVIQ
+            MELDHERMSYLLYQMLCGIKHLHSAGIIHRDLKPSNIVVKSDCTLKILDFGLARTAGTSF
+            MMTPYVVTRYYRAPEVILGMGYKENVDIWSVGCIMGEMIKGGVLFPGTDHIDQWNKVIEQ
+            LGTPCPEFMKKLQPTVRTYVENRPKYAGYSFEKLFPDVLFPADSEHNKLKASQARDLLSK
+            MLVIDASKRISVDEALQHPYINVWYDPSEAEAPPPKIPDKQLDEREHTIEEWKELIYKEV
+            MDLEERTKNGVIRGQPSPLGAAVINGSQHPSSSSSVNDVSSMSTDPTLASDTDSSLEAAA
+            GPLGCCR
+NTSEQ       1284
+            atgagcagaagcaagcgtgacaacaatttttatagtgtagagattggagattctacattc
+            acagtcctgaaacgatatcagaatttaaaacctataggctcaggagctcaaggaatagta
+            tgcgcagcttatgatgccattcttgaaagaaatgttgcaatcaagaagctaagccgacca
+            tttcagaatcagactcatgccaagcgggcctacagagagctagttcttatgaaatgtgtt
+            aatcacaaaaatataattggccttttgaatgttttcacaccacagaaatccctagaagaa
+            tttcaagatgtttacatagtcatggagctcatggatgcaaatctttgccaagtgattcag
+            atggagctagatcatgaaagaatgtcctaccttctctatcagatgctgtgtggaatcaag
+            caccttcattctgctggaattattcatcgggacttaaagcccagtaatatagtagtaaaa
+            tctgattgcactttgaagattcttgacttcggtctggccaggactgcaggaacgagtttt
+            atgatgacgccttatgtagtgactcgctactacagagcacccgaggtcatccttggcatg
+            ggctacaaggaaaacgttgacatttggtcagttgggtgcatcatgggagaaatgatcaaa
+            ggtggtgttttgttcccaggtacagatcatattgatcagtggaataaagttattgaacag
+            cttggaacaccatgtcctgaattcatgaagaaactgcaaccaacagtaaggacttacgtt
+            gaaaacagacctaaatatgctggatatagctttgagaaactcttccctgatgtccttttc
+            ccagctgactcagaacacaacaaacttaaagccagtcaggcaagggatttgttatccaaa
+            atgctggtaatagatgcatctaaaaggatctctgtagatgaagctctccaacacccgtac
+            atcaatgtctggtatgatccttctgaagcagaagctccaccaccaaagatccctgacaag
+            cagttagatgaaagggaacacacaatagaagagtggaaagaattgatatataaggaagtt
+            atggacttggaggagagaaccaagaatggagttatacgggggcagccctctcctttaggt
+            gcagcagtgatcaatggctctcagcatccatcatcatcgtcgtctgtcaatgatgtgtct
+            tcaatgtcaacagatccgactttggcctctgatacagacagcagtctagaagcagcagct
+            gggcctctgggctgctgtagatga
+///

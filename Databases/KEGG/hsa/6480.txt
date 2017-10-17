@@ -1,0 +1,68 @@
+ENTRY       6480              CDS       T01001
+NAME        ST6GAL1, SIAT1, ST6GalI, ST6N
+DEFINITION  (RefSeq) ST6 beta-galactoside alpha-2,6-sialyltransferase 1
+ORTHOLOGY   K00778  beta-galactoside alpha-2,6-sialyltransferase (sialyltransferase 1) [EC:2.4.99.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa00514  Other types of O-glycan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00075  N-glycan biosynthesis, complex type
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                6480 (ST6GAL1)
+               00514 Other types of O-glycan biosynthesis
+                6480 (ST6GAL1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.99  Transferring other glycosyl groups
+                2.4.99.1  beta-galactoside alpha-(2,6)-sialyltransferase
+                 6480 (ST6GAL1)
+            Glycosyltransferases [BR:hsa01003]
+             Terminal extension
+              Sialyltransferase
+               6480 (ST6GAL1)
+POSITION    3q27.3
+MOTIF       Pfam: Glyco_transf_29
+DBLINKS     NCBI-GeneID: 6480
+            NCBI-ProteinID: NP_003023
+            OMIM: 109675
+            HGNC: 10860
+            Ensembl: ENSG00000073849
+            Vega: OTTHUMG00000156500
+            Pharos: P15907(Tbio)
+            UniProt: P15907
+STRUCTURE   PDB: 4JS1 4JS2
+AASEQ       406
+            MIHTNLKKKFSCCVLVFLLFAVICVWKEKKKGSYYDSFKLQTKEFQVLKSLGKLAMGSDS
+            QSVSSSSTQDPHRGRQTLGSLRGLAKAKPEASFQVWNKDSSSKNLIPRLQKIWKNYLSMN
+            KYKVSYKGPGPGIKFSAEALRCHLRDHVNVSMVEVTDFPFNTSEWEGYLPKESIRTKAGP
+            WGRCAVVSSAGSLKSSQLGREIDDHDAVLRFNGAPTANFQQDVGTKTTIRLMNSQLVTTE
+            KRFLKDSLYNEGILIVWDPSVYHSDIPKWYQNPDYNFFNNYKTYRKLHPNQPFYILKPQM
+            PWELWDILQEISPEEIQPNPPSSGMLGIIIMMTLCDQVDIYEFLPSKRKTDVCYYYQKFF
+            DSACTMGAYHPLLYEKNLVKHLNQGTDEDIYLLGKATLPGFRTIHC
+NTSEQ       1221
+            atgattcacaccaacctgaagaaaaagttcagctgctgcgtcctggtctttcttctgttt
+            gcagtcatctgtgtgtggaaggaaaagaagaaagggagttactatgattcctttaaattg
+            caaaccaaggaattccaggtgttaaagagtctggggaaattggccatggggtctgattcc
+            cagtctgtatcctcaagcagcacccaggacccccacaggggccgccagaccctcggcagt
+            ctcagaggcctagccaaggccaaaccagaggcctccttccaggtgtggaacaaggacagc
+            tcttccaaaaaccttatccctaggctgcaaaagatctggaagaattacctaagcatgaac
+            aagtacaaagtgtcctacaaggggccaggaccaggcatcaagttcagtgcagaggccctg
+            cgctgccacctccgggaccatgtgaatgtatccatggtagaggtcacagattttcccttc
+            aatacctctgaatgggagggttatctgcccaaggagagcattaggaccaaggctgggcct
+            tggggcaggtgtgctgttgtgtcgtcagcgggatctctgaagtcctcccaactaggcaga
+            gaaatcgatgatcatgacgcagtcctgaggtttaatggggcacccacagccaacttccaa
+            caagatgtgggcacaaaaactaccattcgcctgatgaactctcagttggttaccacagag
+            aagcgcttcctcaaagacagtttgtacaatgaaggaatcctaattgtatgggacccatct
+            gtataccactcagatatcccaaagtggtaccagaatccggattataatttctttaacaac
+            tacaagacttatcgtaagctgcaccccaatcagcccttttacatcctcaagccccagatg
+            ccttgggagctatgggacattcttcaagaaatctccccagaagagattcagccaaacccc
+            ccatcctctgggatgcttggtatcatcatcatgatgacgctgtgtgaccaggtggatatt
+            tatgagttcctcccatccaagcgcaagactgacgtgtgctactactaccagaagttcttc
+            gatagtgcctgcacgatgggtgcctaccacccgctgctctatgagaagaatttggtgaag
+            catctcaaccagggcacagatgaggacatctacctgcttggaaaagccacactgcctggc
+            ttccggaccattcactgctaa
+///

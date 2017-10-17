@@ -1,0 +1,101 @@
+ENTRY       649               CDS       T01001
+NAME        BMP1, OI13, PCOLC, PCP, PCP2, TLD
+DEFINITION  (RefSeq) bone morphogenetic protein 1
+ORTHOLOGY   K05502  bone morphogenetic protein 1 [EC:3.4.24.19]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00506  Osteogenesis imperfecta
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.19  procollagen C-endopeptidase
+                 649 (BMP1)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M12: astacin/adamalysin family
+               649 (BMP1)
+            Cytokines [BR:hsa04052]
+             TGF-beta family
+              Distant members
+               649 (BMP1)
+POSITION    8p21.3
+MOTIF       Pfam: CUB Astacin FXa_inhibition EGF_CA cEGF EGF EGF_3 hEGF EGF_MSP1_1 Reprolysin_4 O_Spanin_T7
+DBLINKS     NCBI-GeneID: 649
+            NCBI-ProteinID: NP_006120
+            OMIM: 112264
+            HGNC: 1067
+            Ensembl: ENSG00000168487
+            Vega: OTTHUMG00000097761
+            Pharos: P13497(Tchem)
+            UniProt: P13497
+STRUCTURE   PDB: 3EDH 3EDG
+AASEQ       986
+            MPGVARLPLLLGLLLLPRPGRPLDLADYTYDLAEEDDSEPLNYKDPCKAAAFLGDIALDE
+            EDLRAFQVQQAVDLRRHTARKSSIKAAVPGNTSTPSCQSTNGQPQRGACGRWRGRSRSRR
+            AATSRPERVWPDGVIPFVIGGNFTGSQRAVFRQAMRHWEKHTCVTFLERTDEDSYIVFTY
+            RPCGCCSYVGRRGGGPQAISIGKNCDKFGIVVHELGHVVGFWHEHTRPDRDRHVSIVREN
+            IQPGQEYNFLKMEPQEVESLGETYDFDSIMHYARNTFSRGIFLDTIVPKYEVNGVKPPIG
+            QRTRLSKGDIAQARKLYKCPACGETLQDSTGNFSSPEYPNGYSAHMHCVWRISVTPGEKI
+            ILNFTSLDLYRSRLCWYDYVEVRDGFWRKAPLRGRFCGSKLPEPIVSTDSRLWVEFRSSS
+            NWVGKGFFAVYEAICGGDVKKDYGHIQSPNYPDDYRPSKVCIWRIQVSEGFHVGLTFQSF
+            EIERHDSCAYDYLEVRDGHSESSTLIGRYCGYEKPDDIKSTSSRLWLKFVSDGSINKAGF
+            AVNFFKEVDECSRPNRGGCEQRCLNTLGSYKCSCDPGYELAPDKRRCEAACGGFLTKLNG
+            SITSPGWPKEYPPNKNCIWQLVAPTQYRISLQFDFFETEGNDVCKYDFVEVRSGLTADSK
+            LHGKFCGSEKPEVITSQYNNMRVEFKSDNTVSKKGFKAHFFSDKDECSKDNGGCQQDCVN
+            TFGSYECQCRSGFVLHDNKHDCKEAGCDHKVTSTSGTITSPNWPDKYPSKKECTWAISST
+            PGHRVKLTFMEMDIESQPECAYDHLEVFDGRDAKAPVLGRFCGSKKPEPVLATGSRMFLR
+            FYSDNSVQRKGFQASHATECGGQVRADVKTKDLYSHAQFGDNNYPGGVDCEWVIVAEEGY
+            GVELVFQTFEVEEETDCGYDYMELFDGYDSTAPRLGRYCGSGPPEEVYSAGDSVLVKFHS
+            DDTITKKGFHLRYTSTKFQDTLHSRK
+NTSEQ       2961
+            atgcccggcgtggcccgcctgccgctgctgctcgggctgctgctgctcccgcgtcccggc
+            cggccgctggacttggccgactacacctatgacctggcggaggaggacgactcggagccc
+            ctcaactacaaagacccctgcaaggcggctgcctttcttggggacattgccctggacgaa
+            gaggacctgagggccttccaggtacagcaggctgtggatctcagacggcacacagctcgt
+            aagtcctccatcaaagctgcagttccaggaaacacttctacccccagctgccagagcacc
+            aacgggcagcctcagaggggagcctgtgggagatggagaggtagatcccgtagccggcgg
+            gcggcgacgtcccgaccagagcgtgtgtggcccgatggggtcatcccctttgtcattggg
+            ggaaacttcactggtagccagagggcagtcttccggcaggccatgaggcactgggagaag
+            cacacctgtgtcaccttcctggagcgcactgacgaggacagctatattgtgttcacctat
+            cgaccttgcgggtgctgctcctacgtgggtcgccgcggcgggggcccccaggccatctcc
+            atcggcaagaactgtgacaagttcggcattgtggtccacgagctgggccacgtcgtcggc
+            ttctggcacgaacacactcggccagaccgggaccgccacgtttccatcgttcgtgagaac
+            atccagccagggcaggagtataacttcctgaagatggagcctcaggaggtggagtccctg
+            ggggagacctatgacttcgacagcatcatgcattacgctcggaacacattctccaggggc
+            atcttcctggataccattgtccccaagtatgaggtgaacggggtgaaacctcccattggc
+            caaaggacacggctcagcaagggggacattgcccaagcccgcaagctttacaagtgccca
+            gcctgtggagagaccctgcaagacagcacaggcaacttctcctcccctgaataccccaat
+            ggctactctgctcacatgcactgcgtgtggcgcatctctgtcacacccggggagaagatc
+            atcctgaacttcacgtccctggacctgtaccgcagccgcctgtgctggtacgactatgtg
+            gaggtccgagatggcttctggaggaaggcgcccctccgaggccgcttctgcgggtccaaa
+            ctccctgagcctatcgtctccactgacagccgcctctgggttgaattccgcagcagcagc
+            aattgggttggaaagggcttctttgcagtctacgaagccatctgcgggggtgatgtgaaa
+            aaggactatggccacattcaatcgcccaactacccagacgattaccggcccagcaaagtc
+            tgcatctggcggatccaggtgtctgagggcttccacgtgggcctcacattccagtccttt
+            gagattgagcgccacgacagctgtgcctacgactatctggaggtgcgcgacgggcacagt
+            gagagcagcaccctcatcgggcgctactgtggctatgagaagcctgatgacatcaagagc
+            acgtccagccgcctctggctcaagttcgtctctgacgggtccattaacaaagcgggcttt
+            gccgtcaactttttcaaagaggtggacgagtgctctcggcccaaccgcgggggctgtgag
+            cagcggtgcctcaacaccctgggcagctacaagtgcagctgtgaccccgggtacgagctg
+            gccccagacaagcgccgctgtgaggctgcttgtggcggattcctcaccaagctcaacggc
+            tccatcaccagcccgggctggcccaaggagtacccccccaacaagaactgcatctggcag
+            ctggtggcccccacccagtaccgcatctccctgcagtttgacttctttgagacagagggc
+            aatgatgtgtgcaagtacgacttcgtggaggtgcgcagtggactcacagctgactccaag
+            ctgcatggcaagttctgtggttctgagaagcccgaggtcatcacctcccagtacaacaac
+            atgcgcgtggagttcaagtccgacaacaccgtgtccaaaaagggcttcaaggcccacttc
+            ttctcagacaaggacgagtgctccaaggataacggcggctgccagcaggactgcgtcaac
+            acgttcggcagttatgagtgccaatgccgcagtggcttcgtcctccatgacaacaagcac
+            gactgcaaagaagccggctgtgaccacaaggtgacatccaccagtggtaccatcaccagc
+            cccaactggcctgacaagtatcccagcaagaaggagtgcacgtgggccatctccagcacc
+            cccgggcaccgggtcaagctgaccttcatggagatggacatcgagtcccagcctgagtgt
+            gcctacgaccacctagaggtgttcgacgggcgagacgccaaggcccccgtcctcggccgc
+            ttctgtgggagcaagaagcccgagcccgtcctggccacaggcagccgcatgttcctgcgc
+            ttctactcagataactcggtccagcgaaagggcttccaggcctcccacgccacagagtgc
+            gggggccaggtacgggcagacgtgaagaccaaggacctttactcccacgcccagtttggc
+            gacaacaactaccctgggggtgtggactgtgagtgggtcattgtggccgaggaaggctac
+            ggcgtggagctcgtgttccagacctttgaggtggaggaggagaccgactgcggctatgac
+            tacatggagctcttcgacggctacgacagcacagcccccaggctggggcgctactgtggc
+            tcagggcctcctgaggaggtgtactcggcgggagattctgtcctggtgaagttccactcg
+            gatgacaccatcaccaaaaaaggtttccacctgcgatacaccagcaccaagttccaggac
+            acactccacagcaggaagtga
+///

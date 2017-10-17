@@ -1,0 +1,56 @@
+ENTRY       3176              CDS       T01001
+NAME        HNMT, HMT, HNMT-S1, HNMT-S2, MRT51
+DEFINITION  (RefSeq) histamine N-methyltransferase
+ORTHOLOGY   K00546  histamine N-methyltransferase [EC:2.1.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00340  Histidine metabolism
+DISEASE     H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00340 Histidine metabolism
+                3176 (HNMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.8  histamine N-methyltransferase
+                 3176 (HNMT)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               3176 (HNMT)
+POSITION    2q22.1
+MOTIF       Pfam: Methyltransf_23 Methyltransf_12 Methyltransf_31 Methyltransf_16 EF-hand_8 Methyltransf_25
+DBLINKS     NCBI-GeneID: 3176
+            NCBI-ProteinID: NP_008826
+            OMIM: 605238
+            HGNC: 5028
+            Ensembl: ENSG00000150540
+            Vega: OTTHUMG00000131751
+            Pharos: P50135(Tchem)
+            UniProt: P50135
+STRUCTURE   PDB: 2AOT 1JQE 1JQD 2AOU 2AOV 2AOW 2AOX
+AASEQ       292
+            MASSMRSLFSDHGKYVESFRRFLNHSTEHQCMQEFMDKKLPGIIGRIGDTKSEIKILSIG
+            GGAGEIDLQILSKVQAQYPGVCINNEVVEPSAEQIAKYKELVAKTSNLENVKFAWHKETS
+            SEYQSRMLEKKELQKWDFIHMIQMLYYVKDIPATLKFFHSLLGTNAKMLIIVVSGSSGWD
+            KLWKKYGSRFPQDDLCQYITSDDLTQMLDNLGLKYECYDLLSTMDISDCFIDGNENGDLL
+            WDFLTETCNFNATAPPDLRAELGKDLQEPEFSAKKEGKVLFNNTLSFIVIEA
+NTSEQ       879
+            atggcatcttccatgaggagcttgttttctgaccacgggaaatatgttgaatctttccgg
+            aggtttctcaaccattccacggaacaccagtgcatgcaggaattcatggacaagaagctg
+            ccaggcataataggaaggattggagacacaaaatcagaaattaagattctaagcataggc
+            ggaggtgcaggtgaaattgatcttcaaattctctccaaagttcaggctcaatacccagga
+            gtttgtatcaacaatgaagttgttgagccaagtgctgaacaaattgccaaatacaaagag
+            cttgtagccaagacatcgaacctcgagaacgtaaagtttgcttggcataaggagacatca
+            tctgaataccaaagtagaatgttggagaaaaaggagcttcaaaagtgggactttattcat
+            atgattcaaatgctgtattatgtaaaagacatcccagctaccctgaaattcttccatagt
+            ctcttaggtaccaatgctaagatgctcattattgttgtgtcaggaagcagtggctgggac
+            aagctgtggaaaaagtacggatcacgctttccccaggatgacctctgccagtatatcaca
+            tcagatgacctcactcagatgctggacaacctagggcttaagtatgagtgctatgacctt
+            ttgtccaccatggatatatctgactgctttattgatggtaatgaaaatggagacctgctt
+            tgggattttttgactgaaacctgcaactttaatgccacagcaccacctgatctcagagca
+            gagcttgggaaagatctacaagagcctgaatttagtgctaagaaagaggggaaggttctt
+            tttaataatactctgagtttcatagtgattgaggcataa
+///

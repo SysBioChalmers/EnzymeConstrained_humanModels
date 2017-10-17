@@ -1,0 +1,89 @@
+ENTRY       4720              CDS       T01001
+NAME        NDUFS2, CI-49
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase core subunit S2
+ORTHOLOGY   K03935  NADH dehydrogenase (ubiquinone) Fe-S protein 2 [EC:1.6.5.3 1.6.99.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4720 (NDUFS2)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4720 (NDUFS2)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4720 (NDUFS2)
+               05012 Parkinson's disease
+                4720 (NDUFS2)
+               05016 Huntington's disease
+                4720 (NDUFS2)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4720 (NDUFS2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4720 (NDUFS2)
+               1.6.99  With unknown physiological acceptors
+                1.6.99.3  NADH dehydrogenase
+                 4720 (NDUFS2)
+POSITION    1q23.3
+MOTIF       Pfam: Complex1_49kDa NiFeSe_Hases
+DBLINKS     NCBI-GeneID: 4720
+            NCBI-ProteinID: NP_004541
+            OMIM: 602985
+            HGNC: 7708
+            Ensembl: ENSG00000158864
+            Vega: OTTHUMG00000034344
+            Pharos: O75306(Tclin)
+            UniProt: O75306
+STRUCTURE   PDB: 5XTB 5XTC 5XTD
+AASEQ       463
+            MAALRALCGFRGVAAQVLRPGAGVRLPIQPSRGVRQWQPDVEWAQQFGGAVMYPSKETAH
+            WKPPPWNDVDPPKDTIVKNITLNFGPQHPAAHGVLRLVMELSGEMVRKCDPHIGLLHRGT
+            EKLIEYKTYLQALPYFDRLDYVSMMCNEQAYSLAVEKLLNIRPPPRAQWIRVLFGEITRL
+            LNHIMAVTTHALDLGAMTPFFWLFEEREKMFEFYERVSGARMHAAYIRPGGVHQDLPLGL
+            MDDIYQFSKNFSLRLDELEELLTNNRIWRNRTIDIGVVTAEEALNYGFSGVMLRGSGIQW
+            DLRKTQPYDVYDQVEFDVPVGSRGDCYDRYLCRVEEMRQSLRIIAQCLNKMPPGEIKVDD
+            AKVSPPKRAEMKTSMESLIHHFKLYTEGYQVPPGATYTAIEAPKGEFGVYLVSDGSSRPY
+            RCKIKAPGFAHLAGLDKMSKGHMLADVVAIIGTQDIVFGEVDR
+NTSEQ       1392
+            atggcggcgctgagggctttgtgcggcttccggggcgtcgcggcccaggtgctgcggcct
+            ggggctggagtccgattgccgattcagcccagcagaggtgttcggcagtggcagccagat
+            gtggaatgggcacagcagtttgggggagctgttatgtacccaagcaaagaaacagcccac
+            tggaagcctccaccttggaatgatgtggaccctccaaaggacacaattgtgaagaacatt
+            accctgaactttgggccccaacacccagcagcgcatggtgtcctgcgactagtgatggaa
+            ttgagtggggagatggtgcggaagtgtgatcctcacatcgggctcctgcaccgaggcact
+            gagaagctcattgaatacaagacctatcttcaggcccttccatactttgaccggctagac
+            tatgtgtccatgatgtgtaacgaacaggcctattctctagctgtggagaagttgctaaac
+            atccggcctcctcctcgggcacagtggatccgagtgctgtttggagaaatcacacgtttg
+            ttgaaccacatcatggctgtgaccacacatgccctggaccttggggccatgacccctttc
+            ttctggctgtttgaagaaagggagaagatgtttgagttctacgagcgagtgtctggagcc
+            cgaatgcatgctgcttatatccggccaggaggagtgcaccaggacctaccccttgggctt
+            atggatgacatttatcagttttctaagaacttctctcttcggcttgatgagttggaggag
+            ttgctgaccaacaataggatctggcgaaatcggacaattgacattggggttgtaacagca
+            gaagaagcacttaactatggttttagtggagtgatgcttcggggctcaggcatccagtgg
+            gacctgcggaagacccagccctatgatgtttacgaccaggttgagtttgatgttcctgtt
+            ggttctcgaggggactgctatgataggtacctgtgccgggtggaggagatgcgccagtcc
+            ctgagaattatcgcacagtgtctaaacaagatgcctcctggggagatcaaggttgatgat
+            gccaaagtgtctccacctaagcgagcagagatgaagacttccatggagtcactgattcat
+            cactttaagttgtatactgagggctaccaagttcctccaggagccacatatactgccatt
+            gaggctcccaagggagagtttggggtgtacctggtgtctgatggcagcagccgcccttat
+            cgatgcaagatcaaggctcctggttttgcccatctggctggtttggacaagatgtctaag
+            ggacacatgttggcagatgtcgttgccatcataggtacccaagatattgtatttggagaa
+            gtagatcggtga
+///

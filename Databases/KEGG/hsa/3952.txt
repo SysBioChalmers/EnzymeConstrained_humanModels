@@ -1,0 +1,61 @@
+ENTRY       3952              CDS       T01001
+NAME        LEP, LEPD, OB, OBS
+DEFINITION  (RefSeq) leptin
+ORTHOLOGY   K05424  leptin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04152  AMPK signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3952 (LEP)
+               04152 AMPK signaling pathway
+                3952 (LEP)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3952 (LEP)
+               04060 Cytokine-cytokine receptor interaction
+                3952 (LEP)
+             Organismal Systems
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                3952 (LEP)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                3952 (LEP)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-6 receptor family
+               3952 (LEP)
+POSITION    7q32.1
+MOTIF       Pfam: Leptin
+DBLINKS     NCBI-GeneID: 3952
+            NCBI-ProteinID: NP_000221
+            OMIM: 164160
+            HGNC: 6553
+            Ensembl: ENSG00000174697
+            Vega: OTTHUMG00000157564
+            Pharos: P41159(Tbio)
+            UniProt: P41159 A4D0Y8
+STRUCTURE   PDB: 1AX8
+AASEQ       167
+            MHWGTLCGFLWLWPYLFYVQAVPIQKVQDDTKTLIKTIVTRINDISHTQSVSSKQKVTGL
+            DFIPGLHPILTLSKMDQTLAVYQQILTSMPSRNVIQISNDLENLRDLLHVLAFSKSCHLP
+            WASGLETLDSLGGVLEASGYSTEVVALSRLQGSLQDMLWQLDLSPGC
+NTSEQ       504
+            atgcattggggaaccctgtgcggattcttgtggctttggccctatcttttctatgtccaa
+            gctgtgcccatccaaaaagtccaagatgacaccaaaaccctcatcaagacaattgtcacc
+            aggatcaatgacatttcacacacgcagtcagtctcctccaaacagaaagtcaccggtttg
+            gacttcattcctgggctccaccccatcctgaccttatccaagatggaccagacactggca
+            gtctaccaacagatcctcaccagtatgccttccagaaacgtgatccaaatatccaacgac
+            ctggagaacctccgggatcttcttcacgtgctggccttctctaagagctgccacttgccc
+            tgggccagtggcctggagaccttggacagcctggggggtgtcctggaagcttcaggctac
+            tccacagaggtggtggccctgagcaggctgcaggggtctctgcaggacatgctgtggcag
+            ctggacctcagccctgggtgctga
+///

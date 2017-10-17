@@ -1,0 +1,71 @@
+ENTRY       1535              CDS       T01001
+NAME        CYBA, p22-PHOX
+DEFINITION  (RefSeq) cytochrome b-245 alpha chain
+ORTHOLOGY   K08009  cytochrome b-245, alpha polypeptide
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa05140  Leishmaniasis
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00098  Chronic granulomatous disease
+            H01167  Gluconobacter infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                1535 (CYBA)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                1535 (CYBA)
+               04670 Leukocyte transendothelial migration
+                1535 (CYBA)
+              Development
+               04380 Osteoclast differentiation
+                1535 (CYBA)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                1535 (CYBA)
+              Infectious diseases
+               05140 Leishmaniasis
+                1535 (CYBA)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               NADPH oxidase complex
+                1535 (CYBA)
+             Others
+              NADPH oxidases (Nox) and associated proteins
+               Nox associated proteins
+                1535 (CYBA)
+POSITION    16q24.2
+MOTIF       Pfam: Cytochrom_B558a Cg6151-P DUF308
+DBLINKS     NCBI-GeneID: 1535
+            NCBI-ProteinID: NP_000092
+            OMIM: 608508
+            HGNC: 2577
+            Ensembl: ENSG00000051523
+            Vega: OTTHUMG00000173320
+            Pharos: P13498(Tbio)
+            UniProt: P13498 B4DT46
+STRUCTURE   PDB: 1WLP
+AASEQ       195
+            MGQIEWAMWANEQALASGLILITGGIVATAGRFTQWYFGAYSIVAGVFVCLLEYPRGKRK
+            KGSTMERWGQKYMTAVVKLFGPFTRNYYVRAVLHLLLSVPAGFLLATILGTACLAIASGI
+            YLLAAVRGEQWTPIEPKPRERPQIGGTIKQPPSNPPPRPPAEARKKPSEEEAAVAAGGPP
+            GGPQVNPIPVTDEVV
+NTSEQ       588
+            atggggcagatcgagtgggccatgtgggccaacgagcaggcgctggcgtccggcctgatc
+            ctcatcaccgggggcatcgtggccacagctgggcgcttcacccagtggtactttggtgcc
+            tactccattgtggcgggcgtgtttgtgtgcctgctggagtacccccgggggaagaggaag
+            aagggctccaccatggagcgctggggacagaagtacatgaccgccgtggtgaagctgttc
+            gggccctttaccaggaattactatgttcgggccgtcctgcatctcctgctctcggtgccc
+            gccggcttcctgctggccaccatccttgggaccgcctgcctggccattgcgagcggcatc
+            tacctactggcggctgtgcgtggcgagcagtggacgcccatcgagcccaagccccgggag
+            cggccgcagatcggaggcaccatcaagcagccgcccagcaaccccccgccgcggcccccg
+            gccgaggcccgcaagaagcccagcgaggaggaggctgcggtggcggcggggggacccccg
+            ggaggtccccaggtcaaccccatcccggtgaccgacgaggtcgtgtga
+///

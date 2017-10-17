@@ -1,0 +1,102 @@
+ENTRY       4361              CDS       T01001
+NAME        MRE11, ATLD, HNGS1, MRE11A, MRE11B
+DEFINITION  (RefSeq) MRE11 homolog, double strand break repair nuclease
+ORTHOLOGY   K10865  double-strand break repair protein MRE11
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03440  Homologous recombination
+            hsa03450  Non-homologous end-joining
+            hsa04218  Cellular senescence
+MODULE      hsa_M00291  MRN complex
+            hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+DISEASE     H00064  Ataxia telangiectasia (AT)
+            H00094  Immunodeficiency associated with DNA repair defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03440 Homologous recombination
+                4361 (MRE11)
+               03450 Non-homologous end-joining
+                4361 (MRE11)
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                4361 (MRE11)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                MRN complex
+                 4361 (MRE11)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                MRN(MRX) complex
+                 4361 (MRE11)
+                BRCA1-C complex
+                 4361 (MRE11)
+               NHEJ (non-homologous end-joining)
+                MRX complex
+                 4361 (MRE11)
+POSITION    11q21
+MOTIF       Pfam: Mre11_DNA_bind Metallophos Metallophos_2
+DBLINKS     NCBI-GeneID: 4361
+            NCBI-ProteinID: NP_005582
+            OMIM: 600814
+            HGNC: 7230
+            Ensembl: ENSG00000020922
+            Vega: OTTHUMG00000167780
+            Pharos: P49959(Tbio)
+            UniProt: P49959 A0A024R395
+STRUCTURE   PDB: 3T1I
+AASEQ       708
+            MSTADALDDENTFKILVATDIHLGFMEKDAVRGNDTFVTLDEILRLAQENEVDFILLGGD
+            LFHENKPSRKTLHTCLELLRKYCMGDRPVQFEILSDQSVNFGFSKFPWVNYQDGNLNISI
+            PVFSIHGNHDDPTGADALCALDILSCAGFVNHFGRSMSVEKIDISPVLLQKGSTKIALYG
+            LGSIPDERLYRMFVNKKVTMLRPKEDENSWFNLFVIHQNRSKHGSTNFIPEQFLDDFIDL
+            VIWGHEHECKIAPTKNEQQLFYISQPGSSVVTSLSPGEAVKKHVGLLRIKGRKMNMHKIP
+            LHTVRQFFMEDIVLANHPDIFNPDNPKVTQAIQSFCLEKIEEMLENAERERLGNSHQPEK
+            PLVRLRVDYSGGFEPFSVLRFSQKFVDRVANPKDIIHFFRHREQKEKTGEEINFGKLITK
+            PSEGTTLRVEDLVKQYFQTAEKNVQLSLLTERGMGEAVQEFVDKEEKDAIEELVKYQLEK
+            TQRFLKERHIDALEDKIDEEVRRFRETRQKNTNEEDDEVREAMTRARALRSQSEESASAF
+            SADDLMSIDLAEQMANDSDDSISAATNKGRGRGRGRRGGRGQNSASRGGSQRGRADTGLE
+            TSTRSRNSKTAVSASRNMSIIDAFKSTRQQPSRNVTTKNYSEVIEVDESDVEEDIFPTTS
+            KTDQRWSSTSSSKIMSQSQVSKGVDFESSEDDDDDPFMNTSSLRRNRR
+NTSEQ       2127
+            atgagtactgcagatgcacttgatgatgaaaacacatttaaaatattagttgcaacagat
+            attcatcttggatttatggagaaagatgcagtcagaggaaatgatacgtttgtaacactc
+            gatgaaattttaagacttgcccaggaaaatgaagtggattttattttgttaggtggtgat
+            ctttttcatgaaaataagccctcaaggaaaacattacatacctgcctcgagttattaaga
+            aaatattgtatgggtgatcggcctgtccagtttgaaattctcagtgatcagtcagtcaac
+            tttggttttagtaagtttccatgggtgaactatcaagatggcaacctcaacatttcaatt
+            ccagtgtttagtattcatggcaatcatgacgatcccacaggggcagatgcactttgtgcc
+            ttggacattttaagttgtgctggatttgtaaatcactttggacgttcaatgtctgtggag
+            aagatagacattagtccggttttgcttcaaaaaggaagcacaaagattgcgctatatggt
+            ttaggatccattccagatgaaaggctctatcgaatgtttgtcaataaaaaagtaacaatg
+            ttgagaccaaaggaagatgagaactcttggtttaacttatttgtgattcatcagaacagg
+            agtaaacatggaagtactaacttcattccagaacaatttttggatgacttcattgatctt
+            gttatctggggccatgaacatgagtgtaaaatagctccaaccaaaaatgaacaacagctg
+            ttttatatctcacaacctggaagctcagtggttacttctctttccccaggagaagctgta
+            aagaaacatgttggtttgctgcgtattaaagggaggaagatgaatatgcataaaattcct
+            cttcacacagtgcggcagtttttcatggaggatattgttctagctaatcatccagacatt
+            tttaacccagataatcctaaagtaacccaagccatacaaagcttctgtttggagaagatt
+            gaagaaatgcttgaaaatgctgaacgggaacgtctgggtaattctcaccagccagagaag
+            cctcttgtacgactgcgagtggactatagtggaggttttgaacctttcagtgttcttcgc
+            tttagccagaaatttgtggatcgggtagctaatccaaaagacattatccattttttcagg
+            catagagaacaaaaggaaaaaacaggagaagagatcaactttgggaaacttatcacaaag
+            ccttcagaaggaacaactttaagggtagaagatcttgtaaaacagtactttcaaaccgca
+            gagaagaatgtgcagctctcactgctaacagaaagagggatgggtgaagcagtacaagaa
+            tttgtggacaaggaggagaaagatgccattgaggaattagtgaaataccagttggaaaaa
+            acacagcgatttcttaaagaacgtcatattgatgccctcgaagacaaaatcgatgaggag
+            gtacgtcgtttcagagaaaccagacaaaaaaatactaatgaagaagatgatgaagtccgt
+            gaggctatgaccagggccagagcactcagatctcagtcagaggagtctgcttctgccttt
+            agtgctgatgaccttatgagtatagatttagcagaacagatggctaatgactctgatgat
+            agcatctcagcagcaaccaacaaaggaagaggccgaggaagaggtcgaagaggtggaaga
+            gggcagaattcagcatcgagaggagggtctcaaagaggaagagcagacactggtctggag
+            acttctacccgtagcaggaactcaaagactgctgtgtcagcatctagaaatatgtctatt
+            atagatgcctttaaatctacaagacagcagccttcccgaaatgtcactactaagaattat
+            tcagaggtgattgaggtagatgaatcagatgtggaagaagacatttttcctaccacttca
+            aagacagatcaaaggtggtccagcacatcatccagcaaaatcatgtcccagagtcaagta
+            tcgaaaggggttgattttgaatcaagtgaggatgatgatgatgatccttttatgaacact
+            agttctttaagaagaaatagaagataa
+///

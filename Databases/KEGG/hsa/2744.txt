@@ -1,0 +1,106 @@
+ENTRY       2744              CDS       T01001
+NAME        GLS, AAD20, GAC, GAM, GLS1, KGA
+DEFINITION  (RefSeq) glutaminase
+ORTHOLOGY   K01425  glutaminase [EC:3.5.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00471  D-Glutamine and D-glutamate metabolism
+            hsa01100  Metabolic pathways
+            hsa04724  Glutamatergic synapse
+            hsa04727  GABAergic synapse
+            hsa04964  Proximal tubule bicarbonate reclamation
+            hsa05206  MicroRNAs in cancer
+            hsa05230  Central carbon metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2744 (GLS)
+               00220 Arginine biosynthesis
+                2744 (GLS)
+              Metabolism of other amino acids
+               00471 D-Glutamine and D-glutamate metabolism
+                2744 (GLS)
+             Organismal Systems
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                2744 (GLS)
+              Nervous system
+               04724 Glutamatergic synapse
+                2744 (GLS)
+               04727 GABAergic synapse
+                2744 (GLS)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                2744 (GLS)
+               05206 MicroRNAs in cancer
+                2744 (GLS)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.2  glutaminase
+                 2744 (GLS)
+POSITION    2q32.2
+MOTIF       Pfam: Glutaminase Ank_2 Ank_4 Ank_3 Ank_5 Ank
+DBLINKS     NCBI-GeneID: 2744
+            NCBI-ProteinID: NP_055720
+            OMIM: 138280
+            HGNC: 4331
+            Ensembl: ENSG00000115419
+            Vega: OTTHUMG00000132701
+            Pharos: O94925(Tbio)
+            UniProt: O94925
+STRUCTURE   PDB: 5U0I 5U0J 5JYO 3VOY 4O7D 3VP1 3UO9 5HL1 3VOZ 3VP0 3CZD
+                 3VP4 5FI2 5FI7 5FI6 3UNW 3VP2 3VP3 5JYP 5D3O 5I94 5UQE
+AASEQ       669
+            MMRLRGSGMLRDLLLRSPAGVSATLRRAQPLVTLCRRPRGGGRPAAGPAAAARLHPWWGG
+            GGWPAEPLARGLSSSPSEILQELGKGSTHPQPGVSPPAAPAAPGPKDGPGETDAFGNSEG
+            KELVASGENKIKQGLLPSLEDLLFYTIAEGQEKIPVHKFITALKSTGLRTSDPRLKECMD
+            MLRLTLQTTSDGVMLDKDLFKKCVQSNIVLLTQAFRRKFVIPDFMSFTSHIDELYESAKK
+            QSGGKVADYIPQLAKFSPDLWGVSVCTVDGQRHSTGDTKVPFCLQSCVKPLKYAIAVNDL
+            GTEYVHRYVGKEPSGLRFNKLFLNEDDKPHNPMVNAGAIVVTSLIKQGVNNAEKFDYVMQ
+            FLNKMAGNEYVGFSNATFQSERESGDRNFAIGYYLKEKKCFPEGTDMVGILDFYFQLCSI
+            EVTCESASVMAATLANGGFCPITGERVLSPEAVRNTLSLMHSCGMYDFSGQFAFHVGLPA
+            KSGVAGGILLVVPNVMGMMCWSPPLDKMGNSVKGIHFCHDLVSLCNFHNYDNLRHFAKKL
+            DPRREGGDQRVKSVINLLFAAYTGDVSALRRFALSAMDMEQRDYDSRTALHVAAAEGHVE
+            VVKFLLEACKVNPFPKDRWNNTPMDEALHFGHHDVFKILQEYQVQYTPQGDSDNGKENQT
+            VHKNLDGLL
+NTSEQ       2010
+            atgatgcggctgcgaggctcggggatgctgcgggacctgctcctgcggtcgcccgccggc
+            gtgagcgcgactctgcggcgggcacagcccttggtcaccctgtgccggcgtccccgaggc
+            gggggacggccggccgcgggcccggctgccgccgcgcgactccacccgtggtggggcggg
+            ggcggctggccggcggagcccctcgcgcggggcctgtccagctctccttcggagatcttg
+            caggagctgggcaaggggagcacgcatccgcagcccggggtgtcgccacccgctgccccg
+            gcggcgcccggccccaaggacggccccggggagacggacgcgtttggcaacagcgagggc
+            aaagagctggtggcctcaggtgaaaataaaataaaacagggtctgttacctagcttggaa
+            gatttgctgttctatacaattgctgaaggacaagagaaaatacctgttcataaatttatt
+            acagcactcaaatctacaggattgcgaacgtctgatcccaggttgaaagagtgtatggat
+            atgttaagattaactcttcaaacaacatcagatggtgtcatgctagacaaagatcttttt
+            aaaaaatgtgttcagagcaacattgttttgttgacacaagcatttagaagaaagtttgtg
+            attcctgactttatgtcttttacctcacacattgatgagttatatgaaagtgctaaaaag
+            cagtctggaggaaaggttgcagattatattcctcaactggccaaattcagtcccgatttg
+            tggggtgtgtctgtttgtacagtagatggacagaggcattctactggagataccaaagtt
+            cccttctgtcttcagtcctgtgtaaaacctttgaaatatgccattgctgttaatgatctt
+            ggaactgaatatgtgcatcgatatgttggaaaagagccgagtggactaagattcaacaaa
+            ctatttttgaatgaagatgataaaccacataatcctatggtaaatgctggagcaattgtt
+            gtgacttcactaataaagcaaggagtaaataatgctgaaaaatttgactatgtcatgcag
+            tttttgaataagatggctggtaatgaatatgttggattcagtaatgcaacgtttcagtct
+            gaaagagaaagtggagatcgaaattttgcaataggatattacttaaaagaaaagaagtgt
+            tttccagaaggcacagacatggttggtatattagacttctacttccagctgtgctccatt
+            gaagtgacttgtgaatcagccagtgtgatggctgcgacactggctaatggtggtttctgc
+            ccaattactggtgaaagagtactgagccctgaagcagttcgaaatacattgagtttgatg
+            cattcctgtggcatgtatgacttctcagggcagtttgctttccatgttggtcttcctgca
+            aaatctggagttgctgggggcattcttttagttgtccccaatgttatgggtatgatgtgc
+            tggtctcctcctctggataagatgggcaacagtgttaagggaattcacttttgtcacgat
+            cttgtttctctgtgtaatttccataactatgataatttgagacactttgcaaaaaaactt
+            gatcctcgaagagaaggtggtgatcaaagggtaaagtcagtgataaatcttttgtttgct
+            gcatatactggagatgtgtctgcacttcgaagatttgctttgtcagctatggacatggaa
+            cagcgggactatgattctagaacagcactccatgtagctgctgcagagggtcatgttgaa
+            gttgttaaatttttgctggaagcctgcaaagtaaaccctttccccaaggacaggtggaat
+            aacactcccatggatgaagcactgcactttggacaccatgatgtatttaaaattctccaa
+            gaataccaagtccagtacacacctcaaggagattctgacaacgggaaggaaaatcaaacc
+            gtccataagaatcttgatggattgttgtaa
+///

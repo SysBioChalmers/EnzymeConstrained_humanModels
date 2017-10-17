@@ -1,0 +1,101 @@
+ENTRY       8509              CDS       T01001
+NAME        NDST2, HSST2, NST2
+DEFINITION  (RefSeq) N-deacetylase and N-sulfotransferase 2
+ORTHOLOGY   K02577  heparan sulfate N-deacetylase/N-sulfotransferase NDST2 [EC:3.1.1.- 2.8.2.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00059  Glycosaminoglycan biosynthesis, heparan sulfate backbone
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+                8509 (NDST2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.2  Sulfotransferases
+                2.8.2.-  
+                 8509 (NDST2)
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.-  
+                 8509 (NDST2)
+            Glycosyltransferases [BR:hsa01003]
+             Unclassified
+              Sulfotransferases
+               8509 (NDST2)
+POSITION    10q22.2
+MOTIF       Pfam: HSNSD Sulfotransfer_1 Sulfotransfer_3
+DBLINKS     NCBI-GeneID: 8509
+            NCBI-ProteinID: NP_003626
+            OMIM: 603268
+            HGNC: 7681
+            Ensembl: ENSG00000166507 ENSG00000272916
+            Vega: OTTHUMG00000018489 OTTHUMG00000185992
+            Pharos: P52849(Tbio)
+            UniProt: P52849 B4E139
+AASEQ       883
+            MLQLWKVVRPARQLELHRLILLLIAFSLGSMGFLAYYVSTSPKAKEPLPLPLGDCSSGGA
+            AGPGPARPPVPPRPPRPPETARTEPVVLVFVESAYSQLGQEIVAILESSRFRYSTELAPG
+            RGDMPTLTDNTHGRYVLVIYENLLKYVNLDAWSRELLDRYCVEYGVGIIGFFRAHEHSLL
+            SAQLKGFPLFLHSNLGLRDYQVNPSAPLLHLTRPSRLEPGPLPGDDWTIFQSNHSTYEPV
+            LLASLRPAEPAVPGPVLRRARLPTVVQDLGLHDGIQRVLFGHGLSFWLHKLIFVDAVAYL
+            TGKRLCLDLDRYILVDIDDIFVGKEGTRMKVADVEALLTTQNKLRTLVPNFTFNLGFSGK
+            FYHTGTEEEDAGDDMLLKHRKEFWWFPHMWSHMQPHLFHNRSVLADQMRLNKQFALEHGI
+            PTDLGYAVAPHHSGVYPIHTQLYEAWKSVWGIQVTSTEEYPHLRPARYRRGFIHNGIMVL
+            PRQTCGLFTHTIFYNEYPGGSRELDRSIRGGELFLTVLLNPISIFMTHLSNYGNDRLGLY
+            TFESLVRFLQCWTRLRLQTLPPVPLAQKYFELFPQERSPLWQNPCDDKRHKDIWSKEKTC
+            DRLPKFLIVGPQKTGTTAIHFFLSLHPAVTSSFPSPSTFEEIQFFNSPNYHKGIDWYMDF
+            FPVPSNASTDFLFEKSATYFDSEVVPRRGAALLPRAKIITVLTNPADRAYSWYQHQRAHG
+            DPVALNYTFYQVISASSQTPLALRSLQNRCLVPGYYSTHLQRWLTYYPSGQLLIVDGQEL
+            RTNPAASMESIQKFLGITPFLNYTRTLRFDDDKGFWCQGLEGGKTRCLGRSKGRRYPDMD
+            TESRLFLTDFFRNHNLELSKLLSRLGQPVPSWLREELQHSSLG
+NTSEQ       2652
+            atgctccagttgtggaaggtggtacgcccagctcggcagctggaactgcaccgcctcata
+            ctgctgctgatcgctttcagcctgggctccatgggcttcctggcttattatgtgtccacc
+            agccctaaggccaaggaacccttgcccctgcccttgggagactgcagcagcggtggggca
+            gctggtcctggccctgcacggcctccagttccacctcggccccccaggcctccagagaca
+            gctcgaactgaacccgtggtccttgtgtttgtggagagtgcatactcacagctggggcag
+            gaaattgtggccatcctggagtctagtcgttttcgttatagcactgagttggcacctggc
+            cgaggggacatgcccacattgactgataatacccatggccgctatgtcttggtcatttat
+            gagaacctgctcaagtatgtcaacctggatgcctggagtcgggaactgctagaccggtac
+            tgcgtggagtatggtgtgggcatcattggctttttccgagcccacgagcacagcctactg
+            agcgcccagctcaagggctttcccctttttttacactcaaacttggggctccgggactac
+            caagtgaatccttctgccccgctactgcatctcacacgccccagccgcctagaaccaggg
+            ccactgcctggtgatgactggaccatcttccaatccaatcatagtacatatgaaccagtg
+            cttcttgccagccttcggccagctgagcccgcagtgccaggaccagttcttcgtcgggcc
+            cggcttcccactgtggtacaggacctggggcttcatgatggcatccagcgggtgctcttt
+            ggacatggcctttccttctggctccacaaacttatcttcgttgatgctgttgcatacctc
+            actggcaagcgcctctgcctggaccttgaccgctacatcttggtagacatcgatgacatc
+            tttgtgggcaaggaagggacccgcatgaaggtggctgatgttgaggctctgttgaccacc
+            cagaacaaactcaggaccttagttcccaacttcaccttcaacttgggcttctcgggcaag
+            ttctatcatactgggacagaggaggaggatgcaggggacgacatgctgctgaagcaccgc
+            aaagagttctggtggttcccccacatgtggagccacatgcagccacacctgttccacaat
+            cgctccgtgctggctgaccagatgaggctcaacaaacagtttgctctggagcatgggatt
+            cccacggacctggggtatgctgtggccccccaccactcgggtgtgtaccccatccacacg
+            cagctctatgaggcctggaaatccgtgtggggcatccaggtgaccagcactgaggagtat
+            ccccatctccgccctgcccgctaccgccgtggcttcattcacaatggcattatggtgctg
+            ccccggcagacatgtggcctcttcactcacacaatcttctataatgagtatcctggaggc
+            tctcgtgaactagaccggagcatccgaggtggagagctctttctgacagtgctgcttaat
+            ccgatcagcatctttatgacccatctgtccaattatggaaatgaccggctgggcctatac
+            acctttgagagcttggtgcgcttcctccagtgttggacacggctgcgcctacagaccctt
+            cctcctgtcccacttgcacagaagtactttgaacttttccctcaggagcgaagccccctt
+            tggcagaatccctgtgatgacaagaggcacaaagatatctggtccaaggagaaaacctgt
+            gatcgtctcccgaagttcctcattgtgggaccccagaaaacagggactacagctattcac
+            ttcttcctgagcctgcacccagctgtaactagcagcttccctagccccagcacatttgag
+            gagattcagttcttcaacagccctaattaccacaagggtattgactggtacatggatttc
+            ttccctgttccttccaatgccagcactgatttcctatttgaaaaaagtgccacctacttt
+            gactctgaagttgtaccacggcggggggctgccctcctgccacgagccaagatcatcaca
+            gtgctcaccaaccctgctgacagggcctactcctggtaccagcatcagcgagcccatgga
+            gacccagttgctctgaactataccttctatcaggtgatttcagcctcctcccagacccct
+            ctggcactacgctccctgcagaaccgctgtcttgtccctggctactattctacccatcta
+            caacgctggctgacttactacccctctggacagttgctgattgtggatgggcaagagctg
+            cgtaccaacccagcagcctcaatggagagcatccagaagttcctgggtatcacacccttt
+            ctgaactacacacggaccctcaggtttgatgatgataagggattttggtgccagggactt
+            gaaggtggtaagactcgctgtctaggccggagcaaaggccggaggtatccagatatggac
+            actgagtcccgtcttttccttacggattttttccggaaccataatttggagttgtcgaag
+            ctgctgagccggcttggacagccagtgccctcgtggcttcgggaagaactgcagcattcc
+            agtctgggctga
+///

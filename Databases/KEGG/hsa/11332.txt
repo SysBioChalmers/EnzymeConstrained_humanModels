@@ -1,0 +1,69 @@
+ENTRY       11332             CDS       T01001
+NAME        ACOT7, ACH1, ACT, BACH, CTE-II, LACH, LACH1, hBACH
+DEFINITION  (RefSeq) acyl-CoA thioesterase 7
+ORTHOLOGY   K17360  acyl-coenzyme A thioesterase 7 [EC:3.1.2.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa01040  Biosynthesis of unsaturated fatty acids
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00062 Fatty acid elongation
+                11332 (ACOT7)
+               01040 Biosynthesis of unsaturated fatty acids
+                11332 (ACOT7)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.2  palmitoyl-CoA hydrolase
+                 11332 (ACOT7)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Fatty acid synthase
+              Component type
+               11332 (ACOT7)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               11332 (ACOT7)
+POSITION    1p36.31
+MOTIF       Pfam: 4HBT tRNA_anti-codon NINJA_B TBCC
+DBLINKS     NCBI-GeneID: 11332
+            NCBI-ProteinID: NP_863654
+            OMIM: 602587
+            HGNC: 24157
+            Ensembl: ENSG00000097021
+            Vega: OTTHUMG00000001295
+            Pharos: O00154(Tbio)
+            UniProt: O00154
+STRUCTURE   PDB: 2QQ2
+AASEQ       380
+            MKLLARALRLCEFGRQASSRRLVAGQGCVGPRRGCCAPVQVVGPRADLPPCGACITGRIM
+            RPDDANVAGNVHGGTILKMIEEAGAIISTRHCNSQNGERCVAALARVERTDFLSPMCIGE
+            VAHVSAEITYTSKHSVEVQVNVMSENILTGAKKLTNKATLWYVPLSLKNVDKVLEVPPVV
+            YSRQEQEEEGRKRYEAQKLERMETKWRNGDIVQPVLNPEPNTVSYSQSSLIHLVGPSDCT
+            LHGFVHGGVTMKLMDEVAGIVAARHCKTNIVTASVDAINFHDKIRKGCVITISGRMTFTS
+            NKSMEIEVLVDADPVVDSSQKRYRAASAFFTYVSLSQEGRSLPVPQLVPETEDEKKRFEE
+            GKGRYLQMKAKRQGHAEPQP
+NTSEQ       1143
+            atgaagctgcttgccagggctctccggctctgtgagtttgggaggcaggcatcttccagg
+            aggctggtggctggccagggatgtgtggggccccggcgagggtgctgcgctcccgtccag
+            gtggttgggcccagggctgatctcccaccctgtggagcctgcattactggaaggatcatg
+            cggccagatgatgccaacgtggccggcaatgtccacggggggaccatcctgaagatgatc
+            gaggaggcaggcgccatcatcagcacccggcattgcaacagccagaacggggagcgctgt
+            gtggccgccctggctcgtgtcgagcgcaccgacttcctgtctcccatgtgcatcggtgag
+            gtggcgcatgtcagcgcggagatcacctacacctccaagcactctgtggaggtgcaggtc
+            aacgtgatgtccgaaaacatcctcacaggtgccaaaaagctgaccaataaggccaccctg
+            tggtatgtgcccctgtcgctgaagaatgtggacaaggtcctcgaggtgcctcctgttgtg
+            tattcccggcaggagcaggaggaggagggccggaagcggtatgaagcccagaagctggag
+            cgcatggagaccaagtggaggaacggggacatcgtccagccagtcctcaacccagagccg
+            aacactgtcagctacagccagtccagcttgatccacctggtggggccttcagactgcacc
+            ctgcacggctttgtgcacggaggtgtgaccatgaagctcatggatgaggtcgccgggatc
+            gtggctgcacgccactgcaagaccaacatcgtcacagcttccgtggacgccattaatttt
+            catgacaagatcagaaaaggctgcgtcatcaccatctcgggacgcatgaccttcacgagc
+            aataagtccatggagatcgaggtgttggtggacgccgaccctgttgtggacagctctcag
+            aagcgctaccgggccgccagtgccttcttcacctacgtgtcgctgagccaggaaggcagg
+            tcgctgcctgtgccccagctggtgcccgagaccgaggacgagaagaagcgctttgaggaa
+            ggcaaagggcggtacctgcagatgaaggcgaagcgacagggccacgcggagcctcagccc
+            tag
+///

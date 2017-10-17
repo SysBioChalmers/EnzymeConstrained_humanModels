@@ -1,0 +1,56 @@
+ENTRY       10901             CDS       T01001
+NAME        DHRS4, CR, NRDR, PHCR, PSCD, SCAD-SRL, SDR-SRL, SDR25C1, SDR25C2
+DEFINITION  (RefSeq) dehydrogenase/reductase 4
+ORTHOLOGY   K11147  dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                10901 (DHRS4)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                10901 (DHRS4)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.-  Acting on the CH-OH group of donors
+                1.1.-.-  
+                 10901 (DHRS4)
+POSITION    14q11.2
+MOTIF       Pfam: adh_short_C2 adh_short KR DUF1776 F420_oxidored DFP YjeF_N DUF5037
+DBLINKS     NCBI-GeneID: 10901
+            NCBI-ProteinID: NP_066284
+            OMIM: 611596
+            HGNC: 16985
+            Ensembl: ENSG00000157326
+            Vega: OTTHUMG00000028777
+            Pharos: Q9BTZ2(Tbio)
+            UniProt: Q9BTZ2
+STRUCTURE   PDB: 3O4R
+AASEQ       278
+            MHKAGLLGLCARAWNSVRMASSGMTRRDPLANKVALVTASTDGIGFAIARRLAQDGAHVV
+            VSSRKQQNVDQAVATLQGEGLSVTGTVCHVGKAEDRERLVATAVKLHGGIDILVSNAAVN
+            PFFGSIMDVTEEVWDKTLDINVKAPALMTKAVVPEMEKRGGGSVVIVSSIAAFSPSPGFS
+            PYNVSKTALLGLTKTLAIELAPRNIRVNCLAPGLIKTSFSRMLWMDKEKEESMKETLRIR
+            RLGEPEDCAGIVSFLCSEDASYITGETVVVGGGTPSRL
+NTSEQ       837
+            atgcacaaggcggggctgctaggcctctgtgcccgggcttggaattcggtgcggatggcc
+            agctccgggatgacccgccgggacccgctcgcaaataaggtggccctggtaacggcctcc
+            accgacgggatcggcttcgccatcgcccggcgtttggcccaggacggggcccatgtggtc
+            gtcagcagccggaagcagcagaatgtggaccaggcggtggccacgctgcagggggagggg
+            ctgagcgtgacgggcaccgtgtgccatgtggggaaggcggaggaccgggagcggctggtg
+            gccacggctgtgaagcttcatggaggtatcgatatcctagtctccaatgctgctgtcaac
+            cctttctttggaagcataatggatgtcactgaggaggtgtgggacaagactctggacatt
+            aatgtgaaggccccagccctgatgacaaaggcagtggtgccagaaatggagaaacgagga
+            ggcggctcagtggtgatcgtgtcttccatagcagccttcagtccatctcctggcttcagt
+            ccttacaatgtcagtaaaacagccttgctgggcctgaccaagaccctggccatagagctg
+            gccccaaggaacattagggtgaactgcctagcacctggacttatcaagactagcttcagc
+            aggatgctctggatggacaaggaaaaagaggaaagcatgaaagaaaccctgcggataaga
+            aggttaggcgagccagaggattgtgctggcatcgtgtctttcctgtgctctgaagatgcc
+            agctacatcactggggaaacagtggtggtgggtggaggaaccccgtcccgcctctga
+///

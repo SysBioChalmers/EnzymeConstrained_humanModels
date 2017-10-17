@@ -1,0 +1,60 @@
+ENTRY       6652              CDS       T01001
+NAME        SORD, HEL-S-95n, SORD1
+DEFINITION  (RefSeq) sorbitol dehydrogenase
+ORTHOLOGY   K00008  L-iditol 2-dehydrogenase [EC:1.1.1.14]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00051  Fructose and mannose metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                6652 (SORD)
+               00051 Fructose and mannose metabolism
+                6652 (SORD)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.14  L-iditol 2-dehydrogenase
+                 6652 (SORD)
+POSITION    15q21.1
+MOTIF       Pfam: ADH_zinc_N ADH_N Glu_dehyd_C AlaDh_PNT_C Pyr_redox_2 ADH_zinc_N_2 Methyltransf_25 2-Hacid_dh_C
+DBLINKS     NCBI-GeneID: 6652
+            NCBI-ProteinID: NP_003095
+            OMIM: 182500
+            HGNC: 11184
+            Ensembl: ENSG00000140263
+            Vega: OTTHUMG00000131265
+            Pharos: Q00796(Tchem)
+            UniProt: Q00796
+STRUCTURE   PDB: 1PL8 1PL6 1PL7
+AASEQ       357
+            MAAAAKPNNLSLVVHGPGDLRLENYPIPEPGPNEVLLRMHSVGICGSDVHYWEYGRIGNF
+            IVKKPMVLGHEASGTVEKVGSSVKHLKPGDRVAIEPGAPRENDEFCKMGRYNLSPSIFFC
+            ATPPDDGNLCRFYKHNAAFCYKLPDNVTFEEGALIEPLSVGIHACRRGGVTLGHKVLVCG
+            AGPIGMVTLLVAKAMGAAQVVVTDLSATRLSKAKEIGADLVLQISKESPQEIARKVEGQL
+            GCKPEVTIECTGAEASIQAGIYATRSGGNLVLVGLGSEMTTVPLLHAAIREVDIKGVFRY
+            CNTWPVAISMLASKSVNVKPLVTHRFPLEKALEAFETFKKGLGLKIMLKCDPSDQNP
+NTSEQ       1074
+            atggcggcggcggccaagcccaacaacctttccctggtggtgcacggaccgggggacttg
+            cgcctggagaactatcctatccctgaaccaggcccaaatgaggtcttgctgaggatgcat
+            tctgttggaatctgtggctcagatgtccactactgggagtatggtcgaattgggaatttt
+            attgtgaaaaagcccatggtgctgggacatgaagcttcgggaacagtcgaaaaagtggga
+            tcatcggtaaagcacctaaaaccaggtgatcgtgttgccatcgagcctggtgctccccga
+            gaaaatgatgaattctgcaagatgggccgatacaatctgtcaccttccatcttcttctgt
+            gccacgccccccgatgacgggaacctctgccggttctataagcacaatgcagccttttgt
+            tacaagcttcctgacaatgtcacctttgaggaaggcgccctgatcgagccactttctgtg
+            gggatccatgcctgcaggagaggcggagttaccctgggacacaaggtccttgtgtgtgga
+            gctgggccaatcgggatggtcactttgctcgtggccaaagcaatgggagcagctcaagta
+            gtggtgactgatctgtctgctacccgattgtccaaagccaaggagattggggctgattta
+            gtcctccagatctccaaggagagccctcaggaaatcgccaggaaagtagaaggtcagctg
+            gggtgcaagccggaagtcaccatcgagtgcacgggggcagaggcctccatccaggcgggc
+            atctacgccactcgctctggtgggaacctcgtgcttgtggggctgggctctgagatgacc
+            accgtacccctactgcatgcagccatccgggaggtggatatcaagggcgtgtttcgatac
+            tgcaacacgtggccagtggcgatttcgatgcttgcgtccaagtctgtgaatgtaaaaccc
+            ctcgtcacccataggtttcctctggagaaagctctggaggcctttgaaacatttaaaaag
+            ggattggggttgaaaatcatgctcaagtgtgaccccagtgaccagaatccctga
+///

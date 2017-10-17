@@ -1,0 +1,89 @@
+ENTRY       1859              CDS       T01001
+NAME        DYRK1A, DYRK, DYRK1, HP86, MNB, MNBH, MRD7
+DEFINITION  (RefSeq) dual specificity tyrosine phosphorylation regulated kinase 1A
+ORTHOLOGY   K08825  dual specificity tyrosine-phosphorylation-regulated kinase 1 [EC:2.7.12.1]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00773  Autosomal dominant mental retardation
+            H01552  Down syndrome
+BRITE       Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.1  dual-specificity kinase
+                 1859 (DYRK1A)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: CMGC group
+              DYRK family [OT]
+               1859 (DYRK1A)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Kinases
+                1859 (DYRK1A)
+POSITION    21q22.13
+MOTIF       Pfam: Pkinase Pkinase_Tyr Filament_head
+DBLINKS     NCBI-GeneID: 1859
+            NCBI-ProteinID: NP_001387
+            OMIM: 600855
+            HGNC: 3091
+            Ensembl: ENSG00000157540
+            Vega: OTTHUMG00000086657
+            Pharos: Q13627(Tchem)
+            UniProt: Q13627
+STRUCTURE   PDB: 4YLK 4YLL 5A4T 5A3X 4MQ1 5A4Q 2VX3 2WO6 4YLJ 4NCT 3ANQ
+                 3ANR 5A54 5A4E 5AIK 5A4L 4MQ2 4YU2 4AZE
+AASEQ       763
+            MHTGGETSACKPSSVRLAPSFSFHAAGLQMAGQMPHSHQYSDRRQPNISDQQVSALSYSD
+            QIQQPLTNQVMPDIVMLQRRMPQTFRDPATAPLRKLSVDLIKTYKHINEVYYAKKKRRHQ
+            QGQGDDSSHKKERKVYNDGYDDDNYDYIVKNGEKWMDRYEIDSLIGKGSFGQVVKAYDRV
+            EQEWVAIKIIKNKKAFLNQAQIEVRLLELMNKHDTEMKYYIVHLKRHFMFRNHLCLVFEM
+            LSYNLYDLLRNTNFRGVSLNLTRKFAQQMCTALLFLATPELSIIHCDLKPENILLCNPKR
+            SAIKIVDFGSSCQLGQRIYQYIQSRFYRSPEVLLGMPYDLAIDMWSLGCILVEMHTGEPL
+            FSGANEVDQMNKIVEVLGIPPAHILDQAPKARKFFEKLPDGTWNLKKTKDGKREYKPPGT
+            RKLHNILGVETGGPGGRRAGESGHTVADYLKFKDLILRMLDYDPKTRIQPYYALQHSFFK
+            KTADEGTNTSNSVSTSPAMEQSQSSGTTSSTSSSSGGSSGTSNSGRARSDPTHQHRHSGG
+            HFTAAVQAMDCETHSPQVRQQFPAPLGWSGTEAPTQVTVETHPVQETTFHVAPQQNALHH
+            HHGNSSHHHHHHHHHHHHHGQQALGNRTRPRVYNSPTNSSSTQDSMEVGHSHHSMTSLSS
+            STTSSSTSSSSTGNQGNQAYQNRPVAANTLDFGQNGAMDVNLTVYSNPRQETGIAGHPTY
+            QFSANTGPAHYMTEGHLTMRQGADREESPMTGVCVQQSPVASS
+NTSEQ       2292
+            atgcatacaggaggagagacttcagcatgcaaaccttcatctgttcggcttgcaccgtca
+            ttttcattccatgctgctggccttcagatggctggacagatgccccattcacatcagtac
+            agtgaccgtcgccagccaaacataagtgaccaacaggtttctgccttatcatattctgac
+            cagattcagcaacctctaactaaccaggtgatgcctgatattgtcatgttacagaggcgg
+            atgccccaaaccttccgtgacccagcaactgctcccctgagaaaactttctgttgacttg
+            atcaaaacatacaagcatattaatgaggtttactatgcaaaaaagaagcgaagacaccaa
+            cagggccagggagacgattctagtcataagaaggaacggaaggtttacaatgatggttat
+            gatgatgataactatgattatattgtaaaaaacggagaaaagtggatggatcgttacgaa
+            attgactccttgataggcaaaggttcctttggacaggttgtaaaggcatatgatcgtgtg
+            gagcaagaatgggttgccattaaaataataaagaacaagaaggcttttctgaatcaagca
+            cagatagaagtgcgacttcttgagctcatgaacaaacatgacactgaaatgaaatactac
+            atagtgcatttgaaacgccactttatgtttcgaaaccatctctgtttagtttttgaaatg
+            ctgtcctacaacctctatgacttgctgagaaacaccaatttccgaggggtctctttgaac
+            ctaacacgaaagtttgcgcaacagatgtgcactgcactgcttttccttgcgactccagaa
+            cttagtatcattcactgtgatctaaaacctgaaaatatccttctttgtaaccccaaacgc
+            agtgcaatcaagatagttgactttggcagttcttgtcagttggggcagaggatataccag
+            tatattcagagtcgcttttatcggtctccagaggtgctactgggaatgccttatgacctt
+            gccattgatatgtggtccctcgggtgtattttggttgaaatgcacactggagaacctctg
+            ttcagtggtgccaatgaggtagatcagatgaataaaatagtggaagttctgggtattcca
+            cctgctcatattcttgaccaagcaccaaaagcaagaaagttctttgagaagttgccagat
+            ggcacttggaacttaaagaagaccaaagatggaaaacgggagtacaaaccaccaggaacc
+            cgtaaacttcataacattcttggagtggaaacaggaggacctggtgggcgacgtgctggg
+            gagtcaggtcatacggtcgctgactacttgaagttcaaagacctcattttaaggatgctt
+            gattatgaccccaaaactcgaattcaaccttattatgctctgcagcacagtttcttcaag
+            aaaacagctgatgaaggtacaaatacaagtaatagtgtatctacaagccccgccatggag
+            cagtctcagtcttcgggcaccacctccagtacatcgtcaagctcaggtggctcatcgggg
+            acaagcaacagtgggagagcccggtcggatccgacgcaccagcatcggcacagtggtggg
+            cacttcacagctgccgtgcaggccatggactgcgagacacacagtccccaggtgcgtcag
+            caatttcctgctcctcttggttggtcaggcactgaagctcctacacaggtcactgttgaa
+            actcatcctgttcaagaaacaacctttcatgtagcccctcaacagaatgcattgcatcat
+            caccatggtaacagttcccatcaccatcaccaccaccaccaccatcaccaccaccatgga
+            caacaagccttgggtaaccggaccaggccaagggtctacaattctccaacgaatagctcc
+            tctacccaagattctatggaggttggccacagtcaccactccatgacatccctgtcttcc
+            tcaacgacttcttcctcgacatcttcctcctctactggtaaccaaggcaatcaggcctac
+            cagaatcgcccagtggctgctaataccttggactttggacagaatggagctatggacgtt
+            aatttgaccgtctactccaatccccgccaagagactggcatagctggacatccaacatac
+            caattttctgctaatacaggtcctgcacattacatgactgaaggacatctgacaatgagg
+            caaggggctgatagagaagagtcccccatgacaggagtttgtgtgcaacagagtcctgta
+            gctagctcgtga
+///

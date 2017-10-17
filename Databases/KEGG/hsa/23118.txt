@@ -1,0 +1,111 @@
+ENTRY       23118             CDS       T01001
+NAME        TAB2, CHTD2, MAP3K7IP2, TAB-2
+DEFINITION  (RefSeq) TGF-beta activated kinase 1/MAP3K7 binding protein 2
+ORTHOLOGY   K04404  TAK1-binding protein 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05162  Measles
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00686  Toll-like receptor signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                23118 (TAB2)
+               04064 NF-kappa B signaling pathway
+                23118 (TAB2)
+               04668 TNF signaling pathway
+                23118 (TAB2)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                23118 (TAB2)
+               04621 NOD-like receptor signaling pathway
+                23118 (TAB2)
+               04657 IL-17 signaling pathway
+                23118 (TAB2)
+              Development
+               04380 Osteoclast differentiation
+                23118 (TAB2)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                23118 (TAB2)
+               05168 Herpes simplex infection
+                23118 (TAB2)
+               05169 Epstein-Barr virus infection
+                23118 (TAB2)
+               05145 Toxoplasmosis
+                23118 (TAB2)
+               05140 Leishmaniasis
+                23118 (TAB2)
+POSITION    6q25.1
+MOTIF       Pfam: CUE zf-RanBP Mnd1 IncA DivIC
+DBLINKS     NCBI-GeneID: 23118
+            NCBI-ProteinID: NP_001278963
+            OMIM: 605101
+            HGNC: 17075
+            Ensembl: ENSG00000055208 ENSG00000228408
+            Vega: OTTHUMG00000015783
+            Pharos: Q9NYJ8(Tbio)
+            UniProt: Q9NYJ8
+STRUCTURE   PDB: 2WWZ 2WX0 2WX1 2DAE
+AASEQ       693
+            MAQGSHQIDFQVLHDLRQKFPEVPEVVVSRCMLQNNNNLDACCAVLSQESTRYLYGEGDL
+            NFSDDSGISGLRNHMTSLNLDLQSQNIYHHGREGSRMNGSRTLTHSISDGQLQGGQSNSE
+            LFQQEPQTAPAQVPQGFNVFGMSSSSGASNSAPHLGFHLGSKGTSSLSQQTPRFNPIMVT
+            LAPNIQTGRNTPTSLHIHGVPPPVLNSPQGNSIYIRPYITTPGGTTRQTQQHSGWVSQFN
+            PMNPQQVYQPSQPGPWTTCPASNPLSHTSSQQPNQQGHQTSHVYMPISSPTTSQPPTIHS
+            SGSSQSSAHSQYNIQNISTGPRKNQIEIKLEPPQRNNSSKLRSSGPRTSSTSSSVNSQTL
+            NRNQPTVYIAASPPNTDELMSRSQPKVYISANAATGDEQVMRNQPTLFISTNSGASAASR
+            NMSGQVSMGPAFIHHHPPKSRAIGNNSATSPRVVVTQPNTKYTFKITVSPNKPPAVSPGV
+            VSPTFELTNLLNHPDHYVETENIQHLTDPTLAHVDRISETRKLSMGSDDAAYTQALLVHQ
+            KARMERLQRELEIQKKKLDKLKSEVNEMENNLTRRRLKRSNSISQIPSLEEMQQLRSCNR
+            QLQIDIDCLTKEIDLFQARGPHFNPSAIHNFYDNIGFVGPVPPKPKDQRSIIKTPKTQDT
+            EDDEGAQWNCTACTFLNHPALIRCEQCEMPRHF
+NTSEQ       2082
+            atggcccaaggaagccaccaaattgattttcaggttttacatgacctgcgacaaaaattc
+            cctgaagtacctgaagttgttgtatccaggtgcatgttacagaataataataacctggat
+            gcctgctgtgctgttctctctcaggagagtacaagatatctttatggtgaaggagacttg
+            aatttttcagatgattctggaatttctggtctacgcaatcacatgacttctctcaacttg
+            gacttgcaatcacagaacatttaccaccatggaagagaaggaagtaggatgaatggaagt
+            aggactctaacgcacagcattagtgatggacaacttcaaggtggccagtccaatagtgaa
+            ctatttcagcaggagccacagacagcaccagctcaagttcctcaaggctttaatgttttt
+            ggaatgtccagttcctctggtgcttcaaattcagcaccacatcttggatttcacttaggc
+            agcaaaggaacatctagcctttctcaacaaactcccagatttaatcccattatggtaact
+            ttagccccaaatatccagactggtcgtaatactcctacatctttgcacatacatggtgta
+            cctccacctgtacttaacagtccacagggaaattctatctatattaggccttacattaca
+            actcctggtggtacaactcgacagacacaacagcattctggctgggtatctcagtttaat
+            cccatgaaccctcagcaagtttatcagccttcacagcctggtccctggactacttgtcct
+            gcatctaatcctctgtcacatacctcatctcaacagccaaatcagcaaggccaccagacc
+            tctcatgtctacatgccaatcagttcacctactacttcacaaccaccaaccattcattca
+            tctggtagctcacagtcttctgcccatagccaatataacattcagaatatttcaacagga
+            cctcgaaaaaaccagattgaaatcaaacttgaacccccacaaagaaataattcttcaaaa
+            ctgcgttcttctggacctcgaacctccagcacttcctcttcagtcaatagccagacctta
+            aacagaaatcagcccactgtttacatagctgccagccccccaaatacggatgagctgatg
+            tcccgtagtcaacctaaggtctatatttcagcgaatgctgccacaggagatgaacaggtc
+            atgcggaatcagcccacactcttcatatccacaaactctggagcatctgctgcctccagg
+            aacatgtctgggcaagtgagcatgggtcctgcctttattcatcaccatcctcccaaaagt
+            cgagcaataggcaataactctgcaacctctcctcgagtggtagtcactcagcccaatacg
+            aaatacactttcaaaattacagtctctcccaataagccccctgcagtttcaccaggggtg
+            gtgtcccctacctttgaacttacaaatcttcttaatcatcctgatcattatgtagaaacc
+            gagaatattcagcacctcacggaccctacattagcacatgtggatagaataagtgaaaca
+            cggaaactgagtatgggatctgatgatgctgcctacacacaagctcttttggtacaccag
+            aaggccagaatggaacgacttcaaagagaacttgagattcaaaagaaaaagctggataaa
+            ttaaaatctgaggttaatgaaatggaaaataatctaactcgaaggcgcctgaaaagatca
+            aattctatatcccagataccttcccttgaagaaatgcagcagctgagaagttgtaataga
+            caactccagattgacattgactgcttaaccaaagaaattgatctttttcaagcccgagga
+            ccacattttaaccccagcgctattcataacttttatgacaatattggatttgtaggtcct
+            gtgccaccaaaacccaaagatcaaaggtccatcatcaaaacaccaaagactcaagacaca
+            gaagatgatgagggagctcagtggaattgtaccgcctgtacttttttgaaccatccagcc
+            ttaattcgctgtgaacagtgtgagatgccaaggcatttctga
+///

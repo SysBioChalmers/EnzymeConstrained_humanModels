@@ -1,0 +1,80 @@
+ENTRY       8611              CDS       T01001
+NAME        PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A
+DEFINITION  (RefSeq) phospholipid phosphatase 1
+ORTHOLOGY   K01080  phosphatidate phosphatase [EC:3.1.3.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04072  Phospholipase D signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04975  Fat digestion and absorption
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00089  Triacylglycerol biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                8611 (PLPP1)
+               00564 Glycerophospholipid metabolism
+                8611 (PLPP1)
+               00565 Ether lipid metabolism
+                8611 (PLPP1)
+               00600 Sphingolipid metabolism
+                8611 (PLPP1)
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                8611 (PLPP1)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                8611 (PLPP1)
+              Digestive system
+               04975 Fat digestion and absorption
+                8611 (PLPP1)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                8611 (PLPP1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.4  phosphatidate phosphatase
+                 8611 (PLPP1)
+POSITION    5q11.2
+MOTIF       Pfam: PAP2 PAP2_C COX4 PAP2_3 TPPK_C
+DBLINKS     NCBI-GeneID: 8611
+            NCBI-ProteinID: NP_003702
+            OMIM: 607124
+            HGNC: 9228
+            Ensembl: ENSG00000067113
+            Vega: OTTHUMG00000162240
+            Pharos: O14494(Tbio)
+            UniProt: O14494 A0A024QZS3
+AASEQ       284
+            MFDKTRLPYVALDVLCVLLAGLPFAILTSRHTPFQRGVFCNDESIKYPYKEDTIPYALLG
+            GIIIPFSIIVIILGETLSVYCNLLHSNSFIRNNYIATIYKAIGTFLFGAAASQSLTDIAK
+            YSIGRLRPHFLDVCDPDWSKINCSDGYIEYYICRGNAERVKEGRLSFYSGHSSFSMYCML
+            FVALYLQARMKGDWARLLRPTLQFGLVAVSIYVGLSRVSDYKHHWSDVLTGLIQGALVAI
+            LVAVYVSDFFKERTSFKERKEEDSHTTLHETPTTGNHYPSNHQP
+NTSEQ       855
+            atgtttgacaagacgcggctgccgtacgtggccctcgatgtgctctgcgtgttgctggct
+            ggattgccttttgcaattcttacttcaaggcatacccccttccaacgaggagtattctgt
+            aatgatgagtccatcaagtacccttacaaagaagacaccataccttatgcgttattaggt
+            ggaataatcattccattcagtattatcgttattattcttggagaaaccctgtctgtttac
+            tgtaaccttttgcactcaaattcctttatcaggaataactacatagccactatttacaaa
+            gccattggaacctttttatttggtgcagctgctagtcagtccctgactgacattgccaag
+            tattcaataggcagactgcggcctcacttcttggatgtttgtgatccagattggtcaaaa
+            atcaactgcagcgatggttacattgaatactacatatgtcgagggaatgcagaaagagtt
+            aaggaaggcaggttgtccttctattcaggccactcttcgttttccatgtactgcatgctg
+            tttgtggcactttatcttcaagccaggatgaagggagactgggcaagactcttacgcccc
+            acactgcaatttggtcttgttgccgtatccatttatgtgggcctttctcgagtttctgat
+            tataaacaccactggagcgatgtgttgactggactcattcagggagctctggttgcaata
+            ttagttgctgtatatgtatcggatttcttcaaagaaagaacttcttttaaagaaagaaaa
+            gaggaggactctcatacaactctgcatgaaacaccaacaactgggaatcactatccgagc
+            aatcaccagccttga
+///

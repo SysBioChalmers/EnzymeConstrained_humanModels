@@ -1,0 +1,74 @@
+ENTRY       29785             CDS       T01001
+NAME        CYP2S1, CYPIIS1
+DEFINITION  (RefSeq) cytochrome P450 family 2 subfamily S member 1
+ORTHOLOGY   K07420  cytochrome P450 family 2 subfamily S polypeptide 1 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                29785 (CYP2S1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                29785 (CYP2S1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 29785 (CYP2S1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP2 family
+               29785 (CYP2S1)
+POSITION    19q13.2
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 29785
+            NCBI-ProteinID: NP_085125
+            OMIM: 611529
+            HGNC: 15654
+            Ensembl: ENSG00000167600
+            Vega: OTTHUMG00000182721
+            Pharos: Q96SQ9(Tbio)
+            UniProt: Q96SQ9
+AASEQ       504
+            MEATGTWALLLALALLLLLTLALSGTRARGHLPPGPTPLPLLGNLLQLRPGALYSGLMRL
+            SKKYGPVFTIYLGPWRPVVVLVGQEAVREALGGQAEEFSGRGTVAMLEGTFDGHGVFFSN
+            GERWRQLRKFTMLALRDLGMGKREGEELIQAEARCLVETFQGTEGRPFDPSLLLAQATSN
+            VVCSLLFGLRFSYEDKEFQAVVRAAGGTLLGVSSQGGQTYEMFSWFLRPLPGPHKQLLHH
+            VSTLAAFTVRQVQQHQGNLDASGPARDLVDAFLLKMAQEEQNPGTEFTNKNMLMTVIYLL
+            FAGTMTVSTTVGYTLLLLMKYPHVQKWVREELNRELGAGQAPSLGDRTRLPYTDAVLHEA
+            QRLLALVPMGIPRTLMRTTRFRGYTLPQGTEVFPLLGSILHDPNIFKHPEEFNPDRFLDA
+            DGRFRKHEAFLPFSLGKRVCLGEGLAKAELFLFFTTILQAFSLESPCPPDTLSLKPTVSG
+            LFNIPPAFQLQVRPTDLHSTTQTR
+NTSEQ       1515
+            atggaggcgaccggcacctgggcgctgctgctggcgctggcgctgctcctgctgctgacg
+            ctggcgctgtccgggaccagggcccgaggccacctgccccccgggcccacgccgctacca
+            ctgctgggaaacctcctgcagctacggcccggggcgctgtattcagggctcatgcggctg
+            agtaagaagtacggaccggtgttcaccatctacctgggaccctggcggcctgtggtggtc
+            ctggttgggcaggaggctgtgcgggaggccctgggaggtcaggctgaggagttcagcggc
+            cggggaaccgtagcgatgctggaagggacttttgatggccatggggttttcttctccaac
+            ggggagcggtggaggcagctgaggaagtttaccatgcttgctctgcgggacctgggcatg
+            gggaagcgagaaggcgaggagctgatccaggcggaggcccggtgtctggtggagacattc
+            caggggacagaaggacgcccattcgatccctccctgctgctggcccaggccacctccaac
+            gtagtctgctccctcctctttggcctccgcttctcctatgaggataaggagttccaggcc
+            gtggtccgggcagctggtggtaccctgctgggagtcagctcccaggggggtcagacctac
+            gagatgttctcctggttcctgcggcccctgccaggcccccacaagcagctcctccaccac
+            gtcagcaccttggctgccttcacagtccggcaggtgcagcagcaccaggggaacctggat
+            gcttcgggccccgcacgtgaccttgtcgatgccttcctgctgaagatggcacaggaggaa
+            caaaacccaggcacagaattcaccaacaagaacatgctgatgacagtcatttatttgctg
+            tttgctgggacgatgacggtcagcaccacggtcggctataccctcctgctcctgatgaaa
+            taccctcatgtccaaaagtgggtacgtgaggagctgaatcgggagctgggggctggccag
+            gcaccaagcctaggggaccgtacccgcctcccttacaccgacgcggttctgcatgaggcg
+            cagcggctgctggcgctggtgcccatgggaataccccgcaccctcatgcggaccacccgc
+            ttccgagggtacaccctgccccagggcacggaggtcttccccctccttggctccatcctg
+            catgaccccaacatcttcaagcacccagaagagttcaacccagaccgtttcctggatgca
+            gatggacggttcaggaagcatgaggcgttcctgcccttctccttagggaagcgtgtctgc
+            cttggagagggcctggcaaaagcggagctcttcctcttcttcaccaccatcctacaagcc
+            ttctccctggagagcccgtgcccgccggacaccctgagcctcaagcccaccgtcagtggc
+            cttttcaacattcccccagccttccagctgcaagtccgtcccactgaccttcactccacc
+            acgcagaccagatga
+///

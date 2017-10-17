@@ -1,0 +1,79 @@
+ENTRY       1582              CDS       T01001
+NAME        CYP8B1, CP8B, CYP12
+DEFINITION  (RefSeq) cytochrome P450 family 8 subfamily B member 1
+ORTHOLOGY   K07431  sterol 12-alpha-hydroxylase [EC:1.14.18.8 1.14.13.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa01100  Metabolic pathways
+            hsa03320  PPAR signaling pathway
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                1582 (CYP8B1)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                1582 (CYP8B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.96  5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase
+                 1582 (CYP8B1)
+               1.14.18  With another compound as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.18.8  7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase
+                 1582 (CYP8B1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP8 family
+               1582 (CYP8B1)
+POSITION    3p22.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1582
+            NCBI-ProteinID: NP_004382
+            OMIM: 602172
+            HGNC: 2653
+            Ensembl: ENSG00000180432
+            Vega: OTTHUMG00000133047
+            Pharos: Q9UNU6(Tbio)
+            UniProt: Q9UNU6
+AASEQ       501
+            MVLWGPVLGALLVVIAGYLCLPGMLRQRRPWEPPLDKGTVPWLGHAMAFRKNMFEFLKRM
+            RTKHGDVFTVQLGGQYFTFVMDPLSFGSILKDTQRKLDFGQYAKKLVLKVFGYRSVQGDH
+            EMIHSASTKHLRGDGLKDLNETMLDSLSFVMLTSKGWSLDASCWHEDSLFRFCYYILFTA
+            GYLSLFGYTKDKEQDLLQAGELFMEFRKFDLLFPRFVYSLLWPREWLEVGRLQRLFHKML
+            SVSHSQEKEGISNWLGNMLQFLREQGVPSAMQDKFNFMMLWASQGNTGPTSFWALLYLLK
+            HPEAIRAVREEATQVLGEARLETKQSFAFKLGALQHTPVLDSVVEETLRLRAAPTLLRLV
+            HEDYTLKMSSGQEYLFRHGDILALFPYLSVHMDPDIHPEPTVFKYDRFLNPNGSRKVDFF
+            KTGKKIHHYTMPWGSGVSICPGRFFALSEVKLFILLMVTHFDLELVDPDTPLPHVDPQRW
+            GFGTMQPSHDVRFRYRLHPTE
+NTSEQ       1506
+            atggttctctggggtccagtgctgggagctctgctggtggtcattgctggatacctgtgc
+            ctgccagggatgctccgacaacgcaggccatgggagccccctctggacaagggtaccgtg
+            ccctggcttggccatgccatggctttccggaagaatatgtttgaatttctgaagcgcatg
+            aggaccaagcatggggatgtgttcacagtgcagctagggggccagtacttcaccttcgtc
+            atggaccccctctcctttggctccatcctcaaggacacacagagaaaactagactttggg
+            caatatgcaaaaaaactggtgctgaaggtatttggataccgttcagtgcaaggggaccat
+            gagatgatacactcagccagcaccaagcatctgaggggggatggcttgaaggatcttaat
+            gagaccatgctggacagcctgtcctttgtaatgctgacgtccaaaggctggagtctggat
+            gccagttgctggcatgaggacagcctctttcgcttctgctattacatcttgttcacagct
+            ggctacctgagcttgttcggctacacgaaggacaaggagcaggacctgctacaggcagga
+            gagttattcatggagttccgcaagtttgaccttcttttcccaaggtttgtctactccctg
+            ctgtggccccgggagtggctagaagtgggccgactccagcgtctctttcacaagatgctc
+            tccgtgagccacagccaggagaaggagggcatcagcaactggctgggcaacatgcttcag
+            tttctgagggagcagggggtaccctcagctatgcaggacaagttcaacttcatgatgctc
+            tgggcctcccaggggaacacggggcctacctctttctgggccctcttgtacctcctgaag
+            cacccagaagctattcgggctgtgagggaggaagctacccaggtcctgggtgaggccagg
+            ctggagaccaagcagtcctttgccttcaaactcggtgccctgcaacacaccccagttcta
+            gacagcgtggtggaggagacgctgcggctgagggctgcacccaccctcctcaggttggtt
+            catgaagactataccctgaagatgtccagtgggcaggagtatctgttccgccatggagac
+            atcctggccctctttccctacctctcagtgcacatggaccctgacatccaccctgagccc
+            accgtcttcaagtacgatcgcttcctcaaccctaatggcagccggaaagtggacttcttc
+            aagacaggcaagaagatccaccactacaccatgccctggggttcgggcgtttccatctgc
+            cctgggaggttctttgcactcagtgaggtgaagctctttatcctgcttatggtcacacac
+            tttgacttagagttggtggaccctgacacaccactaccccatgttgacccgcagcgctgg
+            ggttttggcaccatgcagcccagccacgatgtgcgcttccgctaccgcctgcatcctaca
+            gagtga
+///

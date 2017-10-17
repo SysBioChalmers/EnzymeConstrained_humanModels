@@ -1,0 +1,178 @@
+ENTRY       3683              CDS       T01001
+NAME        ITGAL, CD11A, LFA-1, LFA1A
+DEFINITION  (RefSeq) integrin subunit alpha L
+ORTHOLOGY   K05718  integrin alpha L
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05144  Malaria
+            hsa05150  Staphylococcus aureus infection
+            hsa05166  HTLV-I infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05323  Rheumatoid arthritis
+            hsa05416  Viral myocarditis
+DRUG_TARGET Lifitegrast (DG01389): D10374 D10392
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                3683 (ITGAL)
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3683 (ITGAL)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                3683 (ITGAL)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3683 (ITGAL)
+               04670 Leukocyte transendothelial migration
+                3683 (ITGAL)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                3683 (ITGAL)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3683 (ITGAL)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3683 (ITGAL)
+               05166 HTLV-I infection
+                3683 (ITGAL)
+               05169 Epstein-Barr virus infection
+                3683 (ITGAL)
+               05144 Malaria
+                3683 (ITGAL)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3683 (ITGAL)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               ICAM family
+                ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+                 LFA-1	Cell adhesion molecules (CAMs)
+                  3683 (ITGAL)
+                ICAM2; intercellular adhesion molecule 2 [KO:K06523]
+                  3683 (ITGAL)
+                ICAM3; intercellular adhesion molecule 3 [KO:K06486]
+                  3683 (ITGAL)
+               Others
+                CD226, DNAM1; CD226 antigen [KO:K06567]
+                  3683 (ITGAL)
+              Neural system
+               N/0 subfamily
+                ICAM5, TLCN; intercellular adhesion molecule 5 [KO:K06769]
+                  3683 (ITGAL)
+              Others
+               ICAM4; intercellular adhesion molecule 4 [KO:K06581]
+                LFA-1	Cell adhesion molecules (CAMs)
+                 3683 (ITGAL)
+               F11R, JAM1; junctional adhesion molecule 1 [KO:K06089]
+                 3683 (ITGAL)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3683 (ITGAL)
+POSITION    16p11.2
+MOTIF       Pfam: Integrin_alpha2 VWA FG-GAP VWA_2 VCBS FG-GAP_2 Integrin_alpha
+DBLINKS     NCBI-GeneID: 3683
+            NCBI-ProteinID: NP_002200
+            OMIM: 153370
+            HGNC: 6148
+            Ensembl: ENSG00000005844
+            Vega: OTTHUMG00000176964
+            Pharos: P20701(Tclin)
+            UniProt: P20701 B2RAL6
+STRUCTURE   PDB: 1MJN 2ICA 3F78 1T0P 3F74 2O7N 4IXD 3BQN 1XUO 1LFA 3M6F
+                 3BQM 3E2M 1MQ9 1ZOP 1ZON 3BN3 1XDG 5E6S 1XDD 3HI6 1RD4
+                 5E6U 1MQA 1CQP 3EOA 5E6R 1ZOO 1MQ8 3TCX 3EOB 2M3E 2K8O
+                 1DGQ
+AASEQ       1170
+            MKDSCITVMAMALLSGFFFFAPASSYNLDVRGARSFSPPRAGRHFGYRVLQVGNGVIVGA
+            PGEGNSTGSLYQCQSGTGHCLPVTLRGSNYTSKYLGMTLATDPTDGSILACDPGLSRTCD
+            QNTYLSGLCYLFRQNLQGPMLQGRPGFQECIKGNVDLVFLFDGSMSLQPDEFQKILDFMK
+            DVMKKLSNTSYQFAAVQFSTSYKTEFDFSDYVKRKDPDALLKHVKHMLLLTNTFGAINYV
+            ATEVFREELGARPDATKVLIIITDGEATDSGNIDAAKDIIRYIIGIGKHFQTKESQETLH
+            KFASKPASEFVKILDTFEKLKDLFTELQKKIYVIEGTSKQDLTSFNMELSSSGISADLSR
+            GHAVVGAVGAKDWAGGFLDLKADLQDDTFIGNEPLTPEVRAGYLGYTVTWLPSRQKTSLL
+            ASGAPRYQHMGRVLLFQEPQGGGHWSQVQTIHGTQIGSYFGGELCGVDVDQDGETELLLI
+            GAPLFYGEQRGGRVFIYQRRQLGFEEVSELQGDPGYPLGRFGEAITALTDINGDGLVDVA
+            VGAPLEEQGAVYIFNGRHGGLSPQPSQRIEGTQVLSGIQWFGRSIHGVKDLEGDGLADVA
+            VGAESQMIVLSSRPVVDMVTLMSFSPAEIPVHEVECSYSTSNKMKEGVNITICFQIKSLI
+            PQFQGRLVANLTYTLQLDGHRTRRRGLFPGGRHELRRNIAVTTSMSCTDFSFHFPVCVQD
+            LISPINVSLNFSLWEEEGTPRDQRAQGKDIPPILRPSLHSETWEIPFEKNCGEDKKCEAN
+            LRVSFSPARSRALRLTAFASLSVELSLSNLEEDAYWVQLDLHFPPGLSFRKVEMLKPHSQ
+            IPVSCEELPEESRLLSRALSCNVSSPIFKAGHSVALQMMFNTLVNSSWGDSVELHANVTC
+            NNEDSDLLEDNSATTIIPILYPINILIQDQEDSTLYVSFTPKGPKIHQVKHMYQVRIQPS
+            IHDHNIPTLEAVVGVPQPPSEGPITHQWSVQMEPPVPCHYEDLERLPDAAEPCLPGALFR
+            CPVVFRQEILVQVIGTLELVGEIEASSMFSLCSSLSISFNSSKHFHLYGSNASLAQVVMK
+            VDVVYEKQMLYLYVLSGIGGLLLLLLIFIVLYKVGFFKRNLKEKMEAGRGVPNGIPAEDS
+            EQLASGQEAGDPGCLKPLHEKDSESGGGKD
+NTSEQ       3513
+            atgaaggattcctgcatcactgtgatggccatggcgctgctgtctgggttctttttcttc
+            gcgccggcctcgagctacaacctggacgtgcggggcgcgcggagcttctccccaccgcgc
+            gccgggaggcactttggataccgcgtcctgcaggtcggaaacggggtcatcgtgggagct
+            ccaggggaggggaacagcacaggaagcctctatcagtgccagtcgggcacaggacactgc
+            ctgccagtcaccctgagaggttccaactatacctccaagtacttgggaatgaccttggca
+            acagaccccacagatggaagcattttggcctgtgaccctgggctgtctcgaacgtgtgac
+            cagaacacctatctgagtggcctgtgttacctcttccgccagaatctgcagggtcccatg
+            ctgcaggggcgccctggttttcaggaatgtatcaagggcaacgtagacctggtatttctg
+            tttgatggttcgatgagcttgcagccagatgaatttcagaaaattctggacttcatgaag
+            gatgtgatgaagaaactcagcaacacttcgtaccagtttgctgctgttcagttttccaca
+            agctacaaaacagaatttgatttctcagattatgttaaacggaaggaccctgatgctctg
+            ctgaagcatgtaaagcacatgttgctgttgaccaatacctttggtgccatcaattatgtc
+            gcgacagaggtgttccgggaggagctgggggcccggccagatgccaccaaagtgcttatc
+            atcatcacggatggggaggccactgacagtggcaacatcgatgcggccaaagacatcatc
+            cgctacatcatcgggattggaaagcattttcagaccaaggagagtcaggagaccctccac
+            aaatttgcatcaaaacccgcgagcgagtttgtgaaaattctggacacatttgagaagctg
+            aaagatctattcactgagctgcagaagaagatctatgtcattgagggcacaagcaaacag
+            gacctgacttccttcaacatggagctgtcctccagcggcatcagtgctgacctcagcagg
+            ggccatgcagtcgtgggggcagtaggagccaaggactgggctgggggctttcttgacctg
+            aaggcagacctgcaggatgacacatttattgggaatgaaccattgacaccagaagtgaga
+            gcaggctatttgggttacaccgtgacctggctgccctcccggcaaaagacttcgttgctg
+            gcctcgggagcccctcgataccagcacatgggccgagtgctgctgttccaagagccacag
+            ggcggaggacactggagccaggtccagacaatccatgggacccagattggctcttatttc
+            ggtggggagctgtgtggcgtcgacgtggaccaagatggggagacagagctgctgctgatt
+            ggtgccccactgttctatggggagcagagaggaggccgggtgtttatctaccagagaaga
+            cagttggggtttgaagaagtctcagagctgcagggggaccccggctacccactcgggcgg
+            tttggagaagccatcactgctctgacagacatcaacggcgatgggctggtagacgtggct
+            gtgggggcccctctggaggagcagggggctgtgtacatcttcaatgggaggcacgggggg
+            cttagtccccagccaagtcagcggatagaagggacccaagtgctctcaggaattcagtgg
+            tttggacgctccatccatggggtgaaggaccttgaaggggatggcttggcagatgtggct
+            gtgggggctgagagccagatgatcgtgctgagctcccggcccgtggtggatatggtcacc
+            ctgatgtccttctctccagctgagatcccagtgcatgaagtggagtgctcctattcaacc
+            agtaacaagatgaaagaaggagttaatatcacaatctgtttccagatcaagtctctcatc
+            ccccagttccaaggccgcctggttgccaatctcacttacactctgcagctggatggccac
+            cggaccagaagacgggggttgttcccaggagggagacatgaactcagaaggaatatagct
+            gtcaccaccagcatgtcatgcactgacttctcatttcatttcccggtatgtgttcaagac
+            ctcatctcccccatcaatgtttccctgaatttctctctttgggaggaggaagggacaccg
+            agggaccaaagggcgcagggcaaggacataccgcccatcctgagaccctccctgcactcg
+            gaaacctgggagatcccttttgagaagaactgtggggaggacaagaagtgtgaggcaaac
+            ttgagagtgtccttctctcctgcaagatccagagccctgcgtctaactgcttttgccagc
+            ctctctgtggagctgagcctgagtaacttggaagaagatgcttactgggtccagctggac
+            ctgcacttccccccgggactctccttccgcaaggtggagatgctgaagccccatagccag
+            atacctgtgagctgcgaggagcttcctgaagagtccaggcttctgtccagggcattatct
+            tgcaatgtgagctctcccatcttcaaagcaggccactcggttgctctgcagatgatgttt
+            aatacactggtaaacagctcctggggggactcggttgaattgcacgccaatgtgacctgt
+            aacaatgaggactcagacctcctggaggacaactcagccactaccatcatccccatcctg
+            taccccatcaacatcctcatccaggaccaagaagactccacactctatgtcagtttcacc
+            cccaaaggccccaagatccaccaagtcaagcacatgtaccaggtgaggatccagccttcc
+            atccacgaccacaacatacccaccctggaggctgtggttggggtgccacagcctcccagc
+            gaggggcccatcacacaccagtggagcgtgcagatggagcctcccgtgccctgccactat
+            gaggatctggagaggctcccggatgcagctgagccttgtctccccggagccctgttccgc
+            tgccctgttgtcttcaggcaggagatcctcgtccaagtgatcgggactctggagctggtg
+            ggagagatcgaggcctcttccatgttcagcctctgcagctccctctccatctccttcaac
+            agcagcaagcatttccacctctatggcagcaacgcctccctggcccaggttgtcatgaag
+            gttgacgtggtgtatgagaagcagatgctctacctctacgtgctgagcggcatcgggggg
+            ctgctgctgctgctgctcattttcatagtgctgtacaaggttggtttcttcaaacggaac
+            ctgaaggagaagatggaggctggcagaggtgtcccgaatggaatccctgcagaagactct
+            gagcagctggcatctgggcaagaggctggggatcccggctgcctgaagcccctccatgag
+            aaggactctgagagtggtggtggcaaggactga
+///

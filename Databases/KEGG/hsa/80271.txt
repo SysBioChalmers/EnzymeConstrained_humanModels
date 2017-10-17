@@ -1,0 +1,88 @@
+ENTRY       80271             CDS       T01001
+NAME        ITPKC, IP3-3KC, IP3KC
+DEFINITION  (RefSeq) inositol-trisphosphate 3-kinase C
+ORTHOLOGY   K00911  1D-myo-inositol-triphosphate 3-kinase [EC:2.7.1.127]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04020  Calcium signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                80271 (ITPKC)
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                80271 (ITPKC)
+               04070 Phosphatidylinositol signaling system
+                80271 (ITPKC)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.127  inositol-trisphosphate 3-kinase
+                 80271 (ITPKC)
+POSITION    19q13.2
+MOTIF       Pfam: IPK
+DBLINKS     NCBI-GeneID: 80271
+            NCBI-ProteinID: NP_079470
+            OMIM: 606476
+            HGNC: 14897
+            Ensembl: ENSG00000086544
+            Vega: OTTHUMG00000182688
+            Pharos: Q96DU7(Tbio)
+            UniProt: Q96DU7 A0A024R0N8
+STRUCTURE   PDB: 2A98
+AASEQ       683
+            MRRCPCRGSLNEAEAGALPAAARMGLEAPRGGRRRQPGQQRPGPGAGAPAGRPEGGGPWA
+            RTEGSSLHSEPERAGLGPAPGTESPQAEFWTDGQTEPAAAGLGVETERPKQKTEPDRSSL
+            RTHLEWSWSELETTCLWTETGTDGLWTDPHRSDLQFQPEEASPWTQPGVHGPWTELETHG
+            SQTQPERVKSWADNLWTHQNSSSLQTHPEGACPSKEPSADGSWKELYTDGSRTQQDIEGP
+            WTEPYTDGSQKKQDTEAARKQPGTGGFQIQQDTDGSWTQPSTDGSQTAPGTDCLLGEPED
+            GPLEEPEPGELLTHLYSHLKCSPLCPVPRLIITPETPEPEAQPVGPPSRVEGGSGGFSSA
+            SSFDESEDDVVAGGGGASDPEDRSGSKPWKKLKTVLKYSPFVVSFRKHYPWVQLSGHAGN
+            FQAGEDGRILKRFCQCEQRSLEQLMKDPLRPFVPAYYGMVLQDGQTFNQMEDLLADFEGP
+            SIMDCKMGSRTYLEEELVKARERPRPRKDMYEKMVAVDPGAPTPEEHAQGAVTKPRYMQW
+            RETMSSTSTLGFRIEGIKKADGTCNTNFKKTQALEQVTKVLEDFVDGDHVILQKYVACLE
+            ELREALEISPFFKTHEVVGSSLLFVHDHTGLAKVWMIDFGKTVALPDHQTLSHRLPWAEG
+            NREDGYLWGLDNMICLLQGLAQS
+NTSEQ       2052
+            atgaggcgctgcccgtgccgtgggagcctgaacgaggcggaggccggggcgctgcccgcg
+            gcggcccgcatgggactggaggcgccgcgaggagggcggcggcggcagccgggacagcag
+            cgacctgggcccggcgcaggggccccggcggggcggccggaggggggcgggccctgggcc
+            cggacagaggggtccagcctccacagcgagcctgagagggccggcctcgggcctgcgccg
+            gggacagagagtccgcaggcagaattctggacagacggacagactgagcccgcggcagct
+            ggccttggagtagagaccgagaggcccaagcaaaagacggagccagacaggtccagcctc
+            cggacgcatctagaatggagctggtcagagctggagacgacttgtctttggacggagacc
+            gggacagatggcctttggactgatccgcacaggtccgacctccagtttcagcccgaggag
+            gccagcccctggacacagccaggggttcatgggccctggacagagctggaaacgcatggg
+            tcacagactcagccagagagggtcaagtcctgggctgataacctctggacccaccagaac
+            agttccagcctccagactcacccagaaggagcctgtccctcaaaagagccaagtgctgat
+            ggctcctggaaagaattgtatactgatggctccaggacacaacaggatattgaaggtccc
+            tggacagagccatatactgatggctcccagaaaaaacaggatactgaagcagccaggaaa
+            cagcctggcactggtggtttccaaatacaacaggatactgatggctcctggacacaacct
+            agcactgacggttcccagacagcacctgggacagactgcctcttgggagagcctgaggat
+            ggcccattagaggaaccagagcctggagaattgctgactcacctgtactctcacctgaag
+            tgtagccccctgtgccctgtgccccgcctcatcattacccctgagacccctgagcctgag
+            gcccagccagtgggacccccctcccgggttgaggggggcagcggcggcttctcctctgcc
+            tcttctttcgacgagtctgaggatgacgtggtggccgggggcggaggtgccagcgatccc
+            gaggacaggtctgggagcaaaccctggaagaagctgaagacagttctgaagtattcaccc
+            tttgtggtctccttccgaaaacactacccttgggtccagctttctggacatgctgggaac
+            ttccaggcaggagaggatggtcggattctgaaacgtttctgtcagtgtgagcagcgcagc
+            ctggagcagctgatgaaagacccgctgcgacctttcgtgcctgcctactatggcatggtg
+            ctgcaggatggccagaccttcaaccagatggaagacctcctggctgactttgagggcccc
+            tccattatggactgcaagatgggcagcaggacctatctggaagaggagctagtgaaggca
+            cgggaacgtccccgtccccggaaggacatgtatgagaagatggtggctgtggaccctggg
+            gcccctacccctgaggagcatgcccagggtgcagtcaccaagccccgctacatgcagtgg
+            agggaaaccatgagctccacctctaccctgggcttccggatcgagggcatcaagaaggca
+            gatgggacctgtaacaccaacttcaagaagacgcaggcactggagcaggtgacaaaagtg
+            ctggaggacttcgtggatggagaccacgtcatcctgcaaaagtacgtggcatgcctagaa
+            gaacttcgtgaagctctggagatctcccccttcttcaagacccacgaggtggtaggcagc
+            tccctcctcttcgtgcacgaccacaccggcctggccaaggtctggatgatagacttcggc
+            aagacggtggccttgcccgaccaccagacgctcagccacaggctgccctgggctgagggc
+            aaccgtgaggacggctacctctggggcctggacaacatgatctgcctcctgcaggggctg
+            gcacagagctga
+///

@@ -1,0 +1,104 @@
+ENTRY       11325             CDS       T01001
+NAME        DDX42, DDX42P, RHELP, RNAHP, SF3B8, SF3b125
+DEFINITION  (RefSeq) DEAD-box helicase 42
+ORTHOLOGY   K12835  ATP-dependent RNA helicase DDX42 [EC:3.6.4.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00352  Spliceosome, U2-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                11325 (DDX42)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 11325 (DDX42)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U2 snRNP components
+               U2 snRNP specific factors
+                11325 (DDX42)
+             Complex B
+                11325 (DDX42)
+             Complex C
+               U2 SnRNP specific factors
+                11325 (DDX42)
+POSITION    17q23.3
+MOTIF       Pfam: DEAD Helicase_C ResIII ERCC3_RAD25_C
+DBLINKS     NCBI-GeneID: 11325
+            NCBI-ProteinID: NP_031398
+            OMIM: 613369
+            HGNC: 18676
+            Ensembl: ENSG00000198231
+            Vega: OTTHUMG00000179011
+            Pharos: Q86XP3(Tdark)
+            UniProt: Q86XP3
+AASEQ       938
+            MNWNKGGPGTKRGFGFGGFAISAGKKEEPKLPQQSHSAFGATSSSSGFGKSAPPQLPSFY
+            KIGSKRANFDEENAYFEDEEEDSSNVDLPYIPAENSPTRQQFHSKPVDSDSDDDPLEAFM
+            AEVEDQAARDMKRLEEKDKERKNVKGIRDDIEEEDDQEAYFRYMAENPTAGVVQEEEEDN
+            LEYDSDGNPIAPTKKIIDPLPPIDHSEIDYPPFEKNFYNEHEEITNLTPQQLIDLRHKLN
+            LRVSGAAPPRPGSSFAHFGFDEQLMHQIRKSEYTQPTPIQCQGVPVALSGRDMIGIAKTG
+            SGKTAAFIWPMLIHIMDQKELEPGDGPIAVIVCPTRELCQQIHAECKRFGKAYNLRSVAV
+            YGGGSMWEQAKALQEGAEIVVCTPGRLIDHVKKKATNLQRVSYLVFDEADRMFDMGFEYQ
+            VRSIASHVRPDRQTLLFSATFRKKIEKLARDILIDPIRVVQGDIGEANEDVTQIVEILHS
+            GPSKWNWLTRRLVEFTSSGSVLLFVTKKANAEELANNLKQEGHNLGLLHGDMDQSERNKV
+            ISDFKKKDIPVLVATDVAARGLDIPSIKTVINYDVARDIDTHTHRIGRTGRAGEKGVAYT
+            LLTPKDSNFAGDLVRNLEGANQHVSKELLDLAMQNAWFRKSRFKGGKGKKLNIGGGGLGY
+            RERPGLGSENMDRGNNNVMSNYEAYKPSTGAMGDRLTAMKAAFQSQYKSHFVAASLSNQK
+            AGSSAAGASGWTSAGSLNSVPTNSAQQGHNSPDSPVTSAAKGIPGFGNTGNISGAPVTYP
+            SAGAQGVNNTASGNNSREGTGGSNGKRERYTENRGSSRHSHGETGNRHSDSPRHGDGGRH
+            GDGYRHPESSSRHTDGHRHGENRHGGSAGRHGENRGANDGRNGESRKEAFNRESKMEPKM
+            EPKVDSSKMDKVDSKTDKTADGFAVPEPPKRKKSRWDS
+NTSEQ       2817
+            atgaactggaataaaggtggtcctggcactaagcgaggatttggctttggaggttttgcc
+            atcagtgctgggaaaaaggaggaacccaaactcccacagcagtcccacagtgcctttggg
+            gcaaccagctcttcttctggatttggaaagtcagctccaccacagcttccttctttctac
+            aaaattggatctaagcgggccaactttgatgaagaaaatgcctattttgaagatgaggaa
+            gaagattctagcaacgttgatttaccttacattcctgctgaaaactcaccaactcgccag
+            caattccattccaagccagtagattctgacagcgatgatgatcccttggaggcattcatg
+            gctgaagtggaggatcaggcagctagagacatgaagaggcttgaagaaaaggacaaggaa
+            agaaaaaacgtaaagggtattcgagatgacattgaagaggaagatgaccaagaagcttat
+            tttcgatacatggcagaaaacccaactgctggtgtggttcaggaggaagaggaagacaat
+            ctagaatatgatagtgacggaaatccaattgcacctaccaaaaaaatcattgatcctctt
+            ccccccattgatcattcagagattgactatccaccatttgaaaaaaacttttacaatgag
+            catgaagagataaccaacctcactccacagcagttaatagatctccggcataagctcaat
+            cttcgggtctctggtgctgcacctcctagaccaggaagtagctttgctcattttgggttt
+            gacgaacaacttatgcaccagattcggaaatctgaatacacacagcccactccaatacag
+            tgccagggtgtgcctgtggcattaagtggtagagacatgattggtattgccaaaacaggt
+            agtgggaaaactgcagccttcatttggcccatgttgattcatataatggaccagaaggag
+            ttggaaccaggtgatggaccaattgcagtgattgtgtgtcctaccagggagctttgccag
+            cagatccatgcagaatgtaagcggtttggaaaagcatataatcttcgatcagtggccgta
+            tatggaggagggagtatgtgggagcaggccaaggcccttcaggagggggcagagattgtt
+            gtgtgtaccccaggtcgactgatagatcatgtgaaaaagaaagctaccaatcttcaaaga
+            gtctcttaccttgtgtttgatgaagcagatcgaatgtttgacatgggatttgagtaccaa
+            gttcgatccatagcaagtcatgttcgtcctgacaggcagactctcttatttagtgcaact
+            tttcggaagaagattgaaaagttggccagagacatcctgatcgaccctattcgagtggtg
+            cagggagatattggagaggcaaatgaagatgtgacacagattgtggagattctccattct
+            ggacctagtaaatggaactggcttacccggcgtctggtagaatttacctcttcagggagt
+            gtcctcctctttgttactaaaaaagccaatgctgaagagctagcgaataaccttaaacag
+            gagggtcataatcttgggctgctccatggggatatggatcagagtgagagaaacaaggtc
+            atttcagactttaagaaaaaggacatcccagtcctggtggccacagatgttgcagcccgt
+            ggtctggacattccttcaattaagactgtcattaactatgatgtggcacgagacattgat
+            acccacacgcataggattggccgcacaggaagagcgggtgagaaaggtgtggcctatacc
+            ctactcactcccaaggacagcaattttgctggtgacctggtccggaacttggaaggagcc
+            aatcaacacgtttctaaggaactcctagatctggcaatgcagaatgcctggtttcggaaa
+            tctcgattcaaaggagggaaaggaaaaaagctgaacattggtggaggaggcctaggctac
+            agggagcggcctggcctgggctctgagaacatggatcgaggaaataacaatgtaatgagc
+            aattatgaggcctacaagccttccacaggagctatgggagatcgactaacggcaatgaaa
+            gcagctttccagtcacagtacaagagtcactttgttgcagccagtttaagtaatcagaag
+            gctggaagttctgctgctggggcaagtgggtggactagtgcagggagcttgaattctgtt
+            ccaactaactcagcacaacagggccataacagtcctgacagccccgtcaccagtgccgcc
+            aagggcatcccaggctttggcaatactggcaacatcagtggtgcccctgtgacctacccg
+            tctgccggagcccaaggagtcaacaacacagcttcagggaataacagccgagaagggact
+            gggggcagcaacgggaaaagagagagatatactgagaaccggggcagcagccgtcacagt
+            cacggagagactggcaatcggcatagcgatagtccacgtcacggagatggtggtcgccat
+            ggagatggataccgccatccagaaagcagcagccgtcatactgatggccatcggcacggg
+            gagaacagacatggaggaagcgcaggccggcatggggagaaccggggtgcaaatgatggt
+            cggaatggggaaagcaggaaagaagcttttaatcgtgagagcaagatggagcccaagatg
+            gaacccaaagtggacagcagcaagatggacaaggtggacagcaagacagataagacagct
+            gacggctttgctgtcccagagccgcctaaacgcaagaaaagtcgatgggacagttag
+///

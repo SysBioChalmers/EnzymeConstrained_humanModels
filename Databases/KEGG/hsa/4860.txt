@@ -1,0 +1,65 @@
+ENTRY       4860              CDS       T01001
+NAME        PNP, NP, PRO1837, PUNP
+DEFINITION  (RefSeq) purine nucleoside phosphorylase
+ORTHOLOGY   K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00093  Combined immunodeficiencies (CIDs)
+DRUG_TARGET Forodesine (DG01392): D04245 D06596
+            Ulodesine (DG01881): D10431 D10432
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                4860 (PNP)
+               00240 Pyrimidine metabolism
+                4860 (PNP)
+              Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                4860 (PNP)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.1  purine-nucleoside phosphorylase
+                 4860 (PNP)
+POSITION    14q11.2
+MOTIF       Pfam: PNP_UDP_1
+DBLINKS     NCBI-GeneID: 4860
+            NCBI-ProteinID: NP_000261
+            OMIM: 164050
+            HGNC: 7892
+            Ensembl: ENSG00000198805
+            Vega: OTTHUMG00000029546
+            Pharos: P00491(Tchem)
+            UniProt: P00491 V9HWH6
+STRUCTURE   PDB: 4EAR 3BGS 5UGF 4GKA 1RSZ 2A0W 2A0X 2A0Y 5ETJ 4EB8 3PHB
+                 3GB9 1RT9 1M73 3K8O 3K8Q 2ON6 1RR6 3GGS 2OC4 2OC9 4ECE
+                 1PF7 3D1V 1V2H 3INY 1ULA 1ULB 1YRY 1RCT 1V3Q 1PWY 1V41
+                 1V45 2Q7O 1RFG
+AASEQ       289
+            MENGYTYEDYKNTAEWLLSHTKHRPQVAIICGSGLGGLTDKLTQAQIFDYGEIPNFPRST
+            VPGHAGRLVFGFLNGRACVMMQGRFHMYEGYPLWKVTFPVRVFHLLGVDTLVVTNAAGGL
+            NPKFEVGDIMLIRDHINLPGFSGQNPLRGPNDERFGDRFPAMSDAYDRTMRQRALSTWKQ
+            MGEQRELQEGTYVMVAGPSFETVAECRVLQKLGADAVGMSTVPEVIVARHCGLRVFGFSL
+            ITNKVIMDYESLEKANHEEVLAAGKQAAQKLEQFVSILMASIPLPDKAS
+NTSEQ       870
+            atggagaacggatacacctatgaagattataagaacactgcagaatggcttctgtctcac
+            actaagcaccgacctcaagttgcaataatctgtggttctggattaggaggtctgactgat
+            aaattaactcaggcccagatctttgactacggtgaaatccccaactttccccgaagtaca
+            gtgccaggtcatgctggccgactggtgtttgggttcctgaatggcagggcctgtgtgatg
+            atgcagggcaggttccacatgtatgaagggtacccactctggaaggtgacattcccagtg
+            agggttttccaccttctgggtgtggacaccctggtagtcaccaatgcagcaggagggctg
+            aaccccaagtttgaggttggagatatcatgctgatccgtgaccatatcaacctacctggt
+            ttcagtggtcagaaccctctcagagggcccaatgatgaaaggtttggagatcgtttccct
+            gccatgtctgatgcctacgaccggactatgaggcagagggctctcagtacctggaaacaa
+            atgggggagcaacgtgagctacaggaaggcacctatgtgatggtggcaggccccagcttt
+            gagactgtggcagaatgtcgtgtgctgcagaagctgggagcagacgctgttggcatgagt
+            acagtaccagaagttatcgttgcacggcactgtggacttcgagtctttggcttctcactc
+            atcactaacaaggtcatcatggattatgaaagcctggagaaggccaaccatgaagaagtc
+            ttagcagctggcaaacaagctgcacagaaattggaacagtttgtctccattcttatggcc
+            agcattccactccctgacaaagccagttga
+///

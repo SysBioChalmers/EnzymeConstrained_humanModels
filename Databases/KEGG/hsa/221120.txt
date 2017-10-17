@@ -1,0 +1,50 @@
+ENTRY       221120            CDS       T01001
+NAME        ALKBH3, ABH3, DEPC-1, DEPC1, PCA1, hABH3
+DEFINITION  (RefSeq) alkB homolog 3, alpha-ketoglutaratedependent dioxygenase
+ORTHOLOGY   K10860  mRNA N1-methyladenine demethylase [EC:1.14.11.54]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.54  mRNA N1-methyladenine demethylase
+                 221120 (ALKBH3)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               Direct repair
+                221120 (ALKBH3)
+POSITION    11p11.2
+MOTIF       Pfam: 2OG-FeII_Oxy_2
+DBLINKS     NCBI-GeneID: 221120
+            NCBI-ProteinID: NP_631917
+            OMIM: 610603
+            HGNC: 30141
+            Ensembl: ENSG00000166199
+            Vega: OTTHUMG00000166417
+            Pharos: Q96Q83(Tchem)
+            UniProt: Q96Q83
+STRUCTURE   PDB: 2IUW
+AASEQ       286
+            MEEKRRRARVQGAWAAPVKSQAIAQPATTAKSHLHQKPGQTWKNKEHHLSDREFVFKEPQ
+            QVVRRAPEPRVIDREGVYEISLSPTGVSRVCLYPGFVDVKEADWILEQLCQDVPWKQRTG
+            IREDITYQQPRLTAWYGELPYTYSRITMEPNPHWHPVLRTLKNRIEENTGHTFNSLLCNL
+            YRNEKDSVDWHSDDEPSLGRCPIIASLSFGATRTFEMRKKPPPEENGDYTYVERVKIPLD
+            HGTLLIMEGATQADWQHRVPKEYHSREPRVNLTFRTVYPDPRGAPW
+NTSEQ       861
+            atggaggaaaaaagacggcgagcccgagttcagggagcctgggctgcccctgttaaaagc
+            caggccattgctcagccagctaccactgctaagagccatctccaccagaagcctggccag
+            acctggaagaacaaagagcatcatctctctgacagagagtttgtgttcaaagaacctcag
+            caggtagtacgtagagctcctgagccacgagtgattgacagagagggtgtgtatgaaatc
+            agcctgtcacccacaggtgtatctagggtctgtttgtatcctggctttgttgacgtgaaa
+            gaagctgactggatattggaacagctttgtcaagatgttccctggaaacagaggaccggc
+            atcagagaggatataacttatcagcaaccaagacttacagcatggtatggagaacttcct
+            tacacttattcaagaatcactatggaaccaaatcctcactggcaccctgtgctgcgcaca
+            ctaaagaaccgcattgaagagaacactggccacaccttcaactccttactctgcaatctt
+            tatcgcaatgagaaggacagcgtggactggcacagtgatgatgaaccctcactagggagg
+            tgccccattattgcttcactaagttttggtgccacacgcacatttgagatgagaaagaag
+            ccaccaccagaagagaatggagactacacatatgtggaaagagtgaagatacccttggat
+            catgggaccttgttaatcatggaaggagcgacacaagctgactggcagcatcgagtgccc
+            aaagaataccactctagagaaccgagagtgaacctgacctttcggacagtctatccagac
+            cctcgaggggcaccctggtga
+///

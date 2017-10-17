@@ -1,0 +1,106 @@
+ENTRY       39                CDS       T01001
+NAME        ACAT2
+DEFINITION  (RefSeq) acetyl-CoA acetyltransferase 2
+ORTHOLOGY   K00626  acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00072  Synthesis and degradation of ketone bodies
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+            hsa04975  Fat digestion and absorption
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                39 (ACAT2)
+               01212 Fatty acid metabolism
+                39 (ACAT2)
+              Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                39 (ACAT2)
+               00630 Glyoxylate and dicarboxylate metabolism
+                39 (ACAT2)
+               00640 Propanoate metabolism
+                39 (ACAT2)
+               00650 Butanoate metabolism
+                39 (ACAT2)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                39 (ACAT2)
+               00072 Synthesis and degradation of ketone bodies
+                39 (ACAT2)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                39 (ACAT2)
+               00310 Lysine degradation
+                39 (ACAT2)
+               00380 Tryptophan metabolism
+                39 (ACAT2)
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                39 (ACAT2)
+             Organismal Systems
+              Digestive system
+               04975 Fat digestion and absorption
+                39 (ACAT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.9  acetyl-CoA C-acetyltransferase
+                 39 (ACAT2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               39 (ACAT2)
+POSITION    6q25.3
+MOTIF       Pfam: Thiolase_N Thiolase_C ketoacyl-synt ACP_syn_III_C Dodecin
+DBLINKS     NCBI-GeneID: 39
+            NCBI-ProteinID: NP_005882
+            OMIM: 100678
+            HGNC: 94
+            Ensembl: ENSG00000120437
+            Vega: OTTHUMG00000015935
+            Pharos: Q9BWD1(Tbio)
+            UniProt: Q9BWD1
+STRUCTURE   PDB: 1WL4 1WL5
+AASEQ       397
+            MNAGSDPVVIVSAARTIIGSFNGALAAVPVQDLGSTVIKEVLKRATVAPEDVSEVIFGHV
+            LAAGCGQNPVRQASVGAGIPYSVPAWSCQMICGSGLKAVCLAVQSIGIGDSSIVVAGGME
+            NMSKAPHLAYLRTGVKIGEMPLTDSILCDGLTDAFHNCHMGITAENVAKKWQVSREDQDK
+            VAVLSQNRTENAQKAGHFDKEIVPVLVSTRKGLIEVKTDEFPRHGSNIEAMSKLKPYFLT
+            DGTGTVTPANASGINDGAAAVVLMKKSEADKRGLTPLARIVSWSQVGVEPSIMGIGPIPA
+            IKQAVTKAGWSLEDVDIFEINEAFAAVSAAIVKELGLNPEKVNIEGGAIALGHPLGASGC
+            RILVTLLHTLERMGRSRGVAALCIGGGMGIAMCVQRE
+NTSEQ       1194
+            atgaatgcaggctcagatcctgtggtcatcgtctcggcggcgcggaccatcataggttcc
+            ttcaatggtgccttagctgctgttcctgtccaggacctgggctccactgtcatcaaagaa
+            gtcttgaagagggccactgtggctccggaagatgtgtctgaggtcatctttggacatgtc
+            ttggcagcaggctgtgggcagaatcctgttagacaagccagtgtgggtgcaggaattccc
+            tactctgttccagcatggagctgccagatgatctgtgggtcaggcctaaaagctgtgtgc
+            cttgcagtccagtcaatagggataggagactccagcattgtggttgcaggaggcatggaa
+            aatatgagcaaggctcctcacttggcttacttgagaacaggagtaaagataggtgagatg
+            ccactgactgacagtatactctgtgatggtcttacagatgcatttcacaactgtcatatg
+            ggtattacagctgaaaatgtagccaaaaaatggcaagtgagtagagaagatcaggacaag
+            gttgcagttctgtcccagaacaggacagagaatgcacagaaagctggccattttgacaaa
+            gagattgtaccagttttggtgtcaactagaaaaggtcttattgaagttaaaacagatgag
+            tttcctcgccatgggagcaacatagaagccatgtccaagctaaagccttactttcttact
+            gatggaacgggaacagtcaccccagccaatgcttcaggaataaatgatggtgctgcagct
+            gtcgttcttatgaagaagtcagaagctgataaacgtgggcttacacctttagcacggata
+            gtttcctggtcccaagtgggtgtggagccttccattatgggaataggaccaattccagcc
+            ataaagcaagctgttacaaaagcaggttggtcactggaagatgttgacatatttgaaatc
+            aatgaagcctttgcagctgtctctgctgcaatagttaaagaacttggattaaacccagag
+            aaggtcaatattgaaggaggggctatagccttgggccaccctcttggagcatctggctgt
+            cgaattcttgtgaccctgttacacacactggagagaatgggcagaagtcgtggtgttgca
+            gccctgtgcattgggggtgggatgggaatagcaatgtgtgttcagagagaatga
+///

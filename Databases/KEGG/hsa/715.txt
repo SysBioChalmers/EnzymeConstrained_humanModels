@@ -1,0 +1,102 @@
+ENTRY       715               CDS       T01001
+NAME        C1R, EDSPD1
+DEFINITION  (RefSeq) complement C1r
+ORTHOLOGY   K01330  complement component 1, r subcomponent [EC:3.4.21.41]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04610  Complement and coagulation cascades
+            hsa05133  Pertussis
+            hsa05150  Staphylococcus aureus infection
+            hsa05322  Systemic lupus erythematosus
+DISEASE     H00102  Classic complement pathway component defects
+            H00802  Ehlers-Danlos syndrome (EDS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                715 (C1R)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                715 (C1R)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                715 (C1R)
+              Infectious diseases
+               05133 Pertussis
+                715 (C1R)
+               05150 Staphylococcus aureus infection
+                715 (C1R)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.41  complement subcomponent C_overbar_1r_
+                 715 (C1R)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               715 (C1R)
+POSITION    12p13.31
+MOTIF       Pfam: Trypsin CUB Sushi FXa_inhibition cEGF EGF_CA hEGF EGF Trypsin_2
+DBLINKS     NCBI-GeneID: 715
+            NCBI-ProteinID: NP_001724
+            OMIM: 613785
+            HGNC: 1246
+            Ensembl: ENSG00000159403
+            Vega: OTTHUMG00000168149
+            Pharos: P00736(Tclin)
+            UniProt: P00736
+STRUCTURE   PDB: 2QY0 1MD8 1GPZ 1MD7 1APQ
+AASEQ       705
+            MWLLYLLVPALFCRAGGSIPIPQKLFGEVTSPLFPKPYPNNFETTTVITVPTGYRVKLVF
+            QQFDLEPSEGCFYDYVKISADKKSLGRFCGQLGSPLGNPPGKKEFMSQGNKMLLTFHTDF
+            SNEENGTIMFYKGFLAYYQAVDLDECASRSKLGEEDPQPQCQHLCHNYVGGYFCSCRPGY
+            ELQEDRHSCQAECSSELYTEASGYISSLEYPRSYPPDLRCNYSIRVERGLTLHLKFLEPF
+            DIDDHQQVHCPYDQLQIYANGKNIGEFCGKQRPPDLDTSSNAVDLLFFTDESGDSRGWKL
+            RYTTEIIKCPQPKTLDEFTIIQNLQPQYQFRDYFIATCKQGYQLIEGNQVLHSFTAVCQD
+            DGTWHRAMPRCKIKDCGQPRNLPNGDFRYTTTMGVNTYKARIQYYCHEPYYKMQTRAGSR
+            ESEQGVYTCTAQGIWKNEQKGEKIPRCLPVCGKPVNPVEQRQRIIGGQKAKMGNFPWQVF
+            TNIHGRGGGALLGDRWILTAAHTLYPKEHEAQSNASLDVFLGHTNVEELMKLGNHPIRRV
+            SVHPDYRQDESYNFEGDIALLELENSVTLGPNLLPICLPDNDTFYDLGLMGYVSGFGVME
+            EKIAHDLRFVRLPVANPQACENWLRGKNRMDVFSQNMFCAGHPSLKQDACQGDSGGVFAV
+            RDPNTDRWVATGIVSWGIGCSRGYGFYTKVLNYVDWIKKEMEEED
+NTSEQ       2118
+            atgtggctcttgtacctcctggtgccggccctgttctgcagggcaggaggctccattccc
+            atccctcagaagttatttggggaggtgacttcccctctgttccccaagccttaccccaac
+            aactttgaaacaaccactgtgatcacagtccccacgggatacagggtgaagctcgtcttc
+            cagcagtttgacctggagccttctgaaggctgcttctatgattatgtcaagatctctgct
+            gataagaaaagcctggggaggttctgtgggcaactgggttctccactgggcaaccccccg
+            ggaaagaaggaatttatgtcccaagggaacaagatgctgctgaccttccacacagacttc
+            tccaacgaggagaatgggaccatcatgttctacaagggcttcctggcctactaccaagct
+            gtggaccttgatgaatgtgcttcccggagcaaattaggggaggaggatccccagccccag
+            tgccagcacctgtgtcacaactacgttggaggctacttctgttcctgccgtccaggctat
+            gagcttcaggaagacaggcattcctgccaggctgagtgcagcagcgagctgtacacggag
+            gcatcaggctacatctccagcctggagtaccctcggtcctacccccctgacctgcgctgc
+            aactacagcatccgggtggagcggggcctcaccctgcacctcaagttcctggagcctttt
+            gatattgatgaccaccagcaagtacactgcccctatgaccagctacagatctatgccaac
+            gggaagaacattggcgagttctgtgggaagcaaaggccccccgacctcgacaccagcagc
+            aatgctgtggatctgctgttcttcacagatgagtcgggggacagccggggctggaagctg
+            cgctacaccaccgagatcatcaagtgcccccagcccaagaccctagacgagttcaccatc
+            atccagaacctgcagcctcagtaccagttccgtgactacttcattgctacctgcaagcaa
+            ggctaccagctcatagaggggaaccaggtgctgcattccttcacagctgtctgccaggat
+            gatggcacgtggcatcgtgccatgcccagatgcaagatcaaggactgtgggcagccccga
+            aacctgcctaatggtgacttccgttacaccaccacaatgggagtgaacacctacaaggcc
+            cgtatccagtactactgccatgagccatattacaagatgcagaccagagctggcagcagg
+            gagtctgagcaaggggtgtacacctgcacagcacagggcatttggaagaatgaacagaag
+            ggagagaagattcctcggtgcttgccagtgtgtgggaagcccgtgaaccccgtggaacag
+            aggcagcgcatcatcggagggcaaaaagccaagatgggcaacttcccctggcaggtgttc
+            accaacatccacgggcgcgggggcggggccctgctgggcgaccgctggatcctcacagct
+            gcccacaccctgtatcccaaggaacacgaagcgcaaagcaacgcctctttggatgtgttc
+            ctgggccacacaaatgtggaagagctcatgaagctaggaaatcaccccatccgcagggtc
+            agcgtccacccggactaccgtcaggatgagtcctacaattttgagggggacatcgccctg
+            ctggagctggaaaatagtgtcaccctgggtcccaacctcctccccatctgcctccctgac
+            aacgataccttctacgacctgggcttgatgggctatgtcagtggcttcggggtcatggag
+            gagaagattgctcatgacctcaggtttgtccgtctgcccgtagctaatccacaggcctgt
+            gagaactggctccggggaaagaataggatggatgtgttctctcaaaacatgttctgtgct
+            ggacacccatctctaaagcaggacgcctgccagggggatagtgggggcgtttttgcagta
+            agggacccgaacactgatcgctgggtggccacgggcatcgtgtcctggggcatcgggtgc
+            agcaggggctatggcttctacaccaaagtgctcaactacgtggactggatcaagaaagag
+            atggaggaggaggactga
+///

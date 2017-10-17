@@ -1,0 +1,149 @@
+ENTRY       2147              CDS       T01001
+NAME        F2, PT, RPRGL2, THPH1
+DEFINITION  (RefSeq) coagulation factor II, thrombin
+ORTHOLOGY   K01313  coagulation factor II (thrombin) [EC:3.4.21.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04610  Complement and coagulation cascades
+            hsa04810  Regulation of actin cytoskeleton
+DISEASE     H00223  Inherited thrombophilia
+            H01254  Congenital prothrombin deficiency
+DRUG_TARGET Argatroban (DG00163): D00181
+            Bivalirudin: D03136
+            Dabigatran (DG00164): D09707
+            Dabigatran etexilate (DG00164): D07082 D07144
+            Desirudin: D03692
+            Efegatran sulfate: D03722
+            Lepirudin: D06880
+            Melagatran: D07143
+            Napsagatran: D03728
+            Thrombomodulin alfa: D06410
+            Ximelagatran: D01981
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2147 (F2)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2147 (F2)
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                2147 (F2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.5  thrombin
+                 2147 (F2)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               2147 (F2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of hepatic cells
+               2147 (F2)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta3 integrins
+               alpha IIb  beta 3
+                ITGB3; integrin beta 3 [KO:K06493]
+                 2147 (F2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Coagulation and fibrinolysis	(General comment) Coagulation, inflammation, complement control
+               2147 (F2)
+POSITION    11p11.2
+MOTIF       Pfam: Trypsin Kringle Thrombin_light Gla DUF1986 Trypsin_2
+DBLINKS     NCBI-GeneID: 2147
+            NCBI-ProteinID: NP_000497
+            OMIM: 176930
+            HGNC: 3535
+            Ensembl: ENSG00000180210
+            Vega: OTTHUMG00000150344
+            Pharos: P00734(Tclin)
+            UniProt: P00734
+STRUCTURE   PDB: 5AFY 4UD9 4UE7 4UEH 4UDW 5AF9 3RM2 5AHG 3VXE 2BVR 2UUF
+                 5JZY 3SI4 3U8O 3SV2 2CN0 2CF8 2UUJ 3RM0 3QX5 5LCE 2UUK
+                 5A2M 3RMO 2BVS 1H8D 4UFD 3P17 5NHU 3U98 3T5F 5JFD 3U8R
+                 2ZFF 1C5L 5LPD 4YES 3UWJ 3D49 1C5N 3RLY 3SHA 3QTO 5AFZ
+                 3RML 3EQ0 2PGB 1VZQ 4UFF 3UTU 3U69 3SI3 3GIC 3BEI 1SHH
+                 3U9A 3RMM 2ZC9 1O2G 4UFE 4CH2 3VXF 3JZ1 3DUX 2ZGB 3B9F
+                 1AHT 4LXB 2BDY 5L6N 3QTV 4UFG 4LZ1 3PO1 2ZIQ 2ZI2 1W7G
+                 1GHX 1OYT 5LUW 3RLW 5JDU 4RKJ 3P6Z 2ZO3 2JH0 1DOJ 2ZDV
+                 3DHK 2ZDA 1GJ5 4CH8 3R3G 3QWC 3F68 2ZG0 2OD3 1O5G 1H8I
+                 1GHW 1C1U 4LOY 3RMN 1YPJ 1YPK 2V3O 2V3H 2CF9 4DIH 3LU9
+                 3DA9 2ZNK 2ZGX 2ZFQ 3BV9 3BIV 2PGQ 1Z71 1YPG 1NM6 1JOU
+                 1EB1 1QBV 1BA8 1A4W 1A3B 1AY6 1TOM 1YPE 1SL3 1GJ4 2BXT
+                 4RKO 3C1K 2PW8 3K65 2ZFR 1YPL 1YPM 1XMN 1GHV 1GHY 1A3E
+                 1AI8 5DO4 3U8T 1K21 4BAN 4BAO 2GP9 4BAM 4BAQ 5E8E 4AX9
+                 4DT7 3SQE 3SHC 3S7H 3S7K 3DD2 2A0Q 1ZRB 1TA6 1SB1 1NO9
+                 1G32 1C5O 1C1W 1VR1 1SFQ 1PPB 2AFQ 1K22 4N3L 4BAH 4BAK
+                 1LHC 2ZHQ 2C8W 4NZE 2ZHF 1C1V 1MU6 2GDE 1Z8I 1Z8J 1T4U
+                 1T4V 1NT1 1MU8 1MUE 1G30 1G37 1DE7 1D6W 1QUR 1QJ1 1BCU
+                 1AE8 1AFE 1AD8 1UMA 1HBT 1HAG 1IHS 2ZHW 1WAY 1RIW 1D3D
+                 4DII 1A5G 1D4P 1B5G 5GIM 3QGN 3E6P 2ZHE 2R2M 2B5T 1KTT
+                 1EOJ 1EOL 1D3P 1C4U 1C4V 8KME 7KME 1THP 2THF 1B7X 1BB0
+                 1CA8 1A2C 5GDS 1AIX 1HXF 1HXE 1IHT 1A46 3QLP 2C8Z 2C8X
+                 3C27 1NZQ 4H6S 5EDM 4MLF 3SQH 3NXP 3EGK 2ZF0 3BEF 2C93
+                 2C8Y 1ZGV 1ZGI 1WBG 1NU7 1NU9 1JMO 1QJ6 1QJ7 1QHR 1A61
+                 1AWF 1TMT 1THS 1HGT 2HGT 2JH6 5LUY 4E7R 3LDX 2ZFP 2C90
+                 1LHE 1LHG 4E05 3BIU 1XM1 1TA2 1SG8 1SGI 1OOK 1NY2 1DX5
+                 1D9I 1BHX 1TBZ 1DIT 1FPC 1HAH 4HTC 1THR 3HTC 1TMB 1ABI
+                 5TO3 1LHD 4I7Y 4HFP 4H6T 3B23 3JZ2 3GIS 3DT0 2HWL 2H9T
+                 2ANM 1TWX 1TQ7 1KTS 1LHF 1HAI 1NRR 1NRS 1ABJ 2FES 2FEQ
+                 2A2X 1O0D 2ANK 3TU7 3BF6 2PKS 2JH5 1TB6 1RD3 1JWT 1DM4
+                 4THN 3HAT 2HNT 1TMU 1FPH 3P70 4LZ4 4BOH 4AYY 4AZ2 3HKJ
+                 1P8V 1BMM 1HDT 1C4Y 3EE0 4AYV 4DY7 3QDZ 2BXU 1TQ0 1MH0
+                 1UVS 1BMN 1HAO 1HAP 4NZQ 1D3Q 1HUT 5EW1 5CMX 4RN6 1D3T
+                 1AWH 1HLT 1NRP 1DWC 1DWD 1DWE 1SR5 1E0F 1NRN 1NRO 1DWB
+                 4E06 3PMH 2BVX 5EDK 4HZH 2HPP 2HPQ 4O03 1NRQ 5EW2 2A45
+AASEQ       622
+            MAHVRGLQLPGCLALAALCSLVHSQHVFLAPQQARSLLQRVRRANTFLEEVRKGNLEREC
+            VEETCSYEEAFEALESSTATDVFWAKYTACETARTPRDKLAACLEGNCAEGLGTNYRGHV
+            NITRSGIECQLWRSRYPHKPEINSTTHPGADLQENFCRNPDSSTTGPWCYTTDPTVRRQE
+            CSIPVCGQDQVTVAMTPRSEGSSVNLSPPLEQCVPDRGQQYQGRLAVTTHGLPCLAWASA
+            QAKALSKHQDFNSAVQLVENFCRNPDGDEEGVWCYVAGKPGDFGYCDLNYCEEAVEEETG
+            DGLDEDSDRAIEGRTATSEYQTFFNPRTFGSGEADCGLRPLFEKKSLEDKTERELLESYI
+            DGRIVEGSDAEIGMSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTEN
+            DLLVRIGKHSRTRYERNIEKISMLEKIYIHPRYNWRENLDRDIALMKLKKPVAFSDYIHP
+            VCLPDRETAASLLQAGYKGRVTGWGNLKETWTANVGKGQPSVLQVVNLPIVERPVCKDST
+            RIRITDNMFCAGYKPDEGKRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGEGCDRDGKY
+            GFYTHVFRLKKWIQKVIDQFGE
+NTSEQ       1869
+            atggcgcacgtccgaggcttgcagctgcctggctgcctggccctggctgccctgtgtagc
+            cttgtgcacagccagcatgtgttcctggctcctcagcaagcacggtcgctgctccagcgg
+            gtccggcgagccaacaccttcttggaggaggtgcgcaagggcaacctggagcgagagtgc
+            gtggaggagacgtgcagctacgaggaggccttcgaggctctggagtcctccacggctacg
+            gatgtgttctgggccaagtacacagcttgtgagacagcgaggacgcctcgagataagctt
+            gctgcatgtctggaaggtaactgtgctgagggtctgggtacgaactaccgagggcatgtg
+            aacatcacccggtcaggcattgagtgccagctatggaggagtcgctacccacataagcct
+            gaaatcaactccactacccatcctggggccgacctacaggagaatttctgccgcaacccc
+            gacagcagcaccacgggaccctggtgctacactacagaccccaccgtgaggaggcaggaa
+            tgcagcatccctgtctgtggccaggatcaagtcactgtagcgatgactccacgctccgaa
+            ggctccagtgtgaatctgtcacctccattggagcagtgtgtccctgatcgggggcagcag
+            taccaggggcgcctggcggtgaccacacatgggctcccctgcctggcctgggccagcgca
+            caggccaaggccctgagcaagcaccaggacttcaactcagctgtgcagctggtggagaac
+            ttctgccgcaacccagacggggatgaggagggcgtgtggtgctatgtggccgggaagcct
+            ggcgactttgggtactgcgacctcaactattgtgaggaggccgtggaggaggagacagga
+            gatgggctggatgaggactcagacagggccatcgaagggcgtaccgccaccagtgagtac
+            cagactttcttcaatccgaggacctttggctcgggagaggcagactgtgggctgcgacct
+            ctgttcgagaagaagtcgctggaggacaaaaccgaaagagagctcctggaatcctacatc
+            gacgggcgcattgtggagggctcggatgcagagatcggcatgtcaccttggcaggtgatg
+            cttttccggaagagtccccaggagctgctgtgtggggccagcctcatcagtgaccgctgg
+            gtcctcaccgccgcccactgcctcctgtacccgccctgggacaagaacttcaccgagaat
+            gaccttctggtgcgcattggcaagcactcccgcaccaggtacgagcgaaacattgaaaag
+            atatccatgttggaaaagatctacatccaccccaggtacaactggcgggagaacctggac
+            cgggacattgccctgatgaagctgaagaagcctgttgccttcagtgactacattcaccct
+            gtgtgtctgcccgacagggagacggcagccagcttgctccaggctggatacaaggggcgg
+            gtgacaggctggggcaacctgaaggagacgtggacagccaacgttggtaaggggcagccc
+            agtgtcctgcaggtggtgaacctgcccattgtggagcggccggtctgcaaggactccacc
+            cggatccgcatcactgacaacatgttctgtgctggttacaagcctgatgaagggaaacga
+            ggggatgcctgtgaaggtgacagtgggggaccctttgtcatgaagagcccctttaacaac
+            cgctggtatcaaatgggcatcgtctcatggggtgaaggctgtgaccgggatgggaaatat
+            ggcttctacacacatgtgttccgcctgaagaagtggatacagaaggtcattgatcagttt
+            ggagagtag
+///

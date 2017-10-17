@@ -1,0 +1,79 @@
+ENTRY       56903             CDS       T01001
+NAME        PAPOLB, PAPT, TPAP
+DEFINITION  (RefSeq) poly(A) polymerase beta
+ORTHOLOGY   K14376  poly(A) polymerase [EC:2.7.7.19]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                56903 (PAPOLB)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.19  polynucleotide adenylyltransferase
+                 56903 (PAPOLB)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               3' end processing
+                Poly(A) addition factors
+                 56903 (PAPOLB)
+POSITION    7p22.1
+MOTIF       Pfam: PAP_central PAP_RNA-bind NTP_transf_2
+DBLINKS     NCBI-GeneID: 56903
+            NCBI-ProteinID: NP_064529
+            OMIM: 607436
+            HGNC: 15970
+            Ensembl: ENSG00000218823
+            Vega: OTTHUMG00000151759
+            Pharos: Q9NRJ5(Tbio)
+            UniProt: Q9NRJ5 A4D1Z6
+AASEQ       637
+            MMPFPVTTQGPPQPAPPPNRYGVSSPISLAVPKETDCLLTQRLIETLRPFGVFEEEEELQ
+            RRILVLEKLNNLVKEWIREISESKSLPQSVIENVGGKIFTFGSYRLGVHTKGADIDALCV
+            APSHVDRSDFFTSFYAKLKLQEEVKDLRAVEEAFVPVIKLCFDGIEIDILFARLALQTIP
+            EDLDLRDDSLLKNLDIRCIRSLNGCRVTDEILHLVPNIDNFRLTLRAIKLWAKCHNIYSN
+            ILGFLGGVSWAMLVARTCQLYPNAVASTLVRKFFLVFSEWEWPNPVLLKEPEERNLNLPV
+            WDPRVNPSDRYHLMPIITPAYPQQNSTYNVSISTRMVMIEEFKQGLAITHEILLSKAEWS
+            KLFEAPSFFQKYKHYIVLLASASTEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQ
+            SFPAPKENPDMEEFRTMWVIGLGLKKPDNSEILSIDLTYDIQSFTDTVYRQAVNSKMFEM
+            GMKITAMHLRRKELHQLLPHHVLQDKKAHSTEGRRLTDLNDSSFDLSAGCENSMSVPSST
+            STMKTGPLISSSQGRNSPALAVMTASVANIQATEFSLQQVNTNESSGVALNESIPHAVSQ
+            PAISPSPKAMVARVVSSTCLISHPDLQETQQQTYLIL
+NTSEQ       1914
+            atgatgccgtttccggtgacaacccagggaccaccgcagccggcgccgccgccgaatcgc
+            tacggcgtctcctcgcctatcagtctagcggtccccaaggagacggactgcctcctcacc
+            cagaggctaatagaaaccctcaggcccttcggggtcttcgaagaggaagaggaactgcag
+            cgcaggattttagttttggaaaaattaaataatctggtaaaggaatggatacgcgaaatc
+            agtgaaagcaagagtcttccccagtctgtaattgaaaacgttggaggaaagatttttacg
+            tttggctcttacagattaggagtacatacgaaaggcgcagatattgacgccttgtgcgtt
+            gcaccaagtcatgtggatcgaagcgactttttcacctcattctatgctaaactgaaacta
+            caggaggaagtgaaagatttaagggctgtcgaggaggcatttgtgccagttatcaaactg
+            tgttttgatgggatagagattgatattttatttgcaagattagcactacagactattcca
+            gaagatttggacttaagagatgacagtctacttaaaaatttagacattagatgcataaga
+            agccttaatggttgccgggtaaccgatgaaattttacatctagtgccaaacattgacaac
+            ttcaggctgactctgagagccatcaaactgtgggccaagtgccacaatatctattccaat
+            atattaggtttcctcggaggtgtttcctgggccatgctagtagcaagaacttgtcagctt
+            tatccaaatgcagtagcgtcaactcttgtacggaaattcttcttggtattttcagaatgg
+            gaatggccaaacccagtgttactgaaggagcctgaagaacggaatcttaatttgcctgta
+            tgggacccaagagtaaatcccagtgataggtaccatcttatgcctatcatcacaccagca
+            tacccacagcagaactccacatacaacgtgtctatttcaaccaggatggtcatgattgag
+            gagtttaaacaggggcttgctatcacacacgagattttgctaagtaaggcagagtggtcc
+            aaactctttgaagctccaagcttctttcaaaagtacaagcattatattgtacttctggca
+            agtgcatcaacagaaaaacaacatttagaatgggtgggcttggtggaatcaaagatccga
+            atcctggttgggagcttggagaagaatgaatttattacactggcacatgtgaatccacag
+            tcatttccagcacccaaagaaaatcctgatatggaagaatttcgtacaatgtgggtgatt
+            gggttagggctaaaaaagccagataattctgaaattctcagcattgatctcacctatgat
+            atccagtctttcacagatactgtttataggcaagcagtgaatagtaagatgtttgagatg
+            ggtatgaaaattactgcaatgcatttaagaagaaaggaacttcaccagctgctgcctcat
+            catgtgcttcaggacaagaaagcacactcaacagaaggtagaagattgacagatttgaac
+            gacagcagctttgacttgtctgcaggctgtgaaaacagcatgtctgtgccttcatctact
+            agcactatgaagacaggcccattgattagcagttctcagggtagaaacagtcctgccttg
+            gctgtaatgacagcatctgtggctaacatacaggctactgaattttccttgcaacaggtg
+            aataccaatgaaagttcaggggttgcattaaacgaaagtattcctcacgctgtctctcag
+            cctgccatttctccatcaccaaaggccatggtcgccagagttgtttcttcaacatgtctc
+            ataagccatccagaccttcaggaaactcagcaacaaacatatctaatcctatag
+///

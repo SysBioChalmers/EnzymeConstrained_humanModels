@@ -1,0 +1,89 @@
+ENTRY       22849             CDS       T01001
+NAME        CPEB3
+DEFINITION  (RefSeq) cytoplasmic polyadenylation element binding protein 3
+ORTHOLOGY   K02602  cytoplasmic polyadenylation element-binding protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04114  Oocyte meiosis
+            hsa04914  Progesterone-mediated oocyte maturation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                22849 (CPEB3)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                22849 (CPEB3)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 22849 (CPEB3)
+               Factors involved in mRNA localization
+                Trans-acting binding proteins
+                 22849 (CPEB3)
+               mRNA cycle factors
+                P-body specific factors
+                 22849 (CPEB3)
+POSITION    10q23.32
+MOTIF       Pfam: RRM_7 CEBP_ZZ RRM_1 zf-U1 zf-B_box
+DBLINKS     NCBI-GeneID: 22849
+            NCBI-ProteinID: NP_055727
+            OMIM: 610606
+            HGNC: 21746
+            Ensembl: ENSG00000107864
+            Vega: OTTHUMG00000018756
+            Pharos: Q8NE35(Tbio)
+            UniProt: Q8NE35 B3KXC1
+STRUCTURE   PDB: 2RUG 2DNL
+AASEQ       698
+            MQDDLLMDKSKTQPQPQQQQRQQQQPQPESSVSEAPSTPLSSETPKPEENSAVPALSPAA
+            APPAPNGPDKMQMESPLLPGLSFHQPPQQPPPPQEPAAPGASLSPSFGSTWSTGTTNAVE
+            DSFFQGITPVNGTMLFQNFPHHVNPVFGGTFSPQIGLAQTQHHQQPPPPAPAPQPAQPAQ
+            PPQAQPPQQRRSPASPSQAPYAQRSAAAAYGHQPIMTSKPSSSSAVAAAAAAAAASSASS
+            SWNTHQSVNAAWSAPSNPWGGLQAGRDPRRAVGVGVGVGVGVPSPLNPISPLKKPFSSNV
+            IAPPKFPRAAPLTSKSWMEDNAFRTDNGNNLLPFQDRSRPYDTFNLHSLENSLMDMIRTD
+            HEPLKGKHYPPSGPPMSFADIMWRNHFAGRMGINFHHPGTDNIMALNNAFLDDSHGDQAL
+            SSGLSSPTRCQNGERVERYSRKVFVGGLPPDIDEDEITASFRRFGPLVVDWPHKAESKSY
+            FPPKGYAFLLFQEESSVQALIDACLEEDGKLYLCVSSPTIKDKPVQIRPWNLSDSDFVMD
+            GSQPLDPRKTIFVGGVPRPLRAVELAMIMDRLYGGVCYAGIDTDPELKYPKGAGRVAFSN
+            QQSYIAAISARFVQLQHNDIDKRVEVKPYVLDDQMCDECQGTRCGGKFAPFFCANVTCLQ
+            YYCEYCWASIHSRAGREFHKPLVKEGGDRPRHVPFRWS
+NTSEQ       2097
+            atgcaggatgatttactgatggacaaaagcaaaacccagccccagccccagcagcagcag
+            cggcagcagcagcagccccaacctgagtccagcgtatccgaagccccgtccacgcccctc
+            tcctcagagacccccaagccggaggaaaacagcgcagtgccggccctcagcccagccgct
+            gcccccccggcccccaacggcccggacaagatgcagatggaatcaccgctcctgccaggc
+            ttgagtttccatcagcctcctcagcagccgccgccgcctcaggagcccgcggcaccgggc
+            gcgtcgctgtcgccgtccttcggcagcacctggtccacgggcaccaccaacgcggtagag
+            gacagcttcttccaggggatcaccccagtcaacgggaccatgctcttccagaacttcccg
+            caccatgtcaacccagtcttcggaggcactttctccccgcagatcggcctggcgcagacc
+            cagcaccaccagcagccgccgccgcctgcgcccgcgccgcagccggcacagccagcgcag
+            ccaccacaggcgcagcccccgcagcagcgccgctcacccgccagccccagccaggcgccc
+            tacgcgcagaggagcgccgccgcggcgtacggccaccagcccatcatgaccagcaagccg
+            tcctcgtcttcggcggttgcagccgctgctgccgcagccgccgcctcgtcggcctcgtcc
+            agctggaacacgcaccaaagcgtgaatgcagcctggagcgcaccgtccaacccctggggc
+            ggcctgcaggcgggccgggaccctcgccgggcggtcggtgtgggcgtgggtgtgggtgtc
+            ggggtgccttccccgctcaaccccatctcgccgctcaaaaagcccttctccagcaacgtg
+            atcgcgccgcccaagttccctcgcgcggcccctctcacttccaagtcctggatggaggat
+            aacgctttccggaccgataatggtaacaatctgttgccatttcaggaccggagtaggccc
+            tatgatacttttaacttgcactcgttggagaactccttaatggatatgataaggactgat
+            catgaacctctgaaaggtaaacactaccctcccagtggcccaccaatgagtttcgctgat
+            ataatgtggaggaatcattttgcaggacgcatggggataaatttccatcatccaggaaca
+            gataatattatggcacttaacaatgccttcctggatgatagccatggtgatcaagccttg
+            tcatctggcttaagttctcccactcgctgtcaaaatggggaacgagtagaacgctactct
+            agaaaggtgtttgttggaggacttcctcctgatattgatgaagatgagatcactgccagc
+            tttcgcaggtttggacctctcgtagtagactggcctcacaaagctgaaagcaagtcttat
+            tttcctcctaaaggctatgcctttctgctgttccaagaggaaagctcagtacaagctttg
+            atagatgcctgcctagaagaagatgggaaactctacctgtgtgtgtcaagccccaccatc
+            aaggacaagccagtgcaaattcgaccatggaacctaagtgacagtgactttgtaatggat
+            ggttctcagcctttggaccccagaaaaactatctttgttgggggagttccacgacccctt
+            cgagctgttgaactggcaatgatcatggaccgtttgtacggtggtgtctgctatgctggc
+            attgatacggacccagagctgaagtaccccaaaggtgctggccgcgtggcattctccaat
+            cagcagagttacattgcagccatcagcgctcgttttgtgcagcttcagcacaatgacatt
+            gacaaacgggttgaagtaaagccatatgtgctggatgatcagatgtgtgatgagtgccag
+            ggcacacgctgtggtgggaagtttgccccgttcttctgtgccaacgtcacctgtctgcag
+            tattactgtgaatactgctgggcgagcatacattcccgagccgggcgggagttccacaaa
+            ccgctggtgaaggagggaggcgaccgccctcgtcacgtcccgttccgctggagctga
+///

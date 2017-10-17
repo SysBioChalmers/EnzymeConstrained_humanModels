@@ -1,0 +1,58 @@
+ENTRY       729020            CDS       T01001
+NAME        RPEL1
+DEFINITION  (RefSeq) ribulose-5-phosphate-3-epimerase like 1
+ORTHOLOGY   K01783  ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa00040  Pentose and glucuronate interconversions
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                729020 (RPEL1)
+               01230 Biosynthesis of amino acids
+                729020 (RPEL1)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                729020 (RPEL1)
+               00040 Pentose and glucuronate interconversions
+                729020 (RPEL1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.1  ribulose-phosphate 3-epimerase
+                 729020 (RPEL1)
+POSITION    10q24.33
+MOTIF       Pfam: Ribul_P_3_epim
+DBLINKS     NCBI-GeneID: 729020
+            NCBI-ProteinID: NP_001137381
+            HGNC: 45241
+            Ensembl: ENSG00000235376
+            Vega: OTTHUMG00000018980
+            Pharos: Q2QD12(Tdark)
+            UniProt: Q2QD12
+AASEQ       228
+            MASGCKIGPSILNSDLANLGAKCLQMLDSGADYLHLDVMDGHFVPNITFGHPVVESLRKQ
+            LGQDPFFDMHMMVSKPEQWVKPMAVAEANQYTFHLEATENPGTLIKDIRENGMKVGLAIK
+            PGTSVEYLAPWANQIDMALVMTVEPGFGEQKFMEDMMPKVHWLRTQFPSLDIEGDGGVGS
+            DTVHKCAEAGANMTVSGSAIMRSEDPRSVINLLRNICSEAAQKRSLDR
+NTSEQ       687
+            atggcgtcgggctgcaagattggcccgtccatcctcaacagcgacctggccaatttaggg
+            gccaagtgcctccagatgctagactctggggccgattatctgcatctggatgtaatggat
+            gggcattttgttcccaacatcacctttggtcaccctgtggtagaaagccttcgaaagcag
+            ctaggccaggaccctttctttgacatgcacatgatggtgtccaagccagaacagtgggta
+            aagccaatggctgtagcagaagccaatcagtacacctttcatctcgaggctactgagaac
+            ccagggactttgattaaagacattcgggagaatgggatgaaggttggccttgccatcaaa
+            ccaggaacctcagttgagtatttggcaccatgggctaatcaaatagatatggccttggtt
+            atgacagtggaaccggggtttggagagcagaaattcatggaagatatgatgccaaaggtt
+            cactggttgaggacccagttcccatctttggatatagagggcgatggtggagtaggttct
+            gacactgtccataagtgtgcagaggcaggagctaacatgactgtatctggcagtgctatt
+            atgaggagtgaagaccccagatctgtgatcaacctattaagaaatatttgctcagaagct
+            gctcagaaacgttctcttgatcgatga
+///

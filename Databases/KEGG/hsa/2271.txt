@@ -1,0 +1,89 @@
+ENTRY       2271              CDS       T01001
+NAME        FH, FMRD, HLRCC, LRCC, MCL, MCUL1
+DEFINITION  (RefSeq) fumarate hydratase
+ORTHOLOGY   K01679  fumarate hydratase, class II [EC:4.2.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa05200  Pathways in cancer
+            hsa05211  Renal cell carcinoma
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+DISEASE     H00021  Renal cell carcinoma
+            H00804  Multiple cutaneous and uterine leiomyomata
+            H01022  Diseases of the tricarboxylic acid cycle
+            H01510  Malignant paraganglioma
+            H01640  Uterine leiomyoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                2271 (FH)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                2271 (FH)
+               00620 Pyruvate metabolism
+                2271 (FH)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2271 (FH)
+               05211 Renal cell carcinoma
+                2271 (FH)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.2  fumarate hydratase
+                 2271 (FH)
+POSITION    1q43
+MOTIF       Pfam: Lyase_1 FumaraseC_C
+DBLINKS     NCBI-GeneID: 2271
+            NCBI-ProteinID: NP_000134
+            OMIM: 136850
+            HGNC: 3700
+            Ensembl: ENSG00000091483
+            Vega: OTTHUMG00000039597
+            Pharos: P07954(Tbio)
+            UniProt: P07954 A0A0S2Z4C3
+STRUCTURE   PDB: 3E04 5D6B
+AASEQ       510
+            MYRALRLLARSRPLVRAPAAALASAPGLGGAAVPSFWPPNAARMASQNSFRIEYDTFGEL
+            KVPNDKYYGAQTVRSTMNFKIGGVTERMPTPVIKAFGILKRAAAEVNQDYGLDPKIANAI
+            MKAADEVAEGKLNDHFPLVVWQTGSGTQTNMNVNEVISNRAIEMLGGELGSKIPVHPNDH
+            VNKSQSSNDTFPTAMHIAAAIEVHEVLLPGLQKLHDALDAKSKEFAQIIKIGRTHTQDAV
+            PLTLGQEFSGYVQQVKYAMTRIKAAMPRIYELAAGGTAVGTGLNTRIGFAEKVAAKVAAL
+            TGLPFVTAPNKFEALAAHDALVELSGAMNTTACSLMKIANDIRFLGSGPRSGLGELILPE
+            NEPGSSIMPGKVNPTQCEAMTMVAAQVMGNHVAVTVGGSNGHFELNVFKPMMIKNVLHSA
+            RLLGDASVSFTENCVVGIQANTERINKLMNESLMLVTALNPHIGYDKAAKIAKTAHKNGS
+            TLKETAIELGYLTAEQFDEWVKPKDMLGPK
+NTSEQ       1533
+            atgtaccgagcacttcggctcctcgcgcgctcgcgtcccctcgtgcgggctccagccgca
+            gccttagcttcggctcccggcttgggtggcgcggccgtgccctcgttttggcctccgaac
+            gcggctcgaatggcaagccaaaattccttccggatagaatatgatacctttggtgaacta
+            aaggtgccaaatgataagtattatggcgcccagaccgtgagatctacgatgaactttaag
+            attggaggtgtgacagaacgcatgccaaccccagttattaaagcttttggcatcttgaag
+            cgagcggccgctgaagtaaaccaggattatggtcttgatccaaagattgctaatgcaata
+            atgaaggcagcagatgaggtagctgaaggtaaattaaatgatcattttcctctcgtggta
+            tggcagactggatcaggaactcagacaaatatgaatgtaaatgaagtcattagcaataga
+            gcaattgaaatgttaggaggtgaacttggcagcaagatacctgtgcatcccaacgatcat
+            gttaataaaagccagagctcaaatgatacttttcccacagcaatgcacattgctgctgca
+            atagaagttcatgaagtactgttaccaggactacagaagttacatgatgctcttgatgca
+            aaatccaaagagtttgcacagatcatcaagattggacgtactcatactcaggatgctgtt
+            ccacttactcttgggcaggaatttagtggttatgttcaacaagtaaaatatgcaatgaca
+            agaataaaagctgccatgccaagaatctatgagctcgcagctggaggcactgctgttggt
+            acaggtttaaatactagaattggctttgcagaaaaggttgctgcaaaagtggctgcactt
+            acaggcttgccttttgtcactgctccgaataaatttgaagctctggctgctcatgacgct
+            ctggttgagctcagtggagccatgaacactactgcctgcagtctgatgaagatagcaaat
+            gatattcgatttttgggttctggtcctcggtcaggtctgggagaattgatcttgcctgaa
+            aatgaaccaggaagcagtatcatgccaggcaaggtgaaccctactcagtgtgaagcaatg
+            accatggttgcagcccaagtcatggggaaccatgttgctgtcactgtcggaggcagcaat
+            ggacattttgagttgaatgttttcaagccaatgatgattaaaaatgtgttacactcagcc
+            aggctgctgggggatgcttcagtttcctttacagaaaactgcgtggtgggaatccaggcc
+            aatacagaaaggatcaacaagctgatgaatgagtctctaatgttggtgacagctctcaat
+            cctcatatagggtatgacaaggcagcaaagattgctaagacagcacacaaaaatggatca
+            accttaaaggaaactgctatcgaacttggctatctcacagcagagcagtttgacgaatgg
+            gtaaaacctaaggacatgctgggtccaaagtga
+///

@@ -1,0 +1,73 @@
+ENTRY       4728              CDS       T01001
+NAME        NDUFS8, CI-23k, CI23KD, TYKY
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase core subunit S8
+ORTHOLOGY   K03941  NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:1.6.5.3 1.6.99.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+            H01354  Leigh syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4728 (NDUFS8)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4728 (NDUFS8)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4728 (NDUFS8)
+               05012 Parkinson's disease
+                4728 (NDUFS8)
+               05016 Huntington's disease
+                4728 (NDUFS8)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4728 (NDUFS8)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4728 (NDUFS8)
+               1.6.99  With unknown physiological acceptors
+                1.6.99.3  NADH dehydrogenase
+                 4728 (NDUFS8)
+POSITION    11q13.2
+MOTIF       Pfam: Fer4 Fer4_7 Fer4_16 Fer4_21 Fer4_9 Fer4_10 Fer4_6 Fer4_8 Fer4_2 Fer4_4 Fer4_17 c-SKI_SMAD_bind Fer4_13 Fer4_18 Fer4_3
+DBLINKS     NCBI-GeneID: 4728
+            NCBI-ProteinID: NP_002487
+            OMIM: 602141
+            HGNC: 7715
+            Ensembl: ENSG00000110717
+            Vega: OTTHUMG00000167331
+            Pharos: O00217(Tclin)
+            UniProt: O00217
+STRUCTURE   PDB: 5XTB 5XTD
+AASEQ       210
+            MRCLTTPMLLRALAQAARAGPPGGRSLHSSAVAATYKYVNMQDPEMDMKSVTDRAARTLL
+            WTELFRGLGMTLSYLFREPATINYPFEKGPLSPRFRGEHALRRYPSGEERCIACKLCEAI
+            CPAQAITIEAEPRADGSRRTTRYDIDMTKCIYCGFCQEACPVDAIVEGPNFEFSTETHEE
+            LLYNKEKLLNNGDKWEAEIAANIQADYLYR
+NTSEQ       633
+            atgcgctgcctgaccacgcctatgctgctgcgggccctggcccaggctgcacgtgcagga
+            cctcctggtggccggagcctccacagcagtgcagtggcagccacctacaagtatgtgaac
+            atgcaggatcccgagatggacatgaagtcagtgactgaccgggcagcccgcaccctgctg
+            tggactgagctcttccgaggcctgggcatgaccctgagctacctgttccgggaaccggcc
+            accatcaactacccgttcgagaagggcccgctgagccctcgcttccgtggggagcatgcg
+            ctgcgccggtacccatccggggaggagcgttgcattgcctgcaagctctgcgaggccatc
+            tgccccgcccaggccatcaccatcgaggctgagccaagagctgatggcagccgccggacc
+            acccgctatgacatcgacatgaccaagtgcatctactgcggcttctgccaggaggcctgt
+            cccgtggatgccatcgtcgagggccccaactttgagttctccacggagacccatgaggag
+            ctgctgtacaacaaggagaagttgctcaacaacggggacaagtgggaggccgagatcgcc
+            gccaacatccaggctgactacttgtatcggtga
+///

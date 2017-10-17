@@ -1,0 +1,76 @@
+ENTRY       5700              CDS       T01001
+NAME        PSMC1, P26S4, S4, p56
+DEFINITION  (RefSeq) proteasome 26S subunit, ATPase 1
+ORTHOLOGY   K03062  26S proteasome regulatory subunit T2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+            hsa05165  Human papillomavirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+MODULE      hsa_M00341  Proteasome, 19S regulatory particle (PA700)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5700 (PSMC1)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                5700 (PSMC1)
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                5700 (PSMC1)
+               05165 Human papillomavirus infection
+                5700 (PSMC1)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                ATPase subunits
+                 5700 (PSMC1)
+POSITION    14q32.11
+MOTIF       Pfam: AAA AAA_2 AAA_22 DUF815 AAA_5 RuvB_N AAA_16 Prot_ATP_ID_OB IstB_IS21 AAA_18 AAA_33 AAA_25 ATPase AAA_3 AAA_28 RNA_helicase TIP49 AAA_14 PhoH Mg_chelatase NACHT AAA_11 AAA_24 AAA_30 TsaE ABC_tran Parvo_NS1 Sigma54_activat
+DBLINKS     NCBI-GeneID: 5700
+            NCBI-ProteinID: NP_002793
+            OMIM: 602706
+            HGNC: 9547
+            Ensembl: ENSG00000100764
+            Vega: OTTHUMG00000171019
+            Pharos: P62191(Tbio)
+            UniProt: P62191 Q53XL8
+STRUCTURE   PDB: 5VGZ 5M32 5T0G 5GJQ 5VHF 5VHH 5VHI 5T0H 5LN3 5VHN 5VHR
+                 5VHP 5T0I 5T0J 5VHM 5VHO 5VHJ 5VHS 5VHQ
+AASEQ       440
+            MGQSQSGGHGPGGGKKDDKDKKKKYEPPVPTRVGKKKKKTKGPDAASKLPLVTPHTQCRL
+            KLLKLERIKDYLLMEEEFIRNQEQMKPLEEKQEEERSKVDDLRGTPMSVGTLEEIIDDNH
+            AIVSTSVGSEHYVSILSFVDKDLLEPGCSVLLNHKVHAVIGVLMDDTDPLVTVMKVEKAP
+            QETYADIGGLDNQIQEIKESVELPLTHPEYYEEMGIKPPKGVILYGPPGTGKTLLAKAVA
+            NQTSATFLRVVGSELIQKYLGDGPKLVRELFRVAEEHAPSIVFIDEIDAIGTKRYDSNSG
+            GEREIQRTMLELLNQLDGFDSRGDVKVIMATNRIETLDPALIRPGRIDRKIEFPLPDEKT
+            KKRIFQIHTSRMTLADDVTLDDLIMAKDDLSGADIKAICTEAGLMALRERRMKVTNEDFK
+            KSKENVLYKKQEGTPEGLYL
+NTSEQ       1323
+            atgggtcaaagtcagagtggtggtcatggtcctggaggtggcaagaaggatgacaaggac
+            aagaaaaagaaatatgaacctcctgtaccaactagagtggggaaaaagaagaagaaaaca
+            aagggaccagatgctgccagcaaactgccactggtgacacctcacactcagtgccggtta
+            aaattactgaagttagagagaattaaagactatcttctcatggaggaagaattcattaga
+            aatcaggaacaaatgaaaccattagaagaaaagcaagaggaggaaagatcaaaagtggat
+            gatctgagggggaccccgatgtcagtaggaaccttggaagagatcattgatgacaatcat
+            gccatcgtgtctacatctgtgggctcagaacactacgtcagcattctttcatttgtagac
+            aaggatctgctggaacctggctgctcggtcctgctcaaccacaaggtgcatgccgtgata
+            ggggtgctgatggatgacacggatcccctggtcacagtgatgaaggtagaaaaggccccc
+            caggagacctatgcagatattggggggttggacaaccaaattcaggaaattaaggaatct
+            gtggagcttcctctcacccatcctgaatattatgaagagatgggtataaagcctcctaag
+            ggggtcattctctatggtccacctggcacaggtaaaaccttgttagccaaagcagtagca
+            aaccaaacctcagccactttcttgagagtggttggctctgaacttattcagaagtaccta
+            ggtgatgggcccaaactcgtacgggaattgttccgagttgctgaagaacatgcaccgtcc
+            atcgtgtttattgatgaaattgacgccattgggacaaaaagatatgactccaattctggt
+            ggtgagagagaaattcagcgaacaatgttggaactgctgaaccagttggatggatttgat
+            tctaggggagatgtgaaagttatcatggccacaaaccgaatagaaactttggatccagca
+            cttatcagaccaggccgcattgacaggaagattgagttccccctgcctgatgaaaagacg
+            aagaagcgcatctttcagattcacacaagcaggatgacgctggctgatgatgtaaccctg
+            gacgacctgatcatggctaaagatgacctctctggtgctgacatcaaggcaatctgtaca
+            gaagctggtctgatggccttaagagaacgtagaatgaaagtaacaaatgaagacttcaaa
+            aaatctaaagaaaatgttctttataagaaacaggaaggcacccctgaggggctgtatctc
+            taa
+///

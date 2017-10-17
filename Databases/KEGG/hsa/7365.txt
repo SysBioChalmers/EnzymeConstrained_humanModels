@@ -1,0 +1,101 @@
+ENTRY       7365              CDS       T01001
+NAME        UGT2B10, UDPGT2B10
+DEFINITION  (RefSeq) UDP glucuronosyltransferase family 2 member B10
+ORTHOLOGY   K00699  glucuronosyltransferase [EC:2.4.1.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00140  Steroid hormone biosynthesis
+            hsa00830  Retinol metabolism
+            hsa00860  Porphyrin and chlorophyll metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                7365 (UGT2B10)
+               00053 Ascorbate and aldarate metabolism
+                7365 (UGT2B10)
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                7365 (UGT2B10)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                7365 (UGT2B10)
+               00860 Porphyrin and chlorophyll metabolism
+                7365 (UGT2B10)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                7365 (UGT2B10)
+               00982 Drug metabolism - cytochrome P450
+                7365 (UGT2B10)
+               00983 Drug metabolism - other enzymes
+                7365 (UGT2B10)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                7365 (UGT2B10)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.17  glucuronosyltransferase
+                 7365 (UGT2B10)
+            Glycosyltransferases [BR:hsa01003]
+             Others
+              Hydrophobic molecule
+               7365 (UGT2B10)
+POSITION    4q13.2
+MOTIF       Pfam: UDPGT Glyco_tran_28_C Glyco_transf_4 SKA2 Glyco_trans_4_4
+DBLINKS     NCBI-GeneID: 7365
+            NCBI-ProteinID: NP_001066
+            OMIM: 600070
+            HGNC: 12544
+            Ensembl: ENSG00000109181
+            Vega: OTTHUMG00000161505
+            Pharos: P36537(Tbio)
+            UniProt: P36537
+AASEQ       528
+            MALKWTTVLLIQLSFYFSSGSCGKVLVWAAEYSLWMNMKTILKELVQRGHEVTVLASSAS
+            ILFDPNDSSTLKLEVYPTSLTKTEFENIIMQLVKRLSEIQKDTFWLPFSQEQEILWAIND
+            IIRNFCKDVVSNKKLMKKLQESRFDIVFADAYLPCGELLAELFNIPFVYSHSFSPGYSFE
+            RHSGGFIFPPSYVPVVMSKLSDQMTFMERVKNMLYVLYFDFWFQIFNMKKWDQFYSEVLG
+            RPTTLSETMRKADIWLMRNSWNFKFPHPFLPNVDFVGGLHCKPAKPLPKEMEEFVQSSGE
+            NGVVVFSLGSMVSNMTEERANVIATALAKIPQKVLWRFDGNKPDALGLNTRLYKWIPQND
+            LLGHPKTRAFITHGGANGIYEAIYHGIPMVGIPLFFDQPDNIAHMKAKGAAVRVDFNTMS
+            STDLLNALKTVINDPSYKENIMKLSRIQHDQPVKPLDRAVFWIEFVMRHKGAKHLRVAAH
+            NLTWFQYHSLDVIGFLLACVATVLFIITKCCLFCFWKFARKGKKGKRD
+NTSEQ       1587
+            atggctctgaaatggactacagttctgctgatacaactcagtttttactttagctctggg
+            agttgtggaaaggtgctggtatgggccgcagaatacagcctttggatgaatatgaagaca
+            atcctgaaagaacttgttcagagaggtcatgaggtgactgtactggcatcttcagcttcc
+            attctttttgatcccaacgactcatccactcttaaacttgaagtttatcctacatcttta
+            actaaaactgaatttgagaatatcatcatgcaattggttaagagattgtcagaaattcaa
+            aaagatacattttggttacctttttcacaagaacaagaaatcctgtgggcaattaatgac
+            ataattagaaacttctgtaaagatgtagtttcaaataagaaacttatgaaaaaactacaa
+            gagtcaagatttgacatcgtttttgcagatgcttatttaccctgtggtgagctgctggct
+            gagctatttaacataccctttgtgtacagtcacagcttcagtcctggctactcatttgaa
+            aggcacagtggaggatttattttccctccttcctacgtacctgttgttatgtcaaaatta
+            agtgatcaaatgactttcatggagagggtaaaaaatatgctctatgtgctttattttgac
+            ttttggttccaaatatttaatatgaagaagtgggatcagttttacagtgaagttttagga
+            agacccactacattatctgagacaatgaggaaagctgacatatggcttatgcgaaactcc
+            tggaattttaaatttcctcatccattcttaccaaatgttgattttgttggaggactccac
+            tgcaaacctgccaaacccctacctaaggaaatggaggagtttgtacagagctctggagaa
+            aatggtgttgtggtgttttctctggggtcaatggtcagtaacatgacagaagaaagggcc
+            aacgtaattgcaacagcccttgccaagatcccacaaaaggttctttggagatttgatggg
+            aataaaccagatgccttaggtctcaatactcgactgtacaagtggataccccagaatgac
+            cttctaggtcatccaaaaaccagagcttttataactcatggtggagccaatggcatctat
+            gaggcaatctaccatgggatccctatggtgggcattccattgttttttgatcaacctgat
+            aatattgctcacatgaaggccaagggagcagctgttagagtggacttcaacacaatgtcg
+            agtacagacctgctgaatgcactgaagacagtaattaatgatccttcatataaagagaat
+            attatgaaattatcaagaattcaacatgatcaaccagtgaagcccctggatcgagcagtc
+            ttctggattgaatttgtcatgcgccacaaaggagccaaacatcttcgagttgcagcccac
+            aacctcacctggttccagtaccactctttggatgtgattgggttcctgctggcttgtgtg
+            gcaaccgtgctatttatcatcacaaagtgttgtctgttttgtttctggaagtttgctaga
+            aaaggaaagaagggaaaaagggattag
+///

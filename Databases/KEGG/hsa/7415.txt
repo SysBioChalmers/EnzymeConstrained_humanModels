@@ -1,0 +1,102 @@
+ENTRY       7415              CDS       T01001
+NAME        VCP, ALS14, CDC48, CMT2Y, HEL-220, HEL-S-70, IBMPFD, IBMPFD1, TERA, p97
+DEFINITION  (RefSeq) valosin containing protein
+ORTHOLOGY   K13525  transitional endoplasmic reticulum ATPase
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04141  Protein processing in endoplasmic reticulum
+            hsa05134  Legionellosis
+MODULE      hsa_M00400  p97-Ufd1-Npl4 complex
+            hsa_M00403  HRD1/SEL1 ERAD complex
+DISEASE     H00058  Amyotrophic lateral sclerosis (ALS)
+            H00078  Frontotemporal lobar degeneration (FTLD)
+            H00264  Charcot-Marie-Tooth disease (CMT)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                7415 (VCP)
+             Human Diseases
+              Infectious diseases
+               05134 Legionellosis
+                7415 (VCP)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                Ran-mediated transport factors
+                 7415 (VCP)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               7415 (VCP)
+POSITION    9p13.3
+MOTIF       Pfam: AAA CDC48_N RuvB_N AAA_16 CDC48_2 AAA_33 AAA_2 AAA_5 AAA_22 TIP49 Vps4_C AAA_18 RNA_helicase Mg_chelatase AAA_14 IstB_IS21 Parvo_NS1 AAA_28 ATPase ATPase_2 Bac_DnaA ABC_tran DUF815 AAA_24 TsaE Viral_helicase1 Sigma54_activat AAA_17 NACHT Zeta_toxin NB-ARC DUF2075 ResIII UFD1 DUF3944
+DBLINKS     NCBI-GeneID: 7415
+            NCBI-ProteinID: NP_009057
+            OMIM: 601023
+            HGNC: 12666
+            Ensembl: ENSG00000165280
+            Vega: OTTHUMG00000019855
+            Pharos: P55072(Tchem)
+            UniProt: P55072 V9HW80 Q96IF9
+STRUCTURE   PDB: 5B6C 3TIW 4KDL 4KDI 5EPP 4KO8 3QWZ 3QQ8 5DYG 3QC8 3HU3
+                 5GLF 5FTJ 5X4L 5FTK 5IFS 4KLN 3QQ7 3HU1 3HU2 4KOD 5C1B
+                 5FTM 5FTL 5FTN 5C18 5IFW 5DYI 5C19
+AASEQ       806
+            MASGADSKGDDLSTAILKQKNRPNRLIVDEAINEDNSVVSLSQPKMDELQLFRGDTVLLK
+            GKKRREAVCIVLSDDTCSDEKIRMNRVVRNNLRVRLGDVISIQPCPDVKYGKRIHVLPID
+            DTVEGITGNLFEVYLKPYFLEAYRPIRKGDIFLVRGGMRAVEFKVVETDPSPYCIVAPDT
+            VIHCEGEPIKREDEEESLNEVGYDDIGGCRKQLAQIKEMVELPLRHPALFKAIGVKPPRG
+            ILLYGPPGTGKTLIARAVANETGAFFFLINGPEIMSKLAGESESNLRKAFEEAEKNAPAI
+            IFIDELDAIAPKREKTHGEVERRIVSQLLTLMDGLKQRAHVIVMAATNRPNSIDPALRRF
+            GRFDREVDIGIPDATGRLEILQIHTKNMKLADDVDLEQVANETHGHVGADLAALCSEAAL
+            QAIRKKMDLIDLEDETIDAEVMNSLAVTMDDFRWALSQSNPSALRETVVEVPQVTWEDIG
+            GLEDVKRELQELVQYPVEHPDKFLKFGMTPSKGVLFYGPPGCGKTLLAKAIANECQANFI
+            SIKGPELLTMWFGESEANVREIFDKARQAAPCVLFFDELDSIAKARGGNIGDGGGAADRV
+            INQILTEMDGMSTKKNVFIIGATNRPDIIDPAILRPGRLDQLIYIPLPDEKSRVAILKAN
+            LRKSPVAKDVDLEFLAKMTNGFSGADLTEICQRACKLAIRESIESEIRRERERQTNPSAM
+            EVEEDDPVPEIRRDHFEEAMRFARRSVSDNDIRKYEMFAQTLQQSRGFGSFRFPSGNQGG
+            AGPSQGSGGGTGGSVYTEDNDDDLYG
+NTSEQ       2421
+            atggcttctggagccgattcaaaaggtgatgacctatcaacagccattctcaaacagaag
+            aaccgtcccaatcggttaattgttgatgaagccatcaatgaggacaacagtgtggtgtcc
+            ttgtcccagcccaagatggatgaattgcagttgttccgaggtgacacagtgttgctgaaa
+            ggaaagaagagacgagaagctgtttgcatcgtcctttctgatgatacttgttctgatgag
+            aagattcggatgaatagagttgttcggaataaccttcgtgtacgcctaggggatgtcatc
+            agcatccagccatgccctgatgtgaagtacggcaaacgtatccatgtgctgcccattgat
+            gacacagtggaaggcattactggtaatctcttcgaggtataccttaagccgtacttcctg
+            gaagcgtatcgacccatccggaaaggagacatttttcttgtccgtggtgggatgcgtgct
+            gtggagttcaaagtggtggaaacagatcctagcccttattgcattgttgctccagacaca
+            gtgatccactgcgaaggggagcctatcaaacgagaggatgaggaagagtccttgaatgaa
+            gtagggtatgatgacattggtggctgcaggaagcagctagctcagataaaggagatggtg
+            gaactgcccctgagacatcctgccctctttaaggcaattggtgtgaagcctcctagagga
+            atcctgctttacggacctcctggaacaggaaagaccctgattgctcgagctgtagcaaat
+            gagactggagccttcttcttcttgatcaatggtcctgagatcatgagcaaattggctggt
+            gagtctgagagcaaccttcgtaaagcctttgaggaggctgagaagaatgctcctgccatc
+            atcttcattgatgagctagatgccatcgctcccaaaagagagaaaactcatggcgaggtg
+            gagcggcgcattgtatcacagttgttgaccctcatggatggcctaaagcagagggcacat
+            gtgattgttatggcagcaaccaacagacccaacagcattgacccagctctacggcgattt
+            ggtcgctttgacagggaggtagatattggaattcctgatgctacaggacgcttagagatt
+            cttcagatccataccaagaacatgaagctggcagatgatgtggacctggaacaggtagcc
+            aatgagactcacgggcatgtgggtgctgacttagcagccctgtgctcagaggctgctctg
+            caagccatccgcaagaagatggatctcattgacctagaggatgagaccattgatgccgag
+            gtcatgaactctctagcagttactatggatgacttccggtgggccttgagccagagtaac
+            ccatcagcactgcgggaaaccgtggtagaggtgccacaggtaacctgggaagacatcggg
+            ggcctagaggatgtcaaacgtgagctacaggagctggtccagtatcctgtggagcaccca
+            gacaaattcctgaagtttggcatgacaccttccaagggagttctgttctatggacctcct
+            ggctgtgggaaaactttgttggccaaagccattgctaatgaatgccaggccaacttcatc
+            tccatcaagggtcctgagctgctcaccatgtggtttggggagtctgaggccaatgtcaga
+            gaaatctttgacaaggcccgccaagctgccccctgtgtgctattctttgatgagctggat
+            tcgattgccaaggctcgtggaggtaacattggagatggtggtggggctgctgaccgagtc
+            atcaaccagatcctgacagaaatggatggcatgtccacaaaaaaaaatgtgttcatcatt
+            ggcgctaccaaccggcctgacatcattgatcctgccatcctcagacctggccgtcttgat
+            cagctcatctacatcccacttcctgatgagaagtcccgtgttgccatcctcaaggctaac
+            ctgcgcaagtccccagttgccaaggatgtggacttggagttcctggctaaaatgactaat
+            ggcttctctggagctgacctgacagagatttgccagcgtgcttgcaagctggccatccgt
+            gaatccatcgagagtgagattaggcgagaacgagagaggcagacaaacccatcagccatg
+            gaggtagaagaggatgatccagtgcctgagatccgtcgagatcactttgaagaagccatg
+            cgctttgcgcgccgttctgtcagtgacaatgacattcggaagtatgagatgtttgcccag
+            acccttcagcagagtcggggctttggcagcttcagattcccttcagggaaccagggtgga
+            gctggccccagtcagggcagtggaggcggcacaggtggcagtgtatacacagaagacaat
+            gatgatgacctgtatggctaa
+///

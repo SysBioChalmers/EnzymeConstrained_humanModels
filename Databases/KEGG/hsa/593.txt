@@ -1,0 +1,71 @@
+ENTRY       593               CDS       T01001
+NAME        BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A
+DEFINITION  (RefSeq) branched chain keto acid dehydrogenase E1, alpha polypeptide
+ORTHOLOGY   K00166  2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+DISEASE     H00172  Maple syrup urine disease (MSUD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                593 (BCKDHA)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                593 (BCKDHA)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.4  With a disulfide as acceptor
+                1.2.4.4  3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+                 593 (BCKDHA)
+POSITION    19q13.2
+MOTIF       Pfam: E1_dh TPP_enzyme_C DXP_synthase_N
+DBLINKS     NCBI-GeneID: 593
+            NCBI-ProteinID: NP_000700
+            OMIM: 608348
+            HGNC: 986
+            Ensembl: ENSG00000248098
+            Vega: OTTHUMG00000168128
+            Pharos: P12694(Tbio)
+            UniProt: P12694 A0A024R0K3
+STRUCTURE   PDB: 2BFD 2BFF 1X7Y 2BFC 2BFE 1X7Z 1X7W 2BFB 2BEW 2BEV 1U5B
+                 1WCI 1OLS 2J9F 2BEU 1V11 1X80 1X7X 1OLX 1DTW 1V1R 1V1M
+                 1V16 1OLU
+AASEQ       445
+            MAVAIAAARVWRLNRGLSQAALLLLRQPGARGLARSHPPRQQQQFSSLDDKPQFPGASAE
+            FIDKLEFIQPNVISGIPIYRVMDRQGQIINPSEDPHLPKEKVLKLYKSMTLLNTMDRILY
+            ESQRQGRISFYMTNYGEEGTHVGSAAALDNTDLVFGQYREAGVLMYRDYPLELFMAQCYG
+            NISDLGKGRQMPVHYGCKERHFVTISSPLATQIPQAVGAAYAAKRANANRVVICYFGEGA
+            ASEGDAHAGFNFAATLECPIIFFCRNNGYAISTPTSEQYRGDGIAARGPGYGIMSIRVDG
+            NDVFAVYNATKEARRRAVAENQPFLIEAMTYRIGHHSTSDDSSAYRSVDEVNYWDKQDHP
+            ISRLRHYLLSQGWWDEEQEKAWRKQSRRKVMEAFEQAERKPKPNPNLLFSDVYQEMPAQL
+            RKQQESLARHLQTYGEHYPLDHFDK
+NTSEQ       1338
+            atggcggtagcgatcgctgcagcgagggtctggcggctaaaccgtggtttgagccaggct
+            gccctcctgctgctgcggcagcctggggctcggggactggctagatctcacccccccagg
+            cagcagcagcagttttcatctctggatgacaagccccagttcccaggggcctcggcggag
+            tttatagataagttggaattcatccagcccaacgtcatctctggaatccccatctaccgc
+            gtcatggaccggcaaggccagatcatcaaccccagcgaggacccccacctgccgaaggag
+            aaggtgctgaagctctacaagagcatgacactgcttaacaccatggaccgcatcctctat
+            gagtctcagcggcagggccggatctccttctacatgaccaactatggtgaggagggcacg
+            cacgtggggagtgccgccgccctggacaacacggacctggtgtttggccagtaccgggag
+            gcaggtgtgctgatgtatcgggactaccccctggaactattcatggcccagtgctatggc
+            aacatcagtgacttgggcaaggggcgccagatgcctgtccactacggctgcaaggaacgc
+            cacttcgtcactatctcctctccactggccacgcagatccctcaggcggtgggggcggcg
+            tacgcagccaagcgggccaatgccaacagggtcgtcatctgttacttcggcgagggggca
+            gccagtgagggggacgcccatgccggcttcaacttcgctgccacacttgagtgccccatc
+            atcttcttctgccggaacaatggctacgccatctccacgcccacctctgagcagtatcgc
+            ggcgatggcattgcagcacgaggccccgggtatggcatcatgtcaatccgcgtggatggt
+            aatgatgtgtttgccgtatacaacgccacaaaggaggcccgacggcgggctgtggcagag
+            aaccagcccttcctcatcgaggccatgacctacaggatcgggcaccacagcaccagtgac
+            gacagttcagcgtaccgctcggtggatgaggtcaattactgggataaacaggaccacccc
+            atctcccggctgcggcactatctgctgagccaaggctggtgggatgaggagcaggagaag
+            gcctggaggaagcagtcccgcaggaaggtgatggaggcctttgagcaggccgagcggaag
+            cccaaacccaaccccaacctactcttctcagacgtgtatcaggagatgcccgcccagctc
+            cgcaagcagcaggagtctctggcccgccacctgcagacctacggggagcactacccactg
+            gatcacttcgataagtga
+///

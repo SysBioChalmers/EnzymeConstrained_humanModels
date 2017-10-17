@@ -1,0 +1,51 @@
+ENTRY       2879              CDS       T01001
+NAME        GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx
+DEFINITION  (RefSeq) glutathione peroxidase 4
+ORTHOLOGY   K05361  phospholipid-hydroperoxide glutathione peroxidase [EC:1.11.1.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa04216  Ferroptosis
+DISEASE     H01825  Spondylometaphyseal dysplasia, Sedaghatian type (SMDS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2879 (GPX4)
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                2879 (GPX4)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.12  phospholipid-hydroperoxide glutathione peroxidase
+                 2879 (GPX4)
+POSITION    19p13.3
+MOTIF       Pfam: GSHPx AhpC-TSA
+DBLINKS     NCBI-GeneID: 2879
+            NCBI-ProteinID: NP_002076
+            OMIM: 138322
+            HGNC: 4556
+            Ensembl: ENSG00000167468
+            Vega: OTTHUMG00000181874
+            Pharos: P36969(Tbio)
+            UniProt: P36969
+STRUCTURE   PDB: 5H5Q 5H5R 2OBI 5H5S 2GS3
+AASEQ       197
+            MSLGRLCRLLKPALLCGALAAPGLAGTMCASRDDWRCARSMHEFSAKDIDGHMVNLDKYR
+            GFVCIVTNVASQUGKTEVNYTQLVDLHARYAECGLRILAFPCNQFGKQEPGSNEEIKEFA
+            AGYNVKFDMFSKICVNGDDAHPLWKWMKIQPKGKGILGNAIKWNFTKFLIDKNGCVVKRY
+            GPMEEPLVIEKDLPHYF
+NTSEQ       594
+            atgagcctcggccgcctttgccgcctactgaagccggcgctgctctgtggggctctggcc
+            gcgcctggcctggccgggaccatgtgcgcgtcccgggacgactggcgctgtgcgcgctcc
+            atgcacgagttttccgccaaggacatcgacgggcacatggttaacctggacaagtaccgg
+            ggcttcgtgtgcatcgtcaccaacgtggcctcccagtgaggcaagaccgaagtaaactac
+            actcagctcgtcgacctgcacgcccgatacgctgagtgtggtttgcggatcctggccttc
+            ccgtgtaaccagttcgggaagcaggagccagggagtaacgaagagatcaaagagttcgcc
+            gcgggctacaacgtcaaattcgatatgttcagcaagatctgcgtgaacggggacgacgcc
+            cacccgctgtggaagtggatgaagatccaacccaagggcaagggcatcctgggaaatgcc
+            atcaagtggaacttcaccaagttcctcatcgacaagaacggctgcgtggtgaagcgctac
+            ggacccatggaggagcccctggtgatagagaaggacctgccccactatttctag
+///

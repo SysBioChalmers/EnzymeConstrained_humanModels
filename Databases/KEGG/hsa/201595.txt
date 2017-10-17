@@ -1,0 +1,98 @@
+ENTRY       201595            CDS       T01001
+NAME        STT3B, CDG1X, SIMP, STT3-B
+DEFINITION  (RefSeq) STT3B, catalytic subunit of the oligosaccharyltransferase complex
+ORTHOLOGY   K07151  dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04141  Protein processing in endoplasmic reticulum
+MODULE      hsa_M00072  N-glycosylation by oligosaccharyltransferase
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                201595 (STT3B)
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                201595 (STT3B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.99  Transferring other glycosyl groups
+                2.4.99.18  dolichyl-diphosphooligosaccharide---protein glycotransferase
+                 201595 (STT3B)
+            Glycosyltransferases [BR:hsa01003]
+             N-Glycan biosynthesis
+              N-linked oligosaccharide
+               201595 (STT3B)
+POSITION    3p23
+MOTIF       Pfam: STT3
+DBLINKS     NCBI-GeneID: 201595
+            NCBI-ProteinID: NP_849193
+            OMIM: 608605
+            HGNC: 30611
+            Ensembl: ENSG00000163527
+            Vega: OTTHUMG00000130673
+            Pharos: Q8TCJ2(Tbio)
+            UniProt: Q8TCJ2
+AASEQ       826
+            MAEPSAPESKHKSSLNSSPWSGLMALGNSRHGHHGPGAQCAHKAAGGAAPPKPAPAGLSG
+            GLSQPAGWQSLLSFTILFLAWLAGFSSRLFAVIRFESIIHEFDPWFNYRSTHHLASHGFY
+            EFLNWFDERAWYPLGRIVGGTVYPGLMITAGLIHWILNTLNITVHIRDVCVFLAPTFSGL
+            TSISTFLLTRELWNQGAGLLAACFIAIVPGYISRSVAGSFDNEGIAIFALQFTYYLWVKS
+            VKTGSVFWTMCCCLSYFYMVSAWGGYVFIINLIPLHVFVLLLMQRYSKRVYIAYSTFYIV
+            GLILSMQIPFVGFQPIRTSEHMAAAGVFALLQAYAFLQYLRDRLTKQEFQTLFFLGVSLA
+            AGAVFLSVIYLTYTGYIAPWSGRFYSLWDTGYAKIHIPIIASVSEHQPTTWVSFFFDLHI
+            LVCTFPAGLWFCIKNINDERVFVALYAISAVYFAGVMVRLMLTLTPVVCMLSAIAFSNVF
+            EHYLGDDMKRENPPVEDSSDEDDKRNQGNLYDKAGKVRKHATEQEKTEEGLGPNIKSIVT
+            MLMLMLLMMFAVHCTWVTSNAYSSPSVVLASYNHDGTRNILDDFREAYFWLRQNTDEHAR
+            VMSWWDYGYQIAGMANRTTLVDNNTWNNSHIALVGKAMSSNETAAYKIMRTLDVDYVLVI
+            FGGVIGYSGDDINKFLWMVRIAEGEHPKDIRESDYFTPQGEFRVDKAGSPTLLNCLMYKM
+            SYYRFGEMQLDFRTPPGFDRTRNAEIGNKDIKFKHLEEAFTSEHWLVRIYKVKAPDNRET
+            LDHKPRVTNIFPKQKYLSKKTTKRKRGYIKNKLVFKKGKKISKKTV
+NTSEQ       2481
+            atggcggagccctcggccccggagagcaagcacaagtcgtccctcaactcgtccccgtgg
+            agtggcctcatggccctgggaaacagccggcacggccaccacgggcccggggcccagtgc
+            gcgcacaaggcggcgggcggcgcggcgccgccgaagccggccccggcggggctgtccggg
+            gggctgtcgcagccggctgggtggcagtcgcttctctccttcaccatcctcttcctggcc
+            tggcttgccggcttcagctcgcgcctcttcgccgtcatccgcttcgaaagcatcatccac
+            gagttcgacccgtggtttaactatagatcaacacatcatcttgcatctcatgggttctat
+            gaatttttaaattggtttgatgaaagagcatggtatccactaggaagaatagtaggtggt
+            actgtttacccagggttgatgataaccgctggccttattcattggattttaaatacattg
+            aacataactgttcacataagagacgtatgtgtgttccttgcaccaacttttagcggcctt
+            acatctatatctactttcctgcttacaagagaactttggaaccaaggagcaggactttta
+            gctgcttgttttattgctattgtaccaggctacatatctcggtcagtagctggatccttt
+            gataatgaaggcattgctatttttgcacttcagttcacatactatttatgggtaaaatct
+            gtaaaaactgggtcagttttttggacaatgtgctgctgcttatcctatttctatatggtc
+            tctgcttggggtggttatgtatttatcatcaatcttattccactgcatgtatttgtgttg
+            ttactgatgcagagatacagcaaaagagtctacatagcatatagcactttctacattgtg
+            ggtttaatattatcaatgcagataccttttgtgggattccagccaatcagaacaagtgaa
+            cacatggcagctgcaggtgtctttgcattgctgcaagcttatgctttcttgcagtatctg
+            agagaccgattaacaaaacaagagttccagacccttttctttttgggtgtatcactagct
+            gcaggtgctgtgttccttagtgtcatctatttgacttatacaggttacattgcaccatgg
+            agtggcaggttttattcattgtgggatactgggtatgcaaaaatacacattccaattatt
+            gcatcagtgtctgagcatcaacctacgacttgggtgtctttcttctttgatctacatatt
+            cttgtatgtaccttcccagcaggcctttggttctgcatcaaaaatatcaacgatgaaaga
+            gtatttgttgctctatatgcaatcagtgctgtctactttgctggagtgatggtgcgactg
+            atgttgactttgactccagtcgtgtgtatgctgtctgcaattgccttttcaaatgttttt
+            gagcactatttgggggatgacatgaaaagggaaaatccacctgtggaggacagcagtgat
+            gaggatgacaaaagaaaccaaggaaatttgtatgataaggcaggtaaagtgaggaaacat
+            gcaactgaacaggaaaaaactgaagagggattaggccctaatataaaaagcattgtcacc
+            atgttgatgctgatgctattgatgatgtttgctgtccactgtacctgggtcacaagcaat
+            gcctactctagtccaagtgtagtcctggcctcatacaatcatgatggcaccaggaatatc
+            ttagatgattttagagaagcttacttttggctaaggcaaaatacagatgaacatgcacga
+            gtaatgtcttggtgggattatggctatcagatagctggaatggctaatagaactacgttg
+            gtggataataacacctggaataacagccacatagcactggtgggaaaagctatgtcttct
+            aatgaaacagcagcctataaaatcatgaggactctagatgtagattatgttttggttatt
+            tttggaggggttattggctattctggtgatgatatcaacaaatttctctggatggttagg
+            atagctgaaggagaacatcccaaagacattcgggaaagtgactattttaccccacaggga
+            gaattccgtgtagacaaagcaggatcccctactttgttgaattgccttatgtataaaatg
+            tcatactacagatttggagaaatgcagctggattttcgtacacccccaggttttgaccga
+            acacgtaatgctgagattggaaataaggacattaaattcaaacatttggaagaagccttt
+            acatcagaacactggcttgttaggatatataaagtaaaagcacctgataacagggagaca
+            ttagatcacaaacctcgagtcaccaacattttcccaaaacagaagtatttgtcaaagaag
+            actaccaaaaggaagcgtggctacattaaaaataagctggtttttaagaaaggcaagaaa
+            atatctaagaagactgtttaa
+///

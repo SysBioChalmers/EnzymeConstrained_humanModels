@@ -1,0 +1,87 @@
+ENTRY       6469              CDS       T01001
+NAME        SHH, HHG1, HLP3, HPE3, MCOPCB5, SMMCI, TPT, TPTPS
+DEFINITION  (RefSeq) sonic hedgehog
+ORTHOLOGY   K11988  sonic hedgehog
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04340  Hedgehog signaling pathway
+            hsa04360  Axon guidance
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+MODULE      hsa_M00678  Hedgehog signaling
+DISEASE     H00039  Basal cell carcinoma
+            H00267  Holoprosencephaly (HPE)
+            H00652  Solitary median maxillary central incisor syndrome
+            H01027  Anophthalmia and microphthalmia (A/M)
+            H01160  Schizencephaly
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04340 Hedgehog signaling pathway
+                6469 (SHH)
+             Organismal Systems
+              Development
+               04360 Axon guidance
+                6469 (SHH)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6469 (SHH)
+               05205 Proteoglycans in cancer
+                6469 (SHH)
+               05217 Basal cell carcinoma
+                6469 (SHH)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C46: hedgehog family
+               6469 (SHH)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Morphogens	(General comment) Effective diffusion, tissue differentiation, development
+               6469 (SHH)
+POSITION    7q36.3
+MOTIF       Pfam: HH_signal Hint Peptidase_M15_3 Ribosomal_S6e
+DBLINKS     NCBI-GeneID: 6469
+            NCBI-ProteinID: NP_000184
+            OMIM: 600725
+            HGNC: 10848
+            Ensembl: ENSG00000164690
+            Vega: OTTHUMG00000151349
+            Pharos: Q15465(Tchem)
+            UniProt: Q15465
+STRUCTURE   PDB: 3MXW 3M1N 3HO5
+AASEQ       462
+            MLLLARCLLLVLVSSLLVCSGLACGPGRGFGKRRHPKKLTPLAYKQFIPNVAEKTLGASG
+            RYEGKISRNSERFKELTPNYNPDIIFKDEENTGADRLMTQRCKDKLNALAISVMNQWPGV
+            KLRVTEGWDEDGHHSEESLHYEGRAVDITTSDRDRSKYGMLARLAVEAGFDWVYYESKAH
+            IHCSVKAENSVAAKSGGCFPGSATVHLEQGGTKLVKDLSPGDRVLAADDQGRLLYSDFLT
+            FLDRDDGAKKVFYVIETREPRERLLLTAAHLLFVAPHNDSATGEPEASSGSGPPSGGALG
+            PRALFASRVRPGQRVYVVAERDGDRRLLPAAVHSVTLSEEAAGAYAPLTAQGTILINRVL
+            ASCYAVIEEHSWAHRAFAPFRLAHALLAALAPARTDRGGDSGGGDRGGGGGRVALTAPGA
+            ADAPGAGATAGIHWYSQLLYQIGTWLLDSEALHPLGMAVKSS
+NTSEQ       1389
+            atgctgctgctggcgagatgtctgctgctagtcctcgtctcctcgctgctggtatgctcg
+            ggactggcgtgcggaccgggcagggggttcgggaagaggaggcaccccaaaaagctgacc
+            cctttagcctacaagcagtttatccccaatgtggccgagaagaccctaggcgccagcgga
+            aggtatgaagggaagatctccagaaactccgagcgatttaaggaactcacccccaattac
+            aaccccgacatcatatttaaggatgaagaaaacaccggagcggacaggctgatgactcag
+            aggtgtaaggacaagttgaacgctttggccatctcggtgatgaaccagtggccaggagtg
+            aaactgcgggtgaccgagggctgggacgaagatggccaccactcagaggagtctctgcac
+            tacgagggccgcgcagtggacatcaccacgtctgaccgcgaccgcagcaagtacggcatg
+            ctggcccgcctggcggtggaggccggcttcgactgggtgtactacgagtccaaggcacat
+            atccactgctcggtgaaagcagagaactcggtggcggccaaatcgggaggctgcttcccg
+            ggctcggccacggtgcacctggagcagggcggcaccaagctggtgaaggacctgagcccc
+            ggggaccgcgtgctggcggcggacgaccagggccggctgctctacagcgacttcctcact
+            ttcctggaccgcgacgacggcgccaagaaggtcttctacgtgatcgagacgcgggagccg
+            cgcgagcgcctgctgctcaccgccgcgcacctgctctttgtggcgccgcacaacgactcg
+            gccaccggggagcccgaggcgtcctcgggctcggggccgccttccgggggcgcactgggg
+            cctcgggcgctgttcgccagccgcgtgcgcccgggccagcgcgtgtacgtggtggccgag
+            cgtgacggggaccgccggctcctgcccgccgctgtgcacagcgtgaccctaagcgaggag
+            gccgcgggcgcctacgcgccgctcacggcccagggcaccattctcatcaaccgggtgctg
+            gcctcgtgctacgcggtcatcgaggagcacagctgggcgcaccgggccttcgcgcccttc
+            cgcctggcgcacgcgctcctggctgcactggcgcccgcgcgcacggaccgcggcggggac
+            agcggcggcggggaccgcgggggcggcggcggcagagtagccctaaccgctccaggtgct
+            gccgacgctccgggtgcgggggccaccgcgggcatccactggtactcgcagctgctctac
+            caaataggcacctggctcctggacagcgaggccctgcacccgctgggcatggcggtcaag
+            tccagctga
+///

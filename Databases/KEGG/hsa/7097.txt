@@ -1,0 +1,151 @@
+ENTRY       7097              CDS       T01001
+NAME        TLR2, CD282, TIL4
+DEFINITION  (RefSeq) toll like receptor 2
+ORTHOLOGY   K10159  toll-like receptor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05168  Herpes simplex infection
+            hsa05205  Proteoglycans in cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00344  Leprosy
+            H01358  Atopic dermatitis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04151 PI3K-Akt signaling pathway
+                7097 (TLR2)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                7097 (TLR2)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                7097 (TLR2)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                7097 (TLR2)
+              Immune diseases
+               05323 Rheumatoid arthritis
+                7097 (TLR2)
+               05321 Inflammatiory bowel disease (IBD)
+                7097 (TLR2)
+              Infectious diseases
+               05134 Legionellosis
+                7097 (TLR2)
+               05152 Tuberculosis
+                7097 (TLR2)
+               05162 Measles
+                7097 (TLR2)
+               05161 Hepatitis B
+                7097 (TLR2)
+               05168 Herpes simplex infection
+                7097 (TLR2)
+               05146 Amoebiasis
+                7097 (TLR2)
+               05144 Malaria
+                7097 (TLR2)
+               05145 Toxoplasmosis
+                7097 (TLR2)
+               05140 Leishmaniasis
+                7097 (TLR2)
+               05142 Chagas disease (American trypanosomiasis)
+                7097 (TLR2)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Toll-like receptors
+                7097 (TLR2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of breast milk
+               7097 (TLR2)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7097 (TLR2)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Hyaluronan
+              Cell surface receptors
+               7097 (TLR2)
+POSITION    4q31.3
+MOTIF       Pfam: LRR_8 TIR LRR_4 TIR_2 LRR_9 LRR_5 LRR_1 LRRCT DUF1863
+DBLINKS     NCBI-GeneID: 7097
+            NCBI-ProteinID: NP_001305718
+            OMIM: 603028
+            HGNC: 11848
+            Ensembl: ENSG00000137462
+            Vega: OTTHUMG00000161525
+            Pharos: O60603(Tchem)
+            UniProt: O60603 B3KWR9 A0A0S2Z4S4
+STRUCTURE   PDB: 1FYX 1FYW 1O77
+AASEQ       784
+            MPHTLWMVWVLGVIISLSKEESSNQASLSCDRNGICKGSSGSLNSIPSGLTEAVKSLDLS
+            NNRITYISNSDLQRCVNLQALVLTSNGINTIEEDSFSSLGSLEHLDLSYNYLSNLSSSWF
+            KPLSSLTFLNLLGNPYKTLGETSLFSHLTKLQILRVGNMDTFTKIQRKDFAGLTFLEELE
+            IDASDLQSYEPKSLKSIQNVSHLILHMKQHILLLEIFVDVTSSVECLELRDTDLDTFHFS
+            ELSTGETNSLIKKFTFRNVKITDESLFQVMKLLNQISGLLELEFDDCTLNGVGNFRASDN
+            DRVIDPGKVETLTIRRLHIPRFYLFYDLSTLYSLTERVKRITVENSKVFLVPCLLSQHLK
+            SLEYLDLSENLMVEEYLKNSACEDAWPSLQTLILRQNHLASLEKTGETLLTLKNLTNIDI
+            SKNSFHSMPETCQWPEKMKYLNLSSTRIHSVTGCIPKTLEILDVSNNNLNLFSLNLPQLK
+            ELYISRNKLMTLPDASLLPMLLVLKISRNAITTFSKEQLDSFHTLKTLEAGGNNFICSCE
+            FLSFTQEQQALAKVLIDWPANYLCDSPSHVRGQQVQDVRLSVSECHRTALVSGMCCALFL
+            LILLTGVLCHRFHGLWYMKMMWAWLQAKRKPRKAPSRNICYDAFVSYSERDAYWVENLMV
+            QELENFNPPFKLCLHKRDFIPGKWIIDNIIDSIEKSHKTVFVLSENFVKSEWCKYELDFS
+            HFRLFDENNDAAILILLEPIEKKAIPQRFCKLRKIMNTKTYLEWPMDEAQREGFWVNLRA
+            AIKS
+NTSEQ       2355
+            atgccacatactttgtggatggtgtgggtcttgggggtcatcatcagcctctccaaggaa
+            gaatcctccaatcaggcttctctgtcttgtgaccgcaatggtatctgcaagggcagctca
+            ggatctttaaactccattccctcagggctcacagaagctgtaaaaagccttgacctgtcc
+            aacaacaggatcacctacattagcaacagtgacctacagaggtgtgtgaacctccaggct
+            ctggtgctgacatccaatggaattaacacaatagaggaagattctttttcttccctgggc
+            agtcttgaacatttagacttatcctataattacttatctaatttatcgtcttcctggttc
+            aagcccctttcttctttaacattcttaaacttactgggaaatccttacaaaaccctaggg
+            gaaacatctcttttttctcatctcacaaaattgcaaatcctgagagtgggaaatatggac
+            accttcactaagattcaaagaaaagattttgctggacttaccttccttgaggaacttgag
+            attgatgcttcagatctacagagctatgagccaaaaagtttgaagtcaattcagaatgta
+            agtcatctgatccttcatatgaagcagcatattttactgctggagatttttgtagatgtt
+            acaagttccgtggaatgtttggaactgcgagatactgatttggacactttccatttttca
+            gaactatccactggtgaaacaaattcattgattaaaaagtttacatttagaaatgtgaaa
+            atcaccgatgaaagtttgtttcaggttatgaaacttttgaatcagatttctggattgtta
+            gaattagagtttgatgactgtacccttaatggagttggtaattttagagcatctgataat
+            gacagagttatagatccaggtaaagtggaaacgttaacaatccggaggctgcatattcca
+            aggttttacttattttatgatctgagcactttatattcacttacagaaagagttaaaaga
+            atcacagtagaaaacagtaaagtttttctggttccttgtttactttcacaacatttaaaa
+            tcattagaatacttggatctcagtgaaaatttgatggttgaagaatacttgaaaaattca
+            gcctgtgaggatgcctggccctctctacaaactttaattttaaggcaaaatcatttggca
+            tcattggaaaaaaccggagagactttgctcactctgaaaaacttgactaacattgatatc
+            agtaagaatagttttcattctatgcctgaaacttgtcagtggccagaaaagatgaaatat
+            ttgaacttatccagcacacgaatacacagtgtaacaggctgcattcccaagacactggaa
+            attttagatgttagcaacaacaatctcaatttattttctttgaatttgccgcaactcaaa
+            gaactttatatttccagaaataagttgatgactctaccagatgcctccctcttacccatg
+            ttactagtattgaaaatcagtaggaatgcaataactacgttttctaaggagcaacttgac
+            tcatttcacacactgaagactttggaagctggtggcaataacttcatttgctcctgtgaa
+            ttcctctccttcactcaggagcagcaagcactggccaaagtcttgattgattggccagca
+            aattacctgtgtgactctccatcccatgtgcgtggccagcaggttcaggatgtccgcctc
+            tcggtgtcggaatgtcacaggacagcactggtgtctggcatgtgctgtgctctgttcctg
+            ctgatcctgctcacgggggtcctgtgccaccgtttccatggcctgtggtatatgaaaatg
+            atgtgggcctggctccaggccaaaaggaagcccaggaaagctcccagcaggaacatctgc
+            tatgatgcatttgtttcttacagtgagcgggatgcctactgggtggagaaccttatggtc
+            caggagctggagaacttcaatccccccttcaagttgtgtcttcataagcgggacttcatt
+            cctggcaagtggatcattgacaatatcattgactccattgaaaagagccacaaaactgtc
+            tttgtgctttctgaaaactttgtgaagagtgagtggtgcaagtatgaactggacttctcc
+            catttccgtctttttgatgagaacaatgatgctgccattctcattcttctggagcccatt
+            gagaaaaaagccattccccagcgcttctgcaagctgcggaagataatgaacaccaagacc
+            tacctggagtggcccatggacgaggctcagcgggaaggattttgggtaaatctgagagct
+            gcgataaagtcctag
+///

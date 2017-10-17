@@ -1,0 +1,110 @@
+ENTRY       51433             CDS       T01001
+NAME        ANAPC5, APC5
+DEFINITION  (RefSeq) anaphase promoting complex subunit 5
+ORTHOLOGY   K03352  anaphase-promoting complex subunit 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04657  IL-17 signaling pathway
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                51433 (ANAPC5)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                51433 (ANAPC5)
+               04114 Oocyte meiosis
+                51433 (ANAPC5)
+             Organismal Systems
+              Immune system
+               04657 IL-17 signaling pathway
+                51433 (ANAPC5)
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                51433 (ANAPC5)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                51433 (ANAPC5)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 51433 (ANAPC5)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                51433 (ANAPC5)
+POSITION    12q24.31
+MOTIF       Pfam: ANAPC5 TPR_12 TPR_10 TPR_2 TPR_7 VP4_haemagglut
+DBLINKS     NCBI-GeneID: 51433
+            NCBI-ProteinID: NP_057321
+            OMIM: 606948
+            HGNC: 15713
+            Ensembl: ENSG00000089053
+            Vega: OTTHUMG00000169157
+            Pharos: Q9UJX4(Tbio)
+            UniProt: Q9UJX4
+STRUCTURE   PDB: 5G05 4UI9 5LCW 5G04 5A31 5KHU 5KHR 5L9T 5L9U
+AASEQ       755
+            MASVHESLYFNPMMTNGVVHANVFGIKDWVTPYKIAVLVLLNEMSRTGEGAVSLMERRRL
+            NQLLLPLLQGPDITLSKLYKLIEESCPQLANSVQIRIKLMAEGELKDMEQFFDDLSDSFS
+            GTEPEVHKTSVVGLFLRHMILAYSKLSFSQVFKLYTALQQYFQNGEKKTVEDADMELTSR
+            DEGERKMEKEELDVSVREEEVSCSGPLSQKQAEFFLSQQASLLKNDETKALTPASLQKEL
+            NNLLKFNPDFAEAHYLSYLNNLRVQDVFSSTHSLLHYFDRLILTGAESKSNGEEGYGRSL
+            RYAALNLAALHCRFGHYQQAELALQEAIRIAQESNDHVCLQHCLSWLYVLGQKRSDSYVL
+            LEHSVKKAVHFGLPYLASLGIQSLVQQRAFAGKTANKLMDALKDSDLLHWKHSLSELIDI
+            SIAQKTAIWRLYGRSTMALQQAQMLLSMNSLEAVNAGVQQNNTESFAVALCHLAELHAEQ
+            GCFAAASEVLKHLKERFPPNSQHAQLWMLCDQKIQFDRAMNDGKYHLADSLVTGITALNS
+            IEGVYRKAVVLQAQNQMSEAHKLLQKLLVHCQKLKNTEMVISVLLSVAELYWRSSSPTIA
+            LPMLLQALALSKEYRLQYLASETVLNLAFAQLILGIPEQALSLLHMAIEPILADGAILDK
+            GRAMFLVAKCQVASAASYDQPKKAEALEAAIENLNEAKNYFAKVDCKERIRDVVYFQARL
+            YHTLGKTQERNRCAMLFRQLHQELPSHGVPLINHL
+NTSEQ       2268
+            atggccagcgtccacgagagcctctacttcaatcccatgatgaccaatggggttgtgcac
+            gccaatgtgttcggcatcaaggactgggtgacgccgtacaagatcgcggtgctggtgctg
+            ctgaacgagatgagccgcacaggcgagggcgccgtcagcctcatggagcggcggaggctc
+            aaccagctgctcctgcccctgctgcagggcccagatattacactgtcaaaactttacaag
+            ttaattgaagagtcttgtccacagctggcaaattcagtgcagatcagaatcaaactgatg
+            gctgaaggcgagttgaaggatatggaacagttttttgatgacctttcagattctttctct
+            ggaactgaaccagaggttcacaaaacaagtgtagtaggtttgtttctgcgtcacatgatc
+            ttggcctacagtaagctttctttcagccaagtgtttaaactgtacactgcccttcagcag
+            tacttccagaatggtgagaaaaagacagtggaggatgctgatatggaactgaccagtaga
+            gatgagggtgaaagaaaaatggaaaaagaagaacttgatgtatctgtaagagaagaggag
+            gtatcttgcagtgggcctctgtcccaaaaacaagcagaattttttctttctcaacaggct
+            tctttgctaaagaatgatgagactaaggccctcactccagcttccttgcagaaggaatta
+            aacaatttgttgaaatttaatcctgattttgctgaagcgcattatctcagctacttaaac
+            aacctccgtgtccaagatgttttcagttcaacacacagtctcctccattattttgatcgt
+            ctgattcttaccggagccgaaagcaaaagtaatggggaagagggctatggccggagcttg
+            agatacgccgctctgaatcttgccgccctgcactgccgcttcggtcactatcaacaggca
+            gagctcgccctgcaggaggcaattaggattgcccaggagtccaacgatcacgtgtgtctc
+            cagcactgtttgagctggctttatgtgctggggcagaagagatccgatagctatgttctg
+            ctggagcattctgtgaagaaggcagtacattttgggttaccgtacctcgcctccctggga
+            atacagtcccttgttcaacagagagcttttgctgggaagacggcaaacaagctgatggat
+            gccctaaaggactccgacctcctgcactggaaacacagcctgtcagagctcatcgatatc
+            agcatcgcacagaaaacggccatctggaggctgtatggccgcagcaccatggcactgcaa
+            caggcccagatgttgctgagcatgaacagcctggaggcggtgaatgcgggcgtgcagcag
+            aacaacacagagtcctttgctgtcgcactctgccacctcgcagagctacacgcggagcag
+            ggctgttttgctgcagcttctgaagtgttaaagcacttgaaggaacgatttccgcctaat
+            agtcagcacgcccagttatggatgctatgtgatcaaaaaatacagtttgacagagcaatg
+            aatgatggcaaatatcatttggctgattcacttgttacaggaatcacagctctcaatagc
+            atagagggtgtttataggaaagcggttgtattacaagctcagaaccaaatgtcagaggca
+            cataagcttttacaaaaattgttggttcattgtcagaaactgaagaacacagaaatggtg
+            atcagtgtcctactgtccgtggcagagctgtactggcgatcttcctcccctaccatcgcg
+            ctgcccatgctcctgcaggctctggccctctccaaggagtaccggttacagtacttggcc
+            tctgaaacagtgctgaacttggcttttgcgcagctcattcttggaatcccagaacaggcc
+            ttaagtcttctccacatggccatcgagcccatcttggctgacggggctatcctggacaaa
+            ggtcgtgccatgttcttagtggccaagtgccaggtggcttcagcagcttcctacgatcag
+            ccgaagaaagcagaagctctggaggctgccatcgagaacctcaatgaagccaagaactat
+            tttgcaaaggttgactgcaaagagcgcatcagggacgtcgtttacttccaggccagactc
+            taccataccctggggaagacccaggagaggaaccggtgtgcgatgctcttccggcagctg
+            catcaggagctgccctctcatggggtacccttgataaaccatctctag
+///

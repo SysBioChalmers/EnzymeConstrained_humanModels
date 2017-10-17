@@ -1,0 +1,107 @@
+ENTRY       3554              CDS       T01001
+NAME        IL1R1, CD121A, D2S1473, IL-1R-alpha, IL1R, IL1RA, P80
+DEFINITION  (RefSeq) interleukin 1 receptor type 1
+ORTHOLOGY   K04386  interleukin 1 receptor type I
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04640  Hematopoietic cell lineage
+            hsa04659  Th17 cell differentiation
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa05146  Amoebiasis
+            hsa05166  HTLV-I infection
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H01492  Systemic sclerosis
+DRUG_TARGET Anakinra: D02934
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                3554 (IL1R1)
+               04064 NF-kappa B signaling pathway
+                3554 (IL1R1)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3554 (IL1R1)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3554 (IL1R1)
+               04659 Th17 cell differentiation
+                3554 (IL1R1)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                3554 (IL1R1)
+              Development
+               04380 Osteoclast differentiation
+                3554 (IL1R1)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3554 (IL1R1)
+              Infectious diseases
+               05166 HTLV-I infection
+                3554 (IL1R1)
+               05146 Amoebiasis
+                3554 (IL1R1)
+            Cytokine receptors [BR:hsa04050]
+             IL-1 receptor family
+              3554 (IL1R1)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3554 (IL1R1)
+POSITION    2q11.2-q12.1
+MOTIF       Pfam: TIR Ig_3 I-set Ig_2 ig Ig_5
+DBLINKS     NCBI-GeneID: 3554
+            NCBI-ProteinID: NP_000868
+            OMIM: 147810
+            HGNC: 5993
+            Ensembl: ENSG00000115594
+            Vega: OTTHUMG00000130783
+            Pharos: P14778(Tclin)
+            UniProt: P14778
+STRUCTURE   PDB: 4GAF 1ITB 1IRA 1G0Y 4DEP
+AASEQ       569
+            MKVLLRLICFIALLISSLEADKCKEREEKIILVSSANEIDVRPCPLNPNEHKGTITWYKD
+            DSKTPVSTEQASRIHQHKEKLWFVPAKVEDSGHYYCVVRNSSYCLRIKISAKFVENEPNL
+            CYNAQAIFKQKLPVAGDGGLVCPYMEFFKNENNELPKLQWYKDCKPLLLDNIHFSGVKDR
+            LIVMNVAEKHRGNYTCHASYTYLGKQYPITRVIEFITLEENKPTRPVIVSPANETMEVDL
+            GSQIQLICNVTGQLSDIAYWKWNGSVIDEDDPVLGEDYYSVENPANKRRSTLITVLNISE
+            IESRFYKHPFTCFAKNTHGIDAAYIQLIYPVTNFQKHMIGICVTLTVIIVCSVFIYKIFK
+            IDIVLWYRDSCYDFLPIKASDGKTYDAYILYPKTVGEGSTSDCDIFVFKVLPEVLEKQCG
+            YKLFIYGRDDYVGEDIVEVINENVKKSRRLIIILVRETSGFSWLGGSSEEQIAMYNALVQ
+            DGIKVVLLELEKIQDYEKMPESIKFIKQKHGAIRWSGDFTQGPQSAKTRFWKNVRYHMPV
+            QRRSPSSKHQLLSPATKEKLQREAHVPLG
+NTSEQ       1710
+            atgaaagtgttactcagacttatttgtttcatagctctactgatttcttctctggaggct
+            gataaatgcaaggaacgtgaagaaaaaataattttagtgtcatctgcaaatgaaattgat
+            gttcgtccctgtcctcttaacccaaatgaacacaaaggcactataacttggtataaagat
+            gacagcaagacacctgtatctacagaacaagcctccaggattcatcaacacaaagagaaa
+            ctttggtttgttcctgctaaggtggaggattcaggacattactattgcgtggtaagaaat
+            tcatcttactgcctcagaattaaaataagtgcaaaatttgtggagaatgagcctaactta
+            tgttataatgcacaagccatatttaagcagaaactacccgttgcaggagacggaggactt
+            gtgtgcccttatatggagttttttaaaaatgaaaataatgagttacctaaattacagtgg
+            tataaggattgcaaacctctacttcttgacaatatacactttagtggagtcaaagatagg
+            ctcatcgtgatgaatgtggctgaaaagcatagagggaactatacttgtcatgcatcctac
+            acatacttgggcaagcaatatcctattacccgggtaatagaatttattactctagaggaa
+            aacaaacccacaaggcctgtgattgtgagcccagctaatgagacaatggaagtagacttg
+            ggatcccagatacaattgatctgtaatgtcaccggccagttgagtgacattgcttactgg
+            aagtggaatgggtcagtaattgatgaagatgacccagtgctaggggaagactattacagt
+            gtggaaaatcctgcaaacaaaagaaggagtaccctcatcacagtgcttaatatatcggaa
+            attgaaagtagattttataaacatccatttacctgttttgccaagaatacacatggtata
+            gatgcagcatatatccagttaatatatccagtcactaatttccagaagcacatgattggt
+            atatgtgtcacgttgacagtcataattgtgtgttctgttttcatctataaaatcttcaag
+            attgacattgtgctttggtacagggattcctgctatgattttctcccaataaaagcttca
+            gatggaaagacctatgacgcatatatactgtatccaaagactgttggggaagggtctacc
+            tctgactgtgatatttttgtgtttaaagtcttgcctgaggtcttggaaaaacagtgtgga
+            tataagctgttcatttatggaagggatgactacgttggggaagacattgttgaggtcatt
+            aatgaaaacgtaaagaaaagcagaagactgattatcattttagtcagagaaacatcaggc
+            ttcagctggctgggtggttcatctgaagagcaaatagccatgtataatgctcttgttcag
+            gatggaattaaagttgtcctgcttgagctggagaaaatccaagactatgagaaaatgcca
+            gaatcgattaaattcattaagcagaaacatggggctatccgctggtcaggggactttaca
+            cagggaccacagtctgcaaagacaaggttctggaagaatgtcaggtaccacatgccagtc
+            cagcgacggtcaccttcatctaaacaccagttactgtcaccagccactaaggagaaactg
+            caaagagaggctcacgtgcctctcgggtag
+///

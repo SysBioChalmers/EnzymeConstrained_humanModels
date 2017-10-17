@@ -1,0 +1,85 @@
+ENTRY       6523              CDS       T01001
+NAME        SLC5A1, D22S675, NAGT, SGLT1
+DEFINITION  (RefSeq) solute carrier family 5 member 1
+ORTHOLOGY   K14158  solute carrier family 5 (sodium/glucose cotransporter), member 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04973  Carbohydrate digestion and absorption
+            hsa04976  Bile secretion
+            hsa04978  Mineral absorption
+DISEASE     H01261  Congenital glucose-galactose malabsorption (GGM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Digestive system
+               04976 Bile secretion
+                6523 (SLC5A1)
+               04973 Carbohydrate digestion and absorption
+                6523 (SLC5A1)
+               04978 Mineral absorption
+                6523 (SLC5A1)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC5: Sodium glucose cotransporter
+               6523 (SLC5A1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               6523 (SLC5A1)
+POSITION    22q12.3
+MOTIF       Pfam: SSF TadF
+DBLINKS     NCBI-GeneID: 6523
+            NCBI-ProteinID: NP_000334
+            OMIM: 182380
+            HGNC: 11036
+            Ensembl: ENSG00000100170
+            Vega: OTTHUMG00000030768
+            Pharos: P13866(Tchem)
+            UniProt: P13866
+AASEQ       664
+            MDSSTWSPKTTAVTRPVETHELIRNAADISIIVIYFVVVMAVGLWAMFSTNRGTVGGFFL
+            AGRSMVWWPIGASLFASNIGSGHFVGLAGTGAASGIAIGGFEWNALVLVVVLGWLFVPIY
+            IKAGVVTMPEYLRKRFGGQRIQVYLSLLSLLLYIFTKISADIFSGAIFINLALGLNLYLA
+            IFLLLAITALYTITGGLAAVIYTDTLQTVIMLVGSLILTGFAFHEVGGYDAFMEKYMKAI
+            PTIVSDGNTTFQEKCYTPRADSFHIFRDPLTGDLPWPGFIFGMSILTLWYWCTDQVIVQR
+            CLSAKNMSHVKGGCILCGYLKLMPMFIMVMPGMISRILYTEKIACVVPSECEKYCGTKVG
+            CTNIAYPTLVVELMPNGLRGLMLSVMLASLMSSLTSIFNSASTLFTMDIYAKVRKRASEK
+            ELMIAGRLFILVLIGISIAWVPIVQSAQSGQLFDYIQSITSYLGPPIAAVFLLAIFWKRV
+            NEPGAFWGLILGLLIGISRMITEFAYGTGSCMEPSNCPTIICGVHYLYFAIILFAISFIT
+            IVVISLLTKPIPDVHLYRLCWSLRNSKEERIDLDAEEENIQEGPKETIEIETQVPEKKKG
+            IFRRAYDLFCGLEQHGAPKMTEEEEKAMKMKMTDTSEKPLWRTVLNVNGIILVTVAVFCH
+            AYFA
+NTSEQ       1995
+            atggacagtagcacctggagccccaagaccaccgcggtcacccggcctgttgagacccac
+            gagctcattcgcaatgcagccgatatctccatcatcgttatctacttcgtggtagtgatg
+            gccgtcggactgtgggctatgttttccaccaatcgtgggactgttggaggcttcttcctg
+            gcaggccgaagtatggtgtggtggccgattggagcctccctctttgctagtaacattgga
+            agtggccactttgtggggctggccgggactggggcagcttcaggcatcgccattggaggc
+            tttgaatggaatgccctggttttggtggttgtgctgggctggctgtttgtccccatctat
+            attaaggctggggtggtgacaatgccagagtacctgaggaagcggtttggaggccagcgg
+            atccaggtctacctttcccttctgtccctgctgctctacattttcaccaagatctcggca
+            gacatcttctcgggggccatattcatcaatctggccttaggcctgaatctgtatttagcc
+            atctttctcttattggcaatcactgccctttacacaattacagggggcctggcggcggtg
+            atttacacggacaccttgcagacggtgatcatgctggtggggtctttaatcctgactggg
+            tttgcttttcacgaagtgggaggctatgacgccttcatggaaaagtacatgaaagccatt
+            ccaaccatagtgtctgatggcaacaccacctttcaggaaaaatgctacactccaagggcc
+            gactccttccacatcttccgagatcccctcacgggagacctcccatggcctgggttcatc
+            tttgggatgtccatccttaccttgtggtactggtgcacagatcaggtcattgtgcagcgc
+            tgcctctcagccaagaatatgtctcacgtgaagggtggctgcatcctgtgtgggtatcta
+            aagctgatgcccatgttcatcatggtgatgccaggaatgatcagccgcattctgtacaca
+            gaaaaaattgcctgtgtcgtcccttcagaatgtgagaaatattgcggtaccaaggttggc
+            tgtaccaacatcgcctatccaaccttagtggtggagctcatgcccaatggactgcgaggc
+            ctgatgctatcagtcatgctggcctccctcatgagctccctgacctccatcttcaacagc
+            gccagcaccctcttcaccatggacatctacgccaaggtccgcaagagagcatctgagaaa
+            gagctcatgattgccggaaggttgtttatcctggtgctgattggcatcagcatcgcctgg
+            gtgcccattgtgcagtcagcacaaagtgggcaactcttcgattacatccagtccatcacc
+            agttacttgggaccacccattgcggctgtcttcctgcttgctattttctggaagagagtc
+            aatgagccaggagccttttggggactgatcctaggacttctgattgggatttcacgtatg
+            attactgagtttgcttatggaaccgggagctgcatggagcccagcaactgtcccacgatt
+            atctgtggggtgcactacttgtactttgccattatcctcttcgccatttctttcatcacc
+            atcgtggtcatctccctcctcaccaaacccattccggatgtgcatctctaccgtctgtgt
+            tggagcctgcgcaacagcaaagaggagcgtattgacctggatgcggaagaggagaacatc
+            caagaaggccctaaggagaccattgaaatagaaacacaagttcctgagaagaaaaaagga
+            atcttcaggagagcctatgacctattttgtgggctagagcagcacggtgcacccaagatg
+            actgaggaagaggagaaagccatgaagatgaagatgacggacacctctgagaagcctttg
+            tggaggacagtgttgaacgtcaatggcatcatcctggtgaccgtggctgtcttttgccat
+            gcatattttgcctga
+///

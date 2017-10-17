@@ -1,0 +1,54 @@
+ENTRY       2882              CDS       T01001
+NAME        GPX7, CL683, GPX6, GPx-7, GSHPx-7, NPGPx
+DEFINITION  (RefSeq) glutathione peroxidase 7
+ORTHOLOGY   K00432  glutathione peroxidase [EC:1.11.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa04918  Thyroid hormone synthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00590 Arachidonic acid metabolism
+                2882 (GPX7)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2882 (GPX7)
+             Organismal Systems
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                2882 (GPX7)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.9  glutathione peroxidase
+                 2882 (GPX7)
+POSITION    1p32.3
+MOTIF       Pfam: GSHPx AhpC-TSA SCO1-SenC Acyl-CoA_dh_C
+DBLINKS     NCBI-GeneID: 2882
+            NCBI-ProteinID: NP_056511
+            OMIM: 615784
+            HGNC: 4559
+            Ensembl: ENSG00000116157
+            Vega: OTTHUMG00000008322
+            Pharos: Q96SL4(Tbio)
+            UniProt: Q96SL4
+STRUCTURE   PDB: 2P31
+AASEQ       187
+            MVAATVAAAWLLLWAAACAQQEQDFYDFKAVNIRGKLVSLEKYRGSVSLVVNVASECGFT
+            DQHYRALQQLQRDLGPHHFNVLAFPCNQFGQQEPDSNKEIESFARRTYSVSFPMFSKIAV
+            TGTGAHPAFKYLAQTSGKEPTWNFWKYLVAPDGKVVGAWDPTVSVEEVRPQITALVRKLI
+            LLKREDL
+NTSEQ       564
+            atggtggcggcgacggtggcagcggcgtggctgctcctgtgggctgcggcctgcgcgcag
+            caggagcaggacttctacgacttcaaggcggtcaacatccggggcaaactggtgtcgctg
+            gagaagtaccgcggatcggtgtccctggtggtgaatgtggccagcgagtgcggcttcaca
+            gaccagcactaccgagccctgcagcagctgcagcgagacctgggcccccaccactttaac
+            gtgctcgccttcccctgcaaccagtttggccaacaggagcctgacagcaacaaggagatt
+            gagagctttgcccgccgcacctacagtgtctcattccccatgtttagcaagattgcagtc
+            accggtactggtgcccatcctgccttcaagtacctggcccagacttctgggaaggagccc
+            acctggaacttctggaagtacctagtagccccagatggaaaggtggtaggggcttgggac
+            ccaactgtgtcagtggaggaggtcagaccccagatcacagcgctcgtgaggaagctcatc
+            ctactgaagcgagaagacttataa
+///

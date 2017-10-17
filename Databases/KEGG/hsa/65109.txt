@@ -1,0 +1,73 @@
+ENTRY       65109             CDS       T01001
+NAME        UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X
+DEFINITION  (RefSeq) UPF3B, regulator of nonsense mediated mRNA decay
+ORTHOLOGY   K14328  regulator of nonsense transcripts 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+MODULE      hsa_M00430  Exon junction complex (EJC)
+DISEASE     H00658  Syndromic X-linked mental retardation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                65109 (UPF3B)
+               03015 mRNA surveillance pathway
+                65109 (UPF3B)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Surveillance factors
+                Surveillance complex
+                 65109 (UPF3B)
+               mRNA cycle factors
+                P-body specific factors
+                 65109 (UPF3B)
+POSITION    Xq24
+MOTIF       Pfam: Smg4_UPF3 RRM_1
+DBLINKS     NCBI-GeneID: 65109
+            NCBI-ProteinID: NP_542199
+            OMIM: 300298
+            HGNC: 20439
+            Ensembl: ENSG00000125351
+            Vega: OTTHUMG00000022282
+            Pharos: Q9BZI7(Tbio)
+            UniProt: Q9BZI7
+STRUCTURE   PDB: 1UW4 2XB2
+AASEQ       483
+            MKEEKEHRPKEKRVTLLTPAGATGSGGGTSGDSSKGEDKQDRNKEKKEALSKVVIRRLPP
+            TLTKEQLQEHLQPMPEHDYFEFFSNDTSLYPHMYARAYINFKNQEDIILFRDRFDGYVFL
+            DNKGQEYPAIVEFAPFQKAAKKKTKKRDTKVGTIDDDPEYRKFLESYATDNEKMTSTPET
+            LLEEIEAKNRELIAKKTTPLLSFLKNKQRMREEKREERRRREIERKRQREEERRKWKEEE
+            KRKRKDIEKLKKIDRIPERDKLKDEPKIKVHRFLLQAVNQKNLLKKPEKGDEKELDKREK
+            AKKLDKENLSDERASGQSCTLPKRSDSELKDEKPKRPEDESGRDYREREREYERDQERIL
+            RERERLKRQEEERRRQKERYEKEKTFKRKEEEMKKEKDTLRDKGKKAESTESIGSSEKTE
+            KKEEVVKRDRIRNKDRPAMQLYQPGARSRNRLCPPDDSTKSGDSAAERKQESGISHRKEG
+            GEE
+NTSEQ       1452
+            atgaaggaagagaaggagcacaggcctaaggagaagcgagtaaccctgttaacccccgcc
+            ggggccacaggcagcggtggtgggacctcgggggacagctccaagggggaagataagcag
+            gatcgcaacaaggagaagaaagaagcgctgagcaaggtggtaattcgaagattacctccc
+            actttgaccaaggagcagcttcaggaacatcttcaacctatgcctgagcatgattatttt
+            gagtttttttctaatgatacgagtttgtatcctcatatgtatgccagagcatacatcaac
+            tttaaaaaccaagaggacattattttgttcagggatcgctttgatggttatgtattcctt
+            gacaataaaggtcaggaatatcccgctatagtagaatttgcaccttttcaaaaagctgca
+            aaaaagaagactaagaaaagagataccaaagtcgggactatcgatgatgatccagaatat
+            agaaagtttttggaaagttatgccacagataatgagaaaatgacatctactccagagaca
+            ctgctagaggaaatagaagcaaaaaatagagaattaatagctaaaaagacaaccccactt
+            ttgagcttcctgaaaaacaagcagagaatgagagaagaaaagagagaagaaaggaggagg
+            agagaaatagaaagaaaaagacaaagagaagaagagaggaggaaatggaaagaagaagag
+            aaacgaaaaaggaaagatatagaaaagctaaagaagatagacagaattccagaaagggac
+            aaattaaaggatgaaccaaagattaaggtacacaggtttctgttacaagctgtgaatcag
+            aaaaatctgctcaagaagccagaaaaaggagatgaaaaagaattggacaaaagagaaaaa
+            gccaagaaattggacaaagagaatctcagtgatgaaagagccagtgggcaaagttgtaca
+            ttgcccaagcgttctgatagcgaacttaaagatgaaaaaccaaagagacctgaagatgag
+            agcggcagagactatagggagagggaacgggaatatgaacgagatcaggagcgcatactt
+            cgagaaagagagaggctgaagcggcaagaagaagagcgccgtaggcagaaggagcgctat
+            gagaaagagaagacttttaagagaaaagaagaagaaatgaaaaaagagaaagacacactt
+            cgggataaaggaaagaaggctgaaagtacagaatcaataggcagctcagaaaaaactgaa
+            aagaaagaagaagtggtcaagagagatcgaataagaaacaaggatcgtccagcgatgcag
+            ctttaccaaccaggagctcgaagccgaaatcgactctgtccccctgatgacagcaccaag
+            tctggagattcagcagcagaaaggaagcaggaaagtggtattagccatagaaaagaagga
+            ggagaggagtga
+///

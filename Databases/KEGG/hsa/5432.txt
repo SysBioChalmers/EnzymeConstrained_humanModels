@@ -1,0 +1,76 @@
+ENTRY       5432              CDS       T01001
+NAME        POLR2C, RPB3, RPB31, hRPB33, hsRPB3
+DEFINITION  (RefSeq) RNA polymerase II subunit C
+ORTHOLOGY   K03011  DNA-directed RNA polymerase II subunit RPB3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa05016  Huntington's disease
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00180  RNA polymerase II, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5432 (POLR2C)
+               00240 Pyrimidine metabolism
+                5432 (POLR2C)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                5432 (POLR2C)
+             Human Diseases
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                5432 (POLR2C)
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                5432 (POLR2C)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               RNA polymerase II
+                Core subunits
+                 5432 (POLR2C)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase II complex
+                  5432 (POLR2C)
+POSITION    16q21
+MOTIF       Pfam: RNA_pol_A_bac RNA_pol_L
+DBLINKS     NCBI-GeneID: 5432
+            NCBI-ProteinID: NP_116558
+            OMIM: 180663
+            HGNC: 9189
+            Ensembl: ENSG00000102978
+            Vega: OTTHUMG00000133464
+            Pharos: P19387(Tbio)
+            UniProt: P19387 Q6FGR6
+STRUCTURE   PDB: 5IYB 5IYC 5IYD 5IYA 5IY9 5IY6 5IY8 5IY7
+AASEQ       275
+            MPYANQPTVRITELTDENVKFIIENTDLAVANSIRRVFIAEVPIIAIDWVQIDANSSVLH
+            DEFIAHRLGLIPLISDDIVDKLQYSRDCTCEEFCPECSVEFTLDVRCNEDQTRHVTSRDL
+            ISNSPRVIPVTSRNRDNDPNDYVEQDDILIVKLRKGQELRLRAYAKKGFGKEHAKWNPTA
+            GVAFEYDPDNALRHTVYPKPEEWPKSEYSELDEDESQAPYDPNGKPERFYYNVESCGSLR
+            PETIVLSALSGLKKKLSDLQTQLSHEIQSDVLTIN
+NTSEQ       828
+            atgccgtacgccaaccagcctaccgtgcggatcacggagctcactgacgagaatgtcaag
+            ttcatcatcgagaacaccgacctggcggtggccaattcgattcggagggtcttcatcgct
+            gaggttcccataatagccattgactgggttcagattgatgccaattcctcagttcttcat
+            gatgaattcattgctcacaggcttggattaattcccctcattagtgatgacattgtggac
+            aagctgcagtactctcgggactgcacatgtgaggagttctgccccgagtgctcggtggag
+            ttcaccctcgatgtgcggtgcaatgaagaccagacgcgacatgtcacgtctcgagacctc
+            atctccaacagcccccgggtcattccggtgacatcccggaaccgagataatgaccccaat
+            gactacgtggagcaggatgacatcctcatcgtcaagttgagaaagggccaggagctgaga
+            cttcgagcctatgccaaaaagggctttggcaaggagcatgccaagtggaaccctactgca
+            ggggtggcttttgaatacgatccagacaatgccctgaggcacacagtgtaccccaagccc
+            gaggaatggccaaagagtgagtactcggagctggatgaggatgagtcgcaggctccctat
+            gaccccaacggcaagccagaaaggttttactacaatgtggagtcctgtggctctctgcgt
+            cctgaaaccattgtcctgtcagccctctcaggattgaagaagaaactgagtgatttacaa
+            actcaattaagccacgagatccagagtgatgtgctaaccataaattaa
+///

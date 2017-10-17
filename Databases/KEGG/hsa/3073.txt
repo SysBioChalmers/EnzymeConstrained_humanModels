@@ -1,0 +1,93 @@
+ENTRY       3073              CDS       T01001
+NAME        HEXA, TSD
+DEFINITION  (RefSeq) hexosaminidase subunit alpha
+ORTHOLOGY   K12373  hexosaminidase [EC:3.2.1.52]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00511  Other glycan degradation
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa00531  Glycosaminoglycan degradation
+            hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            hsa00604  Glycosphingolipid biosynthesis - ganglio series
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+MODULE      hsa_M00079  Keratan sulfate degradation
+DISEASE     H00124  GM2 gangliosidoses
+            H00426  Defects in the degradation of ganglioside
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                3073 (HEXA)
+              Glycan biosynthesis and metabolism
+               00531 Glycosaminoglycan degradation
+                3073 (HEXA)
+               00603 Glycosphingolipid biosynthesis - globo and isoglobo series
+                3073 (HEXA)
+               00604 Glycosphingolipid biosynthesis - ganglio series
+                3073 (HEXA)
+               00511 Other glycan degradation
+                3073 (HEXA)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                3073 (HEXA)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.52  beta-N-acetylhexosaminidase
+                 3073 (HEXA)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Intramolecular chaperones
+              Others
+               3073 (HEXA)
+POSITION    15q23
+MOTIF       Pfam: Glyco_hydro_20 Glycohydro_20b2 Glyco_hydro_20b
+DBLINKS     NCBI-GeneID: 3073
+            NCBI-ProteinID: NP_000511
+            OMIM: 606869
+            HGNC: 4878
+            Ensembl: ENSG00000213614
+            Vega: OTTHUMG00000133445
+            Pharos: P06865(Tchem)
+            UniProt: P06865 A0A0S2Z3W3
+STRUCTURE   PDB: 2GJX 2GK1
+AASEQ       529
+            MTSSRLWFSLLLAAAFAGRATALWPWPQNFQTSDQRYVLYPNNFQFQYDVSSAAQPGCSV
+            LDEAFQRYRDLLFGSGSWPRPYLTGKRHTLEKNVLVVSVVTPGCNQLPTLESVENYTLTI
+            NDDQCLLLSETVWGALRGLETFSQLVWKSAEGTFFINKTEIEDFPRFPHRGLLLDTSRHY
+            LPLSSILDTLDVMAYNKLNVFHWHLVDDPSFPYESFTFPELMRKGSYNPVTHIYTAQDVK
+            EVIEYARLRGIRVLAEFDTPGHTLSWGPGIPGLLTPCYSGSEPSGTFGPVNPSLNNTYEF
+            MSTFFLEVSSVFPDFYLHLGGDEVDFTCWKSNPEIQDFMRKKGFGEDFKQLESFYIQTLL
+            DIVSSYGKGYVVWQEVFDNKVKIQPDTIIQVWREDIPVNYMKELELVTKAGFRALLSAPW
+            YLNRISYGPDWKDFYIVEPLAFEGTPEQKALVIGGEACMWGEYVDNTNLVPRLWPRAGAV
+            AERLWSNKLTSDLTFAYERLSHFRCELLRRGVQAQPLNVGFCEQEFEQT
+NTSEQ       1590
+            atgacaagctccaggctttggttttcgctgctgctggcggcagcgttcgcaggacgggcg
+            acggccctctggccctggcctcagaacttccaaacctccgaccagcgctacgtcctttac
+            ccgaacaactttcaattccagtacgatgtcagctcggccgcgcagcccggctgctcagtc
+            ctcgacgaggccttccagcgctatcgtgacctgcttttcggttccgggtcttggccccgt
+            ccttacctcacagggaaacggcatacactggagaagaatgtgttggttgtctctgtagtc
+            acacctggatgtaaccagcttcctactttggagtcagtggagaattataccctgaccata
+            aatgatgaccagtgtttactcctctctgagactgtctggggagctctccgaggtctggag
+            acttttagccagcttgtttggaaatctgctgagggcacattctttatcaacaagactgag
+            attgaggactttccccgctttcctcaccggggcttgctgttggatacatctcgccattac
+            ctgccactctctagcatcctggacactctggatgtcatggcgtacaataaattgaacgtg
+            ttccactggcatctggtagatgatccttccttcccatatgagagcttcacttttccagag
+            ctcatgagaaaggggtcctacaaccctgtcacccacatctacacagcacaggatgtgaag
+            gaggtcattgaatacgcacggctccggggtatccgtgtgcttgcagagtttgacactcct
+            ggccacactttgtcctggggaccaggtatccctggattactgactccttgctactctggg
+            tctgagccctctggcacctttggaccagtgaatcccagtctcaataatacctatgagttc
+            atgagcacattcttcttagaagtcagctctgtcttcccagatttttatcttcatcttgga
+            ggagatgaggttgatttcacctgctggaagtccaacccagagatccaggactttatgagg
+            aagaaaggcttcggtgaggacttcaagcagctggagtccttctacatccagacgctgctg
+            gacatcgtctcttcttatggcaagggctatgtggtgtggcaggaggtgtttgataataaa
+            gtaaagattcagccagacacaatcatacaggtgtggcgagaggatattccagtgaactat
+            atgaaggagctggaactggtcaccaaggccggcttccgggcccttctctctgccccctgg
+            tacctgaaccgtatatcctatggccctgactggaaggatttctacatagtggaacccctg
+            gcatttgaaggtacccctgagcagaaggctctggtgattggtggagaggcttgtatgtgg
+            ggagaatatgtggacaacacaaacctggtccccaggctctggcccagagcaggggctgtt
+            gccgaaaggctgtggagcaacaagttgacatctgacctgacatttgcctatgaacgtttg
+            tcacacttccgctgtgaattgctgaggcgaggtgtccaggcccaacccctcaatgtaggc
+            ttctgtgagcaggagtttgaacagacctga
+///

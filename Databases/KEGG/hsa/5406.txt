@@ -1,0 +1,77 @@
+ENTRY       5406              CDS       T01001
+NAME        PNLIP, PL, PNLIPD, PTL
+DEFINITION  (RefSeq) pancreatic lipase
+ORTHOLOGY   K14073  pancreatic triacylglycerol lipase [EC:3.1.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04972  Pancreatic secretion
+            hsa04975  Fat digestion and absorption
+            hsa04977  Vitamin digestion and absorption
+MODULE      hsa_M00098  Acylglycerol degradation
+DRUG_TARGET Orlistat: D04028
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                5406 (PNLIP)
+             Organismal Systems
+              Digestive system
+               04972 Pancreatic secretion
+                5406 (PNLIP)
+               04975 Fat digestion and absorption
+                5406 (PNLIP)
+               04977 Vitamin digestion and absorption
+                5406 (PNLIP)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.3  triacylglycerol lipase
+                 5406 (PNLIP)
+POSITION    10q25.3
+MOTIF       Pfam: Lipase PLAT Abhydrolase_6 Hydrolase_4 Abhydrolase_1 DUF900
+DBLINKS     NCBI-GeneID: 5406
+            NCBI-ProteinID: NP_000927
+            OMIM: 246600
+            HGNC: 9155
+            Ensembl: ENSG00000175535
+            Vega: OTTHUMG00000019103
+            Pharos: P16233(Tclin)
+            UniProt: P16233
+STRUCTURE   PDB: 1LPB 1N8S 1LPA
+AASEQ       465
+            MLPLWTLSLLLGAVAGKEVCYERLGCFSDDSPWSGITERPLHILPWSPKDVNTRFLLYTN
+            ENPNNFQEVAADSSSISGSNFKTNRKTRFIIHGFIDKGEENWLANVCKNLFKVESVNCIC
+            VDWKGGSRTGYTQASQNIRIVGAEVAYFVEFLQSAFGYSPSNVHVIGHSLGAHAAGEAGR
+            RTNGTIGRITGLDPAEPCFQGTPELVRLDPSDAKFVDVIHTDGAPIVPNLGFGMSQVVGH
+            LDFFPNGGVEMPGCKKNILSQIVDIDGIWEGTRDFAACNHLRSYKYYTDSIVNPDGFAGF
+            PCASYNVFTANKCFPCPSGGCPQMGHYADRYPGKTNDVGQKFYLDTGDASNFARWRYKVS
+            VTLSGKKVTGHILVSLFGNKGNSKQYEIFKGTLKPDSTHSNEFDSDVDVGDLQMVKFIWY
+            NNVINPTLPRVGASKIIVETNVGKQFNFCSPETVREEVLLTLTPC
+NTSEQ       1398
+            atgctgccactttggactctttcactgctgctgggagcagtagcaggaaaagaagtttgc
+            tacgaaagactcggctgcttcagtgatgactccccatggtcaggaattacggaaagaccc
+            ctccatatattgccttggtctccaaaagatgtcaacacccgcttcctcctatatactaat
+            gagaacccaaacaactttcaagaagttgccgcagattcatcaagcatcagtggctccaat
+            ttcaaaacaaatagaaaaactcgctttattattcatggattcatagacaagggagaagaa
+            aactggctggccaatgtgtgcaagaatctgttcaaggtggaaagtgtgaactgtatctgt
+            gtggactggaaaggtggctcccgaactggatacacacaagcctcgcagaacatcaggatc
+            gtgggagcagaagtggcatattttgttgaatttcttcagtcggcgttcggttactcacct
+            tccaacgtgcatgtcattggccacagcctgggtgcccacgctgctggggaggctggaagg
+            agaaccaatgggaccattggacgcatcacagggttggacccagcagaaccttgctttcag
+            ggcacacctgaattagtccgattggaccccagcgatgccaaatttgtggatgtaattcac
+            acggatggtgcccccatagtccccaatttggggtttggaatgagccaagtcgtgggccac
+            ctagatttctttccaaatggaggagtggaaatgcctggatgtaaaaagaacattctctct
+            cagattgtggacatagacggaatctgggaagggactcgagactttgcggcctgtaatcac
+            ttaagaagctacaaatattacactgatagcatcgtcaaccctgatggctttgctggattc
+            ccctgtgcctcttacaacgtcttcactgcaaacaagtgtttcccttgtccaagtggaggc
+            tgcccacagatgggtcactatgctgatagatatcctgggaaaacaaatgatgtgggccag
+            aaattttatctagacactggtgatgccagtaattttgcacgttggaggtataaggtatct
+            gtcacactgtctggaaaaaaggttacaggacacatactagtttctttgttcggaaataaa
+            ggaaactctaagcagtatgaaattttcaagggcactctcaaaccagatagtactcattcc
+            aatgaatttgactcagatgtggatgttggggacttgcagatggttaaatttatttggtat
+            aacaatgtgatcaacccaactttacctagagtgggagcatccaagattatagtggagaca
+            aatgttggaaaacagttcaacttctgtagtccagaaaccgtcagggaggaagttctgctc
+            accctcacaccgtgttag
+///

@@ -1,0 +1,63 @@
+ENTRY       84002             CDS       T01001
+NAME        B3GNT5, B3GN-T5, beta3Gn-T5
+DEFINITION  (RefSeq) UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5
+ORTHOLOGY   K03766  beta-1,3-N-acetylglucosaminyltransferase 5 [EC:2.4.1.206]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00070  Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer
+            hsa_M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00601 Glycosphingolipid biosynthesis - lacto and neolacto series
+                84002 (B3GNT5)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.206  lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase
+                 84002 (B3GNT5)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              Type 2 chain/Poly-N-acetyllactosamine
+               84002 (B3GNT5)
+POSITION    3q27.1
+MOTIF       Pfam: Galactosyl_T Fringe
+DBLINKS     NCBI-GeneID: 84002
+            NCBI-ProteinID: NP_114436
+            OMIM: 615333
+            HGNC: 15684
+            Ensembl: ENSG00000176597
+            Vega: OTTHUMG00000158436
+            Pharos: Q9BYG0(Tbio)
+            UniProt: Q9BYG0
+AASEQ       378
+            MRMLVSGRRVKKWQLIIQLFATCFLASLMFFWEPIDNHIVSHMKSYSYRYLINSYDFVND
+            TLSLKHTSAGPRYQYLINHKEKCQAQDVLLLLFVKTAPENYDRRSGIRRTWGNENYVRSQ
+            LNANIKTLFALGTPNPLEGEELQRKLAWEDQRYNDIIQQDFVDSFYNLTLKLLMQFSWAN
+            TYCPHAKFLMTADDDIFIHMPNLIEYLQSLEQIGVQDFWIGRVHRGAPPIRDKSSKYYVS
+            YEMYQWPAYPDYTAGAAYVISGDVAAKVYEASQTLNSSLYIDDVFMGLCANKIGIVPQDH
+            VFFSGEGKTPYHPCIYEKMMTSHGHLEDLQDLWKNATDPKVKTISKGFFGQIYCRLMKII
+            LLCKISYVDTYPCRAAFI
+NTSEQ       1137
+            atgagaatgttggttagtggcagaagagtcaaaaaatggcagttaattattcagttattt
+            gctacttgttttttagcgagcctcatgtttttttgggaaccaatcgataatcacattgtg
+            agccatatgaagtcatattcttacagatacctcataaatagctatgactttgtgaatgat
+            accctgtctcttaagcacacctcagcggggcctcgctaccaatacttgattaaccacaag
+            gaaaagtgtcaagctcaagacgtcctccttttactgtttgtaaaaactgctcctgaaaac
+            tatgatcgacgttccggaattagaaggacgtggggcaatgaaaattatgttcggtctcag
+            ctgaatgccaacatcaaaactctgtttgccttaggaactcctaatccactggagggagaa
+            gaactacaaagaaaactggcttgggaagatcaaaggtacaatgatataattcagcaagac
+            tttgttgattctttctacaatcttactctgaaattacttatgcagttcagttgggcaaat
+            acctattgtccacatgccaaatttcttatgactgctgatgatgacatatttattcacatg
+            ccaaatctgattgagtaccttcaaagtttagaacaaattggtgttcaagacttttggatt
+            ggtcgtgttcatcgtggtgcccctcccattagagataaaagcagcaaatactacgtgtcc
+            tatgaaatgtaccagtggccagcttaccctgactacacagccggagctgcctatgtaatc
+            tccggtgatgtagctgccaaagtctatgaggcatcacagacactaaattcaagtctttac
+            atagacgatgtgttcatgggcctctgtgccaataaaatagggatagtaccgcaggaccat
+            gtgtttttttctggagagggtaaaactccttatcatccctgcatctatgaaaaaatgatg
+            acatctcatggacacttagaagatctccaggacctttggaagaatgctacagatcctaaa
+            gtaaaaaccatttccaaaggtttttttggtcaaatatactgcagattaatgaagataatt
+            ctcctttgtaaaattagctatgtggacacatacccttgtagggctgcgtttatctaa
+///

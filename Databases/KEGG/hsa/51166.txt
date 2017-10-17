@@ -1,0 +1,79 @@
+ENTRY       51166             CDS       T01001
+NAME        AADAT, KAT2, KATII, KYAT2
+DEFINITION  (RefSeq) aminoadipate aminotransferase
+ORTHOLOGY   K00825  kynurenine/2-aminoadipate aminotransferase [EC:2.6.1.7 2.6.1.39]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa01210  2-Oxocarboxylic acid metabolism
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01210 2-Oxocarboxylic acid metabolism
+                51166 (AADAT)
+              Amino acid metabolism
+               00300 Lysine biosynthesis
+                51166 (AADAT)
+               00310 Lysine degradation
+                51166 (AADAT)
+               00380 Tryptophan metabolism
+                51166 (AADAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.7  kynurenine---oxoglutarate transaminase
+                 51166 (AADAT)
+                2.6.1.39  2-aminoadipate transaminase
+                 51166 (AADAT)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               51166 (AADAT)
+POSITION    4q33
+MOTIF       Pfam: Aminotran_1_2 Aminotran_MocR
+DBLINKS     NCBI-GeneID: 51166
+            NCBI-ProteinID: NP_001273612
+            OMIM: 611754
+            HGNC: 17929
+            Ensembl: ENSG00000109576
+            Vega: OTTHUMG00000160912
+            Pharos: Q8N5Z0(Tchem)
+            UniProt: Q8N5Z0 Q4W5N8
+STRUCTURE   PDB: 5TF5 5EUN 5EFS 2R2N 4GE7 2XH1 4GEB 2QLR 4GE4 4GE9 3DC1
+                 4GDY 3UE8 2VGZ
+AASEQ       425
+            MNYARFITAASAARNPSPIRTMTDILSRGPKSMISLAGGLPNPNMFPFKTAVITVENGKT
+            IQFGEEMMKRALQYSPSAGIPELLSWLKQLQIKLHNPPTIHYPPSQGQMDLCVTSGSQQG
+            LCKVFEMIINPGDNVLLDEPAYSGTLQSLHPLGCNIINVASDESGIVPDSLRDILSRWKP
+            EDAKNPQKNTPKFLYTVPNGNNPTGNSLTSERKKEIYELARKYDFLIIEDDPYYFLQFNK
+            FRVPTFLSMDVDGRVIRADSFSKIISSGLRIGFLTGPKPLIERVILHIQVSTLHPSTFNQ
+            LMISQLLHEWGEEGFMAHVDRVIDFYSNQKDAILAAADKWLTGLAEWHVPAAGMFLWIKV
+            KGINDVKELIEEKAVKMGVLMLPGNAFYVDSSAPSPYLRASFSSASPEQMDVAFQVLAQL
+            IKESL
+NTSEQ       1278
+            atgaattacgcacggttcatcacggcagcgagcgcagccagaaacccttctcccatccgg
+            accatgactgacatattgagcagaggaccaaaatcgatgatctccttggctggtggctta
+            ccaaatccaaacatgtttccttttaagactgccgtaatcactgtagaaaatggaaagacc
+            atccaatttggagaagagatgatgaagagagcacttcagtattctccgagtgctggaatt
+            ccagagcttttgtcctggctaaaacagttacaaataaaattgcataatcctcctaccatc
+            cattacccacccagtcaaggacaaatggatctatgtgtcacatctggcagccaacaaggt
+            ctttgtaaggtgtttgaaatgatcattaatcctggagataatgtcctcctagatgaacct
+            gcttattcaggaactcttcaaagtctgcacccactgggctgcaacattattaatgttgcc
+            agtgatgaaagtgggattgttccagattccctaagagacatactttccagatggaaacca
+            gaagatgcaaagaatccccagaaaaacacccccaaatttctttatactgttccaaatggc
+            aacaaccctactggaaactcattaaccagtgaacgcaaaaaggaaatctatgagcttgca
+            agaaaatatgatttcctcataatagaagatgatccttactattttctccagtttaacaag
+            ttcagggtaccaacatttctttccatggatgttgatggacgtgtcatcagagctgactct
+            ttttcaaaaatcatttcctctgggttgagaataggatttttaactggtccaaaaccctta
+            atagagagagttattttacacatacaagtttcaacattgcaccccagcacttttaaccag
+            ctcatgatatcacagcttctacacgaatggggagaagaaggtttcatggctcatgtagac
+            agggttattgatttctatagtaaccagaaggatgcaatactggcagctgcagacaagtgg
+            ttaactggtttggcagaatggcatgttcctgctgctggaatgtttttatggattaaagtt
+            aaaggcattaatgatgtaaaagaactgattgaagaaaaggccgttaagatgggggtatta
+            atgctccctggaaatgctttctacgtcgatagctcagctcctagcccttacttgagagca
+            tccttctcttcagcttctccagaacagatggatgtggccttccaggtattagcacaactt
+            ataaaagaatctttatga
+///

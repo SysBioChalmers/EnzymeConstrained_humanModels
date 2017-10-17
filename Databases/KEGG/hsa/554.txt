@@ -1,0 +1,75 @@
+ENTRY       554               CDS       T01001
+NAME        AVPR2, ADHR, DI1, DIR, DIR3, NDI, V2R
+DEFINITION  (RefSeq) arginine vasopressin receptor 2
+ORTHOLOGY   K04228  arginine vasopressin receptor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04962  Vasopressin-regulated water reabsorption
+DISEASE     H00252  Congenital nephrogenic diabetes insipidus (NDI)
+            H01294  Nephrogenic syndrome of inappropriate antidiuresis (NSIAD)
+DRUG_TARGET Argipressin: D02983
+            Conivaptan (DG00276): D01236 D07748
+            Desmopressin (DG00497): D00291 D02235
+            Lypressin: D00366
+            Mozavaptane hydrochloride: D01855
+            Ornipressin: D07227
+            Terlipressin (DG00498): D06672 D08571
+            Tolvaptan: D01213
+            Vasopressin (DG00496): D00101 D09820
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                554 (AVPR2)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                554 (AVPR2)
+             Organismal Systems
+              Excretory system
+               04962 Vasopressin-regulated water reabsorption
+                554 (AVPR2)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Pituitary hormone
+               Vasopressin
+                554 (AVPR2)
+POSITION    Xq28
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7TM_GPCR_Srv 7tm_4 Git3
+DBLINKS     NCBI-GeneID: 554
+            NCBI-ProteinID: NP_000045
+            OMIM: 300538
+            HGNC: 897
+            Ensembl: ENSG00000126895
+            Vega: OTTHUMG00000024227
+            Pharos: P30518(Tclin)
+            UniProt: P30518
+AASEQ       371
+            MLMASTTSAVPGHPSLPSLPSNSSQERPLDTRDPLLARAELALLSIVFVAVALSNGLVLA
+            ALARRGRRGHWAPIHVFIGHLCLADLAVALFQVLPQLAWKATDRFRGPDALCRAVKYLQM
+            VGMYASSYMILAMTLDRHRAICRPMLAYRHGSGAHWNRPVLVAWAFSLLLSLPQLFIFAQ
+            RNVEGGSGVTDCWACFAEPWGRRTYVTWIALMVFVAPTLGIAACQVLIFREIHASLVPGP
+            SERPGGRRRGRRTGSPGEGAHVSAAVAKTVRMTLVIVVVYVLCWAPFFLVQLWAAWDPEA
+            PLEGAPFVLLMLLASLNSCTNPWIYASFSSSVSSELRSLLCCARGRTPPSLGPQDESCTT
+            ASSSLAKDTSS
+NTSEQ       1116
+            atgctcatggcgtccaccacttccgctgtgcctgggcatccctctctgcccagcctgccc
+            agcaacagcagccaggagaggccactggacacccgggacccgctgctagcccgggcggag
+            ctggcgctgctctccatagtctttgtggctgtggccctgagcaatggcctggtgctggcg
+            gccctagctcggcggggccggcggggccactgggcacccatacacgtcttcattggccac
+            ttgtgcctggccgacctggccgtggctctgttccaagtgctgccccagctggcctggaag
+            gccaccgaccgcttccgtgggccagatgccctgtgtcgggccgtgaagtatctgcagatg
+            gtgggcatgtatgcctcctcctacatgatcctggccatgacgctggaccgccaccgtgcc
+            atctgccgtcccatgctggcgtaccgccatggaagtggggctcactggaaccggccggtg
+            ctagtggcttgggccttctcgctccttctcagcctgccccagctcttcatcttcgcccag
+            cgcaacgtggaaggtggcagcggggtcactgactgctgggcctgctttgcggagccctgg
+            ggccgtcgcacctatgtcacctggattgccctgatggtgttcgtggcacctaccctgggt
+            atcgccgcctgccaggtgctcatcttccgggagattcatgccagtctggtgccagggcca
+            tcagagaggcctggggggcgccgcaggggacgccggacaggcagccccggtgagggagcc
+            cacgtgtcagcagctgtggccaagactgtgaggatgacgctagtgattgtggtcgtctat
+            gtgctgtgctgggcacccttcttcctggtgcagctgtgggccgcgtgggacccggaggca
+            cctctggaaggggcgccctttgtgctactcatgttgctggccagcctcaacagctgcacc
+            aacccctggatctatgcatctttcagcagcagcgtgtcctcagagctgcgaagcttgctc
+            tgctgtgcccggggacgcaccccacccagcctgggtccccaagatgagtcctgcaccacc
+            gccagctcctccctggccaaggacacttcatcgtga
+///

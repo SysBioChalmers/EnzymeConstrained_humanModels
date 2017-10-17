@@ -1,0 +1,83 @@
+ENTRY       5550              CDS       T01001
+NAME        PREP, PE, PEP
+DEFINITION  (RefSeq) prolyl endopeptidase
+ORTHOLOGY   K01322  prolyl oligopeptidase [EC:3.4.21.26]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04614  Renin-angiotensin system
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04614 Renin-angiotensin system
+                5550 (PREP)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.26  prolyl oligopeptidase
+                 5550 (PREP)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S9: prolyl oligopeptidase family
+               5550 (PREP)
+POSITION    6q21
+MOTIF       Pfam: Peptidase_S9_N Peptidase_S9 Esterase Hydrolase_4
+DBLINKS     NCBI-GeneID: 5550
+            NCBI-ProteinID: NP_002717
+            OMIM: 600400
+            HGNC: 9358
+            Ensembl: ENSG00000085377
+            Vega: OTTHUMG00000015297
+            Pharos: P48147(Tchem)
+            UniProt: P48147 B2RAH7
+STRUCTURE   PDB: 3DDU
+AASEQ       710
+            MLSLQYPDVYRDETAVQDYHGHKICDPYAWLEDPDSEQTKAFVEAQNKITVPFLEQCPIR
+            GLYKERMTELYDYPKYSCHFKKGKRYFYFYNTGLQNQRVLYVQDSLEGEARVFLDPNILS
+            DDGTVALRGYAFSEDGEYFAYGLSASGSDWVTIKFMKVDGAKELPDVLERVKFSCMAWTH
+            DGKGMFYNSYPQQDGKSDGTETSTNLHQKLYYHVLGTDQSEDILCAEFPDEPKWMGGAEL
+            SDDGRYVLLSIREGCDPVNRLWYCDLQQESSGIAGILKWVKLIDNFEGEYDYVTNEGTVF
+            TFKTNRQSPNYRVINIDFRDPEESKWKVLVPEHEKDVLEWIACVRSNFLVLCYLHDVKNI
+            LQLHDLTTGALLKTFPLDVGSIVGYSGQKKDTEIFYQFTSFLSPGIIYHCDLTKEELEPR
+            VFREVTVKGIDASDYQTVQIFYPSKDGTKIPMFIVHKKGIKLDGSHPAFLYGYGGFNISI
+            TPNYSVSRLIFVRHMGGILAVANIRGGGEYGETWHKGGILANKQNCFDDFQCAAEYLIKE
+            GYTSPKRLTINGGSNGGLLVAACANQRPDLFGCVIAQVGVMDMLKFHKYTIGHAWTTDYG
+            CSDSKQHFEWLVKYSPLHNVKLPEADDIQYPSMLLLTADHDDRVVPLHSLKFIATLQYIV
+            GRSRKQSNPLLIHVDTKAGHGAGKPTAKVIEEVSDMFAFIARCLNVDWIP
+NTSEQ       2133
+            atgctgtcccttcagtaccccgacgtgtaccgcgacgagaccgccgtacaggattatcat
+            ggtcataaaatttgtgacccttacgcctggcttgaagaccccgacagtgaacagactaag
+            gcctttgtggaggcccagaataagattactgtgccatttcttgagcagtgtcccatcaga
+            ggtttatacaaagagagaatgactgaactatatgattatcccaagtatagttgccacttc
+            aagaaaggaaaacggtatttttatttttacaatacaggtttgcagaaccagcgagtatta
+            tatgtacaggattccttagagggtgaggccagagtgttcctggaccccaacatactgtct
+            gacgatggcacagtggcactccgaggttatgcgttcagcgaagatggtgaatattttgcc
+            tatggtctgagtgccagtggctcagactgggtgacaatcaagttcatgaaagttgatggt
+            gccaaagagcttccagatgtgcttgaaagagtcaagttcagctgtatggcctggacccat
+            gatgggaagggaatgttctacaactcataccctcaacaggatggaaaaagtgatggcaca
+            gagacatctaccaatctccaccaaaagctctactaccatgtcttgggaaccgatcagtca
+            gaagatattttgtgtgctgagtttcctgatgaacctaaatggatgggtggagctgagtta
+            tctgatgatggccgctatgtcttgttatcaataagggaaggatgtgatccagtaaaccga
+            ctctggtactgtgacctacagcaggaatccagtggcatcgcgggaatcctgaagtgggta
+            aaactgattgacaactttgaaggggaatatgactacgtgaccaatgaggggacggtgttc
+            acattcaagacgaatcgccagtctcccaactatcgcgtgatcaacattgacttcagggat
+            cctgaagagtctaagtggaaagtacttgttcctgagcatgagaaagatgtcttagaatgg
+            atagcttgtgtcaggtccaacttcttggtcttatgctacctccatgacgtcaagaacatt
+            ctgcagctccatgacctgactactggtgctctccttaagaccttcccgctcgatgtcggc
+            agcattgtagggtacagcggtcagaagaaggacactgaaatcttctatcagtttacttcc
+            tttttatctccaggtatcatttatcactgtgatcttaccaaagaggagctggagccaaga
+            gttttccgagaggtgaccgtaaaaggaattgatgcttctgattaccagacagtccagatt
+            ttctaccctagcaaggatggtacgaagattccaatgttcattgtgcataaaaaaggcata
+            aaattggatggctctcatccagctttcttatatggctatggcggcttcaacatatccatc
+            acacccaactacagtgtttccaggcttatttttgtgagacacatgggtggtatcctggca
+            gtggccaacatcagaggaggtggcgaatatggagagacgtggcataaaggtggtatcttg
+            gccaacaaacaaaactgctttgatgactttcagtgtgctgctgagtatctgatcaaggaa
+            ggttacacatctcccaagaggctgactattaatggaggttcaaatggaggcctcttagtg
+            gctgcttgtgcaaatcagagacctgacctctttggttgtgttattgcccaagttggagta
+            atggacatgctgaagtttcataaatataccatcggccatgcttggaccactgattatggg
+            tgctcggacagcaaacaacactttgaatggcttgtcaaatactctccattgcataatgtg
+            aagttaccagaagcagatgacatccagtacccgtccatgctgctcctcactgctgaccat
+            gatgaccgcgtggtcccgcttcactccctgaagttcattgccacccttcagtacatcgtg
+            ggccgcagcaggaagcaaagcaaccccctgcttatccacgtggacaccaaggcgggccac
+            ggggcggggaagcccacagccaaagtgatagaggaagtctcagacatgtttgcgttcatc
+            gcgcggtgcctgaacgtcgactggattccataa
+///

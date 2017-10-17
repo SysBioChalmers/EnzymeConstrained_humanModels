@@ -1,0 +1,78 @@
+ENTRY       2057              CDS       T01001
+NAME        EPOR, EPO-R
+DEFINITION  (RefSeq) erythropoietin receptor
+ORTHOLOGY   K05079  erythropoietin receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+DISEASE     H00236  Congenital polycythemia
+DRUG_TARGET Darbepoetin alfa: D03651
+            Erythropoietin (DG00177): D03231 D03232 D04032 D09737 D09998 D10000
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                2057 (EPOR)
+               04151 PI3K-Akt signaling pathway
+                2057 (EPOR)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                2057 (EPOR)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                2057 (EPOR)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              2057 (EPOR)
+POSITION    19p13.2
+MOTIF       Pfam: EpoR_lig-bind fn3
+DBLINKS     NCBI-GeneID: 2057
+            NCBI-ProteinID: NP_000112
+            OMIM: 133171
+            HGNC: 3416
+            Ensembl: ENSG00000187266
+            Vega: OTTHUMG00000182027
+            Pharos: P19235(Tclin)
+            UniProt: P19235
+STRUCTURE   PDB: 1EER 1ERN 4Y5V 1EBA 1CN4 1EBP 4Y5Y 4Y5X 2JIX 2MV6
+AASEQ       508
+            MDHLGASLWPQVGSLCLLLAGAAWAPPPNLPDPKFESKAALLAARGPEELLCFTERLEDL
+            VCFWEEAASAGVGPGNYSFSYQLEDEPWKLCRLHQAPTARGAVRFWCSLPTADTSSFVPL
+            ELRVTAASGAPRYHRVIHINEVVLLDAPVGLVARLADESGHVVLRWLPPPETPMTSHIRY
+            EVDVSAGNGAGSVQRVEILEGRTECVLSNLRGRTRYTFAVRARMAEPSFGGFWSAWSEPV
+            SLLTPSDLDPLILTLSLILVVILVLLTVLALLSHRRALKQKIWPGIPSPESEFEGLFTTH
+            KGNFQLWLYQNDGCLWWSPCTPFTEDPPASLEVLSERCWGTMQAVEPGTDDEGPLLEPVG
+            SEHAQDTYLVLDKWLLPRNPPSEDLPGPGGSVDIVAMDEGSEASSCSSALASKPSPEGAS
+            AASFEYTILDPSSQLLRPWTLCPELPPTPPHLKYLYLVVSDSGISTDYSSGDSQGAQGGL
+            SDGPYSNPYENSLIPAAEPLPPSYVACS
+NTSEQ       1527
+            atggaccacctcggggcgtccctctggccccaggtcggctccctttgtctcctgctcgct
+            ggggccgcctgggcgcccccgcctaacctcccggaccccaagttcgagagcaaagcggcc
+            ttgctggcggcccgggggcccgaagagcttctgtgcttcaccgagcggttggaggacttg
+            gtgtgtttctgggaggaagcggcgagcgctggggtgggcccgggcaactacagcttctcc
+            taccagctcgaggatgagccatggaagctgtgtcgcctgcaccaggctcccacggctcgt
+            ggtgcggtgcgcttctggtgttcgctgcctacagccgacacgtcgagcttcgtgccccta
+            gagttgcgcgtcacagcagcctccggcgctccgcgatatcaccgtgtcatccacatcaat
+            gaagtagtgctcctagacgcccccgtggggctggtggcgcggttggctgacgagagcggc
+            cacgtagtgttgcgctggctcccgccgcctgagacacccatgacgtctcacatccgctac
+            gaggtggacgtctcggccggcaacggcgcagggagcgtacagagggtggagatcctggag
+            ggccgcaccgagtgtgtgctgagcaacctgcggggccggacgcgctacaccttcgccgtc
+            cgcgcgcgtatggctgagccgagcttcggcggcttctggagcgcctggtcggagcctgtg
+            tcgctgctgacgcctagcgacctggaccccctcatcctgacgctctccctcatcctcgtg
+            gtcatcctggtgctgctgaccgtgctcgcgctgctctcccaccgccgggctctgaagcag
+            aagatctggcctggcatcccgagcccagagagcgagtttgaaggcctcttcaccacccac
+            aagggtaacttccagctgtggctgtaccagaatgatggctgcctgtggtggagcccctgc
+            acccccttcacggaggacccacctgcttccctggaagtcctctcagagcgctgctggggg
+            acgatgcaggcagtggagccggggacagatgatgagggccccctgctggagccagtgggc
+            agtgagcatgcccaggatacctatctggtgctggacaaatggttgctgccccggaacccg
+            cccagtgaggacctcccagggcctggtggcagtgtggacatagtggccatggatgaaggc
+            tcagaagcatcctcctgctcatctgctttggcctcgaagcccagcccagagggagcctct
+            gctgccagctttgagtacactatcctggaccccagctcccagctcttgcgtccatggaca
+            ctgtgccctgagctgccccctaccccaccccacctaaagtacctgtaccttgtggtatct
+            gactctggcatctcaactgactacagctcaggggactcccagggagcccaagggggctta
+            tccgatggcccctactccaacccttatgagaacagccttatcccagccgctgagcctctg
+            ccccccagctatgtggcttgctcttag
+///

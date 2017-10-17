@@ -1,0 +1,241 @@
+ENTRY       6655              CDS       T01001
+NAME        SOS2, NS9, SOS-2
+DEFINITION  (RefSeq) SOS Ras/Rho guanine nucleotide exchange factor 2
+ORTHOLOGY   K03099  son of sevenless
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa04540  Gap junction
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05034  Alcoholism
+            hsa05160  Hepatitis C
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05211  Renal cell carcinoma
+            hsa05213  Endometrial cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05231  Choline metabolism in cancer
+DISEASE     H01738  Noonan syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                6655 (SOS2)
+               04010 MAPK signaling pathway
+                6655 (SOS2)
+               04012 ErbB signaling pathway
+                6655 (SOS2)
+               04630 Jak-STAT signaling pathway
+                6655 (SOS2)
+               04068 FoxO signaling pathway
+                6655 (SOS2)
+               04072 Phospholipase D signaling pathway
+                6655 (SOS2)
+               04151 PI3K-Akt signaling pathway
+                6655 (SOS2)
+               04150 mTOR signaling pathway
+                6655 (SOS2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                6655 (SOS2)
+               04540 Gap junction
+                6655 (SOS2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                6655 (SOS2)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                6655 (SOS2)
+               04660 T cell receptor signaling pathway
+                6655 (SOS2)
+               04662 B cell receptor signaling pathway
+                6655 (SOS2)
+               04664 Fc epsilon RI signaling pathway
+                6655 (SOS2)
+               04062 Chemokine signaling pathway
+                6655 (SOS2)
+              Endocrine system
+               04910 Insulin signaling pathway
+                6655 (SOS2)
+               04912 GnRH signaling pathway
+                6655 (SOS2)
+               04915 Estrogen signaling pathway
+                6655 (SOS2)
+               04917 Prolactin signaling pathway
+                6655 (SOS2)
+               04926 Relaxin signaling pathway
+                6655 (SOS2)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                6655 (SOS2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6655 (SOS2)
+               05231 Choline metabolism in cancer
+                6655 (SOS2)
+               05206 MicroRNAs in cancer
+                6655 (SOS2)
+               05205 Proteoglycans in cancer
+                6655 (SOS2)
+               05214 Glioma
+                6655 (SOS2)
+               05221 Acute myeloid leukemia
+                6655 (SOS2)
+               05220 Chronic myeloid leukemia
+                6655 (SOS2)
+               05211 Renal cell carcinoma
+                6655 (SOS2)
+               05215 Prostate cancer
+                6655 (SOS2)
+               05213 Endometrial cancer
+                6655 (SOS2)
+               05224 Breast cancer
+                6655 (SOS2)
+               05223 Non-small cell lung cancer
+                6655 (SOS2)
+              Substance dependence
+               05034 Alcoholism
+                6655 (SOS2)
+              Infectious diseases
+               05160 Hepatitis C
+                6655 (SOS2)
+               05165 Human papillomavirus infection
+                6655 (SOS2)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                6655 (SOS2)
+               01522 Endocrine resistance
+                6655 (SOS2)
+POSITION    14q21.3
+MOTIF       Pfam: RasGEF RasGEF_N RhoGEF PH Histone IQ_SEC7_PH PH_13
+DBLINKS     NCBI-GeneID: 6655
+            NCBI-ProteinID: NP_008870
+            OMIM: 601247
+            HGNC: 11188
+            Ensembl: ENSG00000100485
+            Vega: OTTHUMG00000140292
+            Pharos: Q07890(Tbio)
+            UniProt: Q07890
+AASEQ       1332
+            MQQAPQPYEFFSEENSPKWRGLLVSALRKVQEQVHPTLSANEESLYYIEELIFQLLNKLC
+            MAQPRTVQDVEERVQKTFPHPIDKWAIADAQSAIEKRKRRNPLLLPVDKIHPSLKEVLGY
+            KVDYHVSLYIVAVLEYISADILKLAGNYVFNIRHYEISQQDIKVSMCADKVLMDMFDQDD
+            IGLVSLCEDEPSSSGELNYYDLVRTEIAEERQYLRELNMIIKVFREAFLSDRKLFKPSDI
+            EKIFSNISDIHELTVKLLGLIEDTVEMTDESSPHPLAGSCFEDLAEEQAFDPYETLSQDI
+            LSPEFHEHFNKLMARPAVALHFQSIADGFKEAVRYVLPRLMLVPVYHCWHYFELLKQLKA
+            CSEEQEDRECLNQAITALMNLQGSMDRIYKQYSPRRRPGDPVCPFYSHQLRSKHLAIKKM
+            NEIQKNIDGWEGKDIGQCCNEFIMEGPLTRIGAKHERHIFLFDGLMISCKPNHGQTRLPG
+            YSSAEYRLKEKFVMRKIQICDKEDTCEHKHAFELVSKDENSIIFAAKSAEEKNNWMAALI
+            SLHYRSTLDRMLDSVLLKEENEQPLRLPSPEVYRFVVKDSEENIVFEDNLQSRSGIPIIK
+            GGTVVKLIERLTYHMYADPNFVRTFLTTYRSFCKPQELLSLLIERFEIPEPEPTDADKLA
+            IEKGEQPISADLKRFRKEYVQPVQLRILNVFRHWVEHHFYDFERDLELLERLESFISSVR
+            GKAMKKWVESIAKIIRRKKQAQANGVSHNITFESPPPPIEWHISKPGQFETFDLMTLHPI
+            EIARQLTLLESDLYRKVQPSELVGSVWTKEDKEINSPNLLKMIRHTTNLTLWFEKCIVEA
+            ENFEERVAVLSRIIEILQVFQDLNNFNGVLEIVSAVNSVSVYRLDHTFEALQERKRKILD
+            EAVELSQDHFKKYLVKLKSINPPCVPFFGIYLTNILKTEEGNNDFLKKKGKDLINFSKRR
+            KVAEITGEIQQYQNQPYCLRIEPDMRRFFENLNPMGSASEKEFTDYLFNKSLEIEPRNCK
+            QPPRFPRKSTFSLKSPGIRPNTGRHGSTSGTLRGHPTPLEREPCKISFSRIAETELESTV
+            SAPTSPNTPSTPPVSASSDLSVFLDVDLNSSCGSNSIFAPVLLPHSKSFFSSCGSLHKLS
+            EEPLIPPPLPPRKKFDHDASNSKGNMKSDDDPPAIPPRQPPPPKVKPRVPVPTGAFDGPL
+            HSPPPPPPRDPLPDTPPPVPLRPPEHFINCPFNLQPPPLGHLHRDSDWLRDISTCPNSPS
+            TPPSTPSPRVPRRCYVLSSSQNNLAHPPAPPVPPRQNSSPHLPKLPPKTYKRELSHPPLY
+            RLPLLENAETPQ
+NTSEQ       3999
+            atgcagcaggcgccgcagccttacgagttcttcagcgaggagaacagtccgaaatggcgg
+            ggactgttggtctcggccctgcggaaggttcaggaacaagtgcatcccactctctcagct
+            aatgaagagtctctctattatattgaagagctgatttttcagctgcttaataaattatgc
+            atggcccagccaaggactgttcaagatgtagaggagcgagttcagaagacctttcctcac
+            ccaattgataaatgggccattgctgatgcacaatctgctatagaaaaacgaaaacgaaga
+            aatcctcttttactgcctgtggacaaaatccatccttcgttgaaggaagtattagggtac
+            aaagtggactaccatgtatccctatatattgtggctgtactagagtatatctcagctgat
+            attttaaaattggctggtaattatgtttttaatatccggcattatgaaatatctcagcag
+            gacattaaagtgtcaatgtgtgcggataaggttttgatggacatgtttgatcaggatgac
+            ataggtttggtttctctctgtgaagatgaacctagttcttctggtgaattaaactactat
+            gatcttgtcagaactgaaatcgcagaagaaagacagtatctacgggaattaaatatgatc
+            ataaaagtgtttcgagaagcctttctttctgatagaaagctgtttaaaccttctgatatc
+            gaaaagatttttagtaacatttcagatatacatgaattgactgtgaaacttttaggtttg
+            attgaagacacagttgaaatgactgatgaaagcagtcctcatcccttagctggcagctgt
+            tttgaagatttggcagaagagcaagcatttgatccttatgaaacattatcacaggacatt
+            ctttcaccagagtttcatgaacatttcaataaattgatggccagacctgcagttgctcta
+            cactttcagtccattgctgatggttttaaagaggcagttcgttatgtccttccacgtctt
+            atgctggtgccagtgtatcactgttggcactactttgagttactaaagcaattgaaagca
+            tgtagtgaagaacaagaagacagagaatgtttgaaccaagctattactgctctcatgaat
+            ctccaaggtagcatggaccgaatttacaagcagtattcacctagacgtcgacctggagat
+            cctgtttgccctttttatagtcaccaattaagaagcaaacacctggctatcaaaaaaatg
+            aatgaaattcagaaaaatatcgatggatgggaaggcaaagatattggacagtgttgtaat
+            gaattcattatggagggaccattgacaagaatcggtgccaaacatgaacggcatattttt
+            ctgtttgatggcttaatgatcagttgtaaacctaatcatggccagactcggcttccaggt
+            tacagtagtgcagaatacaggttaaaagaaaaatttgtcatgaggaaaatacaaatttgt
+            gataaagaagatacttgtgagcacaagcatgcatttgaattagtatccaaagatgagaac
+            agcataatatttgctgctaagtctgctgaagaaaaaaacaactggatggcagcccttatt
+            tctcttcattatcgtagtactctagatcgaatgttagattcagtattattgaaagaagaa
+            aatgagcaaccactgagattaccaagtcctgaagtatatcgttttgtagtaaaagactct
+            gaggaaaacattgtttttgaagacaacttgcaaagtagaagtggcatccccattattaaa
+            ggaggaactgtagtgaaattaattgaaaggttaacatatcatatgtatgcagatcccaat
+            tttgttcgtacttttcttaccacatatcgttcattttgtaaaccacaggaattgctgagc
+            ttactgattgaacggtttgaaattccagagccagaacctactgacgcagacaaattggca
+            atagagaaaggcgagcagccaatcagtgcagaccttaaaagatttcgcaaggaatatgtc
+            caaccagtacaacttaggatcttaaatgtatttcggcattgggttgaacatcatttttat
+            gactttgaaagagacttggaattgcttgaaagactagaatccttcatttcaagtgtaaga
+            gggaaagctatgaaaaaatgggtagagtcaattgctaagatcatcaggaggaagaagcaa
+            gctcaggcaaacggagtaagccataatattacctttgaaagtccacctccaccaattgaa
+            tggcatatcagcaaaccaggacagtttgaaacatttgatctcatgacacttcatccaata
+            gaaattgcacgtcagctgacacttttggagtctgatctttacaggaaagttcaaccgtct
+            gaacttgtagggagtgtgtggaccaaagaagataaagaaataaattctccaaatttatta
+            aaaatgattcgccataccacaaatctcaccctctggtttgaaaaatgcattgtggaagca
+            gaaaattttgaagaacgggtggcagtactaagtagaattatagaaattctgcaagttttt
+            caagatttgaataatttcaatggcgtattggagatagtcagtgcagtaaattcagtgtca
+            gtatacagactagaccatacctttgaggcactgcaggaaaggaaaaggaaaattttggac
+            gaagctgtggaattaagtcaagatcactttaaaaaatacctagtaaaacttaagtcaatc
+            aatccaccttgtgtgcctttttttggaatatatttaacaaatattctgaagaccgaagaa
+            gggaataatgattttttaaaaaagaaagggaaagatttaatcaatttcagtaagaggagg
+            aaagtagctgaaattactggagaaattcagcagtatcagaatcagccttactgtttacgg
+            atagaaccagatatgaggagattctttgaaaaccttaaccccatgggaagtgcatctgaa
+            aaagagtttacagattatttgttcaacaagtcactagaaattgaacctcgaaactgcaaa
+            cagccacctcgatttcctaggaaatcaactttttccttaaaatctcctggaataaggcct
+            aacacaggccgacatggctctacctcaggtactttacgaggtcacccaacaccattagaa
+            agagaaccatgtaaaataagctttagtcggattgctgaaactgagctggaatcaacagtg
+            tcagcaccaacctctccaaatacaccatctactccaccagtatctgcttcttcagacctt
+            agtgtatttttagatgtggatctcaacagctcctgtggcagcaatagcatctttgctcca
+            gtgcttttgccacattcaaagtctttctttagttcatgtggtagtttacataaactaagt
+            gaagagcccctgattcctcctcctcttcctcctcgaaaaaagtttgatcatgatgcttca
+            aattccaagggaaatatgaaatctgatgatgatcctcctgctattccaccgagacagcct
+            cctcctccaaaggtaaaacccagagttcctgttcctactggtgcatttgatgggcctctg
+            catagtccacctccgccaccaccaagagatcctcttcctgatacccctccaccagttccc
+            cttcggcctccagaacactttataaactgtccatttaatcttcagccacctccactgggg
+            catcttcacagagattcagactggctcagagacattagtacgtgtccaaattcgccaagc
+            actcctcctagcacaccctctccaagggtaccgcgtcgatgctatgtgctcagttctagt
+            cagaataatcttgctcatcctccagctccccctgttccaccaaggcagaattcaagccct
+            catctgccaaaactgccaccaaagacttacaaacgggagctttcgcaccccccattgtac
+            agactgcctttgctagaaaatgcagaaactccccaatga
+///

@@ -1,0 +1,67 @@
+ENTRY       10327             CDS       T01001
+NAME        AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6
+DEFINITION  (RefSeq) aldo-keto reductase family 1 member A1
+ORTHOLOGY   K00002  alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00040  Pentose and glucuronate interconversions
+            hsa00561  Glycerolipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                10327 (AKR1A1)
+               00040 Pentose and glucuronate interconversions
+                10327 (AKR1A1)
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                10327 (AKR1A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.2  alcohol dehydrogenase (NADP+)
+                 10327 (AKR1A1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               10327 (AKR1A1)
+POSITION    1p34.1
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 10327
+            NCBI-ProteinID: NP_001189343
+            OMIM: 103830
+            HGNC: 380
+            Ensembl: ENSG00000117448
+            Vega: OTTHUMG00000007740
+            Pharos: P14550(Tchem)
+            UniProt: P14550 V9HWI0
+STRUCTURE   PDB: 2ALR
+AASEQ       325
+            MAASCVLLHTGQKMPLIGLGTWKSEPGQVKAAVKYALSVGYRHIDCAAIYGNEPEIGEAL
+            KEDVGPGKAVPREELFVTSKLWNTKHHPEDVEPALRKTLADLQLEYLDLYLMHWPYAFER
+            GDNPFPKNADGTICYDSTHYKETWKALEALVAKGLVQALGLSNFNSRQIDDILSVASVRP
+            AVLQVECHPYLAQNELIAHCQARGLEVTAYSPLGSSDRAWRDPDEPVLLEEPVVLALAEK
+            YGRSPAQILLRWQVQRKVICIPKSITPSRILQNIKVFDFTFSPEEMKQLNALNKNWRYIV
+            PMLTVDGKRVPRDAGHPLYPFNDPY
+NTSEQ       978
+            atggcggcttcctgtgttctactgcacactgggcagaagatgcctctgattggtctgggt
+            acctggaagagtgagcctggtcaggtaaaagcagctgttaagtatgcccttagcgtaggc
+            taccgccacattgattgtgctgctatctacggcaatgagcctgagattggggaggccctg
+            aaggaggacgtgggaccaggcaaggcggtgcctcgggaggagctgtttgtgacatccaag
+            ctgtggaacaccaagcaccaccccgaggatgtggagcctgccctccggaagactctggct
+            gacctccagctggagtatctggacctgtacctgatgcactggccttatgcctttgagcgg
+            ggagacaaccccttccccaagaatgctgatgggactatatgctacgactccacccactac
+            aaggagacttggaaggctctggaggcactggtggctaaggggctggtgcaggcgctgggc
+            ctgtccaacttcaacagtcggcagattgatgacatactcagtgtggcctccgtgcgtcca
+            gctgtcttgcaggtggaatgccacccatacttggctcaaaatgagctaattgcccactgc
+            caagcacgtggcctggaggtaactgcttatagccctttgggctcctctgatcgtgcatgg
+            cgtgatcctgatgagcctgtcctgctggaggaaccagtagtcctggcattggctgaaaag
+            tatggccgatctccagctcagatcttgctcaggtggcaggtccagcggaaagtgatctgc
+            atccccaaaagtatcactccttctcgaatccttcagaacatcaaggtgtttgacttcacc
+            tttagcccagaagagatgaagcagctaaatgccctgaacaaaaattggagatatattgtg
+            cctatgcttacggtggatgggaagagagtcccaagggatgcagggcatcctctgtacccc
+            tttaatgacccgtactga
+///

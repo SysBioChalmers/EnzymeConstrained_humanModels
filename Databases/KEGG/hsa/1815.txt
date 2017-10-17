@@ -1,0 +1,76 @@
+ENTRY       1815              CDS       T01001
+NAME        DRD4, D4DR
+DEFINITION  (RefSeq) dopamine receptor D4
+ORTHOLOGY   K04147  dopamine receptor D4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04728  Dopaminergic synapse
+DISEASE     H01450  Obsessive-compulsive disorder (OCD)
+            H01671  Neurosis
+            H01895  Attention deficit hyperactivity disorder (ADHD)
+DRUG_TARGET Clozapine: D00283
+            Dexpramipexole (DG01331): D09886 D09887
+            Dopamine (DG00213): D00633 D07870
+            Dopexamine (DG00222): D03891 D03892
+            Fananserin: D02656
+            Levodopa: D00059
+            Nemonapride: D01468
+            Olanzapine (DG00898): D00454 D06623
+            Oxiperomide: D02676
+            Pramipexole (DG00863): D00559 D05575
+            Sonepiprazole mesylate: D05891
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1815 (DRD4)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                1815 (DRD4)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Dopamine [OT]
+                1815 (DRD4)
+POSITION    11p15.5
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 1815
+            NCBI-ProteinID: NP_000788
+            OMIM: 126452
+            HGNC: 3025
+            Ensembl: ENSG00000069696
+            Vega: OTTHUMG00000133312
+            Pharos: P21917(Tchem)
+            UniProt: P21917 A0A0G2JM26
+AASEQ       419
+            MGNRSTADADGLLAGRGPAAGASAGASAGLAGQGAAALVGGVLLIGAVLAGNSLVCVSVA
+            TERALQTPTNSFIVSLAAADLLLALLVLPLFVYSEVQGGAWLLSPRLCDALMAMDVMLCT
+            ASIFNLCAISVDRFVAVAVPLRYNRQGGSRRQLLLIGATWLLSAAVAAPVLCGLNDVRGR
+            DPAVCRLEDRDYVVYSSVCSFFLPCPLMLLLYWATFRGLQRWEVARRAKLHGRAPRRPSG
+            PGPPSPTPPAPRLPQDPCGPDCAPPAPGLPRGPCGPDCAPAAPSLPQDPCGPDCAPPAPG
+            LPPDPCGSNCAPPDAVRAAALPPQTPPQTRRRRRAKITGRERKAMRVLPVVVGAFLLCWT
+            PFFVVHITQALCPACSVPPRLVSAVTWLGYVNSALNPVIYTVFNAEFRNVFRKALRACC
+NTSEQ       1260
+            atggggaaccgcagcaccgcggacgcggacgggctgctggctgggcgcgggccggccgcg
+            ggggcatctgcgggggcatctgcggggctggctgggcagggcgcggcggcgctggtgggg
+            ggcgtgctgctcatcggcgcggtgctcgcggggaactcgctcgtgtgcgtgagcgtggcc
+            accgagcgcgccctgcagacgcccaccaactccttcatcgtgagcctggcggccgccgac
+            ctcctcctcgctctcctggtgctgccgctcttcgtctactccgaggtccagggtggcgcg
+            tggctgctgagcccccgcctgtgcgacgccctcatggccatggacgtcatgctgtgcacc
+            gcctccatcttcaacctgtgcgccatcagcgtggacaggttcgtggccgtggccgtgccg
+            ctgcgctacaaccggcagggtgggagccgccggcagctgctgctcatcggcgccacgtgg
+            ctgctgtccgcggcggtggcggcgcccgtactgtgcggcctcaacgacgtgcgcggccgc
+            gaccccgccgtgtgccgcctggaggaccgcgactacgtggtctactcgtccgtgtgctcc
+            ttcttcctaccctgcccgctcatgctgctgctctactgggccacgttccgcggcctgcag
+            cgctgggaggtggcacgtcgcgccaagctgcacggccgcgcgccccgccgacccagcggc
+            cctggcccgccttcccccacgccacccgcgccccgcctcccccaggacccctgcggcccc
+            gactgtgcgccccccgcgcccggccttccccggggtccctgcggccccgactgtgcgccc
+            gccgcgcccagcctcccccaggacccctgcggccccgactgtgcgccccccgcgcccggc
+            ctccccccggacccctgcggctccaactgtgctccccccgacgccgtcagagccgccgcg
+            ctcccaccccagactccaccgcagacccgcaggaggcggcgtgccaagatcaccggccgg
+            gagcgcaaggccatgagggtcctgccggtggtggtcggggccttcctgctgtgctggacg
+            cccttcttcgtggtgcacatcacgcaggcgctgtgtcctgcctgctccgtgcccccgcgg
+            ctggtcagcgccgtcacctggctgggctacgtcaacagcgccctcaaccccgtcatctac
+            actgtcttcaacgccgagttccgcaacgtcttccgcaaggccctgcgtgcctgctgctga
+///

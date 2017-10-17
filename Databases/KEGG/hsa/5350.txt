@@ -1,0 +1,50 @@
+ENTRY       5350              CDS       T01001
+NAME        PLN, CMD1P, CMH18, PLB
+DEFINITION  (RefSeq) phospholamban
+ORTHOLOGY   K05852  phospholamban
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04919  Thyroid hormone signaling pathway
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00294  Dilated cardiomyopathy (DCM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                5350 (PLN)
+               04024 cAMP signaling pathway
+                5350 (PLN)
+               04022 cGMP - PKG signaling pathway
+                5350 (PLN)
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                5350 (PLN)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                5350 (PLN)
+             Human Diseases
+              Cardiovascular diseases
+               05414 Dilated cardiomyopathy (DCM)
+                5350 (PLN)
+POSITION    6q22.31
+MOTIF       Pfam: Phospholamban Sarcolipin DUF5383 DUF1510
+DBLINKS     NCBI-GeneID: 5350
+            NCBI-ProteinID: NP_002658
+            OMIM: 172405
+            HGNC: 9080
+            Ensembl: ENSG00000198523
+            Vega: OTTHUMG00000015462
+            Pharos: P26678(Tbio)
+            UniProt: P26678 Q5R352
+STRUCTURE   PDB: 2HYN 1ZLL 1PLP
+AASEQ       52
+            MEKVQYLTRSAIRRASTIEMPQQARQKLQNLFINFCLILICLLLICIIVMLL
+NTSEQ       159
+            atggagaaagtccaatacctcactcgctcagctataagaagagcctcaaccattgaaatg
+            cctcaacaagcacgtcaaaagctacagaatctatttatcaatttctgtctcatcttaata
+            tgtctcttgctgatctgtatcatcgtgatgcttctctga
+///

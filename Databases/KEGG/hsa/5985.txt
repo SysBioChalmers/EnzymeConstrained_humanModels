@@ -1,0 +1,79 @@
+ENTRY       5985              CDS       T01001
+NAME        RFC5, RFC36
+DEFINITION  (RefSeq) replication factor C subunit 5
+ORTHOLOGY   K10756  replication factor C subunit 3/5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+MODULE      hsa_M00289  RF-C complex
+            hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                5985 (RFC5)
+               03420 Nucleotide excision repair
+                5985 (RFC5)
+               03430 Mismatch repair
+                5985 (RFC5)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RFC (replication factor C)
+                5985 (RFC5)
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                ELG1-RFC complex
+                 5985 (RFC5)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid cohesion proteins
+               CTF18-RFC complex
+                5985 (RFC5)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               MMR (mismatch exicision repair)
+                RFC (replication factor C)
+                 5985 (RFC5)
+              Check point factors
+               HRAD17(Rad24)-RFC complex
+                5985 (RFC5)
+POSITION    12q24.23
+MOTIF       Pfam: Rep_fac_C AAA DNA_pol3_delta2 Rad17 AAA_24 AAA_16 AAA_22 AAA_11 RuvB_N AAA_assoc_2 ResIII DUF815 AAA_19 TIP49 AAA_14 AAA_5 DNA_pol3_delta PhoH DEAD AAA_30 TniB IstB_IS21 T2SSE ATPase_2 Mg_chelatase AAA_25 AAA_3 SNF2_N
+DBLINKS     NCBI-GeneID: 5985
+            NCBI-ProteinID: NP_031396
+            OMIM: 600407
+            HGNC: 9973
+            Ensembl: ENSG00000111445
+            Vega: OTTHUMG00000156438
+            Pharos: P40937(Tbio)
+            UniProt: P40937
+AASEQ       340
+            METSALKQQEQPAATKIRNLPWVEKYRPQTLNDLISHQDILSTIQKFINEDRLPHLLLYG
+            PPGTGKTSTILACAKQLYKDKEFGSMVLELNASDDRGIDIIRGPILSFASTRTIFKKGFK
+            LVILDEADAMTQDAQNALRRVIEKFTENTRFCLICNYLSKIIPALQSRCTRFRFGPLTPE
+            LMVPRLEHVVEEEKVDISEDGMKALVTLSSGDMRRALNILQSTNMAFGKVTEETVYTCTG
+            HPLKSDIANILDWMLNQDFTTAYRNITELKTLKGLALHDILTEIHLFVHRVDFPSSVRIH
+            LLTKMADIEYRLSVGTNEKIQLSSLIAAFQVTRDLIVAEA
+NTSEQ       1023
+            atggagacctcagcactcaagcagcaggagcagcccgcggcgaccaagatcaggaacctg
+            ccctgggttgaaaaataccggccacagaccctgaatgatctcatttctcatcaggacatt
+            ctgagtaccattcagaagtttatcaatgaagaccgactgccacacttgcttctctacggt
+            cccccagggacaggcaagacatctaccatcctagcctgtgcgaaacagctatataaagac
+            aaagaatttggctccatggtcttggagctgaatgcttcagatgaccgaggaatagacatc
+            attcgaggaccgatcctgagctttgctagcacaaggacaatatttaagaaaggctttaag
+            ctagtgatcttggatgaagcagacgccatgactcaggacgcccagaatgccttgagaaga
+            gtaattgagaaattcacagaaaataccagattctgcctcatctgtaactatctgtcaaag
+            atcatccctgccttgcagtcccgctgcacgaggtttcggttcggtcccctgactcctgaa
+            ctcatggttccccgcctggaacatgtcgtggaagaagagaaagttgatataagtgaagat
+            ggaatgaaagcactagtcactctttccagtggagacatgcgtagggctctgaacattttg
+            cagagcaccaatatggcctttgggaaggtgacagaggagactgtctacacctgcaccggg
+            cacccgctcaagtcagacattgccaacatcctggactggatgttgaatcaagatttcacc
+            acagcctacagaaatattacagagttgaaaactctgaaggggttggcactgcatgatatc
+            ctgacagagatacacttgtttgtgcatagagttgactttccatcttcagttcgaatacat
+            ttattgaccaaaatggcagacattgagtacaggctttctgttggcaccaacgagaagatc
+            cagctgagctccctcattgctgcatttcaagtcaccagagacctgattgttgcagaggcc
+            tag
+///

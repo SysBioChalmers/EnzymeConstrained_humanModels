@@ -1,0 +1,64 @@
+ENTRY       7134              CDS       T01001
+NAME        TNNC1, CMD1Z, CMH13, TN-C, TNC, TNNC
+DEFINITION  (RefSeq) troponin C1, slow skeletal and cardiac type
+ORTHOLOGY   K05865  troponin C, slow skeletal and cardiac muscles
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00292  Hypertrophic cardiomyopathy (HCM)
+            H00294  Dilated cardiomyopathy (DCM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                7134 (TNNC1)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                7134 (TNNC1)
+               04261 Adrenergic signaling in cardiomyocytes
+                7134 (TNNC1)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                7134 (TNNC1)
+               05414 Dilated cardiomyopathy (DCM)
+                7134 (TNNC1)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Troponins
+                 7134 (TNNC1)
+POSITION    3p21.1
+MOTIF       Pfam: EF-hand_8 EF-hand_7 EF-hand_1 EF-hand_6 EF-hand_5 EF-hand_9 EF-hand_4 SPARC_Ca_bdg EF-hand_10 Dak2 EMG1
+DBLINKS     NCBI-GeneID: 7134
+            NCBI-ProteinID: NP_003271
+            OMIM: 191040
+            HGNC: 11943
+            Ensembl: ENSG00000114854
+            Vega: OTTHUMG00000158572
+            Pharos: P63316(Tclin)
+            UniProt: P63316 Q6FH91
+STRUCTURE   PDB: 3SD6 4GJE 3SWB 4GJF 4Y99 4GJG 1WRK 3RV5 1WRL 1J1D 1J1E
+                 5WCL 5W88 5VLN 2N7L 2N79 2MZP 2MLE 2MLF 2MKP 2L98 2L1R
+                 2KRD 2KGB 2KFX 2KDH 2JXL 2JTZ 2JT8 2JT3 2JT0 1OZS 1LXF
+                 1IH0 1MXL 1AP4 1SPY
+AASEQ       161
+            MDDIYKAAVEQLTEEQKNEFKAAFDIFVLGAEDGCISTKELGKVMRMLGQNPTPEELQEM
+            IDEVDEDGSGTVDFDEFLVMMVRCMKDDSKGKSEEELSDLFRMFDKNADGYIDLDELKIM
+            LQATGETITEDDIEELMKDGDKNNDGRIDYDEFLEFMKGVE
+NTSEQ       486
+            atggatgacatctacaaggctgcggtagagcagctgacagaagagcagaaaaatgagttc
+            aaggcagccttcgacatcttcgtgctgggcgctgaggatggctgcatcagcaccaaggag
+            ctgggcaaggtgatgaggatgctgggccagaaccccacccctgaggagctgcaggagatg
+            atcgatgaggtggacgaggacggcagcggcacggtggactttgatgagttcctggtcatg
+            atggttcggtgcatgaaggacgacagcaaagggaaatctgaggaggagctgtctgacctc
+            ttccgcatgtttgacaaaaatgctgatggctacatcgacctggatgagctgaagataatg
+            ctgcaggctacaggcgagaccatcacggaggacgacatcgaggagctcatgaaggacgga
+            gacaagaacaacgacggccgcatcgactatgatgagttcctggagttcatgaagggtgtg
+            gagtag
+///

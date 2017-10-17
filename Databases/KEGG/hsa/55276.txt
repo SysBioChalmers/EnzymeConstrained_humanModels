@@ -1,0 +1,91 @@
+ENTRY       55276             CDS       T01001
+NAME        PGM2, MSTP006
+DEFINITION  (RefSeq) phosphoglucomutase 2
+ORTHOLOGY   K15779  phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00030  Pentose phosphate pathway
+            hsa00052  Galactose metabolism
+            hsa00230  Purine metabolism
+            hsa00500  Starch and sucrose metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                55276 (PGM2)
+               00030 Pentose phosphate pathway
+                55276 (PGM2)
+               00052 Galactose metabolism
+                55276 (PGM2)
+               00500 Starch and sucrose metabolism
+                55276 (PGM2)
+               00520 Amino sugar and nucleotide sugar metabolism
+                55276 (PGM2)
+              Nucleotide metabolism
+               00230 Purine metabolism
+                55276 (PGM2)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.2  phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+                 55276 (PGM2)
+                5.4.2.7  phosphopentomutase
+                 55276 (PGM2)
+POSITION    4p14
+MOTIF       Pfam: PGM_PMM_I PGM_PMM_II PGM_PMM_III PGM_PMM_IV
+DBLINKS     NCBI-GeneID: 55276
+            NCBI-ProteinID: NP_060760
+            OMIM: 172000
+            HGNC: 8906
+            Ensembl: ENSG00000169299
+            Vega: OTTHUMG00000097813
+            Pharos: Q96G03(Tbio)
+            UniProt: Q96G03
+AASEQ       612
+            MAAPEGSGLGEDARLDQETAQWLRWDKNSLTLEAVKRLIAEGNKEELRKCFGARMEFGTA
+            GLRAAMGPGISRMNDLTIIQTTQGFCRYLEKQFSDLKQKGIVISFDARAHPSSGGSSRRF
+            ARLAATTFISQGIPVYLFSDITPTPFVPFTVSHLKLCAGIMITASHNPKQDNGYKVYWDN
+            GAQIISPHDKGISQAIEENLEPWPQAWDDSLIDSSPLLHNPSASINNDYFEDLKKYCFHR
+            SVNRETKVKFVHTSVHGVGHSFVQSAFKAFDLVPPEAVPEQKDPDPEFPTVKYPNPEEGK
+            GVLTLSFALADKTKARIVLANDPDADRLAVAEKQDSGEWRVFSGNELGALLGWWLFTSWK
+            EKNQDRSALKDTYMLSSTVSSKILRAIALKEGFHFEETLTGFKWMGNRAKQLIDQGKTVL
+            FAFEEAIGYMCCPFVLDKDGVSAAVISAELASFLATKNLSLSQQLKAIYVEYGYHITKAS
+            YFICHDQETIKKLFENLRNYDGKNNYPKACGKFEISAIRDLTTGYDDSQPDKKAVLPTSK
+            SSQMITFTFANGGVATMRTSGTEPKIKYYAELCAPPGNSDPEQLKKELNELVSAIEEHFF
+            QPQKYNLQPKAD
+NTSEQ       1839
+            atggcggctccagaaggcagcggtctaggcgaggacgcccggctggaccaggagaccgcc
+            cagtggctgcgctgggacaagaattccttaactttggaggcagtgaaacgactaatagca
+            gaaggtaataaagaagaactacgaaaatgttttggggcccgaatggagtttgggacagct
+            ggcctccgagctgctatgggacctggaatttctcgtatgaatgacttgaccatcatccag
+            actacacagggattttgcagatacctggaaaaacaattcagtgacttaaagcagaaaggc
+            atcgtgatcagttttgacgcccgagctcatccatccagtgggggtagcagcagaaggttt
+            gcccgacttgctgcaaccacatttatcagtcaggggattcctgtgtacctcttttctgat
+            ataacgccaaccccctttgtgcccttcacagtatcacatttgaaactttgtgctggaatc
+            atgataactgcatctcacaatccaaagcaggataatggttataaggtctattgggataat
+            ggagctcagatcatttctcctcacgataaagggatttctcaagctattgaagaaaatcta
+            gaaccgtggcctcaagcttgggacgattctttaattgatagcagtccacttctccacaat
+            ccgagtgcttccatcaataatgactactttgaagaccttaaaaagtactgtttccacagg
+            agcgtgaacagggagacaaaggtgaagtttgtgcacacctctgtccatggggtgggtcat
+            agctttgtgcagtcagctttcaaggcttttgaccttgttcctcctgaggctgttcctgaa
+            cagaaagatccggatcctgagtttccaacagtgaaatacccgaatcccgaagaggggaaa
+            ggtgtcttgactttgtcttttgctttggctgacaaaaccaaggccagaattgttttagct
+            aacgacccggatgctgatagacttgctgtggcagaaaagcaagacagtggtgaatggagg
+            gtgttttcaggcaatgagttgggggccctcctgggctggtggctttttacatcttggaaa
+            gagaagaaccaggatcgcagtgctctcaaagacacgtacatgttgtccagcaccgtctcc
+            tccaaaatcttgcgggccattgccttaaaggaaggttttcattttgaggaaacattaact
+            ggctttaagtggatgggaaacagagccaaacagctaatagaccaggggaaaactgtttta
+            tttgcatttgaagaagctattggatacatgtgctgcccttttgttctggacaaagatgga
+            gtcagtgccgctgtcataagtgcagagttggctagcttcctagcaaccaagaatttgtct
+            ttgtctcagcaactaaaggccatttatgtggagtatggctaccatattactaaagcttcc
+            tattttatctgccatgatcaagaaaccattaagaaattatttgaaaacctcagaaactac
+            gatggaaaaaataattatccaaaagcttgtggcaaatttgaaatttctgccattagggac
+            cttacaactggctatgatgatagccaacctgataaaaaagctgttcttcccactagtaaa
+            agcagccaaatgatcaccttcacctttgctaatggaggcgtggccaccatgcgcaccagt
+            gggacagagcccaaaatcaagtactatgcagagctgtgtgccccacctgggaacagtgat
+            cctgagcagctgaagaaggaactgaatgaactggtcagtgctattgaagaacattttttc
+            cagccacagaagtacaatctgcagccaaaagcagactaa
+///

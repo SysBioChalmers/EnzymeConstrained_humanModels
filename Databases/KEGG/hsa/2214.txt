@@ -1,0 +1,83 @@
+ENTRY       2214              CDS       T01001
+NAME        FCGR3A, CD16, CD16A, FCG3, FCGR3, FCGRIII, FCR-10, FCRIII, FCRIIIA, IGFR3, IMD20
+DEFINITION  (RefSeq) Fc fragment of IgG receptor IIIa
+ORTHOLOGY   K06463  low affinity immunoglobulin gamma Fc receptor III
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa05140  Leishmaniasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05322  Systemic lupus erythematosus
+DISEASE     H00080  Systemic lupus erythematosus
+            H00090  NK cell defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                2214 (FCGR3A)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                2214 (FCGR3A)
+               04666 Fc gamma R-mediated phagocytosis
+                2214 (FCGR3A)
+              Development
+               04380 Osteoclast differentiation
+                2214 (FCGR3A)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                2214 (FCGR3A)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                2214 (FCGR3A)
+               05152 Tuberculosis
+                2214 (FCGR3A)
+               05140 Leishmaniasis
+                2214 (FCGR3A)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Fc receptors
+                2214 (FCGR3A)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2214 (FCGR3A)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Receptors
+              2214 (FCGR3A)
+POSITION    1q23.3
+MOTIF       Pfam: Ig_2 Ig_3 ig Ig_4 I-set V-set Ig_5 Izumo-Ig TadE
+DBLINKS     NCBI-GeneID: 2214
+            NCBI-ProteinID: NP_001121065
+            OMIM: 146740
+            HGNC: 3619
+            Ensembl: ENSG00000203747
+            Vega: OTTHUMG00000034466
+            Pharos: P08637(Tbio)
+            UniProt: P08637
+STRUCTURE   PDB: 3SGJ 3AY4 3SGK 3WN5 5BW7 5D6D
+AASEQ       254
+            MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYRVLEKDSVTLKCQGAYSPEDNSTQW
+            FHNESLISSQASSYFIDAATVDDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+            EDPIHLRCHSWKNTALHKVTYLQNGKGRKYFHHNSDFYIPKATLKDSGSYFCRGLFGSKN
+            VSSETVNITITQGLAVSTISSFFPPGYQVSFCLVMVLLFAVDTGLYFSVKTNIRSSTRDW
+            KDHKFKWRKDPQDK
+NTSEQ       765
+            atgtggcagctgctcctcccaactgctctgctacttctagtttcagctggcatgcggact
+            gaagatctcccaaaggctgtggtgttcctggagcctcaatggtacagggtgctcgagaag
+            gacagtgtgactctgaagtgccagggagcctactcccctgaggacaattccacacagtgg
+            tttcacaatgagagcctcatctcaagccaggcctcgagctacttcattgacgctgccaca
+            gtcgacgacagtggagagtacaggtgccagacaaacctctccaccctcagtgacccggtg
+            cagctagaagtccatatcggctggctgttgctccaggcccctcggtgggtgttcaaggag
+            gaagaccctattcacctgaggtgtcacagctggaagaacactgctctgcataaggtcaca
+            tatttacagaatggcaaaggcaggaagtattttcatcataattctgacttctacattcca
+            aaagccacactcaaagacagcggctcctacttctgcagggggctttttgggagtaaaaat
+            gtgtcttcagagactgtgaacatcaccatcactcaaggtttggcagtgtcaaccatctca
+            tcattctttccacctgggtaccaagtctctttctgcttggtgatggtactcctttttgca
+            gtggacacaggactatatttctctgtgaagacaaacattcgaagctcaacaagagactgg
+            aaggaccataaatttaaatggagaaaggaccctcaagacaaatga
+///

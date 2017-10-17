@@ -1,0 +1,123 @@
+ENTRY       23396             CDS       T01001
+NAME        PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma
+DEFINITION  (RefSeq) phosphatidylinositol-4-phosphate 5-kinase type 1 gamma
+ORTHOLOGY   K00889  1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04510  Focal adhesion
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4
+DISEASE     H00865  Lethal congenital contractural syndrome (LCCS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                23396 (PIP5K1C)
+             Environmental Information Processing
+              Signal transduction
+               04070 Phosphatidylinositol signaling system
+                23396 (PIP5K1C)
+               04072 Phospholipase D signaling pathway
+                23396 (PIP5K1C)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                23396 (PIP5K1C)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                23396 (PIP5K1C)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                23396 (PIP5K1C)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                23396 (PIP5K1C)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                23396 (PIP5K1C)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.68  1-phosphatidylinositol-4-phosphate 5-kinase
+                 23396 (PIP5K1C)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                23396 (PIP5K1C)
+             Endocytosis
+              Clathrin-mediated endocytosis
+               LDLR adaptor proteins
+                23396 (PIP5K1C)
+             Endosome - Golgi transport
+              Others
+               Others
+                23396 (PIP5K1C)
+POSITION    19p13.3
+MOTIF       Pfam: PIP5K Toxin_33
+DBLINKS     NCBI-GeneID: 23396
+            NCBI-ProteinID: NP_036530
+            OMIM: 606102
+            HGNC: 8996
+            Ensembl: ENSG00000186111
+            Vega: OTTHUMG00000180870
+            Pharos: O60331(Tbio)
+            UniProt: O60331
+AASEQ       668
+            MELEVPDEAESAEAGAVPSEAAWAAESGAAAGLAQKKAAPTEVLSMTAQPGPGHGKKLGH
+            RGVDASGETTYKKTTSSTLKGAIQLGIGYTVGHLSSKPERDVLMQDFYVVESIFFPSEGS
+            NLTPAHHFQDFRFKTYAPVAFRYFRELFGIRPDDYLYSLCNEPLIELSNPGASGSLFYVT
+            SDDEFIIKTVMHKEAEFLQKLLPGYYMNLNQNPRTLLPKFYGLYCVQSGGKNIRVVVMNN
+            ILPRVVKMHLKFDLKGSTYKRRASKKEKEKSFPTYKDLDFMQDMPEGLLLDADTFSALVK
+            TLQRDCLVLESFKIMDYSLLLGVHNIDQHERERQAQGAQSTSDEKRPVGQKALYSTAMES
+            IQGGAARGEAIESDDTMGGIPAVNGRGERLLLHIGIIDILQSYRFIKKLEHTWKALVHDG
+            DTVSVHRPSFYAERFFKFMSNTVFRKNSSLKSSPSKKGRGGALLAVKPLGPTAAFSASQI
+            PSEREEAQYDLRGARSYPTLEDEGRPDLLPCTPPSFEEATTASIATTLSSTSLSIPERSP
+            SETSEQPRYRRRTQSSGQDGRPQEEPPAEEDLQQITVQVEPACSVEIVVPKEEDAGVEAS
+            PAGASAAVEVETASQASDEEGAPASQASDEEDAPATDIYFPTDERSWVYSPLHYSAQAPP
+            ASDGESDT
+NTSEQ       2007
+            atggagctggaggtaccggacgaggcggagagcgctgaggcgggggccgtgccctcggag
+            gcggcgtgggcggcagagagcggggcggcggcaggtttggctcagaagaaggcggcccca
+            acagaggttctgtccatgacggcacagccgggccctggccatgggaagaagttgggccat
+            cgaggtgtggacgcatccggcgaaaccacctacaagaagaccacctcctccaccctgaag
+            ggtgccatccagctgggcatcggctacaccgtgggccacctgagctccaagcccgaacgc
+            gacgtgctcatgcaggacttctacgtggtggagagcatcttcttccccagcgaaggcagc
+            aacctcacccccgcccaccacttccaggacttccgcttcaagacctatgcacctgtcgcc
+            ttccgctacttccgggagctctttgggatccggccagatgattacttgtactccctgtgc
+            aatgagccgctgatcgagctgtccaacccgggcgccagtggctccctcttctacgtcacc
+            agcgacgacgagttcatcatcaagaccgtcatgcacaaggaggccgagttcctgcagaag
+            ctgctccctggctactacatgaacctcaaccagaacccgcggacgctgctgcccaagttc
+            tatgggctgtactgcgtgcagtcggggggcaagaacatccgcgtcgtggtcatgaacaac
+            atcctgccccgcgtggtcaagatgcacctcaagttcgacctcaagggctccacctacaag
+            cggcgcgccagcaagaaggagaaggagaagagcttccccacctacaaggacctggacttc
+            atgcaggacatgcccgaggggctcctgctggacgccgacaccttcagcgccctggtcaag
+            acgctgcagcgggactgcctggtcctggaaagtttcaagatcatggactacagcctgctg
+            ctgggcgtgcacaacatcgaccagcacgagcgcgagcggcaggcgcagggcgcccagagc
+            acctcagatgagaagcggcctgtgggccagaaggcgctctactccacggccatggagtcc
+            atccagggtggcgccgcgcgcggggaggccatcgaatcggatgacacgatgggcgggatc
+            cccgctgtgaacggccgcggggagcggctgctgctgcacattggcatcatcgacatcctg
+            cagtcctacaggttcatcaagaaactggagcacacctggaaggccctcgtccacgatggg
+            gacacggtgtccgtccaccgccccagcttctatgccgagcgctttttcaagttcatgagc
+            aacacggtctttcggaagaactcctccctgaagtcctcgccctccaagaaggggcgcggc
+            ggagccttgctagctgtgaaaccgctggggcccaccgctgccttctcggccagccagatc
+            cctagcgagcgggaggaggcccagtacgacctgcggggggcccgcagctaccccacgctg
+            gaggacgaaggccggcccgacctcctgccctgcacgccaccttctttcgaagaagccact
+            acagcctccattgccacgactctgtcatccacatccctctccattcctgagcggtccccc
+            tcggagacgtcggagcagccgcggtacaggcggcgcacacagtcgtctggacaggatggc
+            aggccgcaggaggagccacccgcggaagaggatctgcagcagattacagtgcaggtggag
+            cctgcgtgcagcgtggagattgtggtccccaaagaggaggacgcaggggtggaggcttcc
+            ccggccggtgcctctgctgctgttgaagtagaaactgccagccaggcctcagacgaggag
+            ggcgcacctgccagccaggcctcggacgaggaggacgcgcccgccaccgacatctacttt
+            cccaccgatgagaggagctgggtgtactccccgctccactatagcgcccaggcccccccg
+            gcctccgacggcgagagcgacacataa
+///

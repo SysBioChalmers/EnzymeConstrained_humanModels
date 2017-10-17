@@ -1,0 +1,61 @@
+ENTRY       5713              CDS       T01001
+NAME        PSMD7, MOV34, P40, Rpn8, S12
+DEFINITION  (RefSeq) proteasome 26S subunit, non-ATPase 7
+ORTHOLOGY   K03038  26S proteasome regulatory subunit N8
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00341  Proteasome, 19S regulatory particle (PA700)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5713 (PSMD7)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                5713 (PSMD7)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 5713 (PSMD7)
+POSITION    16q23.1
+MOTIF       Pfam: MitMem_reg JAB Coilin_N Connexin
+DBLINKS     NCBI-GeneID: 5713
+            NCBI-ProteinID: NP_002802
+            OMIM: 157970
+            HGNC: 9565
+            Ensembl: ENSG00000103035
+            Vega: OTTHUMG00000137601
+            Pharos: P51665(Tbio)
+            UniProt: P51665
+STRUCTURE   PDB: 2O95 2O96 5VGZ 5M32 5T0G 5GJQ 5L4K 5VHF 5VHH 5VHI 5T0H
+                 5LN3 5T0I 5T0J 5VHS
+AASEQ       324
+            MPELAVQKVVVHPLVLLSVVDHFNRIGKVGNQKRVVGVLLGSWQKKVLDVSNSFAVPFDE
+            DDKDDSVWFLDHDYLENMYGMFKKVNARERIVGWYHTGPKLHKNDIAINELMKRYCPNSV
+            LVIIDVKPKDLGLPTEAYISVEEVHDDGTPTSKTFEHVTSEIGAEEAEEVGVEHLLRDIK
+            DTTVGTLSQRITNQVHGLKGLNSKLLDIRSYLEKVATGKLPINHQIIYQLQDVFNLLPDV
+            SLQEFVKAFYLKTNDQMVVVYLASLIRSVVALHNLINNKIANRDAEKKEGQEKEESKKDR
+            KEDKEKDKDKEKSDVKKEEKKEKK
+NTSEQ       975
+            atgccggagctggcagtgcagaaggtggtggtccaccccctggtgctgctcagtgtggtg
+            gatcatttcaaccgaatcggcaaggttggaaaccagaagcgtgttgttggtgtgcttttg
+            gggtcatggcaaaagaaagtacttgatgtatcgaacagttttgcagttccttttgatgaa
+            gatgacaaagacgattctgtatggtttttagaccatgattatttggaaaacatgtatgga
+            atgtttaagaaagtcaatgccagggaaagaatagttggctggtaccacacaggccctaaa
+            ctacacaagaatgacattgccatcaacgaactcatgaaaagatactgtcctaattccgta
+            ttggtcatcattgatgtgaagccgaaggacctagggctgcctacagaagcgtacatttca
+            gtggaagaagtccatgatgatggaactccaacctcgaaaacatttgaacacgtgaccagt
+            gaaattggagcagaggaagctgaggaagttggagttgaacacttgttacgagatatcaaa
+            gacacgacggtgggcactctgtcccagcggatcacaaaccaggtccatggtttgaaggga
+            ctgaactccaagcttctggatatcaggagctacctggaaaaagtcgccacaggcaagctg
+            cccatcaaccaccagatcatctaccagctgcaggacgtcttcaacctgctgccagatgtc
+            agcctgcaggagttcgtcaaggccttttacctgaagaccaatgaccagatggtggtagtg
+            tacttggcctcgctgatccgttccgtggtcgccctgcacaacctcatcaacaacaagatt
+            gccaaccgggatgcagagaagaaagaagggcaggagaaagaagagagcaaaaaggatagg
+            aaagaggacaaggagaaagataaagataaggaaaagagtgatgtaaagaaagaggagaaa
+            aaggagaaaaagtaa
+///

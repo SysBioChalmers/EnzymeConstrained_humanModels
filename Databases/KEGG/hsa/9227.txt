@@ -1,0 +1,53 @@
+ENTRY       9227              CDS       T01001
+NAME        LRAT, LCA14
+DEFINITION  (RefSeq) lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)
+ORTHOLOGY   K00678  phosphatidylcholine-retinol O-acyltransferase [EC:2.3.1.135]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa04977  Vitamin digestion and absorption
+DISEASE     H00527  Retinitis pigmentosa (RP)
+            H00837  Leber congenital amaurosis (LCR)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                9227 (LRAT)
+             Organismal Systems
+              Digestive system
+               04977 Vitamin digestion and absorption
+                9227 (LRAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.135  phosphatidylcholine---retinol O-acyltransferase
+                 9227 (LRAT)
+POSITION    4q32.1
+MOTIF       Pfam: LRAT NLPC_P60
+DBLINKS     NCBI-GeneID: 9227
+            NCBI-ProteinID: NP_001288574
+            OMIM: 604863
+            HGNC: 6685
+            Ensembl: ENSG00000121207
+            Vega: OTTHUMG00000161418
+            Pharos: O95237(Tbio)
+            UniProt: O95237
+AASEQ       230
+            MKNPMLEVVSLLLEKLLLISNFTLFSSGAAGEDKGRNSFYETSSFHRGDVLEVPRTHLTH
+            YGIYLGDNRVAHMMPDILLALTDDMGRTQKVVSNKRLILGVIVKVASIRVDTVEDFAYGA
+            NILVNHLDESLQKKALLNEEVARRAEKLLGFTPYSLLWNNCEHFVTYCRYGTPISPQSDK
+            FCETVKIIIRDQRSVLASAVLGLASIVCTGLVSYTTLPAIFIPFFLWMAG
+NTSEQ       693
+            atgaagaaccccatgctggaggtggtgtctttactactggagaagctgctcctcatctcc
+            aacttcacgctctttagttcgggcgccgcgggcgaagacaaagggaggaacagtttttat
+            gaaaccagctctttccaccgaggcgacgtgctggaggtgccccggacccacctgacccac
+            tatggcatctacctaggagacaaccgtgttgcccacatgatgcccgacatcctgttggcc
+            ctgacagacgacatggggcgcacgcagaaggtggtctccaacaagcgtctcatcctgggc
+            gttattgtcaaagtggccagcatccgcgtggacacagtggaggacttcgcctacggagct
+            aacatcctggtcaatcacctggacgagtccctccagaaaaaggcactgctcaacgaggag
+            gtggcgcggagggctgaaaagctgctgggctttaccccctacagcctgctgtggaacaac
+            tgcgagcacttcgtgacctactgcagatatggcaccccgatcagtccccagtccgacaag
+            ttttgtgagactgtgaagataattattcgtgatcagagaagtgttcttgcttcagcagtc
+            ttgggattggcgtctatagtctgtacgggcttggtatcatacactacccttcctgcaatt
+            tttattccattcttcctatggatggctggctaa
+///

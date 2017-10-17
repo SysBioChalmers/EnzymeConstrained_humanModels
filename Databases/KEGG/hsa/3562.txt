@@ -1,0 +1,75 @@
+ENTRY       3562              CDS       T01001
+NAME        IL3, IL-3, MCGF, MULTI-CSF
+DEFINITION  (RefSeq) interleukin 3
+ORTHOLOGY   K04736  interleukin 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05310  Asthma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3562 (IL3)
+               04151 PI3K-Akt signaling pathway
+                3562 (IL3)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3562 (IL3)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                3562 (IL3)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3562 (IL3)
+               04664 Fc epsilon RI signaling pathway
+                3562 (IL3)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                3562 (IL3)
+               05221 Acute myeloid leukemia
+                3562 (IL3)
+              Immune diseases
+               05310 Asthma
+                3562 (IL3)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-3 receptor family
+               3562 (IL3)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               3562 (IL3)
+POSITION    5q31.1
+MOTIF       Pfam: IL3 Ldl_recept_b
+DBLINKS     NCBI-GeneID: 3562
+            NCBI-ProteinID: NP_000579
+            OMIM: 147740
+            HGNC: 6011
+            Ensembl: ENSG00000164399
+            Vega: OTTHUMG00000059640
+            Pharos: P08700(Tbio)
+            UniProt: P08700
+AASEQ       152
+            MSRLPVLLLLQLLVRPGLQAPMTQTTPLKTSWVNCSNMIDEIITHLKQPPLPLLDFNNLN
+            GEDQDILMENNLRRPNLEAFNRAVKSLQNASAIESILKNLLPCLPLATAAPTRHPIHIKD
+            GDWNEFRRKLTFYLKTLENAQAQQTTLSLAIF
+NTSEQ       459
+            atgagccgcctgcccgtcctgctcctgctccaactcctggtccgccccggactccaagct
+            cccatgacccagacaacgcccttgaagacaagctgggttaactgctctaacatgatcgat
+            gaaattataacacacttaaagcagccacctttgcctttgctggacttcaacaacctcaat
+            ggggaagaccaagacattctgatggaaaataaccttcgaaggccaaacctggaggcattc
+            aacagggctgtcaagagtttacagaacgcatcagcaattgagagcattcttaaaaatctc
+            ctgccatgtctgcccctggccacggccgcacccacgcgacatccaatccatatcaaggac
+            ggtgactggaatgaattccggaggaaactgacgttctatctgaaaacccttgagaatgcg
+            caggctcaacagacgactttgagcctcgcgatcttttga
+///

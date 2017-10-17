@@ -1,0 +1,76 @@
+ENTRY       51095             CDS       T01001
+NAME        TRNT1, CCA1, CGI-47, MtCCA, RPEM, SIFD
+DEFINITION  (RefSeq) tRNA nucleotidyl transferase 1
+ORTHOLOGY   K00974  tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                51095 (TRNT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.72  CCA tRNA nucleotidyltransferase
+                 51095 (TRNT1)
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.-  
+                 51095 (TRNT1)
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.-  
+                 51095 (TRNT1)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              3'processing and CCA adding factors
+               CCA adding factors
+                51095 (TRNT1)
+             Prokaryotic Type
+                51095 (TRNT1)
+POSITION    3p26.2
+MOTIF       Pfam: PolyA_pol PolyA_pol_RNAbd
+DBLINKS     NCBI-GeneID: 51095
+            NCBI-ProteinID: NP_886552
+            OMIM: 612907
+            HGNC: 17341
+            Ensembl: ENSG00000072756
+            Vega: OTTHUMG00000090259
+            Pharos: Q96Q11(Tbio)
+            UniProt: Q96Q11 A0A024R2H7
+STRUCTURE   PDB: 4X4W 1OU5
+AASEQ       434
+            MLRCLYHWHRPVLNRRWSRLCLLKQYLFTMKLQSPEFQSLFTEGLKSLTELFVKENHELR
+            IAGGAVRDLLNGVKPQDIDFATTATPTQMKEMFQSAGIRMINNRGEKHGTITARLHEENF
+            EITTLRIDVTTDGRHAEVEFTTDWQKDAERRDLTINSMFLGFDGTLFDYFNGYEDLKNKK
+            VRFVGHAKQRIQEDYLRILRYFRFYGRIVDKPGDHDPETLEAIAENAKGLAGISGERIWV
+            ELKKILVGNHVNHLIHLIYDLDVAPYIGLPANASLEEFDKVSKNVDGFSPKPVTLLASLF
+            KVQDDVTKLDLRLKIAKEEKNLGLFIVKNRKDLIKATDSSDPLKPYQDFIIDSREPDATT
+            RVCELLKYQGEHCLLKEMQQWSIPPFPVSGHDIRKVGISSGKEIGALLQQLREQWKKSGY
+            QMEKDELLSYIKKT
+NTSEQ       1305
+            atgctgaggtgcctgtatcattggcacaggccagtgctgaaccgtaggtggagtaggctg
+            tgccttctgaagcagtatctattcacaatgaagttgcagtctcccgaattccagtcactt
+            ttcacagaaggactgaagagtctgacagaattatttgtcaaagagaatcacgaattaaga
+            atagcaggaggagcagtgagggatttattaaatggagtaaagcctcaggatatagatttt
+            gccaccactgctacccctactcaaatgaaggagatgtttcagtcggctgggattcggatg
+            ataaacaacagaggagaaaagcacggaacaattactgccaggcttcatgaagaaaatttt
+            gagattactacactacggattgatgtcaccactgatggaagacatgctgaggtagaattt
+            acaactgactggcagaaagatgcggaacgcagagatctcactataaattctatgttttta
+            ggttttgatggcactttatttgactactttaatggttatgaagatttaaaaaataagaaa
+            gttagatttgttggacatgctaaacagagaatacaagaggattatcttagaattttaaga
+            tacttcaggttttatgggagaattgtagacaaacctggtgaccatgatcctgagactttg
+            gaagcaattgcagaaaatgcaaaaggcttggctggaatatcaggagaaaggatttgggtg
+            gaactgaaaaaaattcttgttggtaaccatgtaaatcatttgattcaccttatctatgat
+            cttgatgtggctccttatataggtttacctgctaatgcaagtttagaagaatttgacaaa
+            gtcagtaaaaatgttgatggtttttcaccaaagccagtgactcttttggcctcattattc
+            aaagtacaagatgatgtcacaaaattggatttgaggttgaagatcgcaaaagaggagaaa
+            aaccttggcttatttatagttaaaaataggaaagatttaattaaagcaacagatagttca
+            gacccattgaaaccctatcaagacttcattatagattctagggaacctgatgcaactact
+            cgtgtatgtgaactactgaagtaccaaggagagcactgtctcctaaaggaaatgcagcag
+            tggtccattcctccatttcctgtaagtggccatgacatcagaaaagtgggcatttcttca
+            ggaaaagaaattggggctctattacaacagttgcgagaacagtggaaaaaaagtggttac
+            caaatggaaaaagatgaacttctgagttacataaagaagacctaa
+///

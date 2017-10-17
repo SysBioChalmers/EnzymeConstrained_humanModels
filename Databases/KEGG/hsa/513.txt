@@ -1,0 +1,49 @@
+ENTRY       513               CDS       T01001
+NAME        ATP5D
+DEFINITION  (RefSeq) ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit
+ORTHOLOGY   K02134  F-type H+-transporting ATPase subunit delta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00158  F-type ATPase, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                513 (ATP5D)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                513 (ATP5D)
+               05012 Parkinson's disease
+                513 (ATP5D)
+               05016 Huntington's disease
+                513 (ATP5D)
+POSITION    19p13.3
+MOTIF       Pfam: ATP-synt_DE_N
+DBLINKS     NCBI-GeneID: 513
+            NCBI-ProteinID: NP_001001975
+            OMIM: 603150
+            HGNC: 837
+            Ensembl: ENSG00000099624
+            Vega: OTTHUMG00000180143
+            Pharos: P30049(Tdark)
+            UniProt: P30049
+AASEQ       168
+            MLPAALLRRPGLGRLVRHARAYAEAAAAPAAASGPNQMSFTFASPTQVFFNGANVRQVDV
+            PTLTGAFGILAAHVPTLQVLRPGLVVVHAEDGTTSKYFVSSGSIAVNADSSVQLLAEEAV
+            TLDMLDLGAAKANLEKAQAELVGTADEATRAEIQIRIEANEALVKALE
+NTSEQ       507
+            atgctgcccgccgcgctgctccgccgcccgggacttggccgcctcgtccgccacgcccgt
+            gcctatgccgaggccgccgccgccccggctgccgcctctggccccaaccagatgtccttc
+            accttcgcctctcccacgcaggtgttcttcaacggtgccaacgtccggcaggtggacgtg
+            cccacgctgaccggagccttcggcatcctggcggcccacgtgcccacgctgcaggtcctg
+            cggccggggctggtcgtggtgcatgcagaggacggcaccacctccaaatactttgtgagc
+            agcggttccatcgcagtgaacgccgactcttcggtgcagttgttggccgaagaggccgtg
+            acgctggacatgttggacctgggggcagccaaggcaaacttggagaaggcccaggcggag
+            ctggtggggacagctgacgaggccacgcgggcagagatccagatccgaatcgaggccaac
+            gaggccctggtgaaggccctggagtag
+///

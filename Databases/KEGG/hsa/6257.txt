@@ -1,0 +1,99 @@
+ENTRY       6257              CDS       T01001
+NAME        RXRB, DAUDI6, H-2RIIBP, NR2B2, RCoR-1
+DEFINITION  (RefSeq) retinoid X receptor beta
+ORTHOLOGY   K08525  retinoid X receptor beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05216  Thyroid cancer
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+DRUG_TARGET Alitretinoin: D02815
+            Bexarotene: D03106
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                6257 (RXRB)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                6257 (RXRB)
+               03320 PPAR signaling pathway
+                6257 (RXRB)
+               04919 Thyroid hormone signaling pathway
+                6257 (RXRB)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6257 (RXRB)
+               05202 Transcriptional misregulation in cancers
+                6257 (RXRB)
+               05216 Thyroid cancer
+                6257 (RXRB)
+               05222 Small cell lung cancer
+                6257 (RXRB)
+               05223 Non-small cell lung cancer
+                6257 (RXRB)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 hepatocyte nuclear factor 4-like
+                6257 (RXRB)
+            Nuclear receptors [BR:hsa03310]
+             2. Hepatocyte nuclear factor 4 like
+              2B. Retinoid X receptor (RXR)
+               6257 (RXRB)
+POSITION    6p21.32
+MOTIF       Pfam: Hormone_recep zf-C4 Nuc_recep-AF1
+DBLINKS     NCBI-GeneID: 6257
+            NCBI-ProteinID: NP_068811
+            OMIM: 180246
+            HGNC: 10478
+            Ensembl: ENSG00000204231
+            Vega: OTTHUMG00000031298
+            Pharos: P28702(Tclin)
+            UniProt: P28702 Q5STP9
+STRUCTURE   PDB: 5KYA 5HJP 5I4V 5KYJ 1UHL 1H9U
+AASEQ       533
+            MSWAARPPFLPQRHAAGQCGPVGVRKEMHCGVASRWRRRRPWLDPAAAAAAAVAGGEQQT
+            PEPEPGEAGRDGMGDSGRDSRSPDSSSPNPLPQGVPPPSPPGPPLPPSTAPSLGGSGAPP
+            PPPMPPPPLGSPFPVISSSMGSPGLPPPAPPGFSGPVSSPQINSTVSLPGGGSGPPEDVK
+            PPVLGVRGLHCPPPPGGPGAGKRLCAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLTYS
+            CRDNKDCTVDKRQRNRCQYCRYQKCLATGMKREAVQEERQRGKDKDGDGEGAGGAPEEMP
+            VDRILEAELAVEQKSDQGVEGPGGTGGSGSSPNDPVTNICQAADKQLFTLVEWAKRIPHF
+            SSLPLDDQVILLRAGWNELLIASFSHRSIDVRDGILLATGLHVHRNSAHSAGVGAIFDRV
+            LTELVSKMRDMRMDKTELGCLRAIILFNPDAKGLSNPSEVEVLREKVYASLETYCKQKYP
+            EQQGRFAKLLLRLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQLA
+NTSEQ       1602
+            atgtcttgggccgctcgcccgcccttcctccctcagcggcatgccgcagggcagtgtggg
+            ccggtgggggtgcgaaaagaaatgcattgtggggtcgcgtcccggtggcggcggcgacgg
+            ccctggctggatcccgcagcggcggcggcggcggcggtggcaggcggagaacaacaaacc
+            ccggagccggagccaggggaggctggacgggacgggatgggcgacagcgggcgggactcc
+            cgaagcccagacagctcctccccaaatccccttccccagggagtccctcccccttctcct
+            cctgggccacccctacccccttcaacagctccatcccttggaggctctggggccccaccc
+            ccacccccgatgccaccacccccactgggctctccctttccagtcatcagttcttccatg
+            gggtcccctggtctgccccctccagctcccccaggattctccgggcctgtcagcagcccc
+            cagattaactcaacagtgtcactccctgggggtgggtctggcccccctgaagatgtgaag
+            ccaccagtcttaggggtccggggcctgcactgtccaccccctccaggtggccctggggct
+            ggcaaacggctatgtgcaatctgcggggacagaagctcaggcaaacactacggggtttac
+            agctgtgagggttgcaagggcttcttcaaacgcaccatccgcaaagaccttacatactct
+            tgccgggacaacaaagactgcacagtggacaagcgccagcggaaccgctgtcagtactgc
+            cgctatcagaagtgcctggccactggcatgaagagggaggcggtacaggaggagcgtcag
+            cggggaaaggacaaggatggggatggggagggggctgggggagcccccgaggagatgcct
+            gtggacaggatcctggaggcagagcttgctgtggaacagaagagtgaccagggcgttgag
+            ggtcctgggggaaccgggggtagcggcagcagcccaaatgaccctgtgactaacatctgt
+            caggcagctgacaaacagctattcacgcttgttgagtgggcgaagaggatcccacacttt
+            tcctccttgcctctggatgatcaggtcatattgctgcgggcaggctggaatgaactcctc
+            attgcctccttctcacaccgatccattgatgttcgagatggcatcctccttgccacaggt
+            cttcacgtgcaccgcaactcagcccattcagcaggagtaggagccatctttgatcgggtg
+            ctgacagagctagtgtccaaaatgcgtgacatgaggatggacaagacagagcttggctgc
+            ctgagggcaatcattctgtttaatccagatgccaagggcctctccaaccctagtgaggtg
+            gaggtcctgcgggagaaagtgtatgcatcactggagacctactgcaaacagaagtaccct
+            gagcagcagggacggtttgccaagctgctgctacgtcttcctgccctccggtccattggc
+            cttaagtgtctagagcatctgtttttcttcaagctcattggtgacacccccatcgacacc
+            ttcctcatggagatgcttgaggctccccatcaactggcctga
+///

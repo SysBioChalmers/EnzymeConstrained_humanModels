@@ -1,0 +1,82 @@
+ENTRY       4323              CDS       T01001
+NAME        MMP14, MMP-14, MMP-X1, MT-MMP, MT-MMP_1, MT1-MMP, MT1MMP, MTMMP1, WNCHRS
+DEFINITION  (RefSeq) matrix metallopeptidase 14
+ORTHOLOGY   K07763  matrix metalloproteinase-14 (membrane-inserted) [EC:3.4.24.80]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04668  TNF signaling pathway
+            hsa04912  GnRH signaling pathway
+DRUG_TARGET Prinomastat: D03797
+            Rebimastat: D03800
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                4323 (MMP14)
+             Organismal Systems
+              Endocrine system
+               04912 GnRH signaling pathway
+                4323 (MMP14)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.80  membrane-type matrix metalloproteinase-1
+                 4323 (MMP14)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M10
+               4323 (MMP14)
+POSITION    14q11.2
+MOTIF       Pfam: Peptidase_M10 Hemopexin DUF3377 PG_binding_1 Astacin Peptidase_M54 Metallopep DUF4953 Reprolysin_3 HTH_17 Peptidase_M66 Reprolysin_5
+DBLINKS     NCBI-GeneID: 4323
+            NCBI-ProteinID: NP_004986
+            OMIM: 600754
+            HGNC: 7160
+            Ensembl: ENSG00000157227
+            Vega: OTTHUMG00000028704
+            Pharos: P50281(Tchem)
+            UniProt: P50281
+STRUCTURE   PDB: 3C7X 3MA2 3X23 1BUV 1BQQ 2MQS
+AASEQ       582
+            MSPAPRPPRCLLLPLLTLGTALASLGSAQSSSFSPEAWLQQYGYLPPGDLRTHTQRSPQS
+            LSAAIAAMQKFYGLQVTGKADADTMKAMRRPRCGVPDKFGAEIKANVRRKRYAIQGLKWQ
+            HNEITFCIQNYTPKVGEYATYEAIRKAFRVWESATPLRFREVPYAYIREGHEKQADIMIF
+            FAEGFHGDSTPFDGEGGFLAHAYFPGPNIGGDTHFDSAEPWTVRNEDLNGNDIFLVAVHE
+            LGHALGLEHSSDPSAIMAPFYQWMDTENFVLPDDDRRGIQQLYGGESGFPTKMPPQPRTT
+            SRPSVPDKPKNPTYGPNICDGNFDTVAMLRGEMFVFKERWFWRVRNNQVMDGYPMPIGQF
+            WRGLPASINTAYERKDGKFVFFKGDKHWVFDEASLEPGYPKHIKELGRGLPTDKIDAALF
+            WMPNGKTYFFRGNKYYRFNEELRAVDSEYPKNIKVWEGIPESPRGSFMGSDEVFTYFYKG
+            NKYWKFNNQKLKVEPGYPKSALRDWMGCPSGGRPDEGTEEETEVIIIEVDEEGGGAVSAA
+            AVVLPVLLLLLVLAVGLAVFFFRRHGTPRRLLYCQRSLLDKV
+NTSEQ       1749
+            atgtctcccgccccaagacccccccgttgtctcctgctccccctgctcacgctcggcacc
+            gcgctcgcctccctcggctcggcccaaagcagcagcttcagccccgaagcctggctacag
+            caatatggctacctgcctcccggggacctacgtacccacacacagcgctcaccccagtca
+            ctctcagcggccatcgctgccatgcagaagttttacggcttgcaagtaacaggcaaagct
+            gatgcagacaccatgaaggccatgaggcgcccccgatgtggtgttccagacaagtttggg
+            gctgagatcaaggccaatgttcgaaggaagcgctacgccatccagggtctcaaatggcaa
+            cataatgaaatcactttctgcatccagaattacacccccaaggtgggcgagtatgccaca
+            tacgaggccattcgcaaggcgttccgcgtgtgggagagtgccacaccactgcgcttccgc
+            gaggtgccctatgcctacatccgtgagggccatgagaagcaggccgacatcatgatcttc
+            tttgccgagggcttccatggcgacagcacgcccttcgatggtgagggcggcttcctggcc
+            catgcctacttcccaggccccaacattggaggagacacccactttgactctgccgagcct
+            tggactgtcaggaatgaggatctgaatggaaatgacatcttcctggtggctgtgcacgag
+            ctgggccatgccctggggctcgagcattccagtgacccctcggccatcatggcacccttt
+            taccagtggatggacacggagaattttgtgctgcccgatgatgaccgccggggcatccag
+            caactttatgggggtgagtcagggttccccaccaagatgccccctcaacccaggactacc
+            tcccggccttctgttcctgataaacccaaaaaccccacctatgggcccaacatctgtgac
+            gggaactttgacaccgtggccatgctccgaggggagatgtttgtcttcaaggagcgctgg
+            ttctggcgggtgaggaataaccaagtgatggatggatacccaatgcccattggccagttc
+            tggcggggcctgcctgcgtccatcaacactgcctacgagaggaaggatggcaaattcgtc
+            ttcttcaaaggagacaagcattgggtgtttgatgaggcgtccctggaacctggctacccc
+            aagcacattaaggagctgggccgagggctgcctaccgacaagattgatgctgctctcttc
+            tggatgcccaatggaaagacctacttcttccgtggaaacaagtactaccgtttcaacgaa
+            gagctcagggcagtggatagcgagtaccccaagaacatcaaagtctgggaagggatccct
+            gagtctcccagagggtcattcatgggcagcgatgaagtcttcacttacttctacaagggg
+            aacaaatactggaaattcaacaaccagaagctgaaggtagaaccgggctaccccaagtca
+            gccctgagggactggatgggctgcccatcgggaggccggccggatgaggggactgaggag
+            gagacggaggtgatcatcattgaggtggacgaggagggcggcggggcggtgagcgcggct
+            gccgtggtgctgcccgtgctgctgctgctcctggtgctggcggtgggccttgcagtcttc
+            ttcttcagacgccatgggacccccaggcgactgctctactgccagcgttccctgctggac
+            aaggtctga
+///

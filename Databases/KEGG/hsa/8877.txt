@@ -1,0 +1,87 @@
+ENTRY       8877              CDS       T01001
+NAME        SPHK1, SPHK
+DEFINITION  (RefSeq) sphingosine kinase 1
+ORTHOLOGY   K04718  sphingosine kinase [EC:2.7.1.91]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04020  Calcium signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa05152  Tuberculosis
+MODULE      hsa_M00100  Sphingosine degradation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                8877 (SPHK1)
+             Environmental Information Processing
+              Signal transduction
+               04370 VEGF signaling pathway
+                8877 (SPHK1)
+               04371 Apelin signaling pathway
+                8877 (SPHK1)
+               04020 Calcium signaling pathway
+                8877 (SPHK1)
+               04072 Phospholipase D signaling pathway
+                8877 (SPHK1)
+               04071 Sphingolipid signaling pathway
+                8877 (SPHK1)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                8877 (SPHK1)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                8877 (SPHK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.91  sphingosine kinase
+                 8877 (SPHK1)
+POSITION    17q25.1
+MOTIF       Pfam: DAGK_cat
+DBLINKS     NCBI-GeneID: 8877
+            NCBI-ProteinID: NP_001136073
+            OMIM: 603730
+            HGNC: 11240
+            Ensembl: ENSG00000176170
+            Vega: OTTHUMG00000180177
+            Pharos: Q9NYA1(Tchem)
+            UniProt: Q9NYA1 Q53ZR5
+STRUCTURE   PDB: 4V24 3VZB 3VZC 3VZD 4L02
+AASEQ       384
+            MDPAGGPRGVLPRPCRVLVLLNPRGGKGKALQLFRSHVQPLLAEAEISFTLMLTERRNHA
+            RELVRSEELGRWDALVVMSGDGLMHEVVNGLMERPDWETAIQKPLCSLPAGSGNALAASL
+            NHYAGYEQVTNEDLLTNCTLLLCRRLLSPMNLLSLHTASGLRLFSVLSLAWGFIADVDLE
+            SEKYRRLGEMRFTLGTFLRLAALRTYRGRLAYLPVGRVGSKTPASPVVVQQGPVDAHLVP
+            LEEPVPSHWTVVPDEDFVLVLALLHSHLGSEMFAAPMGRCAAGVMHLFYVRAGVSRAMLL
+            RLFLAMEKGRHMEYECPYLVYVPVVAFRLEPKDGKGVFAVDGELMVSEAVQGQVHPNYFW
+            MVSGCVEPPPSWKPQQMPPPEEPL
+NTSEQ       1155
+            atggatccagcgggcggcccccggggcgtgctcccgcggccctgccgcgtgctggtgctg
+            ctgaacccgcgcggcggcaagggcaaggccttgcagctcttccggagtcacgtgcagccc
+            cttttggctgaggctgaaatctccttcacgctgatgctcactgagcggcggaaccacgcg
+            cgggagctggtgcggtcggaggagctgggccgctgggacgctctggtggtcatgtctgga
+            gacgggctgatgcacgaggtggtgaacgggctcatggagcggcctgactgggagaccgcc
+            atccagaagcccctgtgtagcctcccagcaggctctggcaacgcgctggcagcttccttg
+            aaccattatgctggctatgagcaggtcaccaatgaagacctcctgaccaactgcacgcta
+            ttgctgtgccgccggctgctgtcacccatgaacctgctgtctctgcacacggcttcgggg
+            ctgcgcctcttctctgtgctcagcctggcctggggcttcattgctgatgtggacctagag
+            agtgagaagtatcggcgtctgggggagatgcgcttcactctgggcaccttcctgcgtctg
+            gcagccctgcgcacctaccgcggccgactggcctacctccctgtaggaagagtgggttcc
+            aagacacctgcctcccccgttgtggtccagcagggcccggtagatgcacaccttgtgcca
+            ctggaggagccagtgccctctcactggacagtggtgcccgacgaggactttgtgctagtc
+            ctggcactgctgcactcgcacctgggcagtgagatgtttgctgcacccatgggccgctgt
+            gcagctggcgtcatgcatctgttctacgtgcgggcgggagtgtctcgtgccatgctgctg
+            cgcctcttcctggccatggagaagggcaggcatatggagtatgaatgcccctacttggta
+            tatgtgcccgtggtcgccttccgcttggagcccaaggatgggaaaggtgtgtttgcagtg
+            gatggggaattgatggttagcgaggccgtgcagggccaggtgcacccaaactacttctgg
+            atggtcagcggttgcgtggagcccccgcccagctggaagccccagcagatgccaccgcca
+            gaagagcccttatga
+///

@@ -1,0 +1,100 @@
+ENTRY       4173              CDS       T01001
+NAME        MCM4, CDC21, CDC54, NKCD, NKGCD, P1-CDC21, hCdc21
+DEFINITION  (RefSeq) minichromosome maintenance complex component 4
+ORTHOLOGY   K02212  DNA replication licensing factor MCM4 [EC:3.6.4.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa04110  Cell cycle
+MODULE      hsa_M00285  MCM complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                4173 (MCM4)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                4173 (MCM4)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 4173 (MCM4)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Initiation Factors
+               pre-RC (pre-replication complex)
+                4173 (MCM4)
+POSITION    8q11.21
+MOTIF       Pfam: MCM MCM_OB MCM_N Mg_chelatase AAA_5 AAA_3 AAA HypA Elf1
+DBLINKS     NCBI-GeneID: 4173
+            NCBI-ProteinID: NP_005905
+            OMIM: 602638
+            HGNC: 6947
+            Ensembl: ENSG00000104738
+            Vega: OTTHUMG00000164205
+            Pharos: P33991(Tbio)
+            UniProt: P33991 B4DLA6
+AASEQ       863
+            MSSPASTPSRRGSRRGRATPAQTPRSEDARSSPSQRRRGEDSTSTGELQPMPTSPGVDLQ
+            SPAAQDVLFSSPPQMHSSAIPLDFDVSSPLTYGTPSSRVEGTPRSGVRGTPVRQRPDLGS
+            AQKGLQVDLQSDGAAAEDIVASEQSLGQKLVIWGTDVNVAACKENFQRFLQRFIDPLAKE
+            EENVGIDITEPLYMQRLGEINVIGEPFLNVNCEHIKSFDKNLYRQLISYPQEVIPTFDMA
+            VNEIFFDRYPDSILEHQIQVRPFNALKTKNMRNLNPEDIDQLITISGMVIRTSQLIPEMQ
+            EAFFQCQVCAHTTRVEMDRGRIAEPSVCGRCHTTHSMALIHNRSLFSDKQMIKLQESPED
+            MPAGQTPHTVILFAHNDLVDKVQPGDRVNVTGIYRAVPIRVNPRVSNVKSVYKTHIDVIH
+            YRKTDAKRLHGLDEEAEQKLFSEKRVELLKELSRKPDIYERLASALAPSIYEHEDIKKGI
+            LLQLFGGTRKDFSHTGRGKFRAEINILLCGDPGTSKSQLLQYVYNLVPRGQYTSGKGSSA
+            VGLTAYVMKDPETRQLVLQTGALVLSDNGICCIDEFDKMNESTRSVLHEVMEQQTLSIAK
+            AGIICQLNARTSVLAAANPIESQWNPKKTTIENIQLPHTLLSRFDLIFLLLDPQDEAYDR
+            RLAHHLVALYYQSEEQAEEELLDMAVLKDYIAYAHSTIMPRLSEEASQALIEAYVDMRKI
+            GSSRGMVSAYPRQLESLIRLAEAHAKVRLSNKVEAIDVEEAKRLHREALKQSATDPRTGI
+            VDISILTTGMSATSRKRKEELAEALKKLILSKGKTPALKYQQLFEDIRGQSDIAITKDMF
+            EEALRALADDDFLTVTGKTVRLL
+NTSEQ       2592
+            atgtcgtccccggcgtcgaccccgagccgccgcggcagccggcgtggaagggccaccccc
+            gcccagacgcctcggagtgaggatgccaggtcatctccctctcagagacgtagaggcgag
+            gattccacctccacgggggagttgcagccgatgccaacctcgcctggagtggacctgcag
+            agccctgctgcgcaggacgtgctgttttccagccctccccaaatgcattcttcagctatc
+            cctcttgactttgatgttagttcaccactgacatacggcactcccagctctcgggtagag
+            ggaaccccaagaagtggtgttaggggcacacctgtgagacagaggcctgacctgggctct
+            gcacagaagggcctgcaagtggatctgcagtctgacggggcagcagcagaagatatagtg
+            gcaagtgagcagtctctaggccaaaaacttgtgatctggggaacagatgtaaatgtggca
+            gcatgcaaagaaaactttcagagatttcttcagcgttttattgaccctctggctaaagaa
+            gaagaaaatgttggcatagatattactgaacctctatacatgcaacgacttggggagatt
+            aatgttattggtgagccatttttaaatgtgaactgtgaacacatcaaatcatttgacaaa
+            aatttgtacagacaactcatctcttacccacaggaagttattccaacttttgacatggct
+            gtcaatgaaatcttctttgaccgttaccctgactcaatcttagaacatcagattcaagta
+            agaccattcaacgcattgaagactaagaatatgagaaacctgaatccagaagacattgac
+            cagctcatcaccatcagcggcatggtgatcaggacatcccagctgattcccgagatgcag
+            gaggccttcttccagtgccaagtgtgtgcccacacgacccgggtggagatggaccgcggc
+            cgcattgcagagcccagtgtgtgcgggcgctgccacaccacccacagcatggcactcatc
+            cacaaccgctccctcttctctgacaagcagatgatcaagcttcaggagtctccggaagac
+            atgcctgcagggcagacaccacacacagttatcctgtttgctcacaatgatctcgttgac
+            aaggtccagcctggggacagagtgaatgttacaggcatctatcgagctgtgcctattcga
+            gtcaatccaagagtgagtaatgtgaagtctgtctacaaaacccacattgatgtcattcat
+            tatcggaaaacggatgcaaaacgtctgcatggccttgatgaagaagcagaacagaaactt
+            ttttcagagaaacgtgtggaattgcttaaggaactttccaggaaaccagacatttatgag
+            aggcttgcttcagccttggctccaagcatttatgaacatgaagatataaagaagggaatt
+            ttgcttcagctctttggcgggacaaggaaggattttagtcacactggaaggggcaaattt
+            cgggctgagatcaacatcttgctgtgtggcgaccctggtaccagcaagtcccagctgctg
+            cagtacgtgtacaacctcgtccccaggggccagtacacgtctgggaagggctccagtgca
+            gttggcctcactgcgtacgtaatgaaagaccctgagacaaggcagctggtcctgcagaca
+            ggtgctcttgtcctgagtgacaacggcatctgctgtatcgatgagttcgacaagatgaat
+            gaaagtacaagatcggtattgcatgaagtcatggaacagcagactctgtccattgcaaag
+            gctgggatcatctgtcagctcaatgcgcgcacctctgtcctggcagcagcaaatcccatt
+            gagtctcagtggaatcctaaaaaaacaaccattgaaaacatccagctgcctcatacttta
+            ttatcaaggtttgatttgatcttcctcttgctggaccctcaggacgaagcctatgacagg
+            cgtctggctcaccacctggtcgcactgtactaccagagcgaggagcaggcagaggaggag
+            ctcctggacatggcggtgctaaaggactacattgcctacgcgcacagcaccatcatgccg
+            cggctaagtgaggaagccagccaggctctcatcgaggcttatgtagacatgaggaagatt
+            ggcagtagccggggaatggtttctgcataccctcgacagctagagtcattaatccgctta
+            gcagaagcccatgctaaagtaagattgtctaacaaagttgaagccattgatgtggaagag
+            gccaaacgcctccatcgggaagctctgaagcagtctgcaactgatccccggactggcatc
+            gtggacatatctattcttactacggggatgagtgccacctctcgtaaacggaaagaagaa
+            ttagctgaagcattgaaaaagcttattttatctaagggcaaaacaccagctctaaaatac
+            cagcaactttttgaagatattcggggacaatctgacatagcaattactaaagatatgttt
+            gaagaagcactgcgtgccctggcagatgatgatttcctgacagtgactgggaagaccgtg
+            cgcttgctctga
+///

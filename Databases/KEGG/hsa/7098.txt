@@ -1,0 +1,116 @@
+ENTRY       7098              CDS       T01001
+NAME        TLR3, CD283, IIAE2
+DEFINITION  (RefSeq) toll like receptor 3
+ORTHOLOGY   K05401  toll-like receptor 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+DRUG_TARGET Rintatolimod: D09661
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                7098 (TLR3)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                7098 (TLR3)
+             Human Diseases
+              Infectious diseases
+               05164 Influenza A
+                7098 (TLR3)
+               05161 Hepatitis B
+                7098 (TLR3)
+               05160 Hepatitis C
+                7098 (TLR3)
+               05168 Herpes simplex infection
+                7098 (TLR3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                7098 (TLR3)
+               05165 Human papillomavirus infection
+                7098 (TLR3)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7098 (TLR3)
+POSITION    4q35.1
+MOTIF       Pfam: LRR_8 LRR_4 LRR_5 LRR_9 LRR_6 TIR LRRNT LRRCT TIR_2
+DBLINKS     NCBI-GeneID: 7098
+            NCBI-ProteinID: NP_003256
+            OMIM: 603029
+            HGNC: 11849
+            Ensembl: ENSG00000164342
+            Vega: OTTHUMG00000160345
+            Pharos: O15455(Tbio)
+            UniProt: O15455
+STRUCTURE   PDB: 1ZIW 2A0Z 5GS0 3ULU 3ULV 2MK9 2MKA
+AASEQ       904
+            MRQTLPCIYFWGGLLPFGMLCASSTTKCTVSHEVADCSHLKLTQVPDDLPTNITVLNLTH
+            NQLRRLPAANFTRYSQLTSLDVGFNTISKLEPELCQKLPMLKVLNLQHNELSQLSDKTFA
+            FCTNLTELHLMSNSIQKIKNNPFVKQKNLITLDLSHNGLSSTKLGTQVQLENLQELLLSN
+            NKIQALKSEELDIFANSSLKKLELSSNQIKEFSPGCFHAIGRLFGLFLNNVQLGPSLTEK
+            LCLELANTSIRNLSLSNSQLSTTSNTTFLGLKWTNLTMLDLSYNNLNVVGNDSFAWLPQL
+            EYFFLEYNNIQHLFSHSLHGLFNVRYLNLKRSFTKQSISLASLPKIDDFSFQWLKCLEHL
+            NMEDNDIPGIKSNMFTGLINLKYLSLSNSFTSLRTLTNETFVSLAHSPLHILNLTKNKIS
+            KIESDAFSWLGHLEVLDLGLNEIGQELTGQEWRGLENIFEIYLSYNKYLQLTRNSFALVP
+            SLQRLMLRRVALKNVDSSPSPFQPLRNLTILDLSNNNIANINDDMLEGLEKLEILDLQHN
+            NLARLWKHANPGGPIYFLKGLSHLHILNLESNGFDEIPVEVFKDLFELKIIDLGLNNLNT
+            LPASVFNNQVSLKSLNLQKNLITSVEKKVFGPAFRNLTELDMRFNPFDCTCESIAWFVNW
+            INETHTNIPELSSHYLCNTPPHYHGFPVRLFDTSSCKDSAPFELFFMINTSILLIFIFIV
+            LLIHFEGWRISFYWNVSVHRVLGFKEIDRQTEQFEYAAYIIHAYKDKDWVWEHFSSMEKE
+            DQSLKFCLEERDFEAGVFELEAIVNSIKRSRKIIFVITHHLLKDPLCKRFKVHHAVQQAI
+            EQNLDSIILVFLEEIPDYKLNHALCLRRGMFKSHCILNWPVQKERIGAFRHKLQVALGSK
+            NSVH
+NTSEQ       2715
+            atgagacagactttgccttgtatctacttttgggggggccttttgccctttgggatgctg
+            tgtgcatcctccaccaccaagtgcactgttagccatgaagttgctgactgcagccacctg
+            aagttgactcaggtacccgatgatctacccacaaacataacagtgttgaaccttacccat
+            aatcaactcagaagattaccagccgccaacttcacaaggtatagccagctaactagcttg
+            gatgtaggatttaacaccatctcaaaactggagccagaattgtgccagaaacttcccatg
+            ttaaaagttttgaacctccagcacaatgagctatctcaactttctgataaaacctttgcc
+            ttctgcacgaatttgactgaactccatctcatgtccaactcaatccagaaaattaaaaat
+            aatccctttgtcaagcagaagaatttaatcacattagatctgtctcataatggcttgtca
+            tctacaaaattaggaactcaggttcagctggaaaatctccaagagcttctattatcaaac
+            aataaaattcaagcgctaaaaagtgaagaactggatatctttgccaattcatctttaaaa
+            aaattagagttgtcatcgaatcaaattaaagagttttctccagggtgttttcacgcaatt
+            ggaagattatttggcctctttctgaacaatgtccagctgggtcccagccttacagagaag
+            ctatgtttggaattagcaaacacaagcattcggaatctgtctctgagtaacagccagctg
+            tccaccaccagcaatacaactttcttgggactaaagtggacaaatctcactatgctcgat
+            ctttcctacaacaacttaaatgtggttggtaacgattcctttgcttggcttccacaacta
+            gaatatttcttcctagagtataataatatacagcatttgttttctcactctttgcacggg
+            cttttcaatgtgaggtacctgaatttgaaacggtcttttactaaacaaagtatttccctt
+            gcctcactccccaagattgatgatttttcttttcagtggctaaaatgtttggagcacctt
+            aacatggaagataatgatattccaggcataaaaagcaatatgttcacaggattgataaac
+            ctgaaatacttaagtctatccaactcctttacaagtttgcgaactttgacaaatgaaaca
+            tttgtatcacttgctcattctcccttacacatactcaacctaaccaagaataaaatctca
+            aaaatagagagtgatgctttctcttggttgggccacctagaagtacttgacctgggcctt
+            aatgaaattgggcaagaactcacaggccaggaatggagaggtctagaaaatattttcgaa
+            atctatctttcctacaacaagtacctgcagctgactaggaactcctttgccttggtccca
+            agccttcaacgactgatgctccgaagggtggcccttaaaaatgtggatagctctccttca
+            ccattccagcctcttcgtaacttgaccattctggatctaagcaacaacaacatagccaac
+            ataaatgatgacatgttggagggtcttgagaaactagaaattctcgatttgcagcataac
+            aacttagcacggctctggaaacacgcaaaccctggtggtcccatttatttcctaaagggt
+            ctgtctcacctccacatccttaacttggagtccaacggctttgacgagatcccagttgag
+            gtcttcaaggatttatttgaactaaagatcatcgatttaggattgaataatttaaacaca
+            cttccagcatctgtctttaataatcaggtgtctctaaagtcattgaaccttcagaagaat
+            ctcataacatccgttgagaagaaggttttcgggccagctttcaggaacctgactgagtta
+            gatatgcgctttaatccctttgattgcacgtgtgaaagtattgcctggtttgttaattgg
+            attaacgagacccataccaacatccctgagctgtcaagccactacctttgcaacactcca
+            cctcactatcatgggttcccagtgagactttttgatacatcatcttgcaaagacagtgcc
+            ccctttgaactctttttcatgatcaataccagtatcctgttgatttttatctttattgta
+            cttctcatccactttgagggctggaggatatctttttattggaatgtttcagtacatcga
+            gttcttggtttcaaagaaatagacagacagacagaacagtttgaatatgcagcatatata
+            attcatgcctataaagataaggattgggtctgggaacatttctcttcaatggaaaaggaa
+            gaccaatctctcaaattttgtctggaagaaagggactttgaggcgggtgtttttgaacta
+            gaagcaattgttaacagcatcaaaagaagcagaaaaattatttttgttataacacaccat
+            ctattaaaagacccattatgcaaaagattcaaggtacatcatgcagttcaacaagctatt
+            gaacaaaatctggattccattatattggttttccttgaggagattccagattataaactg
+            aaccatgcactctgtttgcgaagaggaatgtttaaatctcactgcatcttgaactggcca
+            gttcagaaagaacggataggtgcctttcgtcataaattgcaagtagcacttggatccaaa
+            aactctgtacattaa
+///

@@ -1,0 +1,132 @@
+ENTRY       1962              CDS       T01001
+NAME        EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE
+DEFINITION  (RefSeq) enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase
+ORTHOLOGY   K07514  enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+            hsa03320  PPAR signaling pathway
+            hsa04146  Peroxisome
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00087  beta-Oxidation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                1962 (EHHADH)
+               01212 Fatty acid metabolism
+                1962 (EHHADH)
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                1962 (EHHADH)
+               00650 Butanoate metabolism
+                1962 (EHHADH)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                1962 (EHHADH)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                1962 (EHHADH)
+               00310 Lysine degradation
+                1962 (EHHADH)
+               00380 Tryptophan metabolism
+                1962 (EHHADH)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                1962 (EHHADH)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                1962 (EHHADH)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                1962 (EHHADH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.35  3-hydroxyacyl-CoA dehydrogenase
+                 1962 (EHHADH)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 1962 (EHHADH)
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.8  dodecenoyl-CoA isomerase
+                 1962 (EHHADH)
+POSITION    3q27.2
+MOTIF       Pfam: 3HCDH_N ECH_1 3HCDH ECH_2 NAD_binding_2 UDPG_MGDP_dh_N Peptidase_S49 TrkA_N 2-Hacid_dh_C
+DBLINKS     NCBI-GeneID: 1962
+            NCBI-ProteinID: NP_001957
+            OMIM: 607037
+            HGNC: 3247
+            Ensembl: ENSG00000113790
+            Vega: OTTHUMG00000156698
+            Pharos: Q08426(Tbio)
+            UniProt: Q08426
+AASEQ       723
+            MAEYTRLHNALALIRLRNPPVNAISTTLLRDIKEGLQKAVIDHTIKAIVICGAEGKFSAG
+            ADIRGFSAPRTFGLTLGHVVDEIQRNEKPVVAAIQGMAFGGGLELALGCHYRIAHAEAQV
+            GLPEVTLGLLPGARGTQLLPRLTGVPAALDLITSGRRILADEALKLGILDKVVNSDPVEE
+            AIRFAQRVSDQPLESRRLCNKPIQSLPNMDSIFSEALLKMRRQHPGCLAQEACVRAVQAA
+            VQYPYEVGIKKEEELFLYLLQSGQARALQYAFFAERKANKWSTPSGASWKTASARPVSSV
+            GVVGLGTMGRGIVISFARARIPVIAVDSDKNQLATANKMITSVLEKEASKMQQSGHPWSG
+            PKPRLTSSVKELGGVDLVIEAVFEEMSLKKQVFAELSAVCKPEAFLCTNTSALDVDEIAS
+            STDRPHLVIGTHFFSPAHVMKLLEVIPSQYSSPTTIATVMNLSKKIKKIGVVVGNCFGFV
+            GNRMLNPYYNQAYFLLEEGSKPEEVDQVLEEFGFKMGPFRVSDLAGLDVGWKSRKGQGLT
+            GPTLLPGTPARKRGNRRYCPIPDVLCELGRFGQKTGKGWYQYDKPLGRIHKPDPWLSKFL
+            SRYRKTHHIEPRTISQDEILERCLYSLINEAFRILGEGIAASPEHIDVVYLHGYGWPRHK
+            GGPMFYASTVGLPTVLEKLQKYYRQNPDIPQLEPSDYLKKLASQGNPPLKEWQSLAGSPS
+            SKL
+NTSEQ       2172
+            atggccgagtatacgcggctgcacaacgccttggcgctaatccgcctccgaaacccgccg
+            gtcaacgcgatcagtacgactttactccgtgacataaaagaaggactacagaaagctgta
+            atagaccatacaataaaagccattgtgatttgtggagcagagggcaaattttctgcaggt
+            gctgatattcgtggcttcagtgctcctaggacatttggccttacactgggacatgtagta
+            gatgaaatacagagaaatgagaagcccgtggtggcagcaatccaaggcatggctttcgga
+            gggggactagagctggccctgggctgtcactataggattgcccacgcagaggctcaagtt
+            ggcttaccagaagttacactgggacttctccctggtgcaagaggaacccagcttctcccc
+            agactcactggagttcctgctgcacttgacttaattacctcaggaagacgtattttagca
+            gatgaagcactcaagctgggcattctagataaagttgtaaactcagacccggttgaagaa
+            gcaatcagatttgctcagagagtttcagatcaacctctagaatcccgtagactctgcaac
+            aagccaattcagagcttgcccaacatggacagcatttttagtgaggccctcttgaagatg
+            cggaggcagcaccctgggtgtcttgcacaggaggcttgtgtccgtgcagtccaggctgct
+            gtgcagtatccctatgaagtgggcatcaagaaggaggaggagctgtttctatatcttttg
+            caatcagggcaggctagagccctgcaatatgctttcttcgctgaaaggaaagcaaataag
+            tggtcaactccctccggagcatcgtggaaaacagcatcagcgcggcctgtctcctcagtt
+            ggtgttgttggcttgggaacaatgggccgaggcattgtcatttcttttgcaagggccagg
+            attcctgtgattgctgtagactcggacaaaaaccagctagcaactgcaaacaagatgata
+            acctctgtcttggaaaaagaagcctccaaaatgcaacagagcggccacccttggtcagga
+            ccaaaacccaggttaacttcatctgtgaaggagcttggtggtgtagatttagtcattgaa
+            gcagtatttgaggaaatgagcctgaagaagcaggtctttgctgaactctcagctgtgtgc
+            aaaccagaagcatttttgtgcactaatacttcagccctggatgttgatgagattgcttct
+            tccactgatcgtcctcacttggtcattggcacccacttcttttcgccagctcatgtcatg
+            aagttgttagaggttattcccagccaatactcttcccccactaccattgccactgttatg
+            aacttatcaaaaaagattaaaaagattggagtcgttgtaggcaactgttttggatttgtg
+            gggaatcgaatgttgaatccttactacaatcaggcatatttcttgttagaagaaggcagc
+            aaaccagaggaggtagatcaggtgctggaagagtttggttttaaaatgggaccttttaga
+            gtgtctgatcttgctgggttggatgtgggctggaaatctagaaaggggcaaggtcttact
+            ggacctacattgcttccaggaactcctgcccgaaaaaggggtaataggaggtactgccca
+            attcctgatgtgctctgtgaattaggacgatttggccagaagacaggtaagggttggtat
+            caatatgacaagccattgggtaggattcacaaacctgatccctggctttccaaattccta
+            tcacggtatagaaaaacccatcacattgaaccacgtaccattagccaggatgagatcctt
+            gaacgctgcttatattcacttatcaatgaagcattccgtatcttgggagaagggatagct
+            gctagcccagagcacattgatgttgtctatttacatggatatggatggccaaggcacaag
+            ggcgggcccatgttctatgcttccacagttgggttgcccacagttctagagaaattgcag
+            aaatattacaggcagaaccctgatattccccaactggagccaagtgactatctaaaaaaa
+            ctggcttctcagggaaaccctcccctgaaagaatggcaaagcttggcaggctcccctagc
+            agtaaattgtga
+///

@@ -1,0 +1,121 @@
+ENTRY       6934              CDS       T01001
+NAME        TCF7L2, TCF-4, TCF4
+DEFINITION  (RefSeq) transcription factor 7 like 2
+ORTHOLOGY   K04491  transcription factor 7-like 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04520  Adherens junction
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05213  Endometrial cancer
+            hsa05215  Prostate cancer
+            hsa05216  Thyroid cancer
+            hsa05217  Basal cell carcinoma
+            hsa05221  Acute myeloid leukemia
+            hsa05224  Breast cancer
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+MODULE      hsa_M00677  Wnt signaling
+DISEASE     H00409  Type II diabetes mellitus
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                6934 (TCF7L2)
+               04390 Hippo signaling pathway
+                6934 (TCF7L2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                6934 (TCF7L2)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                6934 (TCF7L2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6934 (TCF7L2)
+               05210 Colorectal cancer
+                6934 (TCF7L2)
+               05216 Thyroid cancer
+                6934 (TCF7L2)
+               05221 Acute myeloid leukemia
+                6934 (TCF7L2)
+               05217 Basal cell carcinoma
+                6934 (TCF7L2)
+               05215 Prostate cancer
+                6934 (TCF7L2)
+               05213 Endometrial cancer
+                6934 (TCF7L2)
+               05224 Breast cancer
+                6934 (TCF7L2)
+              Cardiovascular diseases
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                6934 (TCF7L2)
+              Infectious diseases
+               05165 Human papillomavirus infection
+                6934 (TCF7L2)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               HMG TCF-1
+                6934 (TCF7L2)
+POSITION    10q25.2-q25.3
+MOTIF       Pfam: CTNNB1_binding HMG_box HMG_box_2
+DBLINKS     NCBI-GeneID: 6934
+            NCBI-ProteinID: NP_001139746
+            OMIM: 602228
+            HGNC: 11641
+            Ensembl: ENSG00000148737
+            Vega: OTTHUMG00000019070
+            Pharos: Q9NQB0(Tbio)
+            UniProt: Q9NQB0
+STRUCTURE   PDB: 1JDH 1JPW 2GL7
+AASEQ       602
+            MPQLNGGGGDDLGANDELISFKDEGEQEEKSSENSSAERDLADVKSSLVNESETNQNSSS
+            DSEAERRPPPRSESFRDKSRESLEEAAKRQDGGLFKGPPYPGYPFIMIPDLTSPYLPNGS
+            LSPTARTLHFQSGSTHYSAYKTIEHQIAVQYLQMKWPLLDVQAGSLQSRQALKDARSPSP
+            AHIVSNKVPVVQHPHHVHPLTPLITYSNEHFTPGNPPPHLPADVDPKTGIPRPPHPPDIS
+            PYYPLSPGTVGQIPHPLGWLVPQQGQPVYPITTGGFRHPYPTALTVNASMSRFPPHMVPP
+            HHTLHTTGIPHPAIVTPTVKQESSQSDVGSLHSSKHQDSKKEEEKKKPHIKKPLNAFMLY
+            MKEMRAKVVAECTLKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSAR
+            DNYGKKKKRKRDKQPGETNDANTPKKCRALFGLDRQTLWCKPCRRKKKCVRYIQGEGSCL
+            SPPSSDGSLLDSPPPSPNLLGSPPRDAKSQTEQTQPLSLSLKPDPLAHLSMMPPPPALLL
+            AEATHKASALCPNGALDLPPAALQPAAPSSSIAQPSTSSLHSHSSLAGTQPQPLSLVTKS
+            LE
+NTSEQ       1809
+            atgccgcagctgaacggcggtggaggggatgacctaggcgccaacgacgaactgatttcc
+            ttcaaagacgagggcgaacaggaggagaagagctccgaaaactcctcggcagagagggat
+            ttagctgatgtcaaatcgtctctagtcaatgaatcagaaacgaatcaaaacagctcctcc
+            gattccgaggcggaaagacggcctccgcctcgctccgaaagtttccgagacaaatcccgg
+            gaaagtttggaagaagcggccaagaggcaagatggagggctctttaaggggccaccgtat
+            cccggctaccccttcatcatgatccccgacctgacgagcccctacctccccaacggatcg
+            ctctcgcccaccgcccgaaccctccattttcagtccggcagcacacattactctgcgtac
+            aaaacgattgaacaccagattgcagttcagtatctccagatgaaatggccactgcttgat
+            gtccaggcagggagcctccagagtagacaagccctcaaggatgcccggtccccatcaccg
+            gcacacattgtctctaacaaagtgccagtggtgcagcaccctcaccatgtccaccccctc
+            acgcctcttatcacgtacagcaatgaacacttcacgccgggaaacccacctccacactta
+            ccagccgacgtagaccccaaaacaggaatcccacggcctccgcaccctccagatatatcc
+            ccgtattacccactatcgcctggcaccgtaggacaaatcccccatccgctaggatggtta
+            gtaccacagcaaggtcaaccagtgtacccaatcacgacaggaggattcagacacccctac
+            cccacagctctgaccgtcaatgcttccatgtccaggttccctccccatatggtcccacca
+            catcatacgctacacacgacgggcattccgcatccggccatagtcacaccaacagtcaaa
+            caggaatcgtcccagagtgatgtcggctcactccatagttcaaagcatcaggactccaaa
+            aaggaagaagaaaagaagaagccccacataaagaaacctcttaatgcattcatgttgtat
+            atgaaggaaatgagagcaaaggtcgtagctgagtgcacgttgaaagaaagcgcggccatc
+            aaccagatccttgggcggaggtggcatgcactgtccagagaagagcaagcgaaatactac
+            gagctggcccggaaggagcgacagcttcatatgcaactgtaccccggctggtccgcgcgg
+            gataactatggaaagaagaagaagaggaaaagggacaagcagccgggagagaccaatgat
+            gcaaatactccaaagaagtgtcgggcactgttcgggcttgaccgacagactttatggtgc
+            aaaccgtgcaggagaaaaaaaaagtgcgttcgctacatacaaggtgaaggcagctgcctc
+            agcccaccctcttcagatggaagcttactagattcgcctcccccctccccgaacctgcta
+            ggctcccctccccgagacgccaagtcacagactgagcagacccagcctctgtcgctgtcc
+            ctgaagcccgaccccctggcccacctgtccatgatgcctccgccacccgccctcctgctc
+            gctgaggccacccacaaggcctccgccctctgtcccaacggggccctggacctgccccca
+            gccgctttgcagcctgccgccccctcctcatcaattgcacagccgtcgacttcttcctta
+            cattcccacagctccctggccgggacccagccccagccgctgtcgctcgtcaccaagtct
+            ttagaatag
+///

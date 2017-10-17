@@ -1,0 +1,100 @@
+ENTRY       10157             CDS       T01001
+NAME        AASS, LKR/SDH, LKRSDH, LORSDH
+DEFINITION  (RefSeq) aminoadipate-semialdehyde synthase
+ORTHOLOGY   K14157  alpha-aminoadipic semialdehyde synthase [EC:1.5.1.8 1.5.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+DISEASE     H00188  Hyperlysinemia
+            H01242  Saccharopinuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                10157 (AASS)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.1  With NAD+ or NADP+ as acceptor
+                1.5.1.8  saccharopine dehydrogenase (NADP+, L-lysine-forming)
+                 10157 (AASS)
+                1.5.1.9  saccharopine dehydrogenase (NAD+, L-glutamate-forming)
+                 10157 (AASS)
+POSITION    7q31.32
+MOTIF       Pfam: Sacchrp_dh_C AlaDh_PNT_N Sacchrp_dh_NADP AlaDh_PNT_C Shikimate_DH
+DBLINKS     NCBI-GeneID: 10157
+            NCBI-ProteinID: NP_005754
+            OMIM: 605113
+            HGNC: 17366
+            Ensembl: ENSG00000008311
+            Vega: OTTHUMG00000157058
+            Pharos: Q9UDR5(Tbio)
+            UniProt: Q9UDR5 A4D0W4
+STRUCTURE   PDB: 5O1P 5O1N 5O1O 5L76 5L78
+AASEQ       926
+            MLQVHRTGLGRLGVSLSKGLHHKAVLAVRREDVNAWERRAPLAPKHIKGITNLGYKVLIQ
+            PSNRRAIHDKDYVKAGGILQEDISEACLILGVKRPPEEKLMSRKTYAFFSHTIKAQEANM
+            GLLDEILKQEIRLIDYEKMVDHRGVRVVAFGQWAGVAGMINILHGMGLRLLALGHHTPFM
+            HIGMAHNYRNSSQAVQAVRDAGYEISLGLMPKSIGPLTFVFTGTGNVSKGAQAIFNELPC
+            EYVEPHELKEVSQTGDLRKVYGTVLSRHHHLVRKTDAVYDPAEYDKHPERYISRFNTDIA
+            PYTTCLINGIYWEQNTPRLLTRQDAQSLLAPGKFSPAGVEGCPALPHKLVAICDISADTG
+            GSIEFMTECTTIEHPFCMYDADQHIIHDSVEGSGILMCSIDNLPAQLPIEATECFGDMLY
+            PYVEEMILSDATQPLESQNFSPVVRDAVITSNGTLPDKYKYIQTLRESRERAQSLSMGTR
+            RKVLVLGSGYISEPVLEYLSRDGNIEITVGSDMKNQIEQLGKKYNINPVSMDICKQEEKL
+            GFLVAKQDLVISLLPYVLHPLVAKACITNKVNMVTASYITPALKELEKSVEDAGITIIGE
+            LGLDPGLDHMLAMETIDKAKEVGATIESYISYCGGLPAPEHSNNPLRYKFSWSPVGVLMN
+            VMQSATYLLDGKVVNVAGGISFLDAVTSMDFFPGLNLEGYPNRDSTKYAEIYGISSAHTL
+            LRGTLRYKGYMKALNGFVKLGLINREALPAFRPEANPLTWKQLLCDLVGISPSSEHDVLK
+            EAVLKKLGGDNTQLEAAEWLGLLGDEQVPQAESILDALSKHLVMKLSYGPEEKDMIVMRD
+            SFGIRHPSGHLEHKTIDLVAYGDINGFSAMAKTVGLPTAMAAKMLLDGEIGAKGLMGPFS
+            KEIYGPILERIKAEGIIYTTQSTIKP
+NTSEQ       2781
+            atgctgcaagtacataggactggactgggcaggctgggggtcagcctctccaagggtctt
+            caccacaaagctgtgttggccgtccggagggaggatgtgaacgcctgggagagaagggcc
+            ccgctagctcccaagcacatcaaaggcatcaccaatctgggatacaaggtcttgatacag
+            ccttcgaatcggcgggccattcatgataaggactatgtcaaagctggtggcattcttcag
+            gaggatatttctgaagcttgtctaattttaggagttaaaagacctccagaggaaaaatta
+            atgtccaggaagacttatgcatttttctcccacacaataaaagctcaggaggccaatatg
+            ggcttgttggatgagattctaaaacaggaaattcgccttattgattatgagaaaatggtg
+            gatcatagaggagtacgggtagtggcatttggacagtgggctggtgtggcaggaatgatc
+            aacattttacatggaatgggtttaaggctccttgctttgggacatcacacaccttttatg
+            cacattggcatggctcataactacaggaatagcagtcaggctgtgcaagctgtccgtgat
+            gctggctatgaaatatctttgggtttgatgcctaagtcaataggacccttaacatttgtg
+            ttcacaggaactggtaatgtttctaagggagcccaagcaatctttaatgagctaccttgt
+            gaatatgtggagccccatgaattaaaagaagtttcccaaactggagacctcagaaaagtg
+            tatgggacggtgttaagtcgtcatcatcatcttgtcaggaaaacagatgctgtgtatgat
+            cctgcagagtatgacaaacatccggagcgctacataagtcgttttaatactgatattgca
+            ccctatacaacttgcttaattaatggaatctactgggaacaaaacactcctcgcctccta
+            acccgccaagatgctcagagtctcctggctccgggcaagttctcacctgctggtgtggaa
+            ggctgccctgcattaccacacaaactcgtggcaatatgtgacatttcagctgacacagga
+            gggtctatagagtttatgactgagtgtacaacaatagagcatcccttttgcatgtatgat
+            gcagaccagcatattattcatgacagtgttgaaggctcggggatcctgatgtgttccatt
+            gacaatttgccggcacagctcccaattgaagctacagaatgctttggagacatgctttac
+            ccttatgttgaagaaatgatattatcagacgcgacacagcctcttgaaagtcagaatttt
+            tctcctgtggtgagagatgcagtgattacatccaacggtacattacctgataaatataaa
+            tatatccagacactccgggagagcagggaacgtgctcagtcactttcaatgggcaccagg
+            agaaaggttttggttcttggatctggctacatatctgagcctgtattagaatatttatca
+            agagatggcaatatagaaataacagtaggatctgacatgaagaatcaaattgaacagtta
+            ggcaagaaatataatattaatcctgttagcatggacatttgtaaacaagaagagaagctg
+            ggcttcttggtggcaaaacaggatcttgtcatcagcttgttgccttatgtattgcaccct
+            cttgtggccaaggcctgcatcacaaacaaagttaacatggtcactgcaagctacatcaca
+            ccagcactaaaagaattggaaaagagtgtggaagatgctggcatcacaatcattggtgaa
+            ttgggattggaccctggtctggatcacatgttagcaatggaaacaatagataaagccaag
+            gaagtgggagccacgattgaatcatatatttcctactgtggtgggcttccagcccctgaa
+            cattcaaacaatccattgagatataaatttagctggagtccagtgggagttttgatgaat
+            gtaatgcagtctgccacctatctgctcgatggaaaggttgtgaatgttgcaggaggcatc
+            tcctttcttgatgccgttacgtccatggatttttttccaggattaaatttggaaggctat
+            cctaacagagacagtacgaaatatgctgagatttatggcatttcttctgctcacactttg
+            ttgcgggggacactgagatataagggatatatgaaagctttgaatggatttgtaaaatta
+            ggtcttataaacagagaagcgcttcctgcctttagacctgaggccaaccctctcacctgg
+            aaacaactcctctgtgacctagttgggatttcaccctcctctgagcatgatgtgttgaag
+            gaagctgttcttaagaaactaggaggagacaatacccagttggaggctgctgaatggttg
+            ggcttacttggggatgaacaagttcctcaggcagagtccattctggatgccctctccaag
+            catttggtcatgaagctttcctatggtcctgaagaaaaagatatgattgtgatgagagac
+            agctttggaatcagacatccttctggacatttagaacataaaacgattgatcttgtggct
+            tatggggacatcaatggcttttcagccatggctaaaaccgtggggttacccaccgccatg
+            gcagccaaaatgttgcttgatggtgaaattggagccaaaggcctaatggggcccttttca
+            aaggagatctatggaccaatattggagcgaattaaagcagaaggcattatatatactaca
+            cagagtacaattaaaccataa
+///

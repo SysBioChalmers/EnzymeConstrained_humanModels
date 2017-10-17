@@ -1,0 +1,97 @@
+ENTRY       526               CDS       T01001
+NAME        ATP6V1B2, ATP6B1B2, ATP6B2, DOOD, HO57, VATB, VPP3, Vma2, ZLS2
+DEFINITION  (RefSeq) ATPase H+ transporting V1 subunit B2
+ORTHOLOGY   K02147  V-type H+-transporting ATPase subunit B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04145  Phagosome
+            hsa04150  mTOR signaling pathway
+            hsa04721  Synaptic vesicle cycle
+            hsa04966  Collecting duct acid secretion
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00160  V-type ATPase, eukaryotes
+DISEASE     H01573  Zimmermann-Laband syndrome (ZLS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                526 (ATP6V1B2)
+             Environmental Information Processing
+              Signal transduction
+               04150 mTOR signaling pathway
+                526 (ATP6V1B2)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                526 (ATP6V1B2)
+             Organismal Systems
+              Excretory system
+               04966 Collecting duct acid secretion
+                526 (ATP6V1B2)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                526 (ATP6V1B2)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                526 (ATP6V1B2)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                526 (ATP6V1B2)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                526 (ATP6V1B2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               526 (ATP6V1B2)
+POSITION    8p21.3
+MOTIF       Pfam: ATP-synt_ab ATP-synt_ab_N DUF2481
+DBLINKS     NCBI-GeneID: 526
+            NCBI-ProteinID: NP_001684
+            OMIM: 606939
+            HGNC: 854
+            Ensembl: ENSG00000147416
+            Vega: OTTHUMG00000131073
+            Pharos: P21281(Tbio)
+            UniProt: P21281 A0A140VK65
+AASEQ       511
+            MALRAMRGIVNGAAPELPVPTGGPAVGAREQALAVSRNYLSQPRLTYKTVSGVNGPLVIL
+            DHVKFPRYAEIVHLTLPDGTKRSGQVLEVSGSKAVVQVFEGTSGIDAKKTSCEFTGDILR
+            TPVSEDMLGRVFNGSGKPIDRGPVVLAEDFLDIMGQPINPQCRIYPEEMIQTGISAIDGM
+            NSIARGQKIPIFSAAGLPHNEIAAQICRQAGLVKKSKDVVDYSEENFAIVFAAMGVNMET
+            ARFFKSDFEENGSMDNVCLFLNLANDPTIERIITPRLALTTAEFLAYQCEKHVLVILTDM
+            SSYAEALREVSAAREEVPGRRGFPGYMYTDLATIYERAGRVEGRNGSITQIPILTMPNDD
+            ITHPIPDLTGYITEGQIYVDRQLHNRQIYPPINVLPSLSRLMKSAIGEGMTRKDHADVSN
+            QLYACYAIGKDVQAMKAVVGEEALTSDDLLYLEFLQKFERNFIAQGPYENRTVFETLDIG
+            WQLLRIFPKEMLKRIPQSTLSEFYPRDSAKH
+NTSEQ       1536
+            atggcgctgcgggcgatgcgggggattgtcaacggggccgcacccgagctacccgtgccc
+            accggtgggccggcggtgggagctcgggagcaggcgctggcagtcagtcggaactacctc
+            tcccagcctcgcctcacatacaagacagtatctggagtcaatggtccactagtgatctta
+            gatcatgttaagtttcccaggtatgctgaaattgtccatttgaccttaccggatggcaca
+            aagagaagtgggcaagttctggaagttagtggttccaaggcagtagttcaggtatttgaa
+            gggacttcaggtatagatgctaagaaaacgtcctgtgagtttactggggatattctccga
+            acaccggtgtctgaggatatgcttggtcgggtattcaatggatcgggaaaacccattgac
+            agaggtcctgttgtactggccgaagacttccttgatatcatgggtcagccaatcaaccct
+            caatgtcgaatctacccagaggaaatgattcagactggcatttcggccatcgatgggatg
+            aacagtattgctagggggcagaaaattcctatcttctctgctgctgggctaccacacaat
+            gagattgcagctcagatctgtcgccaggctggtttggtaaagaaatccaaagatgtagta
+            gactacagtgaggaaaattttgcaattgtatttgctgctatgggtgtaaacatggaaact
+            gcccggttcttcaaatctgactttgaagaaaatggctcaatggacaatgtctgcctcttt
+            ttgaacttggctaatgacccaaccattgagcgaattatcactcctcgcctggctctaacc
+            acagctgaatttctggcgtaccaatgtgagaaacatgtattggttattctaacagacatg
+            agttcttatgctgaagcacttcgagaggtttcagcagccagggaagaggtacctggtcga
+            cgaggttttccaggttacatgtatacagatttagccacgatatatgaacgcgctgggcga
+            gtggaagggagaaacggctcgattactcaaatccctattctaaccatgcctaatgatgat
+            atcactcaccccatcccagacttgactggctacattacagaggggcagatctatgtggac
+            agacagctgcacaacagacagatttatccacctatcaatgtgctgccctcactatcacgg
+            ttaatgaagtctgctattggagaagggatgaccaggaaggatcatgccgatgtatctaac
+            cagctatatgcgtgctatgctattggaaaggatgtgcaagccatgaaagctgtcgttgga
+            gaagaagcccttacctcagatgatcttctctacttggaatttctgcagaagtttgagagg
+            aacttcattgctcagggtccttacgaaaatcgcactgtctttgagactttggacattggc
+            tggcagctactccgaatcttccccaaagaaatgctgaagagaatccctcagagcaccctc
+            agcgaattttaccctcgagactctgcaaagcattag
+///

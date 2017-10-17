@@ -1,0 +1,110 @@
+ENTRY       4988              CDS       T01001
+NAME        OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM
+DEFINITION  (RefSeq) opioid receptor mu 1
+ORTHOLOGY   K04215  mu-type opioid receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04915  Estrogen signaling pathway
+            hsa05032  Morphine addiction
+DISEASE     H01611  Alcohol dependence
+DRUG_TARGET Alfentanil (DG00792): D00835 D07122
+            Alvimopan: D02878
+            Buprenorphine (DG00820): D00836 D07132
+            Butorphanol (DG00821): D00837 D03197
+            Carfentanil (DG01339): D03405 D07620
+            Codeine (DG01076): D00195 D02101 D03579 D03580 D07740
+            Diamorphine (DG01003): D07286 D07810
+            Dihydrocodeine (DG00814): D01481 D03825 D07831 D07832
+            Diphenoxylate (DG00090): D03860 D07861
+            Diprenorphine (DG01273): D07863 D07864
+            Eluxadoline: D10403
+            Eptazocine (DG01340): D01879 D07904
+            Ethoheptazine citrate: D01435
+            Ethylmorphine (DG01074): D02205 D07929
+            Fentanyl (DG00791): D00320 D01399 D10811
+            Hydrocodone (DG01075): D03725 D04461 D08045 D08046
+            Hydromorphone (DG00811): D00839 D08047
+            Levallorphan (DG02409): D02238
+            Levomethadone (DG01002): D08121 D08122
+            Levorphanol (DG01341): D00841 D08123
+            Loperamide (DG00092): D00729 D08144
+            Loperamide oxide (DG00092): D07113
+            Meptazinol (DG00825): D04924 D08182
+            Methadone (DG00999): D02102 D08195
+            Methylnaltrexone bromide: D06618
+            Morphine (DG00810): D00842 D02271 D08233 D08234
+            Nalbuphine (DG00822): D00843 D08246
+            Naldemedine (DG01342): D10188 D10478
+            Naloxone (DG01155): D01340 D08249
+            Naltrexone (DG00997): D02095 D05113
+            Oxycodone (DG00813): D00847 D02175 D03783 D05312 D05462
+            Oxymorphone (DG01343): D00844 D08323
+            Pentazocine (DG00819): D00498 D02111 D02227
+            Pethidine (DG00816): D01383 D08343
+            Remifentanil (DG00795): D01177 D08473
+            Samidorphan (DG01538): D10162 D10163
+            Sufentanil (DG00793): D00845 D05938
+            Tapentadol (DG00826): D06007 D10199
+            Tilidine (DG00823): D06147 D08597
+            Tramadol (DG00824): D01355 D08623
+            Trefentanil hydrochloride: D06208
+            Trimebutine (DG00031): D01500 D08639
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                4988 (OPRM1)
+             Organismal Systems
+              Endocrine system
+               04915 Estrogen signaling pathway
+                4988 (OPRM1)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                4988 (OPRM1)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Neuropeptide
+               Opioid
+                4988 (OPRM1)
+POSITION    6q25.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7TM_GPCR_Srx 7tm_4
+DBLINKS     NCBI-GeneID: 4988
+            NCBI-ProteinID: NP_000905
+            OMIM: 600018
+            HGNC: 8156
+            Ensembl: ENSG00000112038
+            Vega: OTTHUMG00000015870
+            Pharos: P35372(Tclin)
+            UniProt: P35372 G8XRH5
+AASEQ       400
+            MDSSAAPTNASNCTDALAYSSCSPAPSPGSWVNLSHLDGNLSDPCGPNRTDLGGRDSLCP
+            PTGSPSMITAITIMALYSIVCVVGLFGNFLVMYVIVRYTKMKTATNIYIFNLALADALAT
+            STLPFQSVNYLMGTWPFGTILCKIVISIDYYNMFTSIFTLCTMSVDRYIAVCHPVKALDF
+            RTPRNAKIINVCNWILSSAIGLPVMFMATTKYRQGSIDCTLTFSHPTWYWENLLKICVFI
+            FAFIMPVLIITVCYGLMILRLKSVRMLSGSKEKDRNLRRITRMVLVVVAVFIVCWTPIHI
+            YVIIKALVTIPETTFQTVSWHFCIALGYTNSCLNPVLYAFLDENFKRCFREFCIPTSSNI
+            EQQNSTRIRQNTRDHPSTANTVDRTNHQLENLEAETAPLP
+NTSEQ       1203
+            atggacagcagcgctgcccccacgaacgccagcaattgcactgatgccttggcgtactca
+            agttgctccccagcacccagccccggttcctgggtcaacttgtcccacttagatggcaac
+            ctgtccgacccatgcggtccgaaccgcaccgacctgggcgggagagacagcctgtgccct
+            ccgaccggcagtccctccatgatcacggccatcacgatcatggccctctactccatcgtg
+            tgcgtggtggggctcttcggaaacttcctggtcatgtatgtgattgtcagatacaccaag
+            atgaagactgccaccaacatctacattttcaaccttgctctggcagatgccttagccacc
+            agtaccctgcccttccagagtgtgaattacctaatgggaacatggccatttggaaccatc
+            ctttgcaagatagtgatctccatagattactataacatgttcaccagcatattcaccctc
+            tgcaccatgagtgttgatcgatacattgcagtctgccaccctgtcaaggccttagatttc
+            cgtactccccgaaatgccaaaattatcaatgtctgcaactggatcctctcttcagccatt
+            ggtcttcctgtaatgttcatggctacaacaaaatacaggcaaggttccatagattgtaca
+            ctaacattctctcatccaacctggtactgggaaaacctgctgaagatctgtgttttcatc
+            ttcgccttcattatgccagtgctcatcattaccgtgtgctatggactgatgatcttgcgc
+            ctcaagagtgtccgcatgctctctggctccaaagaaaaggacaggaatcttcgaaggatc
+            accaggatggtgctggtggtggtggctgtgttcatcgtctgctggactcccattcacatt
+            tacgtcatcattaaagccttggttacaatcccagaaactacgttccagactgtttcttgg
+            cacttctgcattgctctaggttacacaaacagctgcctcaacccagtcctttatgcattt
+            ctggatgaaaacttcaaacgatgcttcagagagttctgtatcccaacctcttccaacatt
+            gagcaacaaaactccactcgaattcgtcagaacactagagaccacccctccacggccaat
+            acagtggatagaactaatcatcagctagaaaatctggaagcagaaactgctccgttgccc
+            taa
+///

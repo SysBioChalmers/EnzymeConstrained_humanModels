@@ -1,0 +1,70 @@
+ENTRY       5737              CDS       T01001
+NAME        PTGFR, FP
+DEFINITION  (RefSeq) prostaglandin F receptor
+ORTHOLOGY   K04262  prostaglandin F receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+DRUG_TARGET Bimatoprost: D02724
+            Carboprost (DG00449): D00682 D02343 D03399
+            Dinoprost (DG00447): D00081 D01352
+            Latanoprost: D00356
+            Latanoprostene bunod: D10441
+            Rosaprostol: D02719
+            Tafluprost: D06274
+            Tiaprost: D08591
+            Travoprost: D01964
+            Unoprostone (DG01139): D01452 D08661
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                5737 (PTGFR)
+               04072 Phospholipase D signaling pathway
+                5737 (PTGFR)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                5737 (PTGFR)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Lipid
+               Prostaglandin
+                5737 (PTGFR)
+POSITION    1p31.1
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srv Serpentine_r_xa C_GCAxxG_C_C
+DBLINKS     NCBI-GeneID: 5737
+            NCBI-ProteinID: NP_000950
+            OMIM: 600563
+            HGNC: 9600
+            Ensembl: ENSG00000122420
+            Vega: OTTHUMG00000009644
+            Pharos: P43088(Tclin)
+            UniProt: P43088
+AASEQ       359
+            MSMNNSKQLVSPAAALLSNTTCQTENRLSVFFSVIFMTVGILSNSLAIAILMKAYQRFRQ
+            KSKASFLLLASGLVITDFFGHLINGAIAVFVYASDKEWIRFDQSNVLCSIFGICMVFSGL
+            CPLLLGSVMAIERCIGVTKPIFHSTKITSKHVKMMLSGVCLFAVFIALLPILGHRDYKIQ
+            ASRTWCFYNTEDIKDWEDRFYLLLFSFLGLLALGVSLLCNAITGITLLRVKFKSQQHRQG
+            RSHHLEMVIQLLAIMCVSCICWSPFLVTMANIGINGNHSLETCETTLFALRMATWNQILD
+            PWVYILLRKAVLKNLYKLASQCCGVHVISLHIWELSSIKNSLKVAAISESPVAEKSAST
+NTSEQ       1080
+            atgtccatgaacaattccaaacagctagtgtctcctgcagctgcgcttctttcaaacaca
+            acctgccagacggaaaaccggctttccgtatttttttcagtaatcttcatgacagtggga
+            atcttgtcaaacagccttgccatcgccattctcatgaaggcatatcagagatttagacag
+            aagtccaaggcatcgtttctgcttttggccagtggcctggtaatcactgatttctttggc
+            catctcatcaatggagccatagcagtatttgtatatgcttctgataaagaatggatccgc
+            tttgaccaatcaaatgtcctttgcagtatttttggtatctgcatggtgttttctggtctg
+            tgcccacttcttctaggcagtgtgatggccattgagcggtgtattggagtcacaaaacca
+            atatttcattctacgaaaattacatccaaacatgtgaaaatgatgttaagtggtgtgtgc
+            ttgtttgctgttttcatagctttgctgcccatccttggacatcgagactataaaattcag
+            gcgtcgaggacctggtgtttctacaacacagaagacatcaaagactgggaagatagattt
+            tatcttctacttttttcttttctggggctcttagcccttggtgtttcattgttgtgcaat
+            gcaatcacaggaattacacttttaagagttaaatttaaaagtcagcagcacagacaaggc
+            agatctcatcatttggaaatggtaatccagctcctggcgataatgtgtgtctcctgtatt
+            tgttggagcccatttctggttacaatggccaacattggaataaatggaaatcattctctg
+            gaaacctgtgaaacaacactttttgctctccgaatggcaacatggaatcaaatcttagat
+            ccttgggtatatattcttctacgaaaggctgtccttaagaatctctataagcttgccagt
+            caatgctgtggagtgcatgtcatcagcttacatatttgggagcttagttccattaaaaat
+            tccttaaaggttgctgctatttctgagtcaccagttgcagagaaatcagcaagcacctag
+///

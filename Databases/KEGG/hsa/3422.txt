@@ -1,0 +1,50 @@
+ENTRY       3422              CDS       T01001
+NAME        IDI1, IPP1, IPPI1
+DEFINITION  (RefSeq) isopentenyl-diphosphate delta isomerase 1
+ORTHOLOGY   K01823  isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+            hsa_M00367  C10-C20 isoprenoid biosynthesis, non-plant eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                3422 (IDI1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.2  isopentenyl-diphosphate Delta-isomerase
+                 3422 (IDI1)
+POSITION    10p15.3
+MOTIF       Pfam: NUDIX Isochorismatase
+DBLINKS     NCBI-GeneID: 3422
+            NCBI-ProteinID: NP_001304884
+            OMIM: 604055
+            HGNC: 5387
+            Ensembl: ENSG00000067064
+            Vega: OTTHUMG00000017536
+            Pharos: Q13907(Tbio)
+            UniProt: Q13907
+STRUCTURE   PDB: 2DHO 2ICJ 2ICK 2I6K
+AASEQ       228
+            MMPEINTNHLDKQQVQLLAEMCILIDENDNKIGAETKKNCHLNENIEKGLLHRAFSVFLF
+            NTENKLLLQQRSDAKITFPGCFTNTCCSHPLSNPAELEESDALGVRRAAQRRLKAELGIP
+            LEEVPPEEINYLTRIHYKAQSDGIWGEHEIDYILLVRKNVTLNPDPNEIKSYCYVSKEEL
+            KELLKKAASGEIKITPWFKIIAATFLFKWWDNLNHLNQFVDHEKIYRM
+NTSEQ       687
+            atgatgcctgaaataaacactaaccacctcgacaagcaacaggttcaactcctggcagag
+            atgtgtatccttattgatgaaaatgacaataaaattggagctgagaccaagaagaattgt
+            cacctgaacgagaacattgagaaaggattattgcatcgagcttttagtgtcttcttattc
+            aacaccgaaaataagcttctgctacagcaaagatcagatgctaagattacctttccaggt
+            tgttttacgaatacgtgttgtagtcatccattaagcaatccagccgagcttgaggaaagt
+            gacgcccttggagtgaggcgagcagcacagagacggctgaaagctgagctaggaattccc
+            ttggaagaggttcctccagaagaaattaattatttaacacgaattcactacaaagctcag
+            tctgatggtatctggggtgaacatgaaattgattacattttgttggtgaggaagaatgta
+            actttgaatccagatcccaatgagattaaaagctattgttatgtgtcaaaggaagaacta
+            aaagaacttctgaaaaaagcagccagtggtgaaattaagataacgccatggtttaaaatt
+            attgcagcgacttttctctttaaatggtgggataacttaaatcatttgaatcagtttgtt
+            gaccatgagaaaatatacagaatgtga
+///

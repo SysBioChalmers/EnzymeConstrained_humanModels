@@ -1,0 +1,256 @@
+ENTRY       107               CDS       T01001
+NAME        ADCY1, AC1, DFNB44
+DEFINITION  (RefSeq) adenylate cyclase 1
+ORTHOLOGY   K08041  adenylate cyclase 1 [EC:4.6.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa01522  Endocrine resistance
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04371  Apelin signaling pathway
+            hsa04540  Gap junction
+            hsa04611  Platelet activation
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04727  GABAergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04911  Insulin secretion
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04918  Thyroid hormone synthesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04926  Relaxin signaling pathway
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04976  Bile secretion
+            hsa05032  Morphine addiction
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05146  Amoebiasis
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05414  Dilated cardiomyopathy (DCM)
+MODULE      hsa_M00695  cAMP signaling
+DRUG_TARGET Colforsin daropate hydrochloride: D01697
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                107 (ADCY1)
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                107 (ADCY1)
+               04371 Apelin signaling pathway
+                107 (ADCY1)
+               04020 Calcium signaling pathway
+                107 (ADCY1)
+               04072 Phospholipase D signaling pathway
+                107 (ADCY1)
+               04024 cAMP signaling pathway
+                107 (ADCY1)
+               04022 cGMP - PKG signaling pathway
+                107 (ADCY1)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                107 (ADCY1)
+              Cellular community - eukaryotes
+               04540 Gap junction
+                107 (ADCY1)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                107 (ADCY1)
+               04062 Chemokine signaling pathway
+                107 (ADCY1)
+              Endocrine system
+               04911 Insulin secretion
+                107 (ADCY1)
+               04923 Regulation of lipolysis in adipocyte
+                107 (ADCY1)
+               04912 GnRH signaling pathway
+                107 (ADCY1)
+               04913 Ovarian Steroidogenesis
+                107 (ADCY1)
+               04915 Estrogen signaling pathway
+                107 (ADCY1)
+               04914 Progesterone-mediated oocyte maturation
+                107 (ADCY1)
+               04921 Oxytocin signaling pathway
+                107 (ADCY1)
+               04926 Relaxin signaling pathway
+                107 (ADCY1)
+               04918 Thyroid hormone synthesis
+                107 (ADCY1)
+               04916 Melanogenesis
+                107 (ADCY1)
+               04925 Aldosterone synthesis and secretion
+                107 (ADCY1)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                107 (ADCY1)
+               04270 Vascular smooth muscle contraction
+                107 (ADCY1)
+              Digestive system
+               04970 Salivary secretion
+                107 (ADCY1)
+               04971 Gastric acid secretion
+                107 (ADCY1)
+               04972 Pancreatic secretion
+                107 (ADCY1)
+               04976 Bile secretion
+                107 (ADCY1)
+              Nervous system
+               04724 Glutamatergic synapse
+                107 (ADCY1)
+               04727 GABAergic synapse
+                107 (ADCY1)
+               04725 Cholinergic synapse
+                107 (ADCY1)
+               04720 Long-term potentiation
+                107 (ADCY1)
+               04723 Retrograde endocannabinoid signaling
+                107 (ADCY1)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                107 (ADCY1)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                107 (ADCY1)
+               04213 Longevity regulating pathway - multiple species
+                107 (ADCY1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                107 (ADCY1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                107 (ADCY1)
+              Substance dependence
+               05032 Morphine addiction
+                107 (ADCY1)
+              Cardiovascular diseases
+               05414 Dilated cardiomyopathy (DCM)
+                107 (ADCY1)
+              Infectious diseases
+               05166 HTLV-I infection
+                107 (ADCY1)
+               05146 Amoebiasis
+                107 (ADCY1)
+               05142 Chagas disease (American trypanosomiasis)
+                107 (ADCY1)
+              Drug resistance
+               01522 Endocrine resistance
+                107 (ADCY1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.6  Phosphorus-oxygen lyases
+               4.6.1  Phosphorus-oxygen lyases (only sub-subclass identified to date)
+                4.6.1.1  adenylate cyclase
+                 107 (ADCY1)
+POSITION    7p12.3
+MOTIF       Pfam: Guanylate_cyc AC_N HNOBA DUF1053
+DBLINKS     NCBI-GeneID: 107
+            NCBI-ProteinID: NP_066939
+            OMIM: 103072
+            HGNC: 232
+            Ensembl: ENSG00000164742
+            Vega: OTTHUMG00000155420
+            Pharos: Q08828(Tchem)
+            UniProt: Q08828 Q8NFM5 Q59FG4
+AASEQ       1119
+            MAGAPRGGGGGGGGAGEPGGAERAAGTSRRRGLRACDEEFACPELEALFRGYTLRLEQAA
+            TLKALAVLSLLAGALALAELLGAPGPAPGLAKGSHPVHCVLFLALLVVTNVRSLQVPQLQ
+            QVGQLALLFSLTFALLCCPFALGGPARGSAGAAGGPATAEQGVWQLLLVTFVSYALLPVR
+            SLLAIGFGLVVAASHLLVTATLVPAKRPRLWRTLGANALLFVGVNMYGVFVRILTERSQR
+            KAFLQARSCIEDRLRLEDENEKQERLLMSLLPRNVAMEMKEDFLKPPERIFHKIYIQRHD
+            NVSILFADIVGFTGLASQCTAQELVKLLNELFGKFDELATENHCRRIKILGDCYYCVSGL
+            TQPKTDHAHCCVEMGLDMIDTITSVAEATEVDLNMRVGLHTGRVLCGVLGLRKWQYDVWS
+            NDVTLANVMEAAGLPGKVHITKTTLACLNGDYEVEPGYGHERNSFLKTHNIETFFIVPSH
+            RRKIFPGLILSDIKPAKRMKFKTVCYLLVQLMHCRKMFKAEIPFSNVMTCEDDDKRRALR
+            TASEKLRNRSSFSTNVVYTTPGTRVNRYISRLLEARQTELEMADLNFFTLKYKHVEREQK
+            YHQLQDEYFTSAVVLTLILAALFGLVYLLIFPQSVVVLLLLVFCICFLVACVLYLHITRV
+            QCFPGCLTIQIRTVLCIFIVVLIYSVAQGCVVGCLPWAWSSKPNSSLVVLSSGGQRTALP
+            TLPCESTHHALLCCLVGTLPLAIFFRVSSLPKMILLSGLTTSYILVLELSGYTRTGGGAV
+            SGRSYEPIVAILLFSCALALHARQVDIRLRLDYLWAAQAEEEREDMEKVKLDNRRILFNL
+            LPAHVAQHFLMSNPRNMDLYYQSYSQVGVMFASIPNFNDFYIELDGNNMGVECLRLLNEI
+            IADFDELMEKDFYKDIEKIKTIGSTYMAAVGLAPTSGTKAKKSISSHLSTLADFAIEMFD
+            VLDEINYQSYNDFVLRVGINVGPVVAGVIGARRPQYDIWGNTVNVASRMDSTGVQGRIQV
+            TEEVHRLLRRCPYHFVCRGKVSVKGKGEMLTYFLEGRTDGNGSQIRSLGLDRKMCPFGRA
+            GLQGRRPPVCPMPGVSVRAGLPPHSPGQYLPSAAAGKEA
+NTSEQ       3360
+            atggcgggggcgccgcgcggcggaggcggcggcggaggcggcgcgggcgagcccgggggc
+            gccgagcgggcggccgggacaagccgccggcgcgggctccgggcgtgcgacgaggagttc
+            gcttgcccagagctggaggcgctgttccgcggctacacgctgcggctggagcaggcggcc
+            acgctgaaggcgctggccgttctcagcctgctggcgggcgcgctggcgctggccgagctg
+            ctgggcgcgccggggcccgcgcccggcctggccaagggctcacacccggtgcactgcgtc
+            ctcttcctggcgctgctcgtggtaaccaacgtccggtccctgcaggtgccccagctgcag
+            caggtcggccagctggcgctgctcttcagcctcaccttcgcgctgctctgctgtcctttc
+            gcgctgggcggccccgcccggggttccgccggggccgctggggggccagcgaccgccgaa
+            caaggggtttggcagctccttttggtcaccttcgtgtcctatgccttgctgcccgtgcgc
+            agcctgctggccataggctttgggctcgtggtggctgcgtcgcacttgctggtcacagcc
+            accttggtccccgccaagcgcccacgtctctggaggacgctcggtgccaatgccttgctc
+            ttcgtcggtgtgaacatgtatggggtctttgtgcggattctgactgagcgttcacagagg
+            aaggcgttcctgcaggcccggagctgcattgaggaccgactgaggctggaggatgagaac
+            gagaagcaggagcggctcctcatgagcctcctgccccggaacgttgccatggagatgaag
+            gaggacttcctgaagccccctgagaggattttccacaagatttacatccagaggcacgac
+            aatgtgagcatcctgtttgctgacatcgtgggtttcacgggcttggcatcccagtgcaca
+            gcccaggagctggtgaaactcctcaatgagctcttcggcaagttcgatgaattagccacg
+            gagaaccactgtcgccgcatcaagattctcggggactgctactactgcgtgtcgggcctc
+            acccagcccaagactgaccatgcccactgctgtgtggagatgggactcgacatgattgat
+            accatcacatctgtggctgaagccaccgaggtggatctgaacatgcgtgtgggtctgcac
+            acgggcagggtcctctgtggtgtcctgggcttgcgcaagtggcagtacgacgtgtggtcc
+            aatgatgtgaccttggccaatgtcatggaagccgctggcctgccagggaaggttcatatc
+            acaaagacgaccctagcgtgcttgaatggggactacgaggtagaaccgggttacggacat
+            gagaggaacagtttcttgaaaactcataacatcgaaaccttttttattgtgccatcccat
+            cgccgaaagatatttccaggcctgattctctcagatataaaaccggccaaaaggatgaag
+            ttcaagactgtctgctacctgctggtgcagctcatgcactgccggaaaatgttcaaggcc
+            gagatccccttctccaatgtcatgacctgcgaggacgatgacaagcggagggcattaaga
+            acagcctcggaaaaactcagaaaccgctcatctttttctaccaacgttgtctacaccacc
+            ccgggcactcgcgtcaacaggtacatcagccgcctcttagaagcccgccagacagagctg
+            gagatggcagacctgaacttctttaccctgaagtacaaacatgtcgaacgggagcaaaag
+            taccaccagcttcaggacgagtatttcaccagcgccgttgtcctcaccctcatcctggct
+            gccttatttggccttgtctaccttctaatattcccacagagtgtggtcgtcctgctcctg
+            ctagtattctgcatctgcttcctggtggcctgtgtcctgtacctgcacatcacccgggtc
+            cagtgttttccagggtgcctgacgattcagattcgcactgtcctgtgtattttcatagtg
+            gtcttaatctactcagtagcccaaggttgtgtggtgggctgcctgccttgggcctggagc
+            tccaagcccaacagttccctggtggtcctttcgtctgggggccagcgcacagccctgccc
+            accctgccctgcgagtctacacaccatgccctgctctgctgcctggtgggcaccctcccg
+            ctagccatatttttccgggtgtcctccttgccaaaaatgatcctgctctccgggctcacc
+            acgtcctacatcctcgttctggagctcagcggatacaccaggactgggggtggtgccgtc
+            tccgggcgcagctacgagccgattgtggccatcctgctcttctcctgtgcgctggccctg
+            catgccaggcaggtggacatcaggctgaggctggactacctctgggccgcacaggcagag
+            gaggagcgagaggacatggagaaggtgaagctggacaacaggcgcatcctcttcaacctc
+            ctgccggcccacgtcgcccagcacttcctcatgtccaaccctcggaacatggacctctac
+            taccagtcctactcccaggtgggcgtcatgtttgcctccatccccaacttcaatgacttc
+            tacatcgagctggacggcaacaacatgggggtggagtgtctgcggcttctcaacgagatc
+            atcgccgactttgacgagctcatggaaaaagacttttacaaggacatagagaagatcaag
+            accatcgggagcacctacatggccgctgtggggctagcgcccacctcggggaccaaggct
+            aagaagtccatctcctcccacctgagcacgctggcggactttgccattgagatgtttgac
+            gttctggatgaaatcaactaccagtcttacaacgactttgtcctccgagttggcatcaat
+            gttggccctgtggtggctggagtgattggcgctcgcaggccccagtacgacatctgggga
+            aacacagtcaacgtggccagtcggatggatagcacaggggtccagggcagaatccaggtg
+            actgaggaagtccaccggctgctgagaaggtgcccctaccactttgtgtgccgaggcaaa
+            gtcagtgtcaagggcaaaggcgagatgttgacatactttctagaaggcaggactgatgga
+            aacggctcccaaatcaggtccctgggcttggatcggaaaatgtgtccatttgggagagct
+            ggccttcagggcagacgtccccccgtgtgccccatgcctggcgtctcagtcagggctggg
+            ctccctccacactccccaggccagtacctgccctctgcagcagctgggaaggaggcttag
+///

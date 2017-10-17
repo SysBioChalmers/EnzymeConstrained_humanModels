@@ -1,0 +1,104 @@
+ENTRY       1605              CDS       T01001
+NAME        DAG1, 156DAG, A3a, AGRNR, DAG, MDDGA9, MDDGC7, MDDGC9
+DEFINITION  (RefSeq) dystroglycan 1
+ORTHOLOGY   K06265  dystroglycan 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04512  ECM-receptor interaction
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+            hsa05416  Viral myocarditis
+DISEASE     H00593  Limb-girdle muscular dystrophy (LGMD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04512 ECM-receptor interaction
+                1605 (DAG1)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                1605 (DAG1)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                1605 (DAG1)
+               05414 Dilated cardiomyopathy (DCM)
+                1605 (DAG1)
+               05416 Viral myocarditis
+                1605 (DAG1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             7. Others
+              NRXN; neurexin [KO:K07377]
+               1605 (DAG1)
+POSITION    3p21.31
+MOTIF       Pfam: DAG1 TMEM154 ATP1G1_PLM_MAT8
+DBLINKS     NCBI-GeneID: 1605
+            NCBI-ProteinID: NP_001159400
+            OMIM: 128239
+            HGNC: 2666
+            Ensembl: ENSG00000173402
+            Vega: OTTHUMG00000156869
+            Pharos: Q14118(Tbio)
+            UniProt: Q14118 A0A024R2W4
+STRUCTURE   PDB: 5LLK
+AASEQ       895
+            MRMSVGLSLLLPLWGRTFLLLLSVVMAQSHWPSEPSEAVRDWENQLEASMHSVLSDLHEA
+            VPTVVGIPDGTAVVGRSFRVTIPTDLIASSGDIIKVSAAGKEALPSWLHWDSQSHTLEGL
+            PLDTDKGVHYISVSATRLGANGSHIPQTSSVFSIEVYPEDHSELQSVRTASPDPGEVVSS
+            ACAADEPVTVLTVILDADLTKMTPKQRIDLLHRMRSFSEVELHNMKLVPVVNNRLFDMSA
+            FMAGPGNAKKVVENGALLSWKLGCSLNQNSVPDIHGVEAPAREGAMSAQLGYPVVGWHIA
+            NKKPPLPKRVRRQIHATPTPVTAIGPPTTAIQEPPSRIVPTPTSPAIAPPTETMAPPVRD
+            PVPGKPTVTIRTRGAIIQTPTLGPIQPTRVSEAGTTVPGQIRPTMTIPGYVEPTAVATPP
+            TTTTKKPRVSTPKPATPSTDSTTTTTRRPTKKPRTPRPVPRVTTKVSITRLETASPPTRI
+            RTTTSGVPRGGEPNQRPELKNHIDRVDAWVGTYFEVKIPSDTFYDHEDTTTDKLKLTLKL
+            REQQLVGEKSWVQFNSNSQLMYGLPDSSHVGKHEYFMHATDKGGLSAVDAFEIHVHRRPQ
+            GDRAPARFKAKFVGDPALVLNDIHKKIALVKKLAFAFGDRNCSTITLQNITRGSIVVEWT
+            NNTLPLEPCPKEQIAGLSRRIAEDDGKPRPAFSNALEPDFKATSITVTGSGSCRHLQFIP
+            VVPPRRVPSEAPPTEVPDRDPEKSSEDDVYLHTVIPAVVVAAILLIAGIIAMICYRKKRK
+            GKLTLEDQATFIKKGVPIIFADELDDSKPPPSSSMPLILQEEKAPLPPPEYPNQSVPETT
+            PLNQDTMGEYTPLRDEDPNAPPYQPPPPFTAPMEGKGSRPKNMTPYRSPPPYVPP
+NTSEQ       2688
+            atgaggatgtctgtgggcctctcgctgctgctgcccctctgggggaggacctttctcctc
+            ctgctctctgtggttatggctcagtcccactggcccagtgaaccctcagaggctgtcagg
+            gactgggaaaaccagcttgaggcatccatgcactcagtgctctcagacctccacgaggct
+            gttcccacagtggttggcattcctgatggcacggctgtcgtcgggcgctcatttcgagtg
+            accattccaacagatttgattgcctccagtggagatatcatcaaggtatcagcggcaggg
+            aaggaggctttgccatcttggctgcactgggactcacagagccacaccctggagggcctc
+            ccccttgacactgataagggtgtgcattacatttcagtgagcgctacacggctgggggcc
+            aacgggagccacatcccccagacctccagtgtgttctccatcgaggtctaccctgaagac
+            cacagtgagctgcagtcggtgaggacagcctccccagaccctggtgaggtggtatcatct
+            gcctgtgctgcggatgaacctgtgactgttttgacggtgattttggatgccgacctcacc
+            aagatgaccccaaagcaaaggattgacctcctgcacaggatgcggagcttctcagaagta
+            gagcttcacaacatgaaattagtgccggtggtgaataacagactatttgacatgtcggcc
+            ttcatggctggcccgggaaatgcaaaaaaggtggtggagaatggggcccttctctcctgg
+            aagctgggctgctccctgaaccagaacagtgtgcctgacattcatggtgtagaggcccct
+            gccagggagggcgcaatgtctgctcagcttggctaccctgtggtgggttggcacatcgcc
+            aataagaagccccctcttcccaaacgcgtccggaggcagatccatgctacacccacacct
+            gtcactgccattgggcccccaaccacggctatccaggagcccccatccaggatcgtgcca
+            acccccacatctccagccattgctcctccaacagagaccatggctcctccagtcagggat
+            cctgttcctgggaaacccacggtcaccatccggactcgaggcgccattattcaaacccca
+            accctaggccccatccagcctactcgggtgtcagaagctggcaccacagttcctggccag
+            attcgcccaacgatgaccattcctggctatgtggagcctactgcagttgctacccctccc
+            acaaccaccaccaagaagccacgagtatccacaccaaaaccagcaacgccttcaactgac
+            tccaccaccaccacgactcgcaggccaaccaagaaaccacggacaccccggccagtgccc
+            cgggtcaccaccaaagtttccatcaccagattggaaactgcctcaccgcctactcgtatt
+            cgcaccaccaccagtggagtgccccgtggcggagaacccaaccagcgcccagagctcaag
+            aaccatattgacagggtagatgcctgggttggcacctactttgaggtgaagatcccgtca
+            gacactttctatgaccatgaggacaccaccactgacaagctgaagctgaccctgaaactg
+            cgggagcagcagctggtgggcgagaagtcctgggtacagttcaacagcaacagccagctc
+            atgtatggccttcccgacagcagccacgtgggcaaacacgagtatttcatgcatgccaca
+            gacaaggggggcctgtcggctgtggatgccttcgagatccacgtccacaggcgcccccaa
+            ggggatagggctcctgcaaggttcaaggccaagtttgtgggtgacccggcactggtgttg
+            aatgacatccacaagaagattgccttggtaaagaaactggccttcgcctttggagaccga
+            aactgtagcaccatcaccctgcagaatatcacccggggctccatcgtggtggaatggacc
+            aacaacacactgcccttggagccctgccccaaggagcagatcgctgggctgagccgccgg
+            atcgctgaggatgatggaaaacctcggcctgccttctccaacgccctagagcctgacttt
+            aaggccacaagcatcactgtgacgggctctggcagttgtcggcacctacagtttatccct
+            gtggtaccacccaggagagtgccctcagaggcgccgcccacagaagtgcctgacagggac
+            cctgagaagagcagtgaggatgatgtctacctgcacacagtcattccggccgtggtggtc
+            gcagccatcctgctcattgctggcatcattgccatgatctgctaccgcaagaagcggaag
+            ggcaagcttacccttgaggaccaggccaccttcatcaagaagggggtgcctatcatcttt
+            gcagacgaactggacgactccaagcccccaccctcctccagcatgccactcattctgcag
+            gaggagaaggctcccctaccccctcctgagtaccccaaccagagtgtgcccgagaccact
+            cctctgaaccaggacaccatgggagagtacacgcccctgcgggatgaggatcccaatgcg
+            cctccctaccagcccccaccgcccttcacagcacccatggagggcaagggctcccgtccc
+            aagaacatgaccccataccggtcacctcctccctatgtcccaccttaa
+///

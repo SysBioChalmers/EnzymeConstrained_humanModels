@@ -1,0 +1,111 @@
+ENTRY       501               CDS       T01001
+NAME        ALDH7A1, ATQ1, EPD, PDE
+DEFINITION  (RefSeq) aldehyde dehydrogenase 7 family member A1
+ORTHOLOGY   K14085  aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H01247  Pyridoxine-dependent epilepsy (PDE)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                501 (ALDH7A1)
+               00053 Ascorbate and aldarate metabolism
+                501 (ALDH7A1)
+               00620 Pyruvate metabolism
+                501 (ALDH7A1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                501 (ALDH7A1)
+               00561 Glycerolipid metabolism
+                501 (ALDH7A1)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                501 (ALDH7A1)
+               00280 Valine, leucine and isoleucine degradation
+                501 (ALDH7A1)
+               00310 Lysine degradation
+                501 (ALDH7A1)
+               00330 Arginine and proline metabolism
+                501 (ALDH7A1)
+               00340 Histidine metabolism
+                501 (ALDH7A1)
+               00380 Tryptophan metabolism
+                501 (ALDH7A1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                501 (ALDH7A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 501 (ALDH7A1)
+                1.2.1.8  betaine-aldehyde dehydrogenase
+                 501 (ALDH7A1)
+                1.2.1.31  L-aminoadipate-semialdehyde dehydrogenase
+                 501 (ALDH7A1)
+POSITION    5q23.2
+MOTIF       Pfam: Aldedh
+DBLINKS     NCBI-GeneID: 501
+            NCBI-ProteinID: NP_001173
+            OMIM: 107323
+            HGNC: 877
+            Ensembl: ENSG00000164904
+            Vega: OTTHUMG00000128942
+            Pharos: P49419(Tbio)
+            UniProt: P49419
+STRUCTURE   PDB: 4ZUL 4ZVX 4ZVY 4X0U 4ZUK 4ZVW 4X0T 2J6L
+AASEQ       539
+            MWRLPRALCVHAAKTSKLSGPWSRPAAFMSTLLINQPQYAWLKELGLREENEGVYNGSWG
+            GRGEVITTYCPANNEPIARVRQASVADYEETVKKAREAWKIWADIPAPKRGEIVRQIGDA
+            LREKIQVLGSLVSLEMGKILVEGVGEVQEYVDICDYAVGLSRMIGGPILPSERSGHALIE
+            QWNPVGLVGIITAFNFPVAVYGWNNAIAMICGNVCLWKGAPTTSLISVAVTKIIAKVLED
+            NKLPGAICSLTCGGADIGTAMAKDERVNLLSFTGSTQVGKQVGLMVQERFGRSLLELGGN
+            NAIIAFEDADLSLVVPSALFAAVGTAGQRCTTARRLFIHESIHDEVVNRLKKAYAQIRVG
+            NPWDPNVLYGPLHTKQAVSMFLGAVEEAKKEGGTVVYGGKVMDRPGNYVEPTIVTGLGHD
+            ASIAHTETFAPILYVFKFKNEEEVFAWNNEVKQGLSSSIFTKDLGRIFRWLGPKGSDCGI
+            VNVNIPTSGAEIGGAFGGEKHTGGGRESGSDAWKQYMRRSTCTINYSKDLPLAQGIKFQ
+NTSEQ       1620
+            atgtggcgccttcctcgcgcgctgtgtgtgcacgctgcaaagaccagcaagctctctgga
+            ccttggagcaggcctgccgccttcatgtccactctcctcatcaatcagccccagtatgcg
+            tggctgaaagagctggggctccgcgaggaaaacgagggcgtgtataatggaagctgggga
+            ggccggggagaggttattacgacctattgccctgctaacaacgagccaatagcaagagtc
+            cgacaggccagtgtggcagactatgaagaaactgtaaagaaagcaagagaagcatggaaa
+            atctgggcagatattcctgctccaaaacgaggagaaatagtaagacagattggcgatgcc
+            ttgcgggagaagatccaagtactaggaagcttggtgtctttggagatggggaaaatctta
+            gtggaaggtgtgggtgaagttcaggagtatgtggatatctgtgactatgctgttggttta
+            tcaaggatgattggaggacctatcttgccttctgaaagatctggccatgcactgattgag
+            cagtggaatcccgtaggcctggttggaatcatcacggcattcaatttccctgtggcagtg
+            tatggttggaacaacgccatcgccatgatctgtggaaatgtctgcctctggaaaggagct
+            ccaaccacttccctcattagtgtggctgtcacaaagataatagccaaggttctggaggac
+            aacaagctgcctggtgcaatttgttccttgacttgtggtggagcagatattggcacagca
+            atggccaaagatgaacgagtgaacctgctgtccttcactgggagcactcaggtgggaaaa
+            caggtgggcctgatggtgcaggagaggtttgggagaagtctgttggaacttggaggaaac
+            aatgccattattgcctttgaagatgcagacctcagcttagttgttccatcagctctcttc
+            gctgctgtgggaacagctggccagaggtgtaccactgcgaggcgactgtttatacatgaa
+            agcatccatgatgaggttgtaaacagacttaaaaaggcctatgcacagatccgagttggg
+            aacccatgggaccctaatgttctctatgggccactccacaccaagcaggcagtgagcatg
+            tttcttggagcagtggaagaagcaaagaaagaaggtggcacagtggtctatgggggcaag
+            gttatggatcgccctggaaattatgtagaaccgacaattgtgacaggtcttggccacgat
+            gcgtccattgcacacacagagacttttgctccgattctctatgtctttaaattcaagaat
+            gaagaagaggtctttgcatggaataatgaagtaaaacagggactttcaagtagcatcttt
+            accaaagatctgggcagaatctttcgctggcttggacctaaaggatcagactgtggcatt
+            gtaaatgtcaacattccaacaagtggggctgagattggaggtgcctttggaggagaaaag
+            cacactggtggtggcagggagtctggcagtgatgcctggaaacagtacatgagaaggtct
+            acttgtactatcaactacagtaaagaccttcctctggcccaaggaatcaagtttcagtaa
+///

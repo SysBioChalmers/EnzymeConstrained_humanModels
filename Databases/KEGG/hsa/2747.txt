@@ -1,0 +1,98 @@
+ENTRY       2747              CDS       T01001
+NAME        GLUD2, GDH2, GLUDP1
+DEFINITION  (RefSeq) glutamate dehydrogenase 2
+ORTHOLOGY   K00261  glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00471  D-Glutamine and D-glutamate metabolism
+            hsa00910  Nitrogen metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa04217  Necroptosis
+            hsa04964  Proximal tubule bicarbonate reclamation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                2747 (GLUD2)
+              Energy metabolism
+               00910 Nitrogen metabolism
+                2747 (GLUD2)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2747 (GLUD2)
+               00220 Arginine biosynthesis
+                2747 (GLUD2)
+              Metabolism of other amino acids
+               00471 D-Glutamine and D-glutamate metabolism
+                2747 (GLUD2)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                2747 (GLUD2)
+             Organismal Systems
+              Excretory system
+               04964 Proximal tubule bicarbonate reclamation
+                2747 (GLUD2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.1  With NAD+ or NADP+ as acceptor
+                1.4.1.3  glutamate dehydrogenase [NAD(P)+]
+                 2747 (GLUD2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of breast cancer cells
+               2747 (GLUD2)
+POSITION    Xq24
+MOTIF       Pfam: ELFV_dehydrog_N ELFV_dehydrog 2-Hacid_dh_C
+DBLINKS     NCBI-GeneID: 2747
+            NCBI-ProteinID: NP_036216
+            OMIM: 300144
+            HGNC: 4336
+            Ensembl: ENSG00000182890
+            Vega: OTTHUMG00000022320
+            Pharos: P49448(Tbio)
+            UniProt: P49448 A0A140VK14
+AASEQ       558
+            MYRYLAKALLPSRAGPAALGSAANHSAALLGRGRGQPAAASQPGLALAARRHYSELVADR
+            EDDPNFFKMVEGFFDRGASIVEDKLVKDLRTQESEEQKRNRVRGILRIIKPCNHVLSLSF
+            PIRRDDGSWEVIEGYRAQHSQHRTPCKGGIRYSTDVSVDEVKALASLMTYKCAVVDVPFG
+            GAKAGVKINPKNYTENELEKITRRFTMELAKKGFIGPGVDVPAPDMNTGEREMSWIADTY
+            ASTIGHYDINAHACVTGKPISQGGIHGRISATGRGVFHGIENFINEASYMSILGMTPGFR
+            DKTFVVQGFGNVGLHSMRYLHRFGAKCIAVGESDGSIWNPDGIDPKELEDFKLQHGSILG
+            FPKAKPYEGSILEVDCDILIPAATEKQLTKSNAPRVKAKIIAEGANGPTTPEADKIFLER
+            NILVIPDLYLNAGGVTVSYFEWLKNLNHVSYGRLTFKYERDSNYHLLLSVQESLERKFGK
+            HGGTIPIVPTAEFQDSISGASEKDIVHSALAYTMERSARQIMHTAMKYNLGLDLRTAAYV
+            NAIEKVFKVYSEAGVTFT
+NTSEQ       1677
+            atgtaccgctacctggccaaagcgctgctgccgtcccgggccgggcccgctgccctgggc
+            tccgcggccaaccactcggccgcgttgctgggccggggccgcggacagcccgccgccgcc
+            tcgcagccggggctcgcattggccgcccggcgccactacagcgagttggtggccgaccgc
+            gaggacgaccccaacttcttcaagatggtggagggcttcttcgatcgcggcgccagcatc
+            gtggaggacaagttggtgaaggacctgaggacccaggaaagcgaggagcagaagcggaac
+            cgggtgcgcggcatcctgcggatcatcaagccctgcaaccatgtgctgagtctctccttc
+            cccatccggcgcgacgacggctcctgggaggtcatcgaaggctaccgggcccagcacagc
+            cagcaccgcacgccctgcaagggaggtatccgttacagcactgatgtgagtgtagatgaa
+            gtaaaagctttggcttctctgatgacatacaagtgtgcagtggttgatgtgccgtttggg
+            ggtgctaaagctggtgttaagatcaatcccaagaactataccgaaaatgaattggaaaag
+            atcacaaggaggttcaccatggagctagcaaagaagggctttattggtcctggcgttgat
+            gtgcctgctccagacatgaacacaggtgagcgggagatgtcctggattgctgatacctat
+            gccagcaccatagggcactatgatattaatgcacacgcctgtgttactggtaaacccatc
+            agccaagggggaatccatggacgcatctctgctactggccgtggtgtcttccatgggatt
+            gaaaacttcatcaatgaagcttcttacatgagcattttaggaatgacaccagggtttaga
+            gataaaacatttgttgttcagggatttggtaatgtgggcctacactctatgagatattta
+            catcgttttggtgctaaatgtattgctgttggtgagtctgatgggagtatatggaatcca
+            gatggtattgacccaaaggaactggaagacttcaaattgcaacatgggtccattctgggc
+            ttccccaaggcaaagccctatgaaggaagcatcttggaggtcgactgtgacatactgatc
+            ccagctgccactgagaagcagttgaccaaatccaacgcacccagagtcaaagccaagatc
+            attgctgaaggtgccaatgggccaacaactccagaagctgataagatcttcctggagaga
+            aacattttggttattccagatctctacttgaatgctggaggagtgacagtatcttacttt
+            gagtggctgaagaatctaaatcatgtcagctatggccgtttgaccttcaaatatgaaagg
+            gattctaactaccacttgctcctgtctgttcaagagagtttagaaagaaaatttggaaag
+            catggtggaactattcccattgtacccacggcagagttccaagacagtatatcgggtgca
+            tctgagaaagacattgtgcactctgccttggcatacacaatggagcgttctgccaggcaa
+            attatgcacacagccatgaagtataacctgggattggacctgagaacagctgcctatgtc
+            aatgccattgaaaaagtcttcaaagtgtacagtgaagctggtgtgaccttcacatag
+///

@@ -1,0 +1,113 @@
+ENTRY       1856              CDS       T01001
+NAME        DVL2
+DEFINITION  (RefSeq) dishevelled segment polarity protein 2
+ORTHOLOGY   K02353  segment polarity protein dishevelled
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04330  Notch signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                1856 (DVL2)
+               04330 Notch signaling pathway
+                1856 (DVL2)
+               04390 Hippo signaling pathway
+                1856 (DVL2)
+               04150 mTOR signaling pathway
+                1856 (DVL2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                1856 (DVL2)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                1856 (DVL2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                1856 (DVL2)
+               05217 Basal cell carcinoma
+                1856 (DVL2)
+               05224 Breast cancer
+                1856 (DVL2)
+              Infectious diseases
+               05166 HTLV-I infection
+                1856 (DVL2)
+               05165 Human papillomavirus infection
+                1856 (DVL2)
+POSITION    17p13.1
+MOTIF       Pfam: Dsh_C Dishevelled DIX PDZ DEP PDZ_2 Shufflon_N
+DBLINKS     NCBI-GeneID: 1856
+            NCBI-ProteinID: NP_004413
+            OMIM: 602151
+            HGNC: 3086
+            Ensembl: ENSG00000004975
+            Vega: OTTHUMG00000102155
+            Pharos: O14641(Tbio)
+            UniProt: O14641
+STRUCTURE   PDB: 3CBZ 3CBY 2REY 3CBX 3CC0 5SUZ 5SUY 5LNP 4WIP
+AASEQ       736
+            MAGSSTGGGGVGETKVIYHLDEEETPYLVKIPVPAERITLGDFKSVLQRPAGAKYFFKSM
+            DQDFGVVKEEISDDNARLPCFNGRVVSWLVSSDNPQPEMAPPVHEPRAELAPPAPPLPPL
+            PPERTSGIGDSRPPSFHPNVSSSHENLEPETETESVVSLRRERPRRRDSSEHGAGGHRTG
+            GPSRLERHLAGYESSSTLMTSELESTSLGDSDEEDTMSRFSSSTEQSSASRLLKRHRRRR
+            KQRPPRLERTSSFSSVTDSTMSLNIITVTLNMEKYNFLGISIVGQSNERGDGGIYIGSIM
+            KGGAVAADGRIEPGDMLLQVNDMNFENMSNDDAVRVLRDIVHKPGPIVLTVAKCWDPSPQ
+            AYFTLPRNEPIQPIDPAAWVSHSAALTGTFPAYPGSSSMSTITSGSSLPDGCEGRGLSVH
+            TDMASVTKAMAAPESGLEVRDRMWLKITIPNAFLGSDVVDWLYHHVEGFPERREARKYAS
+            GLLKAGLIRHTVNKITFSEQCYYVFGDLSGGCESYLVNLSLNDNDGSSGASDQDTLAPLP
+            GATPWPLLPTFSYQYPAPHPYSPQPPPYHELSSYTYGGGSASSQHSEGSRSSGSTRSDGG
+            AGRTGRPEERAPESKSGSGSESEPSSRGGSLRRGGEASGTSDGGPPPSRGSTGGAPNLRA
+            HPGLHPYGPPPGMALPYNPMMVVMMPPPPPPVPPAVQPPGAPPVRDLGSVPPELTASRQS
+            FHMAMGNPSEFFVDVM
+NTSEQ       2211
+            atggcgggtagcagcactgggggcggtggggttggggagacgaaggtgatttaccacctg
+            gatgaggaagagactccctacctggtgaagatccctgtccccgccgagcgcatcaccctc
+            ggcgatttcaagagcgtcctgcagcggcccgcgggcgccaagtactttttcaagtctatg
+            gatcaggatttcggggtggtgaaggaagaaatttcagatgacaacgcccgcctcccctgc
+            ttcaacggaagggtggtatcctggctggtgtcctcagataatccccaacccgagatggcc
+            cctccagtccatgagcctcgggcagaactggcgcctccagccccacctttacctcctttg
+            ccacccgagaggaccagcggcattggggactcaaggcctccatccttccaccctaatgtg
+            tccagcagccatgagaatctggagcctgagacagaaaccgagtcagtagtgtcactgagg
+            cgggagcggcctcgcaggagagacagcagtgagcatggcgctgggggccacaggactggt
+            ggcccctcaaggctggagcgccacctggccggatacgagagctcctctaccctcatgacc
+            agcgagctggagagtaccagcctgggggactcggacgaggaggacaccatgagcaggttc
+            agcagctccacggagcagagcagtgcctcccgcctccttaagcgccaccggcggcgaagg
+            aagcagaggccaccccgcctggagaggacgtcatccttcagcagcgtcacagattccaca
+            atgtctctcaatatcatcacagtcacgctaaacatggagaagtacaacttcctgggtatc
+            tccattgttggccagagcaatgagcggggagacggaggcatctacattggctccatcatg
+            aagggtggggctgtggcggccgacgggcgcattgagccaggggacatgcttttgcaggtg
+            aatgacatgaactttgagaacatgagcaacgatgacgctgtgcgggtgctgagggacatt
+            gtgcacaagcctggccccattgtgctgactgtggccaagtgctgggatccctctcctcag
+            gcctatttcactctcccccgaaatgagcccatccagccaattgaccctgctgcctgggtg
+            tcccattccgcggctctgactggcaccttcccagcctatccaggttcctcctccatgagc
+            accattacatctggatcgtctttgcctgatggctgtgaaggccggggtctctccgtccat
+            acggacatggcatcggtgaccaaggccatggcagctccagagtctggactggaagtccgg
+            gaccgcatgtggctcaagatcaccatccctaatgcctttctgggctcggatgtggttgac
+            tggctctaccatcacgtggagggctttcctgagcggcgggaggcccgcaagtatgccagc
+            gggctgctcaaagcaggcctgatccgacacaccgtcaacaagatcaccttctctgagcag
+            tgctattacgtcttcggagacctcagtggtggctgtgagagctacctagtcaacctgtct
+            ctcaatgacaacgatggctccagtggggcttcagaccaggataccctggctcctctgcct
+            ggggccaccccctggcccctgctgcccactttctcctaccaataccctgccccacacccc
+            tacagcccgcagcctccaccctaccatgagctttcatcttacacctatggtgggggcagt
+            gccagcagccagcatagtgagggcagccggagcagtgggtcgacacggagtgatgggggg
+            gcagggcgcacggggaggcccgaggagcgggcccccgagtccaagtccggcagtggcagt
+            gagtctgagccctccagccgagggggcagccttcggcggggtggggaagcaagtgggact
+            agcgatgggggccctcctccatccagaggctcaactgggggtgcccctaatctccgagcc
+            cacccagggctccatccctatggaccgccccctggcatggccctcccctacaaccccatg
+            atggtggtcatgatgcccccacctccacctccagtccctccagcagtgcagcctccgggg
+            gcccctccagtcagagacctgggctctgtgcccccagaactgacagccagccgccaaagc
+            ttccacatggccatgggcaatcccagcgagttctttgtggatgttatgtag
+///

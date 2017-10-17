@@ -1,0 +1,94 @@
+ENTRY       27343             CDS       T01001
+NAME        POLL, BETAN, POLKAPPA
+DEFINITION  (RefSeq) DNA polymerase lambda
+ORTHOLOGY   K03512  DNA polymerase lambda [EC:2.7.7.7 4.2.99.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+            hsa03450  Non-homologous end-joining
+MODULE      hsa_M00296  BER complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                27343 (POLL)
+               03450 Non-homologous end-joining
+                27343 (POLL)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 27343 (POLL)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.-  
+                 27343 (POLL)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Other BER factors
+                 27343 (POLL)
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                X-family DNA polymerases
+                 27343 (POLL)
+POSITION    10q24.32
+MOTIF       Pfam: DNA_pol_B_palm DNA_pol_B_thumb DNA_pol_lambd_f HHH_8 HHH_5 BRCT_2 NTP_transf_2 HHH HHH_2 BRCT
+DBLINKS     NCBI-GeneID: 27343
+            NCBI-ProteinID: NP_001167555
+            OMIM: 606343
+            HGNC: 9184
+            Ensembl: ENSG00000166169
+            Vega: OTTHUMG00000018933
+            Pharos: Q9UGP5(Tbio)
+            UniProt: Q9UGP5
+STRUCTURE   PDB: 2BCQ 5IIJ 2BCR 5III 4XA5 2PFN 5IIM 3UPQ 3HWT 3HW8 1XSN
+                 5IIL 5IIK 3PNC 3MDC 2PFO 2BCV 4FO6 3MDA 5IIO 4K4H 2PFP
+                 2PFQ 1RZT 3UQ0 5IIN 4X5V 4K4G 3PMN 3C5G 2BCS 2BCU 1XSP
+                 4K4I 3UQ2 3C5F 1XSL 5CP2 4XUS 3MGH 2GWS 5CWR 5CA7 3PML
+                 3MGI 5DKW 5CR0 4XQ8 5DDM 5CJ7 5CHG 4XRH 3HX0 5CB1 5DDY
+                 2JW5 1NZP
+AASEQ       575
+            MDPRGILKAFPKRQKIHADASSKVLAKIPRREEGEEAEEWLSSLRAHVVRTGIGRARAEL
+            FEKQIVQHGGQLCPAQGPGVTHIVVDEGMDYERALRLLRLPQLPPGAQLVKSAWLSLCLQ
+            ERRLVDVAGFSIFIPSRYLDHPQPSKAEQDASIPPGTHEALLQTALSPPPPPTRPVSPPQ
+            KAKEAPNTQAQPISDDEASDGEETQVSAADLEALISGHYPTSLEGDCEPSPAPAVLDKWV
+            CAQPSSQKATNHNLHITEKLEVLAKAYSVQGDKWRALGYAKAINALKSFHKPVTSYQEAC
+            SIPGIGKRMAEKIIEILESGHLRKLDHISESVPVLELFSNIWGAGTKTAQMWYQQGFRSL
+            EDIRSQASLTTQQAIGLKHYSDFLERMPREEATEIEQTVQKAAQAFNSGLLCVACGSYRR
+            GKATCGDVDVLITHPDGRSHRGIFSRLLDSLRQEGFLTDDLVSQEENGQQQKYLGVCRLP
+            GPGRRHRRLDIIVVPYSEFACALLYFTGSAHFNRSMRALAKTKGMSLSEHALSTAVVRNT
+            HGCKVGPGRVLPTPTEKDVFRLLGLPYREPAERDW
+NTSEQ       1728
+            atggatcccaggggtatcttgaaggcatttcccaagcggcagaaaattcatgctgatgca
+            tcatcaaaagtacttgcaaagattcctaggagggaagagggagaagaagcagaagagtgg
+            ctgagctcccttcgggcccatgttgtgcgcactggcattggacgagcccgggcagaactc
+            tttgagaagcagattgttcagcatggcggccagctatgccctgcccagggcccaggtgtc
+            actcacattgtggtggatgaaggcatggactatgagcgagccctccgccttctcagacta
+            ccccagctgcccccgggtgctcagctggtgaagtcagcctggctgagcttgtgccttcag
+            gagaggaggctggtggatgtagctggattcagcatcttcatccccagtaggtacttggac
+            catccacagcccagcaaggcagagcaggatgcttctattcctcctggcacccatgaggcc
+            ctgcttcagacagccctttctcctcctcctcctcccaccaggcctgtgtctcctccccaa
+            aaggcaaaagaggcaccaaacacccaagcccagcccatctctgatgatgaagccagtgat
+            ggggaagaaacccaggttagtgcagctgatctggaagccctcatcagtggccactacccc
+            acctcccttgagggagattgtgagcctagcccagcccctgctgtcctggataagtgggtc
+            tgtgcacagccctcaagccagaaggcgaccaatcacaacctccatatcacagagaagctg
+            gaagttctggccaaagcctacagtgttcagggagacaagtggagggccctgggctatgcc
+            aaggccatcaatgccctcaagagcttccataagcctgtcacctcgtaccaggaggcctgc
+            agtatccctgggattgggaagcggatggctgagaaaatcatagagatcctggagagcggg
+            catttgcggaagctggaccatatcagtgagagcgtgcctgtcttggagctcttctccaac
+            atctggggagctgggaccaagactgcccagatgtggtaccaacagggcttccgaagtctg
+            gaagacatccgcagccaggcctccctgacaacccagcaggccatcggcctgaagcattac
+            agtgacttcctggaacgtatgcccagggaggaggctacagagattgagcagacagtccag
+            aaagcagcccaggcctttaactctgggctgctgtgtgtggcatgtggttcataccgacgg
+            ggaaaggcgacctgtggtgatgtcgacgtgctcatcactcacccagatggccggtcccac
+            cggggtatcttcagccgcctccttgacagtcttcggcaggaagggttcctcacagatgac
+            ttggtgagccaagaggagaatggtcagcaacagaagtacttgggggtgtgccggctccca
+            gggccagggcggcggcaccggcgcctggacatcatcgtggtgccctatagcgagtttgcc
+            tgtgccctgctctacttcaccggctctgcacacttcaaccgctccatgcgagccctggcc
+            aaaaccaagggcatgagtctgtcagaacatgccctcagcactgctgtggtccggaacacc
+            catggctgcaaggtggggcctggccgagtgctgcccactcccactgagaaggatgtcttc
+            aggctcttaggcctcccctaccgagaacctgctgagcgggactggtga
+///

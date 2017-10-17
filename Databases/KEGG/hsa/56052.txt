@@ -1,0 +1,69 @@
+ENTRY       56052             CDS       T01001
+NAME        ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1
+DEFINITION  (RefSeq) ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase
+ORTHOLOGY   K03842  beta-1,4-mannosyltransferase [EC:2.4.1.142]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00510  N-Glycan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00055  N-glycan precursor biosynthesis
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                56052 (ALG1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.142  chitobiosyldiphosphodolichol beta-mannosyltransferase
+                 56052 (ALG1)
+            Glycosyltransferases [BR:hsa01003]
+             N-Glycan biosynthesis
+              Dol-linked oligosaccharide
+               56052 (ALG1)
+POSITION    16p13.3
+MOTIF       Pfam: Glycos_transf_1 Glyco_trans_1_4 Glyco_transf_4 Glyco_trans_4_4 Glyco_trans_1_2
+DBLINKS     NCBI-GeneID: 56052
+            NCBI-ProteinID: NP_061982
+            OMIM: 605907
+            HGNC: 18294
+            Ensembl: ENSG00000033011
+            Vega: OTTHUMG00000129529
+            Pharos: Q9BT22(Tbio)
+            UniProt: Q9BT22
+AASEQ       464
+            MAASCLVLLALCLLLPLLLLGGWKRWRRGRAARHVVAVVLGDVGRSPRMQYHALSLAMHG
+            FSVTLLGFCNSKPHDELLQNNRIQIVGLTELQSLAVGPRVFQYGVKVVLQAMYLLWKLMW
+            REPGAYIFLQNPPGLPSIAVCWFVGCLCGSKLVIDWHNYGYSIMGLVHGPNHPLVLLAKW
+            YEKFFGRLSHLNLCVTNAMREDLADNWHIRAVTVYDKPASFFKETPLDLQHRLFMKLGSM
+            HSPFRARSEPEDPVTERSAFTERDAGSGLVTRLRERPALLVSSTSWTEDEDFSILLAALE
+            KFEQLTLDGHNLPSLVCVITGKGPLREYYSRLIHQKHFQHIQVCTPWLEAEDYPLLLGSA
+            DLGVCLHTSSSGLDLPMKVVDMFGCCLPVCAVNFKCLHELVKHEENGLVFEDSEELAAQL
+            QMLFSNFPDPAGKLNQFRKNLRESQQLRWDESWVQTVLPLVMDT
+NTSEQ       1395
+            atggcggcctcatgcttggtcctgctggcgctgtgtctgctgctgccgctgctgctgctg
+            ggaggatggaagcgctggcgccgggggcgggcggcccggcatgtagtagcggtggtgctg
+            ggcgacgtgggccgcagcccccgtatgcagtaccacgcgctgtcgttggccatgcacggc
+            ttctcggtgaccctcctggggttctgcaactccaaaccccatgatgagctcttgcagaac
+            aacagaattcagattgtggggttgacagaacttcagagtcttgcagttgggccccgagtt
+            ttccagtacggagtcaaagttgtacttcaggctatgtacttgctgtggaagttgatgtgg
+            agggagccaggtgcctatatctttctccagaaccccccaggtctgcctagcattgctgtc
+            tgctggttcgtgggctgcctttgtggaagcaagctcgtcattgactggcacaactatggc
+            tactccatcatgggtctggtgcatggccccaaccatcccctcgttctgctggccaagtgg
+            tacgagaagttctttgggcgcctgtcccacctgaacctgtgtgttaccaatgctatgcga
+            gaagacctggcggataactggcacatcagggctgtgaccgtctacgacaagcccgcatct
+            ttctttaaagagacacctctggacctgcagcaccggctcttcatgaagctgggcagcatg
+            cactctccgttcagggcccgctcagaacctgaggacccagtcacggagcggtcggccttc
+            acggagcgggatgctgggagcgggctggtgacgcgtctccgtgagcggccagccctgctg
+            gtcagcagcacgagctggacagaggacgaagacttctccatcctgctggcagctttagaa
+            aagtttgaacaactgactcttgatggacacaaccttccttctctcgtctgtgtgataaca
+            ggcaaagggcctctgagggagtattatagccgcctcatccaccagaagcacttccagcac
+            atccaggtctgcaccccctggctggaggccgaggactaccccctgcttctagggtcggcg
+            gacctgggtgtctgtctgcacacgtcctccagtggcctggacctgcccatgaaggtggtg
+            gacatgttcgggtgctgtttgcctgtgtgtgctgtgaacttcaagtgtttacatgagctg
+            gtgaaacatgaagaaaatggcctggtctttgaggactcagaggaactggcagctcagctg
+            cagatgcttttctcaaactttcctgatcctgcgggcaagctaaaccagttccggaagaac
+            ctgcgggagtcgcagcagctccgatgggatgagagctgggtgcagactgtgctccctttg
+            gttatggacacataa
+///

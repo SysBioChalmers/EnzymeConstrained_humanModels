@@ -1,0 +1,90 @@
+ENTRY       2162              CDS       T01001
+NAME        F13A1, F13A
+DEFINITION  (RefSeq) coagulation factor XIII A chain
+ORTHOLOGY   K03917  coagulation factor XIII A1 polypeptide [EC:2.3.2.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+DISEASE     H00945  Factor XIII deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04610 Complement and coagulation cascades
+                2162 (F13A1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.13  protein-glutamine gamma-glutamyltransferase
+                 2162 (F13A1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-4
+                ITGB1; integrin beta 1 [KO:K05719]
+                 2162 (F13A1)
+               VLA-9
+                 2162 (F13A1)
+POSITION    6p25.1
+MOTIF       Pfam: Transglut_C Transglut_N Transglut_core
+DBLINKS     NCBI-GeneID: 2162
+            NCBI-ProteinID: NP_000120
+            OMIM: 134570
+            HGNC: 3531
+            Ensembl: ENSG00000124491
+            Vega: OTTHUMG00000014186
+            Pharos: P00488(Tchem)
+            UniProt: P00488
+STRUCTURE   PDB: 4KTY 1EX0 1EVU 1GGU 1F13 1QRK 1GGY 1FIE 1GGT
+AASEQ       732
+            MSETSRTAFGGRRAVPPNNSNAAEDDLPTVELQGVVPRGVNLQEFLNVTSVHLFKERWDT
+            NKVDHHTDKYENNKLIVRRGQSFYVQIDFSRPYDPRRDLFRVEYVIGRYPQENKGTYIPV
+            PIVSELQSGKWGAKIVMREDRSVRLSIQSSPKCIVGKFRMYVAVWTPYGVLRTSRNPETD
+            TYILFNPWCEDDAVYLDNEKEREEYVLNDIGVIFYGEVNDIKTRSWSYGQFEDGILDTCL
+            YVMDRAQMDLSGRGNPIKVSRVGSAMVNAKDDEGVLVGSWDNIYAYGVPPSAWTGSVDIL
+            LEYRSSENPVRYGQCWVFAGVFNTFLRCLGIPARIVTNYFSAHDNDANLQMDIFLEEDGN
+            VNSKLTKDSVWNYHCWNEAWMTRPDLPVGFGGWQAVDSTPQENSDGMYRCGPASVQAIKH
+            GHVCFQFDAPFVFAEVNSDLIYITAKKDGTHVVENVDATHIGKLIVTKQIGGDGMMDITD
+            TYKFQEGQEEERLALETALMYGAKKPLNTEGVMKSRSNVDMDFEVENAVLGKDFKLSITF
+            RNNSHNRYTITAYLSANITFYTGVPKAEFKKETFDVTLEPLSFKKEAVLIQAGEYMGQLL
+            EQASLHFFVTARINETRDVLAKQKSTVLTIPEIIIKVRGTQVVGSDMTVTVEFTNPLKET
+            LRNVWVHLDGPGVTRPMKKMFREIRPNSTVQWEEVCRPWVSGHRKLIASMSSDSLRHVYG
+            ELDVQIQRRPSM
+NTSEQ       2199
+            atgtcagaaacttccaggaccgcctttggaggcagaagagcagttccacccaataactct
+            aatgcagcggaagatgacctgcccacagtggagcttcagggcgtggtgccccggggcgtc
+            aacctgcaagagtttcttaatgtcacgagcgttcacctgttcaaggagagatgggacact
+            aacaaggtggaccaccacactgacaagtatgaaaacaacaagctgattgtccgcagaggg
+            cagtctttctatgtgcagattgacttcagtcgtccatatgaccccagaagggatctcttc
+            agggtggaatacgtcattggtcgctacccacaggagaacaagggaacctacatcccagtg
+            cctatagtctcagagttacaaagtggaaagtggggggccaagattgtcatgagagaggac
+            aggtctgtgcggctgtccatccagtcttcccccaaatgtattgtggggaaattccgcatg
+            tatgttgctgtctggactccctatggcgtacttcgaaccagtcgaaacccagaaacagac
+            acgtacattctcttcaatccttggtgtgaagatgatgctgtgtatctggacaatgagaaa
+            gaaagagaagagtatgtcctgaatgacatcggggtaattttttatggagaggtcaatgac
+            atcaagaccagaagctggagctatggtcagtttgaagatggcatcctggacacttgcctg
+            tatgtgatggacagagcacaaatggacctctctggaagagggaatcccatcaaagtcagc
+            cgtgtggggtctgcaatggtgaatgccaaagatgacgaaggtgtcctcgttggatcctgg
+            gacaatatctatgcctatggcgtccccccatcggcctggactggaagcgttgacattcta
+            ttggaataccggagctctgagaatccagtccggtatggccaatgctgggtttttgctggt
+            gtctttaacacatttttacgatgccttggaataccagcaagaattgttaccaattatttc
+            tctgcccatgataatgatgccaatttgcaaatggacatcttcctggaagaagatgggaac
+            gtgaattccaaactcaccaaggattcagtgtggaactaccactgctggaatgaagcatgg
+            atgacaaggcctgaccttcctgttggatttggaggctggcaagctgtggacagcaccccc
+            caggaaaatagcgatggcatgtatcggtgtggccccgcctcggttcaagccatcaagcac
+            ggccatgtctgcttccaatttgatgcaccttttgtttttgcagaggtcaacagcgacctc
+            atttacattacagctaagaaagatggcactcatgtggtggaaaatgtggatgccacccac
+            attgggaaattaattgtgaccaaacaaattggaggagatggcatgatggatattactgat
+            acttacaaattccaagaaggtcaagaagaagagagattggccctagaaactgccctgatg
+            tacggagctaaaaagcccctcaacacagaaggtgtcatgaaatcaaggtccaacgttgac
+            atggactttgaagtggaaaatgctgtgctgggaaaagacttcaagctctccatcaccttc
+            cggaacaacagccacaaccgttacaccatcacagcttatctctcagccaacatcaccttc
+            tacaccggggtcccgaaggcagaattcaagaaggagacgttcgacgtgacgctggagccc
+            ttgtccttcaagaaagaggcggtgctgatccaagccggcgagtacatgggtcagctgctg
+            gaacaagcgtccctgcacttctttgtcacagctcgcatcaatgagaccagggatgttctg
+            gccaagcaaaagtccaccgtgctaaccatccctgagatcatcatcaaggtccgtggcact
+            caggtagttggttctgacatgactgtgacagttgagtttaccaatcctttaaaagaaacc
+            ctgcgaaatgtctgggtacacctggatggtcctggagtaacaagaccaatgaagaagatg
+            ttccgtgaaatccggcccaactccaccgtgcagtgggaagaagtgtgccggccctgggtc
+            tctgggcatcggaagctgatagccagcatgagcagtgactccctgagacatgtgtatggc
+            gagctggacgtgcagattcaaagacgaccttccatgtga
+///

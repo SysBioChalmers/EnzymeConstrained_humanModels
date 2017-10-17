@@ -1,0 +1,87 @@
+ENTRY       55802             CDS       T01001
+NAME        DCP1A, HSA275986, Nbla00360, SMAD4IP1, SMIF
+DEFINITION  (RefSeq) decapping mRNA 1A
+ORTHOLOGY   K12610  mRNA-decapping enzyme 1A [EC:3.-.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+MODULE      hsa_M00395  Decapping complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03018 RNA degradation
+                55802 (DCP1A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.-  
+               3.-.-  
+                3.-.-.-  
+                 55802 (DCP1A)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 55802 (DCP1A)
+              mRNA degradation factors
+               5'-3' decay
+                Decapping complex
+                 55802 (DCP1A)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              RNA silencing
+               piRNA pathway
+                55802 (DCP1A)
+POSITION    3p21.1
+MOTIF       Pfam: DCP1 mRNA_decap_C WH1
+DBLINKS     NCBI-GeneID: 55802
+            NCBI-ProteinID: NP_060873
+            OMIM: 607010
+            HGNC: 18714
+            Ensembl: ENSG00000272886
+            Vega: OTTHUMG00000158193
+            Pharos: Q9NPI6(Tbio)
+            UniProt: Q9NPI6
+STRUCTURE   PDB: 2WX3 4B6H
+AASEQ       582
+            MEALSRAGQEMSLAALKQHDPYITSIADLTGQVALYTFCPKANQWEKTDIEGTLFVYRRS
+            ASPYHGFTIVNRLNMHNLVEPVNKDLEFQLHEPFLLYRNASLSIYSIWFYDKNDCHRIAK
+            LMADVVEEETRRSQQAARDKQSPSQANGCSDHRPIDILEMLSRAKDEYERNQMGDSNISS
+            PGLQPSTQLSNLGSTETLEEMPSGSQDKSAPSGHKHLTVEELFGTSLPKEQPAVVGLDSE
+            EMERLPGDASQKEPNSFLPFPFEQLGGAPQSETLGVPSAAHHSVQPEITTPVLITPASIT
+            QSNEKHAPTYTIPLSPVLSPTLPAEAPTAQVPPSLPRNSTMMQAVKTTPRQRSPLLNQPV
+            PELSHASLIANQSPFRAPLNVTNTAGTSLPSVDLLQKLRLTPQHDQIQTQPLGKGAMVAS
+            FSPAAGQLATPESFIEPPSKTAAARVAASASLSNMVLAPLQSMQQNQDPEVFVQPKVLSS
+            AIPVAGAPLVTATTTAVSSVLLAPSVFQQTVTRSSDLERKASSPSPLTIGTPESQRKPSI
+            ILSKSQLQDTLIHLIKNDSSFLSTLHEVYLQVLTKNKDNHNL
+NTSEQ       1749
+            atggaggcgctgagtcgagctgggcaggagatgagcctagcggccctgaagcaacacgac
+            ccctatatcaccagcatcgcagacctcacgggccaggtcgctctgtacaccttctgcccc
+            aaggccaaccagtgggagaagactgatatagaagggaccttattcgtatatcgaaggtca
+            gcttccccttaccatggttttaccattgtgaatcgactaaatatgcacaatctagttgaa
+            ccagtgaataaagatttggaatttcagctccatgaaccatttcttctgtatagaaatgca
+            agcttgtcgatatatagtatctggttttatgacaagaatgactgtcaccgcatagcaaaa
+            ctcatggctgatgtggtagaagaggagacacggcgatcccagcaagctgctcgggacaaa
+            cagagtcccagccaggccaatggctgcagcgaccacaggcccatcgacatcctggagatg
+            ctgagcagagccaaggatgagtatgagaggaatcagatgggtgactcaaatatctccagc
+            cctgggttacagccaagcactcagctctccaatctgggaagcaccgagactctagaagaa
+            atgccctccgggtcacaggataagtctgctccatctggacacaagcatctgacggtagaa
+            gagttatttggaacctctttgccaaaggaacaaccagcagttgtgggtctggattcagaa
+            gaaatggagaggttgccaggagatgcctcccagaaagagcccaattcattcctaccattt
+            ccctttgagcagttaggaggagcccctcaatcagaaaccctgggtgtcccttctgctgcc
+            caccattcagtccagcctgaaatcaccaccccggtgctaatcactccagcctccatcaca
+            cagtccaatgaaaagcatgctccaacctacacaatcccgttgagccctgttctcagtccc
+            actctgccagctgaagctcctactgcacaggttccccccagcttacctcgaaacagcacc
+            atgatgcaggcagtgaagaccacgcctagacagaggtctccactcctgaaccagccagtc
+            cctgagctaagccatgccagtctgattgccaaccagagccccttcagggccccattgaac
+            gtgacgaacacagctggcacatccctcccaagcgttgatcttctccagaaactcaggttg
+            accccacagcatgaccaaatacagacacaaccacttgggaaaggtgcaatggtagccagc
+            ttttctccggcagctggtcagctagccacacctgagagcttcatagagcctccctctaag
+            acagcagcagcaagagtggcggcctcagcctccctgagcaacatggtgcttgctcccctt
+            cagtctatgcagcagaaccaggatcctgaagtatttgtgcagcctaaggtgttatccagt
+            gccatcccggttgcaggcgccccactggttactgcaacgaccactgcagtgtcttcagtc
+            ctgctggccccaagtgttttccagcagacagttacaagatcttcggaccttgagaggaaa
+            gccagctccccttctcctctaactattggaacgccagaaagtcagagaaagccttccatt
+            attctcagcaagtctcagctccaggatacattaatacatctaataaagaatgattccagc
+            ttcctcagtacacttcatgaagtctacttgcaggttctgaccaagaacaaagacaaccac
+            aacctatga
+///

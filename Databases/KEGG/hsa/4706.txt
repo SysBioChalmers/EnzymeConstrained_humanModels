@@ -1,0 +1,58 @@
+ENTRY       4706              CDS       T01001
+NAME        NDUFAB1, ACP, ACP1, FASN2A, SDAP
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit AB1
+ORTHOLOGY   K03955  NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00146  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4706 (NDUFAB1)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4706 (NDUFAB1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4706 (NDUFAB1)
+               05012 Parkinson's disease
+                4706 (NDUFAB1)
+               05016 Huntington's disease
+                4706 (NDUFAB1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4706 (NDUFAB1)
+POSITION    16p12.2
+MOTIF       Pfam: PP-binding PP-binding_2 MinE
+DBLINKS     NCBI-GeneID: 4706
+            NCBI-ProteinID: NP_004994
+            OMIM: 603836
+            HGNC: 7694
+            Ensembl: ENSG00000004779
+            Vega: OTTHUMG00000096985
+            Pharos: O14561(Tclin)
+            UniProt: O14561
+STRUCTURE   PDB: 5XTB 5XTC 5XTD 2DNW
+AASEQ       156
+            MASRVLSAYVSRLPAAFAPLPRVRMLAVARPLSTALCSAGTQTRLGTLQPALVLAQVPGR
+            VTQLCRQYSDMPPLTLEGIQDRVLYVLKLYDKIDPEKLSVNSHFMKDLGLDSLDQVEIIM
+            AMEDEFGFEIPDIDAEKLMCPQEIVDYIADKKDVYE
+NTSEQ       471
+            atggcgtctcgtgtcctttcagcctatgtcagccgcctgcccgcggcctttgcgccgctg
+            ccccgggtccggatgctggccgtggcccggcctctcagcaccgctctctgctccgcgggg
+            acccagacgaggctcgggactttgcagccggccttagtgctcgcgcaggttcctggtaga
+            gttacacagttgtgccgccagtatagcgacatgcctcctttgacgttagagggcatccag
+            gaccgtgttctttacgtattgaaactctatgacaagattgacccagagaagctttcagta
+            aattctcattttatgaaagacctgggcttagacagtttggaccaagtggagattatcatg
+            gccatggaagacgaatttgggtttgaaattcctgatatagatgctgaaaagttaatgtgt
+            ccacaagaaattgtagattacattgcagataagaaggatgtatatgaataa
+///

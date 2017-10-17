@@ -1,0 +1,44 @@
+ENTRY       10280             CDS       T01001
+NAME        SIGMAR1, ALS16, DSMA2, OPRS1, SIG-1R, SR-BP, SR-BP1, SRBP, hSigmaR1, sigma1R
+DEFINITION  (RefSeq) sigma non-opioid intracellular receptor 1
+ORTHOLOGY   K20719  sigma non-opioid intracellular receptor
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00058  Amyotrophic lateral sclerosis (ALS)
+            H00856  Distal hereditary motor neuropathies (dHMN)
+DRUG_TARGET Dextromethorphan (DG01078): D00848 D03742 D03744
+            Dextromethorphan, combinations: D10208
+            Opipramol (DG00930): D01477 D08297
+BRITE       Transporters [BR:hsa02000]
+             Other Transporters
+              Accessory factors involved in transport [TC:8]
+               10280 (SIGMAR1)
+POSITION    9p13.3
+MOTIF       Pfam: ERG2_Sigma1R
+DBLINKS     NCBI-GeneID: 10280
+            NCBI-ProteinID: NP_005857
+            OMIM: 601978
+            HGNC: 8157
+            Ensembl: ENSG00000147955
+            Vega: OTTHUMG00000019829
+            Pharos: Q99720(Tclin)
+            UniProt: Q99720
+STRUCTURE   PDB: 5HK1 5HK2
+AASEQ       223
+            MQWAVGRRWAWAALLLAVAAVLTQVVWLWLGTQSFVFQREEIAQLARQYAGLDHELAFSR
+            LIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGHSGRY
+            WAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRGVIPS
+            TLAFALADTVFSTQDFLTLFYTLRSYARGLRLELTTYLFGQDP
+NTSEQ       672
+            atgcagtgggccgtgggccggcggtgggcgtgggccgcgctgctcctggctgtcgcagcg
+            gtgctgacccaggtcgtctggctctggctgggtacgcagagcttcgtcttccagcgcgaa
+            gagatagcgcagttggcgcggcagtacgctgggctggaccacgagctggccttctctcgt
+            ctgatcgtggagctgcggcggctgcacccaggccacgtgctgcccgacgaggagctgcag
+            tgggtgttcgtgaatgcgggtggctggatgggcgccatgtgccttctgcacgcctcgctg
+            tccgagtatgtgctgctcttcggcaccgccttgggctcccgcggccactcggggcgctac
+            tgggctgagatctcggataccatcatctctggcaccttccaccagtggagagagggcacc
+            accaaaagtgaggtcttctacccaggggagacggtagtacacgggcctggtgaggcaaca
+            gctgtggagtgggggccaaacacatggatggtggagtacggccggggcgtcatcccatcc
+            accctggccttcgcgctggccgacactgtcttcagcacccaggacttcctcaccctcttc
+            tatactcttcgctcctatgctcggggcctccggcttgagctcaccacctacctctttggc
+            caggacccttga
+///

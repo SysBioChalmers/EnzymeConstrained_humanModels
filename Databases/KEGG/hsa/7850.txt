@@ -1,0 +1,84 @@
+ENTRY       7850              CDS       T01001
+NAME        IL1R2, CD121b, CDw121b, IL-1R-2, IL-1RT-2, IL-1RT2, IL1R2c, IL1RB
+DEFINITION  (RefSeq) interleukin 1 receptor type 2
+ORTHOLOGY   K04387  interleukin 1 receptor type II
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04640  Hematopoietic cell lineage
+            hsa05146  Amoebiasis
+            hsa05166  HTLV-I infection
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DRUG_TARGET Anakinra: D02934
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                7850 (IL1R2)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                7850 (IL1R2)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                7850 (IL1R2)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                7850 (IL1R2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                7850 (IL1R2)
+              Infectious diseases
+               05166 HTLV-I infection
+                7850 (IL1R2)
+               05146 Amoebiasis
+                7850 (IL1R2)
+            Cytokine receptors [BR:hsa04050]
+             IL-1 receptor family
+              7850 (IL1R2)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7850 (IL1R2)
+POSITION    2q11.2
+MOTIF       Pfam: ig Ig_3 I-set Ig_2 V-set Ig_5 Izumo-Ig stn_TNFRSF12A
+DBLINKS     NCBI-GeneID: 7850
+            NCBI-ProteinID: NP_004624
+            OMIM: 147811
+            HGNC: 5994
+            Ensembl: ENSG00000115590
+            Vega: OTTHUMG00000130695
+            Pharos: P27930(Tbio)
+            UniProt: P27930
+STRUCTURE   PDB: 3O4O
+AASEQ       398
+            MLRLYVLVMGVSAFTLQPAAHTGAARSCRFRGRHYKREFRLEGEPVALRCPQVPYWLWAS
+            VSPRINLTWHKNDSARTVPGEEETRMWAQDGALWLLPALQEDSGTYVCTTRNASYCDKMS
+            IELRVFENTDAFLPFISYPQILTLSTSGVLVCPDLSEFTRDKTDVKIQWYKDSLLLDKDN
+            EKFLSVRGTTHLLVHDVALEDAGYYRCVLTFAHEGQQYNITRSIELRIKKKKEETIPVII
+            SPLKTISASLGSRLTIPCKVFLGTGTPLTTMLWWTANDTHIESAYPGGRVTEGPRQEYSE
+            NNENYIEVPLIFDPVTREDLHMDFKCVVHNTLSFQTLRTTVKEASSTFSWGIVLAPLSLA
+            FLVLGGIWMHRRCKHRTGKADGLTVLWPHHQDFQSYPK
+NTSEQ       1197
+            atgttgcgcttgtacgtgttggtaatgggagtttctgccttcacccttcagcctgcggca
+            cacacaggggctgccagaagctgccggtttcgtgggaggcattacaagcgggagttcagg
+            ctggaaggggagcctgtagccctgaggtgcccccaggtgccctactggttgtgggcctct
+            gtcagcccccgcatcaacctgacatggcataaaaatgactctgctaggacggtcccagga
+            gaagaagagacacggatgtgggcccaggacggtgctctgtggcttctgccagccttgcag
+            gaggactctggcacctacgtctgcactactagaaatgcttcttactgtgacaaaatgtcc
+            attgagctcagagtttttgagaatacagatgctttcctgccgttcatctcatacccgcaa
+            attttaaccttgtcaacctctggggtattagtatgccctgacctgagtgaattcacccgt
+            gacaaaactgacgtgaagattcaatggtacaaggattctcttcttttggataaagacaat
+            gagaaatttctaagtgtgagggggaccactcacttactcgtacacgatgtggccctggaa
+            gatgctggctattaccgctgtgtcctgacatttgcccatgaaggccagcaatacaacatc
+            actaggagtattgagctacgcatcaagaaaaaaaaagaagagaccattcctgtgatcatt
+            tcccccctcaagaccatatcagcttctctggggtcaagactgacaatcccgtgtaaggtg
+            tttctgggaaccggcacacccttaaccaccatgctgtggtggacggccaatgacacccac
+            atagagagcgcctacccgggaggccgcgtgaccgaggggccacgccaggaatattcagaa
+            aataatgagaactacattgaagtgccattgatttttgatcctgtcacaagagaggatttg
+            cacatggattttaaatgtgttgtccataataccctgagttttcagacactacgcaccaca
+            gtcaaggaagcctcctccacgttctcctggggcattgtgctggccccactttcactggcc
+            ttcttggttttggggggaatatggatgcacagacggtgcaaacacagaactggaaaagca
+            gatggtctgactgtgctatggcctcatcatcaagactttcaatcctatcccaagtga
+///

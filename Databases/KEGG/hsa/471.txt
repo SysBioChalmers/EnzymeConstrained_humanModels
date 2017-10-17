@@ -1,0 +1,92 @@
+ENTRY       471               CDS       T01001
+NAME        ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH
+DEFINITION  (RefSeq) 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+ORTHOLOGY   K00602  phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00670  One carbon pool by folate
+            hsa01100  Metabolic pathways
+            hsa01523  Antifolate resistance
+MODULE      hsa_M00048  Inosine monophosphate biosynthesis, PRPP + glutamine => IMP
+DISEASE     H00966  AICA-ribosiduria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                471 (ATIC)
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                471 (ATIC)
+             Human Diseases
+              Drug resistance
+               01523 Antifolate resistance
+                471 (ATIC)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.2  Hydroxymethyl-, formyl- and related transferases
+                2.1.2.3  phosphoribosylaminoimidazolecarboxamide formyltransferase
+                 471 (ATIC)
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.10  IMP cyclohydrolase
+                 471 (ATIC)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               471 (ATIC)
+POSITION    2q35
+MOTIF       Pfam: AICARFT_IMPCHas MGS Ribosomal_L12_N
+DBLINKS     NCBI-GeneID: 471
+            NCBI-ProteinID: NP_004035
+            OMIM: 601731
+            HGNC: 794
+            Ensembl: ENSG00000138363
+            Vega: OTTHUMG00000133023
+            Pharos: P31939(Tchem)
+            UniProt: P31939 V9HWH7
+STRUCTURE   PDB: 1PKX 1P4R 1PL0
+AASEQ       592
+            MAPGQLALFSVSDKTGLVEFARNLTALGLNLVASGGTAKALRDAGLAVRDVSELTGFPEM
+            LGGRVKTLHPAVHAGILARNIPEDNADMARLDFNLIRVVACNLYPFVKTVASPGVTVEEA
+            VEQIDIGGVTLLRAAAKNHARVTVVCEPEDYVVVSTEMQSSESKDTSLETRRQLALKAFT
+            HTAQYDEAISDYFRKQYSKGVSQMPLRYGMNPHQTPAQLYTLQPKLPITVLNGAPGFINL
+            CDALNAWQLVKELKEALGIPAAASFKHVSPAGAAVGIPLSEDEAKVCMVYDLYKTLTPIS
+            AAYARARGADRMSSFGDFVALSDVCDVPTAKIISREVSDGIIAPGYEEEALTILSKKKNG
+            NYCVLQMDQSYKPDENEVRTLFGLHLSQKRNNGVVDKSLFSNVVTKNKDLPESALRDLIV
+            ATIAVKYTQSNSVCYAKNGQVIGIGAGQQSRIHCTRLAGDKANYWWLRHHPQVLSMKFKT
+            GVKRAEISNAIDQYVTGTIGEDEDLIKWKALFEEVPELLTEAEKKEWVEKLTEVSISSDA
+            FFPFRDNVDRAKRSGVAYIAAPSGSAADKVVIEACDELGIILAHTNLRLFHH
+NTSEQ       1779
+            atggctcccggccagctcgccttatttagtgtctctgacaaaaccggccttgtggaattt
+            gcaagaaacctgaccgctcttggtttgaatctggtcgcttccggagggactgcaaaagct
+            ctcagggatgctggtctggcagtcagagatgtctctgagttgacgggatttcctgaaatg
+            ttggggggacgtgtgaaaactttgcatcctgcagtccatgctggaatcctagctcgtaat
+            attccagaagataatgctgacatggccagacttgatttcaatcttataagagttgttgcc
+            tgcaatctctatccctttgtaaagacagtggcttctccaggtgtaactgttgaggaggct
+            gtggagcaaattgacattggtggagtaaccttactgagagctgcagccaaaaaccacgct
+            cgagtgacagtggtgtgtgaaccagaggactatgtggtggtgtccacggagatgcagagc
+            tccgagagtaaggacacctccttggagactagacgccagttagccttgaaggcattcact
+            catacggcacaatatgatgaagcaatttcagattatttcaggaaacagtacagcaaaggc
+            gtatctcagatgcccttgagatatggaatgaacccacatcagacccctgcccagctgtac
+            acactgcagcccaagcttcccatcacagttctaaatggagcccctggatttataaacttg
+            tgcgatgctttgaacgcctggcagctggtgaaggaactcaaggaggctttaggtattcca
+            gccgctgcctctttcaaacatgtcagcccagcaggtgctgctgttggaattccactcagt
+            gaagatgaggccaaagtctgcatggtttatgatctctataaaaccctcacacccatctca
+            gcggcatatgcaagagcaagaggggctgataggatgtcttcatttggtgattttgttgca
+            ttgtccgatgtttgtgatgtaccaactgcaaaaattatttccagagaagtatctgatggt
+            ataattgccccaggatatgaagaagaagccttgacaatactttccaaaaagaaaaatgga
+            aactattgtgtccttcagatggaccaatcttacaaaccagatgaaaatgaagttcgaact
+            ctctttggtcttcatttaagccagaagagaaataatggtgtcgtcgacaagtcattattt
+            agcaatgttgttaccaaaaataaagatttgccagagtctgccctccgagacctcatcgta
+            gccaccattgctgtcaagtacactcagtctaactctgtgtgctacgccaagaacgggcag
+            gttatcggcattggagcaggacagcagtctcgtatacactgcactcgccttgcaggagat
+            aaggcaaactattggtggcttagacaccatccacaagtgctttcgatgaagtttaaaaca
+            ggagtgaagagagcagaaatctccaatgccatcgatcaatatgtgactggaaccattggc
+            gaggatgaagatttgataaagtggaaggcactgtttgaggaagtccctgagttactcact
+            gaggcagagaagaaggaatgggttgagaaactgactgaagtttctatcagctctgatgcc
+            ttcttccctttccgagataacgtagacagagctaaaaggagtggtgtggcgtacattgcg
+            gctccctccggttctgctgctgacaaagttgtgattgaggcctgcgacgaactgggaatc
+            atcctcgctcatacgaaccttcggctcttccaccactga
+///

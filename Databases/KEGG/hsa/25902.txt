@@ -1,0 +1,98 @@
+ENTRY       25902             CDS       T01001
+NAME        MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B18.2
+DEFINITION  (RefSeq) methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like
+ORTHOLOGY   K13402  monofunctional C1-tetrahydrofolate synthase, mitochondrial [EC:6.3.4.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00670  One carbon pool by folate
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00141  C1-unit interconversion, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                25902 (MTHFD1L)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.3  formate---tetrahydrofolate ligase
+                 25902 (MTHFD1L)
+POSITION    6q25.1
+MOTIF       Pfam: FTHFS THF_DHG_CYH_C THF_DHG_CYH
+DBLINKS     NCBI-GeneID: 25902
+            NCBI-ProteinID: NP_056255
+            OMIM: 611427
+            HGNC: 21055
+            Ensembl: ENSG00000120254
+            Vega: OTTHUMG00000015828
+            Pharos: Q6UB35(Tbio)
+            UniProt: Q6UB35
+AASEQ       978
+            MGTRLPLVLRQLRRPPQPPGPPRRLRVPCRASSGGGGGGGGGREGLLGQRRPQDGQARSS
+            CSPGGRTPAARDSIVREVIQNSKEVLSLLQEKNPAFKPVLAIIQAGDDNLMQEINQNLAE
+            EAGLNITHICLPPDSSEAEIIDEILKINEDTRVHGLALQISENLFSNKVLNALKPEKDVD
+            GVTDINLGKLVRGDAHECFVSPVAKAVIELLEKSGVNLDGKKILVVGAHGSLEAALQCLF
+            QRKGSMTMSIQWKTRQLQSKLHEADIVVLGSPKPEEIPLTWIQPGTTVLNCSHDFLSGKV
+            GCGSPRIHFGGLIEEDDVILLAAALRIQNMVSSGRRWLREQQHRRWRLHCLKLQPLSPVP
+            SDIEISRGQTPKAVDVLAKEIGLLADEIEIYGKSKAKVRLSVLERLKDQADGKYVLVAGI
+            TPTPLGEGKSTVTIGLVQALTAHLNVNSFACLRQPSQGPTFGVKGGAAGGGYAQVIPMEE
+            FNLHLTGDIHAITAANNLLAAAIDTRILHENTQTDKALYNRLVPLVNGVREFSEIQLARL
+            KKLGINKTDPSTLTEEEVSKFARLDIDPSTITWQRVLDTNDRFLRKITIGQGNTEKGHYR
+            QAQFDIAVASEIMAVLALTDSLADMKARLGRMVVASDKSGQPVTADDLGVTGALTVLMKD
+            AIKPNLMQTLEGTPVFVHAGPFANIAHGNSSVLADKIALKLVGEEGFVVTEAGFGADIGM
+            EKFFNIKCRASGLVPNVVVLVATVRALKMHGGGPSVTAGVPLKKEYTEENIQLVADGCCN
+            LQKQIQITQLFGVPVVVALNVFKTDTRAEIDLVCELAKRAGAFDAVPCYHWSVGGKGSVD
+            LARAVREAASKRSRFQFLYDVQVPIVDKIRTIAQAVYGAKDIELSPEAQAKIDRYTQQGF
+            GNLPICMAKTHLSLSHQPDKKGVPRDFILPISDVRASIGAGFIYPLVGTMSTMPGLPTRP
+            CFYDIDLDTETEQVKGLF
+NTSEQ       2937
+            atgggcacgcgtctgccgctcgtcctgcgccagctccgccgcccgccccagcccccgggc
+            cctccgcgccgcctccgtgtgccctgtcgcgctagcagcggcggcggcggaggcggcggc
+            ggtggccgggagggcctgcttggacagcggcggccgcaggatggccaggcccggagcagc
+            tgcagccccggcggccgaacgcccgcggcgcgggactccatcgtcagagaagtcattcag
+            aattcaaaagaagttctaagtttattgcaagaaaaaaaccctgccttcaagccggttctt
+            gcaattatccaggcaggtgacgacaacttgatgcaggaaatcaaccagaatttggctgag
+            gaggctggtctgaacatcactcacatttgcctccctccagatagcagtgaagccgagatt
+            atagatgaaatcttaaagatcaatgaagataccagagtacatggccttgcccttcagatc
+            tctgagaacttgtttagcaacaaagtcctcaatgccttgaaaccagaaaaagatgtggat
+            ggagtaacagacataaacctggggaagctggtgcgaggggatgcccatgaatgttttgtt
+            tcacctgttgccaaagctgtaattgaacttcttgaaaaatcaggtgtcaacctagatgga
+            aagaagattttggtagtgggggcccatgggtctttggaagctgctctacaatgcctgttc
+            cagagaaaagggtccatgacaatgagcatccagtggaaaacacgccagcttcaaagcaag
+            cttcacgaggctgacattgtggtcctaggctcacctaagccagaagagattccccttact
+            tggatacaaccaggaactactgttctcaactgctcccatgacttcctgtcagggaaggtt
+            gggtgtggctctccaagaatacattttggtggactcattgaggaagatgatgtgattctc
+            cttgctgcagctctgcgaattcagaacatggtcagtagtggaaggagatggcttcgtgaa
+            cagcagcacaggcggtggagacttcactgcttgaaacttcagcctctctcccctgtgcca
+            agtgacattgagatttcaagaggacaaactccaaaagctgtggatgtccttgccaaggag
+            attggattgcttgcagatgaaattgaaatctatggcaaaagcaaagccaaagtacgtttg
+            tccgtgctagaaaggttaaaggatcaagcagatggaaaatacgtcttagttgctgggatc
+            acacccacccctcttggagaagggaagagcacagtcaccatcgggcttgtgcaggctctg
+            accgcacacctgaatgtcaactcctttgcctgcttgaggcagccttcccaaggaccgacg
+            tttggagtgaaaggaggagccgcgggtggtggatatgcccaggtcatccccatggaggag
+            ttcaaccttcacttgactggagacatccacgccatcaccgctgccaataacttgctggct
+            gccgccatcgacacgaggattcttcatgaaaacacgcaaacagataaggctctgtataat
+            cggctggttcctttagtgaatggtgtcagagaattttcagaaattcagcttgctcggcta
+            aaaaaactgggaataaataagactgatccgagcacactgacagaagaggaagtgagtaaa
+            tttgcccgtctcgacatcgacccatctaccatcacgtggcagagagtattggatacaaat
+            gaccgatttctacgaaaaataaccatcgggcagggaaacacagagaagggccattaccgg
+            caggcgcagtttgacatcgcagtggccagcgagatcatggcggtgctggccctgacggac
+            agcctcgcagacatgaaggcacggctgggaaggatggtggtggccagtgacaaaagcggg
+            cagcctgtgacagcagatgatttgggggtgacaggtgctttgacagttttgatgaaagat
+            gcaataaaaccaaacctgatgcagaccctggaagggacacctgtgttcgtgcatgcgggc
+            ccttttgctaacattgctcacggcaactcttcagtgttggctgataaaattgccctgaaa
+            ctggttggtgaagaaggatttgtagtgaccgaagctggctttggtgctgacatcggaatg
+            gagaaattcttcaacatcaagtgccgagcttccggcttggtgcccaacgtggttgtgtta
+            gtggcaacggtgcgagctctgaagatgcatggaggcgggccaagtgtaacggctggtgtt
+            cctcttaagaaagaatatacagaggagaacatccagctggtggcagacggctgctgtaac
+            ctccagaagcaaattcagatcactcagctctttggggttcccgttgtggtggctctgaat
+            gtcttcaagaccgacacccgcgctgagattgacttggtgtgtgagcttgcaaagcgggct
+            ggtgcctttgatgcagtcccctgctatcactggtccgttggtggaaaaggatcggtggac
+            ttggctcgggctgtgagagaggctgcgagtaaaagaagccgattccagttcctgtatgat
+            gttcaggttccaattgtggacaagataaggaccattgctcaggctgtctatggagccaaa
+            gatattgaactctctcctgaggcacaagccaaaatagatcgttacactcaacagggtttt
+            ggaaatttgcccatctgcatggcaaagacccacctttctctatctcaccaacctgacaaa
+            aaaggtgtgccaagggacttcatcttacctatcagtgacgtccgggccagcataggcgct
+            gggttcatttaccctttggtcggaacgatgagcaccatgccaggactgcccacccggccc
+            tgcttttatgacatagatcttgataccgaaacagaacaagttaaaggcttgttctaa
+///

@@ -1,0 +1,72 @@
+ENTRY       1629              CDS       T01001
+NAME        DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B
+DEFINITION  (RefSeq) dihydrolipoamide branched chain transacylase E2
+ORTHOLOGY   K09699  2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) [EC:2.3.1.168]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+DISEASE     H00172  Maple syrup urine disease (MSUD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                1629 (DBT)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                1629 (DBT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.168  dihydrolipoyllysine-residue (2-methylpropanoyl)transferase
+                 1629 (DBT)
+POSITION    1p21.2
+MOTIF       Pfam: 2-oxoacid_dh Biotin_lipoyl E3_binding HlyD_D23 Toprim_Crpt MtrB
+DBLINKS     NCBI-GeneID: 1629
+            NCBI-ProteinID: NP_001909
+            OMIM: 248610
+            HGNC: 2698
+            Ensembl: ENSG00000137992
+            Vega: OTTHUMG00000010921
+            Pharos: P11182(Tbio)
+            UniProt: P11182
+STRUCTURE   PDB: 3RNM 1ZWV 2COO 1K8M 1K8O
+AASEQ       482
+            MAAVRMLRTWSRNAGKLICVRYFQTCGNVHVLKPNYVCFFGYPSFKYSHPHHFLKTTAAL
+            RGQVVQFKLSDIGEGIREVTVKEWYVKEGDTVSQFDSICEVQSDKASVTITSRYDGVIKK
+            LYYNLDDIAYVGKPLVDIETEALKDSEEDVVETPAVSHDEHTHQEIKGRKTLATPAVRRL
+            AMENNIKLSEVVGSGKDGRILKEDILNYLEKQTGAILPPSPKVEIMPPPPKPKDMTVPIL
+            VSKPPVFTGKDKTEPIKGFQKAMVKTMSAALKIPHFGYCDEIDLTELVKLREELKPIAFA
+            RGIKLSFMPFFLKAASLGLLQFPILNASVDENCQNITYKASHNIGIAMDTEQGLIVPNVK
+            NVQICSIFDIATELNRLQKLGSVGQLSTTDLTGGTFTLSNIGSIGGTFAKPVIMPPEVAI
+            GALGSIKAIPRFNQKGEVYKAQIMNVSWSADHRVIDGATMSRFSNLWKSYLENPAFMLLD
+            LK
+NTSEQ       1449
+            atggctgcagtccgtatgctgagaacctggagcaggaatgcggggaagctgatttgtgtt
+            cgctattttcaaacatgtggtaatgttcatgttttgaagccaaattatgtgtgtttcttt
+            ggttatccttcattcaagtatagtcatccacatcacttcctgaaaacaactgctgctctc
+            cgtggacaggttgttcagttcaagctctcagacattggagaagggattagagaagtaact
+            gttaaagaatggtatgtaaaagaaggagatacagtgtctcagtttgatagcatctgtgaa
+            gttcaaagtgataaagcttctgttaccatcactagtcgttatgatggagtcattaaaaaa
+            ctctattataatctagacgatattgcctatgtggggaagccattagtagacatagaaacg
+            gaagctttaaaagattcagaagaagatgttgttgaaactcctgcagtgtctcatgatgaa
+            catacacaccaagagataaagggccgaaaaacactggcaactcctgcagttcgccgtctg
+            gcaatggaaaacaatattaagctgagtgaagttgttggctcaggaaaagatggcagaata
+            cttaaagaagatatcctcaactatttggaaaagcagacaggagctatattgcctccttca
+            cccaaagttgaaattatgccacctccaccaaagccaaaagacatgactgttcctatacta
+            gtatcaaaacctccggtattcacaggcaaagacaaaacagaacccataaaaggctttcaa
+            aaagcaatggtcaagactatgtctgcagccctgaagatacctcattttggttattgtgat
+            gagattgaccttactgaactggttaagctccgagaagaattaaaacccattgcatttgct
+            cgtggaattaaactctcctttatgcctttcttcttaaaggctgcttccttgggattacta
+            cagtttcctatccttaacgcttctgtggatgaaaactgccagaatataacatataaggct
+            tctcataacattgggatagcaatggatactgagcagggtttgattgtccctaatgtgaaa
+            aatgttcagatctgctctatatttgacatcgccactgaactgaaccgcctccagaaattg
+            ggctctgtgggtcagctcagcaccactgatcttacaggaggaacatttactctttccaac
+            attggatcaattggtggtacctttgccaaaccagtgataatgccacctgaagtagccatt
+            ggggcccttggatcaattaaggccattccccgatttaaccagaaaggagaagtatataag
+            gcacagataatgaatgtgagctggtcagctgatcacagagttattgatggtgctacaatg
+            tcacgcttctccaatttgtggaaatcctatttagaaaacccagcttttatgctactagat
+            ctgaaatga
+///

@@ -1,0 +1,65 @@
+ENTRY       10690             CDS       T01001
+NAME        FUT9, Fuc-TIX
+DEFINITION  (RefSeq) fucosyltransferase 9
+ORTHOLOGY   K03663  4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase [EC:2.4.1.152]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00515  Mannose type O-glycan biosynthesis
+            hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00515 Mannose type O-glycan biosyntheis
+                10690 (FUT9)
+               00601 Glycosphingolipid biosynthesis - lacto and neolacto series
+                10690 (FUT9)
+               00603 Glycosphingolipid biosynthesis - globo and isoglobo series
+                10690 (FUT9)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.152  4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
+                 10690 (FUT9)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              Lewis blood group
+               10690 (FUT9)
+POSITION    6q16.1
+MOTIF       Pfam: Glyco_transf_10 Glyco_tran_10_N
+DBLINKS     NCBI-GeneID: 10690
+            NCBI-ProteinID: NP_006572
+            OMIM: 606865
+            HGNC: 4020
+            Ensembl: ENSG00000172461
+            Vega: OTTHUMG00000015236
+            Pharos: Q9Y231(Tbio)
+            UniProt: Q9Y231
+AASEQ       359
+            MTSTSKGILRPFLIVCIILGCFMACLLIYIKPTNSWIFSPMESASSVLKMKNFFSTKTDY
+            FNETTILVWVWPFGQTFDLTSCQAMFNIQGCHLTTDRSLYNKSHAVLIHHRDISWDLTNL
+            PQQARPPFQKWIWMNLESPTHTPQKSGIEHLFNLTLTYRRDSDIQVPYGFLTVSTNPFVF
+            EVPSKEKLVCWVVSNWNPEHARVKYYNELSKSIEIHTYGQAFGEYVNDKNLIPTISTCKF
+            YLSFENSIHKDYITEKLYNAFLAGSVPVVLGPSRENYENYIPADSFIHVEDYNSPSELAK
+            YLKEVDKNNKLYLSYFNWRKDFTVNLPRFWESHACLACDHVKRHQEYKSVGNLEKWFWN
+NTSEQ       1080
+            atgacatcaacatccaaaggaattcttcgcccatttttaattgtctgcattatcctgggc
+            tgtttcatggcatgtcttctcatttacatcaaacctaccaacagctggatcttcagtcca
+            atggaatcagccagctctgtgctgaaaatgaaaaacttcttttccaccaaaactgattat
+            tttaatgaaactactattctggtgtgggtgtggccatttgggcagacctttgaccttaca
+            tcctgccaagcaatgttcaacatccaaggatgccatctcacaacggaccgttcactgtac
+            aacaaatcccatgcagttctgatccatcaccgagacatcagttgggatctgacaaattta
+            cctcagcaagctaggccacccttccagaaatggatttggatgaatttggaatcaccaact
+            cacactccccaaaagagtggcattgagcacttgtttaacctgactctgacttaccgccgt
+            gattcagatatccaagtgccttatggcttcttgacggtaagcacaaatcccttcgtgttt
+            gaagtgccaagcaaagagaaattggtgtgctgggttgtgagtaactggaaccctgagcat
+            gccagagtcaagtattacaatgagctaagcaaaagcattgaaatccatacctacgggcaa
+            gcatttggagaatatgtcaatgataaaaatttgattcctaccatatctacttgtaaattt
+            tatctttcctttgaaaattcaatccacaaggattacatcacggaaaagctatacaatgct
+            tttctggctggctctgtacctgttgttctgggaccatctagggaaaactatgagaattat
+            attccagcagattcattcattcatgtggaagattataactctcccagtgagctagcaaag
+            tatctgaaggaagtcgacaaaaacaataagttataccttagttactttaactggaggaag
+            gatttcactgtaaatcttccacgattttgggaatcacatgcatgtttggcttgcgatcat
+            gtgaaaaggcatcaagaatataagtctgttggtaatttagagaaatggttttggaattaa
+///

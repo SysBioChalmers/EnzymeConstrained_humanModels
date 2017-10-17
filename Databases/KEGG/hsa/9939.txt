@@ -1,0 +1,57 @@
+ENTRY       9939              CDS       T01001
+NAME        RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq21.1, DEL1q21.1, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1
+DEFINITION  (RefSeq) RNA binding motif protein 8A
+ORTHOLOGY   K12876  RNA-binding protein 8A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+            hsa03040  Spliceosome
+MODULE      hsa_M00430  Exon junction complex (EJC)
+DISEASE     H01847  Thrombocytopenia-absent radius syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                9939 (RBM8A)
+              Translation
+               03013 RNA transport
+                9939 (RBM8A)
+               03015 mRNA surveillance pathway
+                9939 (RBM8A)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 9939 (RBM8A)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                9939 (RBM8A)
+POSITION    1q21.1
+MOTIF       Pfam: RRM_1 RRM_3 RRM_5
+DBLINKS     NCBI-GeneID: 9939
+            NCBI-ProteinID: NP_005096
+            OMIM: 605313
+            HGNC: 9905
+            Ensembl: ENSG00000265241
+            Vega: OTTHUMG00000013736
+            Pharos: Q9Y5S9(Tbio)
+            UniProt: Q9Y5S9 A0A023T787
+STRUCTURE   PDB: 1P27 2J0S 3EX7 2HYI 2J0Q 2XB2
+AASEQ       174
+            MADVLDLHEAGGEDFAMDEDGDESIHKLKEKAKKRKGRGFGSEEGSRARMREDYDSVEQD
+            GDEPGPQRSVEGWILFVTGVHEEATEEDIHDKFAEYGEIKNIHLNLDRRTGYLKGYTLVE
+            YETYKEAQAAMEGLNGQDLMGQPISVDWCFVRGPPKGKRRGGRRRSRSPDRRRR
+NTSEQ       525
+            atggcggacgtgctagatcttcacgaggctgggggcgaagatttcgccatggatgaggat
+            ggggacgagagcattcacaaactgaaagaaaaagcgaagaaacggaagggtcgcggcttt
+            ggctccgaagaggggtcccgagcgcggatgcgtgaggattatgacagcgtggagcaggat
+            ggcgatgaacccggaccacaacgctctgttgaaggctggattctctttgtaactggagtc
+            catgaggaagccaccgaagaagacatacacgacaaattcgcagaatatggggaaattaaa
+            aacattcatctcaacctcgacaggcgaacaggatatctgaaggggtatactctagttgaa
+            tatgaaacatacaaggaagcccaggctgctatggagggactcaatggccaggatttgatg
+            ggacagcccatcagcgttgactggtgttttgttcggggtccaccaaaaggcaagaggaga
+            ggtggccgaagacgcagcagaagtccagaccggagacgtcgctga
+///

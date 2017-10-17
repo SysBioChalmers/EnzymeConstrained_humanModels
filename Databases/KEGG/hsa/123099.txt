@@ -1,0 +1,68 @@
+ENTRY       123099            CDS       T01001
+NAME        DEGS2, C14orf66, DES2, FADS8
+DEFINITION  (RefSeq) delta 4-desaturase, sphingolipid 2
+ORTHOLOGY   K04712  sphingolipid 4-desaturase/C4-monooxygenase [EC:1.14.19.17 1.14.18.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+            hsa04071  Sphingolipid signaling pathway
+MODULE      hsa_M00094  Ceramide biosynthesis
+            hsa_M00099  Sphingosine biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00600 Sphingolipid metabolism
+                123099 (DEGS2)
+             Environmental Information Processing
+              Signal transduction
+               04071 Sphingolipid signaling pathway
+                123099 (DEGS2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.18  With another compound as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.18.5  sphingolipid C4-monooxygenase
+                 123099 (DEGS2)
+               1.14.19  With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water
+                1.14.19.17  sphingolipid 4-desaturase
+                 123099 (DEGS2)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Desaturase
+              Sphingolipid
+               123099 (DEGS2)
+POSITION    14q32.2
+MOTIF       Pfam: FA_desaturase Lipid_DES
+DBLINKS     NCBI-GeneID: 123099
+            NCBI-ProteinID: NP_996801
+            OMIM: 610862
+            HGNC: 20113
+            Ensembl: ENSG00000168350
+            Vega: OTTHUMG00000171537
+            Pharos: Q6QHC5(Tbio)
+            UniProt: Q6QHC5
+AASEQ       323
+            MGNSASRSDFEWVYTDQPHTQRRKEILAKYPAIKALMRPDPRLKWAVLVLVLVQMLACWL
+            VRGLAWRWLLFWAYAFGGCVNHSLTLAIHDISHNAAFGTGRAARNRWLAVFANLPVGVPY
+            AASFKKYHVDHHRYLGGDGLDVDVPTRLEGWFFCTPARKLLWLVLQPFFYSLRPLCVHPK
+            AVTRMEVLNTLVQLAADLAIFALWGLKPVVYLLASSFLGLGLHPISGHFVAEHYMFLKGH
+            ETYSYYGPLNWITFNVGYHVEHHDFPSIPGYNLPLVRKIAPEYYDHLPQHHSWVKVLWDF
+            VFEDSLGPYARVKRVYRLAKDGL
+NTSEQ       972
+            atgggcaacagcgcgagccgcagcgacttcgagtgggtctacaccgaccagccgcacacg
+            cagcggcgcaaggagatactggccaagtacccggccatcaaggccctgatgcggccagac
+            ccgcgcctcaagtgggcggtgctggtgctggtgctggtgcagatgctggcctgctggctg
+            gtgcgcgggctggcctggcgctggctgctgttctgggcctacgcctttggtggctgcgtg
+            aaccactcgctgacgctggccatccacgacatctcgcacaacgcggccttcggcacgggc
+            cgtgcggcacgcaaccgctggctggccgtgttcgccaacctgcccgtgggtgtgccctac
+            gccgcctccttcaagaagtaccacgtggaccaccaccgctacctgggcggcgacgggctg
+            gacgtggacgtgcccacgcgtctggagggctggttcttctgcacacccgcccgcaagctg
+            ctctggctggtgctgcagcccttcttctactcactacggccgctctgcgtccaccccaag
+            gccgtgacccgcatggaggtgctcaacacgctggtgcagctggcggccgacctggccatc
+            tttgccctttgggggctcaagcccgtggtctacctgctggccagctccttcctgggcctg
+            ggcctgcaccccatctcgggccacttcgtggccgagcactacatgttcctcaagggccac
+            gagacctactcctactatgggcctctcaactggatcaccttcaatgtgggctaccacgtg
+            gagcaccacgacttccccagcatcccgggctacaacctgccgctggtgcggaagatcgcg
+            cccgagtactacgaccacctgccgcagcaccactcctgggtgaaggtgctctgggatttt
+            gtgtttgaggactccctggggccctatgccagggtgaagcgggtgtacaggctggcaaaa
+            gatggtctgtga
+///

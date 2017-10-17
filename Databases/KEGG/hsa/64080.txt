@@ -1,0 +1,54 @@
+ENTRY       64080             CDS       T01001
+NAME        RBKS, RBSK, RK
+DEFINITION  (RefSeq) ribokinase
+ORTHOLOGY   K00852  ribokinase [EC:2.7.1.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                64080 (RBKS)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.15  ribokinase
+                 64080 (RBKS)
+POSITION    2p23.2
+MOTIF       Pfam: PfkB Phos_pyr_kin
+DBLINKS     NCBI-GeneID: 64080
+            NCBI-ProteinID: NP_071411
+            OMIM: 611132
+            HGNC: 30325
+            Ensembl: ENSG00000171174
+            Vega: OTTHUMG00000097833
+            Pharos: Q9H477(Tbio)
+            UniProt: Q9H477
+STRUCTURE   PDB: 5C40 5BYE 5C3Z 5C41 5BYC 5BYF 5BYD 2FV7 5C3Y
+AASEQ       322
+            MAASGEPQRQWQEEVAAVVVVGSCMTDLVSLTSRLPKTGETIHGHKFFIGFGGKGANQCV
+            QAARLGAMTSMVCKVGKDSFGNDYIENLKQNDISTEFTYQTKDAATGTASIIVNNEGQNI
+            IVIVAGANLLLNTEDLRAAANVISRAKVMVCQLEITPATSLEALTMARRSGVKTLFNPAP
+            AIADLDPQFYTLSDVFCCNESEAEILTGLTVGSAADAGEAALVLLKRGCQVVIITLGAEG
+            CVVLSQTEPEPKHIPTEKVKAVDTTGAGDSFVGALAFYLAYYPNLSLEDMLNRSNFIAAV
+            SVQAAGTQSSYPYKKDLPLTLF
+NTSEQ       969
+            atggcggcgtctggggaaccccagaggcagtggcaagaggaggtggcggcggtggtagtg
+            gtgggctcctgcatgaccgacctggtcagtcttacttctcgtttgccaaaaactggagaa
+            accatccatggacataagttttttattggctttggagggaaaggtgccaaccagtgtgtc
+            caagctgctcggcttggagcaatgacgtccatggtgtgtaaggttggcaaagattctttt
+            ggcaatgattatatagaaaacttaaaacagaatgatatttctacagaatttacatatcag
+            actaaagatgctgctacaggaactgcttctataattgtcaataatgaaggccagaatatc
+            attgtcatagtggctggagcaaatttacttttgaatacggaggatctgagggcagcagcc
+            aatgtcattagcagagccaaagtcatggtctgccagctcgaaataactccagcaacttct
+            ttggaagccctaacaatggcccgcaggagtggagtgaaaaccttgttcaatccagcccct
+            gccattgctgacctggatccccagttctacaccctctcagatgtgttctgctgcaatgaa
+            agtgaggctgagattttaactggcctcacggtgggcagcgctgcagatgctggggaggct
+            gcattagtgctcttgaaaaggggctgccaggtggtaatcattaccttaggggctgaagga
+            tgtgtggtgctgtcacagacagaacctgagccaaagcacattcccacagagaaagtcaag
+            gctgtggataccacgggtgctggtgacagctttgtgggagctctggccttctacctggct
+            tactatccaaatctgtccttggaagacatgctcaacagatccaatttcattgcagcagtc
+            agtgtccaggctgcaggaacacagtcatcttacccttacaaaaaagaccttccgcttact
+            ctgttttga
+///

@@ -1,0 +1,113 @@
+ENTRY       2775              CDS       T01001
+NAME        GNAO1, EIEE17, G-ALPHA-o, GNAO, HLA-DQB1, NEDIM
+DEFINITION  (RefSeq) G protein subunit alpha o1
+ORTHOLOGY   K04534  guanine nucleotide-binding protein G(o) subunit alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04713  Circadian entrainment
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04730  Long-term depression
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05032  Morphine addiction
+            hsa05034  Alcoholism
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+DISEASE     H00606  Early infantile epileptic encephalopathy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                2775 (GNAO1)
+             Organismal Systems
+              Endocrine system
+               04915 Estrogen signaling pathway
+                2775 (GNAO1)
+               04921 Oxytocin signaling pathway
+                2775 (GNAO1)
+               04926 Relaxin signaling pathway
+                2775 (GNAO1)
+               04916 Melanogenesis
+                2775 (GNAO1)
+              Nervous system
+               04724 Glutamatergic synapse
+                2775 (GNAO1)
+               04727 GABAergic synapse
+                2775 (GNAO1)
+               04725 Cholinergic synapse
+                2775 (GNAO1)
+               04728 Dopaminergic synapse
+                2775 (GNAO1)
+               04726 Serotonergic synapse
+                2775 (GNAO1)
+               04730 Long-term depression
+                2775 (GNAO1)
+               04723 Retrograde endocannabinoid signaling
+                2775 (GNAO1)
+              Environmental adaptation
+               04713 Circadian entrainment
+                2775 (GNAO1)
+             Human Diseases
+              Substance dependence
+               05032 Morphine addiction
+                2775 (GNAO1)
+               05034 Alcoholism
+                2775 (GNAO1)
+              Infectious diseases
+               05145 Toxoplasmosis
+                2775 (GNAO1)
+               05142 Chagas disease (American trypanosomiasis)
+                2775 (GNAO1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               2775 (GNAO1)
+            GTP-binding proteins [BR:hsa04031]
+             Heterotrimeric G-proteins
+              Alpha Subunits
+               Alpha type 1 (Gi/o) [OT]
+                2775 (GNAO1)
+POSITION    16q13
+MOTIF       Pfam: G-alpha Arf Gtr1_RagA TniB DUF685 AAA_29
+DBLINKS     NCBI-GeneID: 2775
+            NCBI-ProteinID: NP_066268
+            OMIM: 139311
+            HGNC: 4389
+            Ensembl: ENSG00000087258
+            Vega: OTTHUMG00000133241
+            Pharos: P09471(Tbio)
+            UniProt: P09471 B3KP89 Q8N6I9
+AASEQ       354
+            MGCTLSAEERAALERSKAIEKNLKEDGISAAKDVKLLLLGAGESGKSTIVKQMKIIHEDG
+            FSGEDVKQYKPVVYSNTIQSLAAIVRAMDTLGIEYGDKERKADAKMVCDVVSRMEDTEPF
+            SAELLSAMMRLWGDSGIQECFNRSREYQLNDSAKYYLDSLDRIGAADYQPTEQDILRTRV
+            KTTGIVETHFTFKNLHFRLFDVGGQRSERKKWIHCFEDVTAIIFCVALSGYDQVLHEDET
+            TNRMHESLMLFDSICNNKFFIDTSIILFLNKKDLFGEKIKKSPLTICFPEYTGPNTYEDA
+            AAYIQAQFESKNRSPNKEIYCHMTCATDTNNIQVVFDAVTDIIIANNLRGCGLY
+NTSEQ       1065
+            atgggatgtactctgagcgcagaggagagagccgccctcgagcggagcaaggcgattgag
+            aaaaacctcaaagaggatggcatcagcgccgccaaagacgtgaaattactcctgctcggg
+            gctggagaatcaggaaaaagcaccattgtgaagcagatgaagatcatccatgaagatggc
+            ttctccggagaagacgtgaaacagtacaagcctgttgtctacagcaacactatccagtcc
+            ctggcagccatcgtccgggccatggacactttgggcatcgaatatggtgataaggagaga
+            aaggctgacgccaagatggtgtgtgatgtggtgagtcggatggaagacaccgagcccttc
+            tctgcagagctgctttctgccatgatgcggctctggggcgactcaggaatccaagagtgc
+            ttcaaccggtcccgggagtatcagctcaacgactctgccaaatactacctggacagcctg
+            gatcggattggggccgccgactaccagcccaccgagcaggacatcctccgaaccagggtc
+            aaaaccactggcatcgtagaaacccacttcacattcaagaacctccacttcaggctgttt
+            gacgtcggaggccagcgatctgaacgcaagaagtggatccattgcttcgaggacgtcacg
+            gccatcattttctgtgtcgcgctcagcggctatgaccaggtgctccacgaagacgaaacc
+            acgaaccgcatgcacgagtctctcatgctcttcgactccatctgtaacaacaagttcttc
+            atcgatacctccatcattctcttcctcaacaagaaagatctctttggcgagaagatcaag
+            aagtcacctttgaccatctgctttcctgaatacacaggccccaatacctatgaagacgca
+            gccgcctacatccaagcacaatttgaaagcaaaaaccgctcacccaacaaagaaatatat
+            tgtcacatgacttgtgccacagacacgaataacatccaggtggtgttcgacgccgtcacc
+            gacatcatcattgccaacaacctccggggctgcggcttgtactga
+///

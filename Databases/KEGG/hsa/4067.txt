@@ -1,0 +1,112 @@
+ENTRY       4067              CDS       T01001
+NAME        LYN, JTK8, p53Lyn, p56Lyn
+DEFINITION  (RefSeq) LYN proto-oncogene, Src family tyrosine kinase
+ORTHOLOGY   K05854  tyrosine-protein kinase Lyn [EC:2.7.10.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04611  Platelet activation
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04730  Long-term depression
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+DRUG_TARGET Bafetinib: D10202
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                4067 (LYN)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                4067 (LYN)
+               04662 B cell receptor signaling pathway
+                4067 (LYN)
+               04664 Fc epsilon RI signaling pathway
+                4067 (LYN)
+               04666 Fc gamma R-mediated phagocytosis
+                4067 (LYN)
+               04062 Chemokine signaling pathway
+                4067 (LYN)
+              Nervous system
+               04730 Long-term depression
+                4067 (LYN)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                4067 (LYN)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                4067 (LYN)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                4067 (LYN)
+               05169 Epstein-Barr virus infection
+                4067 (LYN)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.2  non-specific protein-tyrosine kinase
+                 4067 (LYN)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Src family
+               4067 (LYN)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                4067 (LYN)
+POSITION    8q12.1
+MOTIF       Pfam: Pkinase_Tyr Pkinase SH2 SH3_1 SH3_9 SH3_2 Haspin_kinase SH3_3
+DBLINKS     NCBI-GeneID: 4067
+            NCBI-ProteinID: NP_002341
+            OMIM: 165120
+            HGNC: 6735
+            Ensembl: ENSG00000254087
+            Vega: OTTHUMG00000044345
+            Pharos: P07948(Tclin)
+            UniProt: P07948 Q6NUK7 A8K379
+STRUCTURE   PDB: 5XY1 3A4O 1WA7 1W1F
+AASEQ       512
+            MGCIKSKGKDSLSDDGVDLKTQPVRNTERTIYVRDPTSNKQQRPVPESQLLPGQRFQTKD
+            PEEQGDIVVALYPYDGIHPDDLSFKKGEKMKVLEEHGEWWKAKSLLTKKEGFIPSNYVAK
+            LNTLETEEWFFKDITRKDAERQLLAPGNSAGAFLIRESETLKGSFSLSVRDFDPVHGDVI
+            KHYKIRSLDNGGYYISPRITFPCISDMIKHYQKQADGLCRRLEKACISPKPQKPWDKDAW
+            EIPRESIKLVKRLGAGQFGEVWMGYYNNSTKVAVKTLKPGTMSVQAFLEEANLMKTLQHD
+            KLVRLYAVVTREEPIYIITEYMAKGSLLDFLKSDEGGKVLLPKLIDFSAQIAEGMAYIER
+            KNYIHRDLRAANVLVSESLMCKIADFGLARVIEDNEYTAREGAKFPIKWTAPEAINFGCF
+            TIKSDVWSFGILLYEIVTYGKIPYPGRTNADVMTALSQGYRMPRVENCPDELYDIMKMCW
+            KEKAEERPTFDYLQSVLDDFYTATEGQYQQQP
+NTSEQ       1539
+            atgggatgtataaaatcaaaagggaaagacagcttgagtgacgatggagtagatttgaag
+            actcaaccagtacgtaatactgaaagaactatttatgtgagagatccaacgtccaataaa
+            cagcaaaggccagttccagaatctcagcttttacctggacagaggtttcaaactaaagat
+            ccagaggaacaaggagacattgtggtagccttgtacccctatgatggcatccacccggac
+            gacttgtctttcaagaaaggagagaagatgaaagtcctggaggagcatggagaatggtgg
+            aaagcaaagtcccttttaacaaaaaaagaaggcttcatccccagcaactatgtggccaaa
+            ctcaacaccttagaaacagaagagtggtttttcaaggatataaccaggaaggacgcagaa
+            aggcagcttttggcaccaggaaatagcgctggagctttccttattagagaaagtgaaaca
+            ttaaaaggaagcttctctctgtctgtcagagactttgaccctgtgcatggtgatgttatt
+            aagcactacaaaattagaagtctggataatgggggctattacatctctccacgaatcact
+            tttccctgtatcagcgacatgattaaacattaccaaaagcaggcagatggcttgtgcaga
+            agattggagaaggcttgtattagtcccaagccacagaagccatgggataaagatgcctgg
+            gagatcccccgggagtccatcaagttggtgaaaaggcttggcgctgggcagtttggggaa
+            gtctggatgggttactataacaacagtaccaaggtggctgtgaaaaccctgaagccagga
+            actatgtctgtgcaagccttcctggaagaagccaacctcatgaagaccctgcagcatgac
+            aagctcgtgaggctctacgctgtggtcaccagggaggagcccatttacatcatcaccgag
+            tacatggccaagggcagtttgctggatttcctgaagagcgatgaaggtggcaaagtgctg
+            cttccaaagctcattgacttttctgctcagattgcagagggaatggcatacatcgagcgg
+            aagaactacattcaccgggacctgcgagcagctaatgttctggtctccgagtcactcatg
+            tgcaaaattgcagattttggccttgctagagtaattgaagataatgagtacacagcaagg
+            gaaggtgctaagttccctattaagtggacggctccagaagcaatcaactttggatgtttc
+            actattaagtctgatgtgtggtcctttggaatcctcctatacgaaattgtcacctatggg
+            aaaattccctacccagggagaactaatgccgacgtgatgaccgccctgtcccagggctac
+            aggatgccccgtgtggagaactgcccagatgagctctatgacattatgaaaatgtgctgg
+            aaagaaaaggcagaagagagaccaacgtttgactacttacagagcgtcctggatgatttc
+            tacacagccacggaagggcaataccagcagcagccttag
+///

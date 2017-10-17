@@ -1,0 +1,74 @@
+ENTRY       9420              CDS       T01001
+NAME        CYP7B1, CBAS3, CP7B, SPG5A
+DEFINITION  (RefSeq) cytochrome P450 family 7 subfamily B member 1
+ORTHOLOGY   K07430  25/26-hydroxycholesterol 7alpha-hydroxylase [EC:1.14.14.29]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+DISEASE     H00266  Hereditary spastic paraplegia (SPG)
+            H00628  Congenital bile acid synthesis defect (CBAS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                9420 (CYP7B1)
+               00140 Steroid hormone biosynthesis
+                9420 (CYP7B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.29  25/26-hydroxycholesterol 7alpha-hydroxylase
+                 9420 (CYP7B1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP7 family
+               9420 (CYP7B1)
+POSITION    8q12.3
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 9420
+            NCBI-ProteinID: NP_004811
+            OMIM: 603711
+            HGNC: 2652
+            Ensembl: ENSG00000172817
+            Vega: OTTHUMG00000164387
+            Pharos: O75881(Tbio)
+            UniProt: O75881 Q05C57
+AASEQ       506
+            MAGEVSAATGRFSLERLGLPGLALAAALLLLALCLLVRRTRRPGEPPLIKGWLPYLGVVL
+            NLRKDPLRFMKTLQKQHGDTFTVLLGGKYITFILDPFQYQLVIKNHKQLSFRVFSNKLLE
+            KAFSISQLQKNHDMNDELHLCYQFLQGKSLDILLESMMQNLKQVFEPQLLKTTSWDTAEL
+            YPFCSSIIFEITFTTIYGKVIVCDNNKFISELRDDFLKFDDKFAYLVSNIPIELLGNVKS
+            IREKIIKCFSSEKLAKMQGWSEVFQSRQDVLEKYYVHEDLEIGAHHLGFLWASVANTIPT
+            MFWAMYYLLRHPEAMAAVRDEIDRLLQSTGQKKGSGFPIHLTREQLDSLICLESSIFEAL
+            RLSSYSTTIRFVEEDLTLSSETGDYCVRKGDLVAIFPPVLHGDPEIFEAPEEFRYDRFIE
+            DGKKKTTFFKRGKKLKCYLMPFGTGTSKCPGRFFALMEIKQLLVILLTYFDLEIIDDKPI
+            GLNYSRLLFGIQYPDSDVLFRYKVKS
+NTSEQ       1521
+            atggcaggagaagtgtccgcggccacgggccgcttttcgctggagcggttgggcctcccg
+            ggcctggccctcgccgcggccctgctgctcctggccctctgcttgcttgtccggcgcacc
+            aggagacccggtgagcctccattgataaaaggttggcttccttatcttggagtggtcctg
+            aacttacgaaaagaccccttaaggttcatgaaaacacttcaaaagcaacatggtgacact
+            ttcacagttcttcttggtggaaagtacataacatttatcctggaccccttccagtaccag
+            ctagtgataaaaaatcataaacaattaagctttcgagtattttctaataaattattagag
+            aaagcatttagcatcagtcagttgcaaaaaaatcatgacatgaatgatgagcttcacctc
+            tgctatcaatttttgcaaggcaaatctttggacatactcttggaaagcatgatgcagaat
+            ctaaaacaagtttttgaaccccagctgttaaaaaccacaagttgggacacggcagaactg
+            tatccattctgcagctcaataatatttgagatcacatttacaactatatatggaaaagtt
+            attgtttgtgacaacaacaaatttattagtgagctaagagatgattttttaaaatttgat
+            gacaagtttgcatatttagtatccaacatacccattgagcttctaggaaatgtcaagtct
+            attagagagaaaattataaaatgcttctcatcagaaaagttagccaagatgcaaggatgg
+            tcagaagtttttcaaagcaggcaagatgtcctggagaaatattatgtgcacgaggacctt
+            gaaataggagcacatcatttaggctttctctgggcctctgtggcaaacactattccaact
+            atgttctgggcaatgtattatcttctgcggcacccagaagctatggcagcagtgcgtgac
+            gaaattgaccgtttgctgcagtcaacaggtcaaaagaaagggtctggatttcccatccac
+            ctcaccagagaacaattggacagcctaatctgcctagaaagcagcatttttgaagcttta
+            cgactgtcctcatattcaaccaccattcgttttgttgaggaggatttgactctcagttca
+            gagaccggggactactgtgtgcgaaagggagacttggtagccatctttcctccagtccta
+            catggtgaccctgaaatctttgaagctccagaggagtttagatatgatcgttttatagaa
+            gatggtaagaagaaaaccacctttttcaaaagagggaaaaagctgaagtgttacctaatg
+            ccgtttggaactggaaccagcaaatgtccaggccgattttttgcacttatggaaataaaa
+            caattgttggttatacttttaacttattttgatttagaaataattgatgataagcccata
+            ggactaaactacagccgcttgttgtttggtattcagtatccagattctgatgttttattt
+            agatacaaagtgaaatcttag
+///

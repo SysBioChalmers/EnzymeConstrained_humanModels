@@ -1,0 +1,169 @@
+ENTRY       836               CDS       T01001
+NAME        CASP3, CPP32, CPP32B, SCA-1
+DEFINITION  (RefSeq) caspase 3
+ORTHOLOGY   K02187  caspase 3 [EC:3.4.22.56]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa04010  MAPK signaling pathway
+            hsa04115  p53 signaling pathway
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04726  Serotonergic synapse
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05016  Huntington's disease
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05210  Colorectal cancer
+            hsa05222  Small cell lung cancer
+            hsa05416  Viral myocarditis
+MODULE      hsa_M00685  Apoptotic machinery
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                836 (CASP3)
+               04668 TNF signaling pathway
+                836 (CASP3)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                836 (CASP3)
+               04215 Apoptosis - multiple species
+                836 (CASP3)
+               04115 p53 signaling pathway
+                836 (CASP3)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                836 (CASP3)
+               04657 IL-17 signaling pathway
+                836 (CASP3)
+              Nervous system
+               04726 Serotonergic synapse
+                836 (CASP3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                836 (CASP3)
+               05206 MicroRNAs in cancer
+                836 (CASP3)
+               05205 Proteoglycans in cancer
+                836 (CASP3)
+               05203 Viral carcinogenesis
+                836 (CASP3)
+               05210 Colorectal cancer
+                836 (CASP3)
+               05222 Small cell lung cancer
+                836 (CASP3)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                836 (CASP3)
+               05012 Parkinson's disease
+                836 (CASP3)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                836 (CASP3)
+               05016 Huntington's disease
+                836 (CASP3)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                836 (CASP3)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                836 (CASP3)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                836 (CASP3)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                836 (CASP3)
+               05133 Pertussis
+                836 (CASP3)
+               05134 Legionellosis
+                836 (CASP3)
+               05152 Tuberculosis
+                836 (CASP3)
+               05161 Hepatitis B
+                836 (CASP3)
+               05168 Herpes simplex infection
+                836 (CASP3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                836 (CASP3)
+               05165 Human papillomavirus infection
+                836 (CASP3)
+               05146 Amoebiasis
+                836 (CASP3)
+               05145 Toxoplasmosis
+                836 (CASP3)
+              Drug resistance
+               01524 Platinum drug resistance
+                836 (CASP3)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.56  caspase-3
+                 836 (CASP3)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C14: caspase family
+               836 (CASP3)
+POSITION    4q35.1
+MOTIF       Pfam: Peptidase_C14
+DBLINKS     NCBI-GeneID: 836
+            NCBI-ProteinID: NP_004337
+            OMIM: 600636
+            HGNC: 1504
+            Ensembl: ENSG00000164305
+            Vega: OTTHUMG00000133681
+            Pharos: P42574(Tchem)
+            UniProt: P42574
+STRUCTURE   PDB: 2DKO 2J32 5IBP 2J30 4JJE 4QUJ 3PCX 2J31 5IAS 2XYG 5IAE
+                 4QU9 5IAJ 4EHD 4QTY 1NME 3EDQ 3PD1 4PS0 3ITN 5IBC 4EHF
+                 4EHK 2CNL 2CJY 4QUB 4EHN 2H5I 4PRY 4EHA 4DCO 4DCP 4DCJ
+                 2CNN 2CJX 2CDR 1NMS 4QU8 5IBR 2CNK 5IAR 4QUH 4QUI 2C1E
+                 4EHH 5IAB 5I9B 4JR0 4EHL 5IAK 4QUE 2XYP 2C2K 4QUA 2XYH
+                 4QUL 3GJS 1QX3 4QU5 4QUG 2C2M 5I9T 4QU0 2CNO 4QTX 5IAG
+                 4QUD 3PD0 3KJF 3H0E 2J33 2H5J 2Y0B 2XZD 3GJR 3GJT 1RHJ
+                 2H65 1CP3 3DEK 1NMQ 2C2O 4JQY 3DEH 1RHK 1RHM 1RE1 1PAU
+                 1RHU 3GJQ 3DEJ 5IC4 5IAN 2XZT 1I3O 3DEI 1GFW 4JQZ 1RHQ
+                 1RHR
+AASEQ       277
+            MENTENSVDSKSIKNLEPKIIHGSESMDSGISLDNSYKMDYPEMGLCIIINNKNFHKSTG
+            MTSRSGTDVDAANLRETFRNLKYEVRNKNDLTREEIVELMRDVSKEDHSKRSSFVCVLLS
+            HGEEGIIFGTNGPVDLKKITNFFRGDRCRSLTGKPKLFIIQACRGTELDCGIETDSGVDD
+            DMACHKIPVEADFLYAYSTAPGYYSWRNSKDGSWFIQSLCAMLKQYADKLEFMHILTRVN
+            RKVATEFESFSFDATFHAKKQIPCIVSMLTKELYFYH
+NTSEQ       834
+            atggagaacactgaaaactcagtggattcaaaatccattaaaaatttggaaccaaagatc
+            atacatggaagcgaatcaatggactctggaatatccctggacaacagttataaaatggat
+            tatcctgagatgggtttatgtataataattaataataagaattttcataaaagcactgga
+            atgacatctcggtctggtacagatgtcgatgcagcaaacctcagggaaacattcagaaac
+            ttgaaatatgaagtcaggaataaaaatgatcttacacgtgaagaaattgtggaattgatg
+            cgtgatgtttctaaagaagatcacagcaaaaggagcagttttgtttgtgtgcttctgagc
+            catggtgaagaaggaataatttttggaacaaatggacctgttgacctgaaaaaaataaca
+            aactttttcagaggggatcgttgtagaagtctaactggaaaacccaaacttttcattatt
+            caggcctgccgtggtacagaactggactgtggcattgagacagacagtggtgttgatgat
+            gacatggcgtgtcataaaataccagtggaggccgacttcttgtatgcatactccacagca
+            cctggttattattcttggcgaaattcaaaggatggctcctggttcatccagtcgctttgt
+            gccatgctgaaacagtatgccgacaagcttgaatttatgcacattcttacccgggttaac
+            cgaaaggtggcaacagaatttgagtccttttcctttgacgctacttttcatgcaaagaaa
+            cagattccatgtattgtttccatgctcacaaaagaactctatttttatcactaa
+///

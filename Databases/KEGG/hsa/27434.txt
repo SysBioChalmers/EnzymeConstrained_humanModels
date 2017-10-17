@@ -1,0 +1,74 @@
+ENTRY       27434             CDS       T01001
+NAME        POLM, Pol_Mu, Tdt-N
+DEFINITION  (RefSeq) DNA polymerase mu
+ORTHOLOGY   K03513  DNA polymerase mu [EC:2.7.7.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03450  Non-homologous end-joining
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03450 Non-homologous end-joining
+                27434 (POLM)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 27434 (POLM)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                X-family DNA polymerases
+                 27434 (POLM)
+POSITION    7p13
+MOTIF       Pfam: DNA_pol_B_thumb DNA_pol_lambd_f DNA_pol_B_palm HHH_8 NTP_transf_2 Cdd1 HHH_5 SMC_ScpB
+DBLINKS     NCBI-GeneID: 27434
+            NCBI-ProteinID: NP_037416
+            OMIM: 606344
+            HGNC: 9185
+            Ensembl: ENSG00000122678
+            Vega: OTTHUMG00000155353
+            Pharos: Q9NP87(Tbio)
+            UniProt: Q9NP87
+STRUCTURE   PDB: 5VZA 5VZB 5VZI 5VZE 5VZ7 5VZC 5VZ8 5VZD 4LZG 5VZ9 5VZF
+                 5TXZ 5TYG 4YD1 5TWQ 5VZG 5TYB 5TWS 4M0A 4LZD 5TYW 5TYD
+                 5TWR 4M04 5TYV 5TYY 5VZH 5TYX 5TXX 5TYF 5TYZ 5TWP 5TYU
+                 5TYE 5TYC 4YCX 4YD2 2DUN 2HTF
+AASEQ       494
+            MLPKRRRARVGSPSGDAASSTPPSTRFPGVAIYLVEPRMGRSRRAFLTGLARSKGFRVLD
+            ACSSEATHVVMEETSAEEAVSWQERRMAAAPPGCTPPALLDISWLTESLGAGQPVPVECR
+            HRLEVAGPRKGPLSPAWMPAYACQRPTPLTHHNTGLSEALEILAEAAGFEGSEGRLLTFC
+            RAASVLKALPSPVTTLSQLQGLPHFGEHSSRVVQELLEHGVCEEVERVRRSERYQTMKLF
+            TQIFGVGVKTADRWYREGLRTLDDLREQPQKLTQQQKAGLQHHQDLSTPVLRSDVDALQQ
+            VVEEAVGQALPGATVTLTGGFRRGKLQGHDVDFLITHPKEGQEAGLLPRVMCRLQDQGLI
+            LYHQHQHSCCESPTRLAQQSHMDAFERSFCIFRLPQPPGAAVGGSTRPCPSWKAVRVDLV
+            VAPVSQFPFALLGWTGSKLFQRELRRFSRKEKGLWLNSHGLFDPEQKTFFQAASEEDIFR
+            HLGLEYLPPEQRNA
+NTSEQ       1485
+            atgctccccaaacggcggcgagcgcgggtcgggtcccctagcggcgatgccgcttcctcc
+            acgccgccctcgacgcgcttcccgggagtcgccatctacctggtcgagcctcgcatgggt
+            cgcagccgccgggccttcctcacaggcctggcgcgctccaaaggcttccgcgtccttgac
+            gcctgcagctccgaagcgacacatgttgtgatggaagagacctcagcagaggaggccgtc
+            agctggcaggagcgcaggatggcagctgctcccccgggttgcacccccccagctctgctg
+            gacataagctggttaacagagagcctgggagctgggcagcctgtacctgtggagtgccgg
+            caccgcctggaggtggctgggccaaggaaggggcctctgagcccagcatggatgcctgcc
+            tatgcctgccagcgccctacgcccctcacacaccacaacactggcctctccgaggctctg
+            gagatactggccgaggcagcaggctttgaaggcagtgagggccgcctcctcaccttctgc
+            agagcagcctcggtgctcaaggcccttcccagccctgtcacaaccctgagccagctgcag
+            gggcttccccactttggagaacactcctctagggttgtccaggagctgctggagcatgga
+            gtgtgtgaggaggtggagagagttcggcgctcagagaggtaccagaccatgaagctcttc
+            acccagatcttcggggtcggtgtgaagactgctgaccggtggtaccgggaaggactgcga
+            accttagatgacctccgagagcagccccagaaactaacccaacagcagaaagcggggctc
+            cagcaccaccaggacctgagcaccccagtcctgcggtccgatgtagatgccctgcagcag
+            gtggtggaggaagctgtggggcaggccctgcctggggccaccgtcacgctgaccggcggc
+            ttccgcagggggaagttgcagggccatgacgtggacttcctcatcacccaccccaaggag
+            ggtcaggaggcggggctgctgcctagagtgatgtgccgcctgcaggaccagggcctcatc
+            ctgtaccaccagcaccagcacagctgctgtgagtcccctacccgcctggcccaacagagc
+            cacatggacgcttttgagagaagtttctgcattttccgcctaccacaacctccaggggct
+            gctgtggggggatccacgaggccctgcccatcctggaaggccgtgagagtggacttggta
+            gttgcacccgtcagccagttccctttcgccctgctcggttggactggctccaagcttttc
+            cagcgggagctgcgccgcttcagccggaaggagaagggcctgtggctgaacagccatggg
+            ctgtttgacccggagcagaagacatttttccaagcggcttcagaggaagacatcttcaga
+            cacctgggccttgagtaccttcctccagagcagagaaacgcctga
+///

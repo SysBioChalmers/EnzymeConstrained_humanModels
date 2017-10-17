@@ -1,0 +1,77 @@
+ENTRY       3002              CDS       T01001
+NAME        GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT
+DEFINITION  (RefSeq) granzyme B
+ORTHOLOGY   K01353  granzyme B [EC:3.4.21.79]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04210  Apoptosis
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04940  Type I diabetes mellitus
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05320  Autoimmune thyroid disease
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                3002 (GZMB)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3002 (GZMB)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                3002 (GZMB)
+              Immune diseases
+               05320 Autoimmune thyroid disease
+                3002 (GZMB)
+               05330 Allograft rejection
+                3002 (GZMB)
+               05332 Graft-versus-host disease
+                3002 (GZMB)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3002 (GZMB)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.79  granzyme B
+                 3002 (GZMB)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S1: chymotrypsin family
+               3002 (GZMB)
+POSITION    14q12
+MOTIF       Pfam: Trypsin Trypsin_2 DUF1986
+DBLINKS     NCBI-GeneID: 3002
+            NCBI-ProteinID: NP_004122
+            OMIM: 123910
+            HGNC: 4709
+            Ensembl: ENSG00000100453
+            Vega: OTTHUMG00000029369
+            Pharos: P10144(Tchem)
+            UniProt: P10144 Q67BC3
+STRUCTURE   PDB: 1IAU 1FQ3
+AASEQ       247
+            MQPILLLLAFLLLPRADAGEIIGGHEAKPHSRPYMAYLMIWDQKSLKRCGGFLIRDDFVL
+            TAAHCWGSSINVTLGAHNIKEQEPTQQFIPVKRPIPHPAYNPKNFSNDIMLLQLERKAKR
+            TRAVQPLRLPSNKAQVKPGQTCSVAGWGQTAPLGKHSHTLQEVKMTVQEDRKCESDLRHY
+            YDSTIELCVGDPEIKKTSFKGDSGGPLVCNKVAQGIVSYGRNNGMPPRACTKVSSFVHWI
+            KKTMKRY
+NTSEQ       744
+            atgcaaccaatcctgcttctgctggccttcctcctgctgcccagggcagatgcaggggag
+            atcatcgggggacatgaggccaagccccactcccgcccctacatggcttatcttatgatc
+            tgggatcagaagtctctgaagaggtgcggtggcttcctgatacgagacgacttcgtgctg
+            acagctgctcactgttggggaagctccataaatgtcaccttgggggcccacaatatcaaa
+            gaacaggagccgacccagcagtttatccctgtgaaaagacccatcccccatccagcctat
+            aatcctaagaacttctccaacgacatcatgctactgcagctggagagaaaggccaagcgg
+            accagagctgtgcagcccctcaggctacctagcaacaaggcccaggtgaagccagggcag
+            acatgcagtgtggccggctgggggcagacggcccccctgggaaaacactcacacacacta
+            caagaggtgaagatgacagtgcaggaagatcgaaagtgcgaatctgacttacgccattat
+            tacgacagtaccattgagttgtgcgtgggggacccagagattaaaaagacttcctttaag
+            ggggactctggaggccctcttgtgtgtaacaaggtggcccagggcattgtctcctatgga
+            cgaaacaatggcatgcctccacgagcctgcaccaaagtctcaagctttgtacactggata
+            aagaaaaccatgaaacgctactaa
+///

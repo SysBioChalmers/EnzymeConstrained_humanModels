@@ -1,0 +1,57 @@
+ENTRY       7345              CDS       T01001
+NAME        UCHL1, HEL-117, HEL-S-53, NDGOA, PARK5, PGP_9.5, PGP9.5, PGP95, SPG79, Uch-L1
+DEFINITION  (RefSeq) ubiquitin C-terminal hydrolase L1
+ORTHOLOGY   K05611  ubiquitin carboxyl-terminal hydrolase L1 [EC:3.4.19.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05012  Parkinson's disease
+DISEASE     H00057  Parkinson's disease (PD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                7345 (UCHL1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 7345 (UCHL1)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C12: ubiquitin C-terminal hydrolase family
+               7345 (UCHL1)
+            Ubiquitin system [BR:hsa04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               UCH
+                7345 (UCHL1)
+POSITION    4p13
+MOTIF       Pfam: Peptidase_C12
+DBLINKS     NCBI-GeneID: 7345
+            NCBI-ProteinID: NP_004172
+            OMIM: 191342
+            HGNC: 12513
+            Ensembl: ENSG00000154277
+            Vega: OTTHUMG00000099377
+            Pharos: P09936(Tchem)
+            UniProt: P09936 V9HW74
+STRUCTURE   PDB: 4JKJ 4DM9 3IFW 2ETL 3KVF 3IRT 3KW5 2LEN
+AASEQ       223
+            MQLKPMEINPEMLNKVLSRLGVAGQWRFVDVLGLEEESLGSVPAPACALLLLFPLTAQHE
+            NFRKKQIEELKGQEVSPKVYFMKQTIGNSCGTIGLIHAVANNQDKLGFEDGSVLKQFLSE
+            TEKMSPEDRAKCFEKNEAIQAAHDAVAQEGQCRVDDKVNFHFILFNNVDGHLYELDGRMP
+            FPVNHGASSEDTLLKDAAKVCREFTEREQGEVRFSAVALCKAA
+NTSEQ       672
+            atgcagctcaagccgatggagatcaaccccgagatgctgaacaaagtgctgtcccggctg
+            ggggtcgccggccagtggcgcttcgtggacgtgctggggctggaagaggagtctctgggc
+            tcggtgccagcgcctgcctgcgcgctgctgctgctgtttcccctcacggcccagcatgag
+            aacttcaggaaaaagcagattgaagagctgaagggacaagaagttagtcctaaagtgtac
+            ttcatgaagcagaccattgggaattcctgtggcacaatcggacttattcacgcagtggcc
+            aataatcaagacaaactgggatttgaggatggatcagttctgaaacagtttctttctgaa
+            acagagaaaatgtcccctgaagacagagcaaaatgctttgaaaagaatgaggccatacag
+            gcagcccatgatgccgtggcacaggaaggccaatgtcgggtagatgacaaggtgaatttc
+            cattttattctgtttaacaacgtggatggccacctctatgaacttgatggacgaatgcct
+            tttccggtgaaccatggcgccagttcagaggacaccctgctgaaggacgctgccaaggtc
+            tgcagagaattcaccgagcgtgagcaaggagaagtccgcttctctgccgtggctctctgc
+            aaggcagcctaa
+///

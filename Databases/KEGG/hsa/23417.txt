@@ -1,0 +1,81 @@
+ENTRY       23417             CDS       T01001
+NAME        MLYCD, MCD
+DEFINITION  (RefSeq) malonyl-CoA decarboxylase
+ORTHOLOGY   K01578  malonyl-CoA decarboxylase [EC:4.1.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa04146  Peroxisome
+            hsa04152  AMPK signaling pathway
+DISEASE     H01283  Malonyl-CoA decarboxylase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                23417 (MLYCD)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                23417 (MLYCD)
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                23417 (MLYCD)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                23417 (MLYCD)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.9  malonyl-CoA decarboxylase
+                 23417 (MLYCD)
+POSITION    16q23.3
+MOTIF       Pfam: MCD MCD_N
+DBLINKS     NCBI-GeneID: 23417
+            NCBI-ProteinID: NP_036345
+            OMIM: 606761
+            HGNC: 7150
+            Ensembl: ENSG00000103150
+            Vega: OTTHUMG00000176654
+            Pharos: O95822(Tchem)
+            UniProt: O95822
+STRUCTURE   PDB: 2YGW 4F0X
+AASEQ       493
+            MRGFGPGLTARRLLPLRLPPRPPGPRLASGQAAGALERAMDELLRRAVPPTPAYELREKT
+            PAPAEGQCADFVSFYGGLAETAQRAELLGRLARGFGVDHGQVAEQSAGVLHLRQQQREAA
+            VLLQAEDRLRYALVPRYRGLFHHISKLDGGVRFLVQLRADLLEAQALKLVEGPDVREMNG
+            VLKGMLSEWFSSGFLNLERVTWHSPCEVLQKISEAEAVHPVKNWMDMKRRVGPYRRCYFF
+            SHCSTPGEPLVVLHVALTGDISSNIQAIVKEHPPSETEEKNKITAAIFYSISLTQQGLQG
+            VELGTFLIKRVVKELQREFPHLGVFSSLSPIPGFTKWLLGLLNSQTKEHGRNELFTDSEC
+            KEISEITGGPINETLKLLLSSSEWVQSEKLVRALQTPLMRLCAWYLYGEKHRGYALNPVA
+            NFHLQNGAVLWRINWMADVSLRGITGSCGLMANYRYFLEETGPNSTSYLGSKIIKASEQV
+            LSLVAQFQKNSKL
+NTSEQ       1482
+            atgcgaggcttcgggccaggcttgacggccaggcgtctcctcccgctgcggttgcccccg
+            cggccgcccgggccccggctggcgagcgggcaggcggccggcgccctggagcgggccatg
+            gacgagctgctgcgccgcgcggtgccgccgacgccggcctacgagctgcgcgagaagaca
+            ccggcgcccgccgagggtcagtgcgcggacttcgtgagcttctacggtgggctggccgag
+            acggcccagcgggccgaactgctgggccgcctggcgcggggcttcggcgtggaccacggc
+            caggtggcggagcagagcgccggcgtgctccatctgcgccagcagcagcgggaggcggcg
+            gtgctgctgcaggccgaggaccggctgcgctacgcgctggtgccgcgctatcgcggcctc
+            ttccaccacatcagcaagctggacggcggcgtgcgcttcctggtgcagctgcgggccgac
+            ctgctggaggcgcaggccctcaagctggtggaggggccggacgtccgggaaatgaatggg
+            gtgctgaaaggaatgctctcagaatggttttcctccgggttcctgaacctagaacgggtt
+            acctggcattcaccgtgtgaagtgcttcagaaaatcagtgaggctgaggctgtgcatcct
+            gtaaaaaactggatggacatgaagcgccgcgttgggccctacagaaggtgttacttcttt
+            tctcactgttcgacccctggggagcccctggtcgttttgcacgtggcactgactggtgac
+            atctccagcaacatccaggcaatcgtgaaggaacatcctccatcagaaacagaagagaag
+            aacaaaatcactgctgcgatcttttattccatcagcttgacccagcagggactccaaggg
+            gtggagctgggaacattcctcataaagcgagtcgtcaaggagttgcagagagagtttcct
+            caccttggggtgttttcaagtctgtcacctatacctggtttcaccaaatggcttctgggg
+            cttctgaactcgcaaacgaaggagcatgggaggaatgaactctttacagattcggaatgt
+            aaggaaatctcggagatcacaggtggccccattaacgagaccctcaagctcctcctcagc
+            agcagcgagtgggtgcagtcggagaagctggtgcgggcgctgcagactccgctgatgagg
+            ctgtgcgcctggtacctgtatggagagaagcaccgcggctacgcgctgaaccccgtggcc
+            aacttccacctgcagaacggggcggtgctgtggcgcatcaactggatggcggatgtgagc
+            ctcagaggcatcaccggctcctgcggcctgatggccaactaccgctacttcctggaggag
+            acgggccccaacagcacctcctacctcggctccaagatcatcaaagcctctgagcaggtc
+            ctcagcctagtggcccagtttcaaaagaacagcaagctctga
+///

@@ -1,0 +1,95 @@
+ENTRY       57678             CDS       T01001
+NAME        GPAM, GPAT, GPAT1
+DEFINITION  (RefSeq) glycerol-3-phosphate acyltransferase, mitochondrial
+ORTHOLOGY   K00629  glycerol-3-phosphate O-acyltransferase 1/2 [EC:2.3.1.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00089  Triacylglycerol biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                57678 (GPAM)
+               00564 Glycerophospholipid metabolism
+                57678 (GPAM)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.15  glycerol-3-phosphate 1-O-acyltransferase
+                 57678 (GPAM)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Phospholipid acyltransferase
+              GPAT
+               57678 (GPAM)
+POSITION    10q25.2
+MOTIF       Pfam: Acyltransferase
+DBLINKS     NCBI-GeneID: 57678
+            NCBI-ProteinID: NP_001231878
+            OMIM: 602395
+            HGNC: 24865
+            Ensembl: ENSG00000119927
+            Vega: OTTHUMG00000019055
+            Pharos: Q9HCL2(Tbio)
+            UniProt: Q9HCL2 Q8N1G6 Q86T70
+AASEQ       828
+            MDESALTLGTIDVSYLPHSSEYSVGRCKHTSEEWGECGFRPTIFRSATLKWKESLMSRKR
+            PFVGRCCYSCTPQSWDKFFNPSIPSLGLRNVIYINETHTRHRGWLARRLSYVLFIQERDV
+            HKGMFATNVTENVLNSSRVQEAIAEVAAELNPDGSAQQQSKAVNKVKKKAKRILQEMVAT
+            VSPAMIRLTGWVLLKLFNSFFWNIQIHKGQLEMVKAATETNLPLLFLPVHRSHIDYLLLT
+            FILFCHNIKAPYIASGNNLNIPIFSTLIHKLGGFFIRRRLDETPDGRKDVLYRALLHGHI
+            VELLRQQQFLEIFLEGTRSRSGKTSCARAGLLSVVVDTLSTNVIPDILIIPVGISYDRII
+            EGHYNGEQLGKPKKNESLWSVARGVIRMLRKNYGCVRVDFAQPFSLKEYLESQSQKPVSA
+            LLSLEQALLPAILPSRPSDAADEGRDTSINESRNATDESLRRRLIANLAEHILFTASKSC
+            AIMSTHIVACLLLYRHRQGIDLSTLVEDFFVMKEEVLARDFDLGFSGNSEDVVMHAIQLL
+            GNCVTITHTSRNDEFFITPSTTVPSVFELNFYSNGVLHVFIMEAIIACSLYAVLNKRGLG
+            GPTSTPPNLISQEQLVRKAASLCYLLSNEGTISLPCQTFYQVCHETVGKFIQYGILTVAE
+            HDDQEDISPSLAEQQWDKKLPEPLSWRSDEEDEDSDFGEEQRDCYLKVSQSKEHQQFITF
+            LQRLLGPLLEAYSSAAIFVHNFSGPVPEPEYLQKLHKYLITRTERNVAVYAESATYCLVK
+            NAVKMFKDIGVFKETKQKRVSVLELSSTFLPQCNRQKLLEYILSFVVL
+NTSEQ       2487
+            atggatgaatctgcactgacccttggtacaatagatgtttcttatctgccacattcatca
+            gaatacagtgttggtcgatgtaagcacacaagtgaggaatggggtgagtgtggctttaga
+            cccaccatcttcagatctgcaactttaaaatggaaagaaagcctaatgagtcggaaaagg
+            ccatttgttggaagatgttgttactcctgcactccccagagctgggacaaatttttcaac
+            cccagtatcccgtctttgggtttgcggaatgttatttatatcaatgaaactcacacaaga
+            caccgcggatggcttgcaagacgcctttcttacgttctttttattcaagagcgagatgtg
+            cataagggcatgtttgccaccaatgtgactgaaaatgtgctgaacagcagtagagtacaa
+            gaggcaattgcagaagtggctgctgaattaaaccctgatggttctgcccagcagcaatca
+            aaagccgttaacaaagtgaaaaagaaagctaaaaggattcttcaagaaatggttgccact
+            gtctcaccggcaatgatcagactgactgggtgggtgctgctaaaactgttcaacagcttc
+            ttttggaacattcaaattcacaaaggtcaacttgagatggttaaagctgcaactgagacg
+            aatttgccgcttctgtttctaccagttcatagatcccatattgactatctgctgctcact
+            ttcattctcttctgccataacatcaaagcaccatacattgcttcaggcaataatctcaac
+            atcccaatcttcagtaccttgatccataagcttgggggcttcttcatacgacgaaggctc
+            gatgaaacaccagatggacggaaagatgttctctatagagctttgctccatgggcatata
+            gttgaattacttcgacagcagcaattcttggagatcttcctggaaggcacacgttctagg
+            agtggaaaaacctcttgtgctcgggcaggacttttgtcagttgtggtagatactctgtct
+            accaatgtcatcccagacatcttgataatacctgttggaatctcctatgatcgcattatc
+            gaaggtcactacaatggtgaacaactgggcaaacctaagaagaatgagagcctgtggagt
+            gtagcaagaggtgttattagaatgttacgaaaaaactatggttgtgtccgagtggatttt
+            gcacagccattttccttaaaggaatatttagaaagccaaagtcagaaaccggtgtctgct
+            ctactttccctggagcaagcgttgttaccagctatacttccttcaagacccagtgatgct
+            gctgatgaaggtagagacacgtccattaatgagtccagaaatgcaacagatgaatcccta
+            cgaaggaggttgattgcaaatctggctgagcatattctattcactgctagcaagtcctgt
+            gccattatgtccacacacattgtggcttgcctgctcctctacagacacaggcagggaatt
+            gatctctccacattggtcgaagacttctttgtgatgaaagaggaagtcctggctcgtgat
+            tttgacctggggttctcaggaaattcagaagatgtagtaatgcatgccatacagctgctg
+            ggaaattgtgtcacaatcacccacactagcaggaacgatgagttttttatcacccccagc
+            acaactgtcccatcagtcttcgaactcaacttctacagcaatggggtacttcatgtcttt
+            atcatggaggccatcatagcttgcagcctttatgcagttctgaacaagaggggactgggg
+            ggtcccactagcaccccacctaacctgatcagccaggagcagctggtgcggaaggcggcc
+            agcctgtgctaccttctctccaatgaaggcaccatctcactgccttgccagacattttac
+            caagtctgccatgaaacagtaggaaagtttatccagtatggcattcttacagtggcagag
+            cacgatgaccaggaagatatcagtcctagtcttgctgagcagcagtgggacaagaagctt
+            ccagaacctttgtcttggagaagtgatgaagaagatgaagacagtgactttggggaggaa
+            cagcgagattgctacctgaaggtgagccaatccaaggagcaccagcagtttatcaccttc
+            ttacagagactccttgggcctttgctggaggcctacagctctgctgccatctttgttcac
+            aacttcagtggtcctgttccagaacctgagtatctgcaaaagttgcacaaatacctaata
+            accagaacagaaagaaatgttgcagtatatgctgagagtgccacatattgtcttgtgaag
+            aatgctgtgaaaatgtttaaggatattggggttttcaaggagaccaaacaaaagagagtg
+            tctgttttagaactgagcagcacttttctacctcaatgcaaccgacaaaaacttctagaa
+            tatattctgagttttgtggtgctgtag
+///

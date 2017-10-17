@@ -1,0 +1,98 @@
+ENTRY       2897              CDS       T01001
+NAME        GRIK1, EAA3, EEA3, GLR5, GLUR5, GluK1, gluR-5
+DEFINITION  (RefSeq) glutamate ionotropic receptor kainate type subunit 1
+ORTHOLOGY   K05201  glutamate receptor, ionotropic kainate 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04724  Glutamatergic synapse
+DRUG_TARGET Tezampanel: D06656
+            Topiramate: D00537
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2897 (GRIK1)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2897 (GRIK1)
+            Ion channels [BR:hsa04040]
+             Glutamate-gated cation channels
+              Glutamate (ionotropic), non-NMDA
+               2897 (GRIK1)
+POSITION    21q21.3
+MOTIF       Pfam: ANF_receptor Lig_chan Lig_chan-Glu_bd SBP_bac_3 Peripla_BP_6
+DBLINKS     NCBI-GeneID: 2897
+            NCBI-ProteinID: NP_000821
+            OMIM: 138245
+            HGNC: 4579
+            Ensembl: ENSG00000171189
+            Vega: OTTHUMG00000078879
+            Pharos: P39086(Tclin)
+            UniProt: P39086
+STRUCTURE   PDB: 3FVN 3FVO 3FV1 3FV2 3FVG 3FVK 2ZNT 3FUZ 2ZNU 2ZNS 4MF3
+AASEQ       918
+            MEHGTLLAQPGLWTRDTSWALLYFLCYILPQTAPQVLRIGGIFETVENEPVNVEELAFKF
+            AVTSINRNRTLMPNTTLTYDIQRINLFDSFEASRRACDQLALGVAALFGPSHSSSVSAVQ
+            SICNALEVPHIQTRWKHPSVDNKDLFYINLYPDYAAISRAILDLVLYYNWKTVTVVYEDS
+            TGLIRLQELIKAPSRYNIKIKIRQLPSGNKDAKPLLKEMKKGKEFYVIFDCSHETAAEIL
+            KQILFMGMMTEYYHYFFTTLDLFALDLELYRYSGVNMTGFRLLNIDNPHVSSIIEKWSME
+            RLQAPPRPETGLLDGMMTTEAALMYDAVYMVAIASHRASQLTVSSLQCHRHKPWRLGPRF
+            MNLIKEARWDGLTGHITFNKTNGLRKDFDLDIISLKEEGTEKAAGEVSKHLYKVWKKIGI
+            WNSNSGLNMTDSNKDKSSNITDSLANRTLIVTTILEEPYVMYRKSDKPLYGNDRFEGYCL
+            DLLKELSNILGFIYDVKLVPDGKYGAQNDKGEWNGMVKELIDHRADLAVAPLTITYVREK
+            VIDFSKPFMTLGISILYRKPNGTNPGVFSFLNPLSPDIWMYVLLACLGVSCVLFVIARFT
+            PYEWYNPHPCNPDSDVVENNFTLLNSFWFGVGALMQQGSELMPKALSTRIVGGIWWFFTL
+            IIISSYTANLAAFLTVERMESPIDSADDLAKQTKIEYGAVRDGSTMTFFKKSKISTYEKM
+            WAFMSSRQQTALVRNSDEGIQRVLTTDYALLMESTSIEYVTQRNCNLTQIGGLIDSKGYG
+            VGTPIGSPYRDKITIAILQLQEEGKLHMMKEKWWRGNGCPEEDNKEASALGVENIGGIFI
+            VLAAGLVLSVFVAIGEFIYKSRKNNDIEQAFCFFYGLQCKQTHPTNSTSGTTLSTDLECG
+            KLIREERGIRKQSSVHTV
+NTSEQ       2757
+            atggagcacggcacactcctcgcccagcccgggctctggaccagggacaccagctgggca
+            ctcctctatttcctctgctatatcctccctcagaccgccccgcaagtactcaggatcgga
+            gggatttttgaaacagtggaaaatgagcctgttaatgttgaagaattagctttcaagttt
+            gcagtcaccagcattaacagaaaccgaaccctgatgcctaacaccacattaacctatgac
+            atccagagaattaacctttttgatagttttgaagcctcgcggagagcatgtgaccagctg
+            gctcttggtgtggctgctctctttggcccttcccatagctcctccgtcagtgctgtgcag
+            tctatttgcaatgctctcgaagttccacacatacagacccgctggaaacacccctcggtg
+            gacaacaaagatttgttttacatcaacctttacccagattatgcagctatcagcagggcg
+            atcctggatctggtcctctattacaactggaaaacagtgacagtggtgtatgaagacagc
+            acaggtctaattcgtctacaagagctcatcaaagctccctccagatataatattaaaatc
+            aaaatccgccagctgccctctgggaataaagatgccaagcctttactcaaggagatgaag
+            aaaggcaaggagttctatgtgatatttgattgttcacatgaaacagccgctgaaatcctt
+            aagcagattctgttcatgggcatgatgaccgagtactatcactactttttcacaaccctg
+            gacttatttgctttggatctggaactctataggtacagtggcgtaaacatgaccgggttt
+            cggctgcttaacattgacaaccctcacgtgtcatccatcattgagaagtggtccatggag
+            agactgcaggccccacccaggcccgagactggccttttggatggcatgatgacaactgaa
+            gcggctctgatgtacgatgctgtgtacatggtggccattgcctcgcaccgggcatcccag
+            ctgaccgtcagctccctgcagtgccatagacataagccatggcgcctcggacccagattt
+            atgaacctgatcaaagaggcccggtgggatggcttgactgggcatatcacctttaataaa
+            accaatggcttgaggaaggattttgatctggacattattagtctcaaagaggaaggaact
+            gaaaaggctgctggcgaagtgtctaaacacttgtataaagtgtggaagaagattgggatt
+            tggaattccaacagtgggcttaacatgacggacagcaacaaagacaagtccagcaatatc
+            actgattcattggccaacagaacactcattgtcaccaccattctggaagaaccctatgtt
+            atgtacaggaaatctgataagcctctatatggaaatgacagatttgaaggatattgccta
+            gacctgttgaaagaattgtcaaacatcctgggtttcatttatgatgttaaactagttccc
+            gatggcaaatatggggcccagaatgacaaaggggagtggaacgggatggttaaagaactc
+            atagatcacagggctgacctggcagtggctcctcttaccatcacctacgtgcgggagaaa
+            gtcattgacttctccaaacccttcatgaccctaggcatcagcattctctaccggaagccc
+            aatggtaccaatccaggcgttttctccttcctcaaccccctgtctccagatatttggatg
+            tatgtgctcttagcctgcttgggagtcagctgtgtactctttgtgattgcaaggtttaca
+            ccctacgagtggtataacccccacccatgcaaccctgactcagacgtggtggaaaacaat
+            tttactttactaaatagtttctggtttggagttggagctctcatgcagcaaggatcagag
+            ctgatgcccaaagctctatcgaccagaatagttggagggatatggtggtttttcacccta
+            atcatcatttcatcctacacggccaatctggctgccttcttgacagtagagagaatggaa
+            tcccccatagattcggcagatgatctggcaaagcaaaccaagatagaatatggggcggtt
+            agagatggatcaacaatgaccttcttcaagaaatcaaaaatctccacctatgagaagatg
+            tgggctttcatgagcagcaggcagcagaccgccctggtaagaaacagtgatgaggggatc
+            cagagagtgctcaccacagactacgcgctgctgatggagtccaccagcattgagtatgtg
+            acgcagagaaactgcaacctcactcagatcgggggcctcattgactccaaaggttacgga
+            gtgggaacacctattggttctccttaccgggataaaattactattgctattcttcaactc
+            caagaagaagggaagctgcatatgatgaaagagaagtggtggcgtgggaatggctgcccc
+            gaggaagacaacaaagaagccagtgccctgggagtggaaaatattggaggcatcttcatt
+            gttctggctgccggactggtcctttctgtatttgtagctattggagaattcatatacaaa
+            tcacggaagaataatgatattgaacaggctttttgtttcttttatggactgcaatgtaag
+            caaacccatccaaccaactccacttctggaactactttatctacggatttagaatgtggt
+            aaattaattcgagaggagagagggattcgaaaacagtcctcagttcatactgtgtaa
+///

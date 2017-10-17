@@ -1,0 +1,92 @@
+ENTRY       231               CDS       T01001
+NAME        AKR1B1, ADR, ALDR1, ALR2, AR
+DEFINITION  (RefSeq) aldo-keto reductase family 1 member B
+ORTHOLOGY   K00011  aldehyde reductase [EC:1.1.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00051  Fructose and mannose metabolism
+            hsa00052  Galactose metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+DRUG_TARGET Alrestatin sodium: D02835
+            Epalrestat: D01688
+            Fidarestat: D01842
+            Lidorestat: D03803
+            Minalrestat: D03805
+            Ponalrestat: D03806
+            Ranirestat: D06403
+            Risarestat: D01715
+            Sorbinil: D05893
+            Tolrestat: D02323
+            Zenarestat: D03807
+            Zopolrestat: D02328
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                231 (AKR1B1)
+               00051 Fructose and mannose metabolism
+                231 (AKR1B1)
+               00052 Galactose metabolism
+                231 (AKR1B1)
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                231 (AKR1B1)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                231 (AKR1B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.21  aldehyde reductase
+                 231 (AKR1B1)
+POSITION    7q33
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 231
+            NCBI-ProteinID: NP_001619
+            OMIM: 103880
+            HGNC: 381
+            Ensembl: ENSG00000085662
+            Vega: OTTHUMG00000155322
+            Pharos: P15121(Tclin)
+            UniProt: P15121 A0A024R7A8
+STRUCTURE   PDB: 1US0 4LBS 3BCJ 4LBR 4LB3 4LB4 2QXW 2I16 2I17 2J8T 4LAU
+                 4LAZ 4IGS 2PFH 2PF8 4QXI 4GCA 2PEV 1PWM 3M4H 3LZ5 1Z8A
+                 4PRT 4QBX 3LEP 4XZH 3U2C 3GHR 3GHS 2PZN 2AGT 4PRR 4YU1
+                 3LZ3 1Z3N 4QR6 1T41 4PR4 3ONC 4YS1 3M0I 2FZD 3LBO 3GHT
+                 1PWL 4PUW 4NKC 3LQL 4PUU 3MC5 4Q7B 4RPQ 3GHU 3LEN 4QX4
+                 3LD5 3T42 3M64 1X98 3LQG 1X96 1X97 2PDG 2IKG 1Z89 3ONB
+                 3DN5 2PDH 2PDL 2IKI 2FZ8 2FZB 3Q67 2PDI 2PDK 2PDU 2PDW
+                 2PD9 2NVD 2IKH 2IKJ 2PDF 2PDJ 2HVN 2HV5 2PD5 2PDB 2DUX
+                 2DUZ 2FZ9 2DV0 5HA7 3MB9 2PDP 2PDX 2PDY 2PDC 2NVC 2HVO
+                 1ADS 3P2V 2PDN 2IS7 1EL3 2PDQ 2R24 2PDM 2ACQ 2ACR 2ACS
+                 2ACU 3S3G 3G5E 1T40 1AZ1 1MAR 3V35 3RX2 3RX3 2INE 2F2K
+                 2IQ0 2INZ 4JIR 3V36 3RX4 2ISF 2IQD 2IPW 3Q65 1XGD 1ABN
+                 4XZI 1IEI 1EF3 1AZ2
+AASEQ       316
+            MASRLLLNNGAKMPILGLGTWKSPPGQVTEAVKVAIDVGYRHIDCAHVYQNENEVGVAIQ
+            EKLREQVVKREELFIVSKLWCTYHEKGLVKGACQKTLSDLKLDYLDLYLIHWPTGFKPGK
+            EFFPLDESGNVVPSDTNILDTWAAMEELVDEGLVKAIGISNFNHLQVEMILNKPGLKYKP
+            AVNQIECHPYLTQEKLIQYCQSKGIVVTAYSPLGSPDRPWAKPEDPSLLEDPRIKAIAAK
+            HNKTTAQVLIRFPMQRNLVVIPKSVTPERIAENFKVFDFELSSQDMTTLLSYNRNWRVCA
+            LLSCTSHKDYPFHEEF
+NTSEQ       951
+            atggcaagccgtctcctgctcaacaacggcgccaagatgcccatcctggggttgggtacc
+            tggaagtcccctccagggcaggtgactgaggccgtgaaggtggccattgacgtcgggtac
+            cgccacatcgactgtgcccatgtgtaccagaatgagaatgaggtgggggtggccattcag
+            gagaagctcagggagcaggtggtgaagcgtgaggagctcttcatcgtcagcaagctgtgg
+            tgcacgtaccatgagaagggcctggtgaaaggagcctgccagaagacactcagcgacctg
+            aagctggactacctggacctctaccttattcactggccgactggctttaagcctgggaag
+            gaatttttcccattggatgagtcgggcaatgtggttcccagtgacaccaacattctggac
+            acgtgggcggccatggaagagctggtggatgaagggctggtgaaagctattggcatctcc
+            aacttcaaccatctccaggtggagatgatcttaaacaaacctggcttgaagtataagcct
+            gcagttaaccagattgagtgccacccatatctcactcaggagaagttaatccagtactgc
+            cagtccaaaggcatcgtggtgaccgcctacagccccctcggctctcctgacaggccctgg
+            gccaagcccgaggacccttctctcctggaggatcccaggatcaaggcgatcgcagccaag
+            cacaataaaactacagcccaggtcctgatccggttccccatgcagaggaacttggtggtg
+            atccccaagtctgtgacaccagaacgcattgctgagaactttaaggtctttgactttgaa
+            ctgagcagccaggatatgaccaccttactcagctacaacaggaactggagggtctgtgcc
+            ttgttgagctgtacctcccacaaggattaccccttccatgaagagttttga
+///

@@ -1,0 +1,56 @@
+ENTRY       10201             CDS       T01001
+NAME        NME6, IPIA-ALPHA, NDK_6, NM23-H6
+DEFINITION  (RefSeq) NME/NM23 nucleoside diphosphate kinase 6
+ORTHOLOGY   K00940  nucleoside-diphosphate kinase [EC:2.7.4.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            hsa_M00050  Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                10201 (NME6)
+               00240 Pyrimidine metabolism
+                10201 (NME6)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.6  nucleoside-diphosphate kinase
+                 10201 (NME6)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Kinases and associated proteins
+                10201 (NME6)
+POSITION    3p21.31
+MOTIF       Pfam: NDK
+DBLINKS     NCBI-GeneID: 10201
+            NCBI-ProteinID: NP_001295355
+            OMIM: 608294
+            HGNC: 20567
+            Ensembl: ENSG00000172113
+            Vega: OTTHUMG00000133531
+            Pharos: O75414(Tbio)
+            UniProt: O75414
+AASEQ       186
+            MASILRSPQALQLTLALIKPDAVAHPLILEAVHQQILSNKFLIVRMRELLWRKEDCQRFY
+            REHEGRFFYQRLVEFMASGPIRAYILAHKDAIQLWRTLMGPTRVFRARHVAPDSIRGSFG
+            LTDTRNTTHGSDSVVSASREIAAFFPDFSEQRWYEEEEPQLRCGPVCYSPEGGVHYVAGT
+            GGLGPA
+NTSEQ       561
+            atggcctcaatcttgcgaagccctcaggctctccagctcactctagccctgatcaagcct
+            gacgcagtcgcccatccactgattctggaggctgttcatcagcagattctaagcaacaag
+            ttcctgattgtacgaatgagagaactactgtggagaaaggaagattgccagaggttttac
+            cgagagcatgaagggcgttttttctatcagaggctggtggagttcatggccagcgggcca
+            atccgagcctacatccttgcccacaaggatgccatccagctctggaggacgctcatggga
+            cccaccagagtgttccgagcacgccatgtggccccagattctatccgtgggagtttcggc
+            ctcactgacacccgcaacaccacccatggttcggactctgtggtttcagccagcagagag
+            attgcagccttcttccctgacttcagtgaacagcgctggtatgaggaggaagagccccag
+            ttgcgctgtggccctgtgtgctatagcccagagggaggtgtccactatgtagctggaaca
+            ggaggcctaggaccagcctga
+///

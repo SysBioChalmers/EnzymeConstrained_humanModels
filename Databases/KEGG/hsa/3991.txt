@@ -1,0 +1,120 @@
+ENTRY       3991              CDS       T01001
+NAME        LIPE, AOMS4, FPLD6, HSL, LHS
+DEFINITION  (RefSeq) lipase E, hormone sensitive type
+ORTHOLOGY   K07188  hormone-sensitive lipase [EC:3.1.1.79]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04024  cAMP signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04925  Aldosterone synthesis and secretion
+DISEASE     H00420  Familial partial lipodystrophy (FPL)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                3991 (LIPE)
+               04024 cAMP signaling pathway
+                3991 (LIPE)
+               04152 AMPK signaling pathway
+                3991 (LIPE)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                3991 (LIPE)
+               04923 Regulation of lipolysis in adipocyte
+                3991 (LIPE)
+               04925 Aldosterone synthesis and secretion
+                3991 (LIPE)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.79  hormone-sensitive lipase
+                 3991 (LIPE)
+POSITION    19q13.2
+MOTIF       Pfam: HSL_N Abhydrolase_3 Say1_Mug180 PRP4
+DBLINKS     NCBI-GeneID: 3991
+            NCBI-ProteinID: NP_005348
+            OMIM: 151750
+            HGNC: 6621
+            Ensembl: ENSG00000079435
+            Vega: OTTHUMG00000182814
+            Pharos: Q05469(Tchem)
+            UniProt: Q05469 A8K8W7
+AASEQ       1076
+            MEPGSKSVSRSDWQPEPHQRPITPLEPGPEKTPIAQPESKTLQGSNTQQKPASNQRPLTQ
+            QETPAQHDAESQKEPRAQQKSASQEEFLAPQKPAPQQSPYIQRVLLTQQEAASQQGPGLG
+            KESITQQEPALRQRHVAQPGPGPGEPPPAQQEAESTPAAQAKPGAKREPSAPTESTSQET
+            PEQSDKQTTPVQGAKSKQGSLTELGFLTKLQELSIQRSALEWKALSEWVTDSESESDVGS
+            SSDTDSPATMGGMVAQGVKLGFKGKSGYKVMSGYSGTSPHEKTSARNHRHYQDTASRLIH
+            NMDLRTMTQSLVTLAEDNIAFFSSQGPGETAQRLSGVFAGVREQALGLEPALGRLLGVAH
+            LFDLDPETPANGYRSLVHTARCCLAHLLHKSRYVASNRRSIFFRTSHNLAELEAYLAALT
+            QLRALVYYAQRLLVTNRPGVLFFEGDEGLTADFLREYVTLHKGCFYGRCLGFQFTPAIRP
+            FLQTISIGLVSFGEHYKRNETGLSVAASSLFTSGRFAIDPELRGAEFERITQNLDVHFWK
+            AFWNITEMEVLSSLANMASATVRVSRLLSLPPEAFEMPLTADPTLTVTISPPLAHTGPGP
+            VLVRLISYDLREGQDSEELSSLIKSNGQRSLELWPRPQQAPRSRSLIVHFHGGGFVAQTS
+            RSHEPYLKSWAQELGAPIISIDYSLAPEAPFPRALEECFFAYCWAIKHCALLGSTGERIC
+            LAGDSAGGNLCFTVALRAAAYGVRVPDGIMAAYPATMLQPAASPSRLLSLMDPLLPLSVL
+            SKCVSAYAGAKTEDHSNSDQKALGMMGLVRRDTALLLRDFRLGASSWLNSFLELSGRKSQ
+            KMSEPIAEPMRRSVSEAALAQPQGPLGTDSLKNLTLRDLSLRGNSETSSDTPEMSLSAET
+            LSPSTPSDVNFLLPPEDAGEEAEAKNELSPMDRGLGVRAAFPEGFHPRRSSQGATQMPLY
+            SSPIVKNPFMSPLLAPDSMLKSLPPVHIVACALDPMLDDSVMLARRLRNLGQPVTLRVVE
+            DLPHGFLTLAALCRETRQAAELCVERIRLVLTPPAGAGPSGETGAAGVDGGCGGRH
+NTSEQ       3231
+            atggagccaggttctaagtcagtgtctaggtcagactggcaacctgaaccacaccagagg
+            cctataaccccgctagagcctgggccagaaaagacacccatagcccagccagaatcgaag
+            actctgcagggatccaatacccaacagaagcctgcttcaaaccaaagacccctcacccag
+            caggagacccctgcacaacatgatgctgaatcccagaaggaacctagagcccaacaaaaa
+            tctgcttcacaagaggaatttcttgccccacagaagcccgcaccacagcaatcaccttac
+            atccaaagggtgctgctcactcaacaggaagctgcctcccagcagggacctgggctagga
+            aaagaatctataactcaacaggagccagcattgagacaaagacatgtagcccagccaggg
+            cctgggccaggagagccacctccagctcaacaagaagctgaatcaacacctgcggcccag
+            gctaaacctggagccaaaagggagccatctgccccgactgaatctacgtcccaagagaca
+            cctgaacagtcagacaagcaaacaacgccagtccagggagccaaatccaagcagggatct
+            ttgacagagctgggatttctaacaaaacttcaggaactatccatacagcgatcagcccta
+            gagtggaaggcactttctgagtgggtcacagattctgagtcagaatcagatgtgggatca
+            tcttcagacacagattctccagccacgatgggtggaatggtggcccagggagtgaagcta
+            ggcttcaaaggaaaatctggttataaagtgatgtcaggatacagtgggacgtcgccacat
+            gagaaaaccagtgctcggaatcacagacactaccaggatacagcctcaaggctcatccac
+            aacatggacctgcgcacaatgacacagtcgctggtgactctggcggaggacaacatagcc
+            ttcttctcgagccagggtcctggggaaacggcccagcggctgtcaggcgtttttgccggt
+            gtacgggagcaggcgctggggctggagccggccctgggccgcctgctgggtgtggcgcac
+            ctctttgacctggacccagagacaccggccaacgggtaccgcagcctagtgcacacagcc
+            cgctgctgcctggcgcacctcctgcacaaatcccgctatgtggcctccaaccgccgcagc
+            atcttcttccgcaccagccacaacctggccgagctggaggcctacctggctgccctcacc
+            cagctccgcgctctggtctactacgcccagcgcctgctggttaccaatcggccgggggta
+            ctcttctttgagggcgacgaggggctcaccgccgacttcctccgggagtatgtcacgctg
+            cataagggatgcttctatggccgctgcctgggcttccagttcacgcctgccatccggcca
+            ttcctgcagaccatctccattgggctggtgtccttcggggagcactacaaacgcaacgag
+            acaggcctcagtgtggccgccagctctctcttcaccagcggccgctttgccatcgacccc
+            gagctgcgtggggctgagtttgagcggatcacacagaacctggacgtgcacttctggaaa
+            gccttctggaacatcaccgagatggaagtgctatcgtctctggccaacatggcatcggcc
+            accgtgagggtaagccgcctgctcagcctgccacccgaagcctttgagatgccactgact
+            gccgaccccacgctcacggtcaccatctcacccccactggcccacacaggccctgggccc
+            gtcctcgtcaggctcatctcctatgacctgcgtgaaggacaggacagtgaggagctcagc
+            agcctgataaagtccaacggccaacggagcctggagctgtggccgcgcccccagcaggca
+            ccccgctcgcggtccctgatagtgcacttccacggcggtggctttgtggcccagacctcc
+            agatcccacgagccctacctcaagagctgggcccaggagctgggcgcccccatcatctcc
+            atcgactactccctggcccctgaggcccccttcccccgtgcgctggaggagtgcttcttc
+            gcctactgctgggccatcaagcactgcgccctccttggctcaacaggggaacgaatctgc
+            cttgcgggggacagtgcaggcgggaacctctgcttcaccgtggctcttcgggcagcagcc
+            tacggggtgcgggtgccagatggcatcatggcagcctacccggccacaatgctgcagcct
+            gccgcctctccctcccgcctgctgagcctcatggaccccttgctgcccctcagtgtgctc
+            tccaagtgtgtcagcgcctatgctggtgcaaagacggaggaccactccaactcagaccag
+            aaagccctcggcatgatggggctggtgcggcgggacacagccctgctcctccgagacttc
+            cgcctgggtgcctcctcatggctcaactccttcctggagttaagtgggcgcaagtcccag
+            aagatgtcggagcccatagcagagccgatgcgccgcagtgtgtctgaagcagcactggcc
+            cagccccagggcccactgggcacggattccctcaagaacctgaccctgagggacttgagc
+            ctgaggggaaactccgagacgtcgtcggacacccccgagatgtcgctgtcagctgagaca
+            cttagcccctccacaccctccgatgtcaacttcttattaccacctgaggatgcaggggaa
+            gaggctgaggccaaaaatgagctgagccccatggacagaggcctgggcgtccgtgccgcc
+            ttccccgagggtttccacccccgacgctccagccagggtgccacacagatgcccctctac
+            tcctcacccatagtcaagaaccccttcatgtcgccgctgctggcacccgacagcatgctc
+            aagagcctgccacctgtgcacatcgtggcgtgcgcgctggaccccatgctggacgactcg
+            gtcatgctcgcgcggcgactgcgcaacctgggccagccggtgacgctgcgcgtggtggag
+            gacctgccgcacggcttcctgaccctagcggcgctgtgccgcgagacgcgccaggccgca
+            gagctgtgcgtggagcgcatccgcctcgtcctcactcctcccgccggagccgggccgagc
+            ggggagacgggggctgcgggggtagacgggggctgcggggggcgacactaa
+///

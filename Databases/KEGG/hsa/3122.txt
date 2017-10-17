@@ -1,0 +1,144 @@
+ENTRY       3122              CDS       T01001
+NAME        HLA-DRA, HLA-DRA1
+DEFINITION  (RefSeq) major histocompatibility complex, class II, DR alpha
+ORTHOLOGY   K06752  major histocompatibility complex, class II
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04672  Intestinal immune network for IgA production
+            hsa04940  Type I diabetes mellitus
+            hsa05140  Leishmaniasis
+            hsa05145  Toxoplasmosis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05164  Influenza A
+            hsa05166  HTLV-I infection
+            hsa05168  Herpes simplex infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                3122 (HLA-DRA)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                3122 (HLA-DRA)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3122 (HLA-DRA)
+               04612 Antigen processing and presentation
+                3122 (HLA-DRA)
+               04658 Th1 and Th2 cell differentiation
+                3122 (HLA-DRA)
+               04659 Th17 cell differentiation
+                3122 (HLA-DRA)
+               04672 Intestinal immune network for IgA production
+                3122 (HLA-DRA)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3122 (HLA-DRA)
+               05322 Systemic lupus erythematosus
+                3122 (HLA-DRA)
+               05323 Rheumatoid arthritis
+                3122 (HLA-DRA)
+               05320 Autoimmune thyroid disease
+                3122 (HLA-DRA)
+               05321 Inflammatiory bowel disease (IBD)
+                3122 (HLA-DRA)
+               05330 Allograft rejection
+                3122 (HLA-DRA)
+               05332 Graft-versus-host disease
+                3122 (HLA-DRA)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                3122 (HLA-DRA)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3122 (HLA-DRA)
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                3122 (HLA-DRA)
+               05152 Tuberculosis
+                3122 (HLA-DRA)
+               05166 HTLV-I infection
+                3122 (HLA-DRA)
+               05164 Influenza A
+                3122 (HLA-DRA)
+               05168 Herpes simplex infection
+                3122 (HLA-DRA)
+               05169 Epstein-Barr virus infection
+                3122 (HLA-DRA)
+               05145 Toxoplasmosis
+                3122 (HLA-DRA)
+               05140 Leishmaniasis
+                3122 (HLA-DRA)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3122 (HLA-DRA)
+              Exosomal proteins of epithelial cells
+               3122 (HLA-DRA)
+              Exosomal proteins of breast milk
+               3122 (HLA-DRA)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               Others
+                CD4; CD4 antigen [KO:K06454]
+                 3122 (HLA-DRA)
+                LAG3; lymphocyte-activation gene 3 protein [KO:K06565]
+                 3122 (HLA-DRA)
+POSITION    6p21.32
+MOTIF       Pfam: MHC_II_alpha C1-set Marek_A Ig_3 C2-set_2
+DBLINKS     NCBI-GeneID: 3122
+            NCBI-ProteinID: NP_061984
+            OMIM: 142860
+            HGNC: 4947
+            Ensembl: ENSG00000204287
+            Vega: OTTHUMG00000031269
+            Pharos: P01903(Tbio)
+            UniProt: P01903 A0A0G2JMH6
+STRUCTURE   PDB: 4X5W 4MD5 4MDJ 3C5J 1FV1 1KLU 4MD4 3PDO 5JLZ 4MDI 2G9H
+                 1D5Z 1D5M 5V4M 3S5L 3L6F 1PYW 4I5B 4MD0 4OV5 4H25 4AEN
+                 2Q6W 1SJH 4MCY 3QXD 2XN9 2IPK 1JWU 4AH2 3S4S 1T5W 1KLG
+                 1J8H 4MCZ 2ICW 1SJE 1D6E 1D5X 1AQD 4Y19 4IS6 4H26 1T5X
+                 2SEB 5LAX 4FQX 4E41 1R5I 1JWS 1HXY 1FYT 1BX2 1KG0 3PGC
+                 1JWM 1SEB 3QXA 3PGD 1A6A 3O6F 2IAM 2IAN 1ZGL 1DLH 4C56
+                 4GBX 2WBJ 2OJE 4X5X 1LO5 1HQR 4H1L 5V4N 1YMM 4Y1A 3T0E
+                 1H15
+AASEQ       254
+            MAISGVPVLGFFIIAVLMSAQESWAIKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVD
+            MAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNS
+            PVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLP
+            STEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVVCALGLTVGLVGIIIGTIFIIK
+            GLRKSNAAERRGPL
+NTSEQ       765
+            atggccataagtggagtccctgtgctaggatttttcatcatagctgtgctgatgagcgct
+            caggaatcatgggctatcaaagaagaacatgtgatcatccaggccgagttctatctgaat
+            cctgaccaatcaggcgagtttatgtttgactttgatggtgatgagattttccatgtggat
+            atggcaaagaaggagacggtctggcggcttgaagaatttggacgatttgccagctttgag
+            gctcaaggtgcattggccaacatagctgtggacaaagccaacctggaaatcatgacaaag
+            cgctccaactatactccgatcaccaatgtacctccagaggtaactgtgctcacaaacagc
+            cctgtggaactgagagagcccaacgtcctcatctgtttcatagacaagttcaccccacca
+            gtggtcaatgtcacgtggcttcgaaatggaaaacctgtcaccacaggagtgtcagagaca
+            gtcttcctgcccagggaagaccaccttttccgcaagttccactatctccccttcctgccc
+            tcaactgaggacgtttacgactgcagggtggagcactggggcttggatgagcctcttctc
+            aagcactgggagtttgatgctccaagccctctcccagagactacagagaacgtggtgtgt
+            gccctgggcctgactgtgggtctggtgggcatcattattgggaccatcttcatcatcaag
+            ggattgcgcaaaagcaatgcagcagaacgcagggggcctctgtaa
+///

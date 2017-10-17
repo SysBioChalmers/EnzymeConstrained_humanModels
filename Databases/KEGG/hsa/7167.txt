@@ -1,0 +1,77 @@
+ENTRY       7167              CDS       T01001
+NAME        TPI1, HEL-S-49, TIM, TPI, TPID
+DEFINITION  (RefSeq) triosephosphate isomerase 1
+ORTHOLOGY   K01803  triosephosphate isomerase (TIM) [EC:5.3.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00051  Fructose and mannose metabolism
+            hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+DISEASE     H00664  Anemia due to disorders of glycolytic enzymes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                7167 (TPI1)
+               01230 Biosynthesis of amino acids
+                7167 (TPI1)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                7167 (TPI1)
+               00051 Fructose and mannose metabolism
+                7167 (TPI1)
+               00562 Inositol phosphate metabolism
+                7167 (TPI1)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.1  Interconverting aldoses and ketoses, and related compounds
+                5.3.1.1  triose-phosphate isomerase
+                 7167 (TPI1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of colorectal cancer cells
+               7167 (TPI1)
+              Exosomal proteins of bladder cancer cells
+               7167 (TPI1)
+              Exosomal proteins of melanoma cells
+               7167 (TPI1)
+POSITION    12p13.31
+MOTIF       Pfam: TIM
+DBLINKS     NCBI-GeneID: 7167
+            NCBI-ProteinID: NP_001152759
+            OMIM: 190450
+            HGNC: 12009
+            Ensembl: ENSG00000111669
+            Vega: OTTHUMG00000133767
+            Pharos: P60174(Tbio)
+            UniProt: P60174
+STRUCTURE   PDB: 4UNL 4POC 4ZVJ 2VOM 4BR1 4POD 4UNK 1WYI 1HTI 2JK2
+AASEQ       286
+            MAEDGEEAEFHFAALYISGQWPRLRADTDLQRLGSSAMAPSRKFFVGGNWKMNGRKQSLG
+            ELIGTLNAAKVPADTEVVCAPPTAYIDFARQKLDPKIAVAAQNCYKVTNGAFTGEISPGM
+            IKDCGATWVVLGHSERRHVFGESDELIGQKVAHALAEGLGVIACIGEKLDEREAGITEKV
+            VFEQTKVIADNVKDWSKVVLAYEPVWAIGTGKTATPQQAQEVHEKLRGWLKSNVSDAVAQ
+            STRIIYGGSVTGATCKELASQPDVDGFLVGGASLKPEFVDIINAKQ
+NTSEQ       861
+            atggcggaggacggcgaggaggcggagttccacttcgcggcgctctatataagtgggcag
+            tggccgcgactgcgcgcagacactgaccttcagcgcctcggctccagcgccatggcgccc
+            tccaggaagttcttcgttgggggaaactggaagatgaacgggcggaagcagagtctgggg
+            gagctcatcggcactctgaacgcggccaaggtgccggccgacaccgaggtggtttgtgct
+            ccccctactgcctatatcgacttcgcccggcagaagctagatcccaagattgctgtggct
+            gcgcagaactgctacaaagtgactaatggggcttttactggggagatcagccctggcatg
+            atcaaagactgcggagccacgtgggtggtcctggggcactcagagagaaggcatgtcttt
+            ggggagtcagatgagctgattgggcagaaagtggcccatgctctggcagagggactcgga
+            gtaatcgcctgcattggggagaagctagatgaaagggaagctggcatcactgagaaggtt
+            gttttcgagcagacaaaggtcatcgcagataacgtgaaggactggagcaaggtcgtcctg
+            gcctatgagcctgtgtgggccattggtactggcaagactgcaacaccccaacaggcccag
+            gaagtacacgagaagctccgaggatggctgaagtccaacgtctctgatgcggtggctcag
+            agcacccgtatcatttatggaggctctgtgactggggcaacctgcaaggagctggccagc
+            cagcctgatgtggatggcttccttgtgggtggtgcttccctcaagcccgaattcgtggac
+            atcatcaatgccaaacaatga
+///

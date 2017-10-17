@@ -1,0 +1,109 @@
+ENTRY       1789              CDS       T01001
+NAME        DNMT3B, ICF, ICF1, M.HsaIIIB
+DEFINITION  (RefSeq) DNA methyltransferase 3 beta
+ORTHOLOGY   K17399  DNA (cytosine-5)-methyltransferase 3B [EC:2.1.1.37]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa01100  Metabolic pathways
+            hsa05206  MicroRNAs in cancer
+MODULE      hsa_M00035  Methionine degradation
+DISEASE     H00087  Other humoral immunodeficiencies
+DRUG_TARGET Azacitidine: D03021
+            Decitabine: D03665
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                1789 (DNMT3B)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                1789 (DNMT3B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.37  DNA (cytosine-5-)-methyltransferase
+                 1789 (DNMT3B)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               DNA methylation enzymes
+                1789 (DNMT3B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Heterochromatin formation proteins
+               Other heterochromatin formation proteins
+                1789 (DNMT3B)
+POSITION    20q11.21
+MOTIF       Pfam: DNA_methylase PWWP
+DBLINKS     NCBI-GeneID: 1789
+            NCBI-ProteinID: NP_008823
+            OMIM: 602900
+            HGNC: 2979
+            Ensembl: ENSG00000088305
+            Vega: OTTHUMG00000032226
+            Pharos: Q9UBC3(Tchem)
+            UniProt: Q9UBC3
+STRUCTURE   PDB: 3FLG 3QKJ 5CIU
+AASEQ       853
+            MKGDTRHLNGEEDAGGREDSILVNGACSDQSSDSPPILEAIRTPEIRGRRSSSRLSKREV
+            SSLLSYTQDLTGDGDGEDGDGSDTPVMPKLFRETRTRSESPAVRTRNNNSVSSRERHRPS
+            PRSTRGRQGRNHVDESPVEFPATRSLRRRATASAGTPWPSPPSSYLTIDLTDDTEDTHGT
+            PQSSSTPYARLAQDSQQGGMESPQVEADSGDGDSSEYQDGKEFGIGDLVWGKIKGFSWWP
+            AMVVSWKATSKRQAMSGMRWVQWFGDGKFSEVSADKLVALGLFSQHFNLATFNKLVSYRK
+            AMYHALEKARVRAGKTFPSSPGDSLEDQLKPMLEWAHGGFKPTGIEGLKPNNTQPVVNKS
+            KVRRAGSRKLESRKYENKTRRRTADDSATSDYCPAPKRLKTNCYNNGKDRGDEDQSREQM
+            ASDVANNKSSLEDGCLSCGRKNPVSFHPLFEGGLCQTCRDRFLELFYMYDDDGYQSYCTV
+            CCEGRELLLCSNTSCCRCFCVECLEVLVGTGTAAEAKLQEPWSCYMCLPQRCHGVLRRRK
+            DWNVRLQAFFTSDTGLEYEAPKLYPAIPAARRRPIRVLSLFDGIATGYLVLKELGIKVGK
+            YVASEVCEESIAVGTVKHEGNIKYVNDVRNITKKNIEEWGPFDLVIGGSPCNDLSNVNPA
+            RKGLYEGTGRLFFEFYHLLNYSRPKEGDDRPFFWMFENVVAMKVGDKRDISRFLECNPVM
+            IDAIKVSAAHRARYFWGNLPGMNRPVIASKNDKLELQDCLEYNRIAKLKKVQTITTKSNS
+            IKQGKNQLFPVVMNGKEDVLWCTELERIFGFPVHYTDVSNMGRGARQKLLGRSWSVPVIR
+            HLFAPLKDYFACE
+NTSEQ       2562
+            atgaagggagacaccaggcatctcaatggagaggaggacgccggcgggagggaagactcg
+            atcctcgtcaacggggcctgcagcgaccagtcctccgactcgcccccaatcctggaggct
+            atccgcaccccggagatcagaggccgaagatcaagctcgcgactctccaagagggaggtg
+            tccagtctgctaagctacacacaggacttgacaggcgatggcgacggggaagatggggat
+            ggctctgacaccccagtcatgccaaagctcttccgggaaaccaggactcgttcagaaagc
+            ccagctgtccgaactcgaaataacaacagtgtctccagccgggagaggcacaggccttcc
+            ccacgttccacccgaggccggcagggccgcaaccatgtggacgagtcccccgtggagttc
+            ccggctaccaggtccctgagacggcgggcaacagcatcggcaggaacgccatggccgtcc
+            cctcccagctcttaccttaccatcgacctcacagacgacacagaggacacacatgggacg
+            ccccagagcagcagtaccccctacgcccgcctagcccaggacagccagcaggggggcatg
+            gagtccccgcaggtggaggcagacagtggagatggagacagttcagagtatcaggatggg
+            aaggagtttggaataggggacctcgtgtggggaaagatcaagggcttctcctggtggccc
+            gccatggtggtgtcttggaaggccacctccaagcgacaggctatgtctggcatgcggtgg
+            gtccagtggtttggcgatggcaagttctccgaggtctctgcagacaaactggtggcactg
+            gggctgttcagccagcactttaatttggccaccttcaataagctcgtctcctatcgaaaa
+            gccatgtaccatgctctggagaaagctagggtgcgagctggcaagaccttccccagcagc
+            cctggagactcattggaggaccagctgaagcccatgttggagtgggcccacgggggcttc
+            aagcccactgggatcgagggcctcaaacccaacaacacgcaaccagtggttaataagtcg
+            aaggtgcgtcgtgcaggcagtaggaaattagaatcaaggaaatacgagaacaagactcga
+            agacgcacagctgacgactcagccacctctgactactgccccgcacccaagcgcctcaag
+            acaaattgctataacaacggcaaagaccgaggggatgaagatcagagccgagaacaaatg
+            gcttcagatgttgccaacaacaagagcagcctggaagatggctgtttgtcttgtggcagg
+            aaaaaccccgtgtccttccaccctctctttgagggggggctctgtcagacatgccgggat
+            cgcttccttgagctgttttacatgtatgatgacgatggctatcagtcttactgcactgtg
+            tgctgcgagggccgagagctgctgctttgcagcaacacgagctgctgccggtgtttctgt
+            gtggagtgcctggaggtgctggtgggcacaggcacagcggccgaggccaagcttcaggag
+            ccctggagctgttacatgtgtctcccgcagcgctgtcatggcgtcctgcggcgccggaag
+            gactggaacgtgcgcctgcaggccttcttcaccagtgacacggggcttgaatatgaagcc
+            cccaagctgtaccctgccattcccgcagcccgaaggcggcccattcgagtcctgtcattg
+            tttgatggcatcgcgacaggctacctagtcctcaaagagttgggcataaaggtaggaaag
+            tacgtcgcttctgaagtgtgtgaggagtccattgctgttggaaccgtgaagcacgagggg
+            aatatcaaatacgtgaacgacgtgaggaacatcacaaagaaaaatattgaagaatggggc
+            ccatttgacttggtgattggcggaagcccatgcaacgatctctcaaatgtgaatccagcc
+            aggaaaggcctgtatgagggtacaggccggctcttcttcgaattttaccacctgctgaat
+            tactcacgccccaaggagggtgatgaccggccgttcttctggatgtttgagaatgttgta
+            gccatgaaggttggcgacaagagggacatctcacggttcctggagtgtaatccagtgatg
+            attgatgccatcaaagtttctgctgctcacagggcccgatacttctggggcaacctaccc
+            gggatgaacaggcccgtgatagcatcaaagaatgataaactcgagctgcaggactgcttg
+            gaatacaataggatagccaagttaaagaaagtacagacaataaccaccaagtcgaactcg
+            atcaaacaggggaaaaaccaacttttccctgttgtcatgaatggcaaagaagatgttttg
+            tggtgcactgagctcgaaaggatctttggctttcctgtgcactacacagacgtgtccaac
+            atgggccgtggtgcccgccagaagctgctgggaaggtcctggagcgtgcctgtcatccga
+            cacctcttcgcccctctgaaggactactttgcatgtgaatag
+///

@@ -1,0 +1,71 @@
+ENTRY       2940              CDS       T01001
+NAME        GSTA3, GSTA3-3, GTA3
+DEFINITION  (RefSeq) glutathione S-transferase alpha 3
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00480  Glutathione metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01524  Platinum drug resistance
+            hsa05204  Chemical carcinogenesis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2940 (GSTA3)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                2940 (GSTA3)
+               00982 Drug metabolism - cytochrome P450
+                2940 (GSTA3)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                2940 (GSTA3)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                2940 (GSTA3)
+              Drug resistance
+               01524 Platinum drug resistance
+                2940 (GSTA3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 2940 (GSTA3)
+            Transporters [BR:hsa02000]
+             Other Transporters
+              Pores ion channels [TC:1]
+               2940 (GSTA3)
+POSITION    6p12.2
+MOTIF       Pfam: GST_C_3 GST_N GST_C DUF3825 GST_N_3
+DBLINKS     NCBI-GeneID: 2940
+            NCBI-ProteinID: NP_000838
+            OMIM: 605449
+            HGNC: 4628
+            Ensembl: ENSG00000174156
+            Vega: OTTHUMG00000014865
+            Pharos: Q16772(Tbio)
+            UniProt: Q16772
+STRUCTURE   PDB: 2VCV 1TDI
+AASEQ       222
+            MAGKPKLHYFNGRGRMEPIRWLLAAAGVEFEEKFIGSAEDLGKLRNDGSLMFQQVPMVEI
+            DGMKLVQTRAILNYIASKYNLYGKDIKERALIDMYTEGMADLNEMILLLPLCRPEEKDAK
+            IALIKEKTKSRYFPAFEKVLQSHGQDYLVGNKLSRADISLVELLYYVEELDSSLISNFPL
+            LKALKTRISNLPTVKKFLQPGSPRKPPADAKALEEARKIFRF
+NTSEQ       669
+            atggcagggaagcccaagcttcactacttcaatggacggggcagaatggagcccatccgg
+            tggctcttggctgcagctggagtggagtttgaagagaaatttataggatctgcagaagat
+            ttgggaaagttaagaaatgatgggagtttgatgttccagcaagtaccaatggttgagatt
+            gatgggatgaagttggtacagaccagagccattctcaactacattgccagcaaatacaac
+            ctctacgggaaagacataaaggagagagccctaattgatatgtatacagaaggtatggca
+            gatttgaatgaaatgatccttcttctgcccttatgtcgacctgaggaaaaagatgccaag
+            attgccttgatcaaagagaaaacaaaaagtcgctatttccctgccttcgaaaaagtgtta
+            cagagccatggacaagactaccttgttggcaacaagctgagccgggctgacattagcctg
+            gtggaacttctctactatgtggaagagcttgactccagccttatctccaacttccctctg
+            ctgaaggccctgaaaaccagaatcagcaacctgcccacggtgaagaagtttctacagcct
+            ggcagcccaaggaagcctcccgcagatgcaaaagctttagaagaagccagaaagattttc
+            aggttttaa
+///

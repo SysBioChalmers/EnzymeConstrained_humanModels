@@ -1,0 +1,48 @@
+ENTRY       50808             CDS       T01001
+NAME        AK3, AK3L1, AK6, AKL3L, AKL3L1, FIX
+DEFINITION  (RefSeq) adenylate kinase 3
+ORTHOLOGY   K00944  nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                50808 (AK3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.10  nucleoside-triphosphate---adenylate kinase
+                 50808 (AK3)
+POSITION    9p24.1
+MOTIF       Pfam: ADK AAA_17 ADK_lid AAA_18 AAA_33 Cytidylate_kin Leuk-A4-hydro_C
+DBLINKS     NCBI-GeneID: 50808
+            NCBI-ProteinID: NP_057366
+            OMIM: 609290
+            HGNC: 17376
+            Ensembl: ENSG00000147853
+            Vega: OTTHUMG00000019472
+            Pharos: Q9UIJ7(Tbio)
+            UniProt: Q9UIJ7 Q7Z4Y4
+STRUCTURE   PDB: 1ZD8
+AASEQ       227
+            MGASARLLRAVIMGAPGSGKGTVSSRITTHFELKHLSSGDLLRDNMLRGTEIGVLAKAFI
+            DQGKLIPDDVMTRLALHELKNLTQYSWLLDGFPRTLPQAEALDRAYQIDTVINLNVPFEV
+            IKQRLTARWIHPASGRVYNIEFNPPKTVGIDDLTGEPLIQREDDKPETVIKRLKAYEDQT
+            KPVLEYYQKKGVLETFSGTETNKIWPYVYAFLQTKVPQRSQKASVTP
+NTSEQ       684
+            atgggggcgtccgcgcggctgctgcgagcggtgatcatgggggccccgggctcgggcaag
+            ggcaccgtgtcgtcgcgcatcactacacacttcgagctgaagcacctctccagcggggac
+            ctgctccgggacaacatgctgcggggcacagaaattggcgtgttagccaaggctttcatt
+            gaccaagggaaactcatcccagatgatgtcatgactcggctggcccttcatgagctgaaa
+            aatctcacccagtatagctggctgttggatggttttccaaggacacttccacaggcagaa
+            gccctagatagagcttatcagatcgacacagtgattaacctgaatgtgccctttgaggtc
+            attaaacaacgccttactgctcgctggattcatcccgccagtggccgagtctataacatt
+            gaattcaaccctcccaaaactgtgggcattgatgacctgactggggagcctctcattcag
+            cgtgaggatgataaaccagagacggttatcaagagactaaaggcttatgaagaccaaaca
+            aagccagtcctggaatattaccagaaaaaaggggtgctggaaacattctccggaacagaa
+            accaacaagatttggccctatgtatatgctttcctacaaactaaagttccacaaagaagc
+            cagaaagcttcagttactccatga
+///

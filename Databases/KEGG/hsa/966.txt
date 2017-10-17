@@ -1,0 +1,60 @@
+ENTRY       966               CDS       T01001
+NAME        CD59, 16.3A5, 1F5, EJ16, EJ30, EL32, G344, HRF-20, HRF20, MAC-IP, MACIF, MEM43, MIC11, MIN1, MIN2, MIN3, MIRL, MSK21, p18-20
+DEFINITION  (RefSeq) CD59 molecule (CD59 blood group)
+ORTHOLOGY   K04008  CD59 antigen
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04610  Complement and coagulation cascades
+            hsa04640  Hematopoietic cell lineage
+DISEASE     H00106  Complement regulatory protein defects
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                966 (CD59)
+               04610 Complement and coagulation cascades
+                966 (CD59)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               966 (CD59)
+              Exosomal proteins of other body fluids (saliva and urine)
+               966 (CD59)
+              Exosomal proteins of colorectal cancer cells
+               966 (CD59)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               CD2 family
+                CD2; CD2 antigen [KO:K06449]
+                 966 (CD59)
+            CD molecules [BR:hsa04090]
+             Proteins
+              966 (CD59)
+            Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:hsa00537]
+             Antigens
+              966 (CD59)
+POSITION    11p13
+MOTIF       Pfam: UPAR_LY6
+DBLINKS     NCBI-GeneID: 966
+            NCBI-ProteinID: NP_000602
+            OMIM: 107271
+            HGNC: 1689
+            Ensembl: ENSG00000085063
+            Vega: OTTHUMG00000166270
+            Pharos: P13987(Tbio)
+            UniProt: P13987 Q6FHM9
+STRUCTURE   PDB: 2J8B 2UWR 2UX2 2OFS 5IMY 5IMT 4BIK 1CDQ 1CDR 1CDS 1ERG
+                 1ERH
+AASEQ       128
+            MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQV
+            YNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFL
+            AAAWSLHP
+NTSEQ       387
+            atgggaatccaaggagggtctgtcctgttcgggctgctgctcgtcctggctgtcttctgc
+            cattcaggtcatagcctgcagtgctacaactgtcctaacccaactgctgactgcaaaaca
+            gccgtcaattgttcatctgattttgatgcgtgtctcattaccaaagctgggttacaagtg
+            tataacaagtgttggaagtttgagcattgcaatttcaacgacgtcacaacccgcttgagg
+            gaaaatgagctaacgtactactgctgcaagaaggacctgtgtaactttaacgaacagctt
+            gaaaatggtgggacatccttatcagagaaaacagttcttctgctggtgactccatttctg
+            gcagcagcctggagccttcatccctaa
+///

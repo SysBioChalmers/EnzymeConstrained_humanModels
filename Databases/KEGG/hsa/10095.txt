@@ -1,0 +1,84 @@
+ENTRY       10095             CDS       T01001
+NAME        ARPC1B, ARC41, p40-ARC, p41-ARC
+DEFINITION  (RefSeq) actin related protein 2/3 complex subunit 1B
+ORTHOLOGY   K05757  actin related protein 2/3 complex, subunit 1A/1B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                10095 (ARPC1B)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                10095 (ARPC1B)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                10095 (ARPC1B)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                10095 (ARPC1B)
+               05132 Salmonella infection
+                10095 (ARPC1B)
+               05131 Shigellosis
+                10095 (ARPC1B)
+               05100 Bacterial invasion of epithelial cells
+                10095 (ARPC1B)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Actin-binding proteins
+               Arp2/3 complex
+                10095 (ARPC1B)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Arp2/3 complex
+                 10095 (ARPC1B)
+POSITION    7q22.1
+MOTIF       Pfam: WD40 ANAPC4_WD40 eIF2A
+DBLINKS     NCBI-GeneID: 10095
+            NCBI-ProteinID: NP_005711
+            OMIM: 604223
+            HGNC: 704
+            Ensembl: ENSG00000130429
+            Vega: OTTHUMG00000154552
+            Pharos: O15143(Tbio)
+            UniProt: O15143 A4D275
+AASEQ       372
+            MAYHSFLVEPISCHAWNKDRTQIAICPNNHEVHIYEKSGAKWTKVHELKEHNGQVTGIDW
+            APESNRIVTCGTDRNAYVWTLKGRTWKPTLVILRINRAARCVRWAPNENKFAVGSGSRVI
+            SICYFEQENDWWVCKHIKKPIRSTVLSLDWHPNNVLLAAGSCDFKCRIFSAYIKEVEERP
+            APTPWGSKMPFGELMFESSSSCGWVHGVCFSASGSRVAWVSHDSTVCLADADKKMAVATL
+            ASETLPLLALTFITDNSLVAAGHDCFPVLFTYDAAAGMLSFGGRLDVPKQSSQRGLTARE
+            RFQNLDKKASSEGGTAAGAGLDSLHKNSVSQISVLSGGKAKCSQFCTTGMDGGMSIWDVK
+            SLESALKDLKIK
+NTSEQ       1119
+            atggcctaccacagcttcctggtggagcccatcagctgccacgcctggaacaaggaccgc
+            acccagattgccatctgccccaacaaccatgaggtgcatatctatgaaaagagcggtgcc
+            aaatggaccaaggtgcacgagctcaaggagcacaacgggcaggtgacaggcatcgactgg
+            gcccccgagagtaaccgtattgtgacctgcggcacagaccgcaacgcctacgtgtggacg
+            ctgaagggccgcacatggaagcccacgctggtcatcctgcggatcaaccgggctgcccgc
+            tgcgtgcgctgggcccccaacgagaacaagtttgctgtgggcagcggctctcgtgtgatc
+            tccatctgttatttcgagcaggagaatgactggtgggtttgcaagcacatcaagaagccc
+            atccgctccaccgtcctcagcctggactggcaccccaacaatgtgctgctggctgccggc
+            tcctgtgacttcaagtgtcggatcttttcagcctacatcaaggaggtggaggaacggccg
+            gcacccaccccgtggggctccaagatgccctttggggaactgatgttcgaatccagcagt
+            agctgcggctgggtacatggcgtctgtttctcagccagcgggagccgcgtggcctgggta
+            agccacgacagcaccgtctgcctggctgatgccgacaagaagatggccgtcgcgactctg
+            gcctctgaaacactaccactgctggcgctgaccttcatcacagacaacagcctggtggca
+            gcgggccacgactgcttcccggtgctgttcacctatgacgccgccgcggggatgctgagc
+            ttcggcgggcggctggacgttcctaagcagagctcgcagcgtggcttgacggcccgcgag
+            cgcttccagaacctggacaagaaggcgagctccgagggtggcacggctgcgggcgcgggc
+            ctagactcgctgcacaagaacagcgtcagccagatctcggtgctcagcggcggcaaggcc
+            aagtgctcgcagttctgcaccactggcatggatggcggcatgagtatctgggatgtgaag
+            agcttggagtcagccttgaaggacctcaagatcaaatga
+///

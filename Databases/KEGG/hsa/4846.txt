@@ -1,0 +1,171 @@
+ENTRY       4846              CDS       T01001
+NAME        NOS3, ECNOS, eNOS
+DEFINITION  (RefSeq) nitric oxide synthase 3
+ORTHOLOGY   K13242  nitric-oxide synthase, endothelial [EC:1.14.13.39]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00330  Arginine and proline metabolism
+            hsa01100  Metabolic pathways
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04611  Platelet activation
+            hsa04915  Estrogen signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa04931  Insulin resistance
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H01529  Avascular necrosis of femoral head
+DRUG_TARGET Pimagedine hydrochloride: D05479
+            Tilarginine acetate: D09018
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00220 Arginine biosynthesis
+                4846 (NOS3)
+               00330 Arginine and proline metabolism
+                4846 (NOS3)
+             Environmental Information Processing
+              Signal transduction
+               04370 VEGF signaling pathway
+                4846 (NOS3)
+               04371 Apelin signaling pathway
+                4846 (NOS3)
+               04066 HIF-1 signaling pathway
+                4846 (NOS3)
+               04020 Calcium signaling pathway
+                4846 (NOS3)
+               04071 Sphingolipid signaling pathway
+                4846 (NOS3)
+               04022 cGMP - PKG signaling pathway
+                4846 (NOS3)
+               04151 PI3K-Akt signaling pathway
+                4846 (NOS3)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                4846 (NOS3)
+              Endocrine system
+               04915 Estrogen signaling pathway
+                4846 (NOS3)
+               04921 Oxytocin signaling pathway
+                4846 (NOS3)
+               04926 Relaxin signaling pathway
+                4846 (NOS3)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                4846 (NOS3)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                4846 (NOS3)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                4846 (NOS3)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.39  nitric-oxide synthase (NADPH)
+                 4846 (NOS3)
+POSITION    7q36.1
+MOTIF       Pfam: NO_synthase FAD_binding_1 Flavodoxin_1 NAD_binding_1 HTH_15
+DBLINKS     NCBI-GeneID: 4846
+            NCBI-ProteinID: NP_000594
+            OMIM: 163729
+            HGNC: 7876
+            Ensembl: ENSG00000164867
+            Vega: OTTHUMG00000158343
+            Pharos: P29474(Tchem)
+            UniProt: P29474
+STRUCTURE   PDB: 4D1P 4D1O 1M9M 1M9K 1M9Q 5VVB 5UO8 5UO9 5UOA 5UOC 5VVD
+                 5UOB 5VVC 3NOS 1M9J 3EAH 1M9R 2N8J
+AASEQ       1203
+            MGNLKSVAQEPGPPCGLGLGLGLGLCGKQGPATPAPEPSRAPASLLPPAPEHSPPSSPLT
+            QPPEGPKFPRVKNWEVGSITYDTLSAQAQQDGPCTPRRCLGSLVFPRKLQGRPSPGPPAP
+            EQLLSQARDFINQYYSSIKRSGSQAHEQRLQEVEAEVAATGTYQLRESELVFGAKQAWRN
+            APRCVGRIQWGKLQVFDARDCRSAQEMFTYICNHIKYATNRGNLRSAITVFPQRCPGRGD
+            FRIWNSQLVRYAGYRQQDGSVRGDPANVEITELCIQHGWTPGNGRFDVLPLLLQAPDDPP
+            ELFLLPPELVLEVPLEHPTLEWFAALGLRWYALPAVSNMLLEIGGLEFPAAPFSGWYMST
+            EIGTRNLCDPHRYNILEDVAVCMDLDTRTTSSLWKDKAAVEINVAVLHSYQLAKVTIVDH
+            HAATASFMKHLENEQKARGGCPADWAWIVPPISGSLTPVFHQEMVNYFLSPAFRYQPDPW
+            KGSAAKGTGITRKKTFKEVANAVKISASLMGTVMAKRVKATILYGSETGRAQSYAQQLGR
+            LFRKAFDPRVLCMDEYDVVSLEHETLVLVVTSTFGNGDPPENGESFAAALMEMSGPYNSS
+            PRPEQHKSYKIRFNSISCSDPLVSSWRRKRKESSNTDSAGALGTLRFCVFGLGSRAYPHF
+            CAFARAVDTRLEELGGERLLQLGQGDELCGQEEAFRGWAQAAFQAACETFCVGEDAKAAA
+            RDIFSPKRSWKRQRYRLSAQAEGLQLLPGLIHVHRRKMFQATIRSVENLQSSKSTRATIL
+            VRLDTGGQEGLQYQPGDHIGVCPPNRPGLVEALLSRVEDPPAPTEPVAVEQLEKGSPGGP
+            PPGWVRDPRLPPCTLRQALTFFLDITSPPSPQLLRLLSTLAEEPREQQELEALSQDPRRY
+            EEWKWFRCPTLLEVLEQFPSVALPAPLLLTQLPLLQPRYYSVSSAPSTHPGEIHLTVAVL
+            AYRTQDGLGPLHYGVCSTWLSQLKPGDPVPCFIRGAPSFRLPPDPSLPCILVGPGTGIAP
+            FRGFWQERLHDIESKGLQPTPMTLVFGCRCSQLDHLYRDEVQNAQQRGVFGRVLTAFSRE
+            PDNPKTYVQDILRTELAAEVHRVLCLERGHMFVCGDVTMATNVLQTVQRILATEGDMELD
+            EAGDVIGVLRDQQRYHEDIFGLTLRTQEVTSRIRTQSFSLQERQLRGAVPWAFDPPGSDT
+            NSP
+NTSEQ       3612
+            atgggcaacttgaagagcgtggcccaggagcctgggccaccctgcggcctggggctgggg
+            ctgggccttgggctgtgcggcaagcagggcccagccaccccggcccctgagcccagccgg
+            gccccagcatccctactcccaccagcgccagaacacagccccccgagctccccgctaacc
+            cagcccccagaggggcccaagttccctcgtgtgaagaactgggaggtggggagcatcacc
+            tatgacaccctcagcgcccaggcgcagcaggatgggccctgcaccccaagacgctgcctg
+            ggctccctggtatttccacggaaactacagggccggccctcccccggccccccggcccct
+            gagcagctgctgagtcaggcccgggacttcatcaaccagtactacagctccattaagagg
+            agcggctcccaggcccacgaacagcggcttcaagaggtggaagccgaggtggcagccaca
+            ggcacctaccagcttagggagagcgagctggtgttcggggctaagcaggcctggcgcaac
+            gctccccgctgcgtgggccggatccagtgggggaagctgcaggtgttcgatgcccgggac
+            tgcaggtctgcacaggaaatgttcacctacatctgcaaccacatcaagtatgccaccaac
+            cggggcaaccttcgctcggccatcacagtgttcccgcagcgctgccctggccgaggagac
+            ttccgaatctggaacagccagctggtgcgctacgcgggctaccggcagcaggatggctct
+            gtgcggggggacccagccaacgtggagatcaccgagctctgcattcagcacggctggacc
+            ccaggaaacggtcgcttcgacgtgctgcccctgctgctgcaggccccagatgatccccca
+            gaactcttccttctgccccccgagctggtccttgaggtgcccctggagcaccccacgctg
+            gagtggtttgcagccctgggcctgcgctggtacgccctcccggcagtgtccaacatgctg
+            ctggaaattgggggcctggagttccccgcagcccccttcagtggctggtacatgagcact
+            gagatcggcacgaggaacctgtgtgaccctcaccgctacaacatcctggaggatgtggct
+            gtctgcatggacctggatacccggaccacctcgtccctgtggaaagacaaggcagcagtg
+            gaaatcaacgtggccgtgctgcacagttaccagctagccaaagtcaccatcgtggaccac
+            cacgccgccacggcctctttcatgaagcacctggagaatgagcagaaggccagggggggc
+            tgccctgcagactgggcctggatcgtgccccccatctcgggcagcctcactcctgttttc
+            catcaggagatggtcaactatttcctgtccccggccttccgctaccagccagacccctgg
+            aaggggagtgccgccaagggcaccggcatcaccaggaagaagacctttaaagaagtggcc
+            aacgccgtgaagatctccgcctcgctcatgggcacggtgatggcgaagcgagtgaaggcg
+            acaatcctgtatggctccgagaccggccgggcccagagctacgcacagcagctggggaga
+            ctcttccggaaggcttttgatccccgggtcctgtgtatggatgagtatgacgtggtgtcc
+            ctcgaacacgagacgctggtgctggtggtaaccagcacatttgggaatggggatcccccg
+            gagaatggagagagctttgcagctgccctgatggagatgtccggcccctacaacagctcc
+            cctcggccggaacagcacaagagttataagatccgcttcaacagcatctcctgctcagac
+            ccactggtgtcctcttggcggcggaagaggaaggagtccagtaacacagacagtgcaggg
+            gccctgggcaccctcaggttctgtgtgttcgggctcggctcccgggcatacccccacttc
+            tgcgcctttgctcgtgccgtggacacacggctggaggaactgggcggggagcggctgctg
+            cagctgggccagggcgacgagctgtgcggccaggaggaggccttccgaggctgggcccag
+            gctgccttccaggccgcctgtgagaccttctgtgtgggagaggatgccaaggccgccgcc
+            cgagacatcttcagccccaaacggagctggaagcgccagaggtaccggctgagcgcccag
+            gccgagggcctgcagttgctgccaggtctgatccacgtgcacaggcggaagatgttccag
+            gctacaatccgctcagtggaaaacctgcaaagcagcaagtccacgagggccaccatcctg
+            gtgcgcctggacaccggaggccaggaggggctgcagtaccagccgggggaccacataggt
+            gtctgcccgcccaaccggcccggccttgtggaggcgctgctgagccgcgtggaggacccg
+            ccggcgcccactgagcccgtggcagtagagcagctggagaagggcagccctggtggccct
+            ccccccggctgggtgcgggacccccggctgcccccgtgcacgctgcgccaggctctcacc
+            ttcttcctggacatcacctccccacccagccctcagctcttgcggctgctcagcaccttg
+            gcagaagagcccagggaacagcaggagctggaggccctcagccaggatccccgacgctac
+            gaggagtggaagtggttccgctgccccacgctgctggaggtgctggagcagttcccgtcg
+            gtggcgctgcctgccccactgctcctcacccagctgcctctgctccagccccggtactac
+            tcagtcagctcggcacccagcacccacccaggagagatccacctcactgtagctgtgctg
+            gcatacaggactcaggatgggctgggccccctgcactatggagtctgctccacgtggcta
+            agccagctcaagcccggagaccctgtgccctgcttcatccggggggctccctccttccgg
+            ctgccacccgatcccagcttgccctgcatcctggtgggtccaggcactggcattgccccc
+            ttccggggattctggcaggagcggctgcatgacattgagagcaaagggctgcagcccact
+            cccatgactttggtgttcggctgccgatgctcccaacttgaccatctctaccgcgacgag
+            gtgcagaacgcccagcagcgcggggtgtttggccgagtcctcaccgccttctcccgggaa
+            cctgacaaccccaagacctacgtgcaggacatcctgaggacggagctggctgcggaggtg
+            caccgcgtgctgtgcctcgagcggggccacatgtttgtctgcggcgatgttaccatggca
+            accaacgtcctgcagaccgtgcagcgcatcctggcgacggagggcgacatggagctggac
+            gaggccggcgacgtcatcggcgtgctgcgggatcagcaacgctaccacgaagacattttc
+            gggctcacgctgcgcacccaggaggtgacaagccgcatacgcacccagagcttttccttg
+            caggagcgtcagttgcggggcgcagtgccctgggcgttcgaccctcccggctcagacacc
+            aacagcccctga
+///

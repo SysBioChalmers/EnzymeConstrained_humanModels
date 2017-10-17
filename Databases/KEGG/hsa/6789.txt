@@ -1,0 +1,77 @@
+ENTRY       6789              CDS       T01001
+NAME        STK4, KRS2, MST1, YSK3
+DEFINITION  (RefSeq) serine/threonine kinase 4
+ORTHOLOGY   K04411  serine/threonine kinase 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa05200  Pathways in cancer
+            hsa05223  Non-small cell lung cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                6789 (STK4)
+               04010 MAPK signaling pathway
+                6789 (STK4)
+               04068 FoxO signaling pathway
+                6789 (STK4)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6789 (STK4)
+               05223 Non-small cell lung cancer
+                6789 (STK4)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: STE group
+              STE20 family
+               6789 (STK4)
+POSITION    20q13.12
+MOTIF       Pfam: Pkinase Pkinase_Tyr Mst1_SARAH Haspin_kinase Abi_2 DUF4611
+DBLINKS     NCBI-GeneID: 6789
+            NCBI-ProteinID: NP_006273
+            OMIM: 604965
+            HGNC: 11408
+            Ensembl: ENSG00000101109
+            Vega: OTTHUMG00000033059
+            Pharos: Q13043(Tchem)
+            UniProt: Q13043
+STRUCTURE   PDB: 4NR2 3COM 4OH8 2JO8
+AASEQ       487
+            METVQLRNPPRRQLKKLDEDSLTKQPEEVFDVLEKLGEGSYGSVYKAIHKETGQIVAIKQ
+            VPVESDLQEIIKEISIMQQCDSPHVVKYYGSYFKNTDLWIVMEYCGAGSVSDIIRLRNKT
+            LTEDEIATILQSTLKGLEYLHFMRKIHRDIKAGNILLNTEGHAKLADFGVAGQLTDTMAK
+            RNTVIGTPFWMAPEVIQEIGYNCVADIWSLGITAIEMAEGKPPYADIHPMRAIFMIPTNP
+            PPTFRKPELWSDNFTDFVKQCLVKSPEQRATATQLLQHPFVRSAKGVSILRDLINEAMDV
+            KLKRQESQQREVDQDDEENSEEDEMDSGTMVRAVGDEMGTVRVASTMTDGANTMIEHDDT
+            LPSQLGTMVINAEDEEEEGTMKRRDETMQPAKPSFLEYFEQKEKENQINSFGKSVPGPLK
+            NSSDWKIPQDGDYEFLKSWTVEDLQKRLLALDPMMEQEIEEIRQKYQSKRQPILDAIEAK
+            KRRQQNF
+NTSEQ       1464
+            atggagacggtacagctgaggaacccgccgcgccggcagctgaaaaagttggatgaagat
+            agtttaaccaaacaaccagaagaagtatttgatgtcttagagaaacttggagaagggtcc
+            tatggcagcgtatacaaagctattcataaagagaccggccagattgttgctattaagcaa
+            gttcctgtggaatcagacctccaggagataatcaaagaaatctctataatgcagcaatgt
+            gacagccctcatgtagtcaaatattatggcagttattttaagaacacagacttatggatc
+            gttatggagtactgtggggctggttctgtatctgatatcattcgattacgaaataaaacg
+            ttaacagaagatgaaatagctacaatattacaatcaactcttaagggacttgaatacctt
+            cattttatgagaaaaatacaccgagatatcaaggcaggaaatattttgctaaatacagaa
+            ggacatgcaaaacttgcagattttggggtagcaggtcaacttacagataccatggccaag
+            cggaatacagtgataggaacaccattttggatggctccagaagtgattcaggaaattgga
+            tacaactgtgtagcagacatctggtccctgggaataactgccatagaaatggctgaagga
+            aagcccccttatgctgatatccatccaatgagggcaatcttcatgattcctacaaatcct
+            cctcccacattccgaaaaccagagctatggtcagataactttacagattttgtgaaacag
+            tgtcttgtaaagagccctgagcagagggccacagccactcagctcctgcagcacccattt
+            gtcaggagtgccaaaggagtgtcaatactgcgagacttaattaatgaagccatggatgtg
+            aaactgaaacgccaggaatcccagcagcgggaagtggaccaggacgatgaagaaaactca
+            gaagaggatgaaatggattctggcacgatggttcgagcagtgggtgatgagatgggcact
+            gtccgagtagccagcaccatgactgatggagccaatactatgattgagcacgatgacacg
+            ttgccatcacaactgggcaccatggtgatcaatgcagaggatgaggaagaggaaggaact
+            atgaaaagaagggatgagaccatgcagcctgcgaaaccatcctttcttgaatattttgaa
+            caaaaagaaaaggaaaaccagatcaacagctttggcaagagtgtacctggtccactgaaa
+            aattcttcagattggaaaataccacaggatggagactacgagtttcttaagagttggaca
+            gtggaggaccttcagaagaggctcttggccctggaccccatgatggagcaggagattgaa
+            gagatccggcagaagtaccagtccaagcggcagcccatcctggatgccatagaggctaag
+            aagagacggcaacaaaacttctga
+///

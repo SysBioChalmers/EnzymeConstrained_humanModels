@@ -1,0 +1,62 @@
+ENTRY       5685              CDS       T01001
+NAME        PSMA4, HC9, HsT17706, PSC9
+DEFINITION  (RefSeq) proteasome subunit alpha 4
+ORTHOLOGY   K02728  20S proteasome subunit alpha 3 [EC:3.4.25.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+MODULE      hsa_M00337  Immunoproteasome
+            hsa_M00340  Proteasome, 20S core particle
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5685 (PSMA4)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.25  Threonine endopeptidases
+                3.4.25.1  proteasome endopeptidase complex
+                 5685 (PSMA4)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T1: proteasome family
+               5685 (PSMA4)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Core particles (20S proteasome)
+               alpha type subunits
+                5685 (PSMA4)
+POSITION    15q25.1
+MOTIF       Pfam: Proteasome Proteasome_A_N TRP_N Phenol_monoox
+DBLINKS     NCBI-GeneID: 5685
+            NCBI-ProteinID: NP_001096137
+            OMIM: 176846
+            HGNC: 9533
+            Ensembl: ENSG00000041357
+            Vega: OTTHUMG00000143859
+            Pharos: P25789(Tbio)
+            UniProt: P25789
+STRUCTURE   PDB: 5LE5 5LEY 5LF4 5LF1 5LF7 5LF6 5LF3 5LEZ 5LEX 5LF0 4R3O
+                 4R67 5A0Q 5M32 5T0G 5GJQ 5T0H 5LN3 5T0I 5T0J
+AASEQ       261
+            MSRRYDSRTTIFSPEGRLYQVEYAMEAIGHAGTCLGILANDGVLLAAERRNIHKLLDEVF
+            FSEKIYKLNEDMACSVAGITSDANVLTNELRLIAQRYLLQYQEPIPCEQLVTALCDIKQA
+            YTQFGGKRPFGVSLLYIGWDKHYGFQLYQSDPSGNYGGWKATCIGNNSAAAVSMLKQDYK
+            EGEMTLKSALALAIKVLNKTMDVSKLSAEKVEIATLTRENGKTVIRVLKQKEVEQLIKKH
+            EEEEAKAEREKKEKEQKEKDK
+NTSEQ       786
+            atgtctcgaagatatgactccaggaccactatattttctccagaaggtcgcttataccaa
+            gttgaatatgccatggaagctattggacatgcaggcacctgtttgggaattttagcaaat
+            gatggtgttttgcttgcagcagagagacgcaacatccacaagcttcttgatgaagtcttt
+            ttttctgaaaaaatttataaactcaatgaggacatggcttgcagtgtggcaggcataact
+            tctgatgctaatgttctgactaatgaactaaggctcattgctcaaaggtatttattacag
+            tatcaggagccaataccttgtgagcagttggttacagcgctgtgtgatatcaaacaagct
+            tatacacaatttggaggaaaacgtccctttggtgtttcattgctgtacattggctgggat
+            aagcactatggctttcagctctatcagagtgaccctagtggaaattacgggggatggaag
+            gccacatgcattggaaataatagcgctgcagctgtgtcaatgttgaaacaagactataaa
+            gaaggagaaatgaccttgaagtcagcacttgctttagctatcaaagtactaaataagacc
+            atggatgttagtaaactctctgctgaaaaagtggaaattgcaacactaacaagagagaat
+            ggaaagacagtaatcagagttctcaaacaaaaagaagtggagcagttgatcaaaaaacat
+            gaggaagaagaagccaaagctgagcgtgagaagaaagaaaaagaacagaaagaaaaggat
+            aaatag
+///

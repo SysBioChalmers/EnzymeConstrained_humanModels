@@ -1,0 +1,141 @@
+ENTRY       2915              CDS       T01001
+NAME        GRM5, GPRC1E, MGLUR5, PPP1R86, mGlu5
+DEFINITION  (RefSeq) glutamate metabotropic receptor 5
+ORTHOLOGY   K04604  metabotropic glutamate receptor 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04540  Gap junction
+            hsa04720  Long-term potentiation
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa05016  Huntington's disease
+DRUG_TARGET Fenobam: D04155
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                2915 (GRM5)
+               04072 Phospholipase D signaling pathway
+                2915 (GRM5)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2915 (GRM5)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04540 Gap junction
+                2915 (GRM5)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2915 (GRM5)
+               04720 Long-term potentiation
+                2915 (GRM5)
+               04723 Retrograde endocannabinoid signaling
+                2915 (GRM5)
+             Human Diseases
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                2915 (GRM5)
+            G protein-coupled receptors [BR:hsa04030]
+             Class C. Metabotropic glutamate receptor family
+              Biogenic amine
+               Glutamate (metabotropic) [OT]
+                2915 (GRM5)
+POSITION    11q14.2-q14.3
+MOTIF       Pfam: ANF_receptor 7tm_3 GluR_Homer-bdg NCD3G DUF5438
+DBLINKS     NCBI-GeneID: 2915
+            NCBI-ProteinID: NP_001137303
+            OMIM: 604102
+            HGNC: 4597
+            Ensembl: ENSG00000168959
+            Vega: OTTHUMG00000134306
+            Pharos: P41594(Tchem)
+            UniProt: P41594
+STRUCTURE   PDB: 3LMK
+AASEQ       1212
+            MVLLLILSVLLLKEDVRGSAQSSERRVVAHMPGDIIIGALFSVHHQPTVDKVHERKCGAV
+            REQYGIQRVEAMLHTLERINSDPTLLPNITLGCEIRDSCWHSAVALEQSIEFIRDSLISS
+            EEEEGLVRCVDGSSSSFRSKKPIVGVIGPGSSSVAIQVQNLLQLFNIPQIAYSATSMDLS
+            DKTLFKYFMRVVPSDAQQARAMVDIVKRYNWTYVSAVHTEGNYGESGMEAFKDMSAKEGI
+            CIAHSYKIYSNAGEQSFDKLLKKLTSHLPKARVVACFCEGMTVRGLLMAMRRLGLAGEFL
+            LLGSDGWADRYDVTDGYQREAVGGITIKLQSPDVKWFDDYYLKLRPETNHRNPWFQEFWQ
+            HRFQCRLEGFPQENSKYNKTCNSSLTLKTHHVQDSKMGFVINAIYSMAYGLHNMQMSLCP
+            GYAGLCDAMKPIDGRKLLESLMKTNFTGVSGDTILFDENGDSPGRYEIMNFKEMGKDYFD
+            YINVGSWDNGELKMDDDEVWSKKSNIIRSVCSEPCEKGQIKVIRKGEVSCCWTCTPCKEN
+            EYVFDEYTCKACQLGSWPTDDLTGCDLIPVQYLRWGDPEPIAAVVFACLGLLATLFVTVV
+            FIIYRDTPVVKSSSRELCYIILAGICLGYLCTFCLIAKPKQIYCYLQRIGIGLSPAMSYS
+            ALVTKTNRIARILAGSKKKICTKKPRFMSACAQLVIAFILICIQLGIIVALFIMEPPDIM
+            HDYPSIREVYLICNTTNLGVVTPLGYNGLLILSCTFYAFKTRNVPANFNEAKYIAFTMYT
+            TCIIWLAFVPIYFGSNYKIITMCFSVSLSATVALGCMFVPKVYIILAKPERNVRSAFTTS
+            TVVRMHVGDGKSSSAASRSSSLVNLWKRRGSSGETLRYKDRRLAQHKSEIECFTPKGSMG
+            NGGRATMSSSNGKSVTWAQNEKSSRGQHLWQRLSIHINKKENPNQTAVIKPFPKSTESRG
+            LGAGAGAGGSAGGVGATGGAGCAGAGPGGPESPDAGPKALYDVAEAEEHFPAPARPRSPS
+            PISTLSHRAGSASRTDDDVPSLHSEPVARSSSSQGSLMEQISSVVTRFTANISELNSMML
+            STAAPSPGVGAPLCSSYLIPKEIQLPTTMTTFAEIQPLPAIEVTGGAQPAAGAQAAGDAA
+            RESPAAGPEAAAAKPDLEELVALTPPSPFRDSVDSGSTTPNSPVSESALCIPSSPKYDTL
+            IIRDYTQSSSSL
+NTSEQ       3639
+            atggtccttctgttgatcctgtcagtcttacttttgaaagaagatgtccgtgggagtgca
+            cagtccagtgagaggagggtggtggctcacatgccgggtgacatcattattggagctctc
+            ttttctgttcatcaccagcctactgtggacaaagttcatgagaggaagtgtggggcggtc
+            cgtgaacagtatggcattcagagagtggaggccatgctgcataccctggaaaggatcaat
+            tcagaccccacactcttgcccaacatcacactgggctgtgagataagggactcctgctgg
+            cattcggctgtggccctagagcagagcattgagttcataagagattccctcatttcttca
+            gaagaggaagaaggcttggtacgctgtgtggatggctcctcctcttccttccgctccaag
+            aagcccatagtaggggtcattgggcctggctccagttctgtagccattcaggtccagaat
+            ttgctccagcttttcaacatacctcagattgcttactcagcaaccagcatggatctgagt
+            gacaagactctgttcaaatatttcatgagggttgtgccttcagatgctcagcaggcaagg
+            gccatggtggacatagtgaagaggtacaactggacctatgtatcagccgtgcacacagaa
+            ggcaactatggagaaagtgggatggaagccttcaaagatatgtcagcgaaggaagggatt
+            tgcatcgcccactcttacaaaatctacagtaatgcaggggagcagagctttgataagctg
+            ctgaagaagctcacaagtcacttgcccaaggcccgggtggtggcctgcttctgtgagggc
+            atgacggtgagaggtctgctgatggccatgaggcgcctgggtctagcgggagaatttctg
+            cttctgggcagtgatggctgggctgacaggtatgatgtgacagatggatatcagcgagaa
+            gctgttggtggcatcacaatcaagctccaatctcccgatgtcaagtggtttgatgattat
+            tatctgaagctccggccagaaacaaaccaccgaaacccttggtttcaagaattttggcag
+            catcgttttcagtgccgactggaagggtttccacaggagaacagcaaatacaacaagact
+            tgcaatagttctctgactctgaaaacacatcatgttcaggattccaaaatgggatttgtg
+            atcaacgccatctattcgatggcctatgggctccacaacatgcagatgtccctctgccca
+            ggctatgcaggactctgtgatgccatgaagccaattgatggacggaaacttttggagtcc
+            ctgatgaaaaccaattttactggggtttctggagatacgatcctattcgatgagaatgga
+            gactctccaggaaggtatgaaataatgaatttcaaggaaatgggaaaagattactttgat
+            tatatcaacgttggaagttgggacaatggagaattaaaaatggatgatgatgaagtatgg
+            tccaagaaaagcaacatcatcagatctgtgtgcagtgaaccatgtgagaaaggccagatc
+            aaggtgatccgaaagggagaagtcagctgttgttggacctgtacaccttgtaaggagaat
+            gagtatgtctttgatgagtacacatgcaaggcatgccaactggggtcttggcccactgat
+            gatctcacaggttgtgacttgatcccagtacagtatcttcgatggggtgaccctgaaccc
+            attgcagctgtggtgtttgcctgccttggcctcctggccaccctgtttgttactgtagtc
+            ttcatcatttaccgtgatacaccagtagtcaagtcctcaagcagggaactctgctacatt
+            atccttgctggcatctgcctgggctacttatgtaccttctgcctcattgcgaagcccaaa
+            cagatttactgctaccttcagagaattggcattggtctctccccagccatgagctactca
+            gcccttgtaacaaagaccaaccgtattgcaaggatcctggctggcagcaagaagaagatc
+            tgtaccaaaaagcccagattcatgagtgcctgtgcccagctagtgattgctttcattctc
+            atatgcatccagttgggcatcatcgttgccctctttataatggagcctcctgacataatg
+            catgactacccaagcattcgagaagtctacctgatctgtaacaccaccaacctaggagtt
+            gtcactccacttggatacaatggattgttgattttgagctgcaccttctatgcgttcaag
+            accagaaatgttccagctaacttcaacgaggccaagtatatcgccttcacaatgtacacg
+            acctgcattatatggctagcttttgtgccaatctactttggcagcaactacaaaatcatc
+            accatgtgtttctcggtcagcctcagtgccacagtggccctaggctgcatgtttgtgccg
+            aaggtgtacatcatcctggccaaaccagagagaaacgtgcgcagcgccttcaccacatct
+            accgtggtgcgcatgcatgtaggggatggcaagtcatcctccgcagccagcagatccagc
+            agcctagtcaacctgtggaagagaaggggctcctctggggaaaccttaaggtacaaagac
+            aggagactggcccagcacaagtcggaaatagagtgtttcacccccaaagggagtatgggg
+            aatggtgggagagcaacaatgagcagttccaatggaaaatccgtcacgtgggcccagaat
+            gagaagagcagccgggggcagcacctgtggcagcgcctgtccatccacatcaacaagaaa
+            gaaaaccccaaccaaacggccgtcatcaagcccttccccaagagcacggagagccgtggc
+            ctgggcgctggcgctggcgcaggcgggagcgctgggggcgtgggggccacgggcggtgcg
+            ggctgcgcaggcgccggcccaggcgggcccgagtccccagacgccggccccaaggcgctg
+            tatgatgtggccgaggctgaggagcacttcccggcgcccgcgcggccgcgctcaccgtcg
+            cccatcagcacgctgagccaccgcgcgggctcggccagccgcacggacgacgatgtgccg
+            tcgctgcactcggagcctgtggcgcgcagcagctcctcgcagggctccctcatggagcag
+            atcagcagtgtggtcacccgcttcacggccaacatcagcgagctcaactccatgatgctg
+            tccaccgcggcccccagccccggcgtcggcgccccgctctgctcgtcctacctgatcccc
+            aaagagatccagttgcccacgaccatgacgacctttgccgaaatccagcctctgccggcc
+            atcgaagtcacgggaggcgcgcagcccgcggcaggggcgcaggcggctggggacgcggcc
+            cgggagagccccgcggccggtcccgaggctgcggccgccaagccagacctggaggagctg
+            gtggctctcaccccgccgtcccccttcagagactcggtggactcggggagcacaaccccc
+            aactcgccagtgtccgagtcggccctctgtatcccgtcgtctcccaaatatgacactctt
+            atcataagagattacactcagagctcctcgtcgttgtga
+///

@@ -1,0 +1,86 @@
+ENTRY       55229             CDS       T01001
+NAME        PANK4
+DEFINITION  (RefSeq) pantothenate kinase 4
+ORTHOLOGY   K09680  type II pantothenate kinase [EC:2.7.1.33]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00770  Pantothenate and CoA biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                55229 (PANK4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.33  pantothenate kinase
+                 55229 (PANK4)
+POSITION    1p36.32
+MOTIF       Pfam: Fumble DUF89
+DBLINKS     NCBI-GeneID: 55229
+            NCBI-ProteinID: NP_060686
+            OMIM: 606162
+            HGNC: 19366
+            Ensembl: ENSG00000157881
+            Vega: OTTHUMG00000000791
+            Pharos: Q9NVE7(Tdark)
+            UniProt: Q9NVE7
+AASEQ       781
+            MSWPGTFKMAECGASGSGSSGDSLDKSITLPPDEIFRNLENAKRFAIDIGGSLTKLAYYS
+            TVQHKVAKVRSFDHSGKDTEREHEPPYEISVQEEITARLHFIKFENTYIEACLDFIKDHL
+            VNTETKVIQATGGGAYKFKDLIEEKLRLKVDKEDVMTCLIKGCNFVLKNIPHEAFVYQKD
+            SDPEFRFQTNHPHIFPYLLVNIGSGVSIVKVETEDRFEWVGGSSIGGGTFWGLGALLTKT
+            KKFDELLHLASRGQHSNVDMLVRDVYGGAHQTLGLSGNLIASSFGKSATADQEFSKEDMA
+            KSLLHMISNDIGQLACLHARLHSLDRVYFGGFFIRGHPVTMRTITYSINFFSKGEVQALF
+            LRHEGYLGAIGAFLKGAEQDNPNQYSWGENYAGSSGLMSASPELGPAQRARSGTFDLLEM
+            DRLERPLVDLPLLLDPPSYVPDTVDLTDDALARKYWLTCFEEALDGVVKRAVASQPDSVD
+            AAERAEKFRQKYWNKLQTLRQQPFAYGTLTVRSLLDTREHCLNEFNFPDPYSKVKQRENG
+            VALRCFPGVVRSLDALGWEERQLALVKGLLAGNVFDWGAKAVSAVLESDPYFGFEEAKRK
+            LQERPWLVDSYSEWLQRLKGPPHKCALIFADNSGIDIILGVFPFVRELLLRGTEVILACN
+            SGPALNDVTHSESLIVAERIAGMDPVVHSALQEERLLLVQTGSSSPCLDLSRLDKGLAAL
+            VRERGADLVVIEGMGRAVHTNYHAALRCESLKLAVIKNAWLAERLGGRLFSVIFKYEVPA
+            E
+NTSEQ       2346
+            atgagctggccgggcactttcaaaatggcggagtgtggagcgagcggcagcgggagcagc
+            ggggacagtctggacaagagcatcacgctgccccccgacgagatcttccgcaacctggag
+            aacgccaagcgcttcgccatcgacataggcgggtcgttaaccaagctggcctactattca
+            acggtacagcacaaagtcgccaaggtgcggtctttcgaccactccggaaaggacacagaa
+            cgtgaacatgagccgccctatgagatttcagttcaagaagagatcactgctcgactgcac
+            ttcattaagtttgagaatacctacatcgaagcctgcctggacttcatcaaagaccatctc
+            gtcaacacagagaccaaggtcatccaggcgaccgggggcggggcctacaagttcaaagac
+            ctcatcgaagagaagctgcggctgaaagtcgacaaggaggacgtgatgacgtgcctgatt
+            aaggggtgcaacttcgtgctcaagaacatcccccatgaggccttcgtgtaccagaaggat
+            tccgaccctgagttccggttccagaccaaccacccccacattttcccctatcttcttgtc
+            aatatcggctctggagtctccatcgtgaaggtggagacggaggacaggttcgagtgggtc
+            ggcggcagctccattggaggcggcaccttctgggggcttggcgctctgctcaccaaaacg
+            aagaagtttgacgagctcctgcacctggcctcgaggggccagcacagcaatgtggacatg
+            ctggtgcgggacgtctacggcggcgcccaccagactctcgggctgagcgggaacctcatc
+            gccagcagcttcgggaagtcggccaccgccgaccaagagttctccaaagaagacatggcg
+            aagagcctgctgcacatgatcagcaacgacattgggcagctggcctgcctccacgcacgg
+            ctgcacagcctggaccgcgtgtactttggaggcttctttatccggggccaccccgtgacc
+            atgcgcaccatcacctatagcatcaacttcttctccaagggggaagtgcaggcgctgttt
+            ctgaggcacgaaggctacctgggagccatcggagcgttcctgaaaggagctgagcaggac
+            aatcctaaccagtacagctggggagagaactatgcaggcagctccgggctgatgagtgca
+            tcacccgagctcggcccggcgcagcgggcgcggagtggcacttttgacttgctggaaatg
+            gaccggctggagaggccactggttgacctgccgctcctcctggacccgccctcctacgtg
+            cccgacacggtggacctcaccgatgacgctctggcccgaaaatactggctcacctgcttt
+            gaggaggccctggacggggtagtgaagcgcgcagtggcgagccagccagactctgtggat
+            gcagccgagagggcggagaagttccggcagaagtactggaacaagcttcagaccctgagg
+            cagcagcccttcgcctatgggaccctgaccgtgcgcagcctgctggacaccagggagcac
+            tgtctgaacgagttcaacttcccggatccctactccaaagtgaagcagcgggagaatggc
+            gtggcgctgaggtgcttccccggggtcgtgcgctccctggacgcgctgggctgggaggaa
+            cggcagctggcgctggtgaaaggcctcctggcggggaatgtcttcgactggggggccaaa
+            gccgtgtctgctgtccttgaatccgacccctactttgggtttgaagaagcaaagaggaag
+            ttacaagaaagaccctggctcgtggattcctacagcgagtggcttcagagattaaagggg
+            ccccctcataaatgtgccttaattttcgcagataacagtggaatagacatcattttggga
+            gtcttcccctttgtcagggagctactccttagagggacagaggtcatcctggcgtgcaac
+            tcaggccccgccctgaacgacgtgacccacagcgagtccctcatcgtggcagagcgtatt
+            gcgggcatggaccctgtcgtgcactctgcgctccaggaagagaggctgctgctggtgcag
+            acgggctccagctccccgtgcctcgacctcagccgcctggataaggggctggccgcactg
+            gtgcgggagcgtggcgcggatctggtggtcatcgagggcatgggccgtgctgtccacaca
+            aactaccacgcagccctgcgctgcgagagcctcaagctggccgtcatcaagaacgcgtgg
+            ctggccgagcggctgggcggccggctcttcagcgtcatcttcaagtacgaggtcccagcc
+            gagtga
+///

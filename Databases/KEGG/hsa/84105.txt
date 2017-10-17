@@ -1,0 +1,45 @@
+ENTRY       84105             CDS       T01001
+NAME        PCBD2, DCOH2, DCOHM, PHS2
+DEFINITION  (RefSeq) pterin-4 alpha-carbinolamine dehydratase 2
+ORTHOLOGY   K01724  4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00790  Folate biosynthesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                84105 (PCBD2)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.96  4a-hydroxytetrahydrobiopterin dehydratase
+                 84105 (PCBD2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               84105 (PCBD2)
+POSITION    5q31.1
+MOTIF       Pfam: Pterin_4a IF-2
+DBLINKS     NCBI-GeneID: 84105
+            NCBI-ProteinID: NP_115527
+            OMIM: 609836
+            HGNC: 24474
+            Ensembl: ENSG00000132570
+            Vega: OTTHUMG00000163070
+            Pharos: Q9H0N5(Tdark)
+            UniProt: Q9H0N5
+STRUCTURE   PDB: 4C45
+AASEQ       130
+            MAAVLGALGATRRLLAALRGQSLGLAAMSSGTHRLTAEERNQAILDLKAAGWSELSERDA
+            IYKEFSFHNFNQAFGFMSRVALQAEKMNHHPEWFNVYNKVQITLTSHDCGELTKKDVKLA
+            KFIEKAAASV
+NTSEQ       393
+            atggcggcggtgctcggggcgctcggggcgacgcggcgcttgttggcggcgctgcgaggc
+            cagagcctagggctagcggccatgtcatcaggtactcacaggttgactgcagaggagagg
+            aaccaagctatacttgaccttaaagcagcaggatggtcggaattaagtgagagagatgcc
+            atctacaaagaattctccttccacaattttaatcaggcatttggctttatgtcccgagtt
+            gccctacaagcagagaagatgaatcatcacccagaatggttcaatgtatacaacaaggtc
+            cagataactctcacctcacatgactgtggtgaactgaccaaaaaagatgtgaagctggcc
+            aagtttattgaaaaagcagctgcttctgtgtga
+///

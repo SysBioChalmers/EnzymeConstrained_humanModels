@@ -1,0 +1,76 @@
+ENTRY       339896            CDS       T01001
+NAME        GADL1, ADC, CSADC, HuADC, HuCSADC
+DEFINITION  (RefSeq) glutamate decarboxylase like 1
+ORTHOLOGY   K18966  sulfinoalanine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.29 4.1.1.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00410  beta-Alanine metabolism
+            hsa00430  Taurine and hypotaurine metabolism
+            hsa00770  Pantothenate and CoA biosynthesis
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                339896 (GADL1)
+               00430 Taurine and hypotaurine metabolism
+                339896 (GADL1)
+              Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                339896 (GADL1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.11  aspartate 1-decarboxylase
+                 339896 (GADL1)
+                4.1.1.29  sulfinoalanine decarboxylase
+                 339896 (GADL1)
+POSITION    3p24.1-p23
+MOTIF       Pfam: Pyridoxal_deC Aminotran_5 Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 339896
+            NCBI-ProteinID: NP_997242
+            OMIM: 615601
+            HGNC: 27949
+            Ensembl: ENSG00000144644
+            Vega: OTTHUMG00000130621
+            Pharos: Q6ZQY3(Tbio)
+            UniProt: Q6ZQY3
+AASEQ       521
+            MSSDSDRQCPVDGDIDQQEMIPSKKNAVLVDGVVLNGPTTDAKAGEKFVEEACRLIMEEV
+            VLKATDVNEKVCEWRPPEQLKQLLDLEMRDSGEPPHKLLELCRDVIHYSVKTNHPRFFNQ
+            LYAGLDYYSLVARFMTEALNPSVYTYEVSPVFLLVEEAVLKKMIEFIGWKEGDGIFNPGG
+            SVSNMYAMNLARYKYCPDIKEKGLSGSPRLILFTSAECHYSMKKAASFLGIGTENVCFVE
+            TDGRGKMIPEELEKQVWQARKEGAAPFLVCATSGTTVLGAFDPLDEIADICERHSLWLHV
+            DASWGGSALMSRKHRKLLHGIHRADSVAWNPHKMLMAGIQCCALLVKDKSDLLKKCYSAK
+            ASYLFQQDKFYDVSYDTGDKSIQCSRRPDAFKFWMTWKALGTLGLEERVNRALALSRYLV
+            DEIKKREGFKLLMEPEYANICFWYIPPSLREMEEGPEFWAKLNLVAPAIKERMMKKGSLM
+            LGYQPHRGKVNFFRQVVISPQVSREDMDFLLDEIDLLGKDM
+NTSEQ       1566
+            atgagcagcgactcggaccgccagtgtcctgtggacggagatattgatcaacaagagatg
+            attccaagtaagaagaatgctgttcttgtggatggggttgtgctgaatggtcctacaaca
+            gatgcaaaagctggagaaaaatttgttgaagaggcctgtaggctaataatggaagaggtg
+            gttttgaaagctacagatgtcaatgagaaggtgtgtgaatggaggcctcctgaacaactg
+            aaacagcttcttgatttggagatgagagactcaggcgagccaccccataaactattggaa
+            ctctgtcgggatgtcatacactacagtgtcaaaactaaccacccaagatttttcaaccaa
+            ttgtatgctggacttgattattactccttggtggcccgatttatgaccgaagcattgaat
+            ccaagtgtttatacgtatgaggtgtccccagtgtttctgttagtggaagaagcggttctg
+            aagaaaatgattgaatttattggctggaaagaaggggatggaatatttaacccaggtggc
+            tcagtgtccaatatgtatgcaatgaatttagctagatacaaatattgtcctgatattaag
+            gaaaaggggctgtctggttcgccaagattaatccttttcacatctgcagagtgtcattac
+            tctatgaagaaggcagcctcttttcttgggattggcactgagaatgtttgctttgtggaa
+            acagatggaagaggtaaaatgatacctgaggaactggagaagcaagtctggcaagccaga
+            aaagagggggcagcaccgtttcttgtctgtgccacttctggtacaactgtgttgggagct
+            tttgaccctctggatgaaatagcagacatctgcgagaggcacagcctctggcttcatgta
+            gatgcttcttggggtggctcagctttgatgtcgaggaagcaccgcaagcttctgcatggc
+            atccacagggctgactctgtggcctggaacccacacaagatgctgatggctgggatccag
+            tgctgtgctctccttgtgaaagacaaatctgatcttcttaaaaaatgctactctgccaag
+            gcatcttacctcttccagcaggataaattctatgatgtgagctatgacacaggagacaag
+            tctatccagtgtagcagaagaccagatgcattcaagttctggatgacctggaaggccctg
+            ggtacattaggccttgaagaaagagttaatcgtgctcttgctttatctaggtacctagta
+            gatgaaatcaagaaaagagaaggattcaagttactgatggaacctgaatatgccaatatt
+            tgcttttggtacattccaccgagcctcagagagatggaagaaggacccgagttctgggca
+            aaacttaatttggtggccccagccattaaggagaggatgatgaagaagggaagcttgatg
+            ctgggctaccagccgcaccggggaaaggtcaacttcttccgccaggtggtgatcagccct
+            caagtgagccgggaggacatggacttcctcctggatgagatagacttactgggtaaagac
+            atgtag
+///

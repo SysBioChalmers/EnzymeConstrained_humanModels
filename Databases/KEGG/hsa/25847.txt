@@ -1,0 +1,56 @@
+ENTRY       25847             CDS       T01001
+NAME        ANAPC13, APC13, SWM1
+DEFINITION  (RefSeq) anaphase promoting complex subunit 13
+ORTHOLOGY   K12456  anaphase-promoting complex subunit 13
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04914  Progesterone-mediated oocyte maturation
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                25847 (ANAPC13)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                25847 (ANAPC13)
+               04114 Oocyte meiosis
+                25847 (ANAPC13)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                25847 (ANAPC13)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 25847 (ANAPC13)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                25847 (ANAPC13)
+POSITION    3q22.2
+MOTIF       Pfam: Apc13p
+DBLINKS     NCBI-GeneID: 25847
+            NCBI-ProteinID: NP_001229303
+            OMIM: 614484
+            HGNC: 24540
+            Ensembl: ENSG00000129055
+            Vega: OTTHUMG00000159803
+            Pharos: Q9BS18(Tbio)
+            UniProt: Q9BS18 A8K3Z6
+STRUCTURE   PDB: 4UI9 5LCW 5G04 5A31 5KHU 5KHR 5L9T 5L9U
+AASEQ       74
+            MDSEVQRDGRILDLIDDAWREDKLPYEDVAIPLNELPEPEQDNGGTTESVKEQEMKWTDL
+            ALQYLHENVPPIGN
+NTSEQ       225
+            atggacagtgaggttcagagagatggaaggatcttggatttgattgatgatgcttggcga
+            gaagacaagctgccttatgaggatgtcgcaataccactgaatgagcttcctgaacctgaa
+            caagacaatggtggcaccacagaatctgtcaaagaacaagaaatgaagtggacagactta
+            gccttacagtacctccatgagaatgttccccccattggaaactga
+///

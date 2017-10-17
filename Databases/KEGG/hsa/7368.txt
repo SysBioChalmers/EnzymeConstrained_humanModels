@@ -1,0 +1,77 @@
+ENTRY       7368              CDS       T01001
+NAME        UGT8, CGT, UGT4
+DEFINITION  (RefSeq) UDP glycosyltransferase 8
+ORTHOLOGY   K04628  ceramide galactosyltransferase [EC:2.4.1.47]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00565  Ether lipid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00067  Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00565 Ether lipid metabolism
+                7368 (UGT8)
+               00600 Sphingolipid metabolism
+                7368 (UGT8)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.47  N-acylsphingosine galactosyltransferase
+                 7368 (UGT8)
+            Glycosyltransferases [BR:hsa01003]
+             Glycolipid biosynthesis
+              Glycosphingolipid
+               7368 (UGT8)
+POSITION    4q26
+MOTIF       Pfam: UDPGT Glyco_tran_28_C Imm39 Glyco_trans_1_4
+DBLINKS     NCBI-GeneID: 7368
+            NCBI-ProteinID: NP_001121646
+            OMIM: 601291
+            HGNC: 12555
+            Ensembl: ENSG00000174607
+            Vega: OTTHUMG00000132915
+            Pharos: Q16880(Tbio)
+            UniProt: Q16880
+AASEQ       541
+            MKSYTPYFILLWSAVGIAKAAKIIIVPPIMFESHMYIFKTLASALHERGHHTVFLLSEGR
+            DIAPSNHYSLQRYPGIFNSTTSDAFLQSKMRNIFSGRLTAIELFDILDHYTKNCDLMVGN
+            HALIQGLKKEKFDLLLVDPNDMCGFVIAHLLGVKYAVFSTGLWYPAEVGAPAPLAYVPEF
+            NSLLTDRMNLLQRMKNTGVYLISRLGVSFLVLPKYERIMQKYNLLPEKSMYDLVHGSSLW
+            MLCTDVALEFPRPTLPNVVYVGGILTKPASPLPEDLQRWVNGANEHGFVLVSFGAGVKYL
+            SEDIANKLAGALGRLPQKVIWRFSGPKPKNLGNNTKLIEWLPQNDLLGHSKIKAFLSHGG
+            LNSIFETMYHGVPVVGIPLFGDHYDTMTRVQAKGMGILLEWKTVTEKELYEALVKVINNP
+            SYRQRAQKLSEIHKDQPGHPVNRTIYWIDYIIRHNGAHHLRAAVHQISFCQYFLLDIAFV
+            LLLGAALLYFLLSWVTKFIYRKIKSLWSRNKHSTVNGHYHNGILNGKYKRNGHIKHEKKV
+            K
+NTSEQ       1626
+            atgaagtcttacactccatatttcattctcctgtggagtgctgttgggatagcgaaggct
+            gccaaaatcatcatcgtgccgccaattatgtttgaaagccatatgtacattttcaagacg
+            ctagcctcagccttgcacgagagaggccaccatacagtgttcctcctctctgaaggcaga
+            gacatcgccccatctaatcattacagcctccagcgctacccagggatctttaacagtacc
+            acctcagatgctttcctacagtccaagatgcggaatattttctctgggagattgacagca
+            atcgaactgtttgacatactggatcactatactaagaactgtgacctgatggttggcaac
+            catgccctgatccagggtctgaagaaagaaaaatttgacctgctgctggtggaccctaat
+            gatatgtgtggatttgtgatagctcatcttttaggggttaaatatgctgtattttcaact
+            ggcctttggtatcctgctgaagtgggtgctcctgctccattagcatacgtcccagagttt
+            aactcactcctcacagaccgcatgaacttgctgcaaaggatgaaaaataccggtgtttac
+            ctcatttccagattaggggtcagctttctggttcttcccaaatatgaaaggataatgcag
+            aagtacaacctgctgccggagaagtccatgtatgatttggttcatgggtccagcctgtgg
+            atgctgtgtactgacgtagcactggaattcccaagacccactctgcctaatgttgtttat
+            gtaggaggaatcctaaccaaaccagccagcccactaccagaagatctccaaagatgggta
+            aatggtgctaatgaacatggctttgtcttggtgtcttttggagctggtgtcaagtatctg
+            tcagaagacattgctaacaaactggcaggagctctggggagattgcctcaaaaagtgatt
+            tggaggttttctggacccaaaccaaagaatctaggaaacaacactaaactcatagaatgg
+            ttaccacaaaatgacctgcttgggcattcaaagattaaagccttcctgagccatggtggt
+            ttgaacagtatttttgaaactatgtatcatggtgtgcctgtagtgggaattccactcttt
+            ggagaccattatgatactatgaccagagtacaggcaaaaggcatggggatattgctagaa
+            tggaagacagttactgaaaaagagctctatgaagcactagtgaaggttatcaataatccc
+            agctaccgtcagagggctcagaagctttcggaaattcacaaggatcaacctggtcaccct
+            gtcaatcgaactatctattggatagattatattattcgtcacaatggagcccatcaccta
+            cgtgccgctgtccatcagatctccttttgtcagtattttttactggatattgcctttgtg
+            cttttgcttggtgctgccttgttatactttctcttgtcttgggtgacaaaatttatctac
+            agaaaaatcaaaagtctgtggtctagaaataagcatagcacagttaatggacattaccac
+            aatggaatcctcaatggcaagtacaaaagaaatggccatattaaacatgaaaagaaagtg
+            aaatga
+///

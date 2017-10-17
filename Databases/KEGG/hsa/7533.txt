@@ -1,0 +1,78 @@
+ENTRY       7533              CDS       T01001
+NAME        YWHAH, YWHA1
+DEFINITION  (RefSeq) tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+ORTHOLOGY   K16198  14-3-3 protein gamma/eta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                7533 (YWHAH)
+               04151 PI3K-Akt signaling pathway
+                7533 (YWHAH)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                7533 (YWHAH)
+               04114 Oocyte meiosis
+                7533 (YWHAH)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                7533 (YWHAH)
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                7533 (YWHAH)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 7533 (YWHAH)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Other check point factors
+                7533 (YWHAH)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               7533 (YWHAH)
+POSITION    22q12.3
+MOTIF       Pfam: 14-3-3 DUF722 CodY
+DBLINKS     NCBI-GeneID: 7533
+            NCBI-ProteinID: NP_003396
+            OMIM: 113508
+            HGNC: 12853
+            Ensembl: ENSG00000128245
+            Vega: OTTHUMG00000030833
+            Pharos: Q04917(Tbio)
+            UniProt: Q04917 A0A024R1K7 Q9H4N8
+STRUCTURE   PDB: 2C63 2C74
+AASEQ       246
+            MGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSW
+            RVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLSLLDKFLIKNCNDFQYESK
+            VFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEISKEQMQPTHPIRLGLALNFS
+            VFYYEIQNAPEQACLLAKQAFDDAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDQQDE
+            EAGEGN
+NTSEQ       741
+            atgggggaccgggagcagctgctgcagcgggcgcggctggccgagcaggcggagcgctac
+            gacgacatggcctccgctatgaaggcggtgacagagctgaatgaacctctctccaatgaa
+            gatcgaaatctcctctctgtggcctacaagaatgtggttggtgccaggcgatcttcctgg
+            agggtcattagcagcattgagcagaaaaccatggctgatggaaacgaaaagaaattggag
+            aaagttaaagcttaccgggagaagattgagaaggagctggagacagtttgcaatgatgtc
+            ctgtctctgcttgacaagttcctgatcaagaactgcaatgatttccagtatgagagcaag
+            gtgttttacctgaaaatgaagggtgattactaccgctacttagcagaggtcgcttctggg
+            gagaagaaaaacagtgtggtcgaagcttctgaagctgcctacaaggaagcctttgaaatc
+            agcaaagagcagatgcaacccacgcatcccatccggctgggcctggccctcaacttctcc
+            gtgttctactatgagatccagaatgcacctgagcaagcctgcctcttagccaaacaagcc
+            ttcgatgatgccatagctgagctggacacactaaacgaggattcctataaggactccacg
+            ctgatcatgcagttgctgcgagacaacctcaccctctggacgagcgaccagcaggatgaa
+            gaagcaggagaaggcaactga
+///

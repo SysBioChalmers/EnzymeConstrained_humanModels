@@ -1,0 +1,80 @@
+ENTRY       5982              CDS       T01001
+NAME        RFC2, RFC40
+DEFINITION  (RefSeq) replication factor C subunit 2
+ORTHOLOGY   K10755  replication factor C subunit 2/4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+MODULE      hsa_M00289  RF-C complex
+            hsa_M00295  BRCA1-associated genome surveillance complex (BASC)
+DISEASE     H01439  Williams-Beuren syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                5982 (RFC2)
+               03420 Nucleotide excision repair
+                5982 (RFC2)
+               03430 Mismatch repair
+                5982 (RFC2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RFC (replication factor C)
+                5982 (RFC2)
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                ELG1-RFC complex
+                 5982 (RFC2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid cohesion proteins
+               CTF18-RFC complex
+                5982 (RFC2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               MMR (mismatch exicision repair)
+                RFC (replication factor C)
+                 5982 (RFC2)
+              Check point factors
+               HRAD17(Rad24)-RFC complex
+                5982 (RFC2)
+POSITION    7q11.23
+MOTIF       Pfam: Rep_fac_C AAA DNA_pol3_delta2 Rad17 AAA_14 AAA_16 AAA_22 Mg_chelatase AAA_24 Viral_helicase1 AAA_11 RuvB_N AAA_19 AAA_18 AAA_assoc_2 AAA_5 AAA_25 MipZ DEAD AAA_30 ABC_tran T2SSE AAA_28 DUF815 NTPase_1 FtsK_SpoIIIE AAA_23 RNA_helicase DNA_pol3_delta
+DBLINKS     NCBI-GeneID: 5982
+            NCBI-ProteinID: NP_852136
+            OMIM: 600404
+            HGNC: 9970
+            Ensembl: ENSG00000049541
+            Vega: OTTHUMG00000023239
+            Pharos: P35250(Tbio)
+            UniProt: P35250
+AASEQ       354
+            MEVEAVCGGAGEVEAQDSDPAPAFSKAPGSAGHYELPWVEKYRPVKLNEIVGNEDTVSRL
+            EVFAREGNVPNIIIAGPPGTGKTTSILCLARALLGPALKDAMLELNASNDRGIDVVRNKI
+            KMFAQQKVTLPKGRHKIIILDEADSMTDGAQQALRRTMEIYSKTTRFALACNASDKIIEP
+            IQSRCAVLRYTKLTDAQILTRLMNVIEKERVPYTDDGLEAIIFTAQGDMRQALNNLQSTF
+            SGFGFINSENVFKVCDEPHPLLVKEMIQHCVNANIDEAYKILAHLWHLGYSPEDIIGNIF
+            RVCKTFQMAEYLKLEFIKEIGYTHMKIAEGVNSLLQMAGLLARLCQKTMAPVAS
+NTSEQ       1065
+            atggaggtggaggccgtctgtggtggcgcgggcgaggtggaggcccaggactctgaccct
+            gcccctgccttcagcaaggcccccggcagcgccggccactacgaactgccgtgggttgaa
+            aaatataggccagtaaagctgaatgaaattgtcgggaatgaagacaccgtgagcaggcta
+            gaggtctttgcaagggaaggaaatgtgcccaacatcatcattgcgggccctccaggaacc
+            ggcaagaccacaagcattctgtgcttggcccgggccctgctgggcccagcactcaaagat
+            gccatgttggaactcaatgcttcaaatgacaggggcattgacgttgtgaggaataaaatt
+            aaaatgtttgctcaacaaaaagtcactcttcccaaaggccgacataagatcatcattctg
+            gatgaagcagacagcatgaccgacggagcccagcaagccttgaggagaaccatggaaatc
+            tactctaaaaccactcgcttcgcccttgcttgtaatgcttcggataagatcatcgagccc
+            attcagtcccgctgtgcagtcctccggtacacaaagctgaccgacgcccagatcctcacc
+            aggctgatgaatgttatcgagaaggagagggtaccctacactgatgacggcctagaagcc
+            atcatcttcacggcccagggagacatgaggcaggcgctgaacaacctgcagtccaccttc
+            tcaggatttggcttcattaacagtgagaacgtgttcaaggtctgtgacgagccccaccca
+            ctgctggtaaaggagatgatccagcactgtgtgaatgccaacattgacgaagcctacaag
+            attcttgctcacttgtggcatctgggctactcaccagaagatatcattggcaacatcttt
+            cgagtgtgtaaaactttccaaatggcagaatacctgaaactggagtttatcaaggaaatt
+            ggatacactcacatgaaaatagcggaaggagtgaactctcttttgcagatggcaggcctc
+            ctggcaaggctgtgtcagaagacaatggccccggtggccagttag
+///

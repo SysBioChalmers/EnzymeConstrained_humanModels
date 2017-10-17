@@ -1,0 +1,80 @@
+ENTRY       2591              CDS       T01001
+NAME        GALNT3, GalNAc-T3, HFTC, HHS
+DEFINITION  (RefSeq) polypeptide N-acetylgalactosaminyltransferase 3
+ORTHOLOGY   K00710  polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00512  Mucin type O-glycan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00056  O-glycan biosynthesis, mucin type core
+DISEASE     H01193  Familial tumoral calcinosis (FTC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00512 Mucin type O-glycan biosynthesis
+                2591 (GALNT3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.41  polypeptide N-acetylgalactosaminyltransferase
+                 2591 (GALNT3)
+            Glycosyltransferases [BR:hsa01003]
+             O-Glycan biosynthesis
+              Mucin-type
+               2591 (GALNT3)
+POSITION    2q24.3
+MOTIF       Pfam: Glycos_transf_2 Ricin_B_lectin Glyco_transf_7C Glyco_tranf_2_3 SecY
+DBLINKS     NCBI-GeneID: 2591
+            NCBI-ProteinID: NP_004473
+            OMIM: 601756
+            HGNC: 4125
+            Ensembl: ENSG00000115339
+            Vega: OTTHUMG00000132157
+            Pharos: Q14435(Tbio)
+            UniProt: Q14435
+AASEQ       633
+            MAHLKRLVKLHIKRHYHKKFWKLGAVIFFFIIVLVLMQREVSVQYSKEESRMERNMKNKN
+            KMLDLMLEAVNNIKDAMPKMQIGAPVRQNIDAGERPCLQGYYTAAELKPVLDRPPQDSNA
+            PGASGKAFKTTNLSVEEQKEKERGEAKHCFNAFASDRISLHRDLGPDTRPPECIEQKFKR
+            CPPLPTTSVIIVFHNEAWSTLLRTVHSVLYSSPAILLKEIILVDDASVDEYLHDKLDEYV
+            KQFSIVKIVRQRERKGLITARLLGATVATAETLTFLDAHCECFYGWLEPLLARIAENYTA
+            VVSPDIASIDLNTFEFNKPSPYGSNHNRGNFDWSLSFGWESLPDHEKQRRKDETYPIKTP
+            TFAGGLFSISKEYFEYIGSYDEEMEIWGGENIEMSFRVWQCGGQLEIMPCSVVGHVFRSK
+            SPHSFPKGTQVIARNQVRLAEVWMDEYKEIFYRRNTDAAKIVKQKAFGDLSKRFEIKHRL
+            QCKNFTWYLNNIYPEVYVPDLNPVISGYIKSVGQPLCLDVGENNQGGKPLIMYTCHGLGG
+            NQYFEYSAQHEIRHNIQKELCLHAAQGLVQLKACTYKGHKTVVTGEQIWEIQKDQLLYNP
+            FLKMCLSANGEHPSLVSCNPSDPLQKWILSQND
+NTSEQ       1902
+            atggctcacctaaagcgactagtaaaattacacattaaaagacattaccataaaaagttc
+            tggaagcttggtgcagtaatttttttctttataatagttttggttttaatgcaaagagaa
+            gtaagtgttcaatattccaaagaggaatcaaggatggaaaggaacatgaaaaacaaaaac
+            aagatgttggatttaatgctagaagctgtaaacaatattaaggatgccatgccaaaaatg
+            caaataggagcacctgtcaggcaaaacattgatgctggtgagagaccttgtttgcaagga
+            tattatacagcagcagaattgaagcctgtccttgaccgtccacctcaggattcaaatgca
+            cctggtgcttctggtaaagcattcaagacaaccaatttaagtgttgaagagcaaaaggaa
+            aaggaacgtggggaagctaaacactgctttaatgctttcgcaagtgacaggatttctttg
+            caccgagatcttggaccagacactcgacctcctgaatgtattgaacaaaaatttaagcgc
+            tgccctcccctgcccaccaccagtgtcataatagtttttcataatgaagcgtggtccacg
+            ttgcttagaactgtccacagtgtgctctattcttcacctgcaatactgctgaaggaaatc
+            attttggtggatgatgctagtgtagatgagtacttacatgataaactagatgaatatgta
+            aaacaattttctatagtaaaaatagtcagacaaagagaaagaaaaggtctgatcactgct
+            cggttgctaggagcaacagtcgcaacagctgaaacgctcacatttttagatgctcactgt
+            gagtgtttctatggttggctagaacctctgttggccagaatagctgagaactacacggct
+            gtcgtaagtccagatattgcatccatagatctgaacacgtttgaattcaacaaaccttct
+            ccttatggaagtaaccataaccgtggaaattttgactggagtctttcatttggctgggag
+            tcgcttcctgatcatgagaagcaaagaaggaaagatgaaacctacccaattaaaacaccc
+            acttttgcaggaggacttttttccatatcaaaagaatattttgagtatattggaagctat
+            gatgaagaaatggaaatctggggaggtgaaaatatagaaatgtctttcagagtatggcaa
+            tgtggtgggcagttggagattatgccttgctctgttgttggacatgtttttcgcagcaaa
+            agccctcatagctttccaaaaggcactcaggtgattgctagaaaccaagttcgccttgca
+            gaagtctggatggatgaatacaaggaaatattttataggagaaatacagatgcagcaaaa
+            attgttaaacaaaaagcatttggtgatctttcaaaaagatttgaaataaaacaccgcctt
+            cagtgtaaaaattttacatggtatctgaacaacatttatccagaggtgtatgtgccagac
+            cttaatcctgttatatctggatacattaaaagcgttggtcagcctctatgtctggatgtt
+            ggagaaaacaatcaaggaggcaaaccattaattatgtatacatgtcatggacttggggga
+            aaccagtactttgaatactctgctcaacatgaaattcggcacaacatccagaaggaatta
+            tgtcttcatgctgctcaaggtctcgttcagctgaaggcatgtacctacaaaggtcacaag
+            acagttgtcactggagagcagatatgggagatccagaaggatcaacttctatacaatcca
+            ttcttaaaaatgtgcctttcagcaaatggagagcatccaagtttagtgtcatgcaaccca
+            tcagatccactccaaaaatggatacttagccaaaatgattaa
+///

@@ -1,0 +1,61 @@
+ENTRY       4508              CDS       T01001
+NAME        ATP6, ATPase6, MTATP6, MT-ATP6, RP
+DEFINITION  (RefSeq) ATP synthase F0 subunit 6
+ORTHOLOGY   K02126  F-type H+-transporting ATPase subunit a
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00158  F-type ATPase, eukaryotes
+DISEASE     H00068  Leber hereditary optic atrophy (LHON)
+            H01177  Infantile bilateral striatal necrosis (IBSN)
+            H01355  Kearns-Sayre Syndrome
+            H01363  NARP syndrome
+            H01369  ATP synthase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4508 (ATP6)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4508 (ATP6)
+               05012 Parkinson's disease
+                4508 (ATP6)
+               05016 Huntington's disease
+                4508 (ATP6)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               F-type ATPase
+                4508 (ATP6)
+POSITION    MT
+MOTIF       Pfam: ATP-synt_A
+DBLINKS     NCBI-GeneID: 4508
+            NCBI-ProteinID: YP_003024031
+            OMIM: 516060
+            HGNC: 7414
+            Pharos: P00846(Tbio)
+            UniProt: P00846 Q0ZFE3
+AASEQ       226
+            MNENLFASFIAPTILGLPAAVLIILFPPLLIPTSKYLINNRLITTQQWLIKLTSKQMMTM
+            HNTKGRTWSLMLVSLIIFIATTNLLGLLPHSFTPTTQLSMNLAMAIPLWAGTVIMGFRSK
+            IKNALAHFLPQGTPTPLIPMLVIIETISLLIQPMALAVRLTANITAGHLLMHLIGSATLA
+            MSTINLPSTLIIFTILILLTILEIAVALIQAYVFTLLVSLYLHDNT
+NTSEQ       681
+            atgaacgaaaatctgttcgcttcattcattgcccccacaatcctaggcctacccgccgca
+            gtactgatcattctatttccccctctattgatccccacctccaaatatctcatcaacaac
+            cgactaatcaccacccaacaatgactaatcaaactaacctcaaaacaaatgataaccata
+            cacaacactaaaggacgaacctgatctcttatactagtatccttaatcatttttattgcc
+            acaactaacctcctcggactcctgcctcactcatttacaccaaccacccaactatctata
+            aacctagccatggccatccccttatgagcgggcacagtgattataggctttcgctctaag
+            attaaaaatgccctagcccacttcttaccacaaggcacacctacaccccttatccccata
+            ctagttattatcgaaaccatcagcctactcattcaaccaatagccctggccgtacgccta
+            accgctaacattactgcaggccacctactcatgcacctaattggaagcgccaccctagca
+            atatcaaccattaaccttccctctacacttatcatcttcacaattctaattctactgact
+            atcctagaaatcgctgtcgccttaatccaagcctacgttttcacacttctagtaagcctc
+            tacctgcacgacaacacataa
+///

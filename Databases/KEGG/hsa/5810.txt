@@ -1,0 +1,58 @@
+ENTRY       5810              CDS       T01001
+NAME        RAD1, HRAD1, REC1
+DEFINITION  (RefSeq) RAD1 checkpoint DNA exonuclease
+ORTHOLOGY   K02830  cell cycle checkpoint protein [EC:3.1.11.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04218  Cellular senescence
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04218 Cellular senescence
+                5810 (RAD1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.2  exodeoxyribonuclease III
+                 5810 (RAD1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Rad9-Hus1-Rad1 complex
+                5810 (RAD1)
+               Rad17-Mec3-Ddc1 complex
+                5810 (RAD1)
+POSITION    5p13.2
+MOTIF       Pfam: Rad1 Pro_3_hydrox_C
+DBLINKS     NCBI-GeneID: 5810
+            NCBI-ProteinID: NP_002844
+            OMIM: 603153
+            HGNC: 9806
+            Ensembl: ENSG00000113456
+            Vega: OTTHUMG00000090783
+            Pharos: O60671(Tchem)
+            UniProt: O60671 A0A024R045
+STRUCTURE   PDB: 3A1J 3G65 3GGR
+AASEQ       282
+            MPLLTQQIQDEDDQYSLVASLDNVRNLSTILKAIHFREHATCFATKNGIKVTVENAKCVQ
+            ANAFIQAGIFQEFKVQEESVTFRINLTVLLDCLSIFGSSPMPGTLTALRMCYQGYGYPLM
+            LFLEEGGVVTVCKINTQEPEETLDFDFCSTNVINKIILQSEGLREAFSELDMTSEVLQIT
+            MSPDKPYFRLSTFGNAGSSHLDYPKDSDLMEAFHCNQTQVNRYKISLLKPSTKALVLSCK
+            VSIRTDNRGFLSLQYMIRNEDGQICFVEYYCCPDEEVPESES
+NTSEQ       849
+            atgccccttctgacccaacagatccaagacgaggatgatcagtacagccttgtggccagc
+            cttgacaacgttaggaatctctccactatcttgaaagctattcatttccgagaacatgcc
+            acgtgtttcgcaactaaaaatggtatcaaagtaacagtggaaaatgcaaagtgtgtgcaa
+            gcaaatgcttttattcaggctggaatatttcaggagtttaaagttcaggaagagtctgtt
+            acttttcgaattaatttaactgtccttttagactgtttatctatttttggatcaagtcct
+            atgccagggactttaactgcacttcgaatgtgttaccaaggttatggttaccctttgatg
+            ctgttcctggaagaaggaggagtggtgacagtctgcaaaatcaatacacaggaacctgag
+            gagaccctggactttgatttctgcagcaccaatgttattaataaaattattctgcagtca
+            gaggggctccgtgaagcattttctgaattggatatgacgagtgaagtcctacaaattacc
+            atgtctcctgacaagccttatttcaggttatctacttttggaaatgcaggaagttcccac
+            cttgactatcccaaagattctgatttgatggaagcatttcattgtaatcagacccaagtc
+            aacagatacaagatttccttactgaaaccctctacaaaggcattagtcctatcttgtaag
+            gtatctattcggacagataacagaggcttcctttcattacagtatatgattagaaatgaa
+            gatggacaaatatgttttgtggaatattactgctgccctgatgaagaagttcctgaatct
+            gagtcttga
+///

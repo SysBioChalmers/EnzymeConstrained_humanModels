@@ -1,0 +1,82 @@
+ENTRY       7006              CDS       T01001
+NAME        TEC, PSCTK4
+DEFINITION  (RefSeq) tec protein tyrosine kinase
+ORTHOLOGY   K07364  tyrosine-protein kinase Tec [EC:2.7.10.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04380  Osteoclast differentiation
+            hsa04660  T cell receptor signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                7006 (TEC)
+              Development
+               04380 Osteoclast differentiation
+                7006 (TEC)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.2  non-specific protein-tyrosine kinase
+                 7006 (TEC)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Tec family [OT]
+               7006 (TEC)
+POSITION    4p12-p11
+MOTIF       Pfam: Pkinase_Tyr Pkinase SH2 PH SH3_1 BTK SH3_9 SH3_2 Kinase-like APH SH3_3
+DBLINKS     NCBI-GeneID: 7006
+            NCBI-ProteinID: NP_003206
+            OMIM: 600583
+            HGNC: 11719
+            Ensembl: ENSG00000135605
+            Vega: OTTHUMG00000128623
+            Pharos: P42680(Tchem)
+            UniProt: P42680
+STRUCTURE   PDB: 2LUL
+AASEQ       631
+            MNFNTILEEILIKRSQQKKKTSPLNYKERLFVLTKSMLTYYEGRAEKKYRKGFIDVSKIK
+            CVEIVKNDDGVIPCQNKYPFQVVHDANTLYIFAPSPQSRDLWVKKLKEEIKNNNNIMIKY
+            HPKFWTDGSYQCCRQTEKLAPGCEKYNLFESSIRKALPPAPETKKRRPPPPIPLEEEDNS
+            EEIVVAMYDFQAAEGHDLRLERGQEYLILEKNDVHWWRARDKYGNEGYIPSNYVTGKKSN
+            NLDQYEWYCRNMNRSKAEQLLRSEDKEGGFMVRDSSQPGLYTVSLYTKFGGEGSSGFRHY
+            HIKETTTSPKKYYLAEKHAFGSIPEIIEYHKHNAAGLVTRLRYPVSVKGKNAPTTAGFSY
+            EKWEINPSELTFMRELGSGLFGVVRLGKWRAQYKVAIKAIREGAMCEEDFIEEAKVMMKL
+            THPKLVQLYGVCTQQKPIYIVTEFMERGCLLNFLRQRQGHFSRDVLLSMCQDVCEGMEYL
+            ERNSFIHRDLAARNCLVSEAGVVKVSDFGMARYVLDDQYTSSSGAKFPVKWCPPEVFNYS
+            RFSSKSDVWSFGVLMWEVFTEGRMPFEKYTNYEVVTMVTRGHRLYQPKLASNYVYEVMLR
+            CWQEKPEGRPSFEDLLRTIDELVECEETFGR
+NTSEQ       1896
+            atgaattttaacactattttggaggagattcttattaaaaggtcacagcagaaaaagaag
+            acatcgcccttaaactacaaagagagactttttgtacttacaaagtccatgctaacctac
+            tatgagggtcgagcagagaagaaatacagaaaggggtttattgatgtttcaaaaatcaag
+            tgtgtggaaatagtgaagaatgatgatggtgtcattccctgtcaaaataagtatccattt
+            caggttgttcatgatgctaacacactttacatttttgcacctagtccacaaagcagggac
+            ctgtgggtgaagaagttaaaagaagaaataaagaacaacaataatattatgattaaatat
+            catcctaaattctggacagatggaagttatcagtgttgtagacaaactgaaaaattagca
+            cccggatgtgaaaaatacaatctttttgagagcagtataagaaaagcactacctccagca
+            ccagaaacaaagaagcgaaggcctcccccaccaattccactagaagaagaagataatagt
+            gaagaaatcgttgtagccatgtatgatttccaagcagcagaaggacatgatctcagatta
+            gagagaggccaagagtatctcattttagaaaagaatgatgttcattggtggagagcaaga
+            gataaatatgggaatgaaggatatatcccaagtaattacgtaacgggaaagaaatcaaac
+            aacttagatcaatatgaatggtattgcagaaatatgaatagaagcaaggcagagcaactc
+            ctccgcagtgaagataaagaaggtggttttatggtaagggattccagtcaaccaggcttg
+            tacacagtctccctttataccaagtttggaggagaaggttcatcgggttttaggcattat
+            catataaaggaaacaacaacatctccaaagaagtattacctagctgaaaaacatgctttt
+            ggctccattcctgagattattgaatatcataagcacaatgcagcaggacttgtcaccagg
+            cttcggtacccagttagtgtgaaagggaagaatgcacccaccactgcaggattcagctat
+            gagaaatgggagattaacccttcagaactgacctttatgagggaattgggaagtggactg
+            tttggagtggtgaggcttggcaaatggcgagcccagtacaaagtcgcaatcaaagctatt
+            cgggaaggtgcaatgtgcgaggaggactttatagaagaagctaaagtgatgatgaaactg
+            acacacccgaagttagtgcagctttatggtgtgtgcacccagcagaaaccaatatacatt
+            gttactgagttcatggaaaggggctgccttctgaatttcctccgacagagacaaggtcat
+            ttcagtagagacgtactgctgagcatgtgtcaggatgtgtgtgaagggatggagtatctg
+            gagagaaacagcttcatccacagagatctggctgccagaaattgtctagtaagtgaggcg
+            ggagttgtaaaagtatctgattttggaatggccaggtatgttctggatgatcagtacaca
+            agttcttctggtgctaagtttcctgtgaagtggtgtccacctgaagtgtttaattacagc
+            cgcttcagcagcaaatcagatgtctggtcatttggtgttttaatgtgggaagtattcacg
+            gaaggcagaatgccttttgaaaaatacaccaattatgaagtggtaaccatggttactcga
+            ggccaccgactctaccagccgaagttggcgtccaactatgtgtatgaggtgatgctgaga
+            tgttggcaggagaaaccagagggaaggccttctttcgaagatctgctgcgcacaatagat
+            gaactagttgaatgtgaagaaacttttggaagataa
+///

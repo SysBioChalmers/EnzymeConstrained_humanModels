@@ -1,0 +1,99 @@
+ENTRY       2990              CDS       T01001
+NAME        GUSB, BG, MPS7
+DEFINITION  (RefSeq) glucuronidase beta
+ORTHOLOGY   K01195  beta-glucuronidase [EC:3.2.1.31]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00531  Glycosaminoglycan degradation
+            hsa00860  Porphyrin and chlorophyll metabolism
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+            hsa04142  Lysosome
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+            hsa_M00076  Dermatan sulfate degradation
+            hsa_M00077  Chondroitin sulfate degradation
+            hsa_M00078  Heparan sulfate degradation
+DISEASE     H00132  Mucopolysaccharidosis type VII (MPS7)
+            H00421  Mucopolysaccharidosis (MPS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                2990 (GUSB)
+              Glycan biosynthesis and metabolism
+               00531 Glycosaminoglycan degradation
+                2990 (GUSB)
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                2990 (GUSB)
+              Xenobiotics biodegradation and metabolism
+               00983 Drug metabolism - other enzymes
+                2990 (GUSB)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                2990 (GUSB)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.31  beta-glucuronidase
+                 2990 (GUSB)
+POSITION    7q11.21
+MOTIF       Pfam: Glyco_hydro_2_C Glyco_hydro_2_N Glyco_hydro_2 Glyco_hydro_42
+DBLINKS     NCBI-GeneID: 2990
+            NCBI-ProteinID: NP_000172
+            OMIM: 611499
+            HGNC: 4696
+            Ensembl: ENSG00000169919
+            Vega: OTTHUMG00000023735
+            Pharos: P08236(Tchem)
+            UniProt: P08236
+STRUCTURE   PDB: 3HN3 1BHG
+AASEQ       651
+            MARGSAVAWAALGPLLWGCALGLQGGMLYPQESPSRECKELDGLWSFRADFSDNRRRGFE
+            EQWYRRPLWESGPTVDMPVPSSFNDISQDWRLRHFVGWVWYEREVILPERWTQDLRTRVV
+            LRIGSAHSYAIVWVNGVDTLEHEGGYLPFEADISNLVQVGPLPSRLRITIAINNTLTPTT
+            LPPGTIQYLTDTSKYPKGYFVQNTYFDFFNYAGLQRSVLLYTTPTTYIDDITVTTSVEQD
+            SGLVNYQISVKGSNLFKLEVRLLDAENKVVANGTGTQGQLKVPGVSLWWPYLMHERPAYL
+            YSLEVQLTAQTSLGPVSDFYTLPVGIRTVAVTKSQFLINGKPFYFHGVNKHEDADIRGKG
+            FDWPLLVKDFNLLRWLGANAFRTSHYPYAEEVMQMCDRYGIVVIDECPGVGLALPQFFNN
+            VSLHHHMQVMEEVVRRDKNHPAVVMWSVANEPASHLESAGYYLKMVIAHTKSLDPSRPVT
+            FVSNSNYAADKGAPYVDVICLNSYYSWYHDYGHLELIQLQLATQFENWYKKYQKPIIQSE
+            YGAETIAGFHQDPPLMFTEEYQKSLLEQYHLGLDQKRRKYVVGELIWNFADFMTEQSPTR
+            VLGNKKGIFTRQRQPKSAAFLLRERYWKIANETRYPHSVAKSQCLENSLFT
+NTSEQ       1956
+            atggcccgggggtcggcggttgcctgggcggcgctcgggccgttgttgtggggctgcgcg
+            ctggggctgcagggcgggatgctgtacccccaggagagcccgtcgcgggagtgcaaggag
+            ctggacggcctctggagcttccgcgccgacttctctgacaaccgacgccggggcttcgag
+            gagcagtggtaccggcggccgctgtgggagtcaggccccaccgtggacatgccagttccc
+            tccagcttcaatgacatcagccaggactggcgtctgcggcattttgtcggctgggtgtgg
+            tacgaacgggaggtgatcctgccggagcgatggacccaggacctgcgcacaagagtggtg
+            ctgaggattggcagtgcccattcctatgccatcgtgtgggtgaatggggtcgacacgcta
+            gagcatgaggggggctacctccccttcgaggccgacatcagcaacctggtccaggtgggg
+            cccctgccctcccggctccgaatcactatcgccatcaacaacacactcacccccaccacc
+            ctgccaccagggaccatccaatacctgactgacacctccaagtatcccaagggttacttt
+            gtccagaacacatattttgactttttcaactacgctggactgcagcggtctgtacttctg
+            tacacgacacccaccacctacatcgatgacatcaccgtcaccaccagcgtggagcaagac
+            agtgggctggtgaattaccagatctctgtcaagggcagtaacctgttcaagttggaagtg
+            cgtcttttggatgcagaaaacaaagtcgtggcgaatgggactgggacccagggccaactt
+            aaggtgccaggtgtcagcctctggtggccgtacctgatgcacgaacgccctgcctatctg
+            tattcattggaggtgcagctgactgcacagacgtcactggggcctgtgtctgacttctac
+            acactccctgtggggatccgcactgtggctgtcaccaagagccagttcctcatcaatggg
+            aaacctttctatttccacggtgtcaacaagcatgaggatgcggacatccgagggaagggc
+            ttcgactggccgctgctggtgaaggacttcaacctgcttcgctggcttggtgccaacgct
+            ttccgtaccagccactacccctatgcagaggaagtgatgcagatgtgtgaccgctatggg
+            attgtggtcatcgatgagtgtcccggcgtgggcctggcgctgccgcagttcttcaacaac
+            gtttctctgcatcaccacatgcaggtgatggaagaagtggtgcgtagggacaagaaccac
+            cccgcggtcgtgatgtggtctgtggccaacgagcctgcgtcccacctagaatctgctggc
+            tactacttgaagatggtgatcgctcacaccaaatccttggacccctcccggcctgtgacc
+            tttgtgagcaactctaactatgcagcagacaagggggctccgtatgtggatgtgatctgt
+            ttgaacagctactactcttggtatcacgactacgggcacctggagttgattcagctgcag
+            ctggccacccagtttgagaactggtataagaagtatcagaagcccattattcagagcgag
+            tatggagcagaaacgattgcagggtttcaccaggatccacctctgatgttcactgaagag
+            taccagaaaagtctgctagagcagtaccatctgggtctggatcaaaaacgcagaaaatac
+            gtggttggagagctcatttggaattttgccgatttcatgactgaacagtcaccgacgaga
+            gtgctggggaataaaaaggggatcttcactcggcagagacaaccaaaaagtgcagcgttc
+            cttttgcgagagagatactggaagattgccaatgaaaccaggtatccccactcagtagcc
+            aagtcacaatgtttggaaaacagcctgtttacttga
+///

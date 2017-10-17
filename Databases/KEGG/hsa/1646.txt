@@ -1,0 +1,63 @@
+ENTRY       1646              CDS       T01001
+NAME        AKR1C2, AKR1C-pseudo, BABP, DD, DD-2, DD/BABP, DD2, DDH2, HAKRD, HBAB, MCDR2, SRXY8, TDD
+DEFINITION  (RefSeq) aldo-keto reductase family 1 member C2
+ORTHOLOGY   K00089  3alpha-hydroxysteroid 3-dehydrogenase [EC:1.1.1.213 1.1.1.357]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa05204  Chemical carcinogenesis
+DISEASE     H00607  46,XY disorders of sex development (Disorders of gonadal development)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1646 (AKR1C2)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1646 (AKR1C2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.213  3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)
+                 1646 (AKR1C2)
+                1.1.1.357  3alpha-hydroxysteroid 3-dehydrogenase
+                 1646 (AKR1C2)
+POSITION    10p15.1
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 1646
+            NCBI-ProteinID: NP_001345
+            OMIM: 600450
+            HGNC: 385
+            Ensembl: ENSG00000151632
+            Vega: OTTHUMG00000017584
+            Pharos: P52895(Tchem)
+            UniProt: P52895
+STRUCTURE   PDB: 4XO6 1J96 4JTR 4JQA 4JQ4 4JTQ 4JQ1 4XO7 4JQ2 4JQ3 2IPJ
+                 1XJB 4L1X 2HDJ 4L1W 1IHI
+AASEQ       323
+            MDSKYQCVKLNDGHFMPVLGFGTYAPAEVPKSKALEAVKLAIEAGFHHIDSAHVYNNEEQ
+            VGLAIRSKIADGSVKREDIFYTSKLWSNSHRPELVRPALERSLKNLQLDYVDLYLIHFPV
+            SVKPGEEVIPKDENGKILFDTVDLCATWEAMEKCKDAGLAKSIGVSNFNHRLLEMILNKP
+            GLKYKPVCNQVECHPYFNQRKLLDFCKSKDIVLVAYSALGSHREEPWVDPNSPVLLEDPV
+            LCALAKKHKRTPALIALRYQLQRGVVVLAKSYNEQRIRQNVQVFEFQLTSEEMKAIDGLN
+            RNVRYLTLDIFAGPPNYPFSDEY
+NTSEQ       972
+            atggattcgaaataccagtgtgtgaagctgaatgatggtcacttcatgcctgtcctggga
+            tttggcacctatgcgcctgcagaggttcctaaaagtaaagctctagaggccgtcaaattg
+            gcaatagaagccgggttccaccatattgattctgcacatgtttacaataatgaggagcag
+            gttggactggccatccgaagcaagattgcagatggcagtgtgaagagagaagacatattc
+            tacacttcaaagctttggagcaattcccatcgaccagagttggtccgaccagccttggaa
+            aggtcactgaaaaatcttcaattggactatgttgacctctatcttattcattttccagtg
+            tctgtaaagccaggtgaggaagtgatcccaaaagatgaaaatggaaaaatactatttgac
+            acagtggatctctgtgccacatgggaggccatggagaagtgtaaagatgcaggattggcc
+            aagtccatcggggtgtccaacttcaaccacaggctgctggagatgatcctcaacaagcca
+            gggctcaagtacaagcctgtctgcaaccaggtggaatgtcatccttacttcaaccagaga
+            aaactgctggatttctgcaagtcaaaagacattgttctggttgcctatagtgctctggga
+            tcccatcgagaagaaccatgggtggacccgaactccccggtgctcttggaggacccagtc
+            ctttgtgccttggcaaaaaagcacaagcgaaccccagccctgattgccctgcgctaccag
+            ctgcagcgtggggttgtggtcctggccaagagctacaatgagcagcgcatcagacagaac
+            gtgcaggtgtttgaattccagttgacttcagaggagatgaaagccatagatggcctaaac
+            agaaatgtgcgatatttgacccttgatatttttgctggcccccctaattatccattttct
+            gatgaatattaa
+///

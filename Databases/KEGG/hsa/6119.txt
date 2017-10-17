@@ -1,0 +1,64 @@
+ENTRY       6119              CDS       T01001
+NAME        RPA3, REPA3, RP-A_p14
+DEFINITION  (RefSeq) replication protein A3
+ORTHOLOGY   K10740  replication factor A3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+            hsa03460  Fanconi anemia pathway
+MODULE      hsa_M00288  RPA complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                6119 (RPA3)
+               03420 Nucleotide excision repair
+                6119 (RPA3)
+               03430 Mismatch repair
+                6119 (RPA3)
+               03440 Homologous recombination
+                6119 (RPA3)
+               03460 Fanconi anemia pathway
+                6119 (RPA3)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RPA (replication protein A)
+                6119 (RPA3)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                RPA (replication factor A)
+                 6119 (RPA3)
+               MMR (mismatch exicision repair)
+                 6119 (RPA3)
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                 6119 (RPA3)
+POSITION    7p21.3
+MOTIF       Pfam: Rep_fac-A_3
+DBLINKS     NCBI-GeneID: 6119
+            NCBI-ProteinID: NP_002938
+            OMIM: 179837
+            HGNC: 10291
+            Ensembl: ENSG00000106399
+            Vega: OTTHUMG00000023748
+            Pharos: P35244(Tbio)
+            UniProt: P35244 A4D105
+STRUCTURE   PDB: 3KDF 2PI2 2PQA 1QUQ 1L1O 2Z6K
+AASEQ       121
+            MVDMMDLPRSRINAGMLAQFIDKPVCFVGRLEKIHPTGKMFILSDGEGKNGTIELMEPLD
+            EEISGIVEVVGRVTAKATILCTSYVQFKEDSHPFDLGLYNEAVKIIHDFPQFYPLGIVQH
+            D
+NTSEQ       366
+            atggtggacatgatggacttgcccaggtcgcgcatcaacgccggcatgctagctcaattc
+            atcgacaagcctgtctgcttcgtagggaggctggaaaagattcatcccaccggaaaaatg
+            tttattctttcagatggagaaggaaaaaatggaaccatcgagttgatggaaccccttgat
+            gaagaaatctctggaattgtggaagtggttggaagagtaaccgccaaggccaccatcttg
+            tgtacatcttatgtccagtttaaagaagatagccatccttttgatcttggactttacaat
+            gaagctgtgaaaattatccatgacttccctcagttttatcctttagggattgtgcaacat
+            gattga
+///

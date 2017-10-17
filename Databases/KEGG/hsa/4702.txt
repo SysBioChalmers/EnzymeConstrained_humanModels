@@ -1,0 +1,59 @@
+ENTRY       4702              CDS       T01001
+NAME        NDUFA8, CI-19KD, CI-PGIV, PGIV
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit A8
+ORTHOLOGY   K03952  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 8
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00146  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4702 (NDUFA8)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4702 (NDUFA8)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4702 (NDUFA8)
+               05012 Parkinson's disease
+                4702 (NDUFA8)
+               05016 Huntington's disease
+                4702 (NDUFA8)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4702 (NDUFA8)
+POSITION    9q33.2
+MOTIF       Pfam: CHCH CX9C Cmc1
+DBLINKS     NCBI-GeneID: 4702
+            NCBI-ProteinID: NP_055037
+            OMIM: 603359
+            HGNC: 7692
+            Ensembl: ENSG00000119421
+            Vega: OTTHUMG00000020598
+            Pharos: P51970(Tclin)
+            UniProt: P51970
+STRUCTURE   PDB: 5XTC 5XTD
+AASEQ       172
+            MPGIVELPTLEELKVDEVKISSAVLKAAAHHYGAQCDKPNKEFMLCRWEEKDPRRCLEEG
+            KLVNKCALDFFRQIKRHCAEPFTEYWTCIDYTGQQLFRHCRKQQAKFDECVLDKLGWVRP
+            DLGELSKVTKVKTDRPLPENPYHSRPRPDPSPEIEGDLQPATHGSRFYFWTK
+NTSEQ       519
+            atgccggggatagtggagctgcccactctagaggagctgaaagtagatgaggtgaaaatt
+            agttctgctgtgcttaaagctgcggcccatcactatggagctcaatgtgataagcccaac
+            aaggagtttatgctctgccgctgggaagagaaagatccgaggcggtgtttagaggaaggc
+            aaactggtcaacaagtgtgctttggacttctttaggcagataaaacgtcactgtgcagag
+            ccttttacagaatattggacttgcattgattatactggccagcagttatttcgtcactgt
+            cgcaaacagcaggcaaagtttgacgagtgtgtgctggacaaactgggctgggtgcggcct
+            gacctgggagaactgtcaaaggtcaccaaagtgaaaacagatcgacctttaccggagaat
+            ccctatcactcaagaccaagaccggatcccagccctgagatcgagggagatctgcagcct
+            gccacacatggcagccgcttttatttctggaccaagtaa
+///

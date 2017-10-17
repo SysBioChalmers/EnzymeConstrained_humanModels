@@ -1,0 +1,68 @@
+ENTRY       5433              CDS       T01001
+NAME        POLR2D, HSRBP4, HSRPB4, RBP4, RPB16
+DEFINITION  (RefSeq) RNA polymerase II subunit D
+ORTHOLOGY   K03012  DNA-directed RNA polymerase II subunit RPB4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa05016  Huntington's disease
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00180  RNA polymerase II, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5433 (POLR2D)
+               00240 Pyrimidine metabolism
+                5433 (POLR2D)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                5433 (POLR2D)
+             Human Diseases
+              Neurodegenerative diseases
+               05016 Huntington's disease
+                5433 (POLR2D)
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                5433 (POLR2D)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               RNA polymerase II
+                Pol II specific subunits
+                 5433 (POLR2D)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase II complex
+                  5433 (POLR2D)
+POSITION    2q14.3
+MOTIF       Pfam: RNA_pol_Rpb4 Tfb4 Maelstrom
+DBLINKS     NCBI-GeneID: 5433
+            NCBI-ProteinID: NP_004796
+            OMIM: 606017
+            HGNC: 9191
+            Ensembl: ENSG00000144231
+            Vega: OTTHUMG00000131531
+            Pharos: O15514(Tdark)
+            UniProt: O15514 A0A024RAJ4
+STRUCTURE   PDB: 2C35 5IYB 5IYC 5IYD 5IYA 5IY9 5IY6 5IY8 5IY7
+AASEQ       142
+            MAAGGSDPRAGDVEEDASQLIFPKEFETAETLLNSEVHMLLEHRKQQNESAEDEQELSEV
+            FMKTLNYTARFSRFKNRETIASVRSLLLQKKLHKFELACLANLCPETAEESKALIPSLEG
+            RFEDEELQQILDDIQTKRSFQY
+NTSEQ       429
+            atggcggcgggtggcagcgatccgcgggctggcgacgtagaggaggacgcctcacagctc
+            atctttcctaaagagtttgaaacagctgagacacttctaaattcagaagttcatatgctt
+            ctggaacatcgaaagcagcagaatgagagtgcagaggacgaacaggagctctcagaagtc
+            ttcatgaaaacattaaactacacagcccgtttcagtcgtttcaaaaacagagagaccatt
+            gccagtgttcgtagcttgctactccagaaaaagcttcataagtttgagttggcctgtttg
+            gccaacctttgcccagagactgctgaggagtccaaggctctaatcccaagcttggaggga
+            cggtttgaagatgaggagctgcagcagattcttgatgatatccagacaaagcgcagcttt
+            cagtattaa
+///

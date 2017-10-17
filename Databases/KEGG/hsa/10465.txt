@@ -1,0 +1,54 @@
+ENTRY       10465             CDS       T01001
+NAME        PPIH, CYP-20, CYPH, SnuCyp-20, USA-CYP
+DEFINITION  (RefSeq) peptidylprolyl isomerase H
+ORTHOLOGY   K09567  peptidyl-prolyl isomerase H (cyclophilin H) [EC:5.2.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                10465 (PPIH)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 10465 (PPIH)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U4/U6 snRNP specific factors
+                10465 (PPIH)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                10465 (PPIH)
+POSITION    1p34.2
+MOTIF       Pfam: Pro_isomerase
+DBLINKS     NCBI-GeneID: 10465
+            NCBI-ProteinID: NP_006338
+            OMIM: 606095
+            HGNC: 14651
+            Ensembl: ENSG00000171960
+            Vega: OTTHUMG00000007520
+            Pharos: O43447(Tbio)
+            UniProt: O43447 Q6FH36
+STRUCTURE   PDB: 1MZW 1QOI 5O9Z
+AASEQ       177
+            MAVANSSPVNPVVFFDVSIGGQEVGRMKIELFADVVPKTAENFRQFCTGEFRKDGVPIGY
+            KGSTFHRVIKDFMIQGGDFVNGDGTGVASIYRGPFADENFKLRHSAPGLLSMANSGPSTN
+            GCQFFITCSKCDWLDGKHVVFGKIIDGLLVMRKIENVPTGPNNKPKLPVVISQCGEM
+NTSEQ       534
+            atggcggtggcaaattcaagtcctgttaaccccgtggtgttctttgatgtcagtattggc
+            ggtcaggaagttggccgcatgaagatcgagctctttgcagacgttgtgcctaagacggcc
+            gagaactttaggcagttctgcaccggagaattcaggaaagatggggttccaataggatac
+            aaaggaagcaccttccacagggtcataaaggatttcatgattcagggtggagattttgtt
+            aatggagatggtactggagtcgccagtatttaccgggggccatttgcagatgaaaatttt
+            aaacttagacactcagctccaggcctgctttccatggcgaacagtggtccaagtacaaat
+            ggctgtcagttctttatcacctgctctaagtgcgattggctggatgggaagcatgtggtg
+            tttggaaaaatcatcgatggacttctagtgatgagaaagattgagaatgttcccacaggc
+            cccaacaataagcccaagctacctgtggtgatctcgcagtgtggggagatgtag
+///

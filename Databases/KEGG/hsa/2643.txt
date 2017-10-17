@@ -1,0 +1,52 @@
+ENTRY       2643              CDS       T01001
+NAME        GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B
+DEFINITION  (RefSeq) GTP cyclohydrolase 1
+ORTHOLOGY   K01495  GTP cyclohydrolase IA [EC:3.5.4.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+DISEASE     H00167  Phenylketonuria (PKU)
+            H00831  Primary dystonia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                2643 (GCH1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.16  GTP cyclohydrolase I
+                 2643 (GCH1)
+POSITION    14q22.2
+MOTIF       Pfam: GTP_cyclohydroI QueF MAPKK1_Int
+DBLINKS     NCBI-GeneID: 2643
+            NCBI-ProteinID: NP_000152
+            OMIM: 600225
+            HGNC: 4193
+            Ensembl: ENSG00000131979
+            Vega: OTTHUMG00000029754
+            Pharos: P30793(Tbio)
+            UniProt: P30793 A0A024R642
+STRUCTURE   PDB: 1FB1
+AASEQ       250
+            MEKGPVRAPAEKPRGARCSNGFPERDPPRPGPSRPAEKPPRPEAKSAQPADGWKGERPRS
+            EEDNELNLPNLAAAYSSILSSLGENPQRQGLLKTPWRAASAMQFFTKGYQETISDVLNDA
+            IFDEDHDEMVIVKDIDMFSMCEHHLVPFVGKVHIGYLPNKQVLGLSKLARIVEIYSRRLQ
+            VQERLTKQIAVAITEALRPAGVGVVVEATHMCMVMRGVQKMNSKTVTSTMLGVFREDPKT
+            REEFLTLIRS
+NTSEQ       753
+            atggagaagggccctgtgcgggcaccggcggagaagccgcggggcgccaggtgcagcaat
+            gggttccccgagcgggatccgccgcggcccgggcccagcaggccggcggagaagcccccg
+            cggcccgaggccaagagcgcgcagcccgcggacggctggaagggcgagcggccccgcagc
+            gaggaggataacgagctgaacctccctaacctggcagccgcctactcgtccatcctgagc
+            tcgctgggcgagaacccccagcggcaagggctgctcaagacgccctggagggcggcctcg
+            gccatgcagttcttcaccaagggctaccaggagaccatctcagatgtcctaaacgatgct
+            atatttgatgaagatcatgatgagatggtgattgtgaaggacatagacatgttttccatg
+            tgtgagcatcacttggttccatttgttggaaaggtccatattggttatcttcctaacaag
+            caagtccttggcctcagcaaacttgcgaggattgtagaaatctatagtagaagactacaa
+            gttcaggagcgccttacaaaacaaattgctgtagcaatcacggaagccttgcggcctgct
+            ggagtcggggtagtggttgaagcaacacacatgtgtatggtaatgcgaggtgtacagaaa
+            atgaacagcaaaactgtgaccagcacaatgttgggtgtgttccgggaggatccaaagact
+            cgggaagagttcctgactctcattaggagctga
+///

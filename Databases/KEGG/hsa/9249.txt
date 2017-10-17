@@ -1,0 +1,53 @@
+ENTRY       9249              CDS       T01001
+NAME        DHRS3, DD83.1, RDH17, Rsdr1, SDR1, SDR16C1, retSDR1
+DEFINITION  (RefSeq) dehydrogenase/reductase 3
+ORTHOLOGY   K11146  short-chain dehydrogenase/reductase 3 [EC:1.1.1.300]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                9249 (DHRS3)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.300  NADP-retinol dehydrogenase
+                 9249 (DHRS3)
+POSITION    1p36.21
+MOTIF       Pfam: adh_short adh_short_C2 KR Polysacc_synt_2 Shikimate_DH Epimerase Sacchrp_dh_NADP
+DBLINKS     NCBI-GeneID: 9249
+            NCBI-ProteinID: NP_004744
+            OMIM: 612830
+            HGNC: 17693
+            Ensembl: ENSG00000162496
+            Vega: OTTHUMG00000001885
+            Pharos: O75911(Tbio)
+            UniProt: O75911
+AASEQ       302
+            MVWKRLGALVMFPLQMIYLVVKAAVGLVLPAKLRDLSRENVLITGGGRGIGRQLAREFAE
+            RGARKIVLWGRTEKCLKETTEEIRQMGTECHYFICDVGNREEVYQTAKAVREKVGDITIL
+            VNNAAVVHGKSLMDSDDDALLKSQHINTLGQFWTTKAFLPRMLELQNGHIVCLNSVLALS
+            AIPGAIDYCTSKASAFAFMESLTLGLLDCPGVSATTVLPFHTSTEMFQGMRVRFPNLFPP
+            LKPETVARRTVEAVQLNQALLLLPWTMHALVILKSILPQAALEEIHKFSGTYTCMNTFKG
+            RT
+NTSEQ       909
+            atggtgtggaaacggctgggcgcgctggtgatgttccctctacagatgatctatctggtg
+            gtgaaagcagccgtcggactggtgctgcccgccaagctgcgggacctgtcgcgggagaac
+            gtcctcatcaccggcggcgggagaggcatcgggcgtcagctcgcccgcgagttcgcggag
+            cgcggcgccagaaagattgttctctggggccggactgagaaatgcctgaaggagacgacg
+            gaggagatccggcagatgggcactgagtgccattacttcatctgtgatgtgggcaaccgg
+            gaggaggtgtaccagacggccaaggccgtccgggagaaggtgggtgacatcaccatcctg
+            gtgaacaatgccgccgtggtccatgggaagagcctaatggacagtgatgatgatgccctc
+            ctcaagtcccaacacatcaacaccctgggccagttctggaccaccaaggccttcctgccg
+            cgtatgctggagctgcagaatggccacatcgtgtgcctcaactccgtgctggcactgtct
+            gccatccccggtgccatcgactactgcacatccaaagcgtcagccttcgccttcatggag
+            agcctgaccctggggctgctggactgtccgggagtcagcgccaccacagtgctgcccttc
+            cacaccagcaccgagatgttccagggcatgagagtcaggtttcccaacctctttccccca
+            ctgaagccggagacggtggcccggaggacagtggaagctgtgcagctcaaccaggccctc
+            ctcctcctcccatggacaatgcatgccctcgttatcttgaaaagcatacttccacaggct
+            gcactcgaggagatccacaaattctcaggaacctacacctgcatgaacactttcaaaggg
+            cggacatag
+///

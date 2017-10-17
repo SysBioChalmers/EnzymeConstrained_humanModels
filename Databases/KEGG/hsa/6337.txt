@@ -1,0 +1,82 @@
+ENTRY       6337              CDS       T01001
+NAME        SCNN1A, BESC2, ENaCa, ENaCalpha, SCNEA, SCNN1
+DEFINITION  (RefSeq) sodium channel epithelial 1 alpha subunit
+ORTHOLOGY   K04824  amiloride-sensitive sodium channel subunit alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04742  Taste transduction
+            hsa04960  Aldosterone-regulated sodium reabsorption
+DISEASE     H00243  Hyperkalemic distal renal tubular acidosis (RTA type 4)
+            H00892  Bronchiectasis with or without elevated sweat chloride
+DRUG_TARGET Amiloride (DG00275): D00649 D07447
+            Triamterene: D00386
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                6337 (SCNN1A)
+              Sensory system
+               04742 Taste transduction
+                6337 (SCNN1A)
+            Ion channels [BR:hsa04040]
+             Epithelial and related channels
+              Epithelial sodium channel (SCNN)
+               6337 (SCNN1A)
+POSITION    12p13.31
+MOTIF       Pfam: ASC
+DBLINKS     NCBI-GeneID: 6337
+            NCBI-ProteinID: NP_001029
+            OMIM: 600228
+            HGNC: 10599
+            Ensembl: ENSG00000111319
+            Vega: OTTHUMG00000168268
+            Pharos: P37088(Tclin)
+            UniProt: P37088
+AASEQ       669
+            MEGNKLEEQDSSPPQSTPGLMKGNKREEQGLGPEPAAPQQPTAEEEALIEFHRSYRELFE
+            FFCNNTTIHGAIRLVCSQHNRMKTAFWAVLWLCTFGMMYWQFGLLFGEYFSYPVSLNINL
+            NSDKLVFPAVTICTLNPYRYPEIKEELEELDRITEQTLFDLYKYSSFTTLVAGSRSRRDL
+            RGTLPHPLQRLRVPPPPHGARRARSVASSLRDNNPQVDWKDWKIGFQLCNQNKSDCFYQT
+            YSSGVDAVREWYRFHYINILSRLPETLPSLEEDTLGNFIFACRFNQVSCNQANYSHFHHP
+            MYGNCYTFNDKNNSNLWMSSMPGINNGLSLMLRAEQNDFIPLLSTVTGARVMVHGQDEPA
+            FMDDGGFNLRPGVETSISMRKETLDRLGGDYGDCTKNGSDVPVENLYPSKYTQQVCIHSC
+            FQESMIKECGCAYIFYPRPQNVEYCDYRKHSSWGYCYYKLQVDFSSDHLGCFTKCRKPCS
+            VTSYQLSAGYSRWPSVTSQEWVFQMLSRQNNYTVNNKRNGVAKVNIFFKELNYKTNSESP
+            SVTMVTLLSNLGSQWSLWFGSSVLSVVEMAELVFDLLVIMFLMLLRRFRSRYWSPGRGGR
+            GAQEVASTLASSPPSHFCPHPMSLSLSQPGPAPSPALTAPPPAYATLGPRPSPGGSAGAS
+            SSTCPLGGP
+NTSEQ       2010
+            atggaggggaacaagctggaggagcaggactctagccctccacagtccactccagggctc
+            atgaaggggaacaagcgtgaggagcaggggctgggccccgaacctgcggcgccccagcag
+            cccacggcggaggaggaggccctgatcgagttccaccgctcctaccgagagctcttcgag
+            ttcttctgcaacaacaccaccatccacggcgccatccgcctggtgtgctcccagcacaac
+            cgcatgaagacggccttctgggcagtgctgtggctctgcacctttggcatgatgtactgg
+            caattcggcctgcttttcggagagtacttcagctaccccgtcagcctcaacatcaacctc
+            aactcggacaagctcgtcttccccgcagtgaccatctgcaccctcaatccctacaggtac
+            ccggaaattaaagaggagctggaggagctggaccgcatcacagagcagacgctctttgac
+            ctgtacaaatacagctccttcaccactctcgtggccggctcccgcagccgtcgcgacctg
+            cgggggactctgccgcaccccttgcagcgcctgagggtcccgcccccgcctcacggggcc
+            cgtcgagcccgtagcgtggcctccagcttgcgggacaacaacccccaggtggactggaag
+            gactggaagatcggcttccagctgtgcaaccagaacaaatcggactgcttctaccagaca
+            tactcatcaggggtggatgcggtgagggagtggtaccgcttccactacatcaacatcctg
+            tcgaggctgccagagactctgccatccctggaggaggacacgctgggcaacttcatcttc
+            gcctgccgcttcaaccaggtctcctgcaaccaggcgaattactctcacttccaccacccg
+            atgtatggaaactgctatactttcaatgacaagaacaactccaacctctggatgtcttcc
+            atgcctggaatcaacaacggtctgtccctgatgctgcgcgcagagcagaatgacttcatt
+            cccctgctgtccacagtgactggggcccgggtaatggtgcacgggcaggatgaacctgcc
+            tttatggatgatggtggctttaacttgcggcctggcgtggagacctccatcagcatgagg
+            aaggaaaccctggacagacttgggggcgattatggcgactgcaccaagaatggcagtgat
+            gttcctgttgagaacctttacccttcaaagtacacacagcaggtgtgtattcactcctgc
+            ttccaggagagcatgatcaaggagtgtggctgtgcctacatcttctatccgcggccccag
+            aacgtggagtactgtgactacagaaagcacagttcctgggggtactgctactataagctc
+            caggttgacttctcctcagaccacctgggctgtttcaccaagtgccggaagccatgcagc
+            gtgaccagctaccagctctctgctggttactcacgatggccctcggtgacatcccaggaa
+            tgggtcttccagatgctatcgcgacagaacaattacaccgtcaacaacaagagaaatgga
+            gtggccaaagtcaacatcttcttcaaggagctgaactacaaaaccaattctgagtctccc
+            tctgtcacgatggtcaccctcctgtccaacctgggcagccagtggagcctgtggttcggc
+            tcctcggtgttgtctgtggtggagatggctgagctcgtctttgacctgctggtcatcatg
+            ttcctcatgctgctccgaaggttccgaagccgatactggtctccaggccgagggggcagg
+            ggtgctcaggaggtagcctccaccctggcatcctcccctccttcccacttctgcccccac
+            cccatgtctctgtccttgtcccagccaggccctgctccctctccagccttgacagcccct
+            ccccctgcctatgccaccctgggcccccgcccatctccagggggctctgcaggggccagt
+            tcctccacctgtcctctgggggggccctga
+///

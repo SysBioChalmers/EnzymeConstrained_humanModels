@@ -1,0 +1,57 @@
+ENTRY       7507              CDS       T01001
+NAME        XPA, XP1, XPAC
+DEFINITION  (RefSeq) XPA, DNA damage recognition and repair factor
+ORTHOLOGY   K10847  DNA-repair protein complementing XP-A cells
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa03420  Nucleotide excision repair
+DISEASE     H00403  Disorders of nucleotide excision repair
+            H01428  Xeroderma pigmentosum (XP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03420 Nucleotide excision repair
+                7507 (XPA)
+             Human Diseases
+              Drug resistance
+               01524 Platinum drug resistance
+                7507 (XPA)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                Other NER factors
+                 7507 (XPA)
+POSITION    9q22.33
+MOTIF       Pfam: XPA_C XPA_N Zn-ribbon_8
+DBLINKS     NCBI-GeneID: 7507
+            NCBI-ProteinID: NP_000371
+            OMIM: 611153
+            HGNC: 12814
+            Ensembl: ENSG00000136936
+            Vega: OTTHUMG00000020330
+            Pharos: P23025(Tbio)
+            UniProt: P23025
+STRUCTURE   PDB: 1D4U 1XPA
+AASEQ       273
+            MAAADGALPEAAALEQPAELPASVRASIERKRQRALMLRQARLAARPYSATAAAATGGMA
+            NVKAAPKIIDTGGGFILEEEEEEEQKIGKVVHQPGPVMEFDYVICEECGKEFMDSYLMNH
+            FDLPTCDNCRDADDKHKLITKTEAKQEYLLKDCDLEKREPPLKFIVKKNPHHSQWGDMKL
+            YLKLQIVKRSLEVWGSQEALEEAKEVRQENREKMKQKKFDKKVKELRRAVRSSVWKRETI
+            VHQHEYGPEENLEDDMYRKTCTMCGHELTYEKM
+NTSEQ       822
+            atggcggcggccgacggggctttgccggaggcggcggctttagagcaacccgcggagctg
+            cctgcctcggtgcgggcgagtatcgagcggaagcggcagcgggcactgatgctgcgccag
+            gcccggctggctgcccggccctactcggcgacggcggctgcggctactggaggcatggct
+            aatgtaaaagcagccccaaagataattgacacaggaggaggcttcattttagaagaggaa
+            gaagaagaagaacagaaaattggaaaagttgttcatcaaccaggacctgttatggaattt
+            gattatgtaatatgcgaagaatgtgggaaagaatttatggattcttatcttatgaaccac
+            tttgatttgccaacttgtgataactgcagagatgctgatgataaacacaagcttataacc
+            aaaacagaggcaaaacaagaatatcttctgaaagactgtgatttagaaaaaagagagcca
+            cctcttaaatttattgtgaagaagaatccacatcattcacaatggggtgatatgaaactc
+            tacttaaagttacagattgtgaagaggtctcttgaagtttggggtagtcaagaagcatta
+            gaagaagcaaaggaagtccgacaggaaaaccgagaaaaaatgaaacagaagaaatttgat
+            aaaaaagtaaaagaattgcggcgagcagtaagaagcagcgtgtggaaaagggagacgatt
+            gttcatcaacatgagtatggaccagaagaaaacctagaagatgacatgtaccgtaagact
+            tgtactatgtgtggccatgaactgacatatgaaaaaatgtga
+///

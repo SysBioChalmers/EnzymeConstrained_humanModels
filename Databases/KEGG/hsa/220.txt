@@ -1,0 +1,94 @@
+ENTRY       220               CDS       T01001
+NAME        ALDH1A3, ALDH1A6, ALDH6, MCOP8, RALDH3
+DEFINITION  (RefSeq) aldehyde dehydrogenase 1 family member A3
+ORTHOLOGY   K00129  aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+DISEASE     H01027  Anophthalmia and microphthalmia (A/M)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                220 (ALDH1A3)
+              Amino acid metabolism
+               00340 Histidine metabolism
+                220 (ALDH1A3)
+               00350 Tyrosine metabolism
+                220 (ALDH1A3)
+               00360 Phenylalanine metabolism
+                220 (ALDH1A3)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                220 (ALDH1A3)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                220 (ALDH1A3)
+               00982 Drug metabolism - cytochrome P450
+                220 (ALDH1A3)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                220 (ALDH1A3)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.5  aldehyde dehydrogenase [NAD(P)+]
+                 220 (ALDH1A3)
+POSITION    15q26.3
+MOTIF       Pfam: Aldedh DUF658
+DBLINKS     NCBI-GeneID: 220
+            NCBI-ProteinID: NP_000684
+            OMIM: 600463
+            HGNC: 409
+            Ensembl: ENSG00000184254
+            Vega: OTTHUMG00000186439
+            Pharos: P47895(Tbio)
+            UniProt: P47895 A0A024RC95
+STRUCTURE   PDB: 5FHZ
+AASEQ       512
+            MATANGAVENGQPDRKPPALPRPIRNLEVKFTKIFINNEWHESKSGKKFATCNPSTREQI
+            CEVEEGDKPDVDKAVEAAQVAFQRGSPWRRLDALSRGRLLHQLADLVERDRATLAALETM
+            DTGKPFLHAFFIDLEGCIRTLRYFAGWADKIQGKTIPTDDNVVCFTRHEPIGVCGAITPW
+            NFPLLMLVWKLAPALCCGNTMVLKPAEQTPLTALYLGSLIKEAGFPPGVVNIVPGFGPTV
+            GAAISSHPQINKIAFTGSTEVGKLVKEAASRSNLKRVTLELGGKNPCIVCADADLDLAVE
+            CAHQGVFFNQGQCCTAASRVFVEEQVYSEFVRRSVEYAKKRPVGDPFDVKTEQGPQIDQK
+            QFDKILELIESGKKEGAKLECGGSAMEDKGLFIKPTVFSEVTDNMRIAKEEIFGPVQPIL
+            KFKSIEEVIKRANSTDYGLTAAVFTKNLDKALKLASALESGTVWINCYNALYAQAPFGGF
+            KMSGNGRELGEYALAEYTEVKTVTIKLGDKNP
+NTSEQ       1539
+            atggccaccgctaacggggccgtggaaaacgggcagccggacaggaagccgccggccctg
+            ccgcgccccatccgcaacctggaggtcaagttcaccaagatatttatcaacaatgaatgg
+            cacgaatccaagagtgggaaaaagtttgctacatgtaacccttcaactcgggagcaaata
+            tgtgaagtggaagaaggagataagcccgacgtggacaaggctgtggaggctgcacaggtt
+            gccttccagaggggctcgccatggcgccggctggatgccctgagtcgtgggcggctgctg
+            caccagctggctgacctggtggagagggaccgcgccaccttggccgccctggagacgatg
+            gatacagggaagccatttcttcatgcttttttcatcgacctggagggctgtattagaacc
+            ctcagatactttgcagggtgggcagacaaaatccagggcaagaccatccccacagatgac
+            aacgtcgtgtgcttcaccaggcatgagcccattggtgtctgtggggccatcactccatgg
+            aacttccccctgctgatgctggtgtggaagctggcacccgccctctgctgtgggaacacc
+            atggtcctgaagcctgcggagcagacacctctcaccgccctttatctcggctctctgatc
+            aaagaggccgggttccctccaggagtggtgaacattgtgccaggattcgggcccacagtg
+            ggagcagcaatttcttctcaccctcagatcaacaagatcgccttcaccggctccacagag
+            gttggaaaactggttaaagaagctgcgtcccggagcaatctgaagcgggtgacgctggag
+            ctgggggggaagaacccctgcatcgtgtgtgcggacgctgacttggacttggcagtggag
+            tgtgcccatcagggagtgttcttcaaccaaggccagtgttgcacggcagcctccagggtg
+            ttcgtggaggagcaggtctactctgagtttgtcaggcggagcgtggagtatgccaagaaa
+            cggcccgtgggagaccccttcgatgtcaaaacagaacaggggcctcagattgatcaaaag
+            cagttcgacaaaatcttagagctgatcgagagtgggaagaaggaaggggccaagctggaa
+            tgcgggggctcagccatggaagacaaggggctcttcatcaaacccactgtcttctcagaa
+            gtcacagacaacatgcggattgccaaagaggagattttcgggccagtgcaaccaatactg
+            aagttcaaaagtatcgaagaagtgataaaaagagcgaatagcaccgactatggactcaca
+            gcagccgtgttcacaaaaaatctcgacaaagccctgaagttggcttctgccttagagtct
+            ggaacggtctggatcaactgctacaacgccctctatgcacaggctccatttggtggcttt
+            aaaatgtcaggaaatggcagagaactaggtgaatacgctttggccgaatacacagaagtg
+            aaaactgtcaccatcaaacttggcgacaagaacccctga
+///

@@ -1,0 +1,52 @@
+ENTRY       1734              CDS       T01001
+NAME        DIO2, 5DII, D2, DIOII, SelY, TXDI2
+DEFINITION  (RefSeq) iodothyronine deiodinase 2
+ORTHOLOGY   K17904  type II thyroxine 5'-deiodinase [EC:1.21.99.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04919  Thyroid hormone signaling pathway
+DRUG_TARGET Benzylthiouracil: D07519
+            Methylthiouracil: D07231
+            Propylthiouracil: D00562
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                1734 (DIO2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.21  Catalysing the reaction X-H + Y-H = X-Y
+               1.21.99  With unknown physiological acceptors
+                1.21.99.4  thyroxine 5'-deiodinase
+                 1734 (DIO2)
+POSITION    14q31.1
+MOTIF       Pfam: T4_deiodinase AhpC-TSA Redoxin DUF2284
+DBLINKS     NCBI-GeneID: 1734
+            NCBI-ProteinID: NP_000784
+            OMIM: 601413
+            HGNC: 2884
+            Ensembl: ENSG00000211448
+            Vega: OTTHUMG00000171443
+            Pharos: Q92813(Tbio)
+            UniProt: Q92813 A8K845
+AASEQ       273
+            MGILSVDLLITLQILPVFFSNCLFLALYDSVILLKHVVLLLSRSKSTRGEWRRMLTSEGL
+            RCVWKSFLLDAYKQVKLGEDAPNSSVVHVSSTEGGDNSGNGTQEKIAEGATCHLLDFASP
+            ERPLVVNFGSATUPPFTSQLPAFRKLVEEFSSVADFLLVYIDEAHPSDGWAIPGDSSLSF
+            EVKKHQNQEDRCAAAQQLLERFSLPPQCRVVADRMDNNANIAYGVAFERVCIVQRQKIAY
+            LGGKGPFSYNLQEVRHWLEKNFSKRUKKTRLAG
+NTSEQ       822
+            atgggcatcctcagcgtagacttgctgatcacactgcaaattctgccagtttttttctcc
+            aactgcctcttcctggctctctatgactcggtcattctgctcaagcacgtggtgctgctg
+            ttgagccgctccaagtccactcgcggagagtggcggcgcatgctgacctcagagggactg
+            cgctgcgtctggaagagcttcctcctcgatgcctacaaacaggtgaaattgggtgaggat
+            gcccccaattccagtgtggtgcatgtctccagtacagaaggaggtgacaacagtggcaat
+            ggtacccaggagaagatagctgagggagccacatgccaccttcttgactttgccagccct
+            gagcgcccactagtggtcaactttggctcagccacttgacctcctttcacgagccagctg
+            ccagccttccgcaaactggtggaagagttctcctcagtggctgacttcctgctggtctac
+            attgatgaggctcatccatcagatggctgggcgataccgggggactcctctttgtctttt
+            gaggtgaagaagcaccagaaccaggaagatcgatgtgcagcagcccagcagcttctggag
+            cgtttctccttgccgccccagtgccgagttgtggctgaccgcatggacaataacgccaac
+            atagcttacggggtagcctttgaacgtgtgtgcattgtgcagagacagaaaattgcttat
+            ctgggaggaaagggccccttctcctacaaccttcaagaagtccggcattggctggagaag
+            aatttcagcaagagatgaaagaaaactagattagctggttaa
+///

@@ -1,0 +1,176 @@
+ENTRY       71                CDS       T01001
+NAME        ACTG1, ACT, ACTG, DFNA20, DFNA26, HEL-176
+DEFINITION  (RefSeq) actin gamma 1
+ORTHOLOGY   K05692  actin beta/gamma 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04015  Rap1 signaling pathway
+            hsa04145  Phagosome
+            hsa04210  Apoptosis
+            hsa04390  Hippo signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04611  Platelet activation
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05110  Vibrio cholerae infection
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+            hsa05164  Influenza A
+            hsa05205  Proteoglycans in cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            hsa05414  Dilated cardiomyopathy (DCM)
+            hsa05416  Viral myocarditis
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00604  Deafness, autosomal dominant
+            H01705  Bilateral sudden sensorineural hearing loss
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04015 Rap1 signaling pathway
+                71 (ACTG1)
+               04390 Hippo signaling pathway
+                71 (ACTG1)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                71 (ACTG1)
+              Cell growth and death
+               04210 Apoptosis
+                71 (ACTG1)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                71 (ACTG1)
+               04520 Adherens junction
+                71 (ACTG1)
+               04530 Tight junction
+                71 (ACTG1)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                71 (ACTG1)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                71 (ACTG1)
+               04670 Leukocyte transendothelial migration
+                71 (ACTG1)
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                71 (ACTG1)
+               04919 Thyroid hormone signaling pathway
+                71 (ACTG1)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                71 (ACTG1)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                71 (ACTG1)
+               05410 Hypertrophic cardiomyopathy (HCM)
+                71 (ACTG1)
+               05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+                71 (ACTG1)
+               05414 Dilated cardiomyopathy (DCM)
+                71 (ACTG1)
+               05416 Viral myocarditis
+                71 (ACTG1)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                71 (ACTG1)
+               05130 Pathogenic Escherichia coli infection
+                71 (ACTG1)
+               05132 Salmonella infection
+                71 (ACTG1)
+               05131 Shigellosis
+                71 (ACTG1)
+               05100 Bacterial invasion of epithelial cells
+                71 (ACTG1)
+               05164 Influenza A
+                71 (ACTG1)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Coactivators
+                BAF/PBAF complex
+                 71 (ACTG1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Factors involved in mRNA localization
+                Factors that have mRNA localization signals
+                 71 (ACTG1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HAT complexes
+                TIP60 complex
+                 71 (ACTG1)
+                NuA4 complex
+                 71 (ACTG1)
+              Chromatin remodeling factors
+               BAF complex
+                71 (ACTG1)
+               PBAF complex
+                71 (ACTG1)
+               SWR1 complex
+                71 (ACTG1)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial quality control factors
+              Mitochondrial dynamics
+               Actin cytoskeleton organization
+                71 (ACTG1)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actins
+                Actins
+                 71 (ACTG1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               71 (ACTG1)
+POSITION    17q25.3
+MOTIF       Pfam: Actin
+DBLINKS     NCBI-GeneID: 71
+            NCBI-ProteinID: NP_001186883
+            OMIM: 102560
+            HGNC: 144
+            Ensembl: ENSG00000184009
+            Vega: OTTHUMG00000177955
+            Pharos: P63261(Tbio)
+            UniProt: P63261
+STRUCTURE   PDB: 5JLH
+AASEQ       375
+            MEEEIAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQS
+            KRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMT
+            QIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDL
+            AGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSY
+            ELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLS
+            GGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQ
+            EYDESGPSIVHRKCF
+NTSEQ       1128
+            atggaagaagagatcgccgcgctggtcattgacaatggctccggcatgtgcaaagctggt
+            tttgctggggacgacgctccccgagccgtgtttccttccatcgtcgggcgccccagacac
+            cagggcgtcatggtgggcatgggccagaaggactcctacgtgggcgacgaggcccagagc
+            aagcgtggcatcctgaccctgaagtaccccattgagcatggcatcgtcaccaactgggac
+            gacatggagaagatctggcaccacaccttctacaacgagctgcgcgtggccccggaggag
+            cacccagtgctgctgaccgaggcccccctgaaccccaaggccaacagagagaagatgact
+            cagattatgtttgagaccttcaacaccccggccatgtacgtggccatccaggccgtgctg
+            tccctctacgcctctgggcgcaccactggcattgtcatggactctggagacggggtcacc
+            cacacggtgcccatctacgagggctacgccctcccccacgccatcctgcgtctggacctg
+            gctggccgggacctgaccgactacctcatgaagatcctcactgagcgaggctacagcttc
+            accaccacggccgagcgggaaatcgtgcgcgacatcaaggagaagctgtgctacgtcgcc
+            ctggacttcgagcaggagatggccaccgccgcatcctcctcttctctggagaagagctac
+            gagctgcccgatggccaggtcatcaccattggcaatgagcggttccggtgtccggaggcg
+            ctgttccagccttccttcctgggtatggaatcttgcggcatccacgagaccaccttcaac
+            tccatcatgaagtgtgacgtggacatccgcaaagacctgtacgccaacacggtgctgtcg
+            ggcggcaccaccatgtacccgggcattgccgacaggatgcagaaggagatcaccgccctg
+            gcgcccagcaccatgaagatcaagatcatcgcacccccagagcgcaagtactcggtgtgg
+            atcggtggctccatcctggcctcactgtccaccttccagcagatgtggattagcaagcag
+            gagtacgacgagtcgggcccctccatcgtccaccgcaaatgcttctaa
+///

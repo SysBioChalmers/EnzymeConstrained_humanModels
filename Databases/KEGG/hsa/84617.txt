@@ -1,0 +1,111 @@
+ENTRY       84617             CDS       T01001
+NAME        TUBB6, HsT1601, TUBB-5
+DEFINITION  (RefSeq) tubulin beta 6 class V
+ORTHOLOGY   K07375  tubulin beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04540  Gap junction
+            hsa05130  Pathogenic Escherichia coli infection
+DRUG_TARGET Batabulin (DG01412): D03059 D06560
+            Brentuximab vedotin: D09587
+            Cabazitaxel (DG00695): D09755 D10452
+            Colchicine: D00570
+            Docetaxel (DG00694): D02165 D07866
+            Eribulin: D08914
+            Estramustine (DG00724): D02398 D04066 D06397
+            Indibulin: D10013
+            Lexibulin: D10073
+            Maytansine: D04864
+            Paclitaxel: D00491
+            Paclitaxel poliglumex: D05333
+            Podophyllotoxin: D05529
+            Soblidotin: D01919
+            Taltobulin: D06001
+            Trastuzumab emtansine (DG01358): D09980
+            Verubulin (DG01411): D10029 D10030
+            Vinblastine (DG00689): D01068 D08675
+            Vincristine (DG00690): D02197 D08679
+            Vindesine (DG00691): D01769 D06304
+            Vinepidine sulfate: D06305
+            Vinflunine: D09032
+            Vinglycinate sulfate: D06306
+            Vinleurosine sulfate: D06307
+            Vinorelbine (DG00692): D01935 D08680
+            Vinrosidine sulfate: D06308
+            Vintafolide: D10434
+            Vinzolidine sulfate: D06309
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                84617 (TUBB6)
+              Cellular community - eukaryotes
+               04540 Gap junction
+                84617 (TUBB6)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                84617 (TUBB6)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Microtubules and associated factors
+                Other tubulins
+                 84617 (TUBB6)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulins
+                84617 (TUBB6)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               84617 (TUBB6)
+              Exosomal proteins of colorectal cancer cells
+               84617 (TUBB6)
+              Exosomal proteins of bladder cancer cells
+               84617 (TUBB6)
+POSITION    18p11.21
+MOTIF       Pfam: Tubulin Tubulin_C Misat_Tub_SegII Tubulin_3 Tubulin_2
+DBLINKS     NCBI-GeneID: 84617
+            NCBI-ProteinID: NP_001290453
+            OMIM: 615103
+            HGNC: 20776
+            Ensembl: ENSG00000176014
+            Vega: OTTHUMG00000131692
+            Pharos: Q9BUF5(Tclin)
+            UniProt: Q9BUF5
+AASEQ       446
+            MREIVHIQAGQCGNQIGTKFWEVISDEHGIDPAGGYVGDSALQLERINVYYNESSSQKYV
+            PRAALVDLEPGTMDSVRSGPFGQLFRPDNFIFGQTGAGNNWAKGHYTEGAELVDAVLDVV
+            RKECEHCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEFPDRIMNTFSVMPSPKVSDTVV
+            EPYNATLSVHQLVENTDETYCIDNEALYDICFRTLKLTTPTYGDLNHLVSATMSGVTTSL
+            RFPGQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALTVPELTQQMFDARNMM
+            AACDPRHGRYLTVATVFRGPMSMKEVDEQMLAIQSKNSSYFVEWIPNNVKVAVCDIPPRG
+            LKMASTFIGNSTAIQELFKRISEQFSAMFRRKAFLHWFTGEGMDEMEFTEAESNMNDLVS
+            EYQQYQDATANDGEEAFEDEEEEIDG
+NTSEQ       1341
+            atgagggagatcgtgcacatccaggcgggccagtgcgggaaccagatcggcaccaagttt
+            tgggaagtgatcagcgatgagcacggcatcgacccggccggaggctacgtgggagactcg
+            gcgctgcagctggagagaatcaacgtctactacaatgagtcatcgtctcagaaatatgtg
+            cccagggccgccctggtggacttagagccaggcaccatggacagcgtgcggtctgggcct
+            tttgggcagcttttccggcctgacaacttcatctttggccagacgggtgcagggaacaac
+            tgggcgaaagggcactacacggagggcgcggagctggtggacgcagtgctggacgtggtg
+            cggaaggagtgcgagcactgcgactgcctgcagggcttccagctcacgcactcgctgggc
+            ggcggcacgggctcaggcatgggcacgctgctcatcagcaagatccgtgaggagttcccg
+            gaccgcatcatgaacaccttcagcgtcatgccctcgcccaaggtgtcggacacggtggtg
+            gagccctacaatgccacactgtcggtgcaccagctggtggagaatacagacgagacctac
+            tgcatcgacaacgaggcgctctatgacatctgcttccgcactctgaagctgacaacgccc
+            acctacggggacctcaaccacctggtgtccgccaccatgagtggggtcaccacctcgctg
+            cgcttcccgggccagctcaatgctgacctgcgcaagctggcggtgaacatggtgcccttc
+            ccgcgcctgcacttcttcatgcctggcttcgcgccgctcaccagccgcggcagccagcag
+            taccgggccctgaccgtgcccgagctcacccagcagatgttcgacgccaggaacatgatg
+            gccgcctgcgatccgcgccatggccgctacctgaccgtggccaccgtgttccgcgggccc
+            atgtccatgaaggaggtggacgagcagatgctggccatccagagtaagaacagcagctac
+            ttcgtggagtggattcccaacaacgtgaaggtggccgtgtgcgacatcccgccccgcggc
+            ctgaagatggcctccaccttcatcggcaacagcacggccatccaggagctgttcaagcgc
+            atctccgagcagttctcagccatgttccggcgcaaggccttcctgcactggttcacgggt
+            gagggcatggatgaaatggagttcaccgaggcggagagcaacatgaacgacctggtatcc
+            gagtaccagcagtaccaggatgccaccgccaatgacggggaggaagcttttgaggatgag
+            gaagaggagatcgatggatag
+///

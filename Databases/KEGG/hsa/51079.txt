@@ -1,0 +1,58 @@
+ENTRY       51079             CDS       T01001
+NAME        NDUFA13, B16.6, CDA016, CGI-39, GRIM-19, GRIM19
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase subunit A13
+ORTHOLOGY   K11353  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 13
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00146  NADH dehydrogenase (ubiquinone) 1 alpha subcomplex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                51079 (NDUFA13)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                51079 (NDUFA13)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                51079 (NDUFA13)
+               05012 Parkinson's disease
+                51079 (NDUFA13)
+               05016 Huntington's disease
+                51079 (NDUFA13)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                51079 (NDUFA13)
+POSITION    19p13.11
+MOTIF       Pfam: GRIM-19 COX14
+DBLINKS     NCBI-GeneID: 51079
+            NCBI-ProteinID: NP_057049
+            OMIM: 609435
+            HGNC: 17194
+            Ensembl: ENSG00000186010
+            Vega: OTTHUMG00000162211
+            Pharos: Q9P0J0(Tclin)
+            UniProt: Q9P0J0
+STRUCTURE   PDB: 5XTB 5XTC 5XTD
+AASEQ       144
+            MAASKVKQDMPPPGGYGPIDYKRNLPRRGLSGYSMLAIGIGTLIYGHWSIMKWNRERRRL
+            QIEDFEARIALLPLLQAETDRRTLQMLRENLEEEAIIMKDVPDWKVGESVFHTTRWVPPL
+            IGELYGLRTTEEALHASHGFMWYT
+NTSEQ       435
+            atggcggcgtcaaaggtgaagcaggacatgcctccgccggggggctatgggcccatcgac
+            tacaaacggaacttgccgcgtcgaggactgtcgggctacagcatgctggccatagggatt
+            ggaaccctgatctacgggcactggagcataatgaagtggaaccgtgagcgcaggcgccta
+            caaatcgaggacttcgaggctcgcatcgcgctgttgccactgttacaggcagaaaccgac
+            cggaggaccttgcagatgcttcgggagaacctggaggaggaggccatcatcatgaaggac
+            gtgcccgactggaaggtgggggagtctgtgttccacacaacccgctgggtgccccccttg
+            atcggggagctgtacgggctgcgcaccacagaggaggctctccatgccagccacggcttc
+            atgtggtacacgtag
+///

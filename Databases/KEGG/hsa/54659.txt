@@ -1,0 +1,101 @@
+ENTRY       54659             CDS       T01001
+NAME        UGT1A3, UDPGT, UDPGT_1-3, UGT-1C, UGT1-03, UGT1.3, UGT1A3S, UGT1C
+DEFINITION  (RefSeq) UDP glucuronosyltransferase family 1 member A3
+ORTHOLOGY   K00699  glucuronosyltransferase [EC:2.4.1.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00040  Pentose and glucuronate interconversions
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00140  Steroid hormone biosynthesis
+            hsa00830  Retinol metabolism
+            hsa00860  Porphyrin and chlorophyll metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+MODULE      hsa_M00014  Glucuronate pathway (uronate pathway)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                54659 (UGT1A3)
+               00053 Ascorbate and aldarate metabolism
+                54659 (UGT1A3)
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                54659 (UGT1A3)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                54659 (UGT1A3)
+               00860 Porphyrin and chlorophyll metabolism
+                54659 (UGT1A3)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                54659 (UGT1A3)
+               00982 Drug metabolism - cytochrome P450
+                54659 (UGT1A3)
+               00983 Drug metabolism - other enzymes
+                54659 (UGT1A3)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                54659 (UGT1A3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.17  glucuronosyltransferase
+                 54659 (UGT1A3)
+            Glycosyltransferases [BR:hsa01003]
+             Others
+              Hydrophobic molecule
+               54659 (UGT1A3)
+POSITION    2q37.1
+MOTIF       Pfam: UDPGT Glyco_tran_28_C Glyco_transf_4
+DBLINKS     NCBI-GeneID: 54659
+            NCBI-ProteinID: NP_061966
+            OMIM: 606428
+            HGNC: 12535
+            Ensembl: ENSG00000243135
+            Vega: OTTHUMG00000059118
+            Pharos: P35503(Tbio)
+            UniProt: P35503 Q5DT01
+AASEQ       534
+            MATGLQVPLPWLATGLLLLLSVQPWAESGKVLVVPIDGSHWLSMREVLRELHARGHQAVV
+            LTPEVNMHIKEENFFTLTTYAISWTQDEFDRHVLGHTQLYFETEHFLKKFFRSMAMLNNM
+            SLVYHRSCVELLHNEALIRHLNATSFDVVLTDPVNLCAAVLAKYLSIPTVFFLRNIPCDL
+            DFKGTQCPNPSSYIPRLLTTNSDHMTFMQRVKNMLYPLALSYICHAFSAPYASLASELFQ
+            REVSVVDILSHASVWLFRGDFVMDYPRPIMPNMVFIGGINCANRKPLSQEFEAYINASGE
+            HGIVVFSLGSMVSEIPEKKAMAIADALGKIPQTVLWRYTGTRPSNLANNTILVKWLPQND
+            LLGHPMTRAFITHAGSHGVYESICNGVPMVMMPLFGDQMDNAKRMETKGAGVTLNVLEMT
+            SEDLENALKAVINDKSYKENIMRLSSLHKDRPVEPLDLAVFWVEFVMRHKGAPHLRPAAH
+            DLTWYQYHSLDVIGFLLAVVLTVAFITFKCCAYGYRKCLGKKGRVKKAHKSKTH
+NTSEQ       1605
+            atggccacaggactccaggttcccctgccgtggctggccacaggactgctgcttctcctc
+            agtgtccagccctgggctgagagtggaaaggtgttggtggtgcccattgatggcagccac
+            tggctcagcatgcgggaggtcttgcgggagctccatgccagaggccaccaggcagtggtc
+            ctcaccccagaggtgaatatgcacatcaaagaagagaactttttcaccctgacaacctat
+            gccatttcgtggacccaggatgaatttgatcgccatgtgctgggccacactcaactgtac
+            tttgaaacagaacattttctgaagaaatttttcagaagtatggcaatgttgaacaatatg
+            tctttggtctatcataggtcttgtgtggagctactacataatgaggccctgatcaggcac
+            ctgaatgctacttcctttgatgtggttttaacagaccccgttaacctctgcgcggcagtg
+            ctggctaagtacctgtcgattcctactgtgttttttttgaggaacattccatgtgattta
+            gactttaagggcacacagtgtccaaacccttcctcctatattcctagattactaacaacc
+            aattcagaccacatgacattcatgcaaagggtcaagaacatgctctaccctctggccctg
+            tcctacatttgccatgctttttctgctccttatgcaagccttgcctctgagctttttcag
+            agagaggtgtcagtggtggatattctcagtcatgcatctgtgtggctgttccgaggggac
+            tttgtgatggactaccccaggccaatcatgcccaacatggtcttcattgggggcatcaac
+            tgtgccaacaggaagccactatctcaggaatttgaagcctacattaatgcttctggagaa
+            catggaattgtggttttctctttgggatcaatggtctcagaaattccagagaagaaagct
+            atggcaattgctgatgctttgggcaaaatccctcagacagtcctgtggcggtacactgga
+            acccgaccatcgaatcttgcgaacaacacgatacttgttaagtggctaccccaaaacgat
+            ctgcttggtcacccgatgacccgtgcctttatcacccatgctggttcccatggtgtttat
+            gaaagcatatgcaatggcgttcccatggtgatgatgcccttgtttggtgatcagatggac
+            aatgcaaagcgcatggagactaagggagctggagtgaccctgaatgttctggaaatgact
+            tctgaagatttagaaaatgctctaaaagcagtcatcaatgacaaaagttacaaggagaac
+            atcatgcgcctctccagccttcacaaggaccgcccggtggagccgctggacctggccgtg
+            ttctgggtggagtttgtgatgaggcacaagggcgcgccacacctgcgccccgcagcccac
+            gacctcacctggtaccagtaccattccttggacgtgattggtttcctcttggccgtcgtg
+            ctgacagtggccttcatcacctttaaatgttgtgcttatggctaccggaaatgcttgggg
+            aaaaaagggcgagttaagaaagcccacaaatccaagacccattga
+///

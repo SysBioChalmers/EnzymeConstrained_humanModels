@@ -1,0 +1,52 @@
+ENTRY       10434             CDS       T01001
+NAME        LYPLA1, APT-1, APT1, LPL-I, LPL1, hAPT1
+DEFINITION  (RefSeq) lysophospholipase I
+ORTHOLOGY   K06128  lysophospholipase I [EC:3.1.1.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                10434 (LYPLA1)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                10434 (LYPLA1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.5  lysophospholipase
+                 10434 (LYPLA1)
+POSITION    8q11.23
+MOTIF       Pfam: Abhydrolase_2 Hydrolase_4 Abhydrolase_1 Abhydrolase_3 Abhydrolase_6 Cutinase FSH1 DUF2974 DLH Esterase Lipase_3 DUF2920
+DBLINKS     NCBI-GeneID: 10434
+            NCBI-ProteinID: NP_006321
+            OMIM: 605599
+            HGNC: 6737
+            Ensembl: ENSG00000120992
+            Vega: OTTHUMG00000164313
+            Pharos: O75608(Tchem)
+            UniProt: O75608 Q6IAQ1
+STRUCTURE   PDB: 1FJ2 5SYM
+AASEQ       230
+            MCGNNMSTPLPAIVPAARKATAAVIFLHGLGDTGHGWAEAFAGIRSSHIKYICPHAPVRP
+            VTLNMNVAMPSWFDIIGLSPDSQEDESGIKQAAENIKALIDQEVKNGIPSNRIILGGFSQ
+            GGALSLYTALTTQQKLAGVTALSCWLPLRASFPQGPIGGANRDISILQCHGDCDPLVPLM
+            FGSLTVEKLKTLVNPANVTFKTYEGMMHSSCQQEMMDVKQFIDKLLPPID
+NTSEQ       693
+            atgtgcggcaataacatgtcaaccccgctgcccgccatcgtgcccgccgcccggaaggcc
+            accgctgcggtgattttcctgcatggattgggagatactgggcacggatgggcagaagcc
+            tttgcaggtatcagaagttcacatatcaaatatatctgcccgcatgcgcctgttaggcct
+            gttacattaaatatgaacgtggctatgccttcatggtttgatattattgggctttcacca
+            gattcacaggaggatgaatctgggattaaacaggcagcagaaaatataaaagctttgatt
+            gatcaagaagtgaagaatggcattccttctaacagaattattttgggagggttttctcag
+            ggaggagctttatctttatatactgcccttaccacacagcagaaactggcaggtgtcact
+            gcactcagttgctggcttccacttcgggcttcctttccacagggtcctatcggtggtgct
+            aatagagatatttctattctccagtgccacggggattgtgaccctttggttcccctgatg
+            tttggttctcttacggtggaaaaactaaaaacattggtgaatccagccaatgtgaccttt
+            aaaacctatgaaggtatgatgcacagttcgtgtcaacaggaaatgatggatgtcaagcaa
+            ttcattgataaactcctacctccaattgattga
+///

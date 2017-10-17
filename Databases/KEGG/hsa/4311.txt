@@ -1,0 +1,113 @@
+ENTRY       4311              CDS       T01001
+NAME        MME, CALLA, CD10, CMT2T, NEP, SCA43, SFE
+DEFINITION  (RefSeq) membrane metalloendopeptidase
+ORTHOLOGY   K01389  neprilysin [EC:3.4.24.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04614  Renin-angiotensin system
+            hsa04640  Hematopoietic cell lineage
+            hsa04974  Protein digestion and absorption
+            hsa05010  Alzheimer's disease
+DISEASE     H00264  Charcot-Marie-Tooth disease (CMT)
+DRUG_TARGET Candoxatril: D01070
+            Candoxatrilat: D03349
+            Ecadotril: D03929
+            Omapatrilat: D01970
+            Racecadotril: D08464
+            Sacubitril: D10225
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                4311 (MME)
+              Endocrine system
+               04614 Renin-angiotensin system
+                4311 (MME)
+              Digestive system
+               04974 Protein digestion and absorption
+                4311 (MME)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4311 (MME)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.11  neprilysin
+                 4311 (MME)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M13: neprilysin family
+               4311 (MME)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               4311 (MME)
+            CD molecules [BR:hsa04090]
+             Proteins
+              4311 (MME)
+POSITION    3q25.2
+MOTIF       Pfam: Peptidase_M13_N Peptidase_M13
+DBLINKS     NCBI-GeneID: 4311
+            NCBI-ProteinID: NP_000893
+            OMIM: 120520
+            HGNC: 7154
+            Ensembl: ENSG00000196549
+            Vega: OTTHUMG00000158455
+            Pharos: P08473(Tclin)
+            UniProt: P08473
+STRUCTURE   PDB: 1R1H 5JMY 2QPJ 1DMT 4CTH 1Y8J 1R1J 2YB9 1R1I
+AASEQ       750
+            MGKSESQMDITDINTPKPKKKQRWTPLEISLSVLVLLLTIIAVTMIALYATYDDGICKSS
+            DCIKSAARLIQNMDATTEPCTDFFKYACGGWLKRNVIPETSSRYGNFDILRDELEVVLKD
+            VLQEPKTEDIVAVQKAKALYRSCINESAIDSRGGEPLLKLLPDIYGWPVATENWEQKYGA
+            SWTAEKAIAQLNSKYGKKVLINLFVGTDDKNSVNHVIHIDQPRLGLPSRDYYECTGIYKE
+            ACTAYVDFMISVARLIRQEERLPIDENQLALEMNKVMELEKEIANATAKPEDRNDPMLLY
+            NKMTLAQIQNNFSLEINGKPFSWLNFTNEIMSTVNISITNEEDVVVYAPEYLTKLKPILT
+            KYSARDLQNLMSWRFIMDLVSSLSRTYKESRNAFRKALYGTTSETATWRRCANYVNGNME
+            NAVGRLYVEAAFAGESKHVVEDLIAQIREVFIQTLDDLTWMDAETKKRAEEKALAIKERI
+            GYPDDIVSNDNKLNNEYLELNYKEDEYFENIIQNLKFSQSKQLKKLREKVDKDEWISGAA
+            VVNAFYSSGRNQIVFPAGILQPPFFSAQQSNSLNYGGIGMVIGHEITHGFDDNGRNFNKD
+            GDLVDWWTQQSASNFKEQSQCMVYQYGNFSWDLAGGQHLNGINTLGENIADNGGLGQAYR
+            AYQNYIKKNGEEKLLPGLDLNHKQLFFLNFAQVWCGTYRPEYAVNSIKTDVHSPGNFRII
+            GTLQNSAEFSEAFHCRKNSYMNPEKKCRVW
+NTSEQ       2253
+            atgggcaagtcagaaagtcagatggatataactgatatcaacactccaaagccaaagaag
+            aaacagcgatggactccactggagatcagcctctcggtccttgtcctgctcctcaccatc
+            atagctgtgacaatgatcgcactctatgcaacctacgatgatggtatttgcaagtcatca
+            gactgcataaaatcagctgctcgactgatccaaaacatggatgccaccactgagccttgt
+            acagactttttcaaatatgcttgcggaggctggttgaaacgtaatgtcattcccgagacc
+            agctcccgttacggcaactttgacattttaagagatgaactagaagtcgttttgaaagat
+            gtccttcaagaacccaaaactgaagatatagtagcagtgcagaaagcaaaagcattgtac
+            aggtcttgtataaatgaatctgctattgatagcagaggtggagaacctctactcaaactg
+            ttaccagacatatatgggtggccagtagcaacagaaaactgggagcaaaaatatggtgct
+            tcttggacagctgaaaaagctattgcacaactgaattctaaatatgggaaaaaagtcctt
+            attaatttgtttgttggcactgatgataagaattctgtgaatcatgtaattcatattgac
+            caacctcgacttggcctcccttctagagattactatgaatgcactggaatctataaagag
+            gcttgtacagcatatgtggattttatgatttctgtggccagattgattcgtcaggaagaa
+            agattgcccatcgatgaaaaccagcttgctttggaaatgaataaagttatggaattggaa
+            aaagaaattgccaatgctacggctaaacctgaagatcgaaatgatccaatgcttctgtat
+            aacaagatgacattggcccagatccaaaataacttttcactagagatcaatgggaagcca
+            ttcagctggttgaatttcacaaatgaaatcatgtcaactgtgaatattagtattacaaat
+            gaggaagatgtggttgtttatgctccagaatatttaaccaaacttaagcccattcttacc
+            aaatattctgccagagatcttcaaaatttaatgtcctggagattcataatggatcttgta
+            agcagcctcagccgaacctacaaggagtccagaaatgctttccgcaaggccctttatggt
+            acaacctcagaaacagcaacttggagacgttgtgcaaactatgtcaatgggaatatggaa
+            aatgctgtggggaggctttatgtggaagcagcatttgctggagagagtaaacatgtggtc
+            gaggatttgattgcacagatccgagaagtttttattcagactttagatgacctcacttgg
+            atggatgccgagacaaaaaagagagctgaagaaaaggccttagcaattaaagaaaggatc
+            ggctatcctgatgacattgtttcaaatgataacaaactgaataatgagtacctcgagttg
+            aactacaaagaagatgaatacttcgagaacataattcaaaatttgaaattcagccaaagt
+            aaacaactgaagaagctccgagaaaaggtggacaaagatgagtggataagtggagcagct
+            gtagtcaatgcattttactcttcaggaagaaatcagatagtcttcccagccggcattctg
+            cagccccccttctttagtgcccagcagtccaactcattgaactatgggggcatcggcatg
+            gtcataggacacgaaatcacccatggcttcgatgacaatggcagaaactttaacaaagat
+            ggagacctcgttgactggtggactcaacagtctgcaagtaactttaaggagcaatcccag
+            tgcatggtgtatcagtatggaaacttttcctgggacctggcaggtggacagcaccttaat
+            ggaattaatacactgggagaaaacattgctgataatggaggtcttggtcaagcatacaga
+            gcctatcagaattatattaaaaagaatggcgaagaaaaattacttcctggacttgaccta
+            aatcacaaacaactatttttcttgaactttgcacaggtgtggtgtggaacctataggcca
+            gagtatgcggttaactccattaaaacagatgtgcacagtccaggcaatttcaggattatt
+            gggactttgcagaactctgcagagttttcagaagcctttcactgccgcaagaattcatac
+            atgaatccagaaaagaagtgccgggtttggtga
+///

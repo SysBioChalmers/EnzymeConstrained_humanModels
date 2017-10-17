@@ -1,0 +1,76 @@
+ENTRY       50484             CDS       T01001
+NAME        RRM2B, MTDPS8A, MTDPS8B, P53R2
+DEFINITION  (RefSeq) ribonucleotide reductase regulatory TP53 inducible subunit M2B
+ORTHOLOGY   K10808  ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+            hsa04115  p53 signaling pathway
+DISEASE     H00469  Mitochondrial DNA depletion syndrome (MDS)
+            H01118  Progressive external ophthalmoplegia (PEO)
+            H01390  Mitochondrial neurogastrointestinal encephalomyopathy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                50484 (RRM2B)
+               00240 Pyrimidine metabolism
+                50484 (RRM2B)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                50484 (RRM2B)
+             Cellular Processes
+              Cell growth and death
+               04115 p53 signaling pathway
+                50484 (RRM2B)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.17  Acting on CH or CH2 groups
+               1.17.4  With a disulfide as acceptor
+                1.17.4.1  ribonucleoside-diphosphate reductase
+                 50484 (RRM2B)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Other factors with a suspected DNA repair function
+               Modulation of nucleotide pools
+                50484 (RRM2B)
+POSITION    8q22.3
+MOTIF       Pfam: Ribonuc_red_sm
+DBLINKS     NCBI-GeneID: 50484
+            NCBI-ProteinID: NP_056528
+            OMIM: 604712
+            HGNC: 17296
+            Ensembl: ENSG00000048392
+            Vega: OTTHUMG00000164776
+            Pharos: Q7LG56(Tbio)
+            UniProt: Q7LG56
+STRUCTURE   PDB: 4DJN 3HF1 2VUX
+AASEQ       351
+            MGDPERPEAAGLDQDERSSSDTNESEIKSNEEPLLRKSSRRFVIFPIQYPDIWKMYKQAQ
+            ASFWTAEEVDLSKDLPHWNKLKADEKYFISHILAFFAASDGIVNENLVERFSQEVQVPEA
+            RCFYGFQILIENVHSEMYSLLIDTYIRDPKKREFLFNAIETMPYVKKKADWALRWIADRK
+            STFGERVVAFAAVEGVFFSGSFAAIFWLKKRGLMPGLTFSNELISRDEGLHCDFACLMFQ
+            YLVNKPSEERVREIIVDAVKIEQEFLTEALPVGLIGMNCILMKQYIEFVADRLLVELGFS
+            KVFQAENPFDFMENISLEGKTNFFEKRVSEYQRFAVMAETTDNVFTLDADF
+NTSEQ       1056
+            atgggcgacccggaaaggccggaagcggccgggctggatcaggatgagagatcatcttca
+            gacaccaacgaaagtgaaataaagtcaaatgaagagccactcctaagaaagagttctcgc
+            cggtttgtcatctttccaatccagtaccctgatatttggaaaatgtataaacaggcacag
+            gcttccttctggacagcagaagaggtcgacttatcaaaggatctccctcactggaacaag
+            cttaaagcagatgagaagtacttcatctctcacatcttagccttttttgcagccagtgat
+            ggaattgtaaatgaaaatttggtggagcgctttagtcaggaggtgcaggttccagaggct
+            cgctgtttctatggctttcaaattctcatcgagaatgttcactcagagatgtacagtttg
+            ctgatagacacttacatcagagatcccaagaaaagggaatttttatttaatgcaattgaa
+            accatgccctatgttaagaaaaaagcagattgggccttgcgatggatagcagatagaaaa
+            tctacttttggggaaagagtggtggcctttgctgctgtagaaggagttttcttctcagga
+            tcttttgctgctatattctggctaaagaagagaggtcttatgccaggactcactttttcc
+            aatgaactcatcagcagagatgaaggacttcactgtgactttgcttgcctgatgttccaa
+            tacttagtaaataagccttcagaagaaagggtcagggagatcattgttgatgctgtcaaa
+            attgagcaggagtttttaacagaagccttgccagttggcctcattggaatgaattgcatt
+            ttgatgaaacagtacattgagtttgtagctgacagattacttgtggaacttggattctca
+            aaggtttttcaggcagaaaatccttttgattttatggaaaacatttctttagaaggaaaa
+            acaaatttctttgagaaacgagtttcagagtatcagcgttttgcagttatggcagaaacc
+            acagataacgtcttcaccttggatgcagatttttaa
+///

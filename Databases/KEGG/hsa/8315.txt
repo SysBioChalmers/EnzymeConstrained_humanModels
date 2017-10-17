@@ -1,0 +1,75 @@
+ENTRY       8315              CDS       T01001
+NAME        BRAP, BRAP2, IMP, RNF52
+DEFINITION  (RefSeq) BRCA1 associated protein
+ORTHOLOGY   K10632  BRCA1-associated protein [EC:2.3.2.27]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                8315 (BRAP)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 8315 (BRAP)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               Other single Ring-finger type E3
+                8315 (BRAP)
+POSITION    12q24.12
+MOTIF       Pfam: BRAP2 zf-UBP zf-RING_2 zf-C3HC4_2 zf-RING_11 zf-rbx1 zf-RING_5 zf-C3HC4 zf-RING_UBOX zf-ANAPC11 RRM_1 zf-C3HC4_3 zf-C3H2C3 GBP_C Reo_sigmaC KASH_CCD DUF4407 Zn_ribbon_17 V_ATPase_I Prok-RING_4 Peptidase_S46 Baculo_PEP_C
+DBLINKS     NCBI-GeneID: 8315
+            NCBI-ProteinID: NP_006759
+            OMIM: 604986
+            HGNC: 1099
+            Ensembl: ENSG00000089234
+            Vega: OTTHUMG00000169600
+            Pharos: Q7Z569(Tbio)
+            UniProt: Q7Z569 Q59H81
+AASEQ       592
+            MSVSLVVIRLELAEHSPVPAGFGFSAAAGEMSDEEIKKTTLASAVACLEGKSPGEKVAII
+            HQHLGRREMTDVIIETMKSNPDELKTTVEERKSSEASPTAQRSKDHSKECINAAPDSPSK
+            QLPDQISFFSGNPSVEIVHGIMHLYKTNKMTSLKEDVRRSAMLCILTVPAAMTSHDLMKF
+            VAPFNEVIEQMKIIRDSTPNQYMVLIKFRAQADADSFYMTCNGRQFNSIEDDVCQLVYVE
+            RAEVLKSEDGASLPVMDLTELPKCTVCLERMDESVNGILTTLCNHSFHSQCLQRWDDTTC
+            PVCRYCQTPEPVEENKCFECGVQENLWICLICGHIGCGRYVSRHAYKHFEETQHTYAMQL
+            TNHRVWDYAGDNYVHRLVASKTDGKIVQYECEGDTCQEEKIDALQLEYSYLLTSQLESQR
+            IYWENKIVRIEKDTAEEINNMKTKFKETIEKCDNLEHKLNDLLKEKQSVERKCTQLNTKV
+            AKLTNELKEEQEMNKCLRANQVLLQNKLKEEERVLKETCDQKDLQITEIQEQLRDVMFYL
+            ETQQKINHLPAETRQEIQEGQINIAMASASSPASSGGSGKLPSRKGRSKRGK
+NTSEQ       1779
+            atgagtgtgtcactggttgttatccgattggagctcgcggaacactcgcctgtccccgcc
+            ggcttcggcttcagcgccgcggccggggaaatgtctgatgaggagataaaaaagacgaca
+            ctagcctcagctgtagcctgtttagaaggcaagtcaccaggagagaaagtagcgattatc
+            catcagcatctcggccgtcgagaaatgacagatgtgatcattgagaccatgaagtccaac
+            ccagatgaactaaaaactacagtggaagaaaggaagtcttcagaagcctcccccactgcg
+            caaagaagtaaagatcacagtaaggaatgcataaacgctgccccagattctccgtccaaa
+            cagcttccagaccagatttcattcttcagtggaaatccatcagttgaaatagttcatggt
+            attatgcacctatataagacaaataagatgacctccttaaaagaagatgtgcggcgcagt
+            gccatgctgtgtattctcacagtccctgctgcaatgaccagtcatgaccttatgaagttt
+            gttgccccatttaacgaagtaattgaacaaatgaaaattatcagagactctactcccaac
+            caatatatggtgctgataaagtttcgtgcacaggctgatgcggatagtttttatatgaca
+            tgcaatggccgccagttcaactcaatagaagatgacgtttgccagctagtgtatgtggaa
+            agagctgaagtgctcaaatctgaagatggcgccagcctcccagtgatggacctgactgaa
+            ctccccaagtgcacggtgtgtctggagcgcatggacgagtctgtgaatggcatcctcaca
+            acgttatgtaaccacagcttccacagccagtgtctacagcgctgggacgataccacgtgt
+            cctgtttgccggtactgtcaaacgcccgagccagtagaagaaaataagtgttttgagtgt
+            ggtgttcaggaaaatctttggatttgtttaatatgcggccacataggatgtggacggtat
+            gtcagtcgacatgcttataagcactttgaggaaacgcagcacacgtatgccatgcagctt
+            accaaccatcgagtctgggactatgctggagataactatgttcatcgactggttgcaagt
+            aaaacagatggaaaaatagtacagtatgaatgtgagggggatacttgccaggaagagaaa
+            atagatgccttacagttagagtattcatatttactaacaagccagctggaatctcagcga
+            atctactgggaaaacaagatagttcggatagagaaggacacagcagaggaaattaacaac
+            atgaagaccaagtttaaagaaacaattgagaagtgtgataatctagagcacaaactaaat
+            gatctcctaaaagaaaagcagtctgtggaaagaaagtgcactcagctaaacacaaaagtg
+            gccaaactcaccaacgagctcaaagaggagcaggaaatgaacaagtgtttgcgagccaac
+            caagtcctcctgcagaacaagctaaaagaggaggagagggtgctgaaggagacctgtgac
+            caaaaagatctgcagatcaccgagatccaggagcagctgcgtgacgtcatgttctacctg
+            gagacacagcagaagatcaaccatctgcctgccgagacccggcaggaaatccaggaggga
+            cagatcaacatcgccatggcctcggcctcgagccctgcctcttcggggggcagtgggaag
+            ttgccctccaggaagggccgcagcaagaggggcaagtga
+///

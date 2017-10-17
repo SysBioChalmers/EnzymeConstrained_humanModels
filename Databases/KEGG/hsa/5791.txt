@@ -1,0 +1,78 @@
+ENTRY       5791              CDS       T01001
+NAME        PTPRE, HPTPE, PTPE, R-PTP-EPSILON
+DEFINITION  (RefSeq) protein tyrosine phosphatase, receptor type E
+ORTHOLOGY   K18033  receptor-type tyrosine-protein phosphatase epsilon [EC:3.1.3.48]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.48  protein-tyrosine-phosphatase
+                 5791 (PTPRE)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Tyrosine phosphatases (PTPs)
+              Class I PTPs (Classical)
+               Receptor PTPs
+                5791 (PTPRE)
+POSITION    10q26.2
+MOTIF       Pfam: Y_phosphatase DSPc Y_phosphatase3 PTPlike_phytase Y_phosphatase2 DUF4381
+DBLINKS     NCBI-GeneID: 5791
+            NCBI-ProteinID: NP_001303606
+            OMIM: 600926
+            HGNC: 9669
+            Ensembl: ENSG00000132334
+            Vega: OTTHUMG00000019254
+            Pharos: P23469(Tbio)
+            UniProt: P23469
+STRUCTURE   PDB: 2JJD
+AASEQ       700
+            MEPLCPLLLVGFSLPLARALRGNETTADSNETTTTSGPPDPGASQPLLAWLLLPLLLLLL
+            VLLLAAYFFRFRKQRKAVVSTSDKKMPNGILEEQEQQRVMLLSRSPSGPKKYFPIPVEHL
+            EEEIRIRSADDCKQFREEFNSLPSGHIQGTFELANKEENREKNRYPNILPNDHSRVILSQ
+            LDGIPCSDYINASYIDGYKEKNKFIAAQGPKQETVNDFWRMVWEQKSATIVMLTNLKERK
+            EEKCHQYWPDQGCWTYGNIRVCVEDCVVLVDYTIRKFCIQPQLPDGCKAPRLVSQLHFTS
+            WPDFGVPFTPIGMLKFLKKVKTLNPVHAGPIVVHCSAGVGRTGTFIVIDAMMAMMHAEQK
+            VDVFEFVSRIRNQRPQMVQTDMQYTFIYQALLEYYLYGDTELDVSSLEKHLQTMHGTTTH
+            FDKIGLEEEFRKLTNVRIMKENMRTGNLPANMKKARVIQIIPYDFNRVILSMKRGQEYTD
+            YINASFIDGYRQKDYFIATQGPLAHTVEDFWRMIWEWKSHTIVMLTEVQEREQDKCYQYW
+            PTEGSVTHGEITIEIKNDTLSEAISIRDFLVTLNQPQARQEEQVRVVRQFHFHGWPEIGI
+            PAEGKGMIDLIAAVQKQQQQTGNHPITVHCSAGAGRTGTFIALSNILERVKAEGLLDVFQ
+            AVKSLRLQRPHMVQTLEQYEFCYKVVQDFIDIFSDYANFK
+NTSEQ       2103
+            atggagcccttgtgtccactcctgctggtgggttttagcttgccgctcgccagggctctc
+            aggggcaacgagaccactgccgacagcaacgagacaaccacgacctcaggccctccggac
+            ccgggcgcctcccagccgctgctggcctggctgctactgccgctgctgctcctcctcctc
+            gtgctccttctcgccgcctacttcttcaggttcaggaagcagaggaaagctgtggtcagc
+            accagcgacaagaagatgcccaacggaatcttggaggagcaagagcagcaaagggtgatg
+            ctgctcagcaggtcaccctcagggcccaagaagtattttcccatccccgtggagcacctg
+            gaggaggagatccgtatcagatccgccgacgactgcaagcagtttcgggaggagttcaac
+            tcattgccatctggacacatacaaggaacttttgaactggcaaataaagaagaaaacaga
+            gaaaaaaacagatatcccaacatccttcccaatgaccattctagggtgattctgagccaa
+            ctggatggaattccctgttcagactacatcaatgcttcctacatagatggttacaaagag
+            aagaataaattcatagcagctcaaggtcccaaacaggaaacggttaacgacttctggaga
+            atggtctgggagcaaaagtctgcgaccatcgtcatgttaacaaacttgaaagaaaggaaa
+            gaggaaaagtgccatcagtactggcccgaccaaggctgctggacctatggaaacatccgg
+            gtgtgcgtggaggactgcgtggttttggtcgactacaccatccggaagttctgcatacag
+            ccacagctccccgacggctgcaaagcccccaggctggtctcacagctgcacttcaccagc
+            tggcccgacttcggagtgccttttacccccattgggatgctgaagttcctcaagaaagta
+            aagacgctcaaccccgtgcacgctgggcccatcgtggtccactgtagcgcgggcgtgggc
+            cggacgggcaccttcattgtgatcgatgccatgatggccatgatgcacgcggagcagaag
+            gtggatgtgtttgaatttgtgtctcgaatccgtaatcagcgccctcagatggttcaaacg
+            gatatgcagtacacgttcatctaccaagccttactcgagtactacctctacggggacaca
+            gagctggacgtgtcctccctggagaagcacctgcagaccatgcacggcaccaccacccac
+            ttcgacaagatcgggctggaggaggagttcaggaaattgacaaatgtccggatcatgaag
+            gagaacatgaggacgggcaacttgccggcaaacatgaagaaggccagggtcatccagatc
+            atcccgtatgacttcaaccgagtgatcctttccatgaaaaggggtcaagaatacacagac
+            tacatcaacgcatccttcatagacggctaccgacagaaggactatttcatcgccacccag
+            gggccactggcacacacggttgaggacttctggaggatgatctgggaatggaaatcccac
+            actatcgtgatgctgacggaggtgcaggagagagagcaggataaatgctaccagtattgg
+            ccaaccgagggctcagttactcatggagaaataacgattgagataaagaatgataccctt
+            tcagaagccatcagtatacgagactttctggtcactctcaatcagccccaggcccgccag
+            gaggagcaggtccgagtagtgcgccagtttcacttccacggctggcctgagatcgggatt
+            cccgccgagggcaaaggcatgattgacctcatcgcagccgtgcagaagcagcagcagcag
+            acaggcaaccaccccatcaccgtgcactgcagtgccggagctgggcgaacaggtacattc
+            atagccctcagcaacattttggagcgagtaaaagccgagggacttttagatgtatttcaa
+            gctgtgaagagtttacgacttcagagaccacatatggtgcaaaccctggaacagtatgaa
+            ttctgctacaaagtggtacaagattttattgatatattttctgattatgctaatttcaaa
+            tga
+///

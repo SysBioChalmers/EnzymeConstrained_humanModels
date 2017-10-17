@@ -1,0 +1,72 @@
+ENTRY       27301             CDS       T01001
+NAME        APEX2, APE2, APEXL2, XTH2, ZGRF2
+DEFINITION  (RefSeq) apurinic/apyrimidinic endodeoxyribonuclease 2
+ORTHOLOGY   K10772  AP endonuclease 2 [EC:4.2.99.18]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03410  Base excision repair
+MODULE      hsa_M00296  BER complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03410 Base excision repair
+                27301 (APEX2)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 27301 (APEX2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                AP endonucleases
+                 27301 (APEX2)
+POSITION    Xp11.21
+MOTIF       Pfam: Exo_endo_phos zf-GRF Exo_endo_phos_2
+DBLINKS     NCBI-GeneID: 27301
+            NCBI-ProteinID: NP_055296
+            OMIM: 300773
+            HGNC: 17889
+            Ensembl: ENSG00000169188
+            Vega: OTTHUMG00000021642
+            Pharos: Q9UBZ4(Tbio)
+            UniProt: Q9UBZ4 E5KN95
+AASEQ       518
+            MLRVVSWNINGIRRPLQGVANQEPSNCAAVAVGRILDELDADIVCLQETKVTRDALTEPL
+            AIVEGYNSYFSFSRNRSGYSGVATFCKDNATPVAAEEGLSGLFATQNGDVGCYGNMDEFT
+            QEELRALDSEGRALLTQHKIRTWEGKEKTLTLINVYCPHADPGRPERLVFKMRFYRLLQI
+            RAEALLAAGSHVIILGDLNTAHRPIDHWDAVNLECFEEDPGRKWMDSLLSNLGCQSASHV
+            GPFIDSYRCFQPKQEGAFTCWSAVTGARHLNYGSRLDYVLGDRTLVIDTFQASFLLPEVM
+            GSDHCPVGAVLSVSSVPAKQCPPLCTRFLPEFAGTQLKILRFLVPLEQSPVLEQSTLQHN
+            NQTRVQTCQNKAQVRSTRPQPSQVGSSRGQKNLKSYFQPSPSCPQASPDIELPSLPLMSA
+            LMTPKTPEEKAVAKVVKGQAKTSEAKDEKELRTSFWKSVLAGPLRTPLCGGHREPCVMRT
+            VKKPGPNLGRRFYMCARPRGPPTDPSSRCNFFLWSRPS
+NTSEQ       1557
+            atgttgcgcgtggtgagctggaacatcaatgggattcggagacccctgcaaggggtggca
+            aatcaggaacccagcaactgtgccgccgtggccgtggggcgcattttggacgagctggat
+            gcggatatcgtctgtctccaggaaaccaaagtgaccagggatgcactgacagagcccctg
+            gctatcgttgagggttataactcctatttcagcttcagccgcaaccgtagcggctattct
+            ggtgtagccaccttctgtaaggacaatgctaccccagtggctgctgaagaaggcctgagt
+            ggcctgtttgccacccagaatggggatgttggttgctatggaaacatggatgagtttacc
+            caagaggaactccgggctctggatagtgagggcagggccctcctcacacagcataagatc
+            cgcacatgggaaggtaaggagaagaccttgaccctaatcaacgtgtactgcccccatgcg
+            gaccctgggaggcctgagcggctagtctttaagatgcgcttctatcgtttgctgcaaatc
+            cgagcagaagccctcctggcggcaggcagccatgtgatcattctgggtgacctgaataca
+            gcccaccgccccattgaccactgggatgcagtcaacctggaatgctttgaagaggaccca
+            gggcgcaagtggatggacagcttgctcagtaacttggggtgccagtctgcctctcatgta
+            gggcccttcatcgatagctaccgctgcttccaaccaaagcaggagggggccttcacctgc
+            tggtcagcagtcactggcgcccgccatctcaactatggctcccggcttgactatgtgctg
+            ggggacaggaccctggtcatagacacctttcaggcctctttcctgctgcctgaggtgatg
+            ggctctgaccactgccctgtgggtgcagtcttgagtgtgtcctctgtgcctgcaaaacag
+            tgcccacctctgtgcacccgcttcctccctgagtttgcaggcacccagctcaagatcctt
+            cgcttcctagttcctctcgaacaaagtcctgtgttggagcagtcgacgctgcagcacaac
+            aatcaaacccgggtacagacatgccaaaacaaagcccaagtgcgctcaaccaggcctcag
+            cccagtcaggttggctctagcagaggccagaaaaacctgaagagctactttcagccctcc
+            cctagctgtccccaagcctctcctgacatagagctgcctagcctaccactgatgagcgcc
+            ctcatgaccccgaagactccagaagagaaggcagtggccaaagtggtgaaggggcaggcc
+            aagacttcagaagccaaagatgagaaggagttacggacctcattctggaagtctgtgctg
+            gcggggcccttgcgcacacccctctgtgggggccacagggagccatgtgtgatgcgtact
+            gtgaagaagccaggacccaacttgggccgccgcttctacatgtgtgccaggccccggggt
+            cctcccactgacccctcctcccggtgcaacttcttcctctggagcaggcccagctga
+///

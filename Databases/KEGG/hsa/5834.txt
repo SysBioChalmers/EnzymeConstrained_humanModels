@@ -1,0 +1,109 @@
+ENTRY       5834              CDS       T01001
+NAME        PYGB, GPBB
+DEFINITION  (RefSeq) glycogen phosphorylase B
+ORTHOLOGY   K00688  glycogen phosphorylase [EC:2.4.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00500  Starch and sucrose metabolism
+            hsa01100  Metabolic pathways
+            hsa04217  Necroptosis
+            hsa04910  Insulin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+DRUG_TARGET Ingliforib: D04537
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                5834 (PYGB)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                5834 (PYGB)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                5834 (PYGB)
+               04922 Glucagon signaling pathway
+                5834 (PYGB)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                5834 (PYGB)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.1  glycogen phosphorylase
+                 5834 (PYGB)
+POSITION    20p11.21
+MOTIF       Pfam: Phosphorylase
+DBLINKS     NCBI-GeneID: 5834
+            NCBI-ProteinID: NP_002853
+            OMIM: 138550
+            HGNC: 9723
+            Ensembl: ENSG00000100994
+            Vega: OTTHUMG00000032117
+            Pharos: P11216(Tbio)
+            UniProt: P11216
+STRUCTURE   PDB: 5IKO 5IKP
+AASEQ       843
+            MAKPLTDSEKRKQISVRGLAGLGDVAEVRKSFNRHLHFTLVKDRNVATPRDYFFALAHTV
+            RDHLVGRWIRTQQHYYERDPKRIYYLSLEFYMGRTLQNTMVNLGLQNACDEAIYQLGLDL
+            EELEEIEEDAGLGNGGLGRLAACFLDSMATLGLAAYGYGIRYEFGIFNQKIVNGWQVEEA
+            DDWLRYGNPWEKARPEYMLPVHFYGRVEHTPDGVKWLDTQVVLAMPYDTPVPGYKNNTVN
+            TMRLWSAKAPNDFKLQDFNVGDYIEAVLDRNLAENISRVLYPNDNFFEGKELRLKQEYFV
+            VAATLQDIIRRFKSSKFGCRDPVRTCFETFPDKVAIQLNDTHPALSIPELMRILVDVEKV
+            DWDKAWEITKKTCAYTNHTVLPEALERWPVSMFEKLLPRHLEIIYAINQRHLDHVAALFP
+            GDVDRLRRMSVIEEGDCKRINMAHLCVIGSHAVNGVARIHSEIVKQSVFKDFYELEPEKF
+            QNKTNGITPRRWLLLCNPGLADTIVEKIGEEFLTDLSQLKKLLPLVSDEVFIRDVAKVKQ
+            ENKLKFSAFLEKEYKVKINPSSMFDVHVKRIHEYKRQLLNCLHVVTLYNRIKRDPAKAFV
+            PRTVMIGGKAAPGYHMAKLIIKLVTSIGDVVNHDPVVGDRLKVIFLENYRVSLAEKVIPA
+            ADLSQQISTAGTEASGTGNMKFMLNGALTIGTMDGANVEMAEEAGAENLFIFGLRVEDVE
+            ALDRKGYNAREYYDHLPELKQAVDQISSGFFSPKEPDCFKDIVNMLMHHDRFKVFADYEA
+            YMQCQAQVDQLYRNPKEWTKKVIRNIACSGKFSSDRTITEYAREIWGVEPSDLQIPPPNI
+            PRD
+NTSEQ       2532
+            atggcgaagccgctgacggacagcgagaagcggaagcagatcagcgtgcgcggcctggcg
+            gggctaggcgacgtggccgaggtgcggaagagcttcaaccggcacttgcacttcacgctg
+            gtcaaggaccgcaatgtggccacgccccgcgactacttcttcgcgctggcgcacacggtg
+            cgcgaccacctcgtgggccgctggatccgcacgcagcagcactactacgagcgcgacccc
+            aagcgcatttattatctttccctggaattctacatgggtcgcacgctgcagaacacgatg
+            gtgaacctgggccttcagaatgcctgcgatgaagccatctatcagttggggttagacttg
+            gaggaactcgaggagatagaagaagatgctggccttgggaatggaggcctggggaggctg
+            gcagcgtgtttccttgactcaatggctaccttgggcctggcagcatacggctatggaatc
+            cgctatgaatttgggatttttaaccagaagattgtcaatggctggcaggtagaggaggcc
+            gatgactggctgcgctacggcaacccctgggagaaagcgcggcctgagtatatgcttccc
+            gtgcacttctacggacgcgtggagcacacccccgacggcgtgaagtggctggacacacag
+            gtggtgctggccatgccctacgacaccccagtgcccggctacaagaacaacaccgtcaac
+            accatgcggctgtggtccgccaaggctcccaacgacttcaagctgcaggacttcaacgtg
+            ggagactacatcgaggcggtcctggaccggaacttggctgagaacatctccagggtcctg
+            tatccaaatgataacttctttgaggggaaggagctgcggctgaagcaggagtacttcgtg
+            gtggccgccacgctccaggacatcatccgccgcttcaagtcgtccaagttcggctgccgg
+            gaccctgtgagaacctgtttcgagacgttcccagacaaggtggccatccagctgaacgac
+            acccaccccgccctctccatccctgagctcatgcggatcctggtggacgtggagaaggtg
+            gactgggacaaggcctgggaaatcacgaagaagacctgtgcatacaccaaccacactgtg
+            ctgcctgaggccttggagcgctggcccgtgtccatgtttgagaagctgctgccgcggcac
+            ctggagataatctatgccatcaaccagcggcacctggaccacgtggccgcgctgtttccc
+            ggcgatgtggaccgcctgcgcaggatgtctgtgatcgaggagggggactgcaagcggatc
+            aacatggcccacctgtgtgtgattgggtcccatgctgtcaatggtgtggcgaggatccac
+            tcggagatcgtgaaacagtcggtctttaaggatttttatgaactggagccagagaagttc
+            cagaataagaccaatggcatcaccccccgccggtggctgctgctgtgcaacccggggctg
+            gccgataccatcgtggagaaaattggggaggagttcctgactgacctgagccagctgaag
+            aagctgctgccgctggtcagtgacgaggtgttcatcagggacgtggccaaggtcaaacag
+            gagaacaagctcaagttctcggccttcctggagaaggagtacaaggtgaagatcaacccc
+            tcctccatgttcgatgtgcatgtgaagaggatccacgagtacaagcggcagctgctcaac
+            tgcctgcacgtcgtcaccctgtacaatcgaatcaagagagacccggccaaggcttttgtg
+            cccaggactgttatgattgggggcaaggcagcgcccggttaccacatggccaagctgatc
+            atcaagttggtcacctccatcggcgacgtcgtcaatcatgacccagttgtgggtgacagg
+            ttgaaagtgatcttcctggagaactaccgtgtgtccttggctgagaaagtgatcccggcc
+            gctgatctgtcgcagcagatctccactgcaggcaccgaggcctcaggcacaggcaacatg
+            aagttcatgctcaacggggccctcaccatcggcaccatggacggcgccaacgtggagatg
+            gccgaggaggccggggccgagaacctcttcatcttcggcctgcgggtggaggatgtcgag
+            gccttggaccggaaagggtacaatgccagggagtactacgaccacctgcccgagctgaag
+            caggccgtggaccagatcagcagtggctttttttctcccaaggagccagactgcttcaag
+            gacatcgtgaacatgctgatgcaccatgacaggttcaaggtgtttgcagactatgaagcc
+            tacatgcagtgccaggcacaggtggaccagctgtaccggaaccccaaggagtggaccaag
+            aaggtcatcaggaacatcgcctgctcgggcaagttctccagtgaccggaccatcacggag
+            tatgcacgggagatctggggtgtggagccctccgacctgcagatcccgccccccaacatc
+            ccccgggactag
+///

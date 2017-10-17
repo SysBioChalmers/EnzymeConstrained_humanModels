@@ -1,0 +1,110 @@
+ENTRY       7173              CDS       T01001
+NAME        TPO, MSA, TDH2A, TPX
+DEFINITION  (RefSeq) thyroid peroxidase
+ORTHOLOGY   K00431  thyroid peroxidase [EC:1.11.1.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa01100  Metabolic pathways
+            hsa04918  Thyroid hormone synthesis
+            hsa05320  Autoimmune thyroid disease
+MODULE      hsa_M00043  Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine
+DISEASE     H00251  Thyroid dyshormonogenesis
+DRUG_TARGET Benzylthiouracil: D07519
+            Methylthiouracil: D07231
+            Propylthiouracil: D00562
+            Thiamazole: D00401
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                7173 (TPO)
+             Organismal Systems
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                7173 (TPO)
+             Human Diseases
+              Immune diseases
+               05320 Autoimmune thyroid disease
+                7173 (TPO)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.8  iodide peroxidase
+                 7173 (TPO)
+POSITION    2p25.3
+MOTIF       Pfam: An_peroxidase EGF_CA Sushi cEGF EGF_3 FXa_inhibition EGF LRRNT
+DBLINKS     NCBI-GeneID: 7173
+            NCBI-ProteinID: NP_000538
+            OMIM: 606765
+            HGNC: 12015
+            Ensembl: ENSG00000115705
+            Vega: OTTHUMG00000090271
+            Pharos: P07202(Tclin)
+            UniProt: P07202 Q502Y3 Q6P534
+AASEQ       933
+            MRALAVLSVTLVMACTEAFFPFISRGKELLWGKPEESRVSSVLEESKRLVDTAMYATMQR
+            NLKKRGILSPAQLLSFSKLPEPTSGVIARAAEIMETSIQAMKRKVNLKTQQSQHPTDALS
+            EDLLSIIANMSGCLPYMLPPKCPNTCLANKYRPITGACNNRDHPRWGASNTALARWLPPV
+            YEDGFSQPRGWNPGFLYNGFPLPPVREVTRHVIQVSNEVVTDDDRYSDLLMAWGQYIDHD
+            IAFTPQSTSKAAFGGGADCQMTCENQNPCFPIQLPEEARPAAGTACLPFYRSSAACGTGD
+            QGALFGNLSTANPRQQMNGLTSFLDASTVYGSSPALERQLRNWTSAEGLLRVHARLRDSG
+            RAYLPFVPPRAPAACAPEPGIPGETRGPCFLAGDGRASEVPSLTALHTLWLREHNRLAAA
+            LKALNAHWSADAVYQEARKVVGALHQIITLRDYIPRILGPEAFQQYVGPYEGYDSTANPT
+            VSNVFSTAAFRFGHATIHPLVRRLDASFQEHPDLPGLWLHQAFFSPWTLLRGGGLDPLIR
+            GLLARPAKLQVQDQLMNEELTERLFVLSNSSTLDLASINLQRGRDHGLPGYNEWREFCGL
+            PRLETPADLSTAIASRSVADKILDLYKHPDNIDVWLGGLAENFLPRARTGPLFACLIGKQ
+            MKALRDGDWFWWENSHVFTDAQRRELEKHSLSRVICDNTGLTRVPMDAFQVGKFPEDFES
+            CDSITGMNLEAWRETFPQDDKCGFPESVENGDFVHCEESGRRVLVYSCRHGYELQGREQL
+            TCTQEGWDFQPPLCKDVNECADGAHPPCHASARCRNTKGGFQCLCADPYELGDDGRTCVD
+            SGRLPRVTWISMSLAALLIGGFAGLTSTVICRWTRTGTKSTLPISETGGGTPELRCGKHQ
+            AVGTSPQRAAAQDSEQESAGMEGRDTHRLPRAL
+NTSEQ       2802
+            atgagagcgctcgctgtgctgtctgtcacgctggttatggcctgcacagaagccttcttc
+            cccttcatctcgagagggaaagaactcctttggggaaagcctgaggagtctcgtgtctct
+            agcgtcttggaggaaagcaagcgcctggtggacaccgccatgtacgccacgatgcagaga
+            aacctcaagaaaagaggaatcctttctccagctcagcttctgtctttttccaaacttcct
+            gagccaacaagcggagtgattgcccgagcagcagagataatggaaacatcaatacaagcg
+            atgaaaagaaaagtcaacctgaaaactcaacaatcacagcatccaacggatgctttatca
+            gaagatctgctgagcatcattgcaaacatgtctggatgtctcccttacatgctgccccca
+            aaatgcccaaacacttgcctggcgaacaaatacaggcccatcacaggagcttgcaacaac
+            agagaccaccccagatggggcgcctccaacacggccctggcacgatggctccctccagtc
+            tatgaggacggcttcagtcagccccgaggctggaaccccggcttcttgtacaacgggttc
+            ccactgcccccggtccgggaggtgacaagacatgtcattcaagtttcaaatgaggttgtc
+            acagatgatgaccgctattctgacctcctgatggcatggggacaatacatcgaccacgac
+            atcgcgttcacaccacagagcaccagcaaagctgccttcgggggaggggctgactgccag
+            atgacttgtgagaaccaaaacccatgttttcccatacaactcccggaggaggcccggccg
+            gccgcgggcaccgcctgtctgcccttctaccgctcttcggccgcctgcggcaccggggac
+            caaggcgcgctctttgggaacctgtccacggccaacccgcggcagcagatgaacgggttg
+            acctcgttcctggacgcgtccaccgtgtatggcagctccccggccctagagaggcagctg
+            cggaactggaccagtgccgaagggctgctccgcgtccacgcgcgcctccgggactccggc
+            cgcgcctacctgcccttcgtgccgccacgcgcgcctgcggcctgtgcgcccgagcccggc
+            atccccggagagacccgcgggccctgcttcctggccggagacggccgcgccagcgaggtc
+            ccctccctgacggcactgcacacgctgtggctgcgcgagcacaaccgcctggccgcggcg
+            ctcaaggccctcaatgcgcactggagcgcggacgccgtgtaccaggaggcgcgcaaggtc
+            gtgggcgctctgcaccagatcatcaccctgagggattacatccccaggatcctgggaccc
+            gaggccttccagcagtacgtgggtccctatgaaggctatgactccaccgccaaccccact
+            gtgtccaacgtgttctccacagccgccttccgcttcggccatgccacgatccacccgctg
+            gtgaggaggctggacgccagcttccaggagcaccccgacctgcccgggctgtggctgcac
+            caggctttcttcagcccatggacattactccgtggaggtggtttggacccactaatacga
+            ggccttcttgcaagaccagccaaactgcaggtgcaggatcagctgatgaacgaggagctg
+            acggaaaggctctttgtgctgtccaattccagcaccttggatctggcgtccatcaacctg
+            cagaggggccgggaccacgggctgccaggttacaatgagtggagggagttctgcggcctg
+            cctcgcctggagacccccgctgacctgagcacagccatcgccagcaggagcgtggccgac
+            aagatcctggacttgtacaagcatcctgacaacatcgatgtctggctgggaggcttagct
+            gaaaacttcctccccagggctcggacagggcccctgtttgcctgtctcattgggaagcag
+            atgaaggctctgcgggacggtgactggttttggtgggagaacagccacgtcttcacggat
+            gcacagaggcgtgagctggagaagcactccctgtctcgggtcatctgtgacaacactggc
+            ctcaccagggtgcccatggatgccttccaagtcggcaaattccccgaagactttgagtct
+            tgtgacagcatcactggcatgaacctggaggcctggagggaaacctttcctcaagacgac
+            aagtgtggcttcccagagagcgtggagaatggggactttgtgcactgtgaggagtctggg
+            aggcgcgtgctggtgtattcctgccggcacgggtatgagctccaaggccgggagcagctc
+            acttgcacccaggaaggatgggatttccagcctcccctctgcaaagatgtgaacgagtgt
+            gcagacggtgcccaccccccctgccacgcctctgcgaggtgcagaaacaccaaaggcggc
+            ttccagtgtctctgcgcggacccctacgagttaggagacgatgggagaacctgcgtagac
+            tccgggaggctccctcgggtgacttggatctccatgtcgctggctgctctgctgatcgga
+            ggcttcgcaggtctcacctcgacggtgatttgcaggtggacacgcactggcactaaatcc
+            acactgcccatctcggagacaggcggaggaactcccgagctgagatgcggaaagcaccag
+            gccgtagggacctcaccgcagcgggccgcagctcaggactcggagcaggagagtgctggg
+            atggaaggccgggatactcacaggctgccgagagccctctga
+///

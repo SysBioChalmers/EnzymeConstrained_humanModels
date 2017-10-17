@@ -1,0 +1,81 @@
+ENTRY       5745              CDS       T01001
+NAME        PTH1R, PFE, PTHR, PTHR1
+DEFINITION  (RefSeq) parathyroid hormone 1 receptor
+ORTHOLOGY   K04585  parathyroid hormone receptor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+DISEASE     H00479  Metaphyseal dysplasias
+            H00495  Eiken dysplasia
+            H00508  Blomstrand syndrome
+            H00680  Primary failure of tooth eruption
+DRUG_TARGET Parathyroid hormone: D05364
+            Teriparatide (DG00512): D03358 D06078 D06546
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                5745 (PTH1R)
+             Organismal Systems
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                5745 (PTH1R)
+            G protein-coupled receptors [BR:hsa04030]
+             Class B. Secretin receptor family
+              Calcium-regulating peptide
+               Parathyroid hormone
+                5745 (PTH1R)
+POSITION    3p21.31
+MOTIF       Pfam: 7tm_2 HRM
+DBLINKS     NCBI-GeneID: 5745
+            NCBI-ProteinID: NP_000307
+            OMIM: 168468
+            HGNC: 9608
+            Ensembl: ENSG00000160801
+            Vega: OTTHUMG00000133515
+            Pharos: Q03431(Tclin)
+            UniProt: Q03431 A0A024R2Z8
+STRUCTURE   PDB: 1BL1
+AASEQ       593
+            MGTARIAPGLALLLCCPVLSSAYALVDADDVMTKEEQIFLLHRAQAQCEKRLKEVLQRPA
+            SIMESDKGWTSASTSGKPRKDKASGKLYPESEEDKEAPTGSRYRGRPCLPEWDHILCWPL
+            GAPGEVVAVPCPDYIYDFNHKGHAYRRCDRNGSWELVPGHNRTWANYSECVKFLTNETRE
+            REVFDRLGMIYTVGYSVSLASLTVAVLILAYFRRLHCTRNYIHMHLFLSFMLRAVSIFVK
+            DAVLYSGATLDEAERLTEEELRAIAQAPPPPATAAAGYAGCRVAVTFFLYFLATNYYWIL
+            VEGLYLHSLIFMAFFSEKKYLWGFTVFGWGLPAVFVAVWVSVRATLANTGCWDLSSGNKK
+            WIIQVPILASIVLNFILFINIVRVLATKLRETNAGRCDTRQQYRKLLKSTLVLMPLFGVH
+            YIVFMATPYTEVSGTLWQVQMHYEMLFNSFQGFFVAIIYCFCNGEVQAEIKKSWSRWTLA
+            LDFKRKARSGSSSYSYGPMVSHTSVTNVGPRVGLGLPLSPRLLPTATTNGHPQLPGHAKP
+            GTPALETLETTPPAMAAPKDDGFLNGSCSGLDEEASGPERPPALLQEEWETVM
+NTSEQ       1782
+            atggggaccgcccggatcgcacccggcctggcgctcctgctctgctgccccgtgctcagc
+            tccgcgtacgcgctggtggatgcagatgacgtcatgactaaagaggaacagatcttcctg
+            ctgcaccgtgctcaggcccagtgcgaaaaacggctcaaggaggtcctgcagaggccagcc
+            agcataatggaatcagacaagggatggacatctgcgtccacatcagggaagcccaggaaa
+            gataaggcatctgggaagctctaccctgagtctgaggaggacaaggaggcacccactggc
+            agcaggtaccgagggcgcccctgtctgccggaatgggaccacatcctgtgctggccgctg
+            ggggcaccaggtgaggtggtggctgtgccctgtccggactacatttatgacttcaatcac
+            aaaggccatgcctaccgacgctgtgaccgcaatggcagctgggagctggtgcctgggcac
+            aacaggacgtgggccaactacagcgagtgtgtcaaatttctcaccaatgagactcgtgaa
+            cgggaggtgtttgaccgcctgggcatgatttacaccgtgggctactccgtgtccctggcg
+            tccctcaccgtagctgtgctcatcctggcctactttaggcggctgcactgcacgcgcaac
+            tacatccacatgcacctgttcctgtccttcatgctgcgcgccgtgagcatcttcgtcaag
+            gacgctgtgctctactctggcgccacgcttgatgaggctgagcgcctcaccgaggaggag
+            ctgcgcgccatcgcccaggcgcccccgccgcctgccaccgccgctgccggctacgcgggc
+            tgcagggtggctgtgaccttcttcctttacttcctggccaccaactactactggattctg
+            gtggaggggctgtacctgcacagcctcatcttcatggccttcttctcagagaagaagtac
+            ctgtggggcttcacagtcttcggctggggtctgcccgctgtcttcgtggctgtgtgggtc
+            agtgtcagagctaccctggccaacaccgggtgctgggacttgagctccgggaacaaaaag
+            tggatcatccaggtgcccatcctggcctccattgtgctcaacttcatcctcttcatcaat
+            atcgtccgggtgctcgccaccaagctgcgggagaccaacgccggccggtgtgacacacgg
+            cagcagtaccggaagctgctcaaatccacgctggtgctcatgcccctctttggcgtccac
+            tacattgtcttcatggccacaccatacaccgaggtctcagggacgctctggcaagtccag
+            atgcactatgagatgctcttcaactccttccagggattttttgtcgcaatcatatactgt
+            ttctgcaatggcgaggtacaagctgagatcaagaaatcttggagccgctggacactggca
+            ctggacttcaagcgaaaggcacgcagcgggagcagcagctatagctacggccccatggtg
+            tcccacacaagtgtgaccaatgtcggcccccgtgtgggactcggcctgcccctcagcccc
+            cgcctactgcccactgccaccaccaacggccaccctcagctgcctggccatgccaagcca
+            gggaccccagccctggagaccctcgagaccacaccacctgccatggctgctcccaaggac
+            gatgggttcctcaacggctcctgctcaggcctggacgaggaggcctctgggcctgagcgg
+            ccacctgccctgctacaggaagagtgggagacagtcatgtga
+///

@@ -1,0 +1,150 @@
+ENTRY       468               CDS       T01001
+NAME        ATF4, CREB-2, CREB2, TAXREB67, TXREB
+DEFINITION  (RefSeq) activating transcription factor 4
+ORTHOLOGY   K04374  cyclic AMP-dependent transcription factor ATF-4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04137  Mitophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04211  Longevity regulating pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04668  TNF signaling pathway
+            hsa04720  Long-term potentiation
+            hsa04722  Neurotrophin signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04911  Insulin secretion
+            hsa04912  GnRH signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04918  Thyroid hormone synthesis
+            hsa04922  Glucagon signaling pathway
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04926  Relaxin signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05203  Viral carcinogenesis
+            hsa05215  Prostate cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                468 (ATF4)
+             Environmental Information Processing
+              Signal transduction
+               04010 MAPK signaling pathway
+                468 (ATF4)
+               04668 TNF signaling pathway
+                468 (ATF4)
+               04022 cGMP - PKG signaling pathway
+                468 (ATF4)
+               04151 PI3K-Akt signaling pathway
+                468 (ATF4)
+             Cellular Processes
+              Transport and catabolism
+               04137 Mitophagy - animal
+                468 (ATF4)
+              Cell growth and death
+               04210 Apoptosis
+                468 (ATF4)
+             Organismal Systems
+              Endocrine system
+               04911 Insulin secretion
+                468 (ATF4)
+               04922 Glucagon signaling pathway
+                468 (ATF4)
+               04912 GnRH signaling pathway
+                468 (ATF4)
+               04915 Estrogen signaling pathway
+                468 (ATF4)
+               04926 Relaxin signaling pathway
+                468 (ATF4)
+               04918 Thyroid hormone synthesis
+                468 (ATF4)
+               04925 Aldosterone synthesis and secretion
+                468 (ATF4)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                468 (ATF4)
+              Nervous system
+               04725 Cholinergic synapse
+                468 (ATF4)
+               04728 Dopaminergic synapse
+                468 (ATF4)
+               04720 Long-term potentiation
+                468 (ATF4)
+               04722 Neurotrophin signaling pathway
+                468 (ATF4)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                468 (ATF4)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                468 (ATF4)
+               05215 Prostate cancer
+                468 (ATF4)
+              Substance dependence
+               05030 Cocaine addiction
+                468 (ATF4)
+               05031 Amphetamine addiction
+                468 (ATF4)
+               05034 Alcoholism
+                468 (ATF4)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                468 (ATF4)
+              Infectious diseases
+               05166 HTLV-I infection
+                468 (ATF4)
+               05161 Hepatitis B
+                468 (ATF4)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Basic leucine zipper (bZIP)
+               AP-1(-like) components, CRE-BP/ATF
+                468 (ATF4)
+POSITION    22q13.1
+MOTIF       Pfam: bZIP_1 bZIP_2 DUF3450 IncA Taxilin DUF4407 APG6 Fez1 Nop53 Laminin_II AAA_13 bZIP_Maf
+DBLINKS     NCBI-GeneID: 468
+            NCBI-ProteinID: NP_001666
+            OMIM: 604064
+            HGNC: 786
+            Ensembl: ENSG00000128272
+            Vega: OTTHUMG00000151099
+            Pharos: P18848(Tbio)
+            UniProt: P18848
+STRUCTURE   PDB: 1CI6
+AASEQ       351
+            MTEMSFLSSEVLVGDLMSPFDQSGLGAEESLGLLDDYLEVAKHFKPHGFSSDKAKAGSSE
+            WLAVDGLVSPSNNSKEDAFSGTDWMLEKMDLKEFDLDALLGIDDLETMPDDLLTTLDDTC
+            DLFAPLVQETNKQPPQTVNPIGHLPESLTKPDQVAPFTFLQPLPLSPGVLSSTPDHSFSL
+            ELGSEVDITEGDRKPDYTAYVAMIPQCIKEEDTPSDNDSGICMSPESYLGSPQHSPSTRG
+            SPNRSLPSPGVLCGSARPKPYDPPGEKMVAAKVKGEKLDKKLKKMEQNKTAATRYRQKKR
+            AEQEALTGECKELEKKNEALKERADSLAKEIQYLKDLIEEVRKARGKKRVP
+NTSEQ       1056
+            atgaccgaaatgagcttcctgagcagcgaggtgttggtgggggacttgatgtcccccttc
+            gaccagtcgggtttgggggctgaagaaagcctaggtctcttagatgattacctggaggtg
+            gccaagcacttcaaacctcatgggttctccagcgacaaggctaaggcgggctcctccgaa
+            tggctggctgtggatgggttggtcagtccctccaacaacagcaaggaggatgccttctcc
+            gggacagattggatgttggagaaaatggatttgaaggagttcgacttggatgccctgttg
+            ggtatagatgacctggaaaccatgccagatgaccttctgaccacgttggatgacacttgt
+            gatctctttgcccccctagtccaggagactaataagcagcccccccagacggtgaaccca
+            attggccatctcccagaaagtttaacaaaacccgaccaggttgcccccttcaccttctta
+            caacctcttcccctttccccaggggtcctgtcctccactccagatcattcctttagttta
+            gagctgggcagtgaagtggatatcactgaaggagataggaagccagactacactgcttac
+            gttgccatgatccctcagtgcataaaggaggaagacaccccttcagataatgatagtggc
+            atctgtatgagcccagagtcctatctggggtctcctcagcacagcccctctaccaggggc
+            tctccaaataggagcctcccatctccaggtgttctctgtgggtctgcccgtcccaaacct
+            tacgatcctcctggagagaagatggtagcagcaaaagtaaagggtgagaaactggataag
+            aagctgaaaaaaatggagcaaaacaagacagcagccactaggtaccgccagaagaagagg
+            gcggagcaggaggctcttactggtgagtgcaaagagctggaaaagaagaacgaggctcta
+            aaagagagggcggattccctggccaaggagatccagtacctgaaagatttgatagaagag
+            gtccgcaaggcaagggggaagaaaagggtcccctag
+///

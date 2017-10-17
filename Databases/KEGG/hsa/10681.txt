@@ -1,0 +1,114 @@
+ENTRY       10681             CDS       T01001
+NAME        GNB5, GB5, IDDCA, LADCI
+DEFINITION  (RefSeq) G protein subunit beta 5
+ORTHOLOGY   K04539  guanine nucleotide-binding protein subunit beta-5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04713  Circadian entrainment
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa04926  Relaxin signaling pathway
+            hsa05032  Morphine addiction
+            hsa05034  Alcoholism
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05200  Pathways in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                10681 (GNB5)
+               04371 Apelin signaling pathway
+                10681 (GNB5)
+               04151 PI3K-Akt signaling pathway
+                10681 (GNB5)
+             Organismal Systems
+              Immune system
+               04062 Chemokine signaling pathway
+                10681 (GNB5)
+              Endocrine system
+               04926 Relaxin signaling pathway
+                10681 (GNB5)
+              Nervous system
+               04724 Glutamatergic synapse
+                10681 (GNB5)
+               04727 GABAergic synapse
+                10681 (GNB5)
+               04725 Cholinergic synapse
+                10681 (GNB5)
+               04728 Dopaminergic synapse
+                10681 (GNB5)
+               04726 Serotonergic synapse
+                10681 (GNB5)
+               04723 Retrograde endocannabinoid signaling
+                10681 (GNB5)
+              Environmental adaptation
+               04713 Circadian entrainment
+                10681 (GNB5)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                10681 (GNB5)
+              Substance dependence
+               05032 Morphine addiction
+                10681 (GNB5)
+               05034 Alcoholism
+                10681 (GNB5)
+              Infectious diseases
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                10681 (GNB5)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               10681 (GNB5)
+            GTP-binding proteins [BR:hsa04031]
+             Heterotrimeric G-proteins
+              Beta Subunits
+               Beta [OT]
+                10681 (GNB5)
+POSITION    15q21.2
+MOTIF       Pfam: WD40 ANAPC4_WD40 WD40_like Atg14
+DBLINKS     NCBI-GeneID: 10681
+            NCBI-ProteinID: NP_057278
+            OMIM: 604447
+            HGNC: 4401
+            Ensembl: ENSG00000069966
+            Vega: OTTHUMG00000131892
+            Pharos: O14775(Tbio)
+            UniProt: O14775 A0A024R5V3
+AASEQ       395
+            MCDQTFLVNVFGSCDKCFKQRALRPVFKKSQQLSYCSTCAEIMATEGLHENETLASLKSE
+            AESLKGKLEEERAKLHDVELHQVAERVEALGQFVMKTRRTLKGHGNKVLCMDWCKDKRRI
+            VSSSQDGKVIVWDSFTTNKEHAVTMPCTWVMACAYAPSGCAIACGGLDNKCSVYPLTFDK
+            NENMAAKKKSVAMHTNYLSACSFTNSDMQILTASGDGTCALWDVESGQLLQSFHGHGADV
+            LCLDLAPSETGNTFVSGGCDKKAMVWDMRSGQCVQAFETHESDINSVRYYPSGDAFASGS
+            DDATCRLYDLRADREVAIYSKESIIFGASSVDFSLSGRLLFAGYNDYTINVWDVLKGSRV
+            SILFGHENRVSTLRVSPDGTAFCSGSWDHTLRVWA
+NTSEQ       1188
+            atgtgtgatcagacctttctcgttaatgtatttggctcatgtgacaaatgtttcaaacaa
+            cgagctctgagaccagttttcaagaagtctcaacaactcagctactgttcaacatgtgca
+            gaaattatggcaaccgaggggctgcacgagaacgagacgctggcgtcgctgaagagcgag
+            gccgagagcctcaagggcaagctggaggaggagcgagccaagctgcacgatgtggagctg
+            caccaggtggcggagcgggtggaggccctggggcagtttgtcatgaagaccagaaggacc
+            ctcaaaggccacgggaacaaagtcctgtgcatggactggtgcaaagataagaggaggatc
+            gtgagctcgtcacaggatgggaaggtgatcgtgtgggattccttcaccacaaacaaggag
+            cacgcggtcaccatgccctgcacgtgggtgatggcatgtgcttatgccccatcgggatgt
+            gccattgcttgtggtggtttggataataagtgttctgtgtaccccttgacgtttgacaaa
+            aatgaaaacatggctgccaaaaagaagtctgttgctatgcacaccaactacctgtcggcc
+            tgcagcttcaccaactctgacatgcagatcctgacagcgagcggcgatggcacatgtgcc
+            ctgtgggacgtggagagcgggcagctgctgcagagcttccacggacatggggctgacgtc
+            ctctgcttggacctggccccctcagaaactggaaacaccttcgtgtctgggggatgtgac
+            aagaaagccatggtgtgggacatgcgctccggccagtgcgtgcaggcctttgaaacacat
+            gaatctgacatcaacagtgtccggtactaccccagtggagatgcctttgcttcagggtca
+            gatgacgctacgtgtcgcctctatgacctgcgggcagatagggaggttgccatctattcc
+            aaagaaagcatcatatttggagcatccagcgtggacttctccctcagtggtcgcctgctg
+            tttgctggatacaatgattacactatcaacgtctgggatgttctcaaagggtcccgggtc
+            tccatcctgtttggacatgaaaaccgcgttagcactctacgagtttcccccgatgggact
+            gctttctgctctggatcatgggatcataccctcagagtctgggcctaa
+///

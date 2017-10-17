@@ -1,0 +1,65 @@
+ENTRY       6392              CDS       T01001
+NAME        SDHD, CBT1, CII-4, CWS3, PGL, PGL1, QPs3, SDH4, cybS
+DEFINITION  (RefSeq) succinate dehydrogenase complex subunit D
+ORTHOLOGY   K00237  succinate dehydrogenase (ubiquinone) membrane anchor subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            hsa_M00148  Succinate dehydrogenase (ubiquinone)
+DISEASE     H00034  Carcinoid
+            H01222  Cowden-like syndrome
+            H01510  Malignant paraganglioma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                6392 (SDHD)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                6392 (SDHD)
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                6392 (SDHD)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                6392 (SDHD)
+               05012 Parkinson's disease
+                6392 (SDHD)
+               05016 Huntington's disease
+                6392 (SDHD)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                6392 (SDHD)
+POSITION    11q23.1
+MOTIF       Pfam: CybS Ldh_2
+DBLINKS     NCBI-GeneID: 6392
+            NCBI-ProteinID: NP_002993
+            OMIM: 602690
+            HGNC: 10683
+            Ensembl: ENSG00000204370 ENSG00000255292
+            Vega: OTTHUMG00000166997
+            Pharos: O14521(Tbio)
+            UniProt: O14521 A0A0S2Z4J3
+AASEQ       159
+            MAVLWRLSAVCGALGGRALLLRTPVVRPAHISAFLQDRPIPEWCGVQHIHLSPSHHSGSK
+            AASLHWTSERVVSVLLLGLLPAAYLNPCSAMDYSLAAALTLHGHWGLGQVVTDYVHGDAL
+            QKAAKAGLLALSALTFAGLCYFNYHDVGICKAVAMLWKL
+NTSEQ       480
+            atggcggttctctggaggctgagtgccgtttgcggtgccctaggaggccgagctctgttg
+            cttcgaactccagtggtcagacctgctcatatctcagcatttcttcaggaccgacctatc
+            ccagaatggtgtggagtgcagcacatacacttgtcaccgagccaccattctggctccaag
+            gctgcatctctccactggactagcgagagggttgtcagtgttttgctcctgggtctgctt
+            ccggctgcttatttgaatccttgctctgcgatggactattccctggctgcagccctcact
+            cttcatggtcactggggccttggacaagttgttactgactatgttcatggggatgccttg
+            cagaaagctgccaaggcagggcttttggcactttcagctttaacctttgctgggctttgc
+            tatttcaactatcacgatgtgggcatctgcaaagctgttgccatgctgtggaagctctga
+///

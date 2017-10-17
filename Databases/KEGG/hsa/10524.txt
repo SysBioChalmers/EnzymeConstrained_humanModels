@@ -1,0 +1,76 @@
+ENTRY       10524             CDS       T01001
+NAME        KAT5, ESA1, HTATIP, HTATIP1, PLIP, TIP, TIP60, ZC2HC5, cPLA2
+DEFINITION  (RefSeq) lysine acetyltransferase 5
+ORTHOLOGY   K11304  histone acetyltransferase HTATIP [EC:2.3.1.48]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa05166  HTLV-I infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                10524 (KAT5)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.48  histone acetyltransferase
+                 10524 (KAT5)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HATs (histone acetyltransferases)
+                10524 (KAT5)
+               HAT complexes
+                TIP60 complex
+                 10524 (KAT5)
+                NuA4 complex
+                 10524 (KAT5)
+POSITION    11q13.1
+MOTIF       Pfam: MOZ_SAS Tudor-knot Acetyltransf_7 Acetyltransf_1
+DBLINKS     NCBI-GeneID: 10524
+            NCBI-ProteinID: NP_006379
+            OMIM: 601409
+            HGNC: 5275
+            Ensembl: ENSG00000172977
+            Vega: OTTHUMG00000166617
+            Pharos: Q92993(Tbio)
+            UniProt: Q92993 A0A024R597
+STRUCTURE   PDB: 2OU2 4QQG 2EKO
+AASEQ       513
+            MAEVGEIIEGCRLPVLRRNQDNEDEWPLAEILSVKDISGRKLFYVHYIDFNKRLDEWVTH
+            ERLDLKKIQFPKKEAKTPTKNGLPGSRPGSPEREVPASAQASGKTLPIPVQITLRFNLPK
+            EREAIPGGEPDQPLSSSSCLQPNHRSTKRKVEVVSPATPVPSETAPASVFPQNGAARRAV
+            AAQPGRKRKSNCLGTDEDSQDSSDGIPSAPRMTGSLVSDRSHDDIVTRMKNIECIELGRH
+            RLKPWYFSPYPQELTTLPVLYLCEFCLKYGRSLKCLQRHLTKCDLRHPPGNEIYRKGTIS
+            FFEIDGRKNKSYSQNLCLLAKCFLDHKTLYYDTDPFLFYVMTEYDCKGFHIVGYFSKEKE
+            STEDYNVACILTLPPYQRRGYGKLLIEFSYELSKVEGKTGTPEKPLSDLGLLSYRSYWSQ
+            TILEILMGLKSESGERPQITINEISEITSIKKEDVISTLQYLNLINYYKGQYILTLSEDI
+            VDGHERAMLKRLLRIDSKCLHFTPKDWSKRGKW
+NTSEQ       1542
+            atggcggaggtgggggagataatcgagggctgccgcctacccgtgctgcggcggaaccag
+            gacaacgaagatgagtggcccctggccgagatcctgagcgtgaaggacatcagtggccgg
+            aagcttttctacgtccattacattgacttcaacaaacgtctggatgaatgggtgacgcat
+            gagcggctggacctaaagaagatccagttccccaagaaagaggccaagacccccactaag
+            aacggacttcctgggtcccgtcctggctctccagagagagaggtgccggcctcggcgcag
+            gccagcgggaagaccttgccaatcccggtccagatcacactccgcttcaacctgcccaag
+            gagcgggaggccattcccggtggcgagcctgaccagccgctctcctccagctcctgcctg
+            cagcccaaccaccgctcaacgaaacggaaggtggaggtggtttcaccagcaactccagtg
+            cccagcgagacagccccggcctcggtttttccccagaatggagccgcccgtagggcagtg
+            gcagcccagccaggacggaagcgaaaatcgaattgtttgggcactgatgaggactcccag
+            gacagctctgatggaataccgtcagcaccacgcatgactggcagcctggtgtctgatcga
+            agccacgacgacatcgtcacccggatgaagaacattgagtgcattgagctgggccggcac
+            cgcctcaagccgtggtacttctccccgtacccacaggaactcaccacattgcctgtcctc
+            tacctgtgcgagttctgcctcaagtacggccgtagtctcaagtgtcttcagcgtcatttg
+            accaagtgtgacctacgacatcctccaggcaatgagatttaccgcaagggcaccatctcc
+            ttctttgagattgatggacgtaagaacaagagttattcccagaacctgtgtcttttggcc
+            aagtgtttccttgaccataagacactgtactatgacacagaccctttcctcttctacgtc
+            atgacagagtatgactgtaagggcttccacatcgtgggctacttctccaaggagaaagaa
+            tcaacggaagactacaatgtggcctgcatcctaaccctgcctccctaccagcgccggggc
+            tacggcaagctgctgatcgagttcagctatgaactctccaaagtggaagggaaaacaggg
+            acccctgagaagcccctctcagaccttggcctcctatcctatcgaagctactggtcccag
+            accatcctggagatcctgatggggctgaagtcggagagcggggagaggccacagatcacc
+            atcaatgagattagtgaaatcaccagcatcaagaaggaggatgtcatctccactctgcag
+            tacctcaatctcatcaactactacaagggccagtacatcctcacactgtcagaggacatc
+            gtggatggccatgagcgggccatgctcaagcggctcctgcggatcgactccaagtgtctg
+            cacttcactcccaaggactggagcaagagggggaagtggtga
+///

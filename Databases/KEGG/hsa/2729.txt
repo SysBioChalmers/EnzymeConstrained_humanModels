@@ -1,0 +1,85 @@
+ENTRY       2729              CDS       T01001
+NAME        GCLC, GCL, GCS, GLCL, GLCLC
+DEFINITION  (RefSeq) glutamate-cysteine ligase catalytic subunit
+ORTHOLOGY   K11204  glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00270  Cysteine and methionine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+            hsa04216  Ferroptosis
+MODULE      hsa_M00118  Glutathione biosynthesis, glutamate => glutathione
+DISEASE     H00668  Anemia due to disorders of glutathione metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                2729 (GCLC)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                2729 (GCLC)
+             Cellular Processes
+              Cell growth and death
+               04216 Ferroptosis
+                2729 (GCLC)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.2  glutamate---cysteine ligase
+                 2729 (GCLC)
+POSITION    6p12.1
+MOTIF       Pfam: GCS GCS2
+DBLINKS     NCBI-GeneID: 2729
+            NCBI-ProteinID: NP_001489
+            OMIM: 606857
+            HGNC: 4311
+            Ensembl: ENSG00000001084
+            Vega: OTTHUMG00000160220
+            Pharos: P48506(Tchem)
+            UniProt: P48506 Q14TF0
+AASEQ       637
+            MGLLSQGSPLSWEETKRHADHVRRHGILQFLHIYHAVKDRHKDVLKWGDEVEYMLVSFDH
+            ENKKVRLVLSGEKVLETLQEKGERTNPNHPTLWRPEYGSYMIEGTPGQPYGGTMSEFNTV
+            EANMRKRRKEATSILEENQALCTITSFPRLGCPGFTLPEVKPNPVEGGASKSLFFPDEAI
+            NKHPRFSTLTRNIRHRRGEKVVINVPIFKDKNTPSPFIETFTEDDEASRASKPDHIYMDA
+            MGFGMGNCCLQVTFQACSISEARYLYDQLATICPIVMALSAASPFYRGYVSDIDCRWGVI
+            SASVDDRTREERGLEPLKNNNYRISKSRYDSIDSYLSKCGEKYNDIDLTIDKEIYEQLLQ
+            EGIDHLLAQHVAHLFIRDPLTLFEEKIHLDDANESDHFENIQSTNWQTMRFKPPPPNSDI
+            GWRVEFRPMEVQLTDFENSAYVVFVVLLTRVILSYKLDFLIPLSKVDENMKVAQKRDAVL
+            QGMFYFRKDICKGGNAVVDGCGKAQNSTELAAEEYTLMSIDTIINGKEGVFPGLIPILNS
+            YLENMEVDVDTRCSILNYLKLIKKRASGELMTVARWMREFIANHPDYKQDSVITDEMNYS
+            LILKCNQIANELCECPELLGSAFRKVKYSGSKTDSSN
+NTSEQ       1914
+            atggggctgctgtcccagggctcgccgctgagctgggaggaaaccaagcgccatgccgac
+            cacgtgcggcggcacgggatcctccagttcctgcacatctaccacgccgtcaaggaccgg
+            cacaaggacgttctcaagtggggcgatgaggtggaatacatgttggtatcttttgatcat
+            gaaaataaaaaagtccggttggtcctgtctggggagaaagttcttgaaactctgcaagag
+            aagggggaaaggacaaacccaaaccatcctaccctttggagaccagagtatgggagttac
+            atgattgaagggacaccaggacagccctacggaggaacaatgtccgagttcaatacagtt
+            gaggccaacatgcgaaaacgccggaaggaggctacttctatattagaagaaaatcaggct
+            ctttgcacaataacttcatttcccagattaggctgtcctgggttcacactgcccgaggtc
+            aaacccaacccagtggaaggaggagcttccaagtccctcttctttccagatgaagcaata
+            aacaagcaccctcgcttcagtaccttaacaagaaatatccgacataggagaggagaaaag
+            gttgtcatcaatgtaccaatatttaaggacaagaatacaccatctccatttatagaaaca
+            tttactgaggatgatgaagcttcaagggcttctaagccggatcatatttacatggatgcc
+            atgggatttggaatgggcaattgctgtctccaggtgacattccaagcctgcagtatatct
+            gaggccagatacctttatgatcagttggctactatctgtccaattgttatggctttgagt
+            gctgcatctcccttttaccgaggctatgtgtcagacattgattgtcgctggggagtgatt
+            tctgcatctgtagatgatagaactcgggaggagcgaggactggagccattgaagaacaat
+            aactataggatcagtaaatcccgatatgactcaatagacagctatttatctaagtgtggt
+            gagaaatataatgacatcgacttgacgatagataaagagatctacgaacagctgttgcag
+            gaaggcattgatcatctcctggcccagcatgttgctcatctctttattagagacccactg
+            acactgtttgaagagaaaatacacctggatgatgctaatgagtctgaccattttgagaat
+            attcagtccacaaattggcagacaatgagatttaagccccctcctccaaactcagacatt
+            ggatggagagtagaatttcgacccatggaggtgcaattaacagactttgagaactctgcc
+            tatgtggtgtttgtggtactgctcaccagagtgatcctttcctacaaattggattttctc
+            attccactgtcaaaggttgatgagaacatgaaggtagcacagaaaagagatgctgtcttg
+            cagggaatgttttatttcaggaaagatatttgcaaaggtggcaatgcagtggtggatggt
+            tgtggcaaggcccagaacagcacggagctcgctgcagaggagtacaccctcatgagcata
+            gacaccatcatcaatgggaaggaaggtgtgtttcctggactgatcccaattctgaactct
+            taccttgaaaacatggaagtggatgtggacaccagatgtagtattctgaactacctaaag
+            ctaattaagaagagagcatctggagaactaatgacagttgccagatggatgagggagttt
+            atcgcaaaccatcctgactacaagcaagacagtgtcataactgatgaaatgaattatagc
+            cttattttgaagtgtaaccaaattgcaaatgaattatgtgaatgcccagagttacttgga
+            tcagcatttaggaaagtaaaatatagtggaagtaaaactgactcatccaactag
+///

@@ -1,0 +1,76 @@
+ENTRY       4633              CDS       T01001
+NAME        MYL2, CMH10, MLC-2s/v, MLC2
+DEFINITION  (RefSeq) myosin light chain 2
+ORTHOLOGY   K10351  myosin regulatory light chain 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04260  Cardiac muscle contraction
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04371  Apelin signaling pathway
+            hsa04510  Focal adhesion
+            hsa04530  Tight junction
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00292  Hypertrophic cardiomyopathy (HCM)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                4633 (MYL2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                4633 (MYL2)
+               04530 Tight junction
+                4633 (MYL2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                4633 (MYL2)
+             Organismal Systems
+              Immune system
+               04670 Leukocyte transendothelial migration
+                4633 (MYL2)
+              Circulatory system
+               04260 Cardiac muscle contraction
+                4633 (MYL2)
+               04261 Adrenergic signaling in cardiomyocytes
+                4633 (MYL2)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                4633 (MYL2)
+               05414 Dilated cardiomyopathy (DCM)
+                4633 (MYL2)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Myosins
+                 4633 (MYL2)
+POSITION    12q24.11
+MOTIF       Pfam: EF-hand_1 EF-hand_6 EF-hand_7 EF-hand_8 EF-hand_5
+DBLINKS     NCBI-GeneID: 4633
+            NCBI-ProteinID: NP_000423
+            OMIM: 160781
+            HGNC: 7583
+            Ensembl: ENSG00000111245
+            Vega: OTTHUMG00000169535
+            Pharos: P10916(Tbio)
+            UniProt: P10916 Q6IB42
+STRUCTURE   PDB: 5TBY
+AASEQ       166
+            MAPKKAKKRAGGANSNVFSMFEQTQIQEFKEAFTIMDQNRDGFIDKNDLRDTFAALGRVN
+            VKNEEIDEMIKEAPGPINFTVFLTMFGEKLKGADPEETILNAFKVFDPEGKGVLKADYVR
+            EMLTTQAERFSKEEVDQMFAAFPPDVTGNLDYKNLVHIITHGEEKD
+NTSEQ       501
+            atggcacctaagaaagcaaagaagagagccgggggcgccaactccaacgtgttctccatg
+            ttcgaacagacccaaatccaggaatttaaggaggccttcactatcatggaccagaacagg
+            gatggcttcattgacaagaacgatctgagagacacctttgctgcccttgggcgagtgaac
+            gtgaaaaatgaagaaattgatgaaatgatcaaggaggctccgggtccaattaactttact
+            gtgttcctcacaatgtttggggagaaacttaagggagcggaccctgaggaaaccattctc
+            aacgcattcaaagtgtttgaccctgaaggcaaaggggtgctgaaggctgattacgttcgg
+            gaaatgctgaccacgcaggcggagaggttttccaaggaggaggttgaccagatgttcgcc
+            gccttcccccctgacgtgactggcaacttggactacaagaacctggtgcacatcatcacc
+            cacggagaagagaaggactag
+///

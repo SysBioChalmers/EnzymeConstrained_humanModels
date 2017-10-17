@@ -1,0 +1,59 @@
+ENTRY       6633              CDS       T01001
+NAME        SNRPD2, SMD2, SNRPD1, Sm-D2
+DEFINITION  (RefSeq) small nuclear ribonucleoprotein D2 polypeptide
+ORTHOLOGY   K11096  small nuclear ribonucleoprotein D2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00351  Spliceosome, U1-snRNP
+            hsa_M00352  Spliceosome, U2-snRNP
+            hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+            hsa_M00355  Spliceosome, 35S U5-snRNP
+            hsa_M00398  Sm core complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                6633 (SNRPD2)
+            Spliceosome [BR:hsa03041]
+             Complex A
+              U1 snRNP components
+               Sm proteins
+                6633 (SNRPD2)
+              U2 snRNP components
+                6633 (SNRPD2)
+             Complex B
+              U1 snRNP components
+                6633 (SNRPD2)
+              U4/U6.U5 tri-snRNP components
+                6633 (SNRPD2)
+             Complex C
+              U2 snRNP components
+                6633 (SNRPD2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                Sm core complex
+                 6633 (SNRPD2)
+POSITION    19q13.32
+MOTIF       Pfam: LSM Hfq
+DBLINKS     NCBI-GeneID: 6633
+            NCBI-ProteinID: NP_004588
+            OMIM: 601061
+            HGNC: 11159
+            Ensembl: ENSG00000125743
+            Vega: OTTHUMG00000182130
+            Pharos: P62316(Tbio)
+            UniProt: P62316
+STRUCTURE   PDB: 3S6N 1B34 4PJO 3PGW 5O9Z 3CW1 5MQF 3JCR
+AASEQ       118
+            MSLLNKPKSEMTPEELQKREEEEFNTGPLSVLTQSVKNNTQVLINCRNNKKLLGRVKAFD
+            RHCNMVLENVKEMWTEVPKSGKGKKKSKPVNKDRYISKMFLRGDSVIVVLRNPLIAGK
+NTSEQ       357
+            atgagcctcctcaacaagcccaagagtgagatgaccccagaggagctgcagaagcgagag
+            gaggaggaatttaacaccggtccactctctgtgctcacacagtcagtcaagaacaatacc
+            caagtgctcatcaactgccgcaacaataagaaactcctgggccgcgtgaaggccttcgat
+            aggcactgcaacatggtgctggagaacgtgaaggagatgtggactgaggtacccaagagt
+            ggcaagggcaagaagaagtccaagccagtcaacaaagaccgctacatctccaagatgttc
+            ctgcgcggggactcagtcatcgtggtcctgcggaacccgctcatcgccggcaagtag
+///

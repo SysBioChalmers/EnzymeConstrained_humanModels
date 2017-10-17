@@ -1,0 +1,84 @@
+ENTRY       6929              CDS       T01001
+NAME        TCF3, AGM8, E2A, E47, ITF1, TCF-3, VDIR, bHLHb21
+DEFINITION  (RefSeq) transcription factor 3
+ORTHOLOGY   K09063  transcription factor E2-alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa05166  HTLV-I infection
+            hsa05202  Transcriptional misregulation in cancer
+DISEASE     H00001  B lymphoblastic leukemia/lymphoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                6929 (TCF3)
+             Human Diseases
+              Cancers
+               05202 Transcriptional misregulation in cancers
+                6929 (TCF3)
+              Infectious diseases
+               05166 HTLV-I infection
+                6929 (TCF3)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Basic helix-loop-helix (bHLH)
+               Ubiquitous (class A) factors
+                6929 (TCF3)
+POSITION    19p13.3
+MOTIF       Pfam: HLH DUF4349 CDC45
+DBLINKS     NCBI-GeneID: 6929
+            NCBI-ProteinID: NP_003191
+            OMIM: 147141
+            HGNC: 11633
+            Ensembl: ENSG00000071564
+            Vega: OTTHUMG00000180031
+            Pharos: P15923(Tbio)
+            UniProt: P15923
+STRUCTURE   PDB: 2MH0
+AASEQ       654
+            MNQPQRMAPVGTDKELSDLLDFSMMFPLPVTNGKGRPASLAGAQFGGSGLEDRPSSGSWG
+            SGDQSSSSFDPSRTFSEGTHFTESHSSLSSSTFLGPGLGGKSGERGAYASFGRDAGVGGL
+            TQAGFLSGELALNSPGPLSPSGMKGTSQYYPSYSGSSRRRAADGSLDTQPKKVRKVPPGL
+            PSSVYPPSSGEDYGRDATAYPSAKTPSSTYPAPFYVADGSLHPSAELWSPPGQAGFGPML
+            GGGSSPLPLPPGSGPVGSSGSSSTFGGLHQHERMGYQLHGAEVNGGLPSASSFSSAPGAT
+            YGGVSSHTPPVSGADSLLGSRGTTAGSSGDALGKALASIYSPDHSSNNFSSSPSTPVGSP
+            QGLAGTSQWPRAGAPGALSPSYDGGLHGLQSKIEDHLDEAIHVLRSHAVGTAGDMHTLLP
+            GHGALASGFTGPMSLGGRHAGLVGGSHPEDGLAGSTSLMHNHAALPSQPGTLPDLSRPPD
+            SYSGLGRAGATAAASEIKREEKEDEENTSAADHSEEEKKELKAPRARTSPDEDEDDLLPP
+            EQKAEREKERRVANNARERLRVRDINEAFKELGRMCQLHLNSEKPQTKLLILHQAVSVIL
+            NLEQQVRERNLNPKAACLKRREEEKVSGVVGDPQMVLSAPHPGLSEAHNPAGHM
+NTSEQ       1965
+            atgaaccagccgcagaggatggcgcctgtgggcacagacaaggagctcagtgacctcctg
+            gacttcagcatgatgttcccgctgcctgtcaccaacgggaagggccggcccgcctccctg
+            gccggggcgcagttcggaggttcaggtcttgaggaccggcccagctcaggctcctggggc
+            agcggcgaccagagcagctcctcctttgaccccagccggaccttcagcgagggcacccac
+            ttcactgagtcgcacagcagcctctcttcatccacattcctgggaccgggactcggaggc
+            aagagcggtgagcggggcgcctatgcctccttcgggagagacgcaggcgtgggcggcctg
+            actcaggctggcttcctgtcaggcgagctggccctcaacagccccgggcccctgtcccct
+            tcgggcatgaaggggacctcccagtactacccctcctactccggcagctcccggcggaga
+            gcggcagacggcagcctagacacgcagcccaagaaggtccggaaggtcccgccgggtctt
+            ccatcctcggtgtacccacccagctcaggtgaggactacggcagggatgccaccgcctac
+            ccgtccgccaagacccccagcagcacctatcccgcccccttctacgtggcagatggcagc
+            ctgcacccctcagccgagctctggagtcccccgggccaggcgggcttcgggcccatgctg
+            ggtgggggctcatccccgctgcccctcccgcccggtagcggcccggtgggcagcagtgga
+            agcagcagcacgtttggtggcctgcaccagcacgagcgtatgggctaccagctgcatgga
+            gcagaggtgaacggtgggctcccatctgcatcctccttctcctcagcccccggagccacg
+            tacggcggcgtctccagccacacgccgcctgtcagcggggccgacagcctcctgggctcc
+            cgagggaccacagctggcagctccggggatgccctcggcaaagcactggcctcgatctac
+            tccccggatcactcaagcaataacttctcgtccagcccttctacccccgtgggctccccc
+            cagggcctggcaggaacgtcacagtggcctcgagcaggagcccccggtgccttatcgccc
+            agctacgacgggggtctccacggcctgcagagtaagatagaagaccacctggacgaggcc
+            atccacgtgctccgcagccacgccgtgggcacagccggcgacatgcacacgctgctgcct
+            ggccacggggcgctggcctcaggtttcaccggccccatgtcactgggcgggcggcacgca
+            ggcctggttggaggcagccaccccgaggacggcctcgcaggcagcaccagcctcatgcac
+            aaccacgcggccctccccagccagccaggcaccctccctgacctgtctcggcctcccgac
+            tcctacagtgggctagggcgagcaggtgccacggcggccgccagcgagatcaagcgggag
+            gagaaggaggacgaggagaacacgtcagcggctgaccactcggaggaggagaagaaggag
+            ctgaaggccccccgggcccggaccagcccagacgaggacgaggacgaccttctcccccca
+            gagcagaaggccgagcgggagaaggagcgccgggtggccaataacgcccgggagcggctg
+            cgggtccgtgacatcaacgaggcctttaaggagctggggcgcatgtgccaactgcacctc
+            aacagcgagaagccccagaccaaactgctcatcctgcaccaggctgtctcggtcatcctg
+            aacttggagcagcaagtgcgagagcggaacctgaatcccaaagcagcctgtttgaaacgg
+            cgagaagaggaaaaggtgtcaggtgtggttggagacccccagatggtgctttcagctccc
+            cacccaggcctgagcgaagcccacaaccccgccgggcacatgtga
+///

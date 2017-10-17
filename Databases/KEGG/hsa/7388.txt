@@ -1,0 +1,54 @@
+ENTRY       7388              CDS       T01001
+NAME        UQCRH, QCR6, UQCR8
+DEFINITION  (RefSeq) ubiquinol-cytochrome c reductase hinge protein
+ORTHOLOGY   K00416  ubiquinol-cytochrome c reductase subunit 6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00152  Cytochrome bc1 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                7388 (UQCRH)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                7388 (UQCRH)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                7388 (UQCRH)
+               05012 Parkinson's disease
+                7388 (UQCRH)
+               05016 Huntington's disease
+                7388 (UQCRH)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                7388 (UQCRH)
+POSITION    1p33
+MOTIF       Pfam: UCR_hinge Syntaxin-6_N
+DBLINKS     NCBI-GeneID: 7388
+            NCBI-ProteinID: NP_005995
+            OMIM: 613844
+            HGNC: 12590
+            Ensembl: ENSG00000173660
+            Vega: OTTHUMG00000007813
+            Pharos: P07919(Tdark)
+            UniProt: P07919
+STRUCTURE   PDB: 5XTE
+AASEQ       91
+            MGLEDEQKMLTESGDPEEEEEEEEELVDPLTTVREQCEQLEKCVKARERLELCDERVSSR
+            SHTEEDCTEELFDFLHARDHCVAHKLFNNLK
+NTSEQ       276
+            atgggactggaggacgagcaaaagatgcttaccgaatccggagatcctgaggaggaggaa
+            gaggaagaggaggaattagtggatcccctaacaacagtgagagagcaatgcgagcagttg
+            gagaaatgtgtaaaggcccgggagcggctagagctctgtgatgagcgtgtatcctctcga
+            tcacatacagaagaggattgcacggaggagctctttgacttcttgcatgcgagggaccat
+            tgcgtggcccacaaactctttaacaacttgaaataa
+///

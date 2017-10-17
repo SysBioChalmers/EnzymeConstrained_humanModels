@@ -1,0 +1,171 @@
+ENTRY       6774              CDS       T01001
+NAME        STAT3, ADMIO, ADMIO1, APRF, HIES
+DEFINITION  (RefSeq) signal transducer and activator of transcription 3
+ORTHOLOGY   K04692  signal transducer and activator of transcription 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04062  Chemokine signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04217  Necroptosis
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04630  Jak-STAT signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa04917  Prolactin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04931  Insulin resistance
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05145  Toxoplasmosis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05212  Pancreatic cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05223  Non-small cell lung cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+MODULE      hsa_M00684  JAK-STAT signaling
+DISEASE     H00016  Oral cancer
+            H00107  Other well-defined immunodeficiency syndromes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                6774 (STAT3)
+               04066 HIF-1 signaling pathway
+                6774 (STAT3)
+               04068 FoxO signaling pathway
+                6774 (STAT3)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                6774 (STAT3)
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                6774 (STAT3)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                6774 (STAT3)
+               04062 Chemokine signaling pathway
+                6774 (STAT3)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                6774 (STAT3)
+               04917 Prolactin signaling pathway
+                6774 (STAT3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6774 (STAT3)
+               05206 MicroRNAs in cancer
+                6774 (STAT3)
+               05205 Proteoglycans in cancer
+                6774 (STAT3)
+               05203 Viral carcinogenesis
+                6774 (STAT3)
+               05212 Pancreatic cancer
+                6774 (STAT3)
+               05221 Acute myeloid leukemia
+                6774 (STAT3)
+               05223 Non-small cell lung cancer
+                6774 (STAT3)
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                6774 (STAT3)
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                6774 (STAT3)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                6774 (STAT3)
+              Infectious diseases
+               05162 Measles
+                6774 (STAT3)
+               05161 Hepatitis B
+                6774 (STAT3)
+               05160 Hepatitis C
+                6774 (STAT3)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                6774 (STAT3)
+               05169 Epstein-Barr virus infection
+                6774 (STAT3)
+               05145 Toxoplasmosis
+                6774 (STAT3)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                6774 (STAT3)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              beta-Scaffold factors with minor groove contacts
+               STAT
+                6774 (STAT3)
+POSITION    17q21.2
+MOTIF       Pfam: STAT_bind STAT_alpha STAT_int SH2 E2R135 Syntaxin-6_N Fib_alpha
+DBLINKS     NCBI-GeneID: 6774
+            NCBI-ProteinID: NP_644805
+            OMIM: 102582
+            HGNC: 11364
+            Ensembl: ENSG00000168610
+            Vega: OTTHUMG00000150645
+            Pharos: P40763(Tchem)
+            UniProt: P40763
+AASEQ       770
+            MAQWNQLQQLDTRYLEQLHQLYSDSFPMELRQFLAPWIESQDWAYAASKESHATLVFHNL
+            LGEIDQQYSRFLQESNVLYQHNLRRIKQFLQSRYLEKPMEIARIVARCLWEESRLLQTAA
+            TAAQQGGQANHPTAAVVTEKQQMLEQHLQDVRKRVQDLEQKMKVVENLQDDFDFNYKTLK
+            SQGDMQDLNGNNQSVTRQKMQQLEQMLTALDQMRRSIVSELAGLLSAMEYVQKTLTDEEL
+            ADWKRRQQIACIGGPPNICLDRLENWITSLAESQLQTRQQIKKLEELQQKVSYKGDPIVQ
+            HRPMLEERIVELFRNLMKSAFVVERQPCMPMHPDRPLVIKTGVQFTTKVRLLVKFPELNY
+            QLKIKVCIDKDSGDVAALRGSRKFNILGTNTKVMNMEESNNGSLSAEFKHLTLREQRCGN
+            GGRANCDASLIVTEELHLITFETEVYHQGLKIDLETHSLPVVVISNICQMPNAWASILWY
+            NMLTNNPKNVNFFTKPPIGTWDQVAEVLSWQFSSTTKRGLSIEQLTTLAEKLLGPGVNYS
+            GCQITWAKFCKENMAGKGFSFWVWLDNIIDLVKKYILALWNEGYIMGFISKERERAILST
+            KPPGTFLLRFSESSKEGGVTFTWVEKDISGKTQIQSVEPYTKQQLNNMSFAEIIMGYKIM
+            DATNILVSPLVYLYPDIPKEEAFGKYCRPESQEHPEADPGSAAPYLKTKFICVTPTTCSN
+            TIDLPMSPRTLDSLMQFGNNGEGAEPSAGGQFESLTFDMELTSECATSPM
+NTSEQ       2313
+            atggcccaatggaatcagctacagcagcttgacacacggtacctggagcagctccatcag
+            ctctacagtgacagcttcccaatggagctgcggcagtttctggccccttggattgagagt
+            caagattgggcatatgcggccagcaaagaatcacatgccactttggtgtttcataatctc
+            ctgggagagattgaccagcagtatagccgcttcctgcaagagtcgaatgttctctatcag
+            cacaatctacgaagaatcaagcagtttcttcagagcaggtatcttgagaagccaatggag
+            attgcccggattgtggcccggtgcctgtgggaagaatcacgccttctacagactgcagcc
+            actgcggcccagcaagggggccaggccaaccaccccacagcagccgtggtgacggagaag
+            cagcagatgctggagcagcaccttcaggatgtccggaagagagtgcaggatctagaacag
+            aaaatgaaagtggtagagaatctccaggatgactttgatttcaactataaaaccctcaag
+            agtcaaggagacatgcaagatctgaatggaaacaaccagtcagtgaccaggcagaagatg
+            cagcagctggaacagatgctcactgcgctggaccagatgcggagaagcatcgtgagtgag
+            ctggcggggcttttgtcagcgatggagtacgtgcagaaaactctcacggacgaggagctg
+            gctgactggaagaggcggcaacagattgcctgcattggaggcccgcccaacatctgccta
+            gatcggctagaaaactggataacgtcattagcagaatctcaacttcagacccgtcaacaa
+            attaagaaactggaggagttgcagcaaaaagtttcctacaaaggggaccccattgtacag
+            caccggccgatgctggaggagagaatcgtggagctgtttagaaacttaatgaaaagtgcc
+            tttgtggtggagcggcagccctgcatgcccatgcatcctgaccggcccctcgtcatcaag
+            accggcgtccagttcactactaaagtcaggttgctggtcaaattccctgagttgaattat
+            cagcttaaaattaaagtgtgcattgacaaagactctggggacgttgcagctctcagagga
+            tcccggaaatttaacattctgggcacaaacacaaaagtgatgaacatggaagaatccaac
+            aacggcagcctctctgcagaattcaaacacttgaccctgagggagcagagatgtgggaat
+            gggggccgagccaattgtgatgcttccctgattgtgactgaggagctgcacctgatcacc
+            tttgagaccgaggtgtatcaccaaggcctcaagattgacctagagacccactccttgcca
+            gttgtggtgatctccaacatctgtcagatgccaaatgcctgggcgtccatcctgtggtac
+            aacatgctgaccaacaatcccaagaatgtaaacttttttaccaagcccccaattggaacc
+            tgggatcaagtggccgaggtcctgagctggcagttctcctccaccaccaagcgaggactg
+            agcatcgagcagctgactacactggcagagaaactcttgggacctggtgtgaattattca
+            gggtgtcagatcacatgggctaaattttgcaaagaaaacatggctggcaagggcttctcc
+            ttctgggtctggctggacaatatcattgaccttgtgaaaaagtacatcctggccctttgg
+            aacgaagggtacatcatgggctttatcagtaaggagcgggagcgggccatcttgagcact
+            aagcctccaggcaccttcctgctaagattcagtgaaagcagcaaagaaggaggcgtcact
+            ttcacttgggtggagaaggacatcagcggtaagacccagatccagtccgtggaaccatac
+            acaaagcagcagctgaacaacatgtcatttgctgaaatcatcatgggctataagatcatg
+            gatgctaccaatatcctggtgtctccactggtctatctctatcctgacattcccaaggag
+            gaggcattcggaaagtattgtcggccagagagccaggagcatcctgaagctgacccaggt
+            agcgctgccccatacctgaagaccaagtttatctgtgtgacaccaacgacctgcagcaat
+            accattgacctgccgatgtccccccgcactttagattcattgatgcagtttggaaataat
+            ggtgaaggtgctgaaccctcagcaggagggcagtttgagtccctcacctttgacatggag
+            ttgacctcggagtgcgctacctcccccatgtga
+///

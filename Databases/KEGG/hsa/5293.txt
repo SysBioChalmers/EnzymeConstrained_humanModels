@@ -1,0 +1,381 @@
+ENTRY       5293              CDS       T01001
+NAME        PIK3CD, APDS, IMD14, P110DELTA, PI3K, p110D
+DEFINITION  (RefSeq) phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+ORTHOLOGY   K00922  phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.153]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa01524  Platinum drug resistance
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04210  Apoptosis
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04218  Cellular senescence
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04510  Focal adhesion
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04611  Platelet activation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04668  TNF signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa04722  Neurotrophin signaling pathway
+            hsa04725  Cholinergic synapse
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04910  Insulin signaling pathway
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04915  Estrogen signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04926  Relaxin signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa04960  Aldosterone-regulated sodium reabsorption
+            hsa04973  Carbohydrate digestion and absorption
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05146  Amoebiasis
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+            hsa05210  Colorectal cancer
+            hsa05211  Renal cell carcinoma
+            hsa05212  Pancreatic cancer
+            hsa05213  Endometrial cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05230  Central carbon metabolism in cancer
+            hsa05231  Choline metabolism in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00676  PI3K-Akt signaling
+DISEASE     H01387  Activated PI3K-delta syndrome (APDS)
+DRUG_TARGET Dactolisib (DG01826): D10552 D10616
+            Duvelisib: D10555
+            Gedatolisib: D10635
+            Pictilisib: D10189
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                5293 (PIK3CD)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5293 (PIK3CD)
+               04015 Rap1 signaling pathway
+                5293 (PIK3CD)
+               04012 ErbB signaling pathway
+                5293 (PIK3CD)
+               04370 VEGF signaling pathway
+                5293 (PIK3CD)
+               04630 Jak-STAT signaling pathway
+                5293 (PIK3CD)
+               04668 TNF signaling pathway
+                5293 (PIK3CD)
+               04066 HIF-1 signaling pathway
+                5293 (PIK3CD)
+               04068 FoxO signaling pathway
+                5293 (PIK3CD)
+               04070 Phosphatidylinositol signaling system
+                5293 (PIK3CD)
+               04072 Phospholipase D signaling pathway
+                5293 (PIK3CD)
+               04071 Sphingolipid signaling pathway
+                5293 (PIK3CD)
+               04024 cAMP signaling pathway
+                5293 (PIK3CD)
+               04151 PI3K-Akt signaling pathway
+                5293 (PIK3CD)
+               04152 AMPK signaling pathway
+                5293 (PIK3CD)
+               04150 mTOR signaling pathway
+                5293 (PIK3CD)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                5293 (PIK3CD)
+              Cell growth and death
+               04210 Apoptosis
+                5293 (PIK3CD)
+               04218 Cellular senescence
+                5293 (PIK3CD)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5293 (PIK3CD)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                5293 (PIK3CD)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5293 (PIK3CD)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                5293 (PIK3CD)
+               04620 Toll-like receptor signaling pathway
+                5293 (PIK3CD)
+               04650 Natural killer cell mediated cytotoxicity
+                5293 (PIK3CD)
+               04660 T cell receptor signaling pathway
+                5293 (PIK3CD)
+               04662 B cell receptor signaling pathway
+                5293 (PIK3CD)
+               04664 Fc epsilon RI signaling pathway
+                5293 (PIK3CD)
+               04666 Fc gamma R-mediated phagocytosis
+                5293 (PIK3CD)
+               04670 Leukocyte transendothelial migration
+                5293 (PIK3CD)
+               04062 Chemokine signaling pathway
+                5293 (PIK3CD)
+              Endocrine system
+               04910 Insulin signaling pathway
+                5293 (PIK3CD)
+               04923 Regulation of lipolysis in adipocyte
+                5293 (PIK3CD)
+               04915 Estrogen signaling pathway
+                5293 (PIK3CD)
+               04914 Progesterone-mediated oocyte maturation
+                5293 (PIK3CD)
+               04917 Prolactin signaling pathway
+                5293 (PIK3CD)
+               04926 Relaxin signaling pathway
+                5293 (PIK3CD)
+               04919 Thyroid hormone signaling pathway
+                5293 (PIK3CD)
+              Digestive system
+               04973 Carbohydrate digestion and absorption
+                5293 (PIK3CD)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                5293 (PIK3CD)
+              Nervous system
+               04725 Cholinergic synapse
+                5293 (PIK3CD)
+               04722 Neurotrophin signaling pathway
+                5293 (PIK3CD)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5293 (PIK3CD)
+              Development
+               04360 Axon guidance
+                5293 (PIK3CD)
+               04380 Osteoclast differentiation
+                5293 (PIK3CD)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                5293 (PIK3CD)
+               04213 Longevity regulating pathway - multiple species
+                5293 (PIK3CD)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5293 (PIK3CD)
+               05230 Central carbon metabolism in cancer
+                5293 (PIK3CD)
+               05231 Choline metabolism in cancer
+                5293 (PIK3CD)
+               05205 Proteoglycans in cancer
+                5293 (PIK3CD)
+               05203 Viral carcinogenesis
+                5293 (PIK3CD)
+               05210 Colorectal cancer
+                5293 (PIK3CD)
+               05212 Pancreatic cancer
+                5293 (PIK3CD)
+               05214 Glioma
+                5293 (PIK3CD)
+               05221 Acute myeloid leukemia
+                5293 (PIK3CD)
+               05220 Chronic myeloid leukemia
+                5293 (PIK3CD)
+               05218 Melanoma
+                5293 (PIK3CD)
+               05211 Renal cell carcinoma
+                5293 (PIK3CD)
+               05215 Prostate cancer
+                5293 (PIK3CD)
+               05213 Endometrial cancer
+                5293 (PIK3CD)
+               05224 Breast cancer
+                5293 (PIK3CD)
+               05222 Small cell lung cancer
+                5293 (PIK3CD)
+               05223 Non-small cell lung cancer
+                5293 (PIK3CD)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5293 (PIK3CD)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                5293 (PIK3CD)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                5293 (PIK3CD)
+               04931 Insulin resistance
+                5293 (PIK3CD)
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                5293 (PIK3CD)
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                5293 (PIK3CD)
+               05166 HTLV-I infection
+                5293 (PIK3CD)
+               05162 Measles
+                5293 (PIK3CD)
+               05164 Influenza A
+                5293 (PIK3CD)
+               05161 Hepatitis B
+                5293 (PIK3CD)
+               05160 Hepatitis C
+                5293 (PIK3CD)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5293 (PIK3CD)
+               05169 Epstein-Barr virus infection
+                5293 (PIK3CD)
+               05165 Human papillomavirus infection
+                5293 (PIK3CD)
+               05146 Amoebiasis
+                5293 (PIK3CD)
+               05142 Chagas disease (American trypanosomiasis)
+                5293 (PIK3CD)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                5293 (PIK3CD)
+               01524 Platinum drug resistance
+                5293 (PIK3CD)
+               01522 Endocrine resistance
+                5293 (PIK3CD)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.153  phosphatidylinositol-4,5-bisphosphate 3-kinase
+                 5293 (PIK3CD)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Rab GTPases and associated proteins
+               Rab associated proteins
+                5293 (PIK3CD)
+POSITION    1p36.22
+MOTIF       Pfam: PI3_PI4_kinase PI3Ka PI3K_rbd PI3K_p85B PI3K_C2 DUF4135
+DBLINKS     NCBI-GeneID: 5293
+            NCBI-ProteinID: NP_005017
+            OMIM: 602839
+            HGNC: 8977
+            Ensembl: ENSG00000171608
+            Vega: OTTHUMG00000001450
+            Pharos: O00329(Tclin)
+            UniProt: O00329
+STRUCTURE   PDB: 5DXU 5VLR 5UBT 5M6U 5T8F
+AASEQ       1044
+            MPPGVDCPMEFWTKEENQSVVVDFLLPTGVYLNFPVSRNANLSTIKQLLWHRAQYEPLFH
+            MLSGPEAYVFTCINQTAEQQELEDEQRRLCDVQPFLPVLRLVAREGDRVKKLINSQISLL
+            IGKGLHEFDSLCDPEVNDFRAKMCQFCEEAAARRQQLGWEAWLQYSFPLQLEPSAQTWGP
+            GTLRLPNRALLVNVKFEGSEESFTFQVSTKDVPLALMACALRKKATVFRQPLVEQPEDYT
+            LQVNGRHEYLYGSYPLCQFQYICSCLHSGLTPHLTMVHSSSILAMRDEQSNPAPQVQKPR
+            AKPPPIPAKKPSSVSLWSLEQPFRIELIQGSKVNADERMKLVVQAGLFHGNEMLCKTVSS
+            SEVSVCSEPVWKQRLEFDINICDLPRMARLCFALYAVIEKAKKARSTKKKSKKADCPIAW
+            ANLMLFDYKDQLKTGERCLYMWPSVPDEKGELLNPTGTVRSNPNTDSAAALLICLPEVAP
+            HPVYYPALEKILELGRHSECVHVTEEEQLQLREILERRGSGELYEHEKDLVWKLRHEVQE
+            HFPEALARLLLVTKWNKHEDVAQMLYLLCSWPELPVLSALELLDFSFPDCHVGSFAIKSL
+            RKLTDDELFQYLLQLVQVLKYESYLDCELTKFLLDRALANRKIGHFLFWHLRSEMHVPSV
+            ALRFGLILEAYCRGSTHHMKVLMKQGEALSKLKALNDFVKLSSQKTPKPQTKELMHLCMR
+            QEAYLEALSHLQSPLDPSTLLAEVCVEQCTFMDSKMKPLWIMYSNEEAGSGGSVGIIFKN
+            GDDLRQDMLTLQMIQLMDVLWKQEGLDLRMTPYGCLPTGDRTGLIEVVLRSDTIANIQLN
+            KSNMAATAAFNKDALLNWLKSKNPGEALDRAIEEFTLSCAGYCVATYVLGIGDRHSDNIM
+            IRESGQLFHIDFGHFLGNFKTKFGINRERVPFILTYDFVHVIQQGKTNNSEKFERFRGYC
+            ERAYTILRRHGLLFLHLFALMRAAGLPELSCSKDIQYLKDSLALGKTEEEALKHFRVKFN
+            EALRESWKTKVNWLAHNVSKDNRQ
+NTSEQ       3135
+            atgccccctggggtggactgccccatggaattctggaccaaggaggagaatcagagcgtt
+            gtggttgacttcctgctgcccacaggggtctacctgaacttccctgtgtcccgcaatgcc
+            aacctcagcaccatcaagcagctgctgtggcaccgcgcccagtatgagccgctcttccac
+            atgctcagtggccccgaggcctatgtgttcacctgcatcaaccagacagcggagcagcaa
+            gagctggaggacgagcaacggcgtctgtgtgacgtgcagcccttcctgcccgtcctgcgc
+            ctggtggcccgtgagggcgaccgcgtgaagaagctcatcaactcacagatcagcctcctc
+            atcggcaaaggcctccacgagtttgactccttgtgcgacccagaagtgaacgactttcgc
+            gccaagatgtgccaattctgcgaggaggcggccgcccgccggcagcagctgggctgggag
+            gcctggctgcagtacagtttccccctgcagctggagccctcggctcaaacctgggggcct
+            ggtaccctgcggctcccgaaccgggcccttctggtcaacgttaagtttgagggcagcgag
+            gagagcttcaccttccaggtgtccaccaaggacgtgccgctggcgctgatggcctgtgcc
+            ctgcggaagaaggccacagtgttccggcagccgctggtggagcagccggaagactacacg
+            ctgcaggtgaacggcaggcatgagtacctgtatggcagctacccgctctgccagttccag
+            tacatctgcagctgcctgcacagtgggttgacccctcacctgaccatggtccattcctcc
+            tccatcctcgccatgcgggatgagcagagcaaccctgccccccaggtccagaaaccgcgt
+            gccaaaccacctcccattcctgcgaagaagccttcctctgtgtccctgtggtccctggag
+            cagccgttccgcatcgagctcatccagggcagcaaagtgaacgccgacgagcggatgaag
+            ctggtggtgcaggccgggcttttccacggcaacgagatgctgtgcaagacggtgtccagc
+            tcggaggtgagcgtgtgctcggagcccgtgtggaagcagcggctggagttcgacatcaac
+            atctgcgacctgccccgcatggcccgtctctgctttgcgctgtacgccgtgatcgagaaa
+            gccaagaaggctcgctccaccaagaagaagtccaagaaggcggactgccccattgcctgg
+            gccaacctcatgctgtttgactacaaggaccagcttaagaccggggaacgctgcctctac
+            atgtggccctccgtcccagatgagaagggcgagctgctgaaccccacgggcactgtgcgc
+            agtaaccccaacacggatagcgccgctgccctgctcatctgcctgcccgaggtggccccg
+            caccccgtgtactaccccgccctggagaagatcttggagctggggcgacacagcgagtgt
+            gtgcatgtcaccgaggaggagcagctgcagctgcgggaaatcctggagcggcgggggtct
+            ggggagctgtatgagcacgagaaggacctggtgtggaagctgcggcatgaagtccaggag
+            cacttcccggaggcgctagcccggctgctgctggtcaccaagtggaacaagcatgaggat
+            gtggcccagatgctctacctgctgtgctcctggccggagctgcccgtcctgagcgccctg
+            gagctgctagacttcagcttccccgattgccacgtaggctccttcgccatcaagtcgctg
+            cggaaactgacggacgatgagctgttccagtacctgctgcagctggtgcaggtgctcaag
+            tacgagtcctacctggactgcgagctgaccaaattcctgctggaccgggccctggccaac
+            cgcaagatcggccacttccttttctggcacctccgctccgagatgcacgtgccgtcggtg
+            gccctgcgcttcggcctcatcctggaggcctactgcaggggcagcacccaccacatgaag
+            gtgctgatgaagcagggggaagcactgagcaaactgaaggccctgaatgacttcgtcaag
+            ctgagctctcagaagacccccaagccccagaccaaggagctgatgcacttgtgcatgcgg
+            caggaggcctacctagaggccctctcccacctgcagtccccactcgaccccagcaccctg
+            ctggctgaagtctgcgtggagcagtgcaccttcatggactccaagatgaagcccctgtgg
+            atcatgtacagcaacgaggaggcaggcagcggcggcagcgtgggcatcatctttaagaac
+            ggggatgacctccggcaggacatgctgaccctgcagatgatccagctcatggacgtcctg
+            tggaagcaggaggggctggacctgaggatgaccccctatggctgcctccccaccggggac
+            cgcacaggcctcattgaggtggtactccgttcagacaccatcgccaacatccaactcaac
+            aagagcaacatggcagccacagccgccttcaacaaggatgccctgctcaactggctgaag
+            tccaagaacccgggggaggccctggatcgagccattgaggagttcaccctctcctgtgct
+            ggctattgtgtggccacatatgtgctgggcattggcgatcggcacagcgacaacatcatg
+            atccgagagagtgggcagctgttccacattgattttggccactttctggggaatttcaag
+            accaagtttggaatcaaccgcgagcgtgtcccattcatcctcacctacgactttgtccat
+            gtgattcagcaggggaagactaataatagtgagaaatttgaacggttccggggctactgt
+            gaaagggcctacaccatcctgcggcgccacgggcttctcttcctccacctctttgccctg
+            atgcgggcggcaggcctgcctgagctcagctgctccaaagacatccagtatctcaaggac
+            tccctggcactggggaaaacagaggaggaggcactgaagcacttccgagtgaagtttaac
+            gaagccctccgtgagagctggaaaaccaaagtgaactggctggcccacaacgtgtccaaa
+            gacaacaggcagtag
+///

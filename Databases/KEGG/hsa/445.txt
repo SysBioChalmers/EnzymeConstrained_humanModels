@@ -1,0 +1,79 @@
+ENTRY       445               CDS       T01001
+NAME        ASS1, ASS, CTLN1
+DEFINITION  (RefSeq) argininosuccinate synthase 1
+ORTHOLOGY   K01940  argininosuccinate synthase [EC:6.3.4.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00029  Urea cycle
+DISEASE     H00185  Citrullinemia (CTLN)
+            H01398  Primary hyperammonemic disorders (Urea cycle disorders)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                445 (ASS1)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                445 (ASS1)
+               00220 Arginine biosynthesis
+                445 (ASS1)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                445 (ASS1)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.5  argininosuccinate synthase
+                 445 (ASS1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               445 (ASS1)
+POSITION    9q34.11
+MOTIF       Pfam: Arginosuc_synth QueC tRNA_Me_trans
+DBLINKS     NCBI-GeneID: 445
+            NCBI-ProteinID: NP_000041
+            OMIM: 603470
+            HGNC: 758
+            Ensembl: ENSG00000130707
+            Vega: OTTHUMG00000020806
+            Pharos: P00966(Tbio)
+            UniProt: P00966 Q5T6L4
+STRUCTURE   PDB: 2NZ2
+AASEQ       412
+            MSSKGSVVLAYSGGLDTSCILVWLKEQGYDVIAYLANIGQKEDFEEARKKALKLGAKKVF
+            IEDVSREFVEEFIWPAIQSSALYEDRYLLGTSLARPCIARKQVEIAQREGAKYVSHGATG
+            KGNDQVRFELSCYSLAPQIKVIAPWRMPEFYNRFKGRNDLMEYAKQHGIPIPVTPKNPWS
+            MDENLMHISYEAGILENPKNQAPPGLYTKTQDPAKAPNTPDILEIEFKKGVPVKVTNVKD
+            GTTHQTSLELFMYLNEVAGKHGVGRIDIVENRFIGMKSRGIYETPAGTILYHAHLDIEAF
+            TMDREVRKIKQGLGLKFAELVYTGFWHSPECEFVRHCIAKSQERVEGKVQVSVLKGQVYI
+            LGRESPLSLYNEELVSMNVQGDYEPTDATGFININSLRLKEYHRLQSKVTAK
+NTSEQ       1239
+            atgtccagcaaaggctccgtggttctggcctacagtggcggcctggacacctcgtgcatc
+            ctcgtgtggctgaaggaacaaggctatgacgtcattgcctatctggccaacattggccag
+            aaggaagacttcgaggaagccaggaagaaggcactgaagcttggggccaaaaaggtgttc
+            attgaggatgtcagcagggagtttgtggaggagttcatctggccggccatccagtccagc
+            gcactgtatgaggaccgctacctcctgggcacctctcttgccaggccctgcatcgcccgc
+            aaacaagtggaaatcgcccagcgggagggggccaagtatgtgtcccacggcgccacagga
+            aaggggaacgatcaggtccggtttgagctcagctgctactcactggccccccagataaag
+            gtcattgctccctggaggatgcctgaattctacaaccggttcaagggccgcaatgacctg
+            atggagtacgcaaagcaacacgggattcccatcccggtcactcccaagaacccgtggagc
+            atggatgagaacctcatgcacatcagctacgaggctggaatcctggagaaccccaagaac
+            caagcgcctccaggtctctacacgaagacccaggacccagccaaagcccccaacacccct
+            gacattctcgagatcgagttcaaaaaaggggtccctgtgaaggtgaccaacgtcaaggat
+            ggcaccacccaccagacctccttggagctcttcatgtacctgaacgaagtcgcgggcaag
+            catggcgtgggccgtattgacatcgtggagaaccgcttcattggaatgaagtcccgaggt
+            atctacgagaccccagcaggcaccatcctttaccatgctcatttagacatcgaggccttc
+            accatggaccgggaagtgcgcaaaatcaaacaaggcctgggcttgaaatttgctgagctg
+            gtgtataccggtttctggcacagccctgagtgtgaatttgtccgccactgcatcgccaag
+            tcccaggagcgagtggaagggaaagtgcaggtgtccgtcctcaagggccaggtgtacatc
+            ctcggccgggagtccccactgtctctctacaatgaggagctggtgagcatgaacgtgcag
+            ggtgattatgagccaactgatgccaccgggttcatcaacatcaattccctcaggctgaag
+            gaatatcatcgtctccagagcaaggtcactgccaaatag
+///

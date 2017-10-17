@@ -1,0 +1,89 @@
+ENTRY       610               CDS       T01001
+NAME        HCN2, BCNG-2, BCNG2, HAC-1
+DEFINITION  (RefSeq) hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2
+ORTHOLOGY   K04955  hyperpolarization activated cyclic nucleotide-gated potassium channel 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04024  cAMP signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                610 (HCN2)
+            Ion channels [BR:hsa04040]
+             Related to voltage-gated cation channels
+              Brain cyclic nucleotide-gated channel (HCN)
+               610 (HCN2)
+POSITION    19p13.3
+MOTIF       Pfam: Ion_trans Ion_trans_N cNMP_binding Ion_trans_2
+DBLINKS     NCBI-GeneID: 610
+            NCBI-ProteinID: NP_001185
+            OMIM: 602781
+            HGNC: 4846
+            Ensembl: ENSG00000099822
+            Vega: OTTHUMG00000180590
+            Pharos: Q9UL51(Tclin)
+            UniProt: Q9UL51
+STRUCTURE   PDB: 3U10 2MPF
+AASEQ       889
+            MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPPGPGPAPPQHPPRAEA
+            LPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGRGEPQCSPAGPEGPARG
+            PKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFMQRQFGALLQPGVNKFSL
+            RMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFMVGNLIIIPVGITFFKDET
+            TAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEKIKKKYLRTWFVVDFVSSIP
+            VDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRLSRLIRYIHQWEEIFHMTYDL
+            ASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCWVSINGMVNHSWSELYSFALFK
+            AMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMFIGHATALIQSLDSSRRQYQEKY
+            KQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDSILGELNGPLREEIVNFNCRKLVA
+            SMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGTIGKKMYFIQHGVVSVLTKGNKEMK
+            LSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSVDNFNEVLEEYPMMRRAFETVAIDRL
+            DRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEIVKYDREMVQQAELGQRVGLFPPPPPP
+            PQVTSAIATLQQAAAMSFCPQVARPLVGPLALGSPRLVRRPPPGPAPAAASPGPPPPASP
+            PGAPASPRAPRTSPYGGLPAAPLAGPALPARRLSRASRPLSASQPSLPHGAPGPAASTRP
+            ASSSTPRLGPTPAARAAAPSPDRRDSASPGAAGGLDPQDSARSRLSSNL
+NTSEQ       2670
+            atggacgcgcgcgggggcggcgggcggcccggggagagcccgggcgcgacccccgcgccg
+            gggccgccgccgccgccgccgcccgcgcccccccaacagcagccgccgccgccgccgccg
+            cccgcgccccccccgggccccgggcccgcgcccccccagcacccgccccgggccgaggcg
+            ttgcccccggaggcggcggatgagggcggcccgcggggccggctccgcagccgcgacagc
+            tcgtgcggccgccccggcaccccgggcgcggcgagcacggccaagggcagcccgaacggc
+            gagtgcgggcgcggcgagccgcagtgcagccccgcggggcccgagggcccggcgcggggg
+            cccaaggtgtcgttctcgtgccgcggggcggcctcggggcccgcgccggggccggggccg
+            gcggaggaggcgggcagcgaggaggcgggcccggcgggggagccgcgcggcagccaggcc
+            agcttcatgcagcgccagttcggcgcgctcctgcagccgggcgtcaacaagttctcgctg
+            cggatgttcggcagccagaaggccgtggagcgcgagcaggagcgcgtcaagtcggcgggg
+            gcctggatcatccacccgtacagcgacttcaggttctactgggacttcaccatgctgctg
+            ttcatggtgggaaacctcatcatcatcccagtgggcatcaccttcttcaaggatgagacc
+            actgccccgtggatcgtgttcaacgtggtctcggacaccttcttcctcatggacctggtg
+            ttgaacttccgcaccggcattgtgatcgaggacaacacggagatcatcctggaccccgag
+            aagatcaagaagaagtatctgcgcacgtggttcgtggtggacttcgtgtcctccatcccc
+            gtggactacatcttccttatcgtggagaagggcattgactccgaggtctacaagacggca
+            cgcgccctgcgcatcgtgcgcttcaccaagatcctcagcctcctgcggctgctgcgcctc
+            tcacgcctgatccgctacatccatcagtgggaggagatcttccacatgacctatgacctg
+            gccagcgcggtgatgaggatctgcaatctcatcagcatgatgctgctgctctgccactgg
+            gacggctgcctgcagttcctggtgcctatgctgcaggacttcccgcgcaactgctgggtg
+            tccatcaatggcatggtgaaccactcgtggagtgaactgtactccttcgcactcttcaag
+            gccatgagccacatgctgtgcatcgggtacggccggcaggcgcccgagagcatgacggac
+            atctggctgaccatgctcagcatgattgtgggtgccacctgctacgccatgttcatcggc
+            cacgccactgccctcatccagtcgctggactcctcgcggcgccagtaccaggagaagtac
+            aagcaggtggagcagtacatgtccttccacaagctgccagctgacttccgccagaagatc
+            cacgactactatgagcaccgttaccagggcaagatgtttgacgaggacagcatcctgggc
+            gagctcaacgggcccctgcgggaggagatcgtcaacttcaactgccggaagctggtggcc
+            tccatgccgctgttcgccaacgccgaccccaacttcgtcacggccatgctgaccaagctc
+            aagttcgaggtcttccagccgggtgactacatcatccgcgaaggcaccatcgggaagaag
+            atgtacttcatccagcacggcgtggtcagcgtgctcactaagggcaacaaggagatgaag
+            ctgtccgatggctcctacttcggggagatctgcctgctcacccggggccgccgcacggcg
+            agcgtgcgggctgacacctactgccgcctctattcgctgagcgtggacaacttcaacgag
+            gtgctggaggagtaccccatgatgcggcgcgccttcgagacggtggccatcgaccgcctg
+            gaccgcatcggcaagaagaattccatcctcctgcacaaggtgcagcatgacctcaactcg
+            ggcgtattcaacaaccaggagaacgccatcatccaggagatcgtcaagtacgaccgcgag
+            atggtgcagcaggccgagctgggtcagcgcgtgggcctcttcccgccgccgccgccgccg
+            ccgcaggtcacctcggccatcgccacgctgcagcaggcggcggccatgagcttctgcccg
+            caggtggcgcggccgctcgtggggccgctggcgctcggctcgccgcgcctcgtgcgccgc
+            ccgcccccggggcccgcacctgccgccgcctcacccgggcccccgccccccgccagcccc
+            ccgggcgcgcccgccagcccccgggcaccgcggacctcgccctacggcggcctgcccgcc
+            gccccccttgctgggcccgccctgcccgcgcgccgcctgagccgcgcgtcgcgcccactg
+            tccgcctcgcagccctcgctgcctcacggcgcccccggccccgcggcctccacacgcccg
+            gccagcagctccacaccgcgcttggggcccacgcccgctgcccgggccgccgcgcccagc
+            ccggaccgcagggactcggcctcacccggcgccgccggcggcctggacccccaggactcc
+            gcgcgctcgcgcctctcgtccaacttgtga
+///

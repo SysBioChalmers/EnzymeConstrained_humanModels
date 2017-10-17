@@ -1,0 +1,48 @@
+ENTRY       8673              CDS       T01001
+NAME        VAMP8, EDB, VAMP-8
+DEFINITION  (RefSeq) vesicle associated membrane protein 8
+ORTHOLOGY   K08512  vesicle-associated membrane protein 8
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04130  SNARE interactions in vesicular transport
+            hsa04140  Autophagy - animal
+            hsa04611  Platelet activation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                8673 (VAMP8)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                8673 (VAMP8)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                8673 (VAMP8)
+            Membrane trafficking [BR:hsa04131]
+             SNARE
+              VAMP, Ykt6, Sec22 (R)
+               VAMP
+                8673 (VAMP8)
+POSITION    2p11.2
+MOTIF       Pfam: Synaptobrevin Ferlin_C Orf78 MCU TMCO5 Baculo_F Prominin Peptidase_M56 Stevor EVI2A E1-E2_ATPase DUF2721 DUF2207 ODV-E18 LAP1C DUF4795 LRRC37AB_C TMEM154 TSKS Sec20
+DBLINKS     NCBI-GeneID: 8673
+            NCBI-ProteinID: NP_003752
+            OMIM: 603177
+            HGNC: 12647
+            Ensembl: ENSG00000118640
+            Vega: OTTHUMG00000130180
+            Pharos: Q9BV40(Tbio)
+            UniProt: Q9BV40
+STRUCTURE   PDB: 4WY4
+AASEQ       100
+            MEEASEGGGNDRVRNLQSEVEGVKNIMTQNVERILARGENLEHLRNKTEDLEATSEHFKT
+            TSQKVARKFWWKNVKMIVLICVIVFIIILFIVLFATGAFS
+NTSEQ       303
+            atggaggaagccagtgaaggtggaggaaatgatcgtgtgcggaacctgcaaagtgaggtg
+            gagggagttaagaatattatgacccagaatgtggagcggatcctggcccggggggaaaac
+            ttggaacatctccgcaacaagacagaggatctggaagccacatctgagcacttcaagacg
+            acatcgcagaaggtggctcgaaaattctggtggaagaacgtgaagatgattgtccttatc
+            tgcgtgattgtttttatcatcatcctcttcattgtgctctttgccactggtgccttctct
+            taa
+///

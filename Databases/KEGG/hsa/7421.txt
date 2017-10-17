@@ -1,0 +1,102 @@
+ENTRY       7421              CDS       T01001
+NAME        VDR, NR1I1, PPP1R163
+DEFINITION  (RefSeq) vitamin D receptor
+ORTHOLOGY   K08539  vitamin D3 receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa04978  Mineral absorption
+            hsa05152  Tuberculosis
+DISEASE     H00342  Tuberculosis
+            H00784  Localized autosomal recessive hypotrichosis
+            H01143  Vitamin D-dependent rickets
+            H01593  Osteoporosis
+DRUG_TARGET Alfacalcidol: D01518
+            Becocalcidiol: D08868
+            Calcipotriol (DG00394): D01125 D10198
+            Calcitriol: D00129
+            Colecalciferol: D00188
+            Dihydrotachysterol: D00299
+            Ecalcidene: D03930
+            Eldecalcitol: D07578
+            Ergocalciferol: D00187
+            Falecalcitriol: D01662
+            Maxacalcitol: D01098
+            Paricalcitol: D00930
+            Pefcalcitol: D10565
+            Secalciferol: D00628
+            Tacalcitol (DG00395): D01472 D08554
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Digestive system
+               04978 Mineral absorption
+                7421 (VDR)
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                7421 (VDR)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                7421 (VDR)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 7421 (VDR)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 thyroid hormone-like
+                7421 (VDR)
+            Nuclear receptors [BR:hsa03310]
+             1. Thyroid hormone like
+              1I. Vitamin D3 like receptor
+               7421 (VDR)
+POSITION    12q13.11
+MOTIF       Pfam: zf-C4 Hormone_recep zf-RRPl_C4
+DBLINKS     NCBI-GeneID: 7421
+            NCBI-ProteinID: NP_000367
+            OMIM: 601769
+            HGNC: 12679
+            Ensembl: ENSG00000111424
+            Vega: OTTHUMG00000169890
+            Pharos: P11473(Tclin)
+            UniProt: P11473 F1D8P8
+STRUCTURE   PDB: 3B0T 3AZ3 1IE9 3A40 3AZ1 1IE8 3AZ2 3P8X 3A3Z 3TKC 3OGT
+                 3W0A 4G2I 3M7R 3CS6 2HB7 1DB1 5GT4 3W0C 3KPZ 3A78 2HAM
+                 2HAR 1TXI 3X36 2HAS 3W0Y 3WGP 3CS4 2HB8 1S19 3X31 3AUR
+                 3VHW 4ITE 1S0Z 3AX8 3AUQ 3A2J 1KB2 1KB6 1KB4 4ITF 1YNW
+                 3WWR 3A2I
+AASEQ       427
+            MEAMAASTSLPDPGDFDRNVPRICGVCGDRATGFHFNAMTCEGCKGFFRRSMKRKALFTC
+            PFNGDCRITKDNRRHCQACRLKRCVDIGMMKEFILTDEEVQRKREMILKRKEEEALKDSL
+            RPKLSEEQQRIIAILLDAHHKTYDPTYSDFCQFRPPVRVNDGGGSHPSRPNSRHTPSFSG
+            DSSSSCSDHCITSSDMMDSSSFSNLDLSEEDSDDPSVTLELSQLSMLPHLADLVSYSIQK
+            VIGFAKMIPGFRDLTSEDQIVLLKSSAIEVIMLRSNESFTMDDMSWTCGNQDYKYRVSDV
+            TKAGHSLELIEPLIKFQVGLKKLNLHEEEHVLLMAICIVSPDRPGVQDAALIEAIQDRLS
+            NTLQTYIRCRHPPPGSHLLYAKMIQKLADLRSLNEEHSKQYRCLSFQPECSMKLTPLVLE
+            VFGNEIS
+NTSEQ       1284
+            atggaggcaatggcggccagcacttccctgcctgaccctggagactttgaccggaacgtg
+            ccccggatctgtggggtgtgtggagaccgagccactggctttcacttcaatgctatgacc
+            tgtgaaggctgcaaaggcttcttcaggcgaagcatgaagcggaaggcactattcacctgc
+            cccttcaacggggactgccgcatcaccaaggacaaccgacgccactgccaggcctgccgg
+            ctcaaacgctgtgtggacatcggcatgatgaaggagttcattctgacagatgaggaagtg
+            cagaggaagcgggagatgatcctgaagcggaaggaggaggaggccttgaaggacagtctg
+            cggcccaagctgtctgaggagcagcagcgcatcattgccatactgctggacgcccaccat
+            aagacctacgaccccacctactccgacttctgccagttccggcctccagttcgtgtgaat
+            gatggtggagggagccatccttccaggcccaactccagacacactcccagcttctctggg
+            gactcctcctcctcctgctcagatcactgtatcacctcttcagacatgatggactcgtcc
+            agcttctccaatctggatctgagtgaagaagattcagatgacccttctgtgaccctagag
+            ctgtcccagctctccatgctgccccacctggctgacctggtcagttacagcatccaaaag
+            gtcattggctttgctaagatgataccaggattcagagacctcacctctgaggaccagatc
+            gtactgctgaagtcaagtgccattgaggtcatcatgttgcgctccaatgagtccttcacc
+            atggacgacatgtcctggacctgtggcaaccaagactacaagtaccgcgtcagtgacgtg
+            accaaagccggacacagcctggagctgattgagcccctcatcaagttccaggtgggactg
+            aagaagctgaacttgcatgaggaggagcatgtcctgctcatggccatctgcatcgtctcc
+            ccagatcgtcctggggtgcaggacgccgcgctgattgaggccatccaggaccgcctgtcc
+            aacacactgcagacgtacatccgctgccgccacccgcccccgggcagccacctgctctat
+            gccaagatgatccagaagctagccgacctgcgcagcctcaatgaggagcactccaagcag
+            taccgctgcctctccttccagcctgagtgcagcatgaagctaacgccccttgtgctcgaa
+            gtgtttggcaatgagatctcctga
+///

@@ -1,0 +1,66 @@
+ENTRY       2339              CDS       T01001
+NAME        FNTA, FPTA, PGGT1A, PTAR2
+DEFINITION  (RefSeq) farnesyltransferase, CAAX box, alpha
+ORTHOLOGY   K05955  protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [EC:2.5.1.58 2.5.1.59]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00900  Terpenoid backbone biosynthesis
+DRUG_TARGET Lonafarnib: D04768
+            Tipifarnib: D03720
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                2339 (FNTA)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.58  protein farnesyltransferase
+                 2339 (FNTA)
+                2.5.1.59  protein geranylgeranyltransferase type I
+                 2339 (FNTA)
+            Prenyltransferases [BR:hsa01006]
+             Protein prenylation
+              Farnesyltransferase/geranylgeranyltransferase 1
+               2339 (FNTA)
+POSITION    8p11.21
+MOTIF       Pfam: PPTA
+DBLINKS     NCBI-GeneID: 2339
+            NCBI-ProteinID: NP_002018
+            OMIM: 134635
+            HGNC: 3782
+            Ensembl: ENSG00000168522
+            Vega: OTTHUMG00000165279
+            Pharos: P49354(Tbio)
+            UniProt: P49354
+STRUCTURE   PDB: 2H6F 3E37 2IEJ 2H6H 1TN6 1LD8 2H6G 1S63 1MZC 1LD7 1SA4
+                 1JCQ 2F0Y 2H6I
+AASEQ       379
+            MAATEGVGEAAQGGEPGQPAQPPPQPHPPPPQQQHKEEMAAEAGEAVASPMDDGFVSLDS
+            PSYVLYRDRAEWADIDPVPQNDGPNPVVQIIYSDKFRDVYDYFRAVLQRDERSERAFKLT
+            RDAIELNAANYTVWHFRRVLLKSLQKDLHEEMNYITAIIEEQPKNYQVWHHRRVLVEWLR
+            DPSQELEFIADILNQDAKNYHAWQHRQWVIQEFKLWDNELQYVDQLLKEDVRNNSVWNQR
+            YFVISNTTGYNDRAVLEREVQYTLEMIKLVPHNESAWNYLKGILQDRGLSKYPNLLNQLL
+            DLQPSHSSPYLIAFLVDIYEDMLENQCDNKEDILNKALELCEILAKEKDTIRKEYWRYIG
+            RSLQSKHSTENDSPTNVQQ
+NTSEQ       1140
+            atggcggccaccgagggggtcggggaggctgcgcaagggggcgagcccgggcagccggcg
+            caacccccgccccagccgcacccaccgccgccccagcagcagcacaaggaagagatggcg
+            gccgaggctggggaagccgtggcgtcccccatggacgacgggtttgtgagcctggactcg
+            ccctcctatgtcctgtacagggacagagcagaatgggctgatatagatccggtgccgcag
+            aatgatggccccaatcccgtggtccagatcatttatagtgacaaatttagagatgtttat
+            gattacttccgagctgtcctgcagcgtgatgaaagaagtgaacgagcttttaagctaacc
+            cgggatgctattgagttaaatgcagccaattatacagtgtggcatttccggagagttctt
+            ttgaagtcacttcagaaggatctacatgaggaaatgaactacatcactgcaataattgag
+            gagcagcccaaaaactatcaagtttggcatcataggcgagtattagtggaatggctaaga
+            gatccatctcaggagcttgaatttattgctgatattcttaatcaggatgcaaagaattat
+            catgcctggcagcatcgacaatgggttattcaggaatttaaactttgggataatgagctg
+            cagtatgtggaccaacttctgaaagaggatgtgagaaataactctgtctggaaccaaaga
+            tacttcgttatttctaacaccactggctacaatgatcgtgctgtattggagagagaagtc
+            caatacactctggaaatgattaaactagtaccacataatgaaagtgcatggaactatttg
+            aaagggattttgcaggatcgtggtctttccaaatatcctaatctgttaaatcaattactt
+            gatttacaaccaagtcatagttccccctacctaattgcctttcttgtggatatctatgaa
+            gacatgctagaaaatcagtgtgacaataaggaagacattcttaataaagcattagagtta
+            tgtgaaatcctagctaaagaaaaggacactataagaaaggaatattggagatacattgga
+            agatcccttcaaagcaaacacagcacagaaaatgactcaccaacaaatgtacagcaataa
+///

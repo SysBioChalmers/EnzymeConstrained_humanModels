@@ -1,0 +1,111 @@
+ENTRY       8321              CDS       T01001
+NAME        FZD1
+DEFINITION  (RefSeq) frizzled class receptor 1
+ORTHOLOGY   K02432  frizzled 1/7
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                8321 (FZD1)
+               04390 Hippo signaling pathway
+                8321 (FZD1)
+               04150 mTOR signaling pathway
+                8321 (FZD1)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                8321 (FZD1)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                8321 (FZD1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                8321 (FZD1)
+               05205 Proteoglycans in cancer
+                8321 (FZD1)
+               05217 Basal cell carcinoma
+                8321 (FZD1)
+               05224 Breast cancer
+                8321 (FZD1)
+              Infectious diseases
+               05166 HTLV-I infection
+                8321 (FZD1)
+               05165 Human papillomavirus infection
+                8321 (FZD1)
+            G protein-coupled receptors [BR:hsa04030]
+             Others
+              Wnt signaling
+               Frizzled / Smoothened family
+                8321 (FZD1)
+POSITION    7q21.13
+MOTIF       Pfam: Frizzled Fz 7tm_2 Dicty_CAR DUF5083
+DBLINKS     NCBI-GeneID: 8321
+            NCBI-ProteinID: NP_003496
+            OMIM: 603408
+            HGNC: 4038
+            Ensembl: ENSG00000157240
+            Vega: OTTHUMG00000023046
+            Pharos: Q9UP38(Tbio)
+            UniProt: Q9UP38
+AASEQ       647
+            MAEEEAPKKSRAAGGGASWELCAGALSARLAEEGSGDAGGRRRPPVDPRRLARQLLLLLW
+            LLEAPLLLGVRAQAAGQGPGQGPGPGQQPPPPPQQQQSGQQYNGERGISVPDHGYCQPIS
+            IPLCTDIAYNQTIMPNLLGHTNQEDAGLEVHQFYPLVKVQCSAELKFFLCSMYAPVCTVL
+            EQALPPCRSLCERARQGCEALMNKFGFQWPDTLKCEKFPVHGAGELCVGQNTSDKGTPTP
+            SLLPEFWTSNPQHGGGGHRGGFPGGAGASERGKFSCPRALKVPSYLNYHFLGEKDCGAPC
+            EPTKVYGLMYFGPEELRFSRTWIGIWSVLCCASTLFTVLTYLVDMRRFSYPERPIIFLSG
+            CYTAVAVAYIAGFLLEDRVVCNDKFAEDGARTVAQGTKKEGCTILFMMLYFFSMASSIWW
+            VILSLTWFLAAGMKWGHEAIEANSQYFHLAAWAVPAIKTITILALGQVDGDVLSGVCFVG
+            LNNVDALRGFVLAPLFVYLFIGTSFLLAGFVSLFRIRTIMKHDGTKTEKLEKLMVRIGVF
+            SVLYTVPATIVIACYFYEQAFRDQWERSWVAQSCKSYAIPCPHLQAGGGAPPHPPMSPDF
+            TVFMIKYLMTLIVGITSGFWIWSGKTLNSWRKFYTRLTNSKQGETTV
+NTSEQ       1944
+            atggctgaggaggaggcgcctaagaagtcccgggccgccggcggtggcgcgagctgggaa
+            ctttgtgccggggcgctctcggcccggctggcggaggagggcagcggggacgccggtggc
+            cgccgccgcccgccagttgacccccggcgattggcgcgccagctgctgctgctgctttgg
+            ctgctggaggctccgctgctgctgggggtccgggcccaggcggcgggccaggggccaggc
+            caggggcccgggccggggcagcaaccgccgccgccgcctcagcagcaacagagcgggcag
+            cagtacaacggcgagcggggcatctccgtcccggaccacggctattgccagcccatctcc
+            atcccgctgtgcacggacatcgcgtacaaccagaccatcatgcccaacctgctgggccac
+            acgaaccaggaggacgcgggcctggaggtgcaccagttctaccctctagtgaaagtgcag
+            tgttccgctgagctcaagttcttcctgtgctccatgtacgcgcccgtgtgcaccgtgcta
+            gagcaggcgctgccgccctgccgctccctgtgcgagcgcgcgcgccagggctgcgaggcg
+            ctcatgaacaagttcggcttccagtggccagacacgctcaagtgtgagaagttcccggtg
+            cacggcgccggcgagctgtgcgtgggccagaacacgtccgacaagggcaccccgacgccc
+            tcgctgcttccagagttctggaccagcaaccctcagcacggcggcggagggcaccgtggc
+            ggcttcccggggggcgccggcgcgtcggagcgaggcaagttctcctgcccgcgcgccctc
+            aaggtgccctcctacctcaactaccacttcctgggggagaaggactgcggcgcaccttgt
+            gagccgaccaaggtgtatgggctcatgtacttcgggcccgaggagctgcgcttctcgcgc
+            acctggattggcatttggtcagtgctgtgctgcgcctccacgctcttcacggtgcttacg
+            tacctggtggacatgcggcgcttcagctacccggagcggcccatcatcttcttgtccggc
+            tgttacacggccgtggccgtggcctacatcgccggcttcctcctggaagaccgagtggtg
+            tgtaatgacaagttcgccgaggacggggcacgcactgtggcgcagggcaccaagaaggag
+            ggctgcaccatcctcttcatgatgctctacttcttcagcatggccagctccatctggtgg
+            gtgatcctgtcgctcacctggttcctggcggctggcatgaagtggggccacgaggccatc
+            gaagccaactcacagtattttcacctggccgcctgggctgtgccggccatcaagaccatc
+            accatcctggcgctgggccaggtggacggcgatgtgctgagcggagtgtgcttcgtgggg
+            cttaacaacgtggacgcgctgcgtggcttcgtgctggcgcccctcttcgtgtacctgttt
+            atcggcacgtcctttctgctggccggctttgtgtcgctcttccgcatccgcaccatcatg
+            aagcacgatggcaccaagaccgagaagctggagaagctcatggtgcgcattggcgtcttc
+            agcgtgctgtacactgtgccagccaccatcgtcatcgcctgctacttctacgagcaggcc
+            ttccgggaccagtgggaacgcagctgggtggcccagagctgcaagagctacgctatcccc
+            tgccctcacctccaggcgggcggaggcgccccgccgcacccgcccatgagcccggacttc
+            acggtcttcatgattaagtaccttatgacgctgatcgtgggcatcacgtcgggcttctgg
+            atctggtccggcaagaccctcaactcctggaggaagttctacacgaggctcaccaacagc
+            aaacaaggggagactacagtctga
+///

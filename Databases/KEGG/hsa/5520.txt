@@ -1,0 +1,107 @@
+ENTRY       5520              CDS       T01001
+NAME        PPP2R2A, B55A, B55ALPHA, PR52A, PR55A, PR55alpha
+DEFINITION  (RefSeq) protein phosphatase 2 regulatory subunit Balpha
+ORTHOLOGY   K04354  serine/threonine-protein phosphatase 2A regulatory subunit B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04390  Hippo signaling pathway
+            hsa04530  Tight junction
+            hsa04728  Dopaminergic synapse
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05160  Hepatitis C
+            hsa05165  Human papillomavirus infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                5520 (PPP2R2A)
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                5520 (PPP2R2A)
+               04071 Sphingolipid signaling pathway
+                5520 (PPP2R2A)
+               04151 PI3K-Akt signaling pathway
+                5520 (PPP2R2A)
+               04152 AMPK signaling pathway
+                5520 (PPP2R2A)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                5520 (PPP2R2A)
+             Organismal Systems
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                5520 (PPP2R2A)
+              Nervous system
+               04728 Dopaminergic synapse
+                5520 (PPP2R2A)
+             Human Diseases
+              Infectious diseases
+               05160 Hepatitis C
+                5520 (PPP2R2A)
+               05165 Human papillomavirus infection
+                5520 (PPP2R2A)
+               05142 Chagas disease (American trypanosomiasis)
+                5520 (PPP2R2A)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-2 (PP2A)
+                Regulatory subunits
+                 5520 (PPP2R2A)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centromeric chromatin formation proteins
+               Other centromeric chromatin formation proteins
+                PP2A (protein phosphatase 2A)
+                 5520 (PPP2R2A)
+POSITION    8p21.2
+MOTIF       Pfam: ANAPC4_WD40
+DBLINKS     NCBI-GeneID: 5520
+            NCBI-ProteinID: NP_002708
+            OMIM: 604941
+            HGNC: 9304
+            Ensembl: ENSG00000221914
+            Vega: OTTHUMG00000163850
+            Pharos: P63151(Tchem)
+            UniProt: P63151 A0A140VJT0
+STRUCTURE   PDB: 3DW8
+AASEQ       447
+            MAGAGGGNDIQWCFSQVKGAVDDDVAEADIISTVEFNHSGELLATGDKGGRVVIFQQEQE
+            NKIQSHSRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQKNAAQFLLSTNDKTIK
+            LWKISERDKRPEGYNLKEEDGRYRDPTTVTTLRVPVFRPMDLMVEASPRRIFANAHTYHI
+            NSISINSDYETYLSADDLRINLWHLEITDRSFNIVDIKPANMEELTEVITAAEFHPNSCN
+            TFVYSSSKGTIRLCDMRASALCDRHSKLFEEPEDPSNRSFFSEIISSISDVKFSHSGRYM
+            MTRDYLSVKIWDLNMENRPVETYQVHEYLRSKLCSLYENDCIFDKFECCWNGSDSVVMTG
+            SYNNFFRMFDRNTKRDITLEASRENNKPRTVLKPRKVCASGKRKKDEISVDSLDFNKKIL
+            HTAWHPKENIIAVATTNNLYIFQDKVN
+NTSEQ       1344
+            atggcaggagctggaggagggaatgatattcagtggtgtttttctcaggtgaaaggagca
+            gtagatgatgatgtagcagaagcagatataatttctacagtagaatttaatcattctgga
+            gaattactagcaacaggagataaaggtggtagagttgtcatctttcaacaggagcaggag
+            aacaaaatccagtctcatagcagaggagaatataatgtttacagcaccttccagagccat
+            gaaccagagtttgactacttgaaaagtttagaaatagaagaaaagatcaacaaaattagg
+            tggttaccccagaaaaatgctgctcagtttttattgtctaccaatgataaaacaataaaa
+            ttatggaaaatcagtgaaagggacaaaagaccagaagggtataacttgaaagaggaggat
+            ggaaggtatagagatcctactacagttactacactacgagtgccagtctttaggcctatg
+            gatctaatggttgaggccagtccacgaagaatatttgccaatgctcatacatatcacatc
+            aactcaatttctattaatagtgattatgaaacatatttatctgcagatgatttgcggatt
+            aatctttggcatctggaaattacagacaggagttttaacattgtggatatcaagcctgcc
+            aatatggaagagctaacagaggtgattacagcagcagaatttcatccaaacagctgtaac
+            acatttgtatacagcagcagtaaaggaactattcggctatgtgacatgagggcatctgcc
+            ctctgtgatagacattctaaattgtttgaagaacctgaagatcccagtaacaggtcattt
+            ttttccgaaatcatctcctctatttcggatgtaaaattcagccatagtggtcgatatatg
+            atgactagagactatttgtcagtcaaaatttgggacttaaatatggaaaacaggcctgtg
+            gaaacataccaggtgcatgaatacctcagaagtaaactctgttcactgtatgaaaatgac
+            tgcatatttgacaaatttgaatgttgttggaatggatctgacagtgttgtcatgactgga
+            tcttacaataatttcttcagaatgtttgacagaaacacaaagcgagacataaccctagaa
+            gcatcgcgggaaaacaataagcctcgcacagttctgaagcctcgcaaagtctgtgcaagt
+            ggcaagcgaaagaaagatgaaataagtgttgacagcctagacttcaataagaaaatcctt
+            cacacagcctggcaccccaaggaaaatatcattgccgtagctactacaaacaatctgtat
+            atatttcaagacaaagtgaattag
+///

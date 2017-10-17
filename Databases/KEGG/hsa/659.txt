@@ -1,0 +1,143 @@
+ENTRY       659               CDS       T01001
+NAME        BMPR2, BMPR-II, BMPR3, BMR2, BRK-3, POVD1, PPH1, T-ALK
+DEFINITION  (RefSeq) bone morphogenetic protein receptor type 2
+ORTHOLOGY   K04671  bone morphogenetic protein receptor type-2 [EC:2.7.11.30]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04350  TGF-beta signaling pathway
+            hsa04360  Axon guidance
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa05206  MicroRNAs in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00679  BMP signaling
+DISEASE     H01619  Primary pulmonary hypertension (PPH)
+            H01621  Pulmonary arterial hypertension (PAH)
+            H01866  Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04350 TGF-beta signaling pathway
+                659 (BMPR2)
+               04390 Hippo signaling pathway
+                659 (BMPR2)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                659 (BMPR2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                659 (BMPR2)
+             Organismal Systems
+              Development
+               04360 Axon guidance
+                659 (BMPR2)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                659 (BMPR2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                659 (BMPR2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.30  receptor protein serine/threonine kinase
+                 659 (BMPR2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              TGFBR2 family [OT]
+               659 (BMPR2)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor serine/threonine kinases
+              Type II TGF-beta receptor
+               659 (BMPR2)
+            Cytokine receptors [BR:hsa04050]
+             TGF-beta receptors
+              Type II TGF-beta receptor
+               659 (BMPR2)
+POSITION    2q33.1-q33.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Activin_recp APH Cadherin_C_2 FTA2
+DBLINKS     NCBI-GeneID: 659
+            NCBI-ProteinID: NP_001195
+            OMIM: 600799
+            HGNC: 1078
+            Ensembl: ENSG00000204217
+            Vega: OTTHUMG00000133617
+            Pharos: Q13873(Tchem)
+            UniProt: Q13873
+STRUCTURE   PDB: 3G2F
+AASEQ       1038
+            MTSSLQRPWRVPWLPWTILLVSTAAASQNQERLCAFKDPYQQDLGIGESRISHENGTILC
+            SKGSTCYGLWEKSKGDINLVKQGCWSHIGDPQECHYEECVVTTTPPSIQNGTYRFCCCST
+            DLCNVNFTENFPPPDTTPLSPPHSFNRDETIIIALASVSVLAVLIVALCFGYRMLTGDRK
+            QGLHSMNMMEAAASEPSLDLDNLKLLELIGRGRYGAVYKGSLDERPVAVKVFSFANRQNF
+            INEKNIYRVPLMEHDNIARFIVGDERVTADGRMEYLLVMEYYPNGSLCKYLSLHTSDWVS
+            SCRLAHSVTRGLAYLHTELPRGDHYKPAISHRDLNSRNVLVKNDGTCVISDFGLSMRLTG
+            NRLVRPGEEDNAAISEVGTIRYMAPEVLEGAVNLRDCESALKQVDMYALGLIYWEIFMRC
+            TDLFPGESVPEYQMAFQTEVGNHPTFEDMQVLVSREKQRPKFPEAWKENSLAVRSLKETI
+            EDCWDQDAEARLTAQCAEERMAELMMIWERNKSVSPTVNPMSTAMQNERNLSHNRRVPKI
+            GPYPDYSSSSYIEDSIHHTDSIVKNISSEHSMSSTPLTIGEKNRNSINYERQQAQARIPS
+            PETSVTSLSTNTTTTNTTGLTPSTGMTTISEMPYPDETNLHTTNVAQSIGPTPVCLQLTE
+            EDLETNKLDPKEVDKNLKESSDENLMEHSLKQFSGPDPLSSTSSSLLYPLIKLAVEATGQ
+            QDFTQTANGQACLIPDVLPTQIYPLPKQQNLPKRPTSLPLNTKNSTKEPRLKFGSKHKSN
+            LKQVETGVAKMNTINAAEPHVVTVTMNGVAGRNHSVNSHAATTQYANGTVLSGQTTNIVT
+            HRAQEMLQNQFIGEDTRLNINSSPDEHEPLLRREQQAGHDEGVLDRLVDRRERPLEGGRT
+            NSNNNNSNPCSEQDVLAQGVPSTAADPGPSKPRRAQRPNSLDLSATNVLDGSSIQIGEST
+            QDGKSGSGEKIKKRVKTPYSLKRWRPSTWVISTESLDCEVNNNGSNRAVHSKSSTAVYLA
+            EGGTATTMVSKDIGMNCL
+NTSEQ       3117
+            atgacttcctcgctgcagcggccctggcgggtgccctggctaccatggaccatcctgctg
+            gtcagcactgcggctgcttcgcagaatcaagaacggctatgtgcgtttaaagatccgtat
+            cagcaagaccttgggataggtgagagtagaatctctcatgaaaatgggacaatattatgc
+            tcgaaaggtagcacctgctatggcctttgggagaaatcaaaaggggacataaatcttgta
+            aaacaaggatgttggtctcacattggagatccccaagagtgtcactatgaagaatgtgta
+            gtaactaccactcctccctcaattcagaatggaacataccgtttctgctgttgtagcaca
+            gatttatgtaatgtcaactttactgagaattttccacctcctgacacaacaccactcagt
+            ccacctcattcatttaaccgagatgagacaataatcattgctttggcatcagtctctgta
+            ttagctgttttgatagttgccttatgctttggatacagaatgttgacaggagaccgtaaa
+            caaggtcttcacagtatgaacatgatggaggcagcagcatccgaaccctctcttgatcta
+            gataatctgaaactgttggagctgattggccgaggtcgatatggagcagtatataaaggc
+            tccttggatgagcgtccagttgctgtaaaagtgttttcctttgcaaaccgtcagaatttt
+            atcaacgaaaagaacatttacagagtgcctttgatggaacatgacaacattgcccgcttt
+            atagttggagatgagagagtcactgcagatggacgcatggaatatttgcttgtgatggag
+            tactatcccaatggatctttatgcaagtatttaagtctccacacaagtgactgggtaagc
+            tcttgccgtcttgctcattctgttactagaggactggcttatcttcacacagaattacca
+            cgaggagatcattataaacctgcaatttcccatcgagatttaaacagcagaaatgtccta
+            gtgaaaaatgatggaacctgtgttattagtgactttggactgtccatgaggctgactgga
+            aatagactggtgcgcccaggggaggaagataatgcagccataagcgaggttggcactatc
+            agatatatggcaccagaagtgctagaaggagctgtgaacttgagggactgtgaatcagct
+            ttgaaacaagtagacatgtatgctcttggactaatctattgggagatatttatgagatgt
+            acagacctcttcccaggggaatccgtaccagagtaccagatggcttttcagacagaggtt
+            ggaaaccatcccacttttgaggatatgcaggttctcgtgtctagggaaaaacagagaccc
+            aagttcccagaagcctggaaagaaaatagcctggcagtgaggtcactcaaggagacaatc
+            gaagactgttgggaccaggatgcagaggctcggcttactgcacagtgtgctgaggaaagg
+            atggctgaacttatgatgatttgggaaagaaacaaatctgtgagcccaacagtcaatcca
+            atgtctactgctatgcagaatgaacgcaacctgtcacataataggcgtgtgccaaaaatt
+            ggtccttatccagattattcttcctcctcatacattgaagactctatccatcatactgac
+            agcatcgtgaagaatatttcctctgagcattctatgtccagcacacctttgactataggg
+            gaaaaaaaccgaaattcaattaactatgaacgacagcaagcacaagctcgaatccccagc
+            cctgaaacaagtgtcaccagcctctccaccaacacaacaaccacaaacaccacaggactc
+            acgccaagtactggcatgactactatatctgagatgccatacccagatgaaacaaatctg
+            cataccacaaatgttgcacagtcaattgggccaacccctgtctgcttacagctgacagaa
+            gaagacttggaaaccaacaagctagacccaaaagaagttgataagaacctcaaggaaagc
+            tctgatgagaatctcatggagcactctcttaaacagttcagtggcccagacccactgagc
+            agtactagttctagcttgctttacccactcataaaacttgcagtagaagcaactggacag
+            caggacttcacacagactgcaaatggccaagcatgtttgattcctgatgttctgcctact
+            cagatctatcctctccccaagcagcagaaccttcccaagagacctactagtttgcctttg
+            aacaccaaaaattcaacaaaagagccccggctaaaatttggcagcaagcacaaatcaaac
+            ttgaaacaagtcgaaactggagttgccaagatgaatacaatcaatgcagcagaacctcat
+            gtggtgacagtcaccatgaatggtgtggcaggtagaaaccacagtgttaactcccatgct
+            gccacaacccaatatgccaatgggacagtactatctggccaaacaaccaacatagtgaca
+            catagggcccaagaaatgttgcagaatcagtttattggtgaggacacccggctgaatatt
+            aattccagtcctgatgagcatgagcctttactgagacgagagcaacaagctggccatgat
+            gaaggtgttctggatcgtcttgtggacaggagggaacggccactagaaggtggccgaact
+            aattccaataacaacaacagcaatccatgttcagaacaagatgttcttgcacagggtgtt
+            ccaagcacagcagcagatcctgggccatcaaagcccagaagagcacagaggcctaattct
+            ctggatctttcagccacaaatgtcctggatggcagcagtatacagataggtgagtcaaca
+            caagatggcaaatcaggatcaggtgaaaagatcaagaaacgtgtgaaaactccctattct
+            cttaagcggtggcgcccctccacctgggtcatctccactgaatcgctggactgtgaagtc
+            aacaataatggcagtaacagggcagttcattccaaatccagcactgctgtttaccttgca
+            gaaggaggcactgctacaaccatggtgtctaaagatataggaatgaactgtctgtga
+///

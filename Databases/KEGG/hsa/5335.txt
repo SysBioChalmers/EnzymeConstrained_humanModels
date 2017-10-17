@@ -1,0 +1,238 @@
+ENTRY       5335              CDS       T01001
+NAME        PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1
+DEFINITION  (RefSeq) phospholipase C gamma 1
+ORTHOLOGY   K01116  phosphatidylinositol phospholipase C, gamma-1 [EC:3.1.4.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00562  Inositol phosphate metabolism
+            hsa01100  Metabolic pathways
+            hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04072  Phospholipase D signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04670  Leukocyte transendothelial migration
+            hsa04722  Neurotrophin signaling pathway
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05214  Glioma
+            hsa05223  Non-small cell lung cancer
+            hsa05231  Choline metabolism in cancer
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                5335 (PLCG1)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5335 (PLCG1)
+               04015 Rap1 signaling pathway
+                5335 (PLCG1)
+               04012 ErbB signaling pathway
+                5335 (PLCG1)
+               04370 VEGF signaling pathway
+                5335 (PLCG1)
+               04064 NF-kappa B signaling pathway
+                5335 (PLCG1)
+               04066 HIF-1 signaling pathway
+                5335 (PLCG1)
+               04020 Calcium signaling pathway
+                5335 (PLCG1)
+               04070 Phosphatidylinositol signaling system
+                5335 (PLCG1)
+               04072 Phospholipase D signaling pathway
+                5335 (PLCG1)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                5335 (PLCG1)
+               04660 T cell receptor signaling pathway
+                5335 (PLCG1)
+               04658 Th1 and Th2 cell differentiation
+                5335 (PLCG1)
+               04659 Th17 cell differentiation
+                5335 (PLCG1)
+               04664 Fc epsilon RI signaling pathway
+                5335 (PLCG1)
+               04666 Fc gamma R-mediated phagocytosis
+                5335 (PLCG1)
+               04670 Leukocyte transendothelial migration
+                5335 (PLCG1)
+              Endocrine system
+               04919 Thyroid hormone signaling pathway
+                5335 (PLCG1)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                5335 (PLCG1)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5335 (PLCG1)
+              Development
+               04360 Axon guidance
+                5335 (PLCG1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5335 (PLCG1)
+               05231 Choline metabolism in cancer
+                5335 (PLCG1)
+               05206 MicroRNAs in cancer
+                5335 (PLCG1)
+               05205 Proteoglycans in cancer
+                5335 (PLCG1)
+               05214 Glioma
+                5335 (PLCG1)
+               05223 Non-small cell lung cancer
+                5335 (PLCG1)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                5335 (PLCG1)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                5335 (PLCG1)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                5335 (PLCG1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5335 (PLCG1)
+               05169 Epstein-Barr virus infection
+                5335 (PLCG1)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                5335 (PLCG1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.11  phosphoinositide phospholipase C
+                 5335 (PLCG1)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Calcium ion-dependent exocytosis
+               Phospholipases
+                5335 (PLCG1)
+             Endocytosis
+              Macropinocytosis
+               Phospholipase C
+                5335 (PLCG1)
+POSITION    20q12
+MOTIF       Pfam: PI-PLC-X SH2 PI-PLC-Y C2 PH SH3_1 SH3_9 SH3_2 PH_12 GDPD
+DBLINKS     NCBI-GeneID: 5335
+            NCBI-ProteinID: NP_877963
+            OMIM: 172420
+            HGNC: 9065
+            Ensembl: ENSG00000124181
+            Vega: OTTHUMG00000033082
+            Pharos: P19174(Tchem)
+            UniProt: P19174 Q4LE43
+STRUCTURE   PDB: 4FBN 4EY0 1HSQ 2HSP
+AASEQ       1290
+            MAGAASPCANGCGPGAPSDAEVLHLCRSLEVGTVMTLFYSKKSQRPERKTFQVKLETRQI
+            TWSRGADKIEGAIDIREIKEIRPGKTSRDFDRYQEDPAFRPDQSHCFVILYGMEFRLKTL
+            SLQATSEDEVNMWIKGLTWLMEDTLQAPTPLQIERWLRKQFYSVDRNREDRISAKDLKNM
+            LSQVNYRVPNMRFLRERLTDLEQRSGDITYGQFAQLYRSLMYSAQKTMDLPFLEASTLRA
+            GERPELCRVSLPEFQQFLLDYQGELWAVDRLQVQEFMLSFLRDPLREIEEPYFFLDEFVT
+            FLFSKENSVWNSQLDAVCPDTMNNPLSHYWISSSHNTYLTGDQFSSESSLEAYARCLRMG
+            CRCIELDCWDGPDGMPVIYHGHTLTTKIKFSDVLHTIKEHAFVASEYPVILSIEDHCSIA
+            QQRNMAQYFKKVLGDTLLTKPVEISADGLPSPNQLKRKILIKHKKLAEGSAYEEVPTSMM
+            YSENDISNSIKNGILYLEDPVNHEWYPHYFVLTSSKIYYSEETSSDQGNEDEEEPKEVSS
+            STELHSNEKWFHGKLGAGRDGRHIAERLLTEYCIETGAPDGSFLVRESETFVGDYTLSFW
+            RNGKVQHCRIHSRQDAGTPKFFLTDNLVFDSLYDLITHYQQVPLRCNEFEMRLSEPVPQT
+            NAHESKEWYHASLTRAQAEHMLMRVPRDGAFLVRKRNEPNSYAISFRAEGKIKHCRVQQE
+            GQTVMLGNSEFDSLVDLISYYEKHPLYRKMKLRYPINEEALEKIGTAEPDYGALYEGRNP
+            GFYVEANPMPTFKCAVKALFDYKAQREDELTFIKSAIIQNVEKQEGGWWRGDYGGKKQLW
+            FPSNYVEEMVNPVALEPEREHLDENSPLGDLLRGVLDVPACQIAIRPEGKNNRLFVFSIS
+            MASVAHWSLDVAADSQEELQDWVKKIREVAQTADARLTEGKIMERRKKIALELSELVVYC
+            RPVPFDEEKIGTERACYRDMSSFPETKAEKYVNKAKGKKFLQYNRLQLSRIYPKGQRLDS
+            SNYDPLPMWICGSQLVALNFQTPDKPMQMNQALFMTGRHCGYVLQPSTMRDEAFDPFDKS
+            SLRGLEPCAISIEVLGARHLPKNGRGIVCPFVEIEVAGAEYDSTKQKTEFVVDNGLNPVW
+            PAKPFHFQISNPEFAFLRFVVYEEDMFSDQNFLAQATFPVKGLKTGYRAVPLKNNYSEDL
+            ELASLLIKIDIFPAKENGDLSPFSGTSLRERGSDASGQLFHGRAREGSFESRYQQPFEDF
+            RISQEHLADHFDSRERRAPRRTRVNGDNRL
+NTSEQ       3873
+            atggcgggcgccgcgtccccttgcgccaacggctgcgggcccggcgcgccctcggacgcc
+            gaggtgctgcacctctgccgcagcctcgaggtgggcaccgtcatgactttgttctactcc
+            aagaagtcgcagcgacccgagcggaagaccttccaggtcaagctggagacgcgccagatc
+            acgtggagccggggcgccgacaagatcgagggggccattgacattcgtgaaattaaggag
+            atccgcccagggaagacctcacgggactttgatcgctatcaagaggacccagctttccgg
+            ccggaccagtcacattgctttgtcattctctatggaatggaatttcgcctgaaaacgctg
+            agcctgcaagccacatctgaggatgaagtgaacatgtggatcaagggcttaacttggctg
+            atggaggatacattgcaggcacccacacccctgcagattgagaggtggctccggaagcag
+            ttttactcagtggatcggaatcgtgaggatcgtatatcagccaaggacctgaagaacatg
+            ctgtcccaggtcaactaccgggtccccaacatgcgcttcctccgagagcggctgacggac
+            ctggagcagcgcagcggggacatcacctacgggcagtttgctcagctgtaccgcagcctc
+            atgtacagcgcccagaagacgatggacctccccttcttggaagccagtactctgagggct
+            ggggagcggccggagctttgccgagtgtcccttcctgagttccagcagttccttcttgac
+            taccagggggagctgtgggctgttgatcgcctccaggtgcaggagttcatgctcagcttc
+            ctccgagaccccttacgagagatcgaggagccatacttcttcctggatgagtttgtcacc
+            ttcctgttctccaaagagaacagtgtgtggaactcgcagctggatgcagtatgcccggac
+            accatgaacaaccctctttcccactactggatctcctcctcgcacaacacgtacctgacc
+            ggggaccagttctccagtgagtcctccttggaagcctatgctcgctgcctgcggatgggc
+            tgtcgctgcattgagttggactgctgggacggcccggatgggatgccagttatttaccat
+            gggcacacccttaccaccaagatcaagttctcagatgtcctgcacaccatcaaggagcat
+            gcctttgtggcctcagagtacccagtcatcctgtccattgaggaccactgcagcattgcc
+            cagcagagaaacatggcccaatacttcaagaaggtgctgggggacacactcctcaccaag
+            cccgtggagatctctgccgacgggctcccctcacccaaccagcttaagaggaagatcctc
+            atcaagcacaagaagctggctgagggcagtgcctacgaggaggtgcctacatccatgatg
+            tactctgagaacgacatcagcaactctatcaagaatggcatcctctacctggaggaccct
+            gtgaaccacgaatggtatccccactactttgttctgaccagcagcaagatctactactct
+            gaggagaccagcagtgaccagggcaacgaggatgaggaggagcccaaggaggtcagcagc
+            agcacagagctgcactccaatgagaagtggttccatgggaagctaggggcagggcgtgac
+            gggcgtcacatcgctgagcgcctgcttactgagtactgcatcgagaccggagcccctgac
+            ggctccttcctcgtgcgagagagtgagaccttcgtgggcgactacacgctctctttctgg
+            cggaacgggaaagtccagcactgccgtatccactcccggcaagatgctgggacccccaag
+            ttcttcttgacagacaacctcgtctttgactccctctatgacctcatcacgcactaccag
+            caggtgcccctgcgctgtaatgagtttgagatgcgactttcagagcctgtcccacagacc
+            aacgcccacgagagcaaagagtggtaccacgcgagcctgaccagagcacaggctgagcac
+            atgctaatgcgcgtccctcgtgatggggccttcctggtgcggaagcggaatgaacccaac
+            tcatatgccatctctttccgggctgagggcaagatcaagcattgccgtgtccagcaagag
+            ggccagacagtgatgctagggaactcggagttcgacagccttgttgacctcatcagctac
+            tatgagaaacacccgctataccgcaagatgaagctgcgctatcccatcaacgaggaggca
+            ctggagaagattggcacagctgagcctgactacggggccctgtatgagggacgcaaccct
+            ggcttctatgtagaggcaaaccctatgccaactttcaagtgtgcagtcaaagccctcttt
+            gactacaaggcccagagggaggacgagctgaccttcatcaagagcgccatcatccagaat
+            gtggagaagcaagagggaggctggtggcgaggggactacggagggaagaagcagctgtgg
+            ttcccatcaaactacgtggaagagatggtcaaccccgtggccctggagccggagagggag
+            cacttggacgagaacagccccctaggggacttgctgcggggggtcttggatgtgccggct
+            tgtcagattgccatccgtcctgagggcaagaacaaccggctcttcgtcttctccatcagc
+            atggcgtcggtggcccactggtccctggatgttgctgccgactcacaggaggagctgcag
+            gactgggtgaaaaagatccgtgaagtggcccagacagcagacgccaggctcactgaaggg
+            aagataatggaacggaggaagaagattgccctggagctctctgaacttgtcgtctactgc
+            cggcctgttccctttgatgaagagaagattggcacagaacgtgcttgctaccgggacatg
+            tcatccttcccggaaaccaaggctgagaaatacgtgaacaaggccaaaggcaagaagttc
+            cttcagtacaatcgactgcagctctcccgcatctaccccaagggccagcgactggattcc
+            tccaactacgatcctttgcccatgtggatctgtggcagtcagcttgtggccctcaacttc
+            cagacccctgacaagcctatgcagatgaaccaggccctcttcatgacgggcaggcactgt
+            ggctacgtgctgcagccaagcaccatgcgggatgaggccttcgacccctttgacaagagc
+            agcctccgcgggctggagccatgtgccatctctattgaggtgctgggggcccgacatctg
+            ccaaagaatggccgaggcattgtgtgtccttttgtggagattgaggtggctggagctgag
+            tatgacagcaccaagcagaagacagagtttgtggtggacaatggactcaaccctgtatgg
+            ccagccaagcccttccacttccagatcagtaaccctgaatttgcctttctgcgcttcgtg
+            gtgtatgaggaagacatgtttagtgaccagaatttcctggctcaggctactttcccagta
+            aaaggcctgaagacaggatacagagcagtgcctttgaagaacaactacagtgaggacctg
+            gagttggcctccctgctgatcaagattgacattttccctgccaaggagaatggtgacctc
+            agtcccttcagtggtacgtccctgcgggagcggggctcagatgcctcaggccagctgttt
+            catggccgagcccgggaaggctcctttgaatcccgctaccagcagccgtttgaggacttc
+            cgcatctcccaggagcatctcgcagaccattttgacagtcgagaacgaagggccccaaga
+            aggactcgggtcaatggagacaaccgcctctag
+///

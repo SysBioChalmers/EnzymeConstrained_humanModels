@@ -1,0 +1,69 @@
+ENTRY       5887              CDS       T01001
+NAME        RAD23B, HHR23B, HR23B, P58
+DEFINITION  (RefSeq) RAD23 homolog B, nucleotide excision repair protein
+ORTHOLOGY   K10839  UV excision repair protein RAD23
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03420  Nucleotide excision repair
+            hsa04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                5887 (RAD23B)
+              Replication and repair
+               03420 Nucleotide excision repair
+                5887 (RAD23B)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Proteasome interacting proteins (PIPs)
+               UBL-UBA shuttle proteins
+                5887 (RAD23B)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 XPC-HR23B-CETN2 complex
+                  5887 (RAD23B)
+POSITION    9q31.2
+MOTIF       Pfam: XPC-binding UBA ubiquitin Rad60-SLD Rad60-SLD_2 UBA_3 DUF2407 UBA_2 DUF1421 Ubiquitin_2
+DBLINKS     NCBI-GeneID: 5887
+            NCBI-ProteinID: NP_002865
+            OMIM: 600062
+            HGNC: 9813
+            Ensembl: ENSG00000119318
+            Vega: OTTHUMG00000020446
+            Pharos: P54727(Tbio)
+            UniProt: P54727
+STRUCTURE   PDB: 1PVE 1UEL 1P1A
+AASEQ       409
+            MQVTLKTLQQQTFKIDIDPEETVKALKEKIESEKGKDAFPVAGQKLIYAGKILNDDTALK
+            EYKIDEKNFVVVMVTKPKAVSTPAPATTQQSAPASTTAVTSSTTTTVAQAPTPVPALAPT
+            STPASITPASATASSEPAPASAAKQEKPAEKPAETPVATSPTATDSTSGDSSRSNLFEDA
+            TSALVTGQSYENMVTEIMSMGYEREQVIAALRASFNNPDRAVEYLLMGIPGDRESQAVVD
+            PPQAASTGAPQSSAVAAAAATTTATTTTTSSGGHPLEFLRNQPQFQQMRQIIQQNPSLLP
+            ALLQQIGRENPQLLQQISQHQEHFIQMLNEPVQEAGGQGGGGGGGSGGIAEAGSGHMNYI
+            QVTPQEKEAIERLKALGFPEGLVIQAYFACEKNENLAANFLLQQNFDED
+NTSEQ       1230
+            atgcaggtcaccctgaagaccctccagcagcagaccttcaagatagacattgaccccgag
+            gagacggtgaaagcactgaaagagaagattgaatctgaaaaggggaaagatgcctttcca
+            gtagcaggtcaaaaattaatttatgcaggcaaaatcctcaatgatgatactgctctcaaa
+            gaatataaaattgatgagaaaaactttgtggtggttatggtgaccaaacccaaagcagtg
+            tccacaccagcaccagctacaactcagcagtcagctcctgccagcactacagcagttact
+            tcctccaccaccacaactgtggctcaggctccaacccctgtccctgccttggcccccact
+            tccacacctgcatccatcactccagcatcagcgacagcatcttctgaacctgcacctgct
+            agtgcagctaaacaagagaagcctgcagaaaagccagcagagacaccagtggctactagc
+            ccaacagcaactgacagtacatcgggtgattcttctcggtcaaacctttttgaagatgca
+            acgagtgcacttgtgacgggtcagtcttacgagaatatggtaactgagatcatgtcaatg
+            ggctatgaacgagagcaagtaattgcagccctgagagccagtttcaacaaccctgacaga
+            gcagtggagtatcttttaatgggaatccctggagatagagaaagtcaggctgtggttgac
+            ccccctcaagcagctagtactggggctcctcagtcttcagcagtggctgcagctgcagca
+            actacgacagcaacaactacaacaacaagttctggaggacatccccttgaatttttacgg
+            aatcagcctcagtttcaacagatgagacaaattattcagcagaatccttccttgcttcca
+            gcgttactacagcagataggtcgagagaatcctcaattacttcagcaaattagccaacac
+            caggagcattttattcagatgttaaatgaaccagttcaagaagctggtggtcaaggagga
+            ggaggtggaggtggcagtggaggaattgcagaagctggaagtggtcatatgaactacatt
+            caagtaacacctcaggaaaaagaagctatagaaaggttaaaggcattaggatttcctgaa
+            ggacttgtgatacaagcgtattttgcttgtgagaagaatgagaatttggctgccaatttt
+            cttctacagcagaactttgatgaagattga
+///

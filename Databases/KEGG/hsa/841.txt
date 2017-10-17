@@ -1,0 +1,149 @@
+ENTRY       841               CDS       T01001
+NAME        CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5
+DEFINITION  (RefSeq) caspase 8
+ORTHOLOGY   K04398  caspase 8 [EC:3.4.22.61]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa04115  p53 signaling pathway
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05016  Huntington's disease
+            hsa05134  Legionellosis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05416  Viral myocarditis
+DISEASE     H00108  Autoimmune lymphoproliferative syndromes (ALPS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                841 (CASP8)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                841 (CASP8)
+               04215 Apoptosis - multiple species
+                841 (CASP8)
+               04217 Necroptosis
+                841 (CASP8)
+               04115 p53 signaling pathway
+                841 (CASP8)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                841 (CASP8)
+               04621 NOD-like receptor signaling pathway
+                841 (CASP8)
+               04622 RIG-I-like receptor signaling pathway
+                841 (CASP8)
+               04657 IL-17 signaling pathway
+                841 (CASP8)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                841 (CASP8)
+               05203 Viral carcinogenesis
+                841 (CASP8)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                841 (CASP8)
+               05016 Huntington's disease
+                841 (CASP8)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                841 (CASP8)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                841 (CASP8)
+              Infectious diseases
+               05134 Legionellosis
+                841 (CASP8)
+               05152 Tuberculosis
+                841 (CASP8)
+               05161 Hepatitis B
+                841 (CASP8)
+               05168 Herpes simplex infection
+                841 (CASP8)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                841 (CASP8)
+               05165 Human papillomavirus infection
+                841 (CASP8)
+               05145 Toxoplasmosis
+                841 (CASP8)
+               05142 Chagas disease (American trypanosomiasis)
+                841 (CASP8)
+              Drug resistance
+               01524 Platinum drug resistance
+                841 (CASP8)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.61  caspase-8
+                 841 (CASP8)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C14: caspase family
+               841 (CASP8)
+POSITION    2q33.1
+MOTIF       Pfam: Peptidase_C14 DED PYRIN
+DBLINKS     NCBI-GeneID: 841
+            NCBI-ProteinID: NP_203519
+            OMIM: 601763
+            HGNC: 1509
+            Ensembl: ENSG00000064012
+            Vega: OTTHUMG00000132821
+            Pharos: Q14790(Tchem)
+            UniProt: Q14790
+STRUCTURE   PDB: 4JJ7 1QTN 4PS1 2Y1L 3KJN 3KJQ 3H11 2C2Z 4PRZ 4ZBW 1QDU
+                 1F9E 2FUN 1I4E 5L08 2K7Z
+AASEQ       479
+            MDFSRNLYDIGEQLDSEDLASLKFLSLDYIPQRKQEPIKDALMLFQRLQEKRMLEESNLS
+            FLKELLFRINRLDLLITYLNTRKEEMERELQTPGRAQISAYRVMLYQISEEVSRSELRSF
+            KFLLQEEISKCKLDDDMNLLDIFIEMEKRVILGEGKLDILKRVCAQINKSLLKIINDYEE
+            FSKERSSSLEGSPDEFSNGEELCGVMTISDSPREQDSESQTLDKVYQMKSKPRGYCLIIN
+            NHNFAKAREKVPKLHSIRDRNGTHLDAGALTTTFEELHFEIKPHDDCTVEQIYEILKIYQ
+            LMDHSNMDCFICCILSHGDKGIIYGTDGQEAPIYELTSQFTGLKCPSLAGKPKVFFIQAC
+            QGDNYQKGIPVETDSEEQPYLEMDLSSPQTRYIPDEADFLLGMATVNNCVSYRNPAEGTW
+            YIQSLCQSLRERCPRGDDILTILTEVNYEVSNKDDKKNMGKQMPQPTFTLRKKLVFPSD
+NTSEQ       1440
+            atggacttcagcagaaatctttatgatattggggaacaactggacagtgaagatctggcc
+            tccctcaagttcctgagcctggactacattccgcaaaggaagcaagaacccatcaaggat
+            gccttgatgttattccagagactccaggaaaagagaatgttggaggaaagcaatctgtcc
+            ttcctgaaggagctgctcttccgaattaatagactggatttgctgattacctacctaaac
+            actagaaaggaggagatggaaagggaacttcagacaccaggcagggctcaaatttctgcc
+            tacagggtcatgctctatcagatttcagaagaagtgagcagatcagaattgaggtctttt
+            aagtttcttttgcaagaggaaatctccaaatgcaaactggatgatgacatgaacctgctg
+            gatattttcatagagatggagaagagggtcatcctgggagaaggaaagttggacatcctg
+            aaaagagtctgtgcccaaatcaacaagagcctgctgaagataatcaacgactatgaagaa
+            ttcagcaaagagagaagcagcagccttgaaggaagtcctgatgaattttcaaatggggag
+            gagttgtgtggggtaatgacaatctcggactctccaagagaacaggatagtgaatcacag
+            actttggacaaagtttaccaaatgaaaagcaaacctcggggatactgtctgatcatcaac
+            aatcacaattttgcaaaagcacgggagaaagtgcccaaacttcacagcattagggacagg
+            aatggaacacacttggatgcaggggctttgaccacgacctttgaagagcttcattttgag
+            atcaagccccacgatgactgcacagtagagcaaatctatgagattttgaaaatctaccaa
+            ctcatggaccacagtaacatggactgcttcatctgctgtatcctctcccatggagacaag
+            ggcatcatctatggcactgatggacaggaggcccccatctatgagctgacatctcagttc
+            actggtttgaagtgcccttcccttgctggaaaacccaaagtgttttttattcaggcttgt
+            cagggggataactaccagaaaggtatacctgttgagactgattcagaggagcaaccctat
+            ttagaaatggatttatcatcacctcaaacgagatatatcccggatgaggctgactttctg
+            ctggggatggccactgtgaataactgtgtttcctaccgaaaccctgcagagggaacctgg
+            tacatccagtcactttgccagagcctgagagagcgatgtcctcgaggcgatgatattctc
+            accatcctgactgaagtgaactatgaagtaagcaacaaggatgacaagaaaaacatgggg
+            aaacagatgcctcagcctactttcacactaagaaaaaaacttgtcttcccttctgattga
+///

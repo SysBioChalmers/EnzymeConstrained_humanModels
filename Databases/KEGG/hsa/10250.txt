@@ -1,0 +1,102 @@
+ENTRY       10250             CDS       T01001
+NAME        SRRM1, 160-KD, POP101, SRM160
+DEFINITION  (RefSeq) serine and arginine repetitive matrix 1
+ORTHOLOGY   K13171  serine/arginine repetitive matrix protein 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03015  mRNA surveillance pathway
+MODULE      hsa_M00430  Exon junction complex (EJC)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                10250 (SRRM1)
+               03015 mRNA surveillance pathway
+                10250 (SRRM1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                EJC complex
+                 10250 (SRRM1)
+            Spliceosome [BR:hsa03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               SR-related proteins
+                10250 (SRRM1)
+POSITION    1p36.11
+MOTIF       Pfam: PWI ETRAMP
+DBLINKS     NCBI-GeneID: 10250
+            NCBI-ProteinID: NP_005830
+            OMIM: 605975
+            HGNC: 16638
+            Ensembl: ENSG00000133226
+            Vega: OTTHUMG00000003320
+            Pharos: Q8IYB3(Tbio)
+            UniProt: Q8IYB3 A0A0S2Z4W1
+STRUCTURE   PDB: 1MP1
+AASEQ       904
+            MDAGFFRGTSAEQDNRFSNKQKKLLKQLKFAECLEKKVDMSKVNLEVIKPWITKRVTEIL
+            GFEDDVVIEFIFNQLEVKNPDSKMMQINLTGFLNGKNAREFMGELWPLLLSAQENIAGIP
+            SAFLELKKEEIKQRQIEQEKLASMKKQDEDKDKRDKEEKESSREKRERSRSPRRRKSRSP
+            SPRRRSSPVRRERKRSHSRSPRHRTKSRSPSPAPEKKEKTPELPEPSVKVKEPSVQEATS
+            TSDILKVPKPEPIPEPKEPSPEKNSKKEKEKEKTRPRSRSRSKSRSRTRSRSPSHTRPRR
+            RHRSRSRSYSPRRRPSPRRRPSPRRRTPPRRMPPPPRHRRSRSPVRRRRRSSASLSGSSS
+            SSSSSRSRSPPKKPPKRTSSPPRKTRRLSPSASPPRRRHRPSPPATPPPKTRHSPTPQQS
+            NRTRKSRVSVSPGRTSGKVTKHKGTEKRESPSPAPKPRKVELSESEEDKGGKMAAADSVQ
+            QRRQYRRQNQQSSSDSGSSSSSEDERPKRSHVKNGEVGRRRRHSPSRSASPSPRKRQKET
+            SPRGRRRRSPSPPPTRRRRSPSPAPPPRRRRTPTPPPRRRTPSPPPRRRSPSPRRYSPPI
+            QRRYSPSPPPKRRTASPPPPPKRRASPSPPPKRRVSHSPPPKQRSSPVTKRRSPSLSSKH
+            RKGSSPSRSTREARSPQPNKRHSPSPRPRAPQTSSSPPPVRRGASSSPQRRQSPSPSTRP
+            IRRVSRTPEPKKIKKAASPSPQSVRRVSSSRSVSGSPEPAAKKPPAPPSPVQSQSPSTNW
+            SPAVPVKKAKSPTPSPSPPRNSDQEGGGKKKKKKKDKKHKKDKKHKKHKKHKKEKAVAAA
+            AAAAVTPAAIAAATTTLAQEEPVAAPEPKKETESEAEDNLDDLEKHLREKALRSMRKAQV
+            SPQS
+NTSEQ       2715
+            atggacgcgggatttttccgcggaacaagtgcagaacaggataatcggttcagcaacaaa
+            cagaagaaactactgaagcagctgaaatttgcagaatgcctagaaaaaaaggtggacatg
+            agcaaagtaaatttggaggttataaagccttggataacaaaaagagtaacggaaatcctt
+            gggtttgaagatgatgttgtgattgagtttatattcaaccagctggaagtgaagaatcca
+            gactccaaaatgatgcaaatcaacctgactggatttttgaatggaaaaaatgctcgagaa
+            tttatgggagaactgtggcccctgctgctaagtgcacaagaaaacatcgcgggaatccct
+            tctgctttcctagaactgaagaaagaagaaataaaacaaagacagattgaacaagaaaaa
+            ctggcatctatgaaaaagcaagatgaagacaaagataaaagagataaggaagaaaaagaa
+            agcagcagagaaaaaagggagcggtctcgtagcccaagaagacgcaaatccagatctcct
+            tcccctagaagacgatcttcccctgtcaggagagagagaaagcgcagtcattctcgatct
+            ccccgtcacagaaccaagagccggagtccttcccctgctccagaaaagaaggaaaaaact
+            ccagagctcccagaaccttcagtgaaagtaaaagaaccttcagtacaagaggctacttct
+            actagtgacattctgaaagttcccaaacctgaacctataccagagcctaaagaaccttct
+            ccggaaaaaaattccaaaaaagaaaaggagaaggagaagacccgaccacgatctcggtca
+            cgctccaaatcaagatcccggacgcggtcccgctctccttctcacactcgacctagacgg
+            cgccatagatcccgatcaagatcgtattcacctagaaggcggccaagcccaagaaggcgg
+            ccatctcctcgaagaagaactccgccaagaagaatgcctcctccaccaaggcatagaagg
+            agtagatctccagtaagacgaagaagacgttcgtcagcatccttgtctgggagtagctca
+            tcatcctcttcatctcgttcacggtcaccaccaaagaagcctcccaagaggacatccagc
+            ccccctcggaaaactcgtaggttatctccttcagcaagtcctccaaggcgaaggcacagg
+            ccatcacctcctgcaactccaccacccaaaactcggcattcccctacaccccagcagtca
+            aaccgtacaagaaaaagtcgtgtttctgtgtctccagggagaacttcaggtaaagtgaca
+            aaacataaaggtactgagaaaagagaatccccttcaccagcaccgaagcctagaaaagta
+            gagttatctgaatcggaagaagataaaggtggcaaaatggctgcagcagattctgtgcag
+            cagagacgccaatacagacgacaaaaccagcagtcttcatctgactctggctcctcctcc
+            tcctcagaagatgaacgacccaagagatcccatgtgaagaatggtgaggttggcaggcgg
+            cggagacattccccttcccggagtgcttctccatcaccacgaaagcgccaaaaagagact
+            tcccctcgtggtagacggaggagaagtccatccccaccacccaccagaaggcgacggtct
+            ccttctcccgcccctcctcctcgacggcgcaggactcccacaccaccaccacgacgaagg
+            actccttctcctcccccacgtcggcgctcaccttctcctagaagatactctcctccaata
+            cagaggagatactctccttctccacctccaaagagaagaacggcttcacctcctccccct
+            cctaaacgaagagcatcaccatctccaccaccaaagcggcgggtctcccattctccacct
+            cccaaacaaagaagctccccagtcaccaagagacgttcaccttcattatcatccaagcat
+            aggaaagggtcttccccaagccgctctacccgggaggcccgatcaccacaaccaaacaaa
+            cggcattcgccctcaccacggcctcgagctcctcagacctcctcaagtcctccacccgtt
+            cgaagaggagcgtcgtcatcaccccaaagaaggcagtccccgtctccaagtactaggccc
+            attaggagagtctccaggactccggaacctaaaaagataaaaaaggctgcttccccaagc
+            ccacagtctgtaagaagggtctcatcctcccgatctgtctccgggtctcctgagccagca
+            gctaaaaagcccccagcacctccatcccccgtccagtctcagtcaccgtctacaaactgg
+            tcaccagctgtaccggtcaaaaaggccaaaagcccaacaccgagcccatcaccgccaaga
+            aattcagatcaggaaggaggtggaaagaaaaagaagaaaaagaaggacaagaaacacaaa
+            aaggataagaagcacaagaagcacaaaaaacacaagaaggaaaaggctgtggctgcagct
+            gctgcagctgctgtgacccctgcagccattgcagctgccacaaccacattagcacaggaa
+            gagccagtggcagcgccagagccgaagaaggagactgaaagtgaagctgaagataacctt
+            gatgatttagaaaagcacctgcgtgaaaaggccctgagatcaatgaggaaggcccaagtg
+            tccccacagtcttag
+///

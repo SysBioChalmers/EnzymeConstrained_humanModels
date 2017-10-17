@@ -1,0 +1,95 @@
+ENTRY       93                CDS       T01001
+NAME        ACVR2B, ACTRIIB, ActR-IIB, HTX4
+DEFINITION  (RefSeq) activin A receptor type 2B
+ORTHOLOGY   K13596  activin receptor type-2B [EC:2.7.11.30]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04350  TGF-beta signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa05418  Fluid shear stress and atherosclerosis
+MODULE      hsa_M00679  BMP signaling
+            hsa_M00681  Activin signaling
+DISEASE     H00632  Heterotaxy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04350 TGF-beta signaling pathway
+                93 (ACVR2B)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                93 (ACVR2B)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                93 (ACVR2B)
+             Human Diseases
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                93 (ACVR2B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.30  receptor protein serine/threonine kinase
+                 93 (ACVR2B)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              TGFBR2 family [OT]
+               93 (ACVR2B)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor serine/threonine kinases
+              Type II TGF-beta receptor
+               93 (ACVR2B)
+            Cytokine receptors [BR:hsa04050]
+             TGF-beta receptors
+              Type II TGF-beta receptor
+               93 (ACVR2B)
+POSITION    3p22.2
+MOTIF       Pfam: Pkinase Pkinase_Tyr Activin_recp Toxin_TOLIP
+DBLINKS     NCBI-GeneID: 93
+            NCBI-ProteinID: NP_001097
+            OMIM: 602730
+            HGNC: 174
+            Ensembl: ENSG00000114739
+            Vega: OTTHUMG00000131291
+            Pharos: Q13705(Tchem)
+            UniProt: Q13705
+STRUCTURE   PDB: 2H62 2QLU 4FAO
+AASEQ       512
+            MTAPWVALALLWGSLCAGSGRGEAETRECIYYNANWELERTNQSGLERCEGEQDKRLHCY
+            ASWRNSSGTIELVKKGCWLDDFNCYDRQECVATEENPQVYFCCCEGNFCNERFTHLPEAG
+            GPEVTYEPPPTAPTLLTVLAYSLLPIGGLSLIVLLAFWMYRHRKPPYGHVDIHEDPGPPP
+            PSPLVGLKPLQLLEIKARGRFGCVWKAQLMNDFVAVKIFPLQDKQSWQSEREIFSTPGMK
+            HENLLQFIAAEKRGSNLEVELWLITAFHDKGSLTDYLKGNIITWNELCHVAETMSRGLSY
+            LHEDVPWCRGEGHKPSIAHRDFKSKNVLLKSDLTAVLADFGLAVRFEPGKPPGDTHGQVG
+            TRRYMAPEVLEGAINFQRDAFLRIDMYAMGLVLWELVSRCKAADGPVDEYMLPFEEEIGQ
+            HPSLEELQEVVVHKKMRPTIKDHWLKHPGLAQLCVTIEECWDHDAEARLSAGCVEERVSL
+            IRRSVNGTTSDCLVSLVTSVTNVDLPPKESSI
+NTSEQ       1539
+            atgacggcgccctgggtggccctcgccctcctctggggatcgctgtgcgccggctctggg
+            cgtggggaggctgagacacgggagtgcatctactacaacgccaactgggagctggagcgc
+            accaaccagagcggcctggagcgctgcgaaggcgagcaggacaagcggctgcactgctac
+            gcctcctggcgcaacagctctggcaccatcgagctcgtgaagaagggctgctggctagat
+            gacttcaactgctacgataggcaggagtgtgtggccactgaggagaacccccaggtgtac
+            ttctgctgctgtgaaggcaacttctgcaacgaacgcttcactcatttgccagaggctggg
+            ggcccggaagtcacgtacgagccacccccgacagcccccaccctgctcacggtgctggcc
+            tactcactgctgcccatcgggggcctttccctcatcgtcctgctggccttttggatgtac
+            cggcatcgcaagcccccctacggtcatgtggacatccatgaggaccctgggcctccacca
+            ccatcccctctggtgggcctgaagccactgcagctgctggagatcaaggctcgggggcgc
+            tttggctgtgtctggaaggcccagctcatgaatgactttgtagctgtcaagatcttccca
+            ctccaggacaagcagtcgtggcagagtgaacgggagatcttcagcacacctggcatgaag
+            cacgagaacctgctacagttcattgctgccgagaagcgaggctccaacctcgaagtagag
+            ctgtggctcatcacggccttccatgacaagggctccctcacggattacctcaaggggaac
+            atcatcacatggaacgaactgtgtcatgtagcagagacgatgtcacgaggcctctcatac
+            ctgcatgaggatgtgccctggtgccgtggcgagggccacaagccgtctattgcccacagg
+            gactttaaaagtaagaatgtattgctgaagagcgacctcacagccgtgctggctgacttt
+            ggcttggctgttcgatttgagccagggaaacctccaggggacacccacggacaggtaggc
+            acgagacggtacatggctcctgaggtgctcgagggagccatcaacttccagagagatgcc
+            ttcctgcgcattgacatgtatgccatggggttggtgctgtgggagcttgtgtctcgctgc
+            aaggctgcagacggacccgtggatgagtacatgctgccctttgaggaagagattggccag
+            cacccttcgttggaggagctgcaggaggtggtggtgcacaagaagatgaggcccaccatt
+            aaagatcactggttgaaacacccgggcctggcccagctttgtgtgaccatcgaggagtgc
+            tgggaccatgatgcagaggctcgcttgtccgcgggctgtgtggaggagcgggtgtccctg
+            attcggaggtcggtcaacggcactacctcggactgtctcgtttccctggtgacctctgtc
+            accaatgtggacctgccccctaaagagtcaagcatctaa
+///

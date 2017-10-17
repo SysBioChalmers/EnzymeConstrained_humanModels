@@ -1,0 +1,100 @@
+ENTRY       5427              CDS       T01001
+NAME        POLE2, DPE2
+DEFINITION  (RefSeq) DNA polymerase epsilon 2, accessory subunit
+ORTHOLOGY   K02325  DNA polymerase epsilon subunit 2 [EC:2.7.7.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03030  DNA replication
+            hsa03410  Base excision repair
+            hsa03420  Nucleotide excision repair
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00263  DNA polymerase epsilon complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                5427 (POLE2)
+               00240 Pyrimidine metabolism
+                5427 (POLE2)
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                5427 (POLE2)
+               03410 Base excision repair
+                5427 (POLE2)
+               03420 Nucleotide excision repair
+                5427 (POLE2)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                5427 (POLE2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 5427 (POLE2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               DNA polymerase epsilon complex
+                5427 (POLE2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase epsilon complex
+                  5427 (POLE2)
+POSITION    14q21.3
+MOTIF       Pfam: DNA_pol_E_B Dpoe2NT DUF3689
+DBLINKS     NCBI-GeneID: 5427
+            NCBI-ProteinID: NP_002683
+            OMIM: 602670
+            HGNC: 9178
+            Ensembl: ENSG00000100479
+            Vega: OTTHUMG00000170813
+            Pharos: P56282(Tbio)
+            UniProt: P56282
+STRUCTURE   PDB: 5VBN 2V6Z
+AASEQ       527
+            MAPERLRSRALSAFKLRGLLLRGEAIKYLTEALQSISELELEDKLEKIINAVEKQPLSSN
+            MIERSVVEAAVQECSQSVDETIEHVFNIIGAFDIPRFVYNSERKKFLPLLMTNHPAPNLF
+            GTPRDKAEMFRERYTILHQRTHRHELFTPPVIGSHPDESGSKFQLKTIETLLGSTTKIGD
+            AIVLGMITQLKEGKFFLEDPTGTVQLDLSKAQFHSGLYTEACFVLAEGWFEDQVFHVNAF
+            GFPPTEPSSTTRAYYGNINFFGGPSNTSVKTSAKLKQLEEENKDAMFVFLSDVWLDQVEV
+            LEKLRIMFAGYSPAPPTCFILCGNFSSAPYGKNQVQALKDSLKTLADIICEYPDIHQSSR
+            FVFVPGPEDPGFGSILPRPPLAESITNEFRQRVPFSVFTTNPCRIQYCTQEITVFREDLV
+            NKMCRNCVRFPSSNLAIPNHFVKTILSQGHLTPLPLYVCPVYWAYDYALRVYPVPDLLVI
+            ADKYDPFTTTNTECLCINPGSFPRSGFSFKVFYPSNKTVEDSKLQGF
+NTSEQ       1584
+            atggcgccggagcggctgcggagccgggcgctctccgccttcaagttgcggggcttgctg
+            ctccgtggtgaagctattaagtacctcacagaagctcttcagtctatcagtgaattagag
+            cttgaagataaactggaaaagataattaatgcagttgagaagcaacccttgtcatcaaac
+            atgattgaacgatctgtggtggaagcagcagtccaggaatgcagtcagtctgttgatgaa
+            actatagagcacgttttcaatatcataggagcatttgatattccacgctttgtgtacaat
+            tcagaaagaaaaaaatttcttcctctgttaatgaccaaccaccctgcaccaaatttattt
+            ggaacaccaagagataaagcagagatgtttcgtgagcgatataccattttgcaccagagg
+            acccacaggcatgaattatttactcctccggtgataggttctcaccctgatgaaagcgga
+            agcaaattccagcttaaaacaatagaaaccttattgggtagtacaaccaaaatcggagat
+            gcgattgttcttggaatgataacgcagttaaaagagggaaaattttttctggaagatcct
+            actggaacagtccaactagaccttagtaaagctcagttccatagtggtttatacacagag
+            gcatgctttgtcttagcagaaggttggtttgaagatcaagtgtttcatgtcaatgccttt
+            ggatttccacccactgagccctctagtactactagggcatactatggaaatattaatttt
+            tttggaggtccttctaatacatctgtgaagacttctgcaaaactaaaacagctagaagag
+            gagaataaagatgctatgtttgtgtttttatctgatgtttggttggaccaggtggaagta
+            ttggaaaaacttcgcataatgtttgctggttattcaccagcacctccaacctgctttatt
+            ctgtgtggtaatttttcatctgcaccatatggaaaaaatcaagttcaagctttgaaagat
+            tccctaaaaactttggcagatataatatgtgaatacccagatattcaccaaagtagtcgt
+            tttgtgtttgtacctggtccagaggatcctggatttggttccatcttaccaaggccacca
+            cttgctgaaagcatcactaatgaattcagacaaagggtaccattttcagtttttactact
+            aatccttgcagaattcagtactgtacacaggaaattactgtcttccgtgaagacttagta
+            aataaaatgtgcagaaactgcgtccgttttcctagcagcaatttggctattcctaatcac
+            tttgtaaagactatcttatcccaaggacatctgactcccctacctctttatgtctgccca
+            gtgtattgggcatatgactatgctttgagagtgtatcctgtgcccgatctacttgtcatt
+            gcagacaaatatgatcctttcactacgacaaataccgaatgcctctgcataaaccctggc
+            tcttttccaagaagtggattttcattcaaagttttttatccttctaataagacagtagaa
+            gatagcaaacttcaaggcttttga
+///

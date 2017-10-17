@@ -1,0 +1,61 @@
+ENTRY       210               CDS       T01001
+NAME        ALAD, ALADH, PBGS
+DEFINITION  (RefSeq) aminolevulinate dehydratase
+ORTHOLOGY   K01698  porphobilinogen synthase [EC:4.2.1.24]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00860  Porphyrin and chlorophyll metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00202  Hepatic porphyria
+            H01763  Porphyria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                210 (ALAD)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.24  porphobilinogen synthase
+                 210 (ALAD)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               210 (ALAD)
+POSITION    9q32
+MOTIF       Pfam: ALAD
+DBLINKS     NCBI-GeneID: 210
+            NCBI-ProteinID: NP_000022
+            OMIM: 125270
+            HGNC: 395
+            Ensembl: ENSG00000148218
+            Vega: OTTHUMG00000020522
+            Pharos: P13716(Tbio)
+            UniProt: P13716 Q6ZMU0 A0A140VJL9
+STRUCTURE   PDB: 1PV8 5HMS 5HNR 1E51
+AASEQ       330
+            MQPQSVLHSGYFHPLLRAWQTATTTLNASNLIYPIFVTDVPDDIQPITSLPGVARYGVKR
+            LEEMLRPLVEEGLRCVLIFGVPSRVPKDERGSAADSEESPAIEAIHLLRKTFPNLLVACD
+            VCLCPYTSHGHCGLLSENGAFRAEESRQRLAEVALAYAKAGCQVVAPSDMMDGRVEAIKE
+            ALMAHGLGNRVSVMSYSAKFASCFYGPFRDAAKSSPAFGDRRCYQLPPGARGLALRAVDR
+            DVREGADMLMVKPGMPYLDIVREVKDKHPDLPLAVYHVSGEFAMLWHGAQAGAFDLKAAV
+            LEAMTAFRRAGADIIITYYTPQLLQWLKEE
+NTSEQ       993
+            atgcagccccagtccgttctgcacagcggctacttccacccactacttcgggcctggcag
+            acagccaccaccaccctcaatgcctccaacctcatctaccccatctttgtcacggatgtt
+            cctgatgacatacagcctatcaccagcctcccaggagtggccaggtatggtgtgaagcgg
+            ctggaagagatgctgaggcccttggtggaagagggcctacgctgtgtcttgatctttggc
+            gtccccagcagagttcccaaggacgagcggggttccgcagctgactccgaggagtcccca
+            gctattgaggcaatccatctgttgaggaagaccttccccaacctcctggtggcctgtgat
+            gtctgcctgtgtccctacacctcccatggtcactgcgggctcctgagtgaaaacggagca
+            ttccgggctgaggagagccgccagcggctggctgaggtggcattggcgtatgccaaggca
+            ggatgtcaggtggtagccccgtcggacatgatggatggacgcgtggaagccatcaaagag
+            gccctgatggcacatggacttggcaacagggtatcggtgatgagctacagtgccaaattt
+            gcttcctgtttctatggccctttccgggatgcagctaagtcaagcccagcttttggggac
+            cgccgctgctaccagctgccccctggagcacgaggcctggctctccgagctgtggaccgg
+            gatgtacgggaaggagctgacatgctcatggtgaagccgggaatgccctacctggacatc
+            gtgcgggaggtaaaggacaagcaccctgacctccctctcgccgtgtaccacgtctctgga
+            gagtttgccatgctgtggcatggagcccaggccggggcatttgatctcaaggctgccgta
+            ctggaggccatgactgccttccgcagagcaggtgctgacatcatcatcacctactacaca
+            ccgcagctgctgcagtggctgaaggaggaatga
+///

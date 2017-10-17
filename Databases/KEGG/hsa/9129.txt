@@ -1,0 +1,79 @@
+ENTRY       9129              CDS       T01001
+NAME        PRPF3, HPRP3, HPRP3P, PRP3, Prp3p, RP18, SNRNP90
+DEFINITION  (RefSeq) pre-mRNA processing factor 3
+ORTHOLOGY   K12843  U4/U6 small nuclear ribonucleoprotein PRP3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+DISEASE     H00527  Retinitis pigmentosa (RP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                9129 (PRPF3)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U4/U6 snRNP specific factors
+                9129 (PRPF3)
+POSITION    1q21.2
+MOTIF       Pfam: PRP3 DUF1115 PWI
+DBLINKS     NCBI-GeneID: 9129
+            NCBI-ProteinID: NP_004689
+            OMIM: 607301
+            HGNC: 17348
+            Ensembl: ENSG00000117360
+            Vega: OTTHUMG00000012807
+            Pharos: O43395(Tbio)
+            UniProt: O43395
+STRUCTURE   PDB: 5O9Z 3JCR 1X4Q
+AASEQ       683
+            MALSKRELDELKPWIEKTVKRVLGFSEPTVVTAALNCVGKGMDKKKAADHLKPFLDDSTL
+            RFVDKLFEAVEEGRSSRHSKSSSDRSRKRELKEVFGDDSEISKESSGVKKRRIPRFEEVE
+            EEPEVIPGPPSESPGMLTKLQIKQMMEAATRQIEERKKQLSFISPPTPQPKTPSSSQPER
+            LPIGNTIQPSQAATFMNDAIEKARKAAELQARIQAQLALKPGLIGNANMVGLANLHAMGI
+            APPKVELKDQTKPTPLILDEQGRTVDATGKEIELTHRMPTLKANIRAVKREQFKQQLKEK
+            PSEDMESNTFFDPRVSIAPSQRQRRTFKFHDKGKFEKIAQRLRTKAQLEKLQAEISQAAR
+            KTGIHTSTRLALIAPKKELKEGDIPEIEWWDSYIIPNGFDLTEENPKREDYFGITNLVEH
+            PAQLNPPVDNDTPVTLGVYLTKKEQKKLRRQTRREAQKELQEKVRLGLMPPPEPKVRISN
+            LMRVLGTEAVQDPTKVEAHVRAQMAKRQKAHEEANAARKLTAEQRKVKKIKKLKEDISQG
+            VHISVYRVRNLSNPAKKFKIEANAGQLYLTGVVVLHKDVNVVVVEGGPKAQKKFKRLMLH
+            RIKWDEQTSNTKGDDDEESDEEAVKKTNKCVLVWEGTAKDRSFGEMKFKQCPTENMAREH
+            FKKHGAEHYWDLALSESVLESTD
+NTSEQ       2052
+            atggcactgtcaaagagggagctggatgagctgaaaccatggatagagaagacagtgaag
+            agggtcctgggtttctcagagcctacggtggtcacagcagcattgaactgtgtggggaag
+            ggcatggacaagaagaaggcagccgatcatctgaaaccttttcttgatgattctactctc
+            cgatttgtggacaaactgtttgaggctgtggaggaaggccgaagctctaggcattccaag
+            tctagcagtgacaggagcagaaaacgagagctaaaggaggtgtttggtgatgactctgag
+            atctctaaagaatcatcaggagtaaagaagcgacgaataccccgttttgaggaggtggaa
+            gaagagccagaggtgatccctgggcctccatcagagagccctggcatgctgactaagctc
+            cagatcaaacagatgatggaggcagcaacacgacaaatcgaggagaggaaaaaacagctg
+            agcttcattagcccccctacacctcagccaaagactccttcttcctcccaaccagaacga
+            cttcctattggcaacactattcagccctcccaggctgccactttcatgaatgatgccatt
+            gagaaggcaaggaaagcagctgaactgcaagctcgaatccaagcccagctggcactgaag
+            ccaggactcatcggcaatgccaacatggtgggcctggctaatctccatgccatgggcatt
+            gctcccccgaaggtggagttaaaagaccaaacgaaacctacaccactgatcctggatgag
+            caagggcgcactgtagatgcaacaggcaaggagattgagctgacacaccgcatgcctact
+            ctgaaagccaatattcgtgctgtgaagagggaacaattcaagcaacaactaaaggaaaag
+            ccatcagaagacatggaatccaataccttttttgacccccgagtctccattgccccttcc
+            cagcgccagagacgcacttttaaattccatgacaagggcaaatttgagaagattgctcag
+            cgattacggacaaaggctcaactggagaagctacaggcagagatttcacaagcagctcga
+            aaaacaggcatccatacttcgactaggcttgccctcattgctcctaagaaggagctaaag
+            gaaggagatattcctgaaattgagtggtgggactcttacataatccccaatggctttgat
+            cttacagaggaaaatcccaagagagaagattattttggaatcacaaatcttgttgaacat
+            ccagcccagctcaatcctccagttgacaatgacacaccagttactctgggagtatatctt
+            accaagaaggaacagaaaaaacttcggagacaaacaaggagggaagcacagaaggaacta
+            caagaaaaagtcaggctgggcctgatgcctcctccagaacccaaagtgagaatttctaat
+            ttgatgcgagtattaggaacagaagctgttcaagaccccacgaaggtagaagcccacgtc
+            agagctcagatggcaaaaagacagaaagcgcatgaagaggccaacgctgcccgaaaactc
+            acagcagaacagagaaaggtcaagaaaattaaaaagcttaaagaagacatttcacagggg
+            gtacacatatctgtatatagagttcgaaatttgagcaacccagccaagaagttcaagatt
+            gaagccaatgctgggcaactgtacctgacaggggtggtggtactgcacaaggatgtcaac
+            gtggtagtagtggaagggggccccaaggcccagaagaaatttaagcgtcttatgctgcat
+            cggataaagtgggatgaacagacatctaacacaaagggagatgatgatgaggagtctgat
+            gaggaagctgtgaagaaaaccaacaaatgtgtactagtctgggagggtacagccaaagac
+            cggagctttggagagatgaagtttaaacagtgtcctacagagaacatggctcgtgagcat
+            ttcaaaaagcatggggctgaacactactgggaccttgcgctgagtgaatctgtgttagag
+            tccactgattga
+///

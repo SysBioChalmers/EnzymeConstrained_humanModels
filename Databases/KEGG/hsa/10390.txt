@@ -1,0 +1,70 @@
+ENTRY       10390             CDS       T01001
+NAME        CEPT1
+DEFINITION  (RefSeq) choline/ethanolamine phosphotransferase 1
+ORTHOLOGY   K13644  choline/ethanolamine phosphotransferase [EC:2.7.8.1 2.7.8.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00440  Phosphonate and phosphinate metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00090  Phosphatidylcholine (PC) biosynthesis, choline => PC
+            hsa_M00092  Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                10390 (CEPT1)
+               00565 Ether lipid metabolism
+                10390 (CEPT1)
+              Metabolism of other amino acids
+               00440 Phosphonate and phosphinate metabolism
+                10390 (CEPT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.1  ethanolaminephosphotransferase
+                 10390 (CEPT1)
+                2.7.8.2  diacylglycerol cholinephosphotransferase
+                 10390 (CEPT1)
+POSITION    1p13.3
+MOTIF       Pfam: CDP-OH_P_transf
+DBLINKS     NCBI-GeneID: 10390
+            NCBI-ProteinID: NP_001007795
+            OMIM: 616751
+            HGNC: 24289
+            Ensembl: ENSG00000134255
+            Vega: OTTHUMG00000012357
+            Pharos: Q9Y6K0(Tbio)
+            UniProt: Q9Y6K0 A0A024R0C0
+AASEQ       416
+            MSGHRSTRKRCGDSHPESPVGFGHMSTTGCVLNKLFQLPTPPLSRHQLKRLEEHRYQSAG
+            RSLLEPLMQGYWEWLVRRVPSWIAPNLITIIGLSINICTTILLVFYCPTATEQAPLWAYI
+            ACACGLFIYQSLDAIDGKQARRTNSSSPLGELFDHGCDSLSTVFVVLGTCIAVQLGTNPD
+            WMFFCCFAGTFMFYCAHWQTYVSGTLRFGIIDVTEVQIFIIIMHLLAVIGGPPFWQSMIP
+            VLNIQMKIFPALCTVAGTIFSCTNYFRVIFTGGVGKNGSTIAGTSVLSPFLHIGSVITLA
+            AMIYKKSAVQLFEKHPCLYILTFGFVSAKITNKLVVAHMTKSEMHLHDTAFIGPALLFLD
+            QYFNSFIDEYIVLWIALVFSFFDLIRYCVSVCNQIASHLHIHVFRIKVSTAHSNHH
+NTSEQ       1251
+            atgagtgggcatcgatcaacaaggaaaagatgtggagattctcacccggagtccccagtg
+            ggcttcgggcatatgagtactacaggatgtgtattaaataaattgtttcagttaccaaca
+            ccaccattgtcaagacaccaactaaagcggctagaagaacacagatatcaaagtgctgga
+            cggtccctgcttgagcccttaatgcaagggtattgggaatggctcgttagaagagttccc
+            tcctggattgccccaaatctcatcaccatcattggactgtcaataaacatctgtacaact
+            attttattagtcttctactgccctacagctacagagcaggcacctctgtgggcatatatt
+            gcttgtgcctgtggccttttcatttaccagtctttggatgctattgatgggaaacaggca
+            agaagaaccaatagtagttctcctctgggagaactttttgatcatggctgtgattcacta
+            tcaacagtttttgtggttcttggaacttgtattgcagtgcagctggggacaaaccctgat
+            tggatgtttttttgttgttttgcggggacatttatgttctattgtgcgcactggcaaacg
+            tatgtttctggaacattgcgatttggaataattgatgtgactgaagtgcaaatcttcata
+            ataatcatgcatttgctggcagtgattggaggaccacctttttggcaatctatgattcca
+            gtgctgaatattcaaatgaaaatttttcctgcactttgtactgtagcagggaccatattt
+            tcctgtacaaattacttccgtgtaatcttcacaggtggtgttggcaaaaatggatcaaca
+            atagcaggaacaagtgtcctttctccttttctccatattggatcagtgattacattagct
+            gcaatgatctacaagaaatctgcagttcagctttttgaaaagcatccctgtctttatata
+            ctgacatttggttttgtgtctgctaaaatcactaataagcttgtggttgcacacatgacg
+            aaaagtgaaatgcatttgcatgacacagcattcataggtccggcacttttgtttctggac
+            cagtattttaacagctttattgatgaatatattgtactttggattgccctggttttctct
+            ttctttgatttgatccgctactgtgtcagtgtttgcaatcagattgcgtctcacctgcac
+            atacatgtcttcagaatcaaggtctctacagctcattctaatcatcattaa
+///

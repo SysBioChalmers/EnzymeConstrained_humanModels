@@ -1,0 +1,65 @@
+ENTRY       9380              CDS       T01001
+NAME        GRHPR, GLXR, GLYD, PH2
+DEFINITION  (RefSeq) glyoxylate and hydroxypyruvate reductase
+ORTHOLOGY   K00049  glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H00117  Primary hyperoxaluria (HP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                9380 (GRHPR)
+               00630 Glyoxylate and dicarboxylate metabolism
+                9380 (GRHPR)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                9380 (GRHPR)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.79  glyoxylate reductase (NADP+)
+                 9380 (GRHPR)
+                1.1.1.81  hydroxypyruvate reductase
+                 9380 (GRHPR)
+POSITION    9p13.2
+MOTIF       Pfam: 2-Hacid_dh_C 2-Hacid_dh NAD_binding_2 F420_oxidored KR IlvN Shikimate_DH
+DBLINKS     NCBI-GeneID: 9380
+            NCBI-ProteinID: NP_036335
+            OMIM: 604296
+            HGNC: 4570
+            Ensembl: ENSG00000137106
+            Vega: OTTHUMG00000019914
+            Pharos: Q9UBQ7(Tbio)
+            UniProt: Q9UBQ7
+STRUCTURE   PDB: 2GCG 2Q50 2H1S 2WWR
+AASEQ       328
+            MRPVRLMKVFVTRRIPAEGRVALARAADCEVEQWDSDEPIPAKELERGVAGAHGLLCLLS
+            DHVDKRILDAAGANLKVISTMSVGIDHLALDEIKKRGIRVGYTPDVLTDTTAELAVSLLL
+            TTCRRLPEAIEEVKNGGWTSWKPLWLCGYGLTQSTVGIIGLGRIGQAIARRLKPFGVQRF
+            LYTGRQPRPEEAAEFQAEFVSTPELAAQSDFIVVACSLTPATEGLCNKDFFQKMKETAVF
+            INISRGDVVNQDDLYQALASGKIAAAGLDVTSPEPLPTNHPLLTLKNCVILPHIGSATHR
+            TRNTMSLLAANNLLAGLRGEPMPSELKL
+NTSEQ       987
+            atgagaccggtgcgactcatgaaggtgttcgtcacccgcaggatacccgccgagggtagg
+            gtcgcgctcgcccgggcggcagactgtgaggtggagcagtgggactcggatgagcccatc
+            cctgccaaggagctagagcgaggtgtggcgggggcccacggcctgctctgcctcctctcc
+            gaccacgtggacaagaggatcctggatgctgcaggggccaatctcaaagtcatcagcacc
+            atgtctgtgggcatcgaccacttggctttggatgaaatcaagaagcgtgggatccgagtt
+            ggctacaccccagatgtcctgacagataccaccgccgaactcgcagtctccctgctactt
+            accacctgccgccggttgccggaggccatcgaggaagtgaagaatggtggctggacctcg
+            tggaagcccctctggctgtgtggctatggactcacgcagagcactgtcggcatcatcggg
+            ctggggcgcataggccaggccattgctcggcgtctgaaaccattcggtgtccagagattt
+            ctgtacacagggcgccagcccaggcctgaggaagcagcagaattccaggcagagtttgtg
+            tctacccctgagctggctgcccaatctgatttcatcgtcgtggcctgctccttaacacct
+            gcaaccgagggactctgcaacaaggacttcttccagaagatgaaggaaacagctgtgttc
+            atcaacatcagcaggggcgacgtcgtaaaccaggacgacctgtaccaggccttggccagt
+            ggtaagattgcagctgctggactggatgtgacgagcccagaaccactgcctacaaaccac
+            cctctcctgaccctgaagaactgtgtgattctgccccacattggcagtgccacccacaga
+            acccgcaacaccatgtccttgttggcagctaacaacttgctggctggcctgagaggggag
+            ccgatgcctagtgaactcaagctgtag
+///

@@ -1,0 +1,73 @@
+ENTRY       6915              CDS       T01001
+NAME        TBXA2R, BDPLT13, TXA2-R
+DEFINITION  (RefSeq) thromboxane A2 receptor
+ORTHOLOGY   K04264  thromboxane A2 receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04611  Platelet activation
+DISEASE     H01235  Bleeding disorder platelet-type
+DRUG_TARGET Daltroban: D03642
+            Domitroban calcium hydrate: D09824
+            Ifetroban (DG01350): D04500 D04501
+            Imitrodast sodium: D09774
+            Picotamide: D07140
+            Ramatroban: D01128
+            Ridogrel: D05727
+            Seratrodast: D01123
+            Sulotroban: D05970
+            Vapiprost hydrochloride: D06280
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                6915 (TBXA2R)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                6915 (TBXA2R)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                6915 (TBXA2R)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Lipid
+               Thromboxane
+                6915 (TBXA2R)
+POSITION    19p13.3
+MOTIF       Pfam: 7tm_1 DUF3784 7TM_GPCR_Srv
+DBLINKS     NCBI-GeneID: 6915
+            NCBI-ProteinID: NP_001051
+            OMIM: 188070
+            HGNC: 11608
+            Ensembl: ENSG00000006638
+            Vega: OTTHUMG00000180806
+            Pharos: P21731(Tclin)
+            UniProt: P21731 Q05C92 Q0VAB0
+AASEQ       343
+            MWPNGSSLGPCFRPTNITLEERRLIASPWFAASFCVVGLASNLLALSVLAGARQGGSHTR
+            SSFLTFLCGLVLTDFLGLLVTGTIVVSQHAALFEWHAVDPGCRLCRFMGVVMIFFGLSPL
+            LLGAAMASERYLGITRPFSRPAVASQRRAWATVGLVWAAALALGLLPLLGVGRYTVQYPG
+            SWCFLTLGAESGDVAFGLLFSMLGGLSVGLSFLLNTVSVATLCHVYHGQEAAQQRPRDSE
+            VEMMAQLLGIMVVASVCWLPLLVFIAQTVLRNPPAMSPAGQLSRTTEKELLIYLRVATWN
+            QILDPWVYILFRRAVLRRLQPRLSTRPRSLSLQPQLTQRSGLQ
+NTSEQ       1032
+            atgtggcccaacggcagttccctggggccctgtttccggcccacaaacattaccctggag
+            gagagacggctgatcgcctcgccctggttcgccgcctccttctgcgtggtgggcctggcc
+            tccaacctgctggccctgagcgtgctggcgggcgcgcggcaggggggttcgcacacgcgc
+            tcctccttcctcaccttcctctgcggcctcgtcctcaccgacttcctggggctgctggtg
+            accggtaccatcgtggtgtcccagcacgccgcgctcttcgagtggcacgccgtggaccct
+            ggctgccgtctctgtcgcttcatgggcgtcgtcatgatcttcttcggcctgtccccgctg
+            ctgctgggggccgccatggcctcagagcgctacctgggtatcacccggcccttctcgcgc
+            ccggcggtcgcctcgcagcgccgcgcctgggccaccgtggggctggtgtgggcggccgcg
+            ctggcgctgggcctgctgcccctgctgggcgtgggtcgctacaccgtgcaatacccgggg
+            tcctggtgcttcctgacgctgggcgccgagtccggggacgtggccttcgggctgctcttc
+            tccatgctgggcggcctctcggtcgggctgtccttcctgctgaacacggtcagcgtggcc
+            accctgtgccacgtctaccacgggcaggaggcggcccagcagcgtccccgggactccgag
+            gtggagatgatggctcagctcctggggatcatggtggtggccagcgtgtgttggctgccc
+            cttctggtcttcatcgcccagacagtgctgcgaaacccgcctgccatgagccccgccggg
+            cagctgtcccgcaccacggagaaggagctgctcatctacttgcgcgtggccacctggaac
+            cagatcctggacccctgggtgtatatcctgttccgccgcgccgtgctccggcgtctccag
+            cctcgcctcagcacccggcccaggtcgctgtccctccagccccagctcacgcagcgctcc
+            gggctgcagtag
+///

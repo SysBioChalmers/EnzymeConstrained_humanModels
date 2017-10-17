@@ -1,0 +1,91 @@
+ENTRY       3359              CDS       T01001
+NAME        HTR3A, 5-HT-3, 5-HT3A, 5-HT3R, 5HT3R, HTR3
+DEFINITION  (RefSeq) 5-hydroxytryptamine receptor 3A
+ORTHOLOGY   K04819  5-hydroxytryptamine receptor 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04726  Serotonergic synapse
+            hsa04742  Taste transduction
+DRUG_TARGET Alosetron (DG00046): D02829 D07129
+            Azasetron (DG01521): D01613 D07481
+            Batanopride hydrochloride: D03060
+            Cilansetron (DG00047): D03495 D03496
+            Clozapine: D00283
+            Dazopride fumarate: D03662
+            Dolasetron (DG00063): D00725 D07867
+            Fabesetron hydrochloride: D01838
+            Granisetron (DG00061): D00677 D04370
+            Indisetron hydrochloride: D02632
+            Itasetron (DG01240): D04642 D09749
+            Metergoline: D07218
+            Metoclopramide (DG00055): D00726 D02213 D05008
+            Mirtazapine: D00563
+            Ondansetron (DG00060): D00456 D00678
+            Palonosetron (DG00064): D05343 D07175
+            Pancopride: D05348
+            Quipazine maleate: D05685
+            Ramosetron (DG01239): D02016 D08466
+            Renzapride: D06396
+            Tedatioxetine (DG01311): D10170 D10171
+            Tropanserin hydrochloride: D06253
+            Tropisetron (DG00062): D02041 D02130
+            Vortioxetine (DG00965): D10184 D10185
+            Zacopride hydrochloride: D06353
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                3359 (HTR3A)
+              Sensory system
+               04742 Taste transduction
+                3359 (HTR3A)
+            Ion channels [BR:hsa04040]
+             Cys-loop superfamily
+              Serotonin (5-HT3)
+               3359 (HTR3A)
+POSITION    11q23.2
+MOTIF       Pfam: Neur_chan_LBD Neur_chan_memb
+DBLINKS     NCBI-GeneID: 3359
+            NCBI-ProteinID: NP_000860
+            OMIM: 182139
+            HGNC: 5297
+            Ensembl: ENSG00000166736
+            Vega: OTTHUMG00000160494
+            Pharos: P46098(Tclin)
+            UniProt: P46098 B4E398
+AASEQ       484
+            MLGKLAMLLWVQQALLALLLPTLLAQGEARRSRNTTRPALLRLSDYLLTNYRKGVRPVRD
+            WRKPTTVSIDVIVYAILNVDEKNQVLTTYIWYRQYWTDEFLQWNPEDFDNITKLSIPTDS
+            IWVPDILINEFVDVGKSPNIPYVYIRHQGEVQNYKPLQVVTACSLDIYNFPFDVQNCSLT
+            FTSWLHTIQDINISLWRLPEKVKSDRSVFMNQGEWELLGVLPYFREFSMESSNYYAEMKF
+            YVVIRRRPLFYVVSLLLPSIFLMVMDIVGFYLPPNSGERVSFKITLLLGYSVFLIIVSDT
+            LPATAIGTPLIGVYFVVCMALLVISLAETIFIVRLVHKQDLQQPVPAWLRHLVLERIAWL
+            LCLREQSTSQRPPATSQATKTDDCSAMGNHCSHMGGPQDFEKSPRDRCSPPPPPREASLA
+            VCGLLQELSSIRQFLEKRDEIREVARDWLRVGSVLDKLLFHIYLLAVLAYSITLVMLWSI
+            WQYA
+NTSEQ       1455
+            atgcttggaaagctcgctatgctgctgtgggtccagcaggcgctgctcgccttgctcctc
+            cccacactcctggcacagggagaagccaggaggagccgaaacaccaccaggcccgctctg
+            ctgaggctgtcggattaccttttgaccaactacaggaagggtgtgcgccccgtgagggac
+            tggaggaagccaaccaccgtatccattgacgtcattgtctatgccatcctcaacgtggat
+            gagaagaatcaggtgctgaccacctacatctggtaccggcagtactggactgatgagttt
+            ctccagtggaaccctgaggactttgacaacatcaccaagttgtccatccccacggacagc
+            atctgggtcccggacattctcatcaatgagttcgtggatgtggggaagtctccaaatatc
+            ccgtacgtgtatattcggcatcaaggcgaagttcagaactacaagccccttcaggtggtg
+            actgcctgtagcctcgacatctacaacttccccttcgatgtccagaactgctcgctgacc
+            ttcaccagttggctgcacaccatccaggacatcaacatctctttgtggcgcttgccagaa
+            aaggtgaaatccgacaggagtgtcttcatgaaccagggagagtgggagttgctgggggtg
+            ctgccctactttcgggagttcagcatggaaagcagtaactactatgcagaaatgaagttc
+            tatgtggtcatccgccggcggcccctcttctatgtggtcagcctgctactgcccagcatc
+            ttcctcatggtcatggacatcgtgggcttctacctgccccccaacagtggcgagagggtc
+            tctttcaagattacactcctcctgggctactcggtcttcctgatcatcgtttctgacacg
+            ctgccggccactgccatcggcactcctctcattggtgtctactttgtggtgtgcatggct
+            ctgctggtgataagtttggccgagaccatcttcattgtgcggctggtgcacaagcaagac
+            ctgcagcagcccgtgcctgcttggctgcgtcacctggttctggagagaatcgcctggcta
+            ctttgcctgagggagcagtcaacttcccagaggcccccagccacctcccaagccaccaag
+            actgatgactgctcagccatgggaaaccactgcagccacatgggaggaccccaggacttc
+            gagaagagcccgagggacagatgtagccctcccccaccacctcgggaggcctcgctggcg
+            gtgtgtgggctgctgcaggagctgtcctccatccggcaattcctggaaaagcgggatgag
+            atccgagaggtggcccgagactggctgcgcgtgggctccgtgctggacaagctgctattc
+            cacatttacctgctagcggtgctggcctacagcatcaccctggttatgctctggtccatc
+            tggcagtacgcttga
+///

@@ -1,0 +1,94 @@
+ENTRY       60528             CDS       T01001
+NAME        ELAC2, COXPD17, ELC2, HPC2
+DEFINITION  (RefSeq) elaC ribonuclease Z 2
+ORTHOLOGY   K00784  ribonuclease Z [EC:3.1.26.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+DISEASE     H00891  Combined oxidative phosphorylation deficiency (COXPD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                60528 (ELAC2)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.11  tRNase Z
+                 60528 (ELAC2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              3'processing and CCA adding factors
+               3'processing factors
+                60528 (ELAC2)
+             Prokaryotic Type
+                60528 (ELAC2)
+POSITION    17p12
+MOTIF       Pfam: Lactamase_B_4 Lactamase_B_2 Lactamase_B
+DBLINKS     NCBI-GeneID: 60528
+            NCBI-ProteinID: NP_060597
+            OMIM: 605367
+            HGNC: 14198
+            Ensembl: ENSG00000006744
+            Vega: OTTHUMG00000058764
+            Pharos: Q9BQ52(Tbio)
+            UniProt: Q9BQ52 A0A0S2Z5M8
+AASEQ       826
+            MWALCSLLRSAAGRTMSQGRTISQAPARRERPRKDPLRHLRTREKRGPSGCSGGPNTVYL
+            QVVAAGSRDSGAALYVFSEFNRYLFNCGEGVQRLMQEHKLKVARLDNIFLTRMHWSNVGG
+            LSGMILTLKETGLPKCVLSGPPQLEKYLEAIKIFSGPLKGIELAVRPHSAPEYEDETMTV
+            YQIPIHSEQRRGKHQPWQSPERPLSRLSPERSSDSESNENEPHLPHGVSQRRGVRDSSLV
+            VAFICKLHLKRGNFLVLKAKEMGLPVGTAAIAPIIAAVKDGKSITHEGREILAEELCTPP
+            DPGAAFVVVECPDESFIQPICENATFQRYQGKADAPVALVVHMAPASVLVDSRYQQWMER
+            FGPDTQHLVLNENCASVHNLRSHKIQTQLNLIHPDIFPLLTSFRCKKEGPTLSVPMVQGE
+            CLLKYQLRPRREWQRDAIITCNPEEFIVEALQLPNFQQSVQEYRRSAQDGPAPAEKRSQY
+            PEIIFLGTGSAIPMKIRNVSATLVNISPDTSLLLDCGEGTFGQLCRHYGDQVDRVLGTLA
+            AVFVSHLHADHHTGLPSILLQRERALASLGKPLHPLLVVAPNQLKAWLQQYHNQCQEVLH
+            HISMIPAKCLQEGAEISSPAVERLISSLLRTCDLEEFQTCLVRHCKHAFGCALVHTSGWK
+            VVYSGDTMPCEALVRMGKDATLLIHEATLEDGLEEEAVEKTHSTTSQAISVGMRMNAEFI
+            MLNHFSQRYAKVPLFSPNFSEKVGVAFDHMKVCFGDFPTMPKLIPPLKALFAGDIEEMEE
+            RREKRELRQVRAALLSRELAGGLEDGEPQQKRAHTEEPQAKKVRAQ
+NTSEQ       2481
+            atgtgggcgctttgctcgctgctgcggtccgcggccggacgcaccatgtcgcagggacgc
+            accatatcgcaggcacccgcccgccgcgagcggccgcgcaaggacccgctgcggcacctg
+            cgcacgcgagagaagcgcggaccgtcggggtgctccggcggcccaaacaccgtgtacctg
+            caggtggtggcagcgggtagccgggactcgggcgccgcgctctacgtcttctccgagttc
+            aaccggtatctcttcaactgtggagaaggcgttcagagactcatgcaggagcacaagtta
+            aaggttgctcgcctggacaacatattcctgacacgaatgcactggtctaatgttgggggc
+            ttaagtggaatgattcttactttaaaggaaaccgggcttccaaagtgtgtactttctgga
+            cctccacaactggaaaaatacctcgaagcaatcaaaatattttctggtccattgaaagga
+            atagaactggctgtgcggccccactctgccccagaatacgaggatgaaaccatgacagtt
+            taccagatccccatacacagtgaacagaggaggggaaagcaccaaccatggcagagtcca
+            gaaaggcctctcagcaggctcagtccagagcgatcttcagactccgagtcgaatgaaaat
+            gagccacaccttccacatggtgttagccagagaagaggggtcagggactcttccctggtc
+            gtagctttcatctgtaagcttcacttaaagagaggaaacttcttggtgctcaaagcaaag
+            gagatgggcctcccagttgggacagctgccatcgctcccatcattgctgctgtcaaggac
+            gggaaaagcatcactcatgaaggaagagagattttggctgaagagctgtgtactcctcca
+            gatcctggtgctgcttttgtggtggtagaatgtccagatgaaagcttcattcaacccatc
+            tgtgagaatgccacctttcagaggtaccaaggaaaggcagatgcccccgtggccttggtg
+            gttcacatggccccagcatctgtgcttgtggacagcaggtaccagcagtggatggagagg
+            tttgggcctgacacccagcacttggtcctgaatgagaactgtgcctcagttcacaacctt
+            cgcagccacaagattcaaacccagctcaacctcatccacccggacatcttccccctgctc
+            accagtttccgctgtaagaaggagggccccaccctcagtgtgcccatggttcagggtgaa
+            tgcctcctcaagtaccagctccgtcccaggagggagtggcagagggatgccattattact
+            tgcaatcctgaggaattcatagttgaggcgctgcagcttcccaacttccagcagagcgtg
+            caggagtacaggaggagtgcgcaggacggcccagccccagcagagaaaagaagtcagtac
+            ccagaaatcatcttccttggaacagggtctgccatcccgatgaagattcgaaatgtcagt
+            gccacacttgtcaacataagccccgacacgtctctgctactggactgtggtgagggcaca
+            tttgggcagctgtgccgtcattacggagaccaggtggacagggtcctgggcaccctggct
+            gctgtgtttgtgtcccacctgcacgcagatcaccacacgggcttgccaagtatcttgctg
+            cagagagaacgcgccttggcatctttgggaaagccgcttcaccctttgctggtggttgcc
+            cccaaccagctcaaagcctggctccagcagtaccacaaccagtgccaggaggtcctgcac
+            cacatcagtatgattcctgccaaatgccttcaggaaggggctgagatctccagtcctgca
+            gtggaaagattgatcagttcgctgttgcgaacatgtgatttggaagagtttcagacctgt
+            ctggtgcggcactgcaagcatgcgtttggctgtgcgctggtgcacacctctggctggaaa
+            gtggtctattccggggacaccatgccctgcgaggctctggtccggatggggaaagatgcc
+            accctcctgatacatgaagccaccctggaagatggtttggaagaggaagcagtggaaaag
+            acacacagcacaacgtcccaagccatcagcgtggggatgcggatgaacgcggagttcatt
+            atgctgaaccacttcagccagcgctatgccaaggtccccctcttcagccccaacttcagc
+            gagaaagtgggagttgcctttgaccacatgaaggtctgctttggagactttccaacaatg
+            cccaagctgattcccccactgaaagccctgtttgctggcgacatcgaggagatggaggag
+            cgcagggagaagcgggagctgcggcaggtgcgggcggccctcctgtccagggagctggca
+            ggcggcctggaggatggggagcctcagcagaagcgggcccacacagaggagccacaggcc
+            aagaaggtcagagcccagtga
+///

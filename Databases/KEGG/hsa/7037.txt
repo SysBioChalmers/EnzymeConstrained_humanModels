@@ -1,0 +1,103 @@
+ENTRY       7037              CDS       T01001
+NAME        TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90
+DEFINITION  (RefSeq) transferrin receptor
+ORTHOLOGY   K06503  transferrin receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04066  HIF-1 signaling pathway
+            hsa04144  Endocytosis
+            hsa04145  Phagosome
+            hsa04216  Ferroptosis
+            hsa04640  Hematopoietic cell lineage
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                7037 (TFRC)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                7037 (TFRC)
+               04145 Phagosome
+                7037 (TFRC)
+              Cell growth and death
+               04216 Ferroptosis
+                7037 (TFRC)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                7037 (TFRC)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               7037 (TFRC)
+              Exosomal proteins of colorectal cancer cells
+               7037 (TFRC)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7037 (TFRC)
+POSITION    3q29
+MOTIF       Pfam: Peptidase_M28 TFR_dimer PA DUF3855
+DBLINKS     NCBI-GeneID: 7037
+            NCBI-ProteinID: NP_001121620
+            OMIM: 190010
+            HGNC: 11763
+            Ensembl: ENSG00000072274
+            Vega: OTTHUMG00000155714
+            Pharos: P02786(Tbio)
+            UniProt: P02786 Q7Z3E0
+STRUCTURE   PDB: 3KAS 1DE4 1CX8 3S9L 3S9N 3S9M 1SUV 2NSU
+AASEQ       760
+            MMDQARSAFSNLFGGEPLSYTRFSLARQVDGDNSHVEMKLAVDEEENADNNTKANVTKPK
+            RCSGSICYGTIAVIVFFLIGFMIGYLGYCKGVEPKTECERLAGTESPVREEPGEDFPAAR
+            RLYWDDLKRKLSEKLDSTDFTGTIKLLNENSYVPREAGSQKDENLALYVENQFREFKLSK
+            VWRDQHFVKIQVKDSAQNSVIIVDKNGRLVYLVENPGGYVAYSKAATVTGKLVHANFGTK
+            KDFEDLYTPVNGSIVIVRAGKITFAEKVANAESLNAIGVLIYMDQTKFPIVNAELSFFGH
+            AHLGTGDPYTPGFPSFNHTQFPPSRSSGLPNIPVQTISRAAAEKLFGNMEGDCPSDWKTD
+            STCRMVTSESKNVKLTVSNVLKEIKILNIFGVIKGFVEPDHYVVVGAQRDAWGPGAAKSG
+            VGTALLLKLAQMFSDMVLKDGFQPSRSIIFASWSAGDFGSVGATEWLEGYLSSLHLKAFT
+            YINLDKAVLGTSNFKVSASPLLYTLIEKTMQNVKHPVTGQFLYQDSNWASKVEKLTLDNA
+            AFPFLAYSGIPAVSFCFCEDTDYPYLGTTMDTYKELIERIPELNKVARAAAEVAGQFVIK
+            LTHDVELNLDYERYNSQLLSFVRDLNQYRADIKEMGLSLQWLYSARGDFFRATSRLTTDF
+            GNAEKTDRFVMKKLNDRVMRVEYHFLSPYVSPKESPFRHVFWGSGSHTLPALLENLKLRK
+            QNNGAFNETLFRNQLALATWTIQGAANALSGDVWDIDNEF
+NTSEQ       2283
+            atgatggatcaagctagatcagcattctctaacttgtttggtggagaaccattgtcatat
+            acccggttcagcctggctcggcaagtagatggcgataacagtcatgtggagatgaaactt
+            gctgtagatgaagaagaaaatgctgacaataacacaaaggccaatgtcacaaaaccaaaa
+            aggtgtagtggaagtatctgctatgggactattgctgtgatcgtctttttcttgattgga
+            tttatgattggctacttgggctattgtaaaggggtagaaccaaaaactgagtgtgagaga
+            ctggcaggaaccgagtctccagtgagggaggagccaggagaggacttccctgcagcacgt
+            cgcttatattgggatgacctgaagagaaagttgtcggagaaactggacagcacagacttc
+            accggcaccatcaagctgctgaatgaaaattcatatgtccctcgtgaggctggatctcaa
+            aaagatgaaaatcttgcgttgtatgttgaaaatcaatttcgtgaatttaaactcagcaaa
+            gtctggcgtgatcaacattttgttaagattcaggtcaaagacagcgctcaaaactcggtg
+            atcatagttgataagaacggtagacttgtttacctggtggagaatcctgggggttatgtg
+            gcgtatagtaaggctgcaacagttactggtaaactggtccatgctaattttggtactaaa
+            aaagattttgaggatttatacactcctgtgaatggatctatagtgattgtcagagcaggg
+            aaaatcacctttgcagaaaaggttgcaaatgctgaaagcttaaatgcaattggtgtgttg
+            atatacatggaccagactaaatttcccattgttaacgcagaactttcattctttggacat
+            gctcatctggggacaggtgacccttacacacctggattcccttccttcaatcacactcag
+            tttccaccatctcggtcatcaggattgcctaatatacctgtccagacaatctccagagct
+            gctgcagaaaagctgtttgggaatatggaaggagactgtccctctgactggaaaacagac
+            tctacatgtaggatggtaacctcagaaagcaagaatgtgaagctcactgtgagcaatgtg
+            ctgaaagagataaaaattcttaacatctttggagttattaaaggctttgtagaaccagat
+            cactatgttgtagttggggcccagagagatgcatggggccctggagctgcaaaatccggt
+            gtaggcacagctctcctattgaaacttgcccagatgttctcagatatggtcttaaaagat
+            gggtttcagcccagcagaagcattatctttgccagttggagtgctggagactttggatcg
+            gttggtgccactgaatggctagagggatacctttcgtccctgcatttaaaggctttcact
+            tatattaatctggataaagcggttcttggtaccagcaacttcaaggtttctgccagccca
+            ctgttgtatacgcttattgagaaaacaatgcaaaatgtgaagcatccggttactgggcaa
+            tttctatatcaggacagcaactgggccagcaaagttgagaaactcactttagacaatgct
+            gctttccctttccttgcatattctggaatcccagcagtttctttctgtttttgcgaggac
+            acagattatccttatttgggtaccaccatggacacctataaggaactgattgagaggatt
+            cctgagttgaacaaagtggcacgagcagctgcagaggtcgctggtcagttcgtgattaaa
+            ctaacccatgatgttgaattgaacctggactatgagaggtacaacagccaactgctttca
+            tttgtgagggatctgaaccaatacagagcagacataaaggaaatgggcctgagtttacag
+            tggctgtattctgctcgtggagacttcttccgtgctacttccagactaacaacagatttc
+            gggaatgctgagaaaacagacagatttgtcatgaagaaactcaatgatcgtgtcatgaga
+            gtggagtatcacttcctctctccctacgtatctccaaaagagtctcctttccgacatgtc
+            ttctggggctccggctctcacacgctgccagctttactggagaacttgaaactgcgtaaa
+            caaaataacggtgcttttaatgaaacgctgttcagaaaccagttggctctagctacttgg
+            actattcagggagctgcaaatgccctctctggtgacgtttgggacattgacaatgagttt
+            taa
+///

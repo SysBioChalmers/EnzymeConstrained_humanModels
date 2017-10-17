@@ -1,0 +1,123 @@
+ENTRY       26052             CDS       T01001
+NAME        DNM3, Dyna_III
+DEFINITION  (RefSeq) dynamin 3
+ORTHOLOGY   K01528  dynamin GTPase [EC:3.6.5.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04721  Synaptic vesicle cycle
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+            hsa05100  Bacterial invasion of epithelial cells
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                26052 (DNM3)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                26052 (DNM3)
+             Organismal Systems
+              Excretory system
+               04961 Endocrine and other factor-regulated calcium reabsorption
+                26052 (DNM3)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                26052 (DNM3)
+             Human Diseases
+              Infectious diseases
+               05100 Bacterial invasion of epithelial cells
+                26052 (DNM3)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.5  Acting on GTP to facilitate cellular and subcellular movement
+                3.6.5.5  dynamin GTPase
+                 26052 (DNM3)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Dynamin
+                26052 (DNM3)
+              Lipid raft mediated endocytosis
+               Caveolin-mediated endocytosis
+                26052 (DNM3)
+               RhoA-dependent endocytosis
+                26052 (DNM3)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               26052 (DNM3)
+POSITION    1q24.3
+MOTIF       Pfam: Dynamin_M Dynamin_N GED PH MMR_HSR1
+DBLINKS     NCBI-GeneID: 26052
+            NCBI-ProteinID: NP_056384
+            OMIM: 611445
+            HGNC: 29125
+            Ensembl: ENSG00000197959
+            Vega: OTTHUMG00000034913
+            Pharos: Q9UQ16(Tbio)
+            UniProt: Q9UQ16
+STRUCTURE   PDB: 3L43 5A3F
+AASEQ       863
+            MGNREMEELIPLVNRLQDAFSALGQSCLLELPQIAVVGGQSAGKSSVLENFVGRDFLPRG
+            SGIVTRRPLVLQLVTSKAEYAEFLHCKGKKFTDFDEVRLEIEAETDRVTGMNKGISSIPI
+            NLRVYSPHVLNLTLIDLPGITKVPVGDQPPDIEYQIREMIMQFITRENCLILAVTPANTD
+            LANSDALKLAKEVDPQGLRTIGVITKLDLMDEGTDARDVLENKLLPLRRGYVGVVNRSQK
+            DIDGKKDIKAAMLAERKFFLSHPAYRHIADRMGTPHLQKVLNQQLTNHIRDTLPNFRNKL
+            QGQLLSIEHEVEAYKNFKPEDPTRKTKALLQMVQQFAVDFEKRIEGSGDQVDTLELSGGA
+            KINRIFHERFPFEIVKMEFNEKELRREISYAIKNIHGIRTGLFTPDMAFEAIVKKQIVKL
+            KGPSLKSVDLVIQELINTVKKCTKKLANFPRLCEETERIVANHIREREGKTKDQVLLLID
+            IQVSYINTNHEDFIGFANAQQRSSQVHKKTTVGNQVIRKGWLTISNIGIMKGGSKGYWFV
+            LTAESLSWYKDDEEKEKKYMLPLDNLKVRDVEKSFMSSKHIFALFNTEQRNVYKDYRFLE
+            LACDSQEDVDSWKASLLRAGVYPDKSVGNNKAENDENGQAENFSMDPQLERQVETIRNLV
+            DSYMSIINKCIRDLIPKTIMHLMINNVKDFINSELLAQLYSSEDQNTLMEESAEQAQRRD
+            EMLRMYQALKEALGIIGDISTATVSTPAPPPVDDSWIQHSRRSPPPSPTTQRRPTLSAPL
+            ARPTSGRGPAPAIPSPGPHSGAPPVPFRPGPLPPFPSSSDSFGAPPQVPSRPTRAPPSVP
+            SRRPPPSPTRPTIIRPLESSLLD
+NTSEQ       2592
+            atggggaaccgggagatggaggagctgatcccgctggtgaaccgtctgcaggacgcgttt
+            tcggcgctgggacagagctgcctgctggagctgccgcagatcgccgtggtgggcggccag
+            agcgccggcaagagctcggtgctcgagaacttcgtgggcagggactttctccctcgaggg
+            tcgggcattgtaacaagacgacctcttgtgctgcagcttgttacttctaaagcagaatat
+            gccgagtttctacattgcaaaggaaagaaatttacagattttgatgaagttcgccttgag
+            attgaagcagaaacagatcgcgtgactggaatgaataaaggcatttcctccatacccatt
+            aatttacgagtctattccccacacgtgttaaatctaacccttattgatctacctggaata
+            actaaagtgcctgtgggagatcagccaccagatatcgagtatcagatcagagaaatgatt
+            atgcagttcatcacgagggagaactgtctgattttagctgttactccagccaacactgat
+            cttgcaaactcagatgcgctgaagctagctaaagaagttgatcctcaaggtctgagaacc
+            attggagttatcaccaaactggaccttatggatgaaggaacggatgccagggatgttcta
+            gagaacaaactgttgcctcttcgcaggggttacgtgggggtggtaaacagaagccagaag
+            gacatagatgggaagaaggacataaaggcagccatgctggcagagaggaagtttttcctt
+            tcccacccggcttacagacatatcgctgaccgaatgggaaccccacacctgcagaaggtc
+            cttaatcagcaacttaccaaccacattcgggataccctaccaaacttcaggaacaaacta
+            cagggacagttgctctccatagaacatgaagtagaagcctacaaaaatttcaaaccagaa
+            gacccaacaaggaagaccaaagcattgctgcagatggttcagcaatttgctgtggacttt
+            gagaagagaattgaagggtcaggggatcaagtagataccctggaactctcaggtggtgct
+            aaaatcaatcgtatttttcatgaacgctttccttttgagatagtaaagatggagttcaat
+            gagaaagaattgcgaagagaaataagctatgcaatcaaaaacatacatggtatcaggaca
+            gggttgtttactccagacatggcatttgaagcgatagtcaagaaacagattgtaaagttg
+            aaagggccttccttgaagagtgtggatctggtaatacaagaattaatcaacactgtgaag
+            aagtgtaccaaaaaactggcaaacttccccagactctgcgaggaaacggaaaggattgtt
+            gctaaccacattcgtgagcgagaagggaagacaaaggaccaggtattgctattgattgac
+            attcaagtctcttacatcaacaccaaccatgaagacttcattggcttcgcaaatgctcag
+            cagaggagcagtcaggttcacaagaaaaccacagttggaaatcaggtgattcgcaagggg
+            tggctcaccatcagcaacattggcatcatgaaaggcggctcgaagggatactggttcgtc
+            cttactgcggaaagcttgtcctggtataaagatgatgaggaaaaagaaaagaagtacatg
+            cttcccttggacaacctgaaagttcgggatgtggaaaagagctttatgtctagcaagcac
+            atctttgcactctttaatacagagcaaaggaatgtatacaaagactatcgcttccttgag
+            ctggcatgtgattcccaggaggatgtcgacagctggaaggcatctctactaagagctggg
+            gtctatcctgacaaatctgtagggaacaacaaagctgaaaatgatgagaatggacaagca
+            gaaaacttttccatggacccacaattggagaggcaagtggagaccattcgcaacctcgta
+            gactcctacatgtccattatcaacaaatgtatccgagatctaattccaaaaacaataatg
+            caccttatgatcaataacgttaaagatttcataaattccgagctcctagcacagttgtat
+            tcttcagaggaccaaaataccctgatggaggaatctgctgagcaggctcagcgccgggat
+            gagatgcttcgaatgtatcaagcactgaaagaagcccttgggataattggggacatcagc
+            acagccaccgtgtccactccggcaccccctccagtggatgactcctggatacagcactct
+            cgcaggtcacctcctccaagccccacaacccaaaggaggccaacactaagtgctcccctc
+            gcaaggcccacatccggccgaggaccagctcctgccattccctctcctggcccccactct
+            ggggctcctccagtcccattccgtccaggcccattacctcctttccccagcagcagtgac
+            tccttcggagcccctccacaagttccatctaggcctacgagggccccgcccagtgtccca
+            agccggagaccacccccatcaccaactcgtcccactataatccgcccactagaatcctcc
+            ctgttagactaa
+///

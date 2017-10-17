@@ -1,0 +1,107 @@
+ENTRY       4719              CDS       T01001
+NAME        NDUFS1, CI-75Kd, CI-75k, PRO1304
+DEFINITION  (RefSeq) NADH:ubiquinone oxidoreductase core subunit S1
+ORTHOLOGY   K03934  NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:1.6.5.3 1.6.99.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04723  Retrograde endocannabinoid signaling
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00143  NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4719 (NDUFS1)
+             Organismal Systems
+              Nervous system
+               04723 Retrograde endocannabinoid signaling
+                4719 (NDUFS1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4719 (NDUFS1)
+               05012 Parkinson's disease
+                4719 (NDUFS1)
+               05016 Huntington's disease
+                4719 (NDUFS1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4719 (NDUFS1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.3  NADH:ubiquinone reductase (H+-translocating)
+                 4719 (NDUFS1)
+               1.6.99  With unknown physiological acceptors
+                1.6.99.3  NADH dehydrogenase
+                 4719 (NDUFS1)
+POSITION    2q33.3
+MOTIF       Pfam: Molybdopterin Fer2_4 NADH-G_4Fe-4S_3 NADH_dhqG_C Fer2
+DBLINKS     NCBI-GeneID: 4719
+            NCBI-ProteinID: NP_004997
+            OMIM: 157655
+            HGNC: 7707
+            Ensembl: ENSG00000023228
+            Vega: OTTHUMG00000132892
+            Pharos: P28331(Tclin)
+            UniProt: P28331 E5KRK5
+STRUCTURE   PDB: 5XTB 5XTD
+AASEQ       727
+            MLRIPVRKALVGLSKSPKGCVRTTATAASNLIEVFVDGQSVMVEPGTTVLQACEKVGMQI
+            PRFCYHERLSVAGNCRMCLVEIEKAPKVVAACAMPVMKGWNILTNSEKSKKAREGVMEFL
+            LANHPLDCPICDQGGECDLQDQSMMFGNDRSRFLEGKRAVEDKNIGPLVKTIMTRCIQCT
+            RCIRFASEIAGVDDLGTTGRGNDMQVGTYIEKMFMSELSGNIIDICPVGALTSKPYAFTA
+            RPWETRKTESIDVMDAVGSNIVVSTRTGEVMRILPRMHEDINEEWISDKTRFAYDGLKRQ
+            RLTEPMVRNEKGLLTYTSWEDALSRVAGMLQSFQGKDVAAIAGGLVDAEALVALKDLLNR
+            VDSDTLCTEEVFPTAGAGTDLRSNYLLNTTIAGVEEADVVLLVGTNPRFEAPLFNARIRK
+            SWLHNDLKVALIGSPVDLTYTYDHLGDSPKILQDIASGSHPFSQVLKEAKKPMVVLGSSA
+            LQRNDGAAILAAVSSIAQKIRMTSGVTGDWKVMNILHRIASQVAALDLGYKPGVEAIRKN
+            PPKVLFLLGADGGCITRQDLPKDCFIIYQGHHGDVGAPIADVILPGAAYTEKSATYVNTE
+            GRAQQTKVAVTPPGLAREDWKIIRALSEIAGMTLPYDTLDQVRNRLEEVSPNLVRYDDIE
+            GANYFQQANELSKLVNQQLLADPLVPPQLTIKDFYMTDSISRASQTMAKCVKAVTEGAQA
+            VEEPSIC
+NTSEQ       2184
+            atgttaaggatacctgtaagaaaggccttagtaggcctttctaagtctcctaaaggatgt
+            gttcgaacaactgccacagcagcaagcaacttgattgaagtatttgttgatggtcagtct
+            gtcatggtggaaccgggaacgaccgtcctccaagcttgtgagaaggttggcatgcagatc
+            cctcgattctgttatcatgaaaggttgtctgttgctggaaactgcaggatgtgccttgtt
+            gaaattgagaaagcccctaaggttgtagctgcttgtgccatgccagtaatgaagggttgg
+            aatatcctaacaaactcagaaaaatccaaaaaagccagggaaggtgtgatggagttctta
+            ttagcaaatcacccattggactgtcctatttgtgaccagggaggtgaatgtgatctgcag
+            gaccagtccatgatgtttggaaatgataggagccgatttttagaggggaagcgtgctgtg
+            gaagacaagaacattgggccattggtaaagaccatcatgacaagatgtatacagtgtact
+            cgctgcatcaggtttgcaagtgagattgcaggagtagatgatttgggaacaacaggcaga
+            ggaaatgatatgcaagttggcacatacattgaaaagatgttcatgtctgaactgtctggg
+            aatatcattgatatctgccctgtaggtgccctaacctctaagccctatgcctttactgcc
+            cggccttgggaaacaagaaagacagaatccattgatgtaatggatgcggttggaagtaat
+            attgtggttagcacaagaactggagaagtgatgaggattttgccacgtatgcatgaggac
+            atcaatgaagagtggatctctgataaaaccagatttgcctatgatgggctaaaacgtcaa
+            agacttaccgagccaatggtcagaaatgaaaaagggcttttaacctatacttcttgggag
+            gatgcgctctctcgcgtagctggaatgttgcagagttttcaaggcaaagatgtggcagca
+            attgcaggtggcttggtggatgctgaagccctggtagctctcaaagatttgcttaataga
+            gtggactctgacaccttatgcactgaagaggtcttccccactgcaggagctggcacagat
+            ttgcgttccaattatcttcttaatactacaattgctggtgtggaagaggcagatgttgtt
+            cttctggttggtacaaacccacgttttgaggcaccactgtttaatgctagaattcgaaag
+            agctggctgcataatgacttaaaagtggcccttataggcagtccagtggacctcacttac
+            acatatgaccacctgggagactcccccaaaattcttcaagacattgcttcgggaagccat
+            ccatttagccaggtcctaaaggaagctaaaaaaccaatggtggttttaggcagttctgca
+            ctccaaagaaatgatggagcagcaattcttgcagctgtttctagcattgcacaaaagatt
+            cggatgactagtggtgttactggtgattggaaagttatgaatatccttcataggattgca
+            agtcaagtagctgctttggaccttggctataagcctggggtggaagcaattcggaagaac
+            cctcccaaggtgctgtttctcctgggagcagatggaggttgtatcacacgacaggatttg
+            ccaaaggattgtttcattatttatcaaggacatcatggtgatgttggggctcccatagct
+            gatgttattctcccaggagctgcttacacagagaagtctgctacatatgtcaacactgag
+            ggtagagctcagcagactaaggtagcagtgacacctcctggcttggcaagagaagactgg
+            aaaattataagagcactctctgagattgctggaatgactcttccatatgatactctggat
+            caagtaaggaacagattggaagaagtctctcctaatcttgttcgatatgatgatattgaa
+            ggggctaattacttccagcaagcaaatgagctctcaaagctagtgaaccagcagcttctt
+            gctgacccacttgttccacctcagctaactataaaagacttctacatgacagattcaatt
+            agcagagcctcacagacaatggccaaatgtgtcaaagctgtcacagagggtgcccaggca
+            gtagaggaaccatccatatgctga
+///

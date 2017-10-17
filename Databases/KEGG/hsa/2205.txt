@@ -1,0 +1,56 @@
+ENTRY       2205              CDS       T01001
+NAME        FCER1A, FCE1A, FcERI
+DEFINITION  (RefSeq) Fc fragment of IgE receptor Ia
+ORTHOLOGY   K08089  Fc receptor, IgE, high affinity I, alpha polypeptide
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa05310  Asthma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04072 Phospholipase D signaling pathway
+                2205 (FCER1A)
+               04071 Sphingolipid signaling pathway
+                2205 (FCER1A)
+             Organismal Systems
+              Immune system
+               04664 Fc epsilon RI signaling pathway
+                2205 (FCER1A)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                2205 (FCER1A)
+POSITION    1q23.2
+MOTIF       Pfam: Ig_2 Ig_3 ig V-set Ig_4 Ig_5 I-set Izumo-Ig C2-set Adeno_E3_CR1 C1-set TadE
+DBLINKS     NCBI-GeneID: 2205
+            NCBI-ProteinID: NP_001992
+            OMIM: 147140
+            HGNC: 3609
+            Ensembl: ENSG00000179639
+            Vega: OTTHUMG00000037176
+            Pharos: P12319(Tbio)
+            UniProt: P12319
+STRUCTURE   PDB: 1F2Q 1RPQ 1J86 1J87 1J88 2Y7Q 1F6A 1J89
+AASEQ       257
+            MAPAMESPTLLCVALLFFAPDGVLAVPQKPKVSLNPPWNRIFKGENVTLTCNGNNFFEVS
+            STKWFHNGSLSEETNSSLNIVNAKFEDSGEYKCQHQQVNESEPVYLEVFSDWLLLQASAE
+            VVMEGQPLFLRCHGWRNWDVYKVIYYKDGEALKYWYENHNISITNATVEDSGTYYCTGKV
+            WQLDYESEPLNITVIKAPREKYWLQFFIPLLVVILFAVDTGLFISTQQQVTFLLKIKRTR
+            KGFRLLNPHPKPNPKNN
+NTSEQ       774
+            atggctcctgccatggaatcccctactctactgtgtgtagccttactgttcttcgctcca
+            gatggcgtgttagcagtccctcagaaacctaaggtctccttgaaccctccatggaataga
+            atatttaaaggagagaatgtgactcttacatgtaatgggaacaatttctttgaagtcagt
+            tccaccaaatggttccacaatggcagcctttcagaagagacaaattcaagtttgaatatt
+            gtgaatgccaaatttgaagacagtggagaatacaaatgtcagcaccaacaagttaatgag
+            agtgaacctgtgtacctggaagtcttcagtgactggctgctccttcaggcctctgctgag
+            gtggtgatggagggccagcccctcttcctcaggtgccatggttggaggaactgggatgtg
+            tacaaggtgatctattataaggatggtgaagctctcaagtactggtatgagaaccacaac
+            atctccattacaaatgccacagttgaagacagtggaacctactactgtacgggcaaagtg
+            tggcagctggactatgagtctgagcccctcaacattactgtaataaaagctccgcgtgag
+            aagtactggctacaattttttatcccattgttggtggtgattctgtttgctgtggacaca
+            ggattatttatctcaactcagcagcaggtcacatttctcttgaagattaagagaaccagg
+            aaaggcttcagacttctgaacccacatcctaagccaaaccccaaaaacaactga
+///

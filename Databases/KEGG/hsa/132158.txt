@@ -1,0 +1,82 @@
+ENTRY       132158            CDS       T01001
+NAME        GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A
+DEFINITION  (RefSeq) glycerate kinase
+ORTHOLOGY   K11529  glycerate 2-kinase [EC:2.7.1.165]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                132158 (GLYCTK)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                132158 (GLYCTK)
+               00630 Glyoxylate and dicarboxylate metabolism
+                132158 (GLYCTK)
+              Lipid metabolism
+               00561 Glycerolipid metabolism
+                132158 (GLYCTK)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                132158 (GLYCTK)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.165  glycerate 2-kinase
+                 132158 (GLYCTK)
+POSITION    3p21.2
+MOTIF       Pfam: DUF4147 MOFRL HAD DIMCO_N
+DBLINKS     NCBI-GeneID: 132158
+            NCBI-ProteinID: NP_660305
+            OMIM: 610516
+            HGNC: 24247
+            Ensembl: ENSG00000168237
+            Vega: OTTHUMG00000158380
+            Pharos: Q8IVS8(Tbio)
+            UniProt: Q8IVS8 A0A024R302
+AASEQ       523
+            MAAALQVLPRLARAPLHPLLWRGSVARLASSMALAEQARQLFESAVGAVLPGPMLHRALS
+            LDPGGRQLKVRDRNFQLRQNLYLVGFGKAVLGMAAAAEELLGQHLVQGVISVPKGIRAAM
+            ERAGKQEMLLKPHSRVQVFEGAEDNLPDRDALRAALAIQQLAEGLTADDLLLVLISGGGS
+            ALLPAPIPPVTLEEKQTLTRLLAARGATIQELNTIRKALSQLKGGGLAQAAYPAQVVSLI
+            LSDVVGDPVEVIASGPTVASSHNVQDCLHILNRYGLRAALPRSVKTVLSRADSDPHGPHT
+            CGHVLNVIIGSNVLALAEAQRQAEALGYQAVVLSAAMQGDVKSMAQFYGLLAHVARTRLT
+            PSMAGASVEEDAQLHELAAELQIPDLQLEEALETMAWGRGPVCLLAGGEPTVQLQGSGRG
+            GRNQELALRVGAELRRWPLGPIDVLFLSGGTDGQDGPTEAAGAWVTPELASQAAAEGLDI
+            ATFLAHNDSHTFFCCLQGGAHLLHTGMTGTNVMDTHLLFLRPR
+NTSEQ       1572
+            atggctgcagccctgcaggtcctgccccgcttggcccgagcccccttgcatccactcctc
+            tggcggggctcagtggcccgtctggccagcagcatggccttggcagagcaggccaggcag
+            ctgtttgagagtgctgtaggtgcagtgctgccgggccccatgctgcaccgggcactatcc
+            ttggaccctggtggcagacagctgaaggtgcgggaccggaactttcagctgaggcaaaac
+            ctctacctggtgggctttggcaaggctgtgctgggtatggcagctgcagctgaggaacta
+            ctgggccagcatcttgtgcagggcgtgatcagcgttcccaaggggatccgtgctgccatg
+            gagcgtgccggcaagcaggagatgctgctgaagccacatagccgtgtccaggtattcgag
+            ggtgcggaggacaacctcccggaccgcgatgcgctgcgggctgcactggccatccagcaa
+            ctggctgagggactcacagctgatgacctgctgctcgtgctgatctcaggtgggggttca
+            gctctgctgcctgcccccatcccacctgtcacactggaggagaagcagacactcactaga
+            ctgctggcagcccgtggagccaccatccaggagttgaacaccattcggaaggccctgtcc
+            cagctcaagggtggggggctggctcaggccgcctaccctgcccaggtggtgagcctcatc
+            ctgtcagatgtggtgggggaccctgtggaggtgattgccagtggccccaccgtggccagt
+            tcccacaatgtgcaagattgcctgcatatcctcaatcgctacggcctccgtgcagccctg
+            ccacgttctgtgaagactgtgctgtctcgggccgactctgacccccatgggccacacacc
+            tgtggccatgtcctgaatgtgatcattggctctaatgtgctggcgctagctgaggcccag
+            cggcaggccgaggcactgggctaccaggctgtggtgctgagtgcagccatgcaaggtgat
+            gtaaaaagtatggcccagttctacgggctgctggcccatgtggctagaacccgcctcacc
+            ccatccatggctggggcttctgtggaggaagatgcacagctccatgagctggcagctgag
+            cttcagatcccagacctgcagctggaggaggctctggagaccatggcatggggaaggggc
+            ccagtctgcctgctggctggtggcgagcccacagtacagctgcagggctcgggcaggggt
+            ggccggaaccaggaactggccctgcgtgttggagcagagttgagaaggtggccgctgggg
+            ccgatagatgtgctgtttttgagcggtggcaccgatgggcaggatgggcccacagaggct
+            gctggggcctgggtcacacctgagcttgccagccaggctgcagctgagggcctggacata
+            gccaccttcctagcccacaatgactcacataccttcttctgctgcctccagggtggggca
+            cacctgctgcacacagggatgacaggtaccaatgtcatggacacccacctcttgttcctg
+            cggcctcggtga
+///

@@ -1,0 +1,143 @@
+ENTRY       3479              CDS       T01001
+NAME        IGF1, IGF-I, IGFI, MGF
+DEFINITION  (RefSeq) insulin like growth factor 1
+ORTHOLOGY   K05459  insulin-like growth factor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa01522  Endocrine resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04114  Oocyte meiosis
+            hsa04115  p53 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04510  Focal adhesion
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04730  Long-term depression
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04913  Ovarian steroidogenesis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa04960  Aldosterone-regulated sodium reabsorption
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+            hsa05414  Dilated cardiomyopathy (DCM)
+DISEASE     H00015  Malignant pleural mesothelioma
+            H00254  Pituitary Dwarfism (PD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3479 (IGF1)
+               04015 Rap1 signaling pathway
+                3479 (IGF1)
+               04066 HIF-1 signaling pathway
+                3479 (IGF1)
+               04068 FoxO signaling pathway
+                3479 (IGF1)
+               04151 PI3K-Akt signaling pathway
+                3479 (IGF1)
+               04152 AMPK signaling pathway
+                3479 (IGF1)
+               04150 mTOR signaling pathway
+                3479 (IGF1)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                3479 (IGF1)
+               04115 p53 signaling pathway
+                3479 (IGF1)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3479 (IGF1)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                3479 (IGF1)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                3479 (IGF1)
+               04914 Progesterone-mediated oocyte maturation
+                3479 (IGF1)
+              Excretory system
+               04960 Aldosterone-regulated sodium reabsorption
+                3479 (IGF1)
+              Nervous system
+               04730 Long-term depression
+                3479 (IGF1)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                3479 (IGF1)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                3479 (IGF1)
+               04213 Longevity regulating pathway - multiple species
+                3479 (IGF1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3479 (IGF1)
+               05202 Transcriptional misregulation in cancers
+                3479 (IGF1)
+               05205 Proteoglycans in cancer
+                3479 (IGF1)
+               05214 Glioma
+                3479 (IGF1)
+               05218 Melanoma
+                3479 (IGF1)
+               05215 Prostate cancer
+                3479 (IGF1)
+               05224 Breast cancer
+                3479 (IGF1)
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                3479 (IGF1)
+               05414 Dilated cardiomyopathy (DCM)
+                3479 (IGF1)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                3479 (IGF1)
+               01522 Endocrine resistance
+                3479 (IGF1)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Other growth factors
+               3479 (IGF1)
+POSITION    12q23.2
+MOTIF       Pfam: Insulin DUF2865
+DBLINKS     NCBI-GeneID: 3479
+            NCBI-ProteinID: NP_001104755
+            OMIM: 147440
+            HGNC: 5464
+            Ensembl: ENSG00000017427
+            Vega: OTTHUMG00000149910
+            Pharos: P05019(Tbio)
+            UniProt: P05019
+STRUCTURE   PDB: 1TGR 1WQJ 1IMX 2DSR 2DSP 1GZY 2DSQ 4XSS 1PMX 1H02 1GZZ
+                 1GZR 1H59 3LRI 1B9G 1BQT 3GF1 2GF1
+AASEQ       195
+            MGKISSLPTQLFKCCFCDFLKVKMHTMSSSHLFYLALCLLTFTSSATAGPETLCGAELVD
+            ALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSARS
+            VRAQRHTDMPKTQKYQPPSTNKNTKSQRRKGWPKTHPGGEQKEGTEASLQIRGKKKEQRR
+            EIGSRNAECRGKKGK
+NTSEQ       588
+            atgggaaaaatcagcagtcttccaacccaattatttaagtgctgcttttgtgatttcttg
+            aaggtgaagatgcacaccatgtcctcctcgcatctcttctacctggcgctgtgcctgctc
+            accttcaccagctctgccacggctggaccggagacgctctgcggggctgagctggtggat
+            gctcttcagttcgtgtgtggagacaggggcttttatttcaacaagcccacagggtatggc
+            tccagcagtcggagggcgcctcagacaggcatcgtggatgagtgctgcttccggagctgt
+            gatctaaggaggctggagatgtattgcgcacccctcaagcctgccaagtcagctcgctct
+            gtccgtgcccagcgccacaccgacatgcccaagacccagaagtatcagcccccatctacc
+            aacaagaacacgaagtctcagagaaggaaaggttggccaaagacacatccaggaggggaa
+            cagaaggaggggacagaagcaagtctgcagatcagaggaaagaagaaagagcagaggagg
+            gagattggaagtagaaatgctgaatgcagaggcaaaaaaggaaaatga
+///

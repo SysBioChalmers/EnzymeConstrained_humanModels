@@ -1,0 +1,66 @@
+ENTRY       1717              CDS       T01001
+NAME        DHCR7, SLOS
+DEFINITION  (RefSeq) 7-dehydrocholesterol reductase
+ORTHOLOGY   K00213  7-dehydrocholesterol reductase [EC:1.3.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00100  Steroid biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol
+DISEASE     H00161  Smith-Lemli-Opitz syndrome
+            H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00100 Steroid biosynthesis
+                1717 (DHCR7)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.21  7-dehydrocholesterol reductase
+                 1717 (DHCR7)
+POSITION    11q13.4
+MOTIF       Pfam: ERG4_ERG24
+DBLINKS     NCBI-GeneID: 1717
+            NCBI-ProteinID: NP_001157289
+            OMIM: 602858
+            HGNC: 2860
+            Ensembl: ENSG00000172893
+            Vega: OTTHUMG00000167346
+            Pharos: Q9UBM7(Tchem)
+            UniProt: Q9UBM7 A0A024R5F7
+AASEQ       475
+            MAAKSQPNIPKAKSLDGVTNDRTASQGQWGRAWEVDWFSLASVIFLLLFAPFIVYYFIMA
+            CDQYSCALTGPVVDIVTGHARLSDIWAKTPPITRKAAQLYTLWVTFQVLLYTSLPDFCHK
+            FLPGYVGGIQEGAVTPAGVVNKYQINGLQAWLLTHLLWFANAHLLSWFSPTIIFDNWIPL
+            LWCANILGYAVSTFAMVKGYFFPTSARDCKFTGNFFYNYMMGIEFNPRIGKWFDFKLFFN
+            GRPGIVAWTLINLSFAAKQRELHSHVTNAMVLVNVLQAIYVIDFFWNETWYLKTIDICHD
+            HFGWYLGWGDCVWLPYLYTLQGLYLVYHPVQLSTPHAVGVLLLGLVGYYIFRVANHQKDL
+            FRRTDGRCLIWGRKPKVIECSYTSADGQRHHSKLLVSGFWGVARHFNYVGDLMGSLAYCL
+            ACGGGHLLPYFYIIYMAILLTHRCLRDEHRCASKYGRDWERYTAAVPYRLLPGIF
+NTSEQ       1428
+            atggctgcaaaatcgcaacccaacattcccaaagccaagagtctagatggcgtcaccaat
+            gacagaaccgcatctcaagggcagtggggccgtgcctgggaggtggactggttttcactg
+            gcgagcgtcatcttcctactgctgttcgcccccttcatcgtctactacttcatcatggct
+            tgtgaccagtacagctgcgccctgactggccctgtggtggacatcgtcaccggacatgct
+            cggctctcggacatctgggccaagactccacctataacgaggaaagccgcccagctctat
+            accttgtgggtcaccttccaggtgcttctgtacacgtctctccctgacttctgccataag
+            tttctacccggctacgtaggaggcatccaggagggggccgtgactcctgcaggggttgtg
+            aacaagtatcagatcaatggcctgcaagcctggctcctcacgcacctgctctggtttgca
+            aacgctcatctcctgtcctggttctcgcccaccatcatcttcgacaactggatcccactg
+            ctgtggtgcgccaacatccttggctatgccgtctccaccttcgccatggtcaagggctac
+            ttcttccccaccagcgccagagactgcaaattcacaggcaatttcttttacaactacatg
+            atgggcatcgagtttaaccctcggatcgggaagtggtttgacttcaagctgttcttcaat
+            gggcgccccgggatcgtcgcctggaccctcatcaacctgtccttcgcagcgaagcagcgg
+            gagctccacagccatgtgaccaatgccatggtcctggtcaacgtcctgcaggccatctac
+            gtgattgacttcttctggaacgaaacctggtacctgaagaccattgacatctgccatgac
+            cacttcgggtggtacctgggctggggcgactgtgtctggctgccttatctttacacgctg
+            cagggtctgtacttggtgtaccaccccgtgcagctgtccaccccgcacgccgtgggcgtc
+            ctgctgctgggcctggtgggctactacatcttccgggtggccaaccaccagaaggacctg
+            ttccgccgcacggatgggcgctgcctcatctggggcaggaagcccaaggtcatcgagtgc
+            tcctacacatccgccgatgggcagaggcaccacagcaagctgctggtgtcgggcttctgg
+            ggcgtggcccgccacttcaactacgtcggcgacctgatgggcagcctggcctactgcctg
+            gcctgtggcggcggccacctgctgccctacttctacatcatctacatggccatcctgctg
+            acccaccgctgcctccgggacgagcaccgctgcgccagcaagtacggccgggactgggag
+            cgctacaccgccgcagtgccttaccgcctgctgcctggaatcttctaa
+///

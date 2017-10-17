@@ -1,0 +1,125 @@
+ENTRY       3593              CDS       T01001
+NAME        IL12B, CLMF, CLMF2, IL-12B, IMD28, IMD29, NKSF, NKSF2
+DEFINITION  (RefSeq) interleukin 12B
+ORTHOLOGY   K05425  interleukin 12B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04940  Type I diabetes mellitus
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05143  African trypanosomiasis
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+            hsa05205  Proteoglycans in cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05330  Allograft rejection
+DISEASE     H00089  IFN-gamma/IL-12 axis
+DRUG_TARGET Apilimod mesylate: D06556
+            Lisofylline: D04748
+            Ustekinumab: D09214
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3593 (IL12B)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3593 (IL12B)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                3593 (IL12B)
+               04622 RIG-I-like receptor signaling pathway
+                3593 (IL12B)
+               04658 Th1 and Th2 cell differentiation
+                3593 (IL12B)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                3593 (IL12B)
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                3593 (IL12B)
+               05330 Allograft rejection
+                3593 (IL12B)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                3593 (IL12B)
+              Infectious diseases
+               05133 Pertussis
+                3593 (IL12B)
+               05134 Legionellosis
+                3593 (IL12B)
+               05152 Tuberculosis
+                3593 (IL12B)
+               05162 Measles
+                3593 (IL12B)
+               05164 Influenza A
+                3593 (IL12B)
+               05168 Herpes simplex infection
+                3593 (IL12B)
+               05146 Amoebiasis
+                3593 (IL12B)
+               05145 Toxoplasmosis
+                3593 (IL12B)
+               05140 Leishmaniasis
+                3593 (IL12B)
+               05142 Chagas disease (American trypanosomiasis)
+                3593 (IL12B)
+               05143 African trypanosomiasis
+                3593 (IL12B)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-6 receptor family
+               3593 (IL12B)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               3593 (IL12B)
+POSITION    5q33.3
+MOTIF       Pfam: IL12p40_C Ig_3 Ig_5 Ig_2 fn3 Ig_4 I-set
+DBLINKS     NCBI-GeneID: 3593
+            NCBI-ProteinID: NP_002178
+            OMIM: 161561
+            HGNC: 5970
+            Ensembl: ENSG00000113302
+            Vega: OTTHUMG00000130307
+            Pharos: P29460(Tclin)
+            UniProt: P29460
+STRUCTURE   PDB: 5MJ3 3D85 3DUH 1F42 4GRW 1F45 3D87 3HMX 3QWR 5MJ4
+AASEQ       328
+            MCHQQLVISWFSLVFLASPLVAIWELKKDVYVVELDWYPDAPGEMVVLTCDTPEEDGITW
+            TLDQSSEVLGSGKTLTIQVKEFGDAGQYTCHKGGEVLSHSLLLLHKKEDGIWSTDILKDQ
+            KEPKNKTFLRCEAKNYSGRFTCWWLTTISTDLTFSVKSSRGSSDPQGVTCGAATLSAERV
+            RGDNKEYEYSVECQEDSACPAAEESLPIEVMVDAVHKLKYENYTSSFFIRDIIKPDPPKN
+            LQLKPLKNSRQVEVSWEYPDTWSTPHSYFSLTFCVQVQGKSKREKKDRVFTDKTSATVIC
+            RKNASISVRAQDRYYSSSWSEWASVPCS
+NTSEQ       987
+            atgtgtcaccagcagttggtcatctcttggttttccctggtttttctggcatctcccctc
+            gtggccatatgggaactgaagaaagatgtttatgtcgtagaattggattggtatccggat
+            gcccctggagaaatggtggtcctcacctgtgacacccctgaagaagatggtatcacctgg
+            accttggaccagagcagtgaggtcttaggctctggcaaaaccctgaccatccaagtcaaa
+            gagtttggagatgctggccagtacacctgtcacaaaggaggcgaggttctaagccattcg
+            ctcctgctgcttcacaaaaaggaagatggaatttggtccactgatattttaaaggaccag
+            aaagaacccaaaaataagacctttctaagatgcgaggccaagaattattctggacgtttc
+            acctgctggtggctgacgacaatcagtactgatttgacattcagtgtcaaaagcagcaga
+            ggctcttctgacccccaaggggtgacgtgcggagctgctacactctctgcagagagagtc
+            agaggggacaacaaggagtatgagtactcagtggagtgccaggaggacagtgcctgccca
+            gctgctgaggagagtctgcccattgaggtcatggtggatgccgttcacaagctcaagtat
+            gaaaactacaccagcagcttcttcatcagggacatcatcaaacctgacccacccaagaac
+            ttgcagctgaagccattaaagaattctcggcaggtggaggtcagctgggagtaccctgac
+            acctggagtactccacattcctacttctccctgacattctgcgttcaggtccagggcaag
+            agcaagagagaaaagaaagatagagtcttcacggacaagacctcagccacggtcatctgc
+            cgcaaaaatgccagcattagcgtgcgggcccaggaccgctactatagctcatcttggagc
+            gaatgggcatctgtgccctgcagttag
+///

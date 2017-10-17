@@ -1,0 +1,73 @@
+ENTRY       5277              CDS       T01001
+NAME        PIGA, GPI3, MCAHS2, PIG-A, PNH1
+DEFINITION  (RefSeq) phosphatidylinositol glycan anchor biosynthesis class A
+ORTHOLOGY   K03857  phosphatidylinositol glycan, class A [EC:2.4.1.198]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00065  GPI-anchor biosynthesis, core oligosaccharide
+DISEASE     H01053  Paroxysmal nocturnal hemoglobinuria (PNH)
+            H01486  Multiple congenital anomalies-hypotonia-seizures syndrome (MCAHS)
+            H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+                5277 (PIGA)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.198  phosphatidylinositol N-acetylglucosaminyltransferase
+                 5277 (PIGA)
+            Glycosyltransferases [BR:hsa01003]
+             GPI-anchor biosynthesis
+              Core oligosaccharide
+               5277 (PIGA)
+POSITION    Xp22.2
+MOTIF       Pfam: PIGA Glyco_transf_4 Glycos_transf_1 Glyco_trans_1_4 Glyco_trans_4_4 Glyco_trans_1_2 Glyco_transf_5
+DBLINKS     NCBI-GeneID: 5277
+            NCBI-ProteinID: NP_002632
+            OMIM: 311770
+            HGNC: 8957
+            Ensembl: ENSG00000165195
+            Vega: OTTHUMG00000021174
+            Pharos: P37287(Tbio)
+            UniProt: P37287
+AASEQ       484
+            MACRGGAGNGHRASATLSRVSPGSLYTCRTRTHNICMVSDFFYPNMGGVESHIYQLSQCL
+            IERGHKVIIVTHAYGNRKGIRYLTSGLKVYYLPLKVMYNQSTATTLFHSLPLLRYIFVRE
+            RVTIIHSHSSFSAMAHDALFHAKTMGLQTVFTDHSLFGFADVSSVLTNKLLTVSLCDTNH
+            IICVSYTSKENTVLRAALNPEIVSVIPNAVDPTDFTPDPFRRHDSITIVVVSRLVYRKGI
+            DLLSGIIPELCQKYPDLNFIIGGEGPKRIILEEVRERYQLHDRVRLLGALEHKDVRNVLV
+            QGHIFLNTSLTEAFCMAIVEAASCGLQVVSTRVGGIPEVLPENLIILCEPSVKSLCEGLE
+            KAIFQLKSGTLPAPENIHNIVKTFYTWRNVAERTEKVYDRVSVEAVLPMDKRLDRLISHC
+            GPVTGYIFALLAVFNFLFLIFLRWMTPDSIIDVAIDATGPRGAWTNNYSHSKRGGENNEI
+            SETR
+NTSEQ       1455
+            atggcctgtagaggaggagctgggaatggccaccgtgcctcagctacactctctcgggtt
+            agccctggaagtctttacacatgtagaacccgtacccataatatatgcatggtatctgac
+            tttttctacccaaatatgggaggcgtggaaagccacatttaccagctctctcagtgcctg
+            attgaaagagggcataaggttataattgtcacccatgcttatggaaatcgaaaaggcatc
+            cgttacctcaccagtggcctcaaagtctattacttgcctctgaaagtcatgtacaaccag
+            tctacagccacgaccctctttcacagtctgccattgctcaggtacatatttgttcgggag
+            agagtcacgataatccattcacatagttctttttctgctatggcccatgatgctctcttc
+            cacgccaagacaatggggcttcagacagtcttcacggaccattccctttttggatttgct
+            gatgtcagctcggtgcttacaaacaagcttctaaccgtgtctctttgtgatacaaaccac
+            atcatttgtgtgtcttatactagtaaggaaaatactgtactaagagcagcactgaatcct
+            gaaatagtgtccgtcattcctaatgctgtagatcctactgacttcactccagacccattt
+            agaaggcatgatagtataactattgttgttgtcagcagacttgtttacagaaaagggatc
+            gatttgcttagtggtataatacctgaactctgtcagaaatatccagatttaaatttcata
+            attggaggagagggaccaaagagaatcattttggaagaagttcgggaaagataccagctg
+            catgacagggtgcgtcttttgggagctttagaacacaaggatgttagaaatgtcttagtt
+            caaggacatatttttctgaatacctcccttactgaagcattctgcatggcgatcgtggaa
+            gcagccagttgtggtttacaggttgtaagtaccagagttggtggaattcctgaggtgctt
+            ccagaaaaccttattattttatgtgagccttcagtaaaatctttgtgtgaaggattggaa
+            aaggctattttccaactgaagtcagggacattgccagctccagaaaacatccataacata
+            gtaaagactttctacacctggaggaatgttgcagaaagaactgaaaaggtatatgaccgg
+            gtatcagtggaagctgtgttgccaatggacaaacgactggacagacttatttctcactgc
+            ggcccagtaacaggctacatctttgctttgttggcagttttcaacttcctcttcctcatt
+            ttcttgagatggatgactccagattctatcattgatgttgcaatagatgccactgggcca
+            cggggtgcctggactaataactattctcacagtaaaagagggggtgagaataatgagata
+            tctgaaaccaggtag
+///

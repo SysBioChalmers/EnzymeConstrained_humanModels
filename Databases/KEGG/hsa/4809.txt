@@ -1,0 +1,50 @@
+ENTRY       4809              CDS       T01001
+NAME        SNU13, 15.5K, FA-1, FA1, NHP2L1, NHPX, OTK27, SNRNP15-5, SPAG12, SSFA1
+DEFINITION  (RefSeq) small nuclear ribonucleoprotein 13
+ORTHOLOGY   K12845  U4/U6 small nuclear ribonucleoprotein SNU13
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                4809 (SNU13)
+              Translation
+               03008 Ribosome biogenesis in eukaryotes
+                4809 (SNU13)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U4/U6 snRNP specific factors
+                4809 (SNU13)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Sno RNPs
+               Box C/D snoRNPs
+                4809 (SNU13)
+POSITION    22q13.2
+MOTIF       Pfam: Ribosomal_L7Ae RNase_P_pop3 PELOTA_1
+DBLINKS     NCBI-GeneID: 4809
+            NCBI-ProteinID: NP_001003796
+            OMIM: 601304
+            HGNC: 7819
+            Ensembl: ENSG00000100138
+            Vega: OTTHUMG00000151189
+            Pharos: P55769(Tbio)
+            UniProt: P55769 Q6FHM6
+STRUCTURE   PDB: 2OZB 3SIU 3SIV 5O9Z 3JCR 2JNB 1E7K
+AASEQ       128
+            MTEADVNPKAYPLADAHLTKKLLDLVQQSCNYKQLRKGANEATKTLNRGISEFIVMAADA
+            EPLEIILHLPLLCEDKNVPYVFVRSKQALGRACGVSRPVIACSVTIKEGSQLKQQIQSIQ
+            QSIERLLV
+NTSEQ       387
+            atgactgaggctgatgtgaatccaaaggcctatccccttgccgatgcccacctcaccaag
+            aagctactggacctcgttcagcagtcatgtaactataagcagcttcggaaaggagccaat
+            gaggccaccaaaaccctcaacaggggcatctctgagttcatcgtgatggctgcagacgcc
+            gagccactggagatcattctgcacctgccgctgctgtgtgaagacaagaatgtgccctac
+            gtgtttgtgcgctccaagcaggccctggggagagcctgtggggtctccaggcctgtcatc
+            gcctgttctgtcaccatcaaagaaggctcgcagctgaaacagcagatccaatccattcag
+            cagtccattgaaaggctcttagtctaa
+///

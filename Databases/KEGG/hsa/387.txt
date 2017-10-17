@@ -1,0 +1,176 @@
+ENTRY       387               CDS       T01001
+NAME        RHOA, ARH12, ARHA, RHO12, RHOH12
+DEFINITION  (RefSeq) ras homolog family member A
+ORTHOLOGY   K04513  Ras homolog gene family, member A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04144  Endocytosis
+            hsa04150  mTOR signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04360  Axon guidance
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04611  Platelet activation
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa04722  Neurotrophin signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04921  Oxytocin signaling pathway
+            hsa04972  Pancreatic secretion
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05133  Pertussis
+            hsa05152  Tuberculosis
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05210  Colorectal cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                387 (RHOA)
+               04015 Rap1 signaling pathway
+                387 (RHOA)
+               04310 Wnt signaling pathway
+                387 (RHOA)
+               04350 TGF-beta signaling pathway
+                387 (RHOA)
+               04072 Phospholipase D signaling pathway
+                387 (RHOA)
+               04071 Sphingolipid signaling pathway
+                387 (RHOA)
+               04024 cAMP signaling pathway
+                387 (RHOA)
+               04022 cGMP - PKG signaling pathway
+                387 (RHOA)
+               04150 mTOR signaling pathway
+                387 (RHOA)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                387 (RHOA)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                387 (RHOA)
+               04520 Adherens junction
+                387 (RHOA)
+               04530 Tight junction
+                387 (RHOA)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                387 (RHOA)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                387 (RHOA)
+               04621 NOD-like receptor signaling pathway
+                387 (RHOA)
+               04660 T cell receptor signaling pathway
+                387 (RHOA)
+               04670 Leukocyte transendothelial migration
+                387 (RHOA)
+               04062 Chemokine signaling pathway
+                387 (RHOA)
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                387 (RHOA)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                387 (RHOA)
+              Digestive system
+               04972 Pancreatic secretion
+                387 (RHOA)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                387 (RHOA)
+              Development
+               04360 Axon guidance
+                387 (RHOA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                387 (RHOA)
+               05206 MicroRNAs in cancer
+                387 (RHOA)
+               05205 Proteoglycans in cancer
+                387 (RHOA)
+               05203 Viral carcinogenesis
+                387 (RHOA)
+               05210 Colorectal cancer
+                387 (RHOA)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                387 (RHOA)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                387 (RHOA)
+               05133 Pertussis
+                387 (RHOA)
+               05152 Tuberculosis
+                387 (RHOA)
+               05100 Bacterial invasion of epithelial cells
+                387 (RHOA)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Lipid raft mediated endocytosis
+               RhoA-dependent endocytosis
+                387 (RHOA)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               387 (RHOA)
+              Exosomal proteins of other body fluids (saliva and urine)
+               387 (RHOA)
+              Exosomal proteins of colorectal cancer cells
+               387 (RHOA)
+              Exosomal proteins of bladder cancer cells
+               387 (RHOA)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Rho Family
+               RhoA/B/C [OT]
+                387 (RHOA)
+POSITION    3p21.31
+MOTIF       Pfam: Ras Roc Arf GTP_EFTU SRPRB Gtr1_RagA
+DBLINKS     NCBI-GeneID: 387
+            NCBI-ProteinID: NP_001300870
+            OMIM: 165390
+            HGNC: 667
+            Ensembl: ENSG00000067560
+            Vega: OTTHUMG00000156838
+            Pharos: P61586(Tbio)
+            UniProt: P61586 A0A024R324
+STRUCTURE   PDB: 5C4M 1KMQ 3MSX 1TX4 3LXR 5IRC 5EZ6 4XSG 1OW3 3LW8 5A0F
+                 4XH9 1DPF 4XOI 4D0N 1FTN 5M70 1CXZ 3LWN 5JHH 5M6X 5HPY
+                 1A2B 5JHG 5BWM 4XSH 1XCG 1S1C 3KZ1 5FR1 1LB1 3T06 1X86
+                 5FR2 2RGN 1CC0
+AASEQ       193
+            MAAIRKKLVIVGDGACGKTCLLIVFSKDQFPEVYVPTVFENYVADIEVDGKQVELALWDT
+            AGQEDYDRLRPLSYPDTDVILMCFSIDSPDSLENIPEKWTPEVKHFCPNVPIILVGNKKD
+            LRNDEHTRRELAKMKQEPVKPEEGRDMANRIGAFGYMECSAKTKDGVREVFEMATRAALQ
+            ARRGKKKSGCLVL
+NTSEQ       582
+            atggctgccatccggaagaaactggtgattgttggtgatggagcctgtggaaagacatgc
+            ttgctcatagtcttcagcaaggaccagttcccagaggtgtatgtgcccacagtgtttgag
+            aactatgtggcagatatcgaggtggatggaaagcaggtagagttggctttgtgggacaca
+            gctgggcaggaagattatgatcgcctgaggcccctctcctacccagataccgatgttata
+            ctgatgtgtttttccatcgacagccctgatagtttagaaaacatcccagaaaagtggacc
+            ccagaagtcaagcatttctgtcccaacgtgcccatcatcctggttgggaataagaaggat
+            cttcggaatgatgagcacacaaggcgggagctagccaagatgaagcaggagccggtgaaa
+            cctgaagaaggcagagatatggcaaacaggattggcgcttttgggtacatggagtgttca
+            gcaaagaccaaagatggagtgagagaggtttttgaaatggctacgagagctgctctgcaa
+            gctagacgtgggaagaaaaaatctgggtgccttgtcttgtga
+///

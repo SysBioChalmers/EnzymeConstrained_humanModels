@@ -1,0 +1,114 @@
+ENTRY       51422             CDS       T01001
+NAME        PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS
+DEFINITION  (RefSeq) protein kinase AMP-activated non-catalytic subunit gamma 2
+ORTHOLOGY   K07200  5'-AMP-activated protein kinase, regulatory gamma subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa04371  Apelin signaling pathway
+            hsa04530  Tight junction
+            hsa04710  Circadian rhythm
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05410  Hypertrophic cardiomyopathy (HCM)
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H00292  Hypertrophic cardiomyopathy (HCM)
+            H01154  Wolff-Parkinson-White (WPW) syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                51422 (PRKAG2)
+               04068 FoxO signaling pathway
+                51422 (PRKAG2)
+               04152 AMPK signaling pathway
+                51422 (PRKAG2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                51422 (PRKAG2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                51422 (PRKAG2)
+               04922 Glucagon signaling pathway
+                51422 (PRKAG2)
+               04920 Adipocytokine signaling pathway
+                51422 (PRKAG2)
+               04921 Oxytocin signaling pathway
+                51422 (PRKAG2)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                51422 (PRKAG2)
+               04213 Longevity regulating pathway - multiple species
+                51422 (PRKAG2)
+              Environmental adaptation
+               04710 Circadian rhythm
+                51422 (PRKAG2)
+             Human Diseases
+              Cardiovascular diseases
+               05410 Hypertrophic cardiomyopathy (HCM)
+                51422 (PRKAG2)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                51422 (PRKAG2)
+               04931 Insulin resistance
+                51422 (PRKAG2)
+POSITION    7q36.1
+MOTIF       Pfam: CBS Cbl_N3
+DBLINKS     NCBI-GeneID: 51422
+            NCBI-ProteinID: NP_057287
+            OMIM: 602743
+            HGNC: 9386
+            Ensembl: ENSG00000106617
+            Vega: OTTHUMG00000157324
+            Pharos: Q9UGJ0(Tbio)
+            UniProt: Q9UGJ0 A0A090N8Q6
+AASEQ       569
+            MGSAVMDTKKKKDVSSPGGSGGKKNASQKRRSLRVHIPDLSSFAMPLLDGDLEGSGKHSS
+            RKVDSPFGPGSPSKGFFSRGPQPRPSSPMSAPVRPKTSPGSPKTVFPFSYQESPPRSPRR
+            MSFSGIFRSSSKESSPNSNPATSPGGIRFFSRSRKTSGLSSSPSTPTQVTKQHTFPLESY
+            KHEPERLENRIYASSSPPDTGQRFCPSSFQSPTRPPLASPTHYAPSKAAALAAALGPAEA
+            GMLEKLEFEDEAVEDSESGVYMRFMRSHKCYDIVPTSSKLVVFDTTLQVKKAFFALVANG
+            VRAAPLWESKKQSFVGMLTITDFINILHRYYKSPMVQIYELEEHKIETWRELYLQETFKP
+            LVNISPDASLFDAVYSLIKNKIHRLPVIDPISGNALYILTHKRILKFLQLFMSDMPKPAF
+            MKQNLDELGIGTYHNIAFIHPDTPIIKALNIFVERRISALPVVDESGKVVDIYSKFDVIN
+            LAAEKTYNNLDITVTQALQHRSQYFEGVVKCNKLEILETIVDRIVRAEVHRLVVVNEADS
+            IVGIISLSDILQALILTPAGAKQKETETE
+NTSEQ       1710
+            atgggaagcgcggttatggacaccaagaagaaaaaagatgtttccagccccggcgggagc
+            ggcggcaagaaaaatgccagccagaagaggcgttcgctgcgcgtgcacattccggacctg
+            agctccttcgccatgccgctcctggacggagacctggagggttccggaaagcattcctct
+            cgaaaggtggacagccccttcggcccgggcagcccctccaaagggttcttctccagaggc
+            ccccagccccggccctccagccccatgtctgcacctgtgaggcccaagaccagccccggc
+            tctcccaaaaccgtgttcccgttctcctaccaggagtccccgccacgctcccctcgacgc
+            atgagcttcagtgggatcttccgctcctcctccaaagagtcttcccccaactccaaccct
+            gctacctcgcccgggggcatcaggtttttctcccgctccagaaaaacctccggcctctcc
+            tcctctccgtcaacacccacccaagtgaccaagcagcacacgtttcccctggaatcctat
+            aagcacgagcctgaacggttagagaatcgcatctatgcctcgtcttcccccccggacaca
+            gggcagaggttctgcccgtcttccttccagagcccgaccaggcctccactggcatcaccg
+            acacactatgctccctccaaagccgcggcgctggcggcggccctgggacccgcggaagcc
+            ggcatgctggagaagctggagttcgaggacgaagcagtagaagactcagaaagtggtgtt
+            tacatgcgattcatgaggtcacacaagtgttatgacatcgttccaaccagttcaaagctt
+            gttgtctttgatactacattacaagttaaaaaggccttctttgctttggtagccaacggt
+            gtccgagcagcgccactgtgggagagtaaaaaacaaagttttgtaggaatgctaacaatt
+            acagatttcataaatatactacatagatactataaatcacctatggtacagatttatgaa
+            ttagaggaacataaaattgaaacatggagggagctttatttacaagaaacatttaagcct
+            ttagtgaatatatctccagatgcaagcctcttcgatgctgtatactccttgatcaaaaat
+            aaaatccacagattgcccgttattgaccctatcagtgggaatgcactttatatacttacc
+            cacaaaagaatcctcaagttcctccagctttttatgtctgatatgccaaagcctgccttc
+            atgaagcagaacctggatgagcttggaataggaacgtaccacaacattgccttcatacat
+            ccagacactcccatcatcaaagccttgaacatatttgtggaaagacgaatatcagctctg
+            cctgttgtggatgagtcaggaaaagttgtagatatttattccaaatttgatgtaattaat
+            cttgctgctgagaaaacatacaataacctagatatcacggtgacccaggcccttcagcac
+            cgttcacagtattttgaaggtgttgtgaagtgcaataagctggaaatactggagaccatc
+            gtggacagaatagtaagagctgaggtccatcggctggtggtggtaaatgaagcagatagt
+            attgtgggtattatttccctgtcggacattctgcaagccctgatcctcacaccagcaggt
+            gccaaacaaaaggagacagaaacggagtga
+///

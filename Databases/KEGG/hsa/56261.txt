@@ -1,0 +1,82 @@
+ENTRY       56261             CDS       T01001
+NAME        GPCPD1, EDI3, GDE5, GDPD6, PREI4
+DEFINITION  (RefSeq) glycerophosphocholine phosphodiesterase 1
+ORTHOLOGY   K18695  glycerophosphocholine phosphodiesterase GPCPD1 [EC:3.1.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa05231  Choline metabolism in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                56261 (GPCPD1)
+             Human Diseases
+              Cancers
+               05231 Choline metabolism in cancer
+                56261 (GPCPD1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.2  glycerophosphocholine phosphodiesterase
+                 56261 (GPCPD1)
+POSITION    20p12.3
+MOTIF       Pfam: GDPD CBM_20 PI-PLC-X
+DBLINKS     NCBI-GeneID: 56261
+            NCBI-ProteinID: NP_062539
+            OMIM: 614124
+            HGNC: 26957
+            Ensembl: ENSG00000125772
+            Vega: OTTHUMG00000031806
+            Pharos: Q9NPB8(Tdark)
+            UniProt: Q9NPB8
+STRUCTURE   PDB: 2Z0B
+AASEQ       672
+            MTPSQVAFEIRGTLLPGEVFAICGSCDALGNWNPQNAVALLPENDTGESMLWKATIVLSR
+            GVSVQYRYFKGYFLEPKTIGGPCQVIVHKWETHLQPRSITPLESEIIIDDGQFGIHNGVE
+            TLDSGWLTCQTEIRLRLHYSEKPPVSITKKKLKKSRFRVKLTLEGLEEDDDDRVSPTVLH
+            KMSNSLEISLISDNEFKCRHSQPECGYGLQPDRWTEYSIQTMEPDNLELIFDFFEEDLSE
+            HVVQGDALPGHVGTACLLSSTIAESGKSAGILTLPIMSRNSRKTIGKVRVDYIIIKPLPG
+            YSCDMKSSFSKYWKPRIPLDVGHRGAGNSTTTAQLAKVQENTIASLRNAASHGAAFVEFD
+            VHLSKDFVPVVYHDLTCCLTMKKKFDADPVELFEIPVKELTFDQLQLLKLTHVTALKSKD
+            RKESVVQEENSFSENQPFPSLKMVLESLPEDVGFNIEIKWICQQRDGMWDGNLSTYFDMN
+            LFLDIILKTVLENSGKRRIVFSSFDADICTMVRQKQNKYPILFLTQGKSEIYPELMDLRS
+            RTTPIAMSFAQFENLLGINVHTEDLLRNPSYIQEAKAKGLVIFCWGDDTNDPENRRKLKE
+            LGVNGLIYDRIYDWMPEQPNIFQVEQLERLKQELPELKSCLCPTVSRFVPSSLCGESDIH
+            VDANGIDNVENA
+NTSEQ       2019
+            atgacaccttctcaggttgcctttgaaataagaggaactcttttaccaggagaagttttt
+            gcgatatgtggaagctgtgatgctttgggaaactggaatcctcaaaatgctgtggctctt
+            cttccagagaatgacacaggtgaaagcatgctatggaaagcaaccattgtactcagtaga
+            ggagtatcagttcagtatcgctacttcaaagggtactttttagaaccaaagactatcggt
+            ggtccatgtcaagtgatagttcacaagtgggagactcatctacaaccacgatcaataacc
+            cctttagaaagcgaaattattattgacgatggacaatttggaatccacaatggtgttgaa
+            actctggattctggatggctgacatgtcagactgaaataagattacgtttgcattattct
+            gaaaaacctcctgtgtcaataaccaagaaaaaattaaaaaaatctagatttagggtgaag
+            ctgacactagaaggcctggaggaagatgacgatgatagggtatctcccactgtactccac
+            aaaatgtccaatagcttggagatatccttaataagcgacaatgagttcaagtgcaggcat
+            tcacagccggagtgtggttatggcttgcagcctgatcgttggacagagtacagcatacag
+            acgatggaaccagataacctggaactaatctttgattttttcgaagaagatctcagtgag
+            cacgtagttcagggtgatgcccttcctggacatgtgggtacagcttgtctcttatcatcc
+            accattgctgagagtggaaagagtgctggaattcttactcttcccatcatgagcagaaat
+            tcccggaaaacaataggcaaagtgagagttgactatataattattaagccattaccagga
+            tacagttgtgacatgaaatcttcattttccaagtattggaagccaagaataccattggat
+            gttggccatcgaggtgcaggaaactctacaacaactgcccagctggctaaagttcaagaa
+            aatactattgcttctttaagaaatgctgctagtcatggtgcagcctttgtagaatttgac
+            gtacacctttcaaaggactttgtgcccgtggtatatcatgatcttacctgttgtttgact
+            atgaaaaagaaatttgatgctgatccagttgaattatttgaaattccagtaaaagaatta
+            acatttgaccaactccagttgttaaagctcactcatgtgactgcactgaaatctaaggat
+            cggaaagaatctgtggttcaggaggaaaattccttttcagaaaatcagccatttccttct
+            cttaagatggttttagagtctttgccagaagatgtagggtttaacattgaaataaaatgg
+            atctgccagcaaagggatggaatgtgggatggtaacttatcaacatattttgacatgaat
+            ctgtttttggatataattttaaaaactgttttagaaaattctgggaagaggagaatagtg
+            ttttcttcatttgatgcagatatttgcacaatggttcggcaaaagcagaacaaatatccg
+            atactatttttaactcaaggaaaatctgagatttatcctgaactcatggacctcagatct
+            cggacaacccccattgcaatgagctttgcacagtttgaaaatctactggggataaatgta
+            catactgaagacttgctcagaaacccatcctatattcaagaggcaaaagctaagggacta
+            gtcatattctgctggggtgatgataccaatgatcctgaaaacagaaggaaattgaaggaa
+            cttggagttaatggtctaatttatgataggatatatgattggatgcctgaacaaccaaat
+            atattccaagtggagcaattggaacgcctgaagcaggaattgccagagcttaagagctgt
+            ttgtgtcccactgttagccgctttgttccctcatctttgtgtggggagtctgatatccat
+            gtggatgccaacggcattgataacgtggagaatgcttag
+///

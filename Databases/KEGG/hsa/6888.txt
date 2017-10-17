@@ -1,0 +1,65 @@
+ENTRY       6888              CDS       T01001
+NAME        TALDO1, TAL, TAL-H, TALDOR, TALH
+DEFINITION  (RefSeq) transaldolase 1
+ORTHOLOGY   K00616  transaldolase [EC:2.2.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P
+DISEASE     H01189  Transaldolase (TALDO) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                6888 (TALDO1)
+               01230 Biosynthesis of amino acids
+                6888 (TALDO1)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                6888 (TALDO1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.2  Transferring aldehyde or ketonic groups
+               2.2.1  Transketolases and transaldolases
+                2.2.1.2  transaldolase
+                 6888 (TALDO1)
+POSITION    11p15.5
+MOTIF       Pfam: TAL_FSA
+DBLINKS     NCBI-GeneID: 6888
+            NCBI-ProteinID: NP_006746
+            OMIM: 602063
+            HGNC: 11559
+            Ensembl: ENSG00000177156
+            Vega: OTTHUMG00000133318
+            Pharos: P37837(Tbio)
+            UniProt: P37837 A0A140VK56
+STRUCTURE   PDB: 1F05
+AASEQ       337
+            MSSSPVKRQRMESALDQLKQFTTVVADTGDFHAIDEYKPQDATTNPSLILAAAQMPAYQE
+            LVEEAIAYGRKLGGSQEDQIKNAIDKLFVLFGAEILKKIPGRVSTEVDARLSFDKDAMVA
+            RARRLIELYKEAGISKDRILIKLSSTWEGIQAGKELEEQHGIHCNMTLLFSFAQAVACAE
+            AGVTLISPFVGRILDWHVANTDKKSYEPLEDPGVKSVTKIYNYYKKFSYKTIVMGASFRN
+            TGEIKALAGCDFLTISPKLLGELLQDNAKLVPVLSAKAAQASDLEKIHLDEKSFRWLHNE
+            DQMAVEKLSDGIRKFAADAVKLERMLTERMFNAENGK
+NTSEQ       1014
+            atgtcgagctcacccgtgaagcgtcagaggatggagtccgcgctggaccagctcaagcag
+            ttcaccaccgtggtggccgacacgggcgacttccacgccatcgacgagtacaagccccag
+            gatgctaccaccaacccgtccctgatcctggccgcagcacagatgcccgcttaccaggag
+            ctggtggaggaggcgattgcctatggccggaagctgggcgggtcacaagaggaccagatt
+            aaaaatgctattgataaactttttgtgttgtttggagcagaaatactaaagaagattccg
+            ggccgagtatccacagaagtagacgcaaggctctcctttgataaagatgcgatggtggcc
+            agagccaggcggctcatcgagctctacaaggaagctgggatcagcaaggaccgaattctt
+            ataaagctgtcatcaacctgggaaggaattcaggctggaaaggagctcgaggagcagcac
+            ggcatccactgcaacatgacgttactcttctccttcgcccaggctgtggcctgtgccgag
+            gcgggtgtgaccctcatctccccatttgttgggcgcatccttgattggcatgtggcaaac
+            accgacaagaaatcctatgagcccctggaagaccctggggtaaagagtgtcactaaaatc
+            tacaactactacaagaagtttagctacaaaaccattgtcatgggcgcctccttccgcaac
+            acgggcgagatcaaagcactggccggctgtgacttcctcaccatctcacccaagctcctg
+            ggagagctgctgcaggacaacgccaagctggtgcctgtgctctcagccaaggcggcccaa
+            gccagtgacctggaaaaaatccacctggatgagaagtctttccgttggttgcacaacgag
+            gaccagatggctgtggagaagctctctgacgggatccgcaagtttgccgctgatgcagtg
+            aagctggagcggatgctgacagaacgaatgttcaatgcagagaatggaaagtag
+///

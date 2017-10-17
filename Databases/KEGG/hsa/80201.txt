@@ -1,0 +1,138 @@
+ENTRY       80201             CDS       T01001
+NAME        HKDC1
+DEFINITION  (RefSeq) hexokinase domain containing 1
+ORTHOLOGY   K00844  hexokinase [EC:2.7.1.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00051  Fructose and mannose metabolism
+            hsa00052  Galactose metabolism
+            hsa00500  Starch and sucrose metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa00524  Neomycin, kanamycin and gentamicin biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa04066  HIF-1 signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04973  Carbohydrate digestion and absorption
+            hsa05230  Central carbon metabolism in cancer
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            hsa_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                80201 (HKDC1)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                80201 (HKDC1)
+               00051 Fructose and mannose metabolism
+                80201 (HKDC1)
+               00052 Galactose metabolism
+                80201 (HKDC1)
+               00500 Starch and sucrose metabolism
+                80201 (HKDC1)
+               00520 Amino sugar and nucleotide sugar metabolism
+                80201 (HKDC1)
+              Biosynthesis of other secondary metabolites
+               00524 Neomycin, kanamycin and gentamicin biosynthesis
+                80201 (HKDC1)
+             Environmental Information Processing
+              Signal transduction
+               04066 HIF-1 signaling pathway
+                80201 (HKDC1)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                80201 (HKDC1)
+              Digestive system
+               04973 Carbohydrate digestion and absorption
+                80201 (HKDC1)
+             Human Diseases
+              Cancers
+               05230 Central carbon metabolism in cancer
+                80201 (HKDC1)
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                80201 (HKDC1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.1  hexokinase
+                 80201 (HKDC1)
+POSITION    10q22.1
+MOTIF       Pfam: Hexokinase_2 Hexokinase_1
+DBLINKS     NCBI-GeneID: 80201
+            NCBI-ProteinID: NP_079406
+            OMIM: 617221
+            HGNC: 23302
+            Ensembl: ENSG00000156510
+            Vega: OTTHUMG00000018371
+            Pharos: Q2TB90(Tbio)
+            UniProt: Q2TB90 B3KT70
+AASEQ       917
+            MFAVHLMAFYFSKLKEDQIKKVDRFLYHMRLSDDTLLDIMRRFRAEMEKGLAKDTNPTAA
+            VKMLPTFVRAIPDGSENGEFLSLDLGGSKFRVLKVQVAEEGKRHVQMESQFYPTPNEIIR
+            GNGTELFEYVADCLADFMKTKDLKHKKLPLGLTFSFPCRQTKLEEGVLLSWTKKFKARGV
+            QDTDVVSRLTKAMRRHKDMDVDILALVNDTVGTMMTCAYDDPYCEVGVIIGTGTNACYME
+            DMSNIDLVEGDEGRMCINTEWGAFGDDGALEDIRTEFDRELDLGSLNPGKQLFEKMISGL
+            YLGELVRLILLKMAKAGLLFGGEKSSALHTKGKIETRHVAAMEKYKEGLANTREILVDLG
+            LEPSEADCIAVQHVCTIVSFRSANLCAAALAAILTRLRENKKVERLRTTVGMDGTLYKIH
+            PQYPKRLHKVVRKLVPSCDVRFLLSESGSTKGAAMVTAVASRVQAQRKQIDRVLALFQLT
+            REQLVDVQAKMRAELEYGLKKKSHGLATVRMLPTYVCGLPDGTEKGKFLALDLGGTNFRV
+            LLVKIRSGRRSVRMYNKIFAIPLEIMQGTGEELFDHIVQCIADFLDYMGLKGASLPLGFT
+            FSFPCRQMSIDKGTLIGWTKGFKATDCEGEDVVDMLREAIKRRNEFDLDIVAVVNDTVGT
+            MMTCGYEDPNCEIGLIAGTGSNMCYMEDMRNIEMVEGGEGKMCINTEWGGFGDNGCIDDI
+            RTRYDTEVDEGSLNPGKQRYEKMTSGMYLGEIVRQILIDLTKQGLLFRGQISERLRTRGI
+            FETKFLSQIESDRLALLQVRRILQQLGLDSTCEDSIVVKEVCGAVSRRAAQLCGAGLAAI
+            VEKRREDQGLEHLRITVGVDGTLYKLHPHFSRILQETVKELAPRCDVTFMLSEDGSGKGA
+            ALITAVAKRLQQAQKEN
+NTSEQ       2754
+            atgtttgcggtccacttgatggcattttacttcagcaagctgaaggaggaccagatcaag
+            aaggtggacaggttcctgtatcacatgcggctctccgatgacacccttttggacatcatg
+            aggcggttccgggctgagatggagaagggcctggcaaaggacaccaaccccacggctgca
+            gtgaagatgttgcccaccttcgtcagggccattcccgatggttccgaaaatggggagttc
+            ctttccctggatctcggagggtccaagttccgagtgctgaaggtgcaagtcgctgaagag
+            gggaagcgacacgtgcagatggagagtcagttctacccaacgcccaatgaaatcatccgc
+            gggaacggcacagagctgtttgaatatgtagctgactgtctggcagatttcatgaagacc
+            aaagatttaaagcataagaaattgccccttggcctaactttttctttcccctgtcgacag
+            actaaactggaagagggtgtcctactttcgtggacaaaaaagtttaaggcacgaggagtt
+            caggacacggatgtggtgagccgtctgaccaaagccatgagaagacacaaggacatggac
+            gtggacatcctggccctggtcaatgacaccgtggggaccatgatgacctgtgcctatgac
+            gacccctactgcgaagttggtgtcatcatcggaactggcaccaatgcgtgttacatggag
+            gacatgagcaacattgacctggtggagggcgacgagggcaggatgtgcatcaacacagag
+            tggggggccttcggggacgacggggccctggaggacattcgcactgagttcgacagggag
+            ctggacctcggctctctcaacccaggaaagcaactgttcgagaagatgatcagtggcctg
+            tacctgggggagcttgtcaggcttatcttgctgaagatggccaaggctggcctcctgttt
+            ggtggtgagaaatcttctgctctccacactaagggcaagatcgaaacacggcacgtggct
+            gccatggagaagtataaagaaggccttgctaatacaagagagatcctggtggacctgggt
+            ctggaaccgtctgaggctgactgcattgccgtccagcatgtctgtaccatcgtctccttc
+            cgctcggccaatctctgtgcagcagctctggcggccatcctgacacgcctccgggagaac
+            aagaaggtggaacggctccggaccacagtgggcatggacggcaccctctacaagatacac
+            cctcagtacccaaaacgcctgcacaaggtggtgaggaaactggtcccaagctgtgatgtc
+            cgcttcctcctgtcagagagtggcagcaccaagggggccgccatggtgaccgcggtggcc
+            tcccgcgtgcaggcccagcggaagcagatcgacagggtgctggctttgttccagctgacc
+            cgagagcagctcgtggacgtgcaggccaagatgcgggctgagctggagtatgggctgaag
+            aagaagagccacgggctggccacggtcaggatgctgcccacctacgtctgcgggctgccg
+            gacggcacagagaaaggaaagtttctcgccctggatcttgggggaaccaacttccgggtc
+            ctcctggtgaagatcagaagtggacggaggtcagtgcgaatgtacaacaagatcttcgcc
+            atccccctggagatcatgcagggcactggtgaggagctctttgatcacattgtgcagtgc
+            atcgccgacttcctggactacatgggcctcaagggagcctccctacctttgggcttcaca
+            ttctcatttccctgcaggcagatgagcattgacaagggaacactcatagggtggaccaaa
+            ggtttcaaggccactgactgtgaaggggaggacgtggtggacatgctcagggaagccatc
+            aagaggagaaacgagtttgacctggacattgttgcagtcgtgaatgatacagtggggacc
+            atgatgacctgtggctatgaagatcctaattgtgagattggcctgattgcaggaacaggc
+            agcaacatgtgctacatggaggacatgaggaacatcgagatggtggaggggggtgaaggg
+            aagatgtgcatcaatacagagtggggaggatttggagacaatggctgcatagatgacatc
+            cggacccgatacgacacggaggtggatgaggggtccttgaatcctggcaagcagagatac
+            gagaaaatgaccagtgggatgtacttgggggagattgtgcggcagatcctgatcgacctg
+            accaagcagggtctcctcttccgagggcagatttcagagcgtctccggaccaggggcatc
+            ttcgaaaccaagttcctgtcccagatcgaaagcgatcggctggcccttctccaggtcagg
+            aggattctgcagcagctgggcctggacagcacgtgtgaggacagcatcgtggtgaaggag
+            gtgtgcggagccgtgtcccggcgggcggcccagctctgcggtgctggcctggccgctata
+            gtggaaaaaaggagagaagaccaggggctagagcacctgaggatcactgtgggtgtggac
+            ggcaccctgtacaagctgcaccctcacttttctagaatattgcaggaaactgtgaaggaa
+            ctagcccctcgatgtgatgtgacattcatgctgtcagaagatggcagtggaaaaggggca
+            gcactgatcactgctgtggccaagaggttacagcaggcacagaaggagaactag
+///

@@ -1,0 +1,79 @@
+ENTRY       1562              CDS       T01001
+NAME        CYP2C18, CPCI, CYP2C, CYP2C17, P450-6B/29C, P450IIC17
+DEFINITION  (RefSeq) cytochrome P450 family 2 subfamily C member 18
+ORTHOLOGY   K17720  cytochrome P450 family 2 subfamily C polypeptide 18 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00830  Retinol metabolism
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1562 (CYP2C18)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                1562 (CYP2C18)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1562 (CYP2C18)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1562 (CYP2C18)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP2 family
+               1562 (CYP2C18)
+POSITION    10q23.33
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1562
+            NCBI-ProteinID: NP_000763
+            OMIM: 601131
+            HGNC: 2620
+            Ensembl: ENSG00000108242
+            Vega: OTTHUMG00000018796
+            Pharos: P33260(Tbio)
+            UniProt: P33260 Q7Z348
+AASEQ       490
+            MDPAVALVLCLSCLFLLSLWRQSSGRGRLPSGPTPLPIIGNILQLDVKDMSKSLTNFSKV
+            YGPVFTVYFGLKPIVVLHGYEAVKEALIDHGEEFSGRGSFPVAEKVNKGLGILFSNGKRW
+            KEIRRFCLMTLRNFGMGKRSIEDRVQEEARCLVEELRKTNASPCDPTFILGCAPCNVICS
+            VIFHDRFDYKDQRFLNLMEKFNENLRILSSPWIQVCNNFPALIDYLPGSHNKIAENFAYI
+            KSYVLERIKEHQESLDMNSARDFIDCFLIKMEQEKHNQQSEFTVESLIATVTDMFGAGTE
+            TTSTTLRYGLLLLLKYPEVTAKVQEEIECVVGRNRSPCMQDRSHMPYTDAVVHEIQRYID
+            LLPTNLPHAVTCDVKFKNYLIPKGTTIITSLTSVLHNDKEFPNPEMFDPGHFLDKSGNFK
+            KSDYFMPFSAGKRMCMGEGLARMELFLFLTTILQNFNLKSQVDPKDIDITPIANAFGRVP
+            PLYQLCFIPV
+NTSEQ       1473
+            atggatccagctgtggctctggtgctctgtctctcctgtttgtttctcctttcactctgg
+            aggcagagctctggaagagggaggctcccgtctggccccactcctctcccgattattgga
+            aatatcctgcagttagatgttaaggacatgagcaaatccttaaccaatttctcaaaagtc
+            tatggccctgtgttcactgtgtattttggcctgaagcccattgtggtgttgcatggatat
+            gaagcagtgaaggaggccctgattgatcatggagaggagttttctggaagaggaagtttt
+            ccagtggctgaaaaagttaacaaaggacttggaatccttttcagcaatggaaagagatgg
+            aaggagatccggcgtttctgcctcatgactctgcggaattttgggatggggaagaggagc
+            atcgaggaccgtgttcaagaggaagcccgctgccttgtggaggagttgagaaaaaccaat
+            gcctcaccctgtgatcccactttcatcctgggctgtgctccctgcaatgtgatctgctct
+            gttattttccatgatcgatttgattataaagatcagaggtttcttaacttgatggaaaaa
+            ttcaatgaaaacctcaggattctgagctctccatggatccaggtctgcaataatttccct
+            gctctcatcgattatctcccaggaagtcataataaaatagctgaaaattttgcttacatt
+            aaaagttatgtattggagagaataaaagaacatcaagaatccctggacatgaacagtgct
+            cgggactttattgattgtttcctgatcaaaatggaacaggaaaagcacaatcaacagtct
+            gaatttactgttgaaagcttgatagccactgtaactgatatgtttggggctggaacagag
+            acaacgagcaccactctgagatatggactcctgctcctgctgaagtacccagaggtcaca
+            gctaaagtccaggaagagattgaatgtgtagttggcagaaaccggagcccctgtatgcag
+            gacaggagtcacatgccctacacagatgctgtggtgcacgagatccagagatacattgac
+            ctcctccccaccaacctgccccatgcagtgacctgtgatgttaaattcaaaaactacctc
+            atccccaagggcacgaccataataacatccctgacttctgtgctgcacaatgacaaagaa
+            ttccccaacccagagatgtttgaccctggccactttctggataagagtggcaactttaag
+            aaaagtgactacttcatgcctttctcagcaggaaaacggatgtgtatgggagagggcctg
+            gcccgcatggagctgtttttattcctgaccaccattttgcagaactttaacctgaaatct
+            caggttgacccaaaggatattgacatcacccccattgccaatgcatttggtcgtgtgcca
+            cccttgtaccagctctgcttcattcctgtctga
+///

@@ -1,0 +1,122 @@
+ENTRY       5588              CDS       T01001
+NAME        PRKCQ, PRKCT, nPKC-theta
+DEFINITION  (RefSeq) protein kinase C theta
+ORTHOLOGY   K18052  novel protein kinase C theta type [EC:2.7.11.13]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04270  Vascular smooth muscle contraction
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04920  Adipocytokine signaling pathway
+            hsa04931  Insulin resistance
+            hsa05162  Measles
+DISEASE     H00408  Type I diabetes mellitus
+DRUG_TARGET Sotrastaurin (DG01406): D09671 D09718
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                5588 (PRKCQ)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                5588 (PRKCQ)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                5588 (PRKCQ)
+               04658 Th1 and Th2 cell differentiation
+                5588 (PRKCQ)
+               04659 Th17 cell differentiation
+                5588 (PRKCQ)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                5588 (PRKCQ)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                5588 (PRKCQ)
+              Sensory system
+               04750 Inflammatory mediator regulation of TRP channels
+                5588 (PRKCQ)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                5588 (PRKCQ)
+              Infectious diseases
+               05162 Measles
+                5588 (PRKCQ)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.13  protein kinase C
+                 5588 (PRKCQ)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: AGC group
+              PKC family [OT]
+               5588 (PRKCQ)
+POSITION    10p15.1
+MOTIF       Pfam: Pkinase Pkinase_Tyr C1_1 Pkinase_C Kinase-like zf-RING_9 Haspin_kinase Zf_RING C1_2 zf-RING-like APH
+DBLINKS     NCBI-GeneID: 5588
+            NCBI-ProteinID: NP_001310194
+            OMIM: 600448
+            HGNC: 9410
+            Ensembl: ENSG00000065675
+            Vega: OTTHUMG00000017623
+            Pharos: Q04759(Tchem)
+            UniProt: Q04759
+STRUCTURE   PDB: 5F9E 1XJD 2JED 4Q9Z 4RA5 2ENJ 2ENN 2ENZ
+AASEQ       706
+            MSPFLRIGLSNFDCGSCQSCQGEAVNPYCAVLVKEYVESENGQMYIQKKPTMYPPWDSTF
+            DAHINKGRVMQIIVKGKNVDLISETTVELYSLAERCRKNNGKTEIWLELKPQGRMLMNAR
+            YFLEMSDTKDMNEFETEGFFALHQRRGAIKQAKVHHVKCHEFTATFFPQPTFCSVCHEFV
+            WGLNKQGYQCRQCNAAIHKKCIDKVIAKCTGSAINSRETMFHKERFKIDMPHRFKVYNYK
+            SPTFCEHCGTLLWGLARQGLKCDACGMNVHHRCQTKVANLCGINQKLMAEALAMIESTQQ
+            ARCLRDTEQIFREGPVEIGLPCSIKNEARPPCLPTPGKREPQGISWESPLDEVDKMCHLP
+            EPELNKERPSLQIKLKIEDFILHKMLGKGSFGKVFLAEFKKTNQFFAIKALKKDVVLMDD
+            DVECTMVEKRVLSLAWEHPFLTHMFCTFQTKENLFFVMEYLNGGDLMYHIQSCHKFDLSR
+            ATFYAAEIILGLQFLHSKGIVYRDLKLDNILLDKDGHIKIADFGMCKENMLGDAKTNTFC
+            GTPDYIAPEILLGQKYNHSVDWWSFGVLLYEMLIGQSPFHGQDEEELFHSIRMDNPFYPR
+            WLEKEAKDLLVKLFVREPEKRLGVRGDIRQHPLFREINWEELERKEIDPPFRPKVKSPFD
+            CSNFDKEFLNEKPRLSFADRALINSMDQNMFRNFSFMNPGMERLIS
+NTSEQ       2121
+            atgtcgccatttcttcggattggcttgtccaactttgactgcgggtcctgccagtcttgt
+            cagggcgaggctgttaacccttactgtgctgtgctcgtcaaagagtatgtcgaatcagag
+            aacgggcagatgtatatccagaaaaagcctaccatgtacccaccctgggacagcactttt
+            gatgcccatatcaacaagggaagagtcatgcagatcattgtgaaaggcaaaaacgtggac
+            ctcatctctgaaaccaccgtggagctctactcgctggctgagaggtgcaggaagaacaac
+            gggaagacagaaatatggttagagctgaaacctcaaggccgaatgctaatgaatgcaaga
+            tactttctggaaatgagtgacacaaaggacatgaatgaatttgagacggaaggcttcttt
+            gctttgcatcagcgccggggtgccatcaagcaggcaaaggtccaccacgtcaagtgccac
+            gagttcactgccaccttcttcccacagcccacattttgctctgtctgccacgagtttgtc
+            tggggcctgaacaaacagggctaccagtgccgacaatgcaatgcagcaattcacaagaag
+            tgtattgataaagttatagcaaagtgcacaggatcagctatcaatagccgagaaaccatg
+            ttccacaaggagagattcaaaattgacatgccacacagatttaaagtctacaattacaag
+            agcccgaccttctgtgaacactgtgggaccctgctgtggggactggcacggcaaggactc
+            aagtgtgatgcatgtggcatgaatgtgcatcatagatgccagacaaaggtggccaacctt
+            tgtggcataaaccagaagctaatggctgaagcgctggccatgattgagagcactcaacag
+            gctcgctgcttaagagatactgaacagatcttcagagaaggtccggttgaaattggtctc
+            ccatgctccatcaaaaatgaagcaaggccgccatgtttaccgacaccgggaaaaagagag
+            cctcagggcatttcctgggagtctccgttggatgaggtggataaaatgtgccatcttcca
+            gaacctgaactgaacaaagaaagaccatctctgcagattaaactaaaaattgaggatttt
+            atcttgcacaaaatgttggggaaaggaagttttggcaaggtcttcctggcagaattcaag
+            aaaaccaatcaatttttcgcaataaaggccttaaagaaagatgtggtcttgatggacgat
+            gatgttgagtgcacgatggtagagaagagagttctttccttggcctgggagcatccgttt
+            ctgacgcacatgttttgtacattccagaccaaggaaaacctcttttttgtgatggagtac
+            ctcaacggaggggacttaatgtaccacatccaaagctgccacaagttcgacctttccaga
+            gcgacgttttatgctgctgaaatcattcttggtctgcagttccttcattccaaaggaata
+            gtctacagggacctgaagctagataacatcctgttagacaaagatggacatatcaagatc
+            gcggattttggaatgtgcaaggagaacatgttaggagatgccaagacgaataccttctgt
+            gggacacctgactacatcgccccagagatcttgctgggtcagaaatacaaccactctgtg
+            gactggtggtccttcggggttctcctttatgaaatgctgattggtcagtcgcctttccac
+            gggcaggatgaggaggagctcttccactccatccgcatggacaatcccttttacccacgg
+            tggctggagaaggaagcaaaggaccttctggtgaagctcttcgtgcgagaacctgagaag
+            aggctgggcgtgaggggagacatccgccagcaccctttgtttcgggagatcaactgggag
+            gaacttgaacggaaggagattgacccaccgttccggccgaaagtgaaatcaccatttgac
+            tgcagcaatttcgacaaagaattcttaaacgagaagccccggctgtcatttgccgacaga
+            gcactgatcaacagcatggaccagaatatgttcaggaacttttccttcatgaaccccggg
+            atggagcggctgatatcctga
+///

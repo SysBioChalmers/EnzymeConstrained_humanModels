@@ -1,0 +1,148 @@
+ENTRY       316               CDS       T01001
+NAME        AOX1, AO, AOH1
+DEFINITION  (RefSeq) aldehyde oxidase 1
+ORTHOLOGY   K00157  aldehyde oxidase [EC:1.2.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00350  Tyrosine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00750  Vitamin B6 metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa00830  Retinol metabolism
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04630  Jak-STAT signaling pathway
+DISEASE     H00192  Xanthinuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                316 (AOX1)
+               00350 Tyrosine metabolism
+                316 (AOX1)
+               00380 Tryptophan metabolism
+                316 (AOX1)
+              Metabolism of cofactors and vitamins
+               00750 Vitamin B6 metabolism
+                316 (AOX1)
+               00760 Nicotinate and nicotinamide metabolism
+                316 (AOX1)
+               00830 Retinol metabolism
+                316 (AOX1)
+              Xenobiotics biodegradation and metabolism
+               00982 Drug metabolism - cytochrome P450
+                316 (AOX1)
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                316 (AOX1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.3  With oxygen as acceptor
+                1.2.3.1  aldehyde oxidase
+                 316 (AOX1)
+POSITION    2q33.1
+MOTIF       Pfam: Ald_Xan_dh_C2 FAD_binding_5 Ald_Xan_dh_C Fer2_2 CO_deh_flav_C Fer2
+DBLINKS     NCBI-GeneID: 316
+            NCBI-ProteinID: NP_001150
+            OMIM: 602841
+            HGNC: 553
+            Ensembl: ENSG00000138356
+            Vega: OTTHUMG00000154536
+            Pharos: Q06278(Tbio)
+            UniProt: Q06278
+STRUCTURE   PDB: 4UHW 4UHX 5EPG
+AASEQ       1338
+            MDRASELLFYVNGRKVIEKNVDPETMLLPYLRKKLRLTGTKYGCGGGGCGACTVMISRYN
+            PITKRIRHHPANACLIPICSLYGAAVTTVEGIGSTHTRIHPVQERIAKCHGTQCGFCTPG
+            MVMSIYTLLRNHPEPTLDQLTDALGGNLCRCTGYRPIIDACKTFCKTSGCCQSKENGVCC
+            LDQGINGLPEFEEGSKTSPKLFAEEEFLPLDPTQELIFPPELMIMAEKQSQRTRVFGSER
+            MMWFSPVTLKELLEFKFKYPQAPVIMGNTSVGPEVKFKGVFHPVIISPDRIEELSVVNHA
+            YNGLTLGAGLSLAQVKDILADVVQKLPEEKTQMYHALLKHLGTLAGSQIRNMASLGGHII
+            SRHPDSDLNPILAVGNCTLNLLSKEGKRQIPLNEQFLSKCPNADLKPQEILVSVNIPYSR
+            KWEFVSAFRQAQRQENALAIVNSGMRVFFGEGDGIIRELCISYGGVGPATICAKNSCQKL
+            IGRHWNEQMLDIACRLILNEVSLLGSAPGGKVEFKRTLIISFLFKFYLEVSQILKKMDPV
+            HYPSLADKYESALEDLHSKHHCSTLKYQNIGPKQHPEDPIGHPIMHLSGVKHATGEAIYC
+            DDMPLVDQELFLTFVTSSRAHAKIVSIDLSEALSMPGVVDIMTAEHLSDVNSFCFFTEAE
+            KFLATDKVFCVGQLVCAVLADSEVQAKRAAKRVKIVYQDLEPLILTIEESIQHNSSFKPE
+            RKLEYGNVDEAFKVVDQILEGEIHMGGQEHFYMETQSMLVVPKGEDQEMDVYVSTQFPKY
+            IQDIVASTLKLPANKVMCHVRRVGGAFGGKVLKTGIIAAVTAFAANKHGRAVRCVLERGE
+            DMLITGGRHPYLGKYKAGFMNDGRILALDMEHYSNAGASLDESLFVIEMGLLKMDNAYKF
+            PNLRCRGWACRTNLPSNTAFRGFGFPQAALITESCITEVAAKCGLSPEKVRIINMYKEID
+            QTPYKQEINAKNLIQCWRECMAMSSYSLRKVAVEKFNAENYWKKKGLAMVPLKFPVGLGS
+            RAAGQAAALVHIYLDGSVLVTHGGIEMGQGVHTKMIQVVSRELRMPMSNVHLRGTSTETV
+            PNANISGGSVVADLNGLAVKDACQTLLKRLEPIISKNPKGTWKDWAQTAFDESINLSAVG
+            YFRGYESDMNWEKGEGQPFEYFVYGAACSEVEIDCLTGDHKNIRTDIVMDVGCSINPAID
+            IGQIEGAFIQGMGLYTIEELNYSPQGILHTRGPDQYKIPAICDMPTELHIALLPPSQNSN
+            TLYSSKGLGESGVFLGCSVFFAIHDAVSAARQERGLHGPLTLNSPLTPEKIRMACEDKFT
+            KMIPRDEPGSYVPWNVPI
+NTSEQ       4017
+            atggaccgggcgtccgagctgctcttctacgtgaacggccgcaaggtgatagaaaaaaat
+            gtcgatcctgaaacaatgctgttgccttatttgaggaagaagcttcgactcacaggaact
+            aagtatggctgtggaggaggaggctgtggtgcttgtacagtgatgatatcacgatacaac
+            cccatcaccaagaggataaggcatcacccagccaatgcctgtctgattcccatctgttct
+            ctgtatggtgctgccgtcaccacagtagaaggcataggaagcacccacaccagaattcat
+            cctgttcaggagaggattgccaagtgtcatggcacccagtgtggcttctgcacacctggg
+            atggtgatgtccatctacacgctgctcaggaaccacccagagcccactctggatcagtta
+            actgatgcccttggtggtaacctgtgccgttgcactggatacaggcccataattgatgca
+            tgcaagactttctgtaaaacttcgggctgctgtcaaagtaaagaaaatggggtttgctgt
+            ttggatcaaggaatcaatggattgccagaatttgaggaaggaagtaagacaagtccaaaa
+            ctcttcgcagaagaggagtttctgccattggatccaacccaggaactgatatttcctcct
+            gagctaatgataatggctgagaaacagtcgcaaaggaccagggtgtttggcagtgagaga
+            atgatgtggttttcccccgtgaccctgaaggaactgctggaatttaaattcaagtatccc
+            caggctcctgttatcatgggaaacacctctgtggggcctgaagtgaaatttaaaggcgtc
+            tttcacccagttataatttctcctgatagaattgaagaactgagtgttgtaaaccatgca
+            tataatggactcacccttggtgctggtctcagcctagcccaggtgaaggacattttggct
+            gatgtagtccagaagcttccagaggagaagacacagatgtaccatgctctcctgaagcat
+            ttgggaactctggctgggtcccagatcaggaacatggcttctttagggggacacatcatt
+            agcaggcatccagattcagatctgaatcccatcctggctgtgggtaactgtaccctcaac
+            ttgctatcaaaagaaggaaaacgacagattcctttaaatgagcaattcctcagcaagtgc
+            cctaatgcagatcttaagcctcaagaaatcttggtctcagtgaacatcccctactcaagg
+            aagtgggaatttgtgtcagccttccgacaagcccagcgacaggagaatgcgctagcgata
+            gtcaattcaggaatgagagtcttttttggagaaggggatggcattattagagagttatgc
+            atctcatatggaggcgttggtccagccaccatctgtgccaagaattcctgccagaaactc
+            attggaaggcactggaacgaacagatgctggatatagcctgcaggcttattctgaatgaa
+            gtctcccttttgggctcggcgccaggtgggaaagtggagttcaagaggactctcatcatc
+            agcttcctcttcaagttctacctggaagtgtcacagattttgaaaaagatggatccagtt
+            cactatcctagccttgcagacaagtatgaaagtgctttagaagatcttcattccaaacat
+            cactgcagtacattaaagtaccagaatataggcccaaagcagcatcctgaagacccaatt
+            ggccaccccatcatgcatctgtctggtgtgaagcatgccacgggggaggccatctactgt
+            gatgacatgcctctggtggaccaggaacttttcttgacttttgtgactagttcaagagct
+            catgctaagattgtgtctattgatctgtcagaagctctcagcatgcccggtgtggtggac
+            atcatgacagcagaacatcttagtgacgtcaactccttctgcttttttactgaagctgag
+            aaatttctggcgacagataaggtgttctgtgtgggtcagcttgtctgtgctgtgcttgcc
+            gattctgaggttcaggcaaagcgagctgctaagcgagtgaagattgtctatcaagacttg
+            gagccgctgatactaacaattgaggaaagtatacaacacaactcctccttcaagccagaa
+            aggaaactggaatatggaaatgttgacgaagcatttaaagtggttgatcaaattcttgaa
+            ggtgaaatacatatgggaggtcaagaacatttttatatggaaacccaaagcatgcttgtc
+            gttcccaagggagaggatcaagaaatggatgtctacgtgtccacacagtttcccaaatat
+            atacaggacattgttgcctcaaccttgaagctcccagctaacaaggtcatgtgccatgta
+            aggcgtgttggtggagcgtttggagggaaggtgttaaaaaccggaatcattgcagccgtc
+            actgcatttgccgcaaacaaacatggccgtgcagttcgctgtgttctggaacgaggagaa
+            gacatgttaataactggaggccgccatccttaccttggaaagtacaaagctggattcatg
+            aacgatggcagaatcttggccctggacatggagcattacagcaatgcaggcgcctccttg
+            gatgaatcattattcgtgatagaaatgggacttctgaaaatggacaatgcttacaagttt
+            cccaatctccgctgccggggttgggcatgcagaaccaaccttccatccaacacagctttt
+            cgtgggtttggctttcctcaggcagcgctgatcaccgaatcttgtatcacggaagttgca
+            gccaaatgtggactatcccctgagaaggtgcgaatcataaacatgtacaaggaaattgat
+            caaacaccctacaaacaagagatcaatgccaagaacctaatccagtgttggagagaatgt
+            atggccatgtcttcctactccttgaggaaagttgctgtggaaaagttcaatgcagagaat
+            tattggaagaagaaaggactggccatggtccccctgaagtttcctgttggccttggctca
+            cgtgctgctggtcaggctgctgccttggttcacatttatcttgatggctctgtgctggtc
+            actcacggtggaattgaaatggggcagggggtccacactaaaatgattcaggtggtcagc
+            cgtgaattaagaatgccaatgtcgaatgtccacctgcgtggaacaagcacagaaactgtc
+            cctaatgcaaatatctctggaggttctgtggtggcagatctcaacggtttggcagtaaag
+            gatgcctgtcaaactcttctaaaacgcctcgaacccatcatcagcaagaatcctaaagga
+            acttggaaagactgggcacagactgcttttgatgaaagcattaacctttcagctgttgga
+            tacttcagaggttatgagtcagacatgaactgggagaaaggcgaaggccagcccttcgaa
+            tactttgtttatggagctgcctgttccgaggttgaaatagactgcctgacgggggatcat
+            aagaacatcagaacagacattgtcatggatgttggctgcagtataaatccagccattgac
+            ataggccagattgaaggtgcatttattcaaggcatgggactttatacaatagaggaactg
+            aattattctccccagggcattctgcacactcgtggtccagaccaatataaaatccctgcc
+            atctgtgacatgcccacggagttgcacattgctttgttgcctccttctcaaaactcaaat
+            actctttattcatctaagggtctgggagagtcgggggtgttcctggggtgttccgtgttt
+            ttcgctatccatgacgcagtgagtgcagcacgacaggagagaggcctgcatggacccttg
+            acccttaatagtccactgaccccggagaagattaggatggcctgtgaagacaagttcaca
+            aaaatgattccgagagatgaacctggatcctacgttccttggaatgtacccatctga
+///

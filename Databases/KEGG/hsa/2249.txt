@@ -1,0 +1,91 @@
+ENTRY       2249              CDS       T01001
+NAME        FGF4, HBGF-4, HST, HST-1, HSTF1, K-FGF, KFGF
+DEFINITION  (RefSeq) fibroblast growth factor 4
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2249 (FGF4)
+               04015 Rap1 signaling pathway
+                2249 (FGF4)
+               04010 MAPK signaling pathway
+                2249 (FGF4)
+               04151 PI3K-Akt signaling pathway
+                2249 (FGF4)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2249 (FGF4)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2249 (FGF4)
+               05218 Melanoma
+                2249 (FGF4)
+               05224 Breast cancer
+                2249 (FGF4)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               2249 (FGF4)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 2249 (FGF4)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 2249 (FGF4)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 2249 (FGF4)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 2249 (FGF4)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               2249 (FGF4)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               2249 (FGF4)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2249 (FGF4)
+POSITION    11q13.3
+MOTIF       Pfam: FGF
+DBLINKS     NCBI-GeneID: 2249
+            NCBI-ProteinID: NP_001998
+            OMIM: 164980
+            HGNC: 3682
+            Ensembl: ENSG00000075388
+            Vega: OTTHUMG00000167887
+            Pharos: P08620(Tbio)
+            UniProt: P08620
+STRUCTURE   PDB: 1IJT
+AASEQ       206
+            MSGPGTAAVALLPAVLLALLAPWAGRGGAAAPTAPNGTLEAELERRWESLVALSLARLPV
+            AAQPKEAAVQSGAGDYLLGIKRLRRLYCNVGIGFHLQALPDGRIGGAHADTRDSLLELSP
+            VERGVVSIFGVASRFFVAMSSKGKLYGSPFFTDECTFKEILLPNNYNAYESYKYPGMFIA
+            LSKNGKTKKGNRVSPTMKVTHFLPRL
+NTSEQ       621
+            atgtcggggcccgggacggccgcggtagcgctgctcccggcggtcctgctggccttgctg
+            gcgccctgggcgggccgagggggcgccgccgcacccactgcacccaacggcacgctggag
+            gccgagctggagcgccgctgggagagcctggtggcgctctcgttggcgcgcctgccggtg
+            gcagcgcagcccaaggaggcggccgtccagagcggcgccggcgactacctgctgggcatc
+            aagcggctgcggcggctctactgcaacgtgggcatcggcttccacctccaggcgctcccc
+            gacggccgcatcggcggcgcgcacgcggacacccgcgacagcctgctggagctctcgccc
+            gtggagcggggcgtggtgagcatcttcggcgtggccagccggttcttcgtggccatgagc
+            agcaagggcaagctctatggctcgcccttcttcaccgatgagtgcacgttcaaggagatt
+            ctccttcccaacaactacaacgcctacgagtcctacaagtaccccggcatgttcatcgcc
+            ctgagcaagaatgggaagaccaagaaggggaaccgagtgtcgcccaccatgaaggtcacc
+            cacttcctccccaggctgtga
+///

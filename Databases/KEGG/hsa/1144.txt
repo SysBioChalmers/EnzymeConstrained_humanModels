@@ -1,0 +1,82 @@
+ENTRY       1144              CDS       T01001
+NAME        CHRND, ACHRD, CMS2A, CMS3A, CMS3B, CMS3C, FCCMS, SCCMS
+DEFINITION  (RefSeq) cholinergic receptor nicotinic delta subunit
+ORTHOLOGY   K04816  nicotinic acetylcholine receptor delta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04080  Neuroactive ligand-receptor interaction
+DISEASE     H00770  Congenital myasthenic syndrome
+            H00986  Multiple pterygium syndrome
+DRUG_TARGET Acetylcholine (DG01133): D00999
+            Atracurium (DG00771): D00758
+            Cisatracurium: D00759
+            Dimethyltubocurarine: D07272
+            Doxacurium chloride: D00760
+            Fazadinium bromide: D07273
+            Gallamine: D02292
+            Gantacurium chloride: D04303
+            Lobeline (DG01287): D02202 D02364 D08138
+            Mivacurium chloride: D00763
+            Pancuronium (DG00769): D00492
+            Pipecuronium bromide: D00764
+            Rapacuronium bromide: D05703
+            Rocuronium bromide: D00765
+            Suxamethonium (DG00768): D00766 D02275
+            Tubocurarine (DG00767): D02207 D08655
+            Vecuronium (DG00770): D00767
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                1144 (CHRND)
+            Ion channels [BR:hsa04040]
+             Cys-loop superfamily
+              Acetylcholine (nicotinic)
+               1144 (CHRND)
+POSITION    2q37.1
+MOTIF       Pfam: Neur_chan_memb Neur_chan_LBD 7tm_1
+DBLINKS     NCBI-GeneID: 1144
+            NCBI-ProteinID: NP_000742
+            OMIM: 100720
+            HGNC: 1965
+            Ensembl: ENSG00000135902
+            Vega: OTTHUMG00000133261
+            Pharos: Q07001(Tclin)
+            UniProt: Q07001
+AASEQ       517
+            MEGPVLTLGLLAALAVCGSWGLNEEERLIRHLFQEKGYNKELRPVAHKEESVDVALALTL
+            SNLISLKEVEETLTTNVWIEHGWTDNRLKWNAEEFGNISVLRLPPDMVWLPEIVLENNND
+            GSFQISYSCNVLVYHYGFVYWLPPAIFRSSCPISVTYFPFDWQNCSLKFSSLKYTAKEIT
+            LSLKQDAKENRTYPVEWIIIDPEGFTENGEWEIVHRPARVNVDPRAPLDSPSRQDITFYL
+            IIRRKPLFYIINILVPCVLISFMVNLVFYLPADSGEKTSVAISVLLAQSVFLLLISKRLP
+            ATSMAIPLIGKFLLFGMVLVTMVVVICVIVLNIHFRTPSTHVLSEGVKKLFLETLPELLH
+            MSRPAEDGPSPGALVRRSSSLGYISKAEEYFLLKSRSDLMFEKQSERHGLARRLTTARRP
+            PASSEQAQQELFNELKPAVDGANFIVNHMRDQNNYNEEKDSWNRVARTVDRLCLFVVTPV
+            MVVGTAWIFLQGVYNQPPPQPFPGDPYSYNVQDKRFI
+NTSEQ       1554
+            atggaggggccagtgctgacactggggctgctggctgccctggcggtgtgtggcagctgg
+            gggctgaacgaggaggagcggctgatccggcacctgtttcaagagaagggctacaacaag
+            gagctccggcccgtggcacacaaagaggagagtgtggacgttgccctggccctcacactc
+            tccaacctcatctccctgaaagaagttgaggagaccctcactaccaatgtgtggatagag
+            cacggctggacagacaaccggctgaagtggaatgctgaagaatttggaaacatcagtgtc
+            ctgcgcctccccccggacatggtgtggctcccagagattgtgctggagaacaacaatgac
+            ggctccttccagatctcctactcctgcaacgtgcttgtctaccactacggcttcgtgtac
+            tggctgccacctgccatcttccgctcctcctgccccatctctgtcacctatttccccttc
+            gactggcagaactgctccctcaagttcagttccctcaagtatacggccaaagagatcacc
+            ctgagcctgaaacaggatgccaaggagaaccgcacctaccccgtggagtggatcatcatt
+            gatcctgaaggcttcacagagaacggggagtgggagatagtccaccggccggccagggtc
+            aacgtggaccccagagcccctctggacagccccagccgccaggacatcaccttctacctc
+            atcatccgccgcaagcccctcttctacatcatcaacatcctggtgccctgcgtgctcatc
+            tccttcatggtcaacctggtcttctacctaccggctgacagtggtgagaagacatcagtg
+            gccatctcggtgctcctggctcagtctgtcttcctgctgctcatctccaagcgtctgcct
+            gccacatccatggccatcccccttatcggcaagttcctgctcttcggcatggtgctggtc
+            accatggttgtggtgatctgtgtcatcgtgctcaacatccacttccgaacacccagcacc
+            catgtgctgtctgagggggtcaagaagctcttcctggagaccctgccggagctcctgcac
+            atgtcccgcccagcagaggatggacccagccctggggccctggtgcggaggagcagctcc
+            ctgggatacatctccaaggccgaggagtacttcctgctcaagtcccgcagtgacctcatg
+            ttcgagaagcagtcagagcggcatgggctggccaggcgcctcaccactgcacgccggccc
+            ccagcaagctctgagcaggcccagcaggaactcttcaatgagctgaagccagctgtggat
+            ggggcaaacttcattgttaaccacatgagggaccagaacaattacaatgaggagaaagac
+            agctggaaccgagtggcccgcacagtggaccgcctctgcctgtttgtggtgacgcctgtc
+            atggtggtgggcacagcctggatcttcctgcagggcgtttacaaccagccaccaccccag
+            ccttttcctggggacccctactcctacaacgtgcaggacaagcgcttcatctag
+///

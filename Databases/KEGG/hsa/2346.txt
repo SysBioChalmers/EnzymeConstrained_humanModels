@@ -1,0 +1,100 @@
+ENTRY       2346              CDS       T01001
+NAME        FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP
+DEFINITION  (RefSeq) folate hydrolase 1
+ORTHOLOGY   K14592  glutamate carboxypeptidase II (folate hydrolase 1) [EC:3.4.17.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa01100  Metabolic pathways
+            hsa04977  Vitamin digestion and absorption
+DRUG_TARGET Capromab pendetide: D03372
+            Indium (111In) capromab pendetide: D04525
+            Iofolastat I 123: D10070
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                2346 (FOLH1)
+             Organismal Systems
+              Digestive system
+               04977 Vitamin digestion and absorption
+                2346 (FOLH1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.17  Metallocarboxypeptidases
+                3.4.17.21  glutamate carboxypeptidase II
+                 2346 (FOLH1)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M28: aminopeptidase Y family
+               2346 (FOLH1)
+POSITION    11p11.12
+MOTIF       Pfam: TFR_dimer Peptidase_M28 PA
+DBLINKS     NCBI-GeneID: 2346
+            NCBI-ProteinID: NP_004467
+            OMIM: 600934
+            HGNC: 3788
+            Ensembl: ENSG00000086205
+            Vega: OTTHUMG00000166625
+            Pharos: Q04609(Tchem)
+            UniProt: Q04609
+STRUCTURE   PDB: 3BI1 3D7F 3D7H 2XEF 2XEG 3RBU 3BHX 2OR4 4NGP 4W9Y 4NGN
+                 2OOT 4P4D 4OC2 4MCP 4MCR 3SJF 3SJG 4P4J 4OC4 3SJX 4P4E
+                 3BI0 4NGS 2XEI 3D7D 4OC5 3SJE 3BXM 2PVW 4JYW 4P44 4OC1
+                 3D7G 4LQG 2XEJ 4OME 4OC3 5D29 5ELY 4MCS 4JZ0 4NGM 5F09
+                 4OC0 4X3R 4P4F 4P4I 4P45 4NGR 4P4B 4MCQ 4NGQ 2PVV 2JBJ
+                 3IWW 4NGT 2C6P 2CIJ 2JBK 1Z8L 2C6C 2C6G
+AASEQ       750
+            MWNLLHETDSAVATARRPRWLCAGALVLAGGFFLLGFLFGWFIKSSNEATNITPKHNMKA
+            FLDELKAENIKKFLYNFTQIPHLAGTEQNFQLAKQIQSQWKEFGLDSVELAHYDVLLSYP
+            NKTHPNYISIINEDGNEIFNTSLFEPPPPGYENVSDIVPPFSAFSPQGMPEGDLVYVNYA
+            RTEDFFKLERDMKINCSGKIVIARYGKVFRGNKVKNAQLAGAKGVILYSDPADYFAPGVK
+            SYPDGWNLPGGGVQRGNILNLNGAGDPLTPGYPANEYAYRRGIAEAVGLPSIPVHPIGYY
+            DAQKLLEKMGGSAPPDSSWRGSLKVPYNVGPGFTGNFSTQKVKMHIHSTNEVTRIYNVIG
+            TLRGAVEPDRYVILGGHRDSWVFGGIDPQSGAAVVHEIVRSFGTLKKEGWRPRRTILFAS
+            WDAEEFGLLGSTEWAEENSRLLQERGVAYINADSSIEGNYTLRVDCTPLMYSLVHNLTKE
+            LKSPDEGFEGKSLYESWTKKSPSPEFSGMPRISKLGSGNDFEVFFQRLGIASGRARYTKN
+            WETNKFSGYPLYHSVYETYELVEKFYDPMFKYHLTVAQVRGGMVFELANSIVLPFDCRDY
+            AVVLRKYADKIYSISMKHPQEMKTYSVSFDSLFSAVKNFTEIASKFSERLQDFDKSNPIV
+            LRMMNDQLMFLERAFIDPLGLPDRPFYRHVIYAPSSHNKYAGESFPGIYDALFDIESKVD
+            PSKAWGEVKRQIYVAAFTVQAAAETLSEVA
+NTSEQ       2253
+            atgtggaatctccttcacgaaaccgactcggctgtggccaccgcgcgccgcccgcgctgg
+            ctgtgcgctggggcgctggtgctggcgggtggcttctttctcctcggcttcctcttcggg
+            tggtttataaaatcctccaatgaagctactaacattactccaaagcataatatgaaagca
+            tttttggatgaattgaaagctgagaacatcaagaagttcttatataattttacacagata
+            ccacatttagcaggaacagaacaaaactttcagcttgcaaagcaaattcaatcccagtgg
+            aaagaatttggcctggattctgttgagctagcacattatgatgtcctgttgtcctaccca
+            aataagactcatcccaactacatctcaataattaatgaagatggaaatgagattttcaac
+            acatcattatttgaaccacctcctccaggatatgaaaatgtttcggatattgtaccacct
+            ttcagtgctttctctcctcaaggaatgccagagggcgatctagtgtatgttaactatgca
+            cgaactgaagacttctttaaattggaacgggacatgaaaatcaattgctctgggaaaatt
+            gtaattgccagatatgggaaagttttcagaggaaataaggttaaaaatgcccagctggca
+            ggggccaaaggagtcattctctactccgaccctgctgactactttgctcctggggtgaag
+            tcctatccagatggttggaatcttcctggaggtggtgtccagcgtggaaatatcctaaat
+            ctgaatggtgcaggagaccctctcacaccaggttacccagcaaatgaatatgcttatagg
+            cgtggaattgcagaggctgttggtcttccaagtattcctgttcatccaattggatactat
+            gatgcacagaagctcctagaaaaaatgggtggctcagcaccaccagatagcagctggaga
+            ggaagtctcaaagtgccctacaatgttggacctggctttactggaaacttttctacacaa
+            aaagtcaagatgcacatccactctaccaatgaagtgacaagaatttacaatgtgataggt
+            actctcagaggagcagtggaaccagacagatatgtcattctgggaggtcaccgggactca
+            tgggtgtttggtggtattgaccctcagagtggagcagctgttgttcatgaaattgtgagg
+            agctttggaacactgaaaaaggaagggtggagacctagaagaacaattttgtttgcaagc
+            tgggatgcagaagaatttggtcttcttggttctactgagtgggcagaggagaattcaaga
+            ctccttcaagagcgtggcgtggcttatattaatgctgactcatctatagaaggaaactac
+            actctgagagttgattgtacaccgctgatgtacagcttggtacacaacctaacaaaagag
+            ctgaaaagccctgatgaaggctttgaaggcaaatctctttatgaaagttggactaaaaaa
+            agtccttccccagagttcagtggcatgcccaggataagcaaattgggatctggaaatgat
+            tttgaggtgttcttccaacgacttggaattgcttcaggcagagcacggtatactaaaaat
+            tgggaaacaaacaaattcagcggctatccactgtatcacagtgtctatgaaacatatgag
+            ttggtggaaaagttttatgatccaatgtttaaatatcacctcactgtggcccaggttcga
+            ggagggatggtgtttgagctagccaattccatagtgctcccttttgattgtcgagattat
+            gctgtagttttaagaaagtatgctgacaaaatctacagtatttctatgaaacatccacag
+            gaaatgaagacatacagtgtatcatttgattcacttttttctgcagtaaagaattttaca
+            gaaattgcttccaagttcagtgagagactccaggactttgacaaaagcaacccaatagta
+            ttaagaatgatgaatgatcaactcatgtttctggaaagagcatttattgatccattaggg
+            ttaccagacaggcctttttataggcatgtcatctatgctccaagcagccacaacaagtat
+            gcaggggagtcattcccaggaatttatgatgctctgtttgatattgaaagcaaagtggac
+            ccttccaaggcctggggagaagtgaagagacagatttatgttgcagccttcacagtgcag
+            gcagctgcagagactttgagtgaagtagcctaa
+///

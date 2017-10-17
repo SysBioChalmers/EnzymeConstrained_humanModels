@@ -1,0 +1,120 @@
+ENTRY       329               CDS       T01001
+NAME        BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1
+DEFINITION  (RefSeq) baculoviral IAP repeat containing 2
+ORTHOLOGY   K16060  baculoviral IAP repeat-containing protein 2/3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa04064  NF-kappa B signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04217  Necroptosis
+            hsa04390  Hippo signaling pathway
+            hsa04510  Focal adhesion
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05145  Toxoplasmosis
+            hsa05200  Pathways in cancer
+            hsa05222  Small cell lung cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                329 (BIRC2)
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                329 (BIRC2)
+               04064 NF-kappa B signaling pathway
+                329 (BIRC2)
+               04668 TNF signaling pathway
+                329 (BIRC2)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                329 (BIRC2)
+               04215 Apoptosis - multiple species
+                329 (BIRC2)
+               04217 Necroptosis
+                329 (BIRC2)
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                329 (BIRC2)
+             Organismal Systems
+              Immune system
+               04621 NOD-like receptor signaling pathway
+                329 (BIRC2)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                329 (BIRC2)
+               05222 Small cell lung cancer
+                329 (BIRC2)
+              Infectious diseases
+               05145 Toxoplasmosis
+                329 (BIRC2)
+              Drug resistance
+               01524 Platinum drug resistance
+                329 (BIRC2)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               Other single Ring-finger type E3
+                329 (BIRC2)
+POSITION    11q22.2
+MOTIF       Pfam: BIR CARD zf-C3HC4_3 Prok-RING_4 zf-RING_5 zf-C3HC4_2 DUF2039 NikR_C
+DBLINKS     NCBI-GeneID: 329
+            NCBI-ProteinID: NP_001157
+            OMIM: 601712
+            HGNC: 590
+            Ensembl: ENSG00000110330
+            Vega: OTTHUMG00000167325
+            Pharos: Q13490(Tchem)
+            UniProt: Q13490
+STRUCTURE   PDB: 4HY4 3D9T 4KMN 4LGE 4HY5 4MU7 3UW4 5M6N 3T6P 4LGU 3M1D
+                 4MTI 3D9U 4EB9 3MUP 3OZ1 2L9M 1QBH
+AASEQ       618
+            MHKTASQRLFPGPSYQNIKSIMEDSTILSDWTNSNKQKMKYDFSCELYRMSTYSTFPAGV
+            PVSERSLARAGFYYTGVNDKVKCFCCGLMLDNWKLGDSPIQKHKQLYPSCSFIQNLVSAS
+            LGSTSKNTSPMRNSFAHSLSPTLEHSSLFSGSYSSLSPNPLNSRAVEDISSSRTNPYSYA
+            MSTEEARFLTYHMWPLTFLSPSELARAGFYYIGPGDRVACFACGGKLSNWEPKDDAMSEH
+            RRHFPNCPFLENSLETLRFSISNLSMQTHAARMRTFMYWPSSVPVQPEQLASAGFYYVGR
+            NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEFLIRMKGQEFVDEIQGRYPHLLEQLL
+            STSDTTGEENADPPIIHFGPGESSSEDAVMMNTPVVKSALEMGFNRDLVKQTVQSKILTT
+            GENYKTVNDIVSALLNAEDEKREEEKEKQAEEMASDDLSLIRKNRMALFQQLTCVLPILD
+            NLLKANVINKQEHDIIKQKTQIPLQARELIDTILVKGNAAANIFKNCLKEIDSTLYKNLF
+            VDKNMKYIPTEDVSGLSLEEQLRRLQEERTCKVCMDKEVSVVFIPCGHLVVCQECAPSLR
+            KCPICRGIIKGTVRTFLS
+NTSEQ       1857
+            atgcacaaaactgcctcccaaagacttttcccaggtccctcgtatcaaaacattaagagt
+            ataatggaagatagcacgatcttgtcagattggacaaacagcaacaaacaaaaaatgaag
+            tatgacttttcctgtgaactctacagaatgtctacatattcaactttccccgccggggtg
+            cctgtctcagaaaggagtcttgctcgtgctggtttttattatactggtgtgaatgacaag
+            gtcaaatgcttctgttgtggcctgatgctggataactggaaactaggagacagtcctatt
+            caaaagcataaacagctatatcctagctgtagctttattcagaatctggtttcagctagt
+            ctgggatccacctctaagaatacgtctccaatgagaaacagttttgcacattcattatct
+            cccaccttggaacatagtagcttgttcagtggttcttactccagcctttctccaaaccct
+            cttaattctagagcagttgaagacatctcttcatcgaggactaacccctacagttatgca
+            atgagtactgaagaagccagatttcttacctaccatatgtggccattaacttttttgtca
+            ccatcagaattggcaagagctggtttttattatataggacctggagatagggtagcctgc
+            tttgcctgtggtgggaagctcagtaactgggaaccaaaggatgatgctatgtcagaacac
+            cggaggcattttcccaactgtccatttttggaaaattctctagaaactctgaggtttagc
+            atttcaaatctgagcatgcagacacatgcagctcgaatgagaacatttatgtactggcca
+            tctagtgttccagttcagcctgagcagcttgcaagtgctggtttttattatgtgggtcgc
+            aatgatgatgtcaaatgcttttgttgtgatggtggcttgaggtgttgggaatctggagat
+            gatccatgggtagaacatgccaagtggtttccaaggtgtgagttcttgatacgaatgaaa
+            ggccaagagtttgttgatgagattcaaggtagatatcctcatcttcttgaacagctgttg
+            tcaacttcagataccactggagaagaaaatgctgacccaccaattattcattttggacct
+            ggagaaagttcttcagaagatgctgtcatgatgaatacacctgtggttaaatctgccttg
+            gaaatgggctttaatagagacctggtgaaacaaacagttcaaagtaaaatcctgacaact
+            ggagagaactataaaacagttaatgatattgtgtcagcacttcttaatgctgaagatgaa
+            aaaagagaagaggagaaggaaaaacaagctgaagaaatggcatcagatgatttgtcatta
+            attcggaagaacagaatggctctctttcaacaattgacatgtgtgcttcctatcctggat
+            aatcttttaaaggccaatgtaattaataaacaggaacatgatattattaaacaaaaaaca
+            cagatacctttacaagcgagagaactgattgataccattttggttaaaggaaatgctgcg
+            gccaacatcttcaaaaactgtctaaaagaaattgactctacattgtataagaacttattt
+            gtggataagaatatgaagtatattccaacagaagatgtttcaggtctgtcactggaagaa
+            caattgaggaggttgcaagaagaacgaacttgtaaagtgtgtatggacaaagaagtttct
+            gttgtatttattccttgtggtcatctggtagtatgccaggaatgtgccccttctctaaga
+            aaatgccctatttgcaggggtataatcaagggtactgttcgtacatttctctcttaa
+///

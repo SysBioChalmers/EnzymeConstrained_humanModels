@@ -1,0 +1,208 @@
+ENTRY       4233              CDS       T01001
+NAME        MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met
+DEFINITION  (RefSeq) MET proto-oncogene, receptor tyrosine kinase
+ORTHOLOGY   K05099  proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04360  Axon guidance
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05144  Malaria
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05211  Renal cell carcinoma
+            hsa05218  Melanoma
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00018  Gastric cancer
+            H00021  Renal cell carcinoma
+            H00046  Cholangiocarcinoma
+DRUG_TARGET Foretinib: D09618
+            Tivantinib: D10173
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                4233 (MET)
+               04015 Rap1 signaling pathway
+                4233 (MET)
+               04151 PI3K-Akt signaling pathway
+                4233 (MET)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                4233 (MET)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                4233 (MET)
+               04520 Adherens junction
+                4233 (MET)
+             Organismal Systems
+              Development
+               04360 Axon guidance
+                4233 (MET)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4233 (MET)
+               05230 Central carbon metabolism in cancer
+                4233 (MET)
+               05202 Transcriptional misregulation in cancers
+                4233 (MET)
+               05206 MicroRNAs in cancer
+                4233 (MET)
+               05205 Proteoglycans in cancer
+                4233 (MET)
+               05218 Melanoma
+                4233 (MET)
+               05211 Renal cell carcinoma
+                4233 (MET)
+              Infectious diseases
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                4233 (MET)
+               05100 Bacterial invasion of epithelial cells
+                4233 (MET)
+               05144 Malaria
+                4233 (MET)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                4233 (MET)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 4233 (MET)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              Met family
+               4233 (MET)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class VI (HGF receptor family)
+               4233 (MET)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class VI (HGF receptor family)
+               4233 (MET)
+POSITION    7q31.2
+MOTIF       Pfam: Pkinase_Tyr Sema TIG Pkinase PSI Kinase-like
+DBLINKS     NCBI-GeneID: 4233
+            NCBI-ProteinID: NP_000236
+            OMIM: 164860
+            HGNC: 7029
+            Ensembl: ENSG00000105976
+            Vega: OTTHUMG00000023299
+            Pharos: P08581(Tclin)
+            UniProt: P08581 A0A024R759
+STRUCTURE   PDB: 4R1V 3ZCL 3F66 3DKC 3Q6U 4MXC 5HTI 5HNI 5EOB 4XMO 3Q6W
+                 5EYC 4AP7 4EEV 3ZXZ 3DKF 1R1W 1R0P 5EYD 4XYF 3ZZE 5UAB
+                 4AOI 3CCN 3DKG 3RHK 5HO6 5HLW 4IWD 5T3Q 4R1Y 4DEG 4DEH
+                 3U6H 3QTI 3I5N 2WGJ 2WD1 3CD8 3LQ8 4DEI 3VW8 3U6I 5HOA
+                 2G15 3C1X 5HOR 3ZC5 3ZBX 2WKM 3EFK 2RFS 5UAD 5UAF 4GG7
+                 3R7O 3CTH 4KNB 3L8V 3CE3 4GG5 3F82 3CTJ 2RFN 3A4P 5DG5
+                 3EFJ 4K3J 4O3T 4O3U 1SHY 2UZX 2UZY 1SSL
+AASEQ       1390
+            MKAPAVLAPGILVLLFTLVQRSNGECKEALAKSEMNVNMKYQLPNFTAETPIQNVILHEH
+            HIFLGATNYIYVLNEEDLQKVAEYKTGPVLEHPDCFPCQDCSSKANLSGGVWKDNINMAL
+            VVDTYYDDQLISCGSVNRGTCQRHVFPHNHTADIQSEVHCIFSPQIEEPSQCPDCVVSAL
+            GAKVLSSVKDRFINFFVGNTINSSYFPDHPLHSISVRRLKETKDGFMFLTDQSYIDVLPE
+            FRDSYPIKYVHAFESNNFIYFLTVQRETLDAQTFHTRIIRFCSINSGLHSYMEMPLECIL
+            TEKRKKRSTKKEVFNILQAAYVSKPGAQLARQIGASLNDDILFGVFAQSKPDSAEPMDRS
+            AMCAFPIKYVNDFFNKIVNKNNVRCLQHFYGPNHEHCFNRTLLRNSSGCEARRDEYRTEF
+            TTALQRVDLFMGQFSEVLLTSISTFIKGDLTIANLGTSEGRFMQVVVSRSGPSTPHVNFL
+            LDSHPVSPEVIVEHTLNQNGYTLVITGKKITKIPLNGLGCRHFQSCSQCLSAPPFVQCGW
+            CHDKCVRSEECLSGTWTQQICLPAIYKVFPNSAPLEGGTRLTICGWDFGFRRNNKFDLKK
+            TRVLLGNESCTLTLSESTMNTLKCTVGPAMNKHFNMSIIISNGHGTTQYSTFSYVDPVIT
+            SISPKYGPMAGGTLLTLTGNYLNSGNSRHISIGGKTCTLKSVSNSILECYTPAQTISTEF
+            AVKLKIDLANRETSIFSYREDPIVYEIHPTKSFISGGSTITGVGKNLNSVSVPRMVINVH
+            EAGRNFTVACQHRSNSEIICCTTPSLQQLNLQLPLKTKAFFMLDGILSKYFDLIYVHNPV
+            FKPFEKPVMISMGNENVLEIKGNDIDPEAVKGEVLKVGNKSCENIHLHSEAVLCTVPNDL
+            LKLNSELNIEWKQAISSTVLGKVIVQPDQNFTGLIAGVVSISTALLLLLGFFLWLKKRKQ
+            IKDLGSELVRYDARVHTPHLDRLVSARSVSPTTEMVSNESVDYRATFPEDQFPNSSQNGS
+            CRQVQYPLTDMSPILTSGDSDISSPLLQNTVHIDLSALNPELVQAVQHVVIGPSSLIVHF
+            NEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVL
+            SLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKKF
+            VHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQKF
+            TTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITVYLLQGRRLLQPEYCPDPLYEVMLKCW
+            HPKAEMRPSFSELVSRISAIFSTFIGEHYVHVNATYVNVKCVAPYPSLLSSEDNADDEVD
+            TRPASFWETS
+NTSEQ       4173
+            atgaaggcccccgctgtgcttgcacctggcatcctcgtgctcctgtttaccttggtgcag
+            aggagcaatggggagtgtaaagaggcactagcaaagtccgagatgaatgtgaatatgaag
+            tatcagcttcccaacttcaccgcggaaacacccatccagaatgtcattctacatgagcat
+            cacattttccttggtgccactaactacatttatgttttaaatgaggaagaccttcagaag
+            gttgctgagtacaagactgggcctgtgctggaacacccagattgtttcccatgtcaggac
+            tgcagcagcaaagccaatttatcaggaggtgtttggaaagataacatcaacatggctcta
+            gttgtcgacacctactatgatgatcaactcattagctgtggcagcgtcaacagagggacc
+            tgccagcgacatgtctttccccacaatcatactgctgacatacagtcggaggttcactgc
+            atattctccccacagatagaagagcccagccagtgtcctgactgtgtggtgagcgccctg
+            ggagccaaagtcctttcatctgtaaaggaccggttcatcaacttctttgtaggcaatacc
+            ataaattcttcttatttcccagatcatccattgcattcgatatcagtgagaaggctaaag
+            gaaacgaaagatggttttatgtttttgacggaccagtcctacattgatgttttacctgag
+            ttcagagattcttaccccattaagtatgtccatgcctttgaaagcaacaattttatttac
+            ttcttgacggtccaaagggaaactctagatgctcagacttttcacacaagaataatcagg
+            ttctgttccataaactctggattgcattcctacatggaaatgcctctggagtgtattctc
+            acagaaaagagaaaaaagagatccacaaagaaggaagtgtttaatatacttcaggctgcg
+            tatgtcagcaagcctggggcccagcttgctagacaaataggagccagcctgaatgatgac
+            attcttttcggggtgttcgcacaaagcaagccagattctgccgaaccaatggatcgatct
+            gccatgtgtgcattccctatcaaatatgtcaacgacttcttcaacaagatcgtcaacaaa
+            aacaatgtgagatgtctccagcatttttacggacccaatcatgagcactgctttaatagg
+            acacttctgagaaattcatcaggctgtgaagcgcgccgtgatgaatatcgaacagagttt
+            accacagctttgcagcgcgttgacttattcatgggtcaattcagcgaagtcctcttaaca
+            tctatatccaccttcattaaaggagacctcaccatagctaatcttgggacatcagagggt
+            cgcttcatgcaggttgtggtttctcgatcaggaccatcaacccctcatgtgaattttctc
+            ctggactcccatccagtgtctccagaagtgattgtggagcatacattaaaccaaaatggc
+            tacacactggttatcactgggaagaagatcacgaagatcccattgaatggcttgggctgc
+            agacatttccagtcctgcagtcaatgcctctctgccccaccctttgttcagtgtggctgg
+            tgccacgacaaatgtgtgcgatcggaggaatgcctgagcgggacatggactcaacagatc
+            tgtctgcctgcaatctacaaggttttcccaaatagtgcaccccttgaaggagggacaagg
+            ctgaccatatgtggctgggactttggatttcggaggaataataaatttgatttaaagaaa
+            actagagttctccttggaaatgagagctgcaccttgactttaagtgagagcacgatgaat
+            acattgaaatgcacagttggtcctgccatgaataagcatttcaatatgtccataattatt
+            tcaaatggccacgggacaacacaatacagtacattctcctatgtggatcctgtaataaca
+            agtatttcgccgaaatacggtcctatggctggtggcactttacttactttaactggaaat
+            tacctaaacagtgggaattctagacacatttcaattggtggaaaaacatgtactttaaaa
+            agtgtgtcaaacagtattcttgaatgttataccccagcccaaaccatttcaactgagttt
+            gctgttaaattgaaaattgacttagccaaccgagagacaagcatcttcagttaccgtgaa
+            gatcccattgtctatgaaattcatccaaccaaatcttttattagtggtgggagcacaata
+            acaggtgttgggaaaaacctgaattcagttagtgtcccgagaatggtcataaatgtgcat
+            gaagcaggaaggaactttacagtggcatgtcaacatcgctctaattcagagataatctgt
+            tgtaccactccttccctgcaacagctgaatctgcaactccccctgaaaaccaaagccttt
+            ttcatgttagatgggatcctttccaaatactttgatctcatttatgtacataatcctgtg
+            tttaagccttttgaaaagccagtgatgatctcaatgggcaatgaaaatgtactggaaatt
+            aagggaaatgatattgaccctgaagcagttaaaggtgaagtgttaaaagttggaaataag
+            agctgtgagaatatacacttacattctgaagccgttttatgcacggtccccaatgacctg
+            ctgaaattgaacagcgagctaaatatagagtggaagcaagcaatttcttcaaccgtcctt
+            ggaaaagtaatagttcaaccagatcagaatttcacaggattgattgctggtgttgtctca
+            atatcaacagcactgttattactacttgggtttttcctgtggctgaaaaagagaaagcaa
+            attaaagatctgggcagtgaattagttcgctacgatgcaagagtacacactcctcatttg
+            gataggcttgtaagtgcccgaagtgtaagcccaactacagaaatggtttcaaatgaatct
+            gtagactaccgagctacttttccagaagatcagtttcctaattcatctcagaacggttca
+            tgccgacaagtgcagtatcctctgacagacatgtcccccatcctaactagtggggactct
+            gatatatccagtccattactgcaaaatactgtccacattgacctcagtgctctaaatcca
+            gagctggtccaggcagtgcagcatgtagtgattgggcccagtagcctgattgtgcatttc
+            aatgaagtcataggaagagggcattttggttgtgtatatcatgggactttgttggacaat
+            gatggcaagaaaattcactgtgctgtgaaatccttgaacagaatcactgacataggagaa
+            gtttcccaatttctgaccgagggaatcatcatgaaagattttagtcatcccaatgtcctc
+            tcgctcctgggaatctgcctgcgaagtgaagggtctccgctggtggtcctaccatacatg
+            aaacatggagatcttcgaaatttcattcgaaatgagactcataatccaactgtaaaagat
+            cttattggctttggtcttcaagtagccaaaggcatgaaatatcttgcaagcaaaaagttt
+            gtccacagagacttggctgcaagaaactgtatgctggatgaaaaattcacagtcaaggtt
+            gctgattttggtcttgccagagacatgtatgataaagaatactatagtgtacacaacaaa
+            acaggtgcaaagctgccagtgaagtggatggctttggaaagtctgcaaactcaaaagttt
+            accaccaagtcagatgtgtggtcctttggcgtgctcctctgggagctgatgacaagagga
+            gccccaccttatcctgacgtaaacacctttgatataactgtttacttgttgcaagggaga
+            agactcctacaacccgaatactgcccagaccccttatatgaagtaatgctaaaatgctgg
+            caccctaaagccgaaatgcgcccatccttttctgaactggtgtcccggatatcagcgatc
+            ttctctactttcattggggagcactatgtccatgtgaacgctacttatgtgaacgtaaaa
+            tgtgtcgctccgtatccttctctgttgtcatcagaagataacgctgatgatgaggtggac
+            acacgaccagcctccttctgggagacatcatag
+///

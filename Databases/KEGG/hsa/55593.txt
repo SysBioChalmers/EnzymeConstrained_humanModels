@@ -1,0 +1,79 @@
+ENTRY       55593             CDS       T01001
+NAME        OTUD5, DUBA
+DEFINITION  (RefSeq) OTU deubiquitinase 5
+ORTHOLOGY   K12655  OTU domain-containing protein 5 [EC:3.4.19.12]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04622  RIG-I-like receptor signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04622 RIG-I-like receptor signaling pathway
+                55593 (OTUD5)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 55593 (OTUD5)
+            Peptidases [BR:hsa01002]
+             Cysteine Peptidases
+              Family C85
+               55593 (OTUD5)
+            Ubiquitin system [BR:hsa04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               OTU
+                55593 (OTUD5)
+POSITION    Xp11.23
+MOTIF       Pfam: OTU Peptidase_C65
+DBLINKS     NCBI-GeneID: 55593
+            NCBI-ProteinID: NP_060072
+            OMIM: 300713
+            HGNC: 25402
+            Ensembl: ENSG00000068308
+            Vega: OTTHUMG00000024130
+            Pharos: Q96G74(Tbio)
+            UniProt: Q96G74 A0A024QZ09
+STRUCTURE   PDB: 3PFY 3TMP 3TMO
+AASEQ       571
+            MTILPKKKPPPPDADPANEPPPPGPMPPAPRRGGGVGVGGGGTGVGGGDRDRDSGVVGAR
+            PRASPPPQGPLPGPPGALHRWALAVPPGAVAGPRPQQASPPPCGGPGGPGGGPGDALGAA
+            AAGVGAAGVVVGVGGAVGVGGCCSGPGHSKRRRQAPGVGAVGGGSPEREEVGAGYNSEDE
+            YEAAAARIEAMDPATVEQQEHWFEKALRDKKGFIIKQMKEDGACLFRAVADQVYGDQDMH
+            EVVRKHCMDYLMKNADYFSNYVTEDFTTYINRKRKNNCHGNHIEMQAMAEMYNRPVEVYQ
+            YSTGTSAVEPINTFHGIHQNEDEPIRVSYHRNIHYNSVVNPNKATIGVGLGLPSFKPGFA
+            EQSLMKNAIKTSEESWIEQQMLEDKKRATDWEATNEAIEEQVARESYLQWLRDQEKQARQ
+            VRGPSQPRKASATCSSATAAASSGLEEWTSRSPRQRSSASSPEHPELHAELGMKPPSPGT
+            VLALAKPPSPCAPGTSSQFSAGADRATSPLVSLYPALECRALIQQMSPSAFGLNDWDDDE
+            ILASVLAVSQQEYLDSMKKNKVHRDPPPDKS
+NTSEQ       1716
+            atgactatactccccaaaaagaagccgccgcctcccgacgccgaccccgccaacgagccg
+            ccgccgcccgggccgatgcccccggcgccgcggcgcggcggaggtgtgggcgtgggcggc
+            ggcggcacgggcgtgggcggcggcgatcgcgaccgtgactccggcgtcgtgggggcccgt
+            ccgcgagcttcgccaccgcctcaaggcccgctaccaggaccgccgggcgctcttcatcgc
+            tgggcgctggccgtgccgcctggtgcagtggcgggtccccggccacaacaggcttctcca
+            cctccttgcgggggcccaggtggtcccggcggcggtcccggcgacgcgctgggcgcagcg
+            gcggcgggtgtgggtgccgcgggcgtggtggtgggtgtgggtggtgccgtaggcgtgggc
+            ggctgctgctccgggcctgggcacagcaagcggcgacgtcaagctcccggggttggcgcg
+            gttggcgggggcagtcccgagcgtgaggaggtcggcgcaggctacaacagtgaggacgag
+            tatgaggcggctgcagcacgcatcgaggctatggaccctgccactgtcgagcagcaggag
+            cattggtttgaaaaggccctacgagacaagaagggcttcatcatcaagcagatgaaggag
+            gatggcgcctgtctcttccgggctgtagctgaccaggtgtatggagaccaggacatgcat
+            gaggttgtgcgaaagcattgcatggactatctgatgaagaatgccgactacttctccaac
+            tatgtcacagaggactttaccacctacattaacaggaagcggaaaaacaattgccatggc
+            aaccacattgagatgcaggccatggcagagatgtacaaccgtcctgtggaggtgtaccag
+            tacagcacaggtacttctgcagtggaacccatcaacacattccatgggatacatcaaaac
+            gaggacgaacccattcgtgttagctaccatcggaatatccactataattcagtggtgaat
+            cctaacaaggccaccattggtgtggggctgggcctgccatcattcaaaccagggtttgca
+            gagcagtctctgatgaagaatgccataaaaacatcggaggagtcatggattgaacagcag
+            atgctagaagacaagaaacgggccacagactgggaggccacaaatgaagccatcgaggag
+            caggtggctcgggaatcctacctgcagtggttgcgggatcaggagaaacaggctcgccag
+            gtccgaggccccagccagccccggaaagccagcgccacatgcagttcggccacagcagca
+            gcctccagtggcctggaggagtggactagccggtccccgcggcagcggagttcagcctcg
+            tcacctgagcaccctgagctgcatgctgaattgggcatgaagcccccttccccaggcact
+            gttttagctcttgccaaacctccttcgccctgtgcgccaggtacaagcagtcagttctcg
+            gcaggggccgaccgggcaacttccccccttgtgtccctctaccctgctttggagtgccgg
+            gccctcattcagcagatgtccccctctgcctttggtctgaatgactgggatgatgatgag
+            atcctagcttcggtgctggcagtgtcccaacaggaatacctagacagtatgaagaaaaac
+            aaagtgcacagagacccgcccccagacaagagttga
+///

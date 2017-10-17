@@ -1,0 +1,67 @@
+ENTRY       10978             CDS       T01001
+NAME        CLP1, HEAB, hClp1
+DEFINITION  (RefSeq) cleavage and polyadenylation factor I subunit 1
+ORTHOLOGY   K14399  polyribonucleotide 5'-hydroxyl-kinase [EC:2.7.1.78]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03015  mRNA surveillance pathway
+DISEASE     H00897  Pontocerebellar hypoplasia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03015 mRNA surveillance pathway
+                10978 (CLP1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.78  polynucleotide 5'-hydroxyl-kinase
+                 10978 (CLP1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA processing factors
+               3' end processing
+                Pre-mRNA cleavage factor IIm (CFIIm)
+                 10978 (CLP1)
+POSITION    11q12.1
+MOTIF       Pfam: CLP1_P CLP1_N Clp1 ATP_bind_1 MMR_HSR1 AAA_18 TniB AAA_22 CbiA AAA_16
+DBLINKS     NCBI-GeneID: 10978
+            NCBI-ProteinID: NP_006822
+            OMIM: 608757
+            HGNC: 16999
+            Ensembl: ENSG00000172409
+            Vega: OTTHUMG00000167146
+            Pharos: Q92989(Tbio)
+            UniProt: Q92989
+AASEQ       425
+            MGEEANDDKKPTTKFELERETELRFEVEASQSVQLELLTGMAEIFGTELTRNKKFTFDAG
+            AKVAVFTWHGCSVQLSGRTEVAYVSKDTPMLLYLNTHTALEQMRRQAEKEEERGPRVMVV
+            GPTDVGKSTVCRLLLNYAVRLGRRPTYVELDVGQGSVSIPGTMGALYIERPADVEEGFSI
+            QAPLVYHFGSTTPGTNIKLYNKITSRLADVFNQRCEVNRRASVSGCVINTCGWVKGSGYQ
+            ALVHAASAFEVDVVVVLDQERLYNELKRDLPHFVRTVLLPKSGGVVERSKDFRRECRDER
+            IREYFYGFRGCFYPHAFNVKFSDVKIYKVGAPTIPDSCLPLGMSQEDNQLKLVPVTPGRD
+            MVHHLLSVSTAEGTEENLSETSVAGFIVVTSVDLEHQVFTVLSPAPRPLPKNFLLIMDIR
+            FMDLK
+NTSEQ       1278
+            atgggagaagaggctaatgatgacaagaagccaaccactaaatttgaactagagcgagaa
+            acagaacttcgctttgaggtggaggcatctcagtcagttcagttggagttgttgactggc
+            atggcagagatctttggcacagagctgacccgaaacaagaaattcacctttgatgctggt
+            gccaaggtggctgttttcacttggcatggctgttctgtgcaactgagcggccgcactgag
+            gtggcttatgtctccaaggacactcctatgttgctttacctcaacactcacacagccttg
+            gaacagatgcggaggcaagcggaaaaggaagaagagcgaggtccccgagtgatggtagtg
+            ggccccactgatgtgggcaagtctacagtgtgtcgccttctgctcaactacgcagtgcgt
+            ttgggccgccgtcccacttatgtggagctggatgtgggccagggttctgtgtccatccct
+            ggtaccatgggggccctctacatcgagcggcctgcagatgtcgaagagggtttctctatc
+            caggcccctctggtgtatcattttggttccaccactcctggcactaacatcaagctttat
+            aataagattacatctcgtttagcagatgtgttcaaccaaaggtgtgaggtgaaccgaagg
+            gcatctgtgagtggctgtgtcattaacacctgtggctgggtcaagggctctggttaccag
+            gctctggtgcatgcagcctcagcttttgaggtggatgtcgttgttgttctggatcaagaa
+            cgactgtacaatgaactgaaacgggacctcccccactttgtacgcactgtgctgctccct
+            aaatctgggggtgtggtggagcgctccaaggacttccggcgggaatgtagggatgagcgt
+            atccgtgagtatttttatggattccgaggctgtttctatccccatgccttcaatgtcaaa
+            ttttcagatgtgaaaatctacaaagttggggcacccaccatcccagactcctgtttacct
+            ttgggcatgtctcaagaggataatcagctcaagctagtacctgtcactcctgggcgagat
+            atggtgcaccacctactgagtgttagcactgccgagggtacagaggagaacctgtccgag
+            acaagtgtagctggcttcattgtggtgaccagtgtggacctggagcatcaggtgtttact
+            gttctgtctccagcccctcgcccactgcctaagaacttccttctcatcatggatatccgg
+            ttcatggatctgaagtag
+///

@@ -1,0 +1,128 @@
+ENTRY       3459              CDS       T01001
+NAME        IFNGR1, CD119, IFNGR, IMD27A, IMD27B
+DEFINITION  (RefSeq) interferon gamma receptor 1
+ORTHOLOGY   K05132  interferon gamma receptor 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04066  HIF-1 signaling pathway
+            hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa05132  Salmonella infection
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05321  Inflammatory bowel disease (IBD)
+DISEASE     H00089  IFN-gamma/IL-12 axis
+            H00342  Tuberculosis
+DRUG_TARGET Interferon gamma (DG00737): D00747 D03357 D08805
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3459 (IFNGR1)
+               04066 HIF-1 signaling pathway
+                3459 (IFNGR1)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3459 (IFNGR1)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3459 (IFNGR1)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                3459 (IFNGR1)
+               04658 Th1 and Th2 cell differentiation
+                3459 (IFNGR1)
+               04659 Th17 cell differentiation
+                3459 (IFNGR1)
+              Development
+               04380 Osteoclast differentiation
+                3459 (IFNGR1)
+             Human Diseases
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                3459 (IFNGR1)
+              Infectious diseases
+               05132 Salmonella infection
+                3459 (IFNGR1)
+               05152 Tuberculosis
+                3459 (IFNGR1)
+               05162 Measles
+                3459 (IFNGR1)
+               05164 Influenza A
+                3459 (IFNGR1)
+               05168 Herpes simplex infection
+                3459 (IFNGR1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3459 (IFNGR1)
+               05145 Toxoplasmosis
+                3459 (IFNGR1)
+               05140 Leishmaniasis
+                3459 (IFNGR1)
+               05142 Chagas disease (American trypanosomiasis)
+                3459 (IFNGR1)
+            Cytokine receptors [BR:hsa04050]
+             Class II cytokine receptor (interferon/IL-10 family receptor)
+              3459 (IFNGR1)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3459 (IFNGR1)
+POSITION    6q23.3
+MOTIF       Pfam: IFNGR1 Tissue_fac Interfer-bind
+DBLINKS     NCBI-GeneID: 3459
+            NCBI-ProteinID: NP_000407
+            OMIM: 107470
+            HGNC: 5439
+            Ensembl: ENSG00000027697
+            Vega: OTTHUMG00000015656
+            Pharos: P15260(Tbio)
+            UniProt: P15260 A0A0S2Z3Y2
+STRUCTURE   PDB: 1FYH 1JRH 1FG9
+AASEQ       489
+            MALLFLLPLVMQGVSRAEMGTADLGPSSVPTPTNVTIESYNMNPIVYWEYQIMPQVPVFT
+            VEVKNYGVKNSEWIDACINISHHYCNISDHVGDPSNSLWVRVKARVGQKESAYAKSEEFA
+            VCRDGKIGPPKLDIRKEEKQIMIDIFHPSVFVNGDEQEVDYDPETTCYIRVYNVYVRMNG
+            SEIQYKILTQKEDDCDEIQCQLAIPVSSLNSQYCVSAEGVLHVWGVTTEKSKEVCITIFN
+            SSIKGSLWIPVVAALLLFLVLSLVFICFYIKKINPLKEKSIILPKSLISVVRSATLETKP
+            ESKYVSLITSYQPFSLEKEVVCEEPLSPATVPGMHTEDNPGKVEHTEELSSITEVVTTEE
+            NIPDVVPGSHLTPIERESSSPLSSNQSEPGSIALNSYHSRNCSESDHSRNGFDTDSSCLE
+            SHSSLSDSEFPPNNKGEIKTEGQELITVIKAPTSFGYDKPHVLVDLLVDDSGKESLIGYR
+            PTEDSKEFS
+NTSEQ       1470
+            atggctctcctctttctcctaccccttgtcatgcagggtgtgagcagggctgagatgggc
+            accgcggatctggggccgtcctcagtgcctacaccaactaatgttacaattgaatcctat
+            aacatgaaccctatcgtatattgggagtaccagatcatgccacaggtccctgtttttacc
+            gtagaggtaaagaactatggtgttaagaattcagaatggattgatgcctgcatcaatatt
+            tctcatcattattgtaatatttctgatcatgttggtgatccatcaaattctctttgggtc
+            agagttaaagccagggttggacaaaaagaatctgcctatgcaaagtcagaagaatttgct
+            gtatgccgagatggaaaaattggaccacctaaactggatatcagaaaggaggagaagcaa
+            atcatgattgacatatttcacccttcagtttttgtaaatggagacgagcaggaagtcgat
+            tatgatcccgaaactacctgttacattagggtgtacaatgtgtatgtgagaatgaacgga
+            agtgagatccagtataaaatactcacgcagaaggaagatgattgtgacgagattcagtgc
+            cagttagcgattccagtatcctcactgaattctcagtactgtgtttcagcagaaggagtc
+            ttacatgtgtggggtgttacaactgaaaagtcaaaagaagtttgtattaccattttcaat
+            agcagtataaaaggttctctttggattccagttgttgctgctttactactctttctagtg
+            cttagcctggtattcatctgtttttatattaagaaaattaatccattgaaggaaaaaagc
+            ataatattacccaagtccttgatctctgtggtaagaagtgctactttagagacaaaacct
+            gaatcaaaatatgtatcactcatcacgtcataccagccattttccttagaaaaggaggtg
+            gtctgtgaagagccgttgtctccagcaacagttccaggcatgcataccgaagacaatcca
+            ggaaaagtggaacatacagaagaactttctagtataacagaagtggtgactactgaagaa
+            aatattcctgacgtggtcccgggcagccatctgactccaatagagagagagagttcttca
+            cctttaagtagtaaccagtctgaacctggcagcatcgctttaaactcgtatcactccaga
+            aattgttctgagagtgatcactccagaaatggttttgatactgattccagctgtctggaa
+            tcacatagctccttatctgactcagaatttcccccaaataataaaggtgaaataaaaaca
+            gaaggacaagagctcataaccgtaataaaagcccccacctcctttggttatgataaacca
+            catgtgctagtggatctacttgtggatgatagcggtaaagagtccttgattggttataga
+            ccaacagaagattccaaagaattttcatga
+///

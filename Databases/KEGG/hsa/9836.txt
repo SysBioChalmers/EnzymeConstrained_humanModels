@@ -1,0 +1,80 @@
+ENTRY       9836              CDS       T01001
+NAME        LCMT2, PPM2, TYW4
+DEFINITION  (RefSeq) leucine carboxyl methyltransferase 2
+ORTHOLOGY   K15451  tRNA wybutosine-synthesizing protein 4 [EC:2.1.1.290 2.3.1.231]
+ORGANISM    hsa  Homo sapiens (human)
+BRITE       Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.290  tRNAPhe [7-(3-amino-3-carboxypropyl)wyosine37-O]-methyltransferase
+                 9836 (LCMT2)
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.231  tRNAPhe {7-[3-amino-3-(methoxycarbonyl)propyl]wyosine37-N}-methoxycarbonyltransferase
+                 9836 (LCMT2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              tRNA modification factors
+               Methyltransferases
+                9836 (LCMT2)
+POSITION    15q15.3
+MOTIF       Pfam: LCM Kelch_6 Kelch_5 Kelch_3 Kelch_2 Kelch_1
+DBLINKS     NCBI-GeneID: 9836
+            NCBI-ProteinID: NP_055608
+            OMIM: 611246
+            HGNC: 17558
+            Ensembl: ENSG00000168806
+            Vega: OTTHUMG00000130705
+            Pharos: O60294(Tbio)
+            UniProt: O60294
+AASEQ       686
+            MGPRSRERRAGAVQNTNDSSALSKRSLAARGYVQDPFAALLVPGAARRAPLIHRGYYVRA
+            RAVRHCVRAFLEQIGAPQAALRAQILSLGAGFDSLYFRLKTAGRLARAAVWEVDFPDVAR
+            RKAERIGETPELCALTGPFERGEPASALCFESADYCILGLDLRQLQRVEEALGAAGLDAA
+            SPTLLLAEAVLTYLEPESAAALIAWAAQRFPNALFVVYEQMRPQDAFGQFMLQHFRQLNS
+            PLHGLERFPDVEAQRRRFLQAGWTACGAVDMNEFYHCFLPAEERRRVENIEPFDEFEEWH
+            LKCAHYFILAASRGDTLSHTLVFPSSEAFPRVNPASPSGVFPASVVSSEGQVPNLKRYGH
+            ASVFLSPDVILSAGGFGEQEGRHCRVSQFHLLSRDCDSEWKGSQIGSCGTGVQWDGRLYH
+            TMTRLSESRVLVLGGRLSPVSPALGVLQLHFFKSEDNNTEDLKVTITKAGRKDDSTLCCW
+            RHSTTEVSCQNQEYLFVYGGRSVVEPVLSDWHFLHVGTMAWVRIPVEGEVPEARHSHSAC
+            TWQGGALIAGGLGASEEPLNSVLFLRPISCGFLWESVDIQPPITPRYSHTAHVLNGKLLL
+            VGGIWIHSSSFPGVTVINLTTGLSSEYQIDTTYVPWPLMLHNHTSILLPEEQQLLLLGGG
+            GNCFSFGTYFNPHTVTLDLSSLSAGQ
+NTSEQ       2061
+            atgggcccccggagccgtgagcgtcgggcaggcgcggtacagaacaccaacgacagcagc
+            gccctcagcaagcgttccctggccgcgcgcgggtacgtgcaggacccctttgccgcgttg
+            ctggttccgggcgcggcgcgccgcgcaccgctcattcaccgaggctactacgtccgcgca
+            cgcgccgtgaggcactgcgtgcgcgcttttttggagcagattggcgcgccccaggccgcg
+            cttcgcgcgcagatcttgtctctcggcgctggcttcgactcgctctattttcgcttaaaa
+            accgcgggccgcctggcccgggctgcagtctgggaggtggattttccggacgtggcgcgg
+            cgcaaagcagaaaggattggagagacgccagagctgtgcgcgttaaccgggcctttcgag
+            aggggggagcccgcgtccgcgctgtgctttgagagcgcagactactgcatcctgggtctg
+            gacttgcggcagctccagcgagtggaggaggccctgggcgccgcggggctcgacgcagcc
+            tcacccactctgctcctggccgaggcggtgctgacctacctcgagccggagagtgccgcg
+            gccctcatcgcctgggcagcccagcgttttcctaatgcccttttcgtggtctatgagcag
+            atgaggcctcaagacgcctttggccagttcatgctgcaacattttcggcagctaaactcc
+            cccctgcatggcctggagcgttttcctgacgtggaggcgcagcggcgccgcttccttcaa
+            gctggctggaccgcctgcggtgccgtggacatgaatgaattctatcactgctttcttccc
+            gcagaagaacgccggcgggtggaaaatattgaaccctttgacgaatttgaggagtggcat
+            ctgaagtgcgcccattatttcattctggcagcttctaggggagacaccctctcccacacc
+            ctagtgtttccatcctcagaggcatttcctcgcgtaaatcctgcttcgccttcaggggta
+            ttccctgccagcgtagtcagtagcgagggccaggtcccaaacctgaagagatatggccac
+            gcctctgtcttcttgagcccagacgttattctcagtgcaggaggatttggagagcaggag
+            gggcggcactgccgagtgagccagtttcacttgctctcaagagattgtgactctgaatgg
+            aaaggcagccaaataggcagttgtgggactggagttcagtgggatggacgcctttatcac
+            accatgacaagactctcagagagtcgggttctggttctgggagggagactgtccccagta
+            agtccagccttgggggttctccagcttcatttttttaagagtgaggataataacactgag
+            gacctgaaagtgacaataacaaaggctggccgaaaggatgattccactttgtgttgttgg
+            cggcattcaacaacagaagtgtcctgtcagaatcaggaatatttgtttgtgtatgggggt
+            cgaagcgtggtggaacctgtactaagtgactggcatttcctccatgtagggacaatggct
+            tgggtcaggatcccagtggagggagaagtacctgaagcccggcattctcacagtgcctgc
+            acttggcaagggggagcccttattgctggaggtctcggggcttctgaggagccattgaac
+            tctgtgctctttctgagaccaatctcttgtggattcctctgggagtcagtagacatccag
+            cctcccattaccccaaggtactcccacacagctcatgtgctcaatggaaagctgttactg
+            gttggagggatctggattcattcctcctcatttcctggagtgactgtgatcaatttgact
+            acaggattgagctctgagtatcagattgacacaacatatgtgccatggccattaatgtta
+            cacaaccatactagtatccttcttcctgaagagcaacagctcctgctccttggaggtggt
+            gggaactgcttttcctttggtacctacttcaacccccatacagtcacattagacctttct
+            tccttaagtgctgggcagtaa
+///

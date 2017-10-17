@@ -1,0 +1,71 @@
+ENTRY       3274              CDS       T01001
+NAME        HRH2, H2R
+DEFINITION  (RefSeq) histamine receptor H2
+ORTHOLOGY   K04150  histamine receptor H2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04971  Gastric acid secretion
+DRUG_TARGET Cimetidine (DG00017): D00295 D03503
+            Famotidine: D00318
+            Histamine: D08040
+            Lafutidine: D01131
+            Niperotidine: D07072
+            Nizatidine: D00440
+            Ranitidine (DG00018): D00422 D00673
+            Ranitidine bismuth citrate: D05699
+            Roxatidine (DG00019): D01467 D08494 D08495
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                3274 (HRH2)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3274 (HRH2)
+             Organismal Systems
+              Digestive system
+               04971 Gastric acid secretion
+                3274 (HRH2)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Histamine [OT]
+                3274 (HRH2)
+POSITION    5q35.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4
+DBLINKS     NCBI-GeneID: 3274
+            NCBI-ProteinID: NP_071640
+            OMIM: 142703
+            HGNC: 5183
+            Ensembl: ENSG00000113749
+            Vega: OTTHUMG00000130660
+            Pharos: P25021(Tclin)
+            UniProt: P25021
+AASEQ       359
+            MAPNGTASSFCLDSTACKITITVVLAVLILITVAGNVVVCLAVGLNRRLRNLTNCFIVSL
+            AITDLLLGLLVLPFSAIYQLSCKWSFGKVFCNIYTSLDVMLCTASILNLFMISLDRYCAV
+            MDPLRYPVLVTPVRVAISLVLIWVISITLSFLSIHLGWNSRNETSKGNHTTSKCKVQVNE
+            VYGLVDGLVTFYLPLLIMCITYYRIFKVARDQAKRINHISSWKAATIREHKATVTLAAVM
+            GAFIICWFPYFTAFVYRGLRGDDAINEVLEAIVLWLGYANSALNPILYAALNRDFRTGYQ
+            QLFCCRLANRNSHKTSLRSNASQLSRTQSREPRQQEEKPLKLQVWSGTEVTAPQGATDR
+NTSEQ       1080
+            atggcacccaatggcacagcctcttccttttgcctggactctaccgcatgcaagatcacc
+            atcaccgtggtccttgcggtcctcatcctcatcaccgttgctggcaatgtggtcgtctgt
+            ctggccgtgggcttgaaccgccggctccgcaacctgaccaattgtttcatcgtgtccttg
+            gctatcactgacctgctcctcggcctcctggtgctgcccttctctgccatctaccagctg
+            tcctgcaagtggagctttggcaaggtcttctgcaatatctacaccagcctggatgtgatg
+            ctctgcacagcctccattcttaacctcttcatgatcagcctcgaccggtactgcgctgtc
+            atggacccactgcggtaccctgtgctggtcaccccagttcgggtcgccatctctctggtc
+            ttaatttgggtcatctccattaccctgtcctttctgtctatccacctggggtggaacagc
+            aggaacgagaccagcaagggcaatcataccacctctaagtgcaaagtccaggtcaatgaa
+            gtgtacgggctggtggatgggctggtcaccttctacctcccgctactgatcatgtgcatc
+            acctactaccgcatcttcaaggtcgcccgggatcaggccaagaggatcaatcacattagc
+            tcctggaaggcagccaccatcagggagcacaaagccacagtgacactggccgccgtcatg
+            ggggccttcatcatctgctggtttccctacttcaccgcgtttgtgtaccgtgggctgaga
+            ggggatgatgccatcaatgaggtgttagaagccatcgttctgtggctgggctatgccaac
+            tcagccctgaaccccatcctgtatgctgcgctgaacagagacttccgcaccgggtaccaa
+            cagctcttctgctgcaggctggccaaccgcaactcccacaaaacttctctgaggtccaac
+            gcctctcagctgtccaggacccaaagccgagaacccaggcaacaggaagagaaacccctg
+            aagctccaggtgtggagtgggacagaagtcacggccccccagggagccacagacaggtaa
+///

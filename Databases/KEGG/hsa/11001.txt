@@ -1,0 +1,93 @@
+ENTRY       11001             CDS       T01001
+NAME        SLC27A2, ACSVL1, FACVL1, FATP2, HsT17226, VLACS, VLCS, hFACVL1
+DEFINITION  (RefSeq) solute carrier family 27 member 2
+ORTHOLOGY   K08746  solute carrier family 27 (fatty acid transporter), member 2 [EC:6.2.1.- 6.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04146  Peroxisome
+            hsa04931  Insulin resistance
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                11001 (SLC27A2)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                11001 (SLC27A2)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                11001 (SLC27A2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.3  long-chain-fatty-acid---CoA ligase
+                 11001 (SLC27A2)
+                6.2.1.-  
+                 11001 (SLC27A2)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Acyl-CoA synthetase
+              Long/very long chain acyl-CoA synthetase
+               11001 (SLC27A2)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC27: Fatty acid transporter
+               11001 (SLC27A2)
+POSITION    15q21.2
+MOTIF       Pfam: AMP-binding AMP-binding_C
+DBLINKS     NCBI-GeneID: 11001
+            NCBI-ProteinID: NP_003636
+            OMIM: 603247
+            HGNC: 10996
+            Ensembl: ENSG00000140284
+            Vega: OTTHUMG00000131643
+            Pharos: O14975(Tbio)
+            UniProt: O14975
+AASEQ       620
+            MLSAIYTVLAGLLFLPLLVNLCCPYFFQDIGYFLKVAAVGRRVRSYGKRRPARTILRAFL
+            EKARQTPHKPFLLFRDETLTYAQVDRRSNQVARALHDHLGLRQGDCVALLMGNEPAYVWL
+            WLGLVKLGCAMACLNYNIRAKSLLHCFQCCGAKVLLVSPELQAAVEEILPSLKKDDVSIY
+            YVSRTSNTDGIDSFLDKVDEVSTEPIPESWRSEVTFSTPALYIYTSGTTGLPKAAMITHQ
+            RIWYGTGLTFVSGLKADDVIYITLPFYHSAALLIGIHGCIVAGATLALRTKFSASQFWDD
+            CRKYNVTVIQYIGELLRYLCNSPQKPNDRDHKVRLALGNGLRGDVWRQFVKRFGDICIYE
+            FYAATEGNIGFMNYARKVGAVGRVNYLQKKIITYDLIKYDVEKDEPVRDENGYCVRVPKG
+            EVGLLVCKITQLTPFNGYAGAKAQTEKKKLRDVFKKGDLYFNSGDLLMVDHENFIYFHDR
+            VGDTFRWKGENVATTEVADTVGLVDFVQEVNVYGVHVPDHEGRIGMASIKMKENHEFDGK
+            KLFQHIADYLPSYARPRFLRIQDTIEITGTFKHRKMTLVEEGFNPAVIKDALYFLDDTAK
+            MYVPMTEDIYNAISAKTLKL
+NTSEQ       1863
+            atgctttccgccatctacacagtcctggcgggactgctgttcctgccgctcctggtgaac
+            ctctgctgcccatacttcttccaggacataggctacttcttgaaggtggccgccgtgggc
+            cggagggtgcgcagctacgggaagcggcggccggcgcgcaccatcctgcgggcgttcctg
+            gagaaagcgcgccagacgccacacaagccttttctgctcttccgcgacgagactctcacc
+            tacgcgcaggtggaccggcgcagcaatcaagtggcccgggcgctgcacgaccacctcggc
+            ctgcgccagggagactgcgtggcgctccttatgggtaacgagccggcctacgtgtggctg
+            tggctggggctggtgaagctgggctgtgccatggcgtgcctcaattacaacatccgcgcg
+            aagtccctgctgcactgcttccagtgctgcggggcgaaggtgctgctggtgtcgccagaa
+            ctacaagcagctgtcgaagagatactgccaagccttaaaaaagatgatgtgtccatctat
+            tatgtgagcagaacttctaacacagatgggattgactctttcctggacaaagtggatgaa
+            gtatcaactgaacctatcccagagtcatggaggtctgaagtcactttttccactcctgcc
+            ttatacatttatacttctggaaccacaggtcttccaaaagcagccatgatcactcatcag
+            cgcatatggtatggaactggcctcacttttgtaagcggattgaaggcagatgatgtcatc
+            tatatcactctgcccttttaccacagtgctgcactactgattggcattcacggatgtatt
+            gtggctggtgctactcttgccttgcggactaaattttcagccagccagttttgggatgac
+            tgcagaaaatacaacgtcactgtcattcagtatatcggtgaactgcttcggtatttatgc
+            aactcaccacagaaaccaaatgaccgtgatcataaagtgagactggcactgggaaatggc
+            ttacgaggagatgtgtggagacaatttgtcaagagatttggggacatatgcatctatgag
+            ttctatgctgccactgaaggcaatattggatttatgaattatgcgagaaaagttggtgct
+            gttggaagagtaaactacctacagaaaaaaatcataacttatgacctgattaaatatgat
+            gtggagaaagatgaacctgtccgtgatgaaaatggatattgcgtcagagttcccaaaggt
+            gaagttggacttctggtttgcaaaatcacacaacttacaccatttaatggctatgctgga
+            gcaaaggctcagacagagaagaaaaaactgagagatgtctttaagaaaggagacctctat
+            ttcaacagtggagatctcttaatggttgaccatgaaaatttcatctatttccacgacaga
+            gttggagatacattccggtggaaaggggaaaatgtggccaccactgaagttgctgataca
+            gttggactggttgattttgtccaagaagtaaatgtttatggagtgcatgtgccagatcat
+            gagggtcgcattggcatggcctccatcaaaatgaaagaaaaccatgaatttgatggaaag
+            aaactctttcagcacattgctgattacctacctagttatgcaaggccccggtttctaaga
+            atacaggacaccattgagatcactggaacttttaaacaccgcaaaatgaccctggtggag
+            gagggctttaaccctgctgtcatcaaagatgccttgtatttcttggatgacacagcaaaa
+            atgtatgtgcctatgactgaggacatctataatgccataagtgctaaaaccctgaaactc
+            tga
+///

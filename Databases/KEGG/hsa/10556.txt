@@ -1,0 +1,68 @@
+ENTRY       10556             CDS       T01001
+NAME        RPP30, TSG15
+DEFINITION  (RefSeq) ribonuclease P/MRP subunit p30
+ORTHOLOGY   K03539  ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+            hsa03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03013 RNA transport
+                10556 (RPP30)
+               03008 Ribosome biogenesis in eukaryotes
+                10556 (RPP30)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.5  ribonuclease P
+                 10556 (RPP30)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               RNases
+                RNase MRP
+                 10556 (RPP30)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              5'processing factors
+               Ribonucrease P
+                10556 (RPP30)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               RNase MRP
+                10556 (RPP30)
+POSITION    10q23.31
+MOTIF       Pfam: RNase_P_p30 PTS_EIIA_2 DUF5333
+DBLINKS     NCBI-GeneID: 10556
+            NCBI-ProteinID: NP_006404
+            OMIM: 606115
+            HGNC: 17688
+            Ensembl: ENSG00000148688
+            Vega: OTTHUMG00000018733
+            Pharos: P78346(Tdark)
+            UniProt: P78346
+AASEQ       268
+            MAVFADLDLRAGSDLKALRGLVETAAHLGYSVVAINHIVDFKEKKQEIEKPVAVSELFTT
+            LPIVQGKSRPIKILTRLTIIVSDPSHCNVLRATSSRARLYDVVAVFPKTEKLFHIACTHL
+            DVDLVCITVTEKLPFYFKRPPINVAIDRGLAFELVYSPAIKDSTMRRYTISSALNLMQIC
+            KGKNVIISSAAERPLEIRGPYDVANLGLLFGLSESDAKAAVSTNCRAALLHGETRKTAFG
+            IISTVKKPRPSEGDEDCLPASKKAKCEG
+NTSEQ       807
+            atggcggtgtttgcagatttggacctgcgagcgggttctgacctgaaggctctgcgcgga
+            cttgtggagacagccgctcaccttggctattcagttgttgctatcaatcatatcgttgac
+            tttaaggaaaagaaacaggaaattgaaaaaccagtagctgtttctgaactcttcacaact
+            ttgccaattgtacagggaaaatcaagaccaattaaaattttaactagattaacaattatt
+            gtctcggatccatctcactgcaatgttttgagagcaacttcttcaagggcccggctctat
+            gatgttgttgcagtttttccaaagacagaaaagctttttcatattgcttgcacacattta
+            gatgtggatttagtctgcataactgtaacagagaaactaccattttacttcaaaagacct
+            cctattaatgtggcgattgaccgaggcctggcttttgaacttgtctatagccctgctatc
+            aaagactccacaatgagaaggtatacaatttccagtgccctcaatttgatgcaaatctgc
+            aaaggaaagaatgtaattatatctagtgctgcagaaaggcctttagaaataagagggcca
+            tatgacgtggcaaatctaggcttgctgtttgggctctctgaaagtgacgccaaggctgcg
+            gtgtccaccaactgccgagcagcgcttctccatggagaaactagaaaaactgcttttgga
+            attatctctacagtgaagaaacctcggccatcagaaggagatgaagattgtcttccagct
+            tccaagaaagccaagtgtgagggctga
+///

@@ -1,0 +1,97 @@
+ENTRY       80326             CDS       T01001
+NAME        WNT10A, OODD, SSPS, STHAG4
+DEFINITION  (RefSeq) Wnt family member 10A
+ORTHOLOGY   K01357  wingless-type MMTV integration site family, member 10
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04150  mTOR signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04916  Melanogenesis
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05217  Basal cell carcinoma
+            hsa05224  Breast cancer
+MODULE      hsa_M00677  Wnt signaling
+DISEASE     H00625  Tooth agenesis
+            H00646  Odontoonychodermal dysplasia
+            H00781  Schopf-Schulz-Passarge syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                80326 (WNT10A)
+               04390 Hippo signaling pathway
+                80326 (WNT10A)
+               04150 mTOR signaling pathway
+                80326 (WNT10A)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                80326 (WNT10A)
+             Organismal Systems
+              Endocrine system
+               04916 Melanogenesis
+                80326 (WNT10A)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                80326 (WNT10A)
+               05205 Proteoglycans in cancer
+                80326 (WNT10A)
+               05217 Basal cell carcinoma
+                80326 (WNT10A)
+               05224 Breast cancer
+                80326 (WNT10A)
+              Infectious diseases
+               05166 HTLV-I infection
+                80326 (WNT10A)
+               05165 Human papillomavirus infection
+                80326 (WNT10A)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Morphogens	(General comment) Effective diffusion, tissue differentiation, development
+               80326 (WNT10A)
+POSITION    2q35
+MOTIF       Pfam: wnt Ebola_NP
+DBLINKS     NCBI-GeneID: 80326
+            NCBI-ProteinID: NP_079492
+            OMIM: 606268
+            HGNC: 13829
+            Ensembl: ENSG00000135925
+            Vega: OTTHUMG00000133085
+            Pharos: Q9GZT5(Tbio)
+            UniProt: Q9GZT5
+AASEQ       417
+            MGSAHPRPWLRLRPQPQPRPALWVLLFFLLLLAAAMPRSAPNDILDLRLPPEPVLNANTV
+            CLTLPGLSRRQMEVCVRHPDVAASAIQGIQIAIHECQHQFRDQRWNCSSLETRNKIPYES
+            PIFSRGFRESAFAYAIAAAGVVHAVSNACALGKLKACGCDASRRGDEEAFRRKLHRLQLD
+            ALQRGKGLSHGVPEHPALPTASPGLQDSWEWGGCSPDMGFGERFSKDFLDSREPHRDIHA
+            RMRLHNNRVGRQAVMENMRRKCKCHGTSGSCQLKTCWQVTPEFRTVGALLRSRFHRATLI
+            RPHNRNGGQLEPGPAGAPSPAPGAPGPRRRASPADLVYFEKSPDFCEREPRLDSAGTVGR
+            LCNKSSAGSDGCGSMCCGRGHNILRQTRSERCHCRFHWCCFVVCEECRITEWVSVCK
+NTSEQ       1254
+            atgggcagcgcccaccctcgcccctggctgcggctccgaccccagccccagccgcggcca
+            gcgctctgggtgctcctgttcttcctactgctgctggctgctgccatgcccaggtcagca
+            cccaatgacattctggacctccgcctccccccggagcccgtgctcaatgccaacacagtg
+            tgcctaacattgccaggcctgagccggcggcagatggaggtgtgtgtgcgtcaccctgat
+            gtggctgcctcagccatacagggcatccagatcgccatccacgaatgccaacaccaattc
+            agggaccagcgctggaactgctcaagcctggagactcgcaacaagatcccctatgagagt
+            cccatcttcagcagaggtttccgagagagcgcttttgcctacgccatcgcagcagctggc
+            gtggtgcacgccgtgtccaatgcgtgtgccctgggcaaactgaaggcctgtggctgtgat
+            gcgtcccggcgaggggacgaggaggccttccgtaggaagctgcaccgcttacaactggat
+            gcactgcagcgtggtaagggcctgagccatggggtcccggaacacccagccctgcccaca
+            gccagcccaggcctgcaggactcctgggagtggggcggctgcagccccgacatgggcttc
+            ggggagcgcttttctaaggactttctggactcccgggagcctcacagagacatccacgcg
+            agaatgaggcttcacaacaaccgagttgggaggcaggcagtgatggagaacatgcggcgg
+            aagtgcaagtgccacggcacgtcaggcagctgccagctcaagacgtgctggcaggtgacg
+            cccgagttccgcaccgtgggggcgctgctgcgcagccgcttccaccgcgccacgctcatc
+            cggccgcacaaccgcaacggcggccagctggagccgggcccagcgggggcaccctcgccg
+            gctccgggcgctcccgggccgcgccgacgggccagccccgccgacctggtctacttcgaa
+            aagtctcccgacttctgcgagcgcgagccgcgcctggactcggcgggcaccgtgggccgc
+            ctgtgcaacaagagcagcgccggctcggatggctgcggcagcatgtgctgcggccgcggc
+            cacaacatcctgcgccagacgcgcagcgagcgctgccactgccgcttccactggtgctgt
+            ttcgtggtctgcgaagagtgccgcatcaccgagtgggtcagcgtctgcaagtga
+///

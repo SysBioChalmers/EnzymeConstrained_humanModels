@@ -1,0 +1,73 @@
+ENTRY       28                CDS       T01001
+NAME        ABO, A3GALNT, A3GALT1, GTB, NAGAT
+DEFINITION  (RefSeq) ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase
+ORTHOLOGY   K00709  histo-blood group ABO system transferase [EC:2.4.1.40 2.4.1.37]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00601 Glycosphingolipid biosynthesis - lacto and neolacto series
+                28 (ABO)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.37  fucosylgalactoside 3-alpha-galactosyltransferase
+                 28 (ABO)
+                2.4.1.40  glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase
+                 28 (ABO)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              ABO blood group
+               28 (ABO)
+POSITION    9q34.2
+MOTIF       Pfam: Glyco_transf_6
+DBLINKS     NCBI-GeneID: 28
+            NCBI-ProteinID: NP_065202
+            OMIM: 110300
+            HGNC: 79
+            Ensembl: ENSG00000175164
+            Pharos: P16442(Tbio)
+            UniProt: P16442 A0A089QDC1
+STRUCTURE   PDB: 3IOH 4Y63 1LZJ 5C3A 1LZI 5C3D 5C47 5C4D 5C3B 5C1L 5BXC
+                 3I0G 5C4F 2RJ6 3SX7 5C4C 4FRA 3SX5 2RIT 5TJK 5C8R 5C38
+                 3SX3 3IOI 2RIZ 2RJ5 5C48 5C1G 5TJN 3SX8 2RJ4 3I0J 5C49
+                 3SXB 3SXE 1ZIZ 4KC1 3SXA 2RJ0 5C4B 4FRB 5C4E 5C36 5C1H
+                 4FRD 3SXD 3I0C 2RJ1 2RIY 1ZI5 1WT1 1XZ6 1R82 3I0F 5TJO
+                 1ZI1 2A8W 1ZJP 1ZHJ 1WSZ 4Y62 4Y64 4KC4 3U0Y 3I0L 5CQN
+                 5CMH 1R7U 1ZJO 5CQM 3V0O 3IOJ 1ZJ1 1R80 1LZ7 2O1H 1ZJ0
+                 3V0M 5CQL 5CQO 2RJ8 2RJ9 2A8U 1ZJ3 1ZJ2 1ZI3 4KC2 3ZGF
+                 2RJ7 2O1G 5CMJ 4FRO 3V0L 3V0N 2RIX 1R7Y 1R81 2PGV 4FRH
+                 3V0Q 1WT0 1WT3 1LZ0 3I0E 5CQP 5CMG 5CMI 4FRE 3U0X 1ZI4
+                 3SXG 5TJL 3ZGG 4FRL 4FRM 3V0P 3SXC 3I0D 3I0I 1WT2 5CMF
+                 1R7X 2O1F 2I7B 4KXO 4FRP 3I0H 4FQW 2Y7A 1R7T 1R7V 4GBP
+                 3I0K 4FRQ 2PGY 4C2S
+AASEQ       354
+            MAEVLRTLAGKPKCHALRPMILFLIMLVLVLFGYGVLSPRSLMPGSLERGFCMAVREPDH
+            LQRVSLPRMVYPQPKVLTPCRKDVLVVTPWLAPIVWEGTFNIDILNEQFRLQNTTIGLTV
+            FAIKKYVAFLKLFLETAEKHFMVGHRVHYYVFTDQPAAVPRVTLGTGRQLSVLEVRAYKR
+            WQDVSMRRMEMISDFCERRFLSEVDYLVCVDVDMEFRDHVGVEILTPLFGTLHPGFYGSS
+            REAFTYERRPQSQAYIPKDEGDFYYLGGFFGGSVQEVQRLTRACHQAMMVDQANGIEAVW
+            HDESHLNKYLLRHKPTKVLSPEYLWDQQLLGWPAVLRKLRFTAVPKNHQAVRNP
+NTSEQ       1065
+            atggccgaggtgttgcggacgctggccggaaaaccaaaatgccacgcacttcgacctatg
+            atccttttcctaataatgcttgtcttggtcttgtttggttacggggtcctaagccccaga
+            agtctaatgccaggaagcctggaacgggggttctgcatggctgttagggaacctgaccat
+            ctgcagcgcgtctcgttgccaaggatggtctacccccagccaaaggtgctgacaccgtgt
+            aggaaggatgtcctcgtggtgaccccttggctggctcccattgtctgggagggcacattc
+            aacatcgacatcctcaacgagcagttcaggctccagaacaccaccattgggttaactgtg
+            tttgccatcaagaaatacgtggctttcctgaagctgttcctggagacggcggagaagcac
+            ttcatggtgggccaccgtgtccactactatgtcttcaccgaccagccggccgcggtgccc
+            cgcgtgacgctggggaccggtcggcagctgtcagtgctggaggtgcgcgcctacaagcgc
+            tggcaggacgtgtccatgcgccgcatggagatgatcagtgacttctgcgagcggcgcttc
+            ctcagcgaggtggattacctggtgtgcgtggacgtggacatggagttccgcgaccacgtg
+            ggcgtggagatcctgactccgctgttcggcaccctgcaccccggcttctacggaagcagc
+            cgggaggccttcacctacgagcgccggccccagtcccaggcctacatccccaaggacgag
+            ggcgatttctactacctgggggggttcttcggggggtcggtgcaagaggtgcagcggctc
+            accagggcctgccaccaggccatgatggtcgaccaggccaacggcatcgaggccgtgtgg
+            cacgacgagagccacctgaacaagtacctgctgcgccacaaacccaccaaggtgctctcc
+            cccgagtacttgtgggaccagcagctgctgggctggcccgccgtcctgaggaagctgagg
+            ttcactgcggtgcccaagaaccaccaggcggtccggaacccgtga
+///

@@ -1,0 +1,91 @@
+ENTRY       8817              CDS       T01001
+NAME        FGF18, FGF-18, ZFGF5
+DEFINITION  (RefSeq) fibroblast growth factor 18
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                8817 (FGF18)
+               04015 Rap1 signaling pathway
+                8817 (FGF18)
+               04010 MAPK signaling pathway
+                8817 (FGF18)
+               04151 PI3K-Akt signaling pathway
+                8817 (FGF18)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                8817 (FGF18)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                8817 (FGF18)
+               05218 Melanoma
+                8817 (FGF18)
+               05224 Breast cancer
+                8817 (FGF18)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               8817 (FGF18)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 8817 (FGF18)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 8817 (FGF18)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 8817 (FGF18)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 8817 (FGF18)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               8817 (FGF18)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               8817 (FGF18)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               8817 (FGF18)
+POSITION    5q35.1
+MOTIF       Pfam: FGF
+DBLINKS     NCBI-GeneID: 8817
+            NCBI-ProteinID: NP_003853
+            OMIM: 603726
+            HGNC: 3674
+            Ensembl: ENSG00000156427
+            Vega: OTTHUMG00000130464
+            Pharos: O76093(Tbio)
+            UniProt: O76093
+STRUCTURE   PDB: 4CJM
+AASEQ       207
+            MYSAPSACTCLCLHFLLLCFQVQVLVAEENVDFRIHVENQTRARDDVSRKQLRLYQLYSR
+            TSGKHIQVLGRRISARGEDGDKYAQLLVETDTFGSQVRIKGKETEFYLCMNRKGKLVGKP
+            DGTSKECVFIEKVLENNYTALMSAKYSGWYVGFTKKGRPRKGPKTRENQQDVHFMKRYPK
+            GQPELQKPFKYTTVTKRSRRIRPTHPA
+NTSEQ       624
+            atgtattcagcgccctccgcctgcacttgcctgtgtttacacttcctgctgctgtgcttc
+            caggtacaggtgctggttgccgaggagaacgtggacttccgcatccacgtggagaaccag
+            acgcgggctcgggacgatgtgagccgtaagcagctgcggctgtaccagctctacagccgg
+            accagtgggaaacacatccaggtcctgggccgcaggatcagtgcccgcggcgaggatggg
+            gacaagtatgcccagctcctagtggagacagacaccttcggtagtcaagtccggatcaag
+            ggcaaggagacggaattctacctgtgcatgaaccgcaaaggcaagctcgtggggaagccc
+            gatggcaccagcaaggagtgtgtgttcatcgagaaggttctggagaacaactacacggcc
+            ctgatgtcggctaagtactccggctggtacgtgggcttcaccaagaaggggcggccgcgg
+            aagggccccaagacccgggagaaccagcaggacgtgcatttcatgaagcgctaccccaag
+            gggcagccggagcttcagaagcccttcaagtacacgacggtgaccaagaggtcccgtcgg
+            atccggcccacacaccctgcctag
+///

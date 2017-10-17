@@ -1,0 +1,81 @@
+ENTRY       22808             CDS       T01001
+NAME        MRAS, M-RAs, R-RAS3, RRAS3
+DEFINITION  (RefSeq) muscle RAS oncogene homolog
+ORTHOLOGY   K07831  Ras-related protein M-Ras
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04137  Mitophagy - animal
+            hsa04140  Autophagy - animal
+            hsa04218  Cellular senescence
+            hsa04371  Apelin signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05166  HTLV-I infection
+            hsa05205  Proteoglycans in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                22808 (MRAS)
+               04015 Rap1 signaling pathway
+                22808 (MRAS)
+               04010 MAPK signaling pathway
+                22808 (MRAS)
+               04371 Apelin signaling pathway
+                22808 (MRAS)
+               04072 Phospholipase D signaling pathway
+                22808 (MRAS)
+             Cellular Processes
+              Transport and catabolism
+               04140 Autophagy - animal
+                22808 (MRAS)
+               04137 Mitophagy - animal
+                22808 (MRAS)
+              Cell growth and death
+               04218 Cellular senescence
+                22808 (MRAS)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                22808 (MRAS)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                22808 (MRAS)
+              Infectious diseases
+               05166 HTLV-I infection
+                22808 (MRAS)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Ras Family
+               Ras [OT]
+                22808 (MRAS)
+POSITION    3q22.3
+MOTIF       Pfam: Ras Roc GTP_EFTU Arf RsgA_GTPase MMR_HSR1 ATP_bind_1 Gtr1_RagA AAA_16 MMR_HSR1_Xtn
+DBLINKS     NCBI-GeneID: 22808
+            NCBI-ProteinID: NP_001078518
+            OMIM: 608435
+            HGNC: 7227
+            Ensembl: ENSG00000158186
+            Vega: OTTHUMG00000159888
+            Pharos: O14807(Tbio)
+            UniProt: O14807 Q6FGP0 Q8WVM9
+AASEQ       208
+            MATSAVPSDNLPTYKLVVVGDGGVGKSALTIQFFQKIFVPDYDPTIEDSYLKHTEIDNQW
+            AILDVLDTAGQEEFSAMREQYMRTGDGFLIVYSVTDKASFEHVDRFHQLILRVKDRESFP
+            MILVANKVDLMHLRKITREQGKEMATKHNIPYIETSAKDPPLNVDKAFHDLVRVIRQQIP
+            EKSQKKKKKTKWRGDRATGTHKLQCVIL
+NTSEQ       627
+            atggcaaccagcgccgtccccagtgacaacctccccacatacaagctggtggtggtgggg
+            gatgggggtgtgggcaaaagtgccctcaccatccagtttttccagaagatctttgtgcct
+            gactatgaccccaccattgaagactcctacctgaaacatacggagattgacaatcaatgg
+            gccatcttggacgttctggacacagctgggcaggaggaattcagcgccatgcgggagcaa
+            tacatgcgcacgggggatggcttcctcatcgtctactccgtcactgacaaggccagcttt
+            gagcacgtggaccgcttccaccagcttatcctgcgcgtcaaagacagggagtcattcccg
+            atgatcctcgtggccaacaaggtcgatttgatgcacttgaggaagatcaccagggagcaa
+            ggaaaagaaatggcgaccaaacacaatattccgtacatagaaaccagtgccaaggaccca
+            cctctcaatgtcgacaaagccttccatgacctcgttagagtaattaggcaacagattccg
+            gaaaaaagccagaagaagaagaagaaaaccaaatggcggggagaccgggccacaggcacc
+            cacaaactgcaatgtgtgatcttgtga
+///

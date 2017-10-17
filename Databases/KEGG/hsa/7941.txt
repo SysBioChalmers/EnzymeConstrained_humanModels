@@ -1,0 +1,68 @@
+ENTRY       7941              CDS       T01001
+NAME        PLA2G7, LDL-PLA2, LP-PLA2, PAFAD, PAFAH
+DEFINITION  (RefSeq) phospholipase A2 group VII
+ORTHOLOGY   K01062  platelet-activating factor acetylhydrolase [EC:3.1.1.47]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00565  Ether lipid metabolism
+            hsa01100  Metabolic pathways
+DRUG_TARGET Darapladib: D03650
+            Goxalapladib: D04368
+            Rilapladib: D05728
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00565 Ether lipid metabolism
+                7941 (PLA2G7)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.47  1-alkyl-2-acetylglycerophosphocholine esterase
+                 7941 (PLA2G7)
+POSITION    6p12.3
+MOTIF       Pfam: PAF-AH_p_II Chlorophyllase2 Hydrolase_4 Abhydrolase_1 Chlorophyllase Peptidase_S9 Abhydrolase_6 Abhydrolase_5 Abhydrolase_2 DLH PGAP1 Abhydrolase_3 DUF676 Lipase_3
+DBLINKS     NCBI-GeneID: 7941
+            NCBI-ProteinID: NP_001161829
+            OMIM: 601690
+            HGNC: 9040
+            Ensembl: ENSG00000146070
+            Vega: OTTHUMG00000014789
+            Pharos: Q13093(Tchem)
+            UniProt: Q13093
+STRUCTURE   PDB: 3D59 3F97 3F98 5LP1 5JAU 5JAT 5LZ5 5JAD 5LZ9 5JAH 5JAL
+                 5JAO 5JAS 5LZ4 5LZ2 5LZ7 3F96 3D5E 5LZ8 5JAR 5JAN 5LYY
+                 3F9C 5I8P 5JAP 5I9I
+AASEQ       441
+            MVPPKLHVLFCLCGCLAVVYPFDWQYINPVAHMKSSAWVNKIQVLMAAASFGQTKIPRGN
+            GPYSVGCTDLMFDHTNKGTFLRLYYPSQDNDRLDTLWIPNKEYFWGLSKFLGTHWLMGNI
+            LRLLFGSMTTPANWNSPLRPGEKYPLVVFSHGLGAFRTLYSAIGIDLASHGFIVAAVEHR
+            DRSASATYYFKDQSAAEIGDKSWLYLRTLKQEEETHIRNEQVRQRAKECSQALSLILDID
+            HGKPVKNALDLKFDMEQLKDSIDREKIAVIGHSFGGATVIQTLSEDQRFRCGIALDAWMF
+            PLGDEVYSRIPQPLFFINSEYFQYPANIIKMKKCYSPDKERKMITIRGSVHQNFADFTFA
+            TGKIIGHMLKLKGDIDSNVAIDLSNKASLAFLQKHLGLHKDFDQWDCLIEGDDENLIPGT
+            NINTTNQHIMLQNSSGIEKYN
+NTSEQ       1326
+            atggtgccacccaaattgcatgtgcttttctgcctctgcggctgcctggctgtggtttat
+            ccttttgactggcaatacataaatcctgttgcccatatgaaatcatcagcatgggtcaac
+            aaaatacaagtactgatggctgctgcaagctttggccaaactaaaatcccccggggaaat
+            gggccttattccgttggttgtacagacttaatgtttgatcacactaataagggcaccttc
+            ttgcgtttatattatccatcccaagataatgatcgccttgacaccctttggatcccaaat
+            aaagaatatttttggggtcttagcaaatttcttggaacacactggcttatgggcaacatt
+            ttgaggttactctttggttcaatgacaactcctgcaaactggaattcccctctgaggcct
+            ggtgaaaaatatccacttgttgttttttctcatggtcttggggcattcaggacactttat
+            tctgctattggcattgacctggcatctcatgggtttatagttgctgctgtagaacacaga
+            gatagatctgcatctgcaacttactatttcaaggaccaatctgctgcagaaataggggac
+            aagtcttggctctaccttagaaccctgaaacaagaggaggagacacatatacgaaatgag
+            caggtacggcaaagagcaaaagaatgttcccaagctctcagtctgattcttgacattgat
+            catggaaagccagtgaagaatgcattagatttaaagtttgatatggaacaactgaaggac
+            tctattgatagggaaaaaatagcagtaattggacattcttttggtggagcaacggttatt
+            cagactcttagtgaagatcagagattcagatgtggtattgccctggatgcatggatgttt
+            ccactgggtgatgaagtatattccagaattcctcagcccctcttttttatcaactctgaa
+            tatttccaatatcctgctaatatcataaaaatgaaaaaatgctactcacctgataaagaa
+            agaaagatgattacaatcaggggttcagtccaccagaattttgctgacttcacttttgca
+            actggcaaaataattggacacatgctcaaattaaagggagacatagattcaaatgtagct
+            attgatcttagcaacaaagcttcattagcattcttacaaaagcatttaggacttcataaa
+            gattttgatcagtgggactgcttgattgaaggagatgatgagaatcttattccagggacc
+            aacattaacacaaccaatcaacacatcatgttacagaactcttcaggaatagagaaatac
+            aattag
+///

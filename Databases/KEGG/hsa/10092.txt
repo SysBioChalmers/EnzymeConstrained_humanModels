@@ -1,0 +1,69 @@
+ENTRY       10092             CDS       T01001
+NAME        ARPC5, ARC16, dJ127C7.3, p16-Arc
+DEFINITION  (RefSeq) actin related protein 2/3 complex subunit 5
+ORTHOLOGY   K05754  actin related protein 2/3 complex, subunit 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04144  Endocytosis
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05100  Bacterial invasion of epithelial cells
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05131  Shigellosis
+            hsa05132  Salmonella infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                10092 (ARPC5)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                10092 (ARPC5)
+             Organismal Systems
+              Immune system
+               04666 Fc gamma R-mediated phagocytosis
+                10092 (ARPC5)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                10092 (ARPC5)
+               05132 Salmonella infection
+                10092 (ARPC5)
+               05131 Shigellosis
+                10092 (ARPC5)
+               05100 Bacterial invasion of epithelial cells
+                10092 (ARPC5)
+            Membrane trafficking [BR:hsa04131]
+             Others
+              Actin-binding proteins
+               Arp2/3 complex
+                10092 (ARPC5)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Arp2/3 complex
+                 10092 (ARPC5)
+POSITION    1q25.3
+MOTIF       Pfam: P16-Arc UTP15_C Utp12
+DBLINKS     NCBI-GeneID: 10092
+            NCBI-ProteinID: NP_005708
+            OMIM: 604227
+            HGNC: 708
+            Ensembl: ENSG00000162704
+            Vega: OTTHUMG00000035326
+            Pharos: O15511(Tbio)
+            UniProt: O15511
+AASEQ       151
+            MSKNTVSSARFRKVDVDEYDENKFVDEEDGGDGQAGPDEGEVDSCLRQGNMTAALQAALK
+            NPPINTKSQAVKDRAGSIVLKVLISFKANDIEKAVQSLDKNGVDLLMKYIYKGFESPSDN
+            SSAMLLQWHEKALAAGGVGSIVRVLTARKTV
+NTSEQ       456
+            atgtcgaagaacacagtgtcgtcggcccgcttccggaaggtggacgtggatgaatatgac
+            gagaacaagttcgtggacgaagaagatgggggcgacggccaggccgggcccgacgagggc
+            gaggtggactcctgcctgcggcaaggaaacatgacagctgccctacaggcagctctgaag
+            aacccccctatcaacaccaagagtcaggcagtgaaggaccgggcaggcagcattgtcttg
+            aaggtgctcatctcttttaaagctaatgatatagaaaaggcagttcaatctctggacaag
+            aatggtgtggatctcctaatgaagtatatttataaaggatttgagagcccgtctgacaat
+            agcagtgctatgttactgcaatggcatgaaaaggcacttgctgctggaggagtagggtcc
+            attgttcgtgtcttgactgcaagaaaaactgtgtag
+///

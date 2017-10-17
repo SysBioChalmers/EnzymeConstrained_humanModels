@@ -1,0 +1,66 @@
+ENTRY       5688              CDS       T01001
+NAME        PSMA7, C6, HEL-S-276, HSPC, RC6-1, XAPC7
+DEFINITION  (RefSeq) proteasome subunit alpha 7
+ORTHOLOGY   K02731  20S proteasome subunit alpha 4 [EC:3.4.25.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03050  Proteasome
+MODULE      hsa_M00337  Immunoproteasome
+            hsa_M00340  Proteasome, 20S core particle
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03050 Proteasome
+                5688 (PSMA7)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.25  Threonine endopeptidases
+                3.4.25.1  proteasome endopeptidase complex
+                 5688 (PSMA7)
+            Peptidases [BR:hsa01002]
+             Threonine Peptidases
+              Family T1: proteasome family
+               5688 (PSMA7)
+            Membrane trafficking [BR:hsa04131]
+             Endosome - Lysosome transport
+              Rab GTPases and associated proteins
+               Rab associated proteins
+                5688 (PSMA7)
+            Proteasome [BR:hsa03051]
+             Eukaryotic proteasome
+              Core particles (20S proteasome)
+               alpha type subunits
+                5688 (PSMA7)
+POSITION    20q13.33
+MOTIF       Pfam: Proteasome Proteasome_A_N Peptidase_C65 DUF5069
+DBLINKS     NCBI-GeneID: 5688
+            NCBI-ProteinID: NP_002783
+            OMIM: 606607
+            HGNC: 9536
+            Ensembl: ENSG00000101182
+            Vega: OTTHUMG00000032895
+            Pharos: O14818(Tbio)
+            UniProt: O14818 A0A0K0K1K4
+STRUCTURE   PDB: 5LE5 5LEY 5LF4 5LF1 5LF7 5LF6 5LF3 5LEZ 5LEX 5LF0 4R3O
+                 4R67 5A0Q 5M32 5T0G 5GJQ 5T0H 5LN3 5T0I 5T0J
+AASEQ       248
+            MSYDRAITVFSPDGHLFQVEYAQEAVKKGSTAVGVRGRDIVVLGVEKKSVAKLQDERTVR
+            KICALDDNVCMAFAGLTADARIVINRARVECQSHRLTVEDPVTVEYITRYIASLKQRYTQ
+            SNGRRPFGISALIVGFDFDGTPRLYQTDPSGTYHAWKANAIGRGAKSVREFLEKNYTDEA
+            IETDDLTIKLVIKALLEVVQSGGKNIELAVMRRDQSLKILNPEEIEKYVAEIEKEKEENE
+            KKKQKKAS
+NTSEQ       747
+            atgagctacgaccgcgccatcaccgtcttctcgcccgacggccacctcttccaagtggag
+            tacgcgcaggaggccgtcaagaagggctcgaccgcggttggtgttcgaggaagagacatt
+            gttgttcttggtgtggagaagaagtcagtggccaaactgcaggatgaaagaacagtgcgg
+            aagatctgtgctttggatgacaacgtctgcatggcctttgcaggcctcaccgccgatgca
+            aggatagtcatcaacagggcccgggtggagtgccagagccaccggctgactgtggaggac
+            ccggtcactgtggagtacatcacccgctacatcgccagtctgaagcagcgttatacgcag
+            agcaatgggcgcaggccgtttggcatctctgccctcatcgtgggtttcgactttgatggc
+            actcctaggctctatcagactgacccctcgggcacataccatgcctggaaggccaatgcc
+            ataggtcggggtgccaagtcagtgcgcgagttcctggagaagaactatactgacgaagcc
+            attgaaacagatgatctgaccattaagctggtgatcaaggcactcctggaagtggttcag
+            tcaggtggcaaaaacattgaacttgctgtcatgaggcgagatcaatccctcaagatttta
+            aatcctgaagaaattgagaagtatgttgctgaaattgaaaaagaaaaagaagaaaacgaa
+            aagaagaaacaaaagaaagcatcatga
+///

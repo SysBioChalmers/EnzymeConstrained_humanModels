@@ -1,0 +1,98 @@
+ENTRY       10998             CDS       T01001
+NAME        SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2
+DEFINITION  (RefSeq) solute carrier family 27 member 5
+ORTHOLOGY   K08748  solute carrier family 27 (fatty acid transporter), member 5 [EC:6.2.1.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00120  Primary bile acid biosynthesis
+            hsa01100  Metabolic pathways
+            hsa03320  PPAR signaling pathway
+            hsa04931  Insulin resistance
+            hsa04976  Bile secretion
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+            hsa_M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00120 Primary bile acid biosynthesis
+                10998 (SLC27A5)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                10998 (SLC27A5)
+              Digestive system
+               04976 Bile secretion
+                10998 (SLC27A5)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04931 Insulin resistance
+                10998 (SLC27A5)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.7  cholate---CoA ligase
+                 10998 (SLC27A5)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC27: Fatty acid transporter
+               10998 (SLC27A5)
+POSITION    19q13.43
+MOTIF       Pfam: AMP-binding AMP-binding_C XdhC_CoxI
+DBLINKS     NCBI-GeneID: 10998
+            NCBI-ProteinID: NP_036386
+            OMIM: 603314
+            HGNC: 10999
+            Ensembl: ENSG00000083807
+            Vega: OTTHUMG00000183543
+            Pharos: Q9Y2P5(Tbio)
+            UniProt: Q9Y2P5
+AASEQ       690
+            MGVRQQLALLLLLLLLLWGLGQPVWPVAVALTLRWLLGDPTCCVLLGLAMLARPWLGPWV
+            PHGLSLAAAALALTLLPARLPPGLRWLPADVIFLAKILHLGLKIRGCLSRQPPDTFVDAF
+            ERRARAQPGRALLVWTGPGAGSVTFGELDARACQAAWALKAELGDPASLCAGEPTALLVL
+            ASQAVPALCMWLGLAKLGCPTAWINPHGRGMPLAHSVLSSGARVLVVDPDLRESLEEILP
+            KLQAENIRCFYLSHTSPTPGVGALGAALDAAPSHPVPADLRAGITWRSPALFIYTSGTTG
+            LPKPAILTHERVLQMSKMLSLSGATADDVVYTVLPLYHVMGLVVGILGCLDLGATCVLAP
+            KFSTSCFWDDCRQHGVTVILYVGELLRYLCNIPQQPEDRTHTVRLAMGNGLRADVWETFQ
+            QRFGPIRIWEVYGSTEGNMGLVNYVGRCGALGKMSCLLRMLSPFELVQFDMEAAEPVRDN
+            QGFCIPVGLGEPGLLLTKVVSQQPFVGYRGPRELSERKLVRNVRQSGDVYYNTGDVLAMD
+            REGFLYFRDRLGDTFRWKGENVSTHEVEGVLSQVDFLQQVNVYGVCVPGCEGKVGMAAVQ
+            LAPGQTFDGEKLYQHVRAWLPAYATPHFIRIQDAMEVTSTFKLMKTRLVREGFNVGIVVD
+            PLFVLDNRAQSFRPLTAEMYQAVCEGTWRL
+NTSEQ       2073
+            atgggtgtcaggcaacagttggccttgctgctgctgctgctgctcctgctctggggcctg
+            gggcagccagtgtggccagtcgctgtggccttgaccctgcgctggctcctgggggatccc
+            acatgttgcgtgctacttgggctggccatgttagcacggccctggctcggcccctgggtg
+            ccccatgggctgagcctggcagctgcggccctggcactaaccctcctgccagcacggctg
+            cccccaggactacgctggctgccggctgatgtgatcttcttggccaagatcctccacctg
+            ggcctgaagatcaggggatgcttgagccggcagccgcctgacacctttgtagatgccttc
+            gagcggcgagcacgagcgcagcctggcagggcactcttggtgtggacggggcctggggcc
+            ggctcagtcacctttggtgagctggatgcccgggcctgccaggcggcatgggccctgaag
+            gctgagctgggtgaccctgcgagcctgtgtgccggggagcctactgccctccttgtgctg
+            gcttcccaggccgttccagccctgtgtatgtggctggggctggccaagctgggctgccca
+            acagcctggatcaacccgcatggccgggggatgcccctggcgcactctgtgctgagctct
+            ggggcccgggtgctggtggtggacccagacctccgggagagcctggaggagatccttccc
+            aagctgcaggctgagaacatccgctgcttctacctcagccatacctcccctacaccaggg
+            gtgggggctctgggggctgccctggatgcagcgccctcccacccagtgcctgctgacctg
+            cgtgctgggatcacatggagaagccctgccctcttcatctatacctcggggaccactggc
+            ctcccgaagccagccatcctcacgcatgagcgggtactgcagatgagcaagatgctgtcc
+            ttatctggggccacagctgatgatgtggtttacacggtcctgcctctgtaccacgtgatg
+            ggacttgtcgttgggatcctcggctgcttagatctcggagccacctgtgttctggccccc
+            aagttctctacttcctgcttctgggatgactgtcggcagcatggcgtgacagtgatcctg
+            tatgtgggcgagctcctgcggtacttgtgtaacattccccagcaaccagaggaccggaca
+            catacagtccgcctggcaatgggcaatggactacgggctgatgtgtgggagaccttccag
+            cagcgcttcggtcctattcggatctgggaagtctacggctccacagaaggcaacatgggc
+            ttagtcaactatgtggggcgctgcggggccctgggcaagatgagctgcctcctccgaatg
+            ctgtccccctttgagctggtgcagttcgacatggaggcggcggagcctgtgagggacaat
+            cagggcttctgcatccctgtagggctaggggagccggggctgctgctgaccaaggtggta
+            agccagcaacccttcgtgggctaccgcggcccccgagagctgtcggaacggaagctggtg
+            cgcaacgtgcggcaatcgggcgacgtttactacaacaccggggacgtactggccatggac
+            cgcgaaggcttcctctacttccgcgaccgcctcggggacaccttccgatggaagggcgag
+            aacgtgtccacgcacgaggtggagggcgtgttgtcgcaggtggacttcttgcaacaggtt
+            aacgtgtatggcgtgtgcgtgccaggttgtgagggtaaggtgggcatggctgctgtgcag
+            ctagcccccggccagactttcgacggggagaagttgtaccagcacgttcgcgcttggctc
+            cctgcctacgctaccccccatttcatccgcatccaggacgccatggaggtcaccagcacg
+            ttcaaactgatgaagacccggttggtgcgtgagggcttcaatgtggggatcgtggttgac
+            cctctgtttgtactggacaaccgggcccagtccttccggcccctgacggcagaaatgtac
+            caggctgtgtgtgagggaacctggaggctctga
+///

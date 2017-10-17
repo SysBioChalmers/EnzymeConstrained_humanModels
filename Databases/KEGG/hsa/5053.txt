@@ -1,0 +1,76 @@
+ENTRY       5053              CDS       T01001
+NAME        PAH, PH, PKU, PKU1
+DEFINITION  (RefSeq) phenylalanine hydroxylase
+ORTHOLOGY   K00500  phenylalanine-4-hydroxylase [EC:1.14.16.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00360  Phenylalanine metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01230  Biosynthesis of amino acids
+DISEASE     H00167  Phenylketonuria (PKU)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                5053 (PAH)
+              Amino acid metabolism
+               00360 Phenylalanine metabolism
+                5053 (PAH)
+               00400 Phenylalanine, tyrosine and tryptophan biosynthesis
+                5053 (PAH)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                5053 (PAH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.16  With reduced pteridine as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.16.1  phenylalanine 4-monooxygenase
+                 5053 (PAH)
+POSITION    12q23.2
+MOTIF       Pfam: Biopterin_H ACT ACT_4
+DBLINKS     NCBI-GeneID: 5053
+            NCBI-ProteinID: NP_000268
+            OMIM: 612349
+            HGNC: 8582
+            Ensembl: ENSG00000171759
+            Vega: OTTHUMG00000169966
+            Pharos: P00439(Tclin)
+            UniProt: P00439 A0A024RBG4
+STRUCTURE   PDB: 1J8U 1J8T 5FII 1MMK 1MMT 1DMW 3PAH 4PAH 1PAH 1TDW 1LRM
+                 5PAH 4ANP 6PAH 1TG2 1KW0 2PAH
+AASEQ       452
+            MSTAVLENPGLGRKLSDFGQETSYIEDNCNQNGAISLIFSLKEEVGALAKVLRLFEENDV
+            NLTHIESRPSRLKKDEYEFFTHLDKRSLPALTNIIKILRHDIGATVHELSRDKKKDTVPW
+            FPRTIQELDRFANQILSYGAELDADHPGFKDPVYRARRKQFADIAYNYRHGQPIPRVEYM
+            EEEKKTWGTVFKTLKSLYKTHACYEYNHIFPLLEKYCGFHEDNIPQLEDVSQFLQTCTGF
+            RLRPVAGLLSSRDFLGGLAFRVFHCTQYIRHGSKPMYTPEPDICHELLGHVPLFSDRSFA
+            QFSQEIGLASLGAPDEYIEKLATIYWFTVEFGLCKQGDSIKAYGAGLLSSFGELQYCLSE
+            KPKLLPLELEKTAIQNYTVTEFQPLYYVAESFNDAKEKVRNFAATIPRPFSVRYDPYTQR
+            IEVLDNTQQLKILADSINSEIGILCSALQKIK
+NTSEQ       1359
+            atgtccactgcggtcctggaaaacccaggcttgggcaggaaactctctgactttggacag
+            gaaacaagctatattgaagacaactgcaatcaaaatggtgccatatcactgatcttctca
+            ctcaaagaagaagttggtgcattggccaaagtattgcgcttatttgaggagaatgatgta
+            aacctgacccacattgaatctagaccttctcgtttaaagaaagatgagtatgaatttttc
+            acccatttggataaacgtagcctgcctgctctgacaaacatcatcaagatcttgaggcat
+            gacattggtgccactgtccatgagctttcacgagataagaagaaagacacagtgccctgg
+            ttcccaagaaccattcaagagctggacagatttgccaatcagattctcagctatggagcg
+            gaactggatgctgaccaccctggttttaaagatcctgtgtaccgtgcaagacggaagcag
+            tttgctgacattgcctacaactaccgccatgggcagcccatccctcgagtggaatacatg
+            gaggaagaaaagaaaacatggggcacagtgttcaagactctgaagtccttgtataaaacc
+            catgcttgctatgagtacaatcacatttttccacttcttgaaaagtactgtggcttccat
+            gaagataacattccccagctggaagacgtttctcaattcctgcagacttgcactggtttc
+            cgcctccgacctgtggctggcctgctttcctctcgggatttcttgggtggcctggccttc
+            cgagtcttccactgcacacagtacatcagacatggatccaagcccatgtatacccccgaa
+            cctgacatctgccatgagctgttgggacatgtgcccttgttttcagatcgcagctttgcc
+            cagttttcccaggaaattggccttgcctctctgggtgcacctgatgaatacattgaaaag
+            ctcgccacaatttactggtttactgtggagtttgggctctgcaaacaaggagactccata
+            aaggcatatggtgctgggctcctgtcatcctttggtgaattacagtactgcttatcagag
+            aagccaaagcttctccccctggagctggagaagacagccatccaaaattacactgtcacg
+            gagttccagcccctgtattacgtggcagagagttttaatgatgccaaggagaaagtaagg
+            aactttgctgccacaatacctcggcccttctcagttcgctacgacccatacacccaaagg
+            attgaggtcttggacaatacccagcagcttaagattttggctgattccattaacagtgaa
+            attggaatcctttgcagtgccctccagaaaataaagtaa
+///

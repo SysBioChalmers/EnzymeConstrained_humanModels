@@ -1,0 +1,78 @@
+ENTRY       291               CDS       T01001
+NAME        SLC25A4, AAC1, ANT, ANT_1, ANT1, MTDPS12, MTDPS12A, PEO2, PEO3, PEOA2, T1
+DEFINITION  (RefSeq) solute carrier family 25 member 4
+ORTHOLOGY   K05863  solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04217  Necroptosis
+            hsa04218  Cellular senescence
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+            hsa05166  HTLV-I infection
+DISEASE     H00469  Mitochondrial DNA depletion syndrome (MDS)
+            H01118  Progressive external ophthalmoplegia (PEO)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                291 (SLC25A4)
+               04022 cGMP - PKG signaling pathway
+                291 (SLC25A4)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                291 (SLC25A4)
+               04218 Cellular senescence
+                291 (SLC25A4)
+             Human Diseases
+              Neurodegenerative diseases
+               05012 Parkinson's disease
+                291 (SLC25A4)
+               05016 Huntington's disease
+                291 (SLC25A4)
+              Infectious diseases
+               05166 HTLV-I infection
+                291 (SLC25A4)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                291 (SLC25A4)
+            Transporters [BR:hsa02000]
+             Solute Carrier Family (SLC)
+              SLC25: Mitochondrial carrier
+               291 (SLC25A4)
+POSITION    4q35.1
+MOTIF       Pfam: Mito_carr
+DBLINKS     NCBI-GeneID: 291
+            NCBI-ProteinID: NP_001142
+            OMIM: 103220
+            HGNC: 10990
+            Ensembl: ENSG00000151729
+            Vega: OTTHUMG00000134299
+            Pharos: P12235(Tbio)
+            UniProt: P12235 A0A0S2Z3H3
+AASEQ       298
+            MGDHAWSFLKDFLAGGVAAAVSKTAVAPIERVKLLLQVQHASKQISAEKQYKGIIDCVVR
+            IPKEQGFLSFWRGNLANVIRYFPTQALNFAFKDKYKQLFLGGVDRHKQFWRYFAGNLASG
+            GAAGATSLCFVYPLDFARTRLAADVGKGAAQREFHGLGDCIIKIFKSDGLRGLYQGFNVS
+            VQGIIIYRAAYFGVYDTAKGMLPDPKNVHIFVSWMIAQSVTAVAGLVSYPFDTVRRRMMM
+            QSGRKGADIMYTGTVDCWRKIAKDEGAKAFFKGAWSNVLRGMGGAFVLVLYDEIKKYV
+NTSEQ       897
+            atgggtgatcacgcttggagcttcctaaaggacttcctggccgggggcgtcgccgctgcc
+            gtctccaagaccgcggtcgcccccatcgagagggtcaaactgctgctgcaggtccagcat
+            gccagcaaacagatcagtgctgagaagcagtacaaagggatcattgattgtgtggtgaga
+            atccctaaggagcagggcttcctctccttctggaggggtaacctggccaacgtgatccgt
+            tacttccccacccaagctctcaacttcgccttcaaggacaagtacaagcagctcttctta
+            gggggtgtggatcggcataagcagttctggcgctactttgctggtaacctggcgtccggt
+            ggggccgctggggccacctccctttgctttgtctacccgctggactttgctaggaccagg
+            ttggctgctgatgtgggcaagggcgccgcccagcgtgagttccatggtctgggcgactgt
+            atcatcaagatcttcaagtctgatggcctgagggggctctaccagggtttcaacgtctct
+            gtccaaggcatcattatctatagagctgcctacttcggagtctatgatactgccaagggg
+            atgctgcctgaccccaagaacgtgcacatttttgtgagctggatgattgcccagagtgtg
+            acggcagtcgcagggctggtgtcctacccctttgacactgttcgtcgtagaatgatgatg
+            cagtccggccggaaaggggccgatattatgtacacggggacagttgactgctggaggaag
+            attgcaaaagacgaaggagccaaggccttcttcaaaggtgcctggtccaatgtgctgaga
+            ggcatgggcggtgcttttgtattggtgttgtatgatgagatcaaaaaatatgtctaa
+///

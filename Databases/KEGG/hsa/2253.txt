@@ -1,0 +1,93 @@
+ENTRY       2253              CDS       T01001
+NAME        FGF8, AIGF, FGF-8, HBGF-8, HH6, KAL6
+DEFINITION  (RefSeq) fibroblast growth factor 8
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+DISEASE     H00255  Hypogonadotropic hypogonadism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2253 (FGF8)
+               04015 Rap1 signaling pathway
+                2253 (FGF8)
+               04010 MAPK signaling pathway
+                2253 (FGF8)
+               04151 PI3K-Akt signaling pathway
+                2253 (FGF8)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2253 (FGF8)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2253 (FGF8)
+               05218 Melanoma
+                2253 (FGF8)
+               05224 Breast cancer
+                2253 (FGF8)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               2253 (FGF8)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 2253 (FGF8)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 2253 (FGF8)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 2253 (FGF8)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 2253 (FGF8)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               2253 (FGF8)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               2253 (FGF8)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2253 (FGF8)
+POSITION    10q24.32
+MOTIF       Pfam: FGF Fascin
+DBLINKS     NCBI-GeneID: 2253
+            NCBI-ProteinID: NP_149354
+            OMIM: 600483
+            HGNC: 3686
+            Ensembl: ENSG00000107831
+            Vega: OTTHUMG00000018940
+            Pharos: P55075(Tbio)
+            UniProt: P55075 A1A515
+STRUCTURE   PDB: 2FDB
+AASEQ       233
+            MGSPRSALSCLLLHLLVLCLQAQEGPGRGPALGRELASLFRAGREPQGVSQQHVREQSLV
+            TDQLSRRLIRTYQLYSRTSGKHVQVLANKRINAMAEDGDPFAKLIVETDTFGSRVRVRGA
+            ETGLYICMNKKGKLIAKSNGKGKDCVFTEIVLENNYTALQNAKYEGWYMAFTRKGRPRKG
+            SKTRQHQREVHFMKRLPRGHHTTEQSLRFEFLNYPPFTRSLRGSQRTWAPEPR
+NTSEQ       702
+            atgggcagcccccgctccgcgctgagctgcctgctgttgcacttgctggtcctctgcctc
+            caagcccaggaaggcccgggcaggggccctgcgctgggcagggagctcgcttccctgttc
+            cgggctggccgggagccccagggtgtctcccaacagcatgtgagggagcagagcctggtg
+            acggatcagctcagccgccgcctcatccggacctaccaactctacagccgcaccagcggg
+            aagcacgtgcaggtcctggccaacaagcgcatcaacgccatggcagaggacggcgacccc
+            ttcgcaaagctcatcgtggagacggacacctttggaagcagagttcgagtccgaggagcc
+            gagacgggcctctacatctgcatgaacaagaaggggaagctgatcgccaagagcaacggc
+            aaaggcaaggactgcgtcttcacggagattgtgctggagaacaactacacagcgctgcag
+            aatgccaagtacgagggctggtacatggccttcacccgcaagggccggccccgcaagggc
+            tccaagacgcggcagcaccagcgtgaggtccacttcatgaagcggctgccccggggccac
+            cacaccaccgagcagagcctgcgcttcgagttcctcaactacccgcccttcacgcgcagc
+            ctgcgcggcagccagaggacttgggcccccgagccccgatag
+///

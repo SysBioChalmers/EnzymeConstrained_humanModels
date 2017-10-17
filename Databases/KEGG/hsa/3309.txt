@@ -1,0 +1,104 @@
+ENTRY       3309              CDS       T01001
+NAME        HSPA5, BIP, GRP78, HEL-S-89n, MIF2
+DEFINITION  (RefSeq) heat shock protein family A (Hsp70) member 5
+ORTHOLOGY   K09490  heat shock 70kDa protein 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03060  Protein export
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04612  Antigen processing and presentation
+            hsa04918  Thyroid hormone synthesis
+            hsa05020  Prion diseases
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               03060 Protein export
+                3309 (HSPA5)
+               04141 Protein processing in endoplasmic reticulum
+                3309 (HSPA5)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                3309 (HSPA5)
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                3309 (HSPA5)
+             Human Diseases
+              Neurodegenerative diseases
+               05020 Prion diseases
+                3309 (HSPA5)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               3309 (HSPA5)
+            Membrane trafficking [BR:hsa04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               ER-Golgi intermediate compartment (ERGIC) proteins
+                3309 (HSPA5)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               3309 (HSPA5)
+              Exosomal proteins of other body fluids (saliva and urine)
+               3309 (HSPA5)
+              Exosomal proteins of colorectal cancer cells
+               3309 (HSPA5)
+POSITION    9q33.3
+MOTIF       Pfam: HSP70 MreB_Mbl FtsA DUF4624 Hydantoinase_A DDR FGGY_C
+DBLINKS     NCBI-GeneID: 3309
+            NCBI-ProteinID: NP_005338
+            OMIM: 138120
+            HGNC: 5238
+            Ensembl: ENSG00000044574
+            Vega: OTTHUMG00000020672
+            Pharos: P11021(Tchem)
+            UniProt: P11021 V9HWB4
+STRUCTURE   PDB: 5F0X 5EVZ 5EY4 5F1X 5EXW 5EX5 3LDO 5F2R 3LDN 3LDP 3LDL
+                 3IUC 5E85 5E86 5E84
+AASEQ       654
+            MKLSLVAAMLLLLSAARAEEEDKKEDVGTVVGIDLGTTYSCVGVFKNGRVEIIANDQGNR
+            ITPSYVAFTPEGERLIGDAAKNQLTSNPENTVFDAKRLIGRTWNDPSVQQDIKFLPFKVV
+            EKKTKPYIQVDIGGGQTKTFAPEEISAMVLTKMKETAEAYLGKKVTHAVVTVPAYFNDAQ
+            RQATKDAGTIAGLNVMRIINEPTAAAIAYGLDKREGEKNILVFDLGGGTFDVSLLTIDNG
+            VFEVVATNGDTHLGGEDFDQRVMEHFIKLYKKKTGKDVRKDNRAVQKLRREVEKAKRALS
+            SQHQARIEIESFYEGEDFSETLTRAKFEELNMDLFRSTMKPVQKVLEDSDLKKSDIDEIV
+            LVGGSTRIPKIQQLVKEFFNGKEPSRGINPDEAVAYGAAVQAGVLSGDQDTGDLVLLDVC
+            PLTLGIETVGGVMTKLIPRNTVVPTKKSQIFSTASDNQPTVTIKVYEGERPLTKDNHLLG
+            TFDLTGIPPAPRGVPQIEVTFEIDVNGILRVTAEDKGTGNKNKITITNDQNRLTPEEIER
+            MVNDAEKFAEEDKKLKERIDTRNELESYAYSLKNQIGDKEKLGGKLSSEDKETMEKAVEE
+            KIEWLESHQDADIEDFKAKKKELEEIVQPIISKLYGSAGPPPTGEEDTAEKDEL
+NTSEQ       1965
+            atgaagctctccctggtggccgcgatgctgctgctgctcagcgcggcgcgggccgaggag
+            gaggacaagaaggaggacgtgggcacggtggtcggcatcgacctggggaccacctactcc
+            tgcgtcggcgtgttcaagaacggccgcgtggagatcatcgccaacgatcagggcaaccgc
+            atcacgccgtcctatgtcgccttcactcctgaaggggaacgtctgattggcgatgccgcc
+            aagaaccagctcacctccaaccccgagaacacggtctttgacgccaagcggctcatcggc
+            cgcacgtggaatgacccgtctgtgcagcaggacatcaagttcttgccgttcaaggtggtt
+            gaaaagaaaactaaaccatacattcaagttgatattggaggtgggcaaacaaagacattt
+            gctcctgaagaaatttctgccatggttctcactaaaatgaaagaaaccgctgaggcttat
+            ttgggaaagaaggttacccatgcagttgttactgtaccagcctattttaatgatgcccaa
+            cgccaagcaaccaaagacgctggaactattgctggcctaaatgttatgaggatcatcaac
+            gagcctacggcagctgctattgcttatggcctggataagagggagggggagaagaacatc
+            ctggtgtttgacctgggtggcggaaccttcgatgtgtctcttctcaccattgacaatggt
+            gtcttcgaagttgtggccactaatggagatactcatctgggtggagaagactttgaccag
+            cgtgtcatggaacacttcatcaaactgtacaaaaagaagacgggcaaagatgtcaggaaa
+            gacaatagagctgtgcagaaactccggcgcgaggtagaaaaggccaaacgggccctgtct
+            tctcagcatcaagcaagaattgaaattgagtccttctatgaaggagaagacttttctgag
+            accctgactcgggccaaatttgaagagctcaacatggatctgttccggtctactatgaag
+            cccgtccagaaagtgttggaagattctgatttgaagaagtctgatattgatgaaattgtt
+            cttgttggtggctcgactcgaattccaaagattcagcaactggttaaagagttcttcaat
+            ggcaaggaaccatcccgtggcataaacccagatgaagctgtagcgtatggtgctgctgtc
+            caggctggtgtgctctctggtgatcaagatacaggtgacctggtactgcttgatgtatgt
+            ccccttacacttggtattgaaactgtgggaggtgtcatgaccaaactgattccaaggaac
+            acagtggtgcctaccaagaagtctcagatcttttctacagcttctgataatcaaccaact
+            gttacaatcaaggtctatgaaggtgaaagacccctgacaaaagacaatcatcttctgggt
+            acatttgatctgactggaattcctcctgctcctcgtggggtcccacagattgaagtcacc
+            tttgagatagatgtgaatggtattcttcgagtgacagctgaagacaagggtacagggaac
+            aaaaataagatcacaatcaccaatgaccagaatcgcctgacacctgaagaaatcgaaagg
+            atggttaatgatgctgagaagtttgctgaggaagacaaaaagctcaaggagcgcattgat
+            actagaaatgagttggaaagctatgcctattctctaaagaatcagattggagataaagaa
+            aagctgggaggtaaactttcctctgaagataaggagaccatggaaaaagctgtagaagaa
+            aagattgaatggctggaaagccaccaagatgctgacattgaagacttcaaagctaagaag
+            aaggaactggaagaaattgttcaaccaattatcagcaaactctatggaagtgcaggccct
+            cccccaactggtgaagaggatacagcagaaaaagatgagttgtag
+///

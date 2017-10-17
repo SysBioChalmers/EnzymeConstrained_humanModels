@@ -1,0 +1,89 @@
+ENTRY       4524              CDS       T01001
+NAME        MTHFR
+DEFINITION  (RefSeq) methylenetetrahydrofolate reductase
+ORTHOLOGY   K00297  methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00670  One carbon pool by folate
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01523  Antifolate resistance
+DISEASE     H00183  Homocystinuria
+            H00262  Spina bifida
+            H00516  Isolated orofacial clefts
+            H01552  Down syndrome
+            H01649  Schizophrenia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                4524 (MTHFR)
+              Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                4524 (MTHFR)
+             Human Diseases
+              Drug resistance
+               01523 Antifolate resistance
+                4524 (MTHFR)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.1  With NAD+ or NADP+ as acceptor
+                1.5.1.20  methylenetetrahydrofolate reductase [NAD(P)H]
+                 4524 (MTHFR)
+POSITION    1p36.22
+MOTIF       Pfam: MTHFR
+DBLINKS     NCBI-GeneID: 4524
+            NCBI-ProteinID: NP_005948
+            OMIM: 607093
+            HGNC: 7436
+            Ensembl: ENSG00000177000
+            Vega: OTTHUMG00000002277
+            Pharos: P42898(Tbio)
+            UniProt: P42898 Q8IU67 Q59GJ6
+AASEQ       656
+            MVNEARGNSSLNPCLEGSASSGSESSKDSSRCSTPGLDPERHERLREKMRRRLESGDKWF
+            SLEFFPPRTAEGAVNLISRFDRMAAGGPLYIDVTWHPAGDPGSDKETSSMMIASTAVNYC
+            GLETILHMTCCRQRLEEITGHLHKAKQLGLKNIMALRGDPIGDQWEEEEGGFNYAVDLVK
+            HIRSEFGDYFDICVAGYPKGHPEAGSFEADLKHLKEKVSAGADFIITQLFFEADTFFRFV
+            KACTDMGITCPIVPGIFPIQGYHSLRQLVKLSKLEVPQEIKDVIEPIKDNDAAIRNYGIE
+            LAVSLCQELLASGLVPGLHFYTLNREMATTEVLKRLGMWTEDPRRPLPWALSAHPKRREE
+            DVRPIFWASRPKSYIYRTQEWDEFPNGRWGNSSSPAFGELKDYYLFYLKSKSPKEELLKM
+            WGEELTSEESVFEVFVLYLSGEPNRNGHKVTCLPWNDEPLAAETSLLKEELLRVNRQGIL
+            TINSQPNINGKPSSDPIVGWGPSGGYVFQKAYLEFFTSRETAEALLQVLKKYELRVNYHL
+            VNVKGENITNAPELQPNAVTWGIFPGREIIQPTVVDPVSFMFWKDEAFALWIERWGKLYE
+            EESPSRTIIQYIHDNYFLVNLVDNDFPLDNCLWQVVEDTLELLNRPTQNARETEAP
+NTSEQ       1971
+            atggtgaacgaagccagaggaaacagcagcctcaacccctgcttggagggcagtgccagc
+            agtggcagtgagagctccaaagatagttcgagatgttccaccccgggcctggaccccgag
+            cggcatgagagactccgggagaagatgaggcggcgattggaatctggtgacaagtggttc
+            tccctggaattcttccctcctcgaactgctgagggagctgtcaatctcatctcaaggttt
+            gaccggatggcagcaggtggccccctctacatagacgtgacctggcacccagcaggtgac
+            cctggctcagacaaggagacctcctccatgatgatcgccagcaccgccgtgaactactgt
+            ggcctggagaccatcctgcacatgacctgctgccgtcagcgcctggaggagatcacgggc
+            catctgcacaaagctaagcagctgggcctgaagaacatcatggcgctgcggggagaccca
+            ataggtgaccagtgggaagaggaggagggaggcttcaactacgcagtggacctggtgaag
+            cacatccgaagtgagtttggtgactactttgacatctgtgtggcaggttaccccaaaggc
+            caccccgaagcagggagctttgaggctgacctgaagcacttgaaggagaaggtgtctgcg
+            ggagccgatttcatcatcacgcagcttttctttgaggctgacacattcttccgctttgtg
+            aaggcatgcaccgacatgggcatcacttgccccatcgtccccgggatctttcccatccag
+            ggctaccactcccttcggcagcttgtgaagctgtccaagctggaggtgccacaggagatc
+            aaggacgtgattgagccaatcaaagacaacgatgctgccatccgcaactatggcatcgag
+            ctggccgtgagcctgtgccaggagcttctggccagtggcttggtgccaggcctccacttc
+            tacaccctcaaccgcgagatggctaccacagaggtgctgaagcgcctggggatgtggact
+            gaggaccccaggcgtcccctaccctgggctctcagcgcccaccccaagcgccgagaggaa
+            gatgtacgtcccatcttctgggcctccagaccaaagagttacatctaccgtacccaggag
+            tgggacgagttccctaacggccgctggggcaattcctcttcccctgcctttggggagctg
+            aaggactactacctcttctacctgaagagcaagtcccccaaggaggagctgctgaagatg
+            tggggggaggagctgaccagtgaagaaagtgtctttgaagtcttcgttctttacctctcg
+            ggagaaccaaaccggaatggtcacaaagtgacttgcctgccctggaacgatgagcccctg
+            gcggctgagaccagcctgctgaaggaggagctgctgcgggtgaaccgccagggcatcctc
+            accatcaactcacagcccaacatcaacgggaagccgtcctccgaccccatcgtgggctgg
+            ggccccagcgggggctatgtcttccagaaggcctacttagagtttttcacttcccgcgag
+            acagcggaagcacttctgcaagtgctgaagaagtacgagctccgggttaattaccacctt
+            gtcaatgtgaagggtgaaaacatcaccaatgcccctgaactgcagccgaatgctgtcact
+            tggggcatcttccctgggcgagagatcatccagcccaccgtagtggatcccgtcagcttc
+            atgttctggaaggacgaggcctttgccctgtggattgagcggtggggaaagctgtatgag
+            gaggagtccccgtcccgcaccatcatccagtacatccacgacaactacttcctggtcaac
+            ctggtggacaatgacttcccactggacaactgcctctggcaggtggtggaagacacattg
+            gagcttctcaacaggcccacccagaatgcgagagaaacggaggctccatga
+///

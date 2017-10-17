@@ -1,0 +1,98 @@
+ENTRY       3565              CDS       T01001
+NAME        IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4
+DEFINITION  (RefSeq) interleukin 4
+ORTHOLOGY   K05430  interleukin 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04640  Hematopoietic cell lineage
+            hsa04657  IL-17 signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05140  Leishmaniasis
+            hsa05162  Measles
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05330  Allograft rejection
+DISEASE     H00079  Asthma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3565 (IL4)
+               04151 PI3K-Akt signaling pathway
+                3565 (IL4)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3565 (IL4)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                3565 (IL4)
+               04660 T cell receptor signaling pathway
+                3565 (IL4)
+               04658 Th1 and Th2 cell differentiation
+                3565 (IL4)
+               04659 Th17 cell differentiation
+                3565 (IL4)
+               04657 IL-17 signaling pathway
+                3565 (IL4)
+               04664 Fc epsilon RI signaling pathway
+                3565 (IL4)
+               04672 Intestinal immune network for IgA production
+                3565 (IL4)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3565 (IL4)
+               05320 Autoimmune thyroid disease
+                3565 (IL4)
+               05321 Inflammatiory bowel disease (IBD)
+                3565 (IL4)
+               05330 Allograft rejection
+                3565 (IL4)
+              Infectious diseases
+               05162 Measles
+                3565 (IL4)
+               05140 Leishmaniasis
+                3565 (IL4)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-2 receptor family
+               3565 (IL4)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               3565 (IL4)
+POSITION    5q31.1
+MOTIF       Pfam: IL4 Mannosyl_trans3
+DBLINKS     NCBI-GeneID: 3565
+            NCBI-ProteinID: NP_000580
+            OMIM: 147780
+            HGNC: 6014
+            Ensembl: ENSG00000113520
+            Vega: OTTHUMG00000059724
+            Pharos: P05112(Tbio)
+            UniProt: P05112 D4HNR6
+STRUCTURE   PDB: 2D48 2B8X 2B8U 2B8Y 4YDY 2B91 1HZI 2B90 1RCB 1IAR 2INT
+                 2B8Z 5FHX 1HIK 3BPL 1HIJ 3BPN 3QB7 2CYK 1ITM 1CYL 1ITI
+                 1BBN 1BCN 1ITL
+AASEQ       153
+            MGLTSQLLPPLFFLLACAGNFVHGHKCDITLQEIIKTLNSLTEQKTLCTELTVTDIFAAS
+            KNTTEKETFCRAATVLRQFYSHHEKDTRCLGATAQQFHRHKQLIRFLKRLDRNLWGLAGL
+            NSCPVKEANQSTLENFLERLKTIMREKYSKCSS
+NTSEQ       462
+            atgggtctcacctcccaactgcttccccctctgttcttcctgctagcatgtgccggcaac
+            tttgtccacggacacaagtgcgatatcaccttacaggagatcatcaaaactttgaacagc
+            ctcacagagcagaagactctgtgcaccgagttgaccgtaacagacatctttgctgcctcc
+            aagaacacaactgagaaggaaaccttctgcagggctgcgactgtgctccggcagttctac
+            agccaccatgagaaggacactcgctgcctgggtgcgactgcacagcagttccacaggcac
+            aagcagctgatccgattcctgaaacggctcgacaggaacctctggggcctggcgggcttg
+            aattcctgtcctgtgaaggaagccaaccagagtacgttggaaaacttcttggaaaggcta
+            aagacgatcatgagagagaaatattcaaagtgttcgagctga
+///

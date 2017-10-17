@@ -1,0 +1,85 @@
+ENTRY       255738            CDS       T01001
+NAME        PCSK9, FH3, HCHOLA3, LDLCQ1, NARC-1, NARC1, PC9
+DEFINITION  (RefSeq) proprotein convertase subtilisin/kexin type 9
+ORTHOLOGY   K13050  proprotein convertase subtilisin/kexin type 9 [EC:3.4.21.-]
+ORGANISM    hsa  Homo sapiens (human)
+DISEASE     H00155  Familial hypercholesterolemia
+DRUG_TARGET Alirocumab: D10335
+            Evolocumab: D10557
+BRITE       Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 255738 (PCSK9)
+            Peptidases [BR:hsa01002]
+             Serine Peptidases
+              Family S8: subtilisin family
+               255738 (PCSK9)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Intramolecular chaperones
+              Subtilisin family
+               255738 (PCSK9)
+POSITION    1p32.3
+MOTIF       Pfam: Peptidase_S8 Inhibitor_I9
+DBLINKS     NCBI-GeneID: 255738
+            NCBI-ProteinID: NP_777596
+            OMIM: 607786
+            HGNC: 20001
+            Ensembl: ENSG00000169174
+            Vega: OTTHUMG00000008136
+            Pharos: Q8NBP7(Tclin)
+            UniProt: Q8NBP7
+STRUCTURE   PDB: 4NMX 2QTW 2P4E 5VLK 3H42 2W2N 2PMW 2W2Q 5VLL 5VLA 2W2M
+                 3BPS 4NE9 2W2O 2W2P 4OV6 3SQO 2XTJ 3GCW 3GCX 5VLH 5VLP
+                 4K8R 3P5B 5VL7 3P5C 3M0C
+AASEQ       692
+            MGTVSSRRSWWPLPLLLLLLLLLGPAGARAQEDEDGDYEELVLALRSEEDGLAEAPEHGT
+            TATFHRCAKDPWRLPGTYVVVLKEETHLSQSERTARRLQAQAARRGYLTKILHVFHGLLP
+            GFLVKMSGDLLELALKLPHVDYIEEDSSVFAQSIPWNLERITPPRYRADEYQPPDGGSLV
+            EVYLLDTSIQSDHREIEGRVMVTDFENVPEEDGTRFHRQASKCDSHGTHLAGVVSGRDAG
+            VAKGASMRSLRVLNCQGKGTVSGTLIGLEFIRKSQLVQPVGPLVVLLPLAGGYSRVLNAA
+            CQRLARAGVVLVTAAGNFRDDACLYSPASAPEVITVGATNAQDQPVTLGTLGTNFGRCVD
+            LFAPGEDIIGASSDCSTCFVSQSGTSQAAAHVAGIAAMMLSAEPELTLAELRQRLIHFSA
+            KDVINEAWFPEDQRVLTPNLVAALPPSTHGAGWQLFCRTVWSAHSGPTRMATAVARCAPD
+            EELLSCSSFSRSGKRRGERMEAQGGKLVCRAHNAFGGEGVYAIARCCLLPQANCSVHTAP
+            PAEASMGTRVHCHQQGHVLTGCSSHWEVEDLGTHKPPVLRPRGQPNQCVGHREASIHASC
+            CHAPGLECKVKEHGIPAPQEQVTVACEEGWTLTGCSALPGTSHVLGAYAVDNTCVVRSRD
+            VSTTGSTSEGAVTAVAICCRSRHLAQASQELQ
+NTSEQ       2079
+            atgggcaccgtcagctccaggcggtcctggtggccgctgccactgctgctgctgctgctg
+            ctgctcctgggtcccgcgggcgcccgtgcgcaggaggacgaggacggcgactacgaggag
+            ctggtgctagccttgcgttccgaggaggacggcctggccgaagcacccgagcacggaacc
+            acagccaccttccaccgctgcgccaaggatccgtggaggttgcctggcacctacgtggtg
+            gtgctgaaggaggagacccacctctcgcagtcagagcgcactgcccgccgcctgcaggcc
+            caggctgcccgccggggatacctcaccaagatcctgcatgtcttccatggccttcttcct
+            ggcttcctggtgaagatgagtggcgacctgctggagctggccttgaagttgccccatgtc
+            gactacatcgaggaggactcctctgtctttgcccagagcatcccgtggaacctggagcgg
+            attacccctccacggtaccgggcggatgaataccagccccccgacggaggcagcctggtg
+            gaggtgtatctcctagacaccagcatacagagtgaccaccgggaaatcgagggcagggtc
+            atggtcaccgacttcgagaatgtgcccgaggaggacgggacccgcttccacagacaggcc
+            agcaagtgtgacagtcatggcacccacctggcaggggtggtcagcggccgggatgccggc
+            gtggccaagggtgccagcatgcgcagcctgcgcgtgctcaactgccaagggaagggcacg
+            gttagcggcaccctcataggcctggagtttattcggaaaagccagctggtccagcctgtg
+            gggccactggtggtgctgctgcccctggcgggtgggtacagccgcgtcctcaacgccgcc
+            tgccagcgcctggcgagggctggggtcgtgctggtcaccgctgccggcaacttccgggac
+            gatgcctgcctctactccccagcctcagctcccgaggtcatcacagttggggccaccaat
+            gcccaagaccagccggtgaccctggggactttggggaccaactttggccgctgtgtggac
+            ctctttgccccaggggaggacatcattggtgcctccagcgactgcagcacctgctttgtg
+            tcacagagtgggacatcacaggctgctgcccacgtggctggcattgcagccatgatgctg
+            tctgccgagccggagctcaccctggccgagttgaggcagagactgatccacttctctgcc
+            aaagatgtcatcaatgaggcctggttccctgaggaccagcgggtactgacccccaacctg
+            gtggccgccctgccccccagcacccatggggcaggttggcagctgttttgcaggactgta
+            tggtcagcacactcggggcctacacggatggccacagccgtcgcccgctgcgccccagat
+            gaggagctgctgagctgctccagtttctccaggagtgggaagcggcggggcgagcgcatg
+            gaggcccaagggggcaagctggtctgccgggcccacaacgcttttgggggtgagggtgtc
+            tacgccattgccaggtgctgcctgctaccccaggccaactgcagcgtccacacagctcca
+            ccagctgaggccagcatggggacccgtgtccactgccaccaacagggccacgtcctcaca
+            ggctgcagctcccactgggaggtggaggaccttggcacccacaagccgcctgtgctgagg
+            ccacgaggtcagcccaaccagtgcgtgggccacagggaggccagcatccacgcttcctgc
+            tgccatgccccaggtctggaatgcaaagtcaaggagcatggaatcccggcccctcaggag
+            caggtgaccgtggcctgcgaggagggctggaccctgactggctgcagtgccctccctggg
+            acctcccacgtcctgggggcctacgccgtagacaacacgtgtgtagtcaggagccgggac
+            gtcagcactacaggcagcaccagcgaaggggccgtgacagccgttgccatctgctgccgg
+            agccggcacctggcgcaggcctcccaggagctccagtga
+///

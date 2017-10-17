@@ -1,0 +1,68 @@
+ENTRY       11145             CDS       T01001
+NAME        PLA2G16, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3
+DEFINITION  (RefSeq) phospholipase A2 group XVI
+ORTHOLOGY   K16817  HRAS-like suppressor 3 [EC:3.1.1.32 3.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa01100  Metabolic pathways
+            hsa04014  Ras signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                11145 (PLA2G16)
+               00565 Ether lipid metabolism
+                11145 (PLA2G16)
+               00590 Arachidonic acid metabolism
+                11145 (PLA2G16)
+               00591 Linoleic acid metabolism
+                11145 (PLA2G16)
+               00592 alpha-Linolenic acid metabolism
+                11145 (PLA2G16)
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                11145 (PLA2G16)
+             Organismal Systems
+              Endocrine system
+               04923 Regulation of lipolysis in adipocyte
+                11145 (PLA2G16)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.4  phospholipase A2
+                 11145 (PLA2G16)
+                3.1.1.32  phospholipase A1
+                 11145 (PLA2G16)
+POSITION    11q12.3-q13.1
+MOTIF       Pfam: LRAT Calici_PP_N Peptidase_C97
+DBLINKS     NCBI-GeneID: 11145
+            NCBI-ProteinID: NP_001121675
+            OMIM: 613867
+            HGNC: 17825
+            Ensembl: ENSG00000176485
+            Vega: OTTHUMG00000167852
+            Pharos: P53816(Tbio)
+            UniProt: P53816 A0A024R561
+STRUCTURE   PDB: 4DOT 4FA0 2KYT
+AASEQ       162
+            MRAPIPEPKPGDLIEIFRPFYRHWAIYVGDGYVVHLAPPSEVAGAGAASVMSALTDKAIV
+            KKELLYDVAGSDKYQVNNKHDDKYSPLPCSKIIQRAEELVGQEVLYKLTSENCEHFVNEL
+            RYGVARSDQVRDVIIAASVAGMGLAAMSLIGVMFSRNKRQKQ
+NTSEQ       489
+            atgcgtgcgcccattccagagcctaagcctggagacctgattgagatttttcgccctttc
+            tacagacactgggccatctatgttggcgatggatatgtggttcatctggcccctccaagt
+            gaggtcgcaggagctggtgcagccagtgtcatgtccgccctgactgacaaggccatcgtg
+            aagaaggaattgctgtatgatgtggccgggagtgacaagtaccaggtcaacaacaaacat
+            gatgacaagtactcgccgctgccctgcagcaaaatcatccagcgggcggaggagctggtg
+            gggcaggaggtgctctacaagctgaccagtgagaactgcgagcactttgtgaatgagctg
+            cgctatggagtcgcccgcagtgaccaggtcagagatgtcatcatcgctgcaagcgttgca
+            ggaatgggcttggcagccatgagccttattggagtcatgttctcaagaaacaagcgacaa
+            aagcaataa
+///

@@ -1,0 +1,88 @@
+ENTRY       1103              CDS       T01001
+NAME        CHAT, CHOACTASE, CMS1A, CMS1A2, CMS6
+DEFINITION  (RefSeq) choline O-acetyltransferase
+ORTHOLOGY   K00623  choline O-acetyltransferase [EC:2.3.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00564  Glycerophospholipid metabolism
+            hsa04725  Cholinergic synapse
+DISEASE     H00770  Congenital myasthenic syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                1103 (CHAT)
+             Organismal Systems
+              Nervous system
+               04725 Cholinergic synapse
+                1103 (CHAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.6  choline O-acetyltransferase
+                 1103 (CHAT)
+POSITION    10q11.23
+MOTIF       Pfam: Carn_acyltransf
+DBLINKS     NCBI-GeneID: 1103
+            NCBI-ProteinID: NP_065574
+            OMIM: 118490
+            HGNC: 1912
+            Ensembl: ENSG00000070748
+            Vega: OTTHUMG00000018198
+            Pharos: P28329(Tchem)
+            UniProt: P28329
+STRUCTURE   PDB: 2FY2 2FY3 2FY4 2FY5
+AASEQ       748
+            MGLRTAKKRGLGGGGKWKREEGGGTRGRREVRPACFLQSGGRGDPGDVGGPAGNPGCSPH
+            PRAATRPPPLPAHTPAHTPEWCGAASAEAAEPRRAGPHLCIPAPGLTKTPILEKVPRKMA
+            AKTPSSEESGLPKLPVPPLQQTLATYLQCMRHLVSEEQFRKSQAIVQQFGAPGGLGETLQ
+            QKLLERQEKTANWVSEYWLNDMYLNNRLALPVNSSPAVIFARQHFPGTDDQLRFAASLIS
+            GVLSYKALLDSHSIPTDCAKGQLSGQPLCMKQYYGLFSSYRLPGHTQDTLVAQNSSIMPE
+            PEHVIVACCNQFFVLDVVINFRRLSEGDLFTQLRKIVKMASNEDERLPPIGLLTSDGRSE
+            WAEARTVLVKDSTNRDSLDMIERCICLVCLDAPGGVELSDTHRALQLLHGGGYSKNGANR
+            WYDKSLQFVVGRDGTCGVVCEHSPFDGIVLVQCTEHLLKHMTQSSRKLIRADSVSELPAP
+            RRLRWKCSPEIQGHLASSAEKLQRIVKNLDFIVYKFDNYGKTFIKKQKCSPDAFIQVALQ
+            LAFYRLHRRLVPTYESASIRRFQEGRVDNIRSATPEALAFVRAVTDHKAAVPASEKLLLL
+            KDAIRAQTAYTVMAITGMAIDNHLLALRELARAMCKELPEMFMDETYLMSNRFVLSTSQV
+            PTTTEMFCCYGPVVPNGYGACYNPQPETILFCISSFHSCKETSSSKFAKAVEESLIDMRD
+            LCSLLPPTESKPLATKEKATRPSQGHQP
+NTSEQ       2247
+            atggggctgaggacagcgaagaagagggggcttgggggaggggggaaatggaagagagag
+            gagggaggaggtacaagaggaaggagagaagtgcggccagcttgctttctccagtcgggt
+            ggccgcggggacccgggcgacgtcggaggccctgccgggaacccaggctgcagcccccac
+            ccccgcgctgcgacacgccccccaccccttccggctcacacccccgcccacactcctgag
+            tggtgcggtgcagcgtcggccgaggcagcagagccgaggagagcaggtccacacctctgc
+            atccctgcaccaggactcaccaagacgcccatcctggaaaaggtcccccgtaagatggca
+            gcaaaaactcccagcagtgaggagtctgggctgcccaaactgcccgtgcccccgctgcag
+            cagaccctggccacgtacctgcagtgcatgcgacacttggtgtctgaggagcagttcagg
+            aagagccaggccattgtgcagcagtttggggcccctggtggcctcggcgagaccctgcag
+            cagaaactcctggagcggcaggagaagacagccaactgggtgtctgagtactggctgaat
+            gacatgtatctcaacaaccgcctggccctgcctgtcaactccagccctgccgtgatcttt
+            gctcggcagcacttccctggcaccgatgaccagctgaggtttgcagccagcctcatctct
+            ggtgtactcagctacaaggccctgctggacagccactccattcccactgactgtgccaaa
+            ggccagctgtcagggcagcccctttgcatgaagcaatactatgggctcttctcctcctac
+            cggctccccggccatacccaggacacgctggtggctcagaacagcagcatcatgccggag
+            cctgagcacgtcatcgtagcctgctgcaatcagttctttgtcttggatgttgtcattaat
+            ttccgccgtctcagtgagggggatctgttcactcagttgagaaagatagtcaaaatggct
+            tccaacgaggacgagcgtttgcctccaattggcctgctgacgtctgacgggaggagcgag
+            tgggccgaggccaggacggtcctcgtgaaagactccaccaaccgggactcgctggacatg
+            attgagcgctgcatctgccttgtatgcctggacgcgccaggaggcgtggagctcagcgac
+            acccacagggcactccagctccttcacggcggaggctacagcaagaacggggccaatcgc
+            tggtacgacaagtccctgcagtttgtggtgggccgagacggcacctgcggtgtggtgtgc
+            gaacactccccattcgatggcatcgtcctggtgcagtgcactgagcatctgctcaagcac
+            atgacgcagagcagcaggaagctgatccgagcagactccgtcagcgagctccccgccccc
+            cggaggctgcggtggaaatgctccccggaaattcaaggccacttagcctcctcggcagaa
+            aaacttcaacgaatagtaaagaaccttgacttcattgtctataagtttgacaactatggg
+            aaaacattcattaagaagcagaaatgcagccctgatgccttcatccaggtggccctccag
+            ctggccttctacaggctccatcgaagactggtgcccacctacgagagcgcgtccatccgc
+            cgattccaggagggacgcgtggacaacatcagatcggccactccagaggcactggctttt
+            gtgagagccgtgactgaccacaaggctgctgtgccagcttctgagaagcttctgctcctg
+            aaggatgccatccgtgcccagactgcatacacagtcatggccataacagggatggccatt
+            gacaaccacctgctggcactgcgggagctggcccgggccatgtgcaaggagctgcccgag
+            atgttcatggatgaaacctacctgatgagcaaccggtttgtcctctccactagccaggtg
+            cccacaaccacggagatgttctgctgctatggtcctgtggtcccaaatgggtatggtgcc
+            tgctacaacccccagccagagaccatccttttctgcatctctagctttcacagctgcaaa
+            gagacttcttctagcaagtttgcaaaagctgtggaagaaagcctcattgacatgagagac
+            ctctgcagtctgctgccgcctactgagagcaagccattggcaacaaaggaaaaagccacg
+            aggcccagccagggacaccaaccttga
+///

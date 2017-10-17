@@ -1,0 +1,70 @@
+ENTRY       902               CDS       T01001
+NAME        CCNH, CAK, CycH, p34, p37
+DEFINITION  (RefSeq) cyclin H
+ORTHOLOGY   K06634  cyclin H
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03022  Basal transcription factors
+            hsa03420  Nucleotide excision repair
+            hsa04110  Cell cycle
+MODULE      hsa_M00290  Holo-TFIIH complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03022 Basal transcription factors
+                902 (CCNH)
+              Replication and repair
+               03420 Nucleotide excision repair
+                902 (CCNH)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                902 (CCNH)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIIH
+                 902 (CCNH)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TFIIH complex
+                 902 (CCNH)
+POSITION    5q14.3
+MOTIF       Pfam: Cyclin_C_2 Cyclin_N Cyclin_C 5_3_exonuc_N
+DBLINKS     NCBI-GeneID: 902
+            NCBI-ProteinID: NP_001230
+            OMIM: 601953
+            HGNC: 1594
+            Ensembl: ENSG00000134480
+            Vega: OTTHUMG00000119077
+            Pharos: P51946(Tbio)
+            UniProt: P51946
+STRUCTURE   PDB: 1JKW 1KXU
+AASEQ       323
+            MYHNSSQKRHWTFSSEEQLARLRADANRKFRCKAVANGKVLPNDPVFLEPHEEMTLCKYY
+            EKRLLEFCSVFKPAMPRSVVGTACMYFKRFYLNNSVMEYHPRIIMLTCAFLACKVDEFNV
+            SSPQFVGNLRESPLGQEKALEQILEYELLLIQQLNFHLIVHNPYRPFEGFLIDLKTRYPI
+            LENPEILRKTADDFLNRIALTDAYLLYTPSQIALTAILSSASRAGITMESYLSESLMLKE
+            NRTCLSQLLDIMKSMRNLVKKYEPPRSEEVAVLKQKLERCHSAELALNVITKKRKGYEDD
+            DYVSKKSKHEEEEWTDDDLVESL
+NTSEQ       972
+            atgtaccacaacagtagtcagaagcggcactggaccttctccagcgaggagcagctggca
+            agactgcgggctgacgccaaccgcaaattcagatgcaaagccgtggccaacgggaaggtt
+            cttccgaatgatccagtctttcttgagcctcatgaagaaatgacactctgcaaatactat
+            gagaaaaggttattggaattctgttcggtgtttaagccagcaatgccaagatctgttgtg
+            ggtacggcttgtatgtatttcaaacgtttttatcttaataactcagtaatggaatatcac
+            cccaggataataatgctcacttgtgcatttttggcctgcaaagtagatgaattcaatgta
+            tctagtcctcagtttgttggaaacctccgggagagtcctcttggacaggagaaggcactt
+            gaacagatactggaatatgaactacttcttatacagcaacttaatttccaccttattgtc
+            cacaatccttacagaccatttgagggcttcctcatcgacttaaagacccgctatcccata
+            ttggagaatccagagattttgaggaaaacagctgatgactttcttaatagaattgcattg
+            acggatgcttaccttttatacacaccttcccaaattgccctgactgccattttatctagt
+            gcctccagggctggaattactatggaaagttatttatcagagagtctgatgctgaaagag
+            aacagaacttgcctgtcacagttactagatataatgaaaagcatgagaaacttagtaaag
+            aagtatgaaccacccagatctgaagaagttgctgttctgaaacagaagttggagcgatgt
+            cattctgctgagcttgcacttaacgtaatcacgaagaagaggaaaggctatgaagatgat
+            gattacgtctcaaagaaatccaaacatgaggaggaagaatggactgatgacgacctggta
+            gaatctctctaa
+///

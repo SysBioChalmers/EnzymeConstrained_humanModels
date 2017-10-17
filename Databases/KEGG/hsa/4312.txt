@@ -1,0 +1,97 @@
+ENTRY       4312              CDS       T01001
+NAME        MMP1, CLG, CLGN
+DEFINITION  (RefSeq) matrix metallopeptidase 1
+ORTHOLOGY   K01388  matrix metalloproteinase-1 (interstitial collagenase) [EC:3.4.24.7]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04926  Relaxin signaling pathway
+            hsa05200  Pathways in cancer
+            hsa05219  Bladder cancer
+            hsa05323  Rheumatoid arthritis
+DISEASE     H00028  Choriocarcinoma
+DRUG_TARGET Cipemastat: D03517
+            Marimastat: D03795
+            Rebimastat: D03800
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04657 IL-17 signaling pathway
+                4312 (MMP1)
+              Endocrine system
+               03320 PPAR signaling pathway
+                4312 (MMP1)
+               04926 Relaxin signaling pathway
+                4312 (MMP1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4312 (MMP1)
+               05219 Bladder cancer
+                4312 (MMP1)
+              Immune diseases
+               05323 Rheumatoid arthritis
+                4312 (MMP1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.7  interstitial collagenase
+                 4312 (MMP1)
+            Peptidases [BR:hsa01002]
+             Metallo Peptidases
+              Family M10
+               4312 (MMP1)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-2
+                ITGB1; integrin beta 1 [KO:K05719]
+                 4312 (MMP1)
+POSITION    11q22.2
+MOTIF       Pfam: Peptidase_M10 Hemopexin PG_binding_1 Reprolysin_3 Reprolysin_5 Reprolysin_4 Peptidase_M54 Peptidase_M66 DUF4953 FSAP_sig_propep Metallopep
+DBLINKS     NCBI-GeneID: 4312
+            NCBI-ProteinID: NP_002412
+            OMIM: 120353
+            HGNC: 7155
+            Ensembl: ENSG00000196611
+            Vega: OTTHUMG00000048192
+            Pharos: P03956(Tclin)
+            UniProt: P03956 Q53G95
+STRUCTURE   PDB: 1HFC 966C 1CGE 1CGF 3SHI 1SU3 2TCL 1CGL 2J0T 2CLT 4AUO
+                 3AYK 4AYK 1AYK 2AYK
+AASEQ       469
+            MHSFPPLLLLLFWGVVSHSFPATLETQEQDVDLVQKYLEKYYNLKNDGRQVEKRRNSGPV
+            VEKLKQMQEFFGLKVTGKPDAETLKVMKQPRCGVPDVAQFVLTEGNPRWEQTHLTYRIEN
+            YTPDLPRADVDHAIEKAFQLWSNVTPLTFTKVSEGQADIMISFVRGDHRDNSPFDGPGGN
+            LAHAFQPGPGIGGDAHFDEDERWTNNFREYNLHRVAAHELGHSLGLSHSTDIGALMYPSY
+            TFSGDVQLAQDDIDGIQAIYGRSQNPVQPIGPQTPKACDSKLTFDAITTIRGEVMFFKDR
+            FYMRTNPFYPEVELNFISVFWPQLPNGLEAAYEFADRDEVRFFKGNKYWAVQGQNVLHGY
+            PKDIYSSFGFPRTVKHIDAALSEENTGKTYFFVANKYWRYDEYKRSMDPGYPKMIAHDFP
+            GIGHKVDAVFMKDGFFYFFHGTRQYKFDPKTKRILTLQKANSWFNCRKN
+NTSEQ       1410
+            atgcacagctttcctccactgctgctgctgctgttctggggtgtggtgtctcacagcttc
+            ccagcgactctagaaacacaagagcaagatgtggacttagtccagaaatacctggaaaaa
+            tactacaacctgaagaatgatgggaggcaagttgaaaagcggagaaatagtggcccagtg
+            gttgaaaaattgaagcaaatgcaggaattctttgggctgaaagtgactgggaaaccagat
+            gctgaaaccctgaaggtgatgaagcagcccagatgtggagtgcctgatgtggctcagttt
+            gtcctcactgaggggaaccctcgctgggagcaaacacatctgacctacaggattgaaaat
+            tacacgccagatttgccaagagcagatgtggaccatgccattgagaaagccttccaactc
+            tggagtaatgtcacacctctgacattcaccaaggtctctgagggtcaagcagacatcatg
+            atatcttttgtcaggggagatcatcgggacaactctccttttgatggacctggaggaaat
+            cttgctcatgcttttcaaccaggcccaggtattggaggggatgctcattttgatgaagat
+            gaaaggtggaccaacaatttcagagagtacaacttacatcgtgttgcagctcatgaactc
+            ggccattctcttggactctcccattctactgatatcggggctttgatgtaccctagctac
+            accttcagtggtgatgttcagctagctcaggatgacattgatggcatccaagccatatat
+            ggacgttcccaaaatcctgtccagcccatcggcccacaaaccccaaaagcgtgtgacagt
+            aagctaacctttgatgctataactacgattcggggagaagtgatgttctttaaagacaga
+            ttctacatgcgcacaaatcccttctacccggaagttgagctcaatttcatttctgttttc
+            tggccacaactgccaaatgggcttgaagctgcttacgaatttgccgacagagatgaagtc
+            cggtttttcaaagggaataagtactgggctgttcagggacagaatgtgctacacggatac
+            cccaaggacatctacagctcctttggcttccctagaactgtgaagcatatcgatgctgct
+            ctttctgaggaaaacactggaaaaacctacttctttgttgctaacaaatactggaggtat
+            gatgaatataaacgatctatggatccaggttatcccaaaatgatagcacatgactttcct
+            ggaattggccacaaagttgatgcagttttcatgaaagatggatttttctatttctttcat
+            ggaacaagacaatacaaatttgatcctaaaacgaagagaattttgactctccagaaagct
+            aatagctggttcaactgcaggaaaaattga
+///

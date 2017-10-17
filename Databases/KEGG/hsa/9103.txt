@@ -1,0 +1,70 @@
+ENTRY       9103              CDS       T01001
+NAME        FCGR2C, CD32, CD32C, CDW32, FCG2, FCRIIC, IGFR2
+DEFINITION  (RefSeq) Fc fragment of IgG receptor IIc (gene/pseudogene)
+ORTHOLOGY   K16824  low affinity immunoglobulin gamma Fc receptor II-c
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04380  Osteoclast differentiation
+            hsa05140  Leishmaniasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+DISEASE     H01240  Immune thrombocytopenia (ITP)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                9103 (FCGR2C)
+             Organismal Systems
+              Development
+               04380 Osteoclast differentiation
+                9103 (FCGR2C)
+             Human Diseases
+              Infectious diseases
+               05150 Staphylococcus aureus infection
+                9103 (FCGR2C)
+               05152 Tuberculosis
+                9103 (FCGR2C)
+               05140 Leishmaniasis
+                9103 (FCGR2C)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Fc receptors
+                9103 (FCGR2C)
+            CD molecules [BR:hsa04090]
+             Proteins
+              9103 (FCGR2C)
+POSITION    1q23.3
+MOTIF       Pfam: Ig_2 Ig_3 ig Ig_4 I-set V-set Ig_5 C2-set_2 DUF3827 Protocadherin CD34_antigen Adeno_E3_CR2 V-set_CD47 ECSCR
+DBLINKS     NCBI-GeneID: 9103
+            NCBI-ProteinID: NP_963857
+            OMIM: 612169
+            HGNC: 15626
+            Pharos: P31995(Tbio)
+            UniProt: P31995
+AASEQ       323
+            MGILSFLPVLATESDWADCKSPQPWGHMLLWTAVLFLAPVAGTPAAPPKAVLKLEPQWIN
+            VLQEDSVTLTCRGTHSPESDSIPWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSL
+            SDPVHLTVLSEWLVLQTPHLEFQEGETIVLRCHSWKDKPLVKVTFFQNGKSKKFSRSDPN
+            FSIPQANHSHSGDYHCTGNIGYTLYSSKPVTITVQAPSSSPMGIIVAVVTGIAVAAIVAA
+            VVALIYCRKKRISANSTDPVKAAQFEPPGRQMIAIRKRQPEETNNDYETADGGYMTLNPR
+            APTDDDKNIYLTLPPNDHVNSNN
+NTSEQ       972
+            atgggaatcctgtcattcttacctgtccttgccactgagagtgactgggctgactgcaag
+            tccccccagccttggggtcatatgcttctgtggacagctgtgctattcctggctcctgtt
+            gctgggacacctgcagctcccccaaaggctgtgctgaaactcgagccccagtggatcaac
+            gtgctccaagaggactctgtgactctgacatgccgggggactcacagccctgagagcgac
+            tccattccgtggttccacaatgggaatctcattcccacccacacgcagcccagctacagg
+            ttcaaggccaacaacaatgacagcggggagtacacgtgccagactggccagaccagcctc
+            agcgaccctgtgcatctgactgtgctttctgagtggctggtgctccagacccctcacctg
+            gagttccaggagggagaaaccatcgtgctgaggtgccacagctggaaggacaagcctctg
+            gtcaaggtcacattcttccagaatggaaaatccaagaaattttcccgttcggatcccaac
+            ttctccatcccacaagcaaaccacagtcacagtggtgattaccactgcacaggaaacata
+            ggctacacgctgtactcatccaagcctgtgaccatcactgtccaagctcccagctcttca
+            ccgatggggatcattgtggctgtggtcactgggattgctgtagcggccattgttgctgct
+            gtagtggccttgatctactgcaggaaaaagcggatttcagccaattccactgatcctgtg
+            aaggctgcccaatttgagccacctggacgtcaaatgattgccatcagaaagagacaacct
+            gaagaaaccaacaatgactatgaaacagctgacggcggctacatgactctgaaccccagg
+            gcacctactgacgatgataaaaacatctacctgactcttcctcccaacgaccatgtcaac
+            agtaataactaa
+///

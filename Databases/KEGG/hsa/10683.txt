@@ -1,0 +1,86 @@
+ENTRY       10683             CDS       T01001
+NAME        DLL3, SCDO1
+DEFINITION  (RefSeq) delta like canonical Notch ligand 3
+ORTHOLOGY   K06051  delta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04330  Notch signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa05224  Breast cancer
+MODULE      hsa_M00682  Notch signaling
+DISEASE     H00517  Spondylocostal dysostosis (SCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04330 Notch signaling pathway
+                10683 (DLL3)
+             Organismal Systems
+              Immune system
+               04658 Th1 and Th2 cell differentiation
+                10683 (DLL3)
+             Human Diseases
+              Cancers
+               05224 Breast cancer
+                10683 (DLL3)
+              Drug resistance
+               01522 Endocrine resistance
+                10683 (DLL3)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               10683 (DLL3)
+POSITION    19q13.2
+MOTIF       Pfam: EGF hEGF EGF_2 DSL
+DBLINKS     NCBI-GeneID: 10683
+            NCBI-ProteinID: NP_058637
+            OMIM: 602768
+            HGNC: 2909
+            Ensembl: ENSG00000090932
+            Vega: OTTHUMG00000183067
+            Pharos: Q9NYJ7(Tbio)
+            UniProt: Q9NYJ7
+AASEQ       618
+            MVSPRMSGLLSQTVILALIFLPQTRPAGVFELQIHSFGPGPGPGAPRSPCSARLPCRLFF
+            RVCLKPGLSEEAAESPCALGAALSARGPVYTEQPGAPAPDLPLPDGLLQVPFRDAWPGTF
+            SFIIETWREELGDQIGGPAWSLLARVAGRRRLAAGGPWARDIQRAGAWELRFSYRARCEP
+            PAVGTACTRLCRPRSAPSRCGPGLRPCAPLEDECEAPLVCRAGCSPEHGFCEQPGECRCL
+            EGWTGPLCTVPVSTSSCLSPRGPSSATTGCLVPGPGPCDGNPCANGGSCSETPRSFECTC
+            PRGFYGLRCEVSGVTCADGPCFNGGLCVGGADPDSAYICHCPPGFQGSNCEKRVDRCSLQ
+            PCRNGGLCLDLGHALRCRCRAGFAGPRCEHDLDDCAGRACANGGTCVEGGGAHRCSCALG
+            FGGRDCRERADPCAARPCAHGGRCYAHFSGLVCACAPGYMGARCEFPVHPDGASALPAAP
+            PGLRPGDPQRYLLPPALGLLVAAGVAGAALLLVHVRRRGHSQDAGSRLLAGTPEPSVHAL
+            PDALNNLRTQEGSGDGPSSSVDWNRPEDVDPQGIYVISAPSIYAREVATPLFPPLHTGRA
+            GQRQHLLFPYPSSILSVK
+NTSEQ       1857
+            atggtctccccacggatgtccgggctcctctcccagactgtgatcctagcgctcattttc
+            ctcccccagacacggcccgctggcgtcttcgagctgcagatccactctttcgggccgggt
+            ccaggccctggggccccgcggtccccctgcagcgcccggctcccctgccgcctcttcttc
+            agagtctgcctgaagcctgggctctcagaggaggccgccgagtccccgtgcgccctgggc
+            gcggcgctgagtgcgcgcggaccggtctacaccgagcagcccggagcgcccgcgcctgat
+            ctcccactgcccgacggcctcttgcaggtgcccttccgggacgcctggcctggcaccttc
+            tctttcatcatcgaaacctggagagaggagttaggagaccagattggagggcccgcctgg
+            agcctgctggcgcgcgtggctggcaggcggcgcttggcagccggaggcccgtgggcccgg
+            gacattcagcgcgcaggcgcctgggagctgcgcttctcgtaccgcgcgcgctgcgagccg
+            cctgccgtcgggaccgcgtgcacgcgcctctgccgtccgcgcagcgccccctcgcggtgc
+            ggtccgggactgcgcccctgcgcaccgctcgaggacgaatgtgaggcgccgctggtgtgc
+            cgagcaggctgcagccctgagcatggcttctgtgaacagcccggtgaatgccgatgccta
+            gagggctggactggacccctctgcacggtccctgtctccaccagcagctgcctcagcccc
+            aggggcccgtcctctgctaccaccggatgccttgtccctgggcctgggccctgtgacggg
+            aacccgtgtgccaatggaggcagctgtagtgagacacccaggtcctttgaatgcacctgc
+            ccgcgtgggttctacgggctgcggtgtgaggtgagcggggtgacatgtgcagatggaccc
+            tgcttcaacggcggcttgtgtgtcgggggtgcagaccctgactctgcctacatctgccac
+            tgcccacccggtttccaaggctccaactgtgagaagagggtggaccggtgcagcctgcag
+            ccatgccgcaatggcggactctgcctggacctgggccacgccctgcgctgccgctgccgc
+            gccggcttcgcgggtcctcgctgcgagcacgacctggacgactgcgcgggccgcgcctgc
+            gctaacggcggcacgtgtgtggagggcggcggcgcgcaccgctgctcctgcgcgctgggc
+            ttcggcggccgcgactgccgcgagcgcgcggacccgtgcgccgcgcgcccctgtgctcac
+            ggcggccgctgctacgcccacttctccggcctcgtctgcgcttgcgctcccggctacatg
+            ggagcgcggtgtgagttcccagtgcaccccgacggcgcaagcgccttgcccgcggccccg
+            ccgggcctcaggcccggggaccctcagcgctaccttttgcctccggctctgggactgctc
+            gtggccgcgggcgtggccggcgctgcgctcttgctggtccacgtgcgccgccgtggccac
+            tcccaggatgctgggtctcgcttgctggctgggaccccggagccgtcagtccacgcactc
+            ccggatgcactcaacaacctaaggacgcaggagggttccggggatggtccgagctcgtcc
+            gtagattggaatcgccctgaagatgtagaccctcaagggatttatgtcatatctgctcct
+            tccatctacgctcgggaggtagcgacgccccttttccccccgctacacactgggcgcgct
+            gggcagaggcagcacctgctttttccctacccttcctcgattctgtccgtgaaatga
+///

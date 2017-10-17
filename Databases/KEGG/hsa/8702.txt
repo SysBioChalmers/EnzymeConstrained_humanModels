@@ -1,0 +1,67 @@
+ENTRY       8702              CDS       T01001
+NAME        B4GALT4, B4Gal-T4, beta4Gal-T4
+DEFINITION  (RefSeq) beta-1,4-galactosyltransferase 4
+ORTHOLOGY   K07969  beta-1,4-galactosyltransferase 4 [EC:2.4.1.90 2.4.1.275 2.4.1.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+            hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00533 Glycosaminoglycan biosynthesis - keratan sulfate
+                8702 (B4GALT4)
+               00601 Glycosphingolipid biosynthesis - lacto and neolacto series
+                8702 (B4GALT4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.90  N-acetyllactosamine synthase
+                 8702 (B4GALT4)
+                2.4.1.275  neolactotriaosylceramide beta-1,4-galactosyltransferase
+                 8702 (B4GALT4)
+                2.4.1.-  
+                 8702 (B4GALT4)
+            Glycosyltransferases [BR:hsa01003]
+             Glycan extension
+              Type 2 chain/Poly-N-acetyllactosamine
+               8702 (B4GALT4)
+POSITION    3q13.32
+MOTIF       Pfam: Glyco_transf_7N Glyco_transf_7C
+DBLINKS     NCBI-GeneID: 8702
+            NCBI-ProteinID: NP_003769
+            OMIM: 604015
+            HGNC: 927
+            Ensembl: ENSG00000121578
+            Vega: OTTHUMG00000159358
+            Pharos: O60513(Tdark)
+            UniProt: O60513 B2RAZ5 B3KM35
+AASEQ       344
+            MGFNLTFHLSYKFRLLLLLTLCLTVVGWATSNYFVGAIQEIPKAKEFMANFHKTLILGKG
+            KTLTNEASTKKVELDNCPSVSPYLRGQSKLIFKPDLTLEEVQAENPKVSRGRYRPQECKA
+            LQRVAILVPHRNREKHLMYLLEHLHPFLQRQQLDYGIYVIHQAEGKKFNRAKLLNVGYLE
+            ALKEENWDCFIFHDVDLVPENDFNLYKCEEHPKHLVVGRNSTGYRLRYSGYFGGVTALSR
+            EQFFKVNGFSNNYWGWGGEDDDLRLRVELQRMKISRPLPEVGKYTMVFHTRDKGNEVNAE
+            RMKLLHQVSRVWRTDGLSSCSYKLVSVEHNPLYINITVDFWFGA
+NTSEQ       1035
+            atgggcttcaacctgactttccacctttcctacaaattccgattactgttgctgttgact
+            ttgtgcctgacagtggttgggtgggccaccagtaactacttcgtgggtgccattcaagag
+            attcctaaagcaaaggagttcatggctaatttccataagaccctcattttggggaaggga
+            aaaactctgactaatgaagcatccacgaagaaggtagaacttgacaactgcccttctgtg
+            tctccttacctcagaggccagagcaagctcattttcaaaccagatctcactttggaagag
+            gtacaggcagaaaatcccaaagtgtccagaggccggtatcgccctcaggaatgtaaagct
+            ttacagagggtcgccatcctcgttccccaccggaacagagagaaacacctgatgtacctg
+            ctggaacatctgcatcccttcctgcagaggcagcagctggattatggcatctacgtcatc
+            caccaggctgaaggtaaaaagtttaatcgagccaaactcttgaatgtgggctatctagaa
+            gccctcaaggaagaaaattgggactgctttatattccacgatgtggacctggtacccgag
+            aatgactttaacctttacaagtgtgaggagcatcccaagcatctggtggttggcaggaac
+            agcactgggtacaggttacgttacagtggatattttgggggtgttactgccctaagcaga
+            gagcagtttttcaaggtgaatggattctctaacaactactggggatggggaggcgaagac
+            gatgacctcagactcagggttgagctccaaagaatgaaaatttcccggcccctgcctgaa
+            gtgggtaaatatacaatggtcttccacactagagacaaaggcaatgaggtgaacgcagaa
+            cggatgaagctcttacaccaagtgtcacgagtctggagaacagatgggttgagtagttgt
+            tcttataaattagtatctgtggaacacaatcctttatatatcaacatcacagtggatttc
+            tggtttggtgcatga
+///

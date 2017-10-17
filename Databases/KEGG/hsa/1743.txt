@@ -1,0 +1,73 @@
+ENTRY       1743              CDS       T01001
+NAME        DLST, DLTS
+DEFINITION  (RefSeq) dihydrolipoamide S-succinyltransferase
+ORTHOLOGY   K00658  2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00310  Lysine degradation
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                1743 (DLST)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                1743 (DLST)
+              Amino acid metabolism
+               00310 Lysine degradation
+                1743 (DLST)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.61  dihydrolipoyllysine-residue succinyltransferase
+                 1743 (DLST)
+POSITION    14q24.3
+MOTIF       Pfam: 2-oxoacid_dh Biotin_lipoyl Biotin_lipoyl_2 DUF4106 GCV_H
+DBLINKS     NCBI-GeneID: 1743
+            NCBI-ProteinID: NP_001924
+            OMIM: 126063
+            HGNC: 2911
+            Ensembl: ENSG00000119689
+            Vega: OTTHUMG00000171483
+            Pharos: P36957(Tbio)
+            UniProt: P36957 A0A024R6C9
+AASEQ       453
+            MLSRSRCVSRAFSRSLSAFQKGNCPLGRRSLPGVSLCQGPGYPNSRKVVINNSVFSVRFF
+            RTTAVCKDDLVTVKTPAFAESVTEGDVRWEKAVGDTVAEDEVVCEIETDKTSVQVPSPAN
+            GVIEALLVPDGGKVEGGTPLFTLRKTGAAPAKAKPAEAPAAAAPKAEPTAAAVPPPAAPI
+            PTQMPPVPSPSQPPSGKPVSAVKPTVAPPLAEPGAGKGLRSEHREKMNRMRQRIAQRLKE
+            AQNTCAMLTTFNEIDMSNIQEMRARHKEAFLKKHNLKLGFMSAFVKASAFALQEQPVVNA
+            VIDDTTKEVVYRDYIDISVAVATPRGLVVPVIRNVEAMNFADIERTITELGEKARKNELA
+            IEDMDGGTFTISNGGVFGSLFGTPIINPPQSAILGMHGIFDRPVAIGGKVEVRPMMYVAL
+            TYDHRLIDGREAVTFLRKIKAAVEDPRVLLLDL
+NTSEQ       1362
+            atgctgtcccgatcccgctgtgtgtctcgggcgttcagccgctcgctctccgccttccag
+            aaggggaactgccctctagggagacgttccctgcctggggtctccttatgccagggacca
+            ggttaccctaacagcaggaaggttgtcattaacaacagtgtcttcagtgttcgctttttc
+            agaactacagctgtatgcaaggatgacttggttacagtcaaaaccccagcgtttgcagaa
+            tctgtcacagagggagatgtcaggtgggagaaagctgttggagacacagttgcagaagat
+            gaagtggtttgtgagattgaaactgacaagacatctgtgcaggttccatcaccagcaaat
+            ggcgtgattgaagctcttttggtacctgatgggggaaaagtcgaaggaggcactccactt
+            ttcacactcaggaaaactggtgctgctcctgctaaggccaagccggctgaagctcctgct
+            gctgcagccccaaaagcagaacctacagcagcggcagttcctccccctgcagcacccata
+            cccactcagatgccaccggtgccctcgccctcacagcctccttctggcaaacctgtgtct
+            gcagtaaaacccactgttgccccaccactagctgagccaggagctggcaaaggtctgcgt
+            tcagaacatcgggagaaaatgaacaggatgcggcagcgcattgctcagcgtctgaaggag
+            gcccagaatacatgtgcaatgctgacaacttttaatgagattgacatgagtaacatccag
+            gagatgagggctcggcacaaagaggcttttttgaagaaacataacctcaaactaggcttc
+            atgtcggcatttgtgaaggcctcagcctttgccttgcaggaacagcctgttgtaaatgca
+            gtgattgacgacacaaccaaagaggtggtgtatagggattatattgacatcagtgttgca
+            gtggccaccccacggggtctggtggttccagtcatcaggaatgtggaagctatgaatttt
+            gcagatattgaacggaccatcactgaactgggagagaaggcccgaaagaatgaacttgcc
+            attgaagatatggatggcggtaccttcaccattagcaatggaggcgtttttggctcgctc
+            tttggaacacccattatcaacccccctcagtctgccatcctggggatgcatggcatcttt
+            gacaggccagtggctataggaggcaaggtagaggtgcggcccatgatgtacgtggcactg
+            acctatgatcaccggctgattgatggcagagaggctgtgactttcctccgcaaaatcaag
+            gcagcggtagaggatcccagagtcctcctcctggatctttag
+///

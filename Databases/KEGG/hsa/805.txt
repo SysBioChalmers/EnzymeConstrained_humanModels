@@ -1,0 +1,186 @@
+ENTRY       805               CDS       T01001
+NAME        CALM2, CAMII, LQT15, PHKD, PHKD2, caM
+DEFINITION  (RefSeq) calmodulin 2
+ORTHOLOGY   K02183  calmodulin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04114  Oocyte meiosis
+            hsa04218  Cellular senescence
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04371  Apelin signaling pathway
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04722  Neurotrophin signaling pathway
+            hsa04728  Dopaminergic synapse
+            hsa04740  Olfactory transduction
+            hsa04744  Phototransduction
+            hsa04750  Inflammatory mediator regulation of TRP channels
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa04916  Melanogenesis
+            hsa04921  Oxytocin signaling pathway
+            hsa04922  Glucagon signaling pathway
+            hsa04924  Renin secretion
+            hsa04925  Aldosterone synthesis and secretion
+            hsa04970  Salivary secretion
+            hsa04971  Gastric acid secretion
+            hsa05010  Alzheimer's disease
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+            hsa05133  Pertussis
+            hsa05152  Tuberculosis
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05214  Glioma
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H00720  Long QT syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                805 (CALM2)
+               04015 Rap1 signaling pathway
+                805 (CALM2)
+               04371 Apelin signaling pathway
+                805 (CALM2)
+               04020 Calcium signaling pathway
+                805 (CALM2)
+               04070 Phosphatidylinositol signaling system
+                805 (CALM2)
+               04024 cAMP signaling pathway
+                805 (CALM2)
+               04022 cGMP - PKG signaling pathway
+                805 (CALM2)
+             Cellular Processes
+              Cell growth and death
+               04114 Oocyte meiosis
+                805 (CALM2)
+               04218 Cellular senescence
+                805 (CALM2)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                805 (CALM2)
+               04922 Glucagon signaling pathway
+                805 (CALM2)
+               04912 GnRH signaling pathway
+                805 (CALM2)
+               04915 Estrogen signaling pathway
+                805 (CALM2)
+               04921 Oxytocin signaling pathway
+                805 (CALM2)
+               04916 Melanogenesis
+                805 (CALM2)
+               04924 Renin secretion
+                805 (CALM2)
+               04925 Aldosterone synthesis and secretion
+                805 (CALM2)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                805 (CALM2)
+               04270 Vascular smooth muscle contraction
+                805 (CALM2)
+              Digestive system
+               04970 Salivary secretion
+                805 (CALM2)
+               04971 Gastric acid secretion
+                805 (CALM2)
+              Nervous system
+               04728 Dopaminergic synapse
+                805 (CALM2)
+               04720 Long-term potentiation
+                805 (CALM2)
+               04722 Neurotrophin signaling pathway
+                805 (CALM2)
+              Sensory system
+               04744 Phototransduction
+                805 (CALM2)
+               04740 Olfactory transduction
+                805 (CALM2)
+               04750 Inflammatory mediator regulation of TRP channels
+                805 (CALM2)
+              Environmental adaptation
+               04713 Circadian entrainment
+                805 (CALM2)
+             Human Diseases
+              Cancers
+               05214 Glioma
+                805 (CALM2)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                805 (CALM2)
+              Substance dependence
+               05031 Amphetamine addiction
+                805 (CALM2)
+               05034 Alcoholism
+                805 (CALM2)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                805 (CALM2)
+              Infectious diseases
+               05133 Pertussis
+                805 (CALM2)
+               05152 Tuberculosis
+                805 (CALM2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                805 (CALM2)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Calcineurin (PPP3/ PP2B)
+                Regulatory subunits
+                 805 (CALM2)
+            Membrane trafficking [BR:hsa04131]
+             Exocytosis
+              Small GTPases and associated proteins
+               Rab associated proteins
+                805 (CALM2)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Centriole replication proteins
+                 805 (CALM2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of colorectal cancer cells
+               805 (CALM2)
+POSITION    2p21
+MOTIF       Pfam: EF-hand_1 EF-hand_7 EF-hand_8 EF-hand_6 EF-hand_5 EF-hand_9 EF-hand_4 SPARC_Ca_bdg EF-hand_11 UPF0154 EFhand_Ca_insen DUF1103 Caleosin DUF4497 TerB GPHH SurA_N_2 Poly_export DUF2267 SurA_N_3 Fe_hyd_lg_C MotA_activ
+DBLINKS     NCBI-GeneID: 805
+            NCBI-ProteinID: NP_001734
+            OMIM: 114182
+            HGNC: 1445
+            Ensembl: ENSG00000143933
+            Vega: OTTHUMG00000128850
+            UniProt: P0DP23 P0DP24 P0DP25 B4DJ51
+STRUCTURE   PDB: 4DJC 2W73 2F3Y 4LZX 2F3Z 5DOW 1YR5 1CLL 5K8Q 3UCW 4Q57
+                 4BW8 3UCY 2Y4V 4BW7 5JTH 3BYA 2R28 3UCT 2WEL 1ZUZ 5DSU
+                 2VAY 4Q5U 3SUI 5J03 2I08 2BE6 1WRZ 1IWQ 1CDL 4M1L 3G43
+                 1YRT 2V01 4DCK 2X0G 1ZOT 5DBR 4L79 3DVK 1L7Z 5WSV 4UPU
+                 3DVE 3EWT 1Y6W 1CTR 3HR4 1YRU 3OXQ 4GOW 3EWV 3DVM 4BYF
+                 1K90 4OVN 3DVJ 4V0C 1K93 5WSU 4UMO 1S26 4JPZ 5I0I 1XFX
+                 1SK6 1XFZ 1XFY 1PK0 1XFU 1XFV 1XFW 1LVC 5VMS 5K7L 4JQ0
+                 3J41 5GGM 5J8H 2N8J 2N77 2N6A 2N27 2MG5 2M55 2M0J 2M0K
+                 2LV6 2LQP 2LQC 2LL6 2LL7 2LGF 2L7L 2L53 2KUG 2KUH 2KNE
+                 2K61 2K0J 2K0E 2K0F 2JZI 2V02 2HF5 1SW8 1J7O 1J7P
+AASEQ       149
+            MADQLTEEQIAEFKEAFSLFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINEVDADG
+            NGTIDFPEFLTMMARKMKDTDSEEEIREAFRVFDKDGNGYISAAELRHVMTNLGEKLTDE
+            EVDEMIREADIDGDGQVNYEEFVQMMTAK
+NTSEQ       450
+            atggctgaccaactgactgaagagcagattgcagaattcaaagaagctttttcactattt
+            gacaaagatggtgatggaactataacaacaaaggaattgggaactgtaatgagatctctt
+            gggcagaatcccacagaagcagagttacaggacatgattaatgaagtagatgctgatggt
+            aatggcacaattgacttccctgaatttctgacaatgatggcaagaaaaatgaaagacaca
+            gacagtgaagaagaaattagagaagcattccgtgtgtttgataaggatggcaatggctat
+            attagtgctgcagaacttcgccatgtgatgacaaaccttggagagaagttaacagatgaa
+            gaagttgatgaaatgatcagggaagcagatattgatggtgatggtcaagtaaactatgaa
+            gagtttgtacaaatgatgacagcaaagtga
+///

@@ -1,0 +1,193 @@
+ENTRY       3791              CDS       T01001
+NAME        KDR, CD309, FLK1, VEGFR, VEGFR2
+DEFINITION  (RefSeq) kinase insert domain receptor
+ORTHOLOGY   K05098  kinase insert domain protein receptor [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa05205  Proteoglycans in cancer
+            hsa05418  Fluid shear stress and atherosclerosis
+DISEASE     H01482  Infantile hemangioma
+DRUG_TARGET Axitinib: D03218
+            Brivanib (DG01373): D08878 D09589
+            Cediranib (DG01360): D08881 D08883
+            Dovitinib lactate: D08907
+            Foretinib: D09618
+            Lenvatinib (DG01362): D09919 D09920
+            Linifanib: D09635
+            Midostaurin: D05029
+            Motesanib (DG01262): D06678 D08947
+            Nintedanib (DG01374): D10396 D10481
+            Pazopanib: D05380
+            Ramucirumab: D09371
+            Regorafenib (DG00720): D10137 D10138
+            Semaxanib: D05819
+            Sorafenib (DG00713): D06272 D08524
+            Sunitinib (DG00712): D06402 D08552
+            Tivozanib (DG01375): D09683 D10190
+            Toceranib (DG01363): D08503 D08544
+            Vandetanib: D06407
+            Vatalanib: D06285
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3791 (KDR)
+               04015 Rap1 signaling pathway
+                3791 (KDR)
+               04370 VEGF signaling pathway
+                3791 (KDR)
+               04151 PI3K-Akt signaling pathway
+                3791 (KDR)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3791 (KDR)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3791 (KDR)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                3791 (KDR)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                3791 (KDR)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                3791 (KDR)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 3791 (KDR)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              VEGFR family [OT]
+               3791 (KDR)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class V (VEGF receptor family)
+               3791 (KDR)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class V (VEGF receptor family)
+               3791 (KDR)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3791 (KDR)
+POSITION    4q12
+MOTIF       Pfam: Pkinase_Tyr Ig_3 I-set Pkinase ig Ig_2 V-set C2-set_2 Haspin_kinase
+DBLINKS     NCBI-GeneID: 3791
+            NCBI-ProteinID: NP_002244
+            OMIM: 191306
+            HGNC: 6307
+            Ensembl: ENSG00000128052
+            Vega: OTTHUMG00000128734
+            Pharos: P35968(Tclin)
+            UniProt: P35968 A0A024RD88
+STRUCTURE   PDB: 2XIR 3VO3 3VHE 3WZD 3EWH 3VNT 1YWN 3BE2 4ASE 3WZE 4AG8
+                 2P2H 4AGC 4ASD 2OH4 3C7Q 2QU6 1Y6A 1Y6B 3U6J 3CJF 3S35
+                 3EFL 3CJG 3VID 3CPC 2P2I 1VR2 3VHK 5EW3 3CP9 2RL5 3S37
+                 2X1W 3KVQ 3CPB 3B8R 3B8Q 4AGD 3DTW 2QU5 2X1X 3V2A 3S36
+                 3V6B 2MET 2M59
+AASEQ       1356
+            MQSKVLLAVALWLCVETRAASVGLPSVSLDLPRLSIQKDILTIKANTTLQITCRGQRDLD
+            WLWPNNQSGSEQRVEVTECSDGLFCKTLTIPKVIGNDTGAYKCFYRETDLASVIYVYVQD
+            YRSPFIASVSDQHGVVYITENKNKTVVIPCLGSISNLNVSLCARYPEKRFVPDGNRISWD
+            SKKGFTIPSYMISYAGMVFCEAKINDESYQSIMYIVVVVGYRIYDVVLSPSHGIELSVGE
+            KLVLNCTARTELNVGIDFNWEYPSSKHQHKKLVNRDLKTQSGSEMKKFLSTLTIDGVTRS
+            DQGLYTCAASSGLMTKKNSTFVRVHEKPFVAFGSGMESLVEATVGERVRIPAKYLGYPPP
+            EIKWYKNGIPLESNHTIKAGHVLTIMEVSERDTGNYTVILTNPISKEKQSHVVSLVVYVP
+            PQIGEKSLISPVDSYQYGTTQTLTCTVYAIPPPHHIHWYWQLEEECANEPSQAVSVTNPY
+            PCEEWRSVEDFQGGNKIEVNKNQFALIEGKNKTVSTLVIQAANVSALYKCEAVNKVGRGE
+            RVISFHVTRGPEITLQPDMQPTEQESVSLWCTADRSTFENLTWYKLGPQPLPIHVGELPT
+            PVCKNLDTLWKLNATMFSNSTNDILIMELKNASLQDQGDYVCLAQDRKTKKRHCVVRQLT
+            VLERVAPTITGNLENQTTSIGESIEVSCTASGNPPPQIMWFKDNETLVEDSGIVLKDGNR
+            NLTIRRVRKEDEGLYTCQACSVLGCAKVEAFFIIEGAQEKTNLEIIILVGTAVIAMFFWL
+            LLVIILRTVKRANGGELKTGYLSIVMDPDELPLDEHCERLPYDASKWEFPRDRLKLGKPL
+            GRGAFGQVIEADAFGIDKTATCRTVAVKMLKEGATHSEHRALMSELKILIHIGHHLNVVN
+            LLGACTKPGGPLMVIVEFCKFGNLSTYLRSKRNEFVPYKTKGARFRQGKDYVGAIPVDLK
+            RRLDSITSSQSSASSGFVEEKSLSDVEEEEAPEDLYKDFLTLEHLICYSFQVAKGMEFLA
+            SRKCIHRDLAARNILLSEKNVVKICDFGLARDIYKDPDYVRKGDARLPLKWMAPETIFDR
+            VYTIQSDVWSFGVLLWEIFSLGASPYPGVKIDEEFCRRLKEGTRMRAPDYTTPEMYQTML
+            DCWHGEPSQRPTFSELVEHLGNLLQANAQQDGKDYIVLPISETLSMEEDSGLSLPTSPVS
+            CMEEEEVCDPKFHYDNTAGISQYLQNSKRKSRPVSVKTFEDIPLEEPEVKVIPDDNQTDS
+            GMVLASEELKTLEDRTKLSPSFGGMVPSKSRESVASEGSNQTSGYQSGYHSDDTDTTVYS
+            SEEAELLKLIEIGVQTGSTAQILQPDSGTTLSSPPV
+NTSEQ       4071
+            atgcagagcaaggtgctgctggccgtcgccctgtggctctgcgtggagacccgggccgcc
+            tctgtgggtttgcctagtgtttctcttgatctgcccaggctcagcatacaaaaagacata
+            cttacaattaaggctaatacaactcttcaaattacttgcaggggacagagggacttggac
+            tggctttggcccaataatcagagtggcagtgagcaaagggtggaggtgactgagtgcagc
+            gatggcctcttctgtaagacactcacaattccaaaagtgatcggaaatgacactggagcc
+            tacaagtgcttctaccgggaaactgacttggcctcggtcatttatgtctatgttcaagat
+            tacagatctccatttattgcttctgttagtgaccaacatggagtcgtgtacattactgag
+            aacaaaaacaaaactgtggtgattccatgtctcgggtccatttcaaatctcaacgtgtca
+            ctttgtgcaagatacccagaaaagagatttgttcctgatggtaacagaatttcctgggac
+            agcaagaagggctttactattcccagctacatgatcagctatgctggcatggtcttctgt
+            gaagcaaaaattaatgatgaaagttaccagtctattatgtacatagttgtcgttgtaggg
+            tataggatttatgatgtggttctgagtccgtctcatggaattgaactatctgttggagaa
+            aagcttgtcttaaattgtacagcaagaactgaactaaatgtggggattgacttcaactgg
+            gaatacccttcttcgaagcatcagcataagaaacttgtaaaccgagacctaaaaacccag
+            tctgggagtgagatgaagaaatttttgagcaccttaactatagatggtgtaacccggagt
+            gaccaaggattgtacacctgtgcagcatccagtgggctgatgaccaagaagaacagcaca
+            tttgtcagggtccatgaaaaaccttttgttgcttttggaagtggcatggaatctctggtg
+            gaagccacggtgggggagcgtgtcagaatccctgcgaagtaccttggttacccaccccca
+            gaaataaaatggtataaaaatggaataccccttgagtccaatcacacaattaaagcgggg
+            catgtactgacgattatggaagtgagtgaaagagacacaggaaattacactgtcatcctt
+            accaatcccatttcaaaggagaagcagagccatgtggtctctctggttgtgtatgtccca
+            ccccagattggtgagaaatctctaatctctcctgtggattcctaccagtacggcaccact
+            caaacgctgacatgtacggtctatgccattcctcccccgcatcacatccactggtattgg
+            cagttggaggaagagtgcgccaacgagcccagccaagctgtctcagtgacaaacccatac
+            ccttgtgaagaatggagaagtgtggaggacttccagggaggaaataaaattgaagttaat
+            aaaaatcaatttgctctaattgaaggaaaaaacaaaactgtaagtacccttgttatccaa
+            gcggcaaatgtgtcagctttgtacaaatgtgaagcggtcaacaaagtcgggagaggagag
+            agggtgatctccttccacgtgaccaggggtcctgaaattactttgcaacctgacatgcag
+            cccactgagcaggagagcgtgtctttgtggtgcactgcagacagatctacgtttgagaac
+            ctcacatggtacaagcttggcccacagcctctgccaatccatgtgggagagttgcccaca
+            cctgtttgcaagaacttggatactctttggaaattgaatgccaccatgttctctaatagc
+            acaaatgacattttgatcatggagcttaagaatgcatccttgcaggaccaaggagactat
+            gtctgccttgctcaagacaggaagaccaagaaaagacattgcgtggtcaggcagctcaca
+            gtcctagagcgtgtggcacccacgatcacaggaaacctggagaatcagacgacaagtatt
+            ggggaaagcatcgaagtctcatgcacggcatctgggaatccccctccacagatcatgtgg
+            tttaaagataatgagacccttgtagaagactcaggcattgtattgaaggatgggaaccgg
+            aacctcactatccgcagagtgaggaaggaggacgaaggcctctacacctgccaggcatgc
+            agtgttcttggctgtgcaaaagtggaggcatttttcataatagaaggtgcccaggaaaag
+            acgaacttggaaatcattattctagtaggcacggcggtgattgccatgttcttctggcta
+            cttcttgtcatcatcctacggaccgttaagcgggccaatggaggggaactgaagacaggc
+            tacttgtccatcgtcatggatccagatgaactcccattggatgaacattgtgaacgactg
+            ccttatgatgccagcaaatgggaattccccagagaccggctgaagctaggtaagcctctt
+            ggccgtggtgcctttggccaagtgattgaagcagatgcctttggaattgacaagacagca
+            acttgcaggacagtagcagtcaaaatgttgaaagaaggagcaacacacagtgagcatcga
+            gctctcatgtctgaactcaagatcctcattcatattggtcaccatctcaatgtggtcaac
+            cttctaggtgcctgtaccaagccaggagggccactcatggtgattgtggaattctgcaaa
+            tttggaaacctgtccacttacctgaggagcaagagaaatgaatttgtcccctacaagacc
+            aaaggggcacgattccgtcaagggaaagactacgttggagcaatccctgtggatctgaaa
+            cggcgcttggacagcatcaccagtagccagagctcagccagctctggatttgtggaggag
+            aagtccctcagtgatgtagaagaagaggaagctcctgaagatctgtataaggacttcctg
+            accttggagcatctcatctgttacagcttccaagtggctaagggcatggagttcttggca
+            tcgcgaaagtgtatccacagggacctggcggcacgaaatatcctcttatcggagaagaac
+            gtggttaaaatctgtgactttggcttggcccgggatatttataaagatccagattatgtc
+            agaaaaggagatgctcgcctccctttgaaatggatggccccagaaacaatttttgacaga
+            gtgtacacaatccagagtgacgtctggtcttttggtgttttgctgtgggaaatattttcc
+            ttaggtgcttctccatatcctggggtaaagattgatgaagaattttgtaggcgattgaaa
+            gaaggaactagaatgagggcccctgattatactacaccagaaatgtaccagaccatgctg
+            gactgctggcacggggagcccagtcagagacccacgttttcagagttggtggaacatttg
+            ggaaatctcttgcaagctaatgctcagcaggatggcaaagactacattgttcttccgata
+            tcagagactttgagcatggaagaggattctggactctctctgcctacctcacctgtttcc
+            tgtatggaggaggaggaagtatgtgaccccaaattccattatgacaacacagcaggaatc
+            agtcagtatctgcagaacagtaagcgaaagagccggcctgtgagtgtaaaaacatttgaa
+            gatatcccgttagaagaaccagaagtaaaagtaatcccagatgacaaccagacggacagt
+            ggtatggttcttgcctcagaagagctgaaaactttggaagacagaaccaaattatctcca
+            tcttttggtggaatggtgcccagcaaaagcagggagtctgtggcatctgaaggctcaaac
+            cagacaagcggctaccagtccggatatcactccgatgacacagacaccaccgtgtactcc
+            agtgaggaagcagaacttttaaagctgatagagattggagtgcaaaccggtagcacagcc
+            cagattctccagcctgactcggggaccacactgagctctcctcctgtttaa
+///

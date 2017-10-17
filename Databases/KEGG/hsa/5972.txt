@@ -1,0 +1,81 @@
+ENTRY       5972              CDS       T01001
+NAME        REN, HNFJ2
+DEFINITION  (RefSeq) renin
+ORTHOLOGY   K01380  renin [EC:3.4.23.15]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04614  Renin-angiotensin system
+            hsa04924  Renin secretion
+DISEASE     H00541  Uromodulin-associated kidney diseases
+            H00575  Renal tubular dysgenesis
+DRUG_TARGET Aliskiren (DG00352): D03208 D06412
+            Ditekiren: D03741
+            Enalkiren: D03738
+            Remikiren: D09038
+            Terlakiren: D03743
+            Zankiren hydrochloride: D03745
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Endocrine system
+               04924 Renin secretion
+                5972 (REN)
+               04614 Renin-angiotensin system
+                5972 (REN)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.15  renin
+                 5972 (REN)
+            Peptidases [BR:hsa01002]
+             Aspartic Peptidases
+              Family A1: pepsin family
+               5972 (REN)
+POSITION    1q32.1
+MOTIF       Pfam: Asp TAXi_N TAXi_C A1_Propeptide Asp_protease_2 Peptidase_C71
+DBLINKS     NCBI-GeneID: 5972
+            NCBI-ProteinID: NP_000528
+            OMIM: 179820
+            HGNC: 9958
+            Ensembl: ENSG00000143839
+            Vega: OTTHUMG00000036059
+            Pharos: P00797(Tclin)
+            UniProt: P00797
+STRUCTURE   PDB: 3K1W 1HRN 3KM4 3G72 2IKO 2G24 3OWN 3GW5 3G6Z 3G70 4Q1N
+                 5SXN 5KOT 4S1G 3SFC 2G26 3Q5H 3OAD 3Q4B 3D91 2V0Z 2G21
+                 2FS4 2IL2 5SY2 5SY3 3OAG 2I4Q 4XX3 4XX4 4GJ5 4GJC 3O9L
+                 2G20 1BIL 1RNE 5KOS 2G1R 4RYC 4GJ8 2G1Y 2G22 2G1S 2REN
+                 3OOT 4GJ6 4RZ1 4GJ9 4GJA 3VUC 4AMT 3Q3T 2IKU 5T4S 4RYG
+                 4PYV 4GJD 5KOQ 3VYE 2G1O 4GJB 3OQF 3VYF 4GJ7 3VSX 2V16
+                 2V13 1BIM 1BBS 3VYD 5SZ9 3OQK 2G27 2G1N 3VCM 3VSW 2V10
+                 2V11 2V12 2X0B 2BKS 2BKT
+AASEQ       406
+            MDGWRRMPRWGLLLLLWGSCTFGLPTDTTTFKRIFLKRMPSIRESLKERGVDMARLGPEW
+            SQPMKRLTLGNTTSSVILTNYMDTQYYGEIGIGTPPQTFKVVFDTGSSNVWVPSSKCSRL
+            YTACVYHKLFDASDSSSYKHNGTELTLRYSTGTVSGFLSQDIITVGGITVTQMFGEVTEM
+            PALPFMLAEFDGVVGMGFIEQAIGRVTPIFDNIISQGVLKEDVFSFYYNRDSENSQSLGG
+            QIVLGGSDPQHYEGNFHYINLIKTGVWQIQMKGVSVGSSTLLCEDGCLALVDTGASYISG
+            STSSIEKLMEALGAKKRLFDYVVKCNEGPTLPDISFHLGGKEYTLTSADYVFQESYSSKK
+            LCTLAIHAMDIPPPTGPTWALGATFIRKFYTEFDRRNNRIGFALAR
+NTSEQ       1221
+            atggatggatggagaaggatgcctcgctggggactgctgctgctgctctggggctcctgt
+            acctttggtctcccgacagacaccaccacctttaaacggatcttcctcaagagaatgccc
+            tcaatccgagaaagcctgaaggaacgaggtgtggacatggccaggcttggtcccgagtgg
+            agccaacccatgaagaggctgacacttggcaacaccacctcctccgtgatcctcaccaac
+            tacatggacacccagtactatggcgagattggcatcggcaccccaccccagaccttcaaa
+            gtcgtctttgacactggttcgtccaatgtttgggtgccctcctccaagtgcagccgtctc
+            tacactgcctgtgtgtatcacaagctcttcgatgcttcggattcctccagctacaagcac
+            aatggaacagaactcaccctccgctattcaacagggacagtcagtggctttctcagccag
+            gacatcatcaccgtgggtggaatcacggtgacacagatgtttggagaggtcacggagatg
+            cccgccttacccttcatgctggccgagtttgatggggttgtgggcatgggcttcattgaa
+            caggccattggcagggtcacccctatcttcgacaacatcatctcccaaggggtgctaaaa
+            gaggacgtcttctctttctactacaacagagattccgagaattcccaatcgctgggagga
+            cagattgtgctgggaggcagcgacccccagcattacgaagggaatttccactatatcaac
+            ctcatcaagactggtgtctggcagattcaaatgaagggggtgtctgtggggtcatccacc
+            ttgctctgtgaagacggctgcctggcattggtagacaccggtgcatcctacatctcaggt
+            tctaccagctccatagagaagctcatggaggccttgggagccaagaagaggctgtttgat
+            tatgtcgtgaagtgtaacgagggccctacactccccgacatctctttccacctgggaggc
+            aaagaatacacgctcaccagcgcggactatgtatttcaggaatcctacagtagtaaaaag
+            ctgtgcacactggccatccacgccatggatatcccgccacccactggacccacctgggcc
+            ctgggggccaccttcatccgaaagttctacacagagtttgatcggcgtaacaaccgcatt
+            ggcttcgccttggcccgctga
+///

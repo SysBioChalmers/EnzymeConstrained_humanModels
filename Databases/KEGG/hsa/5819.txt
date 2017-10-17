@@ -1,0 +1,88 @@
+ENTRY       5819              CDS       T01001
+NAME        NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2
+DEFINITION  (RefSeq) nectin cell adhesion molecule 2
+ORTHOLOGY   K06531  poliovirus receptor-related protein 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04520  Adherens junction
+            hsa05168  Herpes simplex infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                5819 (NECTIN2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                5819 (NECTIN2)
+             Human Diseases
+              Infectious diseases
+               05168 Herpes simplex infection
+                5819 (NECTIN2)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               B7-CD28 family
+                TIGIT; T-cell immunoreceptor with Ig and ITIM domains [KO:K16350]
+                 5819 (NECTIN2)
+               Others
+                CD226, DNAM1; CD226 antigen [KO:K06567]
+                 5819 (NECTIN2)
+              Others
+               PVRL2; poliovirus receptor-related 2 [KO:K06531]
+                5819 (NECTIN2)
+               PVRL3; poliovirus receptor-related 3 [KO:K06592]
+                5819 (NECTIN2)
+            CD molecules [BR:hsa04090]
+             Proteins
+              5819 (NECTIN2)
+POSITION    19q13.32
+MOTIF       Pfam: C2-set_2 ig Ig_3 V-set I-set Ig_2 TonB_C C1-set
+DBLINKS     NCBI-GeneID: 5819
+            NCBI-ProteinID: NP_001036189
+            OMIM: 600798
+            HGNC: 9707
+            Ensembl: ENSG00000130202
+            Vega: OTTHUMG00000180839
+            Pharos: Q92692(Tbio)
+            UniProt: Q92692
+STRUCTURE   PDB: 3R0N 4HZA 4DFI 4DFH 5V52
+AASEQ       538
+            MARAAALLPSRSPPTPLLWPLLLLLLLETGAQDVRVQVLPEVRGQLGGTVELPCHLLPPV
+            PGLYISLVTWQRPDAPANHQNVAAFHPKMGPSFPSPKPGSERLSFVSAKQSTGQDTEAEL
+            QDATLALHGLTVEDEGNYTCEFATFPKGSVRGMTWLRVIAKPKNQAEAQKVTFSQDPTTV
+            ALCISKEGRPPARISWLSSLDWEAKETQVSGTLAGTVTVTSRFTLVPSGRADGVTVTCKV
+            EHESFEEPALIPVTLSVRYPPEVSISGYDDNWYLGRTDATLSCDVRSNPEPTGYDWSTTS
+            GTFPTSAVAQGSQLVIHAVDSLFNTTFVCTVTNAVGMGRAEQVIFVRETPNTAGAGATGG
+            IIGGIIAAIIATAVAATGILICRQQRKEQTLQGAEEDEDLEGPPSYKPPTPKAKLEAQEM
+            PSQLFTLGASEHSPLKTPYFDAGASCTEQEMPRYHELPTLEERSGPLHPGATSLGSPIPV
+            PPGPPAVEDVSLDLEDEEGEEEEEYLDKINPIYDALSYSSPSDSYQGKGFVMSRAMYV
+NTSEQ       1617
+            atggcccgggccgctgccctcctgccgtcgagatcgccgccgacgccgctgctgtggccg
+            ctgctgctgctgctgctcctggaaaccggagcccaggatgtgcgagttcaagtgctaccc
+            gaggtgcgaggccagctcgggggcaccgtggagctgccgtgccacctgctgccacctgtt
+            cctggactgtacatctccctggtgacctggcagcgcccagatgcacctgcgaaccaccag
+            aatgtggccgccttccaccctaagatgggtcccagcttccccagcccgaagcctggcagc
+            gagcggctgtccttcgtctctgccaagcagagcactgggcaagacacagaggcagagctc
+            caggacgccacgctggccctccacgggctcacggtggaggacgagggcaactacacttgc
+            gagtttgccaccttccccaaggggtccgtccgagggatgacctggctcagagtcatagcc
+            aagcccaagaaccaagctgaggcccagaaggtcacgttcagccaggaccctacgacagtg
+            gccctctgcatctccaaagagggccgcccacctgcccggatctcctggctctcatccctg
+            gactgggaagccaaagagactcaggtgtcagggaccctggccggaactgtcactgtcacc
+            agccgcttcaccttggtgccctcgggccgagcagatggtgtcacggtcacctgcaaagtg
+            gagcatgagagcttcgaggaaccagccctgatacctgtgaccctctctgtacgctaccct
+            cctgaagtgtccatctccggctatgatgacaactggtacctcggccgtactgatgccacc
+            ctgagctgtgacgtccgcagcaacccagagcccacgggctatgactggagcacgacctca
+            ggcaccttcccgacctccgcagtggcccagggctcccagctggtcatccacgcagtggac
+            agtctgttcaataccaccttcgtctgcacagtcaccaatgccgtgggcatgggccgcgct
+            gagcaggtcatctttgtccgagagacccccaacacagcaggcgcaggggccacaggcggc
+            atcatcgggggcatcatcgccgccatcattgctactgctgtggctgccacgggcatcctt
+            atctgccggcagcagcggaaggagcagacgctgcagggggcagaggaggacgaagacctg
+            gagggacctccctcctacaagccaccgaccccaaaagcgaagctggaggcacaggagatg
+            ccctcccagctcttcactctgggggcctcggagcacagcccactcaagaccccctacttt
+            gatgctggcgcctcatgcactgagcaggaaatgcctcgataccatgagctgcccaccttg
+            gaagaacggtcaggacccttgcaccctggagccacaagcctggggtcccccatcccggtg
+            cctccagggccacctgctgtggaagacgtttccctggatctagaggatgaggagggggag
+            gaggaggaagagtatctggacaagatcaaccccatctatgatgctctgtcctatagcagc
+            ccctctgattcctaccagggcaaaggctttgtcatgtcccgggccatgtatgtgtga
+///

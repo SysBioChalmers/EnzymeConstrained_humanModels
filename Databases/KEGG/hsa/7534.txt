@@ -1,0 +1,80 @@
+ENTRY       7534              CDS       T01001
+NAME        YWHAZ, 14-3-3-zeta, HEL-S-3, HEL-S-93, HEL4, KCIP-1, YWHAD
+DEFINITION  (RefSeq) tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta
+ORTHOLOGY   K16197  14-3-3 protein beta/theta/zeta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05161  Hepatitis B
+            hsa05169  Epstein-Barr virus infection
+            hsa05203  Viral carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04390 Hippo signaling pathway
+                7534 (YWHAZ)
+               04151 PI3K-Akt signaling pathway
+                7534 (YWHAZ)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                7534 (YWHAZ)
+               04114 Oocyte meiosis
+                7534 (YWHAZ)
+             Human Diseases
+              Cancers
+               05203 Viral carcinogenesis
+                7534 (YWHAZ)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                7534 (YWHAZ)
+               05161 Hepatitis B
+                7534 (YWHAZ)
+               05169 Epstein-Barr virus infection
+                7534 (YWHAZ)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Check point factors
+               Other check point factors
+                7534 (YWHAZ)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               7534 (YWHAZ)
+POSITION    8q22.3
+MOTIF       Pfam: 14-3-3 FliM Peptidase_C98
+DBLINKS     NCBI-GeneID: 7534
+            NCBI-ProteinID: NP_001129171
+            OMIM: 601288
+            HGNC: 12855
+            Ensembl: ENSG00000164924
+            Vega: OTTHUMG00000134291
+            Pharos: P63104(Tbio)
+            UniProt: P63104 D0PNI1
+STRUCTURE   PDB: 2O02 5EXA 4FJ3 2C1N 5NAS 5D2D 4N7Y 4IHL 4HKC 4N7G 2WH0
+                 4BG6 5JM4 5EWZ 5JIT 3RDH 5J31 3NKX 3CU8 4WRQ 5JIV 4N84
+                 2C1J 1IB1 5D3F 5WXN 1QJA 1QJB
+AASEQ       245
+            MDKNELVQKAKLAEQAERYDDMAACMKSVTEQGAELSNEERNLLSVAYKNVVGARRSSWR
+            VVSSIEQKTEGAEKKQQMAREYREKIETELRDICNDVLSLLEKFLIPNASQAESKVFYLK
+            MKGDYYRYLAEVAAGDDKKGIVDQSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYYE
+            ILNSPEKACSLAKTAFDEAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDTQGDEAEAG
+            EGGEN
+NTSEQ       738
+            atggataaaaatgagctggttcagaaggccaaactggccgagcaggctgagcgatatgat
+            gacatggcagcctgcatgaagtctgtaactgagcaaggagctgaattatccaatgaggag
+            aggaatcttctctcagttgcttataaaaatgttgtaggagcccgtaggtcatcttggagg
+            gtcgtctcaagtattgaacaaaagacggaaggtgctgagaaaaaacagcagatggctcga
+            gaatacagagagaaaattgagacggagctaagagatatctgcaatgatgtactgtctctt
+            ttggaaaagttcttgatccccaatgcttcacaagcagagagcaaagtcttctatttgaaa
+            atgaaaggagattactaccgttacttggctgaggttgccgctggtgatgacaagaaaggg
+            attgtcgatcagtcacaacaagcataccaagaagcttttgaaatcagcaaaaaggaaatg
+            caaccaacacatcctatcagactgggtctggcccttaacttctctgtgttctattatgag
+            attctgaactccccagagaaagcctgctctcttgcaaagacagcttttgatgaagccatt
+            gctgaacttgatacattaagtgaagagtcatacaaagacagcacgctaataatgcaatta
+            ctgagagacaacttgacattgtggacatcggatacccaaggagacgaagctgaagcagga
+            gaaggaggggaaaattaa
+///

@@ -1,0 +1,56 @@
+ENTRY       11185             CDS       T01001
+NAME        INMT, TEMT
+DEFINITION  (RefSeq) indolethylamine N-methyltransferase
+ORTHOLOGY   K00562  methyltransferase [EC:2.1.1.49 2.1.1.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00450  Selenocompound metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                11185 (INMT)
+              Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                11185 (INMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.49  amine N-methyltransferase
+                 11185 (INMT)
+                2.1.1.96  thioether S-methyltransferase
+                 11185 (INMT)
+POSITION    7p14.3
+MOTIF       Pfam: NNMT_PNMT_TEMT Methyltransf_23 Methyltransf_11
+DBLINKS     NCBI-GeneID: 11185
+            NCBI-ProteinID: NP_006765
+            OMIM: 604854
+            HGNC: 6069
+            Ensembl: ENSG00000241644
+            Vega: OTTHUMG00000167163
+            Pharos: O95050(Tchem)
+            UniProt: O95050
+STRUCTURE   PDB: 2A14
+AASEQ       263
+            MKGGFTGGDEYQKHFLPRDYLATYYSFDGSPSPEAEMLKFNLECLHKTFGPGGLQGDTLI
+            DIGSGPTIYQVLAACDSFQDITLSDFTDRNREELEKWLKKEPGAYDWTPAVKFACELEGN
+            SGRWEEKEEKLRAAVKRVLKCDVHLGNPLAPAVLPLADCVLTLLAMECACCSLDAYRAAL
+            CNLASLLKPGGHLVTTVTLRLPSYMVGKREFSCVALEKEEVEQAVLDAGFDIEQLLHSPQ
+            SYSVTNAANNGVCFIVARKKPGP
+NTSEQ       792
+            atgaagggtggcttcactgggggtgatgagtaccagaagcacttcctgcccagggactac
+            ttggctacttactacagcttcgatggcagcccctcacccgaggccgagatgctgaagttt
+            aacttggaatgtctccacaagaccttcggccctggaggcctccaaggggacacgctgatt
+            gacattggctcaggtcctaccatctaccaagttcttgctgcctgtgattccttccaagac
+            atcactctctccgactttaccgaccgcaaccgggaggagctggaaaagtggctgaagaag
+            gagccgggggcctatgactggaccccagcggtgaaattcgcctgtgagctggaaggaaac
+            agcggccgatgggaggagaaggaggagaagctgcgggcagcggtgaagcgggtgctcaag
+            tgcgatgtccacctgggcaacccgctggccccggctgtgttgcctctcgccgactgtgtg
+            ctcaccctgctggccatggagtgtgcctgctgtagccttgatgcctaccgcgctgccctg
+            tgcaaccttgcctcactgctcaagccgggtggccacctggtgaccactgtcacgcttcgg
+            ctcccgtcctacatggtggggaagcgtgaattttcctgcgtggccctggagaaagaggag
+            gtggagcaggctgtcctggatgctggctttgacattgaacagctcctacacagtccccag
+            agctactctgtcaccaatgctgccaacaatggggtctgcttcattgtggctcgcaagaag
+            cctgggccctga
+///

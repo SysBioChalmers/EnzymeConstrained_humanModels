@@ -1,0 +1,68 @@
+ENTRY       10352             CDS       T01001
+NAME        WARS2, TrpRS
+DEFINITION  (RefSeq) tryptophanyl tRNA synthetase 2, mitochondrial
+ORTHOLOGY   K01867  tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                10352 (WARS2)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.2  tryptophan---tRNA ligase
+                 10352 (WARS2)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class I (A)
+               10352 (WARS2)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                10352 (WARS2)
+             Prokaryotic Type
+                10352 (WARS2)
+POSITION    1p12
+MOTIF       Pfam: tRNA-synt_1b DUF2067 NCD1
+DBLINKS     NCBI-GeneID: 10352
+            NCBI-ProteinID: NP_056651
+            OMIM: 604733
+            HGNC: 12730
+            Ensembl: ENSG00000116874
+            Vega: OTTHUMG00000012335
+            Pharos: Q9UGM6(Tbio)
+            UniProt: Q9UGM6
+STRUCTURE   PDB: 5EKD
+AASEQ       360
+            MALHSMRKARERWSFIRALHKGSAAAPALQKDSKKRVFSGIQPTGILHLGNYLGAIESWV
+            RLQDEYDSVLYSIVDLHSITVPQDPAVLRQSILDMTAVLLACGINPEKSILFQQSQVSEH
+            TQLSWILSCMVRLPRLQHLHQWKAKTTKQKHDGTVGLLTYPVLQAADILLYKSTHVPVGE
+            DQVQHMELVQDLAQGFNKKYGEFFPVPESILTSMKKVKSLRDPSAKMSKSDPDKLATVRI
+            TDSPEEIVQKFRKAVTDFTSEVTYDPAGRAGVSNIVAVHAAVTGLSVEEVVRRSAGMNTA
+            RYKLAVADAVIEKFAPIKREIEKLKLDKDHLEKVLQIGSAKAKELAYTVCQEVKKLVGFL
+NTSEQ       1083
+            atggcgctgcactcaatgcggaaagcgcgtgagcgctggagcttcatccgggcacttcat
+            aagggatccgcagctgctcccgctctccagaaagacagcaagaagcgagtattttccggc
+            attcaacctacaggaatcctccacctgggcaattacctgggagccattgagagctgggtg
+            aggttacaggatgaatatgactctgtattatacagcattgttgacctccactccattact
+            gtcccccaagacccagctgtccttcggcagagcatcctggacatgactgctgttcttctt
+            gcctgtggcataaacccggaaaaaagcatccttttccaacaatctcaggtgtctgaacac
+            acacaattaagttggatcctttcctgcatggtcagactacctcgattacaacatttacat
+            cagtggaaggcaaagactaccaagcagaagcacgatggcacggtgggcctgctcacatac
+            ccagtactccaggcagccgacattctgttgtacaagtccacacacgttcctgttggggag
+            gatcaagtccagcacatggaactagttcaggatctagcacaaggtttcaacaagaagtat
+            ggggagttctttccagtgcccgagtccattctcacatccatgaagaaggtaaaatcccta
+            cgtgatccttctgccaaaatgtcgaaatcagaccctgacaaactggccaccgtccgaata
+            acagacagcccagaggagatagtgcagaaattccgcaaggctgtgacagacttcacctcg
+            gaggtcacctatgacccggctggccgcgctggcgtgtccaacatagtggcggtgcatgcc
+            gcggtgacggggctctccgtggaggaagtggtgcgccgcagcgcgggcatgaacactgct
+            cgctacaagctggccgtggcagatgctgtgattgagaagtttgccccaattaagcgtgaa
+            attgaaaaactgaagctggacaaggaccatttagagaaggttttacaaattggatcagca
+            aaagccaaagaattagcatacactgtgtgccaggaggtgaagaaattggtgggttttcta
+            tag
+///

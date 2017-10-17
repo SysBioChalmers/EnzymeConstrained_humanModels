@@ -1,0 +1,87 @@
+ENTRY       10623             CDS       T01001
+NAME        POLR3C, RPC3, RPC62
+DEFINITION  (RefSeq) RNA polymerase III subunit C
+ORTHOLOGY   K03023  DNA-directed RNA polymerase III subunit RPC3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                10623 (POLR3C)
+               00240 Pyrimidine metabolism
+                10623 (POLR3C)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                10623 (POLR3C)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                10623 (POLR3C)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                10623 (POLR3C)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 10623 (POLR3C)
+POSITION    1q21.1
+MOTIF       Pfam: RNA_pol_Rpc82 HTH_9 NIT Cut12
+DBLINKS     NCBI-GeneID: 10623
+            NCBI-ProteinID: NP_006459
+            OMIM: 617454
+            HGNC: 30076
+            Ensembl: ENSG00000186141
+            Vega: OTTHUMG00000013753
+            Pharos: Q9BUI4(Tdark)
+            UniProt: Q9BUI4 A0A024R4C1
+STRUCTURE   PDB: 2XUB 2XV4 5AFQ
+AASEQ       534
+            MTQAEIKLCSLLLQEHFGEIVEKIGVHLIRTGSQPLRVIAHDTGTSLDQVKKALCVLVQH
+            NLVSYQVHKRGVVEYEAQCSRVLRMLRYPRYIYTTKTLYSDTGELIVEELLLNGKLTMSA
+            VVKKVADRLTETMEDGKTMDYAEVSNTFVRLADTHFVQRCPSVPTTENSDPGPPPPAPTL
+            VINEKDMYLVPKLSLIGKGKRRRSSDEDAAGEPKAKRPKYTTDNKEPIPDDGIYWQANLD
+            RFHQHFRDQAIVSAVANRMDQTSSEIVRTMLRMSEITTSSSAPFTQPLSSNEIFRSLPVG
+            YNISKQVLDQYLTLLADDPLEFVGKSGDSGGGMYVINLHKALASLATATLESVVQERFGS
+            RCARIFRLVLQKKHIEQKQVEDFAMIPAKEAKDMLYKMLSENFMSLQEIPKTPDHAPSRT
+            FYLYTVNILSAARMLLHRCYKSIANLIERRQFETKENKRLLEKSQRVEAIIASMQATGAE
+            EAQLQEIEEMITAPERQQLETLKRNVNKLDASEIQVDETIFLLESYIECTMKRQ
+NTSEQ       1605
+            atgactcaagcagaaattaagctctgttctttgttgctgcaagagcattttggagagatt
+            gtagaaaaaattggagtccatctgataagaaccggcagccagccactaagagtaattgcc
+            catgacacaggaacatcactggatcaggtgaagaaagccctgtgtgtcctcgtccaacat
+            aacctggtgagttatcaagtgcacaaacgtggtgtggtggagtatgaagcccagtgcagc
+            cgggtattgcgaatgcttagatatccccggtacatctatactaccaaaactctgtacagt
+            gacactggagagctgattgttgaggagcttctgttgaacggcaaactgacaatgtcagct
+            gttgtgaagaaagtggcagaccggctcacagagaccatggaggatggcaagaccatggac
+            tatgctgaagtatcaaacacatttgtgcgactggcagacacacactttgtacaacgctgc
+            ccttcggtacctaccactgagaattcagaccctgggccaccaccacctgcccccacactt
+            gtcattaatgaaaaggacatgtacctggttcctaaactcagcttgatagggaaaggtaaa
+            aggaggagatcatctgatgaagatgctgctggggagcccaaggccaagagaccaaaatat
+            actacagataacaaggagcccattccagatgatgggatttattggcaggccaaccttgac
+            agattccaccaacacttccgtgaccaagccattgtgagcgcagttgctaacaggatggac
+            cagacaagcagcgagattgtgcgaaccatgctccgaatgagtgagattaccacttcctct
+            agtgctcccttcacccagccattgtcttccaatgagatcttcagatccctacctgttggc
+            tataacatctctaagcaagttcttgatcagtatctcactctgctggcagatgatccacta
+            gagtttgttggaaagtctggcgacagtggtggaggaatgtatgtcatcaacctccataag
+            gcattagcatccctagccacagccactctggagtccgtcgtacaggagagatttgggtct
+            cgctgtgctagaatattccgtctagttttgcagaagaaacacatagagcagaagcaagtg
+            gaagactttgcaatgattcctgcaaaggaggcaaaggatatgctatataagatgctctca
+            gaaaatttcatgtcactccaggaaattcccaaaacaccagaccatgccccatccaggacc
+            ttctatttatatactgtgaacatcctgtcagctgcccgaatgttgttgcacaggtgctac
+            aagagcatagccaacttgatagaaaggaggcaatttgaaaccaaagagaataagcgtcta
+            ctagaaaaatctcagagggtagaagccatcattgcatctatgcaggctactggtgcagag
+            gaagcacagttacaagaaatagaggagatgatcacagctcctgaacgtcagcagctagag
+            accctgaaacgtaatgtcaacaagttggatgccagtgagatccaggtggacgaaaccatc
+            ttcctgctggagtcttacattgagtgcaccatgaagagacagtga
+///

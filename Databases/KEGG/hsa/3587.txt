@@ -1,0 +1,87 @@
+ENTRY       3587              CDS       T01001
+NAME        IL10RA, CD210, CD210a, CDW210A, HIL-10R, IL-10R1, IL10R
+DEFINITION  (RefSeq) interleukin 10 receptor subunit alpha
+ORTHOLOGY   K05134  interleukin 10 receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04630  Jak-STAT signaling pathway
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05169  Epstein-Barr virus infection
+DISEASE     H00286  Crohn's disease
+            H01227  Inflammatory bowel disease (IBD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3587 (IL10RA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3587 (IL10RA)
+             Human Diseases
+              Infectious diseases
+               05152 Tuberculosis
+                3587 (IL10RA)
+               05169 Epstein-Barr virus infection
+                3587 (IL10RA)
+               05145 Toxoplasmosis
+                3587 (IL10RA)
+            Cytokine receptors [BR:hsa04050]
+             Class II cytokine receptor (interferon/IL-10 family receptor)
+              3587 (IL10RA)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3587 (IL10RA)
+POSITION    11q23.3
+MOTIF       Pfam: Tissue_fac Interfer-bind
+DBLINKS     NCBI-GeneID: 3587
+            NCBI-ProteinID: NP_001549
+            OMIM: 146933
+            HGNC: 5964
+            Ensembl: ENSG00000110324
+            Vega: OTTHUMG00000166523
+            Pharos: Q13651(Tbio)
+            UniProt: Q13651
+STRUCTURE   PDB: 1Y6K 5IXI 1Y6N 1LQS 1Y6M 1J7V
+AASEQ       578
+            MLPCLVVLLAALLSLRLGSDAHGTELPSPPSVWFEAEFFHHILHWTPIPNQSESTCYEVA
+            LLRYGIESWNSISNCSQTLSYDLTAVTLDLYHSNGYRARVRAVDGSRHSNWTVTNTRFSV
+            DEVTLTVGSVNLEIHNGFILGKIQLPRPKMAPANDTYESIFSHFREYEIAIRKVPGNFTF
+            THKKVKHENFSLLTSGEVGEFCVQVKPSVASRSNKGMWSKEECISLTRQYFTVTNVIIFF
+            AFVLLLSGALAYCLALQLYVRRRKKLPSVLLFKKPSPFIFISQRPSPETQDTIHPLDEEA
+            FLKVSPELKNLDLHGSTDSGFGSTKPSLQTEEPQFLLPDPHPQADRTLGNREPPVLGDSC
+            SSGSSNSTDSGICLQEPSLSPSTGPTWEQQVGSNSRGQDDSGIDLVQNSEGRAGDTQGGS
+            ALGHHSPPEPEVPGEEDPAAVAFQGYLRQTRCAEEKATKTGCLEEESPLTDGLGPKFGRC
+            LVDEAGLHPPALAKGYLKQDPLEMTLASSGAPTGQWNQPTEEWSLLALSSCSDLGISDWS
+            FAHDLAPLGCVAAPGGLLGSFNSDLVTLPLISSLQSSE
+NTSEQ       1737
+            atgctgccgtgcctcgtagtgctgctggcggcgctcctcagcctccgtcttggctcagac
+            gctcatgggacagagctgcccagccctccgtctgtgtggtttgaagcagaatttttccac
+            cacatcctccactggacacccatcccaaatcagtctgaaagtacctgctatgaagtggcg
+            ctcctgaggtatggaatagagtcctggaactccatctccaactgtagccagaccctgtcc
+            tatgaccttaccgcagtgaccttggacctgtaccacagcaatggctaccgggccagagtg
+            cgggctgtggacggcagccggcactccaactggaccgtcaccaacacccgcttctctgtg
+            gatgaagtgactctgacagttggcagtgtgaacctagagatccacaatggcttcatcctc
+            gggaagattcagctacccaggcccaagatggcccccgcaaatgacacatatgaaagcatc
+            ttcagtcacttccgagagtatgagattgccattcgcaaggtgccgggaaacttcacgttc
+            acacacaagaaagtaaaacatgaaaacttcagcctcctaacctctggagaagtgggagag
+            ttctgtgtccaggtgaaaccatctgtcgcttcccgaagtaacaaggggatgtggtctaaa
+            gaggagtgcatctccctcaccaggcagtatttcaccgtgaccaacgtcatcatcttcttt
+            gcctttgtcctgctgctctccggagccctcgcctactgcctggccctccagctgtatgtg
+            cggcgccgaaagaagctacccagtgtcctgctcttcaagaagcccagccccttcatcttc
+            atcagccagcgtccctccccagagacccaagacaccatccacccgcttgatgaggaggcc
+            tttttgaaggtgtccccagagctgaagaacttggacctgcacggcagcacagacagtggc
+            tttggcagcaccaagccatccctgcagactgaagagccccagttcctcctccctgaccct
+            cacccccaggctgacagaacgctgggaaacagggagccccctgtgctgggggacagctgc
+            agtagtggcagcagcaatagcacagacagcgggatctgcctgcaggagcccagcctgagc
+            cccagcacagggcccacctgggagcaacaggtggggagcaacagcaggggccaggatgac
+            agtggcattgacttagttcaaaactctgagggccgggctggggacacacagggtggctcg
+            gccttgggccaccacagtcccccggagcctgaggtgcctggggaagaagacccagctgct
+            gtggcattccagggttacctgaggcagaccagatgtgctgaagagaaggcaaccaagaca
+            ggctgcctggaggaagaatcgcccttgacagatggccttggccccaaattcgggagatgc
+            ctggttgatgaggcaggcttgcatccaccagccctggccaagggctatttgaaacaggat
+            cctctagaaatgactctggcttcctcaggggccccaacgggacagtggaaccagcccact
+            gaggaatggtcactcctggccttgagcagctgcagtgacctgggaatatctgactggagc
+            tttgcccatgaccttgcccctctaggctgtgtggcagccccaggtggtctcctgggcagc
+            tttaactcagacctggtcaccctgcccctcatctctagcctgcagtcaagtgagtga
+///

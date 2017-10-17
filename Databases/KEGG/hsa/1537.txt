@@ -1,0 +1,72 @@
+ENTRY       1537              CDS       T01001
+NAME        CYC1, MC3DN6, UQCR4
+DEFINITION  (RefSeq) cytochrome c1
+ORTHOLOGY   K00413  ubiquinol-cytochrome c reductase cytochrome c1 subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00151  Cytochrome bc1 complex respiratory unit
+            hsa_M00152  Cytochrome bc1 complex
+DISEASE     H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                1537 (CYC1)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                1537 (CYC1)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                1537 (CYC1)
+               05012 Parkinson's disease
+                1537 (CYC1)
+               05016 Huntington's disease
+                1537 (CYC1)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                1537 (CYC1)
+POSITION    8q24.3
+MOTIF       Pfam: Cytochrom_C1 Cytochrome_CBB3 Cytochrom_C
+DBLINKS     NCBI-GeneID: 1537
+            NCBI-ProteinID: NP_001907
+            OMIM: 123980
+            HGNC: 2579
+            Ensembl: ENSG00000179091
+            Vega: OTTHUMG00000165242
+            Pharos: P08574(Tbio)
+            UniProt: P08574
+STRUCTURE   PDB: 5XTE
+AASEQ       325
+            MAAAAASLRGVVLGPRGAGLPGARARGLLCSARPGQLPLRTPQAVALSSKSGLSRGRKVM
+            LSALGMLAAGGAGLAVALHSAVSASDLELHPPSYPWSHRGLLSSLDHTSIRRGFQVYKQV
+            CASCHSMDFVAYRHLVGVCYTEDEAKELAAEVEVQDGPNEDGEMFMRPGKLFDYFPKPYP
+            NSEAARAANNGALPPDLSYIVRARHGGEDYVFSLLTGYCEPPTGVSLREGLYFNPYFPGQ
+            AIAMAPPIYTDVLEFDDGTPATMSQIAKDVCTFLRWASEPEHDHRKRMGLKMLMMMALLV
+            PLVYTIKRHKWSVLKSRKLAYRPPK
+NTSEQ       978
+            atggcggcagctgcggcttcgcttcgcggggtagtgttgggcccgcggggcgcggggctc
+            ccgggcgcgcgtgcccggggtctgctgtgcagcgcgcgtcccgggcagctcccgctacgg
+            acacctcaggcagtggccttgtcgtcgaagtctggcctttcccgaggccggaaagtgatg
+            ctgtcagcgctgggcatgctggcggcagggggtgcggggctggccgtggctctgcattcg
+            gctgtgagtgccagtgacctggagctgcacccccccagctatccgtggtctcaccgtggc
+            ctcctctcttccttggaccacaccagcatccggaggggtttccaggtatataagcaggtg
+            tgcgcctcctgccacagcatggacttcgtggcctaccgccacctggtgggcgtgtgctac
+            acggaggatgaagctaaggagctggctgcggaggtggaggttcaagacggccccaatgaa
+            gatggggagatgttcatgcggccagggaagctgttcgactatttcccaaaaccatacccc
+            aacagtgaggctgctcgagctgccaacaacggagcattgccccctgacctcagctacatc
+            gtgcgagctaggcatggtggtgaggactacgtcttctccctgctcacgggctactgcgag
+            ccacccaccggggtgtcactgcgggaaggtctctacttcaacccctactttcctggccag
+            gccattgccatggcccctcccatctacacagatgtcttagagtttgacgatggcacccca
+            gctaccatgtcccagatagccaaggatgtgtgcaccttcctgcgctgggcatctgagcca
+            gagcacgaccatcgaaaacgcatggggctcaagatgttgatgatgatggctctgctggtg
+            cccctggtctacaccataaagcggcacaagtggtcagtcctgaagagtcggaagctggca
+            tatcggccgcccaagtga
+///

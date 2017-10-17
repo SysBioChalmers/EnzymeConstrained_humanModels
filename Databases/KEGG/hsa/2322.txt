@@ -1,0 +1,142 @@
+ENTRY       2322              CDS       T01001
+NAME        FLT3, CD135, FLK-2, FLK2, STK1
+DEFINITION  (RefSeq) fms related tyrosine kinase 3
+ORTHOLOGY   K05092  fms-related tyrosine kinase 3 [EC:2.7.10.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04640  Hematopoietic cell lineage
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05230  Central carbon metabolism in cancer
+DISEASE     H00003  Acute myeloid leukemia (AML)
+DRUG_TARGET Lestaurtinib: D04696
+            Midostaurin: D05029
+            Quizartinib (DG01364): D09955 D09956
+            Semaxanib: D05819
+            Sorafenib (DG00713): D06272 D08524
+            Sunitinib (DG00712): D06402 D08552
+            Tandutinib: D06005
+            Toceranib (DG01363): D08503 D08544
+            Tozasertib (DG01365): D08279 D08344
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                2322 (FLT3)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                2322 (FLT3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2322 (FLT3)
+               05230 Central carbon metabolism in cancer
+                2322 (FLT3)
+               05202 Transcriptional misregulation in cancers
+                2322 (FLT3)
+               05221 Acute myeloid leukemia
+                2322 (FLT3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.1  receptor protein-tyrosine kinase
+                 2322 (FLT3)
+            Protein kinases [BR:hsa01001]
+             Tyrosine protein kinases
+              PDGFR family [OT]
+               2322 (FLT3)
+            Enzyme-linked receptors [BR:hsa01020]
+             Receptor tyrosine kinases
+              RTK class III (PDGF receptor family)
+               2322 (FLT3)
+            Cytokine receptors [BR:hsa04050]
+             Receptor tyrosine kinase
+              RTK class III (PDGF receptor family)
+               2322 (FLT3)
+            CD molecules [BR:hsa04090]
+             Proteins
+              2322 (FLT3)
+POSITION    13q12.2
+MOTIF       Pfam: Pkinase_Tyr Pkinase ig I-set Ig_3 Ig_2 Haspin_kinase APH
+DBLINKS     NCBI-GeneID: 2322
+            NCBI-ProteinID: NP_004110
+            OMIM: 136351
+            HGNC: 3765
+            Ensembl: ENSG00000122025
+            Vega: OTTHUMG00000016646
+            Pharos: P36888(Tclin)
+            UniProt: P36888
+STRUCTURE   PDB: 1RJB 4RT7 4XUF 3QS7 3QS9
+AASEQ       993
+            MPALARDGGQLPLLVVFSAMIFGTITNQDLPVIKCVLINHKNNDSSVGKSSSYPMVSESP
+            EDLGCALRPQSSGTVYEAAAVEVDVSASITLQVLVDAPGNISCLWVFKHSSLNCQPHFDL
+            QNRGVVSMVILKMTETQAGEYLLFIQSEATNYTILFTVSIRNTLLYTLRRPYFRKMENQD
+            ALVCISESVPEPIVEWVLCDSQGESCKEESPAVVKKEEKVLHELFGTDIRCCARNELGRE
+            CTRLFTIDLNQTPQTTLPQLFLKVGEPLWIRCKAVHVNHGFGLTWELENKALEEGNYFEM
+            STYSTNRTMIRILFAFVSSVARNDTGYYTCSSSKHPSQSALVTIVEKGFINATNSSEDYE
+            IDQYEEFCFSVRFKAYPQIRCTWTFSRKSFPCEQKGLDNGYSISKFCNHKHQPGEYIFHA
+            ENDDAQFTKMFTLNIRRKPQVLAEASASQASCFSDGYPLPSWTWKKCSDKSPNCTEEITE
+            GVWNRKANRKVFGQWVSSSTLNMSEAIKGFLVKCCAYNSLGTSCETILLNSPGPFPFIQD
+            NISFYATIGVCLLFIVVLTLLICHKYKKQFRYESQLQMVQVTGSSDNEYFYVDFREYEYD
+            LKWEFPRENLEFGKVLGSGAFGKVMNATAYGISKTGVSIQVAVKMLKEKADSSEREALMS
+            ELKMMTQLGSHENIVNLLGACTLSGPIYLIFEYCCYGDLLNYLRSKREKFHRTWTEIFKE
+            HNFSFYPTFQSHPNSSMPGSREVQIHPDSDQISGLHGNSFHSEDEIEYENQKRLEEEEDL
+            NVLTFEDLLCFAYQVAKGMEFLEFKSCVHRDLAARNVLVTHGKVVKICDFGLARDIMSDS
+            NYVVRGNARLPVKWMAPESLFEGIYTIKSDVWSYGILLWEIFSLGVNPYPGIPVDANFYK
+            LIQNGFKMDQPFYATEEIYIIMQSCWAFDSRKRPSFPNLTSFLGCQLADAEEAMYQNVDG
+            RVSECPHTYQNRRPFSREMDLGLLSPQAQVEDS
+NTSEQ       2982
+            atgccggcgttggcgcgcgacggcggccagctgccgctgctcgttgttttttctgcaatg
+            atatttgggactattacaaatcaagatctgcctgtgatcaagtgtgttttaatcaatcat
+            aagaacaatgattcatcagtggggaagtcatcatcatatcccatggtatcagaatccccg
+            gaagacctcgggtgtgcgttgagaccccagagctcagggacagtgtacgaagctgccgct
+            gtggaagtggatgtatctgcttccatcacactgcaagtgctggtcgacgccccagggaac
+            atttcctgtctctgggtctttaagcacagctccctgaattgccagccacattttgattta
+            caaaacagaggagttgtttccatggtcattttgaaaatgacagaaacccaagctggagaa
+            tacctactttttattcagagtgaagctaccaattacacaatattgtttacagtgagtata
+            agaaataccctgctttacacattaagaagaccttactttagaaaaatggaaaaccaggac
+            gccctggtctgcatatctgagagcgttccagagccgatcgtggaatgggtgctttgcgat
+            tcacagggggaaagctgtaaagaagaaagtccagctgttgttaaaaaggaggaaaaagtg
+            cttcatgaattatttgggacggacataaggtgctgtgccagaaatgaactgggcagggaa
+            tgcaccaggctgttcacaatagatctaaatcaaactcctcagaccacattgccacaatta
+            tttcttaaagtaggggaacccttatggataaggtgcaaagctgttcatgtgaaccatgga
+            ttcgggctcacctgggaattagaaaacaaagcactcgaggagggcaactactttgagatg
+            agtacctattcaacaaacagaactatgatacggattctgtttgcttttgtatcatcagtg
+            gcaagaaacgacaccggatactacacttgttcctcttcaaagcatcccagtcaatcagct
+            ttggttaccatcgtagaaaagggatttataaatgctaccaattcaagtgaagattatgaa
+            attgaccaatatgaagagttttgtttttctgtcaggtttaaagcctacccacaaatcaga
+            tgtacgtggaccttctctcgaaaatcatttccttgtgagcaaaagggtcttgataacgga
+            tacagcatatccaagttttgcaatcataagcaccagccaggagaatatatattccatgca
+            gaaaatgatgatgcccaatttaccaaaatgttcacgctgaatataagaaggaaacctcaa
+            gtgctcgcagaagcatcggcaagtcaggcgtcctgtttctcggatggatacccattacca
+            tcttggacctggaagaagtgttcagacaagtctcccaactgcacagaagagatcacagaa
+            ggagtctggaatagaaaggctaacagaaaagtgtttggacagtgggtgtcgagcagtact
+            ctaaacatgagtgaagccataaaagggttcctggtcaagtgctgtgcatacaattccctt
+            ggcacatcttgtgagacgatccttttaaactctccaggccccttccctttcatccaagac
+            aacatctcattctatgcaacaattggtgtttgtctcctcttcattgtcgttttaaccctg
+            ctaatttgtcacaagtacaaaaagcaatttaggtatgaaagccagctacagatggtacag
+            gtgaccggctcctcagataatgagtacttctacgttgatttcagagaatatgaatatgat
+            ctcaaatgggagtttccaagagaaaatttagagtttgggaaggtactaggatcaggtgct
+            tttggaaaagtgatgaacgcaacagcttatggaattagcaaaacaggagtctcaatccag
+            gttgccgtcaaaatgctgaaagaaaaagcagacagctctgaaagagaggcactcatgtca
+            gaactcaagatgatgacccagctgggaagccacgagaatattgtgaacctgctgggggcg
+            tgcacactgtcaggaccaatttacttgatttttgaatactgttgctatggtgatcttctc
+            aactatctaagaagtaaaagagaaaaatttcacaggacttggacagagattttcaaggaa
+            cacaatttcagtttttaccccactttccaatcacatccaaattccagcatgcctggttca
+            agagaagttcagatacacccggactcggatcaaatctcagggcttcatgggaattcattt
+            cactctgaagatgaaattgaatatgaaaaccaaaaaaggctggaagaagaggaggacttg
+            aatgtgcttacatttgaagatcttctttgctttgcatatcaagttgccaaaggaatggaa
+            tttctggaatttaagtcgtgtgttcacagagacctggccgccaggaacgtgcttgtcacc
+            cacgggaaagtggtgaagatatgtgactttggattggctcgagatatcatgagtgattcc
+            aactatgttgtcaggggcaatgcccgtctgcctgtaaaatggatggcccccgaaagcctg
+            tttgaaggcatctacaccattaagagtgatgtctggtcatatggaatattactgtgggaa
+            atcttctcacttggtgtgaatccttaccctggcattccggttgatgctaacttctacaaa
+            ctgattcaaaatggatttaaaatggatcagccattttatgctacagaagaaatatacatt
+            ataatgcaatcctgctgggcttttgactcaaggaaacggccatccttccctaatttgact
+            tcgtttttaggatgtcagctggcagatgcagaagaagcgatgtatcagaatgtggatggc
+            cgtgtttcggaatgtcctcacacctaccaaaacaggcgacctttcagcagagagatggat
+            ttggggctactctctccgcaggctcaggtcgaagattcgtag
+///

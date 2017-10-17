@@ -1,0 +1,77 @@
+ENTRY       6241              CDS       T01001
+NAME        RRM2, R2, RR2, RR2M
+DEFINITION  (RefSeq) ribonucleotide reductase regulatory subunit M2
+ORTHOLOGY   K10808  ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00480  Glutathione metabolism
+            hsa01100  Metabolic pathways
+            hsa04115  p53 signaling pathway
+DRUG_TARGET Hydroxycarbamide: D00341
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                6241 (RRM2)
+               00240 Pyrimidine metabolism
+                6241 (RRM2)
+              Metabolism of other amino acids
+               00480 Glutathione metabolism
+                6241 (RRM2)
+             Cellular Processes
+              Cell growth and death
+               04115 p53 signaling pathway
+                6241 (RRM2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.17  Acting on CH or CH2 groups
+               1.17.4  With a disulfide as acceptor
+                1.17.4.1  ribonucleoside-diphosphate reductase
+                 6241 (RRM2)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Other factors with a suspected DNA repair function
+               Modulation of nucleotide pools
+                6241 (RRM2)
+POSITION    2p25.1
+MOTIF       Pfam: Ribonuc_red_sm
+DBLINKS     NCBI-GeneID: 6241
+            NCBI-ProteinID: NP_001025
+            OMIM: 180390
+            HGNC: 10452
+            Ensembl: ENSG00000171848
+            Vega: OTTHUMG00000090449
+            Pharos: P31350(Tclin)
+            UniProt: P31350
+STRUCTURE   PDB: 3OLJ 3VPN 3VPO 3VPM 2UW2
+AASEQ       389
+            MLSLRVPLAPITDPQQLQLSPLKGLSLVDKENTPPALSGTRVLASKTARRIFQEPTEPKT
+            KAAAPGVEDEPLLRENPRRFVIFPIEYHDIWQMYKKAEASFWTAEEVDLSKDIQHWESLK
+            PEERYFISHVLAFFAASDGIVNENLVERFSQEVQITEARCFYGFQIAMENIHSEMYSLLI
+            DTYIKDPKEREFLFNAIETMPCVKKKADWALRWIGDKEATYGERVVAFAAVEGIFFSGSF
+            ASIFWLKKRGLMPGLTFSNELISRDEGLHCDFACLMFKHLVHKPSEERVREIIINAVRIE
+            QEFLTEALPVKLIGMNCTLMKQYIEFVADRLMLELGFSKVFRVENPFDFMENISLEGKTN
+            FFEKRVGEYQRMGVMSSPTENSFTLDADF
+NTSEQ       1170
+            atgctctccctccgtgtcccgctcgcgcccatcacggacccgcagcagctgcagctctcg
+            ccgctgaaggggctcagcttggtcgacaaggagaacacgccgccggccctgagcgggacc
+            cgcgtcctggccagcaagaccgcgaggaggatcttccaggagcccacggagccgaaaact
+            aaagcagctgcccccggcgtggaggatgagccgctgctgagagaaaacccccgccgcttt
+            gtcatcttccccatcgagtaccatgatatctggcagatgtataagaaggcagaggcttcc
+            ttttggaccgccgaggaggtggacctctccaaggacattcagcactgggaatccctgaaa
+            cccgaggagagatattttatatcccatgttctggctttctttgcagcaagcgatggcata
+            gtaaatgaaaacttggtggagcgatttagccaagaagttcagattacagaagcccgctgt
+            ttctatggcttccaaattgccatggaaaacatacattctgaaatgtatagtcttcttatt
+            gacacttacataaaagatcccaaagaaagggaatttctcttcaatgccattgaaacgatg
+            ccttgtgtcaagaagaaggcagactgggccttgcgctggattggggacaaagaggctacc
+            tatggtgaacgtgttgtagcctttgctgcagtggaaggcattttcttttccggttctttt
+            gcgtcgatattctggctcaagaaacgaggactgatgcctggcctcacattttctaatgaa
+            cttattagcagagatgagggtttacactgtgattttgcttgcctgatgttcaaacacctg
+            gtacacaaaccatcggaggagagagtaagagaaataattatcaatgctgttcggatagaa
+            caggagttcctcactgaggccttgcctgtgaagctcattgggatgaattgcactctaatg
+            aagcaatacattgagtttgtggcagacagacttatgctggaactgggttttagcaaggtt
+            ttcagagtagagaacccatttgactttatggagaatatttcactggaaggaaagactaac
+            ttctttgagaagagagtaggcgagtatcagaggatgggagtgatgtcaagtccaacagag
+            aattcttttaccttggatgctgacttctaa
+///

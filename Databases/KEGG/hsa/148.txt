@@ -1,0 +1,157 @@
+ENTRY       148               CDS       T01001
+NAME        ADRA1A, ADRA1C, ADRA1L1, ALPHA1AAR
+DEFINITION  (RefSeq) adrenoceptor alpha 1A
+ORTHOLOGY   K04135  adrenergic receptor alpha-1A
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04152  AMPK signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04270  Vascular smooth muscle contraction
+            hsa04970  Salivary secretion
+DRUG_TARGET Alfuzosin (DG00489): D01692 D07124
+            Amidephrine mesylate: D02901
+            Amiodarone (DG00204): D00636 D02910
+            Amosulalol (DG01302): D01469 D07451
+            Arotinolol (DG01303): D01830 D07465
+            Bevantolol: D01369
+            Bunazosin (DG01316): D01887 D07550
+            Bunitrolol hydrochloride: D01444
+            Carvedilol (DG00321): D00255 D03415
+            Dabuzalgron hydrochloride: D06394
+            Dapiprazole (DG01140): D03648 D07775
+            Dihydroergotamine (DG00833): D02211 D07837 D07838
+            Dipivefrine (DG01129): D01017 D02349
+            Domazoline fumarate: D03887
+            Doxazosin (DG00256): D00608 D07874
+            Dronedarone (DG00207): D02537 D03914
+            Droxidopa: D01277
+            Ephedrine (DG00227): D00124 D01386 D04018
+            Epinephrine (DG00013): D00095 D00996 D02149
+            Epinephryl borate: D04026
+            Ergometrine (DG00446): D01163 D07905
+            Ergot alkaloids: D07906
+            Ergotamine (DG00834): D00679
+            Etilefrine (DG00210): D01573 D07931
+            Fiduxosin hydrochloride: D04184
+            Garomefrine hydrochloride: D09784
+            Guanadrel: D08029
+            Guanadrel sulfate: D00607
+            Ifenprodil (DG00292): D01445 D08064
+            Indoramin (DG00254): D04531 D04532
+            Labetalol (DG00320): D00600 D08106
+            Levobunolol (DG01136): D01025 D08115
+            Levomepromazine (DG00868): D00403 D01520 D02248
+            Medroxalol (DG01317): D04888 D04889
+            Metaraminol (DG00218): D01019 D08192
+            Methoxamine (DG00219): D01020 D08201
+            Methylephedrine (DG01229): D01952 D02109 D08206 D09842
+            Methylergometrine (DG00445): D00680 D08207
+            Metizoline: D05006
+            Mianserin (DG00951): D01358 D08216
+            Midodrine (DG00224): D01307 D08220
+            Naftopidil: D01674
+            Naphazoline (DG01032): D00743 D01021 D08253
+            Nipradilol: D01691
+            Norepinephrine (DG00212): D00076 D05206 D08284 D09794
+            Norfenefrine (DG00214): D01405 D08286
+            Octodrine: D05228
+            Olanzapine (DG00898): D00454 D06623
+            Oxedrine (DG00217): D07148 D08308 D08309
+            Oxymetazoline (DG01029): D01022 D08322
+            Pelanserin hydrochloride: D05395
+            Phenoxybenzamine (DG00285): D00507 D08358
+            Phentolamine (DG00280): D00509 D08362
+            Phenylephrine (DG00215): D00511 D08365 D08366 D08966
+            Phenylpropanolamine (DG01041): D01224 D05466 D08368
+            Pimozide: D00560
+            Prazosin (DG00253): D00609 D08411
+            Propylhexedrine (DG01919): D05637
+            Pseudoephedrine (DG01042): D00485 D05648 D05649 D08449
+            Racephedrine Hydrochloride: D08982
+            Risperidone: D00426
+            Sertindole: D00561
+            Setiptiline (DG01231): D02034 D08511
+            Silodosin: D01965
+            Tamsulosin (DG00490): D01024 D08560
+            Terazosin (DG00491): D00610 D08569
+            Tetryzoline (DG01030): D00756 D01023 D08578
+            Tolazoline (DG00281): D00997 D08614
+            Tramazoline (DG01033): D01347 D08624
+            Trimazosin (DG00255): D06234 D08212
+            Urapidil (DG00257): D01333 D08662
+            Xylometazoline (DG01031): D00757 D08684
+            Yohimbin (DG00485): D06671 D08685
+            Zolertine hydrochloride: D06380
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                148 (ADRA1A)
+               04022 cGMP - PKG signaling pathway
+                148 (ADRA1A)
+               04152 AMPK signaling pathway
+                148 (ADRA1A)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                148 (ADRA1A)
+             Organismal Systems
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                148 (ADRA1A)
+               04270 Vascular smooth muscle contraction
+                148 (ADRA1A)
+              Digestive system
+               04970 Salivary secretion
+                148 (ADRA1A)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Biogenic amine [Fig]
+               Adrenaline [OT]
+                148 (ADRA1A)
+POSITION    8p21.2
+MOTIF       Pfam: 7tm_1 7TM_GPCR_Srsx 7tm_4 7TM_GPCR_Srx
+DBLINKS     NCBI-GeneID: 148
+            NCBI-ProteinID: NP_000671
+            OMIM: 104221
+            HGNC: 277
+            Ensembl: ENSG00000120907
+            Vega: OTTHUMG00000099459
+            Pharos: P35348(Tclin)
+            UniProt: P35348
+AASEQ       466
+            MVFLSGNASDSSNCTQPPAPVNISKAILLGVILGGLILFGVLGNILVILSVACHRHLHSV
+            THYYIVNLAVADLLLTSTVLPFSAIFEVLGYWAFGRVFCNIWAAVDVLCCTASIMGLCII
+            SIDRYIGVSYPLRYPTIVTQRRGLMALLCVWALSLVISIGPLFGWRQPAPEDETICQINE
+            EPGYVLFSALGSFYLPLAIILVMYCRVYVVAKRESRGLKSGLKTDKSDSEQVTLRIHRKN
+            APAGGSGMASAKTKTHFSVRLLKFSREKKAAKTLGIVVGCFVLCWLPFFLVMPIGSFFPD
+            FKPSETVFKIVFWLGYLNSCINPIIYPCSSQEFKKAFQNVLRIQCLCRKQSSKHALGYTL
+            HPPSQAVEGQHKDMVRIPVGSRETFYRISKTDGVCEWKFFSSMPRGSARITVSKDQSSCT
+            TARVRSKSFLQVCCCVGPSTPSLDKNHQVPTIKVHTISLSENGEEV
+NTSEQ       1401
+            atggtgtttctctcgggaaatgcttccgacagctccaactgcacccaaccgccggcaccg
+            gtgaacatttccaaggccattctgctcggggtgatcttggggggcctcattcttttcggg
+            gtgctgggtaacatcctagtgatcctctccgtagcctgtcaccgacacctgcactcagtc
+            acgcactactacatcgtcaacctggcggtggccgacctcctgctcacctccacggtgctg
+            cccttctccgccatcttcgaggtcctaggctactgggccttcggcagggtcttctgcaac
+            atctgggcggcagtggatgtgctgtgctgcaccgcgtccatcatgggcctctgcatcatc
+            tccatcgaccgctacatcggcgtgagctacccgctgcgctacccaaccatcgtcacccag
+            aggaggggtctcatggctctgctctgcgtctgggcactctccctggtcatatccattgga
+            cccctgttcggctggaggcagccggcccccgaggacgagaccatctgccagatcaacgag
+            gagccgggctacgtgctcttctcagcgctgggctccttctacctgcctctggccatcatc
+            ctggtcatgtactgccgcgtctacgtggtggccaagagggagagccggggcctcaagtct
+            ggcctcaagaccgacaagtcggactcggagcaagtgacgctccgcatccatcggaaaaac
+            gccccggcaggaggcagcgggatggccagcgccaagaccaagacgcacttctcagtgagg
+            ctcctcaagttctcccgggagaagaaagcggccaaaacgctgggcatcgtggtcggctgc
+            ttcgtcctctgctggctgccttttttcttagtcatgcccattgggtctttcttccctgat
+            ttcaagccctctgaaacagtttttaaaatagtattttggctcggatatctaaacagctgc
+            atcaaccccatcatatacccatgctccagccaagagttcaaaaaggcctttcagaatgtc
+            ttgagaatccagtgtctctgcagaaagcagtcttccaaacatgccctgggctacaccctg
+            cacccgcccagccaggccgtggaagggcaacacaaggacatggtgcgcatccccgtggga
+            tcaagagagaccttctacaggatctccaagacggatggcgtttgtgaatggaaatttttc
+            tcttccatgccccgtggatctgccaggattacagtgtccaaagaccaatcctcctgtacc
+            acagcccgggtgagaagtaaaagctttttgcaggtctgctgctgtgtagggccctcaacc
+            cccagccttgacaagaaccatcaagttccaaccattaaggtccacaccatctccctcagt
+            gagaacggggaggaagtctag
+///

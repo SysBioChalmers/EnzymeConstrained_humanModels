@@ -1,0 +1,112 @@
+ENTRY       347733            CDS       T01001
+NAME        TUBB2B, PMGYSA, bA506K6.1
+DEFINITION  (RefSeq) tubulin beta 2B class IIb
+ORTHOLOGY   K07375  tubulin beta
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04145  Phagosome
+            hsa04540  Gap junction
+            hsa05130  Pathogenic Escherichia coli infection
+DISEASE     H00271  Polymicrogyria
+DRUG_TARGET Batabulin (DG01412): D03059 D06560
+            Brentuximab vedotin: D09587
+            Cabazitaxel (DG00695): D09755 D10452
+            Colchicine: D00570
+            Docetaxel (DG00694): D02165 D07866
+            Eribulin: D08914
+            Estramustine (DG00724): D02398 D04066 D06397
+            Indibulin: D10013
+            Lexibulin: D10073
+            Maytansine: D04864
+            Paclitaxel: D00491
+            Paclitaxel poliglumex: D05333
+            Podophyllotoxin: D05529
+            Soblidotin: D01919
+            Taltobulin: D06001
+            Trastuzumab emtansine (DG01358): D09980
+            Verubulin (DG01411): D10029 D10030
+            Vinblastine (DG00689): D01068 D08675
+            Vincristine (DG00690): D02197 D08679
+            Vindesine (DG00691): D01769 D06304
+            Vinepidine sulfate: D06305
+            Vinflunine: D09032
+            Vinglycinate sulfate: D06306
+            Vinleurosine sulfate: D06307
+            Vinorelbine (DG00692): D01935 D08680
+            Vinrosidine sulfate: D06308
+            Vintafolide: D10434
+            Vinzolidine sulfate: D06309
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                347733 (TUBB2B)
+              Cellular community - eukaryotes
+               04540 Gap junction
+                347733 (TUBB2B)
+             Human Diseases
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                347733 (TUBB2B)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Centrosome formation and ciliogenesis proteins
+               Microtubules and associated factors
+                Other tubulins
+                 347733 (TUBB2B)
+            Cytoskeleton proteins [BR:hsa04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulins
+                347733 (TUBB2B)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               347733 (TUBB2B)
+              Exosomal proteins of colorectal cancer cells
+               347733 (TUBB2B)
+              Exosomal proteins of bladder cancer cells
+               347733 (TUBB2B)
+POSITION    6p25.2
+MOTIF       Pfam: Tubulin Tubulin_C Misat_Tub_SegII Tubulin_3 Tubulin_2
+DBLINKS     NCBI-GeneID: 347733
+            NCBI-ProteinID: NP_821080
+            OMIM: 612850
+            HGNC: 30829
+            Ensembl: ENSG00000137285
+            Vega: OTTHUMG00000014143
+            Pharos: Q9BVA1(Tclin)
+            UniProt: Q9BVA1
+AASEQ       445
+            MREIVHIQAGQCGNQIGAKFWEVISDEHGIDPTGSYHGDSDLQLERINVYYNEATGNKYV
+            PRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVV
+            RKESESCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYPDRIMNTFSVMPSPKVSDTVV
+            EPYNATLSVHQLVENTDETYCIDNEALYDICFRTLKLTTPTYGDLNHLVSATMSGVTTCL
+            RFPGQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALTVPELTQQMFDSKNMM
+            AACDPRHGRYLTVAAIFRGRMSMKEVDEQMLNVQNKNSSYFVEWIPNNVKTAVCDIPPRG
+            LKMSATFIGNSTAIQELFKRISEQFTAMFRRKAFLHWYTGEGMDEMEFTEAESNMNDLVS
+            EYQQYQDATADEQGEFEEEEGEDEA
+NTSEQ       1338
+            atgcgtgagatcgtgcacatccaggcgggccagtgcggcaaccagatcggcgccaagttt
+            tgggaggtcatcagtgatgagcatgggattgaccccactggcagttaccatggagacagt
+            gatttgcagctggagagaatcaatgtttactacaatgaagccactggtaacaaatatgtt
+            cctcgggccatcctcgtggatctggagccaggcacgatggattcggttaggtctggacca
+            ttcggccagatcttcagaccagacaatttcgtgtttggccagagtggagccgggaataac
+            tgggccaagggccactacacagagggagccgagctggtcgactcggtcctggatgtggtg
+            aggaaggagtcagagagctgtgactgtctccagggcttccagctgacccactctctgggg
+            ggcggcacggggtccgggatgggcaccctgctcatcagcaagatccgggaagagtaccca
+            gaccgcatcatgaacaccttcagcgtcatgccctcacccaaggtgtcagacacggtggtg
+            gagccctacaacgccaccctctcggtccaccagctggtggaaaacacagatgaaacctac
+            tgcattgacaacgaggccctgtatgacatctgcttccgcaccctgaagctgaccaccccc
+            acctacggggacctcaaccacctggtgtcggccaccatgagcggggtcaccacctgcctg
+            cgcttcccgggccagctgaacgcagacctgcgcaagctggcggtgaacatggtgcccttc
+            cctcgcctgcacttcttcatgcccggcttcgcgcccctgaccagccggggcagccagcag
+            taccgggcgctcacggtgcccgagctcacccagcagatgttcgactccaagaacatgatg
+            gccgcctgcgacccgcgccacggccgctacctgacggtggctgccatcttccggggccgc
+            atgtccatgaaggaggtggacgagcagatgctcaacgtgcagaacaagaacagcagctac
+            ttcgtggagtggatccccaacaacgtgaagacggccgtgtgcgacatcccgccccgcggc
+            ctgaagatgtcggccaccttcatcggcaacagcacggccatccaggagctgttcaagcgc
+            atctccgagcagttcacggccatgttccggcgcaaggccttcctgcactggtacacgggc
+            gagggcatggacgagatggagttcaccgaggccgagagcaacatgaacgacctggtgtcc
+            gagtaccagcagtaccaggacgccacggccgacgaacaaggggagttcgaggaggaggag
+            ggcgaggacgaggcgtag
+///

@@ -1,0 +1,115 @@
+ENTRY       3586              CDS       T01001
+NAME        IL10, CSIF, GVHDS, IL-10, IL10A, TGIF
+DEFINITION  (RefSeq) interleukin 10
+ORTHOLOGY   K05443  interleukin 10
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04068  FoxO signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05133  Pertussis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05143  African trypanosomiasis
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05150  Staphylococcus aureus infection
+            hsa05152  Tuberculosis
+            hsa05169  Epstein-Barr virus infection
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05322  Systemic lupus erythematosus
+            hsa05330  Allograft rejection
+DISEASE     H00083  Allograft rejection
+            H00084  Graft-versus-host disease
+            H01227  Inflammatory bowel disease (IBD)
+            H01359  Anaphylaxis
+            H01466  Ulcerative colitis (UC)
+            H01468  Eosinophilic granulomatosis with polyangiitis
+            H01476  Behcet Disease
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3586 (IL10)
+               04068 FoxO signaling pathway
+                3586 (IL10)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3586 (IL10)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                3586 (IL10)
+               04672 Intestinal immune network for IgA production
+                3586 (IL10)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                3586 (IL10)
+               05322 Systemic lupus erythematosus
+                3586 (IL10)
+               05320 Autoimmune thyroid disease
+                3586 (IL10)
+               05321 Inflammatiory bowel disease (IBD)
+                3586 (IL10)
+               05330 Allograft rejection
+                3586 (IL10)
+              Infectious diseases
+               05133 Pertussis
+                3586 (IL10)
+               05150 Staphylococcus aureus infection
+                3586 (IL10)
+               05152 Tuberculosis
+                3586 (IL10)
+               05169 Epstein-Barr virus infection
+                3586 (IL10)
+               05146 Amoebiasis
+                3586 (IL10)
+               05144 Malaria
+                3586 (IL10)
+               05145 Toxoplasmosis
+                3586 (IL10)
+               05140 Leishmaniasis
+                3586 (IL10)
+               05142 Chagas disease (American trypanosomiasis)
+                3586 (IL10)
+               05143 African trypanosomiasis
+                3586 (IL10)
+            Cytokines [BR:hsa04052]
+             Class II cytokines (interferon/IL-10 family)
+              IL-10 family
+               3586 (IL10)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Cytokines	(General comment) Chemotaxis, singal transduction, inflammation
+               3586 (IL10)
+POSITION    1q32.1
+MOTIF       Pfam: IL10 IL22 Helicase_IV_N CLZ
+DBLINKS     NCBI-GeneID: 3586
+            NCBI-ProteinID: NP_000563
+            OMIM: 124092
+            HGNC: 5962
+            Ensembl: ENSG00000136634
+            Vega: OTTHUMG00000036386
+            Pharos: P22301(Tbio)
+            UniProt: P22301 Q6FGW4
+STRUCTURE   PDB: 2ILK 1ILK 1LK3 2H24 1INR 1Y6K 1J7V
+AASEQ       178
+            MHSSALLCCLVLLTGVRASPGQGTQSENSCTHFPGNLPNMLRDLRDAFSRVKTFFQMKDQ
+            LDNLLLKESLLEDFKGYLGCQALSEMIQFYLEEVMPQAENQDPDIKAHVNSLGENLKTLR
+            LRLRRCHRFLPCENKSKAVEQVKNAFNKLQEKGIYKAMSEFDIFINYIEAYMTMKIRN
+NTSEQ       537
+            atgcacagctcagcactgctctgttgcctggtcctcctgactggggtgagggccagccca
+            ggccagggcacccagtctgagaacagctgcacccacttcccaggcaacctgcctaacatg
+            cttcgagatctccgagatgccttcagcagagtgaagactttctttcaaatgaaggatcag
+            ctggacaacttgttgttaaaggagtccttgctggaggactttaagggttacctgggttgc
+            caagccttgtctgagatgatccagttttacctggaggaggtgatgccccaagctgagaac
+            caagacccagacatcaaggcgcatgtgaactccctgggggagaacctgaagaccctcagg
+            ctgaggctacggcgctgtcatcgatttcttccctgtgaaaacaagagcaaggccgtggag
+            caggtgaagaatgcctttaataagctccaagagaaaggcatctacaaagccatgagtgag
+            tttgacatcttcatcaactacatagaagcctacatgacaatgaagatacgaaactga
+///

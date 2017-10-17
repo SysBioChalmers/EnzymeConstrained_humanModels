@@ -1,0 +1,97 @@
+ENTRY       80055             CDS       T01001
+NAME        PGAP1, Bst1, ISPD3024, MRT42, SPG67
+DEFINITION  (RefSeq) post-GPI attachment to proteins 1
+ORTHOLOGY   K05294  glycosylphosphatidylinositol deacylase [EC:3.-.-.-]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa01100  Metabolic pathways
+DISEASE     H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H01485  Autosomal recessive mental retardation-42 (MRT42)
+            H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+                80055 (PGAP1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.-  
+               3.-.-  
+                3.-.-.-  
+                 80055 (PGAP1)
+POSITION    2q33.1
+MOTIF       Pfam: PGAP1 DUF676 Abhydrolase_6 Abhydrolase_1 Hydrolase_4 Peptidase_S9 Lipase_3 Esterase ChlI
+DBLINKS     NCBI-GeneID: 80055
+            NCBI-ProteinID: NP_079265
+            OMIM: 611655
+            HGNC: 25712
+            Ensembl: ENSG00000197121
+            Vega: OTTHUMG00000132743
+            Pharos: Q75T13(Tdark)
+            UniProt: Q75T13
+AASEQ       922
+            MFLHSVNLWNLAFYVFMVFLATLGLWDVFFGFEENKCSMSYMFEYPEYQKIELPKKLAKR
+            YPAYELYLYGEGSYAEEHKILPLTGIPVLFLPGNAGSYKQVRSIGSIALRKAEDIDFKYH
+            FDFFSVNFNEELVALYGGSLQKQTKFVHECIKTILKLYKGQEFAPKSVAIIGHSMGGLVA
+            RALLTLKNFKHDLINLLITQATPHVAPVMPLDRFITDFYTTVNNYWILNARHINLTTLSV
+            AGGFRDYQVRSGLTFLPKLSHHTSALSVVSSAVPKTWVSTDHLSIVWCKQLQLTTVRAFF
+            DLIDADTKQITQNSKKKLSVLYHHFIRHPSKHFEENPAIISDLTGTSMWVLVKVSKWTYV
+            AYNESEKIYFTFPLENHRKIYTHVYCQSTMLDTNSWIFACINSTSMCLQGVDLSWKAELL
+            PTIKYLTLRLQDYPSLSHLVVYVPSVRGSKFVVDCEFFKKEKRYIQLPVTHLFSFGLSSR
+            KVVLNTNGLYYNLELLNFGQIYQAFKINVVSKCSAVKEEITSIYRLHIPWSYEDSLTIAQ
+            APSSTEISLKLHIAQPENNTHVALFKMYTSSDCRYEVTVKTSFSQILGQVVRFHGGALPA
+            YVVSNILLAYRGQLYSLFSTGCCLEYATMLDKEAKPYKVDPFVIIIKFLLGYKWFKELWD
+            VLLLPELDAVILTCQSMCFPLISLILFLFGTCTAYWSGLLSSASVRLLSSLWLALKRPSE
+            LPKDIKMISPDLPFLTIVLIIVSWTTCGALAILLSYLYYVFKVVHLQASLTTFKNSQPVN
+            PKHSRRSEKKSNHHKDSSIHHLRLSANDAEDSLRMHSTVINLLTWIVLLSMPSLIYWLKN
+            LRYYFKLNPDPCKPLAFILIPTMAILGNTYTVSIKSSKLLKTTSQFPLPLAVGVIAFGSA
+            HLYRLPCFVFIPLLLHALCNFM
+NTSEQ       2769
+            atgtttcttcactcagttaatctctggaacctggcgttttatgtcttcatggtctttctg
+            gcaaccctggggctgtgggatgtcttcttcggcttcgaggagaataagtgcagtatgagc
+            tacatgtttgagtacccggagtatcagaaaatagaacttccaaagaaactggcaaaacgc
+            tatcccgcatatgagttgtatctttatggagagggatcctatgctgaagaacacaaaatt
+            ctccctttgacgggtattccagttctctttcttcctggtaatgctggaagttataagcaa
+            gttcgttctattggctccattgcacttagaaaagcagaggacattgacttcaagtaccac
+            tttgacttctttagtgtgaacttcaatgaagaactggtggctttgtatggtggaagtctt
+            cagaagcagaccaagtttgtacatgaatgtattaaaacaattctcaaactctataagggt
+            caagaatttgctccaaaaagtgtggcaataattggtcattctatgggtggccttgttgca
+            agagcattgcttacactgaaaaattttaagcatgatctgataaatcttcttattacacaa
+            gccacacctcatgttgctcctgtgatgccattagatcgtttcattacagatttttatacg
+            actgtaaacaactattggattctaaatgctcgacacataaatttaaccacactttctgta
+            gctggaggattccgggattaccaagttcgttcaggattgacttttctaccaaaattaagc
+            catcataccagtgccttatctgttgtgagttcagcagtgcctaagacctgggtctcaaca
+            gaccacctctccattgtgtggtgtaaacaattgcagttgactacagttcgagcattcttt
+            gatcttattgatgctgatactaaacaaataactcaaaattccaagaagaaactgtcagtt
+            ttgtatcaccactttataagacacccatcaaaacattttgaggaaaatccagctataatt
+            tctgacttaacagggacatctatgtgggttctagtaaaagtgtccaaatggacctatgta
+            gcttacaacgaatctgagaagatatattttacatttcctcttgaaaatcatagaaaaatc
+            tacactcatgtctattgtcagagcactatgctggatacaaatagttggatttttgcttgc
+            ataaacagcacttctatgtgcctgcaaggggttgatttatcatggaaagctgaactgctg
+            ccaacaattaagtatctgacattaagacttcaagactatccatctttgtctcatcttgtt
+            gtttatgtaccatctgttcgtggaagtaagtttgttgtagattgtgaattctttaaaaaa
+            gagaaaagatacatacagcttcctgtaactcatcttttttcctttggattgtcttcaagg
+            aaagtggtgttaaatacaaatggcctatactacaatctagagcttctgaactttggacag
+            atataccaagcttttaaaatcaacgtggtaagcaagtgctcagcagtcaaagaagaaata
+            accagtatctatagacttcatattccttggtcttatgaagattcactaaccattgcacag
+            gctccatcttccacagaaatttctctgaaactccatattgctcaaccagaaaacaatacc
+            catgtggcattatttaaaatgtacacgtcatcagactgtcggtacgaggtgacagttaag
+            acttccttttcacaaatacttggacaggtagttagatttcatggtggagctcttcctgct
+            tatgtcgtatctaatatccttcttgcttatagaggacagttatattctcttttctcaaca
+            ggttgttgcttagaatatgctaccatgttggataaagaagccaaaccatacaaagttgat
+            ccttttgtaattatcattaagtttctgttggggtataaatggtttaaagaattgtgggat
+            gtattattgttaccagaattagatgccgtcattttaacttgtcagagtatgtgtttcccc
+            ctgatatccttgattctctttctgtttggaacgtgtactgcctactggagtggcctactg
+            tcttctgcatctgtgagacttctttcttcattgtggctagctttgaaaagaccctctgaa
+            cttcctaaagatatcaagatgatatcaccagacttgccctttttgacaattgtcttgatc
+            atagttagttggacaacttgtggagcactagccatacttctttcttatctttactatgtg
+            tttaaggttgttcatctgcaagccagcttaacaacttttaagaatagccagcctgtgaat
+            cccaaacactctagaagaagtgaaaagaaatccaatcatcataaagactcctcaatacac
+            catcttcgtttatctgccaacgatgctgaagatagccttcgcatgcacagtactgtgatt
+            aacttactaacatggattgtattactcagcatgccttctctaatttattggctaaagaat
+            cttaggtattattttaaacttaatcctgatccatgtaaacctttggcatttatccttatt
+            ccgactatggcaattcttggaaatacttacactgtttcaataaaatcaagtaaattgttg
+            aagactacttcacaatttccacttcctctggctgttggtgtgattgcttttgggtcagca
+            catttatataggcttccatgctttgtcttcattcctcttttactccatgcattatgcaac
+            tttatgtaa
+///

@@ -1,0 +1,80 @@
+ENTRY       9583              CDS       T01001
+NAME        ENTPD4, LALP70, LAP70, LYSAL1, NTPDase-4, UDPase
+DEFINITION  (RefSeq) ectonucleoside triphosphate diphosphohydrolase 4
+ORTHOLOGY   K12305  ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa04142  Lysosome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                9583 (ENTPD4)
+               00240 Pyrimidine metabolism
+                9583 (ENTPD4)
+             Cellular Processes
+              Transport and catabolism
+               04142 Lysosome
+                9583 (ENTPD4)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.6  nucleoside diphosphate phosphatase
+                 9583 (ENTPD4)
+POSITION    8p21.3
+MOTIF       Pfam: GDA1_CD39
+DBLINKS     NCBI-GeneID: 9583
+            NCBI-ProteinID: NP_004892
+            OMIM: 607577
+            HGNC: 14573
+            Ensembl: ENSG00000197217
+            Vega: OTTHUMG00000097852
+            Pharos: Q9Y227(Tbio)
+            UniProt: Q9Y227
+AASEQ       616
+            MGRIGISCLFPASWHFSISPVGCPRILNTNLRQIMVISVLAAAVSLLYFSVVIIRNKYGR
+            LTRDKKFQRYLARVTDIEATDTNNPNVNYGIVVDCGSSGSRVFVYCWPRHNGNPHDLLDI
+            RQMRDKNRKPVVMKIKPGISEFATSPEKVSDYISPLLNFAAEHVPRAKHKETPLYILCTA
+            GMRILPESQQKAILEDLLTDIPVHFDFLFSDSHAEVISGKQEGVYAWIGINFVLGRFEHI
+            EDDDEAVVEVNIPGSESSEAIVRKRTAGILDMGGVSTQIAYEVPKTVSFASSQQEEVAKN
+            LLAEFNLGCDVHQTEHVYRVYVATFLGFGGNAARQRYEDRIFANTIQKNRLLGKQTGLTP
+            DMPYLDPCLPLDIKDEIQQNGQTIYLRGTGDFDLCRETIQPFMNKTNETQTSLNGVYQPP
+            IHFQNSEFYGFSEFYYCTEDVLRMGGDYNAAKFTKAAKDYCATKWSILRERFDRGLYASH
+            ADLHRLKYQCFKSAWMFEVFHRGFSFPVNYKSLKTALQVYDKEVQWTLGAILYRTRFLPL
+            RDIQQEAFRASHTHWRGVSFVYNHYLFSGCFLVVLLAILLYLLRLRRIHRRTPRSSSAAA
+            LWMEEGLPAQNAPGTL
+NTSEQ       1851
+            atggggaggattggcatctcctgtctttttcctgcttcttggcattttagcatatctcca
+            gtagggtgtcctcgaattctgaataccaatttacgccaaattatggtcattagtgtcctg
+            gctgctgctgtttcacttttatatttttctgttgtcataatccgaaataagtatgggcga
+            ctaaccagagacaagaaatttcaaaggtacctggcacgagttaccgacattgaagctaca
+            gacaccaataaccccaatgtgaactatgggatcgtggtggactgtggtagcagtgggtct
+            cgagtatttgtttactgctggccaaggcataatggcaatccacatgatctgttggatatc
+            aggcaaatgagggataaaaaccgaaagccagtggtcatgaagataaaaccgggcatttca
+            gaatttgctacctctccagagaaagtcagtgattacatttctccacttttgaactttgct
+            gcagagcatgtgccacgggcaaaacacaaagagacacctctctacattctctgcacggct
+            ggaatgagaatcctccccgaaagccagcagaaagctattctggaagaccttctgaccgat
+            atccccgtgcactttgactttctgttttctgactctcatgcagaagtaatttctgggaaa
+            caagaaggtgtgtatgcttggattggcattaattttgtccttggacgatttgagcatatt
+            gaagatgatgatgaggccgttgtggaagttaacattcctggaagtgaaagcagcgaagcc
+            attgtccgtaaaaggacagcgggcattctcgacatgggcggcgtgtcgactcagatagcg
+            tacgaagtccccaaaactgtaagctttgcgtcctcacagcaggaagaagtagctaaaaac
+            ttgttagctgaatttaacttgggatgtgatgttcaccaaactgagcatgtgtatcgagtc
+            tatgtggccacgtttcttgggtttggtggcaatgctgctcgacagagatacgaagacaga
+            atatttgccaacaccattcaaaagaacaggctcctgggtaaacagactggtctgactcct
+            gatatgccgtacttggacccctgcctacccctagacattaaagatgaaatccagcaaaat
+            ggacaaaccatatacctacgagggactggagactttgacctgtgtcgagagactatccag
+            cctttcatgaataaaacaaacgagacccagacttccctcaatggggtctaccagccccca
+            attcacttccagaacagtgaattctatggcttctccgaattctactactgcaccgaggat
+            gtgttacgaatggggggagactacaatgctgctaaatttactaaagctgcaaaggattat
+            tgtgcaacaaagtggtccattttgcgggaacgctttgaccgaggactgtacgcctctcat
+            gctgacctccacaggcttaagtatcagtgcttcaaatcggcctggatgtttgaggtgttt
+            cataggggcttttcgtttcctgtcaactataaaagcttaaagactgccttgcaagtttac
+            gacaaggaggttcagtggacccttggagccatcctctacaggacccgctttctaccatta
+            agagacatccagcaggaggccttccgagccagtcacacccactggcggggcgtttccttt
+            gtctacaaccactacctgttctctggctgcttcctggtggtgctgctggccatcctgctg
+            tacctgctgcggctgcggcgcatccacaggcgcactccccggagcagctcggccgccgcc
+            ctctggatggaggagggccttcccgcccagaatgccccggggaccttgtga
+///

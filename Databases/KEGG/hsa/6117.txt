@@ -1,0 +1,103 @@
+ENTRY       6117              CDS       T01001
+NAME        RPA1, HSSB, MST075, REPA1, RF-A, RP-A, RPA70
+DEFINITION  (RefSeq) replication protein A1
+ORTHOLOGY   K07466  replication factor A1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03030  DNA replication
+            hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+            hsa03460  Fanconi anemia pathway
+MODULE      hsa_M00288  RPA complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                6117 (RPA1)
+               03420 Nucleotide excision repair
+                6117 (RPA1)
+               03430 Mismatch repair
+                6117 (RPA1)
+               03440 Homologous recombination
+                6117 (RPA1)
+               03460 Fanconi anemia pathway
+                6117 (RPA1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Other Cys4 zinc finger factors
+                6117 (RPA1)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               RPA (replication protein A)
+                6117 (RPA1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                RPA (replication factor A)
+                 6117 (RPA1)
+               MMR (mismatch exicision repair)
+                 6117 (RPA1)
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                 6117 (RPA1)
+POSITION    17p13.3
+MOTIF       Pfam: Rep_fac-A_C REPA_OB_2 Rep-A_N tRNA_anti-codon IBR DUF223
+DBLINKS     NCBI-GeneID: 6117
+            NCBI-ProteinID: NP_002936
+            OMIM: 179835
+            HGNC: 10289
+            Ensembl: ENSG00000132383
+            Vega: OTTHUMG00000090579
+            Pharos: P27694(Tchem)
+            UniProt: P27694
+STRUCTURE   PDB: 4O0A 5E7N 4IPC 5N8A 4R4T 4R4O 4R4Q 4NB3 4R4C 4R4I 4LUV
+                 4IJH 4IPD 4LUO 5EAY 4IPG 2B3G 2B29 4LWC 4LW1 4IJL 4LUZ
+                 4IPH 5N85 1JMC 1FGU 1L1O 1EWI
+AASEQ       616
+            MVGQLSEGAIAAIMQKGDTNIKPILQVINIRPITTGNSPPRYRLLMSDGLNTLSSFMLAT
+            QLNPLVEEEQLSSNCVCQIHRFIVNTLKDGRRVVILMELEVLKSAEAVGVKIGNPVPYNE
+            GLGQPQVAPPAPAASPAASSRPQPQNGSSGMGSTVSKAYGASKTFGKAAGPSLSHTSGGT
+            QSKVVPIASLTPYQSKWTICARVTNKSQIRTWSNSRGEGKLFSLELVDESGEIRATAFNE
+            QVDKFFPLIEVNKVYYFSKGTLKIANKQFTAVKNDYEMTFNNETSVMPCEDDHHLPTVQF
+            DFTGIDDLENKSKDSLVDIIGICKSYEDATKITVRSNNREVAKRNIYLMDTSGKVVTATL
+            WGEDADKFDGSRQPVLAIKGARVSDFGGRSLSVLSSSTIIANPDIPEAYKLRGWFDAEGQ
+            ALDGVSISDLKSGGVGGSNTNWKTLYEVKSENLGQGDKPDYFSSVATVVYLRKENCMYQA
+            CPTQDCNKKVIDQQNGLYRCEKCDTEFPNFKYRMILSVNIADFQENQWVTCFQESAEAIL
+            GQNAAYLGELKDKNEQAFEEVFQNANFRSFIFRVRVKVETYNDESRIKATVMDVKPVDYR
+            EYGRRLVMSIRRSALM
+NTSEQ       1851
+            atggtcggccaactgagcgagggggccattgcggccatcatgcagaagggggatacaaac
+            ataaagcccatcctccaagtcatcaacatccgtcccattactacggggaatagtccgccg
+            cgttatcgactgctcatgagtgatggattgaacactctatcctctttcatgttggcgaca
+            cagttgaaccctctcgtggaggaagaacaattgtccagcaactgtgtatgccagattcac
+            agatttattgtgaacactctgaaagacggaaggagagtagttatcttgatggaattagaa
+            gttttgaagtcagctgaagcagttggagtgaagattggcaatccagtgccctataatgaa
+            ggactcgggcagccgcaagtagctcctccagcgccagcagccagcccagcagcaagcagc
+            aggccccagccgcagaatggaagctcgggaatgggttctactgtttctaaggcttatggt
+            gcttcaaagacatttggaaaagctgcaggtcccagcctgtcacacacttctgggggaaca
+            cagtccaaagtggtgcccattgccagcctcactccttaccagtccaagtggaccatttgt
+            gctcgtgttaccaacaaaagtcagatccgtacctggagcaactcccgaggggaagggaag
+            cttttctccctagaactggttgacgaaagtggtgaaatccgagctacagctttcaatgag
+            caagtggacaagttctttcctcttattgaagtgaacaaggtgtattatttctcgaaaggc
+            accctgaagattgctaacaagcagttcacagctgttaaaaatgactacgagatgaccttc
+            aataacgagacttccgtcatgccctgtgaggacgaccatcatttacctacggttcagttt
+            gatttcacggggattgatgacctcgagaacaagtcgaaagactcacttgtagacatcatc
+            gggatctgcaagagctatgaagacgccactaaaatcacagtgaggtctaacaacagagaa
+            gttgccaagaggaatatctacttgatggacacatccgggaaggtggtgactgctacactg
+            tggggggaagatgctgataaatttgatggttctagacagcccgtgttggctatcaaagga
+            gcccgagtctctgatttcggtggacggagcctctccgtgctgtcttcaagcactatcatt
+            gcgaatcctgacatcccagaggcctataagcttcgtggatggtttgacgcagaaggacaa
+            gccttagatggtgtttccatctctgatctaaagagcggcggagtcggagggagtaacacc
+            aactggaaaaccttgtatgaggtcaaatccgagaacctgggccaaggcgacaagccggac
+            tactttagttctgtggccacagtggtgtatcttcgcaaagagaactgcatgtaccaagcc
+            tgcccgactcaggactgcaataagaaagtgattgatcaacagaatggattgtaccgctgt
+            gagaagtgcgacaccgaatttcccaatttcaagtaccgcatgatcctgtcagtaaatatt
+            gcagattttcaagagaatcagtgggtgacttgtttccaggagtctgctgaagctatcctt
+            ggacaaaatgctgcttatcttggggaattaaaagacaagaatgaacaggcatttgaagaa
+            gttttccagaatgccaacttccgatctttcatattcagagtcagggtcaaagtggagacc
+            tacaacgacgagtctcgaattaaggccactgtgatggacgtgaagcccgtggactacaga
+            gagtatggccgaaggctggtcatgagcatcaggagaagtgcattgatgtga
+///

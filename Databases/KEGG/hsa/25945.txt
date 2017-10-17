@@ -1,0 +1,90 @@
+ENTRY       25945             CDS       T01001
+NAME        NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3
+DEFINITION  (RefSeq) nectin cell adhesion molecule 3
+ORTHOLOGY   K06592  poliovirus receptor-related protein 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04520  Adherens junction
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                25945 (NECTIN3)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                25945 (NECTIN3)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               B7-CD28 family
+                TIGIT; T-cell immunoreceptor with Ig and ITIM domains [KO:K16350]
+                 25945 (NECTIN3)
+              Others
+               PVRL1; poliovirus receptor-related 1 [KO:K06081]
+                25945 (NECTIN3)
+               PVRL2; poliovirus receptor-related 2 [KO:K06531]
+                25945 (NECTIN3)
+               PVRL3; poliovirus receptor-related 3 [KO:K06592]
+                25945 (NECTIN3)
+               CADM3, IGSF4B, NECL1, TSLL1; cell adhesion molecule 3 [KO:K06780 ]
+                25945 (NECTIN3)
+               CADM1, IGSF4, NECL2, TSLC1; cell adhesion molecule 1 [KO:K06781]
+                25945 (NECTIN3)
+               PVR, NECL5; poliovirus receptor [KO:K06539]
+                25945 (NECTIN3)
+            CD molecules [BR:hsa04090]
+             Proteins
+              25945 (NECTIN3)
+POSITION    3q13.13
+MOTIF       Pfam: C2-set_2 Ig_3 V-set ig I-set Ig_2 C1-set Adeno_E3_CR2 Sarcoglycan_2
+DBLINKS     NCBI-GeneID: 25945
+            NCBI-ProteinID: NP_056295
+            OMIM: 607147
+            HGNC: 17664
+            Ensembl: ENSG00000177707
+            Vega: OTTHUMG00000159239
+            Pharos: Q9NQS3(Tbio)
+            UniProt: Q9NQS3
+STRUCTURE   PDB: 4FOM
+AASEQ       549
+            MARTLRPSPLCPGGGKAQLSSASLLGAGLLLQPPTPPPLLLLLFPLLLFSRLCGALAGPI
+            IVEPHVTAVWGKNVSLKCLIEVNETITQISWEKIHGKSSQTVAVHHPQYGFSVQGEYQGR
+            VLFKNYSLNDATITLHNIGFSDSGKYICKAVTFPLGNAQSSTTVTVLVEPTVSLIKGPDS
+            LIDGGNETVAAICIAATGKPVAHIDWEGDLGEMESTTTSFPNETATIISQYKLFPTRFAR
+            GRRITCVVKHPALEKDIRYSFILDIQYAPEVSVTGYDGNWFVGRKGVNLKCNADANPPPF
+            KSVWSRLDGQWPDGLLASDNTLHFVHPLTFNYSGVYICKVTNSLGQRSDQKVIYISDPPT
+            TTTLQPTIQWHPSTADIEDLATEPKKLPFPLSTLATIKDDTIATIIASVVGGALFIVLVS
+            VLAGIFCYRRRRTFRGDYFAKNYIPPSDMQKESQIDVLQQDELDSYPDSVKKENKNPVNN
+            LIRKDYLEEPEKTQWNNVENLNRFERPMDYYEDLKMGMKFVSDEHYDENEDDLVSHVDGS
+            VISRREWYV
+NTSEQ       1650
+            atggcgcggaccctgcggccgtccccgctgtgtcctggaggcggcaaagcacaactttcc
+            tccgcttctctcctcggagccgggctcctgctgcagcccccgacgccacctccgctgctg
+            ctgctgctcttcccgctgctgctcttctccaggctctgtggtgccttagctggaccaatt
+            attgtggagccacatgtcacagcagtatggggaaagaatgtttcattaaagtgtttaatt
+            gaagtaaatgaaaccataacacagatttcatgggagaagatacatggcaaaagttcacag
+            actgttgcagttcaccatccccaatatggattctctgttcaaggagaatatcagggaaga
+            gtcttgtttaaaaattactcacttaatgatgcaacaattactctgcataacataggattc
+            tctgattctggaaaatacatctgcaaagctgttacattcccgcttggaaatgcccagtcc
+            tctacaactgtaactgtgttagttgaacccactgtgagcctgataaaagggccagattct
+            ttaattgatggaggaaatgaaacagtagcagccatttgcatcgcagccactggaaaaccc
+            gttgcacatattgactgggaaggtgatcttggtgaaatggaatccactacaacttctttt
+            ccaaatgaaacggcaacgattatcagccagtacaagctatttccaaccagatttgctaga
+            ggaaggcgaattacttgtgttgtaaaacatccagccttggaaaaggacatccgatactct
+            ttcatattagacatacagtatgctcctgaagtttcggtaacaggatatgatggaaattgg
+            tttgtaggaagaaaaggtgttaatctcaaatgtaatgctgatgcaaatccaccacccttc
+            aaatctgtgtggagcaggttggatggacaatggcctgatggtttattggcttcagacaat
+            actcttcattttgtccatccattgactttcaattattctggtgtttatatctgtaaagtg
+            accaattcccttggtcaaagaagtgaccaaaaagtcatctacatttcagatcctcctact
+            actaccacccttcagcctacaattcagtggcatccctcaactgctgacatcgaggatcta
+            gcaacagaacctaaaaaattgcccttcccattgtcaactttggcaacaattaaggatgac
+            acaattgccacgatcattgctagtgtagtgggtggggctctcttcatagtacttgtaagt
+            gttttggctggaatattctgctataggagaagacggacgtttcgtggagactactttgcc
+            aagaactacattccaccatcagatatgcaaaaagaatcacaaatagatgttcttcaacaa
+            gatgagcttgattcttacccagacagtgtaaaaaaagaaaacaaaaatccagtgaacaat
+            ctaatacgtaaagactatttagaagagcctgaaaaaactcagtggaacaatgtagaaaat
+            ctcaataggtttgaaagaccaatggattattatgaagatctaaaaatgggaatgaagttt
+            gtcagtgatgaacattatgatgaaaacgaagatgacttagtttcacatgtagatggttcc
+            gtaatttccaggagggagtggtatgtttag
+///

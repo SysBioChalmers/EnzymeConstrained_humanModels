@@ -1,0 +1,127 @@
+ENTRY       3082              CDS       T01001
+NAME        HGF, DFNB39, F-TCF, HGFB, HPTA, SF
+DEFINITION  (RefSeq) hepatocyte growth factor
+ORTHOLOGY   K05460  hepatocyte growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01521  EGFR tyrosine kinase inhibitor resistance
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04510  Focal adhesion
+            hsa05144  Malaria
+            hsa05200  Pathways in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05211  Renal cell carcinoma
+            hsa05218  Melanoma
+DISEASE     H00605  Deafness, autosomal recessive
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                3082 (HGF)
+               04015 Rap1 signaling pathway
+                3082 (HGF)
+               04151 PI3K-Akt signaling pathway
+                3082 (HGF)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3082 (HGF)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                3082 (HGF)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                3082 (HGF)
+               05205 Proteoglycans in cancer
+                3082 (HGF)
+               05218 Melanoma
+                3082 (HGF)
+               05211 Renal cell carcinoma
+                3082 (HGF)
+              Infectious diseases
+               05144 Malaria
+                3082 (HGF)
+              Drug resistance
+               01521 EGFR tyrosine kinase inhibitor resistance
+                3082 (HGF)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Other growth factors
+               3082 (HGF)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             7. Others
+              SDC1; syndecan 1 [KO:K06257]
+               3082 (HGF)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               3082 (HGF)
+POSITION    7q21.11
+MOTIF       Pfam: Kringle Trypsin PAN_1 DUF1986
+DBLINKS     NCBI-GeneID: 3082
+            NCBI-ProteinID: NP_000592
+            OMIM: 142409
+            HGNC: 4893
+            Ensembl: ENSG00000019991
+            Vega: OTTHUMG00000023804
+            Pharos: P14210(Tchem)
+            UniProt: P14210
+STRUCTURE   PDB: 3HMS 2QJ2 3SP8 5CS5 5CP9 5CSQ 5CS1 5CS9 5CT1 5CT2 5CT3
+                 3HMT 1BHT 5COE 1GMN 5CS3 1NK1 1SI5 3HN4 4D3C 4K3J 3MKP
+                 4O3T 1GMO 4O3U 1SHY 1GP9 2HGF
+AASEQ       728
+            MWVTKLLPALLLQHVLLHLLLLPIAIPYAEGQRKRRNTIHEFKKSAKTTLIKIDPALKIK
+            TKKVNTADQCANRCTRNKGLPFTCKAFVFDKARKQCLWFPFNSMSSGVKKEFGHEFDLYE
+            NKDYIRNCIIGKGRSYKGTVSITKSGIKCQPWSSMIPHEHSFLPSSYRGKDLQENYCRNP
+            RGEEGGPWCFTSNPEVRYEVCDIPQCSEVECMTCNGESYRGLMDHTESGKICQRWDHQTP
+            HRHKFLPERYPDKGFDDNYCRNPDGQPRPWCYTLDPHTRWEYCAIKTCADNTMNDTDVPL
+            ETTECIQGQGEGYRGTVNTIWNGIPCQRWDSQYPHEHDMTPENFKCKDLRENYCRNPDGS
+            ESPWCFTTDPNIRVGYCSQIPNCDMSHGQDCYRGNGKNYMGNLSQTRSGLTCSMWDKNME
+            DLHRHIFWEPDASKLNENYCRNPDDDAHGPWCYTGNPLIPWDYCPISRCEGDTTPTIVNL
+            DHPVISCAKTKQLRVVNGIPTRTNIGWMVSLRYRNKHICGGSLIKESWVLTARQCFPSRD
+            LKDYEAWLGIHDVHGRGDEKCKQVLNVSQLVYGPEGSDLVLMKLARPAVLDDFVSTIDLP
+            NYGCTIPEKTSCSVYGWGYTGLINYDGLLRVAHLYIMGNEKCSQHHRGKVTLNESEICAG
+            AEKIGSGPCEGDYGGPLVCEQHKMRMVLGVIVPGRGCAIPNRPGIFVRVAYYAKWIHKII
+            LTYKVPQS
+NTSEQ       2187
+            atgtgggtgaccaaactcctgccagccctgctgctgcagcatgtcctcctgcatctcctc
+            ctgctccccatcgccatcccctatgcagagggacaaaggaaaagaagaaatacaattcat
+            gaattcaaaaaatcagcaaagactaccctaatcaaaatagatccagcactgaagataaaa
+            accaaaaaagtgaatactgcagaccaatgtgctaatagatgtactaggaataaaggactt
+            ccattcacttgcaaggcttttgtttttgataaagcaagaaaacaatgcctctggttcccc
+            ttcaatagcatgtcaagtggagtgaaaaaagaatttggccatgaatttgacctctatgaa
+            aacaaagactacattagaaactgcatcattggtaaaggacgcagctacaagggaacagta
+            tctatcactaagagtggcatcaaatgtcagccctggagttccatgataccacacgaacac
+            agctttttgccttcgagctatcggggtaaagacctacaggaaaactactgtcgaaatcct
+            cgaggggaagaagggggaccctggtgtttcacaagcaatccagaggtacgctacgaagtc
+            tgtgacattcctcagtgttcagaagttgaatgcatgacctgcaatggggagagttatcga
+            ggtctcatggatcatacagaatcaggcaagatttgtcagcgctgggatcatcagacacca
+            caccggcacaaattcttgcctgaaagatatcccgacaagggctttgatgataattattgc
+            cgcaatcccgatggccagccgaggccatggtgctatactcttgaccctcacacccgctgg
+            gagtactgtgcaattaaaacatgcgctgacaatactatgaatgacactgatgttcctttg
+            gaaacaactgaatgcatccaaggtcaaggagaaggctacaggggcactgtcaataccatt
+            tggaatggaattccatgtcagcgttgggattctcagtatcctcacgagcatgacatgact
+            cctgaaaatttcaagtgcaaggacctacgagaaaattactgccgaaatccagatgggtct
+            gaatcaccctggtgttttaccactgatccaaacatccgagttggctactgctcccaaatt
+            ccaaactgtgatatgtcacatggacaagattgttatcgtgggaatggcaaaaattatatg
+            ggcaacttatcccaaacaagatctggactaacatgttcaatgtgggacaagaacatggaa
+            gacttacatcgtcatatcttctgggaaccagatgcaagtaagctgaatgagaattactgc
+            cgaaatccagatgatgatgctcatggaccctggtgctacacgggaaatccactcattcct
+            tgggattattgccctatttctcgttgtgaaggtgataccacacctacaatagtcaattta
+            gaccatcccgtaatatcttgtgccaaaacgaaacaattgcgagttgtaaatgggattcca
+            acacgaacaaacataggatggatggttagtttgagatacagaaataaacatatctgcgga
+            ggatcattgataaaggagagttgggttcttactgcacgacagtgtttcccttctcgagac
+            ttgaaagattatgaagcttggcttggaattcatgatgtccacggaagaggagatgagaaa
+            tgcaaacaggttctcaatgtttcccagctggtatatggccctgaaggatcagatctggtt
+            ttaatgaagcttgccaggcctgctgtcctggatgattttgttagtacgattgatttacct
+            aattatggatgcacaattcctgaaaagaccagttgcagtgtttatggctggggctacact
+            ggattgatcaactatgatggcctattacgagtggcacatctctatataatgggaaatgag
+            aaatgcagccagcatcatcgagggaaggtgactctgaatgagtctgaaatatgtgctggg
+            gctgaaaagattggatcaggaccatgtgagggggattatggtggcccacttgtttgtgag
+            caacataaaatgagaatggttcttggtgtcattgttcctggtcgtggatgtgccattcca
+            aatcgtcctggtatttttgtccgagtagcatattatgcaaaatggatacacaaaattatt
+            ttaacatataaggtaccacagtcatag
+///

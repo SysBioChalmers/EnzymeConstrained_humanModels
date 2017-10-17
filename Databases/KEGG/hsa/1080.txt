@@ -1,0 +1,170 @@
+ENTRY       1080              CDS       T01001
+NAME        CFTR, ABC35, ABCC7, CF, CFTR/MRP, MRP7, TNR-CFTR, dJ760C5.1
+DEFINITION  (RefSeq) cystic fibrosis transmembrane conductance regulator
+ORTHOLOGY   K05031  cystic fibrosis transmembrane conductance regulator [EC:3.6.3.49]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa02010  ABC transporters
+            hsa04024  cAMP signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04530  Tight junction
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+            hsa04976  Bile secretion
+            hsa05110  Vibrio cholerae infection
+DISEASE     H00218  Cystic fibrosis (CF)
+            H00933  Hereditary pancreatitis
+            H01033  Congenital bilateral absence of vas deferens
+DRUG_TARGET Lumacaftor: D10134
+            Suramin sodium: D00808
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Membrane transport
+               02010 ABC transporters
+                1080 (CFTR)
+              Signal transduction
+               04024 cAMP signaling pathway
+                1080 (CFTR)
+               04152 AMPK signaling pathway
+                1080 (CFTR)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04530 Tight junction
+                1080 (CFTR)
+             Organismal Systems
+              Digestive system
+               04971 Gastric acid secretion
+                1080 (CFTR)
+               04972 Pancreatic secretion
+                1080 (CFTR)
+               04976 Bile secretion
+                1080 (CFTR)
+             Human Diseases
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                1080 (CFTR)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.49  channel-conductance-controlling ATPase
+                 1080 (CFTR)
+            Transporters [BR:hsa02000]
+             ABC Transporters, Eukaryotic Type
+              ABCC (CFTR/MRP) subfamily
+               ABCC7 subgroup
+                1080 (CFTR)
+POSITION    7q31.2
+MOTIF       Pfam: CFTR_R ABC_membrane ABC_tran AAA_21 SMC_N AAA_29 T2SSE RsgA_GTPase DUF87 AAA_16 MMR_HSR1 Zeta_toxin ArgK AAA_30 NTPase_1 Rotamase_2
+DBLINKS     NCBI-GeneID: 1080
+            NCBI-ProteinID: NP_000483
+            OMIM: 602421
+            HGNC: 1884
+            Ensembl: ENSG00000001626
+            Vega: OTTHUMG00000023076
+            Pharos: P13569(Tclin)
+            UniProt: P13569 A0A024R730
+STRUCTURE   PDB: 2PZE 2PZG 2PZF 4WZ6 2BBS 5D2D 1XMI 2BBT 1XMJ 2BBO 5D3F
+                 5D3E 5UAK
+AASEQ       1480
+            MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRE
+            LASKKNPKLINALRRCFFWRFMFYGIFLYLGEVTKAVQPLLLGRIIASYDPDNKEERSIA
+            IYLGIGLCLLFIVRTLLLHPAIFGLHHIGMQMRIAMFSLIYKKTLKLSSRVLDKISIGQL
+            VSLLSNNLNKFDEGLALAHFVWIAPLQVALLMGLIWELLQASAFCGLGFLIVLALFQAGL
+            GRMMMKYRDQRAGKISERLVITSEMIENIQSVKAYCWEEAMEKMIENLRQTELKLTRKAA
+            YVRYFNSSAFFFSGFFVVFLSVLPYALIKGIILRKIFTTISFCIVLRMAVTRQFPWAVQT
+            WYDSLGAINKIQDFLQKQEYKTLEYNLTTTEVVMENVTAFWEEGFGELFEKAKQNNNNRK
+            TSNGDDSLFFSNFSLLGTPVLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEG
+            KIKHSGRISFCSQFSWIMPGTIKENIIFGVSYDEYRYRSVIKACQLEEDISKFAEKDNIV
+            LGEGGITLSGGQRARISLARAVYKDADLYLLDSPFGYLDVLTEKEIFESCVCKLMANKTR
+            ILVTSKMEHLKKADKILILHEGSSYFYGTFSELQNLQPDFSSKLMGCDSFDQFSAERRNS
+            ILTETLHRFSLEGDAPVSWTETKKQSFKQTGEFGEKRKNSILNPINSIRKFSIVQKTPLQ
+            MNGIEEDSDEPLERRLSLVPDSEQGEAILPRISVISTGPTLQARRRQSVLNLMTHSVNQG
+            QNIHRKTTASTRKVSLAPQANLTELDIYSRRLSQETGLEISEEINEEDLKECFFDDMESI
+            PAVTTWNTYLRYITVHKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRN
+            NSYAVIITSTSSYYVFYIYVGVADTLLAMGFFRGLPLVHTLITVSKILHHKMLHSVLQAP
+            MSTLNTLKAGGILNRFSKDIAILDDLLPLTIFDFIQLLLIVIGAIAVVAVLQPYIFVATV
+            PVIVAFIMLRAYFLQTSQQLKQLESEGRSPIFTHLVTSLKGLWTLRAFGRQPYFETLFHK
+            ALNLHTANWFLYLSTLRWFQMRIEMIFVIFFIAVTFISILTTGEGEGRVGIILTLAMNIM
+            STLQWAVNSSIDVDSLMRSVSRVFKFIDMPTEGKPTKSTKPYKNGQLSKVMIIENSHVKK
+            DDIWPSGGQMTVKDLTAKYTEGGNAILENISFSISPGQRVGLLGRTGSGKSTLLSAFLRL
+            LNTEGEIQIDGVSWDSITLQQWRKAFGVIPQKVFIFSGTFRKNLDPYEQWSDQEIWKVAD
+            EVGLRSVIEQFPGKLDFVLVDGGCVLSHGHKQLMCLARSVLSKAKILLLDEPSAHLDPVT
+            YQIIRRTLKQAFADCTVILCEHRIEAMLECQQFLVIEENKVRQYDSIQKLLNERSLFRQA
+            ISPSDRVKLFPHRNSSKCKSKPQIAALKEETEEEVQDTRL
+NTSEQ       4443
+            atgcagaggtcgcctctggaaaaggccagcgttgtctccaaactttttttcagctggacc
+            agaccaattttgaggaaaggatacagacagcgcctggaattgtcagacatataccaaatc
+            ccttctgttgattctgctgacaatctatctgaaaaattggaaagagaatgggatagagag
+            ctggcttcaaagaaaaatcctaaactcattaatgcccttcggcgatgttttttctggaga
+            tttatgttctatggaatctttttatatttaggggaagtcaccaaagcagtacagcctctc
+            ttactgggaagaatcatagcttcctatgacccggataacaaggaggaacgctctatcgcg
+            atttatctaggcataggcttatgccttctctttattgtgaggacactgctcctacaccca
+            gccatttttggccttcatcacattggaatgcagatgagaatagctatgtttagtttgatt
+            tataagaagactttaaagctgtcaagccgtgttctagataaaataagtattggacaactt
+            gttagtctcctttccaacaacctgaacaaatttgatgaaggacttgcattggcacatttc
+            gtgtggatcgctcctttgcaagtggcactcctcatggggctaatctgggagttgttacag
+            gcgtctgccttctgtggacttggtttcctgatagtccttgccctttttcaggctgggcta
+            gggagaatgatgatgaagtacagagatcagagagctgggaagatcagtgaaagacttgtg
+            attacctcagaaatgattgaaaatatccaatctgttaaggcatactgctgggaagaagca
+            atggaaaaaatgattgaaaacttaagacaaacagaactgaaactgactcggaaggcagcc
+            tatgtgagatacttcaatagctcagccttcttcttctcagggttctttgtggtgttttta
+            tctgtgcttccctatgcactaatcaaaggaatcatcctccggaaaatattcaccaccatc
+            tcattctgcattgttctgcgcatggcggtcactcggcaatttccctgggctgtacaaaca
+            tggtatgactctcttggagcaataaacaaaatacaggatttcttacaaaagcaagaatat
+            aagacattggaatataacttaacgactacagaagtagtgatggagaatgtaacagccttc
+            tgggaggagggatttggggaattatttgagaaagcaaaacaaaacaataacaatagaaaa
+            acttctaatggtgatgacagcctcttcttcagtaatttctcacttcttggtactcctgtc
+            ctgaaagatattaatttcaagatagaaagaggacagttgttggcggttgctggatccact
+            ggagcaggcaagacttcacttctaatggtgattatgggagaactggagccttcagagggt
+            aaaattaagcacagtggaagaatttcattctgttctcagttttcctggattatgcctggc
+            accattaaagaaaatatcatctttggtgtttcctatgatgaatatagatacagaagcgtc
+            atcaaagcatgccaactagaagaggacatctccaagtttgcagagaaagacaatatagtt
+            cttggagaaggtggaatcacactgagtggaggtcaacgagcaagaatttctttagcaaga
+            gcagtatacaaagatgctgatttgtatttattagactctccttttggatacctagatgtt
+            ttaacagaaaaagaaatatttgaaagctgtgtctgtaaactgatggctaacaaaactagg
+            attttggtcacttctaaaatggaacatttaaagaaagctgacaaaatattaattttgcat
+            gaaggtagcagctatttttatgggacattttcagaactccaaaatctacagccagacttt
+            agctcaaaactcatgggatgtgattctttcgaccaatttagtgcagaaagaagaaattca
+            atcctaactgagaccttacaccgtttctcattagaaggagatgctcctgtctcctggaca
+            gaaacaaaaaaacaatcttttaaacagactggagagtttggggaaaaaaggaagaattct
+            attctcaatccaatcaactctatacgaaaattttccattgtgcaaaagactcccttacaa
+            atgaatggcatcgaagaggattctgatgagcctttagagagaaggctgtccttagtacca
+            gattctgagcagggagaggcgatactgcctcgcatcagcgtgatcagcactggccccacg
+            cttcaggcacgaaggaggcagtctgtcctgaacctgatgacacactcagttaaccaaggt
+            cagaacattcaccgaaagacaacagcatccacacgaaaagtgtcactggcccctcaggca
+            aacttgactgaactggatatatattcaagaaggttatctcaagaaactggcttggaaata
+            agtgaagaaattaacgaagaagacttaaaggagtgcttttttgatgatatggagagcata
+            ccagcagtgactacatggaacacataccttcgatatattactgtccacaagagcttaatt
+            tttgtgctaatttggtgcttagtaatttttctggcagaggtggctgcttctttggttgtg
+            ctgtggctccttggaaacactcctcttcaagacaaagggaatagtactcatagtagaaat
+            aacagctatgcagtgattatcaccagcaccagttcgtattatgtgttttacatttacgtg
+            ggagtagccgacactttgcttgctatgggattcttcagaggtctaccactggtgcatact
+            ctaatcacagtgtcgaaaattttacaccacaaaatgttacattctgttcttcaagcacct
+            atgtcaaccctcaacacgttgaaagcaggtgggattcttaatagattctccaaagatata
+            gcaattttggatgaccttctgcctcttaccatatttgacttcatccagttgttattaatt
+            gtgattggagctatagcagttgtcgcagttttacaaccctacatctttgttgcaacagtg
+            ccagtgatagtggcttttattatgttgagagcatatttcctccaaacctcacagcaactc
+            aaacaactggaatctgaaggcaggagtccaattttcactcatcttgttacaagcttaaaa
+            ggactatggacacttcgtgccttcggacggcagccttactttgaaactctgttccacaaa
+            gctctgaatttacatactgccaactggttcttgtacctgtcaacactgcgctggttccaa
+            atgagaatagaaatgatttttgtcatcttcttcattgctgttaccttcatttccatttta
+            acaacaggagaaggagaaggaagagttggtattatcctgactttagccatgaatatcatg
+            agtacattgcagtgggctgtaaactccagcatagatgtggatagcttgatgcgatctgtg
+            agccgagtctttaagttcattgacatgccaacagaaggtaaacctaccaagtcaaccaaa
+            ccatacaagaatggccaactctcgaaagttatgattattgagaattcacacgtgaagaaa
+            gatgacatctggccctcagggggccaaatgactgtcaaagatctcacagcaaaatacaca
+            gaaggtggaaatgccatattagagaacatttccttctcaataagtcctggccagagggtg
+            ggcctcttgggaagaactggatcagggaagagtactttgttatcagcttttttgagacta
+            ctgaacactgaaggagaaatccagatcgatggtgtgtcttgggattcaataactttgcaa
+            cagtggaggaaagcctttggagtgataccacagaaagtatttattttttctggaacattt
+            agaaaaaacttggatccctatgaacagtggagtgatcaagaaatatggaaagttgcagat
+            gaggttgggctcagatctgtgatagaacagtttcctgggaagcttgactttgtccttgtg
+            gatgggggctgtgtcctaagccatggccacaagcagttgatgtgcttggctagatctgtt
+            ctcagtaaggcgaagatcttgctgcttgatgaacccagtgctcatttggatccagtaaca
+            taccaaataattagaagaactctaaaacaagcatttgctgattgcacagtaattctctgt
+            gaacacaggatagaagcaatgctggaatgccaacaatttttggtcatagaagagaacaaa
+            gtgcggcagtacgattccatccagaaactgctgaacgagaggagcctcttccggcaagcc
+            atcagcccctccgacagggtgaagctctttccccaccggaactcaagcaagtgcaagtct
+            aagccccagattgctgctctgaaagaggagacagaagaagaggtgcaagatacaaggctt
+            tag
+///

@@ -1,0 +1,81 @@
+ENTRY       4519              CDS       T01001
+NAME        CYTB, MTCYB, MT-CYB
+DEFINITION  (RefSeq) cytochrome b
+ORTHOLOGY   K00412  ubiquinol-cytochrome c reductase cytochrome b subunit
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04260  Cardiac muscle contraction
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05010  Alzheimer's disease
+            hsa05012  Parkinson's disease
+            hsa05016  Huntington's disease
+MODULE      hsa_M00151  Cytochrome bc1 complex respiratory unit
+            hsa_M00152  Cytochrome bc1 complex
+DISEASE     H00068  Leber hereditary optic atrophy (LHON)
+            H00473  Mitochondrial respiratory chain deficiencies (MRCD)
+            H01355  Kearns-Sayre Syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                4519 (CYTB)
+             Organismal Systems
+              Circulatory system
+               04260 Cardiac muscle contraction
+                4519 (CYTB)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                4519 (CYTB)
+               05012 Parkinson's disease
+                4519 (CYTB)
+               05016 Huntington's disease
+                4519 (CYTB)
+              Endocrine and metabolic diseases
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                4519 (CYTB)
+            Mitochondrial biogenesis [BR:hsa03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Mitochondrial respiratory chain complex III
+                4519 (CYTB)
+POSITION    MT
+MOTIF       Pfam: Cytochrome_B Cytochrom_B_N_2 Cytochrom_B_C
+DBLINKS     NCBI-GeneID: 4519
+            NCBI-ProteinID: YP_003024038
+            OMIM: 516020
+            HGNC: 7427
+            Pharos: P00156(Tbio)
+            UniProt: P00156 Q0ZFD6
+STRUCTURE   PDB: 5XTE
+AASEQ       380
+            MTPMRKTNPLMKLINHSFIDLPTPSNISAWWNFGSLLGACLILQITTGLFLAMHYSPDAS
+            TAFSSIAHITRDVNYGWIIRYLHANGASMFFICLFLHIGRGLYYGSFLYSETWNIGIILL
+            LATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDLVQWIWGGYSVDSPTLTRFFT
+            FHFILPFIIAALATLHLLFLHETGSNNPLGITSHSDKITFHPYYTIKDALGLLLFLLSLM
+            TLTLFSPDLLGDPDNYTLANPLNTPPHIKPEWYFLFAYTILRSVPNKLGGVLALLLSILI
+            LAMIPILHMSKQQSMMFRPLSQSLYWLLAADLLILTWIGGQPVSYPFTIIGQVASVLYFT
+            TILILMPTISLIENKMLKWA
+NTSEQ       1141
+            atgaccccaatacgcaaaactaaccccctaataaaattaattaaccactcattcatcgac
+            ctccccaccccatccaacatctccgcatgatgaaacttcggctcactccttggcgcctgc
+            ctgatcctccaaatcaccacaggactattcctagccatgcactactcaccagacgcctca
+            accgccttttcatcaatcgcccacatcactcgagacgtaaattatggctgaatcatccgc
+            taccttcacgccaatggcgcctcaatattctttatctgcctcttcctacacatcgggcga
+            ggcctatattacggatcatttctctactcagaaacctgaaacatcggcattatcctcctg
+            cttgcaactatagcaacagccttcataggctatgtcctcccgtgaggccaaatatcattc
+            tgaggggccacagtaattacaaacttactatccgccatcccatacattgggacagaccta
+            gttcaatgaatctgaggaggctactcagtagacagtcccaccctcacacgattctttacc
+            tttcacttcatcttgcccttcattattgcagccctagcaacactccacctcctattcttg
+            cacgaaacgggatcaaacaaccccctaggaatcacctcccattccgataaaatcaccttc
+            cacccttactacacaatcaaagacgccctcggcttacttctcttccttctctccttaatg
+            acattaacactattctcaccagacctcctaggcgacccagacaattataccctagccaac
+            cccttaaacacccctccccacatcaagcccgaatgatatttcctattcgcctacacaatt
+            ctccgatccgtccctaacaaactaggaggcgtccttgccctattactatccatcctcatc
+            ctagcaataatccccatcctccatatatccaaacaacaaagcataatatttcgcccacta
+            agccaatcactttattgactcctagccgcagacctcctcattctaacctgaatcggagga
+            caaccagtaagctacccttttaccatcattggacaagtagcatccgtactatacttcaca
+            acaatcctaatcctaataccaactatctccctaattgaaaacaaaatactcaaatgggcc
+            t
+///

@@ -1,0 +1,133 @@
+ENTRY       55703             CDS       T01001
+NAME        POLR3B, C128, HLD8, INMAP, RPC2
+DEFINITION  (RefSeq) RNA polymerase III subunit B
+ORTHOLOGY   K03021  DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03020  RNA polymerase
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa05169  Epstein-Barr virus infection
+MODULE      hsa_M00181  RNA polymerase III, eukaryotes
+DISEASE     H00679  Hypomyelinating leukodystrophy
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                55703 (POLR3B)
+               00240 Pyrimidine metabolism
+                55703 (POLR3B)
+             Genetic Information Processing
+              Transcription
+               03020 RNA polymerase
+                55703 (POLR3B)
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                55703 (POLR3B)
+             Human Diseases
+              Infectious diseases
+               05169 Epstein-Barr virus infection
+                55703 (POLR3B)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.6  DNA-directed RNA polymerase
+                 55703 (POLR3B)
+            Transcription machinery [BR:hsa03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Core subunits
+                 55703 (POLR3B)
+POSITION    12q23.3
+MOTIF       Pfam: RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_7 RNA_pol_Rpb2_4 RNA_pol_Rpb2_2 RNA_pol_Rpb2_3 RNA_pol_Rpb2_5
+DBLINKS     NCBI-GeneID: 55703
+            NCBI-ProteinID: NP_060552
+            OMIM: 614366
+            HGNC: 30348
+            Ensembl: ENSG00000013503
+            Vega: OTTHUMG00000170077
+            Pharos: Q9NW08(Tbio)
+            UniProt: Q9NW08 Q7Z3R8
+AASEQ       1133
+            MDVLAEEFGNLTPEQLAAPIPTVEEKWRLLPAFLKVKGLVKQHIDSFNYFINVEIKKIMK
+            ANEKVTSDADPMWYLKYLNIYVGLPDVEESFNVTRPVSPHECRLRDMTYSAPITVDIEYT
+            RGSQRIIRNALPIGRMPIMLRSSNCVLTGKTPAEFAKLNECPLDPGGYFIVKGVEKVILI
+            QEQLSKNRIIVEADRKGAVGASVTSSTHEKKSRTNMAVKQGRFYLRHNTLSEDIPIVIIF
+            KAMGVESDQEIVQMIGTEEHVMAAFGPSLEECQKAQIFTQMQALKYIGNKVRRQRMWGGG
+            PKKTKIEEARELLASTILTHVPVKEFNFRAKCIYTAVMVRRVILAQGDNKVDDRDYYGNK
+            RLELAGQLLSLLFEDLFKKFNSEMKKIADQVIPKQRAAQFDVVKHMRQDQITNGMVNAIS
+            TGNWSLKRFKMDRQGVTQVLSRLSYISALGMMTRISSQFEKTRKVSGPRSLQPSQWGMLC
+            PSDTPEGEACGLVKNLALMTHITTDMEDGPIVKLASNLGVEDVNLLCGEELSYPNVFLVF
+            LNGNILGVIRDHKKLVNTFRLMRRAGYINEFVSISTNLTDRCVYISSDGGRLCRPYIIVK
+            KQKPAVTNKHMEELAQGYRNFEDFLHESLVEYLDVNEENDCNIALYEHTINKDTTHLEIE
+            PFTLLGVCAGLIPYPHHNQSPRNTYQCAMGKQAMGTIGYNQRNRIDTLMYLLAYPQKPMV
+            KTKTIELIEFEKLPAGQNATVAVMSYSGYDIEDALVLNKASLDRGFGRCLVYKNAKCTLK
+            RYTNQTFDKVMGPMLDAATRKPIWRHEILDADGICSPGEKVENKQVLVNKSMPTVTQIPL
+            EGSNVPQQPQYKDVPITYKGATDSYIEKVMISSNAEDAFLIKMLLRQTRRPEIGDKFSSR
+            HGQKGVCGLIVPQEDMPFCDSGICPDIIMNPHGFPSRMTVGKLIELLAGKAGVLDGRFHY
+            GTAFGGSKVKDVCEDLVRHGYNYLGKDYVTSGITGEPLEAYIYFGPVYYQKLKHMVLDKM
+            HARARGPRAVLTRQPTEGRSRDGGLRLGEMERDCLIGYGASMLLLERLMISSDAFEVDVC
+            GQCGLLGYSGWCHYCKSSCHVSSLRIPYACKLLFQELQSMNIIPRLKLSKYNE
+NTSEQ       3402
+            atggacgtgctagcggaggagtttgggaacctgactccggagcagctggcggcgccgatc
+            ccgactgtagaggaaaaatggaggctgcttccagcatttttaaaggtgaaaggccttgtg
+            aaacagcatatagattcatttaactatttcattaatgtagagataaagaagataatgaaa
+            gccaatgaaaaggttacaagtgacgctgaccctatgtggtacttaaaatatcttaatatc
+            tatgttgggcttcctgatgttgaagaaagcttcaatgtaactagaccagtgtcccctcat
+            gagtgccgtttgagagacatgacatactctgcccctattacagtggatattgaatatacc
+            cgaggcagccagaggatcatccgcaatgccttacctatcggcagaatgcccataatgcta
+            cgtagttcaaactgtgttcttacaggaaaaacgccagcagaatttgccaaactgaacgaa
+            tgtcccttagatccaggtggctacttcattgttaaaggagtagaaaaagttattcttatc
+            caagagcagctgtctaagaacaggatcatcgtggaggctgatagaaaaggggctgttgga
+            gcttcagttaccagctctacccatgagaaaaaaagcagaaccaatatggctgtgaaacaa
+            ggacgattttatttgaggcataatactttgtcagaagatatacccattgtcatcatattt
+            aaggccatgggtgttgagagtgaccaggaaattgtgcagatgattggaacagaggagcac
+            gtgatggctgcatttgggcccagtctggaagagtgccagaaagctcagattttcacacag
+            atgcaggcattaaaatatatagggaacaaagtaagaaggcaaaggatgtggggaggtgga
+            ccaaagaaaaccaaaatagaagaagcaagagagctcctggcttccaccattctgacccat
+            gtcccagttaaggaattcaatttccgagccaaatgtatctatactgcagtgatggtgcga
+            agagttattctggcccaaggagataataaagttgacgacagagattattatggtaacaag
+            cgactggaattggcaggacagcttttatctcttctttttgaagacttgttcaaaaaattt
+            aattctgaaatgaaaaagattgccgaccaggtgattcctaagcaaagagcagcccagttt
+            gatgttgtcaaacacatgcgccaagaccagatcaccaatggcatggtgaatgctatttct
+            accggaaattggtctttaaagagatttaaaatggaccgccagggtgtaacccaagtgctg
+            tctcgcttgtcatatatatccgcactgggcatgatgacaagaatctcttcccagtttgaa
+            aaaacgagaaaagtgagtggtcctcgctccctccagccatctcagtggggaatgctgtgt
+            ccttcggacactcctgaaggagaggcatgtggtttggttaaaaacttggcccttatgaca
+            cacatcacaactgatatggaagatggacccattgttaaattagccagtaacttgggagta
+            gaagatgtgaatttattatgtggggaagagctctcttacccaaatgtgtttcttgtcttt
+            cttaatggtaacatcttaggtgtcattcgagaccacaaaaagctagtgaatacatttcga
+            ctcatgagaagagcaggatatatcaatgaatttgtttccatctcaacaaatcttacagat
+            cgatgtgtctatatttcttctgatgggggaaggctatgcagaccctacataattgtcaag
+            aaacagaagccagcagtcacaaataaacatatggaagagctggcccaagggtacaggaat
+            tttgaagatttcttacatgagagtctggttgaatatttagatgtgaatgaagaaaatgat
+            tgtaacattgcactgtacgaacacacaattaataaagacaccacccacttggagattgaa
+            cccttcactcttctcggcgtgtgtgctggacttatcccataccctcaccataaccagtca
+            ccgagaaacacttatcagtgtgccatggggaaacaagccatgggtactataggatacaac
+            cagcgaaacagaattgatactctcatgtatctactagcatatccacaaaaacccatggtt
+            aagacaaaaaccattgaattgatagaatttgagaaactgccagctggacagaatgcaaca
+            gttgctgtgatgagctatagtggctatgatattgaagatgctcttgttttaaacaaggcc
+            tctttagacagaggctttgggcgttgccttgtatataaaaatgctaaatgtacgttgaaa
+            cgatacaccaatcagacttttgataaagtgatggggcccatgttggatgctgctacaagg
+            aaacctatctggcgacatgaaatcttagatgcagatggtatttgttctccaggtgagaaa
+            gtagaaaacaaacaagtgcttgtaaataagtccatgcccacagtgactcagattcctttg
+            gaaggaagtaatgtaccacagcaaccacagtacaaagatgtacccataacctacaaagga
+            gcaacagactcatatattgaaaaagtgatgatatcttcaaatgctgaagatgcttttctg
+            atcaaaatgctgctgagacagacaaggcgtccagaaattggagacaaattcagcagtcgt
+            catgggcaaaaaggtgtttgtggcttgatcgtcccccaggaagacatgccattttgtgat
+            tctggcatctgtccggacatcatcatgaacccacacggcttcccatcacgaatgacggtg
+            gggaagctcattgagctgctggctggcaaggccggtgtgctggacggcagattccactac
+            ggcactgcgtttggaggcagtaaagtgaaggatgtgtgtgaggacctcgttcgccatggt
+            tataactacttggggaaagactatgttacatccggcatcacaggtgagcccttagaagca
+            tacatctattttggccccgtgtactatcagaagctgaaacacatggtgctagataaaatg
+            catgcccgggcccggggcccacgagccgtccttaccaggcaacccactgaaggacggtct
+            cgtgatggtggcttgcgtctcggggaaatggaacgtgactgtttaatcggttatggagcc
+            agtatgcttttgctagagagactaatgatttcaagtgatgcctttgaggttgatgtctgt
+            gggcagtgtggacttctggggtattctggctggtgccattactgcaagtcatcctgccac
+            gtgtcttccctccgtattccgtatgcctgcaagctgctcttccaggaactacagtctatg
+            aacatcatccccaggttaaaactgtccaagtacaatgaatga
+///

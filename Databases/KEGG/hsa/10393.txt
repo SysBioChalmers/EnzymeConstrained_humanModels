@@ -1,0 +1,69 @@
+ENTRY       10393             CDS       T01001
+NAME        ANAPC10, APC10, DOC1
+DEFINITION  (RefSeq) anaphase promoting complex subunit 10
+ORTHOLOGY   K03357  anaphase-promoting complex subunit 10
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04914  Progesterone-mediated oocyte maturation
+            hsa05166  HTLV-I infection
+MODULE      hsa_M00389  APC/C complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                10393 (ANAPC10)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                10393 (ANAPC10)
+               04114 Oocyte meiosis
+                10393 (ANAPC10)
+             Organismal Systems
+              Endocrine system
+               04914 Progesterone-mediated oocyte maturation
+                10393 (ANAPC10)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                10393 (ANAPC10)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 10393 (ANAPC10)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Sister chromatid separation proteins
+               APC/C complex
+                10393 (ANAPC10)
+POSITION    4q31.21
+MOTIF       Pfam: ANAPC10 F5_F8_type_C PITH
+DBLINKS     NCBI-GeneID: 10393
+            NCBI-ProteinID: NP_001243635
+            OMIM: 613745
+            HGNC: 24077
+            Ensembl: ENSG00000164162
+            Vega: OTTHUMG00000161477
+            Pharos: Q9UM13(Tbio)
+            UniProt: Q9UM13
+STRUCTURE   PDB: 1JHJ 5G05 4UI9 5LCW 5G04 5A31 5KHU 5KHR 5L9T 5L9U
+AASEQ       185
+            MTTPNKTPPGADPKQLERTGTVREIGSQAVWSLSSCKPGFGVDQLRDDNLETYWQSDGSQ
+            PHLVNIQFRRKTTVKTLCIYADYKSDESYTPSKISVRVGNNFHNLQEIRQLELVEPSGWI
+            HVPLTDNHKKPTRTFMIQIAVLANHQNGRDTHMRQIKIYTPVEESSIGKFPRCTTIDFMM
+            YRSIR
+NTSEQ       558
+            atgactacaccaaacaagacacctcctggtgctgaccccaagcagttggaaaggactgga
+            acagtacgggaaattgggtcacaagctgtttggtcactctcatcttgcaaaccaggattt
+            ggagtggatcagttacgagatgacaatctagaaacttattggcaatcagatggttcccag
+            cctcatttagtgaacatccaattcagaagaaaaacaacagtgaagacattatgtatttat
+            gcagactacaaatctgatgaaagctatactccaagcaagatctcagtcagagtaggaaat
+            aattttcacaaccttcaagaaattcggcaacttgagttggtggaaccaagtggctggatt
+            catgttcccttaactgacaatcataagaagccaactcgtacattcatgatacagattgct
+            gttctagccaatcaccagaatggaagagacacccatatgagacaaattaaaatatacaca
+            ccagtagaagagagctccattggtaaatttcctagatgtacaactatagatttcatgatg
+            tatcgttcaataaggtga
+///

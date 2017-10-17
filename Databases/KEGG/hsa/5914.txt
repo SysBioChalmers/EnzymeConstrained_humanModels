@@ -1,0 +1,88 @@
+ENTRY       5914              CDS       T01001
+NAME        RARA, NR1B1, RAR
+DEFINITION  (RefSeq) retinoic acid receptor alpha
+ORTHOLOGY   K08527  retinoic acid receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04659  Th17 cell differentiation
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05221  Acute myeloid leukemia
+DISEASE     H00003  Acute myeloid leukemia (AML)
+            H00516  Isolated orofacial clefts
+DRUG_TARGET Acitretin: D02754
+            Alitretinoin: D02815
+            Etretinate: D00316
+            Fenretinide: D04162
+            Isotretinoin (DG00434): D00348 D04636
+            Retinol (vit A) (DG00123): D00164 D01621 D06543 D08477
+            Tamibarotene: D01418
+            Tazarotene: D01132
+            Tretinoin (DG00433): D00094
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                5914 (RARA)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5914 (RARA)
+               05202 Transcriptional misregulation in cancers
+                5914 (RARA)
+               05221 Acute myeloid leukemia
+                5914 (RARA)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 thyroid hormone-like
+                5914 (RARA)
+            Nuclear receptors [BR:hsa03310]
+             1. Thyroid hormone like
+              1B. Retinoic acid receptor (RAR)
+               5914 (RARA)
+POSITION    17q21.2
+MOTIF       Pfam: zf-C4 Hormone_recep
+DBLINKS     NCBI-GeneID: 5914
+            NCBI-ProteinID: NP_000955
+            OMIM: 180240
+            HGNC: 9864
+            Ensembl: ENSG00000131759
+            Vega: OTTHUMG00000133328
+            Pharos: P10276(Tclin)
+            UniProt: P10276 Q6I9R7
+STRUCTURE   PDB: 1DSZ 3KMR 5K13 3KMZ 1DKF 4DQM 3A9E
+AASEQ       462
+            MASNSSSCPTPGGGHLNGYPVPPYAFFFPPMLGGLSPPGALTTLQHQLPVSGYSTPSPAT
+            IETQSSSSEEIVPSPPSPPPLPRIYKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNM
+            VYTCHRDKNCIINKVTRNRCQYCRLQKCFEVGMSKESVRNDRNKKKKEVPKPECSESYTL
+            TPEVGELIEKVRKAHQETFPALCQLGKYTTNNSSEQRVSLDIDLWDKFSELSTKCIIKTV
+            EFAKQLPGFTTLTIADQITLLKAACLDILILRICTRYTPEQDTMTFSDGLTLNRTQMHNA
+            GFGPLTDLVFAFANQLLPLEMDDAETGLLSAICLICGDRQDLEQPDRVDMLQEPLLEALK
+            VYVRKRRPSRPHMFPKMLMKITDLRSISAKGAERVITLKMEIPGSMPPLIQEMLENSEGL
+            DTLSGQPGGGGRDGGGLAPPPGSCSPSLSPSSNRSSPATHSP
+NTSEQ       1389
+            atggccagcaacagcagctcctgcccgacacctgggggcgggcacctcaatgggtacccg
+            gtgcctccctacgccttcttcttcccccctatgctgggtggactctccccgccaggcgct
+            ctgaccactctccagcaccagcttccagttagtggatatagcacaccatccccagccacc
+            attgagacccagagcagcagttctgaagagatagtgcccagccctccctcgccaccccct
+            ctaccccgcatctacaagccttgctttgtctgtcaggacaagtcctcaggctaccactat
+            ggggtcagcgcctgtgagggctgcaagggcttcttccgccgcagcatccagaagaacatg
+            gtgtacacgtgtcaccgggacaagaactgcatcatcaacaaggtgacccggaaccgctgc
+            cagtactgccgactgcagaagtgctttgaagtgggcatgtccaaggagtctgtgagaaac
+            gaccgaaacaagaagaagaaggaggtgcccaagcccgagtgctctgagagctacacgctg
+            acgccggaggtgggggagctcattgagaaggtgcgcaaagcgcaccaggaaaccttccct
+            gccctctgccagctgggcaaatacactacgaacaacagctcagaacaacgtgtctctctg
+            gacattgacctctgggacaagttcagtgaactctccaccaagtgcatcattaagactgtg
+            gagttcgccaagcagctgcccggcttcaccaccctcaccatcgccgaccagatcaccctc
+            ctcaaggctgcctgcctggacatcctgatcctgcggatctgcacgcggtacacgcccgag
+            caggacaccatgaccttctcggacgggctgaccctgaaccggacccagatgcacaacgct
+            ggcttcggccccctcaccgacctggtctttgccttcgccaaccagctgctgcccctggag
+            atggatgatgcggagacggggctgctcagcgccatctgcctcatctgcggagaccgccag
+            gacctggagcagccggaccgggtggacatgctgcaggagccgctgctggaggcgctaaag
+            gtctacgtgcggaagcggaggcccagccgcccccacatgttccccaagatgctaatgaag
+            attactgacctgcgaagcatcagcgccaagggggctgagcgggtgatcacgctgaagatg
+            gagatcccgggctccatgccgcctctcatccaggaaatgttggagaactcagagggcctg
+            gacactctgagcggacagccggggggtggggggcgggacgggggtggcctggcccccccg
+            ccaggcagctgtagccccagcctcagccccagctccaacagaagcagcccggccacccac
+            tccccgtga
+///

@@ -1,0 +1,81 @@
+ENTRY       5096              CDS       T01001
+NAME        PCCB
+DEFINITION  (RefSeq) propionyl-CoA carboxylase beta subunit
+ORTHOLOGY   K01966  propionyl-CoA carboxylase beta chain [EC:6.4.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00741  Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA
+DISEASE     H00175  Propionic acidemia
+            H01400  Secondary hyperammonemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                5096 (PCCB)
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                5096 (PCCB)
+               00640 Propanoate metabolism
+                5096 (PCCB)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                5096 (PCCB)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.4  Forming carbon-carbon bonds
+               6.4.1  Ligases that form carbon-carbon bonds (only sub-subclass identified to date)
+                6.4.1.3  propionyl-CoA carboxylase
+                 5096 (PCCB)
+POSITION    3q22.3
+MOTIF       Pfam: Carboxyl_trans MdcE
+DBLINKS     NCBI-GeneID: 5096
+            NCBI-ProteinID: NP_000523
+            OMIM: 232050
+            HGNC: 8654
+            Ensembl: ENSG00000114054
+            Vega: OTTHUMG00000159792
+            Pharos: P05166(Tbio)
+            UniProt: P05166
+AASEQ       539
+            MAAALRVAAVGARLSVLASGLRAAVRSLCSQATSVNERIENKRRTALLGGGQRRIDAQHK
+            RGKLTARERISLLLDPGSFVESDMFVEHRCADFGMAADKNKFPGDSVVTGRGRINGRLVY
+            VFSQDFTVFGGSLSGAHAQKICKIMDQAITVGAPVIGLNDSGGARIQEGVESLAGYADIF
+            LRNVTASGVIPQISLIMGPCAGGAVYSPALTDFTFMVKDTSYLFITGPDVVKSVTNEDVT
+            QEELGGAKTHTTMSGVAHRAFENDVDALCNLRDFFNYLPLSSQDPAPVRECHDPSDRLVP
+            ELDTIVPLESTKAYNMVDIIHSVVDEREFFEIMPNYAKNIIVGFARMNGRTVGIVGNQPK
+            VASGCLDINSSVKGARFVRFCDAFNIPLITFVDVPGFLPGTAQEYGGIIRHGAKLLYAFA
+            EATVPKVTVITRKAYGGAYDVMSSKHLCGDTNYAWPTAEIAVMGAKGAVEIIFKGHENVE
+            AAQAEYIEKFANPFPAAVRGFVDDIIQPSSTRARICCDLDVLASKKVQRPWRKHANIPL
+NTSEQ       1620
+            atggcggcggcattacgggtggcggcggtcggggcaaggctcagcgttctggcgagcggt
+            ctccgcgccgcggtccgcagcctttgcagccaggccacctctgttaacgaacgcatcgaa
+            aacaagcgccggaccgcgctgctgggagggggccaacgccgtattgacgcgcagcacaag
+            cgaggaaagctaacagccagggagaggatcagtctcttgctggaccctggcagctttgtt
+            gagagcgacatgtttgtggaacacagatgtgcagattttggaatggctgctgataagaat
+            aagtttcctggagacagcgtggtcactggacgaggccgaatcaatggaagattggtttat
+            gtcttcagtcaggattttacagtttttggaggcagtctgtcaggagcacatgcccaaaag
+            atctgcaaaatcatggaccaggccataacggtgggggctccagtgattgggctgaatgac
+            tctgggggagcacggatccaagaaggagtggagtctttggctggctatgcagacatcttt
+            ctgaggaatgttacggcatccggagtcatccctcagatttctctgatcatgggcccatgt
+            gctggtggggccgtctactccccagccctaacagacttcacgttcatggtaaaggacacc
+            tcctacctgttcatcactggccctgatgttgtgaagtctgtcaccaatgaggatgttacc
+            caggaggagctcggtggtgccaagacccacaccaccatgtcaggtgtggcccacagagct
+            tttgaaaatgatgttgatgccttgtgtaatctccgggatttcttcaactacctgcccctg
+            agcagtcaggacccggctcccgtccgtgagtgccacgatcccagtgaccgtctggttcct
+            gagcttgacacaattgtccctttggaatcaaccaaagcctacaacatggtggacatcata
+            cactctgttgttgatgagcgtgaattttttgagatcatgcccaattatgccaagaacatc
+            attgttggttttgcaagaatgaatgggaggactgttggaattgttggcaaccaacctaag
+            gtggcctcaggatgcttggatattaattcatctgtgaaaggggctcgttttgtcagattc
+            tgtgatgcattcaatattccactcatcacttttgttgatgtccctggctttctacctggc
+            acagcacaggaatacgggggcatcatccggcatggtgccaagcttctctacgcatttgct
+            gaggcaactgtacccaaagtcacagtcatcaccaggaaggcctatggaggtgcctatgat
+            gtcatgagctctaagcacctttgtggtgataccaactatgcctggcccaccgcagagatt
+            gcagtcatgggagcaaagggcgctgtggagatcatcttcaaagggcatgagaatgtggaa
+            gctgctcaggcagagtacatcgagaagtttgccaaccctttccctgcagcagtgcgaggg
+            tttgtggatgacatcatccaaccttcttccacacgtgcccgaatctgctgtgacctggat
+            gtcttggccagcaagaaggtacaacgtccttggagaaaacatgcaaatattccattgtaa
+///

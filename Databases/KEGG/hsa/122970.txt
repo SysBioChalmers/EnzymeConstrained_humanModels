@@ -1,0 +1,69 @@
+ENTRY       122970            CDS       T01001
+NAME        ACOT4, PTE-Ib, PTE1B, PTE2B
+DEFINITION  (RefSeq) acyl-CoA thioesterase 4
+ORTHOLOGY   K01068  acyl-coenzyme A thioesterase 1/2/4 [EC:3.1.2.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00062 Fatty acid elongation
+                122970 (ACOT4)
+               01040 Biosynthesis of unsaturated fatty acids
+                122970 (ACOT4)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.2  palmitoyl-CoA hydrolase
+                 122970 (ACOT4)
+            Lipid biosynthesis proteins [BR:hsa01004]
+             Fatty acid synthase
+              Component type
+               122970 (ACOT4)
+POSITION    14q24.3
+MOTIF       Pfam: BAAT_C Bile_Hydr_Trans DLH FSH1 Peptidase_S9
+DBLINKS     NCBI-GeneID: 122970
+            NCBI-ProteinID: NP_689544
+            OMIM: 614314
+            HGNC: 19748
+            Ensembl: ENSG00000177465
+            Vega: OTTHUMG00000169485
+            Pharos: Q8N9L9(Tbio)
+            UniProt: Q8N9L9
+STRUCTURE   PDB: 3K2I
+AASEQ       421
+            MSATLILEPPGRCCWNEPVRIAVRGLAPEQRVTLRASLRDEKGALFRAHARYCADARGEL
+            DLERAPALGGSFAGLEPMGLLWALEPEKPFWRFLKRDVQIPFVVELEVLDGHDPEPGRLL
+            CQAQHERHFLPPGVRRQSVRAGRVRATLFLPPGPGPFPGIIDIFGIGGGLLEYRASLLAG
+            HGFATLALAYYNFEDLPNNMDNISLEYFEEAVCYMLQHPQVKGPGIGLLGISLGADICLS
+            MASFLKNVSATVSINGSGISGNTAINYKHSSIPPLGYDLRRIKVAFSGLVDIVDIRNALV
+            GGYKNPSMIPIEKAQGPILLIVGQDDHNWRSELYAQTVSERLQAHGKEKPQIICYPGTGH
+            YIEPPYFPLCPASLHRLLNKHVIWGGEPRAHSKAQEDAWKQILAFFCKHLGGTQKTAVPK
+            L
+NTSEQ       1266
+            atgtcagcaacgctgatcctggagcccccaggccgctgctgctggaacgagccggtgcgc
+            attgccgtgcgcggcctggccccggagcagcgggttacgctgcgcgcgtccctgcgcgac
+            gagaagggcgcgctcttccgggcccacgcgcgctactgcgccgacgcccgcggcgagctg
+            gacctggagcgcgcacccgcgctgggcggcagcttcgcgggactcgagcccatggggctg
+            ctctgggccctggaacccgagaagcctttttggcgcttcctgaagcgggacgtacagatt
+            ccttttgtcgtggagttggaggtgctggacggccacgaccccgagcctggacggctgctg
+            tgccaggcgcagcacgagcgccacttcctcccgccaggggtgcggcgccagtcggtgcga
+            gcgggccgggtgcgcgccacgctcttcctgccgccaggacctggacccttcccagggatc
+            attgacatctttggtattggagggggcctcttggaatatcgagccagcctccttgctggc
+            catggctttgccacgttggctctagcttattataactttgaagatctccccaataacatg
+            gacaacatatccctggagtacttcgaagaagccgtatgctacatgcttcaacatccccag
+            gtaaaaggcccaggcattgggcttttgggcatttctctaggagctgatatttgtctctca
+            atggcctcattcttgaagaatgtctcagccacagtttccatcaatggatctgggatcagt
+            gggaacacagccatcaactataagcacagtagcattccaccattgggctatgacctgagg
+            agaatcaaggtagctttctcaggcctcgtggacattgtggatataaggaatgctctcgta
+            ggagggtacaagaaccccagcatgattccaatagagaaggcccaggggcccatcctgctc
+            attgttggtcaggatgaccataactggagaagtgagttgtatgcccaaacagtctctgaa
+            cggttacaggcccatggaaaggaaaaaccccagatcatctgttaccctgggactgggcat
+            tacatcgagcctccttacttccccctgtgcccagcttcccttcacagattactgaacaaa
+            catgttatatggggtggggagcccagggctcattctaaggcccaggaagatgcctggaag
+            caaattctagccttcttctgcaaacacctgggaggtacccagaaaacagctgtccctaaa
+            ttgtaa
+///

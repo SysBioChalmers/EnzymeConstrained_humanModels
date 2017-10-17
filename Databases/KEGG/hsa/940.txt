@@ -1,0 +1,91 @@
+ENTRY       940               CDS       T01001
+NAME        CD28, Tp44
+DEFINITION  (RefSeq) CD28 molecule
+ORTHOLOGY   K06470  CD28 antigen
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04660  T cell receptor signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa04940  Type I diabetes mellitus
+            hsa05162  Measles
+            hsa05320  Autoimmune thyroid disease
+            hsa05322  Systemic lupus erythematosus
+            hsa05323  Rheumatoid arthritis
+            hsa05330  Allograft rejection
+            hsa05332  Graft-versus-host disease
+            hsa05416  Viral myocarditis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                940 (CD28)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                940 (CD28)
+               04672 Intestinal immune network for IgA production
+                940 (CD28)
+             Human Diseases
+              Immune diseases
+               05322 Systemic lupus erythematosus
+                940 (CD28)
+               05323 Rheumatoid arthritis
+                940 (CD28)
+               05320 Autoimmune thyroid disease
+                940 (CD28)
+               05330 Allograft rejection
+                940 (CD28)
+               05332 Graft-versus-host disease
+                940 (CD28)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                940 (CD28)
+              Endocrine and metabolic diseases
+               04940 Type I diabetes mellitus
+                940 (CD28)
+              Infectious diseases
+               05162 Measles
+                940 (CD28)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               B7-CD28 family
+                CD80; CD80 antigen [KO:K05412]
+                 940 (CD28)
+                CD86; CD86 antigen [KO:K05413]
+                 940 (CD28)
+                ICOSLG, ICOSL; inducible T-cell co-stimulator ligand [KO:K06710]
+                 940 (CD28)
+            CD molecules [BR:hsa04090]
+             Proteins
+              940 (CD28)
+POSITION    2q33.2
+MOTIF       Pfam: V-set_2 V-set
+DBLINKS     NCBI-GeneID: 940
+            NCBI-ProteinID: NP_006130
+            OMIM: 186760
+            HGNC: 1653
+            Ensembl: ENSG00000178562
+            Vega: OTTHUMG00000132878
+            Pharos: P10747(Tbio)
+            UniProt: P10747
+STRUCTURE   PDB: 1YJD
+AASEQ       220
+            MLRLLLALNLFPSIQVTGNKILVKQSPMLVAYDNAVNLSCKYSYNLFSREFRASLHKGLD
+            SAVEVCVVYGNYSQQLQVYSKTGFNCDGKLGNESVTFYLQNLYVNQTDIYFCKIEVMYPP
+            PYLDNEKSNGTIIHVKGKHLCPSPLFPGPSKPFWVLVVVGGVLACYSLLVTVAFIIFWVR
+            SKRSRLLHSDYMNMTPRRPGPTRKHYQPYAPPRDFAAYRS
+NTSEQ       663
+            atgctcaggctgctcttggctctcaacttattcccttcaattcaagtaacaggaaacaag
+            attttggtgaagcagtcgcccatgcttgtagcgtacgacaatgcggtcaaccttagctgc
+            aagtattcctacaatctcttctcaagggagttccgggcatcccttcacaaaggactggat
+            agtgctgtggaagtctgtgttgtatatgggaattactcccagcagcttcaggtttactca
+            aaaacggggttcaactgtgatgggaaattgggcaatgaatcagtgacattctacctccag
+            aatttgtatgttaaccaaacagatatttacttctgcaaaattgaagttatgtatcctcct
+            ccttacctagacaatgagaagagcaatggaaccattatccatgtgaaagggaaacacctt
+            tgtccaagtcccctatttcccggaccttctaagcccttttgggtgctggtggtggttggt
+            ggagtcctggcttgctatagcttgctagtaacagtggcctttattattttctgggtgagg
+            agtaagaggagcaggctcctgcacagtgactacatgaacatgactccccgccgccccggg
+            cccacccgcaagcattaccagccctatgccccaccacgcgacttcgcagcctatcgctcc
+            tga
+///

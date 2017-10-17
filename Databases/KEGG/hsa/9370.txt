@@ -1,0 +1,64 @@
+ENTRY       9370              CDS       T01001
+NAME        ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28
+DEFINITION  (RefSeq) adiponectin, C1Q and collagen domain containing
+ORTHOLOGY   K07296  adiponectin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+DISEASE     H00967  Adiponectin deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04152 AMPK signaling pathway
+                9370 (ADIPOQ)
+             Organismal Systems
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                9370 (ADIPOQ)
+               03320 PPAR signaling pathway
+                9370 (ADIPOQ)
+              Aging
+               04211 Longevity regulating pathway - mammal
+                9370 (ADIPOQ)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                9370 (ADIPOQ)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                9370 (ADIPOQ)
+POSITION    3q27.3
+MOTIF       Pfam: C1q Collagen
+DBLINKS     NCBI-GeneID: 9370
+            NCBI-ProteinID: NP_001171271
+            OMIM: 605441
+            HGNC: 13633
+            Ensembl: ENSG00000181092
+            Vega: OTTHUMG00000156521
+            Pharos: Q15848(Tbio)
+            UniProt: Q15848 A8K660 B2R773
+STRUCTURE   PDB: 4DOU
+AASEQ       244
+            MLLLGAVLLLLALPGHDQETTTQGPGVLLPLPKGACTGWMAGIPGHPGHNGAPGRDGRDG
+            TPGEKGEKGDPGLIGPKGDIGETGVPGAEGPRGFPGIQGRKGEPGEGAYVYRSAFSVGLE
+            TYVTIPNMPIRFTKIFYNQQNHYDGSTGKFHCNIPGLYYFAYHITVYMKDVKVSLFKKDK
+            AMLFTYDQYQENNVDQASGSVLLHLEVGDQVWLQVYGEGERNGLYADNDNDSTFTGFLLY
+            HDTN
+NTSEQ       735
+            atgctgttgctgggagctgttctactgctattagctctgcccggtcatgaccaggaaacc
+            acgactcaagggcccggagtcctgcttcccctgcccaagggggcctgcacaggttggatg
+            gcgggcatcccagggcatccgggccataatggggccccaggccgtgatggcagagatggc
+            acccctggtgagaagggtgagaaaggagatccaggtcttattggtcctaagggagacatc
+            ggtgaaaccggagtacccggggctgaaggtccccgaggctttccgggaatccaaggcagg
+            aaaggagaacctggagaaggtgcctatgtataccgctcagcattcagtgtgggattggag
+            acttacgttactatccccaacatgcccattcgctttaccaagatcttctacaatcagcaa
+            aaccactatgatggctccactggtaaattccactgcaacattcctgggctgtactacttt
+            gcctaccacatcacagtctatatgaaggatgtgaaggtcagcctcttcaagaaggacaag
+            gctatgctcttcacctatgatcagtaccaggaaaataatgtggaccaggcctccggctct
+            gtgctcctgcatctggaggtgggcgaccaagtctggctccaggtgtatggggaaggagag
+            cgtaatggactctatgctgataatgacaatgactccaccttcacaggctttcttctctac
+            catgacaccaactga
+///

@@ -1,0 +1,111 @@
+ENTRY       959               CDS       T01001
+NAME        CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L
+DEFINITION  (RefSeq) CD40 ligand
+ORTHOLOGY   K03161  tumor necrosis factor ligand superfamily member 5
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04514  Cell adhesion molecules (CAMs)
+            hsa04660  T cell receptor signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05310  Asthma
+            hsa05320  Autoimmune thyroid disease
+            hsa05322  Systemic lupus erythematosus
+            hsa05330  Allograft rejection
+            hsa05340  Primary immunodeficiency
+            hsa05416  Viral myocarditis
+DISEASE     H00093  Combined immunodeficiencies (CIDs)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                959 (CD40LG)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                959 (CD40LG)
+               04514 Cell adhesion molecules (CAMs)
+                959 (CD40LG)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                959 (CD40LG)
+               04672 Intestinal immune network for IgA production
+                959 (CD40LG)
+             Human Diseases
+              Immune diseases
+               05310 Asthma
+                959 (CD40LG)
+               05322 Systemic lupus erythematosus
+                959 (CD40LG)
+               05320 Autoimmune thyroid disease
+                959 (CD40LG)
+               05330 Allograft rejection
+                959 (CD40LG)
+               05340 Primary immunodeficiency
+                959 (CD40LG)
+              Cardiovascular diseases
+               05416 Viral myocarditis
+                959 (CD40LG)
+              Infectious diseases
+               05144 Malaria
+                959 (CD40LG)
+               05145 Toxoplasmosis
+                959 (CD40LG)
+            Cytokines [BR:hsa04052]
+             TNF family
+              959 (CD40LG)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             2. Integrin Family
+              Beta1 integrins
+               VLA-5
+                ITGB1; integrin beta 1 [KO:K05719]
+                 959 (CD40LG)
+              Beta2 integrins
+               CR3, Mac-1
+                ITGB2; integrin beta 2 [KO:K06464]
+                 959 (CD40LG)
+              Beta3 integrins
+               alpha IIb  beta 3
+                ITGB3; integrin beta 3 [KO:K06493]
+                 959 (CD40LG)
+             7. Others
+              TNFRSF5, CD40; tumor necrosis factor receptor superfamily, member 5 [KO:K03160]
+               959 (CD40LG)
+            CD molecules [BR:hsa04090]
+             Proteins
+              959 (CD40LG)
+POSITION    Xq26.3
+MOTIF       Pfam: TNF
+DBLINKS     NCBI-GeneID: 959
+            NCBI-ProteinID: NP_000065
+            OMIM: 300386
+            HGNC: 11935
+            Ensembl: ENSG00000102245
+            Vega: OTTHUMG00000022512
+            Pharos: P29965(Tbio)
+            UniProt: P29965
+STRUCTURE   PDB: 1ALY 3LKJ 1I9R 3QD6
+AASEQ       261
+            MIETYNQTSPRSAATGLPISMKIFMYLLTVFLITQMIGSALFAVYLHRRLDKIEDERNLH
+            EDFVFMKTIQRCNTGERSLSLLNCEEIKSQFEGFVKDIMLNKEETKKENSFEMQKGDQNP
+            QIAAHVISEASSKTTSVLQWAEKGYYTMSNNLVTLENGKQLTVKRQGLYYIYAQVTFCSN
+            REASSQAPFIASLCLKSPGRFERILLRAANTHSSAKPCGQQSIHLGGVFELQPGASVFVN
+            VTDPSQVSHGTGFTSFGLLKL
+NTSEQ       786
+            atgatcgaaacatacaaccaaacttctccccgatctgcggccactggactgcccatcagc
+            atgaaaatttttatgtatttacttactgtttttcttatcacccagatgattgggtcagca
+            ctttttgctgtgtatcttcatagaaggttggacaagatagaagatgaaaggaatcttcat
+            gaagattttgtattcatgaaaacgatacagagatgcaacacaggagaaagatccttatcc
+            ttactgaactgtgaggagattaaaagccagtttgaaggctttgtgaaggatataatgtta
+            aacaaagaggagacgaagaaagaaaacagctttgaaatgcaaaaaggtgatcagaatcct
+            caaattgcggcacatgtcataagtgaggccagcagtaaaacaacatctgtgttacagtgg
+            gctgaaaaaggatactacaccatgagcaacaacttggtaaccctggaaaatgggaaacag
+            ctgaccgttaaaagacaaggactctattatatctatgcccaagtcaccttctgttccaat
+            cgggaagcttcgagtcaagctccatttatagccagcctctgcctaaagtcccccggtaga
+            ttcgagagaatcttactcagagctgcaaatacccacagttccgccaaaccttgcgggcaa
+            caatccattcacttgggaggagtatttgaattgcaaccaggtgcttcggtgtttgtcaat
+            gtgactgatccaagccaagtgagccatggcactggcttcacgtcctttggcttactcaaa
+            ctctga
+///

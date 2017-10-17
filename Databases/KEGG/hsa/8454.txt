@@ -1,0 +1,119 @@
+ENTRY       8454              CDS       T01001
+NAME        CUL1
+DEFINITION  (RefSeq) cullin 1
+ORTHOLOGY   K03347  cullin 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04110  Cell cycle
+            hsa04114  Oocyte meiosis
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04710  Circadian rhythm
+            hsa05168  Herpes simplex infection
+MODULE      hsa_M00380  SCF-BTRC complex
+            hsa_M00381  SCF-SKP2 complex
+            hsa_M00382  SCF-FBS complex
+            hsa_M00387  SCF-FBW7 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                8454 (CUL1)
+               04120 Ubiquitin mediated proteolysis
+                8454 (CUL1)
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                8454 (CUL1)
+               04340 Hedgehog signaling pathway
+                8454 (CUL1)
+               04350 TGF-beta signaling pathway
+                8454 (CUL1)
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                8454 (CUL1)
+               04114 Oocyte meiosis
+                8454 (CUL1)
+             Organismal Systems
+              Environmental adaptation
+               04710 Circadian rhythm
+                8454 (CUL1)
+             Human Diseases
+              Infectious diseases
+               05168 Herpes simplex infection
+                8454 (CUL1)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Cullin
+                 8454 (CUL1)
+POSITION    7q36.1
+MOTIF       Pfam: Cullin Cullin_Nedd8
+DBLINKS     NCBI-GeneID: 8454
+            NCBI-ProteinID: NP_003583
+            OMIM: 603134
+            HGNC: 2551
+            Ensembl: ENSG00000055130
+            Vega: OTTHUMG00000152776
+            Pharos: Q13616(Tbio)
+            UniProt: Q13616 A0A090N7U0 B3KTW0
+STRUCTURE   PDB: 3TDU 5V89 3TDZ 4F52 1LDJ 1U6G 1LDK 4P5O 3RTR
+AASEQ       776
+            MSSTRSQNPHGLKQIGLDQIWDDLRAGIQQVYTRQSMAKSRYMELYTHVYNYCTSVHQSN
+            QARGAGVPPSKSKKGQTPGGAQFVGLELYKRLKEFLKNYLTNLLKDGEDLMDESVLKFYT
+            QQWEDYRFSSKVLNGICAYLNRHWVRRECDEGRKGIYEIYSLALVTWRDCLFRPLNKQVT
+            NAVLKLIEKERNGETINTRLISGVVQSYVELGLNEDDAFAKGPTLTVYKESFESQFLADT
+            ERFYTRESTEFLQQNPVTEYMKKAEARLLEEQRRVQVYLHESTQDELARKCEQVLIEKHL
+            EIFHTEFQNLLDADKNEDLGRMYNLVSRIQDGLGELKKLLETHIHNQGLAAIEKCGEAAL
+            NDPKMYVQTVLDVHKKYNALVMSAFNNDAGFVAALDKACGRFINNNAVTKMAQSSSKSPE
+            LLARYCDSLLKKSSKNPEEAELEDTLNQVMVVFKYIEDKDVFQKFYAKMLAKRLVHQNSA
+            SDDAEASMISKLKQACGFEYTSKLQRMFQDIGVSKDLNEQFKKHLTNSEPLDLDFSIQVL
+            SSGSWPFQQSCTFALPSELERSYQRFTAFYASRHSGRKLTWLYQLSKGELVTNCFKNRYT
+            LQASTFQMAILLQYNTEDAYTVQQLTDSTQIKMDILAQVLQILLKSKLLVLEDENANVDE
+            VELKPDTLIKLYLGYKNKKLRVNINVPMKTEQKQEQETTHKNIEEDRKLLIQAAIVRIMK
+            MRKVLKHQQLLGEVLTQLSSRFKPRVPVIKKCIDILIEKEYLERVDGEKDTYSYLA
+NTSEQ       2331
+            atgtcgtcaacccggagccagaacccccacggcctgaagcagattggcctggaccagatc
+            tgggacgacctcagagccggcatccagcaggtgtacacacggcagagcatggccaagtcc
+            agatatatggagctctacactcatgtttataactactgtactagtgttcaccagtcaaac
+            caagcacgaggagctggagttcctccttctaagtcgaaaaaggggcagacacctggagga
+            gctcagtttgttggcctggaattatataaacgacttaaggaatttttgaagaattacttg
+            acaaatcttcttaaggatggagaagatttgatggatgagagtgtactgaaattctacact
+            caacaatgggaagattatcgattttcaagcaaagtgctgaatggaatttgtgcctacctc
+            aatagacattgggttcgccgtgaatgtgacgaaggacgaaaaggaatatatgaaatctat
+            tcgcttgcattggtgacttggagagactgtctgttcaggccactgaataaacaggtaaca
+            aatgctgttttaaagctgattgaaaaggaaaggaatggtgaaaccatcaatacaagattg
+            attagtggagttgtacagtcttacgtggaattggggctgaatgaagatgatgcatttgca
+            aagggccctacgttaacagtgtataaagaatcctttgaatctcaatttttggctgacaca
+            gagagattttataccagagagagtactgaattcttgcagcagaacccagttactgaatat
+            atgaaaaaggcagaggctcgtctgcttgaggaacaacgaagagttcaggtttaccttcat
+            gaaagcacacaagatgaattagcaaggaaatgtgaacaagtcctcattgaaaaacacttg
+            gaaattttccacacagaatttcagaatttattggatgctgacaaaaatgaagatttggga
+            cgcatgtataatcttgtatctagaatccaggatggcctaggagaattgaaaaaactgttg
+            gagacacacattcataatcagggtcttgcagccattgaaaagtgtggagaagctgcttta
+            aatgaccccaaaatgtatgtacagacagtgcttgatgttcataaaaaatacaatgccctg
+            gtaatgtctgcattcaacaatgacgctggctttgtggctgctcttgataaggcttgtggt
+            cgcttcataaacaacaacgcggttaccaagatggcccaatcatccagtaaatcccctgag
+            ttgctggctcgatactgtgactccttgttgaagaaaagttccaagaacccagaggaggca
+            gaactagaagacacactcaatcaagtgatggttgtcttcaagtacatagaagacaaagac
+            gtatttcagaagttctatgcgaagatgctcgccaagaggctcgtccaccagaacagtgca
+            agtgacgatgccgaagccagcatgatctccaagttaaagcaagcttgcgggttcgagtac
+            acctctaaacttcagcgcatgtttcaagacattggcgtgagcaaagatctgaacgagcaa
+            ttcaaaaagcacttgacaaactcagaacccctagacttggatttcagcattcaagtgctg
+            agctccgggtcctggcccttccagcagtcttgtacatttgccttgccgtcagagttggaa
+            cgtagttatcagcgattcacagctttctacgccagccgccacagtggccgaaaattgacg
+            tggttatatcagttgtctaaaggagaattggtaactaactgcttcaaaaacagatatact
+            ttgcaggcgtcgacattccagatggctatcctgcttcagtacaacacggaagatgcctac
+            actgtgcagcagctgaccgacagcactcaaattaaaatggacattttggcgcaagtttta
+            cagattttattaaagtcgaagctattggtcttggaagatgaaaatgcaaatgttgatgag
+            gtggaattgaagccagataccttaataaaattatatcttggttataaaaataagaaatta
+            agggttaacatcaatgtgccaatgaaaaccgaacagaagcaggaacaagaaaccacacac
+            aaaaacatcgaggaagaccgcaaactactgattcaggcggccatcgtgagaatcatgaag
+            atgaggaaggttctgaaacaccagcagttacttggcgaggtcctcactcagctgtcctcc
+            aggttcaaacctcgagtccctgtgatcaagaaatgcattgacattctaattgagaaagaa
+            tatttggagcgagtggatggtgaaaaggacacctacagttacttggcttaa
+///

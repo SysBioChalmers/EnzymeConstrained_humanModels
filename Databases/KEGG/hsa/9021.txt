@@ -1,0 +1,92 @@
+ENTRY       9021              CDS       T01001
+NAME        SOCS3, ATOD4, CIS3, Cish3, SOCS-3, SSI-3, SSI3
+DEFINITION  (RefSeq) suppressor of cytokine signaling 3
+ORTHOLOGY   K04696  suppressor of cytokine signaling 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04120  Ubiquitin mediated proteolysis
+            hsa04380  Osteoclast differentiation
+            hsa04630  Jak-STAT signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04917  Prolactin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04932  Non-alcoholic fatty liver disease (NAFLD)
+            hsa05160  Hepatitis C
+            hsa05164  Influenza A
+            hsa05168  Herpes simplex infection
+MODULE      hsa_M00388  ECS complex
+            hsa_M00684  JAK-STAT signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                9021 (SOCS3)
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                9021 (SOCS3)
+               04668 TNF signaling pathway
+                9021 (SOCS3)
+             Organismal Systems
+              Endocrine system
+               04910 Insulin signaling pathway
+                9021 (SOCS3)
+               04920 Adipocytokine signaling pathway
+                9021 (SOCS3)
+               04917 Prolactin signaling pathway
+                9021 (SOCS3)
+              Development
+               04380 Osteoclast differentiation
+                9021 (SOCS3)
+             Human Diseases
+              Endocrine and metabolic diseases
+               04930 Type II diabetes mellitus
+                9021 (SOCS3)
+               04932 Non-alcoholic fatty liver disease (NAFLD)
+                9021 (SOCS3)
+               04931 Insulin resistance
+                9021 (SOCS3)
+              Infectious diseases
+               05164 Influenza A
+                9021 (SOCS3)
+               05160 Hepatitis C
+                9021 (SOCS3)
+               05168 Herpes simplex infection
+                9021 (SOCS3)
+            Ubiquitin system [BR:hsa04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               ECS complex
+                Target recognizing subunit (SOCS box)
+                 9021 (SOCS3)
+POSITION    17q25.3
+MOTIF       Pfam: SH2 SOCS_box
+DBLINKS     NCBI-GeneID: 9021
+            NCBI-ProteinID: NP_003946
+            OMIM: 604176
+            HGNC: 19391
+            Ensembl: ENSG00000184557
+            Vega: OTTHUMG00000177513
+            Pharos: O14543(Tbio)
+            UniProt: O14543 Q6FI39
+AASEQ       225
+            MVTHSKFPAAGMSRPLDTSLRLKTFSSKSEYQLVVNAVRKLQESGFYWSAVTGGEANLLL
+            SAEPAGTFLIRDSSDQRHFFTLSVKTQSGTKNLRIQCEGGSFSLQSDPRSTQPVPRFDCV
+            LKLVHHYMPPPGAPSFPSPPTEPSSEVPEQPSAQPLPGSPPRRAYYIYSGGEKIPLVLSR
+            PLSSNVATLQHLCRKTVNGHLDSYEKVTQLPGPIREFLDQYDAPL
+NTSEQ       678
+            atggtcacccacagcaagtttcccgccgccgggatgagccgccccctggacaccagcctg
+            cgcctcaagaccttcagctccaagagcgagtaccagctggtggtgaacgcagtgcgcaag
+            ctgcaggagagcggcttctactggagcgcagtgaccggcggcgaggcgaacctgctgctc
+            agtgccgagcccgccggcacctttctgatccgcgacagctcggaccagcgccacttcttc
+            acgctcagcgtcaagacccagtctgggaccaagaacctgcgcatccagtgtgaggggggc
+            agcttctctctgcagagcgatccccggagcacgcagcccgtgccccgcttcgactgcgtg
+            ctcaagctggtgcaccactacatgccgccccctggagccccctccttcccctcgccacct
+            actgaaccctcctccgaggtgcccgagcagccgtctgcccagccactccctgggagtccc
+            cccagaagagcctattacatctactccgggggcgagaagatccccctggtgttgagccgg
+            cccctctcctccaacgtggccactcttcagcatctctgtcggaagaccgtcaacggccac
+            ctggactcctatgagaaagtcacccagctgccggggcccattcgggagttcctggaccag
+            tacgatgccccgctttaa
+///

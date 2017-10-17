@@ -1,0 +1,91 @@
+ENTRY       920               CDS       T01001
+NAME        CD4, CD4mut
+DEFINITION  (RefSeq) CD4 molecule
+ORTHOLOGY   K06454  T-cell surface glycoprotein CD4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04514  Cell adhesion molecules (CAMs)
+            hsa04612  Antigen processing and presentation
+            hsa04640  Hematopoietic cell lineage
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa05340  Primary immunodeficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signaling molecules and interaction
+               04514 Cell adhesion molecules (CAMs)
+                920 (CD4)
+             Organismal Systems
+              Immune system
+               04640 Hematopoietic cell lineage
+                920 (CD4)
+               04612 Antigen processing and presentation
+                920 (CD4)
+               04660 T cell receptor signaling pathway
+                920 (CD4)
+               04658 Th1 and Th2 cell differentiation
+                920 (CD4)
+               04659 Th17 cell differentiation
+                920 (CD4)
+             Human Diseases
+              Immune diseases
+               05340 Primary immunodeficiency
+                920 (CD4)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Immune system
+               MHC
+                MHC2; major histocompatibility complex, class II [KO:K06752]
+                 920 (CD4)
+            CD molecules [BR:hsa04090]
+             Proteins
+              920 (CD4)
+POSITION    12p13.31
+MOTIF       Pfam: CD4-extracel C2-set ig Tcell_CD4_C V-set I-set Ig_3 Ig_2 Receptor_2B4 Ig_5 Herpes_gE P_proprotein
+DBLINKS     NCBI-GeneID: 920
+            NCBI-ProteinID: NP_000607
+            OMIM: 186940
+            HGNC: 1678
+            Ensembl: ENSG00000010610
+            Vega: OTTHUMG00000168514
+            Pharos: P01730(Tchem)
+            UniProt: P01730 B4DT49
+STRUCTURE   PDB: 4H8W 2NY1 2NXY 2NY2 2NY3 2NY4 1CDY 2NXZ 3S5L 3O2D 2NY0
+                 1RZJ 1G9M 3CD4 1CDH 3S4S 2NY5 1GC1 1CDJ 3JWD 1CDU 2NY6
+                 1RZK 1G9N 1CDI 5CAY 4P9H 4JM2 4R2G 2QAD 2B4C 3LQA 3REB
+                 3JWO 4Q6I 5VN3 1WIO 3T0E 1WIP 4R4H 1JL4 4RQS 1WIQ 5U1F
+                 5THR 5A7X 5A8H 3JCB 3JCC 3J70 1Q68
+AASEQ       458
+            MNRGVPFRHLLLVLQLALLPAATQGKKVVLGKKGDTVELTCTASQKKSIQFHWKNSNQIK
+            ILGNQGSFLTKGPSKLNDRADSRRSLWDQGNFPLIIKNLKIEDSDTYICEVEDQKEEVQL
+            LVFGLTANSDTHLLQGQSLTLTLESPPGSSPSVQCRSPRGKNIQGGKTLSVSQLELQDSG
+            TWTCTVLQNQKKVEFKIDIVVLAFQKASSIVYKKEGEQVEFSFPLAFTVEKLTGSGELWW
+            QAERASSSKSWITFDLKNKEVSVKRVTQDPKLQMGKKLPLHLTLPQALPQYAGSGNLTLA
+            LEAKTGKLHQEVNLVVMRATQLQKNLTCEVWGPTSPKLMLSLKLENKEAKVSKREKAVWV
+            LNPEAGMWQCLLSDSGQVLLESNIKVLPTWSTPVQPMALIVLGGVAGLLLFIGLGIFFCV
+            RCRHRRRQAERMSQIKRLLSEKKTCQCPHRFQKTCSPI
+NTSEQ       1377
+            atgaaccggggagtcccttttaggcacttgcttctggtgctgcaactggcgctcctccca
+            gcagccactcagggaaagaaagtggtgctgggcaaaaaaggggatacagtggaactgacc
+            tgtacagcttcccagaagaagagcatacaattccactggaaaaactccaaccagataaag
+            attctgggaaatcagggctccttcttaactaaaggtccatccaagctgaatgatcgcgct
+            gactcaagaagaagcctttgggaccaaggaaactttcccctgatcatcaagaatcttaag
+            atagaagactcagatacttacatctgtgaagtggaggaccagaaggaggaggtgcaattg
+            ctagtgttcggattgactgccaactctgacacccacctgcttcaggggcagagcctgacc
+            ctgaccttggagagcccccctggtagtagcccctcagtgcaatgtaggagtccaaggggt
+            aaaaacatacagggggggaagaccctctccgtgtctcagctggagctccaggatagtggc
+            acctggacatgcactgtcttgcagaaccagaagaaggtggagttcaaaatagacatcgtg
+            gtgctagctttccagaaggcctccagcatagtctataagaaagagggggaacaggtggag
+            ttctccttcccactcgcctttacagttgaaaagctgacgggcagtggcgagctgtggtgg
+            caggcggagagggcttcctcctccaagtcttggatcacctttgacctgaagaacaaggaa
+            gtgtctgtaaaacgggttacccaggaccctaagctccagatgggcaagaagctcccgctc
+            cacctcaccctgccccaggccttgcctcagtatgctggctctggaaacctcaccctggcc
+            cttgaagcgaaaacaggaaagttgcatcaggaagtgaacctggtggtgatgagagccact
+            cagctccagaaaaatttgacctgtgaggtgtggggacccacctcccctaagctgatgctg
+            agtttgaaactggagaacaaggaggcaaaggtctcgaagcgggagaaggcggtgtgggtg
+            ctgaaccctgaggcggggatgtggcagtgtctgctgagtgactcgggacaggtcctgctg
+            gaatccaacatcaaggttctgcccacatggtccaccccggtgcagccaatggccctgatt
+            gtgctggggggcgtcgccggcctcctgcttttcattgggctaggcatcttcttctgtgtc
+            aggtgccggcaccgaaggcgccaagcagagcggatgtctcagatcaagagactcctcagt
+            gagaagaagacctgccagtgtcctcaccggtttcagaagacatgtagccccatttga
+///

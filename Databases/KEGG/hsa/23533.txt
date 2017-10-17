@@ -1,0 +1,124 @@
+ENTRY       23533             CDS       T01001
+NAME        PIK3R5, F730038I15Rik, FOAP-2, P101-PI3K, p101
+DEFINITION  (RefSeq) phosphoinositide-3-kinase regulatory subunit 5
+ORTHOLOGY   K21290  phosphoinositide-3-kinase regulatory subunit 5/6
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04022  cGMP-PKG signaling pathway
+            hsa04072  Phospholipase D signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04261  Adrenergic signaling in cardiomyocytes
+            hsa04371  Apelin signaling pathway
+            hsa04611  Platelet activation
+            hsa04725  Cholinergic synapse
+            hsa04921  Oxytocin signaling pathway
+            hsa05145  Toxoplasmosis
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+DISEASE     H00848  Ataxia with ocular apraxia (AOA)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04371 Apelin signaling pathway
+                23533 (PIK3R5)
+               04072 Phospholipase D signaling pathway
+                23533 (PIK3R5)
+               04022 cGMP - PKG signaling pathway
+                23533 (PIK3R5)
+               04151 PI3K-Akt signaling pathway
+                23533 (PIK3R5)
+             Organismal Systems
+              Immune system
+               04611 Platelet activation
+                23533 (PIK3R5)
+              Endocrine system
+               04921 Oxytocin signaling pathway
+                23533 (PIK3R5)
+              Circulatory system
+               04261 Adrenergic signaling in cardiomyocytes
+                23533 (PIK3R5)
+              Nervous system
+               04725 Cholinergic synapse
+                23533 (PIK3R5)
+             Human Diseases
+              Infectious diseases
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                23533 (PIK3R5)
+               05145 Toxoplasmosis
+                23533 (PIK3R5)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Rab GTPases and associated proteins
+               Rab associated proteins
+                23533 (PIK3R5)
+POSITION    17p13.1
+MOTIF       Pfam: PI3K_1B_p101 DUF2284 Tub_N ApoC-I
+DBLINKS     NCBI-GeneID: 23533
+            NCBI-ProteinID: NP_001136105
+            OMIM: 611317
+            HGNC: 30035
+            Ensembl: ENSG00000141506
+            Vega: OTTHUMG00000108197
+            Pharos: Q8WYR1(Tbio)
+            UniProt: Q8WYR1 L7RT34
+AASEQ       880
+            MQPGATTCTEDRIQHALERCLHGLSLSRRSTSWSAGLCLNCWSLQELVSRDPGHFLILLE
+            QILQKTREVQEKGTYDLLTPLALLFYSTVLCTPHFPPDSDLLLKAASTYHRFLTWPVPYC
+            SICQELLTFIDAELKAPGISYQRLVRAEQGLPIRSHRSSTVTVLLLNPVEVQAEFLAVAN
+            KLSTPGHSPHSAYTTLLLHAFQATFGAHCDVPGLHCRLQAKTLAELEDIFTETAEAQELA
+            SGIGDAAEARRWLRTKLQAVGEKAGFPGVLDTAKPGKLHTIPIPVARCYTYSWSQDSFDI
+            LQEILLKEQELLQPGILGDDEEEEEEEEEVEEDLETDGHCAERDSLLSTSSLASHDSTLS
+            LASSQASGPALSRHLLTSFVSGLSDGMDSGYVEDSEESSSEWPWRRGSQERRGHRRPGQK
+            FIRIYKLFKSTSQLVLRRDSRSLEGSSDTALPLRRAGSLCSPLDEPVSPPSRAQRSRSLP
+            QPKLGTQLPSWLLAPASRPQRRRPFLSGDEDPKASTLRVVVFGSDRISGKVARAYSNLRR
+            LENNRPLLTRFFKLQFFYVPVKRSHGTSPGACPPPRSQTPSPPTDSPRHASPGELGTTPW
+            EESTNDISHYLGMLDPWYERNVLGLMHLPPEVLCQQSLKAEAQALEGSPTQLPILADMLL
+            YYCRFAARPVLLQVYQTELTFITGEKTTEIFIHSLELGHSAATRAIKASGPGSKRLGIDG
+            DREAVPLTLQIIYSKGAISGRSRWSNLEKVCTSVNLNKACRKQEELDSSMEALTLNLTEV
+            VKRQNSKSKKGFNQISTSQIKVDKVQIIGSNSCPFAVCLDQDERKILQSVVRCEVSPCYK
+            PEKSDLSSPPQTPPDLPAQAAPDLCSLLCLPIMTFSGALP
+NTSEQ       2643
+            atgcagccaggggccacgacatgcacggaggaccgcatccagcatgccctggaacgctgc
+            ctgcatggactcagcctcagccgccgctccacctcctggtcagctgggctgtgtctgaac
+            tgctggagcctgcaggagctggtcagcagggacccgggccacttccttatcctccttgag
+            cagatcctgcagaagacccgagaggtccaggagaagggcacctacgacctgctcaccccg
+            ctggccctgctcttctattccactgttctttgtacaccacacttcccaccagactcggat
+            ctccttctgaaggcagccagcacctaccaccggttcctgacctggcctgttccttactgc
+            agcatctgccaggagctgctcaccttcattgatgctgaactcaaggccccagggatctcc
+            taccagagactggtgagggctgagcagggcctgcccatcaggagtcaccgcagctccacc
+            gtcaccgtgctgctgctgaacccagtggaagtgcaggccgagttccttgctgtagccaat
+            aagctgagtacgcccggacactcgcctcacagtgcctacaccaccctgctcctgcacgcc
+            ttccaggccacctttggggcccactgtgacgtcccgggcctgcactgcaggctacaggcc
+            aagaccctggcagagcttgaggacatcttcacggagaccgcagaggcacaggagctggca
+            tctggcatcggggatgctgcagaggcccggcggtggctcaggaccaagctgcaggcggtg
+            ggagaaaaagctggcttccctggggtgttagacactgcaaaaccagggaagctccacacc
+            atccccatccctgtcgccaggtgctacacctacagctggagccaggacagctttgacatc
+            ctgcaggaaatcctgctcaaggaacaggagctactccagccagggatcctgggagatgat
+            gaagaggaggaagaggaggaggaggaggtggaggaggacttggaaactgacgggcactgt
+            gccgagagagattccctgctctccaccagctctttggcgtcccatgactccaccttgtcc
+            cttgcatcctcccaggcctcggggccggccctctcgcgccatctgctgacttcctttgtc
+            tcaggcctctctgatggcatggacagcggctacgtggaggacagcgaggagagctcctcc
+            gagtggccttggaggcgtggcagccaggaacgccgaggccaccgcaggcctgggcagaag
+            ttcatcaggatctataaactcttcaagagcaccagccagctggtactgcggagggactct
+            cggagcctggagggcagctcggacacggccctgcccctgaggcgggcagggagcctctgc
+            agccccctggacgaaccagtatcacccccttcccgggcccagcgctcccgctccctgccc
+            cagcccaaactcggtacccagctgcccagctggcttctggcccctgcttcacgcccccag
+            cgccgccgccccttcctgagtggagatgaggatcccaaggcttccacgctacgtgttgtg
+            gtctttggctccgatcggatttcagggaaggtggctcgggcgtacagcaaccttcggcgg
+            ctggagaacaatcgcccactcctcacacggttcttcaaacttcagttcttctacgtgcct
+            gtgaagcgaagtcatgggaccagccctggtgcctgtccaccccctcggagccagacgccc
+            tcacccccgacagactcccctaggcacgccagccctggagagctgggcaccaccccatgg
+            gaggagagcaccaatgacatctcccactacctcggcatgctggacccctggtatgagcgc
+            aatgtactgggcctcatgcacctgccccctgaagtcctgtgccagcagtccctgaaggct
+            gaagcccaggccctggagggctccccaacccagctgcccatcctggctgacatgctactc
+            tactactgccgctttgccgccagaccggtgctgctgcaagtctatcagaccgagctgacc
+            ttcatcactggggagaagacgacagagatcttcatccactccttggagctgggtcactcc
+            gctgccacacgtgccatcaaggcgtcaggtcctggcagcaagcggctgggcatcgatggc
+            gaccgggaggctgttcctctaacactacagattatttacagcaagggggccatcagtgga
+            cgaagtcgctggagcaacctggagaaggtctgtacctccgtgaacctcaacaaggcctgc
+            cggaagcaggaggagctggattccagcatggaggccctgacgctaaacctgacagaagtg
+            gtgaaaaggcagaactccaaatccaagaagggctttaaccagattagcacatcgcagatc
+            aaagtggacaaggtgcagatcatcggctccaacagctgcccctttgctgtgtgcctggac
+            caggatgagagaaagatcctgcagagtgtagtcagatgtgaggtctcaccgtgctacaag
+            ccagagaagagcgacctctcctcaccaccccagacgcctcctgacctgccggcccaggcc
+            gcacctgatctctgctcccttctctgcctgcccatcatgactttcagtggagctctgccc
+            tag
+///

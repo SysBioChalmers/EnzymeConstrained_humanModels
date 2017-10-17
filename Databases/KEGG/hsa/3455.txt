@@ -1,0 +1,122 @@
+ENTRY       3455              CDS       T01001
+NAME        IFNAR2, IFN-R, IFN-alpha-REC, IFNABR, IFNARB, IMD45
+DEFINITION  (RefSeq) interferon alpha and beta receptor subunit 2
+ORTHOLOGY   K05131  interferon receptor 2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04217  Necroptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04630  Jak-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa05160  Hepatitis C
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+DRUG_TARGET Albinterferon alfa-2b: D08844
+            Interferon alfa natural: D03305
+            Interferon alfa-2a: D00745
+            Interferon alfa-2b: D02745
+            Interferon alfa-n1: D04552
+            Interferon alfacon-1: D02744
+            Interferon beta natural: D03304
+            Interferon beta-1a: D04554
+            Interferon beta-1b: D00746
+            Peginterferon alfa-2a: D02747
+            Peginterferon alfa-2b: D02748
+            Peginterferon beta-1a: D10483
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3455 (IFNAR2)
+               04151 PI3K-Akt signaling pathway
+                3455 (IFNAR2)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3455 (IFNAR2)
+             Cellular Processes
+              Cell growth and death
+               04217 Necroptosis
+                3455 (IFNAR2)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                3455 (IFNAR2)
+               04621 NOD-like receptor signaling pathway
+                3455 (IFNAR2)
+               04650 Natural killer cell mediated cytotoxicity
+                3455 (IFNAR2)
+              Development
+               04380 Osteoclast differentiation
+                3455 (IFNAR2)
+             Human Diseases
+              Infectious diseases
+               05162 Measles
+                3455 (IFNAR2)
+               05164 Influenza A
+                3455 (IFNAR2)
+               05160 Hepatitis C
+                3455 (IFNAR2)
+               05168 Herpes simplex infection
+                3455 (IFNAR2)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                3455 (IFNAR2)
+               05165 Human papillomavirus infection
+                3455 (IFNAR2)
+            Cytokine receptors [BR:hsa04050]
+             Class II cytokine receptor (interferon/IL-10 family receptor)
+              3455 (IFNAR2)
+POSITION    21q22.11
+MOTIF       Pfam: Tissue_fac Interfer-bind
+DBLINKS     NCBI-GeneID: 3455
+            NCBI-ProteinID: NP_001276054
+            OMIM: 602376
+            HGNC: 5433
+            Ensembl: ENSG00000159110
+            Vega: OTTHUMG00000065127
+            Pharos: P48551(Tclin)
+            UniProt: P48551
+STRUCTURE   PDB: 3S9D 3S8W 3SE4 3SE3 2LAG 2KZ1 2HYM 1N6U 1N6V
+AASEQ       515
+            MLLSQNAFIFRSLNLVLMVYISLVFGISYDSPDYTDESCTFKISLRNFRSILSWELKNHS
+            IVPTHYTLLYTIMSKPEDLKVVKNCANTTRSFCDLTDEWRSTHEAYVTVLEGFSGNTTLF
+            SCSHNFWLAIDMSFEPPEFEIVGFTNHINVMVKFPSIVEEELQFDLSLVIEEQSEGIVKK
+            HKPEIKGNMSGNFTYIIDKLIPNTNYCVSVYLEHSDEQAVIKSPLKCTLLPPGQESESAE
+            SAKIGGIITVFLIALVLTSTIVTLKWIGYICLRNSLPKVLNFHNFLAWPFPNLPPLEAMD
+            MVEVIYINRKKKVWDYNYDDESDSDTEAAPRTSGGGYTMHGLTVRPLGQASATSTESQLI
+            DPESEEEPDLPEVDVELPTMPKDSPQQLELLSGPCERRKSPLQDPFPEEDYSSTEGSGGR
+            ITFNVDLNSVFLRVLDDEDSDDLEAPLMLSSHLEEMVDPEDPDNVQSNHLLASGEGTQPT
+            FPSPSSEGLWSEDAPSDQSDTSESDVDLGDGYIMR
+NTSEQ       1548
+            atgcttttgagccagaatgccttcatcttcagatcacttaatttggttctcatggtgtat
+            atcagcctcgtgtttggtatttcatatgattcgcctgattacacagatgaatcttgcact
+            ttcaagatatcattgcgaaatttccggtccatcttatcatgggaattaaaaaaccactcc
+            attgtaccaactcactatacattgctgtatacaatcatgagtaaaccagaagatttgaag
+            gtggttaagaactgtgcaaataccacaagatcattttgtgacctcacagatgagtggaga
+            agcacacacgaggcctatgtcaccgtcctagaaggattcagcgggaacacaacgttgttc
+            agttgctcacacaatttctggctggccatagacatgtcttttgaaccaccagagtttgag
+            attgttggttttaccaaccacattaatgtgatggtgaaatttccatctattgttgaggaa
+            gaattacagtttgatttatctctcgtcattgaagaacagtcagagggaattgttaagaag
+            cataaacccgaaataaaaggaaacatgagtggaaatttcacctatatcattgacaagtta
+            attccaaacacgaactactgtgtatctgtttatttagagcacagtgatgagcaagcagta
+            ataaagtctcccttaaaatgcaccctccttccacctggccaggaatcagaatcagcagaa
+            tctgccaaaataggaggaataattactgtgtttttgatagcattggtcttgacaagcacc
+            atagtgacactgaaatggattggttatatatgcttaagaaatagcctccccaaagtcttg
+            aattttcataactttttagcctggccatttcctaacctgccaccgttggaagccatggat
+            atggtggaggtcatttacatcaacagaaagaagaaagtgtgggattataattatgatgat
+            gaaagtgatagcgatactgaggcagcgcccaggacaagtggcggtggctataccatgcat
+            ggactgactgtcaggcctctgggtcaggcctctgccacctctacagaatcccagttgata
+            gacccggagtccgaggaggagcctgacctgcctgaggttgatgtggagctccccacgatg
+            ccaaaggacagccctcagcagttggaactcttgagtgggccctgtgagaggagaaagagt
+            ccactccaggacccttttcccgaagaggactacagctccacggaggggtctgggggcaga
+            attaccttcaatgtggacttaaactctgtgtttttgagagttcttgatgacgaggacagt
+            gacgacttagaagcccctctgatgctatcgtctcatctggaagagatggttgacccagag
+            gatcctgataatgtgcaatcaaaccatttgctggccagcggggaagggacacagccaacc
+            tttcccagcccctcttcagagggcctgtggtccgaagatgctccatctgatcaaagtgac
+            acttctgagtcagatgttgaccttggggatggttatataatgagatga
+///

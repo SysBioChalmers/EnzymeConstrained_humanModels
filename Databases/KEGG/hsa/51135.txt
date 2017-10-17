@@ -1,0 +1,106 @@
+ENTRY       51135             CDS       T01001
+NAME        IRAK4, IPD1, IRAK-4, NY-REN-64, REN64
+DEFINITION  (RefSeq) interleukin 1 receptor associated kinase 4
+ORTHOLOGY   K04733  interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04722  Neurotrophin signaling pathway
+            hsa05133  Pertussis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05145  Toxoplasmosis
+            hsa05152  Tuberculosis
+            hsa05162  Measles
+            hsa05164  Influenza A
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00096  Defects of toll-like receptor signaling
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                51135 (IRAK4)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                51135 (IRAK4)
+               04621 NOD-like receptor signaling pathway
+                51135 (IRAK4)
+              Nervous system
+               04722 Neurotrophin signaling pathway
+                51135 (IRAK4)
+             Human Diseases
+              Infectious diseases
+               05133 Pertussis
+                51135 (IRAK4)
+               05152 Tuberculosis
+                51135 (IRAK4)
+               05162 Measles
+                51135 (IRAK4)
+               05164 Influenza A
+                51135 (IRAK4)
+               05145 Toxoplasmosis
+                51135 (IRAK4)
+               05140 Leishmaniasis
+                51135 (IRAK4)
+               05142 Chagas disease (American trypanosomiasis)
+                51135 (IRAK4)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 51135 (IRAK4)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: TKL group
+              IRAK family
+               51135 (IRAK4)
+POSITION    12q12
+MOTIF       Pfam: Pkinase_Tyr Pkinase Haspin_kinase Death
+DBLINKS     NCBI-GeneID: 51135
+            NCBI-ProteinID: NP_001107654
+            OMIM: 606883
+            HGNC: 17967
+            Ensembl: ENSG00000198001
+            Vega: OTTHUMG00000169425
+            Pharos: Q9NWZ3(Tchem)
+            UniProt: Q9NWZ3 Q69FE3 B4E359
+STRUCTURE   PDB: 5UIT 2OIB 2NRU 5UIU 4Y73 2NRY 4RMZ 4ZTN 5T1S 2OID 4YO6
+                 5T1T 4ZTL 2OIC 2O8Y 5UIS 5UIQ 5UIR 4YP8 4U97 4ZTM 5KX8
+                 4XS2 5KX7 4U9A 3MOP
+AASEQ       460
+            MNKPITPSTYVRCLNVGLIRKLSDFIDPQEGWKKLAVAIKKPSGDDRYNQFHIRRFEALL
+            QTGKSPTSELLFDWGTTNCTVGDLVDLLIQNEFFAPASLLLPDAVPKTANTLPSKEAITV
+            QQKQMPFCDKDRTLMTPVQNLEQSYMPPDSSSPENKSLEVSDTRFHSFSFYELKNVTNNF
+            DERPISVGGNKMGEGGFGVVYKGYVNNTTVAVKKLAAMVDITTEELKQQFDQEIKVMAKC
+            QHENLVELLGFSSDGDDLCLVYVYMPNGSLLDRLSCLDGTPPLSWHMRCKIAQGAANGIN
+            FLHENHHIHRDIKSANILLDEAFTAKISDFGLARASEKFAQTVMTSRIVGTTAYMAPEAL
+            RGEITPKSDIYSFGVVLLEIITGLPAVDEHREPQLLLDIKEEIEDEEKTIEDYIDKKMND
+            ADSTSVEAMYSVASQCLHEKKNKRPDIKKVQQLLQEMTAS
+NTSEQ       1383
+            atgaacaaacccataacaccatcaacatatgtgcgctgcctcaatgttggactaattagg
+            aagctgtcagattttattgatcctcaagaaggatggaagaagttagctgtagctattaaa
+            aaaccatctggtgatgatagatacaatcagtttcacataaggagatttgaagcattactt
+            caaactggaaaaagtcccacttctgaattactgtttgactggggcaccacaaattgcaca
+            gttggtgatcttgtggatcttttgatccaaaatgaattttttgctcctgcgagtcttttg
+            ctcccagatgctgttcccaaaactgctaatacactaccttctaaagaagctataacagtt
+            cagcaaaaacagatgcctttctgtgacaaagacaggacattgatgacacctgtgcagaat
+            cttgaacaaagctatatgccacctgactcctcaagtccagaaaataaaagtttagaagtt
+            agtgatacacgttttcacagtttttcattttatgaattgaagaatgtcacaaataacttt
+            gatgaacgacccatttctgttggtggtaataaaatgggagagggaggatttggagttgta
+            tataaaggctacgtaaataacacaactgtggcagtgaagaagcttgcagcaatggttgac
+            attactactgaagaactgaaacagcagtttgatcaagaaataaaagtaatggcaaagtgt
+            caacatgaaaacttagtagaactacttggtttctcaagtgatggagatgacctctgctta
+            gtatatgtttacatgcctaatggttcattgctagacagactctcttgcttggatggtact
+            ccaccactttcttggcacatgagatgcaagattgctcagggtgcagctaatggcatcaat
+            tttctacatgaaaatcatcatattcatagagatattaaaagtgcaaatatcttactggat
+            gaagcttttactgctaaaatatctgactttggccttgcacgggcttctgagaagtttgcc
+            cagacagtcatgactagcagaattgtgggaacaacagcttatatggcaccagaagctttg
+            cgtggagaaataacacccaaatctgatatttacagctttggtgtggttttactagaaata
+            ataactggacttccagctgtggatgaacaccgtgaacctcagttattgctagatattaaa
+            gaagaaattgaagatgaagaaaagacaattgaagattatattgataaaaagatgaatgat
+            gctgattccacttcagttgaagctatgtactctgttgctagtcaatgtctgcatgaaaag
+            aaaaataagagaccagacattaagaaggttcaacagctgctgcaagagatgacagcttct
+            taa
+///

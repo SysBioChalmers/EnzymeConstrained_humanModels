@@ -1,0 +1,81 @@
+ENTRY       3033              CDS       T01001
+NAME        HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD
+DEFINITION  (RefSeq) hydroxyacyl-CoA dehydrogenase
+ORTHOLOGY   K00022  3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+DISEASE     H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                3033 (HADH)
+              Carbohydrate metabolism
+               00650 Butanoate metabolism
+                3033 (HADH)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                3033 (HADH)
+               00071 Fatty acid degradation
+                3033 (HADH)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                3033 (HADH)
+               00310 Lysine degradation
+                3033 (HADH)
+               00380 Tryptophan metabolism
+                3033 (HADH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.35  3-hydroxyacyl-CoA dehydrogenase
+                 3033 (HADH)
+POSITION    4q25
+MOTIF       Pfam: 3HCDH_N 3HCDH Pyr_redox_2 Pyr_redox AlaDh_PNT_C NAD_binding_2 NAD_Gly3P_dh_N UDPG_MGDP_dh_N NAD_binding_7 F420_oxidored 2-Hacid_dh_C NAD_binding_8 DAO Phage_T4_gp36 XdhC_C Sacchrp_dh_NADP GIDA FAD_oxidored
+DBLINKS     NCBI-GeneID: 3033
+            NCBI-ProteinID: NP_005318
+            OMIM: 601609
+            HGNC: 4799
+            Ensembl: ENSG00000138796
+            Vega: OTTHUMG00000131810
+            Pharos: Q16836(Tbio)
+            UniProt: Q16836
+STRUCTURE   PDB: 1F0Y 3RQS 3HAD 1M76 1IL0 2HDH 1M75 1F14 1F17 1F12 1LSJ
+                 1LSO
+AASEQ       314
+            MAFVTRQFMRSVSSSSTASASAKKIIVKHVTVIGGGLMGAGIAQVAAATGHTVVLVDQTE
+            DILAKSKKGIEESLRKVAKKKFAENPKAGDEFVEKTLSTIATSTDAASVVHSTDLVVEAI
+            VENLKVKNELFKRLDKFAAEHTIFASNTSSLQITSIANATTRQDRFAGLHFFNPVPVMKL
+            VEVIKTPMTSQKTFESLVDFSKALGKHPVSCKDTPGFIVNRLLVPYLMEAIRLYERGDAS
+            KEDIDTAMKLGAGYPMGPFELLDYVGLDTTKFIVDGWHEMDAENPLHQPSPSLNKLVAEN
+            KFGKKTGEGFYKYK
+NTSEQ       945
+            atggccttcgtcaccaggcagttcatgcgttccgtgtcctcctcgtccaccgcctcggcc
+            tcggccaagaagataatcgtcaagcacgtgacggtcatcggcggcgggctgatgggcgcc
+            ggcattgcccaggttgctgcagcaactggtcacacagtagtgttggtagaccagacagag
+            gacatcctggcaaaatccaaaaagggaattgaggaaagccttaggaaagtggcaaagaag
+            aagtttgcagaaaaccctaaggccggcgatgaatttgtggagaagaccctgagcaccata
+            gcgaccagcacggatgcagcctccgttgtccacagcacagacttggtggtggaagccatc
+            gtggagaatctgaaggtgaaaaacgagctcttcaaaaggctggacaagtttgctgctgaa
+            catacaatctttgccagcaacacttcctccttgcagattacaagcatagctaatgccacc
+            accagacaagaccgattcgctggcctccatttcttcaacccagtgcctgtcatgaaactt
+            gtggaggtcattaaaacaccaatgaccagccagaagacatttgaatctttggtagacttt
+            agcaaagccctaggaaagcatcctgtttcttgcaaggacactcctgggtttattgtgaac
+            cgcctcctggttccatacctcatggaagcaatcaggctgtatgaacgaggtgacgcatcc
+            aaagaagacattgacactgctatgaaattaggagccggttaccccatgggcccatttgag
+            cttctagattatgtcggactggatactacgaagttcatcgtggatgggtggcatgaaatg
+            gatgcagagaacccattacatcagcccagcccatccttaaataagctggtagcagagaac
+            aagttcggcaagaagactggagaaggattttacaaatacaagtga
+///

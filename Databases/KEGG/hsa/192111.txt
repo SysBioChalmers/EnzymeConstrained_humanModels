@@ -1,0 +1,60 @@
+ENTRY       192111            CDS       T01001
+NAME        PGAM5, BXLBV68
+DEFINITION  (RefSeq) PGAM family member 5, mitochondrial serine/threonine protein phosphatase
+ORTHOLOGY   K15637  serine/threonine-protein phosphatase PGAM5 [EC:3.1.3.16]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04137  Mitophagy - animal
+            hsa04217  Necroptosis
+            hsa04668  TNF signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                192111 (PGAM5)
+             Cellular Processes
+              Transport and catabolism
+               04137 Mitophagy - animal
+                192111 (PGAM5)
+              Cell growth and death
+               04217 Necroptosis
+                192111 (PGAM5)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 192111 (PGAM5)
+POSITION    12q24.33
+MOTIF       Pfam: His_Phos_1
+DBLINKS     NCBI-GeneID: 192111
+            NCBI-ProteinID: NP_001164014
+            OMIM: 614939
+            HGNC: 28763
+            Ensembl: ENSG00000247077
+            Vega: OTTHUMG00000168021
+            Pharos: Q96HS1(Tbio)
+            UniProt: Q96HS1
+STRUCTURE   PDB: 3MXO 3O0T 5MUF
+AASEQ       289
+            MAFRQALQLAACGLAGGSAAVLFSAVAVGKPRAGGDAEPRPAEPPAWAGGARPGPGVWDP
+            NWDRREPLSLINVRKRNVESGEEELASKLDHYKAKATRHIFLIRHSQYHVDGSLEKDRTL
+            TPLGREQAELTGLRLASLGLKFNKIVHSSMTRAIETTDIISRHLPGVCKVSTDLLREGAP
+            IEPDPPVSHWKPEAVQYYEDGARIEAAFRNYIHRADARQEEDSYEIFICHANVIRYIVCR
+            ALQFPPEGWLRLSLNNGSITHLVIRPNGRVALRTLGDTGFMPPDKITRS
+NTSEQ       870
+            atggcgttccggcaggcgctgcagctggcggcctgcgggctggccgggggctcggccgcc
+            gtgctcttctcggccgtggcggtagggaagccgcgcgcaggcggggacgcggagccacgc
+            ccggctgagccgccggcctgggcggggggcgcgcggccgggccccggtgtctgggacccc
+            aactgggacaggcgagaaccactgtctctgatcaacgtgcggaagaggaacgtggaatct
+            ggggaagaagagctggcgtccaagctggaccactacaaagccaaggccacgcggcacatc
+            ttcctcatcaggcattcccagtaccacgtggatggctccctggagaaggaccgcactctg
+            accccgctgggtcgggagcaggctgaactcactgggctccgcctggcaagcttggggttg
+            aagtttaataaaatcgtccattcgtctatgacgcgcgccatagagaccaccgatatcatc
+            agccggcacctgccaggcgtctgcaaagtcagcacagatctgctgcgggaaggcgccccc
+            atcgagccagacccgcccgtgtctcattggaagccggaagctgtgcagtattacgaagac
+            ggagcccggatcgaggccgccttccggaactacatccaccgcgcagatgccaggcaggag
+            gaggacagttacgagatcttcatctgtcacgccaacgtcatccgctacatcgtgtgcaga
+            gcactgcagtttcctcctgaaggctggctccggctctccctcaataatggcagcatcacc
+            cacctggtgatccgacccaacggccgagttgcgctcaggaccctcggggacacggggttc
+            atgcctcccgacaagatcactcgatcctga
+///

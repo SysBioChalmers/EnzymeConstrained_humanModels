@@ -1,0 +1,65 @@
+ENTRY       3276              CDS       T01001
+NAME        PRMT1, ANM1, HCP1, HRMT1L2, IR1B4
+DEFINITION  (RefSeq) protein arginine methyltransferase 1
+ORTHOLOGY   K11434  type I protein arginine methyltransferase [EC:2.1.1.319]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04922  Glucagon signaling pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                3276 (PRMT1)
+             Organismal Systems
+              Endocrine system
+               04922 Glucagon signaling pathway
+                3276 (PRMT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.319  type I protein arginine methyltransferase
+                 3276 (PRMT1)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                PRMTs (protein arginine metyltransferases)
+                 3276 (PRMT1)
+POSITION    19q13.33
+MOTIF       Pfam: Methyltransf_25 PrmA Methyltransf_11 Methyltransf_23 Methyltransf_31 MTS Methyltransf_9 Met_10 DOT1 CMAS PRMT5 PCMT Methyltransf_16 Methyltransf_12 GidB
+DBLINKS     NCBI-GeneID: 3276
+            NCBI-ProteinID: NP_938074
+            OMIM: 602950
+            HGNC: 5187
+            Ensembl: ENSG00000126457
+            Vega: OTTHUMG00000167568
+            Pharos: Q99873(Tchem)
+            UniProt: Q99873
+AASEQ       353
+            MAAAEAANCIMEVSCGQAESSEKPNAEDMTSKDYYFDSYAHFGIHEEMLKDEVRTLTYRN
+            SMFHNRHLFKDKVVLDVGSGTGILCMFAAKAGARKVIGIECSSISDYAVKIVKANKLDHV
+            VTIIKGKVEEVELPVEKVDIIISEWMGYCLFYESMLNTVLYARDKWLAPDGLIFPDRATL
+            YVTAIEDRQYKDYKIHWWENVYGFDMSCIKDVAIKEPLVDVVDPKQLVTNACLIKEVDIY
+            TVKVEDLTFTSPFCLQVKRNDYVHALVAYFNIEFTRCHKRTGFSTSPESPYTHWKQTVFY
+            MEDYLTVKTGEEIFGTIGMRPNAKNNRDLDFTIDLDFKGQLCELSCSTDYRMR
+NTSEQ       1062
+            atggcggcagccgaggccgcgaactgcatcatggaggtgtcctgtggccaggcggaaagc
+            agtgagaagcccaacgctgaggacatgacatccaaagattactactttgactcctacgca
+            cactttggcatccacgaggagatgctgaaggacgaggtgcgcaccctcacttaccgcaac
+            tccatgtttcataaccggcacctcttcaaggacaaggtggtgctggacgtcggctcgggc
+            accggcatcctctgcatgtttgctgccaaggccggggcccgcaaggtcatcgggatcgag
+            tgttccagtatctctgattatgcggtgaagatcgtcaaagccaacaagttagaccacgtg
+            gtgaccatcatcaaggggaaggtggaggaggtggagctcccagtggagaaggtggacatc
+            atcatcagcgagtggatgggctactgcctcttctacgagtccatgctcaacaccgtgctc
+            tatgcccgggacaagtggctggcgcccgatggcctcatcttcccagaccgggccacgctg
+            tatgtgacggccatcgaggaccggcagtacaaagactacaagatccactggtgggagaac
+            gtgtatggcttcgacatgtcttgcatcaaagatgtggccattaaggagcccctagtggat
+            gtcgtggaccccaaacagctggtcaccaacgcctgcctcataaaggaggtggacatctat
+            accgtcaaggtggaagacctgaccttcacctccccgttctgcctgcaagtgaagcggaat
+            gactacgtgcacgccctggtggcctacttcaacatcgagttcacacgctgccacaagagg
+            accggcttctccaccagccccgagtccccgtacacgcactggaagcagacggtgttctac
+            atggaggactacctgaccgtgaagacgggcgaggagatcttcggcaccatcggcatgcgg
+            cccaacgccaagaacaaccgggacctggacttcaccatcgacctggacttcaagggccag
+            ctgtgcgagctgtcctgctccaccgactaccggatgcgctga
+///

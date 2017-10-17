@@ -1,0 +1,110 @@
+ENTRY       5881              CDS       T01001
+NAME        RAC3
+DEFINITION  (RefSeq) ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)
+ORTHOLOGY   K07861  Ras-related C3 botulinum toxin substrate 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04360  Axon guidance
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05212  Pancreatic cancer
+            hsa05231  Choline metabolism in cancer
+            hsa05416  Viral myocarditis
+            hsa05418  Fluid shear stress and atherosclerosis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5881 (RAC3)
+               04015 Rap1 signaling pathway
+                5881 (RAC3)
+               04010 MAPK signaling pathway
+                5881 (RAC3)
+               04310 Wnt signaling pathway
+                5881 (RAC3)
+               04370 VEGF signaling pathway
+                5881 (RAC3)
+               04071 Sphingolipid signaling pathway
+                5881 (RAC3)
+               04024 cAMP signaling pathway
+                5881 (RAC3)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5881 (RAC3)
+               04520 Adherens junction
+                5881 (RAC3)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5881 (RAC3)
+             Organismal Systems
+              Immune system
+               04650 Natural killer cell mediated cytotoxicity
+                5881 (RAC3)
+               04662 B cell receptor signaling pathway
+                5881 (RAC3)
+               04664 Fc epsilon RI signaling pathway
+                5881 (RAC3)
+              Development
+               04360 Axon guidance
+                5881 (RAC3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5881 (RAC3)
+               05231 Choline metabolism in cancer
+                5881 (RAC3)
+               05210 Colorectal cancer
+                5881 (RAC3)
+               05212 Pancreatic cancer
+                5881 (RAC3)
+              Cardiovascular diseases
+               05418 Fluid shear stress and atherosclerosis
+                5881 (RAC3)
+               05416 Viral myocarditis
+                5881 (RAC3)
+            GTP-binding proteins [BR:hsa04031]
+             Small (Monomeric) G-proteins
+              Rho Family
+               Rac/Cdc42 [OT]
+                5881 (RAC3)
+POSITION    17q25.3
+MOTIF       Pfam: Ras Roc Arf
+DBLINKS     NCBI-GeneID: 5881
+            NCBI-ProteinID: NP_005043
+            OMIM: 602050
+            HGNC: 9803
+            Ensembl: ENSG00000169750
+            Vega: OTTHUMG00000178455
+            Pharos: P60763(Tbio)
+            UniProt: P60763
+STRUCTURE   PDB: 2QME 2C2H 2IC5 2G0N 2OV2
+AASEQ       192
+            MQAIKCVVVGDGAVGKTCLLISYTTNAFPGEYIPTVFDNYSANVMVDGKPVNLGLWDTAG
+            QEDYDRLRPLSYPQTDVFLICFSLVSPASFENVRAKWYPEVRHHCPHTPILLVGTKLDLR
+            DDKDTIERLRDKKLAPITYPQGLAMAREIGSVKYLECSALTQRGLKTVFDEAIRAVLCPP
+            PVKKPGKKCTVF
+NTSEQ       579
+            atgcaggccatcaagtgcgtggtggtcggcgacggcgccgtggggaagacatgcttgctg
+            atcagctacacgaccaacgccttccccggagagtacatccccaccgtttttgacaactac
+            tctgccaacgtgatggtggacgggaaaccagtcaacttggggctgtgggacacagcgggt
+            caggaggactacgatcggctgcggccactctcctacccccaaactgacgtctttctgatc
+            tgcttctctctggtgagcccggcctccttcgagaatgttcgtgccaagtggtacccggag
+            gtgcggcaccactgcccccacacgcccatcctcctggtgggcaccaagctggacctccgc
+            gacgacaaggacaccattgagcggctgcgggacaagaagctggcacccatcacctaccca
+            cagggcctggccatggcccgggagattggctctgtgaaatacctggagtgctcagccctg
+            acccagcggggcctgaagacagtgtttgacgaggcgatccgcgcggtgctctgcccgccc
+            ccagtgaagaagccggggaagaagtgcaccgtcttctag
+///

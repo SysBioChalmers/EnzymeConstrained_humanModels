@@ -1,0 +1,95 @@
+ENTRY       6258              CDS       T01001
+NAME        RXRG, NR2B3, RXRC
+DEFINITION  (RefSeq) retinoid X receptor gamma
+ORTHOLOGY   K08526  retinoid X receptor gamma
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03320  PPAR signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa04919  Thyroid hormone signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05216  Thyroid cancer
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+DRUG_TARGET Alitretinoin: D02815
+            Bexarotene: D03106
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                6258 (RXRG)
+              Endocrine system
+               04920 Adipocytokine signaling pathway
+                6258 (RXRG)
+               03320 PPAR signaling pathway
+                6258 (RXRG)
+               04919 Thyroid hormone signaling pathway
+                6258 (RXRG)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                6258 (RXRG)
+               05202 Transcriptional misregulation in cancers
+                6258 (RXRG)
+               05216 Thyroid cancer
+                6258 (RXRG)
+               05222 Small cell lung cancer
+                6258 (RXRG)
+               05223 Non-small cell lung cancer
+                6258 (RXRG)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Zinc finger
+               Cys4 hepatocyte nuclear factor 4-like
+                6258 (RXRG)
+            Nuclear receptors [BR:hsa03310]
+             2. Hepatocyte nuclear factor 4 like
+              2B. Retinoid X receptor (RXR)
+               6258 (RXRG)
+POSITION    1q23.3
+MOTIF       Pfam: Hormone_recep Nuc_recep-AF1 zf-C4
+DBLINKS     NCBI-GeneID: 6258
+            NCBI-ProteinID: NP_008848
+            OMIM: 180247
+            HGNC: 10479
+            Ensembl: ENSG00000143171
+            Vega: OTTHUMG00000034626
+            Pharos: P48443(Tclin)
+            UniProt: P48443 F1D8Q7
+STRUCTURE   PDB: 2GL8
+AASEQ       463
+            MYGNYSHFMKFPAGYGGSPGHTGSTSMSPSAALSTGKPMDSHPSYTDTPVSAPRTLSAVG
+            TPLNALGSPYRVITSAMGPPSGALAAPPGINLVAPPSSQLNVVNSVSSSEDIKPLPGLPG
+            IGNMNYPSTSPGSLVKHICAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLIYTCRDNKD
+            CLIDKRQRNRCQYCRYQKCLVMGMKREAVQEERQRSRERAESEAECATSGHEDMPVERIL
+            EAELAVEPKTESYGDMNMENSTNDPVTNICHAADKQLFTLVEWAKRIPHFSDLTLEDQVI
+            LLRAGWNELLIASFSHRSVSVQDGILLATGLHVHRSSAHSAGVGSIFDRVLTELVSKMKD
+            MQMDKSELGCLRAIVLFNPDAKGLSNPSEVETLREKVYATLEAYTKQKYPEQPGRFAKLL
+            LRLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLETPLQIT
+NTSEQ       1392
+            atgtatggaaattattctcacttcatgaagtttcccgcaggctatggaggctcccctggc
+            cacactggctctacatccatgagcccatcagcagccttgtccacagggaagccaatggac
+            agccaccccagctacacagataccccagtgagtgccccacggactctgagtgcagtgggg
+            acccccctcaatgccctgggctctccatatcgagtcatcacctctgccatgggcccaccc
+            tcaggagcacttgcagcgcctccaggaatcaacttggttgccccacccagctctcagcta
+            aatgtggtcaacagtgtcagcagttcagaggacatcaagcccttaccagggcttcccggg
+            attggaaacatgaactacccatccaccagccccggatctctggttaaacacatctgtgcc
+            atctgtggagacagatcctcaggaaagcactacggggtatacagttgtgaaggctgcaaa
+            gggttcttcaagaggacgataaggaaggacctcatctacacgtgtcgggataataaagac
+            tgcctcattgacaagcgtcagcgcaaccgctgccagtactgtcgctatcagaagtgcctt
+            gtcatgggcatgaagagggaagctgtgcaagaagaaagacagaggagccgagagcgagct
+            gagagtgaggcagaatgtgctaccagtggtcatgaagacatgcctgtggagaggattcta
+            gaagctgaacttgctgttgaaccaaagacagaatcctatggtgacatgaatatggagaac
+            tcgacaaatgaccctgttaccaacatatgtcatgctgctgacaagcagcttttcaccctc
+            gttgaatgggccaagcgtattccccacttctctgacctcaccttggaggaccaggtcatt
+            ttgcttcgggcagggtggaatgaattgctgattgcctctttctcccaccgctcagtttcc
+            gtgcaggatggcatccttctggccacgggtttacatgtccaccggagcagtgcccacagt
+            gctggggtcggctccatctttgacagagtcctaactgagctggtttccaaaatgaaagac
+            atgcagatggacaagtcggaactgggatgcctgcgagccattgtactctttaacccagat
+            gccaagggcctgtccaacccctctgaggtggagactctgcgagagaaggtttatgccacc
+            cttgaggcctacaccaagcagaagtatccggaacagccaggcaggtttgccaagctgctg
+            ctgcgcctcccagctctgcgttccattggcttgaaatgcctggagcacctcttcttcttc
+            aagctcatcggggacacccccattgacaccttcctcatggagatgttggagaccccgctg
+            cagatcacctga
+///

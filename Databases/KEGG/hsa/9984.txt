@@ -1,0 +1,90 @@
+ENTRY       9984              CDS       T01001
+NAME        THOC1, HPR1, P84, P84N5
+DEFINITION  (RefSeq) THO complex 1
+ORTHOLOGY   K12878  THO complex subunit 1
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03013  RNA transport
+            hsa03040  Spliceosome
+MODULE      hsa_M00405  THC complex
+            hsa_M00406  TREX complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                9984 (THOC1)
+              Translation
+               03013 RNA transport
+                9984 (THOC1)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               Transport factors
+                TREX complex
+                 9984 (THOC1)
+            Spliceosome [BR:hsa03041]
+             Complex C
+              Other components
+               EJC/TREX
+                9984 (THOC1)
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               TREX complex
+                9984 (THOC1)
+POSITION    18p11.32
+MOTIF       Pfam: efThoc1 Death
+DBLINKS     NCBI-GeneID: 9984
+            NCBI-ProteinID: NP_005122
+            OMIM: 606930
+            HGNC: 19070
+            Ensembl: ENSG00000079134
+            Vega: OTTHUMG00000178051
+            Pharos: Q96FV9(Tbio)
+            UniProt: Q96FV9
+STRUCTURE   PDB: 1WXP
+AASEQ       657
+            MSPTPPLFSLPEARTRFTKSTREALNNKNIKPLLSTFSQVPGSENEKKCTLDQAFRGILE
+            EEIINHSSCENVLAIISLAIGGVTEGICTASTPFVLLGDVLDCLPLDQCDTIFTFVEKNV
+            ATWKSNTFYSAGKNYLLRMCNDLLRRLSKSQNTVFCGRIQLFLARLFPLSEKSGLNLQSQ
+            FNLENVTVFNTNEQESTLGQKHTEDREEGMDVEEGEMGDEEAPTTCSIPIDYNLYRKFWS
+            LQDYFRNPVQCYEKISWKTFLKYSEEVLAVFKSYKLDDTQASRKKMEELKTGGEHVYFAK
+            FLTSEKLMDLQLSDSNFRRHILLQYLILFQYLKGQVKFKSSNYVLTDEQSLWIEDTTKSV
+            YQLLSENPPDGERFSKMVEHILNTEENWNSWKNEGCPSFVKERTSDTKPTRIIRKRTAPE
+            DFLGKGPTKKILMGNEELTRLWNLCPDNMEACKSETREHMPTLEEFFEEAIEQADPENMV
+            ENEYKAVNNSNYGWRALRLLARRSPHFFQPTNQQFKSLPEYLENMVIKLAKELPPPSEEI
+            KTGEDEDEEDNDALLKENESPDVRRDKPVTGEQIEVFANKLGEQWKILAPYLEMKDSEIR
+            QIECDSEDMKMRAKQLLVAWQDQEGVHATPENLINALNKSGLSDLAESLTNDNETNS
+NTSEQ       1974
+            atgtctccgacgccgccgctcttcagtttgcccgaagcgcggacgcggtttacgaagtct
+            accagagaggccttgaacaacaaaaacatcaagccattgttaagtaccttcagccaggta
+            cctggcagtgaaaatgaaaaaaaatgtacccttgaccaagctttcagaggtattctagaa
+            gaagaaattataaatcattcatcatgtgaaaacgttttagctattatttctcttgctatt
+            gggggagtaactgaaggtatttgtaccgcatctacaccttttgtattgttgggagatgtt
+            ttggattgtcttcctttggatcagtgtgacacaatattcacttttgtggaaaaaaatgtt
+            gctacttggaaatcaaatacattctattctgctgggaaaaattacttactacgtatgtgc
+            aatgatctcctaagaagattgtctaaatcccagaatacagtcttctgtggacggattcag
+            ctctttttggccaggcttttccctctgtctgagaaatcaggtcttaacttgcagagtcag
+            tttaatctggaaaatgtcactgttttcaatacaaatgagcaggaaagcaccctgggtcag
+            aagcacactgaagatagagaagaaggaatggatgtagaagaaggcgaaatgggagacgag
+            gaagctccaacaacgtgctctattccaattgattacaacctgtatcgaaaattctggtca
+            cttcaggattacttcaggaaccctgtgcaatgctatgagaagatttcatggaaaactttt
+            ctcaagtattctgaagaagttttagctgtttttaagagttataaattagatgatactcag
+            gcctcaagaaaaaagatggaagaattgaaaacaggaggagaacatgtatattttgcaaaa
+            tttttaacaagtgaaaagctgatggatttacaactgagtgacagtaactttcgtcgacac
+            atcctgttgcagtatctcattttattccaatatctcaaggggcaggtcaaattcaaaagt
+            tcaaactatgttttaactgatgagcaatcactttggattgaagatactacaaaatcagtt
+            tatcaactactatctgaaaacccccccgatggagaaagattttcaaagatggtagagcat
+            atattaaacactgaagaaaactggaactcgtggaaaaatgaaggttgcccaagttttgtg
+            aaagaaagaacatcagataccaaacctacgagaataattcggaagagaacagcacccgag
+            gacttcctagggaaaggacccaccaaaaaaattctgatgggaaatgaggagttaacaagg
+            ctttggaatctttgccctgataatatggaagcctgtaaatcagagacaagggaacacatg
+            cccactttggaggaattctttgaagaagccattgaacaggcagaccctgaaaatatggtg
+            gaaaatgaatataaggctgtgaacaattcaaattatggttggagagccctgagactatta
+            gcacggagaagccctcacttcttccagccaaccaaccagcagtttaaaagtttaccagaa
+            tatcttgaaaatatggtaataaagctagccaaggaattaccgcctccttctgaagaaata
+            aaaacaggtgaggatgaagatgaggaagataatgatgctctactgaaggaaaatgaaagt
+            cctgatgttcggcgagacaaacctgtaacaggagaacaaatagaggtatttgccaacaag
+            ctgggtgaacaatggaagattctggctccctacttggaaatgaaagactcagaaattagg
+            cagattgagtgtgacagtgaagacatgaagatgagagctaagcagctcctggttgcctgg
+            caagatcaagagggagttcatgcaacacctgagaatctgattaatgcactgaataagtct
+            ggattaagtgaccttgcagaaagtctaactaatgacaatgagacaaatagttag
+///

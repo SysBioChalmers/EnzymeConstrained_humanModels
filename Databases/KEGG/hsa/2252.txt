@@ -1,0 +1,89 @@
+ENTRY       2252              CDS       T01001
+NAME        FGF7, HBGF-7, KGF
+DEFINITION  (RefSeq) fibroblast growth factor 7
+ORTHOLOGY   K04358  fibroblast growth factor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04015  Rap1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05200  Pathways in cancer
+            hsa05218  Melanoma
+            hsa05224  Breast cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                2252 (FGF7)
+               04015 Rap1 signaling pathway
+                2252 (FGF7)
+               04010 MAPK signaling pathway
+                2252 (FGF7)
+               04151 PI3K-Akt signaling pathway
+                2252 (FGF7)
+             Cellular Processes
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                2252 (FGF7)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                2252 (FGF7)
+               05218 Melanoma
+                2252 (FGF7)
+               05224 Breast cancer
+                2252 (FGF7)
+            Cytokines [BR:hsa04052]
+             PDGF family
+              Beta-trefoil growth factors
+               2252 (FGF7)
+            Cell adhesion molecules and their ligands [BR:hsa04516]
+             1. Immunoglobulin Superfamily
+              Neural system
+               Enzymatic CD
+                FGFR1; fibroblast growth factor receptor 1 [KO:K04362]
+                 2252 (FGF7)
+                FGFR2; fibroblast growth factor receptor 2 [KO:K05093]
+                 2252 (FGF7)
+                FGFR3; fibroblast growth factor receptor [KO:K05094]
+                 2252 (FGF7)
+                FGFR4; fibroblast growth factor receptor 4 [KO:K05095]
+                 2252 (FGF7)
+             6. Sialomucin Family
+              GLG1, ESL1; golgi apparatus protein 1 [KO:K06816]
+               2252 (FGF7)
+             7. Others
+              SDC4; syndecan 4 [KO:K16338]
+               2252 (FGF7)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Heparan sulfate/Haparin
+              Growth factors/receptors	(General comment) Ligand-receptor clustering and signaling, cell migration, mitogenesis
+               2252 (FGF7)
+POSITION    15q21.2
+MOTIF       Pfam: FGF Fascin Gb3_synth
+DBLINKS     NCBI-GeneID: 2252
+            NCBI-ProteinID: NP_002000
+            OMIM: 148180
+            HGNC: 3685
+            Ensembl: ENSG00000140285
+            Vega: OTTHUMG00000131517
+            Pharos: P21781(Tbio)
+            UniProt: P21781
+AASEQ       194
+            MHKWILTWILPTLLYRSCFHIICLVGTISLACNDMTPEQMATNVNCSSPERHTRSYDYME
+            GGDIRVRRLFCRTQWYLRIDKRGKVKGTQEMKNNYNIMEIRTVAVGIVAIKGVESEFYLA
+            MNKEGKLYAKKECNEDCNFKELILENHYNTYASAKWTHNGGEMFVALNQKGIPVRGKKTK
+            KEQKTAHFLPMAIT
+NTSEQ       585
+            atgcacaaatggatactgacatggatcctgccaactttgctctacagatcatgctttcac
+            attatctgtctagtgggtactatatctttagcttgcaatgacatgactccagagcaaatg
+            gctacaaatgtgaactgttccagccctgagcgacacacaagaagttatgattacatggaa
+            ggaggggatataagagtgagaagactcttctgtcgaacacagtggtacctgaggatcgat
+            aaaagaggcaaagtaaaagggacccaagagatgaagaataattacaatatcatggaaatc
+            aggacagtggcagttggaattgtggcaatcaaaggggtggaaagtgaattctatcttgca
+            atgaacaaggaaggaaaactctatgcaaagaaagaatgcaatgaagattgtaacttcaaa
+            gaactaattctggaaaaccattacaacacatatgcatcagctaaatggacacacaacgga
+            ggggaaatgtttgttgccttaaatcaaaaggggattcctgtaagaggaaaaaaaacgaag
+            aaagaacaaaaaacagcccactttcttcctatggcaataacttaa
+///

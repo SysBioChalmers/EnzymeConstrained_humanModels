@@ -1,0 +1,96 @@
+ENTRY       3973              CDS       T01001
+NAME        LHCGR, HHG, LCGR, LGR2, LH/CG-R, LH/CGR, LHR, LHRHR, LSH-R, ULG5
+DEFINITION  (RefSeq) luteinizing hormone/choriogonadotropin receptor
+ORTHOLOGY   K04248  luteinizing hormone/choriogonadotropin receptor
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04913  Ovarian steroidogenesis
+            hsa04917  Prolactin signaling pathway
+DISEASE     H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+            H00627  Premature ovarian failure
+            H00937  Precocious puberty
+DRUG_TARGET Choriogonadotropin alfa: D03478
+            Chorionic gonadotrophin: D06457
+            Human menopausal gonadotrophin (DG00472): D02692 D06459
+            Lutropin alfa: D04824
+            Serum gonadotrophin: D05258
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                3973 (LHCGR)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                3973 (LHCGR)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                3973 (LHCGR)
+               04917 Prolactin signaling pathway
+                3973 (LHCGR)
+            G protein-coupled receptors [BR:hsa04030]
+             Class A. Rhodopsin family
+              Pituitary hormone
+               Lutropin-choriogonadotropic hormone
+                3973 (LHCGR)
+POSITION    2p16.3
+MOTIF       Pfam: 7tm_1 LRR_8 LRR_5 Comm
+DBLINKS     NCBI-GeneID: 3973
+            NCBI-ProteinID: NP_000224
+            OMIM: 152790
+            HGNC: 6585
+            Ensembl: ENSG00000138039
+            Vega: OTTHUMG00000129257
+            Pharos: P22888(Tclin)
+            UniProt: P22888
+AASEQ       699
+            MKQRFSALQLLKLLLLLQPPLPRALREALCPEPCNCVPDGALRCPGPTAGLTRLSLAYLP
+            VKVIPSQAFRGLNEVIKIEISQIDSLERIEANAFDNLLNLSEILIQNTKNLRYIEPGAFI
+            NLPRLKYLSICNTGIRKFPDVTKVFSSESNFILEICDNLHITTIPGNAFQGMNNESVTLK
+            LYGNGFEEVQSHAFNGTTLTSLELKENVHLEKMHNGAFRGATGPKTLDISSTKLQALPSY
+            GLESIQRLIATSSYSLKKLPSRETFVNLLEATLTYPSHCCAFRNLPTKEQNFSHSISENF
+            SKQCESTVRKVNNKTLYSSMLAESELSGWDYEYGFCLPKTPRCAPEPDAFNPCEDIMGYD
+            FLRVLIWLINILAIMGNMTVLFVLLTSRYKLTVPRFLMCNLSFADFCMGLYLLLIASVDS
+            QTKGQYYNHAIDWQTGSGCSTAGFFTVFASELSVYTLTVITLERWHTITYAIHLDQKLRL
+            RHAILIMLGGWLFSSLIAMLPLVGVSNYMKVSICFPMDVETTLSQVYILTILILNVVAFF
+            IICACYIKIYFAVRNPELMATNKDTKIAKKMAILIFTDFTCMAPISFFAISAAFKVPLIT
+            VTNSKVLLVLFYPINSCANPFLYAIFTKTFQRDFFLLLSKFGCCKRRAELYRRKDFSAYT
+            SNCKNGFTGSNKPSQSTLKLSTLHCQGTALLDKTRYTEC
+NTSEQ       2100
+            atgaagcagcggttctcggcgctgcagctgctgaagctgctgctgctgctgcagccgccg
+            ctgccacgagcgctgcgcgaggcgctctgccctgagccctgcaactgcgtgcccgacggc
+            gccctgcgctgccccggccccacggccggtctcactcgactatcacttgcctacctccct
+            gtcaaagtgatcccatctcaagctttcagaggacttaatgaggtcataaaaattgaaatc
+            tctcagattgattccctggaaaggatagaagctaatgcctttgacaacctcctcaatttg
+            tctgaaatactgatccagaacaccaaaaatctgagatacattgagcccggagcatttata
+            aatcttccccgattaaaatacttgagcatctgtaacacaggcatcagaaagtttccagat
+            gttacgaaggtcttctcctctgaatcaaatttcattctggaaatttgtgataacttacac
+            ataaccaccataccaggaaatgcttttcaagggatgaataatgaatctgtaacactcaaa
+            ctatatggaaatggatttgaagaagtacaaagtcatgcattcaatgggacgacactgact
+            tcactggagctaaaggaaaacgtacatctggagaagatgcacaatggagccttccgtggg
+            gccacagggccgaaaaccttggatatttcttccaccaaattgcaggccctgccgagctat
+            ggcctagagtccattcagaggctaattgccacgtcatcctattctctaaaaaaattgcca
+            tcaagagaaacatttgtcaatctcctggaggccacgttgacttaccccagccactgctgt
+            gcttttagaaacttgccaacaaaagaacagaatttttcacattccatttctgaaaacttt
+            tccaaacaatgtgaaagcacagtaaggaaagtgaataacaaaacactttattcttccatg
+            cttgctgagagtgaactgagtggctgggactatgaatatggtttctgcttacccaagaca
+            ccccgatgtgctcctgaaccagatgcttttaatccctgtgaagatattatgggctatgac
+            ttccttagggtcctgatttggctgattaatattctagccatcatgggaaacatgactgtt
+            ctttttgttctcctgacaagtcgttacaaacttacagtgcctcgttttctcatgtgcaat
+            ctctcctttgcagacttttgcatggggctctatctgctgctcatagcctcagttgattcc
+            caaaccaagggccagtactataaccatgccatagactggcagacagggagtgggtgcagc
+            actgctggctttttcactgtattcgcaagtgaactttctgtctacaccctcaccgtcatc
+            actctagaaagatggcacaccatcacctatgctattcacctggaccaaaagctgcgatta
+            agacatgccattctgattatgcttggaggatggctcttttcttctctaattgctatgttg
+            ccccttgtcggtgtcagcaattacatgaaggtcagtatttgcttccccatggatgtggaa
+            accactctctcacaagtctatatattaaccatcctgattctcaatgtggtggccttcttc
+            ataatttgtgcttgctacattaaaatttattttgcagttcgaaacccagaattaatggct
+            accaataaagatacaaagattgctaagaaaatggcaatcctcatcttcaccgatttcacc
+            tgcatggcacctatctctttttttgccatctcagctgccttcaaagtacctcttatcaca
+            gtaaccaactctaaagttttactggttcttttttatcccatcaattcttgtgccaatcca
+            tttctgtatgcaatattcactaagacattccaaagagatttctttcttttgctgagcaaa
+            tttggctgctgtaaacgtcgggctgaactttatagaaggaaagatttttcagcttacacc
+            tccaactgcaaaaatggcttcactggatcaaataagccttctcaatccaccttgaagttg
+            tccacattgcactgtcaaggtacagctctcctagacaagactcgctacacagagtgttaa
+///

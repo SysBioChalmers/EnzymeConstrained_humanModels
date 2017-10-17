@@ -1,0 +1,75 @@
+ENTRY       7453              CDS       T01001
+NAME        WARS, GAMMA-2, IFI53, IFP53
+DEFINITION  (RefSeq) tryptophanyl-tRNA synthetase
+ORTHOLOGY   K01867  tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00970  Aminoacyl-tRNA biosynthesis
+MODULE      hsa_M00359  Aminoacyl-tRNA biosynthesis, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                7453 (WARS)
+            Enzymes [BR:hsa01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.2  tryptophan---tRNA ligase
+                 7453 (WARS)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminoacyl-tRNA synthetase
+              Class I (A)
+               7453 (WARS)
+            Transfer RNA biogenesis [BR:hsa03016]
+             Eukaryotic Type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                7453 (WARS)
+             Prokaryotic Type
+                7453 (WARS)
+POSITION    14q32.2
+MOTIF       Pfam: tRNA-synt_1b WHEP-TRS
+DBLINKS     NCBI-GeneID: 7453
+            NCBI-ProteinID: NP_004175
+            OMIM: 191050
+            HGNC: 12729
+            Ensembl: ENSG00000140105
+            Vega: OTTHUMG00000171572
+            Pharos: P23381(Tbio)
+            UniProt: P23381 A0A024R6K8
+STRUCTURE   PDB: 1R6U 1R6T 1ULH 2QUH 2QUI 2QUJ 1O5T 2QUK 2AZX 2DR2 2AKE
+AASEQ       471
+            MPNSEPASLLELFNSIATQGELVRSLKAGNASKDEIDSAVKMLVSLKMSYKAAAGEDYKA
+            DCPPGNPAPTSNHGPDATEAEEDFVDPWTVQTSSAKGIDYDKLIVRFGSSKIDKELINRI
+            ERATGQRPHHFLRRGIFFSHRDMNQVLDAYENKKPFYLYTGRGPSSEAMHVGHLIPFIFT
+            KWLQDVFNVPLVIQMTDDEKYLWKDLTLDQAYSYAVENAKDIIACGFDINKTFIFSDLDY
+            MGMSSGFYKNVVKIQKHVTFNQVKGIFGFTDSDCIGKISFPAIQAAPSFSNSFPQIFRDR
+            TDIQCLIPCAIDQDPYFRMTRDVAPRIGYPKPALLHSTFFPALQGAQTKMSASDPNSSIF
+            LTDTAKQIKTKVNKHAFSGGRDTIEEHRQFGGNCDVDVSFMYLTFFLEDDDKLEQIRKDY
+            TSGAMLTGELKKALIEVLQPLIAEHQARRKEVTDEIVKEFMTPRKLSFDFQ
+NTSEQ       1416
+            atgcccaacagtgagcccgcatctctgctggagctgttcaacagcatcgccacacaaggg
+            gagctcgtaaggtccctcaaagcgggaaatgcgtcaaaggatgaaattgattctgcagta
+            aagatgttggtgtcattaaaaatgagctacaaagctgccgcgggggaggattacaaggct
+            gactgtcctccagggaacccagcacctaccagtaatcatggcccagatgccacagaagct
+            gaagaggattttgtggacccatggacagtacagacaagcagtgcaaaaggcatagactac
+            gataagctcattgttcggtttggaagtagtaaaattgacaaagagctaataaaccgaata
+            gagagagccaccggccaaagaccacaccacttcctgcgcagaggcatcttcttctcacac
+            agagatatgaatcaggttcttgatgcctatgaaaataagaagccattttatctgtacacg
+            ggccggggcccctcttctgaagcaatgcatgtaggtcacctcattccatttattttcaca
+            aagtggctccaggatgtatttaacgtgcccttggtcatccagatgacggatgacgagaag
+            tatctgtggaaggacctgaccctggaccaggcctatagctatgctgtggagaatgccaag
+            gacatcatcgcctgtggctttgacatcaacaagactttcatattctctgacctggactac
+            atggggatgagctcaggtttctacaaaaatgtggtgaagattcaaaagcatgttaccttc
+            aaccaagtgaaaggcattttcggcttcactgacagcgactgcattgggaagatcagtttt
+            cctgccatccaggctgctccctccttcagcaactcattcccacagatcttccgagacagg
+            acggatatccagtgccttatcccatgtgccattgaccaggatccttactttagaatgaca
+            agggacgtcgcccccaggatcggctatcctaaaccagccctgctgcactccaccttcttc
+            ccagccctgcagggcgcccagaccaaaatgagtgccagcgaccccaactcctccatcttc
+            ctcaccgacacggccaagcagatcaaaaccaaggtcaataagcatgcgttttctggaggg
+            agagacaccatcgaggagcacaggcagtttgggggcaactgtgatgtggacgtgtctttc
+            atgtacctgaccttcttcctcgaggacgacgacaagctcgagcagatcaggaaggattac
+            accagcggagccatgctcaccggtgagctcaagaaggcactcatagaggttctgcagccc
+            ttgatcgcagagcaccaggcccggcgcaaggaggtcacggatgagatagtgaaagagttc
+            atgactccccggaagctgtccttcgactttcagtag
+///

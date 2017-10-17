@@ -1,0 +1,105 @@
+ENTRY       523               CDS       T01001
+NAME        ATP6V1A, ARCL2D, ATP6A1, ATP6V1A1, HO68, VA68, VPP2, Vma1
+DEFINITION  (RefSeq) ATPase H+ transporting V1 subunit A
+ORTHOLOGY   K02145  V-type H+-transporting ATPase subunit A [EC:3.6.3.14]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00190  Oxidative phosphorylation
+            hsa01100  Metabolic pathways
+            hsa04145  Phagosome
+            hsa04150  mTOR signaling pathway
+            hsa04721  Synaptic vesicle cycle
+            hsa04966  Collecting duct acid secretion
+            hsa05110  Vibrio cholerae infection
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00160  V-type ATPase, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                523 (ATP6V1A)
+             Environmental Information Processing
+              Signal transduction
+               04150 mTOR signaling pathway
+                523 (ATP6V1A)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                523 (ATP6V1A)
+             Organismal Systems
+              Excretory system
+               04966 Collecting duct acid secretion
+                523 (ATP6V1A)
+              Nervous system
+               04721 Synaptic vesicle cycle
+                523 (ATP6V1A)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                523 (ATP6V1A)
+              Infectious diseases
+               05110 Vibrio cholerae infection
+                523 (ATP6V1A)
+               05120 Epithelial cell signaling in Helicobacter pylori infection
+                523 (ATP6V1A)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Acting on acid anhydrides to catalyse transmembrane movement of substances
+                3.6.3.14  H+-transporting two-sector ATPase
+                 523 (ATP6V1A)
+POSITION    3q13.31
+MOTIF       Pfam: ATP-synt_ab ATP-synt_ab_Xtn ATP-synt_ab_N
+DBLINKS     NCBI-GeneID: 523
+            NCBI-ProteinID: NP_001681
+            OMIM: 607027
+            HGNC: 851
+            Ensembl: ENSG00000114573
+            Vega: OTTHUMG00000159295
+            Pharos: P38606(Tbio)
+            UniProt: P38606
+AASEQ       617
+            MDFSKLPKILDEDKESTFGYVHGVSGPVVTACDMAGAAMYELVRVGHSELVGEIIRLEGD
+            MATIQVYEETSGVSVGDPVLRTGKPLSVELGPGIMGAIFDGIQRPLSDISSQTQSIYIPR
+            GVNVSALSRDIKWDFTPCKNLRVGSHITGGDIYGIVSENSLIKHKIMLPPRNRGTVTYIA
+            PPGNYDTSDVVLELEFEGVKEKFTMVQVWPVRQVRPVTEKLPANHPLLTGQRVLDALFPC
+            VQGGTTAIPGAFGCGKTVISQSLSKYSNSDVIIYVGCGERGNEMSEVLRDFPELTMEVDG
+            KVESIMKRTALVANTSNMPVAAREASIYTGITLSEYFRDMGYHVSMMADSTSRWAEALRE
+            ISGRLAEMPADSGYPAYLGARLASFYERAGRVKCLGNPEREGSVSIVGAVSPPGGDFSDP
+            VTSATLGIVQVFWGLDKKLAQRKHFPSVNWLISYSKYMRALDEYYDKHFTEFVPLRTKAK
+            EILQEEEDLAEIVQLVGKASLAETDKITLEVAKLIKDDFLQQNGYTPYDRFCPFYKTVGM
+            LSNMIAFYDMARRAVETTAQSDNKITWSIIREHMGDILYKLSSMKFKDPLKDGEAKIKSD
+            YAQLLEDMQNAFRSLED
+NTSEQ       1854
+            atggatttttccaagctacccaaaatactcgatgaagataaagaaagcacatttggttat
+            gtgcatggggtctcaggacctgtggttacagcctgtgacatggcgggtgcagccatgtat
+            gagctggtgagagtgggccacagcgaattggttggagagattattcgattggagggtgac
+            atggctactattcaggtgtatgaagaaacttctggtgtgtctgttggagatcctgtactt
+            cgcactggtaaacccctctctgtagagcttggtcctggcattatgggagccatttttgat
+            ggtattcaaagacctttgtcggatatcagcagtcagacccaaagcatctacatccccaga
+            ggagtaaacgtgtctgctcttagcagagatatcaaatgggactttacaccttgcaaaaac
+            ctacgggttggtagtcatatcactggcggagacatttatggaattgtcagtgagaactcg
+            cttatcaaacacaaaatcatgttacccccacgaaacagaggaactgtaacttacattgct
+            ccacctgggaattatgatacctctgatgttgtcttggagcttgaatttgaaggtgtaaag
+            gagaagttcaccatggtgcaagtatggcctgtacgtcaagttcgacctgtcactgagaag
+            ctgccagccaatcatcctctgttgactggccagagagtccttgatgccctttttccgtgt
+            gtccagggaggaactactgctatccctggagcctttggctgtggaaagacagtgatatca
+            cagtctctatccaagtattctaacagtgatgtaatcatctatgtaggatgtggtgaaaga
+            ggaaatgagatgtctgaagtcctccgggacttcccagagctcacaatggaggttgatggt
+            aaggtagagtcaattatgaagaggacagctttggtagccaatacctccaatatgcctgtt
+            gctgctagagaagcctctatttatactggaatcacactgtcagagtacttccgtgacatg
+            ggctatcatgtcagtatgatggctgactctacctctagatgggctgaggcccttagagaa
+            atctctggtcgtttagctgaaatgcctgcagatagtggatatccagcctatcttggtgcc
+            cgtctggcctcgttttatgaacgagcaggcagggtgaaatgtcttggaaatcctgaaaga
+            gaagggagtgtcagcattgtaggagcagtttctccacctggtggtgatttttctgatcca
+            gttacatctgccactcttggtatcgttcaggtgttctggggcttagataagaaactagct
+            caacgtaagcatttcccctctgtcaattggctcatcagctacagcaagtatatgcgtgcc
+            ttggatgaatactatgacaaacacttcacagagttcgttcctctgaggacgaaagctaag
+            gaaattctgcaggaagaagaagacctggcagaaattgtacagcttgtgggaaaggcttct
+            ttggcagaaacagataaaatcactctggaggtagcaaaacttatcaaagatgatttccta
+            caacaaaatggatatactccttatgacaggttctgcccattctacaagacagtagggatg
+            ctgtccaacatgattgcattttatgatatggctcgtagagctgttgaaaccactgcccag
+            agtgacaataaaatcacatggtccattattcgtgagcacatgggagacatcctctataaa
+            ctttcctccatgaaattcaaggatccactgaaagatggtgaggcaaagatcaaaagcgac
+            tatgcacaacttcttgaagacatgcagaatgcattccgtagccttgaagattag
+///

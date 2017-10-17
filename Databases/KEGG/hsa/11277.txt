@@ -1,0 +1,64 @@
+ENTRY       11277             CDS       T01001
+NAME        TREX1, AGS1, CRV, DRN3, HERNS
+DEFINITION  (RefSeq) three prime repair exonuclease 1
+ORTHOLOGY   K10790  three prime repair exonuclease 1 [EC:3.1.11.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04623  Cytosolic DNA-sensing pathway
+DISEASE     H00290  Aicardi-Goutieres Syndrome (AGS)
+            H00291  Familial chilblain lupus (FCL)
+            H01000  Retinal vasculopathy with cerebral leukodystrophy (RVCL)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Organismal Systems
+              Immune system
+               04623 Cytosolic DNA-sensing pathway
+                11277 (TREX1)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.2  exodeoxyribonuclease III
+                 11277 (TREX1)
+            DNA repair and recombination proteins [BR:hsa03400]
+             Eukaryotic Type
+              Other factors with a suspected DNA repair function
+               Nucleases
+                11277 (TREX1)
+POSITION    3p21.31
+MOTIF       Pfam: DUF2733 RNase_T
+DBLINKS     NCBI-GeneID: 11277
+            NCBI-ProteinID: NP_057465
+            OMIM: 606609
+            HGNC: 12269
+            Ensembl: ENSG00000213689
+            Vega: OTTHUMG00000156205 OTTHUMG00000190127
+            Pharos: Q9NSU2(Tbio)
+            UniProt: Q9NSU2
+AASEQ       369
+            MGPGARRQGRIVQGRPEMCFCPPPTPLPPLRILTLGTHTPTPCSSPGSAAGTYPTMGSQA
+            LPPGPMQTLIFFDMEATGLPFSQPKVTELCLLAVHRCALESPPTSQGPPPTVPPPPRVVD
+            KLSLCVAPGKACSPAASEITGLSTAVLAAHGRQCFDDNLANLLLAFLRRQPQPWCLVAHN
+            GDRYDFPLLQAELAMLGLTSALDGAFCVDSITALKALERASSPSEHGPRKSYSLGSIYTR
+            LYGQSPPDSHTAEGDVLALLSICQWRPQALLRWVDAHARPFGTIRPMYGVTASARTKPRP
+            SAVTTTAHLATTRNTSPSLGESRGTKDLPPVKDPGALSREGLLAPLGLLAILTLAVATLY
+            GLSLATPGE
+NTSEQ       1110
+            atgggccctggagctcgcagacagggcaggattgtgcagggaaggcctgagatgtgcttc
+            tgcccaccccctaccccactccctccccttcggatcttaacactgggcactcacacaccc
+            accccatgctcctctccaggctcagcagcaggtacgtacccaaccatgggctcgcaggcc
+            ctgcccccggggcccatgcagaccctcatctttttcgacatggaggccactggcttgccc
+            ttctcccagcccaaggtcacggagctgtgcctgctggctgtccacagatgtgccctggag
+            agcccccccacctctcaggggccacctcccacagttcctccaccaccgcgtgtggtagac
+            aagctctccctgtgtgtggctccggggaaggcctgcagccctgcagccagcgagatcaca
+            ggtctgagcacagctgtgctggcagcgcatgggcgtcaatgttttgatgacaacctggcc
+            aacctgctcctagccttcctgcggcgccagccacagccctggtgcctggtggcacacaat
+            ggtgaccgctacgacttccccctgctccaagcagagctggctatgctgggcctcaccagt
+            gctctggatggtgccttctgtgtggatagcatcactgcgctgaaggccctggagcgagca
+            agcagcccctcagaacacggcccaaggaagagctatagcctaggcagcatctacactcgc
+            ctgtatgggcagtcccctccagactcgcacacggctgagggtgatgtcctggccctgctc
+            agcatctgtcagtggagaccacaggccctgctgcggtgggtggatgctcacgccaggcct
+            ttcggcaccatcaggcccatgtatggggtcacagcctctgctaggaccaagccaagacca
+            tctgctgtcacaaccactgcacacctggccacaaccaggaacactagtcccagccttgga
+            gagagcaggggtaccaaggatcttcctccagtgaaggaccctggagccctatccagggag
+            gggctgctggccccactgggtctgctggccatcctgaccttggcagtagccacactgtat
+            ggactatccctggccacacctggggagtag
+///

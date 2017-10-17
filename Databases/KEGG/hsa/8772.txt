@@ -1,0 +1,97 @@
+ENTRY       8772              CDS       T01001
+NAME        FADD, GIG3, MORT1
+DEFINITION  (RefSeq) Fas associated via death domain
+ORTHOLOGY   K02373  FAS-associated death domain protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01524  Platinum drug resistance
+            hsa04210  Apoptosis
+            hsa04215  Apoptosis - multiple species
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa05010  Alzheimer's disease
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05168  Herpes simplex infection
+            hsa05200  Pathways in cancer
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04668 TNF signaling pathway
+                8772 (FADD)
+             Cellular Processes
+              Cell growth and death
+               04210 Apoptosis
+                8772 (FADD)
+               04215 Apoptosis - multiple species
+                8772 (FADD)
+               04217 Necroptosis
+                8772 (FADD)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                8772 (FADD)
+               04621 NOD-like receptor signaling pathway
+                8772 (FADD)
+               04622 RIG-I-like receptor signaling pathway
+                8772 (FADD)
+               04657 IL-17 signaling pathway
+                8772 (FADD)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                8772 (FADD)
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                8772 (FADD)
+              Infectious diseases
+               05152 Tuberculosis
+                8772 (FADD)
+               05161 Hepatitis B
+                8772 (FADD)
+               05168 Herpes simplex infection
+                8772 (FADD)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                8772 (FADD)
+               05165 Human papillomavirus infection
+                8772 (FADD)
+               05142 Chagas disease (American trypanosomiasis)
+                8772 (FADD)
+              Drug resistance
+               01524 Platinum drug resistance
+                8772 (FADD)
+POSITION    11q13.3
+MOTIF       Pfam: DED Death
+DBLINKS     NCBI-GeneID: 8772
+            NCBI-ProteinID: NP_003815
+            OMIM: 602457
+            HGNC: 3573
+            Ensembl: ENSG00000168040
+            Vega: OTTHUMG00000167264
+            Pharos: Q13158(Tbio)
+            UniProt: Q13158
+STRUCTURE   PDB: 3EZQ 3OQ9 2GF5 1E41 1E3Y 1A1W 1A1Z
+AASEQ       208
+            MDPFLVLLHSVSSSLSSSELTELKFLCLGRVGKRKLERVQSGLDLFSMLLEQNDLEPGHT
+            ELLRELLASLRRHDLLRRVDDFEAGAAAGAAPGEEDLCAAFNVICDNVGKDWRRLARQLK
+            VSDTKIDSIEDRYPRNLTERVRESLRIWKNTEKENATVAHLVGALRSCQMNLVADLVQEV
+            QQARDLQNRSGAMSPMSWNSDASTSEAS
+NTSEQ       627
+            atggacccgttcctggtgctgctgcactcggtgtcgtccagcctgtcgagcagcgagctg
+            accgagctcaagttcctatgcctcgggcgcgtgggcaagcgcaagctggagcgcgtgcag
+            agcggcctagacctcttctccatgctgctggagcagaacgacctggagcccgggcacacc
+            gagctcctgcgcgagctgctcgcctccctgcggcgccacgacctgctgcggcgcgtcgac
+            gacttcgaggcgggggcggcggccggggccgcgcctggggaagaagacctgtgtgcagca
+            tttaacgtcatatgtgataatgtggggaaagattggagaaggctggctcgtcagctcaaa
+            gtctcagacaccaagatcgacagcatcgaggacagatacccccgcaacctgacagagcgt
+            gtgcgggagtcactgagaatctggaagaacacagagaaggagaacgcaacagtggcccac
+            ctggtgggggctctcaggtcctgccagatgaacctggtggctgacctggtacaagaggtt
+            cagcaggcccgtgacctccagaacaggagtggggccatgtccccgatgtcatggaactca
+            gacgcatctacctccgaagcgtcctga
+///

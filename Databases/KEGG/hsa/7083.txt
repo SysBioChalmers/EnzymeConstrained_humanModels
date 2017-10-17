@@ -1,0 +1,52 @@
+ENTRY       7083              CDS       T01001
+NAME        TK1, TK2
+DEFINITION  (RefSeq) thymidine kinase 1
+ORTHOLOGY   K00857  thymidine kinase [EC:2.7.1.21]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00240  Pyrimidine metabolism
+            hsa00983  Drug metabolism - other enzymes
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00240 Pyrimidine metabolism
+                7083 (TK1)
+              Xenobiotics biodegradation and metabolism
+               00983 Drug metabolism - other enzymes
+                7083 (TK1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.21  thymidine kinase
+                 7083 (TK1)
+POSITION    17q25.3
+MOTIF       Pfam: TK AAA_14 ATPase_2
+DBLINKS     NCBI-GeneID: 7083
+            NCBI-ProteinID: NP_003249
+            OMIM: 188300
+            HGNC: 11830
+            Ensembl: ENSG00000167900
+            Vega: OTTHUMG00000150674
+            Pharos: P04183(Tchem)
+            UniProt: P04183
+STRUCTURE   PDB: 1W4R 2WVJ 2ORV 1XBT
+AASEQ       234
+            MSCINLPTVLPGSPSKTRGQIQVILGPMFSGKSTELMRRVRRFQIAQYKCLVIKYAKDTR
+            YSSSFCTHDRNTMEALPACLLRDVAQEALGVAVIGIDEGQFFPDIVEFCEAMANAGKTVI
+            VAALDGTFQRKPFGAILNLVPLAESVVKLTAVCMECFREAAYTKRLGTEKEVEVIGGADK
+            YHSVCRLCYFKKASGQPAGPDNKENCPVPGKPGEAVAARKLFAPQQILQCSPAN
+NTSEQ       705
+            atgagctgcattaacctgcccactgtgctgcctggctcccccagcaagacccgggggcag
+            atccaggtgattctcgggccgatgttctcaggaaaaagcacagagttgatgagacgcgtc
+            cgtcgcttccagattgctcagtacaagtgcctggtgatcaagtatgccaaagacactcgc
+            tacagcagcagcttctgcacacatgaccggaacaccatggaggcactgcccgcctgcctg
+            ctccgagacgtggcccaggaggccctgggcgtggctgtcataggcatcgacgaggggcag
+            tttttccctgacatcgtggagttctgcgaggccatggccaacgccgggaagaccgtaatt
+            gtggctgcactggatgggaccttccagaggaagccatttggggccatcctgaacctggtg
+            ccgctggccgagagcgtggtgaagctgacggcggtgtgcatggagtgcttccgggaagcc
+            gcctataccaagaggctcggcacagagaaggaggtcgaggtgattgggggagcagacaag
+            taccactccgtgtgtcggctctgctacttcaagaaggcctcaggccagcctgccgggccg
+            gacaacaaagagaactgcccagtgccaggaaagccaggggaagccgtggctgccaggaag
+            ctctttgccccacagcagattctgcaatgcagccctgccaactga
+///

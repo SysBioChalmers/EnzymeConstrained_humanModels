@@ -1,0 +1,82 @@
+ENTRY       1261              CDS       T01001
+NAME        CNGA3, ACHM2, CCNC1, CCNCa, CCNCalpha, CNCG3, CNG3
+DEFINITION  (RefSeq) cyclic nucleotide gated channel alpha 3
+ORTHOLOGY   K04950  cyclic nucleotide gated channel alpha 3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04024  cAMP signaling pathway
+            hsa04740  Olfactory transduction
+DISEASE     H00971  Achromatopsia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                1261 (CNGA3)
+             Organismal Systems
+              Sensory system
+               04740 Olfactory transduction
+                1261 (CNGA3)
+            Ion channels [BR:hsa04040]
+             Related to voltage-gated cation channels
+              Cyclic nucleotide-gated channel (CNG)
+               1261 (CNGA3)
+POSITION    2q11.2
+MOTIF       Pfam: CLZ Ion_trans cNMP_binding Ion_trans_2 HAUS-augmin3
+DBLINKS     NCBI-GeneID: 1261
+            NCBI-ProteinID: NP_001289
+            OMIM: 600053
+            HGNC: 2150
+            Ensembl: ENSG00000144191
+            Vega: OTTHUMG00000130561
+            Pharos: Q16281(Tbio)
+            UniProt: Q16281
+STRUCTURE   PDB: 3SWY
+AASEQ       694
+            MAKINTQYSHPSRTHLKVKTSDRDLNRAENGLSRAHSSSEETSSVLQPGIAMETRGLADS
+            GQGSFTGQGIARLSRLIFLLRRWAARHVHHQDQGPDSFPDRFRGAELKEVSSQESNAQAN
+            VGSQEPADRGRSAWPLAKCNTNTSNNTEEEKKTKKKDAIVVDPSSNLYYRWLTAIALPVF
+            YNWYLLICRACFDELQSEYLMLWLVLDYSADVLYVLDVLVRARTGFLEQGLMVSDTNRLW
+            QHYKTTTQFKLDVLSLVPTDLAYLKVGTNYPEVRFNRLLKFSRLFEFFDRTETRTNYPNM
+            FRIGNLVLYILIIIHWNACIYFAISKFIGFGTDSWVYPNISIPEHGRLSRKYIYSLYWST
+            LTLTTIGETPPPVKDEEYLFVVVDFLVGVLIFATIVGNVGSMISNMNASRAEFQAKIDSI
+            KQYMQFRKVTKDLETRVIRWFDYLWANKKTVDEKEVLKSLPDKLKAEIAINVHLDTLKKV
+            RIFQDCEAGLLVELVLKLRPTVFSPGDYICKKGDIGKEMYIINEGKLAVVADDGVTQFVV
+            LSDGSYFGEISILNIKGSKSGNRRTANIRSIGYSDLFCLSKDDLMEALTEYPEAKKALEE
+            KGRQILMKDNLIDEELARAGADPKDLEEKVEQLGSSLDTLQTRFARLLAEYNATQMKMKQ
+            RLSQLESQVKGGGDKPLADGEVPGDATKTEDKQQ
+NTSEQ       2085
+            atggccaagatcaacacccaatactcccacccctccaggacccacctcaaggtaaagacc
+            tcagaccgagatctcaatcgcgctgaaaatggcctcagcagagcccactcgtcaagtgag
+            gagacatcgtcagtgctgcagccggggatcgccatggagaccagaggactggctgactcc
+            gggcagggctccttcaccggccaggggatcgccaggctgtcgcgcctcatcttcttgctg
+            cgcaggtgggctgccaggcatgtgcaccaccaggaccagggaccggactcttttcctgat
+            cgtttccgtggagccgagcttaaggaggtgtccagccaagaaagcaatgcccaggcaaat
+            gtgggcagccaggagccagcagacagagggagaagcgcctggcccctggccaaatgcaac
+            actaacaccagcaacaacacggaggaggagaagaagacgaaaaagaaggatgcgatcgtg
+            gtggacccgtccagcaacctgtactaccgctggctgaccgccatcgccctgcctgtcttc
+            tataactggtatctgcttatttgcagggcctgtttcgatgagctgcagtccgagtacctg
+            atgctgtggctggtcctggactactcggcagatgtcctgtatgtcttggatgtgcttgta
+            cgagctcggacaggttttctcgagcaaggcttaatggtcagtgataccaacaggctgtgg
+            cagcattacaagacgaccacgcagttcaagctggatgtgttgtccctggtccccaccgac
+            ctggcttacttaaaggtgggcacaaactacccagaagtgaggttcaaccgcctactgaag
+            ttttcccggctctttgaattctttgaccgcacagagacaaggaccaactaccccaatatg
+            ttcaggattgggaacttggtcttgtacattctcatcatcatccactggaatgcctgcatc
+            tactttgccatttccaagttcattggttttgggacagactcctgggtctacccaaacatc
+            tcaatcccagagcatgggcgcctctccaggaagtacatttacagtctctactggtccacc
+            ttgacccttaccaccattggtgagaccccaccccccgtgaaagatgaggagtatctcttt
+            gtggtcgtagacttcttggtgggtgttctgatttttgccaccattgtgggcaatgtgggc
+            tccatgatctcgaatatgaatgcctcacgggcagagttccaggccaagattgattccatc
+            aagcagtacatgcagttccgcaaggtcaccaaggacttggagacgcgggttatccggtgg
+            tttgactacctgtgggccaacaagaagacggtggatgagaaggaggtgctcaagagcctc
+            ccagacaagctgaaggctgagatcgccatcaacgtgcacctggacacgctgaagaaggtt
+            cgcatcttccaggactgtgaggcagggctgctggtggagctggtgctgaagctgcgaccc
+            actgtgttcagccctggggattatatctgcaagaagggagatattgggaaggagatgtac
+            atcatcaacgagggcaagctggccgtggtggctgatgatggggtcacccagttcgtggtc
+            ctcagcgatggcagctacttcggggagatcagcattctgaacatcaaggggagcaagtcg
+            gggaaccgcaggacggccaacatccgcagcattggctactcagacctgttctgcctctca
+            aaggacgatctcatggaggccctcaccgagtaccccgaagccaagaaggccctggaggag
+            aaaggacggcagatcctgatgaaagacaacctgatcgatgaggagctggccagggcgggc
+            gcggaccccaaggaccttgaggagaaagtggagcagctggggtcctccctggacaccctg
+            cagaccaggtttgcacgcctcctggctgagtacaacgccacccagatgaagatgaagcag
+            cgtctcagccaactggaaagccaggtgaagggtggtggggacaagcccctggctgatggg
+            gaagttcccggggatgctacaaaaacagaggacaaacaacagtga
+///

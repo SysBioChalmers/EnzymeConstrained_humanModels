@@ -1,0 +1,171 @@
+ENTRY       7099              CDS       T01001
+NAME        TLR4, ARMD10, CD284, TLR-4, TOLL
+DEFINITION  (RefSeq) toll like receptor 4
+ORTHOLOGY   K10160  toll-like receptor 4
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04064  NF-kappa B signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04145  Phagosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04217  Necroptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa05130  Pathogenic Escherichia coli infection
+            hsa05132  Salmonella infection
+            hsa05133  Pertussis
+            hsa05134  Legionellosis
+            hsa05140  Leishmaniasis
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05144  Malaria
+            hsa05145  Toxoplasmosis
+            hsa05146  Amoebiasis
+            hsa05152  Tuberculosis
+            hsa05161  Hepatitis B
+            hsa05162  Measles
+            hsa05164  Influenza A
+            hsa05205  Proteoglycans in cancer
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05323  Rheumatoid arthritis
+MODULE      hsa_M00686  Toll-like receptor signaling
+DISEASE     H00821  Age-related macular degeneration
+DRUG_TARGET Eritoran (DG01426): D04043 D09573
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04064 NF-kappa B signaling pathway
+                7099 (TLR4)
+               04066 HIF-1 signaling pathway
+                7099 (TLR4)
+               04151 PI3K-Akt signaling pathway
+                7099 (TLR4)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                7099 (TLR4)
+              Cell growth and death
+               04217 Necroptosis
+                7099 (TLR4)
+             Organismal Systems
+              Immune system
+               04620 Toll-like receptor signaling pathway
+                7099 (TLR4)
+               04621 NOD-like receptor signaling pathway
+                7099 (TLR4)
+             Human Diseases
+              Cancers
+               05205 Proteoglycans in cancer
+                7099 (TLR4)
+              Immune diseases
+               05323 Rheumatoid arthritis
+                7099 (TLR4)
+               05321 Inflammatiory bowel disease (IBD)
+                7099 (TLR4)
+              Infectious diseases
+               05130 Pathogenic Escherichia coli infection
+                7099 (TLR4)
+               05132 Salmonella infection
+                7099 (TLR4)
+               05133 Pertussis
+                7099 (TLR4)
+               05134 Legionellosis
+                7099 (TLR4)
+               05152 Tuberculosis
+                7099 (TLR4)
+               05162 Measles
+                7099 (TLR4)
+               05164 Influenza A
+                7099 (TLR4)
+               05161 Hepatitis B
+                7099 (TLR4)
+               05146 Amoebiasis
+                7099 (TLR4)
+               05144 Malaria
+                7099 (TLR4)
+               05145 Toxoplasmosis
+                7099 (TLR4)
+               05140 Leishmaniasis
+                7099 (TLR4)
+               05142 Chagas disease (American trypanosomiasis)
+                7099 (TLR4)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Phagocytosis
+               Toll-like receptors
+                7099 (TLR4)
+            CD molecules [BR:hsa04090]
+             Proteins
+              7099 (TLR4)
+            Glycosaminoglycan binding proteins [BR:hsa00536]
+             Hyaluronan
+              Cell surface receptors
+               7099 (TLR4)
+POSITION    9q33.1
+MOTIF       Pfam: LRR_8 TIR LRR_4 LRR_9 TIR_2 LRR_1 LRR_6 DUF1863
+DBLINKS     NCBI-GeneID: 7099
+            NCBI-ProteinID: NP_612564
+            OMIM: 603030
+            HGNC: 11850
+            Ensembl: ENSG00000136869
+            Vega: OTTHUMG00000021046
+            Pharos: O00206(Tchem)
+            UniProt: O00206
+STRUCTURE   PDB: 4G8A 3FXI
+AASEQ       839
+            MMSASRLAGTLIPAMAFLSCVRPESWEPCVEVVPNITYQCMELNFYKIPDNLPFSTKNLD
+            LSFNPLRHLGSYSFFSFPELQVLDLSRCEIQTIEDGAYQSLSHLSTLILTGNPIQSLALG
+            AFSGLSSLQKLVAVETNLASLENFPIGHLKTLKELNVAHNLIQSFKLPEYFSNLTNLEHL
+            DLSSNKIQSIYCTDLRVLHQMPLLNLSLDLSLNPMNFIQPGAFKEIRLHKLTLRNNFDSL
+            NVMKTCIQGLAGLEVHRLVLGEFRNEGNLEKFDKSALEGLCNLTIEEFRLAYLDYYLDDI
+            IDLFNCLTNVSSFSLVSVTIERVKDFSYNFGWQHLELVNCKFGQFPTLKLKSLKRLTFTS
+            NKGGNAFSEVDLPSLEFLDLSRNGLSFKGCCSQSDFGTTSLKYLDLSFNGVITMSSNFLG
+            LEQLEHLDFQHSNLKQMSEFSVFLSLRNLIYLDISHTHTRVAFNGIFNGLSSLEVLKMAG
+            NSFQENFLPDIFTELRNLTFLDLSQCQLEQLSPTAFNSLSSLQVLNMSHNNFFSLDTFPY
+            KCLNSLQVLDYSLNHIMTSKKQELQHFPSSLAFLNLTQNDFACTCEHQSFLQWIKDQRQL
+            LVEVERMECATPSDKQGMPVLSLNITCQMNKTIIGVSVLSVLVVSVVAVLVYKFYFHLML
+            LAGCIKYGRGENIYDAFVIYSSQDEDWVRNELVKNLEEGVPPFQLCLHYRDFIPGVAIAA
+            NIIHEGFHKSRKVIVVVSQHFIQSRWCIFEYEIAQTWQFLSSRAGIIFIVLQKVEKTLLR
+            QQVELYRLLSRNTYLEWEDSVLGRHIFWRRLRKALLDGKSWNPEGTVGTGCNWQEATSI
+NTSEQ       2520
+            atgatgtctgcctcgcgcctggctgggactctgatcccagccatggccttcctctcctgc
+            gtgagaccagaaagctgggagccctgcgtggaggtggttcctaatattacttatcaatgc
+            atggagctgaatttctacaaaatccccgacaacctccccttctcaaccaagaacctggac
+            ctgagctttaatcccctgaggcatttaggcagctatagcttcttcagtttcccagaactg
+            caggtgctggatttatccaggtgtgaaatccagacaattgaagatggggcatatcagagc
+            ctaagccacctctctaccttaatattgacaggaaaccccatccagagtttagccctggga
+            gccttttctggactatcaagtttacagaagctggtggctgtggagacaaatctagcatct
+            ctagagaacttccccattggacatctcaaaactttgaaagaacttaatgtggctcacaat
+            cttatccaatctttcaaattacctgagtatttttctaatctgaccaatctagagcacttg
+            gacctttccagcaacaagattcaaagtatttattgcacagacttgcgggttctacatcaa
+            atgcccctactcaatctctctttagacctgtccctgaaccctatgaactttatccaacca
+            ggtgcatttaaagaaattaggcttcataagctgactttaagaaataattttgatagttta
+            aatgtaatgaaaacttgtattcaaggtctggctggtttagaagtccatcgtttggttctg
+            ggagaatttagaaatgaaggaaacttggaaaagtttgacaaatctgctctagagggcctg
+            tgcaatttgaccattgaagaattccgattagcatacttagactactacctcgatgatatt
+            attgacttatttaattgtttgacaaatgtttcttcattttccctggtgagtgtgactatt
+            gaaagggtaaaagacttttcttataatttcggatggcaacatttagaattagttaactgt
+            aaatttggacagtttcccacattgaaactcaaatctctcaaaaggcttactttcacttcc
+            aacaaaggtgggaatgctttttcagaagttgatctaccaagccttgagtttctagatctc
+            agtagaaatggcttgagtttcaaaggttgctgttctcaaagtgattttgggacaaccagc
+            ctaaagtatttagatctgagcttcaatggtgttattaccatgagttcaaacttcttgggc
+            ttagaacaactagaacatctggatttccagcattccaatttgaaacaaatgagtgagttt
+            tcagtattcctatcactcagaaacctcatttaccttgacatttctcatactcacaccaga
+            gttgctttcaatggcatcttcaatggcttgtccagtctcgaagtcttgaaaatggctggc
+            aattctttccaggaaaacttccttccagatatcttcacagagctgagaaacttgaccttc
+            ctggacctctctcagtgtcaactggagcagttgtctccaacagcatttaactcactctcc
+            agtcttcaggtactaaatatgagccacaacaacttcttttcattggatacgtttccttat
+            aagtgtctgaactccctccaggttcttgattacagtctcaatcacataatgacttccaaa
+            aaacaggaactacagcattttccaagtagtctagctttcttaaatcttactcagaatgac
+            tttgcttgtacttgtgaacaccagagtttcctgcaatggatcaaggaccagaggcagctc
+            ttggtggaagttgaacgaatggaatgtgcaacaccttcagataagcagggcatgcctgtg
+            ctgagtttgaatatcacctgtcagatgaataagaccatcattggtgtgtcggtcctcagt
+            gtgcttgtagtatctgttgtagcagttctggtctataagttctattttcacctgatgctt
+            cttgctggctgcataaagtatggtagaggtgaaaacatctatgatgcctttgttatctac
+            tcaagccaggatgaggactgggtaaggaatgagctagtaaagaatttagaagaaggggtg
+            cctccatttcagctctgccttcactacagagactttattcccggtgtggccattgctgcc
+            aacatcatccatgaaggtttccataaaagccgaaaggtgattgttgtggtgtcccagcac
+            ttcatccagagccgctggtgtatctttgaatatgagattgctcagacctggcagtttctg
+            agcagtcgtgctggtatcatcttcattgtcctgcagaaggtggagaagaccctgctcagg
+            cagcaggtggagctgtaccgccttctcagcaggaacacttacctggagtgggaggacagt
+            gtcctggggcggcacatcttctggagacgactcagaaaagccctgctggatggtaaatca
+            tggaatccagaaggaacagtgggtacaggatgcaattggcaggaagcaacatctatctga
+///

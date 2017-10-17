@@ -1,0 +1,88 @@
+ENTRY       4931              CDS       T01001
+NAME        NVL, NVL2
+DEFINITION  (RefSeq) nuclear VCP-like
+ORTHOLOGY   K14571  ribosome biogenesis ATPase
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Translation
+               03008 Ribosome biogenesis in eukaryotes
+                4931 (NVL)
+            Ribosome biogenesis [BR:hsa03009]
+             Eukaryotic Type
+              Pre-60S particles
+               Other pre-60S particles
+                4931 (NVL)
+POSITION    1q42.11
+MOTIF       Pfam: AAA Nucleolin_bd RuvB_N AAA_16 AAA_2 AAA_22 AAA_5 AAA_33 TIP49 AAA_14 Mg_chelatase AAA_18 RNA_helicase Zeta_toxin IstB_IS21 AAA_28 NACHT TsaE ATPase ABC_tran AAA_3 Viral_helicase1 Sigma54_activat Vps4_C AAA_17 Cytidylate_kin2 DUF815 Rad17
+DBLINKS     NCBI-GeneID: 4931
+            NCBI-ProteinID: NP_002524
+            OMIM: 602426
+            HGNC: 8070
+            Ensembl: ENSG00000143748
+            Vega: OTTHUMG00000037536
+            Pharos: O15381(Tbio)
+            UniProt: O15381 B4DF43
+STRUCTURE   PDB: 2X8A
+AASEQ       856
+            MKPRPAGFVDNKLKQRVIQYLTSNKCGKYVDIGVLASDLQRVYSIDYGRRKRNAFRIQVE
+            KVFSIISSEKELKNLTELEDEHLAKRARQGEEDNEYTESYSDDDSSMEDYPDPQSANHMN
+            SSLLSLYRKGNPDSVSNTPEMEQRETTSSTPRISSKTGSIPLKTPAKDSEGGWFIDKTPS
+            VKKDSFFLDLSCEKSNPKKPITEIQDSKDSSLLESDMKRKGKLKNKGSKRKKEDLQEVDG
+            EIEAVLQKKAKARGLEFQISNVKFEDVGGNDMTLKEVCKMLIHMRHPEVYHHLGVVPPRG
+            VLLHGPPGCGKTLLAHAIAGELDLPILKVAAPEIVSGVSGESEQKLRELFEQAVSNAPCI
+            IFIDEIDAITPKREVASKDMERRIVAQLLTCMDDLNNVAATARVLVIGATNRPDSLDPAL
+            RRAGRFDREICLGIPDEASRERILQTLCRKLRLPQAFDFCHLAHLTPGFVGADLMALCRE
+            AAMCAVNRVLMKLQEQQKKNPEMEDLPSKGVQEERLGTEPTSETQDELQRLLGLLRDQDP
+            LSEEQMQGLCIELNDFIVALSSVQPSAKREGFVTVPNVTWADIGALEDIREELTMAILAP
+            VRNPDQFKALGLVTPAGVLLAGPPGCGKTLLAKAVANESGLNFISVKGPELLNMYVGESE
+            RAVRQVFQRAKNSAPCVIFFDEVDALCPRRSDRETGASVRVVNQLLTEMDGLEARQQVFI
+            MAATNRPDIIDPAILRPGRLDKTLFVGLPPPADRLAILKTITKNGTKPPLDADVNLEAIA
+            GDLRCDCYTGADLSALVREASICALRQEMARQKSGNEKGELKVSHKHFEEAFKKVRSSIS
+            KKDQIMYERLQESLSR
+NTSEQ       2571
+            atgaagcccagacctgcagggttcgtggataataaactcaagcagcgagtcatccagtac
+            cttaccagtaacaaatgtggcaaatatgtggacattggagtcttagcgtctgatttacaa
+            agagtgtacagtatagactatggtcgaagaaaaagaaatgcttttaggattcaggtagaa
+            aaagtatttagcataattagtagtgagaaggaacttaagaatttaacagaattagaagat
+            gaacatttggcaaaaagggcaagacaaggtgaagaggataatgagtatactgaaagctat
+            tctgatgatgattcaagtatggaagactacccagatccacagtcagcaaatcacatgaac
+            agttccctgctgtctttatatcggaaaggaaatcctgattctgtttcaaatactcctgag
+            atggagcaaagagaaaccacctcttcaacaccacggataagttccaaaacaggctccatt
+            cccttgaagacccctgccaaagattctgaaggaggatggtttattgacaaaaccccaagt
+            gtaaagaaagacagttttttcttggacctgtcatgtgagaaaagtaatcctaagaagcca
+            ataactgagatacaggattcaaaagattcttctcttttggagagtgatatgaaacggaaa
+            ggcaagctaaagaataaaggaagcaaaaggaagaaagaagatcttcaggaagtagatgga
+            gaaattgaagctgtcctgcaaaagaaagctaaagccagggggttagaattccagatctcc
+            aacgtgaagtttgaagatgtgggaggcaatgatatgacattaaaagaggtctgcaagatg
+            ctcatacacatgcgtcacccggaggtgtaccaccacctgggcgtcgtgccccctcgtgga
+            gttctccttcatggaccaccaggctgtgggaagacattacttgcacatgcaattgctggg
+            gaacttgacctgccaattttgaaagtggctgctccagagattgtgtctggagtatccgga
+            gagtctgagcagaagctgagagaactatttgagcaagctgtgtcaaatgcaccatgtatc
+            attttcattgatgaaattgatgctattacccccaaaagagaagtggcttcaaaagatatg
+            gaacgaagaattgtagcccaactcctaacctgcatggatgatctgaataatgtggctgct
+            acagcccgggtcctagttattggagctactaatcgaccagactcgttagaccctgctttg
+            agacgtgcgggaaggttcgaccgagaaatatgcctaggtatcccagatgaagcatccagg
+            gaaagaatacttcaaacattgtgcagaaaactgaggcttcctcaagcttttgatttctgt
+            cacttagcacacctaactccaggctttgttggtgctgatctcatggcactgtgccgagag
+            gcagcaatgtgtgcagtcaatagagtcttaatgaagctacaggaacagcagaagaaaaat
+            cctgaaatggaagatttgccatctaaaggagtccaggaggaaaggctgggaactgagccc
+            acttctgaaacacaggatgaattacaaaggctgctggggttgctaagagaccaagatccc
+            ctctcagaggagcagatgcaaggactgtgcattgaactgaatgatttcattgttgctcta
+            tcctcagtccaaccctctgccaaaagggaaggctttgtcactgtccctaatgtgacatgg
+            gcagatattggtgccctggaagacattagagaggagctcaccatggcaatattggcacca
+            gtacgcaacccagaccagttcaaagctcttggattggtgactccagctggggtcctcctt
+            gctggtcctcctggctgtgggaagactctgctggcgaaggctgttgcaaatgagtccgga
+            ctaaattttatatctgtcaagggccccgaattactaaacatgtatgttggtgagagtgaa
+            cgtgctgtgcgacaagtttttcaacgagccaagaactcagcaccctgtgtgatattcttt
+            gatgaagtggatgctttatgtcctcgaagatcagaccgagagacaggggcaagtgtccga
+            gtggtgaatcagctacttacagagatggatggtctggaagcacgccagcaggtttttatt
+            atggcagccactaacaggccagatataattgaccctgcaatcctgcgcccgggccgcctg
+            gacaaaacactgtttgtgggtttaccgccccctgcagatcgccttgccatcttaaaaact
+            atcacaaaaaatggtaccaaaccaccactggatgcagatgtaaatttggaagcaattgct
+            ggtgaccttcgctgtgattgctatacgggcgcagatctctctgctttggtacgagaagct
+            tctatctgtgccctgagacaggaaatggcaagacagaagagtggaaatgaaaaaggtgaa
+            ctcaaggttagtcataagcattttgaagaagctttcaagaaagtaagatcatctatatca
+            aaaaaggatcaaatcatgtatgaacgtttgcaggagtccctcagccggtga
+///

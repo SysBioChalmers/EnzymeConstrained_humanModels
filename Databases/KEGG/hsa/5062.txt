@@ -1,0 +1,99 @@
+ENTRY       5062              CDS       T01001
+NAME        PAK2, PAK65, PAKgamma
+DEFINITION  (RefSeq) p21 (RAC1) activated kinase 2
+ORTHOLOGY   K04410  p21-activated kinase 2 [EC:2.7.11.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04360  Axon guidance
+            hsa04510  Focal adhesion
+            hsa04660  T cell receptor signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05211  Renal cell carcinoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04014 Ras signaling pathway
+                5062 (PAK2)
+               04010 MAPK signaling pathway
+                5062 (PAK2)
+               04012 ErbB signaling pathway
+                5062 (PAK2)
+             Cellular Processes
+              Cellular community - eukaryotes
+               04510 Focal adhesion
+                5062 (PAK2)
+              Cell motility
+               04810 Regulation of actin cytoskeleton
+                5062 (PAK2)
+             Organismal Systems
+              Immune system
+               04660 T cell receptor signaling pathway
+                5062 (PAK2)
+              Development
+               04360 Axon guidance
+                5062 (PAK2)
+             Human Diseases
+              Cancers
+               05211 Renal cell carcinoma
+                5062 (PAK2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 5062 (PAK2)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: STE group
+              STE20 family
+               5062 (PAK2)
+POSITION    3q29
+MOTIF       Pfam: Pkinase Pkinase_Tyr PBD Kinase-like APH Haspin_kinase Kdo
+DBLINKS     NCBI-GeneID: 5062
+            NCBI-ProteinID: NP_002568
+            OMIM: 605022
+            HGNC: 8591
+            Ensembl: ENSG00000180370
+            Vega: OTTHUMG00000155534
+            Pharos: Q13177(Tchem)
+            UniProt: Q13177 A8K5M4
+AASEQ       524
+            MSDNGELEDKPPAPPVRMSSTIFSTGGKDPLSANHSLKPLPSVPEEKKPRHKIISIFSGT
+            EKGSKKKEKERPEISPPSDFEHTIHVGFDAVTGEFTGMPEQWARLLQTSNITKLEQKKNP
+            QAVLDVLKFYDSNTVKQKYLSFTPPEKDGFPSGTPALNAKGTEAPAVVTEEEDDDEETAP
+            PVIAPRPDHTKSIYTRSVIDPVPAPVGDSHVDGAAKSLDKQKKKTKMTDEEIMEKLRTIV
+            SIGDPKKKYTRYEKIGQGASGTVFTATDVALGQEVAIKQINLQKQPKKELIINEILVMKE
+            LKNPNIVNFLDSYLVGDELFVVMEYLAGGSLTDVVTETCMDEAQIAAVCRECLQALEFLH
+            ANQVIHRDIKSDNVLLGMEGSVKLTDFGFCAQITPEQSKRSTMVGTPYWMAPEVVTRKAY
+            GPKVDIWSLGIMAIEMVEGEPPYLNENPLRALYLIATNGTPELQNPEKLSPIFRDFLNRC
+            LEMDVEKRGSAKELLQHPFLKLAKPLSSLTPLIMAAKEAMKSNR
+NTSEQ       1575
+            atgtctgataacggagaactggaagataagcctccagcacctcctgtgcgaatgagcagc
+            accatctttagcactggaggcaaagaccctttgtcagccaatcacagtttgaaacctttg
+            ccctctgttccagaagagaaaaagcccaggcataaaatcatctccatattctcaggcaca
+            gagaaaggaagtaaaaagaaagaaaaggaacggccagaaatttctcctccatctgatttt
+            gagcacaccatccatgttggctttgatgctgttactggagaattcactggcatgccagaa
+            cagtgggctcgattactacagacctccaatatcaccaaactagagcaaaagaagaatcct
+            caggctgtgctggatgtcctaaagttctacgactccaacacagtgaagcagaaatatctg
+            agctttactcctcctgagaaagatggctttccttctggaacaccagcactgaatgccaag
+            ggaacagaagcacccgcagtagtgacagaggaggaggatgatgatgaagagactgctcct
+            cccgttattgccccgcgaccggatcatacgaaatcaatttacacacggtctgtaattgac
+            cctgttcctgcaccagttggtgattcacatgttgatggtgctgccaagtctttagacaaa
+            cagaaaaagaagactaagatgacagatgaagagattatggagaaattaagaactatcgtg
+            agcataggtgaccctaagaaaaaatatacaagatatgaaaaaattggacaaggggcttct
+            ggtacagttttcactgctactgacgttgcactgggacaggaggttgctatcaaacaaatt
+            aatttacagaaacagccaaagaaggaactgatcattaacgagattctggtgatgaaagaa
+            ttgaaaaatcccaacatcgttaactttttggacagttacctggtaggagatgaattgttt
+            gtggtcatggaataccttgctggggggtcactcactgatgtggtaacagaaacgtgcatg
+            gatgaagcacagattgctgctgtatgcagagagtgtttacaggcattggagtttttacat
+            gctaatcaagtgatccacagagacatcaaaagtgacaatgtacttttgggaatggaagga
+            tctgttaagctcactgactttggtttctgtgcccagatcacccctgagcagagcaaacgc
+            agtaccatggtcggaacgccatactggatggcaccagaggtggttacacggaaagcttat
+            ggccctaaagtcgacatatggtctctgggtatcatggctattgagatggtagaaggagag
+            cctccatacctcaatgaaaatcccttgagggccttgtacctaatagcaactaatggaacc
+            ccagaacttcagaatccagagaaactttccccaatatttcgggatttcttaaatcgatgt
+            ttggaaatggatgtggaaaaaaggggttcagccaaagaattattacagcatcctttcctg
+            aaactggccaaaccgttatctagcttgacaccactgatcatggcagctaaagaagcaatg
+            aagagtaaccgttaa
+///

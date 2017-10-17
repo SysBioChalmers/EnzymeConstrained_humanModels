@@ -1,0 +1,184 @@
+ENTRY       2906              CDS       T01001
+NAME        GRIN2D, EB11, EIEE46, GluN2D, NMDAR2D, NR2D
+DEFINITION  (RefSeq) glutamate ionotropic receptor NMDA type subunit 2D
+ORTHOLOGY   K05212  glutamate receptor ionotropic, NMDA 2D
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04080  Neuroactive ligand-receptor interaction
+            hsa04713  Circadian entrainment
+            hsa04720  Long-term potentiation
+            hsa04724  Glutamatergic synapse
+            hsa05010  Alzheimer's disease
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05033  Nicotine addiction
+            hsa05034  Alcoholism
+DISEASE     H00606  Early infantile epileptic encephalopathy
+DRUG_TARGET Acamprosate (DG00996): D02780 D07058
+            Amantadine (DG00860): D00777 D07441
+            Aptiganel hydrochloride: D02973
+            Budipine (DG00866): D07306 D07589
+            Delucemine hydrochloride: D03679
+            Dextromethorphan (DG01078): D00848 D03742 D03744
+            Dextromethorphan, combinations: D10208
+            Dextrorphan hydrochloride: D03746
+            Dizocilpine maleate: D03878
+            Esketamine: D07283
+            Esketamine (DG01829): D10627
+            Gavestinel: D04308
+            Ketamine (DG00796): D00711 D08098
+            Ketobemidone (DG00815): D08100 D08101
+            Latrepirdine (DG01379): D09917 D09918
+            Levomethadone (DG01002): D08121 D08122
+            Licostinel: D04728
+            Memantine (DG00986): D04905 D08174
+            Methadone (DG00999): D02102 D08195
+            Neramexane mesylate: D05145
+            Perzinfotel: D05447
+            Phencyclidine hydrochloride: D05453
+            Remacemide hydrochloride: D05714
+            Selfotel: D02410
+            Tiletamine (DG01380): D06146 D08596
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04020 Calcium signaling pathway
+                2906 (GRIN2D)
+               04024 cAMP signaling pathway
+                2906 (GRIN2D)
+              Signaling molecules and interaction
+               04080 Neuroactive ligand-receptor interaction
+                2906 (GRIN2D)
+             Organismal Systems
+              Nervous system
+               04724 Glutamatergic synapse
+                2906 (GRIN2D)
+               04720 Long-term potentiation
+                2906 (GRIN2D)
+              Environmental adaptation
+               04713 Circadian entrainment
+                2906 (GRIN2D)
+             Human Diseases
+              Neurodegenerative diseases
+               05010 Alzheimer's disease
+                2906 (GRIN2D)
+               05014 Amyotrophic lateral sclerosis (ALS)
+                2906 (GRIN2D)
+              Substance dependence
+               05030 Cocaine addiction
+                2906 (GRIN2D)
+               05031 Amphetamine addiction
+                2906 (GRIN2D)
+               05033 Nicotine addiction
+                2906 (GRIN2D)
+               05034 Alcoholism
+                2906 (GRIN2D)
+            Ion channels [BR:hsa04040]
+             Glutamate-gated cation channels
+              Glutamate (ionotropic), NMDA
+               2906 (GRIN2D)
+POSITION    19q13.33
+MOTIF       Pfam: Lig_chan Lig_chan-Glu_bd SBP_bac_3 ANF_receptor NMDAR2_C MatE
+DBLINKS     NCBI-GeneID: 2906
+            NCBI-ProteinID: NP_000827
+            OMIM: 602717
+            HGNC: 4588
+            Ensembl: ENSG00000105464
+            Vega: OTTHUMG00000183304
+            Pharos: O15399(Tclin)
+            UniProt: O15399 Q59G17
+AASEQ       1336
+            MRGAGGPRGPRGPAKMLLLLALACASPFPEEAPGPGGAGGPGGGLGGARPLNVALVFSGP
+            AYAAEAARLGPAVAAAVRSPGLDVRPVALVLNGSDPRSLVLQLCDLLSGLRVHGVVFEDD
+            SRAPAVAPILDFLSAQTSLPIVAVHGGAALVLTPKEKGSTFLQLGSSTEQQLQVIFEVLE
+            EYDWTSFVAVTTRAPGHRAFLSYIEVLTDGSLVGWEHRGALTLDPGAGEAVLSAQLRSVS
+            AQIRLLFCAREEAEPVFRAAEEAGLTGSGYVWFMVGPQLAGGGGSGAPGEPPLLPGGAPL
+            PAGLFAVRSAGWRDDLARRVAAGVAVVARGAQALLRDYGFLPELGHDCRAQNRTHRGESL
+            HRYFMNITWDNRDYSFNEDGFLVNPSLVVISLTRDRTWEVVGSWEQQTLRLKYPLWSRYG
+            RFLQPVDDTQHLTVATLEERPFVIVEPADPISGTCIRDSVPCRSQLNRTHSPPPDAPRPE
+            KRCCKGFCIDILKRLAHTIGFSYDLYLVTNGKHGKKIDGVWNGMIGEVFYQRADMAIGSL
+            TINEERSEIVDFSVPFVETGISVMVARSNGTVSPSAFLEPYSPAVWVMMFVMCLTVVAVT
+            VFIFEYLSPVGYNRSLATGKRPGGSTFTIGKSIWLLWALVFNNSVPVENPRGTTSKIMVL
+            VWAFFAVIFLASYTANLAAFMIQEEYVDTVSGLSDRKFQRPQEQYPPLKFGTVPNGSTEK
+            NIRSNYPDMHSYMVRYNQPRVEEALTQLKAGKLDAFIYDAAVLNYMARKDEGCKLVTIGS
+            GKVFATTGYGIALHKGSRWKRPIDLALLQFLGDDEIEMLERLWLSGICHNDKIEVMSSKL
+            DIDNMAGVFYMLLVAMGLSLLVFAWEHLVYWRLRHCLGPTHRMDFLLAFSRGMYSCCSAE
+            AAPPPAKPPPPPQPLPSPAYPAPRPAPGPAPFVPRERASVDRWRRTKGAGPPGGAGLADG
+            FHRYYGPIEPQGLGLGLGEARAAPRGAAGRPLSPPAAQPPQKPPPSYFAIVRDKEPAEPP
+            AGAFPGFPSPPAPPAAAATAVGPPLCRLAFEDESPPAPARWPRSDPESQPLLGPGAGGAG
+            GTGGAGGGAPAAPPPCRAAPPPCPYLDLEPSPSDSEDSESLGGASLGGLEPWWFADFPYP
+            YAERLGPPPGRYWSVDKLGGWRAGSWDYLPPRSGPAAWHCRHCASLELLPPPRHLSCSHD
+            GLDGGWWAPPPPPWAAGPLPRRRARCGCPRSHPHRPRASHRTPAAAAPHHHRHRRAAGGW
+            DLPPPAPTSRSLEDLSSCPRAAPARRLTGPSRHARRCPHAAHWGPPLPTASHRRHRGGDL
+            GTRRGSAHFSSLESEV
+NTSEQ       4011
+            atgcgcggcgccggtggcccccgcggccctcggggccccgctaagatgctgctgctgctg
+            gcgctggcctgcgccagcccgttcccggaggaggcgccggggccgggcggggccggtggg
+            cccggcggcggcctcggcggggcgcggccgctcaacgtggcgctcgtgttctcggggccc
+            gcgtacgcggccgaggcggcacgcctgggcccggccgtggcggcggcggtgcgcagcccg
+            ggcctagacgtgcggcccgtggcgctggtgctcaacggctcggacccgcgcagcctcgtg
+            ctgcagctctgcgacctgctgtcggggttgcgcgtgcacggcgtggtcttcgaagacgac
+            tcgcgcgcgcccgccgtcgcgcccatcctcgacttcctgtcggcgcagacctcgctgccc
+            atcgtggccgtgcacggcggcgccgcgctcgtgctcacgcccaaggagaagggctccacc
+            ttcctgcagctgggctcttccaccgagcaacagcttcaggtcatctttgaggtgctggag
+            gagtatgactggacgtcctttgtagccgtgaccactcgtgcccctggccaccgggccttc
+            ctgtcctacattgaggtgctgactgacggtagtctggtgggctgggagcaccgcggagcg
+            ctgacgctggaccctggggcgggcgaggccgtgctcagtgcccagctccgcagtgtcagc
+            gcgcagatccgcctgctcttctgcgcccgagaggaggccgagcccgtgttccgcgcagct
+            gaggaggctggcctcactggatctggctacgtctggttcatggtggggccccagctggct
+            ggaggcgggggctctggggcccctggtgagccccctcttctgccaggaggcgcccccctg
+            cctgccgggctgtttgcagtgcgctcggctggctggcgggatgacctggctcggcgagtg
+            gcagctggcgtggccgtagtggccagaggtgcccaggccctgctgcgtgattatggtttc
+            cttcctgagctcggccacgactgtcgcgcccagaaccgcacccaccgcggcgagagtctg
+            cataggtacttcatgaacatcacgtgggataaccgggattactccttcaatgaggacggc
+            ttcctagtgaacccctccctggtggtcatctccctcaccagagacaggacgtgggaggtg
+            gtgggcagctgggagcagcagacgctccgcctcaagtacccgctgtggtcccgctatggt
+            cgcttcctgcagccagtggacgacacgcagcacctcacggtggccacgctggaggaaagg
+            ccgtttgtcatcgtggagcctgcagaccctatcagcggcacctgcatccgagactccgtc
+            ccctgccggagccagctcaaccgaacccacagccctccaccggatgccccccgcccggaa
+            aagcgctgctgcaagggtttctgcatcgacattctgaagcggctggcgcataccatcggc
+            ttcagctacgacctctacctggtcaccaatggcaagcacggaaagaagatcgatggcgtc
+            tggaacggcatgatcggggaggtgttctaccagcgcgcagacatggccatcggctccctc
+            accatcaacgaggagcgctccgagatcgtggacttctccgtccccttcgtggagaccggc
+            atcagcgtcatggtggcgcgcagcaatggcacggtgtccccctcggccttcctcgagccc
+            tacagccccgccgtgtgggtgatgatgttcgtcatgtgcctcactgtggtcgccgtcact
+            gttttcatcttcgagtacctcagtcctgttggttacaaccgcagcctggccacgggcaag
+            cgccctggcggttcaaccttcaccattgggaaatccatctggctgctctgggccctggtg
+            ttcaataattcggtgcccgtggagaacccccggggaaccaccagcaaaatcatggtgctg
+            gtgtgggccttcttcgccgtcatcttcctcgccagctacacagccaacctggccgccttc
+            atgatccaggaggagtacgtggatactgtgtctgggctcagtgaccgcaagttccagagg
+            ccccaggagcagtacccgcccctgaagtttgggaccgtgcccaacggctccacggagaag
+            aacatccgcagcaactatcccgacatgcacagctacatggtgcgctacaaccagccccgc
+            gtagaggaagcgctcactcagctcaaggcagggaagctggacgccttcatctacgatgct
+            gcagtgctcaattacatggcccgcaaggacgagggctgcaagcttgtcaccatcggctcc
+            ggcaaggtcttcgccacgacaggctatggcatcgccctgcacaagggctcccgctggaag
+            cggcccatcgacctggcgttgctgcagttcctgggggatgatgagatcgagatgctggag
+            cggctgtggctctctgggatctgccacaatgacaaaatcgaggtgatgagcagcaagctg
+            gacatcgacaacatggcgggcgtcttctacatgctcctggtggccatgggcctgtccctg
+            ctggtcttcgcctgggagcacctggtgtactggcgcctgcggcactgcctggggcccacc
+            caccgcatggacttcctgctggccttctccaggggcatgtacagctgctgcagcgctgag
+            gccgccccaccgcccgccaagcccccgccgccgccacagcccctgcccagccccgcgtac
+            cccgcgccgcggccggctcccgggcccgcacctttcgtgccccgcgagcgcgcctcagtg
+            gaccgctggcgccggaccaagggcgcggggccgccggggggcgcgggcctggccgacggc
+            ttccaccgctactacggccccatcgagccgcagggcctaggcctcggcctgggcgaagcg
+            cgcgcggcaccgcggggcgcagccgggcgcccgctgtccccgccggccgctcagcccccg
+            cagaagccgccgccctcctatttcgccatcgtacgcgacaaggagccagccgagcccccc
+            gccggcgccttccccggcttcccgtcgccgcccgcgccccccgccgccgcggccaccgcc
+            gtcgggccgccactctgccgcttggccttcgaggacgagagcccgccggcgcccgcgcgg
+            tggccgcgctcggaccccgagagccaacccctgctggggccaggcgcgggcggcgcgggg
+            ggcacggggggcgcaggcggaggagccccggccgctccgcccccgtgccgcgccgcgccg
+            cccccgtgcccttacctcgatctcgagccgtcgccgtcggactcggaggactcggagagc
+            ctgggcggcgcgtcgctgggcggcctggagccctggtggttcgccgacttcccttacccg
+            tatgccgagcgcctcgggccgccgcccggccgctactggtcggtcgacaagctcgggggc
+            tggcgcgccgggagctgggactacctgcccccgcgcagcggtccggccgcctggcactgt
+            cggcactgcgccagcctggagctgctgccgccgccgcgccatctcagctgctcgcacgat
+            ggcctggacggcggctggtgggcgccaccgcctccaccctgggccgccgggcccctgccc
+            cgacgccgggcccgctgcgggtgcccgcggtcgcacccgcaccgcccgcgggcctcgcac
+            cgcacgcccgccgccgccgcgccccaccaccacaggcaccggcgcgccgctgggggctgg
+            gacctcccgccgcccgcgcccacctcgcgctcgctcgaggacctcagctcgtgccctcgc
+            gccgcccctgcgcgcaggcttaccgggccctcccgccacgctcgcaggtgtccgcacgcc
+            gcgcactgggggccgccgctgcccacagcttcccaccggagacaccggggcggggacctg
+            ggcacccgcaggggctcggcgcacttctctagcctcgagtccgaggtatga
+///

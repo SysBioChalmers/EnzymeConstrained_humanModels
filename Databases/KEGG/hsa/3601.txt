@@ -1,0 +1,64 @@
+ENTRY       3601              CDS       T01001
+NAME        IL15RA, CD215
+DEFINITION  (RefSeq) interleukin 15 receptor subunit alpha
+ORTHOLOGY   K05074  interleukin 15 receptor alpha
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04630  Jak-STAT signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa05166  HTLV-I infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                3601 (IL15RA)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                3601 (IL15RA)
+             Organismal Systems
+              Immune system
+               04672 Intestinal immune network for IgA production
+                3601 (IL15RA)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                3601 (IL15RA)
+            Cytokine receptors [BR:hsa04050]
+             Class I cytokine receptor (hematopoietin family receptor)
+              3601 (IL15RA)
+            CD molecules [BR:hsa04090]
+             Proteins
+              3601 (IL15RA)
+POSITION    10p15.1
+MOTIF       Pfam: Sushi
+DBLINKS     NCBI-GeneID: 3601
+            NCBI-ProteinID: NP_002180
+            OMIM: 601070
+            HGNC: 5978
+            Ensembl: ENSG00000134470
+            Vega: OTTHUMG00000017612
+            Pharos: Q13261(Tbio)
+            UniProt: Q13261
+STRUCTURE   PDB: 2Z3Q 2Z3R 4GS7 2ERS
+AASEQ       267
+            MAPRRARGCRTLGLPALLLLLLLRPPATRGITCPPPMSVEHADIWVKSYSLYSRERYICN
+            SGFKRKAGTSSLTECVLNKATNVAHWTTPSLKCIRDPALVHQRPAPPSTVTTAGVTPQPE
+            SLSPSGKEPAASSPSSNNTAATTAAIVPGSQLMPSKSPSTGTTEISSHESSHGTPSQTTA
+            KNWELTASASHQPPGVYPQGHSDTTVAISTSTVLLCGLSAVSLLACYLKSRQTPPLASVE
+            MEAMEALPVTWGTSSRDEDLENCSHHL
+NTSEQ       804
+            atggccccgcggcgggcgcgcggctgccggaccctcggtctcccggcgctgctactgctg
+            ctgctgctccggccgccggcgacgcggggcatcacgtgccctccccccatgtccgtggaa
+            cacgcagacatctgggtcaagagctacagcttgtactccagggagcggtacatttgtaac
+            tctggtttcaagcgtaaagccggcacgtccagcctgacggagtgcgtgttgaacaaggcc
+            acgaatgtcgcccactggacaacccccagtctcaaatgcattagagaccctgccctggtt
+            caccaaaggccagcgccaccctccacagtaacgacggcaggggtgaccccacagccagag
+            agcctctccccttctggaaaagagcccgcagcttcatctcccagctcaaacaacacagcg
+            gccacaacagcagctattgtcccgggctcccagctgatgccttcaaaatcaccttccaca
+            ggaaccacagagataagcagtcatgagtcctcccacggcaccccctctcagacaacagcc
+            aagaactgggaactcacagcatccgcctcccaccagccgccaggtgtgtatccacagggc
+            cacagcgacaccactgtggctatctccacgtccactgtcctgctgtgtgggctgagcgct
+            gtgtctctcctggcatgctacctcaagtcaaggcaaactcccccgctggccagcgttgaa
+            atggaagccatggaggctctgccggtgacttgggggaccagcagcagagatgaagacttg
+            gaaaactgctctcaccacctatga
+///

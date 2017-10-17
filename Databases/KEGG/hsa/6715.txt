@@ -1,0 +1,53 @@
+ENTRY       6715              CDS       T01001
+NAME        SRD5A1, S5AR_1
+DEFINITION  (RefSeq) steroid 5 alpha-reductase 1
+ORTHOLOGY   K12343  3-oxo-5-alpha-steroid 4-dehydrogenase 1 [EC:1.3.1.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+DRUG_TARGET Alfatradiol: D07121
+            Bexlosteride: D03107
+            Dutasteride: D03820
+            Idronoxil: D04498
+            Izonsteride: D04646
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                6715 (SRD5A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.22  3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)
+                 6715 (SRD5A1)
+POSITION    5p15.31
+MOTIF       Pfam: Steroid_dh DUF1295 PEMT
+DBLINKS     NCBI-GeneID: 6715
+            NCBI-ProteinID: NP_001038
+            OMIM: 184753
+            HGNC: 11284
+            Ensembl: ENSG00000145545
+            Vega: OTTHUMG00000090456
+            Pharos: P18405(Tclin)
+            UniProt: P18405
+AASEQ       259
+            MATATGVAEERLLAALAYLQCAVGCAVFARNRQTNSVYGRHALPSHRLRVPARAAWVVQE
+            LPSLALPLYQYASESAPRLRSAPNCILLAMFLVHYGHRCLIYPFLMRGGKPMPLLACTMA
+            IMFCTCNGYLQSRYLSHCAVYADDWVTDPRFLIGFGLWLTGMLINIHSDHILRNLRKPGD
+            TGYKIPRGGLFEYVTAANYFGEIMEWCGYALASWSVQGAAFAFFTFCFLSGRAKEHHEWY
+            LRKFEEYPKFRKIIIPFLF
+NTSEQ       780
+            atggcaacggcgacgggggtggcggaggagcgcctgctggccgcgctcgcctacctgcag
+            tgcgccgtgggctgcgcggtcttcgcgcgcaatcgtcagacgaactcagtgtacggccgc
+            cacgcgctgcccagccacaggctccgagtgccggcgcgggccgcctgggtggtgcaggag
+            ctgccctcgctggccctgccgctctaccagtacgccagcgagtccgccccgcgtctccgc
+            agcgcgcccaactgcatcctcctggccatgttcctcgtccactacgggcatcggtgctta
+            atttacccatttctgatgcgaggaggaaagcctatgccactgttggcgtgtacaatggcg
+            attatgttctgtacctgtaacggctatttgcaaagcagatacttgagccattgtgcagtg
+            tatgctgatgactgggtaacagatccccgttttctaataggttttggcttgtggttaacg
+            ggcatgttgataaacatccattcagatcatatcctaaggaatctcagaaaaccaggagat
+            actggatacaaaataccaaggggaggcttatttgaatacgtaactgcagccaactatttt
+            ggagaaatcatggagtggtgtggctatgccctggccagctggtctgtccaaggcgcggct
+            tttgctttcttcacgttttgttttttatctggtagagcaaaagagcatcatgagtggtac
+            ctccggaaatttgaagagtatccaaagttcagaaaaattataattccatttttgttttaa
+///

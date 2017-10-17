@@ -1,0 +1,136 @@
+ENTRY       4881              CDS       T01001
+NAME        NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA
+DEFINITION  (RefSeq) natriuretic peptide receptor 1
+ORTHOLOGY   K12323  atrial natriuretic peptide receptor A [EC:4.6.1.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04921  Oxytocin signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+            hsa04924  Renin secretion
+            hsa04925  Aldosterone synthesis and secretion
+MODULE      hsa_M00694  cGMP signaling
+DRUG_TARGET Carperitide: D03328
+            Cenderitide: D10063
+            Nesiritide (DG00238): D05147 D05148
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                4881 (NPR1)
+             Environmental Information Processing
+              Signal transduction
+               04024 cAMP signaling pathway
+                4881 (NPR1)
+               04022 cGMP - PKG signaling pathway
+                4881 (NPR1)
+             Organismal Systems
+              Endocrine system
+               04923 Regulation of lipolysis in adipocyte
+                4881 (NPR1)
+               04921 Oxytocin signaling pathway
+                4881 (NPR1)
+               04924 Renin secretion
+                4881 (NPR1)
+               04925 Aldosterone synthesis and secretion
+                4881 (NPR1)
+              Circulatory system
+               04270 Vascular smooth muscle contraction
+                4881 (NPR1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.6  Phosphorus-oxygen lyases
+               4.6.1  Phosphorus-oxygen lyases (only sub-subclass identified to date)
+                4.6.1.2  guanylate cyclase
+                 4881 (NPR1)
+            Protein kinases [BR:hsa01001]
+             Serine/threonine protein kinases: RGC group
+              RGC family [OT]
+               4881 (NPR1)
+POSITION    1q21.3
+MOTIF       Pfam: Guanylate_cyc ANF_receptor Pkinase_Tyr Pkinase HNOBA
+DBLINKS     NCBI-GeneID: 4881
+            NCBI-ProteinID: NP_000897
+            OMIM: 108960
+            HGNC: 7943
+            Ensembl: ENSG00000169418
+            Vega: OTTHUMG00000037085
+            Pharos: P16066(Tclin)
+            UniProt: P16066 A0A140VJE6
+AASEQ       1061
+            MPGPRRPAGSRLRLLLLLLLPPLLLLLRGSHAGNLTVAVVLPLANTSYPWSWARVGPAVE
+            LALAQVKARPDLLPGWTVRTVLGSSENALGVCSDTAAPLAAVDLKWEHNPAVFLGPGCVY
+            AAAPVGRFTAHWRVPLLTAGAPALGFGVKDEYALTTRAGPSYAKLGDFVAALHRRLGWER
+            QALMLYAYRPGDEEHCFFLVEGLFMRVRDRLNITVDHLEFAEDDLSHYTRLLRTMPRKGR
+            VIYICSSPDAFRTLMLLALEAGLCGEDYVFFHLDIFGQSLQGGQGPAPRRPWERGDGQDV
+            SARQAFQAAKIITYKDPDNPEYLEFLKQLKHLAYEQFNFTMEDGLVNTIPASFHDGLLLY
+            IQAVTETLAHGGTVTDGENITQRMWNRSFQGVTGYLKIDSSGDRETDFSLWDMDPENGAF
+            RVVLNYNGTSQELVAVSGRKLNWPLGYPPPDIPKCGFDNEDPACNQDHLSTLEVLALVGS
+            LSLLGILIVSFFIYRKMQLEKELASELWRVRWEDVEPSSLERHLRSAGSRLTLSGRGSNY
+            GSLLTTEGQFQVFAKTAYYKGNLVAVKRVNRKRIELTRKVLFELKHMRDVQNEHLTRFVG
+            ACTDPPNICILTEYCPRGSLQDILENESITLDWMFRYSLTNDIVKGMLFLHNGAICSHGN
+            LKSSNCVVDGRFVLKITDYGLESFRDLDPEQGHTVYAKKLWTAPELLRMASPPVRGSQAG
+            DVYSFGIILQEIALRSGVFHVEGLDLSPKEIIERVTRGEQPPFRPSLALQSHLEELGLLM
+            QRCWAEDPQERPPFQQIRLTLRKFNRENSSNILDNLLSRMEQYANNLEELVEERTQAYLE
+            EKRKAEALLYQILPHSVAEQLKRGETVQAEAFDSVTIYFSDIVGFTALSAESTPMQVVTL
+            LNDLYTCFDAVIDNFDVYKVETIGDAYMVVSGLPVRNGRLHACEVARMALALLDAVRSFR
+            IRHRPQEQLRLRIGIHTGPVCAGVVGLKMPRYCLFGDTVNTASRMESNGEALKIHLSSET
+            KAVLEEFGGFELELRGDVEMKGKGKVRTYWLLGERGSSTRG
+NTSEQ       3186
+            atgccggggccccggcgccccgctggctcccgcctgcgcctgctcctgctcctgctgctg
+            ccgccgctgctgctgctgctccggggcagccacgcgggcaacctgacggtagccgtggta
+            ctgccgctggccaatacctcgtacccctggtcgtgggcgcgcgtgggacccgccgtggag
+            ctggccctggcccaggtgaaggcgcgccccgacttgctgccgggctggacggtccgcacg
+            gtgctgggcagcagcgaaaacgcgctgggcgtctgctccgacaccgcagcgcccctggcc
+            gcggtggacctcaagtgggagcacaaccccgctgtgttcctgggccccggctgcgtgtac
+            gccgccgccccagtggggcgcttcaccgcgcactggcgggtcccgctgctgaccgccggc
+            gccccggcgctgggcttcggtgtcaaggacgagtatgcgctgaccacccgcgcggggccc
+            agctacgccaagctgggggacttcgtggcggcgctgcaccgacggctgggctgggagcgc
+            caagcgctcatgctctacgcctaccggccgggtgacgaagagcactgcttcttcctcgtg
+            gaggggctgttcatgcgggtccgcgaccgcctcaatattacggtggaccacctggagttc
+            gccgaggacgacctcagccactacaccaggctgctgcggaccatgccgcgcaaaggccga
+            gttatctacatctgcagctcccctgatgccttcagaaccctcatgctcctggccctggaa
+            gctggcttgtgtggggaggactacgttttcttccacctggatatctttgggcaaagcctg
+            caaggtggacagggccctgctccccgcaggccctgggagagaggggatgggcaggatgtc
+            agtgcccgccaggcctttcaggctgccaaaatcattacatataaagacccagataatccc
+            gagtacttggaattcctgaagcagttaaaacacctggcctatgagcagttcaacttcacc
+            atggaggatggcctggtgaacaccatcccagcatccttccacgacgggctcctgctctat
+            atccaggcagtgacggagactctggcacatgggggaactgttactgatggggagaacatc
+            actcagcggatgtggaaccgaagctttcaaggtgtgacaggatacctgaaaattgatagc
+            agtggcgatcgggaaacagacttctccctctgggatatggatcccgagaatggtgccttc
+            agggttgtactgaactacaatgggacttcccaagagctggtggctgtgtcggggcgcaaa
+            ctgaactggcccctggggtaccctcctcctgacatccccaaatgtggctttgacaacgaa
+            gacccagcatgcaaccaagatcacctttccaccctggaggtgctggctttggtgggcagc
+            ctctccttgctcggcattctgattgtctccttcttcatatacaggaagatgcagctggag
+            aaggaactggcctcggagctgtggcgggtgcgctgggaggacgttgagcccagtagcctt
+            gagaggcacctgcggagtgcaggcagccggctgaccctgagcgggagaggctccaattac
+            ggctccctgctaaccacagagggccagttccaagtctttgccaagacagcatattataag
+            ggcaacctcgtggctgtgaaacgtgtgaaccgtaaacgcattgagctgacacgaaaagtc
+            ctgtttgaactgaagcatatgcgggatgtgcagaatgaacacctgaccaggtttgtggga
+            gcctgcaccgacccccccaatatctgcatcctcacagagtactgtccccgtgggagcctg
+            caggacattctggagaatgagagcatcaccctggactggatgttccggtactcactcacc
+            aatgacatcgtcaagggcatgctgtttctacacaatggggctatctgttcccatgggaac
+            ctcaagtcatccaactgcgtggtagatgggcgctttgtgctcaagatcaccgactatggg
+            ctggagagcttcagggacctggacccagagcaaggacacaccgtttatgccaaaaagctg
+            tggacggcccctgagctcctgcgaatggcttcaccccctgtgcggggctcccaggctggt
+            gacgtatacagctttgggatcatccttcaggagattgccctgaggagtggggtcttccac
+            gtggaaggtttggacctgagccccaaagagatcatcgagcgggtgactcggggtgagcag
+            ccccccttccggccctccctggccctgcagagtcacctggaggagttggggctgctcatg
+            cagcggtgctgggctgaggacccacaggagaggccaccattccagcagatccgcctgacg
+            ttgcgcaaatttaacagggagaacagcagcaacatcctggacaacctgctgtcccgcatg
+            gagcagtacgcgaacaatctggaggaactggtggaggagcggacccaggcatacctggag
+            gagaagcgcaaggctgaggccctgctctaccagatcctgcctcactcagtggctgagcag
+            ctgaagcgtggggagacggtgcaggccgaagcctttgacagtgttaccatctacttcagt
+            gacattgtgggtttcacagcgctgtcggcggagagcacacccatgcaggtggtgaccctg
+            ctcaatgacctgtacacttgctttgatgctgtcatagacaactttgatgtgtacaaggtg
+            gagacaattggcgatgcctacatggtggtgtcagggctccctgtgcggaacgggcggcta
+            cacgcctgcgaggtagcccgcatggccctggcactgctggatgctgtgcgctccttccga
+            atccgccaccggccccaggagcagctgcgcttgcgcattggcatccacacaggacctgtg
+            tgtgctggagtggtgggactgaagatgccccgttactgtctctttggggatacagtcaac
+            acagcctcaagaatggagtctaatggggaagccctgaagatccacttgtcttctgagacc
+            aaggctgtcctggaggagtttggtggtttcgagctggagcttcgaggggatgtagaaatg
+            aagggcaaaggcaaggttcggacctactggctccttggggagagggggagtagcacccga
+            ggctga
+///

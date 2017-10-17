@@ -1,0 +1,167 @@
+ENTRY       5925              CDS       T01001
+NAME        RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110
+DEFINITION  (RefSeq) RB transcriptional corepressor 1
+ORTHOLOGY   K06618  retinoblastoma-associated protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa01522  Endocrine resistance
+            hsa04110  Cell cycle
+            hsa04218  Cellular senescence
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05166  HTLV-I infection
+            hsa05167  Kaposi's sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05203  Viral carcinogenesis
+            hsa05212  Pancreatic cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05218  Melanoma
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+MODULE      hsa_M00692  Cell cycle - G1/S transition
+DISEASE     H00004  Chronic myeloid leukemia (CML)
+            H00013  Small cell lung cancer
+            H00017  Esophageal cancer
+            H00022  Bladder cancer
+            H00031  Breast cancer
+            H00036  Osteosarcoma
+            H00042  Glioma
+            H00048  Hepatocellular carcinoma
+            H01513  Retinoblastoma
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Cellular Processes
+              Cell growth and death
+               04110 Cell cycle
+                5925 (RB1)
+               04218 Cellular senescence
+                5925 (RB1)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                5925 (RB1)
+               05203 Viral carcinogenesis
+                5925 (RB1)
+               05212 Pancreatic cancer
+                5925 (RB1)
+               05214 Glioma
+                5925 (RB1)
+               05220 Chronic myeloid leukemia
+                5925 (RB1)
+               05218 Melanoma
+                5925 (RB1)
+               05219 Bladder cancer
+                5925 (RB1)
+               05215 Prostate cancer
+                5925 (RB1)
+               05224 Breast cancer
+                5925 (RB1)
+               05222 Small cell lung cancer
+                5925 (RB1)
+               05223 Non-small cell lung cancer
+                5925 (RB1)
+              Infectious diseases
+               05166 HTLV-I infection
+                5925 (RB1)
+               05161 Hepatitis B
+                5925 (RB1)
+               05167 Kaposi's sarcoma-associated herpesvirus infection
+                5925 (RB1)
+               05169 Epstein-Barr virus infection
+                5925 (RB1)
+               05165 Human papillomavirus infection
+                5925 (RB1)
+              Drug resistance
+               01522 Endocrine resistance
+                5925 (RB1)
+            Protein phosphatases and associated proteins [BR:hsa01009]
+             Protein Ser/ Thr phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 5925 (RB1)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic Type
+              Other transcription factors
+               Pocket domain Rb
+                5925 (RB1)
+POSITION    13q14.2
+MOTIF       Pfam: Rb_C RB_A RB_B DUF3452
+DBLINKS     NCBI-GeneID: 5925
+            NCBI-ProteinID: NP_000312
+            OMIM: 614041
+            HGNC: 9884
+            Ensembl: ENSG00000139687
+            Vega: OTTHUMG00000016900
+            Pharos: P06400(Tchem)
+            UniProt: P06400 A0A024RDV3
+STRUCTURE   PDB: 2R7G 1GUX 4ELL 2QDJ 1N4M 1AD6 3POM 2AZE 1O9K 4ELJ 1GH6
+AASEQ       928
+            MPPKTPRKTAATAAAAAAEPPAPPPPPPPEEDPEQDSGPEDLPLVRLEFEETEEPDFTAL
+            CQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWGICIFIAAVDLDEMSFTFTEL
+            QKNIEISVHKFFNLLKEIDTSTKVDNAMSRLLKKYDVLFALFSKLERTCELIYLTQPSSS
+            ISTEINSALVLKVSWITFLLAKGEVLQMEDDLVISFQLMLCVLDYFIKLSPPMLLKEPYK
+            TAVIPINGSPRTPRRGQNRSARIAKQLENDTRIIEVLCKEHECNIDEVKNVYFKNFIPFM
+            NSLGLVTSNGLPEVENLSKRYEEIYLKNKDLDARLFLDHDKTLQTDSIDSFETQRTPRKS
+            NLDEEVNVIPPHTPVRTVMNTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVK
+            DIGYIFKEKFAKAVGQGCVEIGSQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDN
+            IFHMSLLACALEVVMATYSRSTSQNLDSGTDLSFPWILNVLNLKAFDFYKVIESFIKAEG
+            NLTREMIKHLERCEHRIMESLAWLSDSPLFDLIKQSKDREGPTDHLESACPLNLPLQNNH
+            TAADMYLSPVRSPKKKGSTTRVNSTANAETQATSAFQTQKPLKSTSLSLFYKKVYRLAYL
+            RLNTLCERLLSEHPELEHIIWTLFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLK
+            FKIIVTAYKDLPHAVQETFKRVLIKEEEYDSIIVFYNSVFMQRLKTNILQYASTRPPTLS
+            PIPHIPRSPYKFPSSPLRIPGGNIYISPLKSPYKISEGLPTPTKMTPRSRILVSIGESFG
+            TSEKFQKINQMVCNSDRVLKRSAEGSNPPKPLKKLRFDIEGSDEADGSKHLPGESKFQQK
+            LAEMTSTRTRMQKQKMNDSMDTSNKEEK
+NTSEQ       2787
+            atgccgcccaaaaccccccgaaaaacggccgccaccgccgccgctgccgccgcggaaccc
+            ccggcaccgccgccgccgccccctcctgaggaggacccagagcaggacagcggcccggag
+            gacctgcctctcgtcaggcttgagtttgaagaaacagaagaacctgattttactgcatta
+            tgtcagaaattaaagataccagatcatgtcagagagagagcttggttaacttgggagaaa
+            gtttcatctgtggatggagtattgggaggttatattcaaaagaaaaaggaactgtgggga
+            atctgtatctttattgcagcagttgacctagatgagatgtcgttcacttttactgagcta
+            cagaaaaacatagaaatcagtgtccataaattctttaacttactaaaagaaattgatacc
+            agtaccaaagttgataatgctatgtcaagactgttgaagaagtatgatgtattgtttgca
+            ctcttcagcaaattggaaaggacatgtgaacttatatatttgacacaacccagcagttcg
+            atatctactgaaataaattctgcattggtgctaaaagtttcttggatcacatttttatta
+            gctaaaggggaagtattacaaatggaagatgatctggtgatttcatttcagttaatgcta
+            tgtgtccttgactattttattaaactctcacctcccatgttgctcaaagaaccatataaa
+            acagctgttatacccattaatggttcacctcgaacacccaggcgaggtcagaacaggagt
+            gcacggatagcaaaacaactagaaaatgatacaagaattattgaagttctctgtaaagaa
+            catgaatgtaatatagatgaggtgaaaaatgtttatttcaaaaattttataccttttatg
+            aattctcttggacttgtaacatctaatggacttccagaggttgaaaatctttctaaacga
+            tacgaagaaatttatcttaaaaataaagatctagatgcaagattatttttggatcatgat
+            aaaactcttcagactgattctatagacagttttgaaacacagagaacaccacgaaaaagt
+            aaccttgatgaagaggtgaatgtaattcctccacacactccagttaggactgttatgaac
+            actatccaacaattaatgatgattttaaattcagcaagtgatcaaccttcagaaaatctg
+            atttcctattttaacaactgcacagtgaatccaaaagaaagtatactgaaaagagtgaag
+            gatataggatacatctttaaagagaaatttgctaaagctgtgggacagggttgtgtcgaa
+            attggatcacagcgatacaaacttggagttcgcttgtattaccgagtaatggaatccatg
+            cttaaatcagaagaagaacgattatccattcaaaattttagcaaacttctgaatgacaac
+            atttttcatatgtctttattggcgtgcgctcttgaggttgtaatggccacatatagcaga
+            agtacatctcagaatcttgattctggaacagatttgtctttcccatggattctgaatgtg
+            cttaatttaaaagcctttgatttttacaaagtgatcgaaagttttatcaaagcagaaggc
+            aacttgacaagagaaatgataaaacatttagaacgatgtgaacatcgaatcatggaatcc
+            cttgcatggctctcagattcacctttatttgatcttattaaacaatcaaaggaccgagaa
+            ggaccaactgatcaccttgaatctgcttgtcctcttaatcttcctctccagaataatcac
+            actgcagcagatatgtatctttctcctgtaagatctccaaagaaaaaaggttcaactacg
+            cgtgtaaattctactgcaaatgcagagacacaagcaacctcagccttccagacccagaag
+            ccattgaaatctacctctctttcactgttttataaaaaagtgtatcggctagcctatctc
+            cggctaaatacactttgtgaacgccttctgtctgagcacccagaattagaacatatcatc
+            tggacccttttccagcacaccctgcagaatgagtatgaactcatgagagacaggcatttg
+            gaccaaattatgatgtgttccatgtatggcatatgcaaagtgaagaatatagaccttaaa
+            ttcaaaatcattgtaacagcatacaaggatcttcctcatgctgttcaggagacattcaaa
+            cgtgttttgatcaaagaagaggagtatgattctattatagtattctataactcggtcttc
+            atgcagagactgaaaacaaatattttgcagtatgcttccaccaggccccctaccttgtca
+            ccaatacctcacattcctcgaagcccttacaagtttcctagttcacccttacggattcct
+            ggagggaacatctatatttcacccctgaagagtccatataaaatttcagaaggtctgcca
+            acaccaacaaaaatgactccaagatcaagaatcttagtatcaattggtgaatcattcggg
+            acttctgagaagttccagaaaataaatcagatggtatgtaacagcgaccgtgtgctcaaa
+            agaagtgctgaaggaagcaaccctcctaaaccactgaaaaaactacgctttgatattgaa
+            ggatcagatgaagcagatggaagtaaacatctcccaggagagtccaaatttcagcagaaa
+            ctggcagaaatgacttctactcgaacacgaatgcaaaagcagaaaatgaatgatagcatg
+            gatacctcaaacaaggaagagaaatga
+///

@@ -1,0 +1,69 @@
+ENTRY       51561             CDS       T01001
+NAME        IL23A, IL-23, IL-23A, IL23P19, P19, SGRF
+DEFINITION  (RefSeq) interleukin 23 subunit alpha
+ORTHOLOGY   K05426  interleukin 23, alpha subunit p19
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04060  Cytokine-cytokine receptor interaction
+            hsa04630  Jak-STAT signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa05133  Pertussis
+            hsa05152  Tuberculosis
+            hsa05321  Inflammatory bowel disease (IBD)
+            hsa05323  Rheumatoid arthritis
+DRUG_TARGET Apilimod mesylate: D06556
+            Ustekinumab: D09214
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                51561 (IL23A)
+              Signaling molecules and interaction
+               04060 Cytokine-cytokine receptor interaction
+                51561 (IL23A)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                51561 (IL23A)
+             Human Diseases
+              Immune diseases
+               05323 Rheumatoid arthritis
+                51561 (IL23A)
+               05321 Inflammatiory bowel disease (IBD)
+                51561 (IL23A)
+              Infectious diseases
+               05133 Pertussis
+                51561 (IL23A)
+               05152 Tuberculosis
+                51561 (IL23A)
+            Cytokines [BR:hsa04052]
+             Class I cytokines (hematopoietin family)
+              IL-6 receptor family
+               51561 (IL23A)
+POSITION    12q13.3
+MOTIF       Pfam: IL23 IL6
+DBLINKS     NCBI-GeneID: 51561
+            NCBI-ProteinID: NP_057668
+            OMIM: 605580
+            HGNC: 15488
+            Ensembl: ENSG00000110944
+            Vega: OTTHUMG00000187402
+            Pharos: Q9NPF7(Tclin)
+            UniProt: Q9NPF7
+STRUCTURE   PDB: 5MJ3 3D85 3DUH 4GRW 3D87 3QWR 5MJ4
+AASEQ       189
+            MLGSRAVMLLLLLPWTAQGRAVPGGSSPAWTQCQQLSQKLCTLAWSAHPLVGHMDLREEG
+            DEETTNDVPHIQCGDGCDPQGLRDNSQFCLQRIHQGLIFYEKLLGSDIFTGEPSLLPDSP
+            VGQLHASLLGLSQLLQPEGHHWETQQIPSLSPSQPWQRLLLRFKILRSLQAFVAVAARVF
+            AHGAATLSP
+NTSEQ       570
+            atgctggggagcagagctgtaatgctgctgttgctgctgccctggacagctcagggcaga
+            gctgtgcctgggggcagcagccctgcctggactcagtgccagcagctttcacagaagctc
+            tgcacactggcctggagtgcacatccactagtgggacacatggatctaagagaagaggga
+            gatgaagagactacaaatgatgttccccatatccagtgtggagatggctgtgacccccaa
+            ggactcagggacaacagtcagttctgcttgcaaaggatccaccagggtctgattttttat
+            gagaagctgctaggatcggatattttcacaggggagccttctctgctccctgatagccct
+            gtgggccagcttcatgcctccctactgggcctcagccaactcctgcagcctgagggtcac
+            cactgggagactcagcagattccaagcctcagtcccagccagccatggcagcgtctcctt
+            ctccgcttcaaaatccttcgcagcctccaggcctttgtggctgtagccgcccgggtcttt
+            gcccatggagcagcaaccctgagtccctaa
+///

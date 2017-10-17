@@ -1,0 +1,57 @@
+ENTRY       57819             CDS       T01001
+NAME        LSM2, C6orf28, G7B, YBL026W, snRNP
+DEFINITION  (RefSeq) LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated
+ORTHOLOGY   K12621  U6 snRNA-associated Sm-like protein LSm2
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa03018  RNA degradation
+            hsa03040  Spliceosome
+MODULE      hsa_M00354  Spliceosome, U4/U6.U5 tri-snRNP
+            hsa_M00396  Lsm 2-8 complex
+            hsa_M00397  Lsm 1-7 complex
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Transcription
+               03040 Spliceosome
+                57819 (LSM2)
+              Folding, sorting and degradation
+               03018 RNA degradation
+                57819 (LSM2)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic Type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 57819 (LSM2)
+              mRNA degradation factors
+               5'-3' decay
+                Lsm complex
+                 57819 (LSM2)
+            Spliceosome [BR:hsa03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               LSm proteins
+                57819 (LSM2)
+             Complex C
+              U2 snRNP components
+                57819 (LSM2)
+POSITION    6p21.33
+MOTIF       Pfam: LSM SM-ATX
+DBLINKS     NCBI-GeneID: 57819
+            NCBI-ProteinID: NP_067000
+            OMIM: 607282
+            HGNC: 13940
+            Ensembl: ENSG00000204392
+            Vega: OTTHUMG00000031121
+            Pharos: Q9Y333(Tbio)
+            UniProt: Q9Y333
+STRUCTURE   PDB: 5O9Z 3JCR
+AASEQ       95
+            MLFYSFFKSLVGKDVVVELKNDLSICGTLHSVDQYLNIKLTDISVTDPEKYPHMLSVKNC
+            FIRGSVVRYVQLPADEVDTQLLQDAARKEALQQKQ
+NTSEQ       288
+            atgctcttctattcttttttcaagtcccttgtgggcaaggatgtggtcgtggaactaaag
+            aatgacctgagcatctgtggaaccctccattctgtggatcagtatctcaacatcaaacta
+            actgacatcagtgtcacagaccctgagaaataccctcacatgttatcagtgaagaactgc
+            ttcattcggggctcagtggtccgatacgtgcagctgccagcagatgaggtcgacacacag
+            ttgctacaggatgcggcaaggaaggaagccctgcagcagaaacagtga
+///

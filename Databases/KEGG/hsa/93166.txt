@@ -1,0 +1,77 @@
+ENTRY       93166             CDS       T01001
+NAME        PRDM6, KMT8C, PDA3, PRISM
+DEFINITION  (RefSeq) PR/SET domain 6
+ORTHOLOGY   K20795  histone-lysine N-methyltransferase PRDM6 [EC:2.1.1.43]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+DISEASE     H01630  Patent ductus arteriosus
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00310 Lysine degradation
+                93166 (PRDM6)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.43  histone-lysine N-methyltransferase
+                 93166 (PRDM6)
+            Chromosome [BR:hsa03036]
+             Eukaryotic Type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                HKMTs (histone lysine methyltransferases)
+                 93166 (PRDM6)
+POSITION    5q23.2
+MOTIF       Pfam: zf-C2H2 zf-C2H2_4 zf-H2C2_2 SET zf-C2H2_jaz zf-C2H2_11 zf-met zf-C2HC_2
+DBLINKS     NCBI-GeneID: 93166
+            NCBI-ProteinID: NP_001129711
+            OMIM: 616982
+            HGNC: 9350
+            Ensembl: ENSG00000061455
+            Vega: OTTHUMG00000150469
+            Pharos: Q9NQX0(Tdark)
+            UniProt: Q9NQX0
+AASEQ       595
+            MLKPGDPGGSAFLKVDPAYLQHWQQLFPHGGAGPLKGSGAAGLLSAPQPLQPPPPPPPPE
+            RAEPPPDSLRPRPASLSSASSTPASSSTSASSASSCAAAAAAAALAGLSALPVSQLPVFA
+            PLAAAAVAAEPLPPKELCLGATSGPGPVKCGGGGGGGGEGRGAPRFRCSAEELDYYLYGQ
+            QRMEIIPLNQHTSDPNNRCDMCADNRNGECPMHGPLHSLRRLVGTSSAAAAAPPPELPEW
+            LRDLPREVCLCTSTVPGLAYGICAAQRIQQGTWIGPFQGVLLPPEKVQAGAVRNTQHLWE
+            IYDQDGTLQHFIDGGEPSKSSWMRYIRCARHCGEQNLTVVQYRSNIFYRACIDIPRGTEL
+            LVWYNDSYTSFFGIPLQCIAQDENLNVPSTVMEAMCRQDALQPFNKSSKLAPTTQQRSVV
+            FPQTPCSRNFSLLDKSGPIESGFNQINVKNQRVLASPTSTSQLHSEFSDWHLWKCGQCFK
+            TFTQRILLQMHVCTQNPDRPYQCGHCSQSFSQPSELRNHVVTHSSDRPFKCGYCGRAFAG
+            ATTLNNHIRTHTGEKPFKCERCERSFTQATQLSRHQRMPNECKPITESPESIEVD
+NTSEQ       1788
+            atgctgaagcccggagaccccggcggttcggccttcctcaaagtggacccagcctacctg
+            cagcactggcagcaactcttccctcacggaggcgcaggcccgctcaagggcagcggcgcc
+            gcgggtctcctgagcgcgccgcagcctcttcagccgccgccgccgcccccgcccccggag
+            cgcgctgagcctccgccggacagcctgcgcccgcggcccgcctctctctcctccgcctcg
+            tccacgccggcttcctcttccacctccgcctcctccgcctcctcctgcgctgctgcggcc
+            gctgccgccgcgctggctggtctctcggccctgccggtgtcgcagctgccggtgttcgcg
+            cctctagccgccgctgccgtcgccgccgagccgctgccccccaaggaactgtgcctcggc
+            gccacctccggccccgggcccgtcaagtgcggtggtggtggcggcggcggcggggagggt
+            cgcggcgccccgcgcttccgctgcagcgcagaggagctggactattacctgtatggccag
+            cagcgcatggagatcatcccgctcaaccagcacaccagcgaccccaacaaccgttgcgac
+            atgtgcgcggacaaccgcaacggcgagtgccctatgcatgggccactgcactcgctgcgc
+            cggcttgtgggcaccagcagcgctgcggccgccgcgcccccgccggagctgccggagtgg
+            ctgcgggacctgcctcgcgaggtgtgcctctgcaccagtactgtgcccggcctggcctac
+            ggcatctgcgcggcgcagaggatccagcaaggcacctggattggacctttccaaggcgtg
+            cttctgcccccagagaaggtgcaggcaggcgccgtgaggaacacgcagcatctctgggag
+            atatatgaccaggatgggacactacagcactttattgatggtggggaacctagtaagtcg
+            agctggatgaggtatatccgatgtgcaaggcactgcggagaacagaatctaacagtagtt
+            cagtacaggtcgaatatattctaccgagcctgtatagatatccctaggggcaccgagctt
+            ctggtgtggtacaatgacagctatacgtctttctttgggatccccttacaatgcattgcc
+            caggatgaaaacttaaatgtcccttcaacggtaatggaagccatgtgcagacaagacgcc
+            ctgcagcccttcaacaaaagcagcaaactcgcccctaccacccagcagcgctccgttgtt
+            ttcccccagactccgtgcagcaggaacttctctcttctggataagtctgggcccattgaa
+            tcaggatttaatcaaatcaacgtgaaaaaccagcgagtcctggcaagcccaacttccaca
+            agccagctccactcggagttcagtgactggcatctttggaaatgtgggcagtgctttaag
+            actttcacccagcggatcctcttacagatgcacgtgtgcacgcagaaccccgacagaccc
+            taccaatgcggccactgctcccagtccttttcccagccttcagaactgaggaaccacgtg
+            gtcactcactctagtgaccggcctttcaagtgcggctactgtggtcgtgcctttgccggg
+            gccaccaccctcaacaaccacatccgaacccacactggagaaaagcccttcaagtgcgag
+            aggtgtgagaggagcttcacgcaggccacccagctgagccgacaccagcggatgcccaat
+            gagtgcaagccaataactgagagcccagaatcaatcgaagtggattaa
+///

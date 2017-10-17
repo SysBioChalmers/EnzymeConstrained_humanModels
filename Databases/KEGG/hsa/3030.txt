@@ -1,0 +1,128 @@
+ENTRY       3030              CDS       T01001
+NAME        HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA
+DEFINITION  (RefSeq) hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit
+ORTHOLOGY   K07515  enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+DISEASE     H00525  Disorders of fatty-acid oxidation
+            H01352  Mitochondrial trifunctional protein (TFP) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                3030 (HADHA)
+               01212 Fatty acid metabolism
+                3030 (HADHA)
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                3030 (HADHA)
+               00650 Butanoate metabolism
+                3030 (HADHA)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                3030 (HADHA)
+               00071 Fatty acid degradation
+                3030 (HADHA)
+               01040 Biosynthesis of unsaturated fatty acids
+                3030 (HADHA)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                3030 (HADHA)
+               00310 Lysine degradation
+                3030 (HADHA)
+               00380 Tryptophan metabolism
+                3030 (HADHA)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                3030 (HADHA)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.211  long-chain-3-hydroxyacyl-CoA dehydrogenase
+                 3030 (HADHA)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 3030 (HADHA)
+POSITION    2p23.3
+MOTIF       Pfam: 3HCDH_N ECH_1 3HCDH ECH_2
+DBLINKS     NCBI-GeneID: 3030
+            NCBI-ProteinID: NP_000173
+            OMIM: 600890
+            HGNC: 4801
+            Ensembl: ENSG00000084754
+            Vega: OTTHUMG00000096979
+            Pharos: P40939(Tbio)
+            UniProt: P40939 E9KL44
+AASEQ       763
+            MVACRAIGILSRFSAFRILRSRGYICRNFTGSSALLTRTHINYGVKGDVAVVRINSPNSK
+            VNTLSKELHSEFSEVMNEIWASDQIRSAVLISSKPGCFIAGADINMLAACKTLQEVTQLS
+            QEAQRIVEKLEKSTKPIVAAINGSCLGGGLEVAISCQYRIATKDRKTVLGTPEVLLGALP
+            GAGGTQRLPKMVGVPAALDMMLTGRSIRADRAKKMGLVDQLVEPLGPGLKPPEERTIEYL
+            EEVAITFAKGLADKKISPKRDKGLVEKLTAYAMTIPFVRQQVYKKVEEKVRKQTKGLYPA
+            PLKIIDVVKTGIEQGSDAGYLCESQKFGELVMTKESKALMGLYHGQVLCKKNKFGAPQKD
+            VKHLAILGAGLMGAGIAQVSVDKGLKTILKDATLTALDRGQQQVFKGLNDKVKKKALTSF
+            ERDSIFSNLTGQLDYQGFEKADMVIEAVFEDLSLKHRVLKEVEAVIPDHCIFASNTSALP
+            ISEIAAVSKRPEKVIGMHYFSPVDKMQLLEIITTEKTSKDTSASAVAVGLKQGKVIIVVK
+            DGPGFYTTRCLAPMMSEVIRILQEGVDPKKLDSLTTSFGFPVGAATLVDEVGVDVAKHVA
+            EDLGKVFGERFGGGNPELLTQMVSKGFLGRKSGKGFYIYQEGVKRKDLNSDMDSILASLK
+            LPPKSEVSSDEDIQFRLVTRFVNEAVMCLQEGILATPAEGDIGAVFGLGFPPCLGGPFRF
+            VDLYGAQKIVDRLKKYEAAYGKQFTPCQLLADHANSPNKKFYQ
+NTSEQ       2292
+            atggtggcctgccgggcgattggcatcctcagccgcttttctgccttcaggatcctccgc
+            tcccgaggttatatatgccgcaattttacagggtcttctgctttgctgaccagaacccat
+            attaactatggagtcaaaggggatgtggcagttgttcgaattaactctcccaattcaaag
+            gtaaatacactgagtaaagagctacattcagagttctcagaagttatgaatgaaatctgg
+            gctagtgatcaaatcagaagtgccgtccttatctcatcaaagccaggctgctttattgca
+            ggtgctgatatcaacatgttagccgcttgcaagacccttcaagaagtaacacagctatca
+            caagaagcacagagaatagttgagaaacttgaaaagtccacaaagcctattgtggctgcc
+            atcaatggatcctgcctgggaggaggacttgaggttgccatttcatgccaatacagaata
+            gcaacaaaagacagaaaaacagtattaggtacccctgaagttttgctgggggccttacca
+            ggagcaggaggcacacaaaggctgcccaaaatggtgggtgtgcctgctgctttggacatg
+            atgctgactggtagaagcattcgtgcagacagggcaaagaaaatgggactggttgaccaa
+            ctggtggaacccctgggaccaggactaaaacctccagaggaacggacaatagaataccta
+            gaagaagttgcaattacttttgccaaaggactagctgataagaagatctctccaaagaga
+            gacaagggattggtggaaaaattgacagcgtatgccatgactattccatttgtcaggcaa
+            caggtttacaaaaaagtggaagaaaaagtgcgaaagcagactaaaggcctttatcctgca
+            cctctgaaaataattgatgtggtaaagactggaattgagcaagggagtgatgccggttat
+            ctctgtgaatctcagaaatttggagagcttgtaatgaccaaagaatcaaaggccttgatg
+            ggactctaccatggtcaggtcctgtgcaagaagaataaatttggagctccacagaaggat
+            gttaagcatctggctattcttggtgcagggctgatgggagcaggcatcgcccaagtctcc
+            gtggataaggggctaaagactatacttaaagatgccaccctcactgcgctagaccgagga
+            cagcaacaagtgttcaaaggattgaatgacaaagtgaagaagaaagctctaacatcattt
+            gaaagggattccatcttcagcaacttgactgggcagcttgattaccaaggttttgaaaag
+            gccgacatggtgattgaagctgtgtttgaggaccttagtcttaagcacagagtgctaaag
+            gaagtagaagcggtgattccagatcactgtatctttgccagtaacacatctgctctccca
+            atcagtgaaatcgctgctgtcagcaaaagacctgagaaggtgattggcatgcactacttc
+            tctcccgtggacaagatgcagctgctggagattatcacgaccgagaaaacttccaaagac
+            accagtgcttcagctgtagcagttggtctcaagcaggggaaggtcatcattgtggttaag
+            gatggacctggcttctatactaccaggtgtcttgcgcccatgatgtctgaagtcatccga
+            atcctccaggaaggagttgacccgaagaagctggattccctgaccacaagctttggcttt
+            cctgtgggtgccgccacactggtggatgaagttggtgtggatgtagcgaaacatgtggcg
+            gaagatctgggcaaagtctttggggagcggtttggaggtggaaacccagaactgctgaca
+            cagatggtgtccaagggcttcctaggtcgtaaatctgggaagggcttttacatctatcag
+            gagggtgtgaagaggaaggatttgaattctgacatggatagtattttagcgagtctgaag
+            ctgcctcctaagtctgaagtctcatcagacgaagacatccagttccgcctggtgacaaga
+            tttgtgaatgaggcagtcatgtgcctgcaagaggggatcttggccacacctgcagaggga
+            gacatcggagccgtctttgggcttggcttcccgccttgtctgggagggcctttccgcttt
+            gtggatctgtatggcgcccagaagatagtggaccggctcaagaaatatgaagctgcctat
+            ggaaaacagttcaccccatgccagctgctagctgaccatgctaacagccctaacaagaag
+            ttctaccagtga
+///

@@ -1,0 +1,130 @@
+ENTRY       4088              CDS       T01001
+NAME        SMAD3, HSPC193, HsT17436, JV15-2, LDS1C, LDS3, MADH3
+DEFINITION  (RefSeq) SMAD family member 3
+ORTHOLOGY   K04500  mothers against decapentaplegic homolog 2/3
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04144  Endocytosis
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04371  Apelin signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04520  Adherens junction
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04659  Th17 cell differentiation
+            hsa04926  Relaxin signaling pathway
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa05142  Chagas disease (American trypanosomiasis)
+            hsa05161  Hepatitis B
+            hsa05166  HTLV-I infection
+            hsa05200  Pathways in cancer
+            hsa05210  Colorectal cancer
+            hsa05212  Pancreatic cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05321  Inflammatory bowel disease (IBD)
+MODULE      hsa_M00680  TGF-beta signaling
+            hsa_M00681  Activin signaling
+DISEASE     H00800  Loeys-Dietz syndrome (LDS)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Environmental Information Processing
+              Signal transduction
+               04310 Wnt signaling pathway
+                4088 (SMAD3)
+               04350 TGF-beta signaling pathway
+                4088 (SMAD3)
+               04390 Hippo signaling pathway
+                4088 (SMAD3)
+               04371 Apelin signaling pathway
+                4088 (SMAD3)
+               04068 FoxO signaling pathway
+                4088 (SMAD3)
+             Cellular Processes
+              Transport and catabolism
+               04144 Endocytosis
+                4088 (SMAD3)
+              Cell growth and death
+               04110 Cell cycle
+                4088 (SMAD3)
+               04218 Cellular senescence
+                4088 (SMAD3)
+              Cellular community - eukaryotes
+               04520 Adherens junction
+                4088 (SMAD3)
+               04550 Signaling pathways regulating pluripotency of stem cells
+                4088 (SMAD3)
+             Organismal Systems
+              Immune system
+               04659 Th17 cell differentiation
+                4088 (SMAD3)
+              Endocrine system
+               04926 Relaxin signaling pathway
+                4088 (SMAD3)
+             Human Diseases
+              Cancers
+               05200 Pathways in cancer
+                4088 (SMAD3)
+               05210 Colorectal cancer
+                4088 (SMAD3)
+               05212 Pancreatic cancer
+                4088 (SMAD3)
+               05220 Chronic myeloid leukemia
+                4088 (SMAD3)
+              Immune diseases
+               05321 Inflammatiory bowel disease (IBD)
+                4088 (SMAD3)
+              Endocrine and metabolic diseases
+               04933 AGE-RAGE signaling pathway in diabetic complications
+                4088 (SMAD3)
+              Infectious diseases
+               05166 HTLV-I infection
+                4088 (SMAD3)
+               05161 Hepatitis B
+                4088 (SMAD3)
+               05142 Chagas disease (American trypanosomiasis)
+                4088 (SMAD3)
+POSITION    15q22.33
+MOTIF       Pfam: MH2 MH1 IRF-3
+DBLINKS     NCBI-GeneID: 4088
+            NCBI-ProteinID: NP_005893
+            OMIM: 603109
+            HGNC: 6769
+            Ensembl: ENSG00000166949
+            Vega: OTTHUMG00000133230
+            Pharos: P84022(Tbio)
+            UniProt: P84022 A0A024R5Z3 Q9P0T0
+STRUCTURE   PDB: 1MJS 1OZJ 1U7F 1MK2 1MHD
+AASEQ       425
+            MSSILPFTPPIVKRLLGWKKGEQNGQEEKWCEKAVKSLVKKLKKTGQLDELEKAITTQNV
+            NTKCITIPRSLDGRLQVSHRKGLPHVIYCRLWRWPDLHSHHELRAMELCEFAFNMKKDEV
+            CVNPYHYQRVETPVLPPVLVPRHTEIPAEFPPLDDYSHSIPENTNFPAGIEPQSNIPETP
+            PPGYLSEDGETSDHQMNHSMDAGSPNLSPNPMSPAHNNLDLQPVTYCEPAFWCSISYYEL
+            NQRVGETFHASQPSMTVDGFTDPSNSERFCLGLLSNVNRNAAVELTRRHIGRGVRLYYIG
+            GEVFAECLSDSAIFVQSPNCNQRYGWHPATVCKIPPGCNLKIFNNQEFAALLAQSVNQGF
+            EAVYQLTRMCTIRMSFVKGWGAEYRRQTVTSTPCWIELHLNGPLQWLDKVLTQMGSPSIR
+            CSSVS
+NTSEQ       1278
+            atgtcgtccatcctgcctttcactcccccgatcgtgaagcgcctgctgggctggaagaag
+            ggcgagcagaacgggcaggaggagaaatggtgcgagaaggcggtcaagagcctggtcaag
+            aaactcaagaagacggggcagctggacgagctggagaaggccatcaccacgcagaacgtc
+            aacaccaagtgcatcaccatccccaggtccctggatggccggttgcaggtgtcccatcgg
+            aaggggctccctcatgtcatctactgccgcctgtggcgatggccagacctgcacagccac
+            cacgagctacgggccatggagctgtgtgagttcgccttcaatatgaagaaggacgaggtc
+            tgcgtgaatccctaccactaccagagagtagagacaccagttctacctcctgtgttggtg
+            ccacgccacacagagatcccggccgagttccccccactggacgactacagccattccatc
+            cccgaaaacactaacttccccgcaggcatcgagccccagagcaatattccagagacccca
+            ccccctggctacctgagtgaagatggagaaaccagtgaccaccagatgaaccacagcatg
+            gacgcaggttctccaaacctatccccgaatccgatgtccccagcacataataacttggac
+            ctgcagccagttacctactgcgagccggccttctggtgctccatctcctactacgagctg
+            aaccagcgcgtcggggagacattccacgcctcgcagccatccatgactgtggatggcttc
+            accgacccctccaattcggagcgcttctgcctagggctgctctccaatgtcaacaggaat
+            gcagcagtggagctgacacggagacacatcggaagaggcgtgcggctctactacatcgga
+            ggggaggtcttcgcagagtgcctcagtgacagcgctatttttgtccagtctcccaactgt
+            aaccagcgctatggctggcacccggccaccgtctgcaagatcccaccaggatgcaacctg
+            aagatcttcaacaaccaggagttcgctgccctcctggcccagtcggtcaaccagggcttt
+            gaggctgtctaccagttgacccgaatgtgcaccatccgcatgagcttcgtcaaaggctgg
+            ggagcggagtacaggagacagactgtgaccagtaccccctgctggattgagctgcacctg
+            aatgggcctttgcagtggcttgacaaggtcctcacccagatgggctccccaagcatccgc
+            tgttccagtgtgtcttag
+///

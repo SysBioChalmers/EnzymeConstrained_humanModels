@@ -1,0 +1,63 @@
+ENTRY       22934             CDS       T01001
+NAME        RPIA, RPI, RPIAD
+DEFINITION  (RefSeq) ribose 5-phosphate isomerase A
+ORTHOLOGY   K01807  ribose 5-phosphate isomerase A [EC:5.3.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00030  Pentose phosphate pathway
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01230  Biosynthesis of amino acids
+MODULE      hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P
+DISEASE     H01135  Ribose 5-phosphate isomerase (RPI) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                22934 (RPIA)
+               01230 Biosynthesis of amino acids
+                22934 (RPIA)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                22934 (RPIA)
+            Enzymes [BR:hsa01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.1  Interconverting aldoses and ketoses, and related compounds
+                5.3.1.6  ribose-5-phosphate isomerase
+                 22934 (RPIA)
+POSITION    2p11.2
+MOTIF       Pfam: Rib_5-P_isom_A Sugar-bind DeoRC
+DBLINKS     NCBI-GeneID: 22934
+            NCBI-ProteinID: NP_653164
+            OMIM: 180430
+            HGNC: 10297
+            Ensembl: ENSG00000153574
+            Vega: OTTHUMG00000130333
+            Pharos: P49247(Tbio)
+            UniProt: P49247
+AASEQ       311
+            MQRPGPFSTLYGRVLAPLPGRAGGAASGGGGNSWDLPGSHVRLPGRAQSGTRGGAGNTST
+            SCGDSNSICPAPSTMSKAEEAKKLAGRAAVENHVRNNQVLGIGSGSTIVHAVQRIAERVK
+            QENLNLVCIPTSFQARQLILQYGLTLSDLDRHPEIDLAIDGADEVDADLNLIKGGGGCLT
+            QEKIVAGYASRFIVIADFRKDSKNLGDQWHKGIPIEVIPMAYVPVSRAVSQKFGGVVELR
+            MAVNKAGPVVTDNGNFILDWKFDRVHKWSEVNTAIKMIPGVVDTGLFINMAERVYFGMQD
+            GSVNMREKPFC
+NTSEQ       936
+            atgcagcgccccgggcccttcagcaccctctacgggcgggtcttggccccgctgcccggg
+            agggccgggggcgcggcctccggcggaggagggaacagctgggacctcccgggttcccac
+            gtgcggctgccggggcgtgcacagtctgggacccgtggcggtgctggcaacacaagcacc
+            agctgcggggactccaacagcatctgcccggccccctccacgatgtccaaggccgaggag
+            gccaagaagctggcgggccgcgcggctgtggagaaccacgtgaggaataaccaagtgctg
+            ggaattggaagtggttctacaattgtccatgctgtgcagcgaatagctgaaagggtgaag
+            caagagaatctgaacctcgtctgtattcccacttccttccaggcccgccagctcatcctg
+            cagtatggcttgaccctcagtgatctggatcgacacccagagatcgaccttgccatcgat
+            ggtgctgatgaagtagatgctgatctcaatctcatcaagggtggcggaggctgcctgacc
+            caggagaagattgtggctggctatgctagtcgcttcatcgtgatcgctgatttcaggaaa
+            gattcgaagaatctcggggatcagtggcacaagggaatccccatcgaggtcatcccaatg
+            gcctatgtcccagtgagccgagctgtgagccagaagtttgggggcgtggttgaacttcga
+            atggctgtcaacaaggctggtcctgtggtgacagataatgggaattttatcttggactgg
+            aagtttgaccgggtacacaaatggagtgaagtgaatacagctatcaaaatgatcccaggt
+            gtggtggacacaggcctattcatcaacatggctgagagagtctactttgggatgcaggat
+            ggctcagtgaacatgagggagaagcctttctgttga
+///

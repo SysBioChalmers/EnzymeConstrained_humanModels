@@ -1,0 +1,95 @@
+ENTRY       821               CDS       T01001
+NAME        CANX, CNX, IP90, P90
+DEFINITION  (RefSeq) calnexin
+ORTHOLOGY   K08054  calnexin
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04141  Protein processing in endoplasmic reticulum
+            hsa04145  Phagosome
+            hsa04612  Antigen processing and presentation
+            hsa04918  Thyroid hormone synthesis
+            hsa05166  HTLV-I infection
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Genetic Information Processing
+              Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                821 (CANX)
+             Cellular Processes
+              Transport and catabolism
+               04145 Phagosome
+                821 (CANX)
+             Organismal Systems
+              Immune system
+               04612 Antigen processing and presentation
+                821 (CANX)
+              Endocrine system
+               04918 Thyroid hormone synthesis
+                821 (CANX)
+             Human Diseases
+              Infectious diseases
+               05166 HTLV-I infection
+                821 (CANX)
+            Chaperones and folding catalysts [BR:hsa03110]
+             Other chaperones and cochaperones
+              Calnexin / calreticulin
+               821 (CANX)
+            Membrane trafficking [BR:hsa04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Others
+                821 (CANX)
+            Lectins [BR:hsa04091]
+             Calnexin / calreticulin
+              821 (CANX)
+POSITION    5q35.3
+MOTIF       Pfam: Calreticulin DUF1510 Connexin FAM176 MAP17 TRAP_alpha V_ATPase_I Serinc
+DBLINKS     NCBI-GeneID: 821
+            NCBI-ProteinID: NP_001019820
+            OMIM: 114217
+            HGNC: 1473
+            Ensembl: ENSG00000127022
+            Vega: OTTHUMG00000130910
+            Pharos: P27824(Tbio)
+            UniProt: P27824
+AASEQ       592
+            MEGKWLLCMLLVLGTAIVEAHDGHDDDVIDIEDDLDDVIEEVEDSKPDTTAPPSSPKVTY
+            KAPVPTGEVYFADSFDRGTLSGWILSKAKKDDTDDEIAKYDGKWEVEEMKESKLPGDKGL
+            VLMSRAKHHAISAKLNKPFLFDTKPLIVQYEVNFQNGIECGGAYVKLLSKTPELNLDQFH
+            DKTPYTIMFGPDKCGEDYKLHFIFRHKNPKTGIYEEKHAKRPDADLKTYFTDKKTHLYTL
+            ILNPDNSFEILVDQSVVNSGNLLNDMTPPVNPSREIEDPEDRKPEDWDERPKIPDPEAVK
+            PDDWDEDAPAKIPDEEATKPEGWLDDEPEYVPDPDAEKPEDWDEDMDGEWEAPQIANPRC
+            ESAPGCGVWQRPVIDNPNYKGKWKPPMIDNPSYQGIWKPRKIPNPDFFEDLEPFRMTPFS
+            AIGLELWSMTSDIFFDNFIICADRRIVDDWANDGWGLKKAADGAAEPGVVGQMIEAAEER
+            PWLWVVYILTVALPVFLVILFCCSGKKQTSGMEYKKTDAPQPDVKEEEEEKEEEKDKGDE
+            EEEGEEKLEEKQKSDAEEDGGTVSQEEEDRKPKAEEDEILNRSPRNRKPRRE
+NTSEQ       1779
+            atggaagggaagtggttgctgtgtatgttactggtgcttggaactgctattgttgaggct
+            catgatggacatgatgatgatgtgattgatattgaggatgaccttgacgatgtcattgaa
+            gaggtagaagactcaaaaccagataccactgctcctccttcatctcccaaggttacttac
+            aaagctccagttccaacaggggaagtatattttgctgattcttttgacagaggaactctg
+            tcagggtggattttatccaaagccaagaaagacgataccgatgatgaaattgccaaatat
+            gatggaaagtgggaggtagaggaaatgaaggagtcaaagcttccaggtgataaaggactt
+            gtgttgatgtctcgggccaagcatcatgccatctctgctaaactgaacaagcccttcctg
+            tttgacaccaagcctctcattgttcagtatgaggttaatttccaaaatggaatagaatgt
+            ggtggtgcctatgtgaaactgctttctaaaacaccagaactcaacctggatcagttccat
+            gacaagaccccttatacgattatgtttggtccagataaatgtggagaggactataaactg
+            cacttcatcttccgacacaaaaaccccaaaacgggtatctatgaagaaaaacatgctaag
+            aggccagatgcagatctgaagacctattttactgataagaaaacacatctttacacacta
+            atcttgaatccagataatagttttgaaatactggttgaccaatctgtggtgaatagtgga
+            aatctgctcaatgacatgactcctcctgtaaatccttcacgtgaaattgaggacccagaa
+            gaccggaagcccgaggattgggatgaaagaccaaaaatcccagatccagaagctgtcaag
+            ccagatgactgggatgaagatgcccctgctaagattccagatgaagaggccacaaaaccc
+            gaaggctggttagatgatgagcctgagtacgtacctgatccagacgcagagaaacctgag
+            gattgggatgaagacatggatggagaatgggaggctcctcagattgccaaccctagatgt
+            gagtcagctcctggatgtggtgtctggcagcgacctgtgattgacaaccccaattataaa
+            ggcaaatggaagcctcctatgattgacaatcccagttaccagggaatctggaaacccagg
+            aaaataccaaatccagatttctttgaagatctggaacctttcagaatgactccttttagt
+            gctattggtttggagctgtggtccatgacctctgacattttttttgacaactttatcatt
+            tgtgctgatcgaagaatagttgatgattgggccaatgatggatggggcctgaagaaagct
+            gctgatggggctgctgagccaggcgttgtggggcagatgatcgaggcagctgaagagcgc
+            ccgtggctgtgggtagtctatattctaactgtagcccttcctgtgttcctggttatcctc
+            ttctgctgttctggaaagaaacagaccagtggtatggagtataagaaaactgatgcacct
+            caaccggatgtgaaggaagaggaagaagagaaggaagaggaaaaggacaagggagatgag
+            gaggaggaaggagaagagaaacttgaagagaaacagaaaagtgatgctgaagaagatggt
+            ggcactgtcagtcaagaggaggaagacagaaaacctaaagcagaggaggatgaaattttg
+            aacagatcaccaagaaacagaaagccacgaagagagtga
+///

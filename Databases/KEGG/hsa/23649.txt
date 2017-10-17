@@ -1,0 +1,80 @@
+ENTRY       23649             CDS       T01001
+NAME        POLA2
+DEFINITION  (RefSeq) DNA polymerase alpha 2, accessory subunit
+ORTHOLOGY   K02321  DNA polymerase alpha subunit B
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa01100  Metabolic pathways
+            hsa03030  DNA replication
+MODULE      hsa_M00261  DNA polymerase alpha / primase complex
+DRUG_TARGET Clofarabine: D03546
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                23649 (POLA2)
+               00240 Pyrimidine metabolism
+                23649 (POLA2)
+             Genetic Information Processing
+              Replication and repair
+               03030 DNA replication
+                23649 (POLA2)
+            DNA replication proteins [BR:hsa03032]
+             Eukaryotic Type
+              DNA Replication Elongation Factors
+               DNA polymerase alpha / primase complex
+                23649 (POLA2)
+POSITION    11q13.1
+MOTIF       Pfam: DNA_pol_E_B Pol_alpha_B_N
+DBLINKS     NCBI-GeneID: 23649
+            NCBI-ProteinID: NP_002680
+            HGNC: 30073
+            Ensembl: ENSG00000014138
+            Vega: OTTHUMG00000165951
+            Pharos: Q14181(Tbio)
+            UniProt: Q14181
+STRUCTURE   PDB: 4Y97 5EXR 4E2I 2KEB
+AASEQ       598
+            MSASAQQLAEELQIFGLDCEEALIEKLVELCVQYGQNEEGMVGELIAFCTSTHKVGLTSE
+            ILNSFEHEFLSKRLSKARHSTCKDSGHAGARDIVSIQELIEVEEEEEILLNSYTTPSKGS
+            QKRAISTPETPLTKRSVSTRSPHQLLSPSSFSPSATPSQKYNSRSNRGEVVTSFGLAQGV
+            SWSGRGGAGNISLKVLGCPEALTGSYKSMFQKLPDIREVLTCKIEELGSELKEHYKIEAF
+            TPLLAPAQEPVTLLGQIGCDSNGKLNNKSVILEGDREHSSGAQIPVDLSELKEYSLFPGQ
+            VVIMEGINTTGRKLVATKLYEGVPLPFYQPTEEDADFEQSMVLVACGPYTTSDSITYDPL
+            LDLIAVINHDRPDVCILFGPFLDAKHEQVENCLLTSPFEDIFKQCLRTIIEGTRSSGSHL
+            VFVPSLRDVHHEPVYPQPPFSYSDLSREDKKQVQFVSEPCSLSINGVIFGLTSTDLLFHL
+            GAEEISSSSGTSDRFSRILKHILTQRSYYPLYPPQEDMAIDYESFYVYAQLPVTPDVLII
+            PSELRYFVKDVLGCVCVNPGRLTKGQVGGTFARLYLRRPAADGAERQSPCIAVQVVRI
+NTSEQ       1797
+            atgtccgcatccgcccagcagctggcggaggagctgcagatcttcggcctagactgcgag
+            gaggctctaattgagaaattggtagagctttgtgttcagtatggacagaatgaggaggga
+            atggtaggcgagcttatagccttctgcaccagcacacataaagttggccttacctcagag
+            atcctgaactcttttgagcatgagtttctgagcaaaagattatcgaaagccaggcatagt
+            acctgcaaggacagtggccatgcaggagctagagacattgtttccattcaagagctaatt
+            gaagtggaagaagaagaggaaatcctcttgaactcttacaccacaccttcaaagggttct
+            cagaagcgagctatctctaccccagaaacccccctaacaaaaaggagtgtgtcaactcgt
+            agcccccatcagctactctcaccgtcaagtttctctccaagtgctactccctcccagaaa
+            tacaactcacgaagtaaccgaggagaagtggttacctccttcggcttagcacagggagta
+            tcttggtctgggagaggaggagctggaaacatcagcctgaaggtcttgggatgtccagag
+            gcactaactgggagctacaaatccatgtttcagaagctcccagacattcgagaagttctg
+            acctgtaagatagaagaacttggcagcgaactcaaggaacattacaagattgaagctttc
+            actcctttgctagccccagcacaggagcctgtcactctgctgggccagattggctgtgat
+            agcaacgggaagctgaacaacaagtcagtgattctcgagggagaccgggaacattcctcg
+            ggtgctcaaattccagtggatttatctgagcttaaggaatattctctgtttcctggacag
+            gttgtaattatggaaggaatcaacaccactggtaggaaacttgttgccaccaaactctac
+            gagggtgtgccacttccattttatcagcccactgaagaggatgcagactttgagcaaagc
+            atggtcctggttgcctgtggaccatacaccacatctgacagcatcacgtatgaccccctg
+            cttgacctgattgctgtcatcaaccatgaccggccagatgtctgcatcctgtttggccct
+            ttcctggatgctaagcatgaacaggtggagaattgtctactgacaagtccatttgaagac
+            attttcaagcagtgtctacgaacaattattgaaggcacaagaagctccggctcccacctt
+            gtctttgtcccgtcattgagagatgtgcaccatgagcctgtgtacccccagccgcctttc
+            agctactccgatctgtctcgagaggacaaaaagcaagtacagtttgtgtccgagccctgc
+            agcctctccataaacggagtgatcttcggcttgacatccacagatctgcttttccacctg
+            ggggccgaggagatcagtagttcttccggaacttcagacagattcagccgaatactcaag
+            cacatcttgacccagaggagctactacccactctacccgccccaagaagacatggccatt
+            gactatgagtcgttctatgtttacgcacagctgcctgtcaccccagatgtcctcatcatc
+            ccgtcagagctgaggtacttcgtgaaggatgtcctcggctgtgtctgtgtgaaccctggg
+            cgccttaccaaagggcaggtgggaggcaccttcgcccgactctaccttaggaggccggca
+            gcggacggggcagagaggcagagcccatgcattgctgtgcaggtcgtcaggatctga
+///
