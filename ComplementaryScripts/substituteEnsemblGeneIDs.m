@@ -3,10 +3,10 @@
 
 % Receives the HMR model .mat structure and adds a new grRules field with 
 % correspondent equivalences between ENSEMBL gene codes (original HMR) and 
-% HGNC IDs in order to provide compatibility with the Swissprot and KEGG 
-% protein databases.
+% gene short names in order to provide compatibility with the Swissprot and
+% KEGG protein databases.
 %
-% Ivan Domenzain. Last edited: 2017-09-15
+% Ivan Domenzain. Last edited: 2017-10-17
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [model] = substituteEnsemblGeneIDs(model)
     path      = '/Users/ivand/Box Sync/EC-HMR/GECKO_hsa/Databases';
