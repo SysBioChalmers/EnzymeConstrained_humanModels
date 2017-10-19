@@ -42,6 +42,14 @@ function ENSEMBL_Uniprot = GenesToUniprotMapping(model)
            
         end
     end
+    
+    NonUniprotGenes =[];
+    for i=1:length(model.genes)
+        if ~ismember(model.genes{i},ENSEMBL_Uniprot{1})
+            NonUniprotGenes = [NonUniprotGenes; model.genes{i}];
+        end
+    end
+    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Function that receives a string and a cell array and returns the indexes
