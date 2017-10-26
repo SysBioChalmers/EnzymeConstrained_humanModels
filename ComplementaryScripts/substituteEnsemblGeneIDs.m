@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% [model] = substituteEnsemblGeneIDs(original_model)
+% model = substituteEnsemblGeneIDs(original_model)
 
 % Receives the HMR model .mat structure and adds a new grRules field with 
 % correspondent equivalences between ENSEMBL gene codes (original HMR) and 
@@ -8,21 +8,22 @@
 %
 % Ivan Domenzain. Last edited: 2017-10-17
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function [model] = substituteEnsemblGeneIDs(model)
+function model = substituteEnsemblGeneIDs(model)
     path      = '/Users/ivand/Box Sync/EC-HMR/GECKO_hsa/Databases';
     
     %Equivalences table between ENSEMBL and HGNC gene IDs for the organism
     %previously downloaded from:   http://www.ensembl.org/biomart,
-    %including the fields [Gene stable ID/Gene name/Source of gene name]
-    file_name = 'ensembl_IDs_equivalences.txt';
+    %including the fields [Gene stable ID/Gene name/HGNC ID/ Swissprot ID]
+    file_name = 'mart_export.txt';
     cd (path)
     fID       = fopen(file_name);
-    data      = textscan(fID,'%s %s %s','delimiter',',');
+    data      = textscan(fID,'%s %s %s %s','delimiter',',');
     fclose('all');    
     model.grRules_ENSEMBL = model.grRules;
     
     for i=1:length(model.grRules)
         if ~isempty(model.grRules{i})
+            %disp(model.grRules{i})
             str_cells = strsplit(model.grRules{i},' ');
             grRule    = [];
             %Decomposes the grRule into individual genes
