@@ -17,7 +17,7 @@ function updateDatabases(GECKO_path)
     %Write your organism code here (e.g. sce for saccharomyces cerevisiae):
     organism_code     ='hsa';
     %File name of the Uniprot organism data:
-    cd (path) 
+    cd ([path '/UNIPROT']) 
     fileID_uni     = fopen('uniprot_hsa.tab');
     swissprot      = textscan(fileID_uni,'%s %s %s %s %s %s',...
                                  'delimiter','\t');

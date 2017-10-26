@@ -65,7 +65,7 @@ function kcats = matchKcats(model_data, org_name,GECKO_path,keggPath)
     SA_cell    = SA_BRENDA(SA_file,MW_file);
     %Creates a Structure with KEGG codes for organisms, names and phylogenetic 
     %distance matrix and extract the organism index in the KEGG struct
-    phylDistStruct =  KEGG_struct(true,GECKO_path,keggPath);
+    phylDistStruct =  KEGG_struct(true,keggPath);
     %phylDistStruct.names = transpose(phylDistStruct.names);
     org_index = find_inKEGG(org_name,phylDistStruct.names);
     cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
@@ -109,7 +109,6 @@ function kcats = matchKcats(model_data, org_name,GECKO_path,keggPath)
         %Match:
         for j = 1:nM
             EC = EC_numbers{i,j};
-            disp(EC)
             %Try to match direct reaction:
             if ~isempty(EC) && ~isempty(substrates{i,1})
                  [forw,tot] = iterativeMatch(EC,substrates(i,:),i,j,BRENDA,...
@@ -398,9 +397,8 @@ function org_index = find_inKEGG(org_name,names)
     
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function phylDistStruct =  KEGG_struct(unicellular,GECKO_path,keggPath)
+function phylDistStruct =  KEGG_struct(unicellular,keggPath)
 
-    %cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
     cd ../../ComplementaryScripts
     phylDistStruct       = UpdatePhylDist_(keggPath,unicellular);
     phylDistStruct.ids   = transpose(phylDistStruct.ids);
@@ -444,8 +442,7 @@ function SA_cell = SA_BRENDA(SA_file,MW_file )
             SA_cell{1} = [SA_cell{1};SA{1}(i)];
             SA_cell{2} = [SA_cell{2};SA{3}(i)];
             value      = SA{4}(i)*MW{4}(org_index)*(60/1000); %[1/hr]
-            SA_cell{3} = [SA_cell{3}; value];
-            
+            SA_cell{3} = [SA_cell{3}; value];       
         end
         previousEC = SA{1}(i);
     end

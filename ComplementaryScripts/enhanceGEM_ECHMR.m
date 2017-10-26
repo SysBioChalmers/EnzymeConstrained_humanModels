@@ -12,9 +12,8 @@
 %   model       The latest version of HMR2.0 genome scale metabolic model
 % OUTPUTS:
 %   ecModel     Extended enzyme constrained model
-
 %
-% Ivan Domenzain.      Last edited: 2017-10-16
+% Ivan Domenzain.      Last edited: 2017-10-26
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
@@ -24,8 +23,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
     EC_HMR_path  = '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM';
     Protdatabase = 'hsa_ProtDatabase.mat';
     toolbox      = 'COBRA';
-    format short e
-    
+    format short e    
     % COBRA toolbox required
     initCobraToolbox;
     cd ../HMR2.0
@@ -37,32 +35,35 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
     % Creates a new field in the model structure where the ENSEMBL gene IDs
     % are converted to their short gene names in order to provide
     % compatibility with the kcat matching algorithms
-     cd ([EC_HMR_path '/ComplementaryScripts'])
-     [hsa_model] = substituteEnsemblGeneIDs(hsa_model);
-     cd ([EC_HMR_path '/HMR2.0'])
-     save('human.mat','hsa_model');
+    cd ([EC_HMR_path '/ComplementaryScripts'])
+    hsa_model = substituteEnsemblGeneIDs(hsa_model);     
+    % Standardizes the metabolites names
+    hsa_model = modifyMetNames(hsa_model);
+    cd ([EC_HMR_path '/HMR2.0'])
+    save('human.mat','hsa_model');
     
-     Retrieve kcats & MWs for each rxn in model:
-     cd ([EC_HMR_path '/ComplementaryScripts'])
-     hsa_model_data = getEnzymeCodes_ECHMR(hsa_model,Protdatabase,GECKO_path);
-     cd ([EC_HMR_path '/HMR2.0'])
-     save('human_enzData.mat','hsa_model','hsa_model_data');
-     cd ../ComplementaryScripts
-     hsa_kcats      = matchKcats(hsa_model_data,'homo sapiens',...
+    % Retrieve kcats & MWs for each rxn in model:
+    cd ([EC_HMR_path '/ComplementaryScripts'])
+    hsa_model_data = getEnzymeCodes_ECHMR(hsa_model,Protdatabase,GECKO_path);
+    cd ([EC_HMR_path '/HMR2.0'])
+    save('human_enzData.mat','hsa_model','hsa_model_data');
+    cd ../ComplementaryScripts
+    hsa_kcats      = matchKcats(hsa_model_data,'homo sapiens',...
                                   GECKO_path,KEGG_path);
-     cd ([EC_HMR_path '/HMR2.0'])
-     save('human_kcats.mat','hsa_kcats');
+    cd ([EC_HMR_path '/HMR2.0'])
+    save('human_kcats.mat','hsa_kcats');
      
-     % Integrate enzymes in the model:
-     cd ([GECKO_path '/Matlab_Module/change_model'])
-     hsa_ecModel = readKcatData(hsa_model_data,hsa_kcats);
+    % Integrate enzymes in the model:
+    cd ([GECKO_path '/Matlab_Module/change_model'])
+    hsa_ecModel = readKcatData(hsa_model_data,hsa_kcats);
+    % Save output models:
+    cd ([EC_HMR_path '/HMR2.0/EC_HMR'])
+    save('EC_HMR.mat','hsa_ecModel','hsa_model_data','hsa_kcats')
+    cd '../../xml'
+    exportModel(hsa_ecModel,'hsa_ecModel.xml',true)
+    pathTXT = [EC_HMR_path '/txt'];
+    exportToTabDelimited(hsa_ecModel,pathTXT);
    
-     % Save output models:
-     cd ([EC_HMR_path '/HMR2.0/EC_HMR'])
-     save('EC_HMR.mat','hsa_ecModel','hsa_model_data','hsa_kcats')
-     saveECmodelSBML(hsa_ecModel,'hsa_ecModel');
-     cd ([GECKO_path '/Matlab_Module'])
-
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
