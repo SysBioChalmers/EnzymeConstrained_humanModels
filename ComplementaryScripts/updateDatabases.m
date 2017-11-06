@@ -9,15 +9,12 @@
 %       OBS: filter with the Swiss-Prot option
 % 
 % Benjam?n S?nchez. Last edited: 2017-04-18
-% Ivan Domenzain.   Last edited: 2017-10-16
+% Ivan Domenzain.   Last edited: 2017-10-27
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function updateDatabases(GECKO_path)
-    path =  '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM/Databases';
-    %Write your organism code here (e.g. sce for saccharomyces cerevisiae):
-    organism_code     ='hsa';
+function updateDatabases(GECKO_path,DB_path,organism_code)
     %File name of the Uniprot organism data:
-    cd ([path '/UNIPROT']) 
+    cd ([DB_path '/UNIPROT']) 
     fileID_uni     = fopen('uniprot_hsa.tab');
     swissprot      = textscan(fileID_uni,'%s %s %s %s %s %s',...
                                  'delimiter','\t');
@@ -47,7 +44,7 @@ function updateDatabases(GECKO_path)
 
     %Retrieve KEGG info (uniprot code - protein name - systematic gene name...
     %                    - EC number - MW - pathway - sequence):
-    cd ([path '/KEGG/' organism_code])
+    cd ([DB_path '/KEGG/' organism_code])
     file_names      = dir();
     file_names(1:2) = [];
     %wouldn?t be better to allocate kegg structure to the dimension of file_names 
@@ -65,10 +62,11 @@ function updateDatabases(GECKO_path)
         text = text{1};
         cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
 
-        uni      = '';
-        sequence = '';
-        MW       = 0;
-        pathway  = '';
+        uni       = '';
+        EC_names  = '';
+        sequence  = '';
+        MW        = 0;
+        pathway   = '';
         for j = 1:length(text)
             %j=6;
             line = text{j};
@@ -82,18 +80,16 @@ function updateDatabases(GECKO_path)
                     pos_RefSeq  = strfind(line,'(RefSeq)');
                     if isempty(pos_RefSeq)
                         prot_name = lower(line(13:end));
+                        disp([gene_name ': no RefSeq'])
                     else
                         prot_name = lower(line(pos_RefSeq+9:end));
                     end
 
                 %4th column: EC number
-                EC_names  = '';
                 elseif strcmp(line(1:9),'ORTHOLOGY')
-                    pos_EC    = strfind(line,'EC:');
-                    if isempty(pos_EC)
-                        EC_names  = '';
-                    else
-                        EC_names  = line(pos_EC+3:end-1);
+                    pos_EC    = strfind(line,'[EC:');
+                    if ~isempty(pos_EC)
+                        EC_names  = line(pos_EC+4:end-1);
                     end
 
                 %5th column and 7th column: MW & sequence
@@ -113,7 +109,6 @@ function updateDatabases(GECKO_path)
 
                 %6th column: pathway
                 elseif strcmp(line(1:7),'PATHWAY')
-
                     start    = strfind(line,organism_code);
                     pathway  = line(start(1):end);
                     end_path = false; 
@@ -147,7 +142,7 @@ function updateDatabases(GECKO_path)
         kegg{n,5} = MW;
         kegg{n,6} = pathway;
         kegg{n,7} = sequence;
-        cd ([path '/KEGG/' organism_code])
+        cd ([DB_path '/KEGG/' organism_code])
         disp(['Updating KEGG database: Ready with gene ' gene_name])
     end
     kegg(n+1:end,:)         = [];

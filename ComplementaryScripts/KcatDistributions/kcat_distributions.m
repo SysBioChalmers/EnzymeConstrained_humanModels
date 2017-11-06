@@ -1,97 +1,123 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% All Organisms K values cumulative distribution
+% kcat_distributions
 % 
-% Shows the cumulative distribution for K values from the BRENDA database
-% for the user specified organisms.
+% Shows the cumulative distribution for enzymatic parameters from the BRENDA 
+% database for the organisms specified by the user. The overall distributions 
+% will be splitted into distributions for different metabolic subgroups. 
 %
-% Each distribution will be splitted into distributions for different 
-% metabolic subgroups 
-%
-% Ivan Domenzain.  Last edited: 2017-10-19
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Ivan Domenzain.  Last edited: 2017-11-06
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%Extract the Data available in KEGG enzyme database
-cd '/Users/ivand/Box Sync/EnzymaticStudies/characteristics_analyses_scripts'
-[EC_cells, pathGroups] = retrieveKEGGEcs;
- 
-%Structure with all the organisms in KEGG and its corresponging
-%phylogenetic domain
-taxonomyStruct = taxonomy_struct;
+    %path = 'write your repo path here'
+    path = '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM';
+    
+    %Extract the Data available in KEGG enzyme database
+     %Structure with all the organisms in KEGG and its corresponging
+    %phylogenetic domain
+    cd ([path '/ComplementaryScripts/KcatDistributions'])
+    load('EC_path_taxonomy.mat')
 
-%Extract all the enzymatic data (Kcat,Km, SA, Mw) queried from BRENDA
-%each value in these files corresponds to the maximum value found for the
-%especific EC number / substrate / organism triplet.
-
-Kval_files_path='/Users/ivand/Desktop/GECKO-IVAN/K_val';
-Kvalue_name   = string({'KCAT', 'KM', 'SA','MW'});
-[KCAT_data,KM_data, SA_data, MW_data] = enzymes_data(Kval_files_path,...
-                                                              Kvalue_name);
-organism_name = string({'homo sapiens','animals'});
-%Initialize cell arrays size: number of tax classes x number of metabolic
-%subgroups + 1 
-
-for i=1:length(organism_name)
-    for j=1:length(pathGroups{1})+1
-        enz_eff{i}{j} = [];kcat{i}{j} = [];km{i}{j} = [];ec_eff{j} = [];
-        substrates{i}{j} = [];organisms{i}{j} = [];
-        super_subs{j} = [];super_orgs{j} = [];
-    end
-end
-
-for i=1:length(KCAT_data{1})
-    flag = false;
-    %Filter EC number match just if it is also present in KEGG (enzyme)
-    ec_indx   = find(strcmpi(EC_cells{1},KCAT_data{1}{i}(3:end))~=0);
-    if ~isempty(ec_indx)
-        %Looks into the KEGG data if the substrate of the entry appears on 
-        %the list of natural substrates/products for the EC number
-        subs_indx = find(strcmpi(EC_cells{2}{ec_indx},KCAT_data{2}(i))~=0);
-        if ~isempty(subs_indx)
-            org_name   = extract_orgName(KCAT_data{3}{i});
-            for j=1:length(organism_name)
-                if strcmpi(organism_name{j},org_name)
-                    disp(org_name)
-                    flag = true;
-                    kcat{j}{1}    = [kcat{j}{1}; KCAT_data{4}(i)];
-                	%Looks for the pathway associated to each 
-                    %element on the ec_indx subset on the metabolic
-                    %subgroups and if found appends its K value to 
-                    %the corresponding subgroup distribution
-                    if ~isempty(EC_cells{5}{ec_indx})
-                        for k = 1:length(EC_cells{5}{ec_indx})
-                            subDist = find(strcmpi(EC_cells{5}{ec_indx}(k),...
-                                            pathGroups{1}));
-                            kcat{j}{subDist+1} =...
-                                              [kcat{j}{subDist+1}; KCAT_data{4}(i)];  
-                        end
-                    end
-                end
-            end
+    %Extracts all the enzymatic data (Kcat,Km, SA, Mw) queried from BRENDA
+    %each value in these files corresponds to the maximum value found for
+    %the especific EC number / substrate / organism triplet.
+    BRENDAfiles_path=[path '/Databases/BRENDA_data'];
+    %Choose one parameter to analyze {'KCAT', 'KM', 'SA','MW'}
+    parameter_name   = 'KCAT';
+    %Extract info
+    [parameter_data] = enzymes_data(BRENDAfiles_path,parameter_name);
+    %Organisms to be searched in the BRENDA database
+    organisms = string({'homo sapiens'});
+   %Initialize cell arrays size: (number of organisms)x(number of metabolic
+   %subgroups+1) 
+    for i=1:length(organisms)
+        for j=1:length(pathGroups{1})+1
+            E_parameter{i}{j} = [];
         end
     end
+   %Parses the file for the selected parameter and gets the distribution
+    %of values
+    E_parameter = getDistributions(parameter_data, EC_cells, organisms, ...
+                                   pathGroups, E_parameter);
+    % Extract the Kcat values of the EC model sorted by metabolic blocks
+    cd ([path '/ComplementaryScripts/KcatDistributions'])
+     kcat_values{1} = matchedKcatsDist(model,model_kcats, pathGroups);
     
-end
-
-organism_name = string({'Sce','Hsa'});
-met_group = string({'All enzymes','CCM','AFN','ISM'});
-for j=1:4
-    count = 0;
-    i=4;
-        if ~isempty(kcat{i}{j})
-            str(j)                     = met_group(j) + ' (' + ...
-                                        string(length(kcat{i}{j}))+' / '+...
-                                        string(median(kcat{i}{j}))+ ')';
-            [y_KCAT(j), stats_KCAT(j)] = cdfplot(kcat{i}{j});
-            title('Homo sapiens K_{cat} distribution')
+    met_group   = string({'All enzymes',...
+                          'Central carbon and energy metabolism',...
+                          'Amino acids, Fatty acids and Nucleotides metabolism',...
+                          'Intermediate and Secondary metabolism'});
+   % Plots the cumulative distribution of the selected parameter in BRENDA
+   titleStr    = [organisms 'K_{cat} in BRENDA']; 
+   [y_param, stats_param] = plotSplittedCumDist(E_parameter,met_group,titleStr);
+   % Plots the cumulative distribution of the Kcats matched to the ECmodel
+   titleStr               = [organisms 'ecModel K_{cat}?s'];                                        
+   [y_param, stats_param] = plotSplittedCumDist(kcat_values,met_group,titleStr);
+    % Shows a comparison of the indicated distributions
+    Distcell{1} = {E_parameter{1}{1} kcat_values{1}{1}};
+    names    = string({'BRENDA all enzymes', 'hsa_ecModel all enzymes'});
+    titleStr               = ['K_{cat} distributions comparison'];                                        
+    [y_param, stats_param] = plotSplittedCumDist(Distcell,names,titleStr);
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function [y_param, stats_param] = plotSplittedCumDist(E_parameter,legends,...
+                                                      titlestr)
+   figure
+   for i=1:length(E_parameter)
+    for j=1:length(E_parameter{i})
+        if ~isempty(E_parameter{i}{j})
+        	str(j) = legends(j)+' ('+string(length(E_parameter{i}{j}))+...
+                     ' / ' + string(median(E_parameter{i}{j}))+ ')';
+            [y_param(j), stats_param(j)] = cdfplot(E_parameter{i}{j});
+            title(titlestr)
             ylabel('Cumulative distribution','FontSize',30,'FontWeight','bold');
             xlabel('K_{cat} [s^{-1}]','FontSize',30,'FontWeight','bold');
             set(gca, 'XScale', 'log')
             hold on
         end
+    end
+   end
+   legend(y_param,str);
 end
-legend(y_KCAT,str);
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function E_parameter= getDistributions(parameter_data, EC_cells, organisms,...
+                                       pathGroups, E_parameter)
 
+    for i=1:length(parameter_data{1})
+    	%Filter EC number match just if it is also present in KEGG (enzyme)
+    	ec_indx = find(strcmpi(EC_cells{1},parameter_data{1}{i}(3:end))~=0);
+        if ~isempty(ec_indx)
+        	%Looks into the KEGG data if the substrate of the entry appears 
+            %on the list of natural substrates/products for the EC number
+            subs_indx = find(strcmpi(EC_cells{2}{ec_indx},...
+                                     parameter_data{2}(i))~=0);
+            if ~isempty(subs_indx)
+            	name   = extract_orgName(parameter_data{3}{i});
 
+                %For each organisms especified by the user
+                for j=1:length(organisms)
+                    if strcmpi(organisms{j},name)
+                    	E_parameter{j}{1}    = [E_parameter{j}{1};...
+                                                parameter_data{4}(i)];
+                        %Looks for the pathway associated to each 
+                        %element on the ec_indx subset on the metabolic
+                        %subgroups and if found appends its K value to 
+                        %the corresponding subgroup distribution
+                        if ~isempty(EC_cells{5}{ec_indx})
+                        	for k = 1:length(EC_cells{5}{ec_indx})
+                                subDist = find(strcmpi(EC_cells{5}{ec_indx}(k),...
+                                                       pathGroups{1}));
+                                E_parameter{j}{subDist+1} =...
+                                  [E_parameter{j}{subDist+1}; parameter_data{4}(i)];  
+                            end
+                        end
+                    end
+                end
+            end
+        end
+
+   end
+    
+end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function orgName = extract_orgName(str)
 
@@ -114,13 +140,9 @@ function presence = ECnum_presence(pathway,ec)
     URL       = 'http://rest.kegg.jp/get/'+string(pathway);
     path_data = webread(URL);
     path_data = textscan(path_data,'%s','delimiter','\n');
-    %ec        = string(DiffLim{1}{i}(3:end));
     %Extracts just the lines that relate genes and proteins information
     gene_row = indexes_string(path_data{1},'GENE ',false);
-    %comp_row = indexes_string(path_data{1},'COMPOUND ',true);
-    %ref_row  = indexes_string(path_data{1},'REFERENCE ',true);
-    
-    % Looks for wich of compound or reference appears first on the data in
+    % Looks if either compound or reference appears first on the data in
     % order to extract just the GENE related part.
     ending   = [indexes_string(path_data{1},'COMPOUND ',true),...
                 indexes_string(path_data{1},'REFERENCE ',true)];
@@ -158,67 +180,21 @@ function orgList = KEGG_orgList
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-function taxonomyStruct = taxonomy_struct
-    keggPath = '/Volumes/ftp.bioinformatics.jp/kegg/genes/misc';
-    fid      = fopen(fullfile(keggPath,'taxonomy'), 'r');
-    kingdom   = {};
-    Organisms = {};
-    while 1
-        %Get the next line
-        tline = fgetl(fid);
-        %Abort at end of file
-        if ~ischar(tline)
-            break
-        else
-            if any(tline)
-                if tline(2)=='#' && tline(3)~='#'
-                    sPos=strfind(tline,' ');
-                    kingdom   = [kingdom tline(sPos(1)+1:end)];
-                    Organisms{length(kingdom)} = {}; 
-                end
-                tline = strsplit(tline,'\t');
-                if length(tline)==4
-                    if strfind(tline{4},'(')
-                        tline{4} = tline{4}(1:strfind(tline{4},'(')-2);
-                    end    
-                    Organisms{length(kingdom)} = [Organisms{length(kingdom)} ...
-                                                  lower(tline{4})];
-                end
-            end
-        end
-    end
-    taxonomyStruct.kingdom   = kingdom;
-    taxonomyStruct.organisms = Organisms;
-end
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Extract all the enzymatic data (Kcat,Km, SA, Mw) queried from BRENDA
 %each value in these files corresponds to the maximum value found for the
 %especific EC number / substrate / organism triplet.
-function [KCAT_data,KM_data, SA_data, MW_data] = enzymes_data(Kval_files_path,...
-                                                              Kvalue_name)
-                                                          
-    cd (Kval_files_path)
-     for i=1:length(Kvalue_name)
-        if i==2
-            file_name = 'min_' + Kvalue_name(i) + '.txt';
-        else
-            file_name = 'max_' + Kvalue_name(i) + '.txt';
-        end
-        fID       = fopen(file_name);
-
-        switch i
-            case 1
-                KCAT_data = textscan(fID,'%s %s %s %f  %s','delimiter','\t');
-            case 2
-                KM_data   = textscan(fID,'%s %s %s %f  %s','delimiter','\t');
-            case 3
-                SA_data   = textscan(fID,'%s %s %s %f  %s','delimiter','\t');
-            case 4
-                MW_data   = textscan(fID,'%s %s %s %f  %s','delimiter','\t');
-        end
-        efe = fclose('all');    
+function parameter_data = enzymes_data(BRENDAfiles_path,parameter_name)
+     cd (BRENDAfiles_path)
+     if strcmpi(parameter_name,'KM')
+     	file_name = ['min_'  parameter_name  '.txt'];
+     else
+        file_name = ['max_'  parameter_name  '.txt'];
      end
+     disp(['Parsing' parameter_name 'values from BRENDA'])
+     fID       = fopen(file_name);
+     parameter_data = textscan(fID,'%s %s %s %f  %s','delimiter','\t');
+     fclose('all');    
+
+     
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

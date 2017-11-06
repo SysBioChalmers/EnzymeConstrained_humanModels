@@ -434,15 +434,20 @@ function SA_cell = SA_BRENDA(SA_file,MW_file )
     for i=1:length(SA{1})
         %Gets the indexes of the EC repetitions in the MW cell for every
         %new (different) EC
-        if ~strcmpi(SA{1}, previousEC)
+        if ~strcmpi(SA{1}(i), previousEC)
+            %EC_indexes = indexes_string(MW{1},SA{1}{i},false);
             EC_indexes = find(strcmpi(SA{1}(i),MW{1}));
         end
-        org_index = find(strcmpi(SA{3}(i),MW{3}(EC_indexes)),1);
+        % just looks for the first match because just the maximal value for
+        % each EC# / Orgaism is reported on the file
+        mwEC{1} = MW{3}(EC_indexes); mwEC{2} = MW{4}(EC_indexes);
+        %org_index = indexes_string(mwEC{1},SA{3}{i},true);
+        org_index = find(strcmpi(SA{3}(i),mwEC{1}),1);
         if ~isempty(org_index)
             SA_cell{1} = [SA_cell{1};SA{1}(i)];
             SA_cell{2} = [SA_cell{2};SA{3}(i)];
-            value      = SA{4}(i)*MW{4}(org_index)*(60/1000); %[1/hr]
-            SA_cell{3} = [SA_cell{3}; value];       
+            value      = SA{4}(i)* mwEC{2}(org_index)*(60/1000); %[1/hr]
+            SA_cell{3} = [SA_cell{3}; value];
         end
         previousEC = SA{1}(i);
     end

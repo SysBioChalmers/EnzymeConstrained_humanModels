@@ -13,11 +13,13 @@
 % OUTPUTS:
 %   ecModel     Extended enzyme constrained model
 %
-% Ivan Domenzain.      Last edited: 2017-10-26
+% Ivan Domenzain.      Last edited: 2017-10-27
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
+function [ecModel,model_data,kcats] = enhanceGEM_ECHMR
 
+    org_name     = 'homo sapiens';
+    keggCode     = 'hsa';
     GECKO_path   = '/Users/ivand/Desktop/GECKO/GECKO-master';
     KEGG_path    = '/Volumes/ftp.bioinformatics.jp/kegg';
     EC_HMR_path  = '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM';
@@ -30,7 +32,8 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
     hsa_model = importModel('HMRdatabase2_00_Cobra.xml',true,true);
     % Update protein databases (KEGG and uniprot)
     cd ../ComplementaryScripts
-    updateDatabases(GECKO_path)
+    DB_path =  '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM/Databases';
+    updateDatabases(GECKO_path,DB_path,keggCode);
     
     % Creates a new field in the model structure where the ENSEMBL gene IDs
     % are converted to their short gene names in order to provide
@@ -48,8 +51,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(model)
     cd ([EC_HMR_path '/HMR2.0'])
     save('human_enzData.mat','hsa_model','hsa_model_data');
     cd ../ComplementaryScripts
-    hsa_kcats      = matchKcats(hsa_model_data,'homo sapiens',...
-                                  GECKO_path,KEGG_path);
+    hsa_kcats      = matchKcats(hsa_model_data,org_name,GECKO_path,KEGG_path);
     cd ([EC_HMR_path '/HMR2.0'])
     save('human_kcats.mat','hsa_kcats');
      
