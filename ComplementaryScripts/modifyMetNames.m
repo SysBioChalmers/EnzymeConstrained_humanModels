@@ -15,7 +15,9 @@ function model = modifyMetNames(model)
         met = model.metNames{i};
         % Removes the '_termination code' of each metabolite
         pos = strfind(met,'_');
-        met = met(1:pos(end)-1);
+        if ~isempty(pos)
+            met = met(1:pos(end)-1);
+        end
         
         if any(strfind(met,'[protein]-'))
             met = replace(met,'[protein]-','');
