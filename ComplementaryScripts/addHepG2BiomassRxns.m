@@ -1,4 +1,4 @@
-function HepG2model = addHepG2BiomassRxns(model)
+function HepG2model = addHepG2BiomassRxns(model,ecFlag)
 %ADDHEPG2BIOMASSRXNS  Add HepG2 biomass reactions to (ec)HMR2 model.
 %
 % HEPG2MODEL = ADDHEPG2BIOMASSRXNS(MODEL) adds reactions associated with
@@ -75,28 +75,36 @@ addRxnDataStruct.subSystems = repmat({'Artificial'},nRxns,1);
 
 % generate new temporary model with reaction info added
 temp_model = addRxns(model,addRxnDataStruct,3,[],false);
-
+% Remove the previous biomass rxn
+biomassPos = find(~cellfun(@isempty,strfind(temp_model.rxns,'biomass')));
+if ~isempty(biomassPos)
+    temp_model = removeReactions(temp_model,biomassPos);
+end
 
 % The addRxns function adds new reaction data to the end of each model
 % field. However, we want to insert the reaction data right before the new
 % reactions that were added by the GECKO algorithm.
+if ecFlag
+    % search in model.rxns for first appearance of "..._REV" reaction name
+    insRxnInd = find(~cellfun(@isempty,regexp(model.rxns,'_REV$')),1,'first')-1;
 
-% search in model.rxns for first appearance of "..._REV" reaction name
-insRxnInd = find(~cellfun(@isempty,regexp(model.rxns,'_REV$')),1,'first')-1;
+    % transfer new reaction fields from TEMP_MODEL to proper location in MODEL
+    %rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'rules';'S';'lb';'ub';'rev';'c';'rxnGeneMat'};
+    rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'S';'lb';'ub';'rev';'c';'rxnGeneMat'};
 
-% transfer new reaction fields from TEMP_MODEL to proper location in MODEL
-rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'rules';'S';'lb';'ub';'rev';'c';'rxnGeneMat'};
-for i = 1:length(rxnFields)
-    if strcmp(rxnFields{i},'S')
-        % S matrix has rxns as columns instead of rows, so it needs to be
-        % processed differently than the other model fields
-        model.S = [model.S(:,1:insRxnInd), temp_model.S(:,end-(nRxns-1):end), model.S(:,insRxnInd+1:end)];
-    else
-        model.(rxnFields{i}) = [model.(rxnFields{i})(1:insRxnInd,:); ...
-            temp_model.(rxnFields{i})(end-(nRxns-1):end,:); model.(rxnFields{i})(insRxnInd+1:end,:)];
+    for i = 1:length(rxnFields)
+        if strcmp(rxnFields{i},'S')
+            % S matrix has rxns as columns instead of rows, so it needs to be
+            % processed differently than the other model fields
+            model.S = [model.S(:,1:insRxnInd), temp_model.S(:,end-(nRxns-1):end), model.S(:,insRxnInd+1:end)];
+        else
+            model.(rxnFields{i}) = [model.(rxnFields{i})(1:insRxnInd,:); ...
+                temp_model.(rxnFields{i})(end-(nRxns-1):end,:); model.(rxnFields{i})(insRxnInd+1:end,:)];
+        end
     end
+else
+    model = temp_model;
 end
-
 
 
 %% Avlant's stoichiometry changes/notes regarding HepG2 biomass
@@ -116,9 +124,7 @@ end
 % % obvious that they need it.
 % model = configureSMatrix(model, 1, 'HumanGrowth', 'glycogen[c]');
 
-
-
-%% Finalize changes
+% Finalize changes
 
 % set objective as 'HumanGrowth' reaction
 model.c(:) = 0;
