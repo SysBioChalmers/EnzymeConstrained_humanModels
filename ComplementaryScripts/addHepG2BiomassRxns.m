@@ -76,9 +76,14 @@ addRxnDataStruct.subSystems = repmat({'Artificial'},nRxns,1);
 % generate new temporary model with reaction info added
 temp_model = addRxns(model,addRxnDataStruct,3,[],false);
 % Remove the previous biomass rxn
-biomassPos = find(~cellfun(@isempty,strfind(temp_model.rxns,'biomass')));
+massPos(1) = find(~cellfun(@isempty,strfind(temp_model.rxns,'biomass')));
+massPos(2) = find(~cellfun(@isempty,strfind(temp_model.rxns,'cofactors_vitamins')));
+massPos(3) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminA')));
+massPos(4) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminD')));
+massPos(5) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminE')));
+
 if ~isempty(biomassPos)
-    temp_model = removeReactions(temp_model,biomassPos);
+    temp_model = removeReactions(temp_model,massPos);
 end
 
 % The addRxns function adds new reaction data to the end of each model
@@ -128,10 +133,8 @@ end
 
 % set objective as 'HumanGrowth' reaction
 model.c(:) = 0;
-model.c(ismember(model.rxns,'HumanGrowth')) = 1;
+model.c(ismember(model.rxns,'humanGrowthOut')) = 1;
 
-% set final output model
-HepG2model = model;
 
 
 
