@@ -8,6 +8,24 @@ function HepG2model = addHepG2BiomassRxns(model,ecFlag)
 % content, and before the added EC content.
 
 
+%% Remove boundary metabolites, if present
+% boundary metabolites (those in compartment "x" for RAVEN-type models)
+% should be removed from the stoichiometry matrix before running any
+% simulations, as they prevent mass balancing. Currently, this just sets
+% their stoichiometric coefficients to zero, but probably should be revised
+% to remove them from model entirely.
+
+% just in case, confirm that this is not a Cobra-style model
+if all(ismember(model.comps,{'c','e','g','l','m','n','r','x','b'}))
+    warning('Model appears to be Cobra-like: boundary metabolites will not be removed.');
+else
+    % set S-matrix to zero for all mets in "x" boundary compartment
+    [~,boundCompInd] = ismember('x',model.comps);
+    boundMets = (model.metComps == boundCompInd);
+    model.S(boundMets,:) = 0;
+end
+
+
 %% Add new metabolites for biomass reactions
 % metabolite ID numbering started arbitrarily from m90000
 addMetData = {
