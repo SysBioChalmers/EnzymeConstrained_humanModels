@@ -1,8 +1,9 @@
-# Mac OS X
-#############
-.DS_Store
-.AppleDouble
-.LSOverride
+# Windows default autosave extension
+*.asv
+Thumbs.db
 
-# Thumbnails
-._*
+# OSX / *nix default autosave extension
+*.*~
+
+# hidden extensions
+.DS_Store
