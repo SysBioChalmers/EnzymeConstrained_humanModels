@@ -93,14 +93,14 @@ addRxnDataStruct.subSystems = repmat({'Artificial'},nRxns,1);
 
 % generate new temporary model with reaction info added
 temp_model = addRxns(model,addRxnDataStruct,3,[],false);
-% Remove the previous biomass rxn
-massPos(1) = find(~cellfun(@isempty,strfind(temp_model.rxns,'biomass')));
-massPos(2) = find(~cellfun(@isempty,strfind(temp_model.rxns,'cofactors_vitamins')));
-massPos(3) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminA')));
-massPos(4) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminD')));
-massPos(5) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminE')));
 
-if ~isempty(biomassPos)
+% Remove the previous biomass rxn
+massPos = [];
+for rxnText = {'biomass','cofactors_vitamins','vitaminA','vitaminD','vitaminE'}
+    massPos = [massPos; find(~cellfun(@isempty,strfind(temp_model.rxns,rxnText)))];
+end
+
+if ~isempty(massPos)
     temp_model = removeReactions(temp_model,massPos);
 end
 
