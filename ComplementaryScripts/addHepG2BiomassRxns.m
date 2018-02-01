@@ -147,12 +147,14 @@ end
 % % obvious that they need it.
 % model = configureSMatrix(model, 1, 'HumanGrowth', 'glycogen[c]');
 
-% Finalize changes
+%% Finalize changes
 
 % set objective as 'HumanGrowth' reaction
 model.c(:) = 0;
 model.c(ismember(model.rxns,'humanGrowthOut')) = 1;
 
+% assign output
+HepG2model = model;
 
 
 
