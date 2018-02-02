@@ -8,6 +8,24 @@ function HepG2model = addHepG2BiomassRxns(model,ecFlag)
 % content, and before the added EC content.
 
 
+%% Remove boundary metabolites, if present
+% boundary metabolites (those in compartment "x" for RAVEN-type models)
+% should be removed from the stoichiometry matrix before running any
+% simulations, as they prevent mass balancing. Currently, this just sets
+% their stoichiometric coefficients to zero, but probably should be revised
+% to remove them from model entirely.
+
+% just in case, confirm that this is not a Cobra-style model
+if all(ismember(model.comps,{'c','e','g','l','m','n','r','x','b'}))
+    warning('Model appears to be Cobra-like: boundary metabolites will not be removed.');
+else
+    % set S-matrix to zero for all mets in "x" boundary compartment
+    [~,boundCompInd] = ismember('x',model.comps);
+    boundMets = (model.metComps == boundCompInd);
+    model.S(boundMets,:) = 0;
+end
+
+
 %% Add new metabolites for biomass reactions
 % metabolite ID numbering started arbitrarily from m90000
 addMetData = {
@@ -75,14 +93,14 @@ addRxnDataStruct.subSystems = repmat({'Artificial'},nRxns,1);
 
 % generate new temporary model with reaction info added
 temp_model = addRxns(model,addRxnDataStruct,3,[],false);
-% Remove the previous biomass rxn
-massPos(1) = find(~cellfun(@isempty,strfind(temp_model.rxns,'biomass')));
-massPos(2) = find(~cellfun(@isempty,strfind(temp_model.rxns,'cofactors_vitamins')));
-massPos(3) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminA')));
-massPos(4) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminD')));
-massPos(5) = find(~cellfun(@isempty,strfind(temp_model.rxns,'vitaminE')));
 
-if ~isempty(biomassPos)
+% Remove the previous biomass rxn
+massPos = [];
+for rxnText = {'biomass','cofactors_vitamins','vitaminA','vitaminD','vitaminE'}
+    massPos = [massPos; find(~cellfun(@isempty,strfind(temp_model.rxns,rxnText)))];
+end
+
+if ~isempty(massPos)
     temp_model = removeReactions(temp_model,massPos);
 end
 
@@ -129,12 +147,14 @@ end
 % % obvious that they need it.
 % model = configureSMatrix(model, 1, 'HumanGrowth', 'glycogen[c]');
 
-% Finalize changes
+%% Finalize changes
 
 % set objective as 'HumanGrowth' reaction
 model.c(:) = 0;
 model.c(ismember(model.rxns,'humanGrowthOut')) = 1;
 
+% assign output
+HepG2model = model;
 
 
 
