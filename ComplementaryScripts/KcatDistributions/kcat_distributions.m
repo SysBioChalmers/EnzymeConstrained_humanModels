@@ -7,26 +7,27 @@
 %
 % Ivan Domenzain.  Last edited: 2017-11-06
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-    %path = 'write your repo path here'
-    path = '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM';
+function kcat_distributions(model,model_kcats,organisms)
+    %path = 'write your repo path here
+    current = pwd;
+    %path = '/Users/ivand/Documents/EnzymeConstrained-HMR-GEM';
     
     %Extract the Data available in KEGG enzyme database
      %Structure with all the organisms in KEGG and its corresponging
     %phylogenetic domain
-    cd ([path '/ComplementaryScripts/KcatDistributions'])
+    %cd ([path '/ComplementaryScripts/KcatDistributions'])
     load('EC_path_taxonomy.mat')
 
     %Extracts all the enzymatic data (Kcat,Km, SA, Mw) queried from BRENDA
     %each value in these files corresponds to the maximum value found for
     %the especific EC number / substrate / organism triplet.
-    BRENDAfiles_path=[path '/Databases/BRENDA_data'];
+    %BRENDAfiles_path=[path '/Databases/BRENDA_data'];
+    cd ../../Databases/BRENDA_data
+    BRENDAfiles_path = pwd;
     %Choose one parameter to analyze {'KCAT', 'KM', 'SA','MW'}
     parameter_name   = 'KCAT';
     %Extract info
     [parameter_data] = enzymes_data(BRENDAfiles_path,parameter_name);
-    %Organisms to be searched in the BRENDA database
-    organisms = string({'homo sapiens'});
    %Initialize cell arrays size: (number of organisms)x(number of metabolic
    %subgroups+1) 
     for i=1:length(organisms)
@@ -39,7 +40,7 @@
     E_parameter = getDistributions(parameter_data, EC_cells, organisms, ...
                                    pathGroups, E_parameter);
     % Extract the Kcat values of the EC model sorted by metabolic blocks
-    cd ([path '/ComplementaryScripts/KcatDistributions'])
+    cd (current)
      kcat_values{1} = matchedKcatsDist(model,model_kcats, pathGroups);
     
     met_group   = string({'All enzymes',...
@@ -50,13 +51,14 @@
    titleStr    = [organisms 'K_{cat} in BRENDA']; 
    [y_param, stats_param] = plotSplittedCumDist(E_parameter,met_group,titleStr);
    % Plots the cumulative distribution of the Kcats matched to the ECmodel
-   titleStr               = [organisms 'ecModel K_{cat}?s'];                                        
+   titleStr               = [organisms 'ecModel K_{cat}'];                                        
    [y_param, stats_param] = plotSplittedCumDist(kcat_values,met_group,titleStr);
     % Shows a comparison of the indicated distributions
     Distcell{1} = {E_parameter{1}{1} kcat_values{1}{1}};
-    names    = string({'BRENDA all enzymes', 'hsa_ecModel all enzymes'});
+    names    = string({'BRENDA all enzymes', 'ecModel all enzymes'});
     titleStr               = ['K_{cat} distributions comparison'];                                        
     [y_param, stats_param] = plotSplittedCumDist(Distcell,names,titleStr);
+end
     
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [y_param, stats_param] = plotSplittedCumDist(E_parameter,legends,...
@@ -89,13 +91,14 @@ function E_parameter= getDistributions(parameter_data, EC_cells, organisms,...
         	%Looks into the KEGG data if the substrate of the entry appears 
             %on the list of natural substrates/products for the EC number
             subs_indx = find(strcmpi(EC_cells{2}{ec_indx},...
-                                     parameter_data{2}(i))~=0);
+                                    parameter_data{2}(i))~=0);
             if ~isempty(subs_indx)
             	name   = extract_orgName(parameter_data{3}{i});
 
                 %For each organisms especified by the user
                 for j=1:length(organisms)
-                    if strcmpi(organisms{j},name)
+                    if ~isempty(strfind(organisms{j},name))
+                    %if strcmpi(organisms{j},name)
                     	E_parameter{j}{1}    = [E_parameter{j}{1};...
                                                 parameter_data{4}(i)];
                         %Looks for the pathway associated to each 

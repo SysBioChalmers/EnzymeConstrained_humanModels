@@ -15,9 +15,9 @@ function kcat_values = matchedKcatsDist(model,model_kcats, pathGroups)
         kcat_values{i} = [];
     end
     flag        = isfield(model,'subSystems');
-    kcat_values = getValues(matrix/3600,flag,pathGroups,kcat_values,model);
+    kcat_values = getValues(matrix(:,:)/3600,flag,pathGroups,kcat_values,model);
     matrix      = model_kcats.back.kcats; 
-    kcat_values = getValues(matrix/3600,flag,pathGroups,kcat_values,model);
+    kcat_values = getValues(matrix(:,:)/3600,flag,pathGroups,kcat_values,model);
     for i=1:4
         kcat_values{i} = unique(kcat_values{i});
     end
