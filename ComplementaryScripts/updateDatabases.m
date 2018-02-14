@@ -9,12 +9,12 @@
 %       OBS: filter with the Swiss-Prot option
 % 
 % Benjam?n S?nchez. Last edited: 2017-04-18
-% Ivan Domenzain.   Last edited: 2017-10-27
+% Ivan Domenzain.   Last edited: 20178-01-30
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function updateDatabases(GECKO_path,DB_path,organism_code)
+function updateDatabases(GECKO_path,organism_code)
     %File name of the Uniprot organism data:
-    cd ([DB_path '/UNIPROT']) 
+    cd ../Databases/UNIPROT 
     fileID_uni     = fopen('uniprot_hsa.tab');
     swissprot      = textscan(fileID_uni,'%s %s %s %s %s %s',...
                                  'delimiter','\t');
@@ -28,7 +28,7 @@ function updateDatabases(GECKO_path,DB_path,organism_code)
 
     swissprot(1,:) = [];
     fclose(fileID_uni);
-    cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
+    %cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
     for i = 1:length(swissprot)
         %Leave protein name as lower case, remove ';' from ECs & calculate MW:
         prot_name      = lower(swissprot{i,2});
@@ -44,7 +44,7 @@ function updateDatabases(GECKO_path,DB_path,organism_code)
 
     %Retrieve KEGG info (uniprot code - protein name - systematic gene name...
     %                    - EC number - MW - pathway - sequence):
-    cd ([DB_path '/KEGG/' organism_code])
+    cd ../KEGG/organism_code
     file_names      = dir();
     file_names(1:2) = [];
     %wouldn?t be better to allocate kegg structure to the dimension of file_names 
@@ -60,8 +60,7 @@ function updateDatabases(GECKO_path,DB_path,organism_code)
         text = textscan(fID,'%s','delimiter','\t');
         fclose(fID);
         text = text{1};
-        cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
-
+        %cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
         uni       = '';
         EC_names  = '';
         sequence  = '';
@@ -142,14 +141,14 @@ function updateDatabases(GECKO_path,DB_path,organism_code)
         kegg{n,5} = MW;
         kegg{n,6} = pathway;
         kegg{n,7} = sequence;
-        cd ([DB_path '/KEGG/' organism_code])
+        %cd ([DB_path '/KEGG/' organism_code])
         disp(['Updating KEGG database: Ready with gene ' gene_name])
     end
     kegg(n+1:end,:)         = [];
 
     %Save all databases as .mat files:
-    cd ../..
-    save(['hsa_ProtDatabase' '.mat'],'kegg','swissprot');
+    cd ([GECKO_path '/Databases'])
+    save(['ProtDatabase' '.mat'],'kegg','swissprot');
     cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
 
 end
