@@ -19,8 +19,7 @@ function model = substitute_grRules(model)
     data      = textscan(fID,'%s %s %s %s','delimiter',',');
     fclose('all');    
     model.grRules_ENSEMBL = model.grRules;
-%     ENSEMList = [];
-%     genesList = [];
+    
     for i=1:length(model.grRules)
         model.grRules(i) = strrep(model.grRules(i),' or',' OR ');
         if ~isempty(model.grRules{i})
@@ -37,16 +36,7 @@ function model = substitute_grRules(model)
                     %by its corresponding gene name
                     if ~isempty(index)
                          gene         = data{2}(index);
-                        str_cells{j} = replace(str,ensemblID,gene);
-%                     else
-%                         gene = ensemblID;
                     end
-                    
-%                     if ~ismember(ensemblID,ENSEMList)
-%                         ENSEMList = [ENSEMList; string(ensemblID)];
-%                         genesList = [genesList; string(gene)];
-%                     end
-                    
                 end
                 grRule = strcat(grRule,str_cells{j});
                 if j<length(str_cells)
@@ -57,7 +47,6 @@ function model = substitute_grRules(model)
         end
         disp(strcat('ready with grRule #',string(i)))
     end
-%     model.genes = unique(genesList);
     cd (current)
 end    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
