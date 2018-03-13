@@ -22,6 +22,7 @@ function model = substitute_grRules(model)
     
     for i=1:length(model.grRules)
         model.grRules(i) = strrep(model.grRules(i),' or',' OR ');
+        model.grRules(i) = strrep(model.grRules(i),' and ',' AND ');
         if ~isempty(model.grRules{i})
             str_cells = strsplit(model.grRules{i},' ');
             grRule    = [];
@@ -43,6 +44,7 @@ function model = substitute_grRules(model)
                     grRule = strcat(grRule,{' '});
                 end
             end
+            grRule           = enclose_isoenzymes(grRule);
             model.grRules{i} = char(grRule);
         end
         disp(strcat('ready with grRule #',string(i)))
@@ -50,6 +52,27 @@ function model = substitute_grRules(model)
     cd (current)
 end    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Function that receives a grRule string and encloses all the isoenzymes
+%into brackets
+function STR = enclose_isoenzymes(STR)
+    ORpos = strfind(STR,' OR ');
+    if ~isempty(ORpos)
+        for j=1:length(ORpos)
+            ORpos = strfind(STR,' OR ');
+            tempSTR = STR(ORpos(j):end);
+            if ~strcmpi(STR(ORpos(j)-1),')')
+                STR = horzcat(STR(1:ORpos(j)-1),')',tempSTR);
+            end
+            ORpos   = strfind(STR,' OR ');
+            tempSTR = STR(1:ORpos(j)+3);
+            if ~strcmpi(STR(ORpos(j)+4),'(')
+                STR = horzcat(tempSTR,'(',STR(ORpos(j)+4:end));
+            end
+        end
+    end
+end
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % Function that receives a string and a cell array and returns the indexes
 % in which the string appears on the array.
 function matching = indexes_string(cell_array,str)
