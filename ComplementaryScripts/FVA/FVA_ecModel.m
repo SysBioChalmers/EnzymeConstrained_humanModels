@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% [rangeDist,rangeDist_EC] = FVA_ecModel(model,ecModel,BlockFlag)
+% [rangeDist,rangeDist_EC] = FVA_ecirrevModel(irrevModel,ecirrevModel,BlockFlag)
 %  
-% This function goes through each of the rxns in a metabolic model and
+% This function goes through each of the rxns in a metabolic irrevModel and
 % gets its flux variability range, then the rxn is mapped into an EC
 % version of it to perform the correspondent variability analysis and
 % finally compares and plots the cumulative flux variability distributions. 
@@ -9,112 +9,71 @@
 % Raphael Ferreira     Last edited: 2018-03-14
 % Ivan Domenzain.      Last edited: 2018-03-15
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%function [rangeDist,rangeDist_EC] = FVA_ecModel(model,ecModel,BlockFlag)
+%function [rangeDist,rangeDist_EC] = FVA_ecirrevModel(irrevModel,ecirrevModel,BlockFlag,path)
+    path = '/Users/ivand/Documents/GitHub/GECKO';
+    current          = pwd;
     range_model      = [];
     optimizedIndxs   = [];
     optimizedECIndxs = [];
-    range_ecModel    = [];    
+    range_ecModel    = [];   
+    %Get the index for all the non-objective rxns in the original irrevModel
+    rxnsIndxs    = find(model.c~=1); 
+    %Convert to irreversible irrevModel
+    cd ([path '/Matlab_Module/change_model'])
+    irrevModel = convertToIrreversibleModel(model);
+    cd (current)
     %Block glucose and oxygen production
 	%if nargin>2
-		Blocked_mets    = {'D-glucose', 'oxygen'};
-		model   = block_production(model,Blocked_mets,false);
-        ecModel = block_production(ecModel,Blocked_mets,true);
-    %end
-     %Get the index for all the non-objective rxns 
-     rxnsIndxs    = find(model.c~=1);     
-     %Gets the optimal value for ecModel and fixes the objective value to 
-     %this for both models
-     [OptimalValue, ~, ecModel]       = fixObjective(ecModel);
-     [OptimalValue,optFluxDist,model] = fixObjective(model,OptimalValue);
+		Blocked_mets = {'glucose', 'oxygen'};
+		irrevModel   = block_production(irrevModel,Blocked_mets,true);
+        ecModel      = block_production(ecModel,Blocked_mets,true);
+    %end    
+     %Gets the optimal value for ecirrevModel and fixes the objective value to 
+     %this for both irrevModels
+     [OptimalValue,basalFluxDist,ecModel] = fixObjective(ecModel);
+     [OptimalValue,~,irrevModel]          = fixObjective(irrevModel,OptimalValue);
      % Get the variability range for each of non-objective reactions in the
-     % original model
+     % original irrevModel
      for i=1:length(rxnsIndxs)
-         rangeEC = [];
-         indx    = rxnsIndxs(i);         
-         % performs the analysis just on rxns with a non-zero flux
-         %if optFluxDist(indx)~=0
-             %Maximize i-th rxn
-             sol = Optimizer(model,indx,1);
-             %If the solution was feasible then proceed to the minimization
-             %of the rxn
-             if ~isempty(sol.f)
-                 maxFlux = sol.x(indx);
-                 %minimization
-                 sol = Optimizer(model,indx,-1);
-                 %If minimization was feasible then proceed to calculate
-                 %the FV range
-                 if ~isempty(sol.f)
-                     minFlux = sol.x(indx);
-                     range   = maxFlux- minFlux;
-                     %Now for the EC model (irrev model)
-                     rxnID       = model.rxns(indx);
-                     mappedIndxs = rxnMapping(rxnID,ecModel,true);
-                     if length(mappedIndxs)>1
-                     %if model.lb(indx) < 0 % model.rev(indx) == 1%
-                         %mappedIndxs = rxnMapping(rxnID,ecModel,true);
-                         %if length(mappedIndxs)<2
-                         %    disp(rxnID)
-                         %end
-                         %Set objective function for the maximization of the
-                         %forward rxn
-                         sol = Optimizer(ecModel,mappedIndxs(1,1),1);
-                         % If the maximization was feasible proceed to min
-                         if ~isempty(sol.f)
-                            maxECFlux = sol.x(indx);
-                           %Set objective function for the maximization 
-                           %of thebackward rxn (minimization) and Fix 
-                           %forward rxn flux to "zero"
-                           sol = Optimizer(ecModel,mappedIndxs(2,1),1,...
-                                                mappedIndxs(1,1),0);
-                            %If max and min were feasible the FV range for
-                            %the i-th rxn (mapped in the ecModel) is
-                            %calculated
-                            if ~isempty(sol.f)
-                                minECFlux = sol.x(indx);
-                                rangeEC   = maxECFlux+minECFlux;
-                            end                       
-                         end
-                     else
-                         mappedIndxs = rxnMapping(rxnID,ecModel,false); 
-                        %Max
-                         sol = Optimizer(ecModel,mappedIndxs,1);
-                         if ~isempty(sol.f)
-                            maxECFlux = sol.x(indx);
-                            %Min
-                            sol = Optimizer(ecModel,mappedIndxs,-1);
-                             if ~isempty(sol.f)
-                                minECFlux = sol.x(indx);
-                                rangeEC = maxECFlux+minECFlux;
-                             end
-                         end
-                     end
-
-                     if ~isempty(rangeEC)
-                         range_model    = [range_model; range];
-                         optimizedIndxs = [optimizedIndxs; indx];
-                         range_ecModel    = [range_ecModel; rangeEC];
-                     end
-
-                 end
-                 disp(['ready with ' string(rxnID)])
-             end
-         %end
-     end
-
+         indx        = rxnsIndxs(i);  
+         rxnID       = model.rxns(indx);
+         mappedIndxs = rxnMapping(rxnID,model,false);
+         FixedValues = [];
+         range       = MAXmin_Optimizer(model,mappedIndxs,FixedValues);
+         %If max and min were feasible then the optimization proceeds with
+         %the ecModel
+         if ~isempty(range)
+            mappedIndxs = rxnMapping(rxnID,ecModel,true);
+            FixedValues = basalFluxDist(mappedIndxs);
+            rangeEC     = MAXmin_Optimizer(ecModel,mappedIndxs,FixedValues);
+            if ~isempty(rangeEC)
+                range_model   = [range_model; range];
+                range_ecModel = [range_ecModel; rangeEC];
+            end
+         end
+         disp(['ready with #' num2str(i)])
+    end
+     %Plot FV cumulative distributions
+     %distributions          = {range_model(find(range_model)), range_ecModel(find(range_ecModel))};
+     distributions          = {range_model, range_ecModel};
+     legends                = {'Yeast model', 'ecYeast_ v1.5'};
+     title                  = 'Flux variability cumulative distribution';
+     [y_param, stats_param] = plotCumDist(distributions,legends,...
+                               'Flux variability cumulative distribution');
 %end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function [OptimalValue, optFluxDist, model] = fixObjective(model,priorValue)
+function [OptimalValue, optFluxDist, irrevModel] = fixObjective(irrevModel,priorValue)
     % Optimize and fixes objective value for GEM
-     objIndx  = find(model.c~=0);
+     objIndx  = find(irrevModel.c~=0);
      if nargin ==2
-        model.lb(objIndx) = 0.99*priorValue;
-        model.ub(objIndx) = priorValue;
+        irrevModel.lb(objIndx) = 0.99*priorValue;
+        irrevModel.ub(objIndx) = priorValue;
      else
-         sol               = solveLP(model);
-         model.lb(objIndx) = 0.99*sol.x(objIndx);
-         model.ub(objIndx) = sol.x(objIndx);
+         sol               = solveLP(irrevModel);
+         irrevModel.lb(objIndx) = 0.99*sol.x(objIndx);
+         irrevModel.ub(objIndx) = sol.x(objIndx);
      end
-     sol = solveLP(model,1);
+     sol = solveLP(irrevModel,1);
      if ~isempty(sol.f)
          OptimalValue = sol.x(objIndx);
          optFluxDist  = sol.x;
@@ -122,11 +81,18 @@ function [OptimalValue, optFluxDist, model] = fixObjective(model,priorValue)
      disp(['The optimal value is ' num2str(OptimalValue)])
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function sol = Optimizer(model,indx,coeff,blockIndx,FixedFlux)
-             model.c       = zeros(length(model.c),1);
-             model.c(indx) = coeff;
-             if nargin > 3
-                 model.ub(blockIndx) = FixedFlux;
-             end
-             sol = solveLP(model);
+function [y_param, stats_param] = plotCumDist(E_parameter,legends,titlestr)
+   figure
+   for i=1:length(E_parameter)
+        str{i} = horzcat(legends{i},' (',num2str(length(E_parameter{i})),...
+                              ' / ',num2str(median(E_parameter{i})), ')');
+        [y_param(i), stats_param(i)] = cdfplot(E_parameter{i});
+        title(titlestr)
+        ylabel('Cumulative distribution','FontSize',30,'FontWeight','bold');
+        xlabel('K_{cat} [s^{-1}]','FontSize',30,'FontWeight','bold');
+        set(gca, 'XScale', 'log')
+        hold on
+   end
+   legend(y_param,str);
 end
+
