@@ -15,7 +15,7 @@
 %
 % Ivan Domenzain.      Last edited: 2018-01-31
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(hsa_model)
+function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(HMR_modified)
     current      = pwd;
     org_name     = 'homo sapiens';
     keggCode     = 'hsa';
@@ -24,45 +24,44 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(hsa_model)
     % Creates a new field in the model structure where the ENSEMBL gene IDs
     % are converted to their short gene names in order to provide
     % compatibility with the kcat matching algorithms
-    hsa_model  = substitute_grRules(hsa_model); 
-    hsa_model  = substituteEnsemblGeneIDs(hsa_model); 
+    HMR_modified  = substitute_grRules(HMR_modified); 
+    HMR_modified  = substituteEnsemblGeneIDs(HMR_modified); 
     cd (current)
     % Standardizes the metabolites names
-    hsa_model  = modifyMetNames(hsa_model);
-    % Add HepG2 biomass reaction
-    HepG2model          = addHepG2BiomassRxns(hsa_model,false);
-    HepG2model.rxnNames = HepG2model.rxnNames;
+    HMR_modified  = modifyMetNames(HMR_modified);
+    % Substitute biomass reaction
+    HMR_modified  = substituteBiomassRxns(HMR_modified,false);
     % Save models  
-    cd ../HMR2.0
-    save('HepG2.mat','hsa_model','HepG2model')
+    cd ../models
+    save('HMR_modified.mat','HMR_modified')
     %%%%%%%%%%%%%%%%%%%%%%%% GECKO modifications %%%%%%%%%%%%%%%%%%%%%%%%%%
     % Retrieve kcats & MWs for each rxn in the model:
     cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
-    HepG2_model_data = getEnzymeCodes(HepG2model);
+    HMR_model_data = getEnzymeCodes(HMR_modified);
     cd (current)
-    cd ../HMR2.0
+    cd ../models/Data
     %Save ecModel data
-    save('HepG2_enzData.mat','HepG2model','HepG2_model_data');
+    save('HMR_enzData.mat','HMR_modified','HMR_model_data');
     %Tries to Match kinetic coefficients to every reaction with a non empty
     % grRule
     cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
-    HepG2_kcats  =  matchKcats(HepG2_model_data,org_name);
+    HMR_kcats  =  matchKcats(HMR_model_data,org_name);
     cd (current)
-    cd ../HMR2.0
-    save('HepG2_kcats.mat','HepG2_kcats');    
+    cd ../models/Data
+    save('HMR_kcats.mat','HMR_kcats');    
     % Integrate enzymes in the model:
     cd ([GECKO_path '/Matlab_Module/change_model'])
-    HepG2_ecModel = readKcatData(HepG2_model_data,HepG2_kcats);
+    HMR_ecModel = readKcatData(HMR_model_data,HMR_kcats);
     % Save output models:
     cd (current)
-    cd ../HMR2.0/EC_HMR
-    save('EC_HepG2.mat','HepG2_ecModel','HepG2_model_data','HepG2_kcats')
+    cd ../models/EC_HMR
+    save('HMR_ecModel.mat','HMR_ecModel')
     %%%%%%%%%%%%%%%%%%%%%%%% Matched Kcats analysis %%%%%%%%%%%%%%%%%%%%%%%
     %Gets the model Kcats cumulative distributions and compares it to all
     %the Kcat entries in BRENDA for Homo sapiens (just for natural
     %substrates)
     cd ([current '/KcatDistributions']) 
-    kcat_distributions(model,HepG2_kcats,{'homo sapiens'})
+    kcat_distributions(HMR_ecModel,HMR_kcats,{'homo sapiens'})
     cd (current)
     %%%%%%%%%%%%%%%%%%%%%%%% Constrain enzyme pool %%%%%%%%%%%%%%%%%%%%%%%%
     % Create and constrain the total enzymes pool
@@ -70,19 +69,18 @@ function [ecModel,model_data,kcats] = enhanceGEM_ECHMR(hsa_model)
     [Ptot,f]            = modelProteinContent(model);
     sigma               = 0.5;    %Average enzyme saturation factor
     cd ([GECKO_path '/Matlab_Module/limit_proteins'])
-    HepG2_ecModel_batch = constrainEnzymes(HepG2_ecModel,Ptot,sigma,f);
+    HMR_ecModel_batch = constrainEnzymes(HMR_ecModel,0.Ptot,0.5);%,sigma,f);
     %%%%%%%%%%%%%%%%%%%%%%%% Sensitivity analysis %%%%%%%%%%%%%%%%%%%%%%%%%
     cd ([GECKO_path '/Matlab_Module/Kcat_sensitivity_analysis'])
-    prevUnicodes        = [];
-    exp_gRate           = 1; %[g/gDwh]
-	HepG2_ecModel       = modifyKcats(HepG2_ecModel,ecModel_batch,exp_gRate);
+    prevUnicodes      = [];
+    exp_gRate         = 1; %[g/gDwh]
+	HMR_ecModel       = modifyKcats(HMR_ecModel,HMR_ecModel_batch,exp_gRate);
     % Constrain the total enzyme pool once that the kinetic coefficients
     % were modified
-    HepG2_ecModel_batch = constrainEnzymes(HepG2_ecModel,Ptot,sigma,f);
-
-    cd ../HMR2.0/EC_HMR
-    save('ecHepG2_batch.mat','HepG2_ecModel','HepG2_model_data',...
-                                    'HepG2_kcats','HepG2_ecModel_batch')                            
+    cd ([GECKO_path '/Matlab_Module/limit_proteins'])
+    HMR_ecModel_batch = constrainEnzymes(HMR_ecModel,0.Ptot,0.5);%,sigma,f);
+    cd ../models/EC_HMR
+    save('HMR_ecModel_batch.mat','HMR_ecModel_batch')                            
                                    
 end
 

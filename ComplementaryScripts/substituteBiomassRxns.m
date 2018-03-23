@@ -1,12 +1,13 @@
-function HepG2model = addHepG2BiomassRxns(model,ecFlag)
-%ADDHEPG2BIOMASSRXNS  Add HepG2 biomass reactions to (ec)HMR2 model.
+% function Modified_model = substituteBiomassRxns(model,ecFlag)
 %
-% HEPG2MODEL = ADDHEPG2BIOMASSRXNS(MODEL) adds reactions associated with
-% biomass production to the HMR2 genome scale metabolic model. If the model
+% Substitute the original biomass associated reactions on HMR2. If the model
 % is enzyme constrained (ecHMR), then it inserts the new reactions and
 % metabolites into the model at indices just after the original HMR2
 % content, and before the added EC content.
-
+%
+% Last modified.  Ivan Domenzain 2018-03-23
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function Modified_model = substituteBiomassRxns(model,ecFlag)
 
 %% Remove boundary metabolites, if present
 % boundary metabolites (those in compartment "x" for RAVEN-type models)
@@ -154,7 +155,7 @@ model.c(:) = 0;
 model.c(ismember(model.rxns,'humanGrowthOut')) = 1;
 
 % assign output
-HepG2model = model;
+Modified_model = model;
 
 
 
