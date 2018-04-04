@@ -6,7 +6,7 @@ function ecHepG2Model = enhanceHepG2model
 %   Ivan Domenzain, 2018-04-04
 %
     current = pwd;
-    cd ../../models/HepG2
+    cd ../models/HepG2
     %Import HepG2 model xml file and save it as a matlab structure
     HepG2model = importModel('Hep-G2.xml');
     save('HepG2model.mat','HepG2model')
