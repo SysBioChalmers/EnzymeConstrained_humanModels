@@ -98,7 +98,7 @@ temp_model = addRxns(model,addRxnDataStruct,3,[],false);
 % Remove the previous biomass rxn
 massPos = [];
 for rxnText = {'biomass','cofactors_vitamins','vitaminA','vitaminD','vitaminE'}
-    massPos = [massPos; find(~cellfun(@isempty,strfind(temp_model.rxns,rxnText)))];
+    massPos = [massPos; find(contains(temp_model.rxns,rxnText))];
 end
 
 if ~isempty(massPos)
@@ -114,7 +114,7 @@ if ecFlag
 
     % transfer new reaction fields from TEMP_MODEL to proper location in MODEL
     %rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'rules';'S';'lb';'ub';'rev';'c';'rxnGeneMat'};
-    rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'S';'lb';'ub';'rev';'c';'rxnGeneMat'};
+    rxnFields = {'rxns';'rxnNames';'grRules';'subSystems';'S';'lb';'ub';'rev';'c'};
 
     for i = 1:length(rxnFields)
         if strcmp(rxnFields{i},'S')

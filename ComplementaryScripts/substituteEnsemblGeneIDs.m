@@ -27,7 +27,7 @@ function model = substituteEnsemblGeneIDs(model)
             model.genes(i) = data{2}(index);
             
         end
-        disp(strcat('ready with gene #',string(i)))
+        disp(strcat('ready with gene #',num2str(i)))
     end
  end    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
