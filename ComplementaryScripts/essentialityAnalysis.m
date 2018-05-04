@@ -19,15 +19,13 @@
 function results =  essentialityAnalysis(model)
 
 solution_wt    = solveLP(model,1);
+objIndex       = find(model.c==1);
+growth_wt      = solution_wt.x(objIndex);
 sol_matrix     = sparse(length(model.rxns),length(model.genes));
-infeasible_idx = [];
-zero_grwt      = [];
+essential_idx  = [];
+affected_grwt  = [];
 gwrt_rate      = zeros(length(model.genes));
 
-sol_matrix     = sparse(length(model.rxns),length(model.genes));
-infeasible_idx = [];
-zero_grwt      = [];
-gwrt_rate      = zeros(length(model.genes));
 
 for i=1:length(model.genes)
     gene    = model.genes(i);
@@ -36,26 +34,29 @@ for i=1:length(model.genes)
     sol_mut = solveLP(model_i,1);
     gwrt_rate(i) = abs(sol_mut.f);
     if ~isempty(sol_mut.f)
+        objMut          = find(model_i.c==1);
+        growth_mut      = sol_mut.x(objMut);
         sol_matrix(:,i) = sol_mut.x;
-       change           = (abs(solution_wt.f)-abs(sol_mut.f))/abs(solution_wt.f);
-       if change>0.01 && change <0.95
-           disp(['Growth affected by gene', char(gene)])
-       elseif change >= 0.95      
-           zero_grwt      = [zero_grwt;i];
+       change           = abs(growth_wt-growth_mut)/growth_wt;
+       if change >= 0.05      
+           affected_grwt = [affected_grwt;i];
+           disp(['Growth affected by gene: ', char(gene)])
+       elseif change >= 0.50 
+           essential_idx = [essential_idx;i];
            disp(['Essential gene found: ', char(gene)])
        end     
     else 
-        infeasible_idx = [infeasible_idx;i];
+        essential_idx = [essential_idx;i];
         disp(['Essential gene found: ', char(gene)])
     end
    
     disp(['Ready with gene deletion #', num2str(i)])
 end
-results.essential  = zero_grwt;
-results.infeasible = infeasible_idx;
+results.affected   = affected_grwt;
+results.essential  = essential_idx;
 results.sol_matrix = sol_matrix;
 results.wTypeSol   = solution_wt.x;
 cd ../Results
-save('essentialKO_HepG2','results')
+save('essentialKO_ecHepG2','results')
 end
  
