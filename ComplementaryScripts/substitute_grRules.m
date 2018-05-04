@@ -21,30 +21,28 @@ function modified_model = substitute_grRules(model)
     modified_model  = model;
     grRules_ENSEMBL = model.grRules;
     grRules         = grRules_ENSEMBL;
+    model.grRules_ENSEMBL = grRules_ENSEMBL;
     for i=1:length(grRules)
         if ~isempty(grRules{i})
             str_cells = strsplit(grRules{i},' ');
-            grRule    = [];
             %Decomposes the grRule into individual genes
             for j=1:length(str_cells)
                 str = (str_cells{j});
-                if ~strcmpi(str,'or') && ~strcmpi(str,'and')
+                %If str is not a logical operator then it is assumed to be
+                %a gene ID and it is searc into the database
+                if ~strcmpi(str,'or') && ~strcmpi(str,'and') && ~strcmpi(str,' ')
                     ensemblID = replace(str,'(','');
                     ensemblID = replace(ensemblID,')','');
-                    index     = find(contains(data{1},ensemblID),1);
+                    index     = find(strcmpi(data{1},ensemblID),1);
                     %If the gene is found in the ENSEMBL iDs it is replaced
                     %by its corresponding gene name
                     if ~isempty(index)
-                         gene = data{2}(index);
-                         str  = gene;
+                         gene = data{2}{index};
+                         gene = char(gene);
+                         grRules{i} = strrep(grRules{i},ensemblID,gene);
                     end
                 end
-                grRule = strcat(grRule,str);
-                if j<length(str_cells)
-                    grRule = strcat(grRule,{' '});
-                end
             end
-            grRules{i} = char(grRule);
         end
         disp(strcat('ready with grRule #',num2str(i)))
     end
