@@ -57,6 +57,6 @@ results.essential  = essential_idx;
 results.sol_matrix = sol_matrix;
 results.wTypeSol   = solution_wt.x;
 cd ../Results
-save('essentialKO_ecHepG2','results')
+save('essentialKO_iHep','results')
 end
  
