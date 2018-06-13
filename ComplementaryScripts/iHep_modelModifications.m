@@ -96,7 +96,10 @@ function model = modifyMetNames_iHep(model)
             bracketPos  = bracketPos(end);
             compartment = metabolite(bracketPos+3);
             metabolite  = metabolite(1:bracketPos-1);
-            metComps{i} = compartment;
+            compartment = find(strcmpi(model.comps,compartment));
+            if ~isempty(compartment)
+                metComps{i} = compartment;
+            end
             mets{i}     = metabolite;
         end
     end
