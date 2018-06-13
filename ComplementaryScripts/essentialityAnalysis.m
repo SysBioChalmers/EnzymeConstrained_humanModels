@@ -50,7 +50,7 @@ for i=1:length(model.genes)
         disp(['Essential gene found: ', char(gene)])
     end
    
-    disp(['Ready with gene deletion #', num2str(i)])
+    disp(['Ready with gene deletion #', num2str(i) ': ' char(gene)])
 end
 results.affected   = affected_grwt;
 results.essential  = essential_idx;
