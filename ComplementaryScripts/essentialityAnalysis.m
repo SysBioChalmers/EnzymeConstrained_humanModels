@@ -32,8 +32,9 @@ for i=1:length(model.genes)
     model_i = model;
     model_i = removeGenes(model_i,gene,false,false);
     sol_mut = solveLP(model_i,1);
-    gwrt_rate(i) = abs(sol_mut.f);
+
     if ~isempty(sol_mut.f)
+        gwrt_rate(i) = abs(sol_mut.f);
         objMut          = find(model_i.c==1);
         growth_mut      = sol_mut.x(objMut);
         sol_matrix(:,i) = sol_mut.x;
@@ -57,6 +58,6 @@ results.essential  = essential_idx;
 results.sol_matrix = sol_matrix;
 results.wTypeSol   = solution_wt.x;
 cd ../Results
-save('essentialKO_iHep','results')
+save('essentialKO_ecHepG2_prot','results')
 end
  
