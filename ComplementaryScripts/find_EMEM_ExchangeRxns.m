@@ -1,4 +1,4 @@
-function [model] = find_EMEM_ExchangeRxns(model)
+function [model,essential] = find_EMEM_ExchangeRxns(model)
 exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
                   'Leucine';'Lysine';'Methionine';'Phenylalanine';'Proline';...
@@ -11,7 +11,8 @@ exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
               
 [excRxnIDs,excRxnIndxs] = getExchangeRxns(model);
 GRindex = find(strcmpi(model.rxns,'humanGrowthOut')); 
-ProtIndex = find(strcmpi(model.rxns,'prot_pool_exchange'));
+%ProtIndex = find(strcmpi(model.rxns,'prot_pool_exchange'));
+ProtIndex = find(contains(model.rxnNames,'prot_'));
 CO2Index = find(strcmpi(model.rxns,'HMR_9058'));
 excRxnIndxs = setdiff(excRxnIndxs,GRindex);
 excRxnIndxs = setdiff(excRxnIndxs,ProtIndex);
@@ -42,7 +43,7 @@ for i=1:length(exchangeMets)
                 %if contains(model.rxnNames(rxnIndx),'reversible')    
                     model.ub(rxnIndx) = 1000;
                     
-                    disp(excMetabolite)
+                    %disp(excMetabolite)
 %                     if ~isempty(subs)
 %                         disp(subs)
 %                         disp(subComp)
@@ -64,23 +65,24 @@ for i=1:length(exchangeMets)
         end
     end
 end
-sol = solveLP(model);
+sol = solveLP(model)
 priorValue = abs(sol.f);
-% if priorValue<0.2
-%     essential = [];
-%     for i=1:length(excRxnIndxs)
-%         temp_model = model;
-%         rxnIndx = excRxnIndxs(i);
-%         if temp_model.ub(rxnIndx) == 0
-%             
-%           temp_model.ub(rxnIndx) = 1000;
-%           sol = solveLP(temp_model);
-%           if abs(sol.f)>1.01*priorValue
-%               disp(sol.f)
-%               disp(model.rxns(rxnIndx))
-%               essential = [essential;rxnIndx];
-%           end
-%         end
-%     end
-% end
+if priorValue<0.4
+    essential = [];
+    for i=1:length(excRxnIndxs)
+        temp_model = model;
+        rxnIndx = excRxnIndxs(i);
+        disp(model.metNames(find(model.S(:,rxnIndx))))
+        if temp_model.ub(rxnIndx) == 0
+            
+          temp_model.ub(rxnIndx) = 1000;
+          sol = solveLP(temp_model);
+          if abs(sol.f)>1.01*priorValue
+              disp(sol.f)
+              disp(model.rxns(rxnIndx))
+              essential = [essential;rxnIndx];
+          end
+        end
+    end
+end
 end
