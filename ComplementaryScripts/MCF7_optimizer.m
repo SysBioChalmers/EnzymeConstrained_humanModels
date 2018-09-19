@@ -9,7 +9,7 @@ function [resultsMat,WT_yields] = MCF7_optimizer(model,action)
 %compartment
 [~,AcCproduction] = getMetProdIndexes(model,'Acetyl-CoA',true,'cytosol');
 [~,MalProduction] = getMetProdIndexes(model,'malonyl-CoA',true,'cytosol');
-[~,NADPHproduction] = getMetProdIndexes(model,'NADPH',true,'cytosol');
+[~,CoAproduction] = getMetProdIndexes(model,'CoA',true,'cytosol');
 
 %preallocate results matrices
 m = length(model.genes)+1;
@@ -27,20 +27,20 @@ gIndex = find(strcmpi(model.rxnNames,'humanGrowthOut'));
 %     model.c(glucUptkIndx) = -1;
 % end
 
-base_sol     = solveLP(model,1);
-gRate        = base_sol.x(gIndex);
+base_sol   = solveLP(model,1);
+gRate      = base_sol.x(gIndex);
 %Calculate WT yield for selected metabolites
-AcCprod      = sum(base_sol.x(AcCproduction));
-MalProd      = sum(base_sol.x(MalProduction));
-NADPHprod    = sum(base_sol.x(NADPHproduction));
-glucUptake   = base_sol.x(glucUptkIndx);
-WTgrowth     = base_sol.x(gIndex);
-indexes      = [{AcCproduction};{MalProduction};{NADPHproduction};{glucUptkIndx};{gIndex}];
+AcCprod    = sum(base_sol.x(AcCproduction));
+MalProd    = sum(base_sol.x(MalProduction));
+CoAprod    = sum(base_sol.x(CoAproduction));
+glucUptake = base_sol.x(glucUptkIndx);
+WTgrowth   = base_sol.x(gIndex);
+indexes    = [{AcCproduction};{MalProduction};{CoAproduction};{glucUptkIndx};{gIndex}];
 
-WT_AcCYield   = AcCprod/glucUptake;
-WT_MalYield   = MalProd/glucUptake;
-WT_NADPHyield = NADPHprod/glucUptake;
-WT_yields     = [WT_AcCYield;WT_MalYield;WT_NADPHyield];
+WT_AcCYield = AcCprod/glucUptake;
+WT_MalYield = MalProd/glucUptake;
+WT_CoAyield = CoAprod/glucUptake;
+WT_yields   = [WT_AcCYield;WT_MalYield;WT_CoAyield];
 disp(WT_yields)
 growthYield = WTgrowth/(glucUptake*0.180);
 disp(growthYield)
@@ -49,48 +49,45 @@ disp(growthYield)
 for j=1:length(model.genes)    
     gene = model.genes(j);
     %Get met production yields for every  mutant
-    [resultsWT,successWT,WTgRate]  = getResultsForGene(model,model,gene,'pFBA',WT_yields,indexes,action);
+    [Fchanges,successWT,mutGrowth]  = getResultsForGene(model,model,gene,'pFBA',WT_yields,indexes,action);
     %save results
-    gRateFC = WTgRate/WTgrowth;
-    resultsMat(j,:) = [resultsWT,gRateFC];%resultsWT;
-    disp(['Ready with gene ' num2str(j) ' feasible: ' num2str(successWT) ' FC: ' num2str(sum(resultsWT))])
+    gRateFC         = mutGrowth/WTgrowth;
+    resultsMat(j,:) = [Fchanges,gRateFC];%Fchanges;
+    disp(['Ready with gene ' num2str(j) ' feasible: ' num2str(successWT) ' FC: ' num2str(sum(Fchanges))])
 end
 %Rearrange results WT yields in the first row and each mutant in the rest
 %of the rows
-resultsMat(2:end,:)= resultsMat(1:end-1,:);
-[result,~,~,gRate] = getResultsForGene(model,model,'','pFBA',WT_yields,indexes);
-gRateFC   = gRate/WTgrowth;
-resultsMat(1,:) = [result,gRateFC];
+resultsMat(2:end,:)    = resultsMat(1:end-1,:);
+[Fchanges,~,mutGrowth] = getResultsForGene(model,model,'','pFBA',WT_yields,indexes);
+gRateFC                = mutGrowth/WTgrowth;
+resultsMat(1,:)        = [Fchanges,gRateFC];
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [results,success,gRate] = getResultsForGene(strainModel,model,gene,method,WT_yields,indexes,action)
 
 success = 0;
-WT_AcCYield   = WT_yields(1);
-WT_MalYield   = WT_yields(2);
-WT_NADPHyield = WT_yields(3);
+WT_AcCYield = WT_yields(1);
+WT_MalYield = WT_yields(2);
+WT_CoAyield = WT_yields(3);
 
 
-AcCproduction   = indexes{1}; 
-MalProduction   = indexes{2};
-NADPHproduction = indexes{3};
-glucUptkIndx    = indexes{4};
-gIndex          = indexes{5};
+AcCproduction = indexes{1}; 
+MalProduction = indexes{2};
+CoAproduction = indexes{3};
+glucUptkIndx  = indexes{4};
+gIndex        = indexes{5};
 
 results = zeros(1,3); 
 gRate   = 0;
-%find gene in strain's genes
-if ~isempty(find(strcmpi(strainModel.genes,gene), 1)) || strcmpi(gene,'')
-    
+%find gene in model's genes
+if ~isempty(find(strcmpi(strainModel.genes,gene), 1)) || strcmpi(gene,'') 
     if strcmpi(action,'deletion')
         %Get mutant (single deletion)
-         mutant = removeGenes(model,gene);
-        
+         mutant = removeGenes(model,gene);     
     elseif strcmpi(action,'OE')
         %Get mutant (single OE)
-        mutant = getMutant(strainModel,{gene,1,50});
- 
+        mutant = getMutant(strainModel,{gene,1,20});
     end
     %optimize
     [mutSolution,flag] = solveMutant(mutant,model,method);
@@ -102,17 +99,13 @@ if ~isempty(find(strcmpi(strainModel.genes,gene), 1)) || strcmpi(gene,'')
         if mutUptake>0
             success = 1;
             %get yield fold-changes for each precursor
-            AcCyieldFC   = getYieldFoldChange(AcCproduction,mutSolution,mutUptake,WT_AcCYield);
-            MalYieldFC   = getYieldFoldChange(MalProduction,mutSolution,mutUptake,WT_MalYield);
-            NADPHyieldFC = getYieldFoldChange(NADPHproduction,mutSolution,mutUptake,WT_NADPHyield);
+            AcCyieldFC = getYieldFoldChange(AcCproduction,mutSolution,mutUptake,WT_AcCYield);
+            MalYieldFC = getYieldFoldChange(MalProduction,mutSolution,mutUptake,WT_MalYield);
+            CoAyieldFC = getYieldFoldChange(CoAproduction,mutSolution,mutUptake,WT_CoAyield);
             %save results
             results(1,1) = AcCyieldFC;
             results(1,2) = MalYieldFC;
-            results(1,3) = NADPHyieldFC;
-            %If gene deletion enhanced the production for all targets
-            %then save it as a "hot target"
-            totalFC = sum([AcCyieldFC, MalYieldFC, NADPHyieldFC]);
-
+            results(1,3) = CoAyieldFC;
             gRate = mutSolution(gIndex);
         end
     end
