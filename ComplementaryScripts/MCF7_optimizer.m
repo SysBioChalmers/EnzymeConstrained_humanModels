@@ -58,7 +58,7 @@ end
 %Rearrange results WT yields in the first row and each mutant in the rest
 %of the rows
 resultsMat(2:end,:)    = resultsMat(1:end-1,:);
-[Fchanges,~,mutGrowth] = getResultsForGene(model,model,'','pFBA',WT_yields,indexes);
+[Fchanges,~,mutGrowth] = getResultsForGene(model,model,'','pFBA',WT_yields,indexes,action);
 gRateFC                = mutGrowth/WTgrowth;
 resultsMat(1,:)        = [Fchanges,gRateFC];
 end
