@@ -1,4 +1,4 @@
-function [model,essential] = find_EMEM_ExchangeRxns(model,gRate)
+function [model,essential,sensitivities] = setEMEMmedium(model,gRate)
 % find_EMEM_ExchangeRxns
 %
 % Set a EMEM medium for the model, if the model is overconstrained
@@ -22,13 +22,13 @@ exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'Serine';'Threonine';'Tryptophan';'Tyrosine';'Valine';...
                   'Choline';'Folate';'Inositol';'nicotinamide';...
                   'Pantothenate';'Pyridoxine';'Riboflavin';'Thiamin';...
-                  'Glucose';'Oxygen';'H2O';'Na+';'K+';'Mg+';...
+                  'Glucose';'O2';'H2O';'Na+';'K+';'Mg+';...
                   'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
                   'H+';'cholesterol'};
 %Get exchange rxn indexes and block all of them, except for growth, oxygen, 
 %CO2 and the protein exchanges         
 [~,excRxnIndxs] = getExchangeRxns(model);
-GRindex         = find(strcmpi(model.rxns,'biomass_components'));
+GRindex         = find(model.c);
 ProtIndex = find(contains(model.rxnNames,'prot_'));
 CO2Index  = find(strcmpi(model.rxns,'HMR_9058'));
 excRxnIndxs = setdiff(excRxnIndxs,GRindex);
@@ -77,18 +77,27 @@ priorValue = abs(sol.f);
 %If overconstrained then look for the missing components for the model to
 %grow
 essential = [];
-i = 1;
-while priorValue<gRate
-    rxnIndx = excRxnIndxs(i);
-    if ~ismember(i,rxnIndx)
-        temp_model = model;
-        if temp_model.ub(rxnIndx) == 0
-            temp_model.ub(rxnIndx) = 1000;
-            sol = solveLP(temp_model);
-            if abs(sol.f)>priorValue
-                disp(sol.f)
-                disp(['Essential component found: ' model.rxns(rxnIndx)])
-                essential = [essential;rxnIndx];
+sensitivities = [];
+if priorValue<gRate 
+    for i=1:length(excRxnIndxs)
+        rxnIndx = excRxnIndxs(i);
+        if ~ismember(i,rxnIndx)
+            temp_model = model;
+            if temp_model.ub(rxnIndx) == 0
+                %Get exchange met name
+                %prods = model.metNames{find(model.S(:,rxnIndx)>0,1)};
+                %disp(prods)
+                disp(model.rxns{rxnIndx})
+                %Allow exchange
+                temp_model.ub(rxnIndx) = 1000;
+                sol = solveLP(temp_model);
+                growth = sol.x(GRindex);
+                sensitivity = (growth-priorValue)/gRate;                
+                if abs(sol.f)>priorValue
+                    disp(['Essential component found: ' model.rxns{rxnIndx}])
+                    essential = [essential;rxnIndx];
+                    sensitivities = [sensitivities;sensitivity];
+                end
             end
         end
     end
