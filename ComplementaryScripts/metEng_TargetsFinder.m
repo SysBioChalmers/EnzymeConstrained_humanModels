@@ -67,12 +67,13 @@ for i=1:nMets
     WT_yields(i) = totalFlux/glucUptake;
     disp(['WT ' metList{i} ' ' direction ' yield: ' num2str(WT_yields(i)) ' [mol/mol glucose]'])
 end
+WT_yields(WT_yields==0) = 1E-6;
 indexes = [indexes;{glucUptkIndx};{objIndex}];
 growthYield = WTgrowth/(glucUptake*0.180);
 disp(['WT Growth yield: ' num2str(growthYield) ' [gBiomass/gGlucose]'])
 fprintf('\n')
 %Loop through all the original genes
-for j=1:5%length(model.genes)    
+for j=1:length(model.genes)    
     gene = model.genes(j);
     %Get met production yields for every  mutant
     [Fchanges,successWT,mutGrowth] = getResultsForGene(model,model,gene,'pFBA',WT_yields,indexes,action,prot_Indxs);
@@ -86,7 +87,8 @@ end
 resultsMat(2:end,:)    = resultsMat(1:end-1,:);
 [Fchanges,~,mutGrowth] = getResultsForGene(model,model,'','pFBA',WT_yields,indexes,action,prot_Indxs);
 gRateFC                = mutGrowth/WTgrowth;
-resultsMat(1,:)        = [Fchanges,gRateFC];
+resultsMat(1,:)        = [WT_yields,growthYield];
+
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
