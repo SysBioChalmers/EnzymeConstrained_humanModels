@@ -37,6 +37,19 @@ nMets = length(metList);
 metIndexes = cell(0,nMets);
 for i=1:nMets
     [~,metIndexes{i}] = getMetProdIndexes(model,metList{i},true,compartment,direction);
+    %Exclude the conversion of the metabolite to Acetyl-Coa from the list
+    %of reactions
+    if strcmp(direction,'consumption')
+        if strcmpi(metList(i),'acetate')
+            index         = find(strcmpi(model.rxns,'HMR_4097No1'));
+            [~,index]     = ismember(metIndexes{i},index);
+            metIndexes{i} = metIndexes{i}(~index);
+        elseif strcmpi(metList(i),'citrate')
+            index         = find(strcmpi(model.rxns,'HMR_4149No1'));
+            [~,index]     = ismember(metIndexes{i},index);
+            metIndexes{i} = metIndexes{i}(~index);
+        end
+    end
     disp([metList{i} ' ' direction ' reactions:'])
     disp(model.rxns(metIndexes{i}))
 end
