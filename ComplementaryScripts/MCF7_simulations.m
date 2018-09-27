@@ -16,7 +16,7 @@ cd ../Results
 writetable(T,'resultsProduction_OE.txt')
 %Repeat again but using the consumption strategy
 cd ../ComplementaryScripts
-metList = {'pyruvate','acetate','citrate','acetyl-CoA','malonyl-CoA'};
+metList = {'pyruvate','acetate','citrate','acetyl-CoA','malonyl-CoA','CoA'};
 [resultsConsumption_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'consumption','cytosol','OE');
 metList = [metList,'growth'];
 metList = strrep(metList,'-','_');
