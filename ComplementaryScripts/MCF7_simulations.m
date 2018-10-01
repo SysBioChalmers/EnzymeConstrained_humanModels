@@ -5,7 +5,7 @@ model = MCF7_ecModel_batch;
 cd ../../../ComplementaryScripts
 
 metList = {'acetyl-CoA','malonyl-CoA','CoA'};
-[resultsProduction_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'production','cytosol','OE');
+[resultsProduction_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'production','cytosol','deletion',0.0273);
 metList = [metList,'growth'];
 metList = strrep(metList,'-','_');
 rows    = [{'Yields'};model.genes];
@@ -17,7 +17,7 @@ writetable(T,'resultsProduction_OE.txt')
 %Repeat again but using the consumption strategy
 cd ../ComplementaryScripts
 metList = {'pyruvate','acetate','citrate','acetyl-CoA','malonyl-CoA','CoA'};
-[resultsConsumption_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'consumption','cytosol','OE');
+[resultsConsumption_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'consumption','cytosol','deletion',0.0273);
 metList = [metList,'growth'];
 metList = strrep(metList,'-','_');
 rows    = [{'Yields'};model.genes];

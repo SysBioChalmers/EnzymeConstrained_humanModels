@@ -1,4 +1,4 @@
-function [resultsMat,WT_yields] = metEng_TargetsFinder(model,c_sourceID,metList,direction,compartment,action)
+function [resultsMat,WT_yields] = metEng_TargetsFinder(model,c_sourceID,metList,direction,compartment,action,gRate)
 % metEng_TargetsFinder
 %
 % Function that computes the effect of all the possible gene deletions or 
@@ -50,8 +50,8 @@ for i=1:nMets
             metIndexes{i} = metIndexes{i}(~index);
         end
     end
-    disp([metList{i} ' ' direction ' reactions:'])
-    disp(model.rxns(metIndexes{i}))
+    %disp([metList{i} ' ' direction ' reactions:'])
+    %disp(model.rxns(metIndexes{i}))
 end
 
 %preallocate results matrices
@@ -61,14 +61,22 @@ resultsMat = zeros(m,nMets+1);
 %Find the glucose uptake rate
 glucUptkIndx = find(strcmpi(model.rxns,c_sourceID));
 %Get Wild type solution 
-objIndex   = find(model.c);
+gIndex = find(strcmpi(model.rxnNames,'humanGrowthOut'));
+%Fix growth rate (if specified)
+if nargin==7
+    model.lb(gIndex) = 0.999*gRate;
+    model.ub(gIndex) = gRate;
+end
+prot_Indxs = find(contains(model.rxnNames,'prot'));
+model.c(:) = 0;
+model.c(prot_Indxs) = -1;
+prot_Indxs = prot_Indxs(1:end-1);
 base_sol   = solveLP(model,1);
 glucUptake = base_sol.x(glucUptkIndx);
-WTgrowth   = base_sol.x(objIndex);
-%Get all protein usage indexes
-prot_Indxs = find(contains(model.rxnNames,'prot'));
-%Exclude the protein pool
-prot_Indxs = prot_Indxs(1:end-1);
+WTgrowth   = base_sol.x(gIndex);
+
+
+
 
 %Calculate WT yield for selected metabolites
 indexes = {};
@@ -81,7 +89,7 @@ for i=1:nMets
     disp(['WT ' metList{i} ' ' direction ' yield: ' num2str(WT_yields(i)) ' [mol/mol glucose]'])
 end
 WT_yields(WT_yields==0) = 1E-6;
-indexes = [indexes;{glucUptkIndx};{objIndex}];
+indexes = [indexes;{glucUptkIndx};{gIndex}];
 growthYield = WTgrowth/(glucUptake*0.180);
 disp(['WT Growth yield: ' num2str(growthYield) ' [gBiomass/gGlucose]'])
 fprintf('\n')
@@ -108,7 +116,7 @@ end
 function [results,success,gRate] = getResultsForGene(strainModel,model,gene,method,WT_yields,indexes,action,prot_Indxs)
 success = 0;
 nMets   = length(WT_yields);
-objIndex  = indexes{end};
+gIndex  = indexes{end};
 glucUptkIndx  = indexes{end-1};
 
 results = zeros(1,nMets); 
@@ -135,13 +143,13 @@ if ~isempty(find(strcmpi(strainModel.genes,gene), 1)) || strcmpi(gene,'')
             for i=1:nMets
                 results(1,i) = getYieldFoldChange(indexes{i},mutSolution,mutUptake,WT_yields(i));
             end
-            gRate = mutSolution(objIndex);
+            gRate = mutSolution(gIndex);
         end
     end
 else
     [mutSolution,~] = solveMutant(model,model,method,prot_Indxs);
     results = ones(1,nMets);
-    gRate   = mutSolution(objIndex);
+    gRate   = mutSolution(gIndex);
 end
 end
 
@@ -158,19 +166,19 @@ if strcmpi(method,'MOMA')
     [mutSolution,~, flag]=qMOMA(mutant,model,1.01);
     disp(flag)
 elseif strcmpi(method,'pFBA')
-    mutSolution = solveLP(mutant);
+    mutSolution = solveLP(mutant,1);
     if ~isempty(mutSolution.x) && any(mutSolution.x)
         %Get a first optimization
         mutSolution = mutSolution.x;
         index = find(mutant.c);
-        %Fix optimal value for the objective and then minimize the total
-        %sum of protein usages
-        mutant.lb(index) = 0.999*mutSolution(index);
-        mutant.ub(index) = mutSolution(index);
-        mutant.c(:) = 0;
-        mutant.c(prot_Indxs) = -1;
-        mutSolution = solveLP(mutant,1);
-        mutSolution = mutSolution.x;
+%         %Fix optimal value for the objective and then minimize the total
+%         %sum of protein usages
+%         mutant.lb(index) = 0.999*mutSolution(index);
+%         mutant.ub(index) = mutSolution(index);
+%         mutant.c(:) = 0;
+%         mutant.c(prot_Indxs) = -1;
+%         mutSolution = solveLP(mutant,1);
+%         mutSolution = mutSolution.x;
         flag = 1;
     else 
         mutSolution = [];
