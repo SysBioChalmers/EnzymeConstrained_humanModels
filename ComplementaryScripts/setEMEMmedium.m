@@ -16,7 +16,7 @@ function [model,essential,sensitivities] = setEMEMmedium(model,gRate)
 %
 % Ivan Domenzain.      Last edited: 2018-09-12
 %
-exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';'Cysteine';...
+exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
                   'Leucine';'Lysine';'Methionine';'Phenylalanine';'Proline';...
                   'Serine';'Threonine';'Tryptophan';'Tyrosine';'Valine';...
@@ -35,11 +35,11 @@ excRxnIndxs = setdiff(excRxnIndxs,GRindex);
 excRxnIndxs = setdiff(excRxnIndxs,ProtIndex);
 excRxnIndxs = setdiff(excRxnIndxs,CO2Index);
 %Get an initial solution vector
-sol = solveLP(model)
+sol = solveLP(model);
 %block uptakes and production of exchanged metabolites
 model.ub(excRxnIndxs) = 0;
 %The model shouldn't be able to grow
-sol = solveLP(model)
+sol = solveLP(model);
 mediumComponents = [];
 
 for i=1:length(exchangeMets)
@@ -60,7 +60,13 @@ for i=1:length(exchangeMets)
             if ~isempty(metExcIndx) && prodComp==1
                 mediumComponents = [mediumComponents; i];
                 %Allow met uptake
+                model.ub(rxnIndx) = 0.5;
+                if strcmpi(excMetabolite,'glucose')
+                    model.ub(rxnIndx) = 1;
+                end
+                if strcmpi(excMetabolite,'O2')||strcmpi(excMetabolite,'H2O')||strcmpi(excMetabolite,'H+')
                     model.ub(rxnIndx) = 1000;
+                end
                     disp([excMetabolite{1} ' added to the medium'])
                 %end
             end

@@ -41,11 +41,11 @@ for i=1:nMets
     %of reactions
     if strcmp(direction,'consumption')
         if strcmpi(metList(i),'acetate')
-            index         = find(strcmpi(model.rxns,'HMR_4097No1'));
+            index         = find(contains(model.rxns,'HMR_4097'));
             [~,index]     = ismember(metIndexes{i},index);
             metIndexes{i} = metIndexes{i}(~index);
         elseif strcmpi(metList(i),'citrate')
-            index         = find(strcmpi(model.rxns,'HMR_4149No1'));
+            index         = find(contains(model.rxns,'HMR_4149'));
             [~,index]     = ismember(metIndexes{i},index);
             metIndexes{i} = metIndexes{i}(~index);
         end
@@ -58,25 +58,35 @@ end
 m = length(model.genes)+1;
 resultsMat = zeros(m,nMets+1);
 
-%Find the glucose uptake rate
+%Find relevant Rxn indexes
 glucUptkIndx = find(strcmpi(model.rxns,c_sourceID));
-%Get Wild type solution 
-gIndex = find(strcmpi(model.rxnNames,'humanGrowthOut'));
+gIndex       = find(strcmpi(model.rxnNames,'humanGrowthOut'));
+ATPindex     = find(contains(model.rxns,'arm_HMR_6916'));
 %Fix growth rate (if specified)
 if nargin==7
-    model.lb(gIndex) = 0.999*gRate;
-    model.ub(gIndex) = gRate;
+    model.lb(gIndex) = 0.3*gRate;
+    %model.ub(gIndex) = gRate;
 end
-prot_Indxs = find(contains(model.rxnNames,'prot'));
-model.c(:) = 0;
-model.c(prot_Indxs) = -1;
-prot_Indxs = prot_Indxs(1:end-1);
-base_sol   = solveLP(model,1);
-glucUptake = base_sol.x(glucUptkIndx);
+
+%Fix ATP production as objective and get wild-type solution
+%model.c(:) = 0;
+%model.c(ATPindex) = 1;
+%tempModel.lb(ATPindex) = 0.999*base_sol.x(ATPindex);
+%tempModel.ub(ATPindex) = base_sol.x(ATPindex);
+
+%Fix max Obj and then minimize for total protein usage
+base_sol = solveLP(model,1);
+tempModel = model;
+tempModel.lb(gIndex) = 0.999*base_sol.x(gIndex);
+tempModel.ub(gIndex) = base_sol.x(gIndex);
+
+prot_Indxs = find(contains(tempModel.rxnNames,'prot_pool'));
+tempModel.c(:) = 0;
+%prot_Indxs = prot_Indxs(end);
+tempModel.c(prot_Indxs) = -1;
+base_sol   = solveLP(tempModel,1);
+glucUptake = base_sol.x(glucUptkIndx)
 WTgrowth   = base_sol.x(gIndex);
-
-
-
 
 %Calculate WT yield for selected metabolites
 indexes = {};
@@ -117,7 +127,7 @@ function [results,success,gRate] = getResultsForGene(strainModel,model,gene,meth
 success = 0;
 nMets   = length(WT_yields);
 gIndex  = indexes{end};
-glucUptkIndx  = indexes{end-1};
+glucUptkIndx = indexes{end-1};
 
 results = zeros(1,nMets); 
 gRate   = 0;
@@ -166,19 +176,19 @@ if strcmpi(method,'MOMA')
     [mutSolution,~, flag]=qMOMA(mutant,model,1.01);
     disp(flag)
 elseif strcmpi(method,'pFBA')
-    mutSolution = solveLP(mutant,1);
+    mutSolution = solveLP(mutant);
     if ~isempty(mutSolution.x) && any(mutSolution.x)
         %Get a first optimization
         mutSolution = mutSolution.x;
         index = find(mutant.c);
-%         %Fix optimal value for the objective and then minimize the total
-%         %sum of protein usages
-%         mutant.lb(index) = 0.999*mutSolution(index);
-%         mutant.ub(index) = mutSolution(index);
-%         mutant.c(:) = 0;
-%         mutant.c(prot_Indxs) = -1;
-%         mutSolution = solveLP(mutant,1);
-%         mutSolution = mutSolution.x;
+        %Fix optimal value for the objective and then minimize the total
+        %sum of protein usages
+        mutant.lb(index) = 0.999*mutSolution(index);
+        mutant.ub(index) = mutSolution(index);
+        mutant.c(:) = 0;
+        mutant.c(prot_Indxs) = -1;
+        mutSolution = solveLP(mutant,1);
+        mutSolution = mutSolution.x;
         flag = 1;
     else 
         mutSolution = [];

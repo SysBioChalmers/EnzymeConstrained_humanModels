@@ -3,9 +3,12 @@ cd ../models/MCF-7/ecMCF7
 load('MCF7_ecModel_batch.mat')
 model = MCF7_ecModel_batch;
 cd ../../../ComplementaryScripts
-
+%Set EMEM medium
+[model,essential,sensitivities] = setEMEMmedium(model,0.0328);
+%Set suboptimal growth rate
+gRate = 0.0273;
 metList = {'acetyl-CoA','malonyl-CoA','CoA'};
-[resultsProduction_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'production','cytosol','deletion',0.0273);
+[resultsProduction_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'production','cytosol','deletion',gRate);
 metList = [metList,'growth'];
 metList = strrep(metList,'-','_');
 rows    = [{'Yields'};model.genes];
@@ -17,7 +20,7 @@ writetable(T,'resultsProduction_OE.txt')
 %Repeat again but using the consumption strategy
 cd ../ComplementaryScripts
 metList = {'pyruvate','acetate','citrate','acetyl-CoA','malonyl-CoA','CoA'};
-[resultsConsumption_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'consumption','cytosol','deletion',0.0273);
+[resultsConsumption_OE,~] = metEng_TargetsFinder(model,'HMR_9034',metList,'consumption','cytosol','deletion',gRate);
 metList = [metList,'growth'];
 metList = strrep(metList,'-','_');
 rows    = [{'Yields'};model.genes];
