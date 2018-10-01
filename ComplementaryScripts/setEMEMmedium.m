@@ -16,7 +16,7 @@ function [model,essential,sensitivities] = setEMEMmedium(model,gRate)
 %
 % Ivan Domenzain.      Last edited: 2018-09-12
 %
-exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
+exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';'Cysteine';...
                   'glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
                   'Leucine';'Lysine';'Methionine';'Phenylalanine';'Proline';...
                   'Serine';'Threonine';'Tryptophan';'Tyrosine';'Valine';...
@@ -24,7 +24,7 @@ exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'Pantothenate';'Pyridoxine';'Riboflavin';'Thiamin';...
                   'Glucose';'O2';'H2O';'Na+';'K+';'Mg+';...
                   'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
-                  'H+';'cholesterol'};
+                  'H+'};
 %Get exchange rxn indexes and block all of them, except for growth, oxygen, 
 %CO2 and the protein exchanges         
 [~,excRxnIndxs] = getExchangeRxns(model);
@@ -38,32 +38,28 @@ excRxnIndxs = setdiff(excRxnIndxs,CO2Index);
 sol = solveLP(model)
 %block uptakes and production of exchanged metabolites
 model.ub(excRxnIndxs) = 0;
-model.lb(excRxnIndxs) = 0;
 %The model shouldn't be able to grow
 sol = solveLP(model)
 mediumComponents = [];
 
 for i=1:length(exchangeMets)
-    excMetabolite = exchangeMets(i);
-    
+    excMetabolite = exchangeMets(i);   
     if ~isempty(find(strcmpi(model.metNames,excMetabolite)))
         for j=1:length(excRxnIndxs)
             %Then search the met exchange index (one by one)
             rxnIndx = excRxnIndxs(j);
-            %Get all the mets and compartments for a given exchange rxn
+            %Get the products compartment
             rxnMets  = model.metNames(find(model.S(:,rxnIndx)));
-            subs     = model.metNames(find(model.S(:,rxnIndx)<0));
-            subComp  = model.metComps(find(model.S(:,rxnIndx)<0));
-            prods    = model.metNames(find(model.S(:,rxnIndx)>0));
             prodComp = model.metComps(find(model.S(:,rxnIndx)>0));
-            
+            if isempty(prodComp)
+                prodComp = 10;
+            end
             metExcIndx = find(strcmpi(rxnMets,excMetabolite));
             %If the searched metabolite matches with one of exchange rxn 
             %mets then find its uptake rxn and enable it 
-            if ~isempty(metExcIndx)
+            if ~isempty(metExcIndx) && prodComp==1
                 mediumComponents = [mediumComponents; i];
-                %if isempty(subs)
-                %Allow met exchange
+                %Allow met uptake
                     model.ub(rxnIndx) = 1000;
                     disp([excMetabolite{1} ' added to the medium'])
                 %end
@@ -71,6 +67,14 @@ for i=1:length(exchangeMets)
         end
     end
 end
+%Allow all secretions
+for i=1:length(model.rxns)
+    prods = find(model.S(:,i)>0);
+    if isempty(prods)
+        model.ub(i) = 1000;
+    end
+end
+     
 %Is the model growing now?
 sol = solveLP(model)
 priorValue = abs(sol.f);
