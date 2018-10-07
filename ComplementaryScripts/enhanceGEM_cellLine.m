@@ -57,7 +57,7 @@ Ptotal       = 0.5; %[g prot/gDw]
 protCoverage = 0.5;
 sigma        = 0.5;
 [ecModel_batch,~,~] = constrainEnzymes(ecModel,Ptotal,sigma,protCoverage);
-cd (['../models/' cellName])
+cd (['../../models/' cellName])
 save('ecModel_batch.mat','ecModel_batch')
 %%%%%%%%%%%%%%%%%%%%%%%% Matched Kcats analysis %%%%%%%%%%%%%%%%%%%%%%%
 %Gets the model Kcats cumulative distributions and compares it to all
