@@ -43,6 +43,8 @@ cd (['../models/' cellName '/Data'])
 save('enzData.mat','model_data','kcats');
 % Integrate enzymes in the model: ecModel is a draft model for proteomics
 % data integration, if available.
+cd (current)
+model_data = removeFields(model_data);
 cd ([GECKO_path '/geckomat/change_model'])
 ecModel = readKcatData(model_data,kcats);
 % Save output models:
