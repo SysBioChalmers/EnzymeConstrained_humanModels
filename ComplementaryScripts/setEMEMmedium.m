@@ -24,7 +24,7 @@ exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'Pantothenate';'Pyridoxine';'Riboflavin';'Thiamin';...
                   'Glucose';'O2';'H2O';'Na+';'K+';'Mg+';...
                   'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
-                  'H+'};
+                  'H+';'cholesterol'};
 %Get exchange rxn indexes and block all of them, except for growth, oxygen, 
 %CO2 and the protein exchanges         
 [~,excRxnIndxs] = getExchangeRxns(model);
@@ -88,28 +88,28 @@ priorValue = abs(sol.f);
 %grow
 essential = [];
 sensitivities = [];
-if priorValue<gRate 
-    for i=1:length(excRxnIndxs)
-        rxnIndx = excRxnIndxs(i);
-        if ~ismember(i,rxnIndx)
-            temp_model = model;
-            if temp_model.ub(rxnIndx) == 0
-                %Get exchange met name
-                %prods = model.metNames{find(model.S(:,rxnIndx)>0,1)};
-                %disp(prods)
-                disp(model.rxns{rxnIndx})
-                %Allow exchange
-                temp_model.ub(rxnIndx) = 1000;
-                sol = solveLP(temp_model);
-                growth = sol.x(GRindex);
-                sensitivity = (growth-priorValue)/gRate;                
-                if abs(sol.f)>priorValue
-                    disp(['Essential component found: ' model.rxns{rxnIndx}])
-                    essential = [essential;rxnIndx];
-                    sensitivities = [sensitivities;sensitivity];
-                end
-            end
-        end
-    end
-end
+% if priorValue<gRate 
+%     for i=1:length(excRxnIndxs)
+%         rxnIndx = excRxnIndxs(i);
+%         if ~ismember(i,rxnIndx)
+%             temp_model = model;
+%             if temp_model.ub(rxnIndx) == 0
+%                 %Get exchange met name
+%                 %prods = model.metNames{find(model.S(:,rxnIndx)>0,1)};
+%                 %disp(prods)
+%                 disp(model.rxns{rxnIndx})
+%                 %Allow exchange
+%                 temp_model.ub(rxnIndx) = 1000;
+%                 sol = solveLP(temp_model);
+%                 growth = sol.x(GRindex);
+%                 sensitivity = (growth-priorValue)/gRate;                
+%                 if abs(sol.f)>priorValue
+%                     disp(['Essential component found: ' model.rxns{rxnIndx}])
+%                     essential = [essential;rxnIndx];
+%                     sensitivities = [sensitivities;sensitivity];
+%                 end
+%             end
+%         end
+%     end
+% end
 end
