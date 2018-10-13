@@ -3,7 +3,9 @@
 %
 % Script that performs a gene essentiallity analysis on a given GEM.
 % INPUT:
-%   model       GEM matlab structure
+%   model           GEM matlab structure
+%   lethalTreshold  growth reduction threshold for a gene to be considered
+%                   as lethal
 % OUTPUTS:
 %   results.essential   cell array with the essential genes indexes
 %                       (zero-Growth).
@@ -16,7 +18,7 @@
 % Raphael Ferreira.     Created:     2018-04-13
 % Ivan Domenzain.       Last edited: 2018-04-16
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function results =  essentialityAnalysis(model)
+function results =  essentialityAnalysis(model,lethalTreshold)
 
 solution_wt    = solveLP(model,1);
 objIndex       = find(model.c==1);
@@ -42,7 +44,7 @@ for i=1:length(model.genes)
        if change >= 0.05      
            affected_grwt = [affected_grwt;i];
            disp(['Growth affected by gene: ', char(gene)])
-       elseif change >= 0.50 
+       elseif change >= lethalTreshold 
            essential_idx = [essential_idx;i];
            disp(['Essential gene found: ', char(gene)])
        end     
