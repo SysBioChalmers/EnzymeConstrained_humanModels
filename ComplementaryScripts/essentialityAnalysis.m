@@ -58,6 +58,6 @@ results.essential  = essential_idx;
 results.sol_matrix = sol_matrix;
 results.wTypeSol   = solution_wt.x;
 cd ../Results
-save('essentialKO_ecHepG2_prot','results')
+save('KO_ecModel_batch','results')
 end
  
