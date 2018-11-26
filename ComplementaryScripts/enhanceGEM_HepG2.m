@@ -19,7 +19,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_HepG2(HepG2model)
     current      = pwd;
     org_name     = 'homo sapiens';
     keggCode     = 'hsa';
-    GECKO_path   = 'Write your GECKO directory here';
+    GECKO_path   = '/Users/ivand/Documents/GitHub/GECKO';
     %%%%%%%%%%%%%%%%%%%%%%%% model preprocessing %%%%%%%%%%%%%%%%%%%%%%%%%%
     % Creates a new field in the model structure where the ENSEMBL gene IDs
     % are converted to their short gene names in order to provide
@@ -31,7 +31,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_HepG2(HepG2model)
     save('HepG2model_modified.mat','HepG2model_modified')
     %%%%%%%%%%%%%%%%%%%%%%%% GECKO modifications %%%%%%%%%%%%%%%%%%%%%%%%%%
     % Retrieve kcats & MWs for each rxn in the model:
-    cd ([GECKO_path '/Matlab_Module/get_enzyme_data'])
+    cd ([GECKO_path '/geckomat/get_enzyme_data'])
     HepG2_model_data = getEnzymeCodes(HepG2model_modified);
     %Tries to Match kinetic coefficients to every reaction with a non empty
     %grRule

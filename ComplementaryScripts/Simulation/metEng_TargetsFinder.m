@@ -1,4 +1,4 @@
-function [resultsMat,WT_yields] = metEng_TargetsFinder(model,c_sourceID,metList,direction,compartment,action,gRate)
+function [resultsMat,WT_yields] = metEng_TargetsFinder(model,c_sourceID,metList,direction,compartment,action,gRate,ecFlag)
 % metEng_TargetsFinder
 %
 % Function that computes the effect of all the possible gene deletions or 
@@ -50,8 +50,8 @@ for i=1:nMets
             metIndexes{i} = metIndexes{i}(~index);
         end
     end
-    %disp([metList{i} ' ' direction ' reactions:'])
-    %disp(model.rxns(metIndexes{i}))
+    disp([metList{i} ' ' direction ' reactions:'])
+    disp(model.rxns(metIndexes{i}))
 end
 
 %preallocate results matrices
@@ -68,23 +68,17 @@ if nargin==7
     %model.ub(gIndex) = gRate;
 end
 
-%Fix ATP production as objective and get wild-type solution
-%model.c(:) = 0;
-%model.c(ATPindex) = 1;
-%tempModel.lb(ATPindex) = 0.999*base_sol.x(ATPindex);
-%tempModel.ub(ATPindex) = base_sol.x(ATPindex);
-
 %Fix max Obj and then minimize for total protein usage
 base_sol = solveLP(model,1);
 tempModel = model;
 tempModel.lb(gIndex) = 0.999*base_sol.x(gIndex);
 tempModel.ub(gIndex) = base_sol.x(gIndex);
-
-prot_Indxs = find(contains(tempModel.rxnNames,'prot_pool'));
-tempModel.c(:) = 0;
-%prot_Indxs = prot_Indxs(end);
-tempModel.c(prot_Indxs) = -1;
-base_sol   = solveLP(tempModel,1);
+if ecFlag
+    prot_Indxs = find(contains(tempModel.rxnNames,'prot_pool'));
+    tempModel.c(:) = 0;
+    tempModel.c(prot_Indxs) = -1;
+    base_sol   = solveLP(tempModel,1);
+end
 glucUptake = base_sol.x(glucUptkIndx)
 WTgrowth   = base_sol.x(gIndex);
 
@@ -104,7 +98,7 @@ growthYield = WTgrowth/(glucUptake*0.180);
 disp(['WT Growth yield: ' num2str(growthYield) ' [gBiomass/gGlucose]'])
 fprintf('\n')
 %Loop through all the original genes
-for j=1:length(model.genes)    
+for j=1:3%length(model.genes)    
     gene = model.genes(j);
     %Get met production yields for every  mutant
     [Fchanges,successWT,mutGrowth] = getResultsForGene(model,model,gene,'pFBA',WT_yields,indexes,action,prot_Indxs);
@@ -176,19 +170,21 @@ if strcmpi(method,'MOMA')
     [mutSolution,~, flag]=qMOMA(mutant,model,1.01);
     disp(flag)
 elseif strcmpi(method,'pFBA')
-    mutSolution = solveLP(mutant);
+    mutSolution = solveLP(mutant,1);
     if ~isempty(mutSolution.x) && any(mutSolution.x)
         %Get a first optimization
         mutSolution = mutSolution.x;
         index = find(mutant.c);
-        %Fix optimal value for the objective and then minimize the total
-        %sum of protein usages
-        mutant.lb(index) = 0.999*mutSolution(index);
-        mutant.ub(index) = mutSolution(index);
-        mutant.c(:) = 0;
-        mutant.c(prot_Indxs) = -1;
-        mutSolution = solveLP(mutant,1);
-        mutSolution = mutSolution.x;
+        if ~isempty(prot_Indxs)
+            %Fix optimal value for the objective and then minimize the total
+            %sum of protein usages
+            mutant.lb(index) = 0.999*mutSolution(index);
+            mutant.ub(index) = mutSolution(index);
+            mutant.c(:) = 0;
+            mutant.c(prot_Indxs) = -1;
+            mutSolution = solveLP(mutant,1);
+            mutSolution = mutSolution.x;
+        end 
         flag = 1;
     else 
         mutSolution = [];

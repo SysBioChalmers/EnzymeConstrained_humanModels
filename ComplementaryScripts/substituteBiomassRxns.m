@@ -80,7 +80,7 @@ addRxnData = {
 'ApproxPEthanolAmine',      'ethanolamine[c] + CDP-diacylglycerol[c] => CMP[c] + phosphatidylethanolamine[c]'
 'PhosphatidylPool',         '0.189 phosphatidylserine[c] + 0.223 phosphatidylcholine[c] + 0.588 phosphatidylethanolamine[c] => phosphatidylPool[c]'
 'FattyAcidPool',            'H2O[c] + 0.003 margaric acid[c] + 0.126 myristic acid[c] + 1.056 oleate[c] + 1.308 palmitate[c] + 0.222 palmitolate[c] + 0.012 pentadecylic acid[c] + sn-glycerol-3-phosphate[c] + 0.27 stearate[c] => Pi[c] + fattyAcidPool[c]'
-'lipidPool',                '0.331 cholesterol[c] + 0.384 phosphatidylPool[c] + 0 fattyAcidPool[c] => lipidPool[c]'};
+'lipidPool',                '0.333 cholesterol[c] + 0.333 phosphatidylPool[c] + 0.333 fattyAcidPool[c] => lipidPool[c]'};
 
 nRxns = size(addRxnData,1);  % number of new reactions to be added
 

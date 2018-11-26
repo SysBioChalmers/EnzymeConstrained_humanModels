@@ -1,4 +1,4 @@
-function [model,essential,sensitivities] = setEMEMmedium(model,gRate)
+function [model,components] = setEMEMmedium(model)
 % find_EMEM_ExchangeRxns
 %
 % Set a EMEM medium for the model, if the model is overconstrained
@@ -8,23 +8,25 @@ function [model,essential,sensitivities] = setEMEMmedium(model,gRate)
 %
 % INPUT:
 %   model       An HMR-based GEM
-%   gRate       A experimentally measured growthrate for the cell-type
 % OUTPUTS:
 %   model       EMEM medium constrained model
 %   essential   Essential components that were missing in the initial EMEM
 %               formulation
 %
-% Ivan Domenzain.      Last edited: 2018-09-12
+% Ivan Domenzain.      Last edited: 2018-10-26
 %
 exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
                   'Leucine';'Lysine';'Methionine';'Phenylalanine';'Proline';...
                   'Serine';'Threonine';'Tryptophan';'Tyrosine';'Valine';...
-                  'Choline';'Folate';'Inositol';'nicotinamide';...
-                  'Pantothenate';'Pyridoxine';'Riboflavin';'Thiamin';...
-                  'Glucose';'O2';'H2O';'Na+';'K+';'Mg+';...
-                  'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
-                  'H+';'cholesterol'};
+                  'Choline';'Folate';'Inositol';'nicotinamide';'Pantothenate';...
+                  'Pyridoxine';'Riboflavin';'Thiamin';'Glucose';'O2';'H2O';...
+                  'Na+';'K+';'Mg+';'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
+                  'H+'};
+%getExchangeRxns works with the unconstrained field if present, lets remove
+%it temporarily to avoid any inconsistency with the model bounds
+model = rmfield(model,'unconstrained');
+unconstrained = zeros(length(model.mets),1);
 %Get exchange rxn indexes and block all of them, except for growth, oxygen, 
 %CO2 and the protein exchanges         
 [~,excRxnIndxs] = getExchangeRxns(model);
@@ -40,7 +42,7 @@ sol = solveLP(model);
 model.ub(excRxnIndxs) = 0;
 %The model shouldn't be able to grow
 sol = solveLP(model);
-mediumComponents = [];
+components = [];
 
 for i=1:length(exchangeMets)
     excMetabolite = exchangeMets(i);   
@@ -54,62 +56,30 @@ for i=1:length(exchangeMets)
             if isempty(prodComp)
                 prodComp = 10;
             end
-            metExcIndx = find(strcmpi(rxnMets,excMetabolite));
             %If the searched metabolite matches with one of exchange rxn 
             %mets then find its uptake rxn and enable it 
-            if ~isempty(metExcIndx) && prodComp==1
-                mediumComponents = [mediumComponents; i];
+            metExcIndx = find(strcmpi(rxnMets,excMetabolite));
+            if ~isempty(metExcIndx) && strcmpi(model.compNames(prodComp),'extracellular')
+                components = [components; excMetabolite];
+                unconstrained(find(model.S(:,rxnIndx))) = 1;
                 %Allow met uptake
-                model.ub(rxnIndx) = 0.5;
+                model.ub(rxnIndx) = 1000;
                 if strcmpi(excMetabolite,'glucose')
                     model.ub(rxnIndx) = 1;
                 end
                 if strcmpi(excMetabolite,'O2')||strcmpi(excMetabolite,'H2O')||strcmpi(excMetabolite,'H+')
                     model.ub(rxnIndx) = 1000;
                 end
-                    disp([excMetabolite{1} ' added to the medium'])
-                %end
+                disp([excMetabolite{1} ' added to the medium'])
             end
         end
     end
 end
 %Allow all secretions
-for i=1:length(model.rxns)
-    prods = find(model.S(:,i)>0);
-    if isempty(prods)
-        model.ub(i) = 1000;
-    end
-end
-     
+[~,excRxnIndxs] = getExchangeRxns(model,'out');
+model.ub(excRxnIndxs) = 1000;
+
 %Is the model growing now?
 sol = solveLP(model)
-priorValue = abs(sol.f);
-%If overconstrained then look for the missing components for the model to
-%grow
-essential = [];
-sensitivities = [];
-% if priorValue<gRate 
-%     for i=1:length(excRxnIndxs)
-%         rxnIndx = excRxnIndxs(i);
-%         if ~ismember(i,rxnIndx)
-%             temp_model = model;
-%             if temp_model.ub(rxnIndx) == 0
-%                 %Get exchange met name
-%                 %prods = model.metNames{find(model.S(:,rxnIndx)>0,1)};
-%                 %disp(prods)
-%                 disp(model.rxns{rxnIndx})
-%                 %Allow exchange
-%                 temp_model.ub(rxnIndx) = 1000;
-%                 sol = solveLP(temp_model);
-%                 growth = sol.x(GRindex);
-%                 sensitivity = (growth-priorValue)/gRate;                
-%                 if abs(sol.f)>priorValue
-%                     disp(['Essential component found: ' model.rxns{rxnIndx}])
-%                     essential = [essential;rxnIndx];
-%                     sensitivities = [sensitivities;sensitivity];
-%                 end
-%             end
-%         end
-%     end
-% end
+model.unconstrained = unconstrained;
 end
