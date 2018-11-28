@@ -8,17 +8,22 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [totalProtModel, f] = modelProteinContent(model)
 	%Get total protein content according to the biomass reaction
-	Ptotal    = getPtotal(model); %[g/gDw] 
-	[f,count] = measureAbundance(model.enzymes);% [g Pmodel/g Ptotal(DB)] 
-	%Load Absolute proteomics data
-	cd ../Databases/HepG2proteomics
+	%Ptotal    = getPtotal(model); %[g/gDw] 
+	%[f,~] = measureAbundance(model.enzymes);% [g Pmodel/g Ptotal(DB)] 
+	f = 0.2206;
+    %Load Absolute proteomics data
+	cd ../../Databases/HepG2proteomics
 	file_name = 'HepG2Proteomics_qualified.txt';
 	fID       = fopen(file_name);
-    data      = textscan(fID,'%s %f %f','delimiter',',');
+    data      = textscan(fID,'%s %f %f','delimiter','	');
+    disp(data{1})
+    pause
     fclose('all'); 
 
-    data{2}        = data{2}*(1/1000); %[pmol/mgDw] -> [mmol/gDw]
-    meanConc       = mean(data{2});
+    data{2}        = data{2}*(1E9/1000); %[pmol/mg Prot] -> [mmol/gDw]
+    disp(data{2})
+    pause
+    %meanConc       = mean(data{2});
     enzymes   	   = model.enzymes;
 	MWs		       = model.MWs;
 	totalProtModel = 0;
@@ -27,6 +32,7 @@ function [totalProtModel, f] = modelProteinContent(model)
 		index = find(strcmpi(enzymes(i),data{1}),1);
 		if ~isempty(index)
 			enzConcentration = data{2}(index)*MWs(i);
+            disp([enzymes{i}, ' ', num2str(enzConcentration)])
 			totalProtModel	 = totalProtModel+enzConcentration;
 		end
 	end

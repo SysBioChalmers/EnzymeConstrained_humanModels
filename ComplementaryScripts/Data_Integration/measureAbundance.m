@@ -5,7 +5,8 @@
 % Benjam??n J. S??nchez. Last edited: 2016-03-18
 % Ivan Domenzain.      Last edited: 2018-01-31
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function [f,count] = measureAbundanceHepG2(enzymes)
+function [f,count] = measureAbundance(enzymes)
+    current = pwd;
     cd ../../Databases/paxDB
     %Read downloaded data of abundance:
     fID        = fopen('prot_abundance.txt');
@@ -16,9 +17,9 @@ function [f,count] = measureAbundanceHepG2(enzymes)
     fID       = fopen('ENSEMBL_2_UNIPROT.txt');
     data2     = textscan(fID,'%s %s %s','delimiter',',');
     fclose(fID);
-    [genes,abundance] = translateProteinIDs(data1,data2);
+   [genes,abundance] = translateProteinIDs(data1,data2);
 
-    %Load KEGG data:
+    %Load Swissprot data:
     cd ..
     data      = load('hsa_ProtDatabase.mat');
     swissprot = data.swissprot;
@@ -54,7 +55,7 @@ function [f,count] = measureAbundanceHepG2(enzymes)
 
     f     = Pmodel/Ptot;
     count = [length(counter);sum(counter(:,1))];
-
+    cd (current)
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [genes,abundance] = translateProteinIDs(Data1,Data2)

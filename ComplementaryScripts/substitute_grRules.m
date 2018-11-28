@@ -1,14 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% model = substitute_grRules(original_model)
+% [grRules,grRules_ENSEMBL] = substitute_grRules(model)
 
 % Receives the HMR model .mat structure and adds a new grRules field with 
 % correspondent equivalences between ENSEMBL gene codes (original HMR) and 
 % gene short names in order to provide compatibility with the Swissprot and
 % KEGG protein databases.
 %
-% Ivan Domenzain. Last edited: 2017-10-17
+% Ivan Domenzain. Last edited: 2018-04-05
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function model = substitute_grRules(model)
+function modified_model = substitute_grRules(model)
     current = pwd;
     %Equivalences table between ENSEMBL and HGNC gene IDs for the organism
     %previously downloaded from:   http://www.ensembl.org/biomart,
@@ -18,64 +18,36 @@ function model = substitute_grRules(model)
     fID       = fopen(file_name);
     data      = textscan(fID,'%s %s %s %s','delimiter',',');
     fclose('all');    
-    model.grRules_ENSEMBL = model.grRules;
-    
-    for i=1:length(model.grRules)
-        model.grRules(i) = strrep(model.grRules(i),' or',' OR ');
-        model.grRules(i) = strrep(model.grRules(i),' and ',' AND ');
-        if ~isempty(model.grRules{i})
-            str_cells = strsplit(model.grRules{i},' ');
-            grRule    = [];
+    modified_model  = model;
+    grRules_ENSEMBL = model.grRules;
+    grRules         = grRules_ENSEMBL;
+    model.grRules_ENSEMBL = grRules_ENSEMBL;
+    for i=1:length(grRules)
+        if ~isempty(grRules{i})
+            str_cells = strsplit(grRules{i},' ');
             %Decomposes the grRule into individual genes
             for j=1:length(str_cells)
                 str = (str_cells{j});
-                if ~strcmpi(str,'or') && ~strcmpi(str,'and')
+                %If str is not a logical operator then it is assumed to be
+                %a gene ID and it is searc into the database
+                if ~strcmpi(str,'or') && ~strcmpi(str,'and') && ~strcmpi(str,' ')
                     ensemblID = replace(str,'(','');
                     ensemblID = replace(ensemblID,')','');
-                    index     = indexes_string(data{1},ensemblID);
+                    index     = find(strcmpi(data{1},ensemblID),1);
                     %If the gene is found in the ENSEMBL iDs it is replaced
                     %by its corresponding gene name
                     if ~isempty(index)
-                         gene         = data{2}(index);
+                         gene = data{2}{index};
+                         gene = char(gene);
+                         grRules{i} = strrep(grRules{i},ensemblID,gene);
                     end
                 end
-                grRule = strcat(grRule,str_cells{j});
-                if j<length(str_cells)
-                    grRule = strcat(grRule,{' '});
-                end
             end
-            grRule           = enclose_isoenzymes(grRule);
-            model.grRules{i} = char(grRule);
         end
-        disp(strcat('ready with grRule #',string(i)))
+        disp(strcat('ready with grRule #',num2str(i)))
     end
+    modified_model.grRules = grRules;
+    [grRules,~]            = standardizeGrRules(modified_model);
+    modified_model.grRules = grRules;
     cd (current)
 end    
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Function that receives a grRule string and encloses all the isoenzymes
-%into brackets
-function STR = enclose_isoenzymes(STR)
-    ORpos = strfind(STR,' OR ');
-    if ~isempty(ORpos)
-        for j=1:length(ORpos)
-            ORpos = strfind(STR,' OR ');
-            tempSTR = STR(ORpos(j):end);
-            if ~strcmpi(STR(ORpos(j)-1),')')
-                STR = horzcat(STR(1:ORpos(j)-1),')',tempSTR);
-            end
-            ORpos   = strfind(STR,' OR ');
-            tempSTR = STR(1:ORpos(j)+3);
-            if ~strcmpi(STR(ORpos(j)+4),'(')
-                STR = horzcat(tempSTR,'(',STR(ORpos(j)+4:end));
-            end
-        end
-    end
-end
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% Function that receives a string and a cell array and returns the indexes
-% in which the string appears on the array.
-function matching = indexes_string(cell_array,str)
-    matching  = strfind(cell_array,str);
-    matching = find(~cellfun(@isempty,matching),1);
-end
