@@ -6,15 +6,6 @@
 
 function [model,enzUsages,modifications] = constrainEnzymes(model,Ptot,sigma,f,gRate,GlucUptake,pIDs,data)
 
-%Compute f if not provided:
-% if nargin < 4
-%     [f,~] = measureAbundance(ecModel.enzymes);
-% end
-
-%Fit GAM if not provided:
-% if nargin < 5
-%     GAM = fitGAM(model);
-% end
 Pbase = Ptot;
 %No UB will be changed if no data is available -> pool = all enzymes(FBAwMC)
 if nargin < 5
@@ -65,9 +56,6 @@ end
 if sum(strcmp(model.rxns,'prot_pool_exchange')) == 0
     model = constrainPool(model,~measured,fs*Pbase);
 end
-
-%Modify protein/carb content and GAM:
-%model = scaleBioMass(model,Ptot,GAM);
 
 %Display some metrics:
 disp(['Total protein amount measured = '     num2str(Pmeasured)              ' g/gDW'])
