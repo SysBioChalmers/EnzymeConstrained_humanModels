@@ -1,19 +1,22 @@
-function [model,components] = setEMEMmedium(model)
-% find_EMEM_ExchangeRxns
+function [model,components] = setEMEMmedium(model,glucBound,oxBound,stdBound,irrev)
+% setEMEMmedium
 %
 % Set a EMEM medium for the model, if the model is overconstrained
 % (according to a provided experimental gRate measurement), then an
 % iterative process that allows the uptake of new metabolites until the 
 % model grows properly.
 %
-% INPUT:
 %   model       An HMR-based GEM
-% OUTPUTS:
-%   model       EMEM medium constrained model
-%   essential   Essential components that were missing in the initial EMEM
-%               formulation
+%   glucBound   Absolute value for the glucose uptake rate [mmol/gDw h]
+%   oxBound     Absolute value for the oxygen uptake rate [mmol/gDw h]
+%   stdBound    Absolute value used as a standard uptake rate [mmol/gDw h]
+%   irrev       Indicates if a model is on its irreversible format 
+%               (default = true)
+
+%   model        EMEM medium constrained model
+%   components   Components that were successfully added to the medium
 %
-% Ivan Domenzain.      Last edited: 2018-10-26
+% Ivan Domenzain.      Last edited: 2018-11-29
 %
 exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
@@ -23,9 +26,14 @@ exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'Pyridoxine';'Riboflavin';'Thiamin';'Glucose';'O2';'H2O';...
                   'Na+';'K+';'Mg+';'PI';'sulfate';'Ca2+';'Fe2+';'Fe3+';'HCO3-';...
                   'H+'};
+if nargin<5
+    irrev = true;
+end
 %getExchangeRxns works with the unconstrained field if present, lets remove
 %it temporarily to avoid any inconsistency with the model bounds
-model = rmfield(model,'unconstrained');
+if isfield(model,'unconstrained')
+    model = rmfield(model,'unconstrained');
+end
 unconstrained = zeros(length(model.mets),1);
 %Get exchange rxn indexes and block all of them, except for growth, oxygen, 
 %CO2 and the protein exchanges         
@@ -39,7 +47,11 @@ excRxnIndxs = setdiff(excRxnIndxs,CO2Index);
 %Get an initial solution vector
 sol = solveLP(model);
 %block uptakes and production of exchanged metabolites
-model.ub(excRxnIndxs) = 0;
+if irrev
+    model.ub(excRxnIndxs) = 0;
+else
+    model.lb(excRxnIndxs) = 0;
+end
 %The model shouldn't be able to grow
 sol = solveLP(model);
 components = [];
@@ -52,7 +64,12 @@ for i=1:length(exchangeMets)
             rxnIndx = excRxnIndxs(j);
             %Get the products compartment
             rxnMets  = model.metNames(find(model.S(:,rxnIndx)));
-            prodComp = model.metComps(find(model.S(:,rxnIndx)>0));
+            if irrev
+                prodComp = model.metComps(find(model.S(:,rxnIndx)>0));
+            else
+                prodComp = model.metComps(find(model.S(:,rxnIndx)<0));
+            end
+            
             if isempty(prodComp)
                 prodComp = 10;
             end
@@ -63,12 +80,25 @@ for i=1:length(exchangeMets)
                 components = [components; excMetabolite];
                 unconstrained(find(model.S(:,rxnIndx))) = 1;
                 %Allow met uptake
-                model.ub(rxnIndx) = 1000;
+                if irrev
+                    model.ub(rxnIndx) = stdBound;
+                else
+                    model.lb(rxnIndx) = -stdBound;
+                end
+                
                 if strcmpi(excMetabolite,'glucose')
-                    model.ub(rxnIndx) = 1;
+                    if irrev
+                        model.ub(rxnIndx) = glucBound;
+                    else
+                        model.lb(rxnIndx) = -glucBound;
+                    end
                 end
                 if strcmpi(excMetabolite,'O2')||strcmpi(excMetabolite,'H2O')||strcmpi(excMetabolite,'H+')
-                    model.ub(rxnIndx) = 1000;
+                    if irrev
+                        model.ub(rxnIndx) = oxBound;
+                    else
+                        model.lb(rxnIndx) = -oxBound;
+                    end
                 end
                 disp([excMetabolite{1} ' added to the medium'])
             end
