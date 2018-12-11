@@ -1,6 +1,6 @@
 function [FVA_Dists,indexes,stats] = comparativeFVA_humanModels(cellLine)
 current = pwd;
-GECKO_path = '/Users/ivand/Documents/GitHub/GECKO';
+GECKO_path = '/Users/rapfer/Dropbox/Academia/PhD/Cancer/GenomeScaleModel/GECKO';
 load(['../../models/' cellLine '/model_modified.mat'])
 load(['../../models/' cellLine '/ecModel_batch.mat'])
 glucBound = 1;
