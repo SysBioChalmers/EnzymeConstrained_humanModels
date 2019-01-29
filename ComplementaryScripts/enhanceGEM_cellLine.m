@@ -29,7 +29,7 @@ cd (current)
 % are converted to their short gene names in order to provide
 % compatibility with the kcat matching algorithms
 %model_modified = ravenCobraWrapper(model);
-model_modified = modelModifications(model);
+model_modified = modelModifications(model,false);
 % Save models
 cd (['../models/' cellName])
 save('model.mat','model')
