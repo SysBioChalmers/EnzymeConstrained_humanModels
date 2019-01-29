@@ -15,12 +15,16 @@
 %
 % Ivan Domenzain.      Last edited: 2018-10-07
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%function [ecModel,model_data,kcats] = enhanceHumanGEM(model,cellName)
+function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
 current      = pwd;
 org_name     = 'homo sapiens';
 keggCode     = 'hsa';
 GECKO_path   = '/Users/ivand/Documents/GitHub/GECKO';
+cd (['../models/' cellName])
+model = load([cellName '.mat']);
+model = model.model;
 %%%%%%%%%%%%%%%%%%%%%%%% model preprocessing %%%%%%%%%%%%%%%%%%%%%%%%%%
+cd (current)
 % Creates a new field in the model structure where the ENSEMBL gene IDs
 % are converted to their short gene names in order to provide
 % compatibility with the kcat matching algorithms
@@ -68,8 +72,6 @@ kcat_distributions(ecModel,kcats,{'homo sapiens'})
 cd (current)
 %%%%%%%%%%%%%%%%%%%%%%%% Constrain enzyme pool %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%% Sensitivity analysis %%%%%%%%%%%%%%%%%%%%%%%%%
-
-                                   
-%end
+end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
