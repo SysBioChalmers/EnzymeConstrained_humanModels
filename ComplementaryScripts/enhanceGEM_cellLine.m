@@ -19,7 +19,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
 current      = pwd;
 org_name     = 'homo sapiens';
 keggCode     = 'hsa';
-GECKO_path   = '/Users/ivand/Documents/GitHub/GECKO';
+GECKO_path   = '/Users/rapfer/Dropbox/Academia/PhD/Cancer/GenomeScaleModel/GECKO';
 cd (['../models/' cellName])
 model = load([cellName '.mat']);
 model = model.model;
@@ -29,7 +29,7 @@ cd (current)
 % are converted to their short gene names in order to provide
 % compatibility with the kcat matching algorithms
 %model_modified = ravenCobraWrapper(model);
-model_modified = modelModifications(model,false);
+model_modified = modelModifications(model);
 % Save models
 cd (['../models/' cellName])
 save('model.mat','model')

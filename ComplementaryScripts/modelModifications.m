@@ -9,5 +9,5 @@ model.b               = zeros(length(model.mets),1);
 % Standardizes the metabolites names
 model  = modifyMetNames(model);
 % Substitute biomass reaction
-model  = substituteBiomassRxns(model,false);
+%model  = substituteBiomassRxns(model,false);
 end
