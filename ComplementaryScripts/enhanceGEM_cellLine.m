@@ -71,20 +71,20 @@ ecModel = readKcatData(model_data,kcats);
 cd (current)
 cd (['../models/' cellName])
 save('ecModel.mat','ecModel')
-cd ([current '/GECKO'])
+cd ([GECKO_path '/geckomat/limit_proteins'])
 % Constrain total protein pool
 Ptotal       = 0.609; %[g prot/gDw]
 protCoverage = 0.5;
 sigma        = 0.5;
 [ecModel_batch,~,~] = constrainEnzymes(ecModel,Ptotal,sigma,protCoverage);
-cd (['../../models/' cellName])
+cd (['../../../../models/' cellName])
 save('ecModel_batch.mat','ecModel_batch')
 %%%%%%%%%%%%%%%%%%%%%%%% Matched Kcats analysis %%%%%%%%%%%%%%%%%%%%%%%
 %Gets the model Kcats cumulative distributions and compares it to all
 %the Kcat entries in BRENDA for Homo sapiens (just for natural
 %substrates)
-cd ([current '/KcatDistributions'])
-kcat_distributions(ecModel,kcats,{'homo sapiens'})
+%cd ([current '/KcatDistributions'])
+%kcat_distributions(ecModel,kcats,{'homo sapiens'})
 cd (current)
 %%%%%%%%%%%%%%%%%%%%%%%% Constrain enzyme pool %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%% Sensitivity analysis %%%%%%%%%%%%%%%%%%%%%%%%%
