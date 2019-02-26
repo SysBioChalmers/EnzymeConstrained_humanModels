@@ -1,6 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% [ecModel,model_data,kcats] = enhanceGEM(model,toolbox,name)
-%
+function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
+% enhanceGEM_cellLine
+% 
 % Script that takes the already existing HMR2.0 GEM and extends it to an 
 % Enzyme constrained GEM. The previous requeriments for the implementation
 % of this script are the KEGG and Uniprot databases for H. sapiens,
@@ -9,20 +9,34 @@
 % gene names.
 %
 % INPUT:
-%   model       The latest version of HMR2.0 genome scale metabolic model
+%   model       The latest version of humanGEM
 % OUTPUTS:
 %   ecModel     Extended enzyme constrained model
 %
-% Ivan Domenzain.      Last edited: 2018-10-07
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
-current      = pwd;
+% Ivan Domenzain.      Last edited: 2019-02-26
+
+current      = pwd
 org_name     = 'homo sapiens';
 keggCode     = 'hsa';
-GECKO_path   = '/Users/rapfer/Dropbox/Academia/PhD/Cancer/GenomeScaleModel/GECKO';
+git('clone https://github.com/SysBioChalmers/GECKO.git')
+GECKO_path  =  [current '/GECKO'];
+
+%Replace scripts in GECKO:
+fileNames = dir('GECKO_humanScripts');
+for i = 1:length(fileNames)
+    fileName = fileNames(i).name;
+    if ~strcmp(fileName,'.') && ~strcmp(fileName,'..')
+        fullName   = ['GECKO_humanScripts/' fileName];
+        GECKOpath = dir(['GECKO/**/' fileName]);
+        GECKOpath = GECKOpath.folder;
+        copyfile(fullName,GECKOpath)
+    end
+end
+
 cd (['../models/' cellName])
 model = load([cellName '.mat']);
-model = model.model;
+eval(['model = model.' cellName])
+%model = model.model;
 %%%%%%%%%%%%%%%%%%%%%%%% model preprocessing %%%%%%%%%%%%%%%%%%%%%%%%%%
 cd (current)
 % Creates a new field in the model structure where the ENSEMBL gene IDs
@@ -57,7 +71,7 @@ cd (['../models/' cellName])
 save('ecModel.mat','ecModel')
 cd ([current '/GECKO'])
 % Constrain total protein pool
-Ptotal       = 0.5; %[g prot/gDw]
+Ptotal       = 0.609; %[g prot/gDw]
 protCoverage = 0.5;
 sigma        = 0.5;
 [ecModel_batch,~,~] = constrainEnzymes(ecModel,Ptotal,sigma,protCoverage);
