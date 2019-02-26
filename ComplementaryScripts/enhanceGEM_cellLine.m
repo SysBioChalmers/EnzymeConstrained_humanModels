@@ -57,7 +57,9 @@ model_data = getEnzymeCodes(model_modified);
 kcats = matchKcats(model_data,org_name);
 %Save ecModel data
 cd (current)
-cd (['../models/' cellName '/Data'])
+cd (['../models/' cellName])
+mkdir Data
+cd Data
 save('enzData.mat','model_data','kcats');
 % Integrate enzymes in the model: ecModel is a draft model for proteomics
 % data integration, if available.
