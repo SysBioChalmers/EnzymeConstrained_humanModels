@@ -15,7 +15,7 @@ function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
 %
 % Ivan Domenzain.      Last edited: 2019-02-26
 
-current      = pwd
+current      = pwd;
 org_name     = 'homo sapiens';
 keggCode     = 'hsa';
 git('clone https://github.com/SysBioChalmers/GECKO.git')
