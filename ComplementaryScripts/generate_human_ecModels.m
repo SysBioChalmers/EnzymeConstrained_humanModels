@@ -1,8 +1,8 @@
 current = pwd;
-load('../models/11models.mat')
+load('../models/humanGEM_cellLines/11models.mat')
 modelNames = who;
 modelNames = modelNames(~strcmpi(modelNames,'current'));
-for i=1:5
+for i=1:length(modelNames)
     cellName = modelNames{i};
     [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName);
 end
