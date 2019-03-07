@@ -100,7 +100,7 @@ for i=1:length(exchangeMets)
                         model.lb(rxnIndx) = -oxBound;
                     end
                 end
-                disp([excMetabolite{1} ' added to the medium'])
+                %disp([excMetabolite{1} ' added to the medium'])
             end
         end
     end
@@ -110,6 +110,21 @@ end
 model.ub(excRxnIndxs) = 1000;
 
 %Is the model growing now?
-sol = solveLP(model)
+%sol = solveLP(model);
 model.unconstrained = unconstrained;
+
+%If DM_rxns are present (coming from RECON3D) block them
+DMrxns = find(contains(model.rxns,'DM_'));
+model.ub(DMrxns) = 0;
+model.lb(DMrxns) = 0;
+Sink_rxns = find(contains(model.rxns,'sink_'));
+model.ub(Sink_rxns) = 0;
+model.lb(Sink_rxns) = 0;
+%Allow biomass production
+bioIndex = find(contains(model.rxns,'humanGrowthOut'));
+if ~isempty(bioIndex)
+    model.ub(bioIndex) = 1000;
+    model.lb(bioIndex) = 0;
+end
+
 end
