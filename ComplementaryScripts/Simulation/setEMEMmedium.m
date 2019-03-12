@@ -7,13 +7,13 @@ function [model,components] = setEMEMmedium(model,glucBound,oxBound,stdBound,irr
 % model grows properly.
 %
 %   model       An HMR-based GEM
-%   glucBound   Absolute value for the glucose uptake rate [mmol/gDw h]
-%   oxBound     Absolute value for the oxygen uptake rate [mmol/gDw h]
-%   stdBound    Absolute value used as a standard uptake rate [mmol/gDw h]
+%   glucBound   UB for the glucose uptake rate [mmol/gDw h]
+%   oxBound     UB for the oxygen uptake rate [mmol/gDw h]
+%   stdBound    UB used as a standard uptake rate [mmol/gDw h]
 %   irrev       Indicates if a model is on its irreversible format 
 %               (default = true)
 
-%   model        EMEM medium constrained model
+%   model        model 
 %   components   Components that were successfully added to the medium
 %
 % Ivan Domenzain.      Last edited: 2018-11-29
@@ -106,11 +106,11 @@ for i=1:length(exchangeMets)
     end
 end
 %Allow all secretions
-[~,excRxnIndxs] = getExchangeRxns(model,'out');
+[~,excRxnIndxs]       = getExchangeRxns(model,'out');
 model.ub(excRxnIndxs) = 1000;
 
 %Is the model growing now?
-%sol = solveLP(model);
+sol = solveLP(model);
 model.unconstrained = unconstrained;
 
 %If DM_rxns are present (coming from RECON3D) block them
