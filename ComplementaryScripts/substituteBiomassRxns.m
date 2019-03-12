@@ -62,8 +62,8 @@ model.metComps = [model.metComps(1:insMetInd); addMetComps; model.metComps(insMe
 %% Addition of biomass component reactions
 addRxnData = {
 'human_ATPMaintenance',     'ATP[c] + H2O[c] => ADP[c] + Pi[c]'
-'human_proteinPool',        '0.0937 alanine[c] + 0.0507 arginine[c] + 0.04 asparagine[c] + 0.04 aspartate[c] + 0.0142 cysteine[c] + 0.1118 glutamine[c] + 0.1831 glycine[c] + 0.0198 histidine[c] + 0.0309 isoleucine[c] + 0.0664 leucine[c] + 0.0571 lysine[c] + 0.0156 methionine[c] + 0.029 phenylalanine[c] + 0.0853 proline[c] + 0.0491 serine[c] + 0.0402 threonine[c] + 0.019 tyrosine[c] + 0.0471 valine[c] + 0.0072 tryptophan[c] => proteinPool[c]'
-'HumanGrowth',              'glycogen[c] + 0.3 lipidPool[c] + 6 proteinPool[c] + 80 growthMaintenance[c] + 0.10 human_DNAPool[c] + 0.10 human_RNAPool[c] => biomass[c]'
+'human_proteinPool',        '0.0778 alanine[c] + 0.0531 arginine[c] + 0.0373 asparagine[c] + 0.0373 aspartate[c] + 0.014 cysteine[c] + 0.0442 glutamine[c] + 0.0778 glutamate[c] + 0.0697 glycine[c] + 0.0205 histidine[c] + 0.0502 isoleucine[c] + 0.095 leucine[c] + 0.0716 lysine[c] + 0.023 methionine[c] + 0.0363 phenylalanine[c] + 0.0499 proline[c] + 0.0679 serine[c] + 0.0526 threonine[c] + 0.0274 tyrosine[c] + 0.0674 valine[c] + 0.0096 tryptophan[c] => proteinPool[c]'
+'HumanGrowth',              '0.02 glycogen[c] + lipidPool[c] + 4.71 proteinPool[c] + 80 growthMaintenance[c] + 0.09 human_DNAPool[c] + 0.11 human_RNAPool[c] => biomass[c]'
 'human_GrowthMaintenance',  'ATP[c] + H2O[c] => ADP[c] + Pi[c] + growthMaintenance[c]'
 'humanGrowthOut',           'biomass[s] => '
 'humanGrowthTransport',     'biomass[c] => biomass[s]'
@@ -74,9 +74,10 @@ addRxnData = {
 'ApproxPSerine',            'serine[c] + CDP-diacylglycerol[c] => CMP[c] + phosphatidylserine[c]'
 'ApproxPCholine',           'choline[c] + CDP-diacylglycerol[c] => CMP[c] + phosphatidylcholine[c]'
 'ApproxPEthanolAmine',      'ethanolamine[c] + CDP-diacylglycerol[c] => CMP[c] + phosphatidylethanolamine[c]'
-'PhosphatidylPool',         '0.189 phosphatidylserine[c] + 0.223 phosphatidylcholine[c] + 0.588 phosphatidylethanolamine[c] => phosphatidylPool[c]'
-'FattyAcidPool',            'H2O[c] + 0.003 margaric acid[c] + 0.126 myristic acid[c] + 1.056 oleate[c] + 1.308 palmitate[c] + 0.222 palmitolate[c] + 0.012 pentadecylic acid[c] + sn-glycerol-3-phosphate[c] + 0.27 stearate[c] => Pi[c] + fattyAcidPool[c]'
-'lipidPool',                '0.333 cholesterol[c] + 0.333 phosphatidylPool[c] + 0.333 fattyAcidPool[c] => lipidPool[c]'};
+'PhosphatidylPool',         '0.11 phosphatidylserine[c] + 0.41 phosphatidylcholine[c] + 0.38 phosphatidylethanolamine[c] => phosphatidylPool[c]'
+%'FattyAcidPool',            'H2O[c] + 0.003 margaric acid[c] + 0.126 myristic acid[c] + 1.056 oleate[c] + 1.308 palmitate[c] + 0.222 palmitolate[c] + 0.012 pentadecylic acid[c] + sn-glycerol-3-phosphate[c] + 0.27 stearate[c] => Pi[c] + fattyAcidPool[c]'
+'FattyAcidPool',            'H2O[c] + 3 palmitate[c] + sn-glycerol-3-phosphate[c] => Pi[c] + fattyAcidPool[c]'
+'lipidPool',                '0.04 cholesterol[c] + 0.12 phosphatidylPool[c] + 0.05 fattyAcidPool[c] => lipidPool[c]'};
 %Check which reactions are already present in the model
 presence = ismember(addRxnData(:,1),model.rxns);
 nRxns    = sum(~presence);  % number of new reactions to be added
