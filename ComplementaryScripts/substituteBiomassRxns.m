@@ -117,6 +117,10 @@ temp_model.c(ismember(temp_model.rxns,'humanGrowthOut')) = 1;
 
 % assign output
 Modified_model = temp_model;
+%[~,I] = getExchangeRxns(Modified_model);
+%Modified_model.ub(I) = Inf;
+%Modified_model.lb(I) = -Inf;
+
 end
 
 

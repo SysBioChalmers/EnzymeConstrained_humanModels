@@ -16,7 +16,7 @@ function [model,components] = setEMEMmedium(model,glucBound,oxBound,stdBound,irr
 %   model        model 
 %   components   Components that were successfully added to the medium
 %
-% Ivan Domenzain.      Last edited: 2019-03-14
+% Ivan Domenzain.      Last edited: 2019-03-21
 %
 exchangeMets  =  {'Alanine';'Arginine';'Asparagine';'Aspartate';'Cystine';...
                   'Glutamate';'Glutamine';'Glycine';'Histidine';'Isoleucine';...
@@ -36,8 +36,10 @@ end
  end
 unconstrained = zeros(length(model.mets),1);
 %Allow all secretions and block all uptakes
-[~,exchIndxs]       = getExchangeRxns(model);
-%model.ub(exchIndxs) = 1000;
+[~,exchIndxs] = getExchangeRxns(model);
+%Discard protein pool exchange pseudo-reaction
+exchIndxs     = exchIndxs(find(~strcmpi(model.rxns(exchIndxs),'prot_pool_exchange')));
+model.ub(exchIndxs) = 1000;
 if irrev
     upTakeIndxs = exchIndxs(find(contains(model.rxns(exchIndxs),'_REV')));
     model.ub(upTakeIndxs) = 0;
@@ -86,17 +88,13 @@ for i=1:length(exchangeMets)
         end
     end
 end
-%Allow all secretions
-%[~,excRxnIndxs]       = getExchangeRxns(model,'out');
-%model.ub(excRxnIndxs) = 1000;
 
 model.unconstrained = unconstrained;
-
 %If DM_rxns are present (coming from RECON3D) block them
-DMrxns = find(contains(model.rxns,'DM_'));
-model.ub(DMrxns) = 0;
-model.lb(DMrxns) = 0;
-Sink_rxns = find(contains(model.rxns,'sink_'));
+DMrxns              = find(contains(model.rxns,'DM_'));
+model.ub(DMrxns)    = 0;
+model.lb(DMrxns)    = 0;
+Sink_rxns           = find(contains(model.rxns,'sink_'));
 model.ub(Sink_rxns) = 0;
 model.lb(Sink_rxns) = 0;
 %Allow biomass production
@@ -105,5 +103,7 @@ if ~isempty(bioIndex)
     model.ub(bioIndex) = 1000;
     model.lb(bioIndex) = 0;
 end
-
+%Block bicarbonate production to allow CO2 production
+index           = find(strcmpi(model.rxns,'HMR_9078'));
+model.ub(index) = 0;
 end
