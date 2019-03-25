@@ -1,10 +1,11 @@
-function ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
+%function ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
 clc
 close all
 
-current    = pwd;
-%ecFlag     = false;
-%constLevel = 2;
+current     = pwd;
+ecFlag      = false;
+fixedBounds = false;
+constLevel  = 4;
 cd ../models/humanGEM_cellLines
 modelsFolder = pwd; 
 folders = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
@@ -46,7 +47,7 @@ for i=1:length(folders)
     model_modified = substituteBiomassRxns(model);
     %Allow any level of average enzyme saturaion (0 - 100%)
     P_index = find(strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange'));
-    ecModel_batch.ub(P_index) = ecModel_batch.ub(P_index)/(0.5);
+    ecModel_batch.ub(P_index) = 0.609*0.5;
     %Save models
     cd ([modelsFolder, '/', folders{i}])
     save ('ecModel_batch.mat', 'ecModel_batch')
@@ -93,7 +94,8 @@ for i=1:length(folders)
             end
             %Keep just the exchange fluxes that are also part of the
             %dataset and compare both GEM and ecGEM predictions
-            [~,toKeep]  = intersect(EX_IDs,expIDs);
+            [~,toKeep,order]  = intersect(EX_IDs,expIDs);
+            %toKeep      = exc_Indexes(toKeep);
             str = strrep(folders{i},'_','-');
             if length(toKeep) == length(expIDs(1:end-1))
                 if ecFlag
@@ -106,26 +108,30 @@ for i=1:length(folders)
                     fileName2 = ['GEM_const_' num2str(constLevel) '_errorMetrics.txt'];
                 end
                 predictedFluxes(:,i) = predictions;
-                experimental         = measuredFluxes(1:end-1);
+                experimental         = measuredFluxes(order);
+                exchangeMets         = exchangeMets(order);
+                exchangeIDs          = expIDs(order);
                 [Xvalues,Yvalues,direction,errors(i,:)] = getPlotValues(predictions,experimental);
                 disp(errors(i,:))
                 plotDataPoints(Xvalues,Yvalues,colorS(i,:),direction)
-                legendStr = [legendStr; [cellLineStr '/ MAE = ' num2str(errors(i,2))]];
+                legendStr = [legendStr; [cellLineStr '/ RSME = ' num2str(errors(i,3))]];
                 hold on
                 
             else
                 disp('Inconsistent mapping')
             end
+        else
+            disp(['Not feasible 2: ' folders{i}])
         end
     else
-        disp(['Not feasible: ' folders{i}])
+        disp(['Not feasible 1: ' folders{i}])
     end
     %write file with experimental and predicted exchange fluxes
     variables = {'Rxn_ID' 'Metabolite' 'experimental' 'predictions'};
-    T = table(expIDs(1:end-1),exchangeMets,experimental,predictions,'VariableNames',variables);
+    T = table(exchangeIDs,exchangeMets,experimental,predictions,'VariableNames',variables);
     writetable(T,[modelsFolder, '/', folders{i},'/',fileName1],'QuoteStrings',false,'Delimiter','\t')
 end
-x1 = linspace(-6,1,100);
+x1 = linspace(-9,1,100);
 plot(x1,x1)
 legend(legendStr)
 hold on
@@ -133,16 +139,28 @@ hold on
 variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
 T = table(folders',errors(:,1),errors(:,2),errors(:,3),'VariableNames',variables);
 writetable(T,[modelsFolder, '/',fileName2],'QuoteStrings',false,'Delimiter','\t')
-end
+%end
 %--------------------------------------------------------------------------
 function [Xvalues,Yvalues,direction,errors] = getPlotValues(predictions,experimental)
-Xvalues   = (log10(abs(experimental)+1E-6));
-Yvalues   = (log10(abs(predictions)+1E-6));
+Xvalues   = (log10(abs(experimental)+1E-9));
+Yvalues   = (log10(abs(predictions)+1E-9));
 direction = sign(experimental);
 MRE       = computeErrorMetric(experimental,predictions,'MAE');
 RMSE      = computeErrorMetric(experimental,predictions,'RMSE');
 pearson   = computeErrorMetric(experimental,predictions,'pearson');
 errors    = [pearson,MRE,RMSE];
+end
+%--------------------------------------------------------------------------
+function [toKeep,order] = getIntersect_model_data(EX_IDs,expIDs,expData,irrev)
+% if irrev
+%     toKeep = zeros(length(expIDs)-1);
+%     for i=1:length(expIDs)
+%         if expData(i)<0
+%             expIDs{i} = [expIDs{i} '_REV'];
+%         end
+%     end
+% end
+[~,toKeep,order]  = intersect(EX_IDs,expIDs);
 end
 %--------------------------------------------------------------------------
 function plotDataPoints(Xvalues,Yvalues,color,direction)
@@ -202,42 +220,60 @@ function model = setDataConstraints(model,fluxes,expIDs,ecFlag,const_level,fixed
 
 %Biomass UB
 GrowthRate = fluxes(end-1);
-%disp(GrowthRate)
+%value   = GrowthRate;
 GrowthIndx = find(strcmpi(model.rxns,expIDs(end-1)));
+%model   = setBounds(model,GrowthIndx,value,ecFlag,true);
+
+%Glucose exchange bound
 if const_level >0
-    value   = GrowthRate;
-    model   = setBounds(model,GrowthIndx,value,ecFlag,fixed);
-    %Glucose exchange bound
+    %value   = GrowthRate;
+    %model   = setBounds(model,GrowthIndx,value,ecFlag,true);
+    index   = strcmpi(expIDs,'HMR_9034');
+    rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
+    value   = fluxes(index);
+    model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
+    %Threonine exchange bound
     if const_level>1
-        index   = strcmpi(expIDs,'HMR_9034');
+        index   = strcmpi(expIDs,'HMR_9044');
         rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
         value   = fluxes(index);
         model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-        %Prot pool exchange UB
+        %Lysine exchange bound
         if const_level>2 
-            Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
-            Prot_pool    = fluxes(end)*0.5; %Amount of enzymes available for biochemical reactions
-            model        = rescaleBiomassProtein(model,Prot_biomass);
+            index   = strcmpi(expIDs,'HMR_9041');
+            rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
+            value   = fluxes(index);
+            model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
+            %Glutamine exchange bound
+            if const_level>3
+                index   = strcmpi(expIDs,'HMR_9063');
+                rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
+                value   = fluxes(index);
+                model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
+            %Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
+            %Prot_pool    = fluxes(end)*0.5; %Amount of enzymes available for biochemical reactions
+            %model        = rescaleBiomassProtein(model,Prot_biomass);
             %Constrain prot_pool also for ecModel
-            model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
+            %model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
+            end
         end
     end
 end
 
-%Set cytosolic ATP production as objective
-%HMR_6916 for ATP production in OxPhos
-newObj = find(contains(model.rxns,'HMR_4907'));
-if ecFlag
-    newObj = find(contains(model.rxns,'arm_HMR_4907'));
-end
-model.c         = zeros(length(model.c),1);
-model.c(newObj) = 1;
-model.lb(GrowthIndx) = 0.99*GrowthRate;
+% %Set cytosolic ATP production as objective
+% %HMR_6916 for ATP production in OxPhos
+% newObj = find(contains(model.rxns,'HMR_4907'));
+% if ecFlag
+%     newObj = find(contains(model.rxns,'arm_HMR_4907'));
+% end
+% model.c         = zeros(length(model.c),1);
+% model.c(newObj) = 1;
+% model.lb(GrowthIndx) = 0.90*GrowthRate;
+
 %Check feasibility
 sol = solveLP(model);
 if isempty(sol.f)
     disp('Model is unfeasible')
-    pause
 else
     %Rescale total protein content (f factor) if needed (for ecModel)
     if sol.x(GrowthIndx) < GrowthRate & ecFlag
@@ -253,20 +289,23 @@ end
 %--------------------------------------------------------------------------
 function model = setBounds(model,index,value,ecFlag,fixed)
 if fixed
-    lowValue = 0.95;
+    lowValue = 0.9;
 else
     lowValue = 0;
 end
 direction = sign(value);
 if direction <0
-    model.lb(index) = value;
-    model.ub(index) = lowValue*value;
     if ecFlag
-        rxn   = model.rxns{index};
-        rxn   = [rxn '_REV'];
+        %Block the opposite direction (production)
+        model.ub(index) = 0;
+        %Find uptake reaction
+        rxn   = [model.rxns{index} '_REV'];
         index = find(strcmpi(model.rxns,rxn));
         model.ub(index) = abs(value);
         model.lb(index) = lowValue*abs(value);
+    else
+        model.lb(index) = value;
+        model.ub(index) = lowValue*value;
     end
 else
     model.ub(index) = value;
