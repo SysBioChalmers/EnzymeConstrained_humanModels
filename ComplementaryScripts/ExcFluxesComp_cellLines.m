@@ -1,11 +1,11 @@
-%function ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
+function [meanGRerror,minGRerror, maxGRerror] = ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
 clc
 close all
 
 current     = pwd;
-ecFlag      = false;
-fixedBounds = false;
-constLevel  = 4;
+%ecFlag      = true;
+%fixedBounds = false;
+%constLevel  = 3;
 cd ../models/humanGEM_cellLines
 modelsFolder = pwd; 
 folders = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
@@ -31,7 +31,8 @@ expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
 expIDs          = expData{1};expMets = expData{2};expData = expData(3:end);
 legendStr       = {};
 predictedFluxes = zeros(length(expIDs)-1,length(folders));
-errors          = zeros(length(folders),3);
+errors_ExFlux   = zeros(length(folders),3);
+errors_GRates   = zeros(length(folders),1);
 for i=1:length(folders)
     measuredFluxes = expData{i};
     cellLineStr    = strrep(folders{i},'_','-');
@@ -102,19 +103,23 @@ for i=1:length(folders)
                     predictions = exc_ecModel(toKeep);
                     fileName1 =['ecGEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
                     fileName2 = ['ecGEM_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['ecGEM_const_' num2str(constLevel) '_error_GRate.txt'];
                 else
                     predictions = exc_Model(toKeep);
                     fileName1 = ['GEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
                     fileName2 = ['GEM_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['GEM_const_' num2str(constLevel) '_error_GRate.txt'];
                 end
                 predictedFluxes(:,i) = predictions;
                 experimental         = measuredFluxes(order);
                 exchangeMets         = exchangeMets(order);
                 exchangeIDs          = expIDs(order);
-                [Xvalues,Yvalues,direction,errors(i,:)] = getPlotValues(predictions,experimental);
-                disp(errors(i,:))
+                [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(predictions,experimental);
+                %Calculate mean absolute error for Growth rate predictions
+                errors_GRates(i)     = computeErrorMetric(experimental(end),predictions(end),'MAE');
+                disp(['Relative error for GRate prediction: ' num2str(errors_GRates(i))])
                 plotDataPoints(Xvalues,Yvalues,colorS(i,:),direction)
-                legendStr = [legendStr; [cellLineStr '/ RSME = ' num2str(errors(i,3))]];
+                legendStr = [legendStr; [cellLineStr '/ RSME = ' num2str(errors_ExFlux(i,3))]];
                 hold on
                 
             else
@@ -137,9 +142,16 @@ legend(legendStr)
 hold on
 %write file with different error metrics for the i-th cell_line
 variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
-T = table(folders',errors(:,1),errors(:,2),errors(:,3),'VariableNames',variables);
+T = table(folders',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
 writetable(T,[modelsFolder, '/',fileName2],'QuoteStrings',false,'Delimiter','\t')
-%end
+%write file with GRate predictions MAE
+variables = {'cell_Line' 'MAE'};
+T = table(folders',errors_GRates,'VariableNames',variables);
+writetable(T,[modelsFolder, '/',fileName3],'QuoteStrings',false,'Delimiter','\t')
+meanGRerror = mean(errors_GRates);
+minGRerror  = min(errors_GRates);
+maxGRerror  = max(errors_GRates);
+end
 %--------------------------------------------------------------------------
 function [Xvalues,Yvalues,direction,errors] = getPlotValues(predictions,experimental)
 Xvalues   = (log10(abs(experimental)+1E-9));
@@ -223,6 +235,12 @@ GrowthRate = fluxes(end-1);
 %value   = GrowthRate;
 GrowthIndx = find(strcmpi(model.rxns,expIDs(end-1)));
 %model   = setBounds(model,GrowthIndx,value,ecFlag,true);
+if ecFlag
+    Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
+    Prot_pool    = fluxes(end)*0.5*0.5; %Amount of enzymes available for biochemical reactions
+    model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
+end
+
 
 %Glucose exchange bound
 if const_level >0
@@ -250,11 +268,6 @@ if const_level >0
                 rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
                 value   = fluxes(index);
                 model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-            %Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
-            %Prot_pool    = fluxes(end)*0.5; %Amount of enzymes available for biochemical reactions
-            %model        = rescaleBiomassProtein(model,Prot_biomass);
-            %Constrain prot_pool also for ecModel
-            %model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
             end
         end
     end
@@ -271,19 +284,20 @@ end
 % model.lb(GrowthIndx) = 0.90*GrowthRate;
 
 %Check feasibility
-sol = solveLP(model);
-if isempty(sol.f)
-    disp('Model is unfeasible')
-else
-    %Rescale total protein content (f factor) if needed (for ecModel)
-    if sol.x(GrowthIndx) < GrowthRate & ecFlag
-        protIndex = find(strcmpi(model.rxns,'prot_pool_exchange'));
-        Ptot = model.ub(protIndex);
-        gRate1 = sol.x(GrowthIndx);
-        gRate2 = abs(GrowthRate);
-        model.ub(protIndex) = Ptot*gRate2/gRate1;
-    end
-end
+% sol = solveLP(model);
+% if isempty(sol.f)
+%     disp('Model is unfeasible')
+% else
+%     %Rescale total protein content (f factor) if needed (for ecModel)
+%     if sol.x(GrowthIndx) < GrowthRate & ecFlag
+%         disp('Protein flexibilized')
+%         protIndex = find(strcmpi(model.rxns,'prot_pool_exchange'));
+%         Ptot = model.ub(protIndex);
+%         gRate1 = sol.x(GrowthIndx);
+%         gRate2 = abs(GrowthRate);
+%         model.ub(protIndex) = Ptot*gRate2/gRate1;
+%     end
+% end
 %disp(sol.x(GrowthIndx))
 end
 %--------------------------------------------------------------------------
