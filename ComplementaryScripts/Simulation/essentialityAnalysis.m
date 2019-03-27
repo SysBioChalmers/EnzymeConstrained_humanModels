@@ -1,4 +1,4 @@
-function results =  essentialityAnalysis(model,lethalTreshold,filename,EMEM)
+function results =  essentialityAnalysis(model,lethalTreshold,cellLine,irrev,EMEM)
 % results =  essentialityAnalysis(model,lethalTreshold,filename)
 %
 % Script that performs a gene essentiallity analysis on a given GEM.
@@ -18,15 +18,25 @@ function results =  essentialityAnalysis(model,lethalTreshold,filename,EMEM)
 % usage: results =  essentialityAnalysis(model,lethalTreshold,filename)
 %
 % Raphael Ferreira.     Created:     2018-04-13
-% Ivan Domenzain.       Last edited: 2018-10-15
+% Ivan Domenzain.       Last edited: 2018-12-03
 %
 
 current = pwd;
 %Set EMEM medium
 if EMEM
-     [model,~,~] = setEMEMmedium(model,0.01);
+    glucBound = 1;
+    oxBound   = 20;
+    stdBound  = 20;
+    [model,~] = setEMEMmedium(model,glucBound,oxBound,stdBound,irrev);
 end
-  solution_wt    = solveLP(model,1);
+
+if irrev
+    filename = ['ec_' cellLine '_KO_analysis.txt'];
+else
+    filename = [cellLine '_KO_analysis.txt'];
+end
+
+solution_wt    = solveLP(model);
 objIndex       = find(model.c==1);
 growth_wt      = solution_wt.x(objIndex);
 essential_idx  = [];
@@ -39,14 +49,13 @@ objective      = find(model.c==1);
 for i=1:length(model.genes)
     gene    = model.genes(i);
     model_i = model;
-    model_i = removeGenes(model_i,gene,false,false);
-    sol_mut = solveLP(model_i,1);
+    model_i = removeGenes(model_i,gene,false,false,false);
+    sol_mut = solveLP(model_i);
 
     if ~isempty(sol_mut.f)
         gwrt_rate(i) = abs(sol_mut.f);
         growth_mut   = sol_mut.x(objective);
-        %sol_matrix(:,i) = sol_mut.x;
-        change       = (growth_wt-growth_mut)/growth_wt;
+        change = (growth_wt-growth_mut)/growth_wt;
         %Avoid numerical inaccuracies
         if abs(change)<=1e-5
             change = 0;
@@ -74,7 +83,7 @@ sol_matrix = [solution_wt.x, sol_matrix];
 sol_matrix = [model.rxns, num2cell(sol_matrix)];
 names      = [{'Rxns'},{'Wild_Type'}, model.genes{affected_grwt}];
 Results    = cell2table(sol_matrix,'VariableNames',names,'RowNames',model.rxns);
-cd ../../Results
+cd (['../../models/' cellLine '/Results'])
 writetable(Results,filename,'Delimiter','\t')
 results.affected   = affected_grwt;
 results.essential  = essential_idx;
@@ -89,7 +98,7 @@ genes      = model.genes(affected_grwt);
 for i=1:length(affected_grwt)
     gene = genes(i);
     disp(['Getting Flux distribution for gene: ',gene{1}])
-    mutant          = removeGenes(model,gene,false,false);
+    mutant          = removeGenes(model,gene,false,false,false);
     [Solution,~]    = solveMutant(mutant,[],'pFBA',prots);
     sol_matrix(:,i) = Solution;
 end

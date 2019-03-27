@@ -36,7 +36,7 @@ elseif strcmpi(method,'pFBA')
         if ~isempty(prots)
             %Fix optimal value for the objective and then minimize the total
             %sum of protein usages
-            model.lb(obj)  = 0.999*Solution(obj);
+            model.lb(obj)  = 0.9999*Solution(obj);
             model.ub(obj)  = Solution(obj);
             model.c(:)     = 0;
             model.c(prots) = -1;
