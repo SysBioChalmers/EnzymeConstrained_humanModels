@@ -268,6 +268,13 @@ if const_level >0
                 rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
                 value   = fluxes(index);
                 model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
+                %Serine exchange bound
+                if const_level>4
+                    index   = strcmpi(expIDs,'HMR_9069');
+                    rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
+                    value   = fluxes(index);
+                    model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
+                end
             end
         end
     end
