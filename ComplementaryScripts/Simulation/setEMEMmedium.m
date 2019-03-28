@@ -52,7 +52,8 @@ components = [];
 
 for i=1:length(exchangeMets)
     excMetabolite = exchangeMets(i);   
-    if ~ismember(excMetabolite,model.metNames)
+    index         = find(strcmp(model.metNames,excMetabolite));
+    if ~isempty(index)
         for j=1:length(upTakeIndxs)
             %Then search the met exchange index (one by one)
             rxnIndx = upTakeIndxs(j);
