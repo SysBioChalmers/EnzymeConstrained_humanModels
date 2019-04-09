@@ -1,28 +1,10 @@
 function [meanGRerror,minGRerror, maxGRerror] = ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
 clc
 close all
-
-current     = pwd;
-%ecFlag      = true;
-%fixedBounds = false;
-%constLevel  = 3;
+current = pwd;
 cd ../models/humanGEM_cellLines
-modelsFolder = pwd; 
-folders = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
-           {'UO_31'} {'MDAMB_231'} {'HOP62'} {'NCI_H226'} {'HOP92'}...
-           {'O_786'}];
-
-colorS = [0    0    128             %dark blue
-          0    0    255             %blue
-          0    170  255             %light blue
-          0    128  0               %forest green
-          128  255  0               %lime green
-          255  105  180             %pink
-          255  200  050             %yellow
-          191  0    255             %purple
-          255  128  0               %orange
-          0    0    0               %black
-          255  0    0]./255;        %red
+modelsFolder      = pwd; 
+[folders, colorS] = assignNamesAndColors;
 %Open exchange fluxes file
 fID     = fopen('exchangeFluxes_NCI60.txt');
 expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
@@ -114,9 +96,9 @@ for i=1:length(folders)
                 experimental         = measuredFluxes(order);
                 exchangeMets         = exchangeMets(order);
                 exchangeIDs          = expIDs(order);
-                [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(predictions,experimental);
+                [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(experimental,predictions);
                 %Calculate mean absolute error for Growth rate predictions
-                errors_GRates(i)     = computeErrorMetric(experimental(end),predictions(end),'MAE');
+                errors_GRates(i)     = computeErrorMetric(predictions(end),experimental(end),'MRE');
                 disp(['Relative error for GRate prediction: ' num2str(errors_GRates(i))])
                 plotDataPoints(Xvalues,Yvalues,colorS(i,:),direction)
                 legendStr = [legendStr; [cellLineStr '/ RSME = ' num2str(errors_ExFlux(i,3))]];
@@ -142,44 +124,47 @@ legend(legendStr)
 hold on
 %write file with different error metrics for the i-th cell_line
 variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
-T = table(folders',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
+T         = table(folders',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
 writetable(T,[modelsFolder, '/',fileName2],'QuoteStrings',false,'Delimiter','\t')
 %write file with GRate predictions MAE
 variables = {'cell_Line' 'MAE'};
-T = table(folders',errors_GRates,'VariableNames',variables);
+T         = table(folders',errors_GRates,'VariableNames',variables);
 writetable(T,[modelsFolder, '/',fileName3],'QuoteStrings',false,'Delimiter','\t')
 meanGRerror = mean(errors_GRates);
 minGRerror  = min(errors_GRates);
 maxGRerror  = max(errors_GRates);
 end
 %--------------------------------------------------------------------------
-function [Xvalues,Yvalues,direction,errors] = getPlotValues(predictions,experimental)
-Xvalues   = (log10(abs(experimental)+1E-9));
-Yvalues   = (log10(abs(predictions)+1E-9));
-direction = sign(experimental);
-MRE       = computeErrorMetric(experimental,predictions,'MAE');
-RMSE      = computeErrorMetric(experimental,predictions,'RMSE');
-pearson   = computeErrorMetric(experimental,predictions,'pearson');
-errors    = [pearson,MRE,RMSE];
-end
+function [cellNames, colors] = assignNamesAndColors
+cellNames = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
+           {'UO_31'} {'MDAMB_231'} {'HOP62'} {'NCI_H226'} {'HOP92'}...
+           {'O_786'}];
+
+colors    = [0    0    128             %dark blue
+             0    0    255             %blue
+             0    170  255             %light blue
+             0    128  0               %forest green
+             128  255  0               %lime green
+             255  105  180             %pink
+             255  200  050             %yellow
+             191  0    255             %purple
+             255  128  0               %orange
+             0    0    0               %black
+             255  0    0]./255;        %red
+end     
 %--------------------------------------------------------------------------
-function [toKeep,order] = getIntersect_model_data(EX_IDs,expIDs,expData,irrev)
-% if irrev
-%     toKeep = zeros(length(expIDs)-1);
-%     for i=1:length(expIDs)
-%         if expData(i)<0
-%             expIDs{i} = [expIDs{i} '_REV'];
-%         end
-%     end
-% end
-[~,toKeep,order]  = intersect(EX_IDs,expIDs);
+function [Xvalues,Yvalues,direction,errors] = getPlotValues(predictions,experimental)
+Xvalues      = (log10(abs(experimental)+1E-9));
+Yvalues      = (log10(abs(predictions)+1E-9));
+direction    = sign(experimental);
+MRE          = computeErrorMetric(experimental,predictions,'MRE');
+RMSE         = computeErrorMetric(experimental,predictions,'RMSE');
+pearson      = computeErrorMetric(experimental,predictions,'pearson');
+errors       = [pearson,MRE,RMSE];
 end
 %--------------------------------------------------------------------------
 function plotDataPoints(Xvalues,Yvalues,color,direction)
-%                 plot(Xvalues,Yvalues,'o','MarkerSize',10,'MarkerEdgeColor',colorS(i,:), ...
-%                 'MarkerFaceColor',colorS(i,:))               
-%                 hold on
-sizes = [];
+sizes   = [];
 colorS  = zeros(length(Xvalues),3);
 for i=1:length(Xvalues)
     if direction(i)<=0
@@ -189,18 +174,17 @@ for i=1:length(Xvalues)
     end
     colorS(i,:)  = color;
 end
-%plot(Xvalues,Yvalues,markers,'MarkerSize',5,'MarkerEdgeColor',colorS,'MarkerFaceColor',colorS)
 scatter(Xvalues,Yvalues,sizes,colorS,'d','filled')
 end
 %--------------------------------------------------------------------------
 function avg_Eps = computeErrorMetric(data,predictions,method)
+data(data==0) = 1E-9;
 switch method
     case 'pearson'
         avg_Eps  = corrcoef(predictions,data);
         avg_Eps  = avg_Eps(1,2);
-    case 'MAE'
+    case 'MRE'
         relErr   = (data-predictions)./data;
-        %relErr   = log(abs(relErr));
         relErr   = (abs(relErr));
         avg_Eps  = mean(relErr);
     case 'RMSE'
@@ -209,7 +193,7 @@ switch method
         for i=1:T
             total = total + (data(i) - predictions(i))^2;
         end
-        avg_Eps = sqrt(total/T);
+        avg_Eps = sqrt(total/(T-1));
 end
 end
 %--------------------------------------------------------------------------
@@ -229,7 +213,6 @@ solution          = solveLP(model,1);
 end
 %--------------------------------------------------------------------------
 function model = setDataConstraints(model,fluxes,expIDs,ecFlag,const_level,fixed)
-
 %Biomass UB
 GrowthRate = fluxes(end-1);
 %value   = GrowthRate;
@@ -240,8 +223,6 @@ if ecFlag
     Prot_pool    = fluxes(end)*0.5*0.5; %Amount of enzymes available for biochemical reactions
     model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
 end
-
-
 %Glucose exchange bound
 if const_level >0
     %value   = GrowthRate;
@@ -279,33 +260,6 @@ if const_level >0
         end
     end
 end
-
-% %Set cytosolic ATP production as objective
-% %HMR_6916 for ATP production in OxPhos
-% newObj = find(contains(model.rxns,'HMR_4907'));
-% if ecFlag
-%     newObj = find(contains(model.rxns,'arm_HMR_4907'));
-% end
-% model.c         = zeros(length(model.c),1);
-% model.c(newObj) = 1;
-% model.lb(GrowthIndx) = 0.90*GrowthRate;
-
-%Check feasibility
-% sol = solveLP(model);
-% if isempty(sol.f)
-%     disp('Model is unfeasible')
-% else
-%     %Rescale total protein content (f factor) if needed (for ecModel)
-%     if sol.x(GrowthIndx) < GrowthRate & ecFlag
-%         disp('Protein flexibilized')
-%         protIndex = find(strcmpi(model.rxns,'prot_pool_exchange'));
-%         Ptot = model.ub(protIndex);
-%         gRate1 = sol.x(GrowthIndx);
-%         gRate2 = abs(GrowthRate);
-%         model.ub(protIndex) = Ptot*gRate2/gRate1;
-%     end
-% end
-%disp(sol.x(GrowthIndx))
 end
 %--------------------------------------------------------------------------
 function model = setBounds(model,index,value,ecFlag,fixed)
