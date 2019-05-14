@@ -193,7 +193,7 @@ switch method
         for i=1:T
             total = total + (data(i) - predictions(i))^2;
         end
-        avg_Eps = sqrt(total/(T-1));
+        avg_Eps = sqrt(total/(T));
 end
 end
 %--------------------------------------------------------------------------
