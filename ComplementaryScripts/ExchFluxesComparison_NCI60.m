@@ -105,9 +105,8 @@ for i=1:length(folders)
             end
             %Keep just the exchange fluxes that are also part of the
             %dataset and compare both GEM and ecGEM predictions
-            [~,toKeep,order]  = intersect(EX_IDs,expIDs);
-            %toKeep      = exc_Indexes(toKeep);
-            str = strrep(folders{i},'_','-');
+            [~,toKeep,order]  = intersect(EX_IDs,expIDs);;
+            str               = strrep(folders{i},'_','-');
             if length(toKeep) == length(expIDs(1:end-1))
                 if ecFlag
                     predictions = exc_ecModel(toKeep);
@@ -167,6 +166,7 @@ writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
 meanGRerror = mean(errors_GRates);
 minGRerror  = min(errors_GRates);
 maxGRerror  = max(errors_GRates);
+cd (current)
 end
 %--------------------------------------------------------------------------
 function [cellNames, colors] = assignNamesAndColors
