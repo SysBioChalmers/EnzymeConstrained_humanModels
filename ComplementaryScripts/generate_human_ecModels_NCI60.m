@@ -1,3 +1,11 @@
+%generate_human_ecModels_NCI60
+% 
+% Main script for enhancement of 11 cell-line specific GEMs (from the
+% NCI60 cell-lines) with enzyme-constraints with the use of the GECKO
+% pipeline.
+%
+% Ivan Domenzain.      Last edited: 2019-05-15
+
 load('../models/humanGEM_cellLines/11models.mat')
 modelNames = who;
 current    = pwd;
@@ -15,6 +23,7 @@ for i = 1:length(fileNames)
         copyfile(fullName,GECKOpath)
     end
 end
+%Generate enzyme-constrained models
 for i=1:length(modelNames)
     cd (current)
     cellName = modelNames{i};
@@ -23,7 +32,8 @@ for i=1:length(modelNames)
     save([cellName '.mat'])
     mkdir Data
     cd (current)
-    [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName);
+    %Models mat files are saved in their respective folder by enhanceGEM_cellLine
+    [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName);
 end
 cd (current)
 rmdir('GECKO', 's')
