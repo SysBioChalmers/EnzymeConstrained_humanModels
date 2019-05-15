@@ -1,4 +1,4 @@
-# EnzymeConstrained-human-GEM
+# EnzymeConstrained-humanModels
 
 Series of scripts for enhancing humanGEM based models with kinetic and proteomics constraints, and specialized simulation utilities. 
 
