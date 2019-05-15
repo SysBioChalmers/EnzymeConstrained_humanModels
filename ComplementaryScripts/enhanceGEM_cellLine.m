@@ -1,47 +1,30 @@
-function [ecModel,model_data,kcats] = enhanceGEM_cellLine(cellName)
-% enhanceGEM_cellLine
+function [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName)
+%enhanceGEM_cellLine
 % 
-% Script that takes the already existing HMR2.0 GEM and extends it to an 
-% Enzyme constrained GEM. The previous requeriments for the implementation
-% of this script are the KEGG and Uniprot databases for H. sapiens,
-% detailed on the GECKO's paper supplementary material and a list of
-% equivalences between ENSEMBL human gene IDs and its correspondent short
-% gene names.
+% Function that loads a cell-line or tissue specific human metabolism model
+% and enhances it with enzyme-constraints with the use of the GECKO
+% pipeline.
 %
-% INPUT:
-%   model       The latest version of humanGEM
-% OUTPUTS:
-%   ecModel     Extended enzyme constrained model
+%   cellName        (String) name for the context-specific model. It should 
+%                   be consistent with the name of the subfolder in which  
+%                   the original model is stored. 
 %
-% Ivan Domenzain.      Last edited: 2019-02-26
+%   ecModel         Enzyme-constrained model structure without proteomics
+%                   constraints.
+%   ecModel_batch   Enzyme-constrained model structure with a constrained
+%                   total protein pool.
+%
+% Usage: [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName)
+%
+% Ivan Domenzain.      Last edited: 2019-05-15
 
-current      = pwd;
-org_name     = 'homo sapiens';
-keggCode     = 'hsa';
-git('clone https://github.com/SysBioChalmers/GECKO.git')
-GECKO_path  =  [current '/GECKO'];
-
-%Replace scripts in GECKO:
-fileNames = dir('GECKO_humanScripts');
-for i = 1:length(fileNames)
-    fileName = fileNames(i).name;
-    if ~strcmp(fileName,'.') && ~strcmp(fileName,'..')
-        fullName   = ['GECKO_humanScripts/' fileName];
-        GECKOpath = dir(['GECKO/**/' fileName]);
-        GECKOpath = GECKOpath.folder;
-        copyfile(fullName,GECKOpath)
-    end
-end
-
-cd (['../models/' cellName])
-model = load([cellName '.mat']);
+current  = pwd;
+org_name = 'homo sapiens';
+%Load original model 
+model    = load(['../models/' cellName '/' cellName '.mat']);
 eval(['model = model.' cellName])
 %model = model.model;
 %%%%%%%%%%%%%%%%%%%%%%%% model preprocessing %%%%%%%%%%%%%%%%%%%%%%%%%%
-cd (current)
-% Creates a new field in the model structure where the ENSEMBL gene IDs
-% are converted to their short gene names in order to provide
-% compatibility with the kcat matching algorithms
 %model_modified = ravenCobraWrapper(model);
 model_modified = modelModifications(model);
 % Save models
@@ -49,7 +32,7 @@ cd (['../models/' cellName])
 save('model.mat','model')
 save('model_modified.mat','model_modified')
 %%%%%%%%%%%%%%%%%%%%%%%% GECKO modifications %%%%%%%%%%%%%%%%%%%%%%%%%%
-% Retrieve kcats & MWs for each rxn in the model:
+% Retrieve kcats & MWs for each rxn in the model from Uniprot database:
 cd ([GECKO_path '/geckomat/get_enzyme_data'])
 model_data = getEnzymeCodes(model_modified);
 %Tries to Match kinetic coefficients to every reaction with a non empty
@@ -61,9 +44,8 @@ cd (['../models/' cellName])
 mkdir Data
 cd Data
 save('enzData.mat','model_data','kcats');
-% Integrate enzymes in the model: ecModel is a draft model for proteomics
-% data integration, if available.
 cd (current)
+%GEt ecModel matlab structure
 model_data = removeFields(model_data);
 cd ([GECKO_path '/geckomat/change_model'])
 ecModel = readKcatData(model_data,kcats);
@@ -73,21 +55,11 @@ cd (['../models/' cellName])
 save('ecModel.mat','ecModel')
 cd ([GECKO_path '/geckomat/limit_proteins'])
 % Constrain total protein pool
-Ptotal       = 0.609; %[g prot/gDw]
+Ptotal       = 0.609; %HepG2 total protein content [g prot/gDw]
 protCoverage = 0.5;
 sigma        = 0.5;
 [ecModel_batch,~,~] = constrainEnzymes(ecModel,Ptotal,sigma,protCoverage);
 cd (['../../../../models/' cellName])
 save('ecModel_batch.mat','ecModel_batch')
-%%%%%%%%%%%%%%%%%%%%%%%% Matched Kcats analysis %%%%%%%%%%%%%%%%%%%%%%%
-%Gets the model Kcats cumulative distributions and compares it to all
-%the Kcat entries in BRENDA for Homo sapiens (just for natural
-%substrates)
-%cd ([current '/KcatDistributions'])
-%kcat_distributions(ecModel,kcats,{'homo sapiens'})
 cd (current)
-%%%%%%%%%%%%%%%%%%%%%%%% Constrain enzyme pool %%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%% Sensitivity analysis %%%%%%%%%%%%%%%%%%%%%%%%%
 end
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

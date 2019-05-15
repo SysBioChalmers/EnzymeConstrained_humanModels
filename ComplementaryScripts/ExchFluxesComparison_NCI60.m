@@ -1,4 +1,27 @@
-function [meanGRerror,minGRerror, maxGRerror] = ExcFluxesComp_cellLines(constLevel,ecFlag,fixedBounds)
+function [meanGRerror,minGRerror, maxGRerror] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
+%ExchFluxesComparison_NCI60
+% 
+% Function that performs pFBA simulations on the 11 cell-line specific
+% models (from the NCI60 cell-lines) and computes errors in exchange fluxes
+% and growth rate predictions compared to experimental data.
+%
+%   constLevel      (integer) 0 for EMEM constraints, 1 for level0+addition
+%                   of GUR constraint, 2 for Level1+threonin, 3 for Level2+lysine, 
+%                   4 for Level 3+glutamine and 5 for Level 4+serine
+%                   constraint.
+%   ecFlag          True if ecModels are desired for simulation or false
+%                   for normal models.
+%   fixedBounds     True if bounds are desired to be fixed (lb and ub).
+% 
+%   meanGRerror     Mean growth rate prediction relative error across the
+%                   11 cell-line models.
+%   minGRerror      Min growth rate prediction error
+%   maxGRerror      Max growth rate prediction error
+%
+% Usage: [meanGRerror,minGRerror, maxGRerror] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
+%
+% Ivan Domenzain.      Last edited: 2019-05-15
+
 clc
 close all
 current = pwd;
@@ -9,13 +32,16 @@ modelsFolder      = pwd;
 fID     = fopen('exchangeFluxes_NCI60.txt');
 expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
                    'Delimiter','\t','HeaderLines',1);
-%Store experimental data                
+%%Save experimental data 
 expIDs          = expData{1};expMets = expData{2};expData = expData(3:end);
+%Initialize variables
 legendStr       = {};
 predictedFluxes = zeros(length(expIDs)-1,length(folders));
 errors_ExFlux   = zeros(length(folders),3);
 errors_GRates   = zeros(length(folders),1);
+%For each cell line
 for i=1:length(folders)
+    %Measured fluxes for the i-th cell-line
     measuredFluxes = expData{i};
     cellLineStr    = strrep(folders{i},'_','-');
     cd (modelsFolder)
@@ -44,7 +70,7 @@ for i=1:length(folders)
         %Set EMEM constraints
         [ecModel_batch,~]  = setEMEMmedium(ecModel_batch,1000,1000,1000,true);
         [model_modified,~] = setEMEMmedium(model_modified,1000,1000,1000,false);
-        %Set fixed constraints (Grate, GUR, Ptot) 
+        %Set fixed constraints (nutrients uptakes) 
         ecModel_batch      = setDataConstraints(ecModel_batch,expData{i},expIDs,true,constLevel,fixedBounds);
         model_modified     = setDataConstraints(model_modified,expData{i},expIDs,false,constLevel,fixedBounds);
         %Get exchange fluxes and metabolites IDs in the original model
