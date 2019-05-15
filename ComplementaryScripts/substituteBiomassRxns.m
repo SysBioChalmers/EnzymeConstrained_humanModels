@@ -3,7 +3,7 @@ function Modified_model = substituteBiomassRxns(model)
 % Substitute the original biomass associated reactions on humanGEM with a
 % modularized set of reactions for biomass production in HepG2 cell lines
 %
-% Last modified.  Ivan Domenzain 2018-03-23
+% Last modified.  Ivan Domenzain 2019-05-14
 
 %% Remove the previous biomass rxn
 massPos = [];
@@ -94,33 +94,12 @@ if nRxns>0
 else
     temp_model = model;
 end
-%% Avlant's stoichiometry changes/notes regarding HepG2 biomass
-% % I run the following lines to update the biomass equation for my
-% % current project, the most important part is that it sets the lipidpool,
-% % to 0, everything else should be qualitative.
-% model = configureSMatrix(model, 80, 'HumanGrowth', 'human_growthMaintenance[c]');
-% model = configureSMatrix(model, 6, 'HumanGrowth', 'human_protein_pool[c]');
-% model = configureSMatrix(model, 0.1, 'HumanGrowth', 'human_RNAPool[c]');
-% model = configureSMatrix(model, 0.1, 'HumanGrowth', 'human_DNAPool[c]');
-% model = configureSMatrix(model, 0, 'lipidPool', 'fattyAcidPool[c]');
-% model = configureSMatrix(model, 0.3, 'HumanGrowth', 'lipidPool[c]');
-% 
-% % Maybe consider setting glycogen to 0. I know Gatto once predicted that
-% % knocking out glycogen production would be lethal to cells. But its not
-% % obvious that they need it.
-% model = configureSMatrix(model, 1, 'HumanGrowth', 'glycogen[c]');
-
 %% Finalize changes
 % set objective as 'HumanGrowth' reaction
 temp_model.c(:) = 0;
 temp_model.c(ismember(temp_model.rxns,'humanGrowthOut')) = 1;
-
 % assign output
 Modified_model = temp_model;
-%[~,I] = getExchangeRxns(Modified_model);
-%Modified_model.ub(I) = Inf;
-%Modified_model.lb(I) = -Inf;
-
 end
 
 
