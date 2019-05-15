@@ -11,7 +11,7 @@ Keywords:
 
 **GEM Category:** Cell lines/tissues; **Utilisation:** Proteomics data integration and simulation of human metabolism; **Field:** Enzyme-constrained metabolic network reconstruction; **Type of Model:** curated; **Model Source:** Hsa; **Omic Source:** Transcriptomics, Proteomics, Metabolomics; **Taxonomy:** _Homo sapiens_; **Metabolic System:** General Metabolism.
 
-Last update: 2018-05-15
+Last update: 2019-05-15
 
 This repository is administered by [@IVANDOMENZAIN](https://github.com/IVANDOMENZAIN), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology
 
