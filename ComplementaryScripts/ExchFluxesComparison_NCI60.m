@@ -24,16 +24,17 @@ function [meanGRerror,minGRerror, maxGRerror] = ExchFluxesComparison_NCI60(const
 
 clc
 close all
-current = pwd;
+current      = pwd;
 cd ../models/humanGEM_cellLines
-modelsFolder      = pwd; 
+modelsFolder = pwd; 
+%Assign specific color code for the different cell-lines
 [folders, colorS] = assignNamesAndColors;
-%Open exchange fluxes file
-fID     = fopen('exchangeFluxes_NCI60.txt');
+%Open exchange fluxes data file
+fID     = fopen('../../DataFiles/exchangeFluxes_NCI60.txt');
 expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
                    'Delimiter','\t','HeaderLines',1);
 %%Save experimental data 
-expIDs          = expData{1};expMets = expData{2};expData = expData(3:end);
+expIDs = expData{1};expMets = expData{2};expData = expData(3:end);
 %Initialize variables
 legendStr       = {};
 predictedFluxes = zeros(length(expIDs)-1,length(folders));
@@ -46,6 +47,7 @@ for i=1:length(folders)
     cellLineStr    = strrep(folders{i},'_','-');
     cd (modelsFolder)
     cd (folders{i})
+    mkdir Results
     disp(folders{i})
     %Load ecModel and add HepG2 biomass reaction
     load ecModel_batch.mat
@@ -142,20 +144,26 @@ for i=1:length(folders)
     %write file with experimental and predicted exchange fluxes
     variables = {'Rxn_ID' 'Metabolite' 'experimental' 'predictions'};
     T = table(exchangeIDs,exchangeMets,experimental,predictions,'VariableNames',variables);
-    writetable(T,[modelsFolder, '/', folders{i},'/',fileName1],'QuoteStrings',false,'Delimiter','\t')
+    writetable(T,[modelsFolder, '/', folders{i},'/Results/',fileName1],'QuoteStrings',false,'Delimiter','\t')
 end
+%Plot exchange fluxes prediction comparison
 x1 = linspace(-9,1,100);
 plot(x1,x1)
 legend(legendStr)
 hold on
-%write file with different error metrics for the i-th cell_line
+%Write output files
+cd (modelsFolder)
+cd ../../Results
+mkdir 11_cellLines_NCI60
+cd 11_cellLines_NCI60
+%write file with different error metrics for all cell lines
 variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
 T         = table(folders',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
-writetable(T,[modelsFolder, '/',fileName2],'QuoteStrings',false,'Delimiter','\t')
+writetable(T,fileName2,'QuoteStrings',false,'Delimiter','\t')
 %write file with GRate predictions MAE
 variables = {'cell_Line' 'MAE'};
 T         = table(folders',errors_GRates,'VariableNames',variables);
-writetable(T,[modelsFolder, '/',fileName3],'QuoteStrings',false,'Delimiter','\t')
+writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
 meanGRerror = mean(errors_GRates);
 minGRerror  = min(errors_GRates);
 maxGRerror  = max(errors_GRates);
