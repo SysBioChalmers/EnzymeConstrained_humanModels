@@ -1,4 +1,7 @@
 # EnzymeConstrained-humanModels
+<p align="center">
+  <img width="720" height="220" src="https://github.com/SysBioChalmers/EnzymeConstrained_humanModels/blob/Devel/logo.png">
+</p>
 
 Series of scripts for enhancing humanGEM based models with kinetic and proteomics constraints, and specialized simulation utilities. 
 
