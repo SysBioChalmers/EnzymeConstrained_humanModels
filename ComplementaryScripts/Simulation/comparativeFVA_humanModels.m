@@ -1,4 +1,4 @@
-function FVA_Dists = comparativeFVA_humanModels(cellLine)
+%function FVA_Dists = comparativeFVA_humanModels(cellLine)
 %comparativeFVA_humanModels
 %
 % Function that runs a comparative flux variabiability analysis between a
@@ -13,7 +13,7 @@ function FVA_Dists = comparativeFVA_humanModels(cellLine)
 %
 % Usage: FVA_Dists = comparativeFVA_humanModels(cellLine)
 %
-%   Ivan Domenzain, 2019-05-14
+%   Ivan Domenzain, 2019-05-16
 
 current    = pwd;
 %Clone GECKO and pull comparativeFVa branch
@@ -23,13 +23,15 @@ GECKO_path = pwd;
 git ('checkout fix/comparativeFVA')
 git pull
 %Load GEM and ecGEM
-load(['../../models/humanGEM_cellLines/' cellLine '/model_modified.mat'])
-load(['../../models/humanGEM_cellLines/' cellLine '/ecModel_batch.mat'])
+load(['../../../models/humanGEM_cellLines/' cellLine '/model_modified.mat'])
+load(['../../../models/humanGEM_cellLines/' cellLine '/ecModel_batch.mat'])
 %Set medium constraints
 glucBound   = 1;
 oxBound     = 1000;
 stdBound    = 1;
-[model,~]   = setEMEMmedium(model_modified,glucBound,oxBound,stdBound,false);
+cd (current)
+model       = removeMetFields(model_modified);
+[model,~]   = setEMEMmedium(model,glucBound,oxBound,stdBound,false);
 [ecModel,~] = setEMEMmedium(ecModel_batch,glucBound,oxBound,stdBound);
 evalin( 'base', 'clear(''model_modified'')' )
 evalin( 'base', 'clear(''ecModel_batch'')' )
@@ -40,4 +42,19 @@ CsourceUptk       = 'HMR_9034';
 cd (current)
 cd (['../../models/humanGEM_cellLines/' cellLine])
 save('FVA_results.mat','FVA_Dists','indexes')
+%end
+%--------------------------------------------------------------------------
+function model = removeMetFields(model)
+if isfield(model,'inchis')
+    model = rmfield(model,'inchis');
+end
+if isfield(model,'metMiriams')
+    model = rmfield(model,'metMiriams');
+end
+if isfield(model,'metCharges')
+    model = rmfield(model,'metCharges');
+end
+if isfield(model,'metFrom')
+    model = rmfield(model,'metFrom');
+end
 end

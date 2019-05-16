@@ -105,7 +105,7 @@ for i=1:length(folders)
             end
             %Keep just the exchange fluxes that are also part of the
             %dataset and compare both GEM and ecGEM predictions
-            [~,toKeep,order]  = intersect(EX_IDs,expIDs);;
+            [~,toKeep,order]  = intersect(EX_IDs,expIDs);
             str               = strrep(folders{i},'_','-');
             if length(toKeep) == length(expIDs(1:end-1))
                 if ecFlag
@@ -254,7 +254,7 @@ GrowthIndx = find(strcmpi(model.rxns,expIDs(end-1)));
 %model   = setBounds(model,GrowthIndx,value,ecFlag,true);
 if ecFlag
     Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
-    Prot_pool    = fluxes(end)*0.5*0.5; %Amount of enzymes available for biochemical reactions
+    Prot_pool    = fluxes(end)*0.5*0.75; %Amount of enzymes available for biochemical reactions
     model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
 end
 %Glucose exchange bound
