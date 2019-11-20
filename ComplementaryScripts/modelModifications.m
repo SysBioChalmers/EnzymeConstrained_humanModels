@@ -1,10 +1,7 @@
 function model = modelModifications(model)
-[grRules, rxnGeneMat] = standardizeGrRules(model);
-model.grRules         = grRules;
-model.rxnGeneMat      = rxnGeneMat;
-model.b               = zeros(length(model.mets),1);
-% Standardizes the metabolites names
-model  = modifyMetNames(model);
-% Substitute biomass reaction
-model  = substituteBiomassRxns(model,false);
+[GRR, RGM]       = standardizeGrRules(model);
+model.grRules    = GRR;
+model.rxnGeneMat = RGM;
+model.b          = zeros(length(model.mets),1);
+model            = setParam(model,'obj','biomass_human',1);
 end
