@@ -54,11 +54,10 @@ for i=1:length(folders)
     load model.mat
     model.b = zeros(length(model.mets),1);
     cd ../../../ComplementaryScripts
-    ecModel_batch  = substituteBiomassRxns(ecModel_batch);
-    model_modified = substituteBiomassRxns(model);
+    model_modified = model;
     %Allow any level of average enzyme saturaion (0 - 100%)
-    P_index = find(strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange'));
-    ecModel_batch.ub(P_index) = 0.609*0.5;
+    P_index = strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange');
+    ecModel_batch.ub(P_index) = 0.593*0.5;
     %Save models
     cd ([modelsFolder, '/', folders{i}])
     save ('ecModel_batch.mat', 'ecModel_batch')
@@ -80,7 +79,7 @@ for i=1:length(folders)
         [EX_IDs,exc_Indexes] = getExchangeRxns(model_modified);
         exchangeMets = {};
         for j=1:length(expIDs)-1
-            metJ         = find(strcmpi(model_modified.rxns,expIDs(j)));
+            metJ         = strcmpi(model_modified.rxns,expIDs(j));
             exchangeMets = [exchangeMets;...
                 model_modified.metNames(find(model_modified.S(:,metJ),1))];
         end
@@ -95,7 +94,6 @@ for i=1:length(folders)
             exc_ecModel =[];
             %Map each exchange rxn to ecModel_batch
             for j=1:length(exc_Indexes)
-                indexes = [];
                 indexes = rxnMapping(EX_IDs{j},ecModel_batch,true);
                 if length(indexes)>1
                     exc_ecModel = [exc_ecModel; ecMsol.x(indexes(1))-ecMsol.x(indexes(2))];
@@ -254,7 +252,7 @@ GrowthIndx = find(strcmpi(model.rxns,expIDs(end-1)));
 %model   = setBounds(model,GrowthIndx,value,ecFlag,true);
 if ecFlag
     Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
-    Prot_pool    = fluxes(end)*0.5*0.75; %Amount of enzymes available for biochemical reactions
+    Prot_pool    = fluxes(end)*0.5*0.5; %Amount of enzymes available for biochemical reactions
     model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
 end
 %Glucose exchange bound
@@ -324,10 +322,10 @@ end
 %--------------------------------------------------------------------------
 function model = rescaleBiomassProtein(model,Ptot,constrainPool)
 if nargin <3 
-    gIndex    = find(strcmpi(model.rxns,'HumanGrowth'));
-    protIndex = find(strcmpi(model.metNames,'proteinPool'));
+    gIndex    = find(strcmpi(model.rxns,'biomass_human'));
+    protIndex = find(strcmpi(model.metNames,'protein_pool_biomass'));
     coeff     = model.S(protIndex,gIndex); %Extract coeff corresponding to 0.609 g Prot / g Biomass
-    newCoeff  = coeff*Ptot/0.609;
+    newCoeff  = coeff*Ptot/0.593;
     %Rescale stoichiometric coefficient of proteinPool in biomass equation
     model.S(protIndex,gIndex) = newCoeff;
 else

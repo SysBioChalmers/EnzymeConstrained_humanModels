@@ -47,7 +47,7 @@ ecModel = readKcatData(model_data,kcats);
 save(['../../../../models/' cellName '/ecModel.mat'],'ecModel')
 cd ../limit_proteins
 % Constrain total protein pool
-Ptotal       = 0.609; %HepG2 total protein content [g prot/gDw]
+Ptotal       = 0.593; %HepG2 total protein content [g prot/gDw]
 protCoverage = 0.5;
 sigma        = 0.5;
 [ecModel_batch,~,~] = constrainEnzymes(ecModel,Ptotal,sigma,protCoverage);
