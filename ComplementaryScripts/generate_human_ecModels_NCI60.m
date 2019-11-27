@@ -35,7 +35,7 @@ for i=1:length(modelNames)
     mkdir Data
     cd (current)
     %Models mat files are saved in their respective folder by enhanceGEM_cellLine
-    [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName,[current '/GECKO']);
+    [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName);
 end
 cd (current)
 rmdir('GECKO', 's')

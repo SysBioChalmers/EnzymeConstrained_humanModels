@@ -1,4 +1,4 @@
-function [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName,GECKO_path)
+function [ecModel,ecModel_batch] = enhanceGEM_cellLine(cellName)
 %enhanceGEM_cellLine
 % 
 % Function that loads a cell-line or tissue specific human metabolism model
@@ -40,8 +40,9 @@ newDir = ['../../../../models/' cellName '/Data'];
 mkdir(newDir)
 save([newDir '/enzData.mat'],'model_data','kcats');
 %GEt ecModel matlab structure
+cd ../../..
 model_data = removeFields(model_data);
-cd ../change_model
+cd GECKO/geckomat/change_model
 ecModel = readKcatData(model_data,kcats);
 % Save output models:
 save(['../../../../models/' cellName '/ecModel.mat'],'ecModel')
