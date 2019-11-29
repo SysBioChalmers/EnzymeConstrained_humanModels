@@ -26,7 +26,6 @@ eval(['model = model.' cellName])
 %% model preprocessing 
 model_modified = modelModifications(model);
 % Save models
-save(['../models/' cellName '/model.mat'],'model')
 save(['../models/' cellName '/model_modified.mat'],'model_modified')
 %% GECKO pipeline 
 % Retrieve kcats & MWs for each rxn in the model from Uniprot database:

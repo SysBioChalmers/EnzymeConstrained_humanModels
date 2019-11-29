@@ -31,7 +31,7 @@ for i=1:length(modelNames)
     cellName = modelNames{i};
     mkdir (['../models/' cellName])
     cd (['../models/' cellName])
-    save([cellName '.mat'])
+    save([cellName '.mat'],cellName)
     mkdir Data
     cd (current)
     %Models mat files are saved in their respective folder by enhanceGEM_cellLine
