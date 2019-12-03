@@ -37,10 +37,20 @@ expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
 expIDs = expData{1};expMets = expData{2};expData = expData(3:end);
 %Initialize variables
 legendStr       = {};
-predictedFluxes = zeros(length(expIDs)-1,length(cellLines));
 errors_ExFlux   = zeros(length(cellLines),3);
 errors_GRates   = zeros(length(cellLines),1);
 pred_GRates     = zeros(length(cellLines),1);
+%Create output files name strings
+if ecFlag
+    fileName1 = ['ecModels_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+    fileName2 = ['ecModels_const_' num2str(constLevel) '_errorMetrics.txt'];
+    fileName3 = ['ecModels_const_' num2str(constLevel) '_error_GRate.txt'];
+else
+    fileName1 = ['models_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+    fileName2 = ['models_const_' num2str(constLevel) '_errorMetrics.txt'];
+    fileName3 = ['models_const_' num2str(constLevel) '_error_GRate.txt'];
+end
+
 %For each cell line
 for i=1:length(cellLines)
     %Measured fluxes for the i-th cell-line
@@ -104,19 +114,24 @@ for i=1:length(cellLines)
             if length(toKeep) == length(expIDs(1:end-1))
                 if ecFlag
                     predictions = exc_ecModel(toKeep);
-                    fileName1 = ['ecGEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
-                    fileName2 = ['ecGEM_const_' num2str(constLevel) '_errorMetrics.txt'];
-                    fileName3 = ['ecGEM_const_' num2str(constLevel) '_error_GRate.txt'];
+                    fileName1 = ['ecModels_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+                    fileName2 = ['ecModels_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['ecModels_const_' num2str(constLevel) '_error_GRate.txt'];
                 else
                     predictions = exc_Model(toKeep);
-                    fileName1 = ['GEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
-                    fileName2 = ['GEM_const_' num2str(constLevel) '_errorMetrics.txt'];
-                    fileName3 = ['GEM_const_' num2str(constLevel) '_error_GRate.txt'];
+                    fileName1 = ['models_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+                    fileName2 = ['models_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['models_const_' num2str(constLevel) '_error_GRate.txt'];
                 end
-                predictedFluxes(:,i) = predictions;
                 experimental  = measuredFluxes(order);
                 exchangeMets  = exchangeMets(order);
                 exchangeIDs   = expIDs(order);
+                if i==1
+                    predictedFluxes = table(exchangeIDs,exchangeMets);
+                end
+                varStr = [{['exp_' cellLines{i}]} cellLines(i)];
+                tempT  = table(experimental,predictions,'VariableNames',varStr);
+                predictedFluxes = [predictedFluxes tempT];
                 %Get biomass exchange index
                 bioIndx = find(strcmpi(exchangeMets,'biomass'));
                 [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(experimental,predictions);
@@ -138,13 +153,8 @@ for i=1:length(cellLines)
     else
         disp(['Not feasible 1: ' cellLines{i}])
     end
-    %write file with experimental and predicted exchange fluxes
-    variables = {'Rxn_ID' 'Metabolite' 'experimental' 'predictions'};
-    T = table(exchangeIDs,exchangeMets,experimental,predictions,'VariableNames',variables);
-    newDir = ['../Results/', cellLines{i}];
-    mkdir(newDir)
-    writetable(T,[newDir '/',fileName1],'QuoteStrings',false,'Delimiter','\t')
 end
+
 %Plot exchange fluxes prediction comparison
 x1 = linspace(-9,1,100);
 plot(x1,x1)
@@ -153,17 +163,22 @@ hold on
 %Write output files
 mkdir ../Results/11_cellLines_NCI60
 cd ../Results/11_cellLines_NCI60
-%write file with different error metrics for all cell lines
-variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
-T         = table(cellLines',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
-writetable(T,fileName2,'QuoteStrings',false,'Delimiter','\t')
-%write file with GRate predictions MAE
-variables = {'cell_Line' 'MAE'};
-T         = table(cellLines',errors_GRates,'VariableNames',variables);
-writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
+
+%%write file with different error metrics for all cell lines
+%variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
+%T         = table(cellLines',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
+%writetable(T,fileName2,'QuoteStrings',false,'Delimiter','\t')
+
+%%write file with GRate predictions MAE
+%variables = {'cell_Line' 'MAE'};
+%T         = table(cellLines',errors_GRates,'VariableNames',variables);
+%writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
+
+%%write file with compared exchange fluxes for all cell-lines
+writetable(predictedFluxes,fileName1,'QuoteStrings',false,'Delimiter','\t')
 meanGRerror = mean(errors_GRates);
-minGRerror  = min(errors_GRates);
-maxGRerror  = max(errors_GRates);
+% minGRerror  = min(errors_GRates);
+% maxGRerror  = max(errors_GRates);
 cd (current)
 end
 %--------------------------------------------------------------------------
