@@ -1,11 +1,10 @@
-function exchModel = setHamsMedium(model,Csource,irrev,measuredMets,fluxes)
+function exchModel = setHamsMedium(model,irrev,measuredMets,fluxes)
 % setHamsMedium
 %
 % Set a Hams culture medium for a humanGEM based model. This function works
 % for either standard or enzyme constrained-GEMs
 %
 %   model           An ihuman-based GEM
-%   Csource         (string) metName for the main carbon source
 %   irrev           (logical) TRUE if model comes in an irreversible format.
 %                   Default = false
 %   measuredMets    (string) metNames for measured compounds. Optional
@@ -17,11 +16,11 @@ function exchModel = setHamsMedium(model,Csource,irrev,measuredMets,fluxes)
 %
 % Ivan Domenzain.      Last edited: 2019-11-29
 
-if nargin<5
+if nargin<4
 	fluxes = [];
-    if nargin<4
+    if nargin<3
     	measuredMets = [];
-        if nargin<3 || isempty(irrev)
+        if nargin<2 || isempty(irrev)
         	irrev = false;
         end
     end
@@ -37,7 +36,7 @@ if ~isempty(boundary)
     model = removeMets(model,boundary,false,false,false,true);
 end
 %Ham's media composition
-mediaComps ={ Csource
+mediaComps ={'glucose'
              'arginine'
              'histidine'
              'lysine'
@@ -97,9 +96,11 @@ if ~isempty(measuredMets)
 end
 
 if ~irrev
+    modelStr = 'model';
     %Set uptake fluxes for media mets
     [exchModel,unusedMets] = setExchangeBounds(model,mediaComps,fluxBounds(:,1),fluxBounds(:,2),true);
 else
+    modelStr = 'ecModel';
     [exchRxns,exchIndxs] = getExchangeRxns(model);
     %Exclude protein pool exchange
     exchIndxs = exchIndxs(1:end-1);
@@ -143,9 +144,9 @@ end
 %Check if model is feasible
 sol = solveLP(exchModel); 
 if ~isempty(sol.x)
-	disp('Constrained model is feasible')
+	disp(['Constrained ' modelStr ' is feasible'])
 else
-    disp('Constrained model is unfeasible')
+    disp(['Constrained ' modelStr ' is unfeasible'])
 	exchModel = [];
 end
 end
