@@ -136,7 +136,7 @@ for i=1:length(cellLines)
                 bioIndx = find(strcmpi(exchangeMets,'biomass'));
                 [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(experimental,predictions);
                 %Calculate mean absolute error for Growth rate predictions
-                errors_GRates(i) = computeErrorMetric(predictions(bioIndx),experimental(bioIndx),'MRE');
+                errors_GRates(i) = computeErrorMetric(experimental(bioIndx),predictions(bioIndx),'MRE');
                 pred_GRates(i)   = predictions(bioIndx);
                 meas_GRates(i)   = experimental(bioIndx);
                 disp(['Relative error for GRate prediction: ' num2str(errors_GRates(i))])
