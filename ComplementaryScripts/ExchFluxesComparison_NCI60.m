@@ -5,10 +5,11 @@ function [meanGRerror,pred_GRates,meas_GRates] = ExchFluxesComparison_NCI60(cons
 % models (from the NCI60 cell-lines) and computes errors in exchange fluxes
 % and growth rate predictions compared to experimental data.
 %
-%   constLevel      (integer) 0 for EMEM constraints, 1 for level0+addition
-%                   of GUR constraint, 2 for Level1+threonin, 3 for Level2+lysine, 
-%                   4 for Level 3+glutamine and 5 for Level 4+serine
-%                   constraint.
+%   constLevel      (integer) 
+%                   0 for setting media composition
+%                   1 for Level0 + addition of GUR constraint
+%                   2 for Level1 + lactate flux constraint
+%                   3 for Level2 + threonine flux constraint
 %   ecFlag          True if ecModels are desired for simulation or false
 %                   for normal models.
 %   fixedBounds     True if bounds are desired to be fixed (lb and ub).
@@ -75,7 +76,7 @@ for i=1:length(cellLines)
     %If both models are feasible
     if ~isempty(ecMsol.x) & ~isempty(GEMsol.x)
         cd Simulation
-        %Set EMEM constraints
+        %Set media composition
         ecModel_batch  = setHamsMedium(ecModel_batch,true);
         model          = setHamsMedium(model,false);
         %Set fixed constraints (nutrients uptakes) 
@@ -278,32 +279,18 @@ if const_level >0
     rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
     value   = fluxes(index);
     model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-    %Threonine exchange bound
+    %L-lactate exchange bound
     if const_level>1
-        index   = strcmpi(expIDs,'HMR_9044');
+        index   = strcmpi(expIDs,'HMR_9135');
         rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
         value   = fluxes(index);
         model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-        %Lysine exchange bound
-        if const_level>2 
-            index   = strcmpi(expIDs,'HMR_9041');
+        %Threonine exchange bound
+        if const_level>2
+            index   = strcmpi(expIDs,'HMR_9044');
             rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
             value   = fluxes(index);
             model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-            %Glutamine exchange bound
-            if const_level>3
-                index   = strcmpi(expIDs,'HMR_9063');
-                rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
-                value   = fluxes(index);
-                model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-                %Serine exchange bound
-                if const_level>4
-                    index   = strcmpi(expIDs,'HMR_9069');
-                    rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
-                    value   = fluxes(index);
-                    model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-                end
-            end
         end
     end
 end
