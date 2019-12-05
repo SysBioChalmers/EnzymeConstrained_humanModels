@@ -7,13 +7,13 @@
 
 cellNames   = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
                {'UO_31'} {'MDMAMB_231'} {'HOP62'} {'NCI_H226'} {'HOP92'} {'O_786'}];
-constraints = [{'media'} {'glucose'} {'threonine'} {'lysine'} {'glutamine'} {'serine'}];
+constraints = [{'media'} {'glucose'} {'L-lactate'} {'threonine'}];
          
 pred_Grates    = [];
 pred_EC_Grates = [];
 meanError      = [];
 mean_EC_error  = [];
-for constLevel = [0 1 2 3 4 5]
+for constLevel = [0 1 2 3]
     %Run growth simulations for ecModels
     [meanErr,pred,meas_GRates] = ExchFluxesComparison_NCI60(constLevel,true,false);
     pred_EC_Grates   = [pred_EC_Grates, pred];
