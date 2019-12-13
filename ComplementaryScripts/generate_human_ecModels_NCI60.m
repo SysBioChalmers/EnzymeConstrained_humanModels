@@ -4,10 +4,10 @@
 % NCI60 cell-lines) with enzyme-constraints with the use of the GECKO
 % pipeline.
 %
-% Ivan Domenzain.      Last edited: 2019-11-20
+% Ivan Domenzain.      Last edited: 2019-12-13
 
 %Clone GECKO and substitute human-specific scripts
-git('clone https://github.com/SysBioChalmers/GECKO.git')
+system('git clone https://github.com/SysBioChalmers/GECKO.git --branch v1.3.5')
 %Replace scripts in GECKO:
 fileNames = dir('GECKO_humanFiles');
 for i = 1:length(fileNames)
