@@ -19,7 +19,7 @@ function results = comparativeFVA_humanModels(cellLine)
 
 current    = pwd;
 %Clone GECKO and pull comparativeFVa branch
-git('clone https://github.com/SysBioChalmers/GECKO.git')
+system('git clone https://github.com/SysBioChalmers/GECKO.git --branch v1.3.5')
 cd GECKO
 GECKO_path = pwd;
 git ('checkout fix/comparative_FVA')
