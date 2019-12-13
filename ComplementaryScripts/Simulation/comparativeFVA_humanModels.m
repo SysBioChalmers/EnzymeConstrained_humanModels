@@ -30,8 +30,8 @@ eval(['model = ' cellLine ';'])
 %Set medium constraints
 cd (current)
 model   = removeMetFields(model);
-model   = setHamsMedium(model,false,'glucose',-1);
-ecModel = setHamsMedium(ecModel_batch,true,'glucose',1);
+model   = setHamsMedium(model,false);
+ecModel = setHamsMedium(ecModel_batch,true);
 evalin( 'base', 'clear(''model_modified'')' )
 evalin( 'base', 'clear(''ecModel_batch'')' )
 %Use GECKO built-in function for FVA comparative analysis
