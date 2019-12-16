@@ -15,14 +15,14 @@ function results = comparativeFVA_humanModels(cellLine)
 %
 % Usage: FVA_Dists = comparativeFVA_humanModels(cellLine)
 %
-%   Ivan Domenzain, 2019-12-05
+%   Ivan Domenzain, 2019-12-16
 
 current    = pwd;
 %Clone GECKO and pull comparativeFVa branch
 system('git clone https://github.com/SysBioChalmers/GECKO.git');
 cd GECKO
 GECKO_path = pwd;
-system('git checkout 388d9ad');
+system('git checkout 7bf22af');
 %Load GEM and ecGEM
 load(['../../../models/' cellLine '/' cellLine '.mat'])
 load(['../../../models/' cellLine '/ecModel_batch.mat'])
