@@ -125,11 +125,18 @@ else
             unusedMets = [unusedMets; mediaComps(i)];
         else
             %Open it!
-            exchModel.ub(metExchRxn) = -fluxBounds(i,1);  % flip sign of LB
+            if fluxBounds(i,1) < 0
+                % if the metabolite is being consumed
+                exchModel.ub(metExchRxn) = abs(fluxBounds(i,1));
+            else
+                exchModel.ub(metExchRxn) = 0;
+            end
             %If the metabolite was measured, also set its production rate
-            if fluxBounds(i,2) ~= 1000
-                metExchRxn = intersect(metRxns,prodIndxs);
-                exchModel.ub(metExchRxn) = fluxBounds(i,2);
+            metExchRxn = intersect(metRxns,prodIndxs);
+            if fluxBounds(i,2) > 0
+                exchModel.ub(metExchRxn) = abs(fluxBounds(i,2));
+            else
+                exchModel.ub(metExchRxn) = 0;
             end
         end
     end
