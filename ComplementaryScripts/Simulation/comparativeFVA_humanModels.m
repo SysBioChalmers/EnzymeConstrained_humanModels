@@ -22,7 +22,7 @@ current    = pwd;
 system('git clone https://github.com/SysBioChalmers/GECKO.git');
 cd GECKO
 GECKO_path = pwd;
-system('git checkout 7bf22af');
+system('git checkout 45804e1');
 %Load GEM and ecGEM
 load(['../../../models/' cellLine '/' cellLine '.mat'])
 load(['../../../models/' cellLine '/ecModel_batch.mat'])
