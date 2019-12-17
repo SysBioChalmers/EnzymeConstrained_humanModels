@@ -89,10 +89,6 @@ filename <- paste0('FVA_comp_',cell_line)
 fva <- read.table(paste0(fpath_fva,filename,'.txt'), header=T, sep='\t')
 fva <- subset(fva, select=-c(formulas, subSystems, rxns))
 
-# remove rows where the non-ecGEM range is < 10e-8
-keep <- fva$model_ranges > 10^-8
-fva <- fva[keep, ]
-
 # sort FVA ranges and add "fraction" column
 fva$model_ranges <- sort(fva$model_ranges)
 fva$ecModel_ranges <- sort(fva$ecModel_ranges)
@@ -104,10 +100,10 @@ colnames(fva_data) <- c('fraction','type','range')
 fva_data$range[fva_data$range == 0] <- min(fva_data$range[fva_data$range > 0])
 fva_data$range <- log10(fva_data$range)
 
-
 # plot
 cpalette <- c('#105284','#8EB9D0')  # light blue and blue
 pdf(paste0(fpath_fva, filename, '.pdf'), width=3.1, height=2.8)
+# pdf(paste0(fpath_fva, filename, '.pdf'), width=2.8, height=2.5)
 ggplot(fva_data, aes(x=range, y=fraction, group=type, color=type)) +
   geom_path(size=1.2, lineend='round') +
   scale_color_manual(values=cpalette) +
@@ -115,8 +111,8 @@ ggplot(fva_data, aes(x=range, y=fraction, group=type, color=type)) +
   theme(text=element_text(size=12),
         axis.text=element_text(color='black'),
         legend.position='none') +
-  coord_cartesian(ylim=c(0,1.01), xlim=c(-10,3.5), expand=F) +
-  scale_x_discrete(limits=c(-10, -7, -4, -1, 2))
+  coord_cartesian(ylim=c(0,1.01), xlim=c(-12.5,3.5), expand=F) +
+  scale_x_discrete(limits=c(-12, -9, -6, -3, 0, 3))
 dev.off()
 
 
