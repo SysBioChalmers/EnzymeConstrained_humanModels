@@ -16,7 +16,7 @@ The ecGEMs are already present in the `models/` subdirectory, but the scripts an
 ## Flux variability analysis
 Flux variability analysis (FVA) (corresponding to the results presented in Fig. 5B) can be run using the `comparativeFVA_humanModels.m` function in the `ComplementaryScripts/Simulation` subdirectory. Specify the name of the model (cell line) for which FVA is to be run; for example:
 
-`results = comparativeFVA_humanModels('HOP92');`
+`results = comparativeFVA_humanModels('HOP62');`
 
 ## Prediction of growth and metabolite exchange rates:
 To use the ecGEMs and non-ecGEMs to predict growth rates and metabolite exchange rates with increasing levels of constraints (as shown in Figs. 5C and 5D), run the `predict_cellLines_gRates.m` script in the `ComplementaryScripts` subdirectory.
