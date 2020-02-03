@@ -4,32 +4,34 @@
 % NCI60 cell-lines) with enzyme-constraints with the use of the GECKO
 % pipeline.
 %
-% Ivan Domenzain.      Last edited: 2019-05-15
+% Ivan Domenzain.      Last edited: 2019-12-13
 
-load('../models/humanGEM_cellLines/11models.mat')
-modelNames = who;
-current    = pwd;
 %Clone GECKO and substitute human-specific scripts
-git('clone https://github.com/SysBioChalmers/GECKO.git')
-GECKO_path =  [current '/GECKO'];
+system('git clone https://github.com/SysBioChalmers/GECKO.git --branch v1.3.5')
 %Replace scripts in GECKO:
 fileNames = dir('GECKO_humanFiles');
 for i = 1:length(fileNames)
     fileName = fileNames(i).name;
-    if ~strcmp(fileName,'.') && ~strcmp(fileName,'..')
+    if ~strcmp(fileName,'.') && ~strcmp(fileName,'..') && ~strcmp(fileName,'.DS_Store')
         fullName   = ['GECKO_humanFiles/' fileName];
         GECKOpath = dir(['GECKO/**/' fileName]);
         GECKOpath = GECKOpath.folder;
         copyfile(fullName,GECKOpath)
     end
 end
+clear
+clc
+load('../models/humanGEM_cellLines/11models.mat')
+modelNames = who;
+current    = pwd;
+GECKO_path =  [current '/GECKO'];
 %Generate enzyme-constrained models
 for i=1:length(modelNames)
     cd (current)
     cellName = modelNames{i};
     mkdir (['../models/' cellName])
     cd (['../models/' cellName])
-    save([cellName '.mat'])
+    save([cellName '.mat'],cellName)
     mkdir Data
     cd (current)
     %Models mat files are saved in their respective folder by enhanceGEM_cellLine

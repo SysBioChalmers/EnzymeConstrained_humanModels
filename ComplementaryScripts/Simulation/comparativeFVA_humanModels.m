@@ -1,4 +1,4 @@
-%function FVA_Dists = comparativeFVA_humanModels(cellLine)
+function results = comparativeFVA_humanModels(cellLine)
 %comparativeFVA_humanModels
 %
 % Function that runs a comparative flux variabiability analysis between a
@@ -8,41 +8,44 @@
 % cellLine  (string) cell-line name (It should be consistent with the name
 %           of the subfolder in which the model is stored.
 %
-% FVA_Dists (2x1 cell) Flux variability distributions for both GEM and
-%           ecGEM in [mmol/gDw h]
+% results   (table) Contains rxnIDs, rxn formulas, Flux variability 
+%           distributions for both GEM and ecGEM in [mmol/gDw h] and
+%           metabolic subSystems for all rxns for which a variability range
+%           in bothmodels was calculated
 %
 % Usage: FVA_Dists = comparativeFVA_humanModels(cellLine)
 %
-%   Ivan Domenzain, 2019-05-16
+%   Ivan Domenzain, 2019-12-16
 
 current    = pwd;
 %Clone GECKO and pull comparativeFVa branch
-git('clone https://github.com/SysBioChalmers/GECKO.git')
+system('git clone https://github.com/SysBioChalmers/GECKO.git');
 cd GECKO
 GECKO_path = pwd;
-git ('checkout fix/comparativeFVA')
-git pull
+system('git checkout 45804e1');
 %Load GEM and ecGEM
-load(['../../../models/humanGEM_cellLines/' cellLine '/model_modified.mat'])
-load(['../../../models/humanGEM_cellLines/' cellLine '/ecModel_batch.mat'])
+load(['../../../models/' cellLine '/' cellLine '.mat'])
+load(['../../../models/' cellLine '/ecModel_batch.mat'])
+eval(['model = ' cellLine ';'])
 %Set medium constraints
-glucBound   = 1;
-oxBound     = 1000;
-stdBound    = 1;
 cd (current)
-model       = removeMetFields(model_modified);
-[model,~]   = setEMEMmedium(model,glucBound,oxBound,stdBound,false);
-[ecModel,~] = setEMEMmedium(ecModel_batch,glucBound,oxBound,stdBound);
+model   = removeMetFields(model);
+model   = setHamsMedium(model,false);
+ecModel = setHamsMedium(ecModel_batch,true);
 evalin( 'base', 'clear(''model_modified'')' )
 evalin( 'base', 'clear(''ecModel_batch'')' )
 %Use GECKO built-in function for FVA comparative analysis
 cd ([GECKO_path '/geckomat/utilities/FVA'])
-CsourceUptk       = 'HMR_9034';
-[FVA_Dists,~,~,~] = comparativeFVA(model,ecModel,CsourceUptk,false);
+CsourceUptk = 'HMR_9034';
+[FVA_Dists,indexes,~,~] = comparativeFVA(model,ecModel,CsourceUptk,false,1E-8);
 cd (current)
-cd (['../../models/humanGEM_cellLines/' cellLine])
-save('FVA_results.mat','FVA_Dists','indexes')
-%end
+%Write results in a table and save it as .txt file
+mkdir('../../Results/FVA')
+variables = {'rxns' 'formulas' 'model_ranges' 'ecModel_ranges' 'subSystems'};
+formulas  = constructEquations(model,indexes);
+results   = table(model.rxns(indexes),formulas,FVA_Dists{1},FVA_Dists{2},model.subSystems(indexes),'VariableNames',variables);
+writetable(results,['../../Results/FVA/FVA_comp_' cellLine],'Delimiter','\t','QuoteStrings',false)
+end
 %--------------------------------------------------------------------------
 function model = removeMetFields(model)
 if isfield(model,'inchis')

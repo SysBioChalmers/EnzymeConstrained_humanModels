@@ -1,92 +1,99 @@
-function [meanGRerror,minGRerror, maxGRerror] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
+function [meanGRerror,pred_GRates,meas_GRates] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
 %ExchFluxesComparison_NCI60
 % 
 % Function that performs pFBA simulations on the 11 cell-line specific
 % models (from the NCI60 cell-lines) and computes errors in exchange fluxes
 % and growth rate predictions compared to experimental data.
 %
-%   constLevel      (integer) 0 for EMEM constraints, 1 for level0+addition
-%                   of GUR constraint, 2 for Level1+threonin, 3 for Level2+lysine, 
-%                   4 for Level 3+glutamine and 5 for Level 4+serine
-%                   constraint.
+%   constLevel      (integer) 
+%                   0 for setting media composition
+%                   1 for Level0 + addition of GUR constraint
+%                   2 for Level1 + lactate flux constraint
+%                   3 for Level2 + threonine flux constraint
 %   ecFlag          True if ecModels are desired for simulation or false
 %                   for normal models.
 %   fixedBounds     True if bounds are desired to be fixed (lb and ub).
 % 
 %   meanGRerror     Mean growth rate prediction relative error across the
 %                   11 cell-line models.
-%   minGRerror      Min growth rate prediction error
-%   maxGRerror      Max growth rate prediction error
+%   pred_GRates     (double) vector containing the 11 cell-Lines growth
+%                   prediction [mmol/gDw h]
+%   meas_GRates     (double) vector containing the 11 cell-Lines growth
+%                   measurements [mmol/gDw h]
 %
-% Usage: [meanGRerror,minGRerror, maxGRerror] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
+% Usage: [meanGRerror,pred_GRates,meas_GRates] = ExchFluxesComparison_NCI60(constLevel,ecFlag,fixedBounds)
 %
-% Ivan Domenzain.      Last edited: 2019-05-15
+% Ivan Domenzain.      Last edited: 2019-12-03
 
 clc
 close all
 current      = pwd;
-cd ../models/humanGEM_cellLines
-modelsFolder = pwd; 
 %Assign specific color code for the different cell-lines
-[folders, colorS] = assignNamesAndColors;
+[cellLines, colorS] = assignNamesAndColors;
 %Open exchange fluxes data file
-fID     = fopen('../../DataFiles/exchangeFluxes_NCI60.txt');
+fID     = fopen('../DataFiles/exchangeFluxes_NCI60.txt');
 expData = textscan(fID,'%s %s %f %f %f %f %f %f %f %f %f %f %f',...
                    'Delimiter','\t','HeaderLines',1);
 %%Save experimental data 
 expIDs = expData{1};expMets = expData{2};expData = expData(3:end);
 %Initialize variables
 legendStr       = {};
-predictedFluxes = zeros(length(expIDs)-1,length(folders));
-errors_ExFlux   = zeros(length(folders),3);
-errors_GRates   = zeros(length(folders),1);
+errors_ExFlux   = zeros(length(cellLines),3);
+errors_GRates   = zeros(length(cellLines),1);
+pred_GRates     = zeros(length(cellLines),1);
+%Create output files name strings
+if ecFlag
+    fileName1 = ['ecModels_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+    fileName2 = ['ecModels_const_' num2str(constLevel) '_errorMetrics.txt'];
+    fileName3 = ['ecModels_const_' num2str(constLevel) '_error_GRate.txt'];
+else
+    fileName1 = ['models_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+    fileName2 = ['models_const_' num2str(constLevel) '_errorMetrics.txt'];
+    fileName3 = ['models_const_' num2str(constLevel) '_error_GRate.txt'];
+end
+
 %For each cell line
-for i=1:length(folders)
+for i=1:length(cellLines)
     %Measured fluxes for the i-th cell-line
     measuredFluxes = expData{i};
-    cellLineStr    = strrep(folders{i},'_','-');
-    cd (modelsFolder)
-    cd (folders{i})
-    mkdir Results
-    disp(folders{i})
-    %Load ecModel and add HepG2 biomass reaction
-    load ecModel_batch.mat
-    load model.mat
+    cellLineStr    = strrep(cellLines{i},'_','-');
+    mkdir (['../models/' cellLines{i} '/Results'])
+    disp(cellLines{i})
+    %Load models
+    load(['../models/' cellLines{i} '/ecModel_batch.mat'])
+    load(['../models/' cellLines{i} '/' cellLines{i} '.mat'])
+    eval(['model =' cellLines{i} ';'])
     model.b = zeros(length(model.mets),1);
-    cd ../../../ComplementaryScripts
-    ecModel_batch  = substituteBiomassRxns(ecModel_batch);
-    model_modified = substituteBiomassRxns(model);
     %Allow any level of average enzyme saturaion (0 - 100%)
-    P_index = find(strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange'));
-    ecModel_batch.ub(P_index) = 0.609*0.5;
+    P_index = strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange');
+    ecModel_batch.ub(P_index) = 0.593;
     %Save models
-    cd ([modelsFolder, '/', folders{i}])
-    save ('ecModel_batch.mat', 'ecModel_batch')
-    save ('model_modified.mat', 'model_modified')
+    %save (['../models/' cellLines{i} '/ecModel_batch.mat'], 'ecModel_batch')
+    %save (['../models/' cellLines{i} '/model.mat'], 'model')
     %Run FBA 
     ecMsol = solveLP(ecModel_batch);
-    GEMsol = solveLP(model_modified);
+    GEMsol = solveLP(model);
     %If both models are feasible
     if ~isempty(ecMsol.x) & ~isempty(GEMsol.x)
-        cd ../../../ComplementaryScripts/Simulation
-        %Set EMEM constraints
-        [ecModel_batch,~]  = setEMEMmedium(ecModel_batch,1000,1000,1000,true);
-        [model_modified,~] = setEMEMmedium(model_modified,1000,1000,1000,false);
+        cd Simulation
+        %Set media composition
+        ecModel_batch  = setHamsMedium(ecModel_batch,true);
+        model          = setHamsMedium(model,false);
         %Set fixed constraints (nutrients uptakes) 
-        ecModel_batch      = setDataConstraints(ecModel_batch,expData{i},expIDs,true,constLevel,fixedBounds);
-        model_modified     = setDataConstraints(model_modified,expData{i},expIDs,false,constLevel,fixedBounds);
+        ecModel_batch = setDataConstraints(ecModel_batch,expData{i},expIDs,true,constLevel,fixedBounds);
+        model         = setDataConstraints(model,expData{i},expIDs,false,constLevel,fixedBounds);
         %Get exchange fluxes and metabolites IDs in the original model
-        model_modified       = rmfield(model_modified,'unconstrained');
-        [EX_IDs,exc_Indexes] = getExchangeRxns(model_modified);
+        %model = rmfield(model,'unconstrained');
+        [EX_IDs,exc_Indexes] = getExchangeRxns(model);
         exchangeMets = {};
         for j=1:length(expIDs)-1
-            metJ         = find(strcmpi(model_modified.rxns,expIDs(j)));
+            metJ         = strcmpi(model.rxns,expIDs(j));
             exchangeMets = [exchangeMets;...
-                model_modified.metNames(find(model_modified.S(:,metJ),1))];
+                model.metNames(find(model.S(:,metJ),1))];
         end
         %Get parsimonious solutions for both models
         ecMsol = minProtSimulation(ecModel_batch);
-        GEMsol = solveLP(model_modified,1);
+        GEMsol = solveLP(model,1);
         %If both models are feasible then save results
         if ~isempty(ecMsol.x) & ~isempty(GEMsol.x)
             %Extract values for exchange fluxes from GEMsol
@@ -95,7 +102,6 @@ for i=1:length(folders)
             exc_ecModel =[];
             %Map each exchange rxn to ecModel_batch
             for j=1:length(exc_Indexes)
-                indexes = [];
                 indexes = rxnMapping(EX_IDs{j},ecModel_batch,true);
                 if length(indexes)>1
                     exc_ecModel = [exc_ecModel; ecMsol.x(indexes(1))-ecMsol.x(indexes(2))];
@@ -106,26 +112,34 @@ for i=1:length(folders)
             %Keep just the exchange fluxes that are also part of the
             %dataset and compare both GEM and ecGEM predictions
             [~,toKeep,order]  = intersect(EX_IDs,expIDs);
-            str               = strrep(folders{i},'_','-');
             if length(toKeep) == length(expIDs(1:end-1))
                 if ecFlag
                     predictions = exc_ecModel(toKeep);
-                    fileName1 =['ecGEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
-                    fileName2 = ['ecGEM_const_' num2str(constLevel) '_errorMetrics.txt'];
-                    fileName3 = ['ecGEM_const_' num2str(constLevel) '_error_GRate.txt'];
+                    fileName1 = ['ecModels_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+                    fileName2 = ['ecModels_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['ecModels_const_' num2str(constLevel) '_error_GRate.txt'];
                 else
                     predictions = exc_Model(toKeep);
-                    fileName1 = ['GEM_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
-                    fileName2 = ['GEM_const_' num2str(constLevel) '_errorMetrics.txt'];
-                    fileName3 = ['GEM_const_' num2str(constLevel) '_error_GRate.txt'];
+                    fileName1 = ['models_const_' num2str(constLevel) '_exchangeFluxesComp.txt'];
+                    fileName2 = ['models_const_' num2str(constLevel) '_errorMetrics.txt'];
+                    fileName3 = ['models_const_' num2str(constLevel) '_error_GRate.txt'];
                 end
-                predictedFluxes(:,i) = predictions;
-                experimental         = measuredFluxes(order);
-                exchangeMets         = exchangeMets(order);
-                exchangeIDs          = expIDs(order);
+                experimental  = measuredFluxes(order);
+                exchangeMets  = exchangeMets(order);
+                exchangeIDs   = expIDs(order);
+                if i==1
+                    predictedFluxes = table(exchangeIDs,exchangeMets);
+                end
+                varStr = [{['exp_' cellLines{i}]} cellLines(i)];
+                tempT  = table(experimental,predictions,'VariableNames',varStr);
+                predictedFluxes = [predictedFluxes tempT];
+                %Get biomass exchange index
+                bioIndx = find(strcmpi(exchangeMets,'biomass'));
                 [Xvalues,Yvalues,direction,errors_ExFlux(i,:)] = getPlotValues(experimental,predictions);
                 %Calculate mean absolute error for Growth rate predictions
-                errors_GRates(i)     = computeErrorMetric(predictions(end),experimental(end),'MRE');
+                errors_GRates(i) = computeErrorMetric(experimental(bioIndx),predictions(bioIndx),'MRE');
+                pred_GRates(i)   = predictions(bioIndx);
+                meas_GRates(i)   = experimental(bioIndx);
                 disp(['Relative error for GRate prediction: ' num2str(errors_GRates(i))])
                 plotDataPoints(Xvalues,Yvalues,colorS(i,:),direction)
                 legendStr = [legendStr; [cellLineStr '/ RSME = ' num2str(errors_ExFlux(i,3))]];
@@ -135,43 +149,43 @@ for i=1:length(folders)
                 disp('Inconsistent mapping')
             end
         else
-            disp(['Not feasible 2: ' folders{i}])
+            disp(['Not feasible 2: ' cellLines{i}])
         end
     else
-        disp(['Not feasible 1: ' folders{i}])
+        disp(['Not feasible 1: ' cellLines{i}])
     end
-    %write file with experimental and predicted exchange fluxes
-    variables = {'Rxn_ID' 'Metabolite' 'experimental' 'predictions'};
-    T = table(exchangeIDs,exchangeMets,experimental,predictions,'VariableNames',variables);
-    writetable(T,[modelsFolder, '/', folders{i},'/Results/',fileName1],'QuoteStrings',false,'Delimiter','\t')
 end
+
 %Plot exchange fluxes prediction comparison
 x1 = linspace(-9,1,100);
 plot(x1,x1)
 legend(legendStr)
 hold on
 %Write output files
-cd (modelsFolder)
-cd ../../Results
-mkdir 11_cellLines_NCI60
-cd 11_cellLines_NCI60
-%write file with different error metrics for all cell lines
-variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
-T         = table(folders',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
-writetable(T,fileName2,'QuoteStrings',false,'Delimiter','\t')
-%write file with GRate predictions MAE
-variables = {'cell_Line' 'MAE'};
-T         = table(folders',errors_GRates,'VariableNames',variables);
-writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
+mkdir ../Results/11_cellLines_NCI60
+cd ../Results/11_cellLines_NCI60
+
+%%write file with different error metrics for all cell lines
+%variables = {'cell_Line' 'pearson' 'MAE' 'RMSE'};
+%T         = table(cellLines',errors_ExFlux(:,1),errors_ExFlux(:,2),errors_ExFlux(:,3),'VariableNames',variables);
+%writetable(T,fileName2,'QuoteStrings',false,'Delimiter','\t')
+
+%%write file with GRate predictions MAE
+%variables = {'cell_Line' 'MAE'};
+%T         = table(cellLines',errors_GRates,'VariableNames',variables);
+%writetable(T,fileName3,'QuoteStrings',false,'Delimiter','\t')
+
+%%write file with compared exchange fluxes for all cell-lines
+writetable(predictedFluxes,fileName1,'QuoteStrings',false,'Delimiter','\t')
 meanGRerror = mean(errors_GRates);
-minGRerror  = min(errors_GRates);
-maxGRerror  = max(errors_GRates);
+% minGRerror  = min(errors_GRates);
+% maxGRerror  = max(errors_GRates);
 cd (current)
 end
 %--------------------------------------------------------------------------
 function [cellNames, colors] = assignNamesAndColors
 cellNames = [{'HS_578T'} {'RPMI_8226'} {'HT29'} {'MALME_3M'} {'SR'}...
-           {'UO_31'} {'MDAMB_231'} {'HOP62'} {'NCI_H226'} {'HOP92'}...
+           {'UO_31'} {'MDMAMB_231'} {'HOP62'} {'NCI_H226'} {'HOP92'}...
            {'O_786'}];
 
 colors    = [0    0    128             %dark blue
@@ -253,8 +267,8 @@ GrowthRate = fluxes(end-1);
 GrowthIndx = find(strcmpi(model.rxns,expIDs(end-1)));
 %model   = setBounds(model,GrowthIndx,value,ecFlag,true);
 if ecFlag
-    Prot_biomass = fluxes(end);         %Total protein content in biomass [g prot/g DW]
-    Prot_pool    = fluxes(end)*0.5*0.75; %Amount of enzymes available for biochemical reactions
+    Prot_biomass = fluxes(end); %Total protein content in biomass [g prot/g DW]
+    Prot_pool    = fluxes(end); %Amount of enzymes available for biochemical reactions
     model        = rescaleBiomassProtein(model,Prot_pool,ecFlag);
 end
 %Glucose exchange bound
@@ -265,32 +279,18 @@ if const_level >0
     rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
     value   = fluxes(index);
     model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-    %Threonine exchange bound
+    %L-lactate exchange bound
     if const_level>1
-        index   = strcmpi(expIDs,'HMR_9044');
+        index   = strcmpi(expIDs,'HMR_9135');
         rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
         value   = fluxes(index);
         model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-        %Lysine exchange bound
-        if const_level>2 
-            index   = strcmpi(expIDs,'HMR_9041');
+        %Threonine exchange bound
+        if const_level>2
+            index   = strcmpi(expIDs,'HMR_9044');
             rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
             value   = fluxes(index);
             model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-            %Glutamine exchange bound
-            if const_level>3
-                index   = strcmpi(expIDs,'HMR_9063');
-                rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
-                value   = fluxes(index);
-                model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-                %Serine exchange bound
-                if const_level>4
-                    index   = strcmpi(expIDs,'HMR_9069');
-                    rxnIndx = find(strcmpi(model.rxns,expIDs(index)));
-                    value   = fluxes(index);
-                    model   = setBounds(model,rxnIndx,value,ecFlag,fixed);
-                end
-            end
         end
     end
 end
@@ -324,10 +324,10 @@ end
 %--------------------------------------------------------------------------
 function model = rescaleBiomassProtein(model,Ptot,constrainPool)
 if nargin <3 
-    gIndex    = find(strcmpi(model.rxns,'HumanGrowth'));
-    protIndex = find(strcmpi(model.metNames,'proteinPool'));
-    coeff     = model.S(protIndex,gIndex); %Extract coeff corresponding to 0.609 g Prot / g Biomass
-    newCoeff  = coeff*Ptot/0.609;
+    gIndex    = find(strcmpi(model.rxns,'biomass_human'));
+    protIndex = find(strcmpi(model.metNames,'protein_pool_biomass'));
+    coeff     = model.S(protIndex,gIndex); %Extract coeff corresponding to 0.593 g Prot / g Biomass
+    newCoeff  = coeff*Ptot/0.593;
     %Rescale stoichiometric coefficient of proteinPool in biomass equation
     model.S(protIndex,gIndex) = newCoeff;
 else
